@@ -1,0 +1,170 @@
+o que devo fazer para que o botão Reiniciar se afaste mais da lateral direita do navegador?
+
+alimento.html
+
+<h1>Jogo da Forca</h1>
+    <div class="button-container">
+        <button id="voltar-menu">Voltar ao Menu</button>
+        <button id="reiniciar">Reiniciar</button>
+    </div>
+
+alimento.css
+ /* Estilos para o container dos botões */
+.button-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+  position: absolute;
+  top: 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Estilos para os botões */
+.button-container button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+.button-container button:hover {
+  background-color: #45a049;
+}
+
+/* Adicione essa linha para afastar o botão "Reiniciar" da lateral direita */
+#reiniciar {
+  margin-right: 20px; /* ajuste o valor para o tamanho desejado */
+}
+
+
+
+/* Estilos para o container dos botões */
+.button-container {
+  display: flex;
+  justify-content: flex-end; /* altera o alinhamento horizontal dos botões */
+  padding: 10px 20px;
+  position: absolute;
+  top: 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Estilos para os botões */
+.button-container button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+.button-container button:hover {
+  background-color: #45a049;
+}
+
+.button-container #reiniciar {
+  margin-right: 20px; /* adiciona uma margem à direita do botão "Reiniciar" */
+}
+
+
+/* Estilos para o container dos botões */
+.button-container {
+  display: flex;
+  justify-content: flex-start; /* Alinhar os botões ao início */
+  padding: 10px 20px;
+  position: absolute;
+  top: 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Estilos para os botões */
+.button-container button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+.button-container button:hover {
+  background-color: #45a049;
+}
+
+/* Estilos específicos para o botão Reiniciar */
+.button-container .botao-reiniciar {
+  margin-left: auto; /* Empurra o botão para a esquerda, dando espaço à direita */
+}
+
+
+
+/* Estilos para o container dos botões */
+.button-container {
+  display: flex;
+  justify-content: flex-start; /* Alinhar os botões ao início */
+  padding: 10px 20px;
+  position: absolute;
+  top: 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Estilos para os botões */
+.button-container button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+.button-container button:hover {
+  background-color: #45a049;
+}
+
+/* Estilos específicos para o botão Reiniciar */
+#reiniciar {
+  margin-left: auto; /* Empurra o botão para a esquerda, dando espaço à direita */
+}
+
+
+/* Estilos para o container dos botões */
+.button-container {
+  display: flex;
+  justify-content: flex-start; /* Alinhar os botões ao início */
+  padding: 10px 20px;
+  position: absolute;
+  top: 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Estilos para os botões */
+.button-container button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+.button-container button:hover {
+  background-color: #45a049;
+}
+
+/* Estilos específicos para o botão Reiniciar */
+.button-container .botao-reiniciar {
+  margin-left: auto; /* Empurra o botão para a esquerda, dando espaço à direita */
+}
