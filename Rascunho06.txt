@@ -1,0 +1,1736 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bíblia Sagrada</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Bíblia Sagrada</h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Início</a></li>
+                    <li><a href="#">Livros</a></li>
+                    <li><a href="#">Planos de Leitura</a></li>
+                    <li><a href="#">Baixar</a></li>
+                    <li><a href="#">Perfil</a></li>
+                </ul>
+            </nav>
+            <div class="search-bar">
+                <input type="text" placeholder="Digite o termo de busca">
+                <button>Buscar</button>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <aside>
+                <h2>LIVROS</h2>
+                <ul>
+                    <li><a href="#">Lucas</a></li>
+                    <li><a href="#">João</a></li>
+                    <li><a href="#">Atos</a></li>
+                    <li><a href="#">Romanos</a></li>
+                    <li><a href="#">1º Coríntios</a></li>
+                    <li><a href="#">2º Coríntios</a></li>
+                    <li><a href="#">Gálatas</a></li>
+                    <li><a href="#">Efésios</a></li>
+                    <li><a href="#">Filipenses</a></li>
+                    <li><a href="#">Colossenses</a></li>
+                    <li><a href="#">1º Tessalonicenses</a></li>
+                    <li><a href="#">2º Tessalonicenses</a></li>
+                    <li><a href="#">1º Timóteo</a></li>
+                    <li><a href="#">2º Timóteo</a></li>
+                    <li><a href="#">Tito</a></li>
+                    <li><a href="#">Filemom</a></li>
+                    <li><a href="#">Hebreus</a></li>
+                    <li><a href="#">Tiago</a></li>
+                    <li><a href="#">1º Pedro</a></li>
+                    <li><a href="#">2º Pedro</a></li>
+                    <li><a href="#">1º João</a></li>
+                    <li><a href="#">2º João</a></li>
+                    <li><a href="#">3º João</a></li>
+                    <li><a href="#">Judas</a></li>
+                    <li><a href="#">Apocalipse</a></li>
+                </ul>
+            </aside>
+
+            <section>
+                <p>Conteúdo da página...</p>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>© Bíblia Sagrada 2024</p>
+        </div>
+    </footer>
+</body>
+</html>
+
+
+body {
+    font-family: sans-serif;
+    background-color: #222;
+    color: #fff;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background-color: #333;
+    padding: 20px 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    margin-top: 20px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.search-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.search-bar input {
+    padding: 8px;
+    border: none;
+    border-radius: 5px 0 0 5px;
+    background-color: #fff;
+    color: #222;
+}
+
+.search-bar button {
+    padding: 8px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+}
+
+main {
+    padding: 20px 0;
+}
+
+aside {
+    background-color: #333;
+    padding: 20px;
+    margin-right: 20px;
+}
+
+aside h2 {
+    margin-top: 0;
+}
+
+aside ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+aside li {
+    margin-bottom: 10px;
+}
+
+aside a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    flex: 1;
+}
+
+footer {
+    background-color: #333;
+    padding: 20px 0;
+    text-align: center;
+}
+
+
+// Script.js (para interagir com a página web)
+
+// Função para manipular a barra de pesquisa
+const searchBar = document.querySelector('.search-bar');
+const searchInput = searchBar.querySelector('input');
+const searchButton = searchBar.querySelector('button');
+
+searchButton.addEventListener('click', () => {
+  const searchTerm = searchInput.value.trim();
+  // Aqui você pode implementar o comportamento da busca
+  // Por exemplo, enviar o termo para um servidor ou filtrar o conteúdo da página.
+  console.log('Termo de busca:', searchTerm);
+});
+
+// Função para alternar o menu de livros
+const livrosMenu = document.querySelector('aside ul');
+const livrosMenuButton = document.querySelector('aside h2');
+
+livrosMenuButton.addEventListener('click', () => {
+  livrosMenu.classList.toggle('show');
+});
+
+// Função para exibir o conteúdo da página (opcional)
+function showContent(content) {
+  const section = document.querySelector('section');
+  section.innerHTML = content;
+}
+
+// Exemplo de conteúdo para a seção principal
+const exampleContent = `
+  <h2>Introdução</h2>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed diam eget risus varius blandit sit amet non magna. Donec sed odio dui.</p>
+`;
+
+// Exibe o conteúdo na seção principal (opcional)
+showContent(exampleContent);
+
+
+
+<nav>
+    <h2>LIVROS</h2>
+    <ul>
+        <li><a href="#">Lucas</a></li>
+        ...
+    </ul>
+</nav>
+
+
+
+
+<div class="menu-livros">
+    <h2>LIVROS</h2>
+    <ul>
+        <li><a href="#">Lucas</a></li>
+        ...
+    </ul>
+</div>
+
+
+
+index.html 
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bíblia Sagrada</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Bíblia Sagrada</h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Início</a></li>
+                    <li><a href="#">Livros</a></li>
+                    <li><a href="#">Planos de Leitura</a></li>
+                    <li><a href="#">Baixar</a></li>
+                    <li><a href="#">Perfil</a></li>
+                </ul>
+            </nav>
+            <div class="search-bar">
+                <input type="text" placeholder="Digite o termo de busca">
+                <button>Buscar</button>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <aside class="menu-livros">
+                <h2>LIVROS</h2>
+                <ul>
+                    <li><a href="#" data-livro="genesis">Gênesis</a></li>
+                    <li><a href="#" data-livro="exodo">Êxodo</a></li>
+                    <li><a href="#" data-livro="levitico">Levítico</a></li>
+                    <li><a href="#" data-livro="numeros">Números</a></li>
+                    <li><a href="#" data-livro="deuteronomio">Deuteronômio</a></li>
+                    <li><a href="#" data-livro="josue">Josué</a></li>
+                    <li><a href="#" data-livro="juizes">Juízes</a></li>
+                    <li><a href="#" data-livro="rute">Rute</a></li>
+                    <li><a href="#" data-livro="1samuel">1º Samuel</a></li>
+                    <li><a href="#" data-livro="2samuel">2º Samuel</a></li>
+                    <li><a href="#" data-livro="1reis">1º Reis</a></li>
+                    <li><a href="#" data-livro="2reis">2º Reis</a></li>
+                    <li><a href="#" data-livro="1cronicas">1º Crônicas</a></li>
+                    <li><a href="#" data-livro="2cronicas">2º Crônicas</a></li>
+                    <li><a href="#" data-livro="esdras">Esdras</a></li>
+                    <li><a href="#" data-livro="neemias">Neemias</a></li>
+                    <li><a href="#" data-livro="ester">Ester</a></li>
+                    <li><a href="#" data-livro="jo">Jó</a></li>
+                    <li><a href="#" data-livro="salmos">Salmos</a></li>
+                    <li><a href="#" data-livro="proverbios">Provérbios</a></li>
+                    <li><a href="#" data-livro="eclesiastes">Eclesiastes</a></li>
+                    <li><a href="#" data-livro="cantares">Cantares</a></li>
+                    <li><a href="#" data-livro="isaias">Isaías</a></li>
+                    <li><a href="#" data-livro="jeremias">Jeremias</a></li>
+                    <li><a href="#" data-livro="lamentacoes">Lamentações</a></li>
+                </ul>
+            </aside>
+
+            <section class="content">
+                <!-- Conteúdo da página será exibido aqui -->
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>© Bíblia Sagrada 2024</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+style
+body {
+    font-family: sans-serif;
+    background-color: #222;
+    color: #fff;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background-color: #333;
+    padding: 20px 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    margin-top: 20px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.search-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.search-bar input {
+    padding: 8px;
+    border: none;
+    border-radius: 5px 0 0 5px;
+    background-color: #fff;
+    color: #222;
+}
+
+.search-bar button {
+    padding: 8px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+}
+
+main {
+    padding: 20px 0;
+}
+
+.menu-livros {
+    background-color: #333;
+    padding: 20px;
+    margin-right: 20px;
+}
+
+.menu-livros h2 {
+    margin-top: 0;
+}
+
+.menu-livros ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu-livros li {
+    margin-bottom: 10px;
+}
+
+.menu-livros a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.content h2 {
+    margin-top: 0;
+}
+
+.content .capitulos {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.content .capitulos button {
+    padding: 8px 16px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.content .versiculos {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.content .versiculos button {
+    padding: 8px 16px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #333;
+    padding: 20px 0;
+    text-align: center;
+}
+
+
+
+script 
+// Armazena os capítulos e versículos de cada livro da Bíblia
+const livros = {
+    "genesis": {
+        "capitulos": 50,
+        "versiculos": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50]
+    },
+    // Adicione os outros livros aqui
+};
+
+// Função para criar os botões de capítulos
+function createCapitulosButtons(livro) {
+    const capitulos = livros[livro].capitulos;
+    const capitulosContainer = document.createElement('div');
+    capitulosContainer.classList.add('capitulos');
+
+    for (let i = 1; i <= capitulos; i++) {
+        const button = document.createElement('button');
+        button.textContent = `Cap. ${i}`;
+        button.addEventListener('click', () => {
+            showVersiculos(livro, i);
+        });
+        capitulosContainer.appendChild(button);
+    }
+    return capitulosContainer;
+}
+
+// Função para criar os botões de versículos
+function createVersiculosButtons(livro, capitulo) {
+    const versiculos = livros[livro].versiculos;
+    const versiculosContainer = document.createElement('div');
+    versiculosContainer.classList.add('versiculos');
+
+    for (let i = 0; i < versiculos.length; i++) {
+        const button = document.createElement('button');
+        button.textContent = `Vers. ${versiculos[i]}`;
+        versiculosContainer.appendChild(button);
+    }
+    return versiculosContainer;
+}
+
+// Função para exibir os versículos
+function showVersiculos(livro, capitulo) {
+    const content = document.querySelector('.content');
+    content.innerHTML = `<h2>${livro.toUpperCase()} - CAPÍTULO ${capitulo}</h2>`;
+    content.appendChild(createVersiculosButtons(livro, capitulo));
+}
+
+// Função para carregar o livro
+function loadBook(livro) {
+    const content = document.querySelector('.content');
+    content.innerHTML = `<h2>${livro.toUpperCase()}</h2>`;
+    content.appendChild(createCapitulosButtons(livro));
+}
+
+// Adiciona eventos de clique aos links dos livros
+const livrosLinks = document.querySelectorAll('.menu-livros a');
+livrosLinks.forEach(link => {
+    link.addEventListener('click', (event) => {
+        event.preventDefault();
+        const livro = link.dataset.livro;
+        loadBook(livro);
+    });
+});
+
+
+
+bíblia/
+├── genesis/
+│   ├── 01.txt
+│   ├── 02.txt
+│   ├── ...
+│   └── 50.txt
+├── exodo/
+│   ├── 01.txt
+│   ├── 02.txt
+│   ├── ...
+│   └── 40.txt
+├── levitico/
+│   ├── 01.txt
+│   ├── 02.txt
+│   ├── ...
+│   └── 27.txt
+└── ... (os demais livros da Bíblia)
+
+1:1 No princípio criou Deus os céus e a terra.
+1:2 E a terra era sem forma e vazia; e havia trevas sobre a face do abismo; e o Espírito de Deus movia-se sobre a face das águas.
+1:3 E disse Deus: Haja luz; e houve luz.
+1:4 E viu Deus que a luz era boa; e separou Deus a luz das trevas.
+1:5 E chamou Deus à luz Dia; e às trevas chamou Noite. E foi a tarde e a manhã, o dia primeiro.
+1:6 E disse Deus: Haja um firmamento no meio das águas, e separe as águas das águas.
+1:7 E fez Deus o firmamento, e separou as águas que estavam debaixo do firmamento das águas que estavam por cima do firmamento; e foi assim.
+1:8 E chamou Deus ao firmamento Céu. E foi a tarde e a manhã, o dia segundo.
+1:9 E disse Deus: Ajuntem-se as águas que estão debaixo dos céus num só lugar, e apareça a porção seca; e foi assim.
+1:10 E chamou Deus à porção seca Terra; e ao ajuntamento das águas chamou Mares; e viu Deus que era bom.
+1:11 E disse Deus: Produza a terra erva verde, erva que dê semente, árvore frutífera que faça fruto sobre a terra, segundo a sua espécie, em que esteja a sua semente; e foi assim.
+1:12 E a terra produziu erva verde, erva que deu semente, segundo a sua espécie, e árvore que fez fruto, em que estava a sua semente, segundo a sua espécie; e viu Deus que era bom.
+1:13 E foi a tarde e a manhã, o dia terceiro.
+1:14 E disse Deus: Haja luminares na expansão dos céus, para dividir o dia da noite; e sejam eles para sinais, e para tempos, e para dias e anos;
+1:15 E sirvam de luminares na expansão dos céus, para iluminar a terra; e foi assim.
+1:16 E fez Deus os dois grandes luminares: o luminar maior para governar o dia, e o luminar menor para governar a noite; e fez as estrelas.
+1:17 E pôs Deus os luminares na expansão dos céus para iluminar a terra,
+1:18 e para governar o dia e a noite, e para dividir a luz das trevas; e viu Deus que era bom.
+1:19 E foi a tarde e a manhã, o dia quarto.
+1:20 E disse Deus: Agitem-se as águas, e produzam abundantemente répteis com vida, e ave que voe sobre a terra, na expansão dos céus.
+1:21 E criou Deus os grandes monstros marinhos, e toda a espécie de répteis com vida que as águas produziram abundantemente, e toda a ave que voa, segundo a sua espécie; e viu Deus que era bom.
+1:22 E Deus os abençoou, dizendo: Frutificai e multiplicai-vos, e enchei as águas nos mares; e as aves se multipliquem na terra.
+1:23 E foi a tarde e a manhã, o dia quinto.
+1:24 E disse Deus: Produza a terra seres viventes, segundo a sua espécie: gado, répteis e animais selvagens da terra, segundo a sua espécie; e foi assim.
+1:25 E fez Deus os animais selvagens da terra, segundo a sua espécie, e o gado, segundo a sua espécie, e todo o réptil da terra, segundo a sua espécie; e viu Deus que era bom.
+1:26 E disse Deus: Façamos o homem à nossa imagem, conforme a nossa semelhança; e domine sobre os peixes do mar, e sobre as aves dos céus, e sobre o gado, e sobre toda a terra, e sobre todo o réptil que se move sobre a terra.
+1:27 E criou Deus o homem à sua imagem; à imagem de Deus o criou; homem e mulher os criou.
+1:28 E Deus os abençoou, e Deus lhes disse: Frutificai e multiplicai-vos, e enchei a terra, e sujeitai-a; e dominai sobre os peixes do mar, e sobre as aves dos céus, e sobre todo o animal que se move sobre a terra.
+1:29 E disse Deus: Eis que vos tenho dado toda a erva que dá semente, que está sobre a face de toda a terra, e toda a árvore que tem fruto que dá semente; ser-vos-ão para alimento.
+1:30 E a todo o animal da terra, e a toda a ave dos céus, e a todo o réptil que se move sobre a terra, em que há fôlego de vida, tenho dado toda a erva verde para alimento; e foi assim.
+1:31 E viu Deus tudo quanto tinha feito, e eis que era muito bom. E foi a tarde e a manhã, o dia sexto.
+
+
+
+// ... (restante do código JavaScript)
+
+// Função para carregar o conteúdo de um versículo
+async function loadVersiculo(livro, capitulo, versiculo) {
+    const response = await fetch(`bíblia/${livro}/${capitulo}.txt`);
+    const text = await response.text();
+
+    // Buscar o versículo específico no arquivo
+    const versiculos = text.split('\n');
+    const versiculoText = versiculos[versiculo - 1]; 
+
+    // Exibir o versículo
+    const content = document.querySelector('.content');
+    content.innerHTML = `<h2>${livro.toUpperCase()} - CAPÍTULO ${capitulo} - VERSÍCULO ${versiculo}</h2>`;
+    content.innerHTML += `<p>${versiculoText}</p>`;
+}
+
+// Função para criar os botões de versículos
+function createVersiculosButtons(livro, capitulo) {
+    // ... (restante da função)
+
+    button.addEventListener('click', () => {
+        loadVersiculo(livro, capitulo, versiculos[i]);
+    });
+
+    // ... (restante da função)
+}
+
+// ... (restante do código JavaScript)
+
+
+
+bíblia/genesis/01.html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Gênesis - Capítulo 1</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <h2>Gênesis - Capítulo 1</h2>
+    <div class="versiculos">
+        <p>1:1 No princípio criou Deus os céus e a terra.</p>
+        <p>1:2 E a terra era sem forma e vazia; e havia trevas sobre a face do abismo; e o Espírito de Deus movia-se sobre a face das águas.</p>
+        <p>1:3 E disse Deus: Haja luz; e houve luz.</p>
+        <!-- ... (os demais versículos) -->
+    </div>
+</body>
+</html>
+
+style
+/* ... (restante do CSS) */
+
+.versiculos p {
+    margin-bottom: 10px;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: justify; /* Alinha o texto à esquerda e à direita */
+}
+
+.versiculos p:first-child {
+    text-indent: 2em; /* Recuo no primeiro parágrafo */
+}
+
+.versiculos p span {
+    font-weight: bold; /* Estilo para o número do versículo */
+}
+
+script 
+// ... (restante do código JavaScript)
+
+// Função para carregar o conteúdo de um versículo
+async function loadVersiculo(livro, capitulo, versiculo) {
+    const response = await fetch(`bíblia/${livro}/${capitulo}.html`);
+    const html = await response.text();
+
+    // Exibir o versículo
+    const content = document.querySelector('.content');
+    content.innerHTML = html; 
+}
+
+// Função para criar os botões de versículos
+function createVersiculosButtons(livro, capitulo) {
+    // ... (restante da função)
+
+    button.addEventListener('click', () => {
+        loadVersiculo(livro, capitulo, versiculos[i]);
+    });
+
+    // ... (restante da função)
+}
+
+// ... (restante do código JavaScript)
+
+
+
+index
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bíblia Sagrada</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Bíblia Sagrada</h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Início</a></li>
+                    <li><a href="#">Livros</a></li>
+                    <li><a href="#">Planos de Leitura</a></li>
+                    <li><a href="#">Baixar</a></li>
+                    <li><a href="#">Perfil</a></li>
+                </ul>
+            </nav>
+            <div class="search-bar">
+                <input type="text" placeholder="Digite o termo de busca">
+                <button>Buscar</button>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <aside class="menu-livros">
+                <h2>LIVROS</h2>
+                <ul>
+                    <li><a href="#" data-livro="genesis">Gênesis</a></li>
+                    <li><a href="#" data-livro="exodo">Êxodo</a></li>
+                    <li><a href="#" data-livro="levitico">Levítico</a></li>
+                    <li><a href="#" data-livro="numeros">Números</a></li>
+                    <li><a href="#" data-livro="deuteronomio">Deuteronômio</a></li>
+                    <li><a href="#" data-livro="josue">Josué</a></li>
+                    <li><a href="#" data-livro="juizes">Juízes</a></li>
+                    <li><a href="#" data-livro="rute">Rute</a></li>
+                    <li><a href="#" data-livro="1samuel">1º Samuel</a></li>
+                    <li><a href="#" data-livro="2samuel">2º Samuel</a></li>
+                    <li><a href="#" data-livro="1reis">1º Reis</a></li>
+                    <li><a href="#" data-livro="2reis">2º Reis</a></li>
+                    <li><a href="#" data-livro="1cronicas">1º Crônicas</a></li>
+                    <li><a href="#" data-livro="2cronicas">2º Crônicas</a></li>
+                    <li><a href="#" data-livro="esdras">Esdras</a></li>
+                    <li><a href="#" data-livro="neemias">Neemias</a></li>
+                    <li><a href="#" data-livro="ester">Ester</a></li>
+                    <li><a href="#" data-livro="jo">Jó</a></li>
+                    <li><a href="#" data-livro="salmos">Salmos</a></li>
+                    <li><a href="#" data-livro="proverbios">Provérbios</a></li>
+                    <li><a href="#" data-livro="eclesiastes">Eclesiastes</a></li>
+                    <li><a href="#" data-livro="cantares">Cantares</a></li>
+                    <li><a href="#" data-livro="isaias">Isaías</a></li>
+                    <li><a href="#" data-livro="jeremias">Jeremias</a></li>
+                    <li><a href="#" data-livro="lamentacoes">Lamentações</a></li>
+                    <li><a href="#" data-livro="ezequiel">Ezequiel</a></li>
+                    <li><a href="#" data-livro="daniel">Daniel</a></li>
+                    <li><a href="#" data-livro="oseias">Oseias</a></li>
+                    <li><a href="#" data-livro="joel">Joel</a></li>
+                    <li><a href="#" data-livro="amos">Amós</a></li>
+                    <li><a href="#" data-livro="obadias">Obadias</a></li>
+                    <li><a href="#" data-livro="jonas">Jonas</a></li>
+                    <li><a href="#" data-livro="miqueias">Miqueias</a></li>
+                    <li><a href="#" data-livro="naum">Naum</a></li>
+                    <li><a href="#" data-livro="habacuque">Habacuque</a></li>
+                    <li><a href="#" data-livro="sofonias">Sofonias</a></li>
+                    <li><a href="#" data-livro="ageu">Ageu</a></li>
+                    <li><a href="#" data-livro="zacarias">Zacarias</a></li>
+                    <li><a href="#" data-livro="malaquias">Malaquias</a></li>
+                    <li><a href="#" data-livro="mateus">Mateus</a></li>
+                    <li><a href="#" data-livro="marcos">Marcos</a></li>
+                    <li><a href="#" data-livro="lucas">Lucas</a></li>
+                    <li><a href="#" data-livro="joao">João</a></li>
+                    <li><a href="#" data-livro="atos">Atos</a></li>
+                    <li><a href="#" data-livro="romanos">Romanos</a></li>
+                    <li><a href="#" data-livro="1corintios">1º Coríntios</a></li>
+                    <li><a href="#" data-livro="2corintios">2º Coríntios</a></li>
+                    <li><a href="#" data-livro="galatas">Gálatas</a></li>
+                    <li><a href="#" data-livro="efesios">Efésios</a></li>
+                    <li><a href="#" data-livro="filipenses">Filipenses</a></li>
+                    <li><a href="#" data-livro="colossenses">Colossenses</a></li>
+                    <li><a href="#" data-livro="1tessaloniceses">1º Tessalonicenses</a></li>
+                    <li><a href="#" data-livro="2tessaloniceses">2º Tessalonicenses</a></li>
+                    <li><a href="#" data-livro="1timoteo">1º Timóteo</a></li>
+                    <li><a href="#" data-livro="2timoteo">2º Timóteo</a></li>
+                    <li><a href="#" data-livro="tito">Tito</a></li>
+                    <li><a href="#" data-livro="filemom">Filemom</a></li>
+                    <li><a href="#" data-livro="hebreus">Hebreus</a></li>
+                    <li><a href="#" data-livro="tiago">Tiago</a></li>
+                    <li><a href="#" data-livro="1pedro">1º Pedro</a></li>
+                    <li><a href="#" data-livro="2pedro">2º Pedro</a></li>
+                    <li><a href="#" data-livro="1joao">1º João</a></li>
+                    <li><a href="#" data-livro="2joao">2º João</a></li>
+                    <li><a href="#" data-livro="3joao">3º João</a></li>
+                    <li><a href="#" data-livro="judas">Judas</a></li>
+                    <li><a href="#" data-livro="apocalipse">Apocalipse</a></li>
+                </ul>
+            </aside>
+
+            <section class="content">
+                <!-- Conteúdo da página será exibido aqui -->
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>© Bíblia Sagrada 2024</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+css
+body {
+    font-family: sans-serif;
+    background-color: #222;
+    color: #fff;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background-color: #333;
+    padding: 20px 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    margin-top: 20px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.search-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.search-bar input {
+    padding: 8px;
+    border: none;
+    border-radius: 5px 0 0 5px;
+    background-color: #fff;
+    color: #222;
+}
+
+.search-bar button {
+    padding: 8px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+}
+
+main {
+    padding: 20px 0;
+}
+
+.menu-livros {
+    background-color: #333;
+    padding: 20px;
+    margin-right: 20px;
+}
+
+.menu-livros h2 {
+    margin-top: 0;
+}
+
+.menu-livros ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu-livros li {
+    margin-bottom: 10px;
+}
+
+.menu-livros a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.content h2 {
+    margin-top: 0;
+}
+
+.content .capitulos {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.content .capitulos button {
+    padding: 8px 16px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.content .versiculos {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.content .versiculos button {
+    padding: 8px 16px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #333;
+    padding: 20px 0;
+    text-align: center;
+}
+
+/* Estilização dos versículos */
+.content .versiculos p {
+    margin-bottom: 10px;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: justify; /* Alinha o texto à esquerda e à direita */
+}
+
+.content .versiculos p:first-child {
+    text-indent: 2em; /* Recuo no primeiro parágrafo */
+}
+
+.content .versiculos p span {
+    font-weight: bold; /* Estilo para o número do versículo */
+}
+
+script 
+// Armazena os capítulos e versículos de cada livro da Bíblia
+const livros = {
+    "genesis": {
+        "capitulos": 50
+    },
+    "exodo": {
+        "capitulos": 40
+    },
+    "levitico": {
+        "capitulos": 27
+    },
+    "numeros": {
+        "capitulos": 36
+    },
+    "deuteronomio": {
+        "capitulos": 34
+    },
+    "josue": {
+        "capitulos": 24
+    },
+    "juizes": {
+        "capitulos": 21
+    },
+    "rute": {
+        "capitulos": 4
+    },
+    "1samuel": {
+        "capitulos": 31
+    },
+    "2samuel": {
+        "capitulos": 24
+    },
+    "1reis": {
+        "capitulos": 22
+    },
+    "2reis": {
+        "capitulos": 25
+    },
+    "1cronicas": {
+        "capitulos": 29
+    },
+    "2cronicas": {
+        "capitulos": 36
+    },
+    "esdras": {
+        "capitulos": 10
+    },
+    "neemias": {
+        "capitulos": 13
+    },
+    "ester": {
+        "capitulos": 10
+    },
+    "jo": {
+        "capitulos": 42
+    },
+    "salmos": {
+        "capitulos": 150
+    },
+    "proverbios": {
+        "capitulos": 31
+    },
+    "eclesiastes": {
+        "capitulos": 12
+    },
+    "cantares": {
+        "capitulos": 8
+    },
+    "isaias": {
+        "capitulos": 66
+    },
+    "jeremias": {
+        "capitulos": 52
+    },
+    "lamentacoes": {
+        "capitulos": 5
+    },
+    "ezequiel": {
+        "capitulos": 48
+    },
+    "daniel": {
+        "capitulos": 12
+    },
+    "oseias": {
+        "capitulos": 14
+    },
+    "joel": {
+        "capitulos": 3
+    },
+    "amos": {
+        "capitulos": 9
+    },
+    "obadias": {
+        "capitulos": 1
+    },
+    "jonas": {
+        "capitulos": 4
+    },
+    "miqueias": {
+        "capitulos": 7
+    },
+    "naum": {
+        "capitulos": 3
+    },
+    "habacuque": {
+        "capitulos": 3
+    },
+    "sofonias": {
+        "capitulos": 3
+    },
+    "ageu": {
+        "capitulos": 2
+    },
+    "zacarias": {
+        "capitulos": 14
+    },
+    "malaquias": {
+        "capitulos": 4
+    },
+    "mateus": {
+        "capitulos": 28
+    },
+    "marcos": {
+        "capitulos": 16
+    },
+    "lucas": {
+        "capitulos": 24
+    },
+    "joao": {
+        "capitulos": 21
+    },
+    "atos": {
+        "capitulos": 28
+    },
+    "romanos": {
+        "capitulos": 16
+    },
+    "1corintios": {
+        "capitulos": 16
+    },
+    "2corintios": {
+        "capitulos": 13
+    },
+    "galatas": {
+        "capitulos": 6
+    },
+    "efesios": {
+        "capitulos": 6
+    },
+    "filipenses": {
+        "capitulos": 4
+    },
+    "colossenses": {
+        "capitulos": 4
+    },
+    "1tessaloniceses": {
+        "capitulos": 5
+    },
+    "2tessaloniceses": {
+        "capitulos": 3
+    },
+    "1timoteo": {
+        "capitulos": 6
+    },
+    "2timoteo": {
+        "capitulos": 4
+    },
+    "tito": {
+        "capitulos": 3
+    },
+    "filemom": {
+        "capitulos": 1
+    },
+    "hebreus": {
+        "capitulos": 13
+    },
+    "tiago": {
+        "capitulos": 5
+    },
+    "1pedro": {
+        "capitulos": 5
+    },
+    "2pedro": {
+        "capitulos": 3
+    },
+    "1joao": {
+        "capitulos": 5
+    },
+    "2joao": {
+        "capitulos": 1
+    },
+    "3joao": {
+        "capitulos": 1
+    },
+    "judas": {
+        "capitulos": 1
+    },
+    "apocalipse": {
+        "capitulos": 22
+    }
+};
+
+// Função para criar os botões de capítulos
+function createCapitulosButtons(livro) {
+    const capitulos = livros[livro].capitulos;
+    const capitulosContainer = document.createElement('div');
+    capitulosContainer.classList.add('capitulos');
+
+    for (let i = 1; i <= capitulos; i++) {
+        const button = document.createElement('button');
+        button.textContent = `Cap. ${i}`;
+        button.addEventListener('click', () => {
+            showVersiculos(livro, i);
+        });
+        capitulosContainer.appendChild(button);
+    }
+    return capitulosContainer;
+}
+
+// Função para carregar o conteúdo de um versículo
+async function loadVersiculo(livro, capitulo) {
+    const response = await fetch(`bíblia/${livro}/${capitulo}.html`);
+    const html = await response.text();
+
+    // Exibir o versículo
+    const content = document.querySelector('.content');
+    content.innerHTML = html; 
+}
+
+// Função para exibir os versículos
+function showVersiculos(livro, capitulo) {
+    const content = document.querySelector('.content');
+    content.innerHTML = `<h2>${livro.toUpperCase()} - CAPÍTULO ${capitulo}</h2>`;
+    content.appendChild(createVersiculosButtons(livro, capitulo));
+}
+
+// Função para carregar o livro
+function loadBook(livro) {
+    const content = document.querySelector('.content');
+    content.innerHTML = `<h2>${livro.toUpperCase()}</h2>`;
+    content.appendChild(createCapitulosButtons(livro));
+}
+
+// Adiciona eventos de clique aos links dos livros
+const livrosLinks = document.querySelectorAll('.menu-livros a');
+livrosLinks.forEach(link => {
+    link.addEventListener('click', (event) => {
+        event.preventDefault();
+        const livro = link.dataset.livro;
+        loadBook(livro);
+    });
+});
+
+// Função para criar os botões de versículos
+function createVersiculosButtons(livro, capitulo) {
+    const versiculosContainer = document.createElement('div');
+    versiculosContainer.classList.add('versiculos');
+
+    for (let i = 1; i <= livros[livro].capitulos; i++) {
+        const button = document.createElement('button');
+        button.textContent = `Vers. ${i}`;
+        button.addEventListener('click', () => {
+            loadVersiculo(livro, capitulo, i);
+        });
+        versiculosContainer.appendChild(button);
+    }
+    return versiculosContainer;
+}
+
+
+
+
+bíblia/
+├── genesis/
+│   ├── 01.html
+│   ├── 02.html
+│   ├── ...
+│   └── 50.html
+├── exodo/
+│   ├── 01.html
+│   ├── 02.html
+│   ├── ...
+│   └── 40.html
+├── levitico/
+│   ├── 01.html
+│   ├── 02.html
+│   ├── ...
+│   └── 27.html
+└── ... (os demais livros da Bíblia)
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Gênesis - Capítulo 1</title>
+    <link rel="stylesheet" href="../../styles.css">
+</head>
+<body>
+    <h2>Gênesis - Capítulo 1</h2>
+    <div class="versiculos">
+        <p>1:1 No princípio criou Deus os céus e a terra.</p>
+        <p>1:2 E a terra era sem forma e vazia; e havia trevas sobre a face do abismo; e o Espírito de Deus movia-se sobre a face das águas.</p>
+        <p>1:3 E disse Deus: Haja luz; e houve luz.</p>
+        <!-- ... (os demais versículos) -->
+    </div>
+</body>
+</html>
+
+
+body {
+    font-family: "Times New Roman", serif;
+    background-color: #f5f5f5;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin: 0;
+}
+
+nav {
+    background-color: #444;
+    padding: 10px 0;
+    margin-top: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.search-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.search-bar input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px 0 0 5px;
+    background-color: #fff;
+    color: #333;
+}
+
+.search-bar button {
+    padding: 8px 12px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+}
+
+main {
+    padding: 20px 0;
+}
+
+.menu-livros {
+    background-color: #fff;
+    padding: 20px;
+    margin-right: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.menu-livros h2 {
+    margin-top: 0;
+}
+
+.menu-livros ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu-livros li {
+    margin-bottom: 10px;
+}
+
+.menu-livros a {
+    color: #333;
+    text-decoration: none;
+}
+
+.content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.content h2 {
+    margin-top: 0;
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+.content .capitulos {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.content .capitulos button {
+    padding: 8px 16px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.content .versiculos {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.content .versiculos button {
+    padding: 8px 16px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #333;
+    padding: 20px 0;
+    text-align: center;
+    color: #fff;
+}
+
+/* Estilização dos versículos */
+.content .versiculos p {
+    margin-bottom: 10px;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: justify; /* Alinha o texto à esquerda e à direita */
+}
+
+.content .versiculos p:first-child {
+    text-indent: 2em; /* Recuo no primeiro parágrafo */
+}
+
+.content .versiculos p span {
+    font-weight: bold; /* Estilo para o número do versículo */
+}
+
+
+// Armazena os capítulos e versículos de cada livro da Bíblia
+const livros = {
+    "genesis": {
+        "capitulos": 50
+    },
+    "exodo": {
+        "capitulos": 40
+    },
+    "levitico": {
+        "capitulos": 27
+    },
+    "numeros": {
+        "capitulos": 36
+    },
+    "deuteronomio": {
+        "capitulos": 34
+    },
+    "josue": {
+        "capitulos": 24
+    },
+    "juizes": {
+        "capitulos": 21
+    },
+    "rute": {
+        "capitulos": 4
+    },
+    "1samuel": {
+        "capitulos": 31
+    },
+    "2samuel": {
+        "capitulos": 24
+    },
+    "1reis": {
+        "capitulos": 22
+    },
+    "2reis": {
+        "capitulos": 25
+    },
+    "1cronicas": {
+        "capitulos": 29
+    },
+    "2cronicas": {
+        "capitulos": 36
+    },
+    "esdras": {
+        "capitulos": 10
+    },
+    "neemias": {
+        "capitulos": 13
+    },
+    "ester": {
+        "capitulos": 10
+    },
+    "jo": {
+        "capitulos": 42
+    },
+    "salmos": {
+        "capitulos": 150
+    },
+    "proverbios": {
+        "capitulos": 31
+    },
+    "eclesiastes": {
+        "capitulos": 12
+    },
+    "cantares": {
+        "capitulos": 8
+    },
+    "isaias": {
+        "capitulos": 66
+    },
+    "jeremias": {
+        "capitulos": 52
+    },
+    "lamentacoes": {
+        "capitulos": 5
+    },
+    "ezequiel": {
+        "capitulos": 48
+    },
+    "daniel": {
+        "capitulos": 12
+    },
+    "oseias": {
+        "capitulos": 14
+    },
+    "joel": {
+        "capitulos": 3
+    },
+    "amos": {
+        "capitulos": 9
+    },
+    "obadias": {
+        "capitulos": 1
+    },
+    "jonas": {
+        "capitulos": 4
+    },
+    "miqueias": {
+        "capitulos": 7
+    },
+    "naum": {
+        "capitulos": 3
+    },
+    "habacuque": {
+        "capitulos": 3
+    },
+    "sofonias": {
+        "capitulos": 3
+    },
+    "ageu": {
+        "capitulos": 2
+    },
+    "zacarias": {
+        "capitulos": 14
+    },
+    "malaquias": {
+        "capitulos": 4
+    },
+    "mateus": {
+        "capitulos": 28
+    },
+    "marcos": {
+        "capitulos": 16
+    },
+    "lucas": {
+        "capitulos": 24
+    },
+    "joao": {
+        "capitulos": 21
+    },
+    "atos": {
+        "capitulos": 28
+    },
+    "romanos": {
+        "capitulos": 16
+    },
+    "1corintios": {
+        "capitulos": 16
+    },
+    "2corintios": {
+        "capitulos": 13
+    },
+    "galatas": {
+        "capitulos": 6
+    },
+    "efesios": {
+        "capitulos": 6
+    },
+    "filipenses": {
+        "capitulos": 4
+    },
+    "colossenses": {
+        "capitulos": 4
+    },
+    "1tessaloniceses": {
+        "capitulos": 5
+    },
+    "2tessaloniceses": {
+        "capitulos": 3
+    },
+    "1timoteo": {
+        "capitulos": 6
+    },
+    "2timoteo": {
+        "capitulos": 4
+    },
+    "tito": {
+        "capitulos": 3
+    },
+    "filemom": {
+        "capitulos": 1
+    },
+    "hebreus": {
+        "capitulos": 13
+    },
+    "tiago": {
+        "capitulos": 5
+    },
+    "1pedro": {
+        "capitulos": 5
+    },
+    "2pedro": {
+        "capitulos": 3
+    },
+    "1joao": {
+        "capitulos": 5
+    },
+    "2joao": {
+        "capitulos": 1
+    },
+    "3joao": {
+        "capitulos": 1
+    },
+    "judas": {
+        "capitulos": 1
+    },
+    "apocalipse": {
+        "capitulos": 22
+    }
+};
+
+// Função para criar os botões de capítulos
+function createCapitulosButtons(livro) {
+    const capitulos = livros[livro].capitulos;
+    const capitulosContainer = document.createElement('div');
+    capitulosContainer.classList.add('capitulos');
+
+    for (let i = 1; i <= capitulos; i++) {
+        const button = document.createElement('button');
+        button.textContent = `Cap. ${i}`;
+        button.addEventListener('click', () => {
+            showVersiculos(livro, i);
+        });
+        capitulosContainer.appendChild(button);
+    }
+    return capitulosContainer;
+}
+
+// Função para carregar o conteúdo de um versículo
+async function loadVersiculo(livro, capitulo) {
+    const response = await fetch(`bíblia/${livro}/${capitulo}.html`);
+    const html = await response.text();
+
+    // Exibir o versículo
+    const content = document.querySelector('.content');
+    content.innerHTML = html; 
+}
+
+// Função para exibir os versículos
+function showVersiculos(livro, capitulo) {
+    const content = document.querySelector('.content');
+    content.innerHTML = `<h2>${livro.toUpperCase()} - CAPÍTULO ${capitulo}</h2>`;
+    content.appendChild(createVersiculosButtons(livro, capitulo));
+}
+
+// Função para carregar o livro
+function loadBook(livro) {
+    const content = document.querySelector('.content');
+    content.innerHTML = `<h2>${livro.toUpperCase()}</h2>`;
+    content.appendChild(createCapitulosButtons(livro));
+}
+
+// Adiciona eventos de clique aos links dos livros
+const livrosLinks = document.querySelectorAll('.menu-livros a');
+livrosLinks.forEach(link => {
+    link.addEventListener('click', (event) => {
+        event.preventDefault();
+        const livro = link.dataset.livro;
+        loadBook(livro);
+    });
+});
+
+// Função para criar os botões de versículos
+function createVersiculosButtons(livro, capitulo) {
+    const versiculosContainer = document.createElement('div');
+    versiculosContainer.classList.add('versiculos');
+
+    for (let i = 1; i <= livros[livro].capitulos; i++) {
+        const button = document.createElement('button');
+        button.textContent = `Vers. ${i}`;
+        button.addEventListener('click', () => {
+            loadVersiculo(livro, capitulo, i);
+        });
+        versiculosContainer.appendChild(button);
+    }
+    return versiculosContainer;
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Gênesis - Capítulo 1</title>
+    <link rel="stylesheet" href="../../styles.css">
+</head>
+<body>
+    <h2>Gênesis - Capítulo 1</h2>
+    <div class="versiculos">
+        <p>1:1 No princípio criou Deus os céus e a terra.</p>
+        <p>1:2 E a terra era sem forma e vazia; e havia trevas sobre a face do abismo; e o Espírito de Deus movia-se sobre a face das águas.</p>
+        <p>1:3 E disse Deus: Haja luz; e houve luz.</p>
+        <!-- ... (os demais versículos) -->
+    </div>
+</body>
+</html>

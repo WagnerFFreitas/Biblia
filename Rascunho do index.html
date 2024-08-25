@@ -1,0 +1,325 @@
+
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bíblia Sagrada</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="header-top">
+            <h1>Bíblia Sagrada</h1>
+            <div class="search-bar">
+                <select>
+                    <option value="todos">Todos</option>
+                    <option value="biblia">Biblia</option>
+                    <option value="harpa">Harpa</option>
+                </select>
+                <input type="text" placeholder="Digite o termo de busca">
+                <button>Buscar</button>
+            </div>
+        </div>
+        <div class="header-bottom">
+            <nav>
+                <ul>
+                    <li><a href="#">Início</a></li>
+                    <li><a href="#">Livros</a></li>
+                    <li><a href="#">Planos de Leitura</a></li>
+                    <li><a href="#">Baixar</a></li>
+                    <li><a href="#">Perfil</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <aside class="sidebar">
+            <div class="sidebar-content">
+                <h2><i>LIVROS</i></h2>
+                <ul>
+                    <li class="book-item" data-book="genesis">
+                        <a href="#genesis">Genesis</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="exodo">
+                        <a href="#exodo">Êxodo</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="levitico">
+                        <a href="#levitico">Levítico</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="numeros">
+                        <a href="#numeros">Números</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="deuteronomio">
+                        <a href="#deuteronomio">Deuterônomio</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="josue">
+                        <a href="#josue">Josué</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="juizes">
+                        <a href="#juizes">Juízes</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="rute">
+                        <a href="#rute">Rute</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="1samuel">
+                        <a href="#1samuel">1º Samuel</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="2samuel">
+                        <a href="#2samuel">2º Samuel</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="1reis">
+                        <a href="#1reis">1º Reis</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="2reis">
+                        <a href="#2reis">2º Reis</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="1cronicas">
+                        <a href="#1cronicas">1º Crônicas</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="2Cronicas">
+                        <a href="#2cronicas">2º Crônicas</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="esdras">
+                        <a href="#esdras">Esdras</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="neemias">
+                        <a href="#neemias">Neemias</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="ester">
+                        <a href="#ester">Ester</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="jo">
+                        <a href="#jo">Jó</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="salmos">
+                        <a href="#salmos">Salmos</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="proverbios">
+                        <a href="#proverbios">Provérbios</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="eclesiastes">
+                        <a href="#eclesiastes">Eclesiastes</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="cantares">
+                        <a href="#cantares">Cantares</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="isaias">
+                        <a href="#isaias">Isaías</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="jeremias">
+                        <a href="#jeremias">Jeremias</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="lamentacoes">
+                        <a href="#lamentacoes">Lamentações</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="ezequiel">
+                        <a href="#ezequiel">Ezequiel</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="daniel">
+                        <a href="#daniel">Daniel</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="oseias">
+                        <a href="#oseias">Oseias</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="joel">
+                        <a href="#joel">Joel</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="amos">
+                        <a href="#amos">Amós</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="obadias">
+                        <a href="#obadias">Obadias</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="jonas">
+                        <a href="#jonas">Jonas</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="miqueias">
+                        <a href="#miqueias">Miqueias</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="naum">
+                        <a href="#naum">Naum</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="habacuque">
+                        <a href="#habacuque">Habacuque</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="sofonias">
+                        <a href="#sofonias">Sofonias</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="ageu">
+                        <a href="#ageu">Ageu</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="zacarias">
+                        <a href="#zacarias">Zacarias</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="malaquias">
+                        <a href="#malaquias">Malaquias</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="mateus">
+                        <a href="#mateus">Mateus</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="marcos">
+                        <a href="#marcos">Marcos</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="lucas">
+                        <a href="#lucas">Lucas</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="joao">
+                        <a href="#joao">João</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="atos">
+                        <a href="#atos">Atos</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="romanos">
+                        <a href="#romanso">Romanos</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="1corintios">
+                        <a href="#1corintios">1º Coríntios</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="2corintios">
+                        <a href="#2corintios">2º Coríntios</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="galatas">
+                        <a href="#galatas">Gálatas</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="efesios">
+                        <a href="#efesios">Efésios</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="filipenses">
+                        <a href="#filipenses">Filipenses</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="colossenses">
+                        <a href="#colossenses">Colossenses</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="1tessalonicenses">
+                        <a href="#1tessalonicenses">1º Tessalonicenses</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="2tessalonicenses">
+                        <a href="#2tessalonicenses">2º Tessalonicenses</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="1timoteo">
+                        <a href="#1timoteo">1º Timóteo</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="2timoteo">
+                        <a href="#2timoteo">2º Timóteo</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="tito">
+                        <a href="#tito">Tito</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="filemom">
+                        <a href="#filemom">Filemom</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="hebreus">
+                        <a href="#hebreus">Hebreus</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="tiago">
+                        <a href="#tiago">Tiago</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="1pedro">
+                        <a href="#1pedro">1º Pedro</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="2pedro">
+                        <a href="#2pedro">2º Pedro</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="1joao">
+                        <a href="#1joao">1º João</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="2joao">
+                        <a href="#2joao">2º João</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="3joao">
+                        <a href="#3joao">3º João</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="judas">
+                        <a href="#judas">Judas</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>
+                    <li class="book-item" data-book="apocalipse">
+                        <a href="#apocalipse">Apocalipse</a> 
+                        <i class="ri-arrow-right-line"></i>
+                    </li>        
+                </ul>
+            </div>
+        </aside>
+        <section>
+            <div id="chapter-content"></div>
+            <!-- Conteúdo principal da página -->
+            <div class="watermark">
+            <img src="biblia.png" alt="Marca d'água da Bíblia">
+            </div> 
+        </section>
+    </main>
+    <footer>
+        <p>© Bíblia Sagrada 2024</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
+
+

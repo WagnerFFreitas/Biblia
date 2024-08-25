@@ -1,0 +1,943 @@
+├── genesis
+│   ├── 1.html
+│   ├── 2.html
+│   └── ...
+├── exodo
+│   ├── 1.html
+│   ├── 2.html
+│   └── ...
+├── ... outros livros
+├── index.html
+├── styles.css
+└── script.js
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bíblia Sagrada</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        </header>
+
+    <main>
+        <aside id="book-list">
+            </aside>
+
+        <section id="content">
+            <div id="chapter-buttons">
+            </div>
+
+            <div class="verse-container">
+                <h2 id="chapter-title"></h2>
+                <div id="verse-text">
+                    Carregando versículo...
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bíblia Sagrada</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 0;
+            background-color: #333;
+            color: #eee;
+        }
+
+        header {
+            background-color: #222;
+            padding: 15px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        h1 {
+            margin: 0;
+        }
+
+        nav ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+        }
+
+        nav li {
+            margin-left: 20px;
+        }
+
+        nav a {
+            color: #eee;
+            text-decoration: none;
+        }
+
+        #search-bar {
+            display: flex;
+        }
+
+        #search-bar select,
+        #search-bar input {
+            padding: 5px;
+            border: 1px solid #555;
+            margin-right: 10px;
+        }
+
+        #search-bar button {
+            padding: 5px 10px;
+            background-color: #555;
+            color: #eee;
+            border: none;
+            cursor: pointer;
+        }
+
+        main {
+            display: flex;
+            padding: 20px;
+        }
+
+        #book-list {
+            width: 200px;
+            background-color: #222;
+            padding: 10px;
+            margin-right: 20px;
+        }
+
+        #book-list ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        #book-list li {
+            margin-bottom: 5px;
+        }
+
+        #book-list a {
+            color: #eee;
+            text-decoration: none;
+            display: block;
+            padding: 5px;
+        }
+
+        #book-list a:hover {
+            background-color: #333;
+        }
+
+        #content {
+            flex-grow: 1;
+            background-image: url('imagem_biblia.jpg'); /* Substitua pela URL da sua imagem */
+            background-size: cover;
+            background-position: center;
+            padding: 20px;
+            text-align: center;
+            position: relative;
+        }
+
+        .chapter-buttons {
+            display: grid;
+            grid-template-columns: repeat(10, 1fr);
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        .chapter-button {
+            background-color: rgba(255, 255, 255, 0.7);
+            border: 1px solid #ccc;
+            padding: 8px;
+            border-radius: 5px;
+            cursor: pointer;
+            text-align: center;
+        }
+
+        .chapter-button:hover {
+            background-color: rgba(255, 255, 255, 0.9);
+        }
+
+        .verse-container {
+            background-color: rgba(0, 0, 0, 0.7);
+            padding: 20px;
+            border-radius: 10px;
+            position: relative;
+            z-index: 1; /* Garante que o conteúdo fica sobre a imagem */
+        }
+
+        .verse-container h2 {
+            margin-top: 0;
+        }
+
+        #verse-text {
+            font-size: 20px;
+            line-height: 1.5;
+        }
+
+        footer {
+            background-color: #222;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Bíblia Sagrada</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Início</a></li>
+                <li><a href="#">Livros</a></li>
+                <li><a href="#">Planos de Leitura</a></li>
+                <li><a href="#">Baixar</a></li>
+                <li><a href="#">Perfil</a></li>
+            </ul>
+        </nav>
+        <div id="search-bar">
+            <select>
+                <option value="todos">Todos</option>
+                <option value="livro">Livro</option>
+                <option value="capitulo">Capítulo</option>
+                <option value="versiculo">Versículo</option>
+            </select>
+            <input type="text" placeholder="Digite o termo de busca">
+            <button>Buscar</button>
+        </div>
+    </header>
+
+    <main>
+        <aside id="book-list">
+            <h2>LIVROS</h2>
+            <ul>
+                <li><a href="#">Gênesis</a></li>
+                <li><a href="#">Êxodo</a></li>
+                <li><a href="#">Levítico</a></li>
+                <li><a href="#">Números</a></li>
+                <li><a href="#">Deuteronômio</a></li>
+                <li><a href="#">Josué</a></li>
+                <li><a href="#">Juízes</a></li>
+                <li><a href="#">Rute</a></li>
+                <li><a href="#">1º Samuel</a></li>
+                <li><a href="#">2º Samuel</a></li>
+                <li><a href="#">1º Reis</a></li>
+                <li><a href="#">2º Reis</a></li>
+                <li><a href="#">1º Crônicas</a></li>
+                <li><a href="#">2º Crônicas</a></li>
+                <li><a href="#">Esdras</a></li>
+                <li><a href="#">Neemias</a></li>
+                <li><a href="#">Ester</a></li>
+                <li><a href="#">Jó</a></li>
+                <li><a href="#">Salmos</a></li>
+                <li><a href="#">Provérbios</a></li>
+                <li><a href="#">Eclesiastes</a></li>
+                <li><a href="#">Cantares</a></li>
+                <li><a href="#">Isaías</a></li>
+                <li><a href="#">Jeremias</a></li>
+                <li><a href="#">Lamentações</a></li>
+                <!-- ... outros livros ... -->
+            </ul>
+        </aside>
+
+        <section id="content">
+            <div class="chapter-buttons">
+                <button class="chapter-button">Cap 01</button>
+                <button class="chapter-button">Cap 02</button>
+                <button class="chapter-button">Cap 03</button>
+                <!-- ... outros botões de capítulo ... -->
+                <button class="chapter-button">Cap 50</button>
+            </div>
+
+            <div class="verse-container">
+                <h2>GÊNESIS - CAPÍTULO 01</h2>
+                <div class="chapter-buttons">
+                    <button class="chapter-button">Cap 01</button>
+                    <button class="chapter-button">Cap 02</button>
+                    <button class="chapter-button">Cap 03</button>
+                    <!-- ... outros botões de versículo ... -->
+                    <button class="chapter-button">Cap 31</button>
+                </div>
+                <div id="verse-text">
+                    <!-- Aqui entrará o texto do versículo -->
+                    Carregando versículo...
+                </div>
+            </div>
+
+            <h1 style="font-size: 60px; margin-top: 40px;">Versículo</h1> 
+        </section>
+    </main>
+
+    <footer>
+        © Bíblia Sagrada 2024
+    </footer>
+
+    <script>
+        // Adicione aqui o código JavaScript para:
+        // - Buscar os livros da Bíblia de uma API (ex: https://www.abibliadigital.com.br/api/)
+        // - Popular a lista de livros dinamicamente
+        // - Buscar os capítulos de um livro selecionado
+        // - Buscar os versículos de um capítulo selecionado
+        // - Exibir o texto do versículo na div #verse-text
+        // - Implementar a funcionalidade de busca
+
+        // Exemplo de como buscar os livros da API:
+        fetch('https://www.abibliadigital.com.br/api/books')
+            .then(response => response.json())
+            .then(data => {
+                const bookList = document.querySelector('#book-list ul');
+                data.forEach(book => {
+                    const li = document.createElement('li');
+                    const a = document.createElement('a');
+                    a.href = '#';
+                    a.textContent = book.name;
+                    // Adicione um event listener para carregar os capítulos quando o livro for clicado
+                    a.addEventListener('click', () => carregarCapitulos(book.abbrev)); 
+                    li.appendChild(a);
+                    bookList.appendChild(li);
+                });
+            });
+
+        function carregarCapitulos(abbrev) {
+            // Implemente a lógica para buscar os capítulos do livro com a abreviação 'abbrev'
+            // e exibir os botões de capítulo
+            console.log(`Carregando capítulos do livro ${abbrev}...`);
+        }
+
+        // ... outras funções para carregar versículos, buscar, etc. ...
+    </script>
+</body>
+</html>
+
+// Função para carregar os livros da API
+function carregarLivros() {
+  fetch('https://www.abibliadigital.com.br/api/books')
+    .then(response => response.json())
+    .then(data => {
+      const bookList = document.querySelector('#book-list');
+      bookList.innerHTML = '<h2>LIVROS</h2><ul>'; // Limpa o conteúdo anterior
+
+      data.forEach(book => {
+        const li = document.createElement('li');
+        const a = document.createElement('a');
+        a.href = '#';
+        a.textContent = book.name;
+        a.addEventListener('click', () => carregarCapitulos(book.abbrev));
+        li.appendChild(a);
+        bookList.appendChild(li);
+      });
+
+      bookList.innerHTML += '</ul>'; // Fecha a lista
+    });
+}
+
+// Função para carregar os capítulos de um livro
+function carregarCapitulos(abbrev) {
+  // 1. Buscar o número de capítulos do livro (você precisará obter essa informação da API ou de outra fonte)
+  let numCapitulos = obterNumeroCapitulos(abbrev); // Implemente esta função
+
+  // 2. Limpar os botões de capítulo anteriores
+  const chapterButtons = document.getElementById('chapter-buttons');
+  chapterButtons.innerHTML = '';
+
+  // 3. Criar os botões de capítulo
+  for (let i = 1; i <= numCapitulos; i++) {
+    const button = document.createElement('button');
+    button.className = 'chapter-button';
+    button.textContent = `Cap ${i.toString().padStart(2, '0')}`;
+    button.addEventListener('click', () => carregarVersiculos(abbrev, i));
+    chapterButtons.appendChild(button);
+  }
+}
+
+// Função para carregar os versículos de um capítulo
+function carregarVersiculos(abbrev, capitulo) {
+  // 1. Construir o caminho para o arquivo HTML do capítulo
+  const caminhoCapitulo = `${abbrev.toLowerCase()}/${capitulo}.html`;
+
+  // 2. Buscar o conteúdo do arquivo HTML
+  fetch(caminhoCapitulo)
+    .then(response => response.text())
+    .then(html => {
+      // 3. Exibir o conteúdo do capítulo na seção de conteúdo
+      const content = document.getElementById('content');
+      content.innerHTML = html;
+
+      // 4. Atualizar o título do capítulo
+      const chapterTitle = document.getElementById('chapter-title');
+      chapterTitle.textContent = `${abbrev.toUpperCase()} - CAPÍTULO ${capitulo}`;
+    });
+}
+
+// Função para obter o número de capítulos de um livro (implemente)
+function obterNumeroCapitulos(abbrev) {
+  // Substitua este exemplo pelos seus dados
+  const numCapitulos = {
+    gn: 50, // Gênesis
+    ex: 40, // Êxodo
+    // ... outros livros
+  };
+  return numCapitulos[abbrev.toLowerCase()] || 0;
+}
+
+// Chamar a função para carregar os livros ao iniciar a página
+carregarLivros();
+
+
+<h2>GÊNESIS - CAPÍTULO 1</h2>
+<div class="chapter-buttons">
+  <button class="chapter-button">Ver 01</button>
+  <button class="chapter-button">Ver 02</button>
+  <button class="chapter-button">Ver 03</button>
+  <!-- ... outros botões de versículo ... -->
+  <button class="chapter-button">Ver 31</button>
+</div>
+<div id="verse-text">
+  1 No princípio criou Deus os céus e a terra.
+  2 E a terra era sem forma e vazia; e havia trevas sobre a face do abismo; e o Espírito de Deus se movia sobre a face das águas.
+  3 E disse Deus: Haja luz; e houve luz.
+  <!-- ... outros versículos ... -->
+</div>
+
+
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bíblia Sagrada</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bíblia Sagrada</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Início</a></li>
+                <li><a href="#">Livros</a></li>
+                <li><a href="#">Planos de Leitura</a></li>
+                <li><a href="#">Baixar</a></li>
+                <li><a href="#">Perfil</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="livros">
+            <h2>Livros</h2>
+            <ul>
+                <li><a href="genesis/">Gênesis</a></li>
+                <li><a href="exodo/">Êxodo</a></li>
+                <li><a href="#">Levítico</a></li>
+                <li><a href="#">Números</a></li>
+                <li><a href="#">Deuteronômio</a></li>
+                <li><a href="#">Josué</a></li>
+                <li><a href="#">Juízes</a></li>
+                <li><a href="#">Rute</a></li>
+                <li><a href="#">1 Samuel</a></li>
+                <li><a href="#">2 Samuel</a></li>
+                <li><a href="#">1 Reis</a></li>
+                <li><a href="#">2 Reis</a></li>
+                <li><a href="#">1 Crônicas</a></li>
+                <li><a href="#">2 Crônicas</a></li>
+                <li><a href="#">Esdras</a></li>
+                <li><a href="#">Neemias</a></li>
+                <li><a href="#">Ester</a></li>
+                <li><a href="#">Jó</a></li>
+                <li><a href="#">Salmos</a></li>
+                <li><a href="#">Provérbios</a></li>
+                <li><a href="#">Eclesiastes</a></li>
+                <li><a href="#">Cantares</a></li>
+                <li><a href="#">Isaías</a></li>
+                <li><a href="#">Jeremias</a></li>
+                <li><a href="#">Lamentações</a></li>
+                <!-- Adicione os outros livros aqui -->
+            </ul>
+        </section>
+
+        <section id="conteudo">
+            <!-- Conteúdo dinâmico carregado pelo JavaScript -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; Bíblia Sagrada 2024</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+/* Estilização da página */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
+
+nav {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+}
+
+nav li {
+    margin: 0 1em;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 1em;
+}
+
+section {
+    background-color: #fff;
+    padding: 1em;
+    margin-bottom: 1em;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    text-align: center;
+    padding: 1em;
+    background-color: #333;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+// Função para carregar o conteúdo do capítulo
+function carregarCapitulo(livro, capitulo) {
+    const xhr = new XMLHttpRequest();
+    xhr.open('GET', `${livro}/${capitulo}.html`, true);
+    xhr.onload = function() {
+        if (xhr.status === 200) {
+            document.getElementById('conteudo').innerHTML = xhr.responseText;
+        } else {
+            console.error('Erro ao carregar o capítulo:', xhr.status);
+        }
+    };
+    xhr.send();
+}
+
+// Exemplo de uso:
+carregarCapitulo('genesis', '1');
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gênesis - Capítulo 1</title>
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+    <header>
+        <h1>Gênesis - Capítulo 1</h1>
+    </header>
+
+    <main>
+        <section id="capitulo">
+            <!-- Conteúdo do capítulo 1 de Gênesis -->
+        </section>
+    </main>
+
+    <script src="../script.js"></script>
+</body>
+</html>
+
+----
+
+<button class="chapter-button" id="verse-1">Cap 01</button>
+<button class="chapter-button" id="verse-2">Cap 02</button>
+<button class="chapter-button" id="verse-3">Cap 03</button>
+<!-- ... -->
+
+// ... (código anterior) ...
+
+// Função para exibir um versículo específico
+function exibirVersiculo(numeroVersiculo) {
+  // 1. Obter o elemento do versículo pelo ID
+  const verseElement = document.getElementById(`verse-${numeroVersiculo}`);
+
+  // 2. Se o elemento existir, exibir o texto do versículo
+  if (verseElement) {
+    const verseText = verseElement.textContent; // Ou obter o texto de outra forma
+    document.getElementById('verse-text').textContent = verseText;
+  }
+}
+
+// Função para carregar os versículos de um capítulo (modificada)
+function carregarVersiculos(abbrev, capitulo) {
+  // ... (código anterior para carregar o HTML do capítulo) ...
+
+  // 4. Adicionar event listeners aos botões de versículo
+  const chapterButtons = document.querySelectorAll('.chapter-button');
+  chapterButtons.forEach(button => {
+    button.addEventListener('click', () => {
+      const numeroVersiculo = button.id.replace('verse-', ''); // Extrair o número do versículo do ID
+      exibirVersiculo(numeroVersiculo);
+    });
+  });
+}
+
+// ... (resto do código) ...
+
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bíblia Sagrada</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bíblia Sagrada</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Início</a></li>
+                <li><a href="#">Livros</a></li>
+                <li><a href="#">Planos de Leitura</a></li>
+                <li><a href="#">Baixar</a></li>
+                <li><a href="#">Perfil</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="livros">
+            <h2>Livros</h2>
+            <ul>
+                <li><a href="genesis/">Gênesis</a></li>
+                <li><a href="exodo/">Êxodo</a></li>
+                <li><a href="#">Levítico</a></li>
+                <li><a href="#">Números</a></li>
+                <li><a href="#">Deuteronômio</a></li>
+                <li><a href="#">Josué</a></li>
+                <li><a href="#">Juízes</a></li>
+                <li><a href="#">Rute</a></li>
+                <li><a href="#">1 Samuel</a></li>
+                <li><a href="#">2 Samuel</a></li>
+                <li><a href="#">1 Reis</a></li>
+                <li><a href="#">2 Reis</a></li>
+                <li><a href="#">1 Crônicas</a></li>
+                <li><a href="#">2 Crônicas</a></li>
+                <li><a href="#">Esdras</a></li>
+                <li><a href="#">Neemias</a></li>
+                <li><a href="#">Ester</a></li>
+                <li><a href="#">Jó</a></li>
+                <li><a href="#">Salmos</a></li>
+                <li><a href="#">Provérbios</a></li>
+                <li><a href="#">Eclesiastes</a></li>
+                <li><a href="#">Cantares</a></li>
+                <li><a href="#">Isaías</a></li>
+                <li><a href="#">Jeremias</a></li>
+                <li><a href="#">Lamentações</a></li>
+                <!-- Adicione os outros livros aqui -->
+            </ul>
+        </section>
+
+        <section id="conteudo">
+            <div id="capitulos">
+                <!-- Botões dos capítulos -->
+            </div>
+            <div id="versiculo">
+                <!-- Texto do versículo -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; Bíblia Sagrada 2024</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+/* ... (estilos anteriores) ... */
+
+#capitulos {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+#versiculo {
+    font-size: 1.2em;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+
+3. script.js (JavaScript)
+
+
+// Função para carregar o conteúdo do capítulo
+function carregarCapitulo(livro, capitulo) {
+    const xhr = new XMLHttpRequest();
+    xhr.open('GET', `${livro}/${capitulo}.html`, true);
+    xhr.onload = function() {
+        if (xhr.status === 200) {
+            document.getElementById('versiculo').innerHTML = xhr.responseText;
+            criarBotoesCapitulos(livro, capitulo);
+        } else {
+            console.error('Erro ao carregar o capítulo:', xhr.status);
+        }
+    };
+    xhr.send();
+}
+
+// Função para criar os botões dos capítulos
+function criarBotoesCapitulos(livro, capituloAtual) {
+    const capitulosContainer = document.getElementById('capitulos');
+    capitulosContainer.innerHTML = ''; // Limpa os botões anteriores
+
+    // Crie os botões para cada capítulo
+    for (let i = 1; i <= 50; i++) { // Assuma 50 capítulos por livro
+        const botao = document.createElement('button');
+        botao.textContent = `Cap. ${i}`;
+        botao.addEventListener('click', () => {
+            carregarCapitulo(livro, i);
+        });
+        if (i === capituloAtual) {
+            botao.classList.add('ativo'); // Adiciona classe para o botão ativo
+        }
+        capitulosContainer.appendChild(botao);
+    }
+}
+
+// Exemplo de uso:
+carregarCapitulo('genesis', '1');
+
+
+
+4. Arquivos de Capítulo (Ex: genesis/1.html)
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gênesis - Capítulo 1</title>
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+    <section id="capitulo">
+        <!-- Conteúdo do capítulo 1 de Gênesis -->
+    </section>
+</body>
+</html>
+
+
+----
+index.html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bíblia Sagrada</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bíblia Sagrada</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Início</a></li>
+                <li><a href="#">Livros</a></li>
+                <li><a href="#">Planos de Leitura</a></li>
+                <li><a href="#">Baixar</a></li>
+                <li><a href="#">Perfil</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <aside id="livros">
+            <h2>Livros</h2>
+            <ul>
+                <li><a href="genesis/">Gênesis</a></li>
+                <li><a href="exodo/">Êxodo</a></li>
+                <li><a href="#">Levítico</a></li>
+                <li><a href="#">Números</a></li>
+                <li><a href="#">Deuteronômio</a></li>
+                <li><a href="#">Josué</a></li>
+                <li><a href="#">Juízes</a></li>
+                <li><a href="#">Rute</a></li>
+                <li><a href="#">1 Samuel</a></li>
+                <li><a href="#">2 Samuel</a></li>
+                <li><a href="#">1 Reis</a></li>
+                <li><a href="#">2 Reis</a></li>
+                <li><a href="#">1 Crônicas</a></li>
+                <li><a href="#">2 Crônicas</a></li>
+                <li><a href="#">Esdras</a></li>
+                <li><a href="#">Neemias</a></li>
+                <li><a href="#">Ester</a></li>
+                <li><a href="#">Jó</a></li>
+                <li><a href="#">Salmos</a></li>
+                <li><a href="#">Provérbios</a></li>
+                <li><a href="#">Eclesiastes</a></li>
+                <li><a href="#">Cantares</a></li>
+                <li><a href="#">Isaías</a></li>
+                <li><a href="#">Jeremias</a></li>
+                <li><a href="#">Lamentações</a></li>
+                <!-- Adicione os outros livros aqui -->
+            </ul>
+        </aside>
+
+        <section id="conteudo">
+            <div id="capitulos">
+                <!-- Botões dos capítulos -->
+            </div>
+            <div id="versiculo">
+                <!-- Texto do versículo -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; Bíblia Sagrada 2024</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+/* ... (estilos anteriores) ... */
+
+aside#livros {
+    width: 200px;
+    background-color: #fff;
+    padding: 1em;
+    margin-right: 20px;
+    float: left;
+    height: 100vh; /* Define a altura para ocupar toda a tela */
+    overflow-y: auto; /* Adiciona a barra de rolagem vertical */
+}
+
+#conteudo {
+    float: left;
+    width: calc(100% - 240px); /* Calcula a largura restante */
+    padding: 1em;
+}
+
+/* ... (estilos para o #capitulos e #versiculo) ... */
+
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gênesis - Capítulo 1</title>
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+    <section id="capitulo">
+        <h2>Gênesis - Capítulo 1</h2>
+        <p>No princípio criou Deus os céus e a terra.</p>
+        <p>E a terra era sem forma e vazia; e havia trevas sobre a face do abismo; e o Espírito de Deus se movia sobre a face das águas.</p>
+        <p>Disse Deus: Haja luz; e houve luz.</p>
+        <!-- Adicione o restante do capítulo aqui -->
+    </section>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gênesis - Capítulo 2</title>
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+    <section id="capitulo">
+        <h2>Gênesis - Capítulo 2</h2>
+        <p>E, no dia sétimo, Deus havia acabado a sua obra que fizera; e descansou no dia sétimo de toda a sua obra que fizera.</p>
+        <p>E abençoou Deus o dia sétimo, e o santificou; porque nele descansou de toda a sua obra que Deus, criando, fizera.</p>
+        <!-- Adicione o restante do capítulo aqui -->
+    </section>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Êxodo - Capítulo 1</title>
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+    <section id="capitulo">
+        <h2>Êxodo - Capítulo 1</h2>
+        <p>Estes são os nomes dos filhos de Israel, que entraram no Egito com Jacó, cada um com a sua família:</p>
+        <p>Rúben, Simeão, Levi e Judá;</p>
+        <p>Issacar, Zebulom e Benjamim;</p>
+        <!-- Adicione o restante do capítulo aqui -->
+    </section>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Êxodo - Capítulo 2</title>
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+    <section id="capitulo">
+        <h2>Êxodo - Capítulo 2</h2>
+        <p>E um homem da casa de Levi foi e casou-se com uma filha de Levi.</p>
+        <p>E a mulher concebeu e deu à luz um filho; e, vendo ela que era formoso, escondeu-o por três meses.</p>
+        <!-- Adicione o restante do capítulo aqui -->
+    </section>
+</body>
+</html>
+
+

@@ -1,0 +1,482 @@
+gerar um aplicativo web da biblia sagrada nas versões mais usadas a qual o usuario possa escolher qual versão deseja ser exibida, tendo menu com os livros, ao clicar no menu seja gerado botões dos capitulos e ao clicar no botão do capitulo seja exibido os botões dos versiculo, e ao clicar no versiculo seja exibido o texto, e os botoe devem ficar na tela ate que seja escolido outro livro. os arquivos de cada livro, capitulo e verisculos devem ficar separado, html, css e javascript e em pastas na seguinte ordem antigo testamento/genesis .. e novotestamento/Mateus.. o arquivo script.js não deve conter o texto dos livros, colocar em uma arquivo json para cada livro, lembrando que ao mudara versão da biblia o conteudo tambem deve ser ajustado para versão escolida do usuario. observção gere o codigo completo com todas as versoes que o usario pode escolher
+
+
+# Aplicativo Web da Bíblia Sagrada
+
+## Estrutura de Pastas
+/bible-app /css style.css /js script.js /data /antigo_testamento genesis.json exodo.json ... /novo_testamento mateus.json marcos.json ... index.html
+
+
+## index.html
+```html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Aplicativo da Bíblia Sagrada</title>
+</head>
+<body>
+    <div id="app">
+        <h1>Bíblia Sagrada</h1>
+        <select id="versionSelect">
+            <option value="nvi">Nova Versão Internacional</option>
+            <option value="aa">Almeida Atualizada</option>
+            <option value="tb">Tradução Brasileira</option>
+        </select>
+        <div id="bookMenu"></div>
+        <div id="chapterButtons"></div>
+        <div id="verseButtons"></div>
+        <div id="verseText"></div>
+    </div>
+    <script src="js/script.js"></script>
+</body>
+</html>
+
+css/style.css
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+#app {
+    max-width: 600px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+button {
+    margin: 5px;
+}
+
+
+js/script.js
+const versionData = {
+    nvi: {
+        genesis: "data/antigo_testamento/genesis.json",
+        exodo: "data/antigo_testamento/exodo.json",
+        mateus: "data/novo_testamento/mateus.json",
+        marcos: "data/novo_testamento/marcos.json"
+    },
+    aa: {
+        genesis: "data/antigo_testamento/genesis_aa.json",
+        exodo: "data/antigo_testamento/exodo_aa.json",
+        mateus: "data/novo_testamento/mateus_aa.json",
+        marcos: "data/novo_testamento/marcos_aa.json"
+    },
+    tb: {
+        genesis: "data/antigo_testamento/genesis_tb.json",
+        exodo: "data/antigo_testamento/exodo_tb.json",
+        mateus: "data/novo_testamento/mateus_tb.json",
+        marcos: "data/novo_testamento/marcos_tb.json"
+    }
+};
+
+document.getElementById('versionSelect').addEventListener('change', loadBooks);
+
+function loadBooks() {
+    const version = document.getElementById('versionSelect').value;
+    const books = Object.keys(versionData[version]);
+    const bookMenu = document.getElementById('bookMenu');
+    bookMenu.innerHTML = '';
+
+    books.forEach(book => {
+        const button = document.createElement('button');
+        button.innerText = book.charAt(0).toUpperCase() + book.slice(1);
+        button.onclick = () => loadChapters(version, book);
+        bookMenu.appendChild(button);
+    });
+}
+
+function loadChapters(version, book) {
+    fetch(versionData[version][book])
+        .then(response => response.json())
+        .then(data => {
+            const chapterButtons = document.getElementById('chapterButtons');
+            chapterButtons.innerHTML = '';
+            data.chapters.forEach((chapter, index) => {
+                const button = document.createElement('button');
+                button.innerText = `Capítulo ${index + 1}`;
+                button.onclick = () => loadVerses(version, book, index + 1);
+                chapterButtons.appendChild(button);
+            });
+        });
+}
+
+function loadVerses(version, book, chapter) {
+    fetch(versionData[version][book])
+        .then(response => response.json())
+        .then(data => {
+            const verseButtons = document.getElementById('verseButtons');
+            verseButtons.innerHTML = '';
+            const verses = data.chapters[chapter - 1].verses;
+            verses.forEach((verse, index) => {
+                const button = document.createElement('button');
+                button.innerText = `Versículo ${index + 1}`;
+                button.onclick = () => displayVerse(verse);
+                verseButtons.appendChild(button);
+            });
+        });
+}
+
+function displayVerse(verse) {
+    const verseText = document.getElementById('verseText');
+    verseText.innerText = verse.text;
+}
+
+
+
+data/antigo_testamento/genesis.json
+{
+    "chapters": [
+        {
+            "verses": [
+                {"text": "No princípio, Deus criou os céus e a terra."},
+                {"text": "E a terra era sem forma e vazia."}
+            ]
+        },
+        ...
+    ]
+}
+
+
+data/novo_testamento/mateus.json
+
+{
+    "chapters": [
+        {
+            "verses": [
+                {"text": "Livro da genealogia de Jesus Cristo, filho de Davi, filho de Abraão."},
+                {"text": "Abraão gerou a Isaque."}
+            ]
+        },
+        ...
+    ]
+}
+
+
+
+
+----------------------
+/bible-app
+    /nvi
+        /livros.json
+        /genesis
+            /1
+                /1.json
+                /2.json
+                ...
+        /mateus
+            /1
+                /1.json
+                /2.json
+                ...
+    /aa
+        ...
+    /tb
+        ...
+		
+		
+		document.getElementById('versaoSelect').addEventListener('change', function() {
+    carregarLivros(this.value);
+});
+
+function carregarLivros(versao) {
+    // Aqui você deve carregar os livros a partir de um arquivo JSON
+    fetch(`/${versao}/livros.json`)
+        .then(response => response.json())
+        .then(data => {
+            const livrosDiv = document.getElementById('livros');
+            livrosDiv.innerHTML = '';
+            data.livros.forEach(livro => {
+                const button = document.createElement('button');
+                button.innerText = livro.nome;
+                button.onclick = () => carregarCapitulos(versao, livro.id);
+                livrosDiv.appendChild(button);
+            });
+        });
+}
+
+function carregarCapitulos(versao, livroId) {
+    // Carregar capítulos do livro selecionado
+    fetch(`/${versao}/${livroId}/capitulos.json`)
+        .then(response => response.json())
+        .then(data => {
+            const capitulosDiv = document.getElementById('capitulos');
+            capitulosDiv.innerHTML = '';
+            data.capitulos.forEach(capitulo => {
+                const button = document.createElement('button');
+                button.innerText = `Capítulo ${capitulo.numero}`;
+                button.onclick = () => carregarVersiculos(versao, livroId, capitulo.numero);
+                capitulosDiv.appendChild(button);
+            });
+        });
+}
+
+function carregarVersiculos(versao, livroId, numeroCapitulo) {
+    // Carregar versículos do capítulo selecionado
+    fetch(`/${versao}/${livroId}/${numeroCapitulo}/versiculos.json`)
+        .then(response => response.json())
+        .then(data => {
+            const versiculosDiv = document.getElementById('versiculos');
+            versiculosDiv.innerHTML = '';
+            data.versiculos.forEach(versiculo => {
+                const button = document.createElement('button');
+                button.innerText = `Versículo ${versiculo.numero}`;
+                button.onclick = () => exibirTexto(versao, livroId, numeroCapitulo, versiculo.numero);
+                versiculosDiv.appendChild(button);
+            });
+        });
+}
+
+function exibirTexto(versao, livroId, numeroCapitulo, numeroVersiculo) {
+    // Carregar e exibir o texto do versículo selecionado
+    fetch(`/${versao}/${livroId}/${numeroCapitulo}/${numeroVersiculo}.json`)
+        .then(response => response.json())
+        .then(data => {
+            const textoDiv = document.getElementById('textoVersiculo');
+            textoDiv.innerHTML = `<p>${data.texto}</p>`;
+        });
+}
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+#app {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+}
+
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+button {
+    margin: 5px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Aplicativo da Bíblia Sagrada</title>
+</head>
+<body>
+    <div id="app">
+        <h1>Escolha a Versão da Bíblia</h1>
+        <select id="versaoSelect">
+            <option value="nvi">Nova Versão Internacional</option>
+            <option value="aa">Almeida Atualizada</option>
+            <option value="tb">Tradução Brasileira</option>
+        </select>
+        <div id="livros"></div>
+        <div id="capitulos"></div>
+        <div id="versiculos"></div>
+        <div id="textoVersiculo"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+
+
+/bible-app /css style.css /js script.js /data /antigo_testamento genesis.json exodo.json /novo_testamento mateus.json marcos.json index.html
+
+
+## index.html
+```html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Bíblia Sagrada</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Bíblia Sagrada</h1>
+        <select id="versionSelect">
+            <option value="nvi">Nova Versão Internacional</option>
+            <option value="aa">Almeida Atualizada</option>
+            <option value="tb">Tradução Brasileira</option>
+        </select>
+        <div id="bookMenu"></div>
+        <div id="chapterButtons"></div>
+        <div id="verseButtons"></div>
+        <div id="verseText"></div>
+    </div>
+    <script src="js/script.js"></script>
+</body>
+</html>
+
+css/style.css
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+}
+
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+button {
+    margin: 5px;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+
+js/script.js
+const versionSelect = document.getElementById('versionSelect');
+const bookMenu = document.getElementById('bookMenu');
+const chapterButtons = document.getElementById('chapterButtons');
+const verseButtons = document.getElementById('verseButtons');
+const verseText = document.getElementById('verseText');
+
+const bibleData = {
+    nvi: {
+        genesis: 'data/antigo_testamento/genesis.json',
+        mateus: 'data/novo_testamento/mateus.json'
+    },
+    aa: {
+        genesis: 'data/antigo_testamento/genesis.json',
+        mateus: 'data/novo_testamento/mateus.json'
+    },
+    tb: {
+        genesis: 'data/antigo_testamento/genesis.json',
+        mateus: 'data/novo_testamento/mateus.json'
+    }
+};
+
+versionSelect.addEventListener('change', loadBooks);
+
+function loadBooks() {
+    const version = versionSelect.value;
+    bookMenu.innerHTML = '';
+    chapterButtons.innerHTML = '';
+    verseButtons.innerHTML = '';
+    verseText.innerHTML = '';
+
+    const books = Object.keys(bibleData[version]);
+    books.forEach(book => {
+        const button = document.createElement('button');
+        button.innerText = book.charAt(0).toUpperCase() + book.slice(1);
+        button.onclick = () => loadChapters(version, book);
+        bookMenu.appendChild(button);
+    });
+}
+
+function loadChapters(version, book) {
+    chapterButtons.innerHTML = '';
+    verseButtons.innerHTML = '';
+    verseText.innerHTML = '';
+
+    fetch(bibleData[version][book])
+        .then(response => response.json())
+        .then(data => {
+            const chapters = Object.keys(data);
+            chapters.forEach(chapter => {
+                const button = document.createElement('button');
+                button.innerText = `Capítulo ${chapter}`;
+                button.onclick = () => loadVerses(data[chapter]);
+                chapterButtons.appendChild(button);
+            });
+        });
+}
+
+function loadVerses(chapter) {
+    verseButtons.innerHTML = '';
+    verseText.innerHTML = '';
+
+    const verses = Object.keys(chapter);
+    verses.forEach(verse => {
+        const button = document.createElement('button');
+        button.innerText = `Versículo ${verse}`;
+        button.onclick = () => displayVerse(chapter[verse]);
+        verseButtons.appendChild(button);
+    });
+}
+
+function displayVerse(text) {
+    verseText.innerText = text;
+}
+
+
+data/antigo_testamento/genesis.json
+{
+    "1": {
+        "1": "No princípio, Deus criou os céus e a terra.",
+        "2": "A terra era sem forma e vazia; havia trevas sobre a face do abismo..."
+    },
+    "2": {
+        "1": "Assim, foram acabados os céus e a terra, e todo o seu exército.",
+        "2": "E, havendo Deus terminado no dia sétimo a sua obra..."
+    }
+}
+
+
+
+
+data/novo_testamento/mateus.json
+{
+    "1": {
+        "1": "Livro da genealogia de Jesus Cristo, filho de Davi, filho de Abraão.",
+        "2": "Abraão gerou a Isaque; Isaque gerou a Jacó..."
+    },
+    "2": {
+        "1": "Depois de nascer Jesus em Belém da Judéia, no tempo do rei Herodes..."
+    }
+}
