@@ -57,7 +57,21 @@ nav ul li a:hover {
     background: rgba(255, 255, 255, 0.1);
 }
 
+/* Menu lateral */ 
+/* Menu lateral de livros */
+.menu-livros {
+    flex: 1;
+    margin-right: 20px; /* Espaço entre o menu e os botões */
+}
 
+.content {
+    flex: 3;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
 
 /* ------- */
 .search-bar {
@@ -145,3 +159,76 @@ nav ul li a:hover {
     margin-top: 28px;
     /*margin-left: -23px;*/
 }
+
+/* Botoes dos capitulos */ 
+
+.capitulos {
+    display: grid;
+    flex-wrap: wrap; /* Permite que os botões quebrem linha */
+    /*justify-content: center; /* Centraliza os botões */
+    /*margin: 20px 0; /* Espaçamento em volta do contêiner */
+    /* */
+    justify-content: flex-start; /* Alinha os botões à esquerda */
+    flex: 1; /* Permite que os botões ocupem o restante do espaço */
+    grid-template-columns: repeat(10, 1fr);
+    margin-top: 0;
+    margin-left: -80px;
+
+}
+
+
+/* Estilo para os botões de capítulos */
+.botao-capitulo {
+    background-color: #4CAF50; /* Cor de fundo verde */
+    border: none; /* Remove as bordas */
+    color: white; /* Cor do texto branca */
+    /*padding: 10px 20px; /* Espaçamento interno */*/
+    text-align: center; /* Centraliza o texto */
+    text-decoration: none; /* Remove sublinhado */
+    display: inline-block; /* Exibe os botões em linha */
+    font-size: 16px; /* Tamanho do texto */
+    /*margin: 4px 2px; /* Margem entre os botões */
+    cursor: pointer; /* Cursor de ponteiro ao passar o mouse */
+    border-radius: 5px; /* Bordas arredondadas */
+    transition: background-color 0.3s; /* Animação de transição de cor */
+    /* */
+    padding: 6px 12px;
+    margin: 2px 1px; /* Diminui para 2px 1px */
+    min-width: 80px; /* Define uma largura mínima */
+    max-width: 120px; /* Define uma largura máxima */
+}
+
+.botao-capitulo:hover {
+    background-color: #45a049; /* Cor de fundo ao passar o mouse */
+}
+
+
+
+/* Botoes verisculos */
+
+/* (.chapter-grid) Configura quantas colunas sera exibida dos capítulos na pagina principal */
+/*.versiculos {
+    display: grid; 
+    width: 50px; /* Defina a largura desejada
+    background-color: #282828; 
+    border: 1px solid #fff; 
+    border-radius: 15px; 
+    padding: 5px; /* aqui 1 ,Reduz o padding para botões menores
+    text-align: center; 
+    cursor: pointer; 
+    transition: background-color 0.3s; 
+    color: #fff;
+    height: 30px; /* Ajuste a altura dos botões conforme necessário */ 
+    margin-right: 0px; /* Ajuste este valor para diminuir a distância horizontal 
+    grid-template-columns: repeat(10, 1fr); 
+}
+
+/* aqui Estilos para os botões de versículos */
+/*.versiculos-grid {
+    display: grid; 
+    grid-template-columns: repeat(10, 1fr); 
+    gap: 10px;/* aqui */
+    /*width: calc(100% - 20px);
+    margin-top: 130px;
+    /*margin-left: -15.5px;
+}*/
