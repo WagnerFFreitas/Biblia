@@ -23,7 +23,8 @@ function createCapitulosButtons(livro) {
 
     for (let i = 1; i <= capitulos; i++) {
         const button = document.createElement('button');
-        button.textContent = `Cap. ${i}`;
+        // button.textContent = `Cap. ${i}`;
+        button.textContent = `${i}`;
         button.classList.add('botao-capitulo'); // Aplica a classe de estilo
         button.addEventListener('click', () => {
             showVersiculos(livro, i);

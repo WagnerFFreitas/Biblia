@@ -170,10 +170,12 @@ nav ul li a:hover {
     /* */
     justify-content: flex-start; /* Alinha os botões à esquerda */
     flex: 1; /* Permite que os botões ocupem o restante do espaço */
-    grid-template-columns: repeat(10, 1fr);
+    /*grid-template-columns: repeat(10, 1fr);*/
+    grid-template-columns: repeat(auto-fit, minmax(70px, 1fr)); 
     margin-top: 0;
-    margin-left: -80px;
-
+    margin-left: 110px;
+    gap: 3px;/* aqui */
+    width: calc(100% - 700px);
 }
 
 
@@ -182,7 +184,7 @@ nav ul li a:hover {
     background-color: #4CAF50; /* Cor de fundo verde */
     border: none; /* Remove as bordas */
     color: white; /* Cor do texto branca */
-    /*padding: 10px 20px; /* Espaçamento interno */*/
+    /*padding: 10px 20px; /* Espaçamento interno */
     text-align: center; /* Centraliza o texto */
     text-decoration: none; /* Remove sublinhado */
     display: inline-block; /* Exibe os botões em linha */
@@ -194,8 +196,9 @@ nav ul li a:hover {
     /* */
     padding: 6px 12px;
     margin: 2px 1px; /* Diminui para 2px 1px */
-    min-width: 80px; /* Define uma largura mínima */
-    max-width: 120px; /* Define uma largura máxima */
+    min-width: 70px; /* Define uma largura mínima */
+    max-width: 10px; /* Define uma largura máxima */
+    
 }
 
 .botao-capitulo:hover {
