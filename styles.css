@@ -57,11 +57,10 @@ nav ul li a:hover {
     background: rgba(255, 255, 255, 0.1);
 }
 
-/* Menu lateral */ 
-/* Menu lateral de livros */
+/* Menu lateral dos livros */
 .menu-livros {
     flex: 1;
-    margin-right: 20px; /* Espaço entre o menu e os botões */
+    margin-right: 20px;
 }
 
 .content {
@@ -73,33 +72,20 @@ nav ul li a:hover {
     flex-direction: row;
 }
 
-/* ------- */
+/* Configura a barra de busca */
 .search-bar {
     display: flex;
-    /* justify-content: center;*/
     align-items: center;
-    /*background-color: #555;*/
-    /*padding: 10px;*/
-    /*border-radius: 8px;*/
-    /*box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);*/
-    /*max-width: 800px;*/
-    /*margin: 20px auto;*/
-    /* */
     flex-shrink: 0;
     margin-right: 60px;
     margin-top: 20px;
 }
 
+/* Configura a opção da barra de busca */
 .search-bar select {
-    /*padding: 8px 12px;*/
     margin-right: 5px;
-    /*border: none;*/
-    /*border-radius: 4px;*/
-
-    /*background-color: #444;*/
     color: #fff;
     font-size: 16px;
-    /* */
     padding: 8px;
     border: 1px solid #fff; 
     appearance: none;
@@ -107,14 +93,10 @@ nav ul li a:hover {
     background-color: #383838;
 }
 
+/* Configura a caixa de busca da barra */
 .search-bar input[type="text"] {
-    /*flex: 1;*/
-    /* padding: 8px 12px;*/
     margin-right: 10px;
-    /*border: none;*/
-    /*border-radius: 4px;*/
     font-size: 16px;
-    /* */
     padding: 8px;
     border: 1px solid #fff;
     background-color: #383838;
@@ -122,29 +104,23 @@ nav ul li a:hover {
     border-radius: 5px;
 }
 
+/* Configura o botão busca da barra */
 .search-bar button {
-    /*padding: 8px 16px;*/
-    /*border: none;*/
-    /*border-radius: 4px;*/
-    /*background-color: #333;*/
     color: white;
-    /*font-weight: bold;*/
     cursor: pointer;
-    /*transition: background 0.3s ease;*/
-    /* */
     padding: 8px 15px;
     border-radius: 5px;
     background-color: #4CAF50;
     border: 1px solid #fff;
     font-size: 16px;
-
 }
 
+/* Configura a mudaça de cor ao clicar no botão de busca */
 .search-bar button:hover {
     background-color: #f34141;
 }
 
-/* Configura a posição da busca */
+/* Configura a posição da barra do menu superior */
 .header-top {
     display: flex;
     justify-content: space-between;
@@ -152,60 +128,64 @@ nav ul li a:hover {
 
 /* Configura a barra de menu superior e o texto*/
 .header-bottom {
-    /*background-color: #383838;*/
-    /*padding: 13px;*/
-    /*display: flex;*/
-    /*width: 101.2%;*/
     margin-top: 28px;
-    /*margin-left: -23px;*/
 }
 
-/* Botoes dos capitulos */ 
-
+/* Configura a area dos botoes dos capítulos em coluna (Os botões são gerado pelo script.js) */ 
 .capitulos {
     display: grid;
-    flex-wrap: wrap; /* Permite que os botões quebrem linha */
-    /*justify-content: center; /* Centraliza os botões */
-    /*margin: 20px 0; /* Espaçamento em volta do contêiner */
-    /* */
-    justify-content: flex-start; /* Alinha os botões à esquerda */
-    flex: 1; /* Permite que os botões ocupem o restante do espaço */
-    /*grid-template-columns: repeat(10, 1fr);*/
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    flex: 1;
     grid-template-columns: repeat(auto-fit, minmax(70px, 1fr)); 
     margin-top: 0;
     margin-left: 110px;
-    gap: 3px;/* aqui */
+    gap: 3px;
     width: calc(100% - 700px);
 }
 
-
-/* Estilo para os botões de capítulos */
+/* Configura o estilo para os botões dos capítulos (Os botões são gerado pelo script.js)*/
 .botao-capitulo {
-    background-color: #4CAF50; /* Cor de fundo verde */
-    border: none; /* Remove as bordas */
-    color: white; /* Cor do texto branca */
-    /*padding: 10px 20px; /* Espaçamento interno */
-    text-align: center; /* Centraliza o texto */
-    text-decoration: none; /* Remove sublinhado */
-    display: inline-block; /* Exibe os botões em linha */
-    font-size: 16px; /* Tamanho do texto */
-    /*margin: 4px 2px; /* Margem entre os botões */
-    cursor: pointer; /* Cursor de ponteiro ao passar o mouse */
-    border-radius: 5px; /* Bordas arredondadas */
-    transition: background-color 0.3s; /* Animação de transição de cor */
-    /* */
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
     padding: 6px 12px;
-    margin: 2px 1px; /* Diminui para 2px 1px */
-    min-width: 70px; /* Define uma largura mínima */
-    max-width: 10px; /* Define uma largura máxima */
-    
+    margin: 2px 1px;
+    min-width: 70px;
+    max-width: 10px;
 }
 
+/* Configura a cor de fundo dos botões ao passar o mouse por cima (Os botões são gerado pelo script.js) */
 .botao-capitulo:hover {
-    background-color: #45a049; /* Cor de fundo ao passar o mouse */
+    background-color: #45a049;
 }
 
+/* Configura o estilo do titulo dos botões */
+h2 {
+/*.titulo-livro {*/
+    font-weight: bold;
+    color: #f5f1f1;
+    margin-left: 235px;
+    font-size: 1.5em; 
+    font-weight: bold;
+    font-style: italic
+}
 
+/* Configura o estilo do titulo do menu lateral */
+h3 {
+        font-weight: bold;
+        color: #f5f1f1;
+        font-size: 1.5em; 
+        font-weight: bold;
+        font-style: italic
+    }
 
 /* Botoes verisculos */
 
