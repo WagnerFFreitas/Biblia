@@ -55,6 +55,7 @@ async function loadVersiculo(livro, capitulo, versiculo) {
     // Cria um novo elemento para exibir o versículo
     const versiculoElement = document.createElement('div');
     versiculoElement.classList.add('versiculo');
+    versiculoElement.classList.add('versiculo-texto'); // Adiciona a nova classe
     if (versiculoContent) {
         versiculoElement.appendChild(versiculoContent);
     } else {
@@ -98,7 +99,9 @@ function createVersiculosButtons(livro, capitulo) {
 
     for (let i = 1; i <= numVersiculos; i++) {
         const button = document.createElement('button');
-        button.textContent = `Vers. ${i}`;
+        // button.textContent = `Vers. ${i}`;
+        button.textContent = ` ${i}`;
+        button.classList.add('botao-versiculo'); // Aplica a classe de estilo
         button.addEventListener('click', () => {
             loadVersiculo(livro, capitulo, i);
         });

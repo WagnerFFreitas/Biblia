@@ -146,7 +146,7 @@ nav ul li a:hover {
 
 /* Configura o estilo para os botões dos capítulos (Os botões são gerado pelo script.js)*/
 .botao-capitulo {
-    background-color: #4CAF50;
+    background-color: #220bf0;
     border: none;
     color: white;
     text-align: center;
@@ -163,7 +163,7 @@ nav ul li a:hover {
 }
 
 /* Configura a cor de fundo dos botões ao passar o mouse por cima (Os botões são gerado pelo script.js) */
-.botao-capitulo:hover {
+.botao-capitulo:hover, .botao-versiculo:hover {
     background-color: #45a049;
 }
 
@@ -174,44 +174,74 @@ h2 {
     color: #f5f1f1;
     margin-left: 235px;
     font-size: 1.5em; 
-    font-weight: bold;
     font-style: italic
 }
 
 /* Configura o estilo do titulo do menu lateral */
 h3 {
-        font-weight: bold;
-        color: #f5f1f1;
-        font-size: 1.5em; 
-        font-weight: bold;
-        font-style: italic
-    }
+    font-weight: bold;
+    color: #f5f1f1;
+    font-size: 1.5em; 
+    font-weight: bold;
+    font-style: italic;
+}
+
 
 /* Botoes verisculos */
 
-/* (.chapter-grid) Configura quantas colunas sera exibida dos capítulos na pagina principal */
-/*.versiculos {
-    display: grid; 
-    width: 50px; /* Defina a largura desejada
-    background-color: #282828; 
-    border: 1px solid #fff; 
-    border-radius: 15px; 
-    padding: 5px; /* aqui 1 ,Reduz o padding para botões menores
-    text-align: center; 
-    cursor: pointer; 
-    transition: background-color 0.3s; 
-    color: #fff;
-    height: 30px; /* Ajuste a altura dos botões conforme necessário */ 
-    margin-right: 0px; /* Ajuste este valor para diminuir a distância horizontal 
-    grid-template-columns: repeat(10, 1fr); 
+.versiculos {
+    display: grid;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    flex: 1;
+    grid-template-columns: repeat(auto-fit, minmax(70px, 1fr)); 
+    margin-top: 20px;
+    margin-left: 110px;
+    gap: 3px;
+    width: calc(100% - 700px);
 }
 
-/* aqui Estilos para os botões de versículos */
-/*.versiculos-grid {
-    display: grid; 
-    grid-template-columns: repeat(10, 1fr); 
-    gap: 10px;/* aqui */
-    /*width: calc(100% - 20px);
-    margin-top: 130px;
-    /*margin-left: -15.5px;
+.botao-versiculo {
+    background-color: #6758ec;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    padding: 6px 12px;
+    margin: 2px 1px;
+    min-width: 70px;
+    max-width: 10px;
+}
+
+.versiculo-texto {
+    color: #f8f8f8;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 20px;
+    margin-left: 61px;
+    font-size: 2.5em;
+    margin-top: 20px;
+    /*margin-left: 61px;*/
+    position: relative;
+    z-index: 1;
+    
+}
+
+/*.versiculo-texto {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    max-width: 90%;
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }*/
