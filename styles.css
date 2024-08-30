@@ -61,13 +61,12 @@ nav ul li a:hover {
 .menu-livros {
     flex: 1;
     margin-right: 20px;
-    /**/
-    /*height: 100vh; /* Altura total da janela */
-    height: 730px;
-    overflow-y: auto; /* Ativa a rolagem vertical */
+    height: 100vh; /* Altura total da janela */
+    /*height: 730px;*/
+    overflow-y: auto;
     background-color: #181818; 
-    color: #fff; /* Cor do texto */
-    padding: 20px; /* Espaçamento interno */
+    color: #fff;
+    padding: 20px;
     position: fixed;
     
 }
@@ -87,7 +86,6 @@ nav ul li a:hover {
 }
 
 
-
 /* Estilos para a lista de livros da barra lateral */
 .menu-livros ul {
     list-style-type: none;
@@ -97,7 +95,6 @@ nav ul li a:hover {
 
 /* Configura o espaçamento interior dos itens da lista na barra lateral */
 .menu-livros li {
-    /*margin: 5px 0; /* Espaçamento entre os itens */
     margin-bottom: 10px;
 }
 
@@ -169,7 +166,7 @@ nav ul li a:hover {
     font-size: 16px;
 }
 
-/* Configura a mudaça de cor ao clicar no botão de busca */
+/* Configura a mudança de cor ao clicar no botão de busca */
 .search-bar button:hover {
     background-color: #f34141;
 }
@@ -185,6 +182,10 @@ nav ul li a:hover {
     margin-top: 28px;
 }
 
+.header-bottom ul {
+    margin-left: 130px;
+}
+
 /* Configura a area dos botoes dos capítulos em coluna (Os botões são gerado pelo script.js) */ 
 .capitulos {
     display: grid;
@@ -193,7 +194,7 @@ nav ul li a:hover {
     flex: 1;
     grid-template-columns: repeat(auto-fit, minmax(70px, 1fr)); 
     margin-top: 0;
-    margin-left: 110px;
+    margin-left: 420px;
     gap: 3px;
     width: calc(100% - 700px);
 }
@@ -223,12 +224,12 @@ nav ul li a:hover {
 
 /* Configura o estilo do titulo dos botões */
 h2 {
-/*.titulo-livro {*/
     font-weight: bold;
     color: #f5f1f1;
-    margin-left: 235px;
+    margin-left: 800px;
     font-size: 1.5em; 
     font-style: italic
+    
 }
 
 /* Configura o estilo do titulo do menu lateral */
@@ -239,6 +240,7 @@ h3 {
     font-weight: bold;
     font-style: italic;
     margin-left: 14px;
+    margin-top: 5px;
 }
 
 
@@ -250,7 +252,7 @@ h3 {
     flex: 1;
     grid-template-columns: repeat(auto-fit, minmax(70px, 1fr)); 
     margin-top: 20px;
-    margin-left: 110px;
+    margin-left: 420px;
     gap: 3px;
     width: calc(100% - 700px);
 }
@@ -277,10 +279,9 @@ h3 {
     font-weight: bold;
     font-style: italic;
     margin-top: 20px;
-    margin-left: -490px;
+    margin-left: 135px;
     font-size: 2.5em;
     margin-top: 20px;
-    /*margin-left: 61px;*/
     position: relative;
     z-index: 1;
     text-align: center;
