@@ -1,0 +1,917 @@
+Para adicionar uma barra de rolagem ao seu menu lateral, você precisará adicionar algumas linhas de código CSS no arquivo styles.css.
+
+Aqui está um exemplo de como você pode fazer isso:
+
+.menu-livros {
+  /* Estilo para o menu lateral */
+  width: 200px; /* Largura do menu */
+  height: calc(100vh - 80px); /* Altura do menu, ajustando para o espaço do cabeçalho */
+  background-color: #f0f0f0; /* Cor de fundo do menu */
+  padding: 20px; /* Espaçamento interno */
+  overflow-y: auto; /* Adiciona uma barra de rolagem vertical */
+}
+
+.menu-livros ul {
+  list-style: none; /* Remove marcadores */
+  padding: 0; /* Remove espaçamento */
+}
+
+.menu-livros li {
+  margin-bottom: 10px; /* Espaçamento entre itens */
+}
+
+.menu-livros a {
+  text-decoration: none; /* Remove sublinhado */
+  color: #333; /* Cor do texto */
+}
+
+
+Explicação do Código:
+
+.menu-livros: Seleciona o elemento com a classe menu-livros (seu menu lateral).
+width: 200px;: Define a largura do menu para 200 pixels. Você pode ajustar essa largura de acordo com sua preferência.
+
+height: calc(100vh - 80px);: Define a altura do menu para 100% da altura do viewport (tela) menos 80px, que é a altura do cabeçalho (header). Ajuste o valor de 80px se necessário.
+background-color: #f0f0f0;: Define a cor de fundo do menu.
+padding: 20px;: Adiciona espaçamento interno ao menu.
+
+
+overflow-y: auto;: Define a propriedade overflow-y para auto, que adiciona uma barra de rolagem vertical quando o conteúdo do menu excede a altura definida.
+.menu-livros ul: Seleciona a lista ul dentro do menu.
+list-style: none;: Remove os marcadores da lista.
+
+padding: 0;: Remove o espaçamento interno da lista.
+.menu-livros li: Seleciona cada item li da lista.
+margin-bottom: 10px;: Adiciona espaçamento entre os itens da lista.
+.menu-livros a: Seleciona as âncoras a dentro do menu.
+
+
+text-decoration: none;: Remove o sublinhado das âncoras.
+color: #333;: Define a cor do texto das âncoras.
+Lembre-se:
+
+Adapte as medidas e estilos de acordo com seu design.
+Adicione este CSS no seu arquivo styles.css para que o menu lateral tenha a barra de rolagem.
+
+Se o menu lateral estiver fixo na tela, você pode precisar ajustar o CSS para garantir que a barra de rolagem funcione corretamente.
+
+
+
+
+
+<main>
+    <div class="container">
+        <aside class="menu-livros">
+            <h3>LIVROS</h3>
+            <ul>
+                <li><a href="#" data-livro="genesis">Gênesis</a></li>
+                <li><a href="#" data-livro="exodo">Êxodo</a></li>
+                <li><a href="#" data-livro="levitico">Levítico</a></li>
+                <li><a href="#" data-livro="numeros">Números</a></li>
+                <li><a href="#" data-livro="deuteronomio">Deuteronômio</a></li>
+                <li><a href="#" data-livro="josue">Josué</a></li>
+                <li><a href="#" data-livro="juizes">Juízes</a></li>
+                <li><a href="#" data-livro="rute">Rute</a></li>
+                <li><a href="#" data-livro="1samuel">1º Samuel</a></li>
+                <li><a href="#" data-livro="2samuel">2º Samuel</a></li>
+                <li><a href="#" data-livro="1reis">1º Reis</a></li>
+                <li><a href="#" data-livro="2reis">2º Reis</a></li>
+                <li><a href="#" data-livro="1cronicas">1º Crônicas</a></li>
+                <li><a href="#" data-livro="2cronicas">2º Crônicas</a></li>
+                <li><a href="#" data-livro="esdras">Esdras</a></li>
+                <li><a href="#" data-livro="neemias">Neemias</a></li>
+                <li><a href="#" data-livro="ester">Ester</a></li>
+                <li><a href="#" data-livro="jo">Jó</a></li>
+                <li><a href="#" data-livro="salmos">Salmos</a></li>
+                <li><a href="#" data-livro="proverbios">Provérbios</a></li>
+                <li><a href="#" data-livro="eclesiastes">Eclesiastes</a></li>
+                <li><a href="#" data-livro="cantares">Cantares</a></li>
+                <li><a href="#" data-livro="isaias">Isaías</a></li>
+                <li><a href="#" data-livro="jeremias">Jeremias</a></li>
+                <li><a href="#" data-livro="lamentacoes">Lamentações</a></li>
+                <li><a href="#" data-livro="ezequiel">Ezequiel</a></li>
+                <li><a href="#" data-livro="daniel">Daniel</a></li>
+                <li><a href="#" data-livro="oseias">Oseias</a></li>
+                <li><a href="#" data-livro="joel">Joel</a></li>
+                <li><a href="#" data-livro="amos">Amós</a></li>
+                <li><a href="#" data-livro="obadias">Obadias</a></li>
+                <li><a href="#" data-livro="jonas">Jonas</a></li>
+                <li><a href="#" data-livro="miqueias">Miqueias</a></li>
+                <li><a href="#" data-livro="naum">Naum</a></li>
+                <li><a href="#" data-livro="habacuque">Habacuque</a></li>
+                <li><a href="#" data-livro="sofonias">Sofonias</a></li>
+                <li><a href="#" data-livro="ageu">Ageu</a></li>
+                <li><a href="#" data-livro="zacarias">Zacarias</a></li>
+                <li><a href="#" data-livro="malaquias">Malaquias</a></li>
+                <li><a href="#" data-livro="mateus">Mateus</a></li>
+                <li><a href="#" data-livro="marcos">Marcos</a></li>
+                <li><a href="#" data-livro="lucas">Lucas</a></li>
+                <li><a href="#" data-livro="joao">João</a></li>
+                <li><a href="#" data-livro="atos">Atos</a></li>
+                <li><a href="#" data-livro="romanos">Romanos</a></li>
+                <li><a href="#" data-livro="1corintios">1º Coríntios</a></li>
+                <li><a href="#" data-livro="2corintios">2º Coríntios</a></li>
+                <li><a href="#" data-livro="galatas">Gálatas</a></li>
+                <li><a href="#" data-livro="efesios">Efésios</a></li>
+                <li><a href="#" data-livro="filipenses">Filipenses</a></li>
+                <li><a href="#" data-livro="colossenses">Colossenses</a></li>
+                <li><a href="#" data-livro="1tessaloniceses">1º Tessalonicenses</a></li>
+                <li><a href="#" data-livro="2tessaloniceses">2º Tessalonicenses</a></li>
+                <li><a href="#" data-livro="1timoteo">1º Timóteo</a></li>
+                <li><a href="#" data-livro="2timoteo">2º Timóteo</a></li>
+                <li><a href="#" data-livro="tito">Tito</a></li>
+                <li><a href="#" data-livro="filemom">Filemom</a></li>
+                <li><a href="#" data-livro="hebreus">Hebreus</a></li>
+                <li><a href="#" data-livro="tiago">Tiago</a></li>
+                <li><a href="#" data-livro="1pedro">1º Pedro</a></li>
+                <li><a href="#" data-livro="2pedro">2º Pedro</a></li>
+                <li><a href="#" data-livro="1joao">1º João</a></li>
+                <li><a href="#" data-livro="2joao">2º João</a></li>
+                <li><a href="#" data-livro="3joao">3º João</a></li>
+                <li><a href="#" data-livro="judas">Judas</a></li>
+                <li><a href="#" data-livro="apocalipse">Apocalipse</a></li>
+            </ul>
+        </aside>
+
+        <section class="content">
+            <!-- Conteúdo da página será exibido aqui -->
+        </section>
+    </div>
+</main>
+
+<footer>
+    <div class="container">
+        <p>© Bíblia Sagrada 2024</p>
+    </div>
+</footer>
+
+<script src="script.js"></script>
+
+
+-----
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bíblia Sagrada</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="header-top">    
+            <h1>Bíblia Sagrada</h1>
+            <div class="search-bar">
+                <select>
+                    <option value="todos">Todos</option>
+                    <option value="harpa">Harpa</option>
+                    <option value="biblia">Bíblia</option>
+                </select>
+                <input type="text" placeholder="Digite o termo de busca">
+                <button>Buscar</button>
+            </div>
+        </div>
+        <div class="header-bottom">
+            <nav>
+                <ul>
+                    <li><a href="#">Início</a></li>
+                    <li><a href="#">Livros</a></li>
+                    <li><a href="#">Planos de Leitura</a></li>
+                    <li><a href="#">Baixar</a></li>
+                    <li><a href="#">Perfil</a></li>
+                </ul>
+            </nav>
+        </div>    
+    </header>
+
+    <main>
+        <div class="container">
+            <aside class="menu-livros">
+                <h3>LIVROS</h3>
+                <ul>
+                    <li><a href="#" data-livro="genesis">Gênesis</a></li>
+                    <li><a href="#" data-livro="exodo">Êxodo</a></li>
+                    <li><a href="#" data-livro="levitico">Levítico</a></li>
+                    <li><a href="#" data-livro="numeros">Números</a></li>
+                    <li><a href="#" data-livro="deuteronomio">Deuteronômio</a></li>
+                    <li><a href="#" data-livro="josue">Josué</a></li>
+                    <li><a href="#" data-livro="juizes">Juízes</a></li>
+                    <li><a href="#" data-livro="rute">Rute</a></li>
+                    <li><a href="#" data-livro="1samuel">1º Samuel</a></li>
+                    <li><a href="#" data-livro="2samuel">2º Samuel</a></li>
+                    <li><a href="#" data-livro="1reis">1º Reis</a></li>
+                    <li><a href="#" data-livro="2reis">2º Reis</a></li>
+                    <li><a href="#" data-livro="1cronicas">1º Crônicas</a></li>
+                    <li><a href="#" data-livro="2cronicas">2º Crônicas</a></li>
+                    <li><a href="#" data-livro="esdras">Esdras</a></li>
+                    <li><a href="#" data-livro="neemias">Neemias</a></li>
+                    <li><a href="#" data-livro="ester">Ester</a></li>
+                    <li><a href="#" data-livro="jo">Jó</a></li>
+                    <li><a href="#" data-livro="salmos">Salmos</a></li>
+                    <li><a href="#" data-livro="proverbios">Provérbios</a></li>
+                    <li><a href="#" data-livro="eclesiastes">Eclesiastes</a></li>
+                    <li><a href="#" data-livro="cantares">Cantares</a></li>
+                    <li><a href="#" data-livro="isaias">Isaías</a></li>
+                    <li><a href="#" data-livro="jeremias">Jeremias</a></li>
+                    <li><a href="#" data-livro="lamentacoes">Lamentações</a></li>
+                    <li><a href="#" data-livro="ezequiel">Ezequiel</a></li>
+                    <li><a href="#" data-livro="daniel">Daniel</a></li>
+                    <li><a href="#" data-livro="oseias">Oseias</a></li>
+                    <li><a href="#" data-livro="joel">Joel</a></li>
+                    <li><a href="#" data-livro="amos">Amós</a></li>
+                    <li><a href="#" data-livro="obadias">Obadias</a></li>
+                    <li><a href="#" data-livro="jonas">Jonas</a></li>
+                    <li><a href="#" data-livro="miqueias">Miqueias</a></li>
+                    <li><a href="#" data-livro="naum">Naum</a></li>
+                    <li><a href="#" data-livro="habacuque">Habacuque</a></li>
+                    <li><a href="#" data-livro="sofonias">Sofonias</a></li>
+                    <li><a href="#" data-livro="ageu">Ageu</a></li>
+                    <li><a href="#" data-livro="zacarias">Zacarias</a></li>
+                    <li><a href="#" data-livro="malaquias">Malaquias</a></li>
+                    <li><a href="#" data-livro="mateus">Mateus</a></li>
+                    <li><a href="#" data-livro="marcos">Marcos</a></li>
+                    <li><a href="#" data-livro="lucas">Lucas</a></li>
+                    <li><a href="#" data-livro="joao">João</a></li>
+                    <li><a href="#" data-livro="atos">Atos</a></li>
+                    <li><a href="#" data-livro="romanos">Romanos</a></li>
+                    <li><a href="#" data-livro="1corintios">1º Coríntios</a></li>
+                    <li><a href="#" data-livro="2corintios">2º Coríntios</a></li>
+                    <li><a href="#" data-livro="galatas">Gálatas</a></li>
+                    <li><a href="#" data-livro="efesios">Efésios</a></li>
+                    <li><a href="#" data-livro="filipenses">Filipenses</a></li>
+                    <li><a href="#" data-livro="colossenses">Colossenses</a></li>
+                    <li><a href="#" data-livro="1tessaloniceses">1º Tessalonicenses</a></li>
+                    <li><a href="#" data-livro="2tessaloniceses">2º Tessalonicenses</a></li>
+                    <li><a href="#" data-livro="1timoteo">1º Timóteo</a></li>
+                    <li><a href="#" data-livro="2timoteo">2º Timóteo</a></li>
+                    <li><a href="#" data-livro="tito">Tito</a></li>
+                    <li><a href="#" data-livro="filemom">Filemom</a></li>
+                    <li><a href="#" data-livro="hebreus">Hebreus</a></li>
+                    <li><a href="#" data-livro="tiago">Tiago</a></li>
+                    <li><a href="#" data-livro="1pedro">1º Pedro</a></li>
+                    <li><a href="#" data-livro="2pedro">2º Pedro</a></li>
+                    <li><a href="#" data-livro="1joao">1º João</a></li>
+                    <li><a href="#" data-livro="2joao">2º João</a></li>
+                    <li><a href="#" data-livro="3joao">3º João</a></li>
+                    <li><a href="#" data-livro="judas">Judas</a></li>
+                    <li><a href="#" data-livro="apocalipse">Apocalipse</a></li>
+                </ul>
+            </aside>
+
+            <section class="content">
+                <div class="capitulo-header">
+                    <h2>GENESIS - CAPÍTULO 1 - VERSÍCULO 4</h2>
+                </div>
+
+                <div class="versiculos">
+                    <div class="versiculo-grid">
+                        <div class="versiculo" data-versiculo="1">1</div>
+                        <div class="versiculo" data-versiculo="2">2</div>
+                        <div class="versiculo" data-versiculo="3">3</div>
+                        <div class="versiculo" data-versiculo="4">4</div>
+                        <div class="versiculo" data-versiculo="5">5</div>
+                        <div class="versiculo" data-versiculo="6">6</div>
+                        <div class="versiculo" data-versiculo="7">7</div>
+                        <div class="versiculo" data-versiculo="8">8</div>
+                        <div class="versiculo" data-versiculo="9">9</div>
+                        <div class="versiculo" data-versiculo="10">10</div>
+                        <div class="versiculo" data-versiculo="11">11</div>
+                        <div class="versiculo" data-versiculo="12">12</div>
+                        <div class="versiculo" data-versiculo="13">13</div>
+                        <div class="versiculo" data-versiculo="14">14</div>
+                        <div class="versiculo" data-versiculo="15">15</div>
+                        <div class="versiculo" data-versiculo="16">16</div>
+                        <div class="versiculo" data-versiculo="17">17</div>
+                        <div class="versiculo" data-versiculo="18">18</div>
+                        <div class="versiculo" data-versiculo="19">19</div>
+                        <div class="versiculo" data-versiculo="20">20</div>
+                        <div class="versiculo" data-versiculo="21">21</div>
+                        <div class="versiculo" data-versiculo="22">22</div>
+                        <div class="versiculo" data-versiculo="23">23</div>
+                        <div class="versiculo" data-versiculo="24">24</div>
+                        <div class="versiculo" data-versiculo="25">25</div>
+                        <div class="versiculo" data-versiculo="26">26</div>
+                        <div class="versiculo" data-versiculo="27">27</div>
+                        <div class="versiculo" data-versiculo="28">28</div>
+                        <div class="versiculo" data-versiculo="29">29</div>
+                        <div class="versiculo" data-versiculo="30">30</div>
+                        <div class="versiculo" data-versiculo="31">31</div>
+                        <div class="versiculo" data-versiculo="32">32</div>
+                        <div class="versiculo" data-versiculo="33">33</div>
+                        <div class="versiculo" data-versiculo="34">34</div>
+                        <div class="versiculo" data-versiculo="35">35</div>
+                        <div class="versiculo" data-versiculo="36">36</div>
+                        <div class="versiculo" data-versiculo="37">37</div>
+                        <div class="versiculo" data-versiculo="38">38</div>
+                        <div class="versiculo" data-versiculo="39">39</div>
+                        <div class="versiculo" data-versiculo="40">40</div>
+                        <div class="versiculo" data-versiculo="41">41</div>
+                        <div class="versiculo" data-versiculo="42">42</div>
+                        <div class="versiculo" data-versiculo="43">43</div>
+                        <div class="versiculo" data-versiculo="44">44</div>
+                        <div class="versiculo" data-versiculo="45">45</div>
+                        <div class="versiculo" data-versiculo="46">46</div>
+                        <div class="versiculo" data-versiculo="47">47</div>
+                        <div class="versiculo" data-versiculo="48">48</div>
+                        <div class="versiculo" data-versiculo="49">49</div>
+                        <div class="versiculo" data-versiculo="50">50</div>
+                    </div>
+                </div>
+                
+                <div class="versiculos">
+                    <div class="versiculo-grid">
+                        <div class="versiculo" data-versiculo="1">1</div>
+                        <div class="versiculo" data-versiculo="2">2</div>
+                        <div class="versiculo" data-versiculo="3">3</div>
+                        <div class="versiculo" data-versiculo="4">4</div>
+                        <div class="versiculo" data-versiculo="5">5</div>
+                        <div class="versiculo" data-versiculo="6">6</div>
+                        <div class="versiculo" data-versiculo="7">7</div>
+                        <div class="versiculo" data-versiculo="8">8</div>
+                        <div class="versiculo" data-versiculo="9">9</div>
+                        <div class="versiculo" data-versiculo="10">10</div>
+                        <div class="versiculo" data-versiculo="11">11</div>
+                        <div class="versiculo" data-versiculo="12">12</div>
+                        <div class="versiculo" data-versiculo="13">13</div>
+                        <div class="versiculo" data-versiculo="14">14</div>
+                        <div class="versiculo" data-versiculo="15">15</div>
+                        <div class="versiculo" data-versiculo="16">16</div>
+                        <div class="versiculo" data-versiculo="17">17</div>
+                        <div class="versiculo" data-versiculo="18">18</div>
+                        <div class="versiculo" data-versiculo="19">19</div>
+                        <div class="versiculo" data-versiculo="20">20</div>
+                        <div class="versiculo" data-versiculo="21">21</div>
+                        <div class="versiculo" data-versiculo="22">22</div>
+                        <div class="versiculo" data-versiculo="23">23</div>
+                        <div class="versiculo" data-versiculo="24">24</div>
+                        <div class="versiculo" data-versiculo="25">25</div>
+                        <div class="versiculo" data-versiculo="26">26</div>
+                        <div class="versiculo" data-versiculo="27">27</div>
+                        <div class="versiculo" data-versiculo="28">28</div>
+                        <div class="versiculo" data-versiculo="29">29</div>
+                        <div class="versiculo" data-versiculo="30">30</div>
+                        <div class="versiculo" data-versiculo="31">31</div>
+                    </div>
+                </div>
+                <p>E viu Deus que a luz era boa; e fez Deus separação entre a luz e as trevas.</p>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>© Bíblia Sagrada 2024</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+A sua explicação:
+
+O código HTML representa o front-end de um site de Bíblia Sagrada.
+
+Estrutura:
+
+header: Contém o título do site "Bíblia Sagrada", uma barra de pesquisa e uma barra de navegação (menu) com links para: Início, Livros, Planos de Leitura, Baixar e Perfil.
+
+main: O corpo principal do site com a seguinte estrutura:
+aside (menu-livros): Uma lista de todos os livros da Bíblia com links que podem ser clicados.
+section (content): Uma seção para exibir o conteúdo da página (versículos da Bíblia).
+
+
+footer: Contém o copyright do site.
+Funcionalidades:
+
+A barra de pesquisa permite aos usuários pesquisar a Bíblia por palavras-chave.
+A lista de livros na lateral (aside) permite navegar pelos livros da Bíblia.
+O conteúdo da página é atualizado dinamicamente com base no livro e versículo selecionados.
+Observações:
+
+O código JavaScript (script.js) é responsável por lidar com a interação do usuário, como clicar nos links dos livros e exibir os versículos correspondentes.
+O código CSS (styles.css) é responsável por definir o estilo visual do site.
+Falta:
+
+Implementação JavaScript: O código JavaScript é essencial para tornar a página interativa. Ele deve incluir funções para lidar com os cliques nos links dos livros, obter os dados dos versículos (por exemplo, de um arquivo JSON ou API) e atualizar o conteúdo da seção "content".
+Conteúdo da página: Os versículos da Bíblia devem ser carregados dinamicamente a partir de uma fonte de dados, como um arquivo JSON ou uma API.
+Estilo visual: A página ainda não possui um design visual. O CSS deve ser aplicado para tornar o site mais atraente e fácil de usar.
+Conclusão:
+
+O código fornecido é um bom ponto de partida para um site de Bíblia Sagrada. No entanto, ele precisa de mais desenvolvimento para se tornar funcional. O código JavaScript deve ser implementado para lidar com a interação do usuário, o conteúdo deve ser carregado dinamicamente e o estilo visual deve ser definido.
+
+Para melhorar a compreensão da imagem, poderíamos:
+
+Destacar a frase "E viu Deus que a luz era boa" para enfatizar a importância da passagem bíblica.
+Acrescentar uma legenda explicativa sobre o significado teológico do versículo 4.
+Indicar o número do versículo no grid, para facilitar a localização do trecho específico.
+Destacar a parte do site que mostra o menu lateral com os livros da Bíblia para enfatizar a funcionalidade da página.
+Estas sugestões visam tornar a imagem mais informativa e atraente para o público.
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Bíblia Sagrada</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Bíblia Sagrada</h1>
+      <div class="nav">
+        <ul>
+          <li><a href="#">Início</a></li>
+          <li><a href="#">Livros</a></li>
+          <li><a href="#">Planos de Leitura</a></li>
+          <li><a href="#">Baixar</a></li>
+          <li><a href="#">Perfil</a></li>
+        </ul>
+      </div>
+      <div class="search">
+        <input type="text" placeholder="Digite o termo de busca">
+        <button>Buscar</button>
+      </div>
+    </div>
+    <div class="content">
+      <div class="sidebar">
+        <h2>LIVROS</h2>
+        <ul>
+          <li><a href="#">Gênesis</a></li>
+          <li><a href="#">Êxodo</a></li>
+          <li><a href="#">Levítico</a></li>
+          <li><a href="#">Números</a></li>
+          <li><a href="#">Deuteronomio</a></li>
+          <li><a href="#">Josué</a></li>
+          <li><a href="#">Juízes</a></li>
+          <li><a href="#">Rute</a></li>
+          <li><a href="#">1º Samuel</a></li>
+          <li><a href="#">2º Samuel</a></li>
+          <li><a href="#">1º Reis</a></li>
+          <li><a href="#">2º Reis</a></li>
+          <li><a href="#">1º Crônicas</a></li>
+          <li><a href="#">2º Crônicas</a></li>
+          <li><a href="#">Esdras</a></li>
+          <li><a href="#">Neemias</a></li>
+          <li><a href="#">Ester</a></li>
+          <li><a href="#">Jó</a></li>
+          <li><a href="#">Salmos</a></li>
+          <li><a href="#">Provérbios</a></li>
+          <li><a href="#">Eclesiastes</a></li>
+          <li><a href="#">Cantares</a></li>
+          <li><a href="#">Isaias</a></li>
+          <li><a href="#">Jeremias</a></li>
+          <li><a href="#">Lamentações</a></li>
+          <li><a href="#">Ezequiel</a></li>
+          <li><a href="#">Daniel</a></li>
+          <li><a href="#">Oseias</a></li>
+          <li><a href="#">Joel</a></li>
+          <li><a href="#">Amós</a></li>
+          <li><a href="#">Obadias</a></li>
+          <li><a href="#">Jonas</a></li>
+          <li><a href="#">Miquelas</a></li>
+          <li><a href="#">Naum</a></li>
+          <li><a href="#">Habacuque</a></li>
+          <li><a href="#">Sofonias</a></li>
+          <li><a href="#">Ageu</a></li>
+          <li><a href="#">Zacarias</a></li>
+          <li><a href="#">Malaquias</a></li>
+          <li><a href="#">Mateus</a></li>
+        </ul>
+      </div>
+      <div class="main">
+        <h2>GENESIS - CAPÍTULO 1 - VERSÍCULO 4</h2>
+        <div class="chapter">
+          <div class="verse-grid">
+            <button class="verse">1</button>
+            <button class="verse">2</button>
+            <button class="verse">3</button>
+            <button class="verse">4</button>
+            <button class="verse">5</button>
+            <button class="verse">6</button>
+            <button class="verse">7</button>
+            <button class="verse">8</button>
+            <button class="verse">9</button>
+            <button class="verse">10</button>
+            <button class="verse">11</button>
+            <button class="verse">12</button>
+            <button class="verse">13</button>
+            <button class="verse">14</button>
+            <button class="verse">15</button>
+            <button class="verse">16</button>
+            <button class="verse">17</button>
+            <button class="verse">18</button>
+            <button class="verse">19</button>
+            <button class="verse">20</button>
+            <button class="verse">21</button>
+            <button class="verse">22</button>
+            <button class="verse">23</button>
+            <button class="verse">24</button>
+            <button class="verse">25</button>
+            <button class="verse">26</button>
+            <button class="verse">27</button>
+            <button class="verse">28</button>
+            <button class="verse">29</button>
+            <button class="verse">30</button>
+            <button class="verse">31</button>
+            <button class="verse">32</button>
+            <button class="verse">33</button>
+            <button class="verse">34</button>
+            <button class="verse">35</button>
+            <button class="verse">36</button>
+            <button class="verse">37</button>
+            <button class="verse">38</button>
+            <button class="verse">39</button>
+            <button class="verse">40</button>
+            <button class="verse">41</button>
+            <button class="verse">42</button>
+            <button class="verse">43</button>
+            <button class="verse">44</button>
+            <button class="verse">45</button>
+            <button class="verse">46</button>
+            <button class="verse">47</button>
+            <button class="verse">48</button>
+            <button class="verse">49</button>
+            <button class="verse">50</button>
+          </div>
+          <div class="verse-grid">
+            <button class="verse">1</button>
+            <button class="verse">2</button>
+            <button class="verse">3</button>
+            <button class="verse">4</button>
+            <button class="verse">5</button>
+            <button class="verse">6</button>
+            <button class="verse">7</button>
+            <button class="verse">8</button>
+            <button class="verse">9</button>
+            <button class="verse">10</button>
+            <button class="verse">11</button>
+            <button class="verse">12</button>
+            <button class="verse">13</button>
+            <button class="verse">14</button>
+            <button class="verse">15</button>
+            <button class="verse">16</button>
+            <button class="verse">17</button>
+            <button class="verse">18</button>
+            <button class="verse">19</button>
+            <button class="verse">20</button>
+            <button class="verse">21</button>
+            <button class="verse">22</button>
+            <button class="verse">23</button>
+            <button class="verse">24</button>
+            <button class="verse">25</button>
+            <button class="verse">26</button>
+            <button class="verse">27</button>
+            <button class="verse">28</button>
+            <button class="verse">29</button>
+            <button class="verse">30</button>
+            <button class="verse">31</button>
+          </div>
+          <p>E viu Deus que a luz era boa;
+          e fez Deus separação entre a luz e as trevas.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
+
+
+body {
+  background-color: #181818;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  width: 100%;
+  height: 100vh;
+}
+
+.header {
+  background-color: #222;
+  width: 100%;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 24px;
+}
+
+.nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.nav li {
+  margin-right: 20px;
+}
+
+.nav a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+}
+
+.search input {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  padding: 8px 12px;
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+.search button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 8px 12px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.content {
+  display: flex;
+  width: 100%;
+  height: calc(100vh - 60px);
+}
+
+.sidebar {
+  background-color: #333;
+  width: 200px;
+  padding: 20px;
+}
+
+.sidebar h2 {
+  margin-top: 0;
+}
+
+.sidebar ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.sidebar li {
+  margin-bottom: 10px;
+}
+
+.sidebar a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.main {
+  background-color: #181818;
+  flex: 1;
+  padding: 20px;
+}
+
+.main h2 {
+  margin-top: 0;
+}
+
+.chapter {
+  background-color: #222;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.verse-grid {
+  display: grid;
+  grid-template-columns: repeat(9, 1fr);
+  grid-gap: 10px;
+}
+
+.verse {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 8px 12px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.verse:hover {
+  background-color: #0069d9;
+}
+
+const verses = document.querySelectorAll('.verse');
+
+verses.forEach(verse => {
+  verse.addEventListener('click', () => {
+    // Você pode implementar a lógica para lidar com o clique em cada verso aqui.
+    // Por exemplo, você pode abrir um modal com o conteúdo do verso.
+    console.log(`Verso ${verse.textContent} clicado!`);
+  });
+});
+
+----
+
+Para adicionar uma barra de rolagem ao menu lateral no seu HTML, você precisará ajustar o CSS. Aqui estão os passos:
+
+1. **Defina a altura do menu lateral** para que ele possa rolar se o conteúdo exceder essa altura.
+2. **Adicione a propriedade CSS `overflow-y: auto;`** para permitir a rolagem vertical.
+
+### Exemplo de CSS
+
+Aqui está um exemplo de como você pode fazer isso no seu arquivo `styles.css`:
+
+```css
+.menu-livros {
+    height: 100vh; /* Altura total da janela */
+    overflow-y: auto; /* Ativa a rolagem vertical */
+    background-color: #000; /* Cor de fundo do menu */
+    color: #fff; /* Cor do texto */
+    padding: 10px; /* Espaçamento interno */
+}
+
+.menu-livros ul {
+    list-style-type: none; /* Remove marcadores da lista */
+    padding: 0; /* Remove espaçamento da lista */
+}
+
+.menu-livros li {
+    margin: 5px 0; /* Espaçamento entre os itens */
+}
+
+.menu-livros a {
+    color: #00f; /* Cor dos links */
+    text-decoration: none; /* Remove sublinhado */
+}
+
+.menu-livros a:hover {
+    text-decoration: underline; /* Sublinha ao passar o mouse */
+}
+```
+
+### Ajustes no HTML
+
+Não é necessário fazer alterações no seu HTML. O código que você já tem deve funcionar corretamente com o CSS modificado.
+
+### Resultado
+
+Com essas alterações, seu menu lateral terá uma barra de rolagem quando o conteúdo exceder a altura definida, permitindo que os usuários acessem todos os livros listados.
+
+
+data-show 
+
+E possível criar um botão para que seja exibido o texto do versículo em uma janela separada para ser usada em data-show e que tenha botões de avançar e voltar o para o versículo posterior e anterior ao lado do texto do versículo
+
+Sim, é possível criar um botão que exiba o texto de um versículo em uma janela separada, além de adicionar botões para avançar e voltar entre os versículos. Você pode fazer isso usando HTML, CSS e JavaScript.
+
+### Exemplo de Implementação
+
+Aqui está um exemplo básico de como você pode implementar essa funcionalidade:
+
+#### HTML
+
+Adicione um botão para cada versículo, que abrirá a janela modal:
+
+```html
+<section class="content">
+    <div class="versiculos">
+        <button class="versiculo-btn" data-versiculo="1">Versículo 1</button>
+        <button class="versiculo-btn" data-versiculo="2">Versículo 2</button>
+        <!-- Adicione mais botões conforme necessário -->
+    </div>
+</section>
+
+<!-- Janela Modal -->
+<div id="modal" class="modal">
+    <div class="modal-content">
+        <span class="close" id="close">&times;</span>
+        <p id="texto-versiculo"></p>
+        <button id="prev">Anterior</button>
+        <button id="next">Próximo</button>
+    </div>
+</div>
+```
+
+#### CSS
+
+Adicione estilo para a janela modal:
+
+```css
+.modal {
+    display: none; /* Oculta a modal por padrão */
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.7); /* Fundo semitransparente */
+}
+
+.modal-content {
+    background-color: #fff;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+```
+
+#### JavaScript
+
+Adicione a lógica para abrir a modal, exibir o versículo, e navegar entre os versículos:
+
+```javascript
+const versiculoBtns = document.querySelectorAll('.versiculo-btn');
+const modal = document.getElementById('modal');
+const textoVersiculo = document.getElementById('texto-versiculo');
+const closeBtn = document.getElementById('close');
+const prevBtn = document.getElementById('prev');
+const nextBtn = document.getElementById('next');
+
+let currentVersiculoIndex = 0;
+const versiculos = [
+    "Texto do versículo 1",
+    "Texto do versículo 2",
+    // Adicione mais textos dos versículos conforme necessário
+];
+
+versiculoBtns.forEach((btn, index) => {
+    btn.addEventListener('click', () => {
+        currentVersiculoIndex = index;
+        textoVersiculo.textContent = versiculos[currentVersiculoIndex];
+        modal.style.display = "block";
+    });
+});
+
+closeBtn.onclick = function() {
+    modal.style.display = "none";
+}
+
+prevBtn.onclick = function() {
+    if (currentVersiculoIndex > 0) {
+        currentVersiculoIndex--;
+        textoVersiculo.textContent = versiculos[currentVersiculoIndex];
+    }
+}
+
+nextBtn.onclick = function() {
+    if (currentVersiculoIndex < versiculos.length - 1) {
+        currentVersiculoIndex++;
+        textoVersiculo.textContent = versiculos[currentVersiculoIndex];
+    }
+}
+
+// Fecha a modal ao clicar fora dela
+window.onclick = function(event) {
+    if (event.target === modal) {
+        modal.style.display = "none";
+    }
+}
+```
+
+### Como Funciona
+
+1. **Botões de Versículo**: Cada botão chama a função que abre a modal e exibe o texto correspondente.
+2. **Modal**: A janela modal aparece com o texto do versículo e botões para avançar e voltar.
+3. **Navegação**: Os botões "Anterior" e "Próximo" permitem navegar entre os versículos.
+
+### Considerações
+
+- Você pode adicionar mais textos dos versículos ao array `versiculos`.
+- Personalize o estilo da modal conforme necessário.
+
+Essa implementação fornecerá a funcionalidade desejada para exibir e navegar pelos versículos.

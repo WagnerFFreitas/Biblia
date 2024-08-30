@@ -61,7 +61,61 @@ nav ul li a:hover {
 .menu-livros {
     flex: 1;
     margin-right: 20px;
+    /**/
+    /*height: 100vh; /* Altura total da janela */
+    height: 730px;
+    overflow-y: auto; /* Ativa a rolagem vertical */
+    background-color: #181818; 
+    color: #fff; /* Cor do texto */
+    padding: 20px; /* Espaçamento interno */
+    position: fixed;
+    
 }
+
+.menu-livros::-webkit-scrollbar {
+    width: 10px; /* Largura da barra de rolagem */
+}
+
+.menu-livros::-webkit-scrollbar-track {
+    background:  rgba(255, 255, 255, 0.1);
+}
+
+.menu-livros::-webkit-scrollbar-thumb {
+    background: #555; /* Cor da barra de rolagem */
+    border-radius: 10px; /* Arredonda as bordas */
+    margin: 5px; /* Margem da barra de rolagem */
+}
+
+
+
+/* Estilos para a lista de livros da barra lateral */
+.menu-livros ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 15px;
+}
+
+/* Configura o espaçamento interior dos itens da lista na barra lateral */
+.menu-livros li {
+    /*margin: 5px 0; /* Espaçamento entre os itens */
+    margin-bottom: 10px;
+}
+
+/* Configura a cor e remove o sublinhamento */
+.menu-livros a {
+    color: #fcf9f9; 
+    text-decoration: none;
+}
+
+.menu-livros a:hover {
+    text-decoration: underline; /* Sublinha ao passar o mouse */
+}
+
+
+
+
+
+
 
 .content {
     flex: 3;
@@ -184,11 +238,11 @@ h3 {
     font-size: 1.5em; 
     font-weight: bold;
     font-style: italic;
+    margin-left: 14px;
 }
 
 
 /* Botoes verisculos */
-
 .versiculos {
     display: grid;
     flex-wrap: wrap;
@@ -233,16 +287,3 @@ h3 {
     
 }
 
-/*.versiculo-texto {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    margin: auto;
-    max-width: 90%;
-    padding: 15px;
-    background-color: rgba(255, 255, 255, 0.1);
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}*/
