@@ -42,7 +42,7 @@ function createCapitulosButtons(livro) {
 async function loadVersiculo(livro, capitulo, versiculo) {
     const response = await fetch(`${livro}/${capitulo}.html`);
     const html = await response.text();
-    
+        
     // Cria um elemento temporário para carregar o HTML e filtrar o versículo desejado
     const tempDiv = document.createElement('div');
     tempDiv.innerHTML = html;
@@ -175,6 +175,10 @@ window.onload = () => {
     img.classList.add('watermark-image'); // Adiciona a classe para estilizar
     watermarkContainer.appendChild(img); 
 };
+
+
+
+
 
 
 /* esse duplica os botões dos versiculo 310824 1830
