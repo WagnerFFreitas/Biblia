@@ -1,5 +1,6 @@
 
 
+
 /* Configura o corpo da página */
 body {
     background-color: #181818;
@@ -8,6 +9,14 @@ body {
     margin: 0;
     width: 100%;
     overflow-x: hidden;
+
+
+    
+    /*background-image: url('biblia.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-opacity: 0.3; /* Ajuste a opacidade da imagem */
 }
 
 /* Configura o H1 do título principal */
@@ -57,32 +66,40 @@ nav ul li a:hover {
     background: rgba(255, 255, 255, 0.1);
 }
 
-/* Menu lateral dos livros */
+/* Configura o menu lateral dos livros */
 .menu-livros {
     flex: 1;
     margin-right: 20px;
-    height: 100vh; /* Altura total da janela */
-    /*height: 730px;*/
+    height: 100vh;
     overflow-y: auto;
-    background-color: #181818; 
+    background-color: #181818;
     color: #fff;
     padding: 20px;
     position: fixed;
+    top: 130px;
+    left: 0;
+    width: 210px;
+    bottom: 0;
+    z-index: 1;
+    height: 722px;
     
 }
 
+/* Configura a largura da barra de rolagem do menu lateral */ 
 .menu-livros::-webkit-scrollbar {
-    width: 10px; /* Largura da barra de rolagem */
+    width: 12px;
 }
+
 
 .menu-livros::-webkit-scrollbar-track {
-    background:  rgba(255, 255, 255, 0.1);
+    background: #383838;
 }
 
+/* Configura a cor, arredondamento e a margem da barra de rolagem */  
 .menu-livros::-webkit-scrollbar-thumb {
-    background: #555; /* Cor da barra de rolagem */
-    border-radius: 10px; /* Arredonda as bordas */
-    margin: 5px; /* Margem da barra de rolagem */
+    background: #a7a2a2;
+    border-radius: 10px;
+    margin: 5px;
 }
 
 
@@ -107,11 +124,6 @@ nav ul li a:hover {
 .menu-livros a:hover {
     text-decoration: underline; /* Sublinha ao passar o mouse */
 }
-
-
-
-
-
 
 
 .content {
@@ -285,6 +297,78 @@ h3 {
     position: relative;
     z-index: 1;
     text-align: center;
-    
 }
+
+/* Configuração da barra do rodapé */
+footer {
+    background-color: #383838;
+    text-align: center;
+    padding: fixed;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0px;
+    z-index: 1;
+    height: 30px;
+}
+
+/* Configura o tamanho da fonte e a altura da barra inferior da pagina */
+footer p {
+    font-size: 16px;
+    line-height: 0.2;
+}
+
+
+/* Imagem da Bíblia */
+.watermark {
+    position: fixed; /* Posiciona a imagem fixa na tela */
+    top: 0; /* Posição vertical: topo da tela */
+    left: 0; /* Posição horizontal: esquerda da tela */
+    width: 100%; /* Largura da imagem ocupa 100% da tela */
+    height: 100%; /* Altura da imagem ocupa 100% da tela */
+    opacity: 0.3; /* Define a opacidade da imagem para 30% */
+    z-index: 10; /* Define o nível de empilhamento da imagem (maior valor fica por cima) */
+    pointer-events: none; /* Impede que a imagem seja clicável */
+    overflow: hidden; /* Oculta qualquer conteúdo que exceda as dimensões da imagem */
+    background-size: cover; /* Estica a imagem para cobrir todo o container */
+    background-repeat: no-repeat; /* Impede que a imagem se repita */
+    background-position: center; /* Centraliza a imagem no container */
+}
+
+/*.watermark-image {
+    /* Remova as regras de estilo para a classe watermark-image, pois a imagem é agora um background *
+}*/
+
+
+
+/* Imagem da Bíblia 310824 1815*/
+/*.watermark {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.3;
+    z-index: 10;
+    pointer-events: none;
+    overflow: hidden;
+}
+
+.watermark img {
+    position: absolute;
+    bottom: -220px;
+    left: 0;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+
+  
+
+}
+
+/* Possível estilo que está sendo aplicado */
+/*.hide-watermark .watermark img {
+    display: none; /* Isso esconderia a imagem 
+}*/
+
 
