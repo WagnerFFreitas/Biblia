@@ -1,9 +1,707 @@
 
 
 
+
+
+
+// os botoes estão funcionando e a opção do livro 020924 1728
+/*const livros = {
+    "genesis": {
+        "capitulos": 50
+    },
+    "exodo": {
+        "capitulos": 40
+    },
+    "levitico": {
+        "capitulos": 27
+    },
+    // Adicione outros livros conforme necessário
+};
+
+let titulo = null;
+let activeChapterButton = null; // Variável para rastrear o capítulo ativo
+let activeBookLink = null; // Variável para rastrear o livro ativo
+
+// Função para criar os botões de capítulos
+function createCapitulosButtons(livro) {
+    const capitulos = livros[livro].capitulos;
+    const capitulosContainer = document.createElement('div');
+    capitulosContainer.classList.add('capitulos');
+
+    for (let i = 1; i <= capitulos; i++) {
+        const button = document.createElement('button');
+        button.textContent = `${i}`;
+        button.classList.add('botao-capitulo');
+        button.addEventListener('click', () => {
+            toggleVersiculos(livro, i, capitulosContainer, button);
+        });
+        capitulosContainer.appendChild(button);
+    }
+    return capitulosContainer;
+}
+
+// Função para alternar a exibição dos versículos
+function toggleVersiculos(livro, capitulo, capitulosContainer, button) {
+    let existingVersiculos = capitulosContainer.nextElementSibling;
+
+    // Se o mesmo botão de capítulo for clicado novamente, remova os botões dos versículos e o texto do versículo
+    if (activeChapterButton === button) {
+        if (existingVersiculos && existingVersiculos.classList.contains('versiculos')) {
+            existingVersiculos.remove();
+        }
+
+        const existingVersiculoContent = document.querySelector('.versiculo');
+        if (existingVersiculoContent) {
+            existingVersiculoContent.remove();
+        }
+
+        activeChapterButton = null; // Reseta o capítulo ativo
+    } else {
+        // Se um novo botão de capítulo for clicado, exiba os versículos correspondentes
+        if (existingVersiculos && existingVersiculos.classList.contains('versiculos')) {
+            existingVersiculos.remove();
+        }
+
+        const existingVersiculoContent = document.querySelector('.versiculo');
+        if (existingVersiculoContent) {
+            existingVersiculoContent.remove();
+        }
+
+        const versiculosContainer = createVersiculosButtons(livro, capitulo);
+        capitulosContainer.after(versiculosContainer);
+        activeChapterButton = button; // Define o capítulo ativo
+    }
+}
+
+// Função para criar os botões de versículos
+function createVersiculosButtons(livro, capitulo) {
+    const versiculosContainer = document.createElement('div');
+    versiculosContainer.classList.add('versiculos');
+
+    const numVersiculos = getNumVersiculos(livro, capitulo);
+
+    for (let i = 1; i <= numVersiculos; i++) {
+        const button = document.createElement('button');
+        button.textContent = ` ${i}`;
+        button.classList.add('botao-versiculo');
+        button.addEventListener('click', () => {
+            loadVersiculo(livro, capitulo, i);
+        });
+        versiculosContainer.appendChild(button);
+    }
+    return versiculosContainer;
+}
+
+// Função para carregar o conteúdo de um versículo específico
+async function loadVersiculo(livro, capitulo, versiculo) {
+    const response = await fetch(`${livro}/${capitulo}.html`);
+    const html = await response.text();
+
+    const tempDiv = document.createElement('div');
+    tempDiv.innerHTML = html;
+
+    const versiculoContent = tempDiv.querySelector(`#versiculo-${versiculo}`);
+    const content = document.querySelector('.content');
+
+    // Verifica se o versículo já está sendo exibido e o substitui
+    const existingVersiculo = content.querySelector('.versiculo');
+    if (existingVersiculo) {
+        existingVersiculo.remove();
+    }
+
+    const versiculoElement = document.createElement('div');
+    versiculoElement.classList.add('versiculo');
+    versiculoElement.classList.add('versiculo-texto');
+
+    if (versiculoContent) {
+        versiculoElement.appendChild(versiculoContent);
+    } else {
+        versiculoElement.textContent = 'Versículo não encontrado.';
+    }
+
+    content.appendChild(versiculoElement);
+
+    titulo.textContent = `${livro.toUpperCase()} - CAPÍTULO ${capitulo} - VERSÍCULO ${versiculo}`;
+}
+
+// Função para carregar o livro
+function loadBook(livro, linkElement) {
+    const content = document.querySelector('.content');
+
+    // Se o mesmo livro for clicado novamente, recolha a exibição dos capítulos
+    if (activeBookLink === linkElement) {
+        while (content.firstChild) {
+            content.removeChild(content.firstChild);
+        }
+        activeBookLink = null; // Reseta o livro ativo
+        activeChapterButton = null; // Reseta o capítulo ativo
+    } else {
+        // Remove o conteúdo existente antes de carregar novo livro
+        while (content.firstChild) {
+            content.removeChild(content.firstChild);
+        }
+
+        const bookContent = document.createElement('div');
+        bookContent.classList.add('book-content');
+
+        titulo = document.createElement('h2');
+        titulo.textContent = `${livro.toUpperCase()}`;
+        bookContent.appendChild(titulo);
+
+        const capitulosContainer = createCapitulosButtons(livro);
+        bookContent.appendChild(capitulosContainer);
+
+        content.appendChild(bookContent);
+
+        activeBookLink = linkElement; // Define o livro ativo
+        activeChapterButton = null; // Reseta o capítulo ativo
+    }
+}
+
+// Função para obter o número de versículos em um capítulo específico
+function getNumVersiculos(livro, capitulo) {
+    const versiculosPorCapitulo = {
+        "genesis": {
+            1: 31,
+            2: 25,
+            3: 24,
+            // Adicione outros capítulos conforme necessário
+        },
+        // Adicione outros livros conforme necessário
+    };
+
+    return versiculosPorCapitulo[livro]?.[capitulo] || 0;
+}
+
+// Adiciona eventos de clique aos links dos livros
+const livrosLinks = document.querySelectorAll('.menu-livros a');
+livrosLinks.forEach(link => {
+    link.addEventListener('click', (event) => {
+        event.preventDefault();
+        const livro = link.dataset.livro;
+        loadBook(livro, link);
+    });
+});
+
+// Carrega a imagem da Bíblia assim que a página abre
+window.onload = () => {
+    const watermarkContainer = document.querySelector('.watermark');
+    const img = document.createElement('img');
+    img.src = 'biblia.png';
+    img.alt = "Marca d'água da Bíblia";
+    img.classList.add('watermark-image');
+    watermarkContainer.appendChild(img); 
+};
+*/
+
+
+/*/ aqui so ficou faltando a opção de recolher os livros ao clicar de novo e a imagem de fundo
+const livros = {
+    "genesis": {
+        "capitulos": 50
+    },
+    "exodo": {
+        "capitulos": 40
+    },
+    "levitico": {
+        "capitulos": 27
+    },
+    // Adicione outros livros conforme necessário
+};
+
+let titulo = null;
+let activeChapterButton = null; // Variável para rastrear o capítulo ativo
+
+// Função para criar os botões de capítulos
+function createCapitulosButtons(livro) {
+    const capitulos = livros[livro].capitulos;
+    const capitulosContainer = document.createElement('div');
+    capitulosContainer.classList.add('capitulos');
+
+    for (let i = 1; i <= capitulos; i++) {
+        const button = document.createElement('button');
+        button.textContent = `${i}`;
+        button.classList.add('botao-capitulo');
+        button.addEventListener('click', () => {
+            toggleVersiculos(livro, i, capitulosContainer, button);
+        });
+        capitulosContainer.appendChild(button);
+    }
+    return capitulosContainer;
+}
+
+// Função para alternar a exibição dos versículos
+function toggleVersiculos(livro, capitulo, capitulosContainer, button) {
+    let existingVersiculos = capitulosContainer.nextElementSibling;
+
+    // Se o mesmo botão for clicado novamente, remova os botões dos versículos e o texto do versículo
+    if (activeChapterButton === button) {
+        if (existingVersiculos && existingVersiculos.classList.contains('versiculos')) {
+            existingVersiculos.remove();
+        }
+
+        const existingVersiculoContent = document.querySelector('.versiculo');
+        if (existingVersiculoContent) {
+            existingVersiculoContent.remove();
+        }
+
+        activeChapterButton = null; // Reseta o capítulo ativo
+    } else {
+        // Se um novo botão de capítulo for clicado, exiba os versículos correspondentes
+        if (existingVersiculos && existingVersiculos.classList.contains('versiculos')) {
+            existingVersiculos.remove();
+        }
+
+        const existingVersiculoContent = document.querySelector('.versiculo');
+        if (existingVersiculoContent) {
+            existingVersiculoContent.remove();
+        }
+
+        const versiculosContainer = createVersiculosButtons(livro, capitulo);
+        capitulosContainer.after(versiculosContainer);
+        activeChapterButton = button; // Define o capítulo ativo
+    }
+}
+
+// Função para criar os botões de versículos
+function createVersiculosButtons(livro, capitulo) {
+    const versiculosContainer = document.createElement('div');
+    versiculosContainer.classList.add('versiculos');
+
+    const numVersiculos = getNumVersiculos(livro, capitulo);
+
+    for (let i = 1; i <= numVersiculos; i++) {
+        const button = document.createElement('button');
+        button.textContent = ` ${i}`;
+        button.classList.add('botao-versiculo');
+        button.addEventListener('click', () => {
+            loadVersiculo(livro, capitulo, i);
+        });
+        versiculosContainer.appendChild(button);
+    }
+    return versiculosContainer;
+}
+
+// Função para carregar o conteúdo de um versículo específico
+async function loadVersiculo(livro, capitulo, versiculo) {
+    const response = await fetch(`${livro}/${capitulo}.html`);
+    const html = await response.text();
+
+    const tempDiv = document.createElement('div');
+    tempDiv.innerHTML = html;
+
+    const versiculoContent = tempDiv.querySelector(`#versiculo-${versiculo}`);
+    const content = document.querySelector('.content');
+
+    // Verifica se o versículo já está sendo exibido e o substitui
+    const existingVersiculo = content.querySelector('.versiculo');
+    if (existingVersiculo) {
+        existingVersiculo.remove();
+    }
+
+    const versiculoElement = document.createElement('div');
+    versiculoElement.classList.add('versiculo');
+    versiculoElement.classList.add('versiculo-texto');
+
+    if (versiculoContent) {
+        versiculoElement.appendChild(versiculoContent);
+    } else {
+        versiculoElement.textContent = 'Versículo não encontrado.';
+    }
+
+    content.appendChild(versiculoElement);
+
+    titulo.textContent = `${livro.toUpperCase()} - CAPÍTULO ${capitulo} - VERSÍCULO ${versiculo}`;
+}
+
+// Função para carregar o livro
+function loadBook(livro) {
+    const content = document.querySelector('.content');
+
+    // Remove o conteúdo existente antes de carregar novo livro
+    while (content.firstChild) {
+        content.removeChild(content.firstChild);
+    }
+
+    const bookContent = document.createElement('div');
+    bookContent.classList.add('book-content');
+
+    titulo = document.createElement('h2');
+    titulo.textContent = `${livro.toUpperCase()}`;
+    bookContent.appendChild(titulo);
+
+    const capitulosContainer = createCapitulosButtons(livro);
+    bookContent.appendChild(capitulosContainer);
+
+    content.appendChild(bookContent);
+}
+
+// Função para obter o número de versículos em um capítulo específico
+function getNumVersiculos(livro, capitulo) {
+    const versiculosPorCapitulo = {
+        "genesis": {
+            1: 31,
+            2: 25,
+            3: 24,
+            // Adicione outros capítulos conforme necessário
+        },
+        // Adicione outros livros conforme necessário
+    };
+
+    return versiculosPorCapitulo[livro]?.[capitulo] || 0;
+}
+
+// Adiciona eventos de clique aos links dos livros
+const livrosLinks = document.querySelectorAll('.menu-livros a');
+livrosLinks.forEach(link => {
+    link.addEventListener('click', (event) => {
+        event.preventDefault();
+        const livro = link.dataset.livro;
+        loadBook(livro);
+    });
+});
+
+// Carrega a imagem da Bíblia assim que a página abre
+window.onload = () => {
+    const watermarkContainer = document.querySelector('.watermark');
+    const img = document.createElement('img');
+    img.src = 'biblia.png';
+    img.alt = "Marca d'água da Bíblia";
+    img.classList.add('watermark-image');
+    watermarkContainer.appendChild(img); 
+};
+*/
+
+
+
+// recolhe os botões do versiculo ao clicar a segunda vez 020924 1620
+/*const livros = {
+    "genesis": {
+        "capitulos": 50
+    },
+    "exodo": {
+        "capitulos": 40
+    },
+    "levitico": {
+        "capitulos": 27
+    },
+    // Adicione outros livros conforme necessário
+};
+
+let titulo = null;
+
+// Função para criar os botões de capítulos
+function createCapitulosButtons(livro) {
+    const capitulos = livros[livro].capitulos;
+    const capitulosContainer = document.createElement('div');
+    capitulosContainer.classList.add('capitulos');
+
+    for (let i = 1; i <= capitulos; i++) {
+        const button = document.createElement('button');
+        button.textContent = `${i}`;
+        button.classList.add('botao-capitulo');
+        button.addEventListener('click', () => {
+            showVersiculos(livro, i, capitulosContainer);
+        });
+        capitulosContainer.appendChild(button);
+    }
+    return capitulosContainer;
+}
+
+// Função para exibir os versículos
+function showVersiculos(livro, capitulo, capitulosContainer) {
+    let existingVersiculos = capitulosContainer.nextElementSibling;
+
+    // Remove os botões de versículos se já existirem
+    if (existingVersiculos && existingVersiculos.classList.contains('versiculos')) {
+        existingVersiculos.remove();
+        return;
+    }
+
+    // Remove o conteúdo do versículo se os botões de versículos forem removidos
+    const existingVersiculoContent = document.querySelector('.versiculo');
+    if (existingVersiculoContent) {
+        existingVersiculoContent.remove();
+    }
+
+    // Cria e exibe os botões dos versículos
+    const versiculosContainer = createVersiculosButtons(livro, capitulo);
+    capitulosContainer.after(versiculosContainer);
+}
+
+// Função para criar os botões de versículos
+function createVersiculosButtons(livro, capitulo) {
+    const versiculosContainer = document.createElement('div');
+    versiculosContainer.classList.add('versiculos');
+
+    const numVersiculos = getNumVersiculos(livro, capitulo);
+
+    for (let i = 1; i <= numVersiculos; i++) {
+        const button = document.createElement('button');
+        button.textContent = ` ${i}`;
+        button.classList.add('botao-versiculo');
+        button.addEventListener('click', () => {
+            loadVersiculo(livro, capitulo, i);
+        });
+        versiculosContainer.appendChild(button);
+    }
+    return versiculosContainer;
+}
+
+// Função para carregar o conteúdo de um versículo específico
+async function loadVersiculo(livro, capitulo, versiculo) {
+    const response = await fetch(`${livro}/${capitulo}.html`);
+    const html = await response.text();
+
+    const tempDiv = document.createElement('div');
+    tempDiv.innerHTML = html;
+
+    const versiculoContent = tempDiv.querySelector(`#versiculo-${versiculo}`);
+    const content = document.querySelector('.content');
+
+    // Verifica se o versículo já está sendo exibido e o substitui
+    const existingVersiculo = content.querySelector('.versiculo');
+    if (existingVersiculo) {
+        existingVersiculo.remove();
+    }
+
+    const versiculoElement = document.createElement('div');
+    versiculoElement.classList.add('versiculo');
+    versiculoElement.classList.add('versiculo-texto');
+
+    if (versiculoContent) {
+        versiculoElement.appendChild(versiculoContent);
+    } else {
+        versiculoElement.textContent = 'Versículo não encontrado.';
+    }
+
+    content.appendChild(versiculoElement);
+
+    titulo.textContent = `${livro.toUpperCase()} - CAPÍTULO ${capitulo} - VERSÍCULO ${versiculo}`;
+}
+
+// Função para carregar o livro
+function loadBook(livro) {
+    const content = document.querySelector('.content');
+
+    // Remove o conteúdo existente antes de carregar novo livro
+    while (content.firstChild) {
+        content.removeChild(content.firstChild);
+    }
+
+    const bookContent = document.createElement('div');
+    bookContent.classList.add('book-content');
+
+    titulo = document.createElement('h2');
+    titulo.textContent = `${livro.toUpperCase()}`;
+    bookContent.appendChild(titulo);
+
+    const capitulosContainer = createCapitulosButtons(livro);
+    bookContent.appendChild(capitulosContainer);
+
+    content.appendChild(bookContent);
+}
+
+// Função para obter o número de versículos em um capítulo específico
+function getNumVersiculos(livro, capitulo) {
+    const versiculosPorCapitulo = {
+        "genesis": {
+            1: 31,
+            2: 25,
+            3: 24,
+            // Adicione outros capítulos conforme necessário
+        },
+        // Adicione outros livros conforme necessário
+    };
+
+    return versiculosPorCapitulo[livro]?.[capitulo] || 0;
+}
+
+// Adiciona eventos de clique aos links dos livros
+const livrosLinks = document.querySelectorAll('.menu-livros a');
+livrosLinks.forEach(link => {
+    link.addEventListener('click', (event) => {
+        event.preventDefault();
+        const livro = link.dataset.livro;
+        loadBook(livro);
+    });
+});
+
+// Carrega a imagem da Bíblia assim que a página abre
+window.onload = () => {
+    const watermarkContainer = document.querySelector('.watermark');
+    const img = document.createElement('img');
+    img.src = 'biblia.png';
+    img.alt = "Marca d'água da Bíblia";
+    img.classList.add('watermark-image');
+    watermarkContainer.appendChild(img); 
+};
+*/
+
+// ao clicar a segunda vez a exibição some 020924 1616
+/*const livros = {
+    "genesis": {
+        "capitulos": 50
+    },
+    "exodo": {
+        "capitulos": 40
+    },
+    "levitico": {
+        "capitulos": 27
+    },
+    // Adicione outros livros conforme necessário
+};
+
+let titulo = null;
+
+// Função para criar os botões de capítulos
+function createCapitulosButtons(livro) {
+    const capitulos = livros[livro].capitulos;
+    const capitulosContainer = document.createElement('div');
+    capitulosContainer.classList.add('capitulos');
+
+    for (let i = 1; i <= capitulos; i++) {
+        const button = document.createElement('button');
+        button.textContent = `${i}`;
+        button.classList.add('botao-capitulo');
+        button.addEventListener('click', () => {
+            showVersiculos(livro, i, capitulosContainer);
+        });
+        capitulosContainer.appendChild(button);
+    }
+    return capitulosContainer;
+}
+
+// Função para exibir os versículos
+function showVersiculos(livro, capitulo, capitulosContainer) {
+    let existingVersiculos = capitulosContainer.nextElementSibling;
+
+    // Remove os botões de versículos se já existirem
+    if (existingVersiculos && existingVersiculos.classList.contains('versiculos')) {
+        existingVersiculos.remove();
+        return;
+    }
+
+    // Cria e exibe os botões dos versículos
+    const versiculosContainer = createVersiculosButtons(livro, capitulo);
+    capitulosContainer.after(versiculosContainer);
+}
+
+// Função para criar os botões de versículos
+function createVersiculosButtons(livro, capitulo) {
+    const versiculosContainer = document.createElement('div');
+    versiculosContainer.classList.add('versiculos');
+
+    const numVersiculos = getNumVersiculos(livro, capitulo);
+
+    for (let i = 1; i <= numVersiculos; i++) {
+        const button = document.createElement('button');
+        button.textContent = ` ${i}`;
+        button.classList.add('botao-versiculo');
+        button.addEventListener('click', () => {
+            loadVersiculo(livro, capitulo, i);
+        });
+        versiculosContainer.appendChild(button);
+    }
+    return versiculosContainer;
+}
+
+// Função para carregar o conteúdo de um versículo específico
+async function loadVersiculo(livro, capitulo, versiculo) {
+    const response = await fetch(`${livro}/${capitulo}.html`);
+    const html = await response.text();
+
+    const tempDiv = document.createElement('div');
+    tempDiv.innerHTML = html;
+
+    const versiculoContent = tempDiv.querySelector(`#versiculo-${versiculo}`);
+    const content = document.querySelector('.content');
+
+    // Verifica se o versículo já está sendo exibido
+    const existingVersiculo = content.querySelector('.versiculo');
+    if (existingVersiculo) {
+        existingVersiculo.remove();
+        return;
+    }
+
+    const versiculoElement = document.createElement('div');
+    versiculoElement.classList.add('versiculo');
+    versiculoElement.classList.add('versiculo-texto');
+
+    if (versiculoContent) {
+        versiculoElement.appendChild(versiculoContent);
+    } else {
+        versiculoElement.textContent = 'Versículo não encontrado.';
+    }
+
+    content.appendChild(versiculoElement);
+
+    titulo.textContent = `${livro.toUpperCase()} - CAPÍTULO ${capitulo} - VERSÍCULO ${versiculo}`;
+}
+
+// Função para carregar o livro
+function loadBook(livro) {
+    const content = document.querySelector('.content');
+
+    // Remove o conteúdo existente antes de carregar novo livro
+    while (content.firstChild) {
+        content.removeChild(content.firstChild);
+    }
+
+    const bookContent = document.createElement('div');
+    bookContent.classList.add('book-content');
+
+    titulo = document.createElement('h2');
+    titulo.textContent = `${livro.toUpperCase()}`;
+    bookContent.appendChild(titulo);
+
+    const capitulosContainer = createCapitulosButtons(livro);
+    bookContent.appendChild(capitulosContainer);
+
+    content.appendChild(bookContent);
+}
+
+// Função para obter o número de versículos em um capítulo específico
+function getNumVersiculos(livro, capitulo) {
+    const versiculosPorCapitulo = {
+        "genesis": {
+            1: 31,
+            2: 25,
+            3: 24,
+            // Adicione outros capítulos conforme necessário
+        },
+        // Adicione outros livros conforme necessário
+    };
+
+    return versiculosPorCapitulo[livro]?.[capitulo] || 0;
+}
+
+// Adiciona eventos de clique aos links dos livros
+const livrosLinks = document.querySelectorAll('.menu-livros a');
+livrosLinks.forEach(link => {
+    link.addEventListener('click', (event) => {
+        event.preventDefault();
+        const livro = link.dataset.livro;
+        loadBook(livro);
+    });
+});
+
+// Carrega a imagem da Bíblia assim que a página abre
+window.onload = () => {
+    const watermarkContainer = document.querySelector('.watermark');
+    const img = document.createElement('img');
+    img.src = 'biblia.png';
+    img.alt = "Marca d'água da Bíblia";
+    img.classList.add('watermark-image');
+    watermarkContainer.appendChild(img); 
+};*/
+
+
+
+
 // esta duplicando ao clicar a segunda vez na opção
 // Armazena os capítulos e versículos de cada livro da Bíblia
-const livros = {
+/*const livros = {
     "genesis": {
         "capitulos": 50
     },
@@ -175,13 +873,13 @@ window.onload = () => {
     img.classList.add('watermark-image'); // Adiciona a classe para estilizar
     watermarkContainer.appendChild(img); 
 };
+*/
 
 
 
 
 
-
-/* esse duplica os botões dos versiculo 310824 1830
+/*/ esse duplica os botões dos versiculo mas a imagem permanece 310824 1830
 // Armazena os capítulos e versículos de cada livro da Bíblia
 const livros = {
     "genesis": {
@@ -341,8 +1039,8 @@ window.onload = () => {
     img.classList.add('watermark-image'); // Adiciona a classe para estilizar
     watermarkContainer.appendChild(img); 
 };
-
 */
+
 
 
 // Armazena os capítulos e versículos de cada livro da Bíblia
