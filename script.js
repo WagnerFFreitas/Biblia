@@ -1,6 +1,9 @@
 
 
+
+
 // Está funcionando todos os botões e as opções do menu dos livros 04/09/24 16:53
+// Mas ao clicar em um outro livro não está recolhendo os botões dos versículos que estão na tela
 // Objeto que contém os livros e capítulos
 const livros = {
     "genesis": {
@@ -12,8 +15,197 @@ const livros = {
     "levitico": {
         "capitulos": 27
     },
-    // Adicione outros livros conforme necessário
+    "numeros": {
+        "capitulos": 36
+    },
+    "deuteronomio": {
+        "capitulos": 34
+    },
+    "josue": {
+        "capitulos": 24
+    },
+    "juizes": {
+        "capitulos": 21
+    },
+    "rute": {
+        "capitulos": 4
+    },
+    "1samuel": {
+        "capitulos": 31
+    },
+    "2samuel": {
+        "capitulos": 24
+    },
+    "1reis": {
+        "capitulos": 22
+    },
+    "2reis": {
+        "capitulos": 25
+    },
+    "1cronicas": {
+        "capitulos": 29
+    },
+    "2cronicas": {
+        "capitulos": 36
+    },
+    "esdras": {
+        "capitulos": 10
+    },
+    "neemia": {
+        "capitulos": 13
+    },
+    "ester": {
+        "capitulos": 10
+    },
+    "jovem": {
+        "capitulos": 42
+    },
+    "salmos": {
+        "capitulos": 150
+    },
+    "provérbios": {
+        "capitulos": 31
+    },
+    "eclesiastes": {
+        "capitulos": 12
+    },
+    "cantares": {
+        "capitulos": 8
+    },
+    "isaías": {
+        "capitulos": 66
+    },
+    "jeremias": {
+        "capitulos": 52
+    },
+    "lamentações": {
+        "capitulos": 5
+    },
+    "ezequiel": {
+        "capitulos": 48
+    },
+    "daniel": {
+        "capitulos": 12
+    },
+    "oséias": {
+        "capitulos": 14
+    },
+    "joel": {
+        "capitulos": 3
+    },
+    "amós": {
+        "capitulos": 9
+    },
+    "abdias": {
+        "capitulos": 1
+    },
+    "jonas": {
+        "capitulos": 4
+    },
+    "miqueias": {
+        "capitulos": 7
+    },
+    "naum": {
+        "capitulos": 3
+    },
+    "habacuque": {
+        "capitulos": 3
+    },
+    "safonias": {
+        "capitulos": 3
+    },
+    "ageu": {
+        "capitulos": 2
+    },
+    "zacarias": {
+        "capitulos": 14
+    },
+    "malaquias": {
+        "capitulos": 4
+    },
+    "mateus": {
+        "capitulos": 28
+    },
+    "marcos": {
+        "capitulos": 16
+    },
+    "lucas": {
+        "capitulos": 24
+    },
+    "joão": {
+        "capitulos": 21
+    },
+    "atos": {
+        "capitulos": 28
+    },
+    "romanos": {
+        "capitulos": 16
+    },
+    "1corintios": {
+        "capitulos": 16
+    },
+    "2corintios": {
+        "capitulos": 13
+    },
+    "gálatas": {
+        "capitulos": 6
+    },
+    "efésios": {
+        "capitulos": 6
+    },
+    "filipenses": {
+        "capitulos": 4
+    },
+    "colossenses": {
+        "capitulos": 4
+    },
+    "1tessalonicenses": {
+        "capitulos": 5
+    },
+    "2tessalonicenses": {
+        "capitulos": 3
+    },
+    "1timóteo": {
+        "capitulos": 6
+    },
+    "2timóteo": {
+        "capitulos": 4
+    },
+    "tito": {
+        "capitulos": 3
+    },
+    "filemom": {
+        "capitulos": 1
+    },
+    "hebreus": {
+        "capitulos": 13
+    },
+    "tiago": {
+        "capitulos": 5
+    },
+    "1pedro": {
+        "capitulos": 5
+    },
+    "2pedro": {
+        "capitulos": 3
+    },
+    "1joão": {
+        "capitulos": 5
+    },
+    "2joão": {
+        "capitulos": 1
+    },
+    "3joão": {
+        "capitulos": 1
+    },
+    "jude": {
+        "capitulos": 1
+    },
+    "apocalipse": {
+        "capitulos": 22
+    }
 };
+
 
 // Variável global para o elemento h2, livro ativo e botão de versículo ativo
 let titulo = null;
@@ -204,15 +396,62 @@ function getNumVersiculos(livro, capitulo) {
             1: 31,
             2: 25,
             3: 24,
-            // Adicione outros capítulos conforme necessário
-        },
+            5: 32,
+            6: 22,
+            7: 24,
+            8: 22,
+            9: 29,
+            10: 32,
+            11: 32,
+            12: 20,
+            13: 18,
+            14: 24,
+            15: 21,
+            16: 16,
+            17: 27,
+            18: 33,
+            19: 38,
+            20: 18,
+            21: 34,
+            22: 24,
+            23: 20,
+            24: 67,
+            25: 34,
+            26: 35,
+            27: 46,
+            28: 22,
+            29: 35,
+            30: 43,
+            31: 55,
+            32: 32,
+            33: 20,
+            34: 31,
+            35: 29,
+            36: 43,
+            37: 36,
+            38: 30,
+            39: 23,
+            40: 23,
+            41: 57,
+            42: 38,
+            43: 34,
+            44: 34,
+            45: 28,
+            46: 34,
+            47: 31,
+            48: 22,
+            49: 33,
+            50: 26
+        },                                                                                           
         // Adicione outros livros conforme necessário
     };
     return versiculosPorCapitulo[livro]?.[capitulo] || 0;
 }
 
+
+
 // Carrega a imagem da Bíblia assim que a página abre
-window.onload = () => {
+/*window.onload = () => {
     const content = document.querySelector('.content');
     const watermarkContainer = document.createElement('div');
     watermarkContainer.classList.add('watermark');
@@ -222,6 +461,22 @@ window.onload = () => {
     img.classList.add('watermark-image');
     watermarkContainer.appendChild(img);
     content.appendChild(watermarkContainer);
+};*/
+
+// Carrega a imagem da Bíblia assim que a página abre
+window.onload = () => {
+    const content = document.querySelector('.content'); // Seleciona o elemento com a classe '.content'
+    const watermarkContainer = document.createElement('div'); // Cria um novo elemento 'div'
+    watermarkContainer.classList.add('watermark'); // Adiciona a classe 'watermark' ao 'div'
+    
+    const img = document.createElement('img'); // Cria um novo elemento de imagem
+    img.src = 'biblia.png'; // Define o caminho da imagem (certifique-se de que está correto)
+    img.alt = "Marca d'água da Bíblia"; // Adiciona um texto alternativo
+    img.classList.add('watermark-image'); // Adiciona uma classe para estilizar a imagem
+    
+    watermarkContainer.appendChild(img); // Insere a imagem dentro do container 'watermark'
+    content.appendChild(watermarkContainer); // Adiciona o container 'watermark' à página
 };
+
 
 
