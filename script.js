@@ -391,6 +391,7 @@ function getNumVersiculos(livro, capitulo) {
             1: 31,
             2: 25,
             3: 24,
+            4: 26,
             5: 32,
             6: 22,
             7: 24,
