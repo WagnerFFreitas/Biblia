@@ -459,240 +459,93 @@ window.onload = () => {
     content.appendChild(watermarkContainer); // Adiciona o container 'watermark' à página
 };
 
-//------
+//-------------------
 
-// Função para abrir uma nova janela com o versículo selecionado
-function openVersiculoWindow(livro, capitulo, versiculo) {
-    // Cria uma nova janela que ocupa a tela inteira
-    const width = window.screen.width;
-    const height = window.screen.height;
-    const versiculoWindow = window.open('', 'Versículo', `width=${width},height=${height},left=0,top=0`);
 
-    // Verifica se a janela foi criada com sucesso
-    if (!versiculoWindow) {
-        alert('Não foi possível abrir a nova janela. Verifique as configurações de pop-up do navegador.');
+
+//------------
+
+
+
+// Abre uma nova janela com o versiculo que esta sendo exibido e ao clicar no botão PROXIMO ele avança para o proximo versiculo
+// Funciona o botão proximo, mas saltando de capitulo de capitulo 1:1 2:2 e 3:3 17/09/24 19:04
+// 
+// Função para abrir a janela slide e passar o versículo atual
+function abrirJanelaSlide() {
+    // Verifique se a janela já existe e está aberta
+    if (window.janelaSlide && !window.janelaSlide.closed) {
+        window.janelaSlide.focus();
         return;
     }
 
-    // Define o conteúdo e o estilo da nova janela
-    versiculoWindow.document.open();
-    versiculoWindow.document.write(`
+    // Crie a janela
+    window.janelaSlide = window.open('', 'JanelaSlide', 'width=500,height=600');
+
+    // Adicione um HTML básico à nova janela
+    window.janelaSlide.document.open();
+    window.janelaSlide.document.write(`
+        <!DOCTYPE html>
         <html>
         <head>
-            <title>${livro.toUpperCase()} ${capitulo}:${versiculo}</title>
+            <title>Janela Slide</title>
             <style>
-                body {
-                    margin: 0;
-                    padding: 0;
-                    height: 100vh;
-                    width: 100vw;
-                    overflow: hidden;
-                }
-                /*.background {
-                    position: absolute;
-                    top: 0; /* Move o contêiner de fundo para cima 
-                    left: 0;
-                    width: 100vw;
-                    height: 100vh;
-                    background-color: #181818; /* Cor de fundo 
-                    background-image: url('biblia.png');
-                    background-size: cover;
-                    background-position: center -700px; /* Move apenas a imagem de fundo para cima 
-                    background-repeat: no-repeat;
-                    z-index: -1; /* Coloca a imagem de fundo atrás do conteúdo 
-                    opacity: 0.3;
-                    
-                }*/
-
-                .background {
-                    position: absolute;
-                    top: 0; /* Mantém o contêiner no lugar */
-                    left: 0;
-                    width: 100vw;
-                    height: 100vh;
-                    background-color: #181818; /* Cor de fundo */
-                    z-index: -1; /* Coloca a imagem de fundo atrás do conteúdo */
-                }
-
-                .background::before {
-                    content: '';
-                    position: absolute;
-                    top: 0;
-                    left: 0;
-                    width: 100%;
-                    height: 100%;
-                    background-image: url('biblia.png');
-                    background-size: cover;
-                    background-position: center -700px; /* Move apenas a imagem de fundo para cima */
-                    background-repeat: no-repeat;
-                    opacity: 0.3; /* Aplica opacidade apenas à imagem */
-                    z-index: -1;
-                }    
-
-
-                .content {
-                    text-align: center;
-                    font-size: 24px;
-                    position: absolute;
-                    top: 50%;
-                    left: 50%;
-                    transform: translate(-50%, -50%);
-                    color: white;
-                }
-                button {
-                    margin: 0 10px;
-                    padding: 10px 20px;
-                    font-size: 16px;
-                }
+                body { font-family: Arial, sans-serif; padding: 20px; }
+                button { padding: 10px 20px; font-size: 16px; }
+                #versiculo-container { margin-bottom: 20px; }
             </style>
         </head>
         <body>
-            <div class="background"></div>
-            <div class="content">${document.querySelector(`#versiculo-${versiculo}`).textContent}</div>
-            <div style="text-align: center; margin-top: 20px;">
-                <button onclick="window.opener.openVersiculoWindow('${livro}', ${capitulo}, ${parseInt(versiculo) + 1})">Próximo Versículo</button>
-                <button onclick="window.opener.openVersiculoWindow('${livro}', ${capitulo}, ${parseInt(versiculo) - 1})">Versículo Anterior</button>
-            </div>
+            <div id="versiculo-container">Carregando...</div>
+            <button id="proximo-botao">Próximo</button>
+            <script>
+                let versiculoAtual = 1; // Inicia com o primeiro versículo
+                const totalVersiculos = 31; // Total de versículos (ajuste conforme necessário)
+
+                function carregarVersiculo(numero) {
+                    if (numero < 1 || numero > totalVersiculos) {
+                        document.getElementById('versiculo-container').innerHTML = 'Versículo não encontrado.';
+                        return;
+                    }
+                    
+                    fetch('genesis/' + numero + '.html')
+                        .then(response => response.text())
+                        .then(text => {
+                            const parser = new DOMParser();
+                            const doc = parser.parseFromString(text, 'text/html');
+                            const versiculo = doc.querySelector('#versiculo-' + numero);
+                            if (versiculo) {
+                                document.getElementById('versiculo-container').innerHTML = versiculo.innerHTML;
+                            } else {
+                                document.getElementById('versiculo-container').innerHTML = 'Versículo não encontrado.';
+                            }
+                        })
+                        .catch(error => {
+                            console.error('Erro ao carregar o versículo:', error);
+                            document.getElementById('versiculo-container').innerHTML = 'Erro ao carregar versículo';
+                        });
+                }
+
+                function proximoVersiculo() {
+                    versiculoAtual++;
+                    if (versiculoAtual > totalVersiculos) {
+                        versiculoAtual = 1; // Reinicia para o primeiro versículo se exceder o total
+                    }
+                    carregarVersiculo(versiculoAtual);
+                }
+
+                document.getElementById('proximo-botao').addEventListener('click', proximoVersiculo);
+
+                // Carrega o primeiro versículo
+                carregarVersiculo(versiculoAtual);
+            </script>
         </body>
         </html>
     `);
-    versiculoWindow.document.close();
+    window.janelaSlide.document.close();
 }
 
-// Adiciona um evento de clique ao link "Slide" no menu superior
+// Adicione o evento de clique ao link "Slide" na janela principal
 document.querySelector('header nav ul li:first-child a').addEventListener('click', (event) => {
     event.preventDefault();
-
-    if (activeLivro && activeCapitulo) {
-        // Abre a janela do versículo 1 do capítulo ativo
-        openVersiculoWindow(activeLivro, activeCapitulo, 1);
-    } else {
-        // Se nenhum livro ou capítulo estiver ativo, exibe um alerta
-        alert("Selecione um livro e capítulo primeiro.");
-    }
+    abrirJanelaSlide();
 });
-
-
-//------
-/*
-// 2ª tentativa sem marca d'agua
-// Janela para slide
-// Função para abrir uma nova janela com o versículo selecionado
-function openVersiculoWindow(livro, capitulo, versiculo) {
-    // Cria uma nova janela que ocupa a tela inteira
-    const width = window.screen.width;
-    const height = window.screen.height;
-    const versiculoWindow = window.open('', 'Versículo', `width=${width},height=${height},left=0,top=0`);
-
-    // Define o título da janela
-    versiculoWindow.document.title = `${livro.toUpperCase()} ${capitulo}:${versiculo}`;
-
-    // Insere o conteúdo do versículo na janela
-    const content = versiculoWindow.document.createElement('div');
-    content.textContent = document.querySelector(`#versiculo-${versiculo}`).textContent;
-    content.style.textAlign = 'center';
-    content.style.fontFamily = 'sans-serif';
-    content.style.fontSize = '24px';
-    versiculoWindow.document.body.appendChild(content);
-
-    // Adiciona um botão para o próximo versículo
-    const nextButton = versiculoWindow.document.createElement('button');
-    nextButton.textContent = 'Próximo Versículo';
-    nextButton.addEventListener('click', () => {
-        const nextVersiculo = parseInt(versiculo) + 1;
-        if (nextVersiculo <= getNumVersiculos(livro, capitulo)) {
-            openVersiculoWindow(livro, capitulo, nextVersiculo);
-        }
-    });
-    versiculoWindow.document.body.appendChild(nextButton);
-
-    // Adiciona um botão para o versículo anterior
-    const previousButton = versiculoWindow.document.createElement('button');
-    previousButton.textContent = 'Versículo Anterior';
-    previousButton.addEventListener('click', () => {
-        const previousVersiculo = parseInt(versiculo) - 1;
-        if (previousVersiculo > 0) {
-            openVersiculoWindow(livro, capitulo, previousVersiculo);
-        }
-    });
-    versiculoWindow.document.body.appendChild(previousButton);
-
-    // Define a imagem de fundo da janela
-    versiculoWindow.document.body.style.backgroundImage = 'url(biblia.png)';
-    versiculoWindow.document.body.style.backgroundSize = 'cover';
-}
-
-// Adiciona um evento de clique ao link "Slide" no menu superior
-document.querySelector('header nav ul li:first-child a').addEventListener('click', (event) => {
-    event.preventDefault();
-
-    if (activeLivro && activeCapitulo) {
-        // Abre a janela do versículo 1 do capítulo ativo
-        openVersiculoWindow(activeLivro, activeCapitulo, 1);
-    } else {
-        // Se nenhum livro ou capítulo estiver ativo, exibe um alerta
-        alert("Selecione um livro e capítulo primeiro.");
-    }
-});
-*/
-
-//------
-/*
-// 16/09/24 11:55 1ª teste
-// Janela para slide
-// Função para abrir uma nova janela com o versículo selecionado
-function openVersiculoWindow(livro, capitulo, versiculo) {
-    // Cria uma nova janela
-    const versiculoWindow = window.open('', 'Versículo', 'width=800,height=600');
-    
-    // Define o título da janela
-    versiculoWindow.document.title = `${livro.toUpperCase()} ${capitulo}:${versiculo}`;
-
-    // Insere o conteúdo do versículo na janela
-    const content = versiculoWindow.document.createElement('div');
-    content.textContent = document.querySelector(`#versiculo-${versiculo}`).textContent;
-    content.style.textAlign = 'center';
-    content.style.fontFamily = 'sans-serif';
-    content.style.fontSize = '24px';
-    versiculoWindow.document.body.appendChild(content);
-
-    // Adiciona um botão para o próximo versículo
-    const nextButton = versiculoWindow.document.createElement('button');
-    nextButton.textContent = 'Próximo Versículo';
-    nextButton.addEventListener('click', () => {
-        const nextVersiculo = parseInt(versiculo) + 1;
-        if (nextVersiculo <= getNumVersiculos(livro, capitulo)) {
-            openVersiculoWindow(livro, capitulo, nextVersiculo);
-        }
-    });
-    versiculoWindow.document.body.appendChild(nextButton);
-
-    // Adiciona um botão para o versículo anterior
-    const previousButton = versiculoWindow.document.createElement('button');
-    previousButton.textContent = 'Versículo Anterior';
-    previousButton.addEventListener('click', () => {
-        const previousVersiculo = parseInt(versiculo) - 1;
-        if (previousVersiculo > 0) {
-            openVersiculoWindow(livro, capitulo, previousVersiculo);
-        }
-    });
-    versiculoWindow.document.body.appendChild(previousButton);
-
-    // Define a imagem de fundo da janela
-    versiculoWindow.document.body.style.backgroundImage = 'url(biblia.png)';
-    versiculoWindow.document.body.style.backgroundSize = 'cover';
-}
-
-// Adiciona um evento de clique ao link "Slide" no menu superior
-document.querySelector('header nav ul li:first-child a').addEventListener('click', (event) => {
-    event.preventDefault();
-
-    if (activeLivro && activeCapitulo) {
-        // Abre a janela do versículo 1 do capítulo ativo
-        openVersiculoWindow(activeLivro, activeCapitulo, 1);
-    } else {
-        // Se nenhum livro ou capítulo estiver ativo, exibe um alerta
-        alert("Selecione um livro e capítulo primeiro.");
-    }
-});
-*/
