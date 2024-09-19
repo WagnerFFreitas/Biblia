@@ -459,9 +459,375 @@ window.onload = () => {
     watermarkContainer.appendChild(img); // Insere a imagem dentro do container 'watermark'
     content.appendChild(watermarkContainer); // Adiciona o container 'watermark' à página
 };
+//----------------
+
+function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
+    if (window.janelaSlide && !window.janelaSlide.closed) {
+        window.janelaSlide.focus();
+        return;
+    }
+
+    // Obtém a largura e altura da tela
+    const largura = window.screen.availWidth;
+    const altura = window.screen.availHeight;
+
+    window.janelaSlide = window.open('', 'JanelaSlide', `width=${largura},height=${altura}`);
+
+    window.janelaSlide.document.open();
+    window.janelaSlide.document.write(`
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>Janela Slide</title>
+            <style>
+                body { 
+                    font-family: sans-serif; 
+                    padding: 20px;
+                    background-color: black; 
+                    color: white; 
+                    position: relative; 
+                    margin-top: -40px;*/
+                    margin-left: 80px;
+                    overflow: hidden;
+                    display: flex;
+                    flex-direction: column; /* Direção da coluna */
+                    justify-content: center; /* Centraliza verticalmente */
+                    align-items: center; /* Centraliza horizontalmente */
+                    height: 100vh; /* Altura total da janela */
+                    font-style: italic;
+                    font-weight: bold;
+                }
+                button { 
+                    padding: 10px 20px; 
+                    font-size: 16px; 
+                    background-color: #444; 
+                    color: white; 
+                    border: none; 
+                    cursor: pointer; 
+                }
+                button:hover { 
+                    background-color: #666; 
+                }
+                #versiculo-container { 
+                    display: flex;
+                    justify-content: center; /* Centraliza o container */
+                    margin-bottom: 10px;
+                    font-size: 100px; /* Tamanho do texto do versículo */
+                    line-height: 1;  
+                }
+                #titulo { 
+                    font-size: 45px;
+                    margin-bottom: 20px; 
+                    text-align: center;
+                }
+                .versiculo-texto { 
+                    text-align: center; /* Alinha o texto do versículo à esquerda */
+                    font-size: 100px;
+                }
+                #versiculo-container strong { 
+                    color: #5df565;
+                    font-size: 50px;
+                    margin-top: 10px;
+                    display: block; /* Faz com que o strong ocupe toda a largura do container */
+                }
+                #watermark {
+                    position: fixed;
+                    top: -500px; 
+                    left: 0;
+                    width: 100%;
+                    height: 170%;
+                    background-image: url('biblia.png'); 
+                    opacity: 0.3;
+                    z-index: 10;
+                    pointer-events: none;
+                    overflow: hidden;
+                    background-size: cover;
+                    background-repeat: no-repeat;
+                    background-position: center;
+                }
+                #botao-container {
+                    position: absolute; /* Para posicionar em relação ao body */
+                    bottom: 60px; /* Distância do fundo */
+                    left: 20px; /* Distância da esquerda */
+                    display: flex; /* Para colocar os botões lado a lado */
+                    gap: 10px; /* Espaçamento entre os botões */
+                }
+            </style>
+        </head>
+        <body>
+            <div id="watermark"></div>
+            <div id="titulo">${livroAtual.toUpperCase()} - CAPÍTULO ${capituloAtual} - VERSÍCULO ${versiculoAtual}</div>
+            <div id="versiculo-container"><div class="versiculo-texto">Carregando...</div></div>
+            <div id="botao-container">
+                <button id="voltar-botao">Voltar</button>
+                <button id="proximo-botao">Próximo</button>
+            </div>
+            <script>
+                let capituloAtual = ${capituloAtual}; // Recebe o capítulo atual
+                let versiculoAtual = ${versiculoAtual}; // Recebe o versículo atual
+                const versiculosPorCapitulo = [31, 25, 24, 26, 32, 22, 24, 22, 21, 32, 24, 20, 18, 31, 21, 30, 27, 32, 25, 18, 34, 31, 20, 67, 18]; // Exemplo para Gênesis
+                const livroAtual = '${livroAtual}'; // Recebe o livro atual
+                let capituloConteudo = ''; // Armazenará o conteúdo HTML do capítulo carregado
+
+                function carregarCapitulo(capitulo) {
+                    fetch(livroAtual + '/' + capitulo + '.html')
+                        .then(response => response.text())
+                        .then(text => {
+                            capituloConteudo = text; // Armazena o conteúdo do capítulo
+                            carregarVersiculo(versiculoAtual); // Exibe o versículo atual
+                        })
+                        .catch(error => {
+                            console.error('Erro ao carregar o capítulo:', error);
+                            document.getElementById('versiculo-container').innerHTML = '<div class="versiculo-texto">Erro ao carregar capítulo</div>';
+                        });
+                }
+
+                function carregarVersiculo(versiculo) {
+                    const parser = new DOMParser();
+                    const doc = parser.parseFromString(capituloConteudo, 'text/html');
+                    const versiculoElemento = doc.querySelector('#versiculo-' + versiculo);
+
+                    if (versiculoElemento) {
+                        document.getElementById('versiculo-container').innerHTML = \`<div class="versiculo-texto">\${versiculoElemento.innerHTML}</div>\`;
+                        document.getElementById('titulo').innerText = \`\${livroAtual.toUpperCase()} - CAPÍTULO \${capituloAtual} - VERSÍCULO \${versiculo}\`; // Atualiza o título
+                    } else {
+                        document.getElementById('versiculo-container').innerHTML = '<div class="versiculo-texto">Versículo não encontrado.</div>';
+                    }
+                }
+
+                function proximoVersiculo() {
+                    versiculoAtual++;
+
+                    if (versiculoAtual > versiculosPorCapitulo[capituloAtual - 1]) {
+                        versiculoAtual = 1;
+                        capituloAtual++;
+                        if (capituloAtual <= versiculosPorCapitulo.length) {
+                            carregarCapitulo(capituloAtual); // Avança para o próximo capítulo
+                        } else {
+                            document.getElementById('versiculo-container').innerHTML = '<div class="versiculo-texto">Fim do livro.</div>';
+                        }
+                    } else {
+                        carregarVersiculo(versiculoAtual); // Avança para o próximo versículo
+                    }
+                }
+
+                function voltarVersiculo() {
+                    versiculoAtual--;
+
+                    if (versiculoAtual < 1) {
+                        versiculoAtual = versiculosPorCapitulo[capituloAtual - 1]; // Volta para o último versículo do capítulo
+                    }
+                    carregarVersiculo(versiculoAtual); // Carrega o versículo anterior
+                }
+
+                document.getElementById('proximo-botao').addEventListener('click', proximoVersiculo);
+                document.getElementById('voltar-botao').addEventListener('click', voltarVersiculo);
+
+                carregarCapitulo(capituloAtual); // Carrega o capítulo inicial
+            </script>
+        </body>
+        </html>
+    `);
+    window.janelaSlide.document.close();
+}
+
+// Adiciona o evento de clique ao link "Slide" na janela principal
+document.querySelector('header nav ul li:first-child a').addEventListener('click', (event) => {
+    event.preventDefault();
+    abrirJanelaSlide(activeLivro, activeCapitulo, activeVersiculoButton ? activeVersiculoButton.textContent.trim() : 1);
+});
+
+//-----
+
+
+
+/* o vericulo não fica no centro da janela 19/09/24 18:52
+function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
+    if (window.janelaSlide && !window.janelaSlide.closed) {
+        window.janelaSlide.focus();
+        return;
+    }
+
+    // Obtém a largura e altura da tela
+    const largura = window.screen.availWidth;
+    const altura = window.screen.availHeight;
+
+    window.janelaSlide = window.open('', 'JanelaSlide', `width=${largura},height=${altura}`);
+
+    window.janelaSlide.document.open();
+    window.janelaSlide.document.write(`
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>Janela Slide</title>
+            <style>
+                body { 
+                    font-family: sans-serif; 
+                    padding: 20px;
+                    background-color: black; 
+                    color: white; 
+                    position: relative; 
+                    margin-top: -180px;
+                    margin-left: 80px;
+                    overflow: hidden;
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    align-items: center; 
+                    height: 100vh;
+                    font-style: italic;
+                    font-weight: bold;
+                }
+                button { 
+                    padding: 10px 20px; 
+                    font-size: 16px; 
+                    background-color: #444; 
+                    color: white; 
+                    border: none; 
+                    cursor: pointer; 
+                }
+                button:hover { 
+                    background-color: #666; 
+                }
+                #versiculo-container { 
+                    flex-wrap: wrap;
+                    line-height: 1;  
+                    margin-top: -5px;
+                    justify-content: center;                    
+                    font-size: 100px;
+                    display: flex;
+                    margin-bottom: 10px;
+                    
+                    
+                }
+                #titulo { 
+                    
+                    font-size: 45px;
+                    margin-bottom: 20px; 
+                    text-align: center;
+                }
+                #versiculo-container strong { 
+                    color: #5df565;
+                    font-size: 50px;
+                    margin-top: 10px;
+                    margin-left: 450px;
+                    text-align: center;
+                    display: block;
+                    
+                }
+                #watermark {
+                    position: fixed;
+                    top: -500px; 
+                    left: 0;
+                    width: 100%;
+                    height: 170%;
+                    background-image: url('biblia.png'); 
+                    opacity: 0.3;
+                    z-index: 10;
+                    pointer-events: none;
+                    overflow: hidden;
+                    background-size: cover;
+                    background-repeat: no-repeat;
+                    background-position: center;
+                }
+                #botao-container {
+                    position: absolute;
+                    bottom: 60px;
+                    left: 20px;
+                    display: flex; 
+                    gap: 10px;
+                }
+            </style>
+        </head>
+        <body>
+            <div id="watermark"></div>
+            <div id="titulo">${livroAtual.toUpperCase()} - CAPÍTULO ${capituloAtual} - VERSÍCULO ${versiculoAtual}</div>
+            <div id="versiculo-container">Carregando...</div>
+            <div id="botao-container">
+                <button id="voltar-botao">Voltar</button>
+                <button id="proximo-botao">Próximo</button>
+            </div>
+            <script>
+                let capituloAtual = ${capituloAtual}; // Recebe o capítulo atual
+                let versiculoAtual = ${versiculoAtual}; // Recebe o versículo atual
+                const versiculosPorCapitulo = [31, 25, 24, 26, 32, 22, 24, 22, 21, 32, 24, 20, 18, 31, 21, 30, 27, 32, 25, 18, 34, 31, 20, 67, 18]; // Exemplo para Gênesis
+                const livroAtual = '${livroAtual}'; // Recebe o livro atual
+                let capituloConteudo = ''; // Armazenará o conteúdo HTML do capítulo carregado
+
+                function carregarCapitulo(capitulo) {
+                    fetch(livroAtual + '/' + capitulo + '.html')
+                        .then(response => response.text())
+                        .then(text => {
+                            capituloConteudo = text; // Armazena o conteúdo do capítulo
+                            carregarVersiculo(versiculoAtual); // Exibe o versículo atual
+                        })
+                        .catch(error => {
+                            console.error('Erro ao carregar o capítulo:', error);
+                            document.getElementById('versiculo-container').innerHTML = 'Erro ao carregar capítulo';
+                        });
+                }
+
+                function carregarVersiculo(versiculo) {
+                    const parser = new DOMParser();
+                    const doc = parser.parseFromString(capituloConteudo, 'text/html');
+                    const versiculoElemento = doc.querySelector('#versiculo-' + versiculo);
+
+                    console.log(versiculoElemento); // Verifique se o elemento está sendo encontrado
+
+                    if (versiculoElemento) {
+                        document.getElementById('versiculo-container').innerHTML = versiculoElemento.innerHTML;
+                        document.getElementById('titulo').innerText = \`\${livroAtual.toUpperCase()} - CAPÍTULO \${capituloAtual} - VERSÍCULO \${versiculo}\`; // Atualiza o título
+                    } else {
+                        document.getElementById('versiculo-container').innerHTML = 'Versículo não encontrado.';
+                    }
+                }
+
+                function proximoVersiculo() {
+                    versiculoAtual++;
+
+                    if (versiculoAtual > versiculosPorCapitulo[capituloAtual - 1]) {
+                        versiculoAtual = 1;
+                        capituloAtual++;
+                        if (capituloAtual <= versiculosPorCapitulo.length) {
+                            carregarCapitulo(capituloAtual); // Avança para o próximo capítulo
+                        } else {
+                            document.getElementById('versiculo-container').innerHTML = 'Fim do livro.';
+                        }
+                    } else {
+                        carregarVersiculo(versiculoAtual); // Avança para o próximo versículo
+                    }
+                }
+
+                function voltarVersiculo() {
+                    versiculoAtual--;
+
+                    if (versiculoAtual < 1) {
+                        versiculoAtual = versiculosPorCapitulo[capituloAtual - 1]; // Volta para o último versículo do capítulo
+                    }
+                    carregarVersiculo(versiculoAtual); // Carrega o versículo anterior
+                }
+
+                document.getElementById('proximo-botao').addEventListener('click', proximoVersiculo);
+                document.getElementById('voltar-botao').addEventListener('click', voltarVersiculo);
+
+                carregarCapitulo(capituloAtual); // Carrega o capítulo inicial
+            </script>
+        </body>
+        </html>
+    `);
+    window.janelaSlide.document.close();
+}
+
+// Adiciona o evento de clique ao link "Slide" na janela principal
+document.querySelector('header nav ul li:first-child a').addEventListener('click', (event) => {
+    event.preventDefault();
+    abrirJanelaSlide(activeLivro, activeCapitulo, activeVersiculoButton ? activeVersiculoButton.textContent.trim() : 1);
+});
+*/
+
 
 //-------------------
-// Este bloco cria a janela SLIDE para ser usada em DATASHOW
+/* Este bloco cria a janela SLIDE para ser usada em DATASHOW
 // Ela exibe o versiculo que esta sendo exibido na janela principal,
 // Foi criado os botões PROXIMO e VOLTAR para se movimentar entre os versiculo do capitulo atual
 function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
@@ -489,8 +855,8 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
                     background-color: black; 
                     color: white; 
                     position: relative; 
-                    margin: 0; /* Remove margens padrão */
-                    overflow: hidden; /* Impede rolagem */
+                    margin: 0;
+                    overflow: hidden;
                 }
                 button { 
                     padding: 10px 20px; 
@@ -506,19 +872,26 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
                 }
                 #versiculo-container { 
                     margin-bottom: 20px; 
-                    font-size: 2em; /* Aumenta o tamanho do texto dos versículos */
-                    line-height: 1.5; /* Melhora a legibilidade */
-                    color: white; /* Garante que a cor do texto é branca */
+                    font-size: 2em;
+                    line-height: 1.5;
+                    color: white;
                 }
                 #titulo { 
                     font-weight: bold; 
-                    font-size: 2em; /* Aumenta o tamanho do título */
+                    font-size: 2em;
                     margin-bottom: 20px; 
-                    text-align: center; /* Centraliza o título */
+                    text-align: center;
                 }
                 #versiculo-container strong { 
-                    font-size: 2.5em; /* Aumenta o tamanho do texto forte */
-                    color: yellow; /* Muda a cor do texto forte */
+                    color: #5df565;
+                    font-weight: bold;
+                    font-style: italic;
+                    margin-left: 135px;
+                    font-size: 45px;
+                    margin-top: 20px;
+                    position: relative;
+                    z-index: 1;
+                    text-align: center;
                 }
                 #watermark {
                     position: fixed;
@@ -619,6 +992,7 @@ document.querySelector('header nav ul li:first-child a').addEventListener('click
     event.preventDefault();
     abrirJanelaSlide(activeLivro, activeCapitulo, activeVersiculoButton ? activeVersiculoButton.textContent.trim() : 1);
 });
+*/
 
 //------------
 
