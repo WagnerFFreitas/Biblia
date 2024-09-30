@@ -1,5 +1,4 @@
-// Está funcionando todos os botões e as opções do menu dos livros 06/09/24 12:24
-// Objeto que contém os livros e capítulos
+// 06/09/24 12:24
 
 
 const livros = {
@@ -498,6 +497,7 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
                     font-style: italic;
                     font-weight: bold;
                 }
+
                 button { 
                     padding: 0.63rem 1.25rem; 
                     font-size: clamp(1rem, 2vw + 0.5rem, 1.5rem);
@@ -508,10 +508,12 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
                     position: relative;
                     transition: background-color 0.3s ease, color 0.3s ease; /* Transição suave */
                 }
+
                 button:hover { 
                     background-color: black;
                     color: white;
                 }
+
                 #versiculo-container { 
                     display: flex;
                     justify-content: center;
@@ -519,7 +521,7 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
                     font-size: clamp(4rem, 8vw, 6rem);
                 }
 
-                /* Este bloco configura o titulo (Livro, Capitulo Nº e versiculo nº ) */
+                /* O bloco abaixo configura o titulo (Livro, Capitulo Nº e versiculo nº ) */
                 #titulo { 
                     font-size: clamp(2rem, 6vw, 3rem);
                     margin-bottom: 1.25rem; 
@@ -574,7 +576,8 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
                     border: none;
                     padding: 0.5rem 1.5rem;
                     font-size: 1.5rem;
-                    font-weight: bold;
+                    font-weight: 900;
+                    font-style: italic;
                     position: relative;
                     display: inline-block;
                     text-align: center;
@@ -587,7 +590,7 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
                     color: white;
                 }
 
-                /* Este bloc configura as pontas da setas */
+                /* O bloco abaixo configura as pontas da setas */
                 #voltar-botao::before,
                 #proximo-botao::after {
                     content: '';
@@ -609,9 +612,9 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
                 #proximo-botao::after {
                     right: -75px;
                     border-color: transparent transparent transparent white;
-                    
                 }
-                /* Efeito hover nas setas */
+
+                /* O bloco abaixo configura o efeito hover nas setas */
                 #voltar-botao:hover::before {
                     border-color: transparent black transparent transparent; /* Muda a cor da seta ao passar o mouse */
                 }
@@ -620,7 +623,271 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
                     border-color: transparent transparent transparent black; /* Muda a cor da seta ao passar o mouse */
                 }
                 
-                
+                /* O bloco abaixo configura o estilos para desktops de alta resolução */
+                @media (min-width: 1920px) {
+                    body {
+                        font-size: 1.5rem;
+                        padding: 2rem;
+                    }
+
+                    #versiculo-container {
+                        font-size: 7rem;
+                        margin-bottom: 1rem;
+                    }
+
+                    #titulo {
+                        font-size: 4rem;
+                        margin-bottom: 2rem;
+                    }
+
+                    .versiculo-texto {
+                        font-size: 5.5rem;
+                        max-width: 80vw;
+                    }
+
+                    #versiculo-container strong {
+                        font-size: 4rem;
+                        margin-top: 1rem;
+                    }
+
+                    #botao-container {
+                        bottom: 3.5rem;
+                        left: 3rem;
+                        gap: 1rem;
+                    }
+
+                    #voltar-botao,
+                    #proximo-botao {
+                        font-size: 2rem;
+                        padding: 15px 20px;
+                        height: 50px;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        font-weight: 900;
+                        font-style: italic;
+                    }
+
+                    #voltar-botao span,
+                    #proximo-botao span {
+                        display: inline-block;
+                        vertical-align: middle;
+                    }
+
+                    #voltar-botao span::before,
+                    #proximo-botao span::after {
+                        display: inline-block;
+                        vertical-align: middle;
+                        content: '';
+                    }
+
+                    #voltar-botao::before,
+                    #proximo-botao::after {
+                        border-width: 55px;
+                    }
+
+                    #voltar-botao::before {
+                        left: -95px;
+                    }
+
+                    #proximo-botao::after {
+                        right: -95px;
+                    }
+                }
+
+                /* Estilos para resolução 1366x768 */
+                @media (max-width: 1366px) {
+                    body {
+                        font-size: 1rem;
+                        padding: 1rem;
+                    }
+
+                    #versiculo-container {
+                        font-size: clamp(3rem, 6vw, 5rem);
+                    }
+
+                    #titulo {
+                        font-size: 3rem;
+                    }
+
+                    .versiculo-texto {
+                        font-size: 3.8rem;
+                    }
+
+                    #botao-container {
+                        bottom: 1.3rem;
+                        left: 2.5rem;
+                    }
+
+                    #voltar-botao,
+                    #proximo-botao {
+                        padding: 0.4rem 1rem;
+                        font-size: 1.5rem;
+                        font-weight: 900;
+                        height: auto;
+                    }
+
+                    #voltar-botao span,
+                    #proximo-botao span {
+                        display: inline-block;
+                        vertical-align: middle;
+                        font-weight: bold;
+                        font-style: italic;
+                    }
+
+                    #voltar-botao span::before,
+                    #proximo-botao span::after {
+                        display: inline-block;
+                        vertical-align: middle;
+                        content: '';
+                    }
+
+                    #voltar-botao::before,
+                    #proximo-botao::after {
+                        border-width: 40px;
+                    }
+
+                    #voltar-botao::before {
+                        left: -80px;
+                    }
+
+                    #proximo-botao::after {
+                        right: -80px;
+                    }
+                }
+
+
+                /* Para dispositivos móveis (telas menores que 768px) */
+                @media (max-width: 768px) {
+                    #titulo {
+                        font-size: clamp(2rem, 5vw, 3rem);
+                    }
+
+                    .versiculo-texto {
+                        font-size: clamp(3rem, 5vw, 4rem);
+                    }
+
+                    #botao-container {
+                        flex-direction: column;
+                        bottom: 1rem;
+                        left: 0;
+                    }
+
+                    #voltar-botao,
+                    #proximo-botao {
+                        padding: 15px 30px;
+                        font-size: 2rem;
+                        font-weight: 900;
+                        font-style: italic;
+                    }
+
+                    #voltar-botao span,
+                    #proximo-botao span {
+                        display: inline-block;
+                        vertical-align: middle;
+                    }
+
+                    #voltar-botao span::before,
+                    #proximo-botao span::after {
+                        display: inline-block;
+                        vertical-align: middle;
+                        content: '';
+                    }
+
+                    #voltar-botao::before,
+                    #proximo-botao::after {
+                        border-width: 40px;
+                    }
+
+                    #voltar-botao::before {
+                        left: -80px;
+                    }
+
+                    #proximo-botao::after {
+                        right: -80px;
+                    }
+                }
+
+                /* O bloco abaixo configura o estilos para dispositivos móveis com tela de 480px */
+                @media (max-width: 480px) {
+                    #titulo {
+                        font-size: clamp(1.5rem, 5vw, 2rem);
+                    }
+
+                    .versiculo-texto {
+                        font-size: clamp(2rem, 5vw, 3rem);
+                    }
+
+                    #botao-container {
+                        flex-direction: column;
+                        align-items: center;
+                    }
+
+                    #voltar-botao,
+                    #proximo-botao {
+                        padding: 10px 20px;
+                        font-size: 1rem;
+                        font-weight: 900;
+                        font-style: italic;
+                    }
+
+                    #voltar-botao span,
+                    #proximo-botao span {
+                        display: inline-block;
+                        vertical-align: middle;
+                    }
+
+                    #voltar-botao span::before,
+                    #proximo-botao span::after {
+                        display: inline-block;
+                        vertical-align: middle;
+                        content: '';
+                    }
+
+                    #voltar-botao::before,
+                    #proximo-botao::after {
+                        border-width: 40px;
+                    }
+
+                    #voltar-botao::before {
+                        left: -80px;
+                    }
+
+                    #proximo-botao::after {
+                        right: -80px;
+                    }
+                }
+
+                /* O bloco abaixo configura o estilos para dispositivos móveis com tela de 360px */
+                @media (max-width: 360px) {
+                    body {
+                        font-size: clamp(0.8rem, 5vw, 1.5rem);
+                    }
+
+                    .versiculo-texto {
+                        font-size: clamp(1.5rem, 5vw, 2.5rem);
+                    }
+
+                    button {
+                        font-size: clamp(1rem, 5vw, 1.25rem);
+                        padding: 8px 16px;
+                        border-radius: 40px;
+                    }
+                }
+
+                /* Ajusta a configuração caso o dispositivo móvel fique na posição de deitado */
+                @media (max-width: 767px) and (orientation: landscape) {
+                    #titulo {
+                        font-size: clamp(2rem, 6vw, 3rem);
+                    }
+
+                    .versiculo-texto {
+                        font-size: clamp(3rem, 6vw, 5rem);
+                    }
+
+                    #versiculo-container {
+                        font-size: clamp(4rem, 8vw, 6rem);
+                    }
                 }
             </style>
         </head>

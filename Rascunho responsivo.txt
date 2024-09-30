@@ -1,3 +1,5 @@
+                
+                feito
                 /* Para resolução 1366x768 */
                 @media (max-width: 1366px) {
                     #titulo {
@@ -40,6 +42,8 @@
                     }
                 }
 
+
+                feito
                 /* Para dispositivos móveis (telas menores que 768px) */
                 @media (max-width: 768px) {
                     #titulo {
@@ -62,10 +66,11 @@
                     }
                 }
 
+                feito
                 /* Estilos para dispositivos móveis */
                 @media (max-width: 360px) {
                     body {
-                        /*background-color: lightblue;*/
+                        
                     }
 
                     .versiculo-texto {
@@ -163,6 +168,7 @@
                     }
                 }
 
+                feito
                 /* Estilos para desktops de alta resolução */
                 @media (min-width: 1920px) {
                     body {
@@ -176,3 +182,87 @@
                     button {
                         font-size: 3rem;
                     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+
+                /* Estilos para dispositivos móveis */
+                @media (max-width: 480px) {
+                    #titulo {
+                        font-size: clamp(1.5rem, 5vw, 2rem);
+                    }
+
+                    .versiculo-texto {
+                        font-size: clamp(2rem, 5vw, 3rem);
+                    }
+
+                    #botao-container {
+                        flex-direction: column;
+                        align-items: center;
+                    }
+
+                    #voltar-botao,
+                    #proximo-botao {
+                        padding: 10px 20px;
+                        font-size: 1rem;
+                        font-weight: 900;
+                        font-style: italic;
+                    }
+
+                    #voltar-botao span,
+                    #proximo-botao span {
+                        display: inline-block;
+                        vertical-align: middle;
+                    }
+
+                    #voltar-botao span::before,
+                    #proximo-botao span::after {
+                        display: inline-block;
+                        vertical-align: middle;
+                        content: '';
+                    }
+
+                    #voltar-botao::before,
+                    #proximo-botao::after {
+                        border-width: 40px;
+                    }
+
+                    #voltar-botao::before {
+                        left: -80px;
+                    }
+
+                    #proximo-botao::after {
+                        right: -80px;
+                    }
+                }
+
+                
+
+
+
+
+                
+
+
+
+
+
+
+
