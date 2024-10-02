@@ -1,69 +1,146 @@
-                
-                feito
+/* O bloco abaixo configura o estilos para desktops de alta resolução */
+@media (min-width: 1920px) {
+    body {
+        font-size: 1.5rem;
+        padding: 2rem;
+    }
+    h1 {
+        font-size: 3em;
+    }
+    .menu-livros {
+        width: 250px;
+        position: fixed;
+        top: 0;
+        height: 100vh; /* Menu lateral ocupa a altura total da tela */
+        overflow-y: auto; /* Barra de rolagem no menu lateral */
+        z-index: 1; /* Fica abaixo da barra de navegação */
+    }
+    
+    .capitulos, .versiculos {
+        margin-left: 470px;
+        width: calc(100% - 750px);
+    }
+    h2, h3 {
+        margin-left: 850px;
+    }
+    /* Ajusta os botões */
+    button {
+        padding: 15px 30px;
+        font-size: 1.2rem;
+    }
+    /* Ajusta imagens */
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+
+
+/* Responsividade para telas menores que 1366px */
+@media (max-width: 1366px) {
+    body {
+        margin: 0; /* Remove a margem do body */
+        padding: 0; /* Remove o preenchimento do body */
+        overflow-x: hidden; /* Evita rolagem horizontal */
+    }
+    
+    .container {
+        flex-direction: column; /* Alinha os elementos em coluna */
+        /*----*/
+        display: flex;
+        /*align-items: center; /* Centraliza horizontalmente */
+        justify-content: flex-start; /* Começa do topo */
+        overflow: hidden; /* Evita rolagem indesejada */
+        max-width: 100%; /* Limita a largura do contêiner */
+        padding: 10px;
+
+    }
+
+    .menu-livros {
+        width: 250%; /* Menu lateral ocupa toda a largura */
+        height: auto; /* Altura automática para o menu */
+        position: static; /* Remove o posicionamento fixo */
+        margin-bottom: 20px; /* Adiciona margem inferior */
+        max-height: 100vh; /* Limita a altura máxima do menu */
+        overflow-y: auto; /* Permite rolagem vertical */
+    }
+
+    /*.content {
+        flex: 1; /* Permite que o conteúdo ocupe o espaço restante 
+    }*/
+
+    /*.search-bar {
+        margin-top: 20px; /* Ajusta a margem superior da barra de busca 
+        margin-right: 0; /* Remove a margem direita da barra de busca 
+    }*/
+
+    /*.capitulos {
+        margin-left: 0; /* Remove a margem esquerda dos capítulos 
+        width: 100%; /* Capítulos ocupam toda a largura 
+    }*/
+
+/*    .versiculo-texto {
+        margin-left: 0; /* Centraliza o texto do versículo 
+        text-align: center; /* Centraliza o texto do versículo 
+    }*/
+
+    h2 {
+        margin-left: 0; /* Centraliza o título */
+        text-align: center; /* Centraliza o título */
+    }
+
+    h3 {
+        text-align: left;
+        font-size: 1.2em; /* Reduz o tamanho da fonte */
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                 /* Para resolução 1366x768 */
                 @media (max-width: 1366px) {
-                    #titulo {
-                        font-size: 3rem;
-                    }
 
-                    .versiculo-texto {
-                        font-size: 3.8rem;
-                    }
-
-                    #botao-container {
-                        bottom: 1.5rem;
-                        left: 1rem;
-                    }
-
-                    #voltar-botao,
-                    #proximo-botao {
-                        padding: 0.4rem 1rem;
-                        font-size: 1.5rem;
-                    }
-
-                    #versiculo-container {
-                        font-size: clamp(3rem, 6vw, 5rem);
-                    }
                 }
 
                 /* Para resolução 1920x1080 */
                 @media (min-width: 1367px) {
-                    #titulo {
-                        font-size: clamp(4rem, 3vw + 1rem, 5rem);
-                    }
 
-                    .versiculo-texto {
-                        font-size: clamp(5rem, 3vw + 1rem, 6rem);
-                    }
-
-                    button {
-                        padding: 20px 40px;
-                        font-size: 3rem;
-                    }
                 }
 
 
-                feito
+
                 /* Para dispositivos móveis (telas menores que 768px) */
                 @media (max-width: 768px) {
-                    #titulo {
-                        font-size: clamp(2rem, 5vw, 3rem);
-                    }
 
-                    .versiculo-texto {
-                        font-size: clamp(3rem, 5vw, 4rem);
-                    }
-
-                    #botao-container {
-                        flex-direction: column; /* Altera para coluna em telas pequenas */
-                        bottom: 1rem;
-                        left: 0;
-                    }
-
-                    button {
-                        padding: 15px 30px; /* Ajuste de padding para botões */
-                        font-size: 2rem; /* Ajuste de tamanho de fonte para botões */
-                    }
                 }
 
                 feito

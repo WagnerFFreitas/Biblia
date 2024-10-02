@@ -332,3 +332,200 @@ footer p {
     background-position: center;
 }
 
+
+/* Responsividade para telas menores que 1366px */
+@media (max-width: 1366px) {
+    /* Configura a area dos botoes dos capítulos em coluna (Os botões são gerado pelo script.js) */ 
+    .capitulos {
+        display: grid;
+        grid-template-columns: repeat(16, minmax(60px, 1fr)); /* Mantém 15 colunas e garante largura mínima de 70px por botão */
+        justify-content: flex-start;
+        gap: 3px; /* Espaço entre os botões */
+        width: calc(100% - 500px); /* Aumenta a área da grade */
+        margin-top: -20px;
+        margin-left: 300px; /* Ajuste para centralizar melhor a área */
+    }
+
+    /* Configura o estilo para os botões dos capítulos (Os botões são gerado pelo script.js)*/
+    .botao-capitulo {
+        min-width: auto; /* Ajusta a largura dos botões para se adaptarem ao grid*/
+        max-width: 100%; 
+    }
+
+
+    /* Botoes verisculos */
+    .versiculos {
+        display: grid;
+        grid-template-columns: repeat(16, minmax(60px, 1fr)); /* Mantém 15 colunas e garante largura mínima de 70px por botão */
+        justify-content: flex-start;
+        gap: 3px; /* Espaço entre os botões */
+        width: calc(100% - 500px); /* Aumenta a área da grade */
+        margin-top: 0;
+        margin-left: 300px; /* Ajuste para centralizar melhor a área */
+    }
+
+    .botao-versiculo {
+        min-width: auto; /* Ajusta a largura dos botões para se adaptarem ao grid*/
+        max-width: 100%; 
+    }
+
+    .versiculo-texto {
+        margin-top: 20px;
+        margin-left: 300px; /* Remove a margem à esquerda */
+        font-size: 2.1em;
+        position: relative;
+        /*z-index: 1;*/
+        text-align: center;
+        width: calc(100% - 420px); /* Ajuste a largura para alinhar com os botões */
+        max-width: 100%; /* Garante que o texto não ultrapasse o limite */
+        margin-right: auto; /* Centraliza no eixo horizontal */
+        white-space: nowrap; /* Ignora quebras de linha <br> */
+    }
+    
+    h2 {
+        font-weight: bold;
+        color: #f5f1f1;
+        margin-left: 577px;
+        
+        
+        
+    }
+
+
+}
+
+
+
+
+/* Responsividade para dispositivos móveis e telas menores */
+@media only screen and (max-width: 768px) {
+    /* Ajusta o menu lateral para telas pequenas */
+    .menu-livros {
+        position: fixed;
+        top: 60px; /* Garante que o menu lateral comece abaixo da barra de navegação */
+        left: 0;
+        width: 100%; /* O menu lateral ocupa toda a largura da tela */
+        height: calc(100vh - 60px); /* Altura ajustada para ocupar a tela inteira abaixo da barra de navegação */
+        margin: 0;
+        z-index: 1;
+        overflow-y: auto; /* Permite rolar o menu caso seja necessário */
+    }
+
+    /* Ajuste da barra de navegação superior */
+    nav {
+        position: fixed; /* Barra de navegação fixa no topo */
+        top: 0;
+        left: 0;
+        width: 100%;
+        z-index: 2; /* Fica acima do menu lateral */
+        padding: 10px 0;
+    }
+
+    /* Conteúdo principal para telas menores */
+    .content {
+        margin-left: 0; /* Remove a margem à esquerda para o conteúdo ocupar toda a tela */
+        padding-top: 70px; /* Espaço reservado para a barra de navegação superior */
+    }
+
+    /* Ajusta os botões para telas menores */
+    .neon-button {
+        font-size: 14px; /* Reduz o tamanho da fonte dos botões */
+        padding: 10px 15px; /* Reduz o espaçamento interno dos botões */
+    }
+
+    /* Ajusta o tamanho da imagem */
+    img {
+        width: 100%; /* A imagem ocupa a largura completa da tela */
+        height: auto; /* Mantém a proporção da imagem */
+    }
+}
+
+/* Responsividade para dispositivos muito pequenos (até 480px) */
+@media only screen and (max-width: 480px) {
+    /* Ajusta ainda mais o menu lateral para telas muito pequenas */
+    .menu-livros {
+        top: 50px; /* Um pouco menos de espaço reservado para a barra de navegação */
+        height: calc(100vh - 50px); /* Ajuste de altura */
+        width: 100%; /* O menu lateral ocupa toda a largura da tela */
+    }
+
+    /* Ajusta os botões para telas muito pequenas */
+    .neon-button {
+        font-size: 12px; /* Fontes menores para caber melhor */
+        padding: 8px 12px; /* Menor espaçamento interno */
+    }
+
+    /* Ajusta o conteúdo para telas muito pequenas */
+    .content {
+        padding-top: 60px; /* Reduzido para corresponder à barra de navegação mais estreita */
+    }
+}
+
+/* O bloco abaixo configura os estilos para dispositivos móveis com tela de 360px */
+@media (max-width: 360px) {
+    body {
+        font-size: clamp(0.8rem, 5vw, 1.5rem);
+    }
+    h1 {
+        font-size: 1.3em;
+    }
+    .menu-livros {
+        width: 100%; /* O menu lateral ocupa toda a largura da tela */
+        position: fixed;
+        height: 100vh;
+        overflow-y: auto;
+        z-index: 1;
+    }
+    .capitulos, .versiculos {
+        margin-left: 180px;
+        width: calc(100% - 280px);
+    }
+    h2, h3 {
+        margin-left: 380px;
+    }
+    /* Ajusta os botões */
+    button {
+        padding: 6px 12px;
+        font-size: 0.7rem;
+    }
+    /* Ajusta imagens */
+    img {
+        max-width: 75%;
+        height: auto;
+    }
+}
+
+/* Ajusta a configuração caso o dispositivo móvel fique na posição deitado */
+@media (max-width: 767px) and (orientation: landscape) {
+    body {
+        font-size: 0.8rem;
+        padding: 0.5rem;
+    }
+    h1 {
+        font-size: 1.6em;
+    }
+    .menu-livros {
+        width: 100%; /* O menu lateral ocupa toda a largura da tela */
+        position: fixed;
+        height: 100vh;
+        overflow-y: auto;
+        z-index: 1;
+    }
+    .capitulos, .versiculos {
+        margin-left: 250px;
+        width: calc(100% - 380px);
+    }
+    h2, h3 {
+        margin-left: 420px;
+    }
+    /* Ajusta os botões */
+    button {
+        padding: 8px 14px;
+        font-size: 0.75rem;
+    }
+    /* Ajusta imagens */
+    img {
+        max-width: 80%;
+        height: auto;
+    }
+}
