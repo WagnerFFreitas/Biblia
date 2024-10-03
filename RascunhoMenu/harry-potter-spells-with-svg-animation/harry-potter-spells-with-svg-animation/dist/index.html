@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - Harry Potter Spells (with SVG Animation)</title>
+  <link href="https://fonts.googleapis.com/css?family=Cinzel+Decorative:700|Cinzel:400,700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.min.css'><link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<h1>Harry Potter Spells</h1>
+<h3>Hover over the spells to see how they are casted.</h3>
+<main>
+	<div class="spell-card">
+		<div class="spell-card__inner">
+			<div class="spell-card__shape">
+				<div class="spell-card__trace" style="background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/567707/accio.svg');"></div>
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 184 73.89">
+			<clipPath id="clip-accio">
+				<path class="cls-1" d="M125,89c43.91,0,80.83,27.11,91.58,63.89C210.25,111.13,171.66,79,125,79s-85.25,32.13-91.58,73.89C44.17,116.11,81.09,89,125,89Z"/>
+			</clipPath>
+			<path clip-path="url(#clip-accio)" class="trace-motion" fill="none" stroke="#ddfffb" stroke-miterlimit="10" stroke-width="14" class="cls-2" d="M33,150s20-64,92-64,92,64,92,64" transform="translate(-33 -79)"/></svg>
+
+			</div>
+			<div class="spell-card__name">
+				<h5>Accio</h5>
+				<p>Summons an object towards the caster</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="spell-card">
+		<div class="spell-card__inner">
+			<div class="spell-card__shape">
+				<div class="spell-card__trace" style="background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/567707/aguamenti.svg');"></div>
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 201 117.05">
+					<clipPath id="clip-aguamenti">
+						<path d="M21,139s-1,24,30,32c28.83,7.44,58.34-38.49,61.63-45.22.29-.61,29.53-47,51.19-54.41.65-.22,43.46-16.21,58.18,31.63,0,0-.25-.69-.78-1.87-9.33-20.51-34.05-28.73-54.07-18.36A53.11,53.11,0,0,0,154,92c-11.69,11.69-48.35,63.55-48.76,64.14C101.44,161.61,83.84,185,60,185c0,0-19,5-31-12C29,173,21,164,21,139Z"/>
+					</clipPath>
+					<path clip-path="url(#clip-aguamenti)" class="trace-motion" fill="none" stroke="#ddfffb" stroke-miterlimit="10" stroke-width="14" d="M21.14,141.53S25,181,60,181c0,0,15,1,32-17s36-46,39-54c0,0,25-34,40-34,0,0,29-15,48,21" transform="translate(-21 -68.63)"/>
+				</svg>
+			</div>
+			<div class="spell-card__name">
+				<h5>Aguamenti</h5>
+				<p>Produces a clean, drinkable jet of water from the wand tip</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="spell-card">
+		<div class="spell-card__inner">
+			<div class="spell-card__shape">
+				<div class="spell-card__trace" style="background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/567707/arresto.svg');"></div>
+
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 166.02 168.22">
+					<clipPath id="clip-arresto">
+						<path d="M40,210S66,77,73,70l46,130s3,12,8,0L171,73s35,129,34,132c0,0-3.13-35.18-10-74-7.1-40.13-17.95-83.95-19-85,0,0-4-7-8,0L123,190,78,48s-6-14-10,0S52,123,47,148C47,148,37,207,40,210Z" transform="translate(-39 -41.78)"/>
+					</clipPath>
+					<polyline clip-path="url(#clip-arresto)" class="trace-motion" fill="none" stroke="#ddfffb" stroke-miterlimit="10" stroke-width="14" points="0 168.22 33 7.22 83 159.22 133 7.22 151 84.22 166 163.22"/></svg>
+
+			</div>
+			<div class="spell-card__name">
+				<h5>Arresto Momentum</h5>
+				<p>Also known as the Slowing Charm. Slows down the velocity of an object</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="spell-card">
+		<div class="spell-card__inner">
+			<div class="spell-card__shape">
+				<div class="spell-card__trace" style="background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/567707/meteo.svg');"></div>
+
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 184 101.5">
+					<clipPath id="clip-meteo">
+						<path d="M216.62,164.26c.09,1,.17,2,.23,3,.1-1.66.15-3.32.15-5,0-48.6-41.19-88-92-88s-92,39.4-92,88c0,1.68,0,3.34.15,5,12.85-46,42.79-83,91.85-83,9.2,0,56,4,76,48a1.18,1.18,0,0,1-1.82,1.44A57.21,57.21,0,0,0,162,120.25c-30.38,0-55,22.83-55,51,0,1.52.09,3,.23,4.5,2.45-26.06,26-46.5,54.77-46.5s52.32,20.44,54.77,46.5c.14-1.48.23-3,.23-4.5a47.59,47.59,0,0,0-.5-6.9A.94.94,0,0,0,216.62,164.26Z"/>
+					</clipPath>
+					<path clip-path="url(#clip-meteo)" class="trace-motion" fill="none" stroke="#ddfffb" stroke-miterlimit="10" stroke-width="10"  d="M107.41,174.11S112,125,163,125s52,45.22,54,49.11c0,0,2-84.11-92-96.11,0,0-80,2.15-91.51,88.07" transform="translate(-33 -74.25)"/></svg>
+
+			</div>
+			<div class="spell-card__name">
+				<h5>Meteolojinx Recanto</h5>
+				<p>Incantation to a counter-charm that causes weather effects</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="spell-card">
+		<div class="spell-card__inner">
+			<div class="spell-card__shape">
+				<div class="spell-card__trace" style="background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/567707/expecto.svg');"></div>
+
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 182.37 169.75">
+		<clipPath id="clip-expecto">
+			<path d="M218.62,114.53q0-2-.09-3.87c0-.46,0-.72,0-.72h0a53,53,0,0,0-1.22-9.76h0c-6.51-41.7-44.33-73.7-90-73.7-50.26,0-91,38.73-91,86.5,0,29.21,15.24,55,38.56,70.68q2,1.4,4.11,2.62l.35.2c.28.17,9.64,5.23,12.77,6.27.67.27,6.78,1.88,8.85,2.24,24.88,4.39,48.69-2.58,64-26.22A71.2,71.2,0,0,0,171.46,149c3.9-22.1-2.76-43.25-16-56.77,8.48,12.87,12.3,29.81,9.46,47.42-5.58,28.59-34.78,47.26-65.73,41.8a61,61,0,0,1-21.18-8A77.72,77.72,0,0,1,54.81,146.4c-.31-.77-2.94-7-3.69-9.43,0,.26-4.39-15.33-4.39-24,0-42.28,36.1-76.56,80.63-76.56,39.69,0,72.64,27.22,79.36,63.07a50.17,50.17,0,0,1,1.59,7.88c.68,3.45,1.54,8.42,2.14,14.09C211.39,148.75,195,183,195,183c3-2,10-7,10-7C218.13,165.33,218.8,127.69,218.62,114.53Z"/>
+		</clipPath>
+		<path clip-path="url(#clip-expecto)" class="trace-motion" fill="none" stroke="#ddfffb" stroke-miterlimit="10" stroke-width="10"  d="M155,92s49,94-49,97c0,0-62-6-65-78,0,0,7-63,54-73,0,0,29-18,76,4,0,0,58,26,41,111,0,0-9,31-17,30" transform="translate(-36.27 -26.47)"/></svg>
+
+			</div>
+			<div class="spell-card__name">
+				<h5>Expecto Patronum</h5>
+				<p>The only known defence against Dementors</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="spell-card">
+		<div class="spell-card__inner">
+			<div class="spell-card__shape">
+				<div class="spell-card__trace" style="background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/567707/ridi.svg');"></div>
+
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 159.22 187.39">
+		<clipPath id="clip-ridi">
+			<path d="M119.09,124l.91,1h.4a4.88,4.88,0,0,0,5.26,0H126l.53-.59a14.78,14.78,0,0,0,3-3.3L205,37s5-5,0-3l-82,79L52,34s-4-5-4,4,4,122,4,122-1,56,79,60c0,0,47.74,0,65.78-49.47-3,7.12-13,23.3-42.78,32.47,0,0-73,23-89-46L60,60l57.89,62.71A11.28,11.28,0,0,0,119.09,124Z"/>
+		</clipPath>
+		<path clip-path="url(#clip-ridi)" class="trace-motion" fill="none" stroke="#ddfffb" stroke-miterlimit="10" stroke-width="10"  d="M207.22,33.9,123,120,54,45l3,85s-4,50,21,68,65,19,75,13c0,0,37.94-17.47,44.47-42.23" transform="translate(-48 -32.61)"/>
+	</svg>
+
+			</div>
+			<div class="spell-card__name">
+				<h5>Riddikkulus</h5>
+				<p>Forces a Boggart to take the appearance of an object the caster is focusing on</p>
+			</div>
+		</div>
+	</div>
+</main>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+</body>
+</html>

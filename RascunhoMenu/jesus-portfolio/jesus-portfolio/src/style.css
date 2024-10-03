@@ -1,0 +1,146 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,700);
+
+body {
+  font-family: Raleway;
+}
+
+header {
+  background: rgba(255, 255, 176, 0.77);
+  position: absolute;
+  width: 100%;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+.navbar-nav {
+  background-color: rgba(204, 193, 133, 0.61);
+}
+a.navbar-brand {
+font-family: pacifico;
+}
+.navbar a.navbar-brand, .navbar-nav a   {
+  color: #333 !important;
+  font-weight: bold;
+}
+
+
+
+
+#home {
+  background: url("https://i.ytimg.com/vi/I9175BCOYNk/maxresdefault.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  padding: 170px 120px;
+}
+
+#home h1 {
+  font-size: 85px;
+  font-family: Pacifico;
+  text-align: center;
+  color: #fff;
+  text-shadow: 5px 3px 10px #333;
+}
+
+#home h2 {
+  font-size: 30px;
+  margin-top: 40px;
+  text-align: center;
+}
+
+#home .btn-default, #contact .btn {
+  width: 160px;
+  background-color: #DDD396;
+  padding: 15px 25px;
+  margin: 10px 20px;
+  border-color: #D3C98C;
+  border-bottom: 3px solid #5D593F;
+  color: #622D33;
+}
+
+#home .btn-default:hover, #contact .btn:hover {
+  border-bottom: 1px solid #5D593F;
+}
+
+
+#about {
+  padding: 140px 20px;
+  background-image: url('http://www.wbdaily.com/wp-content/uploads/2016/02/Christus-Statue-LDS-DAILY.COM_.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  color: #fff;
+}
+
+#about p {
+  font-size: 20px;
+}
+
+#portfolio {
+  padding-top: 50px;
+  padding-bottom: 100px;
+  padding-left: 20px;
+  padding-right: 20px;
+  
+  background-image: url('http://getwellchurchofchrist.org/memphis/wp-content/uploads/2013/10/background4.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#portfolio h1 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+#portfolio h2 {
+  text-align: center;
+}
+
+#portfolio .img-thumbnail {
+  background: rgba(255,255,255,0.52);
+  margin-top: 20px;
+  transition: 1s;
+}
+
+#portfolio .img-thumbnail:hover {
+  background: rgba(255,255,255,1);
+  box-shadow: 3px 6px 10px rgba(0,0,0,0.5);
+  transform: rotate(-2deg) scale(1.05);
+  transition: 1s;
+}
+
+#portfolio p {
+  text-align: center;
+  padding: 12px 35px;
+  margin-bottom: 0;
+  font-size: 18px;
+  font-weight: bold;
+  color: #CF9F81;
+}
+
+#contact {
+  background-image: url('http://www.lakecitychurchofchrist.org/layout/bg.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 100px 20px;
+}
+
+#contact h1 {
+  font-size: 80px;
+  font-weight: bold;
+}
+
+
+footer {
+  background: #fff;
+  position: absolute;
+  padding: 20px;
+  width: 100%;
+}
+
+footer .navbar-nav {
+  background-color: #fff;
+}
+
+

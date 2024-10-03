@@ -1,0 +1,91 @@
+flexbox(a, b)
+  display flex
+  align-items a
+  justify-content b
+  
+gradient(a, b, c)
+  background b
+  background linear-gradient(a, b, c)
+  
+color1 = #2E5266
+color2 = #6E8898
+color3 = #9FB1BC
+color4 = #D3D0CB
+
+html
+  min-height 100vh
+  flexbox(center, center)
+  gradient(to bottom, #ECE9E6, #FFF)
+  body
+    width 100%
+    flexbox(center, center)
+    flex-direction column
+    font-family 'Quicksand', sans-serif
+    overflow-x hidden
+    position relative
+    top -2.5rem
+    .heading
+      text-align center
+      color color1
+      margin-bottom 3rem
+      h1
+        margin-bottom 0
+      h6
+        margin 0
+      p
+        margin 0
+      a
+        color color1
+        display inline-block
+        .fab
+          margin-right 0.5rem
+          font-size 1.5rem
+          padding 0.5rem
+          margin-top 0.5rem
+
+.container
+  flexbox(center, center)
+  position relative
+  .ui-card
+    height 20rem
+    width 12rem
+    position relative
+    z-index 1
+    transform scale(0.6) translateY(-2rem)
+    opacity 0
+    cursor pointer
+    pointer-events none
+    gradient(to top, color1, color2)
+    transition 1s
+    &:after
+      content ''
+      position absolute
+      height 2px
+      width 100%
+      border-radius 100%
+      background-color rgba(0,0,0,0.3)
+      bottom -5rem
+      filter blur(4px)
+    for val, i in (1..10)
+      &:nth-child({i})
+        &:before
+          content '' + i + ''
+          position absolute
+          top 50%
+          left 50%
+          transform translateX(-50%) translateY(-50%)
+          font-size 3rem
+          font-weight 300
+          color white
+  .ui-card.active
+    z-index 3
+    transform scale(1) translateY(0) translateX(0)
+    opacity 1
+    pointer-events auto
+    transition 1s
+  .ui-card.prev, .ui-card.next
+    z-index 2
+    transform scale(0.8) translateY(-1rem) translateX(0)
+    opacity 0.6
+    pointer-events auto
+    transition 1s

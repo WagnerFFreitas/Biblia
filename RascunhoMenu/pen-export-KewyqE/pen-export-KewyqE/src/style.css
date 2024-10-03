@@ -1,0 +1,105 @@
+body {
+  background-image: linear-gradient(35deg, #4fccc7, #2d5655);
+   background-size: cover;
+  background-position: bottom center;
+}
+.fig-text {
+  font-family: 'Indie Flower', cursive;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 1.5em;
+  color: black;
+}
+/*h1#alert{
+  font-family: 'Indie Flower', cursive;
+  font-style: oblique;
+  font-weight: bold;
+  font-size: 4.5em;
+  color: white;
+}
+
+h2#alert{
+  font-family: 'Indie Flower', cursive;
+  font-style: italic;
+  font-weight: bold;
+  color: white;
+}*/
+/*#alert h1{
+  font-family: 'Indie Flower', cursive;
+  font-style: italic;
+  font-weight: bold;
+  color: black;
+}*/
+p#alert{
+  font-family: 'Indie Flower', cursive;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 1.5em;
+  color: white;
+}
+p#al2{
+  font-family: 'Indie Flower', cursive;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 1em;
+  color: white;
+  text-align:center;
+}
+.header {
+  /*http://freearticles.info/wp-content/uploads/2018/07/christian-powerpoint-backgrounds-chains-broken-chain-vertical-worship-background-worship-backgrounds-download-750x425.jpg*/
+ /* background-image: URL(http://missjones.me/wp-content/uploads/2016/04/8769iDA91D7B88A5B3822.jpg);*/
+  background-image: URL(https://philadelphiamtc.files.wordpress.com/2013/06/broken-chain.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 500px;
+  text-align: center;
+}
+.header h1{
+  font-family: 'Indie Flower', cursive;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 100px;
+  color: black;
+}
+.header h2{
+  font-family: 'Indie Flower', cursive;
+  font-style: italic;
+  font-weight: bold;
+  color: black;
+}
+#mainbox{
+  display: flex;
+  flex-direction: row;
+}
+#mainbox .box1 {
+  background-image: URL(https://cdn-images-1.medium.com/max/633/1*2Rjqg0smtcZw1x9u1Zm2OA.jpeg);
+  background-repeat: no-repeat;
+ /* background-attachment: fixed;*/
+  background-position: center;
+  background-size: cover;
+  /*padding: 20px;*/
+  color: white;
+  width: 50%;
+  height: 200px;
+}
+#mainbox .box2 {
+  background-image: URL(http://headsupguys.org/content/uploads/2015/06/talk-to-a-friend.jpg);
+  /*padding: 20px;*/
+  background-repeat: no-repeat;
+  /*background-attachment: fixed;*/
+  background-position: center;
+  background-size: cover;
+  color: white;
+  width: 50%;
+  height: 200px;
+}
+.video {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 520px;
+    height: 520px;
+}

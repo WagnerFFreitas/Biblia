@@ -1,0 +1,68 @@
+//- https://dribbble.com/shots/3888265-Motion-Study
+
+-
+	var images = [ // Images by various people from Unsplash
+			{
+				name: 'Benjamin Hung',
+				loc: 'Shibuya, Japan',
+				src: 'EYmhcdGuYmI',
+				url: 'ef5af971-fc46-4ee1-a589-980346478696_opt.png'
+			}, {
+				name: 'Ryan Tang',
+				loc: 'Mong Kok, Hong Kong',
+				src: 'ANJHXftvvJ8',
+				url: '522d6a86-0dcf-4554-8b22-7655d65a1f66_opt.png'
+			}, {
+				name: 'Steve Roe',
+				loc: 'Incheon, South Korea',
+				src: '73aocAAt7rs',
+				url: '9b5f71cb-34a3-4fb4-a3a6-0ce9557c0acd_opt.png'
+			}, {
+				name: 'Sean Foley',
+				loc: 'Wan Chai, Hong Kong',
+				src: 'aPDCEoW7B78',
+				url: '10cfd52d-e217-41e9-bb8b-ad43384a5e63_opt.png'
+			}, {
+				name: 'Alex Knight',
+				loc: 'Shibuya-ku, Japan',
+				src: 'Akz00I_GGjU',
+				url: 'b9669f2a-17fc-47dc-b6b5-3f863004efa8_opt.png'
+			}, {
+				name: 'Benjamin Hung',
+				loc: 'Tokyo, Japan',
+				src: 'pTn26knnKVw',
+				url: '31979576-5060-4513-aae2-b379b87e7fe6_opt.png'
+			}, {
+				name: 'Jesus In Taiwan',
+				loc: 'Taipei City, Taiwan',
+				src: 'v63B_MUiFw8',
+				url: '429b83b8-1ad4-4450-b0de-0a0c1073cf1e_opt.jpg'
+			}
+		];
+
+#hero-slides
+	#header
+		#logo
+		#menu
+			#hamburger
+				-for(var i = 0; i < 3; i++)
+					.slice
+	#slides-cont
+		.button#next
+		.button#prev
+		#slides
+			-for(var i = 0; i < 7; i++)
+				- var img = images[i % images.length]
+				.slide(style=`background-image: url(https://alca.tv/static/u/${img.url})`)
+					.number=('0' + (i + 1)).slice(-2)
+					.body
+						.location=img.loc
+						.headline=`Photo by ${img.name}`
+						a(href=`https://unsplash.com/photos/${img.src}` target="_blank")
+							.link View on Unsplash
+		#next-catch
+		#prev-catch
+	#footer
+		//- #page-counter
+		a(href="https://dribbble.com/shots/3888265-Motion-Study" target="_blank")
+			#dribbble

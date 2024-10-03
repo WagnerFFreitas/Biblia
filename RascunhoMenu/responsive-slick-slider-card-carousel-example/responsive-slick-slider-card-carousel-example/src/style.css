@@ -1,0 +1,46 @@
+html, body{
+  margin: 0;
+  padding: 0;
+}
+.wrapper{
+  width:100%;
+  padding-top: 20px;
+  text-align:center;
+}
+h2{
+  font-family:sans-serif;
+  color:#fff;
+}
+.carousel{
+  width:90%;
+  margin:0px auto;
+}
+.slick-slide{
+  margin:10px;
+}
+.slick-slide img{
+  width:100%;
+}
+.slick-prev, .slick-next{
+  background: #000;
+  border-radius: 15px;
+  border-color: transparent;
+}
+.card{
+  border: 2px solid #fff;
+  box-shadow: 1px 1px 15px #ccc;
+}
+.card-body{
+  background: #fff;
+  width: 100%;
+  vertical-align: top;
+}
+.card-content{
+  text-align: left;
+  color: #333;
+  padding: 15px;
+}
+.card-text{
+  font-size: 14px;
+  font-weight: 300;
+}

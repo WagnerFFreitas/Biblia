@@ -1,0 +1,225 @@
+@mixin flex ($dir: row, $wrap: wrap, $ai: center, $jc: center, $ac: center){
+  display: flex;
+  flex-direction: $dir;
+  flex-wrap: $wrap;
+  align-items: $ai;
+  justify-content: $jc;
+  align-content: $ac;
+}
+@mixin imagen ($url: '', $size: cover, $posicion: center, $repeat: no-repeat, $parallax: false) {
+  @if  $url != '' {
+    background-image: url($url);
+  }
+  background-size: $size;
+  background-position: $posicion;
+  background-repeat: $repeat;
+  @if $parallax == true {
+    background-attachment: fixed;
+  }
+}
+$negro: #1d1d1d;
+$blanco: #fff;
+$primario: #b82d44;
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&family=Roboto:wght@300;400;900&display=swap');
+
+:root{
+  --currencyPrefix: "$"; 
+}
+body{
+  overflow-x: hidden;
+  color: #666;
+  left: 0;
+  padding: 0;
+  margin: 0 auto;
+  position: relative;
+  transition: ease all .3s;
+  *{
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+  p, h1, h2, h3, h4, h5, h6{
+    margin: 0;
+  }
+  a {
+    color: #666;
+    text-decoration: none;
+  }
+  ul, li{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+  }
+}
+
+.contenedorCards{
+  @include flex;
+  min-height: 100vh;
+  padding: 20px 0;
+  box-sizing: border-box;
+  .card{
+    width: 300px;
+    transition: ease all .3s;
+    &.esFav{
+      .wrapper{
+        .infoProd{
+          .actions{
+            .action{
+              &.aFavs{
+                transform: rotateX(360deg) scale(1.2);
+                svg{
+                  path, circle{
+                    fill: $blanco;
+                    transition-delay: .2s;
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    &.enCarrito{
+      .wrapper{
+        .infoProd{
+          .actions{
+            .action{
+              &.alCarrito{
+                .inCart{
+                  transform: scale(1);
+                }
+                .outCart{
+                  transform: scale(0);
+                }
+              }   
+            }
+          }
+        }
+      }
+    }
+    .wrapper{
+      margin: 60px 10px 10px 10px;
+      padding-top: 300px;
+      box-sizing: border-box;
+      position: relative;
+      box-shadow: 0 0 20px 10px rgba($negro,.1);
+      transition: ease all .3s;
+      &:hover{
+        transform: translateY(-10px);
+        .imgProd{
+          height: 350px;
+        }
+      }
+      .colorProd{
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 200px;
+        background-color: $primario;
+      }
+      .imgProd{
+        @include imagen('', contain, center bottom);
+        position: absolute;
+        bottom: calc(100% - 300px);
+        width: 100%;
+        height: 300px;
+        transition: ease all .3s;
+      }
+      .infoProd{
+        @include flex(column, nowrap);
+        height: 170px;
+        padding: 20px;
+        box-sizing: border-box;
+        p{
+          width: 100%;
+          font-size: 14px;
+          text-align: center;
+        }
+        .nombreProd{
+          font-family: "Roboto",sans-serif;
+          margin-bottom: 10px;
+          font-size: 16px;
+          font-weight: 600;
+          -webkit-line-clamp: 2;
+          -webkit-box-orient: vertical;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          display: -webkit-box;
+        }
+        .extraInfo{
+          text-overflow: ellipsis;
+          white-space: nowrap;
+          overflow: hidden;
+        }
+        .actions{
+          @include flex($jc: space-between);
+          width: 100%;
+          margin-top: auto;
+          padding-top: 10px;
+          .preciosGrupo{
+            flex-grow: 1;
+            position: relative;
+            .precio{
+              font-family: "Roboto",sans-serif;
+              color: $negro;
+              font-size: 25px;
+              font-weight: 600;
+              text-align: left;
+              &.precioOferta{
+                position: absolute;
+                left: 0;
+                top: -15px;
+                color: red;
+                font-size: 15px;
+                text-decoration: line-through;
+                &:before{
+                  font-size: 12px;
+                }
+              }
+              &:before{
+                content: var(--currencyPrefix);
+                font-size: 20px;
+              }
+            }
+          }
+          .action{
+            @include flex;
+            margin-left: 15px;
+            width: 35px;
+            height: 35px;
+            position: relative;
+            transition: cubic-bezier(0.68, -0.55, 0.27, 1.55) all .3s;
+            cursor: pointer;
+            color: $negro;
+            svg{
+              position: absolute;
+              transition: cubic-bezier(0.68, -0.55, 0.27, 1.55) all .3s;
+              path, circle{
+                stroke: currentColor;
+                fill: transparent;
+                transition: ease all .3s;
+              }
+            }
+            &.aFavs{
+              position: absolute;
+              top: 20px;
+              right: 20px;
+              z-index: 1;
+              width: 25px;
+              height: 25px;
+              color: $blanco;
+            }
+            &.alCarrito{
+              svg{
+                &.inCart{
+                  transform: scale(0);
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

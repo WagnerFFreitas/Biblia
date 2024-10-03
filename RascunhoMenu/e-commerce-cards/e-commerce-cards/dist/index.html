@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - E-Commerce Cards</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous"><link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div id="toast"></div>
+<div id="toast-cart"></div>
+<div class="container">
+  <h1>E-Commerce Cards</h1>
+  <hr>
+  <br>
+  <div class="row">
+  <div class="col-lg-4">
+    <div class="card" style="width: 18rem;">
+      <span id="heart" class="heart"><i onclick="wishList()" class="fas fa-heart"></i></span>
+  <img src="https://images.unsplash.com/photo-1565208565380-02138793c3b0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80" class="first-image">
+  <div class="card-body">
+    <a href="#" onclick="addCart()"><center>Add to cart</center></a>
+    <hr>
+    <center>
+      <h5 class="card-title">Black Pants</h5>
+    </center>
+  </div>
+</div>
+</div>
+      <div class="col-lg-4">
+    <div class="card" style="width: 18rem;">
+      <span id="heart-second" value="So" class="heart"><i onclick="wishList()" class="fas fa-heart"></i></span>
+  <img src="https://images.unsplash.com/photo-1549062572-544a64fb0c56?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80" class="first-image">
+  <div class="card-body">
+    <a href="#" onclick="addCart()"><center>Add to cart</center></a>
+    <hr>
+    <center>
+      <h5 class="card-title">T-shirt</h5>
+    </center>
+  </div>
+</div>
+</div>
+    <div class="col-lg-4">
+    <div class="card" style="width: 18rem;">
+      <span id="heart-third" class="heart"><i onclick="wishList()" class="fas fa-heart"></i></span>
+  <img src="https://images.unsplash.com/photo-1565279586461-293ae487de37?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80" class="first-image">
+  <div class="card-body">
+    <a href="#" onclick="addCart()"><center>Add to cart</center></a>
+    <hr>
+    <center>
+      <h5 class="card-title">Pants</h5>
+    </center>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+<!-- partial -->
+  <script  src="./script.js"></script>
+
+</body>
+</html>

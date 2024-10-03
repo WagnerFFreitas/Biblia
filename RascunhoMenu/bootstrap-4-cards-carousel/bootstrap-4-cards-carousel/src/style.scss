@@ -1,0 +1,53 @@
+body{
+  perspective: 1000px;
+  background: rebeccapurple;
+}
+h1{
+  color: white;
+}
+.container{
+  padding-top:20px;
+}
+.carousel-container li{
+}
+ul{
+  padding: 0;
+  list-style: none;
+}
+li{
+  margin: 0;
+  float: left;
+  padding: 50px 0;
+}
+.card{
+  // width: 318px;
+  margin-left: 0.25em;
+  margin-right: 0.25em;
+  img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+}
+.owl-wrapper{
+  transform-style: preserve-3d;
+}
+.owl-item{
+  transition: all 250ms ease-out;
+  transform: translate3d(0px, 0px, 0px) scale(1);
+  &.active{
+    transform: translate3d(0px, 0px, -10px) scale(1) rotateY(25deg);
+    + .active{
+     transform: translate3d(0px, 0px, 10px) scale(1); 
+      + .active{
+       transform: translate3d(0px, 0px, 20px) scale(1); 
+        + .active{
+         transform: translate3d(0px, 0px, 10px) scale(1); 
+          + .active{
+           transform: translate3d(0px, 0px, -10px) scale(1) rotateY(-25deg); 
+          }
+        }
+      }
+    }
+  }
+}

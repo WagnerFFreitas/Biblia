@@ -1,0 +1,118 @@
+body {
+  font-family: "Comfortaa", sans-serif;
+  background: #111;
+  color: #FFFFFF;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.trace-motion {
+  stroke-dasharray: 650;
+  stroke-dashoffset: 650;
+  opacity: 0.8;
+}
+
+@keyframes draw {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+h1 {
+  font: 60px "Cinzel Decorative";
+  margin: 2em 0 0.2em;
+}
+
+h3 {
+  font: 24px "Cinzel";
+}
+
+main {
+  margin: 4em auto 8em;
+  max-width: 1200px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.spell-card {
+  background: linear-gradient(315deg, #9d523c 0%, #f2a65a 74%);
+  flex: 0 0 300px;
+  padding: 5px;
+  margin: 2em;
+  border-radius: 20px;
+  box-shadow: 0 0 0 14px #333;
+  text-align: center;
+  position: relative;
+}
+.spell-card:before {
+  content: "Harry Potter spells";
+  font-family: "Cinzel";
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  border-radius: 20px;
+  background: linear-gradient(to top, #9d523c 0%, #f2a65a 74%);
+  position: absolute;
+  z-index: 10;
+  max-width: 225px;
+  top: -8px;
+  padding: 5px;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+.spell-card__inner {
+  border-radius: 17px;
+  overflow: hidden;
+  background: #333;
+}
+.spell-card h5 {
+  font-family: "Cinzel Decorative", "Bahianita";
+  font-weight: 700;
+  font-size: 34px;
+  margin-bottom: 15px;
+  min-height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+.spell-card p {
+  font-family: "Cinzel", "Alice";
+  font-size: 16px;
+  width: 90%;
+  margin: 0 auto 20px;
+  min-height: 45px;
+}
+.spell-card__shape {
+  width: 100%;
+  height: 300px;
+  background: #333;
+  display: grid;
+  place-items: center;
+  position: relative;
+  margin-top: 20px;
+}
+.spell-card__shape svg {
+  width: 70%;
+  max-width: 250px;
+  filter: drop-shadow(0 0 12px #0ff) drop-shadow(-2px -2px 12px #00bcd4);
+}
+.spell-card__trace {
+  position: absolute;
+  width: 100%;
+  opacity: 0.4;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-repeat: no-repeat;
+  background-size: 70%;
+  background-position: center;
+}
+.spell-card:hover {
+  cursor: pointer;
+}
+.spell-card:hover .trace-motion {
+  animation: draw 0.7s linear forwards;
+}
