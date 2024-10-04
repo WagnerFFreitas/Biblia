@@ -1,0 +1,65 @@
+
+
+
+/* Responsividade para telas menores que 1366px */
+@media (max-width: 1366px) {
+    /* Configura a area dos botoes dos capítulos em coluna (Os botões são gerado pelo script.js) */ 
+    .capitulos {
+        display: grid;
+        grid-template-columns: repeat(16, minmax(60px, 1fr)); /* Mantém 15 colunas e garante largura mínima de 70px por botão */
+        justify-content: flex-start;
+        gap: 3px; /* Espaço entre os botões */
+        width: calc(100% - 500px); /* Aumenta a área da grade */
+        margin-top: -20px;
+        margin-left: 300px; /* Ajuste para centralizar melhor a área */
+    }
+
+    /* Configura o estilo para os botões dos capítulos (Os botões são gerado pelo script.js)*/
+    .botao-capitulo {
+        min-width: auto; /* Ajusta a largura dos botões para se adaptarem ao grid*/
+        max-width: 100%; 
+    }
+
+
+    /* Botoes verisculos */
+    .versiculos {
+        display: grid;
+        grid-template-columns: repeat(16, minmax(60px, 1fr)); /* Mantém 15 colunas e garante largura mínima de 70px por botão */
+        justify-content: flex-start;
+        gap: 3px; /* Espaço entre os botões */
+        width: calc(100% - 500px); /* Aumenta a área da grade */
+        margin-top: 0;
+        margin-left: 300px; /* Ajuste para centralizar melhor a área */
+    }
+
+    .botao-versiculo {
+        min-width: auto; /* Ajusta a largura dos botões para se adaptarem ao grid*/
+        max-width: 100%; 
+    }
+
+    .versiculo-texto {
+        margin-top: 20px;
+        margin-left: 300px; /* Remove a margem à esquerda */
+        font-size: 2.1em;
+        position: relative;
+        /*z-index: 1;*/
+        text-align: center;
+        width: calc(100% - 420px); /* Ajuste a largura para alinhar com os botões */
+        max-width: 100%; /* Garante que o texto não ultrapasse o limite */
+        margin-right: auto; /* Centraliza no eixo horizontal */
+        white-space: nowrap; /* Ignora quebras de linha <br> */
+    }
+    
+    h2 {
+        font-weight: bold;
+        color: #f5f1f1;
+        margin-left: 577px;
+        
+        
+        
+    }
+
+
+}
+
+
