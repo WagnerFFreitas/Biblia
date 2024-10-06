@@ -67,18 +67,17 @@ nav ul li a:hover {
     position: fixed;
     top: 130px;
     left: 0;
-    width: 210px;
+    width: 160px;
+    
     bottom: 0;
     z-index: 1;
-    height: 722px;
-    
+    height: calc(100vh - 200px);
 }
 
 /* Configura a largura da barra de rolagem do menu lateral */ 
 .menu-livros::-webkit-scrollbar {
     width: 12px;
 }
-
 
 .menu-livros::-webkit-scrollbar-track {
     background: #383838;
@@ -110,10 +109,10 @@ nav ul li a:hover {
     text-decoration: none;
 }
 
+ /* Sublinha ao passar o mouse */
 .menu-livros a:hover {
-    text-decoration: underline; /* Sublinha ao passar o mouse */
+    text-decoration: underline;
 }
-
 
 .content {
     flex: 3;
@@ -187,31 +186,21 @@ nav ul li a:hover {
     margin-left: 130px;
 }
 
-/* Configura a area dos botoes dos capítulos em coluna (Os botões são gerado pelo script.js) */ 
 /*.capitulos {
     display: grid;
+    
     flex-wrap: wrap;
-    justify-content: flex-start;
-    flex: 1;
-    grid-template-columns: repeat(auto-fit, minmax(70px, 1fr)); 
-    margin-top: 0;
-    margin-left: 420px;
+    /*grid-template-columns: repeat(16, minmax(60px, 1fr));*/
+    /*grid-template-columns: repeat(auto-fit, minmax(60px, 1fr)); 
+    grid-template-columns: repeat(auto-fill, minmax(76px, 100fr));
+    c
+    /*flex: 1;
+    
     gap: 3px;
-    width: calc(100% - 700px);
-}
-*/
-.capitulos {
-    display: grid;
-    flex-wrap: wrap;
-    grid-template-columns: repeat(16, minmax(60px, 1fr));
-    justify-content: flex-start;
-    flex: 1;
-    gap: 3px;
-    width: calc(100% - 500px);
-    margin-top: -20px;
+    c
     margin-left: 300px;
-    width: calc(100% - 700px);width: calc(100% - 700px);
-}
+    width: calc(100% - 350px);
+}*/
 
 /* Configura o estilo para os botões dos capítulos (Os botões são gerado pelo script.js)*/
 /*.botao-capitulo {
@@ -220,46 +209,45 @@ nav ul li a:hover {
     color: white;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
+    /*display: inline-block;*/
+    /*font-size: 16px;*
+    font-size: 1vw;
     cursor: pointer;
     border-radius: 5px;
     transition: background-color 0.3s;
-    padding: 6px 12px;
+    /*padding: 6px 12px;*    padding: 0.2vh 0.2vw;
     margin: 2px 1px;
-    min-width: 70px;
-    max-width: 10px;
-}*/
-
-/* Configura o estilo para os botões dos capítulos (Os botões são gerado pelo script.js)*/
-.botao-capitulo {
-    background-color: #220bf0;
     border: none;
     color: white;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    cursor: pointer;
-    border-radius: 5px;
-    transition: background-color 0.3s;
-    padding: 6px 12px;
-    margin: 2px 1px;border: none;
+   c /* Ajusta a largura dos botões para se adaptarem ao grid*    max-width: 100%; 
+}*/
+
+.capitulos {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(70px, 1fr)); /* Ajuste o minmax para colunas menores */
+    gap: 5px; /* Espaço entre os botões */
+    padding: 20px;
+    /*width: 100%;*/
+    margin-left: 250px;
+    width: calc(100% - 300px);
+    margin-top: -50px;
+    
+  }
+  
+  .botao-capitulo {
+    background-color: #220bf0;
     color: white;
     text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    cursor: pointer;
+    padding: 6px 10px;
     border-radius: 5px;
+    cursor: pointer;
+    font-size: 1vw;
+    border: none;
     transition: background-color 0.3s;
-    padding: 6px 12px;
-    margin: 2px 1px;
-    min-width: auto; /* Ajusta a largura dos botões para se adaptarem ao grid*/
-    max-width: 100%; 
-}
-
-
+    
+    
+  }
+  
 
 /* Configura a cor de fundo dos botões ao passar o mouse por cima (Os botões são gerado pelo script.js) */
 .botao-capitulo:hover, .botao-versiculo:hover {
@@ -277,13 +265,31 @@ nav ul li a:hover {
     
 }*/
 
-h2 {
+/* Confirura o estilo do titulo dos botões */
+/*h2 {
     font-weight: bold;
     color: #f5f1f1;
     margin-left: 568px;
     font-style: italic;
-    font-size: 1.5em;
+    /*font-size: 2.5em;*/
+    /*font-size: 2.5vw;
+    margin-top: 10px;
+}*/
+
+h2 {
+    font-weight: bold;
+    color: #f5f1f1;
+    font-style: italic;
+    font-size: 2.5vw; /* Tamanho da fonte responsivo */
+    /*margin: 10px auto; /* Margem superior e inferior, centraliza horizontalmente */
+    width: calc(100% - 300px); /* Ajuste a largura para corresponder ao contêiner */
+    /*max-width: 900px; /* Limita a largura máxima se necessário */
+    text-align: center; /* Centraliza o texto */
+    margin-top: 10px;
+    margin-left: 268px;
 }
+
+
 
 /* Configura o estilo do titulo do menu lateral */
 h3 {
@@ -304,97 +310,58 @@ strong {
     margin-top: 5px;
 }
 
-/*estilo original 04/10/24 11:28*/
-/* Botoes verisculos */
-/*.versiculos {
-    display: grid;
-    flex-wrap: wrap;
-    justify-content: flex-start;
-    flex: 1;
-    grid-template-columns: repeat(auto-fit, minmax(70px, 1fr)); 
-    margin-top: 20px;
-    margin-left: 420px;
-    gap: 3px;
-    width: calc(100% - 700px);
-}*/
-
 /* Botoes verisculos */
 .versiculos {
     display: grid;
     flex-wrap: wrap;
-    grid-template-columns: repeat(16, minmax(60px, 1fr));
-    justify-content: flex-start;
-    gap: 3px;
-    width: calc(100% - 500px);
-    margin-top: 0;
-    margin-left: 300px;
-    width: calc(100% - 700px);
+    /*grid-template-columns: repeat(16, minmax(60px, 1fr));*/
+    grid-template-columns: repeat(auto-fit, minmax(70px, 1fr)); /* Ajuste o minmax para colunas menores */
+    gap: 5px;
+    padding: 20px;
+    /*justify-content: flex-start;*/
+    margin-left: 250px;
+    width: calc(100% - 300px);
+    margin-top: -30px;
+    
+    
 }
-
-/*estilo original 04/10/24 11:28*/
-/*.botao-versiculo {
-    background-color: #6758ec;
-    border: none;
-    color: white;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    cursor: pointer;
-    border-radius: 5px;
-    transition: background-color 0.3s;
-    padding: 6px 12px;
-    margin: 2px 1px;
-    min-width: 70px;
-    max-width: 10px;
-}*/
 
 .botao-versiculo {
     background-color: #6758ec;
     border: none;
     color: white;
     text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    cursor: pointer;
+    /*text-decoration: none;*/
+    /*display: inline-block;*/
+    padding: 6px 10px;
     border-radius: 5px;
+    cursor: pointer;
+    font-size: 1vw;
+    border: none;
     transition: background-color 0.3s;
-    padding: 6px 12px;
+    /*
     margin: 2px 1px;
     min-width: auto;
-    max-width: 100%; 
+    max-width: 100%; */
 }
 
-
-/*estilo original 04/10/24 11:28*/
-/*.versiculo-texto {
-    color: #f8f8f8;
-    font-weight: bold;
-    font-style: italic;
-    margin-top: 20px;
-    margin-left: 135px;
-    font-size: 2.5em;
-    
-    position: relative;
-    z-index: 1;
-    text-align: center;
-}
-*/
 
 .versiculo-texto {
     color: #f8f8f8;
     font-weight: bold;
     font-style: italic;
-    margin-top: 20px;
-    margin-left: 318px;
-    font-size: 2.1em;
+    margin-top: -20px;
+    margin-left: 300px;
+    /*font-size: 3.1vw;*/
+    font-size: clamp(1.5em, 2.5vw + 1em, 3.5em);
     position: relative;
     text-align: center;
     width: calc(100% - 420px);
     max-width: 100%; 
-    margin-right: auto; 
-    white-space: nowrap; 
+    margin-right: 50px; 
+    /*white-space: nowrap;*/
+    overflow: hidden; /* Impede o texto de ultrapassar */
+    text-overflow: ellipsis;
 }
 
 
@@ -436,15 +403,10 @@ footer p {
 
 /* correção do background */
 @media(min-width:1010px) {
-    body
-    {
-    background-size: 100% auto;
+    
     }
-}
+
 
 @media(min-width:1030px) {
-    body
-    {
-    background-size: auto 100%;
-    }
+    
 }
