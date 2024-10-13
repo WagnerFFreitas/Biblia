@@ -523,7 +523,8 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
 
                 /* O bloco abaixo configura o titulo (Livro, Capitulo Nº e versiculo nº ) */
                 #titulo { 
-                    font-size: clamp(2rem, 6vw, 3rem);
+                    /*font-size: clamp(2rem, 6vw, 3rem);*/
+                    font-size: 3vw;
                     margin-bottom: 1.25rem; 
                     text-align: center;
                     color: #f1c40f;
@@ -531,8 +532,10 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
                 
                 /* Este bloco configura o estilo dos textos dos versiculos */
                 .versiculo-texto { 
+                    /*text-align: justify;*/
                     text-align: center;
-                    font-size: clamp(3rem, 4vw, 8rem);
+                    /*font-size: clamp(3rem, 4vw, 8rem);*/
+                    font-size: 5vw;
                     max-width: 100vw;
                     overflow-wrap: break-word;
                 }
@@ -540,7 +543,8 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
                 /* Este bloco configura o estilo do titulo dos versiculos */
                 #versiculo-container strong { 
                     color: #5df565;
-                    font-size: clamp(2rem, 4vw, 3rem);
+                    /*font-size: clamp(2rem, 4vw, 3rem);*/
+                    font-size: 3.5vw;
                     margin-top: 0.63rem;
                     display: block;
                 }
@@ -624,7 +628,7 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
                 }
                 
                 /* O bloco abaixo configura o estilos para desktops de alta resolução */
-                @media (min-width: 1920px) {
+                /*@media (min-width: 1920px) {
                     body {
                         font-size: 1.5rem;
                         padding: 2rem;
@@ -693,10 +697,10 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
                     #proximo-botao::after {
                         right: -95px;
                     }
-                }
+                }*/
 
                 /* Estilos para resolução 1366x768 */
-                @media (max-width: 1366px) {
+                /*@media (max-width: 1366px) {
                     body {
                         font-size: 1rem;
                         padding: 1rem;
@@ -754,11 +758,11 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
                     #proximo-botao::after {
                         right: -80px;
                     }
-                }
+                }*/
 
 
                 /* Para dispositivos móveis (telas menores que 768px) */
-                @media (max-width: 768px) {
+                /*@media (max-width: 768px) {
                     #titulo {
                         font-size: clamp(2rem, 5vw, 3rem);
                     }
@@ -806,10 +810,10 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
                     #proximo-botao::after {
                         right: -80px;
                     }
-                }
+                }*/
 
                 /* O bloco abaixo configura o estilos para dispositivos móveis com tela de 480px */
-                @media (max-width: 480px) {
+                /*@media (max-width: 480px) {
                     #titulo {
                         font-size: clamp(1.5rem, 5vw, 2rem);
                     }
@@ -856,10 +860,10 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
                     #proximo-botao::after {
                         right: -80px;
                     }
-                }
+                }*/
 
                 /* O bloco abaixo configura o estilos para dispositivos móveis com tela de 360px */
-                @media (max-width: 360px) {
+                /*@media (max-width: 360px) {
                     body {
                         font-size: clamp(0.8rem, 5vw, 1.5rem);
                     }
@@ -873,10 +877,10 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
                         padding: 8px 16px;
                         border-radius: 40px;
                     }
-                }
+                }*/
 
                 /* Ajusta a configuração caso o dispositivo móvel fique na posição de deitado */
-                @media (max-width: 767px) and (orientation: landscape) {
+                /*@media (max-width: 767px) and (orientation: landscape) {
                     #titulo {
                         font-size: clamp(2rem, 6vw, 3rem);
                     }
@@ -888,7 +892,7 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
                     #versiculo-container {
                         font-size: clamp(4rem, 8vw, 6rem);
                     }
-                }
+                }*/
             </style>
         </head>
         <body>
