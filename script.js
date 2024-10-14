@@ -1,6 +1,4 @@
-// 06/09/24 12:24
-
-
+// O bloco abaixo define o objeto "livros" que armazena informações sobre os livros da Bíblia
 const livros = {
     "genesis": {
         "capitulos": 50
@@ -309,7 +307,7 @@ function loadBook(livro) {
         if (versiculoTexto) {
             versiculoTexto.remove();
         }
-        titulo.textContent = ''; // Limpa o título do livro
+        titulo.textContent = '';
 
         // O trecho abaixo remove todos os botões de capítulos e versículos
         const allBookContents = content.querySelectorAll('.book-content');
@@ -321,11 +319,11 @@ function loadBook(livro) {
         return;
     }
 
-    // Limpa o conteúdo anterior, exceto a marca d'água
+    // O trecho abaixo limpa o conteúdo anterior, exceto a marca d'água
     const elementsToRemove = content.querySelectorAll('h2, .capitulos-container, .versiculo-texto, .book-content');
     elementsToRemove.forEach(element => element.remove());
 
-    // Adiciona o título do livro e os botões de capítulos
+    // O trecho abaixo adiciona o título do livro e os botões de capítulos
     titulo = document.createElement('h2');
     titulo.textContent = `${livro.toUpperCase()}`;
     content.appendChild(titulo);
@@ -336,12 +334,12 @@ function loadBook(livro) {
 
     content.appendChild(capitulosContainer);
 
-    // Define o livro ativo como o livro atual
+    // O trecho abaixo define o livro ativo como o livro atual
     activeLivro = livro;
-    activeCapitulo = null; // Reseta o capítulo ativo quando o livro muda
+    activeCapitulo = null;
 }
 
-// Adiciona eventos de clique aos links dos livros
+// O bloco abaixo adiciona eventos de clique aos links dos livros
 document.querySelectorAll('.menu-livros a').forEach(link => {
     link.addEventListener('click', (event) => {
         event.preventDefault();
@@ -350,7 +348,7 @@ document.querySelectorAll('.menu-livros a').forEach(link => {
     });
 });
 
-// Função para configurar os botões de versículos
+// O bloco abaixo cria a função para configurar os botões de versículos
 function createVersiculosButtons(livro, capitulo) {
     const versiculosContainer = document.createElement('div');
     versiculosContainer.classList.add('versiculos');
@@ -368,23 +366,23 @@ function createVersiculosButtons(livro, capitulo) {
     return versiculosContainer;
 }
 
-// Função para alternar o texto do versículo
+// O bloco abaixo cria a função para alternar o texto do versículo
 function toggleVersiculoText(livro, capitulo, versiculo, button) {
     if (activeVersiculoButton === button) {
-        // Se o botão clicado for o mesmo, remover o texto
+        // O trecho abaixo verifica se o botão clicado for o mesmo, caso sim, remover o texto
         const existingVersiculo = document.querySelector('.versiculo-texto');
         if (existingVersiculo) {
             existingVersiculo.remove();
         }
         activeVersiculoButton = null;
     } else {
-        // Se for outro botão, carregar o novo versículo
+        // O trecho abaixo verifica se e outro botão, caso sim, carregar o novo versículo
         loadVersiculo(livro, capitulo, versiculo);
         activeVersiculoButton = button;
     }
 }
 
-// Função para obter o número de versículos em um capítulo específico
+// O bloco abaixo cria a função para obter o número de versículos em um capítulo específico
 function getNumVersiculos(livro, capitulo) {
     const versiculosPorCapitulo = {
         "genesis": {
@@ -444,19 +442,19 @@ function getNumVersiculos(livro, capitulo) {
     return versiculosPorCapitulo[livro]?.[capitulo] || 0;
 };
 
-// Carrega a imagem da Bíblia assim que a página abre
+// O bloco abaixo carrega a imagem da Bíblia assim que a página abre
 window.onload = () => {
-    const content = document.querySelector('.content'); // Seleciona o elemento com a classe '.content'
-    const watermarkContainer = document.createElement('div'); // configura um novo elemento 'div'
-    watermarkContainer.classList.add('watermark'); // Adiciona a classe 'watermark' ao 'div'
+    const content = document.querySelector('.content');
+    const watermarkContainer = document.createElement('div');
+    watermarkContainer.classList.add('watermark');
     
-    const img = document.createElement('img'); // configura um novo elemento de imagem
-    img.src = 'biblia.png'; // Define o caminho da imagem (certifique-se de que está correto)
-    img.alt = "Marca d'água da Bíblia"; // Adiciona um texto alternativo
-    img.classList.add('watermark-image'); // Adiciona uma classe para estilizar a imagem
+    const img = document.createElement('img');
+    img.src = 'biblia.png';
+    img.alt = "Marca d'água da Bíblia";
+    img.classList.add('watermark-image');
     
-    watermarkContainer.appendChild(img); // Insere a imagem dentro do container 'watermark'
-    content.appendChild(watermarkContainer); // Adiciona o container 'watermark' à página
+    watermarkContainer.appendChild(img);
+    content.appendChild(watermarkContainer);
 };
 
 // O bloco abaixo cria a janela de SLIDE para o data-show
@@ -480,6 +478,7 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <style>
+                /* O bloco abaixo cria o estilo do corpo da pagina do SLIDE */
                 body { 
                     font-family: sans-serif; 
                     padding: 1.25rem;
@@ -498,6 +497,7 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
                     font-weight: bold;
                 }
 
+                /* O bloco abaixo cria o estilo para os botões */
                 button { 
                     padding: 0.63rem 1.25rem; 
                     font-size: clamp(1rem, 2vw + 0.5rem, 1.5rem);
@@ -509,11 +509,13 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
                     transition: background-color 0.3s ease, color 0.3s ease; /* Transição suave */
                 }
 
+                /* O bloco abaixo cria o estilos para os botões ao passar o mouse */
                 button:hover { 
                     background-color: black;
                     color: white;
                 }
 
+                /* O bloco abaixo cria o estilos para o container do versículo */
                 #versiculo-container { 
                     display: flex;
                     justify-content: center;
@@ -523,14 +525,13 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
 
                 /* O bloco abaixo configura o titulo (Livro, Capitulo Nº e versiculo nº ) */
                 #titulo { 
-                    /*font-size: clamp(2rem, 6vw, 3rem);*/
                     font-size: 3vw;
                     margin-bottom: 1.25rem; 
                     text-align: center;
                     color: #f1c40f;
                 }
                 
-                /* Este bloco configura o estilo dos textos dos versiculos */
+                /* O bloco abaixo configura o estilo dos textos dos versiculos */
                 .versiculo-texto { 
                     /*text-align: justify;*/
                     text-align: center;
@@ -540,16 +541,15 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
                     overflow-wrap: break-word;
                 }
 
-                /* Este bloco configura o estilo do titulo dos versiculos */
+                /* O bloco abaixo configura o estilo do titulo dos versiculos */
                 #versiculo-container strong { 
                     color: #5df565;
-                    /*font-size: clamp(2rem, 4vw, 3rem);*/
                     font-size: 3.5vw;
                     margin-top: 0.63rem;
                     display: block;
                 }
                 
-                /* Este bloco coloca a imagem de fundo em marca d'água */
+                /* O bloco abaixo coloca a imagem de fundo em marca d'água */
                 #watermark {
                     position: fixed;
                     top: 0; 
@@ -566,6 +566,7 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
                     background-position: center;
                 }
 
+                /* O bloco abaixo configura o estilos para o container dos botões */
                 #botao-container {
                     position: absolute;
                     bottom: 2rem;
@@ -574,6 +575,7 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
                     gap: 0.63rem;
                 }
 
+                /* O bloco abaixo configura o estilos para os botões "voltar" e "próximo" */
                 #voltar-botao,
                 #proximo-botao {
                     background-color: white;
@@ -588,13 +590,14 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
                     transition: background-color 0.3s ease, color 0.3s ease;
                 }
 
+                /* O bloco abaixo cria o estilos para os botões "voltar" e "próximo" ao passar o mouse */
                 #voltar-botao:hover,
                 #proximo-botao:hover {
                     background-color: black;
                     color: white;
                 }
 
-                /* O bloco abaixo configura as pontas da setas */
+                /* O bloco abaixo cria e configura as pontas da setas */
                 #voltar-botao::before,
                 #proximo-botao::after {
                     content: '';
@@ -608,291 +611,27 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
                     transition: border-color 0.3s ease; 
                 }
 
+                /* O bloco abaixo configura o estilos para a seta do botão "voltar" */
                 #voltar-botao::before {
                     left: -85px;
                     border-color: transparent white transparent transparent;
                 }
 
+                /* O bloco abaixo configura o estilos para a seta do botão "próximo" */
                 #proximo-botao::after {
                     right: -75px;
                     border-color: transparent transparent transparent white;
                 }
 
-                /* O bloco abaixo configura o efeito hover nas setas */
+                /* O bloco abaixo cria o estilos para a seta "voltar" ao passar o mouse */
                 #voltar-botao:hover::before {
-                    border-color: transparent black transparent transparent; /* Muda a cor da seta ao passar o mouse */
+                    border-color: transparent black transparent transparent;
                 }
 
+                /* O bloco abaixo cria o estilos para a seta "próximo" ao passar o mouse */
                 #proximo-botao:hover::after {
-                    border-color: transparent transparent transparent black; /* Muda a cor da seta ao passar o mouse */
+                    border-color: transparent transparent transparent black;
                 }
-                
-                /* O bloco abaixo configura o estilos para desktops de alta resolução */
-                /*@media (min-width: 1920px) {
-                    body {
-                        font-size: 1.5rem;
-                        padding: 2rem;
-                    }
-
-                    #versiculo-container {
-                        font-size: 7rem;
-                        margin-bottom: 1rem;
-                    }
-
-                    #titulo {
-                        font-size: 4rem;
-                        margin-bottom: 2rem;
-                    }
-
-                    .versiculo-texto {
-                        font-size: 5.5rem;
-                        max-width: 80vw;
-                    }
-
-                    #versiculo-container strong {
-                        font-size: 4rem;
-                        margin-top: 1rem;
-                    }
-
-                    #botao-container {
-                        bottom: 3.5rem;
-                        left: 3rem;
-                        gap: 1rem;
-                    }
-
-                    #voltar-botao,
-                    #proximo-botao {
-                        font-size: 2rem;
-                        padding: 15px 20px;
-                        height: 50px;
-                        display: flex;
-                        align-items: center;
-                        justify-content: center;
-                        font-weight: 900;
-                        font-style: italic;
-                    }
-
-                    #voltar-botao span,
-                    #proximo-botao span {
-                        display: inline-block;
-                        vertical-align: middle;
-                    }
-
-                    #voltar-botao span::before,
-                    #proximo-botao span::after {
-                        display: inline-block;
-                        vertical-align: middle;
-                        content: '';
-                    }
-
-                    #voltar-botao::before,
-                    #proximo-botao::after {
-                        border-width: 55px;
-                    }
-
-                    #voltar-botao::before {
-                        left: -95px;
-                    }
-
-                    #proximo-botao::after {
-                        right: -95px;
-                    }
-                }*/
-
-                /* Estilos para resolução 1366x768 */
-                /*@media (max-width: 1366px) {
-                    body {
-                        font-size: 1rem;
-                        padding: 1rem;
-                    }
-
-                    #versiculo-container {
-                        font-size: clamp(3rem, 6vw, 5rem);
-                    }
-
-                    #titulo {
-                        font-size: 3rem;
-                    }
-
-                    .versiculo-texto {
-                        font-size: 3.8rem;
-                    }
-
-                    #botao-container {
-                        bottom: 1.3rem;
-                        left: 2.5rem;
-                    }
-
-                    #voltar-botao,
-                    #proximo-botao {
-                        padding: 0.4rem 1rem;
-                        font-size: 1.5rem;
-                        font-weight: 900;
-                        height: auto;
-                    }
-
-                    #voltar-botao span,
-                    #proximo-botao span {
-                        display: inline-block;
-                        vertical-align: middle;
-                        font-weight: bold;
-                        font-style: italic;
-                    }
-
-                    #voltar-botao span::before,
-                    #proximo-botao span::after {
-                        display: inline-block;
-                        vertical-align: middle;
-                        content: '';
-                    }
-
-                    #voltar-botao::before,
-                    #proximo-botao::after {
-                        border-width: 40px;
-                    }
-
-                    #voltar-botao::before {
-                        left: -80px;
-                    }
-
-                    #proximo-botao::after {
-                        right: -80px;
-                    }
-                }*/
-
-
-                /* Para dispositivos móveis (telas menores que 768px) */
-                /*@media (max-width: 768px) {
-                    #titulo {
-                        font-size: clamp(2rem, 5vw, 3rem);
-                    }
-
-                    .versiculo-texto {
-                        font-size: clamp(3rem, 5vw, 4rem);
-                    }
-
-                    #botao-container {
-                        flex-direction: column;
-                        bottom: 1rem;
-                        left: 0;
-                    }
-
-                    #voltar-botao,
-                    #proximo-botao {
-                        padding: 15px 30px;
-                        font-size: 2rem;
-                        font-weight: 900;
-                        font-style: italic;
-                    }
-
-                    #voltar-botao span,
-                    #proximo-botao span {
-                        display: inline-block;
-                        vertical-align: middle;
-                    }
-
-                    #voltar-botao span::before,
-                    #proximo-botao span::after {
-                        display: inline-block;
-                        vertical-align: middle;
-                        content: '';
-                    }
-
-                    #voltar-botao::before,
-                    #proximo-botao::after {
-                        border-width: 40px;
-                    }
-
-                    #voltar-botao::before {
-                        left: -80px;
-                    }
-
-                    #proximo-botao::after {
-                        right: -80px;
-                    }
-                }*/
-
-                /* O bloco abaixo configura o estilos para dispositivos móveis com tela de 480px */
-                /*@media (max-width: 480px) {
-                    #titulo {
-                        font-size: clamp(1.5rem, 5vw, 2rem);
-                    }
-
-                    .versiculo-texto {
-                        font-size: clamp(2rem, 5vw, 3rem);
-                    }
-
-                    #botao-container {
-                        flex-direction: column;
-                        align-items: center;
-                    }
-
-                    #voltar-botao,
-                    #proximo-botao {
-                        padding: 10px 20px;
-                        font-size: 1rem;
-                        font-weight: 900;
-                        font-style: italic;
-                    }
-
-                    #voltar-botao span,
-                    #proximo-botao span {
-                        display: inline-block;
-                        vertical-align: middle;
-                    }
-
-                    #voltar-botao span::before,
-                    #proximo-botao span::after {
-                        display: inline-block;
-                        vertical-align: middle;
-                        content: '';
-                    }
-
-                    #voltar-botao::before,
-                    #proximo-botao::after {
-                        border-width: 40px;
-                    }
-
-                    #voltar-botao::before {
-                        left: -80px;
-                    }
-
-                    #proximo-botao::after {
-                        right: -80px;
-                    }
-                }*/
-
-                /* O bloco abaixo configura o estilos para dispositivos móveis com tela de 360px */
-                /*@media (max-width: 360px) {
-                    body {
-                        font-size: clamp(0.8rem, 5vw, 1.5rem);
-                    }
-
-                    .versiculo-texto {
-                        font-size: clamp(1.5rem, 5vw, 2.5rem);
-                    }
-
-                    button {
-                        font-size: clamp(1rem, 5vw, 1.25rem);
-                        padding: 8px 16px;
-                        border-radius: 40px;
-                    }
-                }*/
-
-                /* Ajusta a configuração caso o dispositivo móvel fique na posição de deitado */
-                /*@media (max-width: 767px) and (orientation: landscape) {
-                    #titulo {
-                        font-size: clamp(2rem, 6vw, 3rem);
-                    }
-
-                    .versiculo-texto {
-                        font-size: clamp(3rem, 6vw, 5rem);
-                    }
-
-                    #versiculo-container {
-                        font-size: clamp(4rem, 8vw, 6rem);
-                    }
-                }*/
             </style>
         </head>
         <body>
@@ -972,7 +711,7 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
     window.janelaSlide.document.close();
 }
 
-// O trecho abaixo adiciona o evento de clique ao link "Slide" na janela principal
+// O bloco abaixo adiciona o evento de clique ao link "Slide" na janela principal
 document.querySelector('header nav ul li:first-child a').addEventListener('click', (event) => {
     event.preventDefault();
     abrirJanelaSlide(activeLivro, activeCapitulo, activeVersiculoButton ? activeVersiculoButton.textContent.trim() : 1);
