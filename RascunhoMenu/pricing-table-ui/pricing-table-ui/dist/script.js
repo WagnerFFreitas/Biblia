@@ -1,3 +1,0 @@
-/*
-By Jamal Hassouni
-*/

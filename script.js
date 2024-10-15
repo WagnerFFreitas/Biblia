@@ -459,14 +459,18 @@ window.onload = () => {
 
 // O bloco abaixo cria a janela de SLIDE para o data-show
 function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
+    
+    // O trecho abaixo verifica se a janela já está aberta e não está fechada
     if (window.janelaSlide && !window.janelaSlide.closed) {
         window.janelaSlide.focus();
         return;
     }
 
+    // O trecho abaixo obtém a largura e altura da tela do usuário
     const largura = window.screen.availWidth;
     const altura = window.screen.availHeight;
 
+    // O trecho abaixo abre uma nova janela com as dimensões especificadas
     window.janelaSlide = window.open('', 'JanelaSlide', `width=${largura},height=${altura}`);
 
     window.janelaSlide.document.open();
@@ -509,7 +513,7 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
                     transition: background-color 0.3s ease, color 0.3s ease; /* Transição suave */
                 }
 
-                /* O bloco abaixo cria o estilos para os botões ao passar o mouse */
+                /* O bloco abaixo configura o efeito ao passar o mouse, mudando a cor dos botões */
                 button:hover { 
                     background-color: black;
                     color: white;
@@ -590,7 +594,7 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
                     transition: background-color 0.3s ease, color 0.3s ease;
                 }
 
-                /* O bloco abaixo cria o estilos para os botões "voltar" e "próximo" ao passar o mouse */
+                /* O bloco abaixo configura o efeito ao passar o mouse, mudando a cor dos botões "voltar" e "próximo" */
                 #voltar-botao:hover,
                 #proximo-botao:hover {
                     background-color: black;
@@ -623,12 +627,12 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
                     border-color: transparent transparent transparent white;
                 }
 
-                /* O bloco abaixo cria o estilos para a seta "voltar" ao passar o mouse */
+                /* O bloco abaixo configura o efeito ao passar o mouse, ficando transparente a seta "voltar" */
                 #voltar-botao:hover::before {
                     border-color: transparent black transparent transparent;
                 }
 
-                /* O bloco abaixo cria o estilos para a seta "próximo" ao passar o mouse */
+                /* O bloco abaixo configura o efeito ao passar o mouse, ficando transparente a seta "próximo" */
                 #proximo-botao:hover::after {
                     border-color: transparent transparent transparent black;
                 }
