@@ -1,0 +1,387 @@
+Alex e Gabe
+// Função para carregar o conteúdo de um capítulo específico
+async function loadVersiculo(livro, capitulo, versiculo) {
+    const response = await fetch(`json/${livro}.json`);
+    const data = await response.json();
+    
+    const versiculoContent = data[livro][capitulo].versiculos[versiculo - 1];
+    const content = document.querySelector('.content');
+
+    // O trecho abaixo remove qualquer texto de versículo existente
+    const existingVersiculo = content.querySelector('.versiculo-texto');
+    if (existingVersiculo) {
+        existingVersiculo.remove();
+    }
+
+    const versiculoElement = document.createElement('div');
+    versiculoElement.classList.add('versiculo', 'versiculo-texto');
+    if (versiculoContent) {
+        versiculoElement.textContent = versiculoContent;
+    } else {
+        versiculoElement.textContent = 'Versículo não encontrado.';
+    }
+
+    content.appendChild(versiculoElement);
+    titulo.textContent = `${livro.toUpperCase()} - CAPÍTULO ${capitulo} - VERSÍCULO ${versiculo}`;
+}
+
+// Função para alternar o texto do versículo
+function toggleVersiculoText(livro, capitulo, versiculo, button) {
+    if (activeVersiculoButton === button) {
+        // O trecho abaixo verifica se o botão clicado for o mesmo, caso sim, remover o texto
+        const existingVersiculo = document.querySelector('.versiculo-texto');
+        if (existingVersiculo) {
+            existingVersiculo.remove();
+        }
+        activeVersiculoButton = null;
+    } else {
+        // O trecho abaixo verifica se e outro botão, caso sim, carregar o novo versículo
+        loadVersiculo(livro, capitulo, versiculo);
+        activeVersiculoButton = button;
+    }
+}
+
+// Função para obter o número de versículos em um capítulo específico
+function getNumVersiculos(livro, capitulo) {
+    const response = await fetch(`json/${livro}.json`);
+    const data = await response.json();
+    return data[livro][capitulo].versiculos.length;
+}
+
+// Função para criar os botões de versículos
+function createVersiculosButtons(livro, capitulo) {
+    const versiculosContainer = document.createElement('div');
+    versiculosContainer.classList.add('versiculos');
+
+    const numVersiculos = getNumVersiculos(livro, capitulo);
+    for (let i = 1; i <= numVersiculos; i++) {
+        const button = document.createElement('button');
+        button.textContent = ` ${i}`;
+        button.classList.add('botao-versiculo');
+        button.addEventListener('click', () => {
+            toggleVersiculoText(livro, capitulo, i, button);
+        });
+        versiculosContainer.appendChild(button);
+    }
+    return versiculosContainer;
+}
+
+
+Peço desculpas pelo corte anterior. Aqui está a continuação da estrutura do arquivo JSON:
+
+```json
+{
+    "Gênesis": {
+        "1": {
+            "titulo": "A criação do céu e da terra e de tudo o que neles se contém",
+            "versiculos": [
+                "No princípio, criou Deus os céus e a terra.",
+                "E a terra era sem forma e vazia; e havia trevas sobre a face do abismo; e o Espírito de Deus se movia sobre a face das águas.",
+                // ...
+            ]
+        },
+        "2": {
+            "titulo": "O descanso de Deus",
+            "versiculos": [
+                "Assim foram acabados os céus e a terra, e tudo o que neles há.",
+                "E Deus acabou no sétimo dia a obra que fizera; e no sétimo dia descansou de toda a obra que fizera.",
+                // ...
+            ]
+        },
+        // ...
+    },
+    "Êxodo": {
+        "1": {
+            "titulo": "A opressão dos israelitas no Egito",
+            "versiculos": [
+                "Estes são os nomes dos filhos de Israel que entraram no Egito com Jacó; cada um entrou com sua casa:",
+                "Rúben, Simeão, Levi e Judá;",
+                // ...
+            ]
+        },
+        // ...
+    },
+    // ...
+}
+```
+
+Essa estrutura contém os livros da Bíblia como chaves principais, e dentro de cada livro, há capítulos com títulos e versículos.
+
+Lembre-se de que você precisará adaptar as funções para carregar os capítulos e versículos de acordo com a estrutura do seu arquivo JSON.
+
+Além disso, você precisará modificar a função `abrirJanelaSlide` para carregar os capítulos e versículos do arquivo JSON em vez de arquivos HTML.
+
+```javascript
+function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
+    // ...
+    const response = await fetch(`json/${livroAtual}.json`);
+    const data = await response.json();
+    const capituloConteudo = data[livroAtual][capituloAtual];
+    const versiculoTexto = capituloConteudo.versiculos[versiculoAtual - 1];
+    // ...
+}
+```
+
+Essas são as principais modificações que você precisará fazer para carregar os capítulos e versículos de um arquivo JSON em vez de arquivos HTML.
+
+Essa estrutura contém os livros da Bíblia como chaves principais, e dentro de cada livro, há capítulos com títulos e versículos.
+
+Lembre-se de que você precisará adaptar as funções para carregar os capítulos e versículos de acordo com a estrutura do seu arquivo JSON.
+
+Além disso, você precisará modificar a função abrirJanelaSlide para carregar os capítulos e versículos do arquivo JSON em vez de arquivos HTML.
+
+function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
+    // ...
+    const response = await fetch(`json/${livroAtual}.json`);
+    const data = await response.json();
+    const capituloConteudo = data[livroAtual][capituloAtual];
+    const versiculoTexto = capituloConteudo.versiculos[versiculoAtual - 1];
+    // ...
+}
+
+
+---------------*------------
+Para modificar o script para buscar os capítulos a partir de um arquivo JSON em vez de arquivos HTML, você precisará alterar as funções que fazem o fetch dos capítulos e versículos. Vou guiá-lo pelas mudanças necessárias.
+
+Passos para a modificação:
+Carregar o conteúdo do JSON: Em vez de fazer uma requisição para um arquivo .html, você fará uma requisição para o arquivo JSON que contém os dados do capítulo.
+Alterar a função loadVersiculo e toggleVersiculos: Estas funções precisam ser ajustadas para buscar os dados no JSON e não mais em arquivos .html.
+Modificações no código:
+Aqui estão as mudanças específicas que você precisa fazer no script.js:
+
+1. Carregar o arquivo JSON no lugar dos HTMLs
+// Carrega o conteúdo de um versículo específico a partir do JSON
+async function loadVersiculo(livro, capitulo, versiculo) {
+    const response = await fetch(`json/${livro}_original.json`);
+    const data = await response.json();
+
+    const content = document.querySelector('.content');
+
+    // Acessa o capítulo e versículo específicos no JSON
+    const versiculoContent = data[livro.charAt(0).toUpperCase() + livro.slice(1)][capitulo.toString()].versiculos[versiculo - 1];
+
+    // O trecho abaixo remove qualquer texto de versículo existente
+    const existingVersiculo = content.querySelector('.versiculo-texto');
+    if (existingVersiculo) {
+        existingVersiculo.remove();
+    }
+
+    const versiculoElement = document.createElement('div');
+    versiculoElement.classList.add('versiculo', 'versiculo-texto');
+    if (versiculoContent) {
+        // Cria um novo elemento para o versículo
+        versiculoElement.innerHTML = versiculoContent;  // Adiciona o HTML contido no JSON
+    } else {
+        versiculoElement.textContent = 'Versículo não encontrado.';
+    }
+
+    content.appendChild(versiculoElement);
+    titulo.textContent = `${livro.toUpperCase()} - CAPÍTULO ${capitulo} - VERSÍCULO ${versiculo}`;
+}
+
+Claro! Vamos continuar a partir de onde paramos.
+
+2. Alterar a função toggleVersiculos para lidar com o JSON (continuação)
+A função toggleVersiculos também precisa ser ajustada para garantir que os botões de versículos sejam criados corretamente a partir dos dados do JSON.
+
+
+// Função para exibir/ocultar os versículos a partir do JSON
+function toggleVersiculos(livro, capitulo) {
+    const content = document.querySelector('.content');
+
+    // Verifica se os versículos já estão visíveis
+    const existingVersiculos = content.querySelector(`.versiculos-${livro}-${capitulo}`);
+    const allVersiculos = content.querySelectorAll('.book-content');
+
+    // Se os versículos já estiverem visíveis, remove-os
+    if (existingVersiculos) {
+        existingVersiculos.remove();
+
+        // Remove o texto do versículo se os versículos forem recolhidos
+        const existingVersiculo = content.querySelector('.versiculo-texto');
+        if (existingVersiculo) {
+            existingVersiculo.remove();
+        }
+    } else {
+        // Remove qualquer exibição anterior de capítulos e versículos
+        allVersiculos.forEach(versiculo => versiculo.remove());
+
+        // Remove o texto do versículo quando um novo capítulo é clicado
+        const existingVersiculo = content.querySelector('.versiculo-texto');
+        if (existingVersiculo) {
+            existingVersiculo.remove();
+        }
+
+        // Adiciona os versículos do novo capítulo
+        const bookContent = document.createElement('div');
+        bookContent.classList.add('book-content', `versiculos-${livro}-${capitulo}`);
+        titulo.textContent = `${livro.toUpperCase()} - CAPÍTULO ${capitulo}`;
+
+        // Busca o número de versículos no JSON
+        fetch(`json/${livro}_original.json`)
+            .then(response => response.json())
+            .then(data => {
+                const numVersiculos = data[livro.charAt(0).toUpperCase() + livro.slice(1)][capitulo].versiculos.length;
+                bookContent.appendChild(createVersiculosButtons(livro, capitulo, numVersiculos));
+                content.appendChild(bookContent);
+            })
+            .catch(error => {
+                console.error('Erro ao carregar o JSON:', error);
+            });
+
+        // Atualiza o capítulo ativo
+        activeCapitulo = capitulo;
+    }
+}
+
+3. Alterar a função createVersiculosButtons
+A função createVersiculosButtons precisa apenas garantir que o número correto de botões de versículos seja criado com base no JSON.
+
+
+// Função para configurar os botões de versículos com base no JSON
+function createVersiculosButtons(livro, capitulo, numVersiculos) {
+    const versiculosContainer = document.createElement('div');
+    versiculosContainer.classList.add('versiculos');
+
+    for (let i = 1; i <= numVersiculos; i++) {
+        const button = document.createElement('button');
+        button.textContent = ` ${i}`;
+        button.classList.add('botao-versiculo');
+        button.addEventListener('click', () => {
+            toggleVersiculoText(livro, capitulo, i, button);
+        });
+        versiculosContainer.appendChild(button);
+    }
+    return versiculosContainer;
+}
+4. Modificar a função getNumVersiculos
+A função getNumVersiculos pode ser ajustada para buscar o número de versículos diretamente do JSON, garantindo que os botões dos versículos sejam criados corretamente.
+
+
+// Função para obter o número de versículos em um capítulo específico a partir do JSON
+function getNumVersiculos(livro, capitulo) {
+    let numVersiculos = 0;
+    fetch(`json/${livro}_original.json`)
+        .then(response => response.json())
+        .then(data => {
+            numVersiculos = data[livro.charAt(0).toUpperCase() + livro.slice(1)][capitulo].versiculos.length;
+        })
+        .catch(error => {
+            console.error('Erro ao carregar o JSON:', error);
+        });
+    return numVersiculos;
+}
+
+if (capituloConteudo[versiculo - 1]) {
+                        document.getElementById('versiculo-container').innerHTML = `
+                            <div class="versiculo-texto">${versiculo} - ${capituloConteudo[versiculo - 1]}</div>
+                        `;
+                        document.getElementById('titulo').innerText = `${livroAtual.toUpperCase()} - CAPÍTULO ${capituloAtual} - VERSÍCULO ${versiculoAtual}`;
+                    } else {
+                        document.getElementById('versiculo-container').innerHTML = '<div class="versiculo-texto">Versículo não encontrado.</div>';
+                    }
+                }
+
+                function proximoVersiculo() {
+                    versiculoAtual++;
+                    if (versiculoAtual > capituloConteudo.length) {
+                        versiculoAtual = 1;
+                        capituloAtual++;
+                        if (capituloAtual <= Object.keys(data[livroAtual.charAt(0).toUpperCase() + livroAtual.slice(1)]).length) {
+                            carregarCapitulo(capituloAtual);
+                        } else {
+                            document.getElementById('versiculo-container').innerHTML = '<div class="versiculo-texto">Fim do livro.</div>';
+                        }
+                    } else {
+                        carregarVersiculo(versiculoAtual);
+                    }
+                }
+
+                function voltarVersiculo() {
+                    versiculoAtual--;
+                    if (versiculoAtual < 1) {
+                        capituloAtual--;
+                        if (capituloAtual >= 1) {
+                            carregarCapitulo(capituloAtual);
+                            versiculoAtual = capituloConteudo.length;
+                        } else {
+                            document.getElementById('versiculo-container').innerHTML = '<div class="versiculo-texto">Início do livro.</div>';
+                        }
+                    } else {
+                        carregarVersiculo(versiculoAtual);
+                    }
+                }
+
+                document.getElementById('proximo-botao').addEventListener('click', proximoVersiculo);
+                document.getElementById('voltar-botao').addEventListener('click', voltarVersiculo);
+
+                carregarCapitulo(capituloAtual);
+            </script>
+        </body>
+        </html>
+    `);
+    window.janelaSlide.document.close();
+}
+
+Explicação das mudanças:
+Carregar o capítulo a partir do JSON: A função carregarCapitulo faz uma requisição para o arquivo JSON e armazena o conteúdo do capítulo selecionado na variável capituloConteudo.
+Carregar o versículo específico: A função carregarVersiculo atualiza o conteúdo da janela de slide com o versículo selecionado.
+Navegação entre versículos: As funções proximoVersiculo e voltarVersiculo permitem navegar entre os versículos, carregando o próximo ou o anterior conforme necessário. Se chegar ao fim ou início do capítulo, ele ajusta o capítulo e versículo adequadamente.
+Eventos de clique: Os botões "VOLTAR" e "PRÓXIMO" são configurados para chamar as funções de navegação entre os versículos.
+Com essas mudanças, o script agora busca os dados dos capítulos e versículos a partir do arquivo JSON em vez de arquivos HTML separados.
+
+Considerações finais:
+Certifique-se de que o arquivo JSON esteja corretamente estruturado conforme o exemplo que você forneceu.
+Verifique os caminhos dos arquivos JSON nas requisições fetch para garantir que estejam corretos em relação à estrutura do seu projeto.
+Teste todas as funcionalidades, incluindo a navegação entre capítulos e versículos, para garantir que estejam funcionando corretamente.
+Se tiver mais alguma dúvida ou precisar de ajustes adicionais, estou à disposição!
+
+
+**************
+Peço desculpas pelo corte anterior. Aqui está a continuação da função `abrirJanelaSlide`:
+
+```javascript
+// Carrega o versículo específico
+function carregarVersiculo(versiculo) {
+    if (capituloConteudo[versiculo - 1]) {
+        document.getElementById('versiculo-container').innerHTML = `<div class="versiculo-texto">${versiculo} - ${capituloConteudo[versiculo - 1]}</div>`;
+        document.getElementById('titulo').innerText = `${livroAtual.toUpperCase()} - CAPÍTULO ${capituloAtual} - VERSÍCULO ${versiculo}`;
+    } else {
+        document.getElementById('versiculo-container').innerHTML = '<div class="versiculo-texto">Versículo não encontrado.</div>';
+    }
+}
+
+// Função para ir para o próximo versículo
+function proximoVersiculo() {
+    versiculoAtual++;
+    if (versiculoAtual > capituloConteudo.length) {
+        versiculoAtual = 1;
+        capituloAtual++;
+        carregarCapitulo(capituloAtual);
+    } else {
+        carregarVersiculo(versiculoAtual);
+    }
+}
+
+// Função para voltar ao versículo anterior
+function voltarVersiculo() {
+    versiculoAtual--;
+    if (versiculoAtual < 1) {
+        versiculoAtual = capituloConteudo.length;
+    }
+    carregarVersiculo(versiculoAtual);
+}
+
+document.getElementById('proximo-botao').addEventListener('click', proximoVersiculo);
+document.getElementById('voltar-botao').addEventListener('click', voltarVersiculo);
+
+carregarCapitulo(capituloAtual);
+</script>
+</body>
+</html>
+`);
+window.janelaSlide.document.close();
+}
+```
+
+Essas são as principais alterações necessárias para carregar os capítulos e versículos a partir de um arquivo JSON em vez de arquivos HTML. Lembre-se de ajustar as funções para se adequar à estrutura do seu arquivo JSON.
