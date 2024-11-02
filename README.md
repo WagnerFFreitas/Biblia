@@ -67,4 +67,4 @@ Fri Nov 1 13:41:11 2024 -0300
 Criação de modelos para a Biblia em JSON 01/11/24 13:41
 Configurando o estilo da lista da opção BAIXAR do menu superior 31/10/24 12:49
 Formatando a lista da opção BAIXAR 31/10/24 10:23
-Criação de modelos para a Biblia em JSON 01/11/24 13:41
+Criação de modelos para a Biblia em JSON 01/11/24 13:41.
