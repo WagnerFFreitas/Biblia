@@ -1854,7 +1854,9 @@ listaBaixar.addEventListener('mouseleave', () => {
 
 //----------------------------------
 
-// Itens para cada dropdown
+// O bloco abaixo cria a lista para cada item na barra de menu superior com o estilo Dropdown
+
+// O trecho abaixo cria a lista de download da opção BAIXAR 
 const downloads = [
     { texto: 'A Bíblia Católica', link: 'baixar/A_Biblia_Catolica.pdf' },
     { texto: 'A Bíblia Sagrada NVT', link: 'baixar/A_Biblia_Sagrada_NVT.pdf' },
@@ -1868,24 +1870,31 @@ const downloads = [
     { texto: 'Bíblia Thompson<br>Temas em Cadeia', link: 'baixar/Biblia_Thompson_temas_em_cadeia.pdf' }
 ];
 
+// O trecho abaixo cria a lista das Versões Biblica que foram selecionadas 
 const versoes = [
     { texto: 'Versão 1', link: '#' },
     { texto: 'Versão 2', link: '#' },
 ];
 
+// O trecho abaixo cria a lista da opção Dicionario e Concordancia Bibliaca
 const dicionario = [
     { texto: 'Dicionário 1', link: '#' },
     { texto: 'Dicionário 2', link: '#' },
 ];
 
+// O trecho abaixo cria a lista com a Harpa Cristã e Cantor Cristão
 const harpaHinario = [
     { texto: 'Hinário 1', link: '#' },
     { texto: 'Hinário 2', link: '#' },
 ];
 
+// O trecho abaixo cria a lista de links de Utilidades 
 const utilidades = [
-    { texto: 'Utilidade 1', link: '#' },
-    { texto: 'Utilidade 2', link: '#' },
+    { texto: 'IA Ajudar a estudar a biblia', link: 'https://bible.ai/pt' },
+    { texto: 'Posso conhecer a Deus', link: 'https://caniknowgod.com/' },
+    { texto: 'Dicionário e Comentário<br> de toda a Bíblia', link: 'https://www.apologeta.com.br' },
+    { texto: 'BíbliaOn', link: 'https://www.bibliaon.com/' },
+    { texto: 'Cursos', link: 'cursos.html' } // Adicionando o link para cursos
 ];
 
 // Função para popular as listas
@@ -1896,7 +1905,7 @@ function populateList(listId, items) {
         const a = document.createElement('a');
         a.href = item.link;
         a.innerHTML = item.texto;
-        a.target = '_blank'; // Abre o link em uma nova janela
+        a.target = '_blank';
         li.appendChild(a);
         listElement.appendChild(li);
     });
@@ -1915,6 +1924,7 @@ function showList(listId) {
     listElement.style.display = 'block';
 }
 
+// Esta função oculta um elemento da lista com o ID especificado, definindo seu estilo de exibição como 'none'.
 function hideList(listId) {
     const listElement = document.getElementById(listId);
     listElement.style.display = 'none';
