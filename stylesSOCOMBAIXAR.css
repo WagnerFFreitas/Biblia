@@ -337,53 +337,89 @@ footer p {
 }
 
 
+/* O bloco abaixo configura o estilo da opção BAIXAR do menu superior */
+#baixar {
+    font-family: 'Roboto', sans-serif; /* Nome da fonte */
+    font-weight: 600; /* SemiBold */
+    font-style: italic; /* Italic */
+    color: rgb(255, 255, 255); /* Cor do texto, ajuste conforme necessário */
+}
+
 .dropdown {
     position: relative;
     display: inline-block;
 }
 
-.dropdown-content {
+.download-list {
     display: none;
     position: absolute;
+    /*background-color: #f9f9f9;*/
+    /*min-width: 120px;*/
     box-shadow: 0px 8px 16px 0px rgb(255, 255, 255);
     z-index: 1;
     padding: 0;
     margin: 0;
     list-style: none;
-    left: -130px; /* Ajuste conforme necessário */
-    top: 100%; /* Exibe a lista logo abaixo do item do menu */
-    margin-top: 10px; /* Margem acima da lista */
-    width: 240px; /* Ajuste conforme necessário */
+    left: -130px;
+    top: 100%;
+    margin-top: 10px; /* Adiciona 5px de margem acima da lista */
+    width: 240px; /* Ajuste este valor conforme necessário */
 }
 
-.dropdown-content li {
+.download-list li {
+    /*text-align: center;*/
+    /*padding: 8px 10px;*/
     padding: 1px 8px; /* Reduz o padding vertical e horizontal */
     font-size: 16px;
     line-height: 1; /* Diminui o espaçamento entre as linhas */
     margin-bottom: 1px;
+    /*border: 1px solid white; /* Adiciona uma borda branca */
+    /*box-sizing: border-box; /* Inclui o padding e a borda na largura total do elemento */
+    /*border-radius: 8px; /* Adiciona bordas arredondadas com raio de 8px */
 }
 
-.dropdown-content li a {
-    color: rgb(215, 216, 128); /* Cor do texto */
+.download-list li a {
+    color: rgb(215, 216, 128);; /* Cor do texto em preto */
     text-decoration: none;
     display: block;
     text-align: left; /* Centralização do texto */
+    /*padding: 0.1px 0; /* Espaçamento entre os itens */
     white-space: nowrap; /* Evitar quebras de linha automáticas */
-    border-radius: 8px; /* Borda arredondada */
-    width: 100%; /* Ocupa toda a largura do item */
-    height: 100%; /* Ocupa toda a altura do item */
+    border-radius: 8px; /* Adiciona bordas arredondadas com raio de 8px */
+    width: 100%; /* Faz com que o link ocupe toda a largura do item */
+    height: 100%; /* Faz com que o link ocupe toda a altura do item */
     box-sizing: border-box; /* Inclui padding e border na largura e altura total */
-    padding: 8px 16px; /* Adiciona padding ao link */
+    padding: 8px 16px; /* Adiciona padding ao link para espaçamento interno */
 }
 
-.dropdown:hover .dropdown-content {
-    display: block; /* Exibe a lista quando o mouse está sobre o dropdown */
+.dropdown:hover .download-list {
+    display: block;
 }
 
-.dropdown-content li a:hover {
-    color: rgb(255, 254, 254); /* Cor do texto ao passar o mouse */
-    background-color: #0f0e0e; /* Fundo ao passar o mouse */
+.download-list li a:hover {
+    /*background-color: #f1f1f1;*/
+    color: rgb(255, 254, 254); /* Define a cor do texto para #5df565 quando o mouse passar */
+    background-color: #0f0e0e; /* Se desejar, mantenha o fundo claro */
+    
+
 }
+
+.dropdown:hover .download-list {
+    display: block;
+}
+
+#baixar::after {
+    content: '';
+    display: inline-block;
+    margin-left: 5px;
+    transition: transform 0.3s ease;
+}
+
+#baixar.active::after {
+    content: ' ↓';
+}
+
+
 
 /* Responsividade para diferentes tamanhos de telas */
 

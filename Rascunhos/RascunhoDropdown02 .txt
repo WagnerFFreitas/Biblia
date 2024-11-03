@@ -1,0 +1,191 @@
+<ul>
+    <li class="dropdown">
+        <a href="#" class="dropbtn">Versões</a>
+        <ul class="dropdown-content" id="versoes-list"></ul>
+    </li>
+    <li class="dropdown">
+        <a href="#" class="dropbtn">Dicionário e Concordância</a>
+        <ul class="dropdown-content" id="dicionario-list"></ul>
+    </li>
+    <li class="dropdown">
+        <a href="#" class="dropbtn">Harpa e Hinário</a>
+        <ul class="dropdown-content" id="harpa-list"></ul>
+    </li>
+    <li class="dropdown">
+        <a href="#" id="baixar">Baixar</a>
+        <ul id="Baixar" class="dropdown-content"></ul>
+    </li>
+    <li class="dropdown">
+        <a href="#" class="dropbtn">Utilidades</a>
+        <ul class="dropdown-content" id="utilidades-list"></ul>
+    </li>
+</ul>
+
+const downloads = [
+    { texto: 'A Bíblia Católica', link: 'baixar/A_Biblia_Catolica.pdf' },
+    { texto: 'A Bíblia Sagrada NVT', link: 'baixar/A_Biblia_Sagrada_NVT.pdf' },
+    { texto: 'A Bíblia Viva', link: 'baixar/A_Biblia_Viva.pdf' },
+    { texto: 'A vida completa de Jesus<br>Pr. Juanribe<br>Pagliarin', link: 'baixar/A_vida_completa_de_Jesus_Pr_Juanribe_Pagliarin.pdf' },
+    { texto: 'Bíblia de Genebra<br>(só estudo)', link: 'baixar/Biblia_Genebra_so_estudo.pdf' },
+    { texto: 'Bíblia em ordem<br>cronológica NVI', link: 'baixar/Biblia_em_ordem_cronologica_NVI.pdf' },
+    { texto: 'Bíblia explicada', link: 'baixar/Biblia_explicada.pdf' },
+    { texto: 'Bíblia KJA', link: 'baixar/Biblia_KJA.pdf' },
+    { texto: 'Bíblia<br>Palavra-Chave', link: 'baixar/Biblia_palavra_chave.pdf' },
+    { texto: 'Bíblia Thompson<br>Temas em Cadeia', link: 'baixar/Biblia_Thompson_temas_em_cadeia.pdf' }
+];
+
+// Exemplo de dados para outras listas
+const versoes = [
+    { texto: 'Versão Almeida', link: '#' },
+    { texto: 'Versão NVI', link: '#' }
+];
+
+const dicionario = [
+    { texto: 'Dicionário 1', link: '#' },
+    { texto: 'Dicionário 2', link: '#' }
+];
+
+const harpa = [
+    { texto: 'Hinário 1', link: '#' },
+    { texto: 'Hinário 2', link: '#' }
+];
+
+const utilidades = [
+    { texto: 'Utilidade 1', link: '#' },
+    { texto: 'Utilidade 2', link: '#' }
+];
+
+// Função para criar a lista
+function createDropdownList(items, listId) {
+    const list = document.getElementById(listId);
+    items.forEach(item => {
+        const li = document.createElement('li');
+        const a = document.createElement('a');
+        a.href = item.link;
+        a.innerHTML = item.texto;
+        a.target = '_blank'; // Abre o link em uma nova janela
+        li.appendChild(a);
+        list.appendChild(li);
+    });
+}
+
+// Preencher as listas de dropdown
+createDropdownList(versoes, 'versoes-list');
+createDropdownList(dicionario, 'dicionario-list');
+createDropdownList(harpa, 'harpa-list');
+createDropdownList(downloads, 'Baixar');
+createDropdownList(utilidades, 'utilidades-list');
+
+// Função para mostrar a lista
+function showList(dropdownContent) {
+    dropdownContent.style.display = 'block';
+}
+
+// Função para esconder a lista
+function hideList(dropdownContent) {
+    dropdownContent.style.display = 'none';
+}
+
+// Adiciona eventos para todos os dropdowns
+document.querySelectorAll('.dropdown').forEach(dropdown => {
+    const dropdownContent = dropdown.querySelector('.dropdown-content');
+
+    dropdown.addEventListener('mouseenter', () => showList(dropdownContent));
+    dropdown.addEventListener('mouseleave', () => hideList(dropdownContent));
+});
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none; /* Oculta a lista inicialmente */
+    position: absolute; /* Posiciona abaixo do item do menu */
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #f1f1f1;
+}
+
+/* Exibe a lista quando o mouse está sobre o dropdown */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* O bloco abaixo configura o estilo da opção BAIXAR do menu superior */
+#baixar {
+    font-family: 'Roboto', sans-serif; /* Nome da fonte */
+    font-weight: 600; /* SemiBold */
+    font-style: italic; /* Italic */
+    color: rgb(255, 255, 255); /* Cor do texto, ajuste conforme necessário */
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none; /* Oculta a lista inicialmente */
+    position: absolute;
+    box-shadow: 0px 8px 16px 0px rgb(255, 255, 255);
+    z-index: 1;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    left: -130px;
+    top: 100%;
+    margin-top: 10px; /* Margem acima da lista */
+    width: 240px; /* Ajuste este valor conforme necessário */
+}
+
+.dropdown-content li {
+    padding: 1px 8px; /* Reduz o padding vertical e horizontal */
+    font-size: 16px;
+    line-height: 1; /* Diminui o espaçamento entre as linhas */
+    margin-bottom: 1px;
+}
+
+.dropdown-content li a {
+    color: rgb(215, 216, 128); /* Cor do texto */
+    text-decoration: none;
+    display: block;
+    text-align: left; /* Centralização do texto */
+    white-space: nowrap; /* Evita quebras de linha automáticas */
+    border-radius: 8px; /* Bordas arredondadas */
+    width: 100%; /* O link ocupa toda a largura do item */
+    box-sizing: border-box; /* Inclui padding e border na largura total */
+    padding: 8px 16px; /* Padding para espaçamento interno */
+}
+
+.dropdown-content li a:hover {
+    color: rgb(255, 254, 254); /* Cor do texto quando hover */
+    background-color: #0f0e0e; /* Fundo quando hover */
+}
+
+.dropdown:hover .dropdown-content {
+    display: block; /* Exibe a lista ao passar o mouse */
+}
+
+#baixar::after {
+    content: '';
+    display: inline-block;
+    margin-left: 5px;
+    transition: transform 0.3s ease;
+}
+
+#baixar.active::after {
+    content: ' ↓';
+}

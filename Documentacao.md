@@ -1116,3 +1116,193 @@ O projeto "Bíblia Sagrada" visa oferecer uma ferramenta online para leitura da 
 ### Conclusão:
 
 A aplicação Bíblia Sagrada é uma ferramenta útil e completa para a leitura, estudo e compartilhamento da Bíblia, oferecendo uma interface interativa e recursos que facilitam a navegação e a compreensão do conteúdo. A funcionalidade "Slide" para data-show torna a aplicação ainda mais versátil, permitindo a exibição do conteúdo bíblico em eventos e apresentações. 
+
+
+
+
+Biblia/
+│
+├── css/                          # Folhas de estilo CSS
+│   ├── style_original.css        # Estilos da Bíblia em original
+│   ├── style_arc.css             # Estilos da Bíblia ARA
+│   ├── style_vulgata.css         # Estilos da Bíblia Vulgata
+│   ├── style_nvi.css             # Estilos da Bíblia NVI
+│   ├── style_harpacrista.css      # Estilos dos Hinos da Harpa Cristã
+│   ├── style_hinariobatista.css   # Estilos dos Hinos do Hinário Batista
+│   └── style.css                 # Estilos gerais do projeto
+│
+├── js/                            # Scripts JavaScript
+│   ├── script_original.js         # Scripts da Bíblia em original
+│   ├── script_arc.js             # Scripts da Bíblia ARA
+│   ├── script_vulgata.js         # Scripts da Bíblia Vulgata
+│   ├── script_nvi.js             # Scripts da Bíblia NVI
+│   ├── script_harpacrista.js     # Scripts dos Hinos da Harpa Cristã
+│   ├── script_hinariobatista.js  # Scripts dos Hinos do Hinário Batista
+│   └── script.js                 # Scripts gerais do projeto
+│
+├── images/                        # Imagens do projeto
+│   ├── logo.png                  # Logo do projeto
+│   ├── icon.png                  # Ícones e outras imagens
+│   └── ...                       # Outras imagens
+│
+├── genesis/                      # Capítulos de Gênesis
+│   ├── 1_ara.html                # Capítulo 1 de Gênesis - ARA
+│   ├── 1_vulgata.html            # Capítulo 1 de Gênesis - Vulgata
+│   ├── 1_nvi.html                # Capítulo 1 de Gênesis - NVI
+│   ├── ...                       # Demais capítulos
+│
+├── exodo/                        # Capítulos de Êxodo
+│   ├── 1_ara.html                # Capítulo 1 de Êxodo - ARA
+│   ├── 1_vulgata.html            # Capítulo 1 de Êxodo - Vulgata
+│   ├── 1_nvi.html                # Capítulo 1 de Êxodo - NVI
+│   ├── ...                       # Demais capítulos
+│
+├── json/                         # Arquivos JSON
+│   ├── genesis_ara.json          # JSON para o livro de Gênesis - ARA
+│   ├── genesis_vulgata.json      # JSON para o livro de Gênesis - Vulgata
+│   ├── genesis_nvi.json          # JSON para o livro de Gênesis - NVI
+│   ├── ...                       # Outros livros e versões
+│
+├── hinos/                        # Hinos da Harpa Cristã
+│   ├── 1_harpacrista.html        # Hino 1 da Harpa Cristã
+│   ├── 2_harpacrista.html        # Hino 2 da Harpa Cristã
+│   ├── ...                       # Demais hinos
+│
+├── hinos_batista/               # Hinos do Hinário Batista
+│   ├── 1_hinariobatista.html     # Hino 1 do Hinário Batista
+│   ├── 2_hinariobatista.html     # Hino 2 do Hinário Batista
+│   ├── ...                       # Demais hinos
+│
+├── index.html                    # Página principal do projeto
+├── index_original.html           # Página principal da Bíblia em original
+├── index_arc.html                # Página principal da Bíblia ARA
+├── index_vulgata.html            # Página principal da Bíblia Vulgata
+├── index_nvi.html                # Página principal da Bíblia NVI
+├── index_harpacrista.html        # Página principal dos Hinos da Harpa Cristã
+├── index_hinariobatista.html     # Página principal dos Hinos do Hinário Batista
+│
+├── README.md                     # Documentação do projeto
+└── LICENSE                       # Licença do projeto (opcional)
+
+
+Biblia/
+│
+├── index.html                      # Página principal do projeto
+├── css/
+│   ├── style.css                   # Estilos gerais do projeto
+│   ├── original.css                # Estilos específicos para a Bíblia original
+│   ├── ara.css                     # Estilos específicos para a Bíblia ARA
+│   ├── vulgata.css                 # Estilos específicos para a Bíblia Vulgata
+│   ├── nvi.css                     # Estilos específicos para a Bíblia NVI
+│   ├── harpacrista.css             # Estilos específicos para a Harpa Cristã
+│   └── hinariobatista.css          # Estilos específicos para o Hinário Batista
+├── js/
+│   ├── main.js                     # Script principal do projeto
+│   ├── original.js                 # Script específico para a Bíblia original
+│   ├── ara.js                      # Script específico para a Bíblia ARA
+│   ├── vulgata.js                  # Script específico para a Bíblia Vulgata
+│   ├── nvi.js                      # Script específico para a Bíblia NVI
+│   ├── harpacrista.js              # Script específico para a Harpa Cristã
+│   └── hinariobatista.js           # Script específico para o Hinário Batista
+├── pages/
+│   ├── original/                   # Páginas HTML da Bíblia em original
+│   │   ├── index.html              # Página principal da Bíblia em original
+│   │   └── genesis/                # Livros e capítulos
+│   │       ├── 1.html              # Capítulo 1 de Gênesis - original
+│   │       └── ...                 # Demais capítulos
+│   ├── ara/                        # Páginas HTML da Bíblia ARA
+│   │   ├── index.html              # Página principal da Bíblia ARA
+│   │   └── genesis/
+│   │       ├── 1.html              # Capítulo 1 de Gênesis - ARA
+│   │       └── ...
+│   ├── vulgata/                    # Páginas HTML da Bíblia Vulgata
+│   │   ├── index.html              # Página principal da Bíblia Vulgata
+│   │   └── genesis/
+│   │       ├── 1.html              # Capítulo 1 de Gênesis - Vulgata
+│   │       └── ...
+│   ├── nvi/                        # Páginas HTML da Bíblia NVI
+│   │   ├── index.html              # Página principal da Bíblia NVI
+│   │   └── genesis/
+│   │       ├── 1.html              # Capítulo 1 de Gênesis - NVI
+│   │       └── ...
+│   ├── harpacrista/                # Páginas dos Hinos da Harpa Cristã
+│   │   ├── index.html              # Página principal dos Hinos da Harpa Cristã
+│   │   ├── hinos/
+│   │   │   ├── 1.html              # Hino 1 da Harpa Cristã
+│   │   │   ├── 2.html              # Hino 2 da Harpa Cristã
+│   │   │   └── ...
+│   ├── hinariobatista/             # Páginas dos Hinos do Hinário Batista
+│       ├── index.html              # Página principal dos Hinos do Hinário Batista
+│       └── hinos/
+│           ├── 1.html              # Hino 1 do Hinário Batista
+│           ├── 2.html              # Hino 2 do Hinário Batista
+│           └── ...
+├── data/                           # Arquivos JSON para dados bíblicos
+│   ├── genesis/
+│   │   ├── ara.json                # JSON de Gênesis - ARA
+│   │   ├── vulgata.json            # JSON de Gênesis - Vulgata
+│   │   └── nvi.json                # JSON de Gênesis - NVI
+│   └── ...                         # Outros livros e versões
+└── assets/
+    ├── img/                        # Imagens do projeto
+    ├── fonts/                      # Fontes personalizadas
+    └── icons/                      # Ícones utilizados
+
+
+└── public
+    ├── images
+    │   └── logo.png
+    ├── js
+    │   └── index.js
+    ├── css
+    │   └── style.css
+    ├── original
+    │   ├── index.html
+    │   ├── style.css
+    │   └── script.js
+    ├── ara
+    │   ├── index.html
+    │   ├── style.css
+    │   └── script.js
+    ├── vulgata
+    │   ├── index.html
+    │   ├── style.css
+    │   └── script.js
+    ├── nvi
+    │   ├── index.html
+    │   ├── style.css
+    │   └── script.js
+    ├── genesis
+    │   ├── 1_ara.html
+    │   ├── 1_vulgata.html
+    │   ├── 1_nvi.html
+    │   ├── ...
+    │   └── 50_ara.html
+    ├── exodo
+    │   ├── 1_ara.html
+    │   ├── 1_vulgata.html
+    │   ├── 1_nvi.html
+    │   ├── ...
+    │   └── 40_ara.html
+    ├── json
+    │   ├── genesis_ara.json
+    │   ├── genesis_vulgata.json
+    │   ├── genesis_nvi.json
+    │   ├── ...
+    ├── harpacrista
+    │   ├── index.html
+    │   ├── style.css
+    │   └── script.js
+    ├── hinos
+    │   ├── 1_harpacrista.html
+    │   ├── 2_harpacrista.html
+    │   ├── ...
+    ├── hinariobatista
+    │   ├── index.html
+    │   ├── style.css
+    │   └── script.js
+    ├── hinos_batista
+    │   ├── 1_hinariobatista.html
+    │   ├── 2_hinariobatista.html
+    │   ├── ...
+    └── index.html
