@@ -1,0 +1,47 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background: #fff;
+            margin: 10px 0;
+            padding: 15px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        a {
+            text-decoration: none;
+            color: #007BFF;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .watermark {
+            position: fixed; /* Fixa a marca d'água na tela */
+            top: 0; 
+            left: 0;
+            width: 100%; /* A marca d'água ocupa toda a largura da tela */
+            height: 100%; /* A marca d'água ocupa toda a altura da tela */
+            background-image: url("..\img\cursos.jpg"); /* Define a imagem de fundo */
+            background-repeat: repeat; /* Define como a imagem se repete */
+            background-size: 200px 200px; /* Define o tamanho da imagem */
+            opacity: 0.2; /* Define a opacidade da marca d'água (20% de transparência) */
+            pointer-events: none; /* Evita que a marca d'água interfira com cliques na página */
+            background-size: cover;  /* Faz a imagem cobrir toda a área */
+        }
+        .content {
+            /* Estilos para a seção de conteúdo (se necessário) */
+            width: 100%; /* Define a largura do conteúdo para 100% */
+        }
