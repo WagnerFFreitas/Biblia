@@ -1894,7 +1894,7 @@ const utilidades = [
     { texto: 'Posso conhecer a Deus', link: 'https://caniknowgod.com/' },
     { texto: 'Dicionário e Comentário<br> de toda a Bíblia', link: 'https://www.apologeta.com.br' },
     { texto: 'BíbliaOn', link: 'https://www.bibliaon.com/' },
-    { texto: 'Cursos', link: '../html/cursos.html' } // Adicionando o link para cursos
+    { texto: 'Cursos', link: 'html/cursos.html' } // Adicionando o link para cursos
 ];
 
 // Função para popular as listas
