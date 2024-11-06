@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:58">
+  <properties>
+    <titles>
+      <title>HCC 523 Preparados Para o Memorial</title>
+      <title>1 Coríntios 5:7, 8</title>
+    </titles>
+    <copyright>1 Coríntios 5:7, 8</copyright>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="523"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Expurgai o fermento velho, para que sejais massa nova, assim como sois sem fermento.<br/>Porque Cristo, nossa páscoa, já foi sacrificado. Pelo que celebremos a festa, não com o fermento velho,<br/>nem com o fermento da malícia e da corrupção, mas com os ázimos da sinceridade e da verdade.</lines>
+    </verse>
+  </lyrics>
+</song>

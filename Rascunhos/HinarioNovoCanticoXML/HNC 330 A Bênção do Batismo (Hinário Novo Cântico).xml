@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-12-24T13:11:41">
+  <properties>
+    <titles>
+      <title>HNC 330 - A Bênção do Batismo</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="330"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó Jesus, eu te confesso<br/>Para sempre és meu Senhor.<br/>Obediente, aqui desejo<br/>Pertencer-te, ó Salvador.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sendo agora batizado,<br/>Tomo, enfim, o meu lugar<br/>Entre o povo que o teu sangue<br/>Veio lá na cruz comprar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Para o mundo agora, eu, morto,<br/>Tenho vida em ti, Jesus,<br/>Já nas trevas não vacilo,<br/>Pois caminho em plena luz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sendo nova criatura,<br/>Santidade buscarei,<br/>Pela qual o mundo veja<br/>Que tu és Senhor e Rei.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fortalece o meu anseio<br/>De te ser fiel aqui,<br/>Pois minha alma só aspira<br/>A viver de ti, em ti. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

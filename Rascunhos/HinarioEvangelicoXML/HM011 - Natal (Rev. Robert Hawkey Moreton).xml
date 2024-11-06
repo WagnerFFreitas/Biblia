@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:04">
+  <properties>
+    <titles>
+      <title>HM011 - Natal</title>
+      <title>Eis dos anjos a harmonia!</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Robert Hawkey Moreton</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eis dos anjos a harmonia!<br/>Cantam glória ao rei Jesus.<br/>Paz aos homens! Que alegria!<br/>Paz com Deus em plena luz.<br/>Ouçam povos exultantes,<br/>Ergam salmos triunfantes,<br/>Aclamando seu Senhor,<br/>Nasce Cristo, o Redentor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Toda a terra e os altos céus<br/>Cantem sempre glória a Deus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cristo, eternamente honrado,<br/>Do seu trono se ausentou.<br/>Cristo, entre homens encarnado,<br/>Deus conosco se mostrou.<br/>Que sublime divindade,<br/>E que excelsa humanidade,<br/>Salve glória de Israel<br/>Luz do mundo, Emanuel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cante o povo resgatado,<br/>Glória ao Príncipe da paz;<br/>Deus em Cristo revelado,<br/>Vida e luz ao mundo traz.<br/>Nasce afim de renascermos,<br/>Vive para revivermos,<br/>Rei, Profeta e Salvador.<br/>Louvem todos ao Senhor!</lines>
+    </verse>
+  </lyrics>
+</song>

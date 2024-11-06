@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:44">
+  <properties>
+    <titles>
+      <title>HM249 - Confissão e Humildade</title>
+      <title>Jesus, Senhor, humilde eis-me prostrado:</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, Senhor, humilde eis-me prostrado:<br/>Bem sei que não mereço teu favor.<br/>Mas venho arrependido e quebrantado;<br/>Tem compaixão de mim - sou pecador!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sim, pecador, desmerecido, indigno!<br/>Confesso, ó Deus, que sou merecedor<br/>Da tua ira e não de olhar benigno:<br/>Tem compaixão de mim - sou pecador!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fugir, fugir e procurar abrigo<br/>Eu tenho em vão, cansado e sem vigor.<br/>Mas, ai de mim! Que só clamar consigo:<br/>Tem compaixão de mim - sou pecador!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O sacrifício teu basta à minha alma;<br/>É grande, imenso o teu profundo amor!<br/>Por esse amor, meu coração acalma:<br/>Tem compaixão de mim - sou pecador!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:12">
+  <properties>
+    <titles>
+      <title>HC265 - Doce É Crer Em Cristo</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh! quão doce é crer em Cristo,<br/>E entregar-se a Jesus,<br/>Esperar em Suas promessas<br/>E andar na Sua luz!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus Cristo, Jesus Cristo,<br/>Teu amor me deste a mim!<br/>Jesus Cristo, Jesus Cristo,<br/>Sempre quero crer em Ti.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>É mui doce crer em Cristo,<br/>E cumprir o Seu querer,<br/>Não descrendo em Sua palavra,<br/>Que é luz p'ra nosso ser.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>É mui grato crer em Cristo;<br/>Quando busca o coração<br/>Os tesouros infinitos<br/>De amor, paz e perdão.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sempre em Ti confiar eu quero,<br/>Meu precioso Salvador;<br/>Na bonança e na luta,<br/>Me proteja o Teu amor.</lines>
+    </verse>
+  </lyrics>
+</song>

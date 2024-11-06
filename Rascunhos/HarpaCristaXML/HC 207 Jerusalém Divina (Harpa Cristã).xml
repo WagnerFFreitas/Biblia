@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:02">
+  <properties>
+    <titles>
+      <title>HC207 - Jerusalém Divina</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jerusalém divina<br/>Visão de paz ditosa,<br/>De Cristo, santa esposa,<br/>Radiante de esplendor;<br/>Tens fontes cristalinas,<br/>São vivos teus altares<br/>E os anjos, aos milhares,<br/>Te cingem ao redor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mansão do Rei bendito,<br/>São doze tuas portas<br/>Que sempre são transpostas<br/>Por serem imortais;<br/>Teus livros têm escritos<br/>Os nomes dos remidos;<br/>Em ti, serão ouvidos<br/>Os hinos celestiais.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Teus santos moradores,<br/>Um glorioso canto<br/>Proferem ao Deus santo<br/>Que já lhes perdoou;<br/>Entoam mil louvores<br/>A Cristo, qual cordeiro,<br/>Que manso, num madeiro<br/>Por ele se imolou!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ao mesmo Cristo amemos,<br/>Ao mesmo Deus temamos,<br/>Nós que por fé andamos,<br/>Levando a Sua cruz;<br/>E prontos fruiremos,<br/>Os teus umbrais passados,<br/>Mil gozos preparados,<br/>Na glória, com Jesus!</lines>
+    </verse>
+  </lyrics>
+</song>

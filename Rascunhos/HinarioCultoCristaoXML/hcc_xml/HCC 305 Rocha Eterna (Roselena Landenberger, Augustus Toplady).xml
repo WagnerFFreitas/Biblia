@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:13">
+  <properties>
+    <titles>
+      <title>HCC 305 Rocha Eterna</title>
+      <title>Ottmar</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Roselena Landenberger</author>
+      <author>Augustus Toplady</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="305"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Rocha eterna, foi na cruz<br/>que morreste tu, Jesus.<br/>Vem de ti um sangue tal</lines>
+      <lines>que me limpa todo mal.<br/>Traz as bênção do perdão,<br/>da pureza e salvação.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Nem trabalho, nem penar<br/>pode o pecador salvar.<br/>Só tu podes, bom Jesus,</lines>
+      <lines>dar-me vida, paz e luz.<br/>Peço-te perdão, Senhor,<br/>pois confio em teu amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Quando a morte, enfim, chegar,<br/>e meus olhos eu fechar;<br/>quando para o céu subir<br/>e teu rosto em glória vir,</lines>
+      <lines>Rocha eterna, que prazer<br/>eu terei de em ti viver!<br/>Rocha eterna, foi na cruz<br/>que morreste tu, Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

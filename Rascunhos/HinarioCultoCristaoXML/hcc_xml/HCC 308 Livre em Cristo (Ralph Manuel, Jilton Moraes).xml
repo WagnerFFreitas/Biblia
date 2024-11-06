@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:13">
+  <properties>
+    <titles>
+      <title>HCC 308 Livre em Cristo</title>
+      <title>Livre em Cristo</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Ralph Manuel</author>
+      <author>Jilton Moraes</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="308"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Eu era escravo do vil pecar,<br/>mas Cristo Jesus me salvou.</lines>
+      <lines>Veio da morte me libertar<br/>e agora salvo estou.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Livre em Cristo.<br/>Ele pagou o preço na cruz.</lines>
+      <lines>Livre em Cristo,<br/>alegre em sua luz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Toda a verdade eu conheci<br/>em Cristo, o bom Salvador;</lines>
+      <lines>a liberdade já recebi,<br/>e assim cantando eu vou.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">O seu amor que me perdoou<br/>também poderá te salvar;</lines>
+      <lines>e sua graça que alcançou<br/>a vida pode mudar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Deixa o Senhor te amar e salvar,<br/>e livre pra sempre serás;</lines>
+      <lines>vida completa hás de encontrar<br/>e bem feliz cantarás.</lines>
+    </verse>
+  </lyrics>
+</song>

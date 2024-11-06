@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:40">
+  <properties>
+    <titles>
+      <title>HC061 - Deus Tomará Conta De Ti</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Em todo tempo irmão, o Senhor<br/>Tomará conta de ti.<br/>Cristo, que fala de vida e amor,<br/>Tomará conta de ti.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Deus tomará conta de ti,<br/>Deus tomará conta de ti,<br/>NEle descansa, sempre aqui,<br/>Pois tem cuidado Deus, de ti.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Em toda prova, irmão, o Senhor<br/>Tomará conta de ti.<br/>Cristo, que é teu amado Pastor,<br/>Tomará conta de ti.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Em toda parte, irmão, o Senhor<br/>Tomará conta de ti.<br/>Cristo, que nos dá poder e valor,<br/>Tomará conta de ti.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Chegando a morte, irmão, o Senhor<br/>Tomará conta de ti.<br/>Cristo será teu fiel condutor:<br/>Tomará conta de ti.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:11">
+  <properties>
+    <titles>
+      <title>CC 406 Confiar em Cristo</title>
+      <title>Trust In Jesus</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>William Kirkpatrick</author>
+      <author>Louisa Stead</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="406"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Que delícia é crer em Cristo,<br/>em seu nome confiar,<br/>aceitar os seus ensinos<br/>e as promessas desfrutar!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cristo! Cristo! Já confio<br/>em teu nome, em teu poder.<br/>Cristo! Cristo, Bem Amado!<br/>Faze minha fé crescer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh! que gozo é crer em Cristo,<br/>ter certeza de perdão!<br/>Receber de Cristo mesmo<br/>vida, paz e salvação.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bem feliz eu sou em Cristo,<br/>sempre dEle quero ser;<br/>quero agora mui submisso,<br/>sempre a Ele obedecer.</lines>
+    </verse>
+  </lyrics>
+</song>

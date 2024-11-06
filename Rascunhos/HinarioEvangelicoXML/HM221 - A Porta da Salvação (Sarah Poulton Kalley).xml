@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:40">
+  <properties>
+    <titles>
+      <title>HM221 - A Porta da Salvação</title>
+      <title>É franca a porta divinal,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>É franca a porta divinal,<br/>Aberta a todo o mundo;<br/>Por ela o pecador mortal<br/>Avista amor profundo.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh! Graça imensa! Pois assim,<br/>A porta é franca sempre a mim!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Entrai no Reino do Senhor,<br/>Deixando os preconceitod.<br/>Entrai, buscando o seu amor;<br/>Sereis ali aceitos!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aberta, sim, de par em par!<br/>Entrai com grande urgência!<br/>A seus fiéis Deus vai mostrar<br/>Real munificência.</lines>
+    </verse>
+  </lyrics>
+</song>

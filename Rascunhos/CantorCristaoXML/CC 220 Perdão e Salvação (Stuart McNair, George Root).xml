@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:29">
+  <properties>
+    <titles>
+      <title>CC 220 Perdão e Salvação</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Stuart McNair</author>
+      <author>George Root</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="220"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">"Vem, vem a Mim!" o Salvador terno<br/>diz ao que sede tem,</lines>
+      <lines>que venha, e dessa célica fonte<br/>desfrutará o bem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Jesus, o Mestre, vos chama.<br/>Quereis a Cristo vir?</lines>
+      <lines>O seu perdão e salvação<br/>podeis já possuir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">"Oh! vinde a Mim! Se andais em trabalhos,<br/>tereis descanso assim;</lines>
+      <lines>tomai, pois, sobre vós o meu jugo,<br/>sim, aprendei de mim."</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Jesus, o coração quebrantado<br/>jamais rejeitará;</lines>
+      <lines>mas, ai de quem não queira aceitá-lo,<br/>perdido ficará.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Encher-vos quer de bênçãos celestes<br/>o grande Salvador.</lines>
+      <lines>Podeis ouvir com indiferença<br/>contar tão grande amor?</lines>
+    </verse>
+  </lyrics>
+</song>

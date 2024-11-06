@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-12-24T13:36:44">
+  <properties>
+    <titles>
+      <title>HNC 342 - Comunhão</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="342"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Atendendo ao que mandaste,<br/>Relembramos, ó Jesus,<br/>O teu grande sacrifício<br/>Consumado sobre a Cruz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Monumento precioso<br/>Onde esplende o teu amor,<br/>Esta Ceia é simbolismo<br/>Do teu gesto redentor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Recordando o que sofreste,<br/>Aguardamos o porvir<br/>Quando, em majestade e glória,<br/>Como o sol vais refulgir.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Que por meio desta Ceia<br/>Nós cresçamos em poder;<br/>O poder com que os remidos<br/>Todo o mal irão vencer. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:21">
+  <properties>
+    <titles>
+      <title>HCC 029 Deus É Amor</title>
+      <title>Larie</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>John Bowring</author>
+      <author>Joan Sutton</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="029"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deus é amor. A sua graça<br/>conquistou meu coração;<br/>concedeu-me vida eterna,<br/>paz e luz e salvação.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Deus é amor. O mundo passa<br/>e com ele o seu valor.<br/>Só perdura inalterável<br/>o divino e eterno amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Deus é amor. O seu cuidado<br/>é constante, bom, fiel.<br/>Ele inspira, guia e livra,<br/>como ao povo de Israel.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Deus é amor. E sempre busca<br/>ao perdido, sem a luz,<br/>perdoando, transformando,<br/>pelo sangue de Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

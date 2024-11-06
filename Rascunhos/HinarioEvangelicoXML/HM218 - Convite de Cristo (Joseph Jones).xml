@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:39">
+  <properties>
+    <titles>
+      <title>HM218 - Convite de Cristo</title>
+      <title>Cristo te chama,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Joseph Jones</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cristo te chama,<br/>Com paciência, ó pecador!<br/>Ele te salva,<br/>Vem sem demora ao teu Redentor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cristo te salva! Cristo te salva!<br/>Não te demores. Oh! Vem pecador!<br/>Vem mesmo agora, dize já hoje:<br/>Tu me salvaste, és meu Senor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cristo te espera,<br/>É sem limite o seu perdão.<br/>Insiste sempre;<br/>Não percas tempo, hoje há salvação!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cristo te guia<br/>E bem seguro irás ao Céu!<br/>Confia nele,<br/>Pois quer slavar-te e por ti morreu.</lines>
+    </verse>
+  </lyrics>
+</song>

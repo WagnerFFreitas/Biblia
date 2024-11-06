@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:31">
+  <properties>
+    <titles>
+      <title>HM455 - Encontro com Jesus</title>
+      <title>Oh! Vem encontrar-me à fonte</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Manoel Antonio de Menezes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh! Vem encontrar-me à fonte<br/>Da Jerusalém do Céu!<br/>Sim, na cristalina fonte,<br/>Que Jesus aos crentes deu!<br/>Lá encontrarei amigos,<br/>Que me querem, como irmão;<br/>No Céu não verei pereigos,<br/>Paz terá meu coração.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Eu te encontrarei na fonte,<br/>No glorioso Reino, além!<br/>Tu me encontrarás na fonte,<br/>Da nova Jerusalém!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh! Vem encontrar-me à fonte!<br/>Eu te reconhecerei<br/>Ao ver-te naquela fonte,<br/>Reunido à santa grei!<br/>Hei de achar mais harmonia<br/>No louvor que eu hei de ouvir,<br/>Se no sempiterno dia<br/>Tua voz eu distinguir!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sim, vou encontrar-te à fonte,<br/>A fim de contigo ver<br/>A glória da eterna fonte,<br/>Lá nos céus a resplender!<br/>Oh! Que dia venturoso,<br/>Em que nos veremos lá!<br/>E então, o Senhor bondoso,<br/>Recompensa nos dará.</lines>
+    </verse>
+  </lyrics>
+</song>

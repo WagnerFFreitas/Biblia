@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:54">
+  <properties>
+    <titles>
+      <title>HM301 - Anseios da Alma</title>
+      <title>Oh! Quem me dera sempre</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Henry Maxwell Wright</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh! Quem me dera sempre<br/>Bem junto a Deus estar<br/>Em comunhão perfeita,<br/>E com Jesus andar;<br/>No gozo puro e santo<br/>Do seu imenso amor,<br/>A doce voz ouvindo<br/>Do terno Salvador.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh! Quem me dera a Cristo<br/>Bem semelhante ser,<br/>Humilde, puro e manso,<br/>Em todo o meu viver!<br/>É meu maior desejo<br/>Em tudo lhe agradar,<br/>E procurar em tudo<br/>A Deus glorificar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh! Quem me dera vê-lo<br/>Bem cedo, em plena luz,<br/>A glória partilhando<br/>Do Salvador Jesus.<br/>Então, com os remidos,<br/>Em coro triunfal<br/>Louvar eternamente<br/>A graça divinal!</lines>
+    </verse>
+  </lyrics>
+</song>

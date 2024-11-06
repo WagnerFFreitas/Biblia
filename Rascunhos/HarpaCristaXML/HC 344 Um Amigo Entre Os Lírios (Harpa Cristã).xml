@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:25">
+  <properties>
+    <titles>
+      <title>HC344 - Um Amigo Entre Os Lírios</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Entre os lírios, no meio dos vales<br/>'Stá um amigo, que é caro p'ra mim;<br/>Quero segui-Lo, isento dos males,<br/>Vê-Lo no céu, com os anjos enfim.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Meu Salvador Jesus, Ó Filho do<br/>bom Deus;<br/>Graças por Tua luz, que veio dos céus!<br/>Por mim provaste a cruz,<br/>Por mim morreste, Jesus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hoje Te busco, ó vem, revelar-me<br/>A luz divina, onde estás, meu Jesus,<br/>Com Teu rebanho vem já a levar-me<br/>Para o rio que vida produz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ouve-me agora, Jesus mui amado,<br/>Deixa-me Teu grande amor desfrutar;<br/>Não mais me 'scondas Teu rosto adorado,<br/>Pois me chamaste p'ra me libertar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A voz de Cristo é p'ra mim mais preciosa<br/>Que a voz dos anjos; e do sol a luz,<br/>Não tem o brilho da face radiosa<br/>Quando sorri meu amado Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

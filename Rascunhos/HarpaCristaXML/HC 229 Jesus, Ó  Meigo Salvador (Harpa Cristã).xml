@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:06">
+  <properties>
+    <titles>
+      <title>HC229 - Jesus, Ó  Meigo Salvador</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, ó meigo Salvador,<br/>Do céu, à terra és vindo,<br/>E nos Teus braços som dulçor,<br/>Oh! vai-me conduzindo;<br/>Assim eu vou seguindo<br/>Na Tua luz perfeita,<br/>Que sempre me deleita;<br/>Tua Palavra, oh, Senhor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Que grande gozo foi p'ra mim,<br/>Oh, quando me encontraste!<br/>Do coração, abriu enfim;<br/>A porta e logo entraste;<br/>Então Tu me levaste,<br/>Por Tua luz perfeita,<br/>Que sempre me deleita;<br/>Tua Palavra, que amor, sim!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu me livraste, Salvador,<br/>De miserável sorte,<br/>Me guardarás por Teu amor,<br/>Fiel até à morte;<br/>Desejo que me exortes<br/>Por Tua luz perfeita,<br/>Que sempre me deleita;<br/>Tua Palavra, meu Senhor!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó Salvador, e bom Jesus,<br/>Meus pés na rocha fundas;<br/>Pois Tua mã, a mim conduz,<br/>Às águas mui profundas,<br/>Do trono oriundas,<br/>À tua luz perfeita,<br/>Que sempre me deleita;<br/>Tua Palavra, ó Jesus!</lines>
+    </verse>
+  </lyrics>
+</song>

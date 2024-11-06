@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:28">
+  <properties>
+    <titles>
+      <title>HM167 - Peregrinos Infantis</title>
+      <title>Somos peregrinos</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Dr. João Gomes da Rocha</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Somos peregrinos<br/>Para os lindos Céus,<br/>Onde os bons meninos<br/>Louvam sempre a Deus.<br/>Muitos nos esperam<br/>Na mansão feliz;<br/>Com prazer entraram<br/>Nesse bom país.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Somos pequeninos<br/>Salvos por Jesus;<br/>E nos seus ensinos<br/>Temos grande luz.<br/>Guarda os teus cordeiros,<br/>Nosso bom Pastor;<br/>Une os teus filhinhos<br/>Em sincero amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eis os passarinhos:<br/>Cumprem teu querer;<br/>Faze os teus filhinhos<br/>Tua lei saber.<br/>Cedo, em todo o mundo,<br/>Brilhe a salvação;<br/>Resplandeça o dia<br/>Da ressurrieção.</lines>
+    </verse>
+  </lyrics>
+</song>

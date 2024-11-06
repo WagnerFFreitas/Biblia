@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:09:31">
+  <properties>
+    <titles>
+      <title>HCC 405 A Minha Alma Tem Sede de Deus</title>
+      <title>Salmos 16:8; 145:18; 73:28, 23; 42:1, 2; Hebreus 10:22</title>
+    </titles>
+    <copyright>Salmos 16:8; 145:18; 73:28, 23; 42:1, 2; Hebreus 10:22</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="405"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines><tag name="y">Dirigente:</tag><br/>Tenho posto o Senhor continuamente diante de mim; porquanto ele está à minha mão direita, não serei abalado.<br/>Perto está o Senhor de todos os que o invocam, de todos os que o invocam em verdade.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><tag name="y">Congregação:</tag><br/>Mas para mim, bom é aproximar-me de Deus; ponho a minha confiança no Senhor Deus, para anunciar todas as suas obras.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><tag name="y">Todos:</tag><br/>Todavia estou sempre contigo; tu me seguras a mão direita.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><tag name="y">Congregação:</tag><br/>Como o cervo anseia pelas correntes das águas, assim a minha alma anseia por ti, ó Deus!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><tag name="y">Todos:</tag><br/>A minha alma tem sede de Deus, do Deus vivo; quando entrarei e verei a face de Deus?</lines>
+    </verse>
+    <verse name="v6">
+      <lines><tag name="y">Dirigente:</tag><br/>Cheguemo-nos com verdadeiro coração, em inteira certeza de fé;<br/>tendo o coração purificado da má consciência, e o corpo lavado com água limpa.</lines>
+    </verse>
+  </lyrics>
+</song>

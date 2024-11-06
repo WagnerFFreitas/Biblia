@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:33">
+  <properties>
+    <titles>
+      <title>CC 240 Vem a Cristo</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Ira Sankey</author>
+      <author>Antônio Millan</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="240"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Jesus, lá na glória, de retidão vestido,<br/>por meu advogado se constituiu;</lines>
+      <lines>e sempre sustenta e defende o redimido.<br/>Oh! podes dizer que também te remiu?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh! vem a Jesus!<br/>Oh! vem a Jesus!<br/>Eterna ventura<br/>terás pela cruz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Minha alma tem paz; tudo é calmo como um rio;<br/>é a paz que no céu tem o seu manancial;</lines>
+      <lines>é Deus quem a deu por Jesus, em quem confio.<br/>E tu inda não tens a paz divinal?</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Vestidos tão alvos eu tenho, já lavados<br/>no sangue tão puro do meu Redentor;</lines>
+      <lines>os crentes em Cristo por Deus são perdoados,<br/>também tu serás, crendo já no Senhor!</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Morada já tenho com todos os remidos,<br/>por Cristo aprontada na casa de Deus;</lines>
+      <lines>ali não há morte, nem mágoa, nem gemidos,<br/>também tu terás um lugar lá nos céus.</lines>
+    </verse>
+  </lyrics>
+</song>

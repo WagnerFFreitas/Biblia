@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:08">
+  <properties>
+    <titles>
+      <title>CC 395 Cristo Satisfaz</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>William Ogden</author>
+      <author>J. Maxfield</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="395"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Riquezas não preciso ter,<br/>mas, sim, celeste bem;<br/>nem falsa paz ou vão prazer,</lines>
+      <lines>porquanto o crente tem<br/>eterno gozo no Senhor,<br/>por desfrutar o seu amor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Com Cristo estou contente,<br/>Ele me satisfaz;<br/>com esse amor do Salvador,<br/>agora estou contente,<br/>agora estou contente.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Do mundo as honras para mim<br/>perderam seu valor,<br/>já tenho a paz divina, enfim,</lines>
+      <lines>servindo ao meu Senhor.<br/>Terei meu gozo principal<br/>ao vê-lo em glória triunfal.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Até que esteja lá no céu,<br/>aonde Cristo entrou,<br/>e veja a face já sem véu</lines>
+      <lines>de quem me resgatou,<br/>desejo só aqui viver<br/>de um modo que lhe dê prazer.</lines>
+    </verse>
+  </lyrics>
+</song>

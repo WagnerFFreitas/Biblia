@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:18">
+  <properties>
+    <titles>
+      <title>HCC 335 De Teu Cuidado Terno</title>
+      <title>Companheiro</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>G. Lloyd</author>
+      <author>John Bischoff</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="335"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">De teu cuidado terno<br/>me cercas, bom Pastor,<br/>porque, se tu ao longe estás,<br/>eu fico sem vigor.</lines>
+      <lines>Ao pé de ti desejo,<br/>meu Deus, meu Pai, viver,<br/>e tua forte mão sentir<br/>a minha mão suster.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Tu és o meu amparo,<br/>meu guia e protetor;<br/>a graça, a paz, reside em ti,<br/>em ti reside o amor.</lines>
+      <lines>No auge da ventura<br/>ou das tribulações,<br/>teu santo nome bendirei,<br/>ó luz dos corações.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Só tu da morte as sombras<br/>poder tens de afastar<br/>e as portas da mansão feliz<br/>abrir de par em par.</lines>
+      <lines>A ti, naquele dia,<br/>no dia sem igual,<br/>com os remidos cantarei<br/>um hino triunfal.</lines>
+    </verse>
+  </lyrics>
+</song>

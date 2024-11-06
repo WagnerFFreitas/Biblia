@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:34">
+  <properties>
+    <titles>
+      <title>HC393 - Há Um Amigo Mui Chegado</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Há um amigo mui chegado - Cristo Senhor,<br/>Pois salvou-nos do pecado e do temor;<br/>Este amigo agonizava,<br/>Quando o mundo resgatava,<br/>E de Deus o amor mostrava; dai-Lhe louvor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Conhecê-Lo é ter vida, Cristo Senhor.<br/>NEle nos é permitida paz no labor;<br/>Ele sobre nós derrama<br/>Sua graça, pois nos ama,<br/>E p'ra Si a todos chama; dai-Lhe louvor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sempre é o mesmo, nunca muda, Cristo Senhor<br/>É a pedra de ajuda; vem, pecador!<br/>Bom maná é no deserto,<br/>Nosso guia, amigo certo,<br/>Seu amor é céu aberto; dai-Lhe louvor!</lines>
+    </verse>
+  </lyrics>
+</song>

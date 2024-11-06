@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:24">
+  <properties>
+    <titles>
+      <title>HM147 - Culto Dominical</title>
+      <title>Ó crentes em Cristo, um hino entoai,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó crentes em Cristo, um hino entoai,<br/>De quem nos remiu o amor exaltai!<br/>Na cruz Cristo foi morto por nós,<br/>Por nossos pecados sofreu dor atroz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Que preço elevado o justo pagou!<br/>Foi morto, e a morte os laços quebrou;<br/>As trevas da noite tornaram-se em luz<br/>No dia bendito do nosso Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Imagem do céu! Ó dia primor!<br/>Mercê divinal do grande Senhor!<br/>Mui doce descanso Jesus nos legou<br/>No excelso domingo em que ressuscitou!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A tua promessa em nós vem cumprir<br/>E teu santo amor fazer-nos sentir;<br/>Assim congregados, tu mesmo serás<br/>Presente, doando-nos bênçãos e paz.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A lei do Senhor queremos guardar,<br/>E culto solene a ti dedicar;<br/>No mundo celeste, cantando melhor,<br/>Daremos mil graças por este favor.</lines>
+    </verse>
+  </lyrics>
+</song>

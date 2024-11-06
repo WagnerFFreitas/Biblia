@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:50">
+  <properties>
+    <titles>
+      <title>HNC 057 - Fonte de Todo Bem</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="57"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>A terra semeamos a fim de nos dar pão,<br/>Mas Deus é quem a nutre com benfazeja mão.<br/>É Deus quem manda o frio, o inverno e o verão,<br/>A chuva, o doce orvalho e a fresca viração.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Criador de tudo, que em toda parte está<br/>Colore a flor silvestre e à estrela brilho dá.<br/>Os ventos lhe obedecem, e o bravo mar também;<br/>As frágeis avezinhas o seu cuidado têm!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A nós, porém, Seus filhos, revela mais amor,<br/>Mandando a este mundo o Filho Salvador!<br/>A nós fazendo herdeiros de tudo quanto tem,<br/>Na Redenção perfeita que Dele nos provém!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">De todo bem a fonte<br/>É o nosso bom Senhor!<br/>Louvai a Deus, louvai a Deus<br/>Por todo o seu amor!</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

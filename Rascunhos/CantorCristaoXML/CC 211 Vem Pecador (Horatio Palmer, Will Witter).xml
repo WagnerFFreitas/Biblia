@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:27">
+  <properties>
+    <titles>
+      <title>CC 211 Vem Pecador</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Horatio Palmer</author>
+      <author>Will Witter</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="211"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Eis, Cristo te convida: Vem pecador!<br/>Pois dá eterna vida; vem pecador!</lines>
+      <lines>Tudo é tão favorável; vem pecador!<br/>Cristo é tão admirável; vem pecador!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Pois hoje tens o ensejo, vem pecador!<br/>E tu não tens desejo? Vem pecador!</lines>
+      <lines>Se tu não mais duvidas, vem pecador!<br/>Sim, urge que decidas! Vem pecador!</lines>
+    </verse>
+  </lyrics>
+</song>

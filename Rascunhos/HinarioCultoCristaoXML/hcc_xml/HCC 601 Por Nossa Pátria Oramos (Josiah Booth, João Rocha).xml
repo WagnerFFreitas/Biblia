@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:05:13">
+  <properties>
+    <titles>
+      <title>HCC 601 Por Nossa Pátria Oramos</title>
+      <title>Commonwealth</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Josiah Booth</author>
+      <author>João Rocha</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="601"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Por nossa Pátria oramos<br/>a ti, supremo Deus.<br/>Por nosso lar clamamos<br/>a ti, ó Rei dos céus.</lines>
+      <lines>Que reine aqui a tua paz,<br/>e faça o povo o que te apraz,<br/>porque conosco tu estás:<br/>Deus salve a Pátria!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">À Pátria, que nos deste,<br/>concede proteção<br/>de guerras, fome e peste,<br/>maldade e traição.</lines>
+      <lines>Sustenta a ordem nacional,<br/>o bom governo imparcial,<br/>e dá-nos graça divinal:<br/>Deus salve a Pátria!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">A tua Igreja inflama<br/>com zelo e terno amor,<br/>e seja o seu programa<br/>cumprido com vigor.</lines>
+      <lines>Que nós, os salvos por Jesus,<br/>tenhamos glória em sua cruz,<br/>sejamos sal, sejamos luz,<br/>em toda a Pátria. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

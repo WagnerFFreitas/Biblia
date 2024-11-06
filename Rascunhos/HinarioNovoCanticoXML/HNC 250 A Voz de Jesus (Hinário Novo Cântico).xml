@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:59">
+  <properties>
+    <titles>
+      <title>HNC 250 - A Voz de Jesus</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="250"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ouvi o Salvador dizer:<br/>“Vem descansar em mim<br/>E, confiante, receber<br/>Conforto e paz sem fim.”<br/>Fui a Jesus e lhe entreguei<br/>Meu triste coração!<br/>Abrigo e paz eu nele achei,<br/>Achei consolação!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ouvi o Salvador dizer:<br/>“Da vida a fonte sou;<br/>As águas vivas vem beber,<br/>De graça eu sempre as dou.”<br/>Fui a Jesus e me prostrei<br/>Às águas e bebi;<br/>Jamais a sede sentirei,<br/>Estando sempre ali!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ouvi o Salvador dizer:<br/>“Do mundo eu sou a luz!<br/>Oh! Vem em mim, pois qual farol<br/>Te guio desde a cruz.”<br/>Fui a Jesus e nele achei<br/>O sol que brilha em mim;<br/>E nessa luz eu andarei<br/>Até da vida ao fim!</lines>
+    </verse>
+  </lyrics>
+</song>

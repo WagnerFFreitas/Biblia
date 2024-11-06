@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:05:14">
+  <properties>
+    <titles>
+      <title>HCC 603 Minha Pátria Para Cristo</title>
+      <title>Ichter</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>William Entzminger</author>
+      <author>Emiline Lindsey</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="603"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Minha Pátria para Cristo,<br/>é a minha petição.<br/>Minha Pátria, tão querida,<br/>eu te dei meu coração.</lines>
+      <lines>Lar prezado, lar formoso,<br/>é por ti o meu amor.<br/>Que o meu Deus de excelsa graça<br/>te dispense seu favor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Salve Deus a minha Pátria,<br/>minha Pátria varonil.<br/>Salve Deus a minha terra,<br/>salve a terra do Brasil.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Quero, pois, com alegria,<br/>ver meu povo tão gentil<br/>aceitando o evangelho<br/>nesta terra do Brasil.</lines>
+      <lines>"Brava gente brasileira,<br/>longe vá temor servil."<br/>Ou ficar a Pátria salva,<br/>ou morrer pelo Brasil.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:55">
+  <properties>
+    <titles>
+      <title>HCC 508 Senhor, Que É Nosso Templo</title>
+      <title>Far Off Lands</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Frederico Pagura</author>
+      <author>Melodia dos irmãos boêmios</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="508"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Senhor, que é nosso templo<br/>se não estás presente?<br/>Que valem as paredes<br/>e os vidros a brilhar?</lines>
+      <lines>E de que vale o coro<br/>e o órgão tão potente<br/>se tua eterna glória<br/>aqui não habitar?</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Que valem nossas vozes<br/>se falta a humildade?<br/>Que valem as palavras,<br/>discursos, oração,</lines>
+      <lines>se o hálito divino<br/>não enche de bondade<br/>o íntimo aposento<br/>de cada coração?</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Que valem cerimônias,<br/>os credos, simbolismo,<br/>os salmos, os louvores,<br/>ofertas e sermão,</lines>
+      <lines>se existe entre os teus filhos<br/>um tão profundo abismo<br/>que priva as nossas almas<br/>de terna comunhão?</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Senhor, enche este templo,<br/>conosco sê presente.<br/>Que, no silêncio santo<br/>de tão feliz mansão,</lines>
+      <lines>nós todos, irmanados,<br/>ergamos altamente<br/>os fervorosos hinos<br/>de nossa gratidão.</lines>
+    </verse>
+  </lyrics>
+</song>

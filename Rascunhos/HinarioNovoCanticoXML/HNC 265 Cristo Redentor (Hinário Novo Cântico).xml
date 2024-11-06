@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:59">
+  <properties>
+    <titles>
+      <title>HNC 265 - Cristo Redentor</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="265"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Que agonia dolorosa<br/>Tu sofreste, ó meu Jesus!<br/>Foi por mim tanta amargura<br/>Que penaste ali na cruz.<br/>Quanto amor! Oh! Quanto amor<br/>No Teu sangue, ó meu Senhor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Desprezado até por Deus<br/>Pelos crimes que eram meus,<br/>Foi por mim, ó meu Jesus,<br/>Todo o horror da infame cruz.<br/>Quanto amor! Oh! Quanto amor<br/>Na tua morte, ó meu Senhor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó Deus meu, Justiça e Amor<br/>São a essência do teu Ser.<br/>Foi por isso que Teu Filho<br/>Veio à cruz por mim morrer!<br/>Que Justiça e quanto Amor<br/>No teu Ser, ó Criador!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pecadores, todos vós,<br/>Que buscais a salvação,<br/>Vislumbrai no sacrifício<br/>Quem nos trouxe a redenção!<br/>Com amor, sim, muito amor,<br/>Crede em Cristo, o Redentor.</lines>
+    </verse>
+  </lyrics>
+</song>

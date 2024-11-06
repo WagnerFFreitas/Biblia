@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:12">
+  <properties>
+    <titles>
+      <title>HM072 - Provisão Divina</title>
+      <title>Ao Deus do Céu, da terra e mar,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Henry Maxwell Wright</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ao Deus do Céu, da terra e mar,<br/>Humildes vimos adorar,<br/>A Providência celebrar,<br/>Que tudo dá!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A leve brisa, a doce luz<br/>Que benefícios só produz<br/>E em trilha certa nos conduz<br/>Pois tudo dá!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A verde relva, a linda flor,<br/>De ricos frutos o penhor,<br/>Proclamam seu constante amor.<br/>Sim, tudo dá!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A vida, as forças, o sorrir,<br/>O seu amor farão sentir,<br/>Aqui e além, no bom porvir;<br/>Pois tudo dá!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dá vida aos mortos e perdão;<br/>Dá aos perdidos salvação,<br/>De paz enchendo o coração.<br/>Sim, tudo dá!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Pureza dá, e dá poder,<br/>A graça para bem viver<br/>E firme crente, enfim, morrer!<br/>Sim, tudo dá!</lines>
+    </verse>
+  </lyrics>
+</song>

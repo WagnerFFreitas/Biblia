@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:16">
+  <properties>
+    <titles>
+      <title>HM094 - Súplica</title>
+      <title>Nós, humildes crentes, vimos,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nós, humildes crentes, vimos,<br/>Ó divino Salvador,<br/>Com profundo sentimento<br/>Suplicar o teu favor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Somos fracos, pecadores,<br/>Infinito é teu poder;<br/>Nós, indignos, ignorantes,<br/>Tu, muito alto em teu saber!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Salvador, da excelsa glória,<br/>Sonda todo o coração;<br/>E com grande reverência<br/>Suba a nossa petição.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh! Prepara as nossa almas!<br/>Que possamos habitar,<br/>Perdoados, renovados,<br/>No celeste e doce lar.</lines>
+    </verse>
+  </lyrics>
+</song>

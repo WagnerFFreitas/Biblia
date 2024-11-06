@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:57">
+  <properties>
+    <titles>
+      <title>HCC 519 Reunidos Junto à Mesa</title>
+      <title>A Ceia do Senhor</title>
+    </titles>
+    <verseOrder>v1 v2 v3 e1</verseOrder>
+    <authors>
+      <author>Guilherme Loureiro</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="519"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Reunidos junto à mesa<br/>para a ceia do Senhor,</lines>
+      <lines>fervorosos e contritos,<br/>a Jesus rendei louvor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Quando o pão ali partimos,<br/>ó Jesus, ó Cristo amado,</lines>
+      <lines>relembramos que teu corpo<br/>foi por nós crucificado.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Quando o vinho então bebemos,<br/>outra vez nós recordamos</lines>
+      <lines>o teu sangue derramado<br/>pra que vida nós tenhamos.</lines>
+    </verse>
+    <verse name="e1">
+      <lines break="optional">Graças te rendemos, Pai,<br/>pois em teu imenso amor</lines>
+      <lines>planejaste e concedeste<br/>o perdão ao pecador.</lines>
+    </verse>
+  </lyrics>
+</song>

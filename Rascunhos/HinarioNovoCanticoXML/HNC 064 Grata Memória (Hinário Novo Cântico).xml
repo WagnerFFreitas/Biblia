@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:50">
+  <properties>
+    <titles>
+      <title>HNC 064 - Grata Memória</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="64"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nunca meus lábios cessarão, ó Cristo,<br/>De bendizer-Te, de cantar-Te glória;<br/>Pois guardo na alma Teu amor imenso:<br/>Grata memória!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quando perdido vagueava aflito,<br/>E em densas trevas meu andar seguia,<br/>Tu me buscaste, lá dos céus mandando<br/>Luz que me guia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Quando oprimido por mundano jugo,<br/>Em maus caminhos eu me angustiava,<br/>Deu-me descanso Tua voz tão terna<br/>Que me chamava!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Aos fortes braços eu corri confiante,<br/>Meigo e bondoso, não me recusaste;<br/>E em Teu imenso, suave amor, tão puro,<br/>Me agasalhaste!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh! Nunca, nunca, cessarão meus lábios<br/>De bendizer-Te, de cantar-Te a glória;<br/>Pois em minha alma Tu és sempre, ó Cristo,<br/>Grata memória! Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

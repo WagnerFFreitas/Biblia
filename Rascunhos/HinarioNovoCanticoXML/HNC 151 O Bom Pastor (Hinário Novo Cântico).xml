@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:54">
+  <properties>
+    <titles>
+      <title>HNC 151 - O Bom Pastor</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="151"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pelos bosques e campinas<br/>Pastoreia o bom Jesus<br/>Junto às águas cristalinas<br/>Seu rebanho em paz conduz.<br/>Ele guarda assim minha alma<br/>E a protege em seu calor.<br/>Nas angústias ou na calma<br/>Vai comigo o Bom Pastor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Não me afligem os perigos,<br/>E não temo a tentação!<br/>Ele sempre está comigo<br/>E sustém-me o seu bordão.<br/>Não me aflige nem a morte.<br/>Cuja sombra hei de enfrentar.<br/>Ele é meu amparo forte<br/>Em que posso confiar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sua mesa me prepara,<br/>Pois minha alma quer nutrir.<br/>Minhas mágoas Ele sara,<br/>Com Seu óleo vem me ungir.<br/>Certamente que a bondade<br/>Toda vida fruirei.<br/>E no seu felicidade<br/>Para sempre gozarei!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Sempre amável e clemente,<br/>Vai comigo o Bom Pastor.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

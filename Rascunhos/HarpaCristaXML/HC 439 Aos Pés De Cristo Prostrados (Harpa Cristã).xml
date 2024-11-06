@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:42">
+  <properties>
+    <titles>
+      <title>HC439 - Aos Pés De Cristo Prostrados</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>De Cristo ressurgido,<br/>Aos seus pés nos prostramos;<br/>Com fé O adoramos,<br/>Do mundo é o Salvador;<br/>Nós, crentes redimidos,<br/>Por sangue já lavados,<br/>Na graça bem guardados,<br/>Temos de Deus favor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tudo que nós sofremos,<br/>Cristo já tem provado,<br/>Ao pecador cansado,<br/>Pode, quer ajudar;<br/>Oh! Quanta dor nós vemos,<br/>Cristo na cruz sofrendo,<br/>Com sede ali morrendo,<br/>Para o mortal salvar!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>"Eu tenho sede", exclama<br/>O divinal Cordeiro,<br/>Pregado no madeiro,<br/>Na cruz da maldição;<br/>Oh! Quanto Cristo ama<br/>O pecador perdido,<br/>Pois sangue tem vertido,<br/>Para lhe dar perdão!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A nós, que santos somos,<br/>Dá-nos a vera graça,<br/>Para que assim se faça,<br/>Em nós o Teu querer,<br/>Na cruz achar nós fomos<br/>Consolo abundante,<br/>Graça de Deus bastante,<br/>E divinal poder!</lines>
+    </verse>
+  </lyrics>
+</song>

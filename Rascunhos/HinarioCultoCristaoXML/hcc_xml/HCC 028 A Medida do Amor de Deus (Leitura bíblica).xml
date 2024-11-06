@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:20">
+  <properties>
+    <titles>
+      <title>HCC 028 A Medida do Amor de Deus</title>
+      <title>João 3:16</title>
+    </titles>
+    <copyright>João 3:16</copyright>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="028"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna.</lines>
+    </verse>
+  </lyrics>
+</song>

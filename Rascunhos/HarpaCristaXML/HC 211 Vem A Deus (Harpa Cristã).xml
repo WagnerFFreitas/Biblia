@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:03">
+  <properties>
+    <titles>
+      <title>HC211 - Vem A Deus</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vem, enquanto Deus te chama<br/>E tu sentes Seu amor,<br/>Pois do céu poder derrama<br/>P'ra salvar o pecador!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Vem a Deus, a Jesus, entregar teu coração;<br/>E terás Sua luz... A perfeita salvação!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Se da vida tens o fardo<br/>E tu'alma triste está,<br/>Crê em Deus, não sejas tardo,<br/>Que Jesus te salvará!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Neste mundo vais andando,<br/>Sem tranqüilidade e paz;<br/>- Volta a Deus, mas confiando,<br/>E feliz então serás.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vem a Cristo, que te espera,<br/>Não demores, pecador!<br/>Nos Seus braços Deus quisera<br/>Receber-te com amor!</lines>
+    </verse>
+  </lyrics>
+</song>

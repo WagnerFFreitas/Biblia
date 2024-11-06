@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:16">
+  <properties>
+    <titles>
+      <title>HM097 - Vivificação</title>
+      <title>Tu, que, sobre a amarga cruz,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Henry Maxwell Wright</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu, que, sobre a amarga cruz,<br/>Revelaste teu amor;<br/>Tu que vives, ó Jesus!<br/>Vivifica-nos , Senhor!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Vem! Oh! Vem, Jesus, Senhor,<br/>Nossas almas despertar!<br/>Com teu santo e puro amor,<br/>Vem, Senhor! Vem inflamar<br/>Oh! Vem! Oh! Vem<br/>Nossas almas inflamar -</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vem agora consumir<br/>Tudo quanto, ó Salvador,<br/>Quer, altivo, resistir<br/>Ao teu brando e doce amor!</lines>
+    </verse>
+  </lyrics>
+</song>

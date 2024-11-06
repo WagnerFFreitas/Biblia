@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:58">
+  <properties>
+    <titles>
+      <title>HCC 524 Fiel, Eterno e Santo Amor</title>
+      <title>Manoah</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Melodia americana</author>
+      <author>James Montgomery</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="524"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Fiel, eterno e santo amor<br/>a mim mostraste, ó Rei.</lines>
+      <lines>Com gratidão e com temor,<br/>de ti me lembrarei.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Por mim morreste, bom Jesus;<br/>cumpriste toda a Lei.</lines>
+      <lines>Vivendo agora em tua luz,<br/>de ti me lembrarei.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Verteste o sangue em meu lugar<br/>ali na cruz, eu sei.</lines>
+      <lines>Por isso quero te louvar;<br/>de ti me lembrarei.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">E, quando a vida terminar,<br/>no céu habitarei.</lines>
+      <lines>À tua mesa vou estar,<br/>contigo cearei.</lines>
+    </verse>
+  </lyrics>
+</song>

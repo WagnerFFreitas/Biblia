@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-12-24T19:34:59">
+  <properties>
+    <titles>
+      <title>HNC 067 - Coração Quebrantado</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="67"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sonda-me, ó Deus, pois vês meu coração!<br/>Prova-me, ó  Pai, te peço em oração.<br/>De todo o mal liberta-me, Senhor,<br/>Até da transgressão que oculta for.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vem me lavar dos vis pecados meus,<br/>Conforme prometeste, meu bom Deus.<br/>Faze-me arder e consumir de amor,<br/>Pois quero te magnificar, Senhor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Todo o meu ser não considero meu;<br/>Quero gastá-lo no serviço teu.<br/>Minhas paixões Tu podes dominar,<br/>Pois Tu, Senhor, vieste em mim morar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lá do alto céu o avivamento vem,<br/>E que comece em mim, seguindo além.<br/>O teu poder, as bênçãos, teu favor<br/>Concede aos que são teus, ó Pai de Amor. <br/>Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

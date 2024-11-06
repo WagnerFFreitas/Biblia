@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:33">
+  <properties>
+    <titles>
+      <title>HC003 - Plena Paz</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Plena paz o santo gozo,<br/>Tenho em ti, ó meu Jesus!<br/>Pois eu cri em Tua morte sobre a cruz;<br/>No Senhor só confiando<br/>Neste mundo viverei,<br/>Entoando aleluias ao meu Rei!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Glória ao meu Jesus!<br/>Pois é digno de louvor;<br/>É meu Rei, meu bom pastor,<br/>E meu Senhor.<br/>Como os anjos, que O louvam,<br/>Eu também O louvarei,<br/>Entoando aleluias ao meu Rei!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O amor de Jesus Cristo<br/>É muito grande para mim,<br/>Pois Sua graça me encheu de amor sem fim.<br/>Meu Jesus foi para a glória,<br/>Mas um dia eu O verei,<br/>Entoando aleluias ao meu Rei!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Este mundo não deseja<br/>Tão bondoso Salvador,<br/>Não sabendo agradecer Seu grande amor.<br/>Eu, porém, estou gozando<br/>Do favor da Sua lei,<br/>Entoando aleluias ao meu Rei!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Quando o povo israelita<br/>Com Jesus se consertar,<br/>Dando glória ao Seu nome, sem cessar.<br/>Nesse tempo, céu e terra<br/>Hão de ser a mesma grei,<br/>Entoando aleluias ao meu Rei!</lines>
+    </verse>
+  </lyrics>
+</song>

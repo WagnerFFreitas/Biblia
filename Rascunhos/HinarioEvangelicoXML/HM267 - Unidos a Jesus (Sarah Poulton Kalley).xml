@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:48">
+  <properties>
+    <titles>
+      <title>HM267 - Unidos a Jesus</title>
+      <title>Oh! Graça imensa! Indignos pecadores</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh! Graça imensa! Indignos pecadores<br/>Em Cristo gozam plena comunhão!<br/>Na cruz remidos, ímpios, malfeitores<br/>Obtêm de Deus completa aceitação!<br/>O Redentor deste arruinado mundo,<br/>Morreu por nós em afrontosa cruz!<br/>Prazer durável temos, e profundo,<br/>Eternamente unidos a Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na punição do mundo criminoso,<br/>A pensa toda sobre si tomou<br/>E para o crente, a preço doloroso,<br/>Felicidade eterna assegurou;<br/>Por nós foi morto, mas ressuscitado,<br/>E assunto em glória aos luminosos céus,<br/>É nosso intercessor, nosso Advogado,<br/>À mão direita do Supremo Deus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Agora, o Salvador, na excelsa glória<br/>Está por todos nós a interceder;<br/>Na terra a Igreja, por fiel memória<br/>De Cristo, quer seu Reino promover;<br/>Aqui seus servos sosmo; nossa vida<br/>Pertence inteiramente ao Redentor;<br/>Com ele em Deus a temos escondida;<br/>É dele! Do Celeste Benfeitor!</lines>
+    </verse>
+  </lyrics>
+</song>

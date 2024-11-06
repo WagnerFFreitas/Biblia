@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:13">
+  <properties>
+    <titles>
+      <title>CC 144 Vera Páscoa</title>
+      <title>Seek Ye First</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Letra anônima</author>
+      <author>Thomas Cairns</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="144"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó Jesus! Ó vera páscoa!<br/>Suspirada dos antigos!<br/>Ó Cordeiro eterno e meigo,<br/>digna-te assistir aqui!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bom Jesus, ó pão divino!<br/>Pela fé te apropriamos;<br/>és das almas o alimento<br/>que sustenta o nosso amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bom Jesus, ó vinho puro!<br/>Fonte de perene gozo!<br/>Faze que nossa alma viva<br/>para ti, de ti, em ti.</lines>
+    </verse>
+  </lyrics>
+</song>

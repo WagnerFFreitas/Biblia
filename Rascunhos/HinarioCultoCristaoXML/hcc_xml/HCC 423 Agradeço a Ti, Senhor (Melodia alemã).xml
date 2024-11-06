@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:37">
+  <properties>
+    <titles>
+      <title>HCC 423 Agradeço a Ti, Senhor</title>
+      <title>Danket, Danket</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Melodia alemã</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="423"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Agradeço a ti, Senhor,<br/>pois tu és bondoso.<br/>Tua misericórdia<br/>dura para sempre.</lines>
+    </verse>
+  </lyrics>
+</song>

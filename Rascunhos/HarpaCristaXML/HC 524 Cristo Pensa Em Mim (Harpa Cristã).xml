@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:59">
+  <properties>
+    <titles>
+      <title>HC524 - Cristo Pensa Em Mim</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Através da tempestade<br/>Em qualquer calamidade,<br/>Me consola esta verdade:<br/>Cristo pensa em mim.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pensa em mim, Jesus<br/>Lá na excelsa luz;<br/>Já provaste a cruz,<br/>Com amor sem fim;<br/>Satisfeito estou,<br/>Sem medo vou;<br/>Cristo pensa em mim.<br/>Cristo pensa em mim.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quando conforto eu desejo,<br/>Força, ousadia almejo,<br/>Nisto, pois, eu tudo vejo:<br/>Cristo pensa em mim.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se eu receio o inimigo,<br/>Tendo temor do perigo,<br/>Em Jesus encontro abrigo:<br/>Cristo pensa em mim.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Caso eu vá ausentar-me,<br/>Dos meus irmãos separar-me,<br/>Nisto hei de consolar-me:<br/>Cristo pensa em mim.</lines>
+    </verse>
+  </lyrics>
+</song>

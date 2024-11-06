@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:58">
+  <properties>
+    <titles>
+      <title>HM323 - Fonte de Todo o Bem</title>
+      <title>A terra semeamos</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Henry Maxwell Wright</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A terra semeamos<br/>A fim de nos dar pão,<br/>Mas Deus é quem a nutre<br/>Com benfazeja mão;<br/>Ele é quem manda o frio,<br/>A calma no verão,<br/>A chuva e o doce orvalho,<br/>E a fresca viração.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>De todo o bem a Fonte<br/>É nosso bom Senhor.<br/>Louvai a Deus,<br/>Por todo o seu amor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Criador de tudo,<br/>Que perto ou longe estão,<br/>Colore a flor sisvestre<br/>E à estrela o brilho dá.<br/>Os ventos lhe obedecem,<br/>E o bravo mar também,<br/>As frágeis avezinhas<br/>O seu cuidado têm.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A nós, porém, seus filhos,<br/>Revela mais amor,<br/>Mandando-nos à terra<br/>Jesus, o Salvador,<br/>Dotando-nos em Cristo<br/>De tudo quanto tem<br/>Fazendo-nos herdeiros<br/>De Deus, o Sumo Bem.</lines>
+    </verse>
+  </lyrics>
+</song>

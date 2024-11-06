@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-12-24T19:18:47">
+  <properties>
+    <titles>
+      <title>HNC 015 - Doxologia</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tua, ó Deus, é toda a grandeza<br/>E o poder e a glória e a vitória<br/>E os louvores; vitória e louvores!<br/>Tua, ó Deus, tua, ó Deus, é a grandeza<br/>E o poder, a grandeza e o poder<br/>E a glória e a vitória e os louvores eternos.</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Pois tudo o que está no mar,<br/>E está no céu e na terra é teu!<br/>Teu é o domínio, teu é o domínio,<br/>Ó Senhor! E tu és acima de todos os reis,<br/>De todos os reis. Amém. Amém. Aleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

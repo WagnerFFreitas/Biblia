@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:05:13">
+  <properties>
+    <titles>
+      <title>HCC 600 De Ti, ó Meu Brasil</title>
+      <title>Elienai</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Ivo Seitz</author>
+      <author>Samuel Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="600"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">De ti, ó meu Brasil,<br/>país de encantos mil,<br/>eu vou cantar.</lines>
+      <lines>Florestas sem rivais<br/>e rios perenais<br/>e lindos litorais<br/>tu tens sem par!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Tu, minha Pátria, tens<br/>maravilhosos bens<br/>no solo teu.</lines>
+      <lines>Tão belos laranjais<br/>e ricos cafezais,<br/>riquezas naturais,<br/>orgulho meu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Sê livre, meu país,<br/>sê forte e bem feliz,<br/>com justas leis.</lines>
+      <lines>Combate a corrupção,<br/>o crime, a opressão,<br/>e pede a proteção<br/>do Rei dos reis.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Que possas prosperar<br/>e, firme, caminhar<br/>na santa luz!</lines>
+      <lines>Que sempre com favor<br/>e com extremo amor<br/>te cerque o bom Senhor<br/>e Rei, Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

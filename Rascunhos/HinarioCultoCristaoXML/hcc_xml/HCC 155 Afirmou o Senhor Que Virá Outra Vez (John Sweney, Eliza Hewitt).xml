@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:45">
+  <properties>
+    <titles>
+      <title>HCC 155 Afirmou o Senhor Que Virá Outra Vez</title>
+      <title>Stars In My Crown</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>John Sweney</author>
+      <author>Eliza Hewitt</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="155"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Afirmou o Senhor que virá outra vez,<br/>cumprirá a promessa que fez.<br/>Vai trazer até nós o esplendor celestial,<br/>vai sentar-se em seu trono real.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Como foi para o céu, o Senhor voltará;<br/>sem aviso do céu descerá.<br/>Esperemos a vinda do Filho de Deus,<br/>que trará glória a nós, filhos seus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Este mundo ele irá com justiça julgar,<br/>seus segredos irá revelar.<br/>Por Jesus perdoados, os salvos então<br/>a coroa de glória terão.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Seu poder nossos corpos irá transformar,<br/>como Cristo nós vamos ficar.<br/>Na presença do Rei estaremos assim,<br/>e seu reino jamais terá fim.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Entre nós, neste mundo, não sabe ninguém<br/>em qual dia e em qual hora ele vem.<br/>Estejamos alerta, servindo em amor,<br/>vigiando ao voltar o Senhor.</lines>
+    </verse>
+  </lyrics>
+</song>

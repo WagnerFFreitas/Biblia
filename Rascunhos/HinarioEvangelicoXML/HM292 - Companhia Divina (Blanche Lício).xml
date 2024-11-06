@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:52">
+  <properties>
+    <titles>
+      <title>HM292 - Companhia Divina</title>
+      <title>Buscar-te-ei, Senhor, bem cedo,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Blanche Lício</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Buscar-te-ei, Senhor, bem cedo,<br/>No albor do dia que vier,<br/>À luz do sol, surgindo a medo,<br/>Chamando o mundo a seu mister.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E quando o dia for ao meio,<br/>A tua face buscarei;<br/>E à noite mal nenhum receio,<br/>Se perto estás, Jesus, meu Rei.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Comigo fica, ó Pai celeste,<br/>Da vida instável através,<br/>Sou todo teu, pois em fizeste<br/>E quero estar sempre a teus pés.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Na escura noite, ou claro dia,<br/>No vale ou monte, aonde eu for,<br/>A tua doce companhia<br/>Será meu prêmio e teu favor.</lines>
+    </verse>
+  </lyrics>
+</song>

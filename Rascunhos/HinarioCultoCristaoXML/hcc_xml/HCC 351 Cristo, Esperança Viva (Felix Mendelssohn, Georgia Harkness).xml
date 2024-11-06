@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:21">
+  <properties>
+    <titles>
+      <title>HCC 351 Cristo, Esperança Viva</title>
+      <title>Consolation</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Felix Mendelssohn</author>
+      <author>Georgia Harkness</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="351"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Cristo, esperança viva e triunfante,<br/>conforta e anima o nosso coração!</lines>
+      <lines>Guarda o teu povo em retidão constante,<br/>sempre fiel em toda provação.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Cristo, esperança nossa, que verteste<br/>teu generoso sangue redentor;</lines>
+      <lines>tens nossas vidas, pois na cruz morreste,<br/>e ao teu querer responda o nosso amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Cristo, esperança nossa, vitorioso<br/>do mal, da cruz da morte e seu horror; </lines>
+      <lines>somos teus servos, povo precioso.<br/>Reina e domina; só tu és Senhor.</lines>
+    </verse>
+  </lyrics>
+</song>

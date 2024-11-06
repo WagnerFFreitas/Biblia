@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:29">
+  <properties>
+    <titles>
+      <title>HC363 - Consagração</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amor e vida dou a Ti,<br/>Jesus, pois lá na cruz, por mim,<br/>Verteste sangue carmezim;<br/>Meu Deus e Salvador!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Amor e vida dou a Ti,<br/>Que foste à cruz sofrer por mim,<br/>Amor e vida dou a Ti,<br/>Jesus, meu Salvador!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu me salvaste, isto sei;<br/>A minha fé em ti porei;<br/>Feliz, agora viverei!<br/>Contigo, meu Jesus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu que morreste sobre a cruz,<br/>Concede-me, Senhor Jesus,<br/>Que sempre ande na Tua luz,<br/>Em santificação.</lines>
+    </verse>
+  </lyrics>
+</song>

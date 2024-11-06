@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:47">
+  <properties>
+    <titles>
+      <title>HC468 - Cristo Está Chamando</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Queres tu seguir a Cristo,<br/>E andar na Sua luz?<br/>Queres ser por todos visto<br/>Carregando a tua cruz?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus Cristo está chamando,<br/>Quer da morte te livrar;<br/>Com paciência te esperando,<br/>Vem, p'ra Ele te salvar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Queres hoje dar o passo<br/>E tornares-te cristão?<br/>Do pecado, rompe o laço<br/>E terás a salvação.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Por que tens tu resistido,<br/>Esta voz de compaixão?<br/>Sê do amor de Deus vencido,<br/>Vem, recebe a salvação.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O que pede, aqui recebe,<br/>O perdão no sangue Seu;<br/>Quem da água viva bebe,<br/>Júbilo terá no céu!</lines>
+    </verse>
+  </lyrics>
+</song>

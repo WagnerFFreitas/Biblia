@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:50">
+  <properties>
+    <titles>
+      <title>HNC 041 - Louvor pela Graça Divina</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="41"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Louvai, louvai a Cristo, o bom Mestre divino!<br/>Por nós a cruz ele sofreu, morreu;<br/>Perdão, perdão hoje aos contritos outorga,<br/>Pois precioso sangue na cruz verteu.<br/>Sim, louvai-o! Ei-lo tão exaltado,<br/>Mediador que nunca nos faltará.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Louvai, louvai a Cristo, o bom Mestre divino!<br/>Conselhos bons dá ele ao pecador;<br/>Anunciai as bênçãos maravilhosas<br/>Concedidas por nosso Salvador.<br/>Ide todos, servos de Jesus Cristo,<br/>E Ele nunca vos abandonará</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Louvai, louvai a Cristo, o bom Mestre divino!<br/>Cantai, cantai seu grande amor cantai;<br/>Fiéis, cantai de coração, bem unidos,<br/>Seu poder e glória louvai, louvai!<br/>Qual pastor que cuida do seu rebanho,<br/>Cristo, assim, os crentes protegerá.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Louvai, louvai e proclamai a grandeza<br/>Do perdão , da graça que a todos dá.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

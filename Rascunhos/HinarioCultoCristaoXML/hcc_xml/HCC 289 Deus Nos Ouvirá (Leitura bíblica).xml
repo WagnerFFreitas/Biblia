@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:10">
+  <properties>
+    <titles>
+      <title>HCC 289 Deus Nos Ouvirá</title>
+      <title>2 Crônicas 7:14</title>
+    </titles>
+    <copyright>2 Crônicas 7:14</copyright>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="289"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Se o meu povo, que se chama pelo meu nome, se humilhar, e orar, e buscar a minha face, e se desviar dos seus maus caminhos,<br/>então eu ouvirei do céu, e perdoarei os seus pecados, e sararei a sua terra.</lines>
+    </verse>
+  </lyrics>
+</song>

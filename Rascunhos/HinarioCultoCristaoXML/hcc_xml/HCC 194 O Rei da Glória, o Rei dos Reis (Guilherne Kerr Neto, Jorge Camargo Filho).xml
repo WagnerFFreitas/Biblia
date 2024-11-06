@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:52">
+  <properties>
+    <titles>
+      <title>HCC 194 O Rei da Glória, o Rei dos Reis</title>
+      <title>O Rei da Glória</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 v4</verseOrder>
+    <authors>
+      <author>Guilherne Kerr Neto</author>
+      <author>Jorge Camargo Filho</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="194"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Rei da glória, o Rei dos reis,<br/>Senhor dos senhores, soberano Deus,<br/>é Jesus, é Jesus, é Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Desceu da glória, e homem se fez,<br/>varão de dores, servo sofredor,<br/>padeceu, sim, Jesus, padeceu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sim, Cristo entregou sua vida;<br/>de forma espontânea ele a deu;<br/>ninguém poderia obrigá-lo;<br/>foi seu próprio amor que o moveu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Por isso reina acima dos céus<br/>e tem um nome capaz de nos salvar:<br/>é Jesus, só Jesus, só Jesus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Virá em breve o Rei dos reis,<br/>vestido em glória, com todo o seu poder.<br/>Voltará, sim, Jesus voltará.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:47">
+  <properties>
+    <titles>
+      <title>HCC 464 Testemunhos de Fé</title>
+      <title>Hebreus 11:4, 5, 7, 8, 11, 13, 20, 22, 23, 31-34, 36, 37; 12:1, 2</title>
+    </titles>
+    <copyright>Hebreus 11:4, 5, 7, 8, 11, 13, 20, 22, 23, 31-34, 36, 37; 12:1, 2</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="464"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pela fé Abel ofereceu a Deus mais excelente sacrifício (...)<br/>dando Deus testemunho das suas oferendas, e por meio dela, depois de morto, ainda fala.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pela fé Enoque foi trasladado para não ver a morte (...) pois antes (...) alcançou testemunho de que agradara a Deus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pela fé Noé (...) sendo temente a Deus, preparou uma arca para o salvamento da sua família.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pela fé Abraão, sendo chamado, obedeceu.<br/>Pela fé, até a própria Sara recebeu a virtude de conceber um filho, mesmo fora da idade.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Todos estes morreram na fé, sem terem alcançado as promessas;<br/>mas, tendo-as visto e saudado de longe, confessaram que eram estrangeiros e peregrinos na terra.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Pela fé Isaque abençoou a Jacó e a Esaú no tocante às coisas futuras.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Pela fé José (...) Pela fé Moisés (...) Pela fé Raabe (...) E que mais direi?<br/>Pois me faltará o tempo, se eu contar de Gideão, de Baraque, de Sansão, de Jefté, de Davi, de Samuel e dos profetas;</lines>
+    </verse>
+    <verse name="v8">
+      <lines>os quais por meio da fé venceram reinos, praticaram a justiça, alcançaram promessas,<br/>fecharam a boca dos leões, apagaram a força do fogo, escaparam ao fio da espada,<br/>da fraqueza tiraram forças, tornaram-se poderosos na guerra, puseram em fuga exércitos de estrangeiros.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Outros experimentaram escárnios e açoites, e ainda cadeias e prisões.<br/>Foram apedrejados e tentados; foram serrados ao meio; morreram ao fio da espada;<br/>andaram vestidos de peles de ovelhas e de cabras, necessitados, aflitos e maltratados.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Portanto, nós também, pois que estamos rodeados de tão grande nuvem de testemunhas,<br/>deixemos todo embaraço, e o pecado que tão de perto nos rodeia,<br/>e corramos com perseverança a carreira que nos está proposta, fitando os olhos em Jesus,<br/>autor e consumador da nossa fé, o qual (...) suportou a cruz (...) e está assentado à direita do trono de Deus.</lines>
+    </verse>
+  </lyrics>
+</song>

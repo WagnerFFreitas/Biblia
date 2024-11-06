@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:56:17">
+  <properties>
+    <titles>
+      <title>HC620 - Na Jornada Para O Céu</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na jornada para o Céu,<br/>Vivo sempre a meditar.<br/>Muito alegre vou cantando<br/>E seguindo pro meu lar.<br/>Muito alegre vou cantando<br/>E seguindo pro meu lar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sei que é certa a vitória,<br/>Que Jesus me garantiu:<br/>Eu vou chegar à Glória (bis)<br/>Que o mortal inda não viu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Caminhando com Jesus,<br/>Meu prazer sempre aumentou:<br/>Revelou-me o amor da cruz,<br/>Que meus crimes perdoou<br/>Revelou-me o amor da cruz,<br/>Que meus crimes perdoou.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Um clarão da luz do Céu<br/>Minha alma iluminou<br/>Então vi o abismo eterno<br/>Do qual Deus já me salvou.<br/>Então vi o abismo eterno<br/>Do qual Deus já me salvou.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nesta senda gloriosa,<br/>Me ajuda o meu Rei:<br/>Tenho paz, e mui ditosa,<br/>E mais paz no Céu terei.<br/>Tenho paz, e mui ditosa,<br/>E mais paz no Céu terei.</lines>
+    </verse>
+  </lyrics>
+</song>

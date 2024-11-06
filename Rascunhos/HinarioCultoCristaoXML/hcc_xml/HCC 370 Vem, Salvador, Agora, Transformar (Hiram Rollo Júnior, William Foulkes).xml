@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:25">
+  <properties>
+    <titles>
+      <title>HCC 370 Vem, Salvador, Agora, Transformar</title>
+      <title>Salmo 139</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Hiram Rollo Júnior</author>
+      <author>William Foulkes</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="370"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Vem, Salvador, agora, transformar<br/>a minha mente e todo o meu viver.</lines>
+      <lines>Tua verdade pura e singular<br/>seja o modelo do meu proceder.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Minha vontade, ó Pai, vem dirigir;<br/>tua vontade aqui eu vou fazer.</lines>
+      <lines>Minha vaidade vem, pois, suprimir,<br/>vaso de bênção teu eu quero ser.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Meu coração vem dominar, Senhor;<br/>do egoísmo vem me libertar.</lines>
+      <lines>Espalharei o teu grandioso amor.<br/>Vem minha vida agora controlar.</lines>
+    </verse>
+  </lyrics>
+</song>

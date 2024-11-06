@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:57">
+  <properties>
+    <titles>
+      <title>HNC 210 - O Filho Perdido</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="210"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vem, filho perdido, ó prodigo, vem!<br/>Ruína te espera nas trevas além.<br/>Tu, de medo, tremendo, e faminto, gemendo,<br/>Ó filho perdido, vem, pródigo, vem!<br/><br/><tag name="it">Vem, vem! Ó pródigo, vem!</tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vem, filho perdido! Ó pródigo, vem!<br/>Teu pai te convida, querendo-te bem!<br/>Vestes há para ornar-te, ricos dons: <br/>Vem fartar-te!<br/>Ó filho perdido, vem, pródigo, vem!<br/><br/><tag name="it">Vem, vem! Ó pródigo, vem!</tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vem, filho perdido! Oh! Volta a Jesus!<br/>Bondade infinita se avista na cruz.<br/>Em miséria vagando, tuas culpas chorando,<br/>Ó filho perdido, vem, pródigo, vem!<br/><br/><tag name="it">Vem, vem! Ó pródigo, vem!</tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó pródigo, escuta a voz do Senhor!<br/>Oh! Rompe as ciladas do vil tentador!<br/>Em teu lar há bastante, e tu vagas errante!<br/>Ó filho perdido, vem, pródigo vem!<br/><br/><tag name="it">Vem, vem! Ó pródigo, vem!</tag></lines>
+    </verse>
+  </lyrics>
+</song>

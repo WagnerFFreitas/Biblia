@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:49">
+  <properties>
+    <titles>
+      <title>HCC 474 Segundo o Propósito de Deus</title>
+      <title>Romanos 8:29, 30, 28</title>
+    </titles>
+    <copyright>Romanos 8:29, 30, 28</copyright>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="474"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Porque os que dantes conheceu, também os predestinou para serem conformes à imagem de seu Filho,<br/>a fim de que ele seja o primogênito entre muitos irmãos; e aos que predestinou, a estes também chamou;<br/>e aos que chamou, a estes também justificou; e aos que justificou, a estes também glorificou.<br/>Sabemos que todas as coisas concorrem para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito.</lines>
+    </verse>
+  </lyrics>
+</song>

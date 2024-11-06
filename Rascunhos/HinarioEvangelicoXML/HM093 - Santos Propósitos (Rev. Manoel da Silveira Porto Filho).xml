@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:15">
+  <properties>
+    <titles>
+      <title>HM093 - Santos Propósitos</title>
+      <title>À minha voz, ó Deus, atende,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Manoel da Silveira Porto Filho</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>À minha voz, ó Deus, atende,<br/>Pois noite e dia clamo a ti!<br/>Tão débil sou, tão pobre aqui!<br/>A meus queixumes e gemidos<br/>Vem dar ouvidos!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Da vida e luz tu és a fonte.<br/>Em mim opere o teu poder!<br/>Minha oração vem receber;<br/>Do sol, vigiando no meu leito,<br/>O surto espreito.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu não és Deus que te comprazas<br/>Nas más ações do pecador.<br/>Bondoso e justo és tu, Senhor!<br/>Contigo os que só mal intentam,<br/>Jamais se assentam.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Meus pés à luz de teus caminhos,<br/>Humilde e fiel dirigirei.<br/>Tu és meu Deus, tu és meu Rei!<br/>Á tua vista andar eu quero,<br/>Puro e sincero.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Em ti exultarão os justos,<br/>Rejubilando em tua paz,<br/>De todo mal os guardarás,<br/>Pois tua lei, ó Deus, conhecem<br/>E te obedecem.</lines>
+    </verse>
+  </lyrics>
+</song>

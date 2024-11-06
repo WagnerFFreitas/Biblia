@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:43">
+  <properties>
+    <titles>
+      <title>HM241 - A Água Da Vida</title>
+      <title>A Água da Vida Jesus vos dá,</title>
+    </titles>
+    <copyright>Sarah Poulton Kalley</copyright>
+    <authors>
+      <author>Dr. João Gomes da Rocha</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Água da Vida Jesus vos dá,<br/>Livre e alegremente!<br/>Quem a beber logo estancará<br/>Para sempre a sede!<br/>Ó pecadores, sem exceção,<br/>Vinde já a Cristo!<br/>Ele oferece-vos salvação,<br/>Não vacileis, vinde agora!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O Espírito e a Esposa dizem: "Vem!"<br/>Vem, bebe da "Água da Vida!"<br/>Responda quem hoje sede tem:<br/>"A fonte, que é Cristo, eu vou".<br/>Esta Água da Vida corre,<br/>Livre para sempre!<br/>À qual o sedento acorre<br/>Para a sede, por fim, mitigar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cristo prepara a mansão nos Céus,<br/>Livre e alegremente!<br/>Onde estaremos bem junto a Deus<br/>E dos seus remidos.<br/>Lá não há morte, pecado e dor,<br/>Mas gozo infinito,<br/>Bênçãos e paz eternal valor<br/>Que aos salvos dá Jesus Cristo!</lines>
+    </verse>
+  </lyrics>
+</song>

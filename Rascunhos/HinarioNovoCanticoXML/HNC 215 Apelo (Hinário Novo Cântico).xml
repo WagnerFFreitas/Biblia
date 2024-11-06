@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:57">
+  <properties>
+    <titles>
+      <title>HNC 215 - Apelo</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="215"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, estás à porta<br/>Do aflito coração!<br/>E queres fazer nele<br/>Perene habitação.<br/>Cristãos jamais seremos,<br/>Nem filhos do Senhor,<br/>Se não fizer morada<br/>Em nós o Salvador.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, está batendo<br/>Com traspassada mão!<br/>Espinhos tens na fronte,<br/>Nos olhos compaixão!<br/>Com amor incompreensível<br/>Esperas sem cansar!<br/>Por causa do pecado<br/>Não podes Tu entrar!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, nos ama tanto,<br/>Bondoso é Teu olhar!<br/>Sofreste no calvário<br/>A fim de nos salvar!<br/>Senhor, com fé abrimos<br/>O nosso coração!<br/>Oh! Entra e faze nele<br/>Eterna habitação! Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

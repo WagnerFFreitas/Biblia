@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:58">
+  <properties>
+    <titles>
+      <title>HNC 227 - A Velha História</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="227"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Conta-me a velha história<br/>Do grande Salvador,<br/>De Cristo e sua vida,<br/>De Cristo e seu amor.<br/>Com pausa e paciência,<br/>Pois quero penetrar<br/>A altura do mistério,<br/>Que Deus me pode amar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fala-me com ternura<br/>Do amado Redentor,<br/>A mim que tanto sofro<br/>Por ser um pecador.<br/>Oh! Que consolo traz-me<br/>Em tempos de aflição,<br/>Ouvir a velha história<br/>Que alegra o coração!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se o brilho deste mundo<br/>Toldar os céus a luz,<br/>Oh! Narra com ternura<br/>A história de Jesus!<br/>E quando, enfim, a aurora<br/>Do mundo além raiar,<br/>Recorda a velha história,<br/>Que Deus me quis salvar!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Conta-me a velha história,<br/>Que fala ao coração,<br/>De Cristo e sua glória,<br/>De Cristo e seu perdão!</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

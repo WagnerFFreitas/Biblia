@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:31">
+  <properties>
+    <titles>
+      <title>HCC 398 Perto Está o Senhor</title>
+      <title>Salmos 34:18, 15</title>
+    </titles>
+    <copyright>Salmos 34:18, 15</copyright>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="398"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Perto está o Senhor dos que têm o coração quebrantado, e salva os contritos de espírito.<br/>Os olhos do Senhor estão sobre os justos, e os seus ouvidos atentos ao seu clamor.</lines>
+    </verse>
+  </lyrics>
+</song>

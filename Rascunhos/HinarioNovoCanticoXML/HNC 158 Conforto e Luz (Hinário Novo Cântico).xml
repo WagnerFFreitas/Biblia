@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:55">
+  <properties>
+    <titles>
+      <title>HNC 158 - Conforto e Luz</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="158"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vai, alma tristonha, teu pranto depor!<br/>Põe os teus cuidados nas mãos do Senhor!<br/>Ao Mestre confia toda essa aflição,<br/>Pois sempre oferece plena compaixão.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Teus sustos e medos vai, mostra ao Senhor!<br/>Seu mando transforma a noite em fulgor.<br/>Ergue a tua fronte! Logo há de raiar<br/>O sol que dissipa nuvens de pesar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Há tantos que choram dor muito maior;<br/>Há corações tristes por culpa e temor.<br/>vai! Leva a mensagem de perdão e luz!<br/>Vai! Deixa as tristezas aos pés de Jesus!</lines>
+    </verse>
+  </lyrics>
+</song>

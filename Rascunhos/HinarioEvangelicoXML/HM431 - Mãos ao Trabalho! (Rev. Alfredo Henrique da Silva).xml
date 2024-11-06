@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:24">
+  <properties>
+    <titles>
+      <title>HM431 - Mãos ao Trabalho!</title>
+      <title>Mãos ao trabalho, jovens!</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Alfredo Henrique da Silva</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mãos ao trabalho, jovens!<br/>Vai já passando o alvor;<br/>Eia! Enquanto tendes<br/>Vossa vida em flor.<br/>Vamos, enquanto é dia,<br/>Com força trabalhar;<br/>Eia! Que, em vindo a noite,<br/>Não há mais lidar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mãos ao trabalho, homenes!<br/>Andai enquanto há luz;<br/>Eia! Que é tempo agora<br/>De servir Jesus.<br/>Ide o vigor da vida<br/>Todos ao bem votar;<br/>Eia! Que, em vindo a noite,<br/>Não há mais lidar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mãos ao trabalho, todos!<br/>Breve nos chega o fim.<br/>Enquanto não ressoa<br/>Da morte o clarim,<br/>Vamos, irmãos, à obra,<br/>Por Cristo trabalhar!<br/>Eia! Que em vindo a noite,<br/>Vamos descansar.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:27">
+  <properties>
+    <titles>
+      <title>CC 209 Venham Escutar</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Stuart McNair</author>
+      <author>Ira Sankey</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="209"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Desprezado foi o Verbo<br/>por aqueles que criou,<br/>não obstante, as nossas dores<br/>Ele foi quem as levou;</lines>
+      <lines>foi por esses sofrimentos<br/>que alcançamos nós a paz;<br/>sua morte no Calvário<br/>para nós a vida traz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Venham todos escutar:<br/>Salvação Deus quer vos dar,<br/>entregando o Filho amado,</lines>
+      <lines>Deus mostrou-nos seu amor,<br/>seu propósito benigno de salvar o pecador.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Ele foi desamparado<br/>para termos proteção,<br/>e por nós se fez pecado<br/>para dar-nos retidão;</lines>
+      <lines>sim, do seu querido Filho<br/>Deus o rosto desviou,<br/>nessa ocasião solene<br/>quando Cristo nos salvou.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Para nós tem começado<br/>novo, refulgente dia;<br/>em lugar de triste choro,<br/>desfrutamos alegria;</lines>
+      <lines>e provamos hoje as bênçãos<br/>desse lar além, nos céus,<br/>onde moraremos juntos<br/>com Jesus e nosso Deus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Provações de toda sorte<br/>não nos devem assustar,<br/>nem apertos, nem perigos<br/>nossa fé prejudicar;</lines>
+      <lines>pois que Deus tem prometido<br/>o seu povo proteger;<br/>por aquele que nos ama<br/>sempre havemos de vencer.</lines>
+    </verse>
+  </lyrics>
+</song>

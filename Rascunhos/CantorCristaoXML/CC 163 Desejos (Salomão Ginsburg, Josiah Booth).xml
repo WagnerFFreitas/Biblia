@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:18">
+  <properties>
+    <titles>
+      <title>CC 163 Desejos</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Salomão Ginsburg</author>
+      <author>Josiah Booth</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="163"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Eu conhecer desejo<br/>o amor do meu Jesus,<br/>a glória sempiterna<br/>do reino do meu Deus.</lines>
+      <lines>Eu aprender desejo<br/>a santa e boa lei,<br/>cumprir o seu mandato,<br/>com toda a sua grei.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Reproduzir almejo<br/>a vida de Jesus;<br/>ser manso, ser humilde,<br/>também servir a Deus;</lines>
+      <lines>eu aprender almejo<br/>com Jesus Cristo orar,<br/>sozinho na montanha<br/>com o Senhor falar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Amar eternamente<br/>desejo a ti, Jesus;<br/>pois tu por mim sofreste<br/>a maldição da cruz.</lines>
+      <lines>Ó Salvador, concede<br/>que alcance teu amor;<br/>a mim, ovelha tua,<br/>contempla com favor!</lines>
+    </verse>
+  </lyrics>
+</song>

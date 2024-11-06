@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:41:46">
+  <properties>
+    <titles>
+      <title>CC 001 Antífona</title>
+      <title>Eventide</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>William Monk</author>
+      <author>Henry Wright</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="001"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Ti, ó Deus, fiel e bom Senhor,<br/>Eterno Pai, supremo Benfeitor,<br/>Nós os Teus servos, vimos dar louvor,<br/>Aleluia! <br/>Aleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A Ti, Deus Filho, Salvador Jesus,<br/>Da graça a fonte, da verdade a Luz;<br/>Por Teu amor, medido pela cruz,<br/>Aleluia!<br/>Aleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A Ti, ó Deus, real Consolador,<br/>Divino fogo santificador<br/>Que nos anima e nos acende o amor,<br/>Aleluia!<br/>Aleluia!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A Ti, Deus Trino, poderoso Deus,<br/>Que estás presente sempre junto aos teus<br/>A ministrar as bênçãos lá dos céus,<br/>Aleluia!<br/>Aleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

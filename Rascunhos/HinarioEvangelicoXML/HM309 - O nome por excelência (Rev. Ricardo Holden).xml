@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:55">
+  <properties>
+    <titles>
+      <title>HM309 - O nome por excelência</title>
+      <title>Qual mirra fragrante</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Ricardo Holden</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Qual mirra fragrante<br/>Que espalha ao redor<br/>Seu rico perfume,<br/>Sua aura de olor,<br/>Teu nome, ó Amado,<br/>Ao meu coração<br/>Infunde alegria<br/>E satisfação.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Qual voz da amizade,<br/>Que inspira valor,<br/>Na longa jornada,<br/>Ao pobre viajor,<br/>Teu nome encoraja,<br/>Fazendo-me ver<br/>Achar-se o descanso,<br/>Mui fácil de ter.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Qual canto que serve<br/>Ao sono a dispor<br/>O infante embalado<br/>Em mimos de amor,<br/>Teu nome abrandando<br/>A voz da paixão,<br/>Acalma, suaviza,<br/>A ardente emoção.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Qual vela, avistada<br/>Distante do mar<br/>Ao náufrago prestes<br/>A desesperar,<br/>Teu nome levando<br/>Mensagens de paz,<br/>Alegre esperança<br/>E forças lhe traz.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Qual luz que brilhante<br/>No erguido fanal,<br/>Ao nauta, de noite,<br/>Ensina o canal,<br/>Teu nome, espalhando<br/>Nas trevas a luz<br/>Ao porto celeste<br/>Minha alma conduz.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:22">
+  <properties>
+    <titles>
+      <title>HCC 034 Deus dos Antigos</title>
+      <title>National Hymn</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Daniel Roberts</author>
+      <author>George Warren</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="034"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deus dos antigos, cuja forte mão<br/>rege e sustém os astros da amplidão<br/>do cintilante céu inspirador,<br/>com gratidão cantamos teu louvor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Já no passado vimos teu amor;<br/>deste país sê forte ajudador.<br/>Sê nosso esteio, guia e proteção.<br/>Tua palavra dê-nos direção.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Da guerra atroz, da peste a se alastrar,<br/>teu forte braço esteja a nos guardar.<br/>Aumenta a fé em cada coração,<br/>e viva em nós a tua compaixão.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Teu povo, ó Deus, anima em seu labor.<br/>Transforma a noite em dia de esplendor.<br/>A nossa vida vem fortalecer<br/>para o teu nome sempre engrandecer.<br/>Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

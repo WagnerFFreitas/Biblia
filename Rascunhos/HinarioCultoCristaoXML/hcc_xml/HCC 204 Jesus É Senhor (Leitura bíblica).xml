@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:54">
+  <properties>
+    <titles>
+      <title>HCC 204 Jesus É Senhor</title>
+      <title>Mateus 12:1-8</title>
+    </titles>
+    <copyright>Mateus 12:1-8</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="204"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines><tag name="y">Todos:</tag><br/>Naquele tempo passou Jesus pelas searas num dia de sábado;<br/>e os seus discípulos, sentindo fome, começaram a colher espigas, e a comer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><tag name="y">Congregação:</tag><br/>Os fariseus, vendo isso disseram-lhe:<br/>Eis que os teus discípulos estão fazendo o que não é lícito fazer no sábado.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><tag name="y">Pastor:</tag><br/>Ele, porém, lhes disse:<br/>Acaso não lestes o que fez Davi, quando teve fome, ele e seus companheiros?<br/>Como entrou na casa de Deus, e como eles comeram os pães da proposição,<br/>que não lhe era lícito comer, nem a seus companheiros, mas somente aos sacerdotes?<br/>Ou não lestes na lei que, aos sábados, os sacerdotes no templo violam o sábado, e ficam sem culpa?<br/>Digo-vos, porém, que aqui está o que é maior do que o templo.<br/>Mas, se vós soubésseis o que significa:<br/>Misericórdia quero, e não sacrifícios, não condenaríeis os inocentes.<br/>Porque o filho do homem até do sábado é Senhor.</lines>
+    </verse>
+  </lyrics>
+</song>

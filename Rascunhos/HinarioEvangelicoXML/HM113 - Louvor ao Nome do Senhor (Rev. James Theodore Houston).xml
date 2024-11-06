@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:19">
+  <properties>
+    <titles>
+      <title>HM113 - Louvor ao Nome do Senhor</title>
+      <title>Da terra, ó povos, celebrai</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. James Theodore Houston</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Da terra, ó povos, celebrai<br/>O nome do Senhor;<br/>Nos santos átrios hoje entrai<br/>Com salmos de louvor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sejamos servos do Senhor,<br/>Sigamos sua Lei!<br/>Prostemo-nos em seu louvor:<br/>Da terra é grande Rei.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>De geração em geração,<br/>É justo, bom, fiel;<br/>É verdadeira a salvação<br/>De Cristo Emanuel.</lines>
+    </verse>
+  </lyrics>
+</song>

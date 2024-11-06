@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:39">
+  <properties>
+    <titles>
+      <title>HC420 - O Que Buscas Ansioso</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O que buscas ansioso<br/>Ó perdido pecador?<br/>Tudo que tens por precioso,<br/>Murchará qual linda flor!<br/>Quando teu fim chegar,<br/>Quando teu fim chegar,<br/>Há de cessar o teu gozo,<br/>Mas vai o crente entrar,<br/>Mas vai o crente entrar,<br/>Num lar eterno de repouso!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Neste mundo há belas flores,<br/>Que nos querem seduzir,<br/>Mas espinhos tÊm, que dores,<br/>Hão de sempre produzir;<br/>Mas Cristo, o Salvador,<br/>Mas Cristo, o Salvador,<br/>De Saron é linda rosa,<br/>Tem excelente odor,<br/>Tem excelente odor,<br/>E alegra a alma desditosa!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Larga o mundo e o pecado<br/>Que te trazem perdição;<br/>E aceita de bom grado<br/>A Jesus no coração.<br/>Vida eternal terás;<br/>Vida eternal terás;<br/>Sim, fruirás santo gozo;<br/>Cristo será tua paz,<br/>Cristo será tua paz,<br/>E os altos céus o teu repouso.</lines>
+    </verse>
+  </lyrics>
+</song>

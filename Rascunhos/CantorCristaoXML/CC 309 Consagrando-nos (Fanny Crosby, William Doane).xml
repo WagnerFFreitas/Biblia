@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:46">
+  <properties>
+    <titles>
+      <title>CC 309 Consagrando-nos</title>
+      <title>Every Day And Hour</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Fanny Crosby</author>
+      <author>William Doane</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="309"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Consagrando-nos a ti,<br/>imploramos tua proteção;</lines>
+      <lines>oh! presente sê aqui,<br/>concedendo tua direção.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Cada vez mais e mais<br/>mostra-nos o teu favor;</lines>
+      <lines>une-nos em ti, Senhor,<br/>pelos laços do divino amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Através da provação<br/>guia sempre, sempre com amor;</lines>
+      <lines>guarda-nos o coração<br/>revestindo-o sempre de fervor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Habilita-nos, Senhor,<br/>outorgando sempre mais poder;</lines>
+      <lines>ao teu povo, bom Pastor,<br/>imploramos bênçãos conceder.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:35">
+  <properties>
+    <titles>
+      <title>HC025 - Jesus, Tu És Bom</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Meu Jesus, Tu és bom;<br/>Tu és tudo p'ra mim!<br/>Foste morto, mas vivex em mim;<br/>Tu mereces louvor,<br/>Ó cordeiro de Deus!<br/>Tu és tudo, sim, tudo p'ra mim!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quero a Ti dar louvor,<br/>Pois és Rei sobre reis;<br/>Tu és tu do, mas nada eu sou;<br/>Enche meu coração<br/>De ternura e paz;<br/>Honra eterna e glória Te dou.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Teu nome é amor,<br/>Pois tu amas a mim,<br/>E eu quero andar neste amor;<br/>Triufante estou,<br/>Confiando em Ti,<br/>Meu Jesus, grande consolador.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó ungido de Deus,<br/>Trazes paz e perdão;<br/>Salvação, vida, tens para os teus;<br/>Que mensagem do céu<br/>E de transformação,<br/>Enviada do trono de Deus!</lines>
+    </verse>
+  </lyrics>
+</song>

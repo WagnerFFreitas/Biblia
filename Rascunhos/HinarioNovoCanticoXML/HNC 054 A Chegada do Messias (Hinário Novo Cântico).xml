@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:50">
+  <properties>
+    <titles>
+      <title>HNC 054 - A Chegada do Messias</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cantai! Exultai! O Messias chegou!<br/>Dissiparam-se as trevas, a aurora raiou!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cantai! Exultai! Pelos ímpios sofreu!<br/>Satisfez a justiça e o sangue verteu!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cantai! Exultai! Temos pleno perdão,<br/>Pois Jesus nos concede real salvação!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cantai! Exultai! Jesus Cristo, nos céus,<br/>Pelos seus intercede à destra de Deus.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Cantai! Exultai! O Senhor voltará!<br/>Triunfante, glorioso, nas nuvens virá!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Dai louvores, celebrai-o!<br/>Foi morto na cruz!<br/>Dai louvores, publicai-o:<br/>Já vive Jesus!</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

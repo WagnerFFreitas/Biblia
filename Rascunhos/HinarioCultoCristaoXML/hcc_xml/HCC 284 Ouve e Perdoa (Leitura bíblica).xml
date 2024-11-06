@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:09">
+  <properties>
+    <titles>
+      <title>HCC 284 Ouve e Perdoa</title>
+      <title>Daniel 9:9; 1 Reis 8:39, 30, 33, 36, 34</title>
+    </titles>
+    <copyright>Daniel 9:9; 1 Reis 8:39, 30, 33, 36, 34</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="284"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines><tag name="y">Pastor:</tag><br/>Ao Senhor, nosso Deus, pertencem a misericórdia e o perdão.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><tag name="y">Congregação:</tag><br/>Ouve então do céu, lugar da tua habitação, perdoa, e age, retribuindo a cada um conforme todos os seus caminhos, segundo vires o seu coração.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><tag name="y">Todos:</tag><br/>Sim, ouve tu do lugar da tua habitação no céu; ouve, e perdoa.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><tag name="y">Pastor:</tag><br/>Quando o teu povo Israel for derrotado diante do inimigo, por ter pecado contra ti;<br/>se eles voltarem a ti, e confessarem o teu nome, e orarem e fizerem súplicas a ti nesta casa,</lines>
+    </verse>
+    <verse name="v5">
+      <lines><tag name="y">Todos:</tag><br/>ouve então do céu, e perdoa o pecado dos teus servos e do teu povo Israel, ensinando-lhes o bom caminho em que devem andar.<br/>E torna a levá-lo à terra que deste a seus pais.</lines>
+    </verse>
+  </lyrics>
+</song>

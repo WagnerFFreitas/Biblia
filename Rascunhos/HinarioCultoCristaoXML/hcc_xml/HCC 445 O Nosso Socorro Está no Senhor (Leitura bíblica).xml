@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:43">
+  <properties>
+    <titles>
+      <title>HCC 445 O Nosso Socorro Está no Senhor</title>
+      <title>Salmos 124</title>
+    </titles>
+    <copyright>Salmos 124</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="445"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines><tag name="y">Dirigente:</tag><br/>Se não fora o Senhor, que esteve ao nosso lado, ora diga Israel:<br/>Se não fora o Senhor, que esteve ao nosso lado, quando os homens se levantaram contra nós, eles nos teriam tragado vivos.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><tag name="y">Todos:</tag><br/>Quando a sua ira se acendeu contra nós; as águas nos teriam submergido, e a torrente teria passado sobre nós;<br/>sim, as águas impetuosas teriam passado sobre nós.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><tag name="y">Dirigente:</tag><br/>Bendito seja o Senhor, que não nos entregou, como presa, aos dentes deles.<br/>Escapamos, como um pássaro, do laço dos passarinheiros; o laço quebrou-se, e nós escapamos.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><tag name="y">Todos:</tag><br/>O nosso socorro está no nome do Senhor, que fez os céus e a terra.</lines>
+    </verse>
+  </lyrics>
+</song>

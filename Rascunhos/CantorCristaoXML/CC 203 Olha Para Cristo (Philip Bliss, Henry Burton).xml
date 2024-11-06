@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:26">
+  <properties>
+    <titles>
+      <title>CC 203 Olha Para Cristo</title>
+      <title>Dimas</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Philip Bliss</author>
+      <author>Henry Burton</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="203"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Olha para Cristo, olha pecador,<br/>pois por ti tragou o cálix de amargor;<br/>toda a tua culpa Cristo já pagou,<br/>todo o teu pecado sobre si tomou.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Olha para Cristo que por ti morreu;<br/>pelos teus pecados ele padeceu.<br/>Ele dor amarga lá na cruz sentiu,<br/>por seu sangue puro, Cristo te remiu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O poder das trevas ele conquistou,<br/>o terror da morte já aniquilou;<br/>eis o véu rasgado, eis do céu a luz,<br/>tudo está cumprido; olha pra Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

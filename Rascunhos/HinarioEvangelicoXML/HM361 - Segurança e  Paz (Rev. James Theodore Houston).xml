@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:08">
+  <properties>
+    <titles>
+      <title>HM361 - Segurança e  Paz</title>
+      <title>És Senhor, o meu amparo,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. James Theodore Houston</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>És Senhor, o meu amparo,<br/>Meu sustento, minha luz;<br/>Não conheço desamparo,<br/>Pois bem perto estás, Jesus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Vai minha alma, em confiança,<br/>Em teu Cristo descansar;<br/>Nele estás em segurança,<br/>Firme Rocha milenar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Que aflito, em ansiedade,<br/>Ou exposto à tentação,<br/>Oh! Vencer-me o mal não há de,<br/>Pois me guarda a tua mão!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Não me atraem as grandezas<br/>Deste mundo, que é falaz,<br/>E não vou após riquezar:<br/>Só almejo a tua paz.</lines>
+    </verse>
+  </lyrics>
+</song>

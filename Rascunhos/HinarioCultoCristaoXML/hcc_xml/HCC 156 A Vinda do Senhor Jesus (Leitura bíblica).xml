@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:45">
+  <properties>
+    <titles>
+      <title>HCC 156 A Vinda do Senhor Jesus</title>
+      <title>Marcos 13:5-8, 12, 13, 24-26, 31, 32</title>
+    </titles>
+    <copyright>Marcos 13:5-8, 12, 13, 24-26, 31, 32</copyright>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="156"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Acautelai-vos; ninguém vos engane; muitos virão em meu nome, dizendo: Sou eu; e a muitos enganarão.<br/>Quando, porém, ouvirdes falar em guerras e rumores de guerras não vos perturbeis; forçoso é que assim aconteça; mas ainda não é o fim.<br/>Pois se levantará nação contra nação, reino contra reino; e haverá terremotos em diversos lugares, e haverá fomes.<br/>Um irmão entregará à morte a seu irmão, e um pai a seu filho; e filhos se levantarão contra os pais e os matarão.<br/>E sereis odiados de todos por causa do meu nome.<br/>Mas aquele que perseverar até o fim, esse será salvo.<br/>O sol escurecerá, e a lua não dará a sua luz; as estrelas cairão do céu, e os poderes que estão nos céus serão abalados.<br/>Então verão vir o Filho do homem nas nuvens, com grande poder e glória.<br/>Passará o céu e a terra, mas as minhas palavras não passarão.<br/>Quanto, porém, ao dia e à hora, ninguém sabe, nem os anjos no céu nem o Filho, senão o Pai.</lines>
+    </verse>
+  </lyrics>
+</song>

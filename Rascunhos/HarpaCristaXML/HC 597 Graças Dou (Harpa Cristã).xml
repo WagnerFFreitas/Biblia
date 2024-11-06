@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:56:13">
+  <properties>
+    <titles>
+      <title>HC597 - Graças Dou</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Graças dou por esta vida: pelo bem que revelou.<br/>Graças dou pelo futuro, e por tudo que passou.<br/>Pelas bênçãos derramadas, pela dor, pela aflição.<br/>Pela graça revelada! - graças dou pelo perdão.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Graças pelo azul celeste e por nuvens que há também,<br/>Pelas rosas do caminho, por espinhos que elas têm,<br/>Pela escuridão da noite, pela estrela que brilhou,<br/>Pela prece respondida, pelo sonho que falhou.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pela cruz e o sofrimento e por toda provação,<br/>Pelo amor que é sem medida, pela paz no coração,<br/>Pela lágrima vertida, pelo alívio que é sem par.<br/>Pelo dom da eterna vida, sempre graças hei de dar!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:57">
+  <properties>
+    <titles>
+      <title>HCC 224 Vós, Criaturas de Deus Pai</title>
+      <title>Lasst Uns Erfreuen</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Melodia alemã</author>
+      <author>Francisco Assis</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="224"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Vós criaturas de Deus Pai,<br/>todos erguei a voz, cantai:<br/>Aleluia! Aleluia!</lines>
+      <lines>Tu, sol dourado a refulgir.<br/>Tu, lua em prata a reluzir,<br/>oh, louvai-o! Oh, louvai-o!<br/>Aleluia! Aleluia! Aleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Tu, água pura a borbulhar,<br/>em melodias vem cantar:<br/>Aleluia! Aleluia!</lines>
+      <lines>Tu, fogo vivo, aquecedor,<br/>infunde em todos novo ardor;<br/>oh, louvai-o! Oh, louvai-o!<br/>Aleluia! Aleluia! Aleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Terra que a todos dás vigor,<br/>bem forte entoa o teu louvor:<br/>Aleluia! Aleluia!</lines>
+      <lines>Frutos e flores, juntos dai<br/>a glória a Deus, Senhor e Pai.<br/>Oh, louvai-o! Oh, louvai-o!<br/>Aleluia! Aleluia! Aleluia!</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Filhos e filhas do Senhor,<br/>vinde adorá-lo com fervor:<br/>Aleluia! Aleluia!</lines>
+      <lines>Dai glória ao Filho, glória ao Pai,<br/>e ao Santo Espírito louvai!<br/>Oh, louvai-o! Oh, louvai-o!<br/>Aleluia! Aleluia! Aleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

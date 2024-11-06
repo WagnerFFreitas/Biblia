@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:30">
+  <properties>
+    <titles>
+      <title>HCC 073 Louvamos, Louvamos, Senhor e Adoramos</title>
+      <title>Kremser</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Richard Holden</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="073"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Louvamos, louvamos, Senhor e adoramos<br/>a ti, ó Deus-Homem no céu assentado,</lines>
+      <lines>que em tempo devido, na terra humilhado,<br/>por nossos pecados morreste na cruz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Louvamos, louvamos, Senhor e adoramos<br/>a ti, que a justiça de Deus sustentaste,</lines>
+      <lines>a pena sofrendo por nós merecida,<br/>a vida entregando pra assim nos remir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Louvamos, louvamos, Senhor e adoramos<br/>a glória divina por ti revelada,</lines>
+      <lines>que para nós brilha na luz esplendente,<br/>fazendo-nos ver a real perfeição.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Em ti concilia-se a santa justiça,<br/>que não pode a culpa deixar sem castigo,</lines>
+      <lines>com a compaixão que por graça recebe<br/>e exime de culpas o réu pecador.</lines>
+    </verse>
+  </lyrics>
+</song>

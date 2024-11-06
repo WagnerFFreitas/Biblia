@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:35">
+  <properties>
+    <titles>
+      <title>HM197 - Pão do Mundo</title>
+      <title>Ó pão, só por amor partido,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>J. Costa</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó pão, só por amor partido,<br/>Ó vinho dado por amor!<br/>Ó Cristo, vida nos tens sido:<br/>Morreste pelo pecador!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ao pecador atribulado,<br/>Consolo agora lhe vem dar;<br/>De tua Ceia, ó Cristo amado,<br/>Nossa alma vem alimentar.</lines>
+    </verse>
+  </lyrics>
+</song>

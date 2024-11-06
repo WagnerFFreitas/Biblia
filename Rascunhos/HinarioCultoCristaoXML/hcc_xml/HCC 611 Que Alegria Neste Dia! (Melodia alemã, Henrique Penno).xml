@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:05:15">
+  <properties>
+    <titles>
+      <title>HCC 611 Que Alegria Neste Dia!</title>
+      <title>Dia Festivo</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Melodia alemã</author>
+      <author>Henrique Penno</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="611"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Que alegria neste dia<br/>nós podemos desfrutar!</lines>
+      <lines>Neste ensejo, bom desejo<br/>temos: só a Deus louvar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Oh, cantemos, pois, com alegria,<br/>neste grande e mui festivo dia!</lines>
+      <lines>Vê, vê o que nos fez<br/>o Rei dos reis.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Que alegria neste dia<br/>enche nosso coração!</lines>
+      <lines>Inimigos e perigos<br/>afastados ficarão.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Que alegria neste dia<br/>temos todos por Jesus!</lines>
+      <lines>Reunidos, os remidos<br/>fazem tudo em sua luz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Deus glorioso, Deus bondoso,<br/>abençoa-nos aqui.</lines>
+      <lines>Que esta igreja sempre seja<br/>consagrada só a ti.</lines>
+    </verse>
+  </lyrics>
+</song>

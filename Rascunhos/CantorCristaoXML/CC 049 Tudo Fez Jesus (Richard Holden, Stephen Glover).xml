@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:41:55">
+  <properties>
+    <titles>
+      <title>CC 049 Tudo Fez Jesus</title>
+      <title>Hilary</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Richard Holden</author>
+      <author>Stephen Glover</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="049"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Cristo tudo fez completo,<br/>nada por fazer deixou;<br/>vida do mais doce afeto,<br/>ele para nós comprou.</lines>
+      <lines>Seu, o feito; nosso, o gozo;<br/>nossa, a vida; sua, a cruz;<br/>seu, o cálice amargoso;<br/>nossa, a dita que produz.</lines>
+    </verse>
+  </lyrics>
+</song>

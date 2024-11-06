@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:05:02">
+  <properties>
+    <titles>
+      <title>HCC 544 Indo a Todas as Cidades e Lugares</title>
+      <title>Lucas 10:1-5, 7-9, 17, 18, 20</title>
+    </titles>
+    <copyright>Lucas 10:1-5, 7-9, 17, 18, 20</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="544"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Designou o Senhor (...) setenta, e os enviou adiante de si, de dois em dois, a todas as cidades e lugares aonde ele havia de ir. E dizia-lhes:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na verdade, a seara é grande, mas os trabalhadores são poucos; rogai, pois, ao Senhor da seara que mande trabalhadores para a sua seara.<br/>Ide; eis que vos envio como cordeiros ao meio de lobos.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Não leveis bolsa, nem alforje, nem alparcas; e a ninguém saudeis pelo caminho.<br/>Em qualquer casa em que entrardes, dizei primeiro: Paz seja com esta casa.<br/>Ficai nessa casa, comendo e bebendo do que eles tiverem; pois digno é o trabalhador do seu salário. Não andeis de casa em casa.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Também, em qualquer cidade em que entrardes, e vos receberem, comei do que puserem diante de vós.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Curai os enfermos que nela houver, e dizei-lhes: É chegado a vós o reino de Deus.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Voltaram depois os setenta com alegria, dizendo: Senhor, em teu nome, até os demônios se submetem. Respondeu-lhes ele:</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Não vos alegreis porque se vos submetem os espíritos; alegrai-vos antes por estarem os vosso nomes escritos nos céus.</lines>
+    </verse>
+  </lyrics>
+</song>

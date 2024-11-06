@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:53">
+  <properties>
+    <titles>
+      <title>HCC 497 Cristo Amado</title>
+      <title>Cristo Amado</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Jack Scholfield</author>
+      <author>Manuel Souza</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="497"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Cristo amado, sei que na força do mal<br/>tu, meu Mestre, sempre serás protetor.</lines>
+      <lines>Tu me guardas, dando-me paz divinal.<br/>Eu contigo sempre serei vencedor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Cristo, Mestre,<br/>sei que contigo sou vencedor.</lines>
+      <lines>Dá-me graça,<br/>dá-me do teu poder, Redentor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Que alegria tenho no meu Salvador!<br/>Tenho graça, vida e amor paternal.</lines>
+      <lines>Tudo posso, tudo, por ti, meu Senhor;<br/>deste mundo sou vencedor afinal.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Oh, que bênção ter a certeza do bem,<br/>ter na vida paz e perdão do Senhor!</lines>
+      <lines>Vivo alegre, busco essa pátria de além,<br/>onde reina Cristo Jesus, Rei de amor.</lines>
+    </verse>
+  </lyrics>
+</song>

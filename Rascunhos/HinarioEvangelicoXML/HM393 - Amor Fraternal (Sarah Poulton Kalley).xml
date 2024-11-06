@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:14">
+  <properties>
+    <titles>
+      <title>HM393 - Amor Fraternal</title>
+      <title>Jesus, pastor amado</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, pastor amado<br/>Reunidos hoje aqui,<br/>Concede que sejamos<br/>Um corpo só em ti.<br/>Contendas e malícias<br/>Que longe de nós vão;<br/>Nenhum desgosto impeça<br/>Da Igreja a santa união.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Família unida somos,<br/>Família de Jesus,<br/>Iluminados todos<br/>Da mesma santa luz.<br/>A mesma fé nos prende<br/>Nun só divino amor,<br/>E com o mesmo gozo<br/>Servimos ao Senhor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na mesma senda estreita<br/>É Deus quem nos conduz;<br/>Só temos esperança<br/>No Salvador Jesus.<br/>A mesma horrível morte<br/>A todos vida traz;<br/>E pela mesma angústia<br/>Nos vem celeste paz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Rebanho resgatado<br/>por um só Salvador,<br/>Devemos ser unidos<br/>Por mais intenso amor;<br/>Olhar com simpatia<br/>Os erros de um irmão<br/>E todos ajudá-lo<br/>Com terna compaixão.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Se tua Igreja toda<br/>Viver em santa união,<br/>Será bendito sempre<br/>O nome de "Cristão".<br/>Jesus, o que pediste,<br/>Em nós se cumprirá,<br/>E assim o mundo inteiro<br/>A Deus conhecerá!</lines>
+    </verse>
+  </lyrics>
+</song>

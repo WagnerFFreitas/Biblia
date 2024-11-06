@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:32">
+  <properties>
+    <titles>
+      <title>HM456 - O Lar Celeste</title>
+      <title>Um grande amigo temos,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Um grande amigo temos,<br/>Jesus, o eterno Deus,<br/>Que a seus fiéis destina<br/>Um lar nos lindos céus.<br/>Na pátria sempiterna,<br/>Na divinal mansão,<br/>Nenhum enfado ou medo<br/>Aflige o coração.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jamais o mau desejo<br/>Terá lugar ali,<br/>Nem entra um só pecado<br/>Que nos assalte aqui.<br/>Repousam os cansados,<br/>Os tristes gozam paz,<br/>E no poder divino<br/>O enfermo se refaz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Coroa, trono e palmas<br/>Terá o vencedor,<br/>E tudo concedido<br/>Por Cristo, o Salvador.<br/>Tal bênção não podemos<br/>GTanhar, nem merecer:<br/>É Cristo quem somente<br/>A pode conceder.</lines>
+    </verse>
+  </lyrics>
+</song>

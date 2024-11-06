@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:58">
+  <properties>
+    <titles>
+      <title>HCC 228 A Deus Demos Glória</title>
+      <title>To God Be The Glory</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>William Doane</author>
+      <author>Fanny Crosby</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="228"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">A Deus demos glória, com grande fervor,<br/>seu Filho bendito por nós todos deu.</lines>
+      <lines>A graça concede a qualquer pecador,<br/>abrindo-lhe a porta de entrada no céu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Exultai! Exultai! Vinde todos louvar<br/>a Jesus, Salvador, a Jesus, Redentor.</lines>
+      <lines>A Deus demos glória, porquanto do céu<br/>seu Filho bendito por nós todos deu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Oh, graça real! Foi assim que Jesus,<br/>morrendo, seu sangue por nós derramou.</lines>
+      <lines>Herança nos céus, com os santos em luz,<br/>comprou-nos Jesus, pois o preço pagou.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">A crer nos convida tal prova de amor<br/>nos merecimentos do Filho de Deus.</lines>
+      <lines>E quem, pois confia em Jesus, Salvador,<br/>vai vê-lo exaltado na glória dos céus.</lines>
+    </verse>
+  </lyrics>
+</song>

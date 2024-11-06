@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:22">
+  <properties>
+    <titles>
+      <title>HCC 356 Meu Senhor de Tudo Sabe</title>
+      <title>Natércia</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>L. W.</author>
+      <author>Melodia brasileira</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="356"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Meu Senhor de tudo sabe, certamente sim.<br/>Sua graça imensurável me protege a mim.</lines>
+      <lines>Tudo quanto Deus permite pra meu bem será;<br/>ao sentir-me vacilante, forças Deus dará.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Sei que Deus o meu futuro tem na sua mão.<br/>Seus cuidados e ternura incontáveis são.</lines>
+      <lines>Mesmo que eu na vida encontre provação e dor,<br/>por detrás das negras nuvens brilha o seu amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Gosto de contar-lhe tudo quanto sofro aqui.<br/>Sou seu filho pela graça, nele renasci.</lines>
+      <lines>Sei que sua providência há de me valer<br/>e eu o louvarei por tudo que me acontecer.</lines>
+    </verse>
+  </lyrics>
+</song>

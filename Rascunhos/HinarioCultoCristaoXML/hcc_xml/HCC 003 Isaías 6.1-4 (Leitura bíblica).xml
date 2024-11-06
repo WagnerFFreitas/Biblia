@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:16">
+  <properties>
+    <titles>
+      <title>HCC 003 Isaías 6.1-4</title>
+      <title>Isaías 6:1-4</title>
+    </titles>
+    <copyright>Isaías 6:1-4</copyright>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="003"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">No ano em que morreu o rei Uzias, eu vi o Senhor assentado sobre um alto e sublime trono, e as orlas do seu manto enchiam o templo. </lines>
+      <lines break="optional">Ao seu redor havia serafins; cada um tinha seis asas; com duas cobria o rosto, e com duas cobria os pés e com duas voava.</lines>
+      <lines break="optional">E clamavam uns para os outros, dizendo: Santo, santo, santo é o Senhor dos exércitos; a terra toda está cheia da sua glória.</lines>
+      <lines> E as bases dos limiares moveram-se à voz do que clamava, e a casa se enchia de fumaça.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:56">
+  <properties>
+    <titles>
+      <title>HNC 177 - Firme nas Promessas</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="177"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Firme nas promessas do meu Salvador,<br/>Cantarei louvores ao meu Criador!<br/>Fico pelos séculos do seu amor,<br/>Firme nas promessas de Jesus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Firme nas promessas, hei de trabalhar.<br/>Tendo o Verbo eterno sempre a me amparar!<br/>Mesmo em tempestade vou sem vacilar,<br/>Firme nas promessas de Jesus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Firme nas promessas, sempre vejo, assim,<br/>Purificação no sangue para mim!<br/>Plena liberdade já desfruto, enfim;<br/>Firme nas promessas de Jesus!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Firme nas promessas do Senhor Jesus,<br/>Em amor ligado sempre à sua cruz!<br/>Cada dia mais me alegro em sua luz,<br/>Firme nas promessas de Jesus!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Firme, firme,<br/>Firme nas promessas<br/>De Jesus, meu Mestre!<br/>Firme, firme,<br/>Sim firme nas promessas de Jesus!</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

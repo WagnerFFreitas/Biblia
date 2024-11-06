@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:30">
+  <properties>
+    <titles>
+      <title>HCC 076 Ao Eterno Salvador Jesus</title>
+      <title>Todo o Louvor</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Ralph Manuel</author>
+      <author>Jilton Moraes</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="076"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Ao eterno Salvador Jesus,<br/>que por mim sofreu humilhação,</lines>
+      <lines>tão bondoso, sim, pois tomou a cruz,<br/>a ele sempre todo o meu louvor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Ao bendito Redentor Jesus,<br/>que por mim sofreu ingratidão,</lines>
+      <lines>poderoso, sim, mas sofreu na cruz,<br/>a ele sempre todo o meu louvor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Ao divino e bom Pastor Jesus,<br/>que por mim sofreu a maldição</lines>
+      <lines>glorioso, sim, pois venceu na cruz,<br/>a ele sempre todo o meu louvor.</lines>
+    </verse>
+  </lyrics>
+</song>

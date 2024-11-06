@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:04">
+  <properties>
+    <titles>
+      <title>HCC 262 Deixa o Salvador Te Ajudar</title>
+      <title>Jensen</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>William Reynolds</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="262"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Já andaste só, em tristezas?<br/>Já choraste nas trevas da solidão,</lines>
+      <lines>com o som do silêncio a cercar-te,<br/>sem saber o caminho a seguir?</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Deixa o Salvador, com seu amor,<br/>te ajudar, te guiar;<br/>Deixa o Salvador, com seu amor,<br/>te ajudar, te guiar;</lines>
+      <lines>oh, abre teu coração,<br/>aceita o seu perdão;<br/>deixa o salvador, com seu amor,<br/>te salvar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Por viveres dias vazios,<br/>não sabendo o futuro que enfrentarás,</lines>
+      <lines>tu precisas da segurança,<br/>do conforto que só Cristo dá.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Pelo Santo Espírito viverás,<br/>sua plena paz desfrutarás;</lines>
+      <lines>entrega a ele teus amanhãs;<br/>ao teu lado pra sempre ele irá.</lines>
+    </verse>
+  </lyrics>
+</song>

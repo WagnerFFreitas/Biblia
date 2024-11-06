@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:49:02">
+  <properties>
+    <titles>
+      <title>HNC 334 - A Conversão</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="334"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Em cegueira eu andei e perdido vaguei<br/>Longe, longe do meu Salvador!<br/>Mas da glória desceu, o seu sangue verteu<br/>E salvou este pobre pecador.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Já ouvia falar dessa graça sem par,<br/>Que do céu trouxe Cristo Jesus!<br/>Mas eu surdo me fiz, converter-me não quis<br/>Ao Senhor que por mim morreu na cruz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mas um dia senti meu pecado, e vi<br/>Sobre mim o castigo da Lei!<br/>Apressado fugi, em Jesus me escondi,<br/>E abrigo seguro Nele achei.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Que ditoso, então, foi ao meu coração,<br/>Conhecer o excelso amor,<br/>Que levou meu Jesus a sofrer lá na cruz,<br/>E salvar este pobre pecador.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Foi na cruz, foi na cruz que um dia eu vi<br/>Meu pecado castigado em Jesus!<br/>Foi ali, pela fé, que meus olhos abri<br/>E agora me alegro em sua luz!</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

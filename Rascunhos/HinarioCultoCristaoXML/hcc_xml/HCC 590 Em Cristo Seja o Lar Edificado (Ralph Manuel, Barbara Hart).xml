@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:05:11">
+  <properties>
+    <titles>
+      <title>HCC 590 Em Cristo Seja o Lar Edificado</title>
+      <title>Lar Cristão</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Ralph Manuel</author>
+      <author>Barbara Hart</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="590"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Em Cristo seja o lar edificado,<br/>no Conselheiro, Mestre e Salvador.<br/>Que todo filho cresça consagrado</lines>
+      <lines>a Cristo, nosso grande Redentor.<br/>Que no caminho seja acompanhado<br/>por nosso Deus, o forte protetor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Ó Deus, sejamos pais e mães zelosos<br/>em demonstrar a tua compaixão.<br/>Sempre vivamos nós harmoniosos,</lines>
+      <lines>em teu amor e em tua comunhão.<br/>Que os filhos sejam para nós preciosos,<br/>a nós confiados pela tua mão.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">A ti, ó Deus, o lar nós dedicamos,<br/>quer na alegria, na tristeza e dor.<br/>Oh, vem livrá-lo, Pai, nós imploramos,</lines>
+      <lines>da tentação do mundo e do temor!<br/>Sê tu, Jesus, o nosso Mestre, oramos;<br/>sê nosso guia em tudo, ó Salvador! Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

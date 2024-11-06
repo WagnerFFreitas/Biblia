@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:58">
+  <properties>
+    <titles>
+      <title>HC181 - Vem, Celeste Redentor</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vem, Senhor, do bem a fonte,<br/>Vem, celeste Redentor,<br/>Ajudar-me a entoar-te<br/>Dignos hinos de louvor;<br/>Tu, Jesus, por mim morreste,<br/>Quero só p'ra Ti viver;<br/>Quero em todos os momentos<br/>Tua bênção receber.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Era pobre desgarrado<br/>Quando Cristo me buscou;<br/>Para me salvar do inferno<br/>O Seu sangue derramou;<br/>Em Sua morte tão penosa,<br/>Paz, perdão e vida achei,<br/>E com Ele eternamente<br/>Sua glória fruirei.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>De tua graça, ó meu amado,<br/>Sou contínuo devedor;<br/>Mais e mais a Ti me atrai<br/>Pelo Teu divino amor;<br/>Sou ingrato, e bem conheço,<br/>Peço, meu Senhor, perdão;<br/>Tira-me do vil pecado,<br/>Rege Tu meu coração.</lines>
+    </verse>
+  </lyrics>
+</song>

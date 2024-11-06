@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:18">
+  <properties>
+    <titles>
+      <title>CC 445 Deves Divulgar</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Salomão Ginsburg</author>
+      <author>Robert Marquis</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="445"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Oh! que bela e doce história<br/>do bom Pai celestial,<br/>que nos vendo extraviados,<br/>em perigo sem igual,</lines>
+      <lines>enviou seu Filho amado<br/>pra todos nós salvar!<br/>Tão bela história, crente,<br/>tu deves divulgar!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sim, tu, irmão, tens que contar<br/>a história de Jesus;<br/>seus feitos e palavras<br/>tu deves divulgar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Esta bela história é sempre<br/>poderosa pra salvar,<br/>transformando e abençoando<br/>quem a Cristo quer chegar.</lines>
+      <lines>Mas há muitos infelizes<br/>sem compreender a luz;<br/>a eles vai e conta<br/>a história de Jesus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Oh! não digas que não podes<br/>essa história anunciar;<br/>faze tudo ao teu alcance<br/>para a Cristo sempre honrar!</lines>
+      <lines>Vamos, crentes, proclamando<br/>Jesus, o Salvador,<br/>a bela e linda história<br/>de Deus e seu amor!</lines>
+    </verse>
+  </lyrics>
+</song>

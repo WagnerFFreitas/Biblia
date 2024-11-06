@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:56:12">
+  <properties>
+    <titles>
+      <title>HC594 - Fé Persistente</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Almejo a fé que forte é<br/>Diante do terror,<br/>Que, calma, não recuará<br/>Do mundo aterrador.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A fé que não me faz queixar<br/>Na dor da correção,<br/>Mas quanto o fogo mais arder,<br/>Mais firma o coração.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A fé que sempre brilha mais<br/>No negro furacão,<br/>Que no perigo sente paz,<br/>Audaz na escuridão.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó Deus, me dá tamanha fé,<br/>Que venha o que vier!<br/>Então na lide provarei<br/>Celestial prazer.</lines>
+    </verse>
+  </lyrics>
+</song>

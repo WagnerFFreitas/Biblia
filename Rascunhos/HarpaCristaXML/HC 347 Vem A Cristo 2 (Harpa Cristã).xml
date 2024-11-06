@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:25">
+  <properties>
+    <titles>
+      <title>HC347 - Vem A Cristo 2</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vem a Cristo, vem agora,<br/>Vem assim, como estás;<br/>De Deus, sem demora,<br/>O perdão obterás.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Crê e firma tua confiança<br/>Na Sua morte por ti;<br/>Pois gozo alcança,<br/>Todo que faz assim.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vem a Cristo, não temendo,<br/>Pensa no Seu amor;<br/>Vem logo, mas crendo,<br/>Pois te chama o Senhor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ele anela redimir-te,<br/>Quer livrar-te do mal;<br/>As portas abrir-te,<br/>Do prazer divinal.</lines>
+    </verse>
+  </lyrics>
+</song>

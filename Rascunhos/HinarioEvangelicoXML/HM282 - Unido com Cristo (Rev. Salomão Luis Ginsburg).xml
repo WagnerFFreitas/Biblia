@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:51">
+  <properties>
+    <titles>
+      <title>HM282 - Unido com Cristo</title>
+      <title>Com Cristo unido na morte da cruz,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Salomão Luis Ginsburg</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Com Cristo unido na morte da cruz,<br/>Eu gozo a graça do reino da luz,<br/>Que para a vida dos Céus me conduz,<br/>Cada momento, com Cristo Jesus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cada momento me guia o Senhor,<br/>Cada momento dispensa favor<br/>Sua presença concede vigor<br/>Cada momentos sou teu, Salvador!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Com Cristo unido na luta moral<br/>Resiste ao erro, ao pecado fatal,<br/>Bem alto erguendo a bandeira real!<br/>Cada momento mais firme e leal!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Com Cristo unido na ressurreição,<br/>Hei de alcançar eternal redenção;<br/>Jamais em Cristo esperamos em vão,<br/>Cada momento concede perdão.</lines>
+    </verse>
+  </lyrics>
+</song>

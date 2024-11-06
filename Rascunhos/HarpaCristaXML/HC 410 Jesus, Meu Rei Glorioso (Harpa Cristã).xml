@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:37">
+  <properties>
+    <titles>
+      <title>HC410 - Jesus, Meu Rei Glorioso</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus é meu Rei glorioso,<br/>É grato cantar-Lhe louvor;<br/>É Rei, mas me torna ditoso,<br/>Enchendo-me do Seu amor;<br/>Deixando Seu trono de glória<br/>Me veio livrar desta escória.<br/>Já sou mui feliz, já sou mui feliz com Deus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus é meu Rei mui amado,<br/>Nas alturas, na dor, sempre está<br/>Paciente e humilde ao meu lado,<br/>Ajuda e consolo me dá;<br/>Por isso constante O sigo,<br/>Pois é meu Pastor e amigo.<br/>Já sou mui feliz, já sou mui feliz com Deus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, que pudera eu dar-Te<br/>Por tanto amor para mim?<br/>Bastante é servir-Te e amar-Te?<br/>E tudo entregar-me a Ti?<br/>Aceita, então, minha vida,<br/>Que a Ti só, se prostra rendida.<br/>Já sou mui feliz, já sou mui feliz com Deus!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:12">
+  <properties>
+    <titles>
+      <title>HC267 - Jesus, Minha Força</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vai chegando mais perto e causando terror,<br/>A predita enchente de pecados e dor;<br/>Mas eu sei que potente é a mão do Senhor,<br/>Por isso, tranquilo, não tenho temor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>É Jesus minha força, meu<br/>amado Senhor,<br/>Se Ele é o guarda, não tenho temor;<br/>Eu desejo encher-me do Seu grande amor,<br/>Vivendo na graça do meu Salvador.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mais chegado a Cristo eu desejo ficar;<br/>Mais alegre e contente quero sempre andar,<br/>Nos Seus passos seguindo para nunca errar,<br/>Até que um dia eu vá descansar.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:38">
+  <properties>
+    <titles>
+      <title>HCC 428 Cântico de Davi</title>
+      <title>2 Samuel 22:2-4, 7, 8, 10, 13, 17-22, 24, 29, 32, 33, 50</title>
+    </titles>
+    <copyright>2 Samuel 22:2-4, 7, 8, 10, 13, 17-22, 24, 29, 32, 33, 50</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="428"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Senhor é o meu rochedo, a minha fortaleza e o meu libertador.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>É meu Deus, a minha rocha, nele confiarei; é o escudo, e a força da minha salvação, o meu alto retiro, e o meu refúgio.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó meu Salvador! Da violência tu me livras.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ao Senhor invocarei, pois é digno de louvor; assim serei salvo dos meus inimigos.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Na minha angústia invoquei ao Senhor; sim, a meu Deus clamei; do seu templo ouviu ele a minha voz e o meu clamor chegou aos seus ouvidos.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Então se abalou e tremeu a terra, os fundamentos dos céus se moveram.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ele abaixou os céus, e desceu; e havia escuridão debaixo dos seus pés.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Pelo resplendor da sua presença acenderam-se brasa de fogo.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Estendeu do alto a sua mão e tomou-me; tirou-me das muitas águas.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Livrou-me do meu possante inimigo e daqueles que me odiavam; porque eram fortes demais para mim.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Porém o Senhor se fez o meu esteio. Conduziu-me para um lugar espaçoso; livrou-me, porque tinha prazer em mim.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Recompensou-me o Senhor conforme a minha justiça (...) Porque guardei os caminhos do Senhor.<br/>Fui perfeito para com ele e guardei-me da minha iniquidade.</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Tu, Senhor, és a minha candeia; e o Senhor alumiará as minhas trevas.<br/>Pois quem é Deus, senão o Senhor? e quem é rocha, senão o nosso Deus?</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Deus é a minha fortaleza; e ele torna perfeito o meu caminho.<br/>Por isso, ó Senhor, louvar-te-ei entre as nações, e entoarei louvores ao teu nome.</lines>
+    </verse>
+  </lyrics>
+</song>

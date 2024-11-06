@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:56:00">
+  <properties>
+    <titles>
+      <title>HC526 - Grandioso És Tu</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Senhor, meu Deus, quando eu, maravilhado,<br/>Contemplo a tua imensa criação,<br/>A terra e o mar e o céu todo estrelado<br/>Me vêm falar da tua perfeição.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Então minh'alma canta a ti,<br/>Senhor:<br/>- "Grandioso és Tu! - grandioso és Tu!"<br/>Então minh'alma canta a ti, Senhor:<br/>- "Grandioso és Tu! - grandioso és Tu!"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quando as estrelas, tão de mim distantes,<br/>Vejo a brilhar com vívido esplendor,<br/>Relembro, oh! Deus, as glórias cintilantes<br/>Que meu Jesus deixou, por meu amor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Olho as florestas murmurando ao vento<br/>E, ao ver que Tu plantaste cada pé,<br/>Recordo a cruz, o lenho tão cruento,<br/>E no teu Filho afirmo a minha fé.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>E quando penso que Tu não poupaste<br/>Teu Filho amado por amor de mim,<br/>Meu Coração, que nele Tu ganhaste,<br/>Transborda, oh! Pai, de amor que não tem fim!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>E quando Cristo, o amado meu, voltando,<br/>Vier dos céus o povo seu buscar,<br/>No lar eterno quero, jubilando,<br/>A tua santa face contemplar.</lines>
+    </verse>
+  </lyrics>
+</song>

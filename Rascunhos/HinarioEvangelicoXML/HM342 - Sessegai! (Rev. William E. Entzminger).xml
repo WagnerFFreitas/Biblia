@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:04">
+  <properties>
+    <titles>
+      <title>HM342 - Sessegai!</title>
+      <title>Ó Mestre, o mar se revolta,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. William E. Entzminger</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó Mestre, o mar se revolta,<br/>As ondas nos dão pavor,<br/>O céu se reveste de trevas,<br/>Não temos um Salvador!<br/>Não se te dá que morramos?<br/>Podes assim dormir?<br/>Pois a cada instante nos vemos<br/>Já prestes a submergir!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>À minha palavra obedecerão,<br/>Sossegai!<br/>O vento em fúria, o rijo mar,<br/>Ou a ira dos homens, o gênio do mal,<br/>Jamais poderão a nau tragar,<br/>Que leva o dono da terra e Céus!<br/>Pois todos têm de obedecer,<br/>Sossegai! Sossegai!<br/>Por que haveríeis vós de temer?<br/>Sossegai!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mestre, mui grande tristeza<br/>Me quer hoje consumir;<br/>À dor que pertuba a minha alma<br/>Vem Mestre, vem acudir!<br/>De ondas do mal tão medonhas<br/>Como me livrarei?<br/>Só tu podes salvar-me, ó Mestre;<br/>Vem, pois, meu Senhor, meu Rei!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mestre, chegou a bonança;<br/>Em paz vejo o Céu e o mar;<br/>O meu coração goza calma<br/>Que não poderá findar.<br/>Detém-te comigo, ó Mestre,<br/>Excelso dom do Céu,<br/>E assim chegarei bem seguro<br/>Ao porto, destino meu.</lines>
+    </verse>
+  </lyrics>
+</song>

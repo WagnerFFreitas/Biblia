@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:57">
+  <properties>
+    <titles>
+      <title>HM320 - Aleluia</title>
+      <title>Todos juntos exaltemos,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Todos juntos exaltemos,<br/>Ao bom Pai celestial;<br/>Grande é sua paciência,<br/>Seu amor não tem igual.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Aleluia! Proclamemos seu louvor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ele, o Deus de eterna glória,<br/>Nos ampara com favor,<br/>Fortalece os pequeninos,<br/>E perdoa ao pecador.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Para termos confiança,<br/>Por amor, nos deu Jesus;<br/>Neste mundo nós remidos,<br/>Exaltemos sua Cruz.</lines>
+    </verse>
+  </lyrics>
+</song>

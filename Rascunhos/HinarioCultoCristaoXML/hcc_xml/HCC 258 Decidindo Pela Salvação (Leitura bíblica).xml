@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:04">
+  <properties>
+    <titles>
+      <title>HCC 258 Decidindo Pela Salvação</title>
+      <title>Atos 16:31</title>
+    </titles>
+    <copyright>Atos 16:31</copyright>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="258"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Crê no Senhor<br/>Jesus e serás<br/>salvo, tu e a<br/>tua casa.</lines>
+    </verse>
+  </lyrics>
+</song>

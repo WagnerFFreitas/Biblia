@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:59">
+  <properties>
+    <titles>
+      <title>HNC 263 - Junto à Cruz de Cristo</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="263"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na cruz de Jesus Cristo,<br/>Meus olhos podem ver<br/>Um vulto agonizante.<br/>Por mim, ali morrer!<br/>Então, estremecido,<br/>Contemplo o grande amor!<br/>Amor incomparável,<br/>Por mim, vil pecador!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bem junto à cruz de Cristo<br/>Eu quero me abrigar;<br/>À sombra do madeiro<br/>Alento posso achar.<br/>Aragem no deserto,<br/>Na estrada um doce lar,<br/>Jesus sempre ameniza<br/>Meu árduo caminhar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Viver eu quero sempre<br/>À sombra dessa cruz!<br/>Nenhum fulgor anseio<br/>Senão o de Jesus!<br/>O mundo abandonando,<br/>Eu tudo quis perder,<br/>Porquanto achei a Cristo<br/>Que transformou meu ser!</lines>
+    </verse>
+  </lyrics>
+</song>

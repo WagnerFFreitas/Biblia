@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:43">
+  <properties>
+    <titles>
+      <title>HCC 148 Jesus Virá</title>
+      <title>Coming Again</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>John Peterson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="148"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Santa mensagem trazemos,<br/>canto de amor e de paz;<br/>nele, felizes, dizemos:<br/>"Cristo virá outra vez."</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Jesus virá, Jesus virá<br/>de manhã, talvez à tarde,<br/>esta noite ou amanhã.</lines>
+      <lines>Jesus virá, Jesus virá.<br/>Maravilhoso momento será<br/>quando Jesus regressar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aves e flores proclamam:<br/>"Vem o glorioso Senhor."<br/>Montes e vales exclamam:<br/>"Cristo virá outra vez."</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Juntos um dia estaremos<br/>perto do bom Salvador.<br/>Gratos, então, cantaremos:<br/>"Cristo Jesus já voltou."</lines>
+    </verse>
+  </lyrics>
+</song>

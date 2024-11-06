@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:02">
+  <properties>
+    <titles>
+      <title>HM003 - Quem é Esse</title>
+      <title>Quem é esse estranho infante</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Dr. João Gomes da Rocha</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quem é esse estranho infante<br/>De tão nobre geração,<br/>Verdadeiro descendente<br/>De Davi e Abraão?<br/>É de Deus o Filho eterno,<br/>Que dos altos Céus baixou;<br/>Ele é o Verbo feito carne<br/>Que entre os homens habitou.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quem é esse perseguido<br/>Por demônios e homens vis?<br/>Quem é esse que é bendito<br/>Pelos lábios infantis?<br/>É o Senhor, o desejado,<br/>Que em Judéia apareceu,<br/>É o Messias prometido<br/>Que de glória a terra encheu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Quem é esse que aos enfermos<br/>A saúde restaurou,<br/>Aos aflitos deu alento,<br/>E os famintos saciou?<br/>É o Cristo, a Fonte régia<br/>Que confere todo bem;<br/>Com perfeitas providência<br/>Toda a Criação mantém.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Quem é esse Nazareno,<br/>Homem santo, sofredor,<br/>Pobre, sábio, compassivo,<br/>Que revela tanto amor?<br/>É o eterno substituto,<br/>O Cordeiro Pascoal,<br/>Carregado de trabalhos,<br/>Vitorioso sobre o mal.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Quem é esse que no monte<br/>Fez menção da amarga cruz;<br/>Com Moisés e com Elias,<br/>Aparece envolto em luz?<br/>É Jesus transfigurado,<br/>Que, cumprindo a Lei de Deus,<br/>Deu-nos vida, resgatou-nos,<br/>Reina hoje lá nos céus.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Quem é esse "Filho do Homem"<br/>Que nas nuvens voltará,<br/>E em verdade e com justiça<br/>As nações governará?<br/>Ele é o "Anjo da Aliança"<br/>Entre Deus e sua grei;<br/>É o autor do novo Reino,<br/>Criador da nova Lei.</lines>
+    </verse>
+  </lyrics>
+</song>

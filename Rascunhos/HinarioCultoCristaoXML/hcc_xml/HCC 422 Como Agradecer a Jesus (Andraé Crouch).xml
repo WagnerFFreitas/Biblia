@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:37">
+  <properties>
+    <titles>
+      <title>HCC 422 Como Agradecer a Jesus</title>
+      <title>My Tribute</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Andraé Crouch</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="422"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Como agradecer<br/>a Jesus o que fez por mim?<br/>Bênçãos sem medida<br/>vêm provar o seu amor sem fim.</lines>
+      <lines>Nem anjos podem expressar<br/>a minha eterna gratidão.<br/>Tudo o que sou e o que vier a ser<br/>eu ofereço a Deus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">A Deus demos glória,<br/>a Deus demos glória,<br/>a Deus demos glória<br/>pelas bênçãos sem fim.</lines>
+      <lines>Com seu sangue salvou-me,<br/>seu poder transformou-me.<br/>A Deus demos glória<br/>pelas bênçãos sem fim.</lines>
+    </verse>
+  </lyrics>
+</song>

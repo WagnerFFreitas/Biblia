@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:11">
+  <properties>
+    <titles>
+      <title>HM065 - Vem Espírito Divino</title>
+      <title>Vem, Espírito Divino,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vem, Espírito divino,<br/>Grande ensinador;<br/>Vem, revela às nossas almas<br/>Cristo, o Salvador!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Santo Espírito<br/>Ouve, com favor!<br/>Em poder e graça insigne,<br/>Mostra o teu amor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vem, destrói os alicerces<br/>Do viver falaz,<br/>Aos errados concedendo<br/>Salvação e paz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vem, reveste a tua Igreja<br/>De energia e luz;<br/>Vem, atrai os pecadores<br/>Ao Senhor Jesus!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Maravilhas grandiosas<br/>Outros povos têm;<br/>Bênçãos venham, semelhantes,<br/>Sobre nós também!</lines>
+    </verse>
+  </lyrics>
+</song>

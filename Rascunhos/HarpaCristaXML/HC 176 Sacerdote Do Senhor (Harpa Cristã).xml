@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:58">
+  <properties>
+    <titles>
+      <title>HC176 - Sacerdote Do Senhor</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ao Senhor que nos tem feito<br/>Sacerdotes verdadeiros,<br/>Demos-lhe louvor e glória, sem cessar;<br/>Pois Seu sangue é perfeito,<br/>Regenera por inteiro,<br/>Toda a alma, que quer se salvar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Todos, tendo a mesma mente,<br/>Jubilosos e contentes,<br/>Demos glória, suma honra ao Redentor:<br/>Sobre a cruz foi traspassado;<br/>Com Seu sangue derramado,<br/>Resgatou-nos o bom Salvador.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ele é o alfa e o Ômega,<br/>O primeiro e o Último,<br/>É o Rei dos reis, de todos o Senhor;<br/>Ele é quem nos achega<br/>Sua graça, Seu arrimo,<br/>Pelo divinal Consolador.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Com Jesus, o nosso Esposo,<br/>Lá no céu, nós entraremos,<br/>Todos juntos, sim, no Reino Seu, de amor;<br/>Vê-lo-emos glorioso,<br/>E com Ele cantaremos<br/>Novos hinos, cheios de fervor.</lines>
+    </verse>
+  </lyrics>
+</song>

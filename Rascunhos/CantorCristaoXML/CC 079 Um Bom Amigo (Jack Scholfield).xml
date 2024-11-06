@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:01">
+  <properties>
+    <titles>
+      <title>CC 079 Um Bom Amigo</title>
+      <title>Rapture</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v1 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Jack Scholfield</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="079"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Um bom amigo, e fiel achei,<br/>Jesus, meu Salvador;<br/>Contar aquilo que fez por mim,<br/>eu quero, sim, e com fervor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Graça real, sem fim,<br/>mostra Jesus por mim;<br/>gozo me dá, alegria sem par,<br/>que prazer! Prazer!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Do mal não deixa de defender,<br/>seguro bem estou;<br/>com forte braço, com seu poder<br/>ampara-me, contente vou.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>E quando necessitado sou,<br/>eu posso recorrer<br/>ao seu tesouro celestial<br/>e bênçãos ricas recolher.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Em Cristo todos encontrarão<br/>amigo sem igual,<br/>amigo que lhes concederá<br/>felicidade perenal.</lines>
+    </verse>
+  </lyrics>
+</song>

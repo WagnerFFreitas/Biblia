@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:51">
+  <properties>
+    <titles>
+      <title>HNC 088 - Amor Perene</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="88"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amavas-me, Senhor, ainda cintilante<br/>Não irrompera a luz ao mando Criador!<br/>E nem o ardente sol, rompendo no levante,<br/>Trouxera à terra e ao mar a força fecundante.<br/>Meu Deus, que amor!<br/>Meu Deus, que eterno amor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amavas-me, Senhor, também quando, imolado,<br/>Por mim sofreu na cruz o meigo Salvador,<br/>O Santo de Israel, o teu Cordeiro amado,<br/>Levando sobre si a culpa do pecado.<br/>Meu Deus, que amor!<br/>Meu Deus, que antigo amor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amavas-me, Senhor, quando atingiu meu peito<br/>O Espírito de luz, o meu Consolador.<br/>E com tesouros mil, de teu favor perfeito,<br/>Trouxe à minha alma a fé em que hoje me deleito.<br/>Meu Deus, que amor!<br/>Meu Deus, que antigo amor!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>E sempre me amarás, porque jamais inferno<br/>Ou mundo poderão ao teu querer se opor,<br/>Ao teu decreto, ó Deus, ao teu decreto eterno,<br/>Ao teu amor, ó Pai, ao teu amor superno.<br/>Meu Deus, que amor!<br/>És sempre e todo amor! Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

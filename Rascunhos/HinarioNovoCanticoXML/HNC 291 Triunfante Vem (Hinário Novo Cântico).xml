@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:49:01">
+  <properties>
+    <titles>
+      <title>HNC 291 - Triunfante Vem</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="291"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Entre nuvens multicores,<br/>Com os santos vem do céu<br/>Quem, amando os pecadores<br/>Morte atroz na cruz sofreu.<br/>Aleluia! Cristo volta!<br/>Ele reina, pois venceu!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Todo olho há de vê-lo<br/>Triunfante aqui descer.<br/>Mesmo quem num falso zelo<br/>Cruelmente o fez sofrer.<br/>Seus algozes, consternados,<br/>Sua glória hão de ver.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vem gloriosa, num momento,<br/>A esperada Redenção!<br/>Cessa todo sofrimento,<br/>Queixas, mágoas longe vão.<br/>Aleluia! Principia<br/>A total renovação.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Todo o orbe, humildemente,<br/>Honre e louve a Ti, Senhor!<br/>Ante o trono aurifulgente<br/>Se prosterne com amor!<br/>Inaugura o Reino Eterno!<br/>Aleluia! Vem, Senhor! Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

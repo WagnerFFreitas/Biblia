@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:27">
+  <properties>
+    <titles>
+      <title>CC 491 Como Há de Ser</title>
+      <title>O Selig Haus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Sarah Kalley</author>
+      <author>Eduard Niemeyer</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="491"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Como há de ser, conclusa a longa lida,<br/>finda a peleja da paixão mortal,<br/>quando, avistando além da escura vida<br/>a porta do prazer celestial,</lines>
+      <lines>dos pés varria a última poeira,<br/>do rosto enxuto seu final suor,<br/>deixarmos esta cena passageira,<br/>entrando ao santo lar de eterno amor?</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Como há de ser, nos céus por Deus banhados<br/>dos raios da divina e excelsa luz,<br/>oh! que alegria! isentos de pecados,<br/>estarmos nós diante de Jesus!</lines>
+      <lines>E pela vez primeira em harmonia<br/>com os santos cidadãos dos altos céus,<br/>unindo-nos, sem medo, à companhia<br/>que cerca o trono do supremo Deus?</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Como há de ser, com sentimento ouvindo<br/>o coro dos remidos do Senhor,<br/>as áureas harpas, sempre retinindo<br/>louvores ao Cordeiro, ao Salvador;</lines>
+      <lines>e quando, dentro de átrios espaçosos,<br/>entoarmos gratos salmos, sem cessar,<br/>e, como incenso, os hinos fervorosos<br/>subirem junto do celeste altar?</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Como há de ser, quando o Juiz chamar-nos:<br/>"Benditos, vinde, para os céus entrai!"<br/>E o Salvador dignar-se revelar-nos<br/>a glória em que Ele habita com o Pai?</lines>
+      <lines>Ali, não tem, jamais, a morte entrada,<br/>nem dor nem pranto estorvam o prazer.<br/>A vista não se ofusca, e em volta nada<br/>pode a ditosa festa entristecer?</lines>
+    </verse>
+    <verse name="v5">
+      <lines break="optional">Como há de ser, quando a pasmosa história<br/>da triste e indigna vida que findou,<br/>com lucidez se espelhe na memória<br/>todo pecado ou mal que então passou,</lines>
+      <lines>o nosso apreço de Jesus aumente,<br/>e da clemência deste Benfeitor;<br/>e de contínuo a gratidão se alente<br/>por seu insigne e milagroso amor?</lines>
+    </verse>
+    <verse name="v6">
+      <lines break="optional">Como há de ser? Oh! nunca foi pensado,<br/>por mente ou coração humano aqui,<br/>o bem-estar por Deus determinado<br/>para os que entrarem com triunfo ali!</lines>
+      <lines>Avante, irmãos! avante no caminho<br/>que nos conduz ao gozo tão real!<br/>Se aqui nós temos um quinhão mesquinho,<br/>marchamos para a glória divinal.</lines>
+    </verse>
+  </lyrics>
+</song>

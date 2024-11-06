@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:13">
+  <properties>
+    <titles>
+      <title>HC277 - Salvo Estás Limpo Estás</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tens achado em Cristo plena salvação,<br/>Pelo sangue vertido na cruz?<br/>Toda mancha lava de Teu coração,<br/>Este sangue eficaz de Jesus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Salvo estás, limpo estás,<br/>Pelo sangue de Cristo Jesus?<br/>Tens Teu coração mais alvo que a luz,<br/>Foste limpo no sangue eficaz?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vives sempre ao lado do teu Salvador,<br/>Pelo sangue que mana da cruz?<br/>Do pecado fostes sempre vencedor,<br/>Como foi teu bendito Jesus?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Terás roupa branca quando vier Jesus,<br/>Foste limpo na fonte de amor?<br/>Estás pronto p'ra seguir ao céu de luz,<br/>Pelo sangue purificador?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cristo hoje dá pureza e mui poder:<br/>Fita os olhos na cruz do Senhor,<br/>Dela, fontes sai que te enche de prazer,<br/>Que te farta de vida e vigor.</lines>
+    </verse>
+  </lyrics>
+</song>

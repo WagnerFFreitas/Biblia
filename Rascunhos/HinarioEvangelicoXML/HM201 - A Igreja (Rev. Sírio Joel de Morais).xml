@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:35">
+  <properties>
+    <titles>
+      <title>HM201 - A Igreja</title>
+      <title>No passado, Senhor, nós Sabemos</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Sírio Joel de Morais</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No passado, Senhor, nós sabemos<br/>Que os profetas agiam com fé;<br/>No teu Livro Sagrado nós lemos<br/>Que venciam as feras até.<br/>nòs pedimos, Senhor, tua luz,<br/>Para andarmos com Cristo Jesus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tua Igreja transforma depressa,<br/>Dando ao povo e aos ministros poder;<br/>Nossa união fraternal nada impeça;<br/>Tudo a induza,porém, a crescer.<br/>Nós rogamos nos dê teu perdão<br/>E convertas o mau coração!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Desta forma por ti preparados,<br/>Quando Cristo em poder retornar,<br/>Para os justos julgar e os malvados,<br/>Possa um povo fiel encontrar.<br/>Pelas bênçãos te damos louvor<br/>Em nome de nosso Senhor!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:05:08">
+  <properties>
+    <titles>
+      <title>HCC 576 Estaremos com o Senhor</title>
+      <title>João 14:1-4</title>
+    </titles>
+    <copyright>João 14:1-4</copyright>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="576"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Não se turbe o vosso coração; credes em Deus, crede também em mim.<br/>Na casa de meu Pai há muitas moradas. (...) Vou preparar-vos lugar.<br/>E, se eu for e vos preparar lugar, virei outra vez, e vos tomarei para mim mesmo, para que onde eu estiver estejais vós também.<br/>E para onde eu vou vós conheceis o caminho.</lines>
+    </verse>
+  </lyrics>
+</song>

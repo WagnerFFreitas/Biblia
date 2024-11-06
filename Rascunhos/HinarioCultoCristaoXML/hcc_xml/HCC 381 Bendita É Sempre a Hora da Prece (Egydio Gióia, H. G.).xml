@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:27">
+  <properties>
+    <titles>
+      <title>HCC 381 Bendita É Sempre a Hora da Prece</title>
+      <title>Hora Bendita</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Egydio Gióia</author>
+      <author>H. G.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="381"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bendita é sempre a hora<br/>da prece e do louvor,<br/>pois nela se devota<br/>meu ser a ti, Senhor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nem sempre em torno há calma,<br/>mas sinto a tua paz.<br/>O teu poder, aos poucos,<br/>as forças me refaz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Precioso é estar contigo,<br/>ó santo Pai de amor;<br/>é como a linda aurora<br/>de um dia de esplendor.</lines>
+    </verse>
+  </lyrics>
+</song>

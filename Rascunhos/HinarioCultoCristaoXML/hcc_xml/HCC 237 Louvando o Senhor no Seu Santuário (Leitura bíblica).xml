@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:00">
+  <properties>
+    <titles>
+      <title>HCC 237 Louvando o Senhor no Seu Santuário</title>
+      <title>Salmo 84:1-4</title>
+    </titles>
+    <copyright>Salmo 84:1-4</copyright>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="237"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quão amáveis são os teus tabernáculos, ó Senhor dos exércitos!<br/>A minha alma suspira! Sim, desfalece pelos átrios do Senhor;<br/>o meu coração e a minha carne clamam pelo Deus vivo.<br/>Até o pardal encontrou casa, e a andorinha ninho para si, onde crie os seus filhotes,<br/>junto aos teus altares, ó Senhor dos exércitos, Rei meu e Deus meu.<br/>Bem-aventurados os que habitam em tua casa;<br/>louvar-te-ão continuamente.</lines>
+    </verse>
+  </lyrics>
+</song>

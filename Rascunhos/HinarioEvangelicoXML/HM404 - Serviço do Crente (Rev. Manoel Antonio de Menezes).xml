@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:16">
+  <properties>
+    <titles>
+      <title>HM404 - Serviço do Crente</title>
+      <title>Vamos nós trabalhar, somos servos de Deus,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Manoel Antonio de Menezes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vamos nós trabalhar, somos servos de Deus,<br/>Nosso Mestre seguir no caminho dos céus;<br/>E no seu bom conselho o vigor renovar,<br/>Diligentes fazendo o que Cristo ordenar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>No labor, sem cessar, a servir a Jesus,<br/>Com amor e fé, e co oração,<br/>Até que volte o bom Senhor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vamos nós trabalhar, e os famintos fartar;<br/>Para a fonte os sedentos depressa levar!<br/>Só na cruz do Senhor nossa glória será,<br/>Pois Jesus salvação por seu sangue nos dá!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vamos nós trabalhar, ajudados por Deus,<br/>Que a coroa de glória nos dá, lá nos céus!<br/>A mansão dos fiéis sempiterna será,<br/>Pois Jesus salvação inefável nos dá!</lines>
+    </verse>
+  </lyrics>
+</song>

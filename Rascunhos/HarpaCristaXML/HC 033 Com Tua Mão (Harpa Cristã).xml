@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:36">
+  <properties>
+    <titles>
+      <title>HC033 - Com Tua Mão</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Com Tua mão, segura bem a minha,<br/>Pois eu tão fraco sou, ó Salvador!<br/>Que não me atrevo a dar nem um só passo<br/>Sem Teu amparo, meu Jesus Senhor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Com Tua mão, segura bem a minha,<br/>E mais e mais unido a Ti, Jesus.<br/>Ó Traze-me, que nunca me desvie<br/>De ti, Senhor, a minha vida e luz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Com Tua mão, segura bem a minha,<br/>E, pelo mundo, alegre seguirei;<br/>Mesmo onde as sombras caem mais escuras<br/>Teu rosto vendo, nada temerei.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>E, se chegar à beira desse rio,<br/>Que tu por mim quiseste atravessar,<br/>Com Tua mão segura bem a minha,<br/>E sobre a morte eu hei de triunfar.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Quando voltares esses céus rompendo,<br/>Segura bem a minha mão, Senhor,<br/>E, meu Jesus, ó leva-me contigo,<br/>Para onde eu goze Teu eterno amor.</lines>
+    </verse>
+  </lyrics>
+</song>

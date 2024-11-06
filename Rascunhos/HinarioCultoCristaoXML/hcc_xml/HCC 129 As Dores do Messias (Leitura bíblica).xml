@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:40">
+  <properties>
+    <titles>
+      <title>HCC 129 As Dores do Messias</title>
+      <title>Isaías 52:13, 15; 53:2-6</title>
+    </titles>
+    <copyright>Isaías 52:13, 15; 53:2-6</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="129"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Eis que o meu servo procederá com prudência;<br/>será exaltado, e elevado, e mui sublime.<br/>Ele espantará muitas nações; por causa dele reis taparão a boca;</lines>
+      <lines>pois verão aquilo que não se lhes havia anunciado,<br/>e entenderão aquilo que não tinham ouvido.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Não tinha formosura nem beleza; e quando olhávamos para ele,<br/>nenhuma beleza víamos, para que o desejássemos.<br/>Era desprezado e rejeitado dos homens.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verdadeiramente ele tomou sobre si as nossas enfermidades,<br/>e carregou com as nossas dores;<br/>e nós o reputávamos por aflito, e ferido de Deus, e oprimido.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mas ele foi ferido por causa das nossas transgressões,<br/>e esmagado por causa das nossas iniquidades;<br/>o castigo que nos traz a paz estava sobre ele,<br/>e pelas suas pisaduras fomos sarados.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Todos nós andávamos desgarrados como ovelhas,<br/>cada um se desviava pelo seu caminho;<br/>mas o Senhor fez cair sobre ele a iniquidade de todos nós.</lines>
+    </verse>
+  </lyrics>
+</song>

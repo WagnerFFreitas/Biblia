@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:49:01">
+  <properties>
+    <titles>
+      <title>HNC 301 - O Único Salvador</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="301"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Igreja do Senhor,<br/>Proclama com fervor:<br/>“Quem salva é só Jesus!”<br/>A todos faze ouvir,<br/>Insiste em repetir:<br/>“Quem salva é só Jesus!”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Em nós não há poder<br/>Que venha o mal vencer.<br/>“Quem salva é só Jesus!”<br/>É vão tentar viver<br/>Com Deus, sem renascer:<br/>“Quem salva é só Jesus!”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A lei não dá perdão:<br/>Traz morte e maldição.<br/>“Quem salva é só Jesus!”<br/>Em Cristo os bens estão<br/>Da plena redenção!<br/>“Quem salva é só Jesus!”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Bem dos altos céus<br/>É Cristo, o Dom de Deus.<br/>“Quem salva é só Jesus!”<br/>Ele é quem livra os réus,<br/>Tornando-os filhos Seus.<br/>“Quem salva é só Jesus!”</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Igreja do Senhor,<br/>Proclama com fervor:<br/>“Quem salva é só Jesus!”<br/>Por esse extremo amor<br/>Que tem ao pecador,<br/>Louvemos a Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

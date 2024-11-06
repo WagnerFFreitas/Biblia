@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:23">
+  <properties>
+    <titles>
+      <title>CC 190 Para Salvar-te</title>
+      <title>Second Coming</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Lelia Morris</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="190"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Veio Jesus a este mundo vil<br/>para buscar-te a ti;<br/>foi rejeitado por gente hostil,<br/>para salvar-te a ti.</lines>
+      <lines>Glórias ali no céu deixou,<br/>ingratidão no mundo achou,<br/>tudo ele fez porque te amou,<br/>para salvar-te a ti.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Glória, glória,<br/>demos ao Salvador!<br/>Glória, glória,<br/>por seu tão grande amor!</lines>
+      <lines>Glória, glória!<br/>Temos a paz com Deus!<br/>Glória, glória,<br/>vamos cantar nos céus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">O teu castigo Jesus levou<br/>para salvar-te a ti;<br/>tudo na cruz ele consumou<br/>para remir-te a ti.</lines>
+      <lines>Quem dentre os homens compreendeu<br/>todas as dores que sofreu,<br/>a condição em que morreu<br/>para salvar-te a ti?</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Tudo isto Deus fez em teu favor<br/>para salvar-te a ti;<br/>chama-te agora com terno amor<br/>para perdoar-te a ti.</lines>
+      <lines>Deves chegar em contrição<br/>tendo certeza do perdão;<br/>Cristo te estende a sua mão<br/>para salvar-te a ti.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Oh! que alegria, que gozo e paz<br/>ter salvação de Deus<br/>e nova vida que satisfaz<br/>a alma que busca os céus!</lines>
+      <lines>Livre das culpas do pecar,<br/>longe da dor e do chorar,<br/>tendo certeza de gozar<br/>a redenção de Deus!</lines>
+    </verse>
+  </lyrics>
+</song>

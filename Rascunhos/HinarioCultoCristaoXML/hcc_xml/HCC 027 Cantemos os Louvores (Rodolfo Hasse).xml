@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:20">
+  <properties>
+    <titles>
+      <title>HCC 027 Cantemos os Louvores</title>
+      <title>Ellacombe</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Rodolfo Hasse</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="027"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Cantemos os louvores<br/>de Deus e seu amor.<br/>Socorre os sofredores<br/>em sua luta e dor.</lines>
+      <lines>Liberta de amarguras<br/>o pobre coração,<br/>protege nas agruras,<br/>no medo e na aflição.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Ressoam nossos cantos<br/>vibrantes de fervor,<br/>enchendo os átrios santos<br/>da casa do Senhor.</lines>
+      <lines>Cobriu-nos de bondade<br/>e não nos deixará;<br/>por toda a eternidade<br/>conosco ficará.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">O nosso Pai amado<br/>mostrou-nos compaixão;<br/>do nosso triste estado<br/>nos deu libertação.</lines>
+      <lines>De todos os delitos<br/>remiu-nos o Senhor,<br/>tornando-nos benditos<br/>por graça e infindo amor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">A Deus cantemos hinos,<br/>sem nunca mais cessar.<br/>Marchemos, peregrinos,<br/>ao nosso eterno lar.</lines>
+      <lines>Lembremos a bondade<br/>que Deus nos dispensou,<br/>servindo em piedade<br/>a quem nos resgatou.</lines>
+    </verse>
+  </lyrics>
+</song>

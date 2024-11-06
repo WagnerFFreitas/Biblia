@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:56:19">
+  <properties>
+    <titles>
+      <title>HC629 - Conversaremos Ali No Céu</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Conversaremos ali no Céu,<br/>Conversaremos: Jesus e eu.<br/>Dirá o porquê do meu sofrer.<br/>Naquele dia eu entenderei</lines>
+    </verse>
+  </lyrics>
+</song>

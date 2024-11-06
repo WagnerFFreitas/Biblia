@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:23">
+  <properties>
+    <titles>
+      <title>HM139 - Amor Perene</title>
+      <title>Amavas-me, Senhor, ainda cintilante</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Major Guilherme Luis dos Santos Ferreira</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amavas-me, Senhor, ainda cintilante<br/>A luz não irrompera ao mando criador;<br/>Nem ainda o sol surgira, altivo no levante,<br/>Calor trazendo à terra e força fecundante!<br/>Meu Deus, que amor!<br/>Meu Deus, que antigo amor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amavas-me, Senhor, na cruz, quando, imolado,<br/>Por mim sofreu Jesus o meigo Salvador,<br/>Chamando inteira a si a culpa do pecado,<br/>O Santo de Israel, o teu Cordeiro amado,<br/>Meu Deus, que amor!<br/>Meu Deus, que antigo amor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amavas-me, Senhor, quando atingiu meu peito<br/>O Espírito de luz, o meu Consolador,<br/>E com tesouros mil, de teu favor perfeito,<br/>Trouxe à minha alma a fé em que hoje me deleito.<br/>Meu Deus, que amor!<br/>Meu Deus, que antigo amor!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Não cessarás de amar-me!<br/>E, pois, jamais inferno<br/>Ou mundo poderá revel vontade opor<br/>Ao teu decreto, ó Rei, ao teu decreto eterno!<br/>Ao teu amor, ó Pai, ao teu amor superno.<br/>Meu Deus, que amor!<br/>És sempre e todo amor!</lines>
+    </verse>
+  </lyrics>
+</song>

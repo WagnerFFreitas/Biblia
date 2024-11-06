@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:50">
+  <properties>
+    <titles>
+      <title>HCC 184 O Meu Pastor É o Bom Jesus</title>
+      <title>Salmos 23:1,2; João 10:10, 11; Salmos 23:3; João 10:12-14; Salmos 23:4, 5; João 10:16; Salmos 23:6</title>
+    </titles>
+    <copyright>Sl 23:1,2; Jo 10:10, 11; Sl 23:3; Jo 10:12-14; Sl 23:4, 5; Jo 10:16; Sl 23:6</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="184"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Senhor é o meu pastor; nada me faltará.<br/>Deitar-me faz em pastos verdejantes;<br/>guia-me mansamente a águas tranquilas.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eu vim para que tenham vida, e a tenham em abundância.<br/>Eu sou o bom pastor; o bom pastor dá a sua vida pelas ovelhas.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Refrigera a minha alma; guia-me nas veredas da justiça por amor do seu nome.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O que é mercenário, e não pastor, de quem não são as ovelhas, vendo vir o lobo, deixa as ovelhas e foge;<br/>e o lobo as arrebata e dispersa. Ora, o mercenário foge porque é mercenário, e não se importa com as ovelhas.<br/>Eu sou o bom pastor; conheço as minhas ovelhas, e elas me conhecem.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ainda que eu ande pelo vale da sombra da morte, não temerei mal algum, porque tu estás comigo;<br/>a tua vara e o teu cajado me consolam.<br/>Preparas uma mesa perante mim na presença dos meus inimigos;<br/>unges com óleo a minha cabeça, o meu cálice transborda.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tenho ainda outras ovelhas que não são deste aprisco;<br/>a essas também me importa conduzir, e elas ouvirão a minha voz;<br/>e haverá um rebanho e um pastor.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Certamente que a bondade e a misericórdia me seguirão todos os dias da minha vida, e habitarei na casa do Senhor por longos dias.</lines>
+    </verse>
+  </lyrics>
+</song>

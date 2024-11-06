@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:54">
+  <properties>
+    <titles>
+      <title>HNC 143 - Salmo 23</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="143"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deus é meu Pastor mui terno,<br/>Nada, pois, me faltará.<br/>Com seu santo amor eterno<br/>Sempre me sustentará.<br/>Às pastagens verdejantes<br/>Ele vem me conduzir,<br/>E nas relvas abundantes<br/>Vou descanso então fruir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vem, com suas mãos divinas,<br/>Mansamente me guiar<br/>Ruma às águas cristalinas<br/>Que me vão dessedentar.<br/>Por veredas da justiça,<br/>Prazeroso, me conduz,<br/>E depois da dura liça<br/>Vou gozar a eterna luz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se da morte o vale escuro<br/>Traz-me aperto ao coração,<br/>Caminhando vou, seguro,<br/>Apoiado em seu bordão!<br/>Na presença de inimigos<br/>Eu terei, da Salvação,<br/>Um banquete com amigos,<br/>Com Jesus, meu vero Irmão.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Óleo santo, derramado,<br/>A cabeça vem me ungir.<br/>Vai meu cálice transbordando<br/>Por grandioso bem fruir.<br/>Certamente que a bondade<br/>Sempre a me seguir terei,<br/>E no lar da eternidade<br/>Mui feliz habitarei.</lines>
+    </verse>
+  </lyrics>
+</song>

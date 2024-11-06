@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:56:14">
+  <properties>
+    <titles>
+      <title>HC601 - A Seara Está Madura</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A seara está madura;<br/>Há trabalho pra fazer.<br/>Ouve a voz de Deus chamando<br/>Para à ceifa te trazer!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Do teu labor o fruto aumenta,<br/>Quando vives sempre a orar.<br/>Terás justa recompensa,<br/>Se tu fores trabalhar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bem-avanturado o servo<br/>Que viveu a trabalhar.<br/>Ao fiel o Pai declara:<br/>"No meu gozo vais entrar."</lines>
+    </verse>
+  </lyrics>
+</song>

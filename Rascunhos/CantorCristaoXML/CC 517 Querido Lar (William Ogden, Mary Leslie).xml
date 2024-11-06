@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:32">
+  <properties>
+    <titles>
+      <title>CC 517 Querido Lar</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>William Ogden</author>
+      <author>Mary Leslie</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="517"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">De todas as terras irão chegar<br/>um a um! Um a um!<br/>Na eterna mansão, para ali morar,<br/>sim, um a um!</lines>
+      <lines>Vestidos de trajes celestiais,<br/>bem longe do mundo e dos tristes ais,<br/>desfrutam com Cristo perfeita paz,<br/>gozando uma vida que satisfaz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>No eterno lar, querido lar,<br/>ei-los entrando um a um!<br/>No eterno lar, no lindo lar, sim, um a um!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Também nós havemos de ali chegar,<br/>um a um! Um a um!<br/>Da glória dos salvos compartilhar,<br/>sim, um a um!</lines>
+      <lines>Irão uns entrar nesse lar de além<br/>sem muito sofrer no viver de aquém,<br/>mas outros terão de lutar, sofrer,<br/>porém hão de entrar sem desfalecer.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Humildes, submissos a ti, Senhor,<br/>Todos nós! Todos nós!<br/>Queremos viver sob o teu favor,<br/>sim, todos nós!</lines>
+      <lines>Contigo almejamos participar<br/>da vida gloriosa do eterno lar.<br/>Ó Tu, que dominas a terra e os céus,<br/>transporta-nos todos nos braços teus!</lines>
+    </verse>
+  </lyrics>
+</song>

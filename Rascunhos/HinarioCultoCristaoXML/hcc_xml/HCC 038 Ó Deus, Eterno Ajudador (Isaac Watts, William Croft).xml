@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:23">
+  <properties>
+    <titles>
+      <title>HCC 038 Ó Deus, Eterno Ajudador</title>
+      <title>St. Anne</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Isaac Watts</author>
+      <author>William Croft</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="038"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó Deus, eterno ajudador,<br/>Senhor do que há de vir;<br/>no temporal és protetor<br/>e abrigo a nos servir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mesmo antes, sim, de céu haver,<br/>de a terra se formar<br/>e a luz tão boa aparecer -<br/>tu eras Deus sem par.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mil anos são aos olhos teus<br/>qual luz crepuscular;<br/>mais breves são que a aurora, ó Deus,<br/>ao vir o sol raiar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó Deus, eterno ajudador,<br/>Senhor do que há de vir,<br/>sê nosso abrigo e protetor<br/>agora e no porvir.</lines>
+    </verse>
+  </lyrics>
+</song>

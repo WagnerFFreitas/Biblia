@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:50">
+  <properties>
+    <titles>
+      <title>HCC 484 Onde Quer Que For, Irei</title>
+      <title>Seguirei</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Ira Sankey</author>
+      <author>Fanny Crosby</author>
+      <author>John Norris</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="484"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Se eu tiver Jesus ao lado,<br/>e por ele auxiliado,</lines>
+      <lines>se por ele for mandado,<br/>a qualquer lugar irei.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Seguirei a meu bom Mestre,<br/>seguirei a meu bom Mestre,</lines>
+      <lines>seguirei a meu bom Mestre.<br/>Onde quer que for, irei.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Seja meu caminho duro,<br/>espinhoso ou inseguro,</lines>
+      <lines>em seus braços bem seguro,<br/>aonde me mandar, irei.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Males poderão cercar-me,<br/>ou perigos assustar-me,</lines>
+      <lines>mas se Cristo segurar-me,<br/>aonde me mandar, irei.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Quando terminar a vida,<br/>e a batalha for vencida,</lines>
+      <lines>tenho a glória prometida;<br/>eu pra meu Senhor irei.</lines>
+    </verse>
+  </lyrics>
+</song>

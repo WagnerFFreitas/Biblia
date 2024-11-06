@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:44">
+  <properties>
+    <titles>
+      <title>HC449 - À Beira Da Estrada</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>À beira da estrada estão<br/>Muitos que esperam a salvação;<br/>Podem tais almas sem Deus perecer,<br/>Ou estás pronto para as socorrer?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Quem hoje dirá: "Eis-me aqui,<br/>Senhor,<br/>Eu quero aos perdidos falar do amor,<br/>A quantos na senda da vida achar,<br/>De Cristo eu irei falar</lines>
+    </verse>
+    <verse name="v2">
+      <lines>À beira da estrada estão<br/>Muitos que buscam do céu o pão;<br/>Para os famintos, oh! quem falará<br/>Do Evangelho que lhes saciará?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pelo caminho em que vais,<br/>Existem enfermos espirituais;<br/>Qual o bom samaritano, farás,<br/>Ou qual escriba, além passarás?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Quando a jornada terminar,<br/>E o fim da estrada se aproximar,<br/>Conhecerás muitos na multidão,<br/>Que receberam, de Deus, salvação.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:39">
+  <properties>
+    <titles>
+      <title>HCC 127 Ao Contemplar a Rude Cruz</title>
+      <title>Hamburg</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Isaac Watts</author>
+      <author>Canto gregoriano</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="127"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ao contemplar a rude cruz<br/>em que por mim morreu Jesus,<br/>minha vaidade e presunção<br/>eu abandono em contrição.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Em nada quero me gloriar,<br/>salvo na cruz de dor sem par.<br/>Humilde, sacrificarei<br/>tudo que desagrada ao Rei.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>De sua fronte, pés e mãos<br/>vem um amor que faz irmãos.<br/>Unem-se nele dor e amor,<br/>a coroar o Redentor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Se eu fosse o mundo lhe ofertar,<br/>ele o iria desprezar;<br/>seu grande amor vem requerer<br/>minha alma, a vida e todo o ser.</lines>
+    </verse>
+  </lyrics>
+</song>

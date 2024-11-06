@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:24">
+  <properties>
+    <titles>
+      <title>HCC 364 Mais de Cristo</title>
+      <title>Sweney</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>John Sweney</author>
+      <author>Eliza Hewitt</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="364"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Mais de Cristo quero ver,<br/>mais do seu amor obter,</lines>
+      <lines>mais da sua compaixão,<br/>mais da sua mansidão.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Mais, mais de Cristo.<br/>Mais, mais de Cristo.</lines>
+      <lines>Mais do seu puro e santo amor,<br/>mais do meu Mestre e Salvador.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Mais de Cristo compreender,<br/>quero a Cristo obedecer,</lines>
+      <lines>sempre perto dele andar,<br/>seu amor manifestar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Mais de Cristo transmitir,<br/>os seus passos vou seguir;</lines>
+      <lines>imitando seu viver,<br/>vou seu reino promover.</lines>
+    </verse>
+  </lyrics>
+</song>

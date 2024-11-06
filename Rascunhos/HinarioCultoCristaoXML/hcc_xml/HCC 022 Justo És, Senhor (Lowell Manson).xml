@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:07:39">
+  <properties>
+    <titles>
+      <title>HCC 022 Justo És, Senhor</title>
+      <title>Justus Dominus</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Lowell Manson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="022"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Justo és, Senhor, nos teus santos caminhos;<br/>és digno em todas as tuas obras.<br/><br/>Justo és, Senhor, nos teus santos caminhos;<br/>és digno em todas as tuas obras.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bem perto estás dos que te invocam,<br/>de todos que te invocam em verdade.<br/><br/>Bem perto estás dos que te invocam,<br/>de todos que te invocam em verdade.<br/>Aleluia! Aleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

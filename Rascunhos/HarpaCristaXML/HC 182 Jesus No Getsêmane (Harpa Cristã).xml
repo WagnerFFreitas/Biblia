@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:59">
+  <properties>
+    <titles>
+      <title>HC182 - Jesus No Getsêmane</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus no Getsêmane foi ligado,<br/>E pelos ímpios foi arrastado<br/>À corte, onde foi muito insultado,<br/>E atingido, por meu pecado;<br/>E a sentença da turba foi o brado:<br/>"Que seja Cristo crucificado",<br/>Vituperado e flagelado<br/>Jesus sofreu o meu pecado.<br/>Vituperado e flagelado<br/>Jesus sofreu o meu pecado.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Então, na cruz, foi o Cristo pendurado<br/>E duma lança foi traspassado;<br/>Ali estava Jesus ensangüentado,<br/>Por meus pecados atormentado!<br/>"Deus meu, Deus meu, por que tens m'abandonado?'<br/>Clamava Cristo crucificado;<br/>"Perdoa o povo tão enganado,<br/>Que cometeu um tal pecado".<br/>"Perdoa o povo tão enganado,<br/>Que cometeu um tal pecado".</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Depois Jesus Cristo foi da cruz tirado,<br/>E ao sepulcro foi carregado;<br/>Por santos, Seu corpo foi embalsamado,<br/>E entre ricos foi sepultado;<br/>Estando Cristo Jesus já enterrado;<br/>O Seu sepulcro foi bem guardado;<br/>Após três dias, Jesus amado,<br/>Da morte foi ressuscitado.<br/>Após três dias Jesus amado,<br/>Da morte foi ressuscitado.</lines>
+    </verse>
+  </lyrics>
+</song>

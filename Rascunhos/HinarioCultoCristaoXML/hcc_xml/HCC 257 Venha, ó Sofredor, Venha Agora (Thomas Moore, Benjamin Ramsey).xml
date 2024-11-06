@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:03">
+  <properties>
+    <titles>
+      <title>HCC 257 Venha, ó Sofredor, Venha Agora</title>
+      <title>Camacha</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Thomas Moore</author>
+      <author>Benjamin Ramsey</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="257"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Venha, ó sofredor, venha agora<br/>ante Jesus, Senhor, já se curvar.</lines>
+      <lines>Sua existência aqui ele melhora,<br/>seu sofrimento só quer minorar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Ao desolado traz luz e alegrias,<br/>graça e esperança tem ele pra dar.</lines>
+      <lines>Pois com ternura diz todos os dias:<br/>"Venho os meus filhos aqui confortar."</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Água é Jesus, Senhor. Sendo bebida,<br/>traz bem-estar a nós, íntimos seus.</lines>
+      <lines>Ele é divina luz, é pão da vida.<br/>Venham agora à ceia de Deus.</lines>
+    </verse>
+  </lyrics>
+</song>

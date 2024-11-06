@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:50">
+  <properties>
+    <titles>
+      <title>HM280 - Plena Satisfação</title>
+      <title>És tu, Jesus, meu bem e meu tesouro</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Anônimo</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>És tu, Jesus, meu bem e meu tesouro<br/>Tu és do céu, divina luz sem par;<br/>És tu, meu Deus e meu irmão e amigo,<br/>És sempre meu; a ti desejo amar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fonte és, Jesus, da mais sublime graça,<br/>Por tua Cruz terás o meu louvor.<br/>Em ti somente pus minha esperança;<br/>Recebe agora o meu sincero amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sustenta em mim a luz da eterna luz,<br/>Impera sempre neste coração;<br/>E dá Jesus Senhor que, em vindo a morte,<br/>Nos céus contigo eu goze a Redenção.</lines>
+    </verse>
+  </lyrics>
+</song>

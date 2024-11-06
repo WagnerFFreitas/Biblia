@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:05:02">
+  <properties>
+    <titles>
+      <title>HCC 545 Eu Vos Envio</title>
+      <title>Toronto</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 e1</verseOrder>
+    <authors>
+      <author>John Peterson</author>
+      <author>Edith Clarkson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="545"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Eu vos envio a triunfar na luta,<br/>que é contra a morte e o mal nos corações;</lines>
+      <lines>com ousadia proclamai meu nome.<br/>Eu vos envio a todas as nações.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Eu vos envio a anunciar a nova<br/>que aos pecadores traz libertação,</lines>
+      <lines>quebrando os tristes elos do pecado.<br/>Eu vos envio aos que perdidos são.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Eu vos envio, fortes na fraqueza,<br/>sentindo paz na angústia e no sofrer.</lines>
+      <lines>Eu vos prometo meu poder e graça.<br/>Eu vos envio; o fruto haveis de ver.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Eu vos envio a carregar, humildes,<br/>a minha cruz, sem nada reclamar.</lines>
+      <lines>E então, um dia , eu vos direi na glória:<br/>"Bem-vindos sois! O céu é vosso lar."</lines>
+    </verse>
+    <verse name="e1">
+      <lines>"Como o Pai enviou a mim, eu envio a vós."</lines>
+    </verse>
+  </lyrics>
+</song>

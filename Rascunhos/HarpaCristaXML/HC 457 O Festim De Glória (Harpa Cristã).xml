@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:45">
+  <properties>
+    <titles>
+      <title>HC457 - O Festim De Glória</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh! Que festim de glória para nós há de ser!<br/>Quando tiver nas nuvens, Cristo de aparecer.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh! Nesse evento<br/>mui feliz<br/>e de prazer também,<br/>Eu hei de ver meu bom Jesus,<br/>fonte de todo bem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nesse glorioso dia, o corpo meu mortal,<br/>Será como o de anjos, no lar celestial.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh! Que ditosa vinda, a do meu Salvador!<br/>Eu O estou esperando, mui firme em Seu amor!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó Cristo, apressa o dia em que hás de voltar!<br/>Para ver Tua face eu 'stou a esperar.</lines>
+    </verse>
+  </lyrics>
+</song>

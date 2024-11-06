@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:51">
+  <properties>
+    <titles>
+      <title>HNC 085 - Espírito Consolador</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="85"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vero Consolador, Espírito de Deus,<br/>A tua paz e o teu amor revela aos que são teus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tal como o fogo a arder e todo o mal queimar,<br/>Aquece as almas com poder, ensina-nos a te amar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Como óleo a ungir um povo só em ti,<br/>A todos nós faze sentir a tua bondade aqui.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nas trevas a brilhar com verdadeira luz,<br/>O pecador faze encontrar o bom Salvador Jesus.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Como água Tu serás o purificador;<br/>E viva fonte abrirás nos teus átrios, ó Senhor!<br/>Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

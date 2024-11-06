@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:12">
+  <properties>
+    <titles>
+      <title>HM070 - Invocação</title>
+      <title>Bendito Jesus, divino pastor!</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bendito Jesus, divino pastor!<br/>Oh! Vem conceder, teu rico favor!<br/>As súplicas ouve, recebe nos céus.<br/>O culto que agora ofertamos a Deus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Celeste Senhor! Oh! Vem ensinar,<br/>A alma a sentir, e a língua a falar,<br/>Com muita ternura, também com fervor,<br/>O santo Evangelho, palavras de amor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Concede-nos paz, e amor no viver,<br/>Dá forças à fé e aumenta o poder!<br/>Oh! Faze a pureza em teus filhos florir,<br/>E, neles, Jesus, a verdade, fulgir!</lines>
+    </verse>
+  </lyrics>
+</song>

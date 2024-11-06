@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:57">
+  <properties>
+    <titles>
+      <title>HNC 199 - Cristo Salva</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="199"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cristo salva o pecador,<br/>Dá-lhe um novo coração;<br/>Ao contrito, com amor,<br/>Oferece salvação.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cristo salva o pecador<br/>E concede-lhe perdão;<br/>Aceitai o bom Senhor,<br/>Aceitai de coração.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vinde todos e achareis<br/>Plena paz no Redentor;<br/>Vinde, e então recebereis<br/>Vida eterna no Senhor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Confiai em seu poder,<br/>Confiai em seu amor!<br/>Crede já que Cristo quer<br/>Libertar o pecador.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

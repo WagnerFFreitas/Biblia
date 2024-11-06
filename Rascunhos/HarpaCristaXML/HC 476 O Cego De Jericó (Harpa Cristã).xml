@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:49">
+  <properties>
+    <titles>
+      <title>HC476 - O Cego De Jericó</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Enquanto para Jericó<br/>O bom Jesus passava,<br/>Um cego, filho de Jacó,<br/>Sem se cansar clamava:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>"Jesus, ó Filho de Davi,<br/>Tem compaixão de mim, Senhor!"<br/>"Jesus, ó Filho de Davi,<br/>Atende ao meu clamor!"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A multidão vendo-o clamar,<br/>- "Sê quieto", lhe dizia;<br/>Mas ele sem a escutar,<br/>Mais forte repetia.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus então mandou chamar<br/>O cego que gritava,<br/>Que veio logo sem tardar,<br/>Mas "inda assim clamava".</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus pergunta com prazer:<br/>"Que queres que te faça?<br/>"Jesus, eu quero hoje ver,<br/>Por Teu poder e graça".</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Então Jesus lhe respondeu:<br/>"Vai, a tua fé te salvou".<br/>E logo viu, o Bartimeu,<br/>E ao bom Jesus louvou!</lines>
+    </verse>
+  </lyrics>
+</song>

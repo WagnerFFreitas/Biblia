@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:52">
+  <properties>
+    <titles>
+      <title>HC491 - Há Poder No Sangue De Jesus</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O teu pecado tu queres deixar?<br/>No sangue há poder, sim, há poder;<br/>Queres do mal a vitória ganhar?<br/>Seu sangue tem este poder!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Há poder, sim, força e vigor<br/>Neste sangue de Jesus;<br/>Há poder, sim, no bom Salvador;<br/>Oh! Cocnfia no Cristo da cruz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Queres os vícios abandonar?<br/>No sangue a poder, sim, há poder;<br/>Confia em Cristo para te curar;<br/>Seu sangue tem este poder!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh! Paralítico, queres andar?<br/>No sangue há poder, sim, há poder;<br/>Para fazer-te também caminhar,<br/>Seu sangue tem este poder!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Queres pureza p'ra teu coração?<br/>No sangue há poder, sim, há poder;<br/>Mais lealdade, mais consagração,<br/>Seu sangue tem este poder!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Queres de Cristo a mensagem levar?<br/>No sangue há poder, sim, há poder;<br/>Queres co'os anjos, na glória cantar?<br/>Seu sangue tem este poder!</lines>
+    </verse>
+  </lyrics>
+</song>

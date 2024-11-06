@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:23">
+  <properties>
+    <titles>
+      <title>HCC 039 Refúgio e Auxílio</title>
+      <title>Salmos 90:1; 121:3, 4; 41:7; 33:20; 121:7, 8</title>
+    </titles>
+    <copyright>Salmos 90:1; 121:3, 4; 41:7; 33:20; 121:7, 8</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="039"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Senhor, tu tens sido o nosso refúgio de geração em geração.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Não deixará vacilar o teu pé; aquele que te guarda não dormitará.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eis que não dormitará nem dormirá aquele que guarda a Israel.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Todos os que me odeiam cochicham entre si contra mim; contra mim maquinam o mal.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A nossa alma espera no Senhor; ele é o nosso auxílio e o nosso escudo.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O Senhor te guardará de todo mal; ele guardará a tua vida. </lines>
+    </verse>
+    <verse name="v7">
+      <lines>O Senhor guardará a tua saída e a tua entrada, desde agora e para sempre.</lines>
+    </verse>
+  </lyrics>
+</song>

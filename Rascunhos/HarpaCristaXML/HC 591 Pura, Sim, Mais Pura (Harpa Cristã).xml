@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:56:12">
+  <properties>
+    <titles>
+      <title>HC591 - Pura, Sim, Mais Pura</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pura, sim, mais pura quero a mente ter!<br/>Gozo, sim, mais gozo possa eu conhecer!<br/>Oh! Jesus Bendito, ouve esta oração,<br/>Pois a ti pertence o meu coração.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Calmo, sim, mais calmo sempre quero estar.<br/>Firme, sim, mais firme possa eu sempre andar!<br/>Nunca me esmoreça este coração,<br/>Pois em Cristo tenho toda a perfeição.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alto, sim, mais alto que as estrelas vou.<br/>Perto, sim, mais perto de Jesus estou.<br/>Cristo é meu modelo, sempre o seguirei:<br/>Tudo quanto anelo nele encontrarei.</lines>
+    </verse>
+  </lyrics>
+</song>

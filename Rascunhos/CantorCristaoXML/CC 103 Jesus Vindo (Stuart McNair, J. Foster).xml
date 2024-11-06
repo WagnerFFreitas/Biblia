@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:06">
+  <properties>
+    <titles>
+      <title>CC 103 Jesus Vindo</title>
+      <title>Claremont</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Stuart McNair</author>
+      <author>J. Foster</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="103"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus desceu, a Bíblia o diz,<br/>do seu celeste lar,<br/>a fim de o grande amor de Deus<br/>aos homens declarar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus morreu, a Bíblia o diz,<br/>e fez expiação<br/>do nosso mal, e, assim, achou<br/>um meio de perdão.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A Bíblia diz que ressurgiu,<br/>da morte vencedor,<br/>e desde agora pode ser<br/>o nosso Salvador.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A Bíblia diz que voltará,<br/>a fim de nos levar<br/>do mundo e da tristeza, aqui,<br/>ao seu bendito lar.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A Bíblia diz-nos que Jesus<br/>no mundo reinará;<br/>então, Senhor universal,<br/>louvor sem fim terá.</lines>
+    </verse>
+  </lyrics>
+</song>

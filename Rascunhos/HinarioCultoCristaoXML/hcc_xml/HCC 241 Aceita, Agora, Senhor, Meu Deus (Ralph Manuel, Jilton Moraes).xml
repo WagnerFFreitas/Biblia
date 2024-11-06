@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:00">
+  <properties>
+    <titles>
+      <title>HCC 241 Aceita, Agora, Senhor, Meu Deus</title>
+      <title>Dedicação</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Ralph Manuel</author>
+      <author>Jilton Moraes</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="241"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Aceita, agora, Senhor, meu Deus,<br/>todos os bens que são meus, e são teus.</lines>
+      <lines>Tudo o que eu tenho venho ofertar,<br/>pois quero, assim, te servir e honrar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Com alegria venho entregar<br/>minhas ofertas a ti sobre o altar.</lines>
+      <lines>Pois nada, Mestre, tenho em haver:<br/>"Melhor é dar, sim, do que receber."</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">O meu tesouro entregarei<br/>a Jesus Cristo, Senhor, Deus e Rei.</lines>
+      <lines>Seu Reino santo quero manter<br/>e a ele só dedicar o meu ser.</lines>
+    </verse>
+  </lyrics>
+</song>

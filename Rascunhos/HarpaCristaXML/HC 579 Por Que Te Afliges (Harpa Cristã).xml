@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:56:09">
+  <properties>
+    <titles>
+      <title>HC579 - Por Que Te Afliges</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh! por que te aliges, pobre coração?<br/>Pois o teu Jesus quer dar consolação.<br/>São demais as cargas? É cruel a dor?<br/>Olha para o céu e vê teu lar de amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pesa na consciêncica teu pecado vil?<br/>Olha para a cruz, Jesus é tão gentil!<br/>Seu precioso sangue Ele já verteu<br/>Para dar perdão e abrir caminho ao céu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Quando te comprimem garras de temor,<br/>Quando em aflições, confia no Senhor.<br/>Ele te protege, triste coração!<br/>Ele te conduz ao ceú com sua mão!</lines>
+    </verse>
+  </lyrics>
+</song>

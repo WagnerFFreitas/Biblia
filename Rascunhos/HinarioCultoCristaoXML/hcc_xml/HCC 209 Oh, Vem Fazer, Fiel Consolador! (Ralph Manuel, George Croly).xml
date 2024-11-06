@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:55">
+  <properties>
+    <titles>
+      <title>HCC 209 Oh, Vem Fazer, Fiel Consolador!</title>
+      <title>Consolador</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Ralph Manuel</author>
+      <author>George Croly</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="209"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Oh, vem fazer, fiel Consolador,<br/>meu coração com fé e amor pulsar!</lines>
+      <lines>Eu sou tão frágil; forte és tu, Senhor.<br/>Ah, quanto, quanto devo então te amar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Não quero sonhos, nem revelação,<br/>e não desejo o mundo já deixar.</lines>
+      <lines>Tampouco de anjos quero ter visão,<br/>mas faze a tua luz em mim brilhar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Amar-te nós devemos, nosso Deus,<br/>de toda a alma e todo o coração.</lines>
+      <lines>Em tua cruz eu prendo os olhos meus,<br/>buscando a ti, Senhor, em oração.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Eu sei que sempre perto estás, Senhor,<br/>e assim eu posso as lutas suportar.</lines>
+      <lines>A tua cruz consolo traz na dor;<br/>quando eu te busco, posso te encontrar.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:42">
+  <properties>
+    <titles>
+      <title>CC 290 Cristo Meu Deleite</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Fanny Crosby</author>
+      <author>Melodia espanhola</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="290"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Cristo meu Mestre, meu amigo sem igual,<br/>tu dás descanso, salvação real.</lines>
+      <lines>Quando sou provado, e já vou desfalecer,<br/>tu, meu Cristo amado, vens me socorrer.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Perto, mui perto,<br/>eu chegar-me vou a ti;<br/>perto, mui perto,<br/>vem, Senhor, a mim.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Só Tu me amparas: quando perseguido sou,<br/>em ti, ó Cristo, socorrer-me vou!</lines>
+      <lines>Pois em ti eu posso resistir à tentação,<br/>sim, em ti obtenho força, paz, perdão.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Cristo meu Mestre, que mais gozo posso ter,<br/>que no teu reino tua glória ver?</lines>
+      <lines>Em teu seio quero minha fronte reclinar,<br/>para obter descanso desse labutar.</lines>
+    </verse>
+  </lyrics>
+</song>

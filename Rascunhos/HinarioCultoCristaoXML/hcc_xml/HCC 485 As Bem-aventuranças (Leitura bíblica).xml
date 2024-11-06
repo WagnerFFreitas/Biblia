@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:51">
+  <properties>
+    <titles>
+      <title>HCC 485 As Bem-aventuranças</title>
+      <title>Mateus 5:1-12</title>
+    </titles>
+    <copyright>Mateus 5:1-12</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="485"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, pois, vendo as multidões, subiu ao monte;<br/>e, tendo ele se assentado, aproximaram-se os seus discípulos, e ele se pôs a ensiná-los, dizendo:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bem-aventurados os humildes de espírito,<br/>porque deles é o reino dos céus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bem-aventurados os que choram,<br/>porque eles serão consolados.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bem-aventurados os mansos,<br/>porque eles herdarão a terra.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bem-aventurados os que têm fome e sede de justiça,<br/>porque eles serão fartos.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bem-aventurados os misericordiosos,<br/>porque eles alcançarão misericórdia.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Bem-aventurados os limpos de coração,<br/>porque eles verão a Deus.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Bem-aventurados os pacificadores,<br/>porque eles serão chamados filhos de Deus.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Bem-aventurados os que são perseguidos por causa da justiça,<br/>porque deles é o reino dos céus.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Bem-aventurados sois vós, quando vos injuriarem e perseguirem e,<br/>mentindo, disserem todo mal contra vós por minha causa.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Alegrai-vos e exultai, porque é grande o vosso galardão nos céus;<br/>porque assim perseguiram aos profetas que foram antes de vós.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:35">
+  <properties>
+    <titles>
+      <title>HCC 101 Glória a Deus</title>
+      <title>Lucas 2:8-14</title>
+    </titles>
+    <copyright>Lucas 2:8-14</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="101"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines><tag name="y">Dirigente:</tag><br/>Ora, havia naquela mesma região pastores que estavam no campo,<br/>e guardavam durante as vigílias da noite o seu rebanho.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><tag name="y">Congregação:</tag><br/>E um anjo do Senhor apareceu-lhes,<br/>e a glória do Senhor os cercou de resplendor;<br/>pelo que se encheram de grande temor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><tag name="y">Dirigente:</tag><br/>O anjo, porém, lhes disse: Não temais,<br/>porquanto vos trago novas de grande alegria que o será para todo o povo:<br/>É que vos nasceu hoje, na cidade de Davi,<br/>o Salvador, que é Cristo, o Senhor.<br/>E isto vos será por sinal: achareis um menino envolto em faixas,<br/>e deitado em uma manjedoura.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><tag name="y">Congregação:</tag><br/>Então, de repente, apareceu junto ao anjo grande multidão da milícia celestial,<br/>louvando a Deus e dizendo:</lines>
+    </verse>
+    <verse name="v5">
+      <lines><tag name="y">Todos:</tag><br/>Glória a Deus nas maiores alturas,<br/>e paz na terra entre os homens de boa vontade.</lines>
+    </verse>
+  </lyrics>
+</song>

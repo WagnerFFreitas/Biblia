@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:15">
+  <properties>
+    <titles>
+      <title>HM088 - Despede-nos, Senhor</title>
+      <title>Despede-nos, Jesus, Senhor,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Manoel Antonio de Menezes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Despede-nos, Jesus, Senhor,<br/>No fim do teu serviço aqui;<br/>Concede-nos, por teu amor,<br/>Vivamos todos sempre em ti.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Despede-nos com tua paz,<br/>Despede-nos em teu amor!<br/>Mais outra vez permitirás,<br/>Nos congreguemos, ó Senhor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Conduze-nos, Senhor Jesus,<br/>E não nos largue a tua mão!<br/>Outorga-nos a tua luz,<br/>Que nos aponte a direção.</lines>
+    </verse>
+  </lyrics>
+</song>

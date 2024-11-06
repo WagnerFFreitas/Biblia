@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:57">
+  <properties>
+    <titles>
+      <title>HM317 - O Servo Obediente</title>
+      <title>Aonde quer que seja, com Jesus irei;</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Henry Maxwell Wright</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aonde quer que seja, com Jesus irei;<br/>Ele é meu bendito Salvador e Rei!<br/>Tenha de ir à guerra, para batalhar,<br/>Ou para as campinas o seu pão semear.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Aonde quer, aonde quer,<br/>Que Deus me mandar,<br/>Junto a ti, meu Salvador,<br/>Eu quero andar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aonde quer que esteja com o Salvador<br/>Diz o coração que frui o seu amor<br/>Sempre bem seguro aí me sentirei;<br/>Onde quer que seja, contente estarei.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aonde quer que seja que ele me levar,<br/>Com ele eu terei ali meu doce lar;<br/>Onde quer que seja este hino entoarei:<br/>"Pois que estás comigo nada temerei!"</lines>
+    </verse>
+  </lyrics>
+</song>

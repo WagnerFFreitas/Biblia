@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:47:12">
+  <properties>
+    <titles>
+      <title>CC 039 A Ovelha Perdida</title>
+      <title>The Ninety And Nine</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Eliazabeth Clephane</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="039"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Noventa e nove ovelhas vão<br/>seguras no curral;<br/>mas uma delas se afastou<br/>do aprisco pastoral</lines>
+      <lines>a errar nos montes de terror,<br/>distante do fiel pastor,<br/>distante do fiel pastor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">"Com a grei submissa, ó bom Pastor,<br/>não te contentarás?"<br/>"A errante é minha,"replicou,<br/>"Pertence-me a fugaz.</lines>
+      <lines>Vou ao deserto procurar<br/>a ovelha que ouço em dor gritar,<br/>a ovelha que ouço em dor gritar."</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Nenhum remido imaginou<br/>quão negra escuridão,<br/>quão fundas águas que passou,<br/>trazendo-a à salvação.</lines>
+      <lines>E quando foi pra socorrer<br/>a errante estava a perecer,<br/>a errante estava a perecer.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">"Por toda a estrada donde vem,<br/>que sangue enxergo ali?"<br/>"Busquei a ovelha com amor,<br/>o sangue meu verti."</lines>
+      <lines>"Ferida vejo a tua mão."<br/>"A angústia encheu-me o coração,<br/>a angústia encheu-me o coração."</lines>
+    </verse>
+    <verse name="v5">
+      <lines break="optional">Vêm da montanha aclamações!<br/>É a voz do bom Pastor!<br/>Ressoa em notas triunfais<br/>o salmo vencedor!</lines>
+      <lines>E os anjos cantam lá nos céus:<br/>A errante já voltou a Deus,<br/>a errante já voltou a Deus!"</lines>
+    </verse>
+  </lyrics>
+</song>

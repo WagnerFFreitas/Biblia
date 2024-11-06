@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:43">
+  <properties>
+    <titles>
+      <title>CC 570 Mais um Obreiro</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Manuel Souza</author>
+      <author>John Sweney</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="570"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Mais um obreiro escuta <br/>a tua voz, Jesus,<br/>e quer entrar na luta,<br/>seguindo tua luz.</lines>
+      <lines>Tem força diminuta,<br/>mas crendo em tua cruz,<br/>os planos executa,<br/>que teu amor produz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Senhor, desperta e chama<br/>ceifeiros, mais e mais<br/>pois tua vinha clama<br/>por servos mui leais,</lines>
+      <lines>que levem tua fama<br/>de amor, perdão e paz<br/>ao mundo que Deus ama<br/>com graça e amor veraz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Ao servo teu dá graça<br/>e vida de poder;<br/>que a tua obra faça<br/>visando o teu querer.</lines>
+      <lines>Protege-o da desgraça<br/>de sua fé perder;<br/>reveste-o da couraça<br/>do teu real poder.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Concede-lhe justiça<br/>e um nobre coração;<br/>que escape à vil cobiça;<br/>em toda ocasião;</lines>
+      <lines>que tenha fé submissa<br/>contigo em comunhão,<br/>fiel na santa liça,<br/>vencendo a tentação.</lines>
+    </verse>
+  </lyrics>
+</song>

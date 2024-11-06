@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:05:00">
+  <properties>
+    <titles>
+      <title>HCC 535 Sacerdotes e Ministros do Nosso Deus</title>
+      <title>Isaías 61:1-4, 6, 8, 10, 11</title>
+    </titles>
+    <copyright>Isaías 61:1-4, 6, 8, 10, 11</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="535"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Espírito do Senhor Deus está sobre mim, porque o Senhor me ungiu para pregar boas novas aos mansos;<br/>enviou-me a restaurar os contritos de coração, a proclamar liberdade aos cativos, e a abertura de prisão aos presos;<br/>e apregoar o ano aceitável do Senhor e o dia da vingança do nosso Deus; a consolar todos os tristes;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>a ordenar acerca dos que choram em Sião que se lhes dê uma grinalda em vez de cinzas,<br/>óleo de gozo em vez de pranto, vestidos de louvor em vez de espírito angustiado;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>a fim de que se chamem árvores de justiça, plantação do Senhor, para que ele seja glorificado.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>E eles edificarão as antigas ruínas, levantarão as desolações de outrora,<br/>e restaurarão as cidades assoladas, as desolações de muitas gerações.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vós sereis chamados sacerdotes do Senhor, e vos chamarão ministros de nosso Deus;<br/>comereis as riquezas das nações, e na sua glória vos gloriareis.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Pois eu, o Senhor, amo o juízo, aborreço o roubo e toda injustiça;<br/>fielmente lhes darei sua recompensa, e farei com eles um pacto eterno.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Regozijar-me-ei muito no Senhor, a minha alma se alegrará no meu Deus, porque me vestiu com veste de salvação,<br/>cobriu-me com o manto de justiça (...) Porque, como a terra produz os seus renovos, e como o horto faz brotar o que nele se semeia,<br/>assim o Senhor Deus fará brotar a justiça e o louvor perante todas as nações.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:38">
+  <properties>
+    <titles>
+      <title>HC047 - Rocha Eterna</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rocha eterna, meu Jesus,<br/>Que, por mim, na amarga cruz,<br/>Foste morto eu meu lugar,<br/>Morto para me salvar;<br/>Em Ti quero me esconder,<br/>Só Tu podes me valer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Minhas obras, eu bem sei,<br/>Nada valem ante a lei;<br/>Se eu chorasse sem cessar.<br/>Trabalhasse sem cansar,<br/>Tudo inútil, tudo em vão!<br/>Só em Ti há salvação.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nada trago a Ti, Senhor!<br/>'Spero só em Teu amor!<br/>Todo indigno e imundo sou,<br/>Eis, sem Ti, perdido estou!<br/>No Teu sangue, ó Salvador,<br/>Lava um pobre pecador.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Quando a morte me chamar,<br/>E ante Ti me apresentar,<br/>Rocha eterna, meu Jesus,<br/>Que por mim, na amarga cruz,<br/>Foste morto em meu lugar,<br/>Quero em Ti só me abrigar.</lines>
+    </verse>
+  </lyrics>
+</song>

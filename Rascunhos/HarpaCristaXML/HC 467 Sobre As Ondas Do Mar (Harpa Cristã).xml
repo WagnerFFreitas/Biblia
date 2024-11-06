@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:47">
+  <properties>
+    <titles>
+      <title>HC467 - Sobre As Ondas Do Mar</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh! Por que duvidar,<br/>Sobre as ondas do mar,<br/>Quando Cristo caminho abriu?<br/>Quando forçado és, contra as ondas lutar,<br/>Seu amor a ti quer revelar</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Solta o cabo da nau<br/>Toma os remos na mão<br/>E navega com fé em Jesus;<br/>E então, tu verás que bonança se faz<br/>Pois com Ele, seguro serás .</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Trevas vêm te assustar ,<br/>tempestades no mar?<br/>Da montanha o mestre te vê;<br/>Na tribulação Ele vem socorrer,<br/>Sua mão bem te pode suster,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Podes tu recordar,<br/>Maravilhas sem par?<br/>No deserto o povo fartou;<br/>E o mesmo poder<br/>Ele sempre terá,<br/>Pois não muda e não falhará.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Quando pedes mais fé,<br/>Ele ouve o crê!<br/>Mesmo sendo em tribulação;<br/>Quando a mão de poder o teu "ego" tirar,<br/>Sobre as ondas poderás andar.</lines>
+    </verse>
+  </lyrics>
+</song>

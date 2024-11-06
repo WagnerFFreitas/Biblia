@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:12">
+  <properties>
+    <titles>
+      <title>HM383 - Confiança em Cristo</title>
+      <title>Descansa, ó alma, eis o Senhor</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Isaac Nicolau Salum</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Descansa, ó alma, eis o Senhor ao lado;<br/>Paciente leva, e sem queixar-te, a cruz.<br/>Deixa o Senhor tomar de ti cuidado:<br/>Ele não muda, o teu fiel Jesus!<br/>Prossegue, ó alma: o Amigo celestial<br/>Protegerá teus passos no espinhal!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Prossegue, ó alma:<br/>O trilho é estreito e escuro<br/>mas no passado Deus guiou-te assim!<br/>Confia agora a Deus o teu futuro,<br/>Que esse mistério há de aclarar-se enfim.<br/>Confia, ó alma: a sua mansa voz<br/>Ainda acalma o vento e o mar feroz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Confia, ó alma: a hora vem chegando,<br/>Irás com Cristo, o teu Senhor, morar.<br/>Sem dor nem mágoas gozarás, cantando,<br/>As alegrias do celeste lar;<br/>Descansa, ó alma; agora há pranto e há dor,<br/>Depois a gozo, a paz, o céu de amor!</lines>
+    </verse>
+  </lyrics>
+</song>

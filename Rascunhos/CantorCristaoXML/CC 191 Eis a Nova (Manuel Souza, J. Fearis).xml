@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:23">
+  <properties>
+    <titles>
+      <title>CC 191 Eis a Nova</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Manuel Souza</author>
+      <author>J. Fearis</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="191"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh! que mensagem cheia<br/>da compaixão de Deus,<br/>a do evangelho santo<br/>que nos conduz aos céus!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Eis a nova:<br/>Quem em Jesus confia,<br/>dele há de ter verdadeira luz,<br/>vida, perdão e alegria!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Incomparável graça,<br/>cheia de santo amor,<br/>que ao pecador perdido<br/>trouxe o bom Salvador!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pois o pecado avilta,<br/>enche de escuridão<br/>a alma rebelde e errada<br/>sob sua maldição!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Temos na cruz de Cristo<br/>bênção e salvação;<br/>porta da vida aberta;<br/>única redenção!</lines>
+    </verse>
+  </lyrics>
+</song>

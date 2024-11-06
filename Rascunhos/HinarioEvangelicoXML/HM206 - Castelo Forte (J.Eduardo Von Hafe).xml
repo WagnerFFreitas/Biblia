@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:36">
+  <properties>
+    <titles>
+      <title>HM206 - Castelo Forte</title>
+      <title>Castelo forte é nosso Deus,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>J.Eduardo Von Hafe</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Castelo forte é nosso Deus,<br/>Espada e bom escudo;<br/>Com seu poder defende os seus<br/>Em todo o transe agudo.<br/>Com fúria pertinaz<br/>Persegue Satanás,<br/>Com ânimo cruel;<br/>Astuto e mui rebel,<br/>Igual não há na terra.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A força do homem nada faz,<br/>Sozinho, está perdido;<br/>Mas nosso Deus socorro traz,<br/>Em seu Filho escolhido.<br/>Sabeis quem é? Jesus,<br/>O que venceu na cruz,<br/>Senhor dos altos Céus;<br/>E, sendo o próprio Deus,<br/>Triunfa na batalha.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se nos quisessem devorar<br/>Demônios não contados,<br/>Não poderiam dominar,<br/>Nem ver-nos assustados.<br/>O princípe do mal,<br/>Com seu plano infernal,<br/>Já condenado está;<br/>Vencido cairá<br/>Por uma só palavra.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>De Deus o verbo ficará,<br/>Sabemos com certeza,<br/>E nada nos pertubará,<br/>Com Cristo por defesa.<br/>Se temos de perder<br/>Família, bens, prazer,<br/>Se tudo se acabar<br/>E a morte nos chegar,<br/>Com ele reinaremos!</lines>
+    </verse>
+  </lyrics>
+</song>

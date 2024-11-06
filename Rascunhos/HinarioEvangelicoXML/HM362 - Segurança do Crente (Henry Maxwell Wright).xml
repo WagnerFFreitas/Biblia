@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:08">
+  <properties>
+    <titles>
+      <title>HM362 - Segurança do Crente</title>
+      <title>Oh! Quão preciosa e rica promessa</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Henry Maxwell Wright</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh! Quão preciosa e rica promessa<br/>De Jesus Cristo, Celeste Rei.<br/>Ao que confia na sua graça<br/>Diz ele: "Nunca te deixarei"!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh! Não temas! Oh! Não temas!<br/>Pois eu contigo sempre serei.<br/>Oh! Não temas! Oh! Não temas!<br/>Porque eu nunca te deixarei.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Para remir-te dei o meu sangue.<br/>Vem sem demora, pois te chamei.<br/>Meu para sempre tu és agora.<br/>Nunca, sim, nunca te deixarei.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Inda que indigno, foste escolhido.<br/>Jamais vaciles, porque eu te amei.<br/>Quem dos meus braços pode arrancar-te?<br/>Seguro sempre te guardarei!</lines>
+    </verse>
+  </lyrics>
+</song>

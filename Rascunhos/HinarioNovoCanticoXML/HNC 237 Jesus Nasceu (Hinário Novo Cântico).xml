@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:58">
+  <properties>
+    <titles>
+      <title>HNC 237 - Jesus Nasceu</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="237"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vinde, cantai: Jesus nasceu!<br/>À terra a luz desceu!<br/>A graça infinda ao mundo vem<br/>Na gruta de Belém, na gruta de Belém,<br/>Jesus, o Amado, o Sumo Bem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sim, proclamai em derredor,<br/>Que foi por grande amor<br/>Que à terra veio o Sumo Bem,<br/>Na gruta de Belém, na gruta de Belém,<br/>Jesus, humilde ao mundo vem.</lines>
+    </verse>
+  </lyrics>
+</song>

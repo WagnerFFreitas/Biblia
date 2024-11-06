@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:18">
+  <properties>
+    <titles>
+      <title>HCC 013 Deus Sábio, Invisível, Perfeito, Imortal</title>
+      <title>St. Denio</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Melodia galesa</author>
+      <author>Walter Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="013"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Deus sábio, invisível, perfeito, imortal,<br/>poder intangível da luz celestial,</lines>
+      <lines>glorioso e bendito, do tempo Senhor,<br/>a ti, Deus excelso, cantamos louvor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Tranquilo tu brilhas qual luz secular; de plena<br/>justiça é teu governar.</lines>
+      <lines>Da tua justiça provém o favor;<br/>das nuvens divinas, as chuvas do amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">A todos concedes o dom de viver<br/>e tudo permeias, supremo em poder.</lines>
+      <lines>Quais flores nós somos, de breve esplendor;<br/>eterno, imutável, só tu és, Senhor</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">És Pai glorioso, és luz a brilhar;<br/>teus anjos não podem teu rosto mirar,</lines>
+      <lines>mas nós entoamos aqui teu louvor<br/>e as frontes curvamos, humildes, Senhor.</lines>
+    </verse>
+  </lyrics>
+</song>

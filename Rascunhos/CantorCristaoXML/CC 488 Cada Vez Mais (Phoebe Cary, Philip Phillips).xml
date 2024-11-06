@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:27">
+  <properties>
+    <titles>
+      <title>CC 488 Cada Vez Mais</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Phoebe Cary</author>
+      <author>Philip Phillips</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="488"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>É grato relembrar<br/>que cada dia estou<br/>mais perto do celeste lar<br/>em que morar eu vou.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cada vez mais,<br/>cada vez mais,<br/>perto eu estou do eterno lar<br/>em que morar eu vou.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mais perto estou dos céus,<br/>meu lar, meu ideal;<br/>mais perto dos amados meus<br/>na casa paternal.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Em breve vou partir<br/>para onde não há dor;<br/>prazer infindo vou fruir<br/>com Cristo, meu Senhor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh! quando ali chegar<br/>serei então feliz!<br/>Descanso e paz irei gozar<br/>naquele bom país.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Eu sempre quero estar<br/>ao lado teu, Senhor,<br/>até que eu possa descansar<br/>naquele lar de amor.</lines>
+    </verse>
+  </lyrics>
+</song>

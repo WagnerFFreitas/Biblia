@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:55">
+  <properties>
+    <titles>
+      <title>HM305 - Louvor a Cristo</title>
+      <title>Minha alma, louva ao Redentor,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Henry Maxwell Wright</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Minha alma, louva ao Redentor,<br/>Jesus, teu Rei, teu Salvador,<br/>Morreu na Cruz, em teu lugar,<br/>E salvação te veio dar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sim, sobre a Cruz, em meu lugar,<br/>Jesus morreu e me salvou!<br/>Salvo e seguro eu posso estar,<br/>Pois com seu sangue me livrou.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh! Que perdido e longe eu andei,<br/>Rebelde a Deus e à sua lei!<br/>Com terno amor e compaixão,<br/>Guiou-me sempre a sua mão,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bendito o dia em que me vi<br/>Remido por Jesus e cri.<br/>Em Cristo eu tenho excelsa luz,<br/>Que para a glória me conduz.</lines>
+    </verse>
+  </lyrics>
+</song>

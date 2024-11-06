@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:37">
+  <properties>
+    <titles>
+      <title>HC039 - Alvo Mais Que A Neve</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bendito seja o Cordeiro<br/>Que na cruz por nós padeceu!<br/>Bendito seja o seu sangue,<br/>Que por nós, ali Ele verteu!<br/>Eis nesse sangue lavados,<br/>Com roupas que tão alvas são,<br/>Os pecadores redimidos,<br/>Que perante seu Deus ja estão!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Alvo mais que a neve!<br/>Alvo mais que a neve!<br/>Sim, nesse sangue lavado,<br/>Mais alvo que a neve serei.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quão espinhosa a coroa<br/>Que Jesus por nós suportou!<br/>Oh! quão profundas as chagas<br/>Que nos provam o quanto Ele amou!<br/>Eis nessas chagas pureza<br/>Para o mais pecador!<br/>Pois que mais alvos que a neve<br/>O Teu sangue nos torna, Senhor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se nós a Ti confessarmos,<br/>E seguirmos na Tua luz,<br/>Tu não somente perdoas,<br/>Purificas também, ó Jesus;<br/>Sim, e de todo o pecado!<br/>Que maravilha de amor!<br/>Pois que mais alvos que a neve<br/>O Teu sangue nos torna, Senhor.</lines>
+    </verse>
+  </lyrics>
+</song>

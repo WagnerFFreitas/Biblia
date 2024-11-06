@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:24">
+  <properties>
+    <titles>
+      <title>HM146 - A Bíblia e a Infância</title>
+      <title>Diz a Bíblia que Jesus</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Manoel Antonio de Menezes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Diz a Bíblia que Jesus<br/>Tem por mim constante amor.<br/>Como é linda a sua luz!<br/>Como é bom o Salvador!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sei que me quer bem,<br/>Quer ver-me feliz;<br/>Sei que me quer bem,<br/>A Bíblia assim o diz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tudo fez Jesus por mim.<br/>Só por ele vou viver.<br/>E, porque me quer assim,<br/>Hei de amá-lo até morrer!</lines>
+    </verse>
+  </lyrics>
+</song>

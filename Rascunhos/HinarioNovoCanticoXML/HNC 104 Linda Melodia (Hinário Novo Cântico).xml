@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:52">
+  <properties>
+    <titles>
+      <title>HNC 104 - Linda Melodia</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="104"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mais do que milhares é Cristo, meu bom Mestre,<br/>Ele é a luz do Mundo, a Estrela da Manhã!<br/>É o Rei da glória, e, em meu coração,<br/>Contente vou cantando a divinal canção!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cristo libertou-me dos males do pecado,<br/>E agora alegre canto, pois para o céu irei.<br/>Cristo resgatou-me, Ele é o meu Salvador;<br/>Dou toda a glória a Ele, meu Mestre e bom Senhor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Cantarei, em meu coração, esta linda melodia,<br/>Pois eu tenho, em meu coração,<br/>Gozo, paz e alegria.<br/>Cantarei, em meu coração,<br/>Cantarei, sim, noite e dia.<br/>Aleluia! Aleluia! Feliz sempre cantarei.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

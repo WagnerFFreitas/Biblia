@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:13">
+  <properties>
+    <titles>
+      <title>CC 142 Pão da Vida</title>
+      <title>Dismissal</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Salomão Ginsburg</author>
+      <author>William Viner</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="142"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pão da vida, pão dos céus,<br/>Pão de Deus é meu Jesus;<br/><br/>Pão que dá ao coração<br/>Alegria, paz e luz.<br/><br/>Pão que dá ao coração<br/>Alegria, paz e luz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sangue que Jesus verteu<br/>É divino, é eficaz;<br/><br/>Este sangue ao coração<br/>Força, amor e vida traz.<br/><br/>Este sangue ao coração<br/>Força, amor e vida traz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vem, Jesus, me abençoar;<br/>Enche-me de Ti, Senhor,<br/><br/>Pois almejo Te servir<br/>E Te honrar, meu Salvador.<br/><br/>Pois almejo Te servir<br/>E Te honrar, meu Salvador.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:49">
+  <properties>
+    <titles>
+      <title>HM272 - Segurança e Paz</title>
+      <title>Pelo vale escuro</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Otoniel Mota</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pelo vale escuro<br/>Seguirei Jesus,<br/>Mas por ti seguro,<br/>Vendo a tua luz.<br/>O meu passo incerto<br/>Tu dirigirás;<br/>Ao sentir-te perto<br/>Nunca perco a paz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Os espinhos tantos<br/>Que nos vêm sangrar,<br/>São remédios santos<br/>Para nos curar;<br/>Onde existe a graça<br/>Do bondoso Deus,<br/>Tudo o que se passa<br/>Nos conduz aos Céus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Não há dor que seja<br/>Sem divino fim;<br/>Faze, ó Deus, que a Igreja<br/>Compreenda assim,<br/>E, apesar das trevas,<br/>Possa ver, Senhor,<br/>Que tu mesmo a levas,<br/>Com imenso amor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Breve a noite desce,<br/>Noite de Emaús,<br/>E meu ser carece<br/>De te ver, Jesus;<br/>Companheiro amigo,<br/>Ao meu lado vem!<br/>Fica, ó Deus, comigo,<br/>Infinito bem!</lines>
+    </verse>
+  </lyrics>
+</song>

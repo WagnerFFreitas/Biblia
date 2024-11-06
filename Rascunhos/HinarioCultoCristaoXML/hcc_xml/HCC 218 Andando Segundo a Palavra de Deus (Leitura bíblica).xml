@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:56">
+  <properties>
+    <titles>
+      <title>HCC 218 Andando Segundo a Palavra de Deus</title>
+      <title>Salmos 119:9, 10, 41, 44</title>
+    </titles>
+    <copyright>Salmos 119:9, 10, 41, 44</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="218"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines><tag name="y">Coro:</tag><br/>Como purificará o jovem o seu caminho?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><tag name="y">Dirigente:</tag><br/>Observando-o de acordo com a tua palavra.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><tag name="y">Todos:</tag><br/>De todo o meu coração tenho te buscado; não me deixes desviar dos teus mandamentos.<br/>Venha também sobre mim a tua benignidade, ó Senhor, e a tua salvação, segundo a tua palavra.<br/>Assim observarei de contínuo a tua lei, pra sempre e eternamente.</lines>
+    </verse>
+  </lyrics>
+</song>

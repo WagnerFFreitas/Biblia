@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:19">
+  <properties>
+    <titles>
+      <title>CC 450 Igreja, Alerta</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Fanny Crosby</author>
+      <author>John Sweney</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="450"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">É tempo, é tempo, o Mestre está chamando já!<br/>Marchar! Marchar! Confiando em seu amor!</lines>
+      <lines>Partir! Partir! A salvação a proclamar,<br/>com a palavra santa do bom Salvador!</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Sim, marchar avante!<br/>Todos seguindo a divinal bandeira!<br/>Sim, marchar avante!<br/>Unidos, firmes sempre no avançar!</lines>
+      <lines>Glória, glória, eis que canta a multidão!<br/>Consagrai-lhe todo o vosso coração<br/>pra Jesus obedecer! E ao cumprir o seu querer<br/>entoai louvores altos! Avançai!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">"Queremos luz!" é o grito das nações pagãs,<br/>que vem atravessando o imenso mar.</lines>
+      <lines>Ir já, sim, já levando as novas com amor,<br/>sem esquecer também aqui de semear.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Desperta, igreja! O teu poder vem exercer;<br/>a todos faze Cristo conhecer;</lines>
+      <lines>a tua mão estende com paciente amor,<br/>da morte eterna esforça-te para os deter.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Igreja, alerta! O dia prometido vem,<br/>quando aclamado o Salvador será;</lines>
+      <lines>por toda parte o bem amado Redentor<br/>eterna glória, honra com louvor terá.</lines>
+    </verse>
+  </lyrics>
+</song>

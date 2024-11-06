@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:50">
+  <properties>
+    <titles>
+      <title>HC128 - Entrega Teu Coração</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó alma triste, perdida,<br/>Que vagas sem ter direção!<br/>Aceita de Deus a vida,<br/>Entrega teu coração!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dá, hoje, a Cristo,<br/>Teu coração, teu coração.<br/>Pois nEle acharás a paz, o perdão,<br/>Entrega teu coração.<br/>Dá, hoje, a Cristo,<br/>Teu coração, teu coração.<br/>Pois nEle acharás a paz, o perdão,<br/>Entrega teu coração.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus não quer teu dinheiro;<br/>De graça te dá salvação!<br/>E gozo mui verdadeiro:<br/>Entrega teu coração!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>De Cristo ressuscitado<br/>Aceita o vero perdão,<br/>Se queres ser libertado,<br/>Entrega teu coração!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Agora é o tempo aceitável<br/>O dia em que há salvação.<br/>A Cristo, meigo, adorável<br/>Entrega teu coração.</lines>
+    </verse>
+  </lyrics>
+</song>

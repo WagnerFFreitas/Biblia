@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:16">
+  <properties>
+    <titles>
+      <title>HC291 - A Mensagem Da Cruz</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rude cruz se erigiu,<br/>Dela o dia fugiu,<br/>Como emblema de vergonha e dor;<br/>Mas contemplo esta cruz,<br/>Porque nela Jesus<br/>Deu a vida por mim, pecador.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sim, eu amo a mensagem da cruz<br/>Té morrer eu a vou proclamar;<br/>Levarei eu também minha cruz<br/>Té por uma coroa trocar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Desde a glória dos céus,<br/>O Cordeiro de Deus,<br/>Ao Calvário humilhante baixou;<br/>Essa cruz tem p'ra mim<br/>Atrativos sem fim,<br/>Porque nela Jesus me salvou.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nesta cruz padeceu<br/>E por mim já morreu,<br/>Meu Jesus, para dar-me o perdão<br/>E eu me alegro na cruz,<br/>Dela vem graça e luz,<br/>Para minha santificação.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Eu aqui com Jesus,<br/>A vergonha na cruz<br/>Quero sempre levar e sofrer;<br/>Cristo vem me buscar,<br/>E com ele, no lar,<br/>Uma parte da glória hei de ter.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:48">
+  <properties>
+    <titles>
+      <title>HCC 473 Segundo a Vontade de Deus</title>
+      <title>Nordeste</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Marcílio Oliveira Filho</author>
+      <author>Gióia Júnior</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="473"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Não é minha vontade, mas é tua;<br/>não são meus os caminhos, mas são teus.</lines>
+      <lines>Que eu comece uma nova caminhada,<br/>pensando segundo a vontade de Deus,<br/>pensando segundo a vontade de Deus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Não a minha verdade, mas a tua verdade;<br/>não a minha vontade, mas a tua vontade;<br/>não os meus descaminhos, mas os caminhos teus.</lines>
+      <lines>Que eu reflita e proclame aos amigos e ao mundo<br/>que só vivo segundo a vontade de Deus,<br/>que só vivo segundo a vontade de Deus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Seja a tua palavra como a estrela<br/>que brilhou lá na pátria dos judeus,</lines>
+      <lines>e que eu fale de Cristo a todo o mundo,<br/>agindo segundo a vontade de Deus,<br/>agindo segundo a vontade de Deus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Que eu me torne uma bênção permanente<br/>para mim, para os outros, para os meus.</lines>
+      <lines>Vejam todos assim que sou um crente,<br/>vivendo segundo a vontade de Deus,<br/>vivendo segundo a vontade de Deus.</lines>
+    </verse>
+  </lyrics>
+</song>

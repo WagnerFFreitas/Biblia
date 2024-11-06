@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:26">
+  <properties>
+    <titles>
+      <title>HM156 - Brilhando por Jesus</title>
+      <title>Vejo no céu esplendente</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Bispo Salomão Ferraz</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vejo no céu esplendente<br/>Do sol a clara luz;<br/>Viver eu quero somente<br/>Brilhando por Jesus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Brilhando, brilhando,<br/>Brilhando qual doce luz;<br/>Brilhando, brilhando,<br/>Brilhando por meu Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quero na vida exaltá-lo<br/>Na escola e no estudar,<br/>Quero também imitá-lo<br/>Em casa e no brincar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Só pela tua vontade,<br/>Brilhando viverei,<br/>Só pela tua bondade,<br/>Eu para o céu irei.</lines>
+    </verse>
+  </lyrics>
+</song>

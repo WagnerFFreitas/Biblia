@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:56">
+  <properties>
+    <titles>
+      <title>HNC 179 - Saudação</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="179"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Saudamo-vos, irmãos em Cristo,<br/>Lembrando o que temos visto:<br/>Nesses anos, pelas lutas, tentações.<br/>Atendidas foram nossas petições.<br/>Toda a glória seja ao nome do Senhor!<br/>Vinde todos entoar o seu louvor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Um dia tão glorioso temos,<br/>E ao nosso Pai agradecemos,<br/>Pois é ele quem nos dá real prazer,<br/>E é fiel em nos guardar e proteger!<br/>Vinde vós, irmãos, conosco a Deus cantar,<br/>Desta bênção vinde, pois, participar!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alegres todos jubilemos,<br/>Ao grande Salvador cantemos!<br/>Ele como filhos seus nos escolheu.<br/>Ricas bênçãos ele já nos concedeu.<br/>Seja “avante!” o nosso lema triunfal,<br/>Pois seguimos para o lar celestial.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Bem alto agora vamos nós cantar,<br/>Que a terra e os céus virão nos ajudar.<br/>Até aqui Deus mesmo nos guiou,<br/>E com a sua mão nos ajudou.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

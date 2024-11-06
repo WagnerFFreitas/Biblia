@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:53">
+  <properties>
+    <titles>
+      <title>HNC 118 - Esperando em Deus</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="118"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Qual suspira a corça inquieta<br/>Pelas águas a bramir,<br/>Tua divinal presença<br/>Quer minha alma, ó Deus, sentir.<br/>Sede intensa me angustia!<br/>Quando, ó Deus, virá o dia<br/>De contínuo me alegrar<br/>Por teu rosto contemplar?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pranteando, amargamente,<br/>Vou vivendo os dias meus,<br/>Pois os ímpios me atormentam<br/>Perguntando por meu Deus.<br/>Choro então os velhos dias,<br/>Quando, em santas alegrias,<br/>Proclamava o teu louvor<br/>Junto a ti, ó meu Senhor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Em rajadas tormentosas<br/>Teu juízo me alcançou!<br/>E minha alma, bem ferida,<br/>Penitente se humilhou.<br/>Tu, então, meus pés guiando,<br/>Com ternura me amparando,<br/>Alto abrigo me vens dar<br/>E na Rocha me firmar!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Por que tremes, ó minha alma,<br/>E te abates dentro de mim?<br/>Para longe os teus receios!<br/>Deus ao teu penar põe fim!<br/>Ele as ondas más quebranta,<br/>Nos seus braços te levanta.<br/>Ó minha alma, sem temor,<br/>Canta a Deus o teu louvor. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:20">
+  <properties>
+    <titles>
+      <title>HCC 025 Tu És Fiel, Senhor</title>
+      <title>Faithfulness</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Thomas Chisholm</author>
+      <author>William Runyan</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="025"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Tu és fiel, Senhor, meu Pai celeste,<br/>pleno poder aos teus filhos darás.</lines>
+      <lines>Nunca mudaste, tu nunca faltaste:<br/>tal como eras, tu sempre serás.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Tu és fiel, Senhor, tu és fiel, Senhor,<br/>dia após dia com bênçãos sem fim.</lines>
+      <lines>Tua mercê me sustenta e me guarda;<br/>tu és fiel, Senhor, fiel a mim.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Flores e frutos, montanhas e mares,<br/>sol, lua, estrelas no céu a brilhar:</lines>
+      <lines>tudo criaste na terra e nos ares.<br/>Todo o universo vem, pois, te louvar!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Pleno perdão tu dás, paz, segurança;<br/>cada momento me guias,  Senhor.</lines>
+      <lines>E, no porvir oh, que doce esperança!  <br/>desfrutarei do teu rico favor.</lines>
+    </verse>
+  </lyrics>
+</song>

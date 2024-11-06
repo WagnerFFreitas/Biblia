@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:52">
+  <properties>
+    <titles>
+      <title>HC139 - Jesus, Meu Eterno Redentor</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Já o Filho de Deus é descido do céu;<br/>A obra perfeita na cruz consumou;<br/>E ali Sua carne, rasgada qual véu,<br/>Vivo caminho para o céu nos consagrou.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus é meu eterno<br/>Redentor!<br/>Por Seu sangue já remido estou;<br/>Deu-me paz, poder consolador;<br/>Vivo contente, pois Ele me amou.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Por Adão, o pecado no mundo entrou;<br/>Ninguém dessa lei se podia libertar;<br/>Mas o filho do homem por nós triunfou,<br/>NEle podemos do mal ressuscitar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Do inferno, que paga aos maus, há de dar,<br/>Do medo da morte, esse dardo cruel,<br/>Do abismo eterno te pode salvar,<br/>Só Jesus Crsito, o bom Emanuel.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bem alegres buscamos a pátria de amor,<br/>A qual Deus no céu para nós preparou,<br/>Onde sempre veremos o nosso Senhor,<br/>Cristo Jesus, que do mal nos libertou.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:00">
+  <properties>
+    <titles>
+      <title>CC 069 Aleluia</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>James McGranahan</author>
+      <author>Christopher Wordsworth</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="069"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Aleluia! Aleluia!<br/>Gratos hinos entoai!<br/>Jubilosos e contentes<br/>hinos a Jesus cantai!</lines>
+      <lines>Pra livrar-nos do pecado<br/>triste morte padeceu,<br/>e da morte triunfando,<br/>Ele vida eterna deu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Jesus Cristo, o Rei da glória,<br/>o pecado aniquilou!<br/>E alcançou a mesma bênção<br/>para os que Ele resgatou.</lines>
+      <lines>Eis milhares de milhares<br/>a prestar-lhe adoração,<br/>descobrindo, em sua obra,<br/>vida, luz e salvação.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Aleluia! Aleluia! <br/>A Jesus todo o louvor!<br/>Aleluia eternamente,<br/>ao bendito Redentor!</lines>
+      <lines>Aleluia ao Espírito Santo,<br/>que nos dá consolo e paz,<br/>aleluia ao Pai eterno,<br/>Deus da graça, Deus da paz.</lines>
+    </verse>
+  </lyrics>
+</song>

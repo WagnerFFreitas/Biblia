@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:28">
+  <properties>
+    <titles>
+      <title>HM166 - Jesus e as Crianças</title>
+      <title>A Jesus crianças vinham</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Jesus crianças vinham<br/>Sua bênção suplicar;<br/>Logo, a mim, que sou criança,<br/>Não a pode recusar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Com ternura o amado Mestre<br/>Para si as convidou;<br/>Aceitando seu convite,<br/>A Jesus, contente, eu vou.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Minhas mãos tão pequeninas<br/>Ergo a ti, meu Salvador.<br/>Ouve! Dá-me a tua bênção.<br/>Dá-me sempre o teu favor!</lines>
+    </verse>
+  </lyrics>
+</song>

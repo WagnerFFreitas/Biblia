@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:49:03">
+  <properties>
+    <titles>
+      <title>HNC 363 - Venham as Crianças</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="363"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Venham, venham as crianças<br/>Ao bendito Salvador,<br/>Que na cruz, ao resgatá-las,<br/>Revelou-lhes seu favor.<br/>Cristo agora, Cristo sempre<br/>Nos concede seu amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Venham, venham as crianças,<br/>Pois Jesus as convidou!<br/>Foi também por seus pecados<br/>Que na amarga cruz penou.<br/>Cristo agora, Cristo Sempre<br/>Com ternura nos amou.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Venham, venham as crianças<br/>Ao senhor Jesus servir!<br/>Receber seus conselhos,<br/>Sua santa Lei ouvir.<br/>Cristo agora, Cristo sempre<br/>Quer na luz nos conduzir.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:59">
+  <properties>
+    <titles>
+      <title>HCC 531 Mas Nós Somos Luz</title>
+      <title>Luz do Mundo</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Guilherne Kerr Neto</author>
+      <author>Marcílio Oliveira Filho</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="531"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">O tempo do fim será tempo difícil,<br/>e duro combate terá o cristão;</lines>
+      <lines>pessoas serão dominadas por vícios,<br/>escravas das ordens do seu coração...</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Mas nós somos luz, somos filhos de Deus,<br/>e importa brilhar com imenso esplendor,<br/>pregando e vivendo a Palavra de Deus,</lines>
+      <lines>que é guia seguro, que é fonte de amor.<br/>Pregando e vivendo a Palavra de Deus,<br/>que é guia seguro, que é fonte de amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Nos últimos dias de lutas intensas,<br/>terá de sofrer quem quiser ser cristão;</lines>
+      <lines>pessoas serão orgulhosas e tensas;<br/>de Deus e dos outros, de tudo, rirão...</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Nos tempos finais amarão o dinheiro;<br/>momentos de provas terá o cristão.</lines>
+      <lines>Então zombadores, cruéis mensageiros<br/>de um mundo ilusório, nas trevas rirão...</lines>
+    </verse>
+  </lyrics>
+</song>

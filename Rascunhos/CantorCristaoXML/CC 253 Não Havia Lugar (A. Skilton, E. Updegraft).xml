@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:35">
+  <properties>
+    <titles>
+      <title>CC 253 Não Havia Lugar</title>
+      <title>Carter</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>A. Skilton</author>
+      <author>E. Updegraft</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="263"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Não teve um palácio no mundo, o Senhor,<br/>nem honras lhe deram de Rei, Salvador;</lines>
+      <lines>mas a manjedoura só pode encontrar,<br/>porque não havia mais outro lugar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Não há lugar pra Cristo<br/>em tua vida e lar?</lines>
+      <lines>Terás então de ouvir dizer:<br/>"No céu não tens lugar."</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Aqui, nos prazeres tu queres viver,<br/>gastando os talentos e todo o teu ser?</lines>
+      <lines>Por que continuas no triste pecar?<br/>Por que não concedes a Cristo lugar?</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Oh! quão infelizes as almas sem luz,<br/>ingratas, perdidas, sem paz, sem Jesus!</lines>
+      <lines>Sim, Cristo hoje mesmo deseja habitar<br/>em ti, meu amigo. Oh! dá-lhe lugar!</lines>
+    </verse>
+  </lyrics>
+</song>

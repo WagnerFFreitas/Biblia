@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:48">
+  <properties>
+    <titles>
+      <title>HC112 - O Nome Soberano</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Não há na terra e céu também,<br/>Um nome com doçura,<br/>Como este a quem louvor convém,<br/>De toda a criatura.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus, a luz és Tu do céu!<br/>Jesus, o nosso amado!<br/>Jesus, o verdadeiro Deus,<br/>Por todos exaltado!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Descendo ao mundo, a luz do céu<br/>Vestiu-se em corpo humano;<br/>Ao santo Filho, então, se deu<br/>O nome soberano.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Entregue à morte sobre a cruz,<br/>Por cima foi escrito<br/>O nome amável de Jesus,<br/>Por nós, ali maldito.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Da morte o grande vencedor<br/>À mão do Pai sentado,<br/>Por nós Ele é intercessor,<br/>E único Advogado.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus, meu terno Salvador,<br/>És tu minha esperança,<br/>Confio só no Teu amor;<br/>E pões-me em segurança.</lines>
+    </verse>
+  </lyrics>
+</song>

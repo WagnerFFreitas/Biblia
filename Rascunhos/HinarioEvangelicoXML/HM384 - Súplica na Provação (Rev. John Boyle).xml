@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:12">
+  <properties>
+    <titles>
+      <title>HM384 - Súplica na Provação</title>
+      <title>Adversários da minha alma</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. John Boyle</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Adversários da minha alma<br/>Como aumentam, ó Senhor!<br/>Furiosos me perseguem<br/>Com ferino e louco ardor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Perseguido, angustiado,<br/>Com a minha voz clamei;<br/>Do seu santo monte ouviu-me<br/>Meu clemente Pai e Rei.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aos milhares, inimigos<br/>Se levantam contra mim<br/>E me cercam? Não os temo;<br/>Vencerei por Deus, enfim.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Surge, ó Deus, em meu socorro,<br/>Pois feriste a boca atroz<br/>E quebraste do inimigo<br/>O furor cruel, feroz.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tu, ó Deus, és meu Escudo,<br/>Minha glória está em ti;<br/>Sossegado, pois, tranquilo,<br/>Viverei, meu Pai, aqui.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Do Senhor fiel, clemente,<br/>Vem a doce salvação;<br/>Ricas bênçãos sobre o povo<br/>Só derrama a sua mão.</lines>
+    </verse>
+  </lyrics>
+</song>

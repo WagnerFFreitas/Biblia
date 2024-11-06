@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:58">
+  <properties>
+    <titles>
+      <title>HCC 227 Louve Meu Ser ao Grandioso Senhor</title>
+      <title>Lobe Den Herren</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Melodia alemã</author>
+      <author>Joachim Neander</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="227"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Louve, meu ser, ao grandioso Senhor, Rei da glória.<br/>Sua bondade conserve pra sempre em memória.</lines>
+      <lines>Cante ao Senhor<br/>hinos de grato louvor,<br/>pois ele é o Deus da vitória.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Louve ao Senhor, o Deus sábio que tudo dirige.<br/>Ele protege você, e assim nada o aflige.</lines>
+      <lines>Ao Salvador <br/>ame com todo o fervor;<br/>só nele se regozije.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Louve, meu ser, ao Senhor,<br/>de quem vem toda graça,<br/>pois ele dá a saúde e afasta a desgraça.</lines>
+      <lines>Firme, de pé,<br/>leve o escudo da fé<br/>e da justiça a couraça.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Louve, meu ser, ao seu Deus, a bendita Trindade,<br/>pois lá do céu o abençoa com muita bondade.</lines>
+      <lines>Só Deus é luz, <br/>vista somente em Jesus<br/>vida, caminho e verdade.</lines>
+    </verse>
+  </lyrics>
+</song>

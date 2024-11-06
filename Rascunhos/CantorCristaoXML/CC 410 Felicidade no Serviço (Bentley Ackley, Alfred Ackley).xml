@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:11">
+  <properties>
+    <titles>
+      <title>CC 410 Felicidade no Serviço</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Bentley Ackley</author>
+      <author>Alfred Ackley</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="410"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No serviço do meu Rei eu sou feliz,<br/>satisfeito, abençoado;<br/>proclamando do meu Rei a salvação,<br/>no serviço do meu Rei.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>No serviço do meu Rei<br/>minha vida empregarei;<br/>gozo, paz, felicidade<br/>tem quem serve a meu bom Rei.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No serviço do meu Rei eu sou feliz,<br/>obediente e corajoso;<br/>na tristeza ou na alegria sei sorrir,<br/>no serviço do meu Rei.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No serviço do meu Rei eu sou feliz,<br/>jubiloso e consagrado;<br/>ao seu lado desafio a todo o mal,<br/>no serviço do meu Rei.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>No serviço do meu Rei eu sou feliz,<br/>venturoso e decidido;<br/>quanto tenho no serviço gastarei;<br/>no serviço do meu Rei.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:17">
+  <properties>
+    <titles>
+      <title>HC298 - Avante, Servos De Jesus</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Avante, servos de Jesus, por nosso Deus;<br/>Nas trevas brilhe vossa luz, a luz lá dos céus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Glória a Deus,<br/>pois vencerei,<br/>Glória a Deus, pois vencerei,<br/>Triunfante sigo, levando a cruz!<br/>Glória a Deus, pois vencerei,<br/>Glória a Deus, pois vencerei,<br/>Em nome de Jesus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Levanta Josué pendão, com mui valor;<br/>E o inimingo foge, então, com grande pavor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sai com trezentos Gideão, a combater;<br/>Os midianitas logo vão a guerra perder.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Golias mui soberbo está, zomba de Deus.<br/>Mas vem Davi, e nele dá, com ajuda do céu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Cerrai fileiras, ó fiéis, sempre avançai;<br/>No céu coroas e lauréis, Jesus vai nos dar.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-12-24T18:20:59">
+  <properties>
+    <titles>
+      <title>HNC 383 - Um Novo Mundo</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="383"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jovens fortes, chama-nos Jesus,<br/>Para um mundo novo construir.<br/>Trevas, que hoje tentam destruir,<br/>Hão de ser clara luz,<br/>Alvo resplendor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ao combate, enquanto não soou<br/>O momento em que há de raiar<br/>Novo mundo, com Jesus, Senhor,<br/>Onde a paz e o amor<br/>Sempre hão de reinar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Levantemos sobre a terra<br/>Nossos braços libertados,<br/>Ao serviço convocados<br/>Por Jesus;<br/>Pelos que são oprimidos,<br/>Pelos que são perseguidos!<br/>Eia! Que nós venceremos<br/>No poder da cruz!</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

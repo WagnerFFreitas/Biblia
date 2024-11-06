@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:23">
+  <properties>
+    <titles>
+      <title>HC336 - Oração De Elias</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Elias no Carmelo orou<br/>Com insistência a Deus;<br/>Curvado ao pó, com fé clamou<br/>Por chuva lá dos céus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chuva, manda Senhor,<br/>A chuva do santo Consolador;<br/>Manda chuva forte, Salvador:<br/>A chuva de poder.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vai, servo meu, do monte olhar<br/>Se nuvens negras vêm;<br/>Pois pode agora Deus mandar<br/>A chuva a nós também.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uma nuvem surge qual u'a mão,<br/>No horizonte além,<br/>Ao longe ouve-se um trovão:<br/>Sim, muita chuva vem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó crente frio, vai buscar<br/>A Deus em oração,<br/>E tua vida consagrar,<br/>P'ra receber a unção.</lines>
+    </verse>
+  </lyrics>
+</song>

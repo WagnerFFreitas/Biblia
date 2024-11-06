@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:29">
+  <properties>
+    <titles>
+      <title>HCC 390 Filhos da Luz</title>
+      <title>Filhos da Luz</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Sarah Kalley</author>
+      <author>Melodia anônima</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="390"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Filhos da luz, que tendes salvação,<br/>amados do Senhor,<br/>vivei com fé, amor e retidão,<br/>vivei pra seu louvor.</lines>
+      <lines>Já tendes certa a vossa herança,<br/>cantai, alegres, na esperança,<br/>cantai, alegres, na esperança,<br/>andando em luz, andando em luz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Filhos da luz, nascidos sois de Deus:<br/>fugi de todo mal.<br/>Com santo zelo caminhai aos céus,<br/>à casa paternal.</lines>
+      <lines>A toda hora vigiando<br/>e sempre o tempo aproveitando,<br/>e sempre o tempo aproveitando,<br/>andai na luz, andai na luz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Filhos da luz, em santidade e paz<br/>vós precisais andar,<br/>pedindo auxílio certo e eficaz,<br/>pois tendes de lutar<br/>contra inimigos arrojados.</lines>
+      <lines>Estai, então, bem preparados,<br/>estai, então, bem preparados,<br/>vivendo em luz,<br/>vivendo em luz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Filhos da luz, quando afinal voltar<br/>o vosso bom Senhor,<br/>bendito o servo que ele então achar<br/>servindo-o com amor.</lines>
+      <lines>Pois, com prazer no céu entrando,<br/>os salvos cantam exaltando,<br/>os salvos cantam exaltando,<br/>ao Deus de luz, ao Deus de luz.</lines>
+    </verse>
+  </lyrics>
+</song>

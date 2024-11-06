@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:56:04">
+  <properties>
+    <titles>
+      <title>HC547 - O Rei Está Voltando</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Os fiéis são trasladados; seu trabalho aqui findou.<br/>A carreira desses santos, nesta vida já cessou.<br/>Do Senhor os bons ceifeiros, terminaram seu labor;<br/>A colheita completou-se: é a vinda do Senhor!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O Rei está<br/>voltando! o Rei está voltando!<br/>A trombeta está soando, para os santos<br/>trasladar.<br/>Sim, o Rei está voltando! o Rei está voltando!<br/>Aleluia! Ele vem nos buscar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Desta Terra estão subindo os remidos para o céu,<br/>Ao encontro do Deus Filho, que aparece além do véu.<br/>E o templo está deserto; sua pregação cessou.<br/>É notícia em toda parte: "Jesus Cristo já voltou!"</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Os remidos vão subindo: é a festa celestial:<br/>Todo o Céu está se abrindo, num "Bem-vindo!"<br/>Sem igual,<br/>Qual o som de muitas águas, nós ouvimos entoar<br/>Aleluias ao Cordeiro! - vamos indo para o lar!</lines>
+    </verse>
+  </lyrics>
+</song>

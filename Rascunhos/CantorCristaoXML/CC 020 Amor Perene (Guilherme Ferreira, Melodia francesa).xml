@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:41:49">
+  <properties>
+    <titles>
+      <title>CC 020 Amor Perene</title>
+      <title>Suivez Suivez L'Agneau</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Guilherme Ferreira</author>
+      <author>Melodia francesa</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="020"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Amavas-me, Senhor, não tendo a luz ainda<br/>surgido lá nos céus, ao mando criador;<br/>nem mesmo o sol, na aurora esplendorosa e linda,</lines>
+      <lines>a terra dava força fecundante, infinda.<br/>Meu Deus, que amor!<br/>Meu Deus, que antigo amor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Amavas-me, Senhor, no tempo em que imolado<br/>foi numa cruz sangrenta o meigo Salvador,<br/>levando sobre si, sim, todo o meu pecado,</lines>
+      <lines>o Santo de Israel, o teu Cordeiro amado.<br/>Meu Deus, que amor!<br/>Meu Deus, que imenso amor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Amavas-me, Senhor! no fundo de meu peito<br/>brilhou a doce luz, do meu Consolador,<br/>e com promessas mil do teu amor perfeito,</lines>
+      <lines>nasceu em mim a fé, em que hoje me deleito.<br/>Meu Deus, que amor!<br/>Meu Deus, és todo amor!</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">A mim sempre hás de amar! Pois que jamais o inferno<br/>e o mundo poderão a teu querer se opor;<br/>ao teu decreto, ó Rei, ao teu decreto eterno,</lines>
+      <lines>ao teu amor, ó Pai, ao teu amor superno.<br/>Meu Deus, que amor!<br/>És sempre, sempre amor!</lines>
+    </verse>
+  </lyrics>
+</song>

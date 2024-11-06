@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:49">
+  <properties>
+    <titles>
+      <title>HNC 020 - Glorificação à Trindade</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="20"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="st">
+        <open>&lt;strong&gt;</open>
+        <close>&lt;/strong&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines><tag name="st">A. Louvor</tag><br/>A ti, ó Deus, louvamos,<br/>E por nosso Senhor te confessamos!<br/>A ti, ó Pai da Eternidade, adora toda a terra;<br/>A ti, o coro angélico,<br/>A ti, todo o poder do céu,<br/>A ti, querubins e serafins proclamam sem cessar:<br/>“Santo! Santo! Santo! Senhor Deus dos Exércitos!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Os céus e a terra estão cheios<br/>Da majestade da tua glória!”<br/>A ti, o glorioso coro apostólico louva;<br/>A ti, a congregação dos profetas louva;<br/>A ti, o nobre exército dos mártires louva;<br/>A santa Igreja reconhece por toda a terra a ti:<br/>Ao Deus Pai, infinito Dominador!<br/>E ao teu venerável, vero e único Filho,<br/>E ao Santo Espírito, Consolador.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><tag name="st">B. Declaração</tag><br/>Tu és o Rei da Glória, ó Jesus!<br/>Tu és o sempiterno Filho de Deus!<br/>Quando vieste resgatar os homens,<br/>Não te escusaste a nascer do ventre da Virgem!<br/>Quando venceste a morte o seu aguilhão,<br/>Logo abriste a teus servos<br/>As portas do reino dos céus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Estás sentado à destra de Deus<br/>No trono onipotente.<br/>Cremos que voltarás e aqui serás Juiz.<br/>Portanto, nós, redimidos com teu sangue,<br/>Suplicamos teu auxílio!<br/>Nós, que já temos alistados com teus santos<br/>Na glória eterna.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><tag name="st">C. Oração</tag><br/>Senhor, guarda o povo e abençoa-nos.<br/>Reina e guarda-nos para sempre.<br/>Noite e dia te adoramos<br/>E glorificamos teu nome sem par.<br/>Senhor, concede que hoje<br/>Nós vençamos o pecado!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Eterno e bondoso Pai, compadece-te de nós!<br/>Concede-nos a tua misericórdia,<br/>Pois confiamos e esperamos em ti.<br/>Senhor! Em ti, em ti eu espero;<br/>Nunca eu seja, nunca eu seja confundido.<br/>Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

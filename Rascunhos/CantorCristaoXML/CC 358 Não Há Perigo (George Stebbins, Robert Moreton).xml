@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:00">
+  <properties>
+    <titles>
+      <title>CC 358 Não Há Perigo</title>
+      <title>Providence</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>George Stebbins</author>
+      <author>Robert Moreton</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="358"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Muitos falam dos perigos<br/>do caminho em que estou;</lines>
+      <lines>mas não veem a luz que brilha<br/>ao redor, por onde vou.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Meu Jesus, me guia os passos,<br/>e já veio em mim morar;</lines>
+      <lines>neste mundo perigoso,<br/>só por mim não posso andar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Falam mais de desenganos<br/>e de dura provação;</lines>
+      <lines>mas Jesus me ampara sempre<br/>e me dá consolação.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Sei que meu amor é fraco<br/>e propendo pra pecar;</lines>
+      <lines>mas, com seu divino auxílio,<br/>hei de sempre triunfar.</lines>
+    </verse>
+  </lyrics>
+</song>

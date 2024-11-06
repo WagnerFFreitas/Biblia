@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:15">
+  <properties>
+    <titles>
+      <title>HCC 320 Esperança na Tribulação</title>
+      <title>Romanos 5:1-5; Gálatas 5:22, 23</title>
+    </titles>
+    <copyright>Romanos 5:1-5; Gálatas 5:22, 23</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="320"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Justificados, pois, pela fé, tenhamos paz com Deus.<br/>Gloriemo-nos na esperança da glória de Deus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E não somente isso, mas também gloriemo-nos nas tribulações;<br/>sabendo que a tribulação produz a perseverança, e a perseverança a experiência, e a experiência a esperança;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>e a esperança não desaponta, porquanto o amor de Deus está derramado em nossos corações pelo Espírito Santo que nos foi dado.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O fruto do Espírito é:<br/>o amor, a bondade, o gozo, a fidelidade, a paz, a mansidão, a longanimidade, o domínio próprio; a benignidade, contra estas coisas não há lei.</lines>
+    </verse>
+  </lyrics>
+</song>

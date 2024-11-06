@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:39">
+  <properties>
+    <titles>
+      <title>HC053 - A Esperança Da Igreja</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Até que volte o Salvador,<br/>Cercando a mesa do Senhor,<br/>A Ceia vimos celebrar,<br/>De Cristo, a morte anunciar,<br/>E com humilde devoção,<br/>Render a Deus adoração.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Até que volte o Salvador,<br/>Aqui mostremos Seu amor;<br/>Com viva fé e gratidão,<br/>Participemos deste pão,<br/>Obedientes a Jesus,<br/>Lembrando assim a Sua cruz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Até que volte o Salvador,<br/>Bebendo o cálice do Senhor,<br/>Seu nome queremos bendizer,<br/>E mais e mais engrandecer,<br/>O sangue que Ele derramou,<br/>O sangue que nos resgatou!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Se duras são as provações,<br/>Se fortes as perseguições,<br/>Se as lutas fazem-se sentir,<br/>E custa-nos as resistir,<br/>Não nos deixemos pertubar:<br/>São só até Jesus voltar!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bem prontos para O receber,<br/>Devemos sempre aqui viver;<br/>O tempo foge, o dia vem,<br/>A glória esperamos além,<br/>Pois trabalhemos, com fervor,<br/>Até que volte o Salvador.</lines>
+    </verse>
+  </lyrics>
+</song>

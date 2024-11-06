@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:45">
+  <properties>
+    <titles>
+      <title>HCC 158 Vigiemos e Sejamos Sóbrios</title>
+      <title>1 Tessalonicenses 4:13-18; 5:2, 4, 6, 9, 10</title>
+    </titles>
+    <copyright>1 Tessalonicenses 4:13-18; 5:2, 4, 6, 9, 10</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="158"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Não queremos, porém, irmãos, que sejais ignorantes acerca dos que já dormem, para que não vos entristeçais como os outros que não têm esperança.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Porque, se cremos que Jesus morreu e ressurgiu, assim também aos que dormem, Deus, mediante Jesus, os tornará a trazer juntamente com ele.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dizemo-vos, pois (...) que nós, os que ficarmos vivos para a vinda do Senhor, de modo algum precederemos os que já dormem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Porque o Senhor mesmo descerá do céu com grande brado, à voz do arcanjo, ao som da trombeta de Deus, e os que morreram em Cristo ressuscitarão primeiro.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Depois nós, os que ficarmos vivos, seremos arrebatados juntamente com eles, nas nuvens, ao encontro do Senhor nos ares, e assim estaremos sempre com o Senhor.<br/>Portanto, consolai-vos uns aos outros com estas palavras.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Vós mesmos sabeis perfeitamente que o dia do Senhor virá como vem o ladrão de noite.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mas vós, irmãos, não estais em trevas, para que aquele dia, como ladrão, vos surpreenda; não durmamos, pois (...) antes vigiemos e sejamos sóbrios.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Porque Deus não nos destinou para a ira, mas para alcançarmos a salvação por nosso Senhor Jesus Cristo, que morreu por nós, para que, quer vigiemos, quer durmamos, vivamos juntamente com ele.</lines>
+    </verse>
+  </lyrics>
+</song>

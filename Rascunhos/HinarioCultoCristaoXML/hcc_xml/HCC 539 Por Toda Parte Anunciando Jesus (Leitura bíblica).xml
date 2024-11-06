@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:05:01">
+  <properties>
+    <titles>
+      <title>HCC 539 Por Toda Parte Anunciando Jesus</title>
+      <title>Atos 8:1, 4-6, 8, 12</title>
+    </titles>
+    <copyright>Atos 8:1, 4-6, 8, 12</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="539"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines><tag name="y">Dirigente:</tag><br/>Levantou-se grande perseguição contra a igreja que estava em Jerusalém;<br/>e todos exceto os apóstolos, foram dispersos pelas regiões da Judéia e da Samária.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><tag name="y">Congregação:</tag><br/>No entanto os que foram dispersos iam por toda parte, anunciando a palavra.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><tag name="y">Dirigente:</tag><br/>E descendo Filipe à cidade de Samária, pregava-lhes a Cristo.<br/>As multidões escutavam, unânimes, as coisas que Filipes dizia,<br/>ouvindo-o e vendo os sinais que operava (...) pelo que houve grande alegria naquela cidade.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><tag name="y">Todos:</tag><br/>Quando creram em Filipe, que lhes pregava acerca do reino de Deus e do nome de Jesus, batizavam-se homens e mulheres.</lines>
+    </verse>
+  </lyrics>
+</song>

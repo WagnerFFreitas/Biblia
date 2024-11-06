@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:14">
+  <properties>
+    <titles>
+      <title>HC283 - O Pastor E As Ovelhas</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ama o pastor as ovelhas,<br/>Com um amor paternal,<br/>Ama o Pastor seu rebanho,<br/>Com um amor sem igual;<br/>Ama o Pastor inda outras,<br/>Que desgarradas estão,<br/>E comovido as procura,<br/>Por onde quer qu'elas vão.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pelos desertos errantes,<br/>Vêem-se a sofrer penas mil,<br/>Ele ao achá-las, nos ombros<br/>Leva-as ditoso, ao redil.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ama o pastor seus cordeiros,<br/>Com inefável amor,<br/>Aos que, às vezes, perdidos,<br/>Gemendo se ouvem de dor.<br/>Vede o Pastor comovido<br/>Pelas colinas vagar,<br/>E os cordeiros nos ombros,<br/>Vede-O, levando ao lugar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ama as noventa e nove,<br/>Que no redil abrigou;<br/>Ama a que, desgarrada,<br/>No campo se desviou;<br/>" Ó minha ovelha perdida!"<br/>Clama o dolente Pastor;<br/>Quem irá em sua ajuda,<br/>Para salvá-la, Senhor?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>São delicados teus pastos,<br/>Mui quietas tuas águas são;<br/>Eis-nos aqui, ó bom Mestre,<br/>Dá-nos veraz direção,<br/>Dá-nos obreiros zelosos,<br/>Enche-nos de santo amor,<br/>Pelas ovelhas perdidas<br/>Do Teu redil, bom Senhor.</lines>
+    </verse>
+  </lyrics>
+</song>

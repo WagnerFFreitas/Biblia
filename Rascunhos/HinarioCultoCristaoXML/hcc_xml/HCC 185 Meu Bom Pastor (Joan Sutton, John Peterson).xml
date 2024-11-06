@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:50">
+  <properties>
+    <titles>
+      <title>HCC 185 Meu Bom Pastor</title>
+      <title>Shepherd Of Love</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Joan Sutton</author>
+      <author>John Peterson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="185"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Meu bom Pastor,<br/>sabias que me perdi;<br/>meu bom Pastor,<br/>querias-me perto de ti.</lines>
+      <lines break="optional">Buscaste-me, achaste-me,<br/>levaste-me salvo ao teu lar;<br/>do teu amor, meu bom Pastor,<br/>jamais poderei me afastar.</lines>
+      <lines>Meu bom Pastor,<br/>guia, Senhor e Rei,<br/>meu bom Pastor,<br/>pra sempre ao teu lado estarei.</lines>
+    </verse>
+  </lyrics>
+</song>

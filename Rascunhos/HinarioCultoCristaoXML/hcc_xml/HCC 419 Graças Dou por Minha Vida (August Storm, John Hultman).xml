@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:36">
+  <properties>
+    <titles>
+      <title>HCC 419 Graças Dou por Minha Vida</title>
+      <title>Tack O Gud</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>August Storm</author>
+      <author>John Hultman</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="419"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Graças dou por minha vida<br/>que Jesus já transformou<br/>e também por meu futuro<br/>e por tudo o que passou;</lines>
+      <lines>pelas bênçãos derramadas,<br/>pelo amor, pela aflição,<br/>pelas faltas perdoadas,<br/>grato sou de coração.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Graças pelo azul celeste<br/>e por nuvens que há também:<br/>pelas rosas do caminho<br/>e os espinhos que elas têm.</lines>
+      <lines>Pelas lutas desta vida,<br/>pela estrela que brilhou,<br/>pela prece respondida<br/>e a esperança que falhou.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Graças dou a Jesus Cristo,<br/>que morreu em meu lugar,<br/>pela paz que é sem medida<br/>e me ajuda a caminhar.</lines>
+      <lines>Graças dou por meus amigos<br/>e o consolo no chorar,<br/>pelo amparo nos perigos,<br/>sempre graças hei de dar.</lines>
+    </verse>
+  </lyrics>
+</song>

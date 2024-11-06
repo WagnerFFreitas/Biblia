@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:22">
+  <properties>
+    <titles>
+      <title>CC 186 É Jesus Quem Salva</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Robert Lowry</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="186"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O chorar não salva!<br/>Mesmo o lagrimar sem fim,<br/>jamais mancha carmesim<br/>poderá lavar em mim;<br/>o chorar não salva!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Foi Jesus que padeceu,<br/>sobre a cruz por mim morreu;<br/>por seu sangue que verteu<br/>pode assim salvar-me!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Obras não me salvam!<br/>Meus esforços sem cessar<br/>não me podem transformar,<br/>nem meus males expiar;<br/>obras não me salvam!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Orações não salvam!<br/>Apesar do seu fervor,<br/>petições não têm valor<br/>pra salvar o pecador;<br/>orações não salvam!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>É Jesus quem salva!<br/>Ele a obra consumou,<br/>meus pecados expiou,<br/>com seu sangue me lavou;<br/>é Jesus quem salva!</lines>
+    </verse>
+  </lyrics>
+</song>

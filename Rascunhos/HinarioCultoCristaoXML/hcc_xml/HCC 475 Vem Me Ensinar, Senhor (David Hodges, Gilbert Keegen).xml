@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:49">
+  <properties>
+    <titles>
+      <title>HCC 475 Vem Me Ensinar, Senhor</title>
+      <title>Ramona</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>David Hodges</author>
+      <author>Gilbert Keegen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="475"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Vem me ensinar, Senhor,<br/>a tua santa lei.<br/>Os teus preceitos tão fiéis<br/>meus próprios eu farei.</lines>
+      <lines>Na senda que eu trilhar<br/>derrama a tua luz.<br/>Desejo ter a doce paz<br/>que o teu amor produz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Vem me ensinar, Senhor,<br/>pois quero, ó Pai, crescer,<br/>contigo o dia todo estar,<br/>fazendo o teu querer.</lines>
+      <lines>Prepara-me, bom Deus,<br/>para eu testemunhar.<br/>Aqui e além a Cristo, o Rei,<br/>desejo anunciar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Vem me ensinar, Senhor,<br/>a espalhar a luz.<br/>Que todos, ricos e plebeus,<br/>conheçam a Jesus.</lines>
+      <lines>Vem avivar em mim<br/>o zelo e o fervor.<br/>Que todos venham adorar<br/>a ti, ó Deus de amor.</lines>
+    </verse>
+  </lyrics>
+</song>

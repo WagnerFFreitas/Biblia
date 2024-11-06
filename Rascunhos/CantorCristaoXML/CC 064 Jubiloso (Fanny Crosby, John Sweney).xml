@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:41:59">
+  <properties>
+    <titles>
+      <title>CC 064 Jubiloso</title>
+      <title>Awake, Awake</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Fanny Crosby</author>
+      <author>John Sweney</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="064"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Desperta já, meu coração,<br/>faz tua voz soar;<br/>louvores ao teu Redentor,<br/>não cesses de cantar!</lines>
+      <lines>Pois te remiu em uma cruz<br/>dos vis pecados teus,<br/>e com seu sangue te comprou<br/>a doce paz dos céus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Desperta já, meu coração!<br/>Desperta, sim, para entoar<br/>canções sem fim à redenção,<br/>de Deus o amor cantar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Remido estou; meu Deus, meu Rei,<br/>me deu a salvação!<br/>E me livrou do vil poder,<br/>da negra tentação.</lines>
+      <lines>Tão grande amor não pagarei,<br/>não pagarei jamais;<br/>pois nessa graça ainda vou<br/>ter gozos divinais!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Oh! santo amor, sublime amor,<br/>que os anjos lá nos céus<br/>não têm poder de aquilatar,<br/>o eterno amor de Deus!</lines>
+      <lines>Tudo ele faz resplandecer,<br/>a tudo dá vigor;<br/>ó céus, ó mar, ó vastidão,<br/>louvai o Deus de amor!</lines>
+    </verse>
+  </lyrics>
+</song>

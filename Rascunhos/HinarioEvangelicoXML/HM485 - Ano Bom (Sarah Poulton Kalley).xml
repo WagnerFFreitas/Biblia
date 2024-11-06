@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:40">
+  <properties>
+    <titles>
+      <title>HM485 - Ano Bom</title>
+      <title>Ano velho, já extinto,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ano velho, já extinto,<br/>Foste o dom do Criador;<br/>Ano Bom, que estás chegando,<br/>Vens do mesmo Benfeitor.<br/>Todo o tempo<br/>Testemunha o seu amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ano Bom, que vens entrando<br/>Como um toque de clarim;<br/>Os teus dias são velozes,<br/>Prestes voam para o fim.<br/>Só Deus sabe<br/>Se veremos outro assim.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pois que agora nos concede<br/>Do Ano Novo o grato dom,<br/>Exaltemos esta graça<br/>Com alegre e suave som.<br/>Sim, saudemos<br/>Jubilosos, o Ano Bom!</lines>
+    </verse>
+  </lyrics>
+</song>

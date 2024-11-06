@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:20">
+  <properties>
+    <titles>
+      <title>HC314 - O Pai Bondoso</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Um Pai bondoso tenho lá no céu,<br/>Um Pai bondoso tenho lá no céu,<br/>A Ele breve eu irei,<br/>E a meu Pai, no céu verei;<br/>Eu irei, eu irei, eu irei ao céu;<br/>Eu irei, eu irei, eu irei ao céu;<br/>Meu Pai me chama, vou andar<br/>P'ra Sua face contemplar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Um Salvador eu tenho lá no céu;<br/>Um Salvador eu tenho lá no céu;<br/>A Ele presto eu irei,<br/>Seu esplendor no céu verei,<br/>Eu verei, eu verei, eu verei no céu,<br/>Eu verei, eu verei, eu verei no céu.<br/>Jesus ao céu me levará<br/>E grande gozo me dará.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uma coroa tenho lá no céu:<br/>Uma coroa tenho lá no céu;<br/>De espinhos a teve o Salvador,<br/>Mas eu terei de esplendor,<br/>Eu terei, eu terei, eu terei no céu;<br/>Eu terei, eu terei, eu terei no céu;<br/>Jesus coroa me dará,<br/>Que minha fronte cingirá.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nós nos encontraremos lá no céu;<br/>Nós nos encontraremos lá no céu;<br/>Unidos todos ao Senhor,<br/>E cheios sempre de amor;<br/>Andarei, andarei, andarei p'ro céu,<br/>Andarei, andarei, andarei p'ro céu,<br/>A paz eterna lá terei.<br/>A face de Jesus verei.</lines>
+    </verse>
+  </lyrics>
+</song>

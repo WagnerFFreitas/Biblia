@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:58">
+  <properties>
+    <titles>
+      <title>HCC 527 A Parábola do Semeador</title>
+      <title>Mateus 13:18, 3, 4, 19, 5, 6, 20, 21, 7, 22, 8, 23, 9</title>
+    </titles>
+    <copyright>Mateus 13:18, 3, 4, 19, 5, 6, 20, 21, 7, 22, 8, 23, 9</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="527"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ouvi, pois, vós a parábola do semeador. Eis que o semeador saiu a semear.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E quando semeava, uma parte da semente caiu à beira do caminho, e vieram as aves e as comeram.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A todo o que ouve a palavra do reino e não a entende,<br/>vem o Maligno e arrebata o que lhe foi semeado no coração à beira do caminho.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>E outra parte caiu em lugares pedregosos, onde não havia muita terra:<br/>e logo nasceu, porque não tinha terra profunda (...) e, por não ter raiz, secou-se.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>E o que foi semeado nos lugares pedregosos, este é o que ouve a palavra, e logo a recebe com alegria;<br/>mas não tem raiz em si mesmo, antes é de pouca duração;<br/>e sobrevindo a angústia e a perseguição por causa da palavra, logo se escandaliza.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>E outra caiu entre espinhos; e os espinhos cresceram e a sufocaram.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>E o que foi semeado entre os espinhos, este é o que ouve a palavra;<br/>mas os cuidados deste mundo e a sedução das riquezas sufocam a palavra, e ela fica infrutífera.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Mas outra caiu em boa terra, e dava fruto, um a cem, outro a sessenta e outro a trinta por um.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Mas o que foi semeado em boa terra, este é o que ouve a palavra, e a entende;<br/>e dá fruto, e um produz cem, outro sessenta, e outro trinta.</lines>
+    </verse>
+  </lyrics>
+</song>

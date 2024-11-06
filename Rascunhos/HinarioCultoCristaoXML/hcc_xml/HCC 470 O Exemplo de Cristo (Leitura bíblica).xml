@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:48">
+  <properties>
+    <titles>
+      <title>HCC 470 O Exemplo de Cristo</title>
+      <title>Mateus 26:36-42</title>
+    </titles>
+    <copyright>Mateus 26:36-42</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="470"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Então foi Jesus com eles a um lugar chamado Getsêmane, e disse aos discípulos: Sentai-vos aqui, enquanto eu vou ali orar.<br/>E levando consigo Pedro e os dois filhos de Zebedeu, começou a entristecer-se e a angustiar-se. Então lhes disse:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A minha alma está triste até a morte; ficai aqui e vigiai comigo.<br/>E adiantando-se um pouco, prostrou-se com o rosto em terra e orou, dizendo:<br/>Meu Pai, se é possível, passa de mim este cálice; todavia, não seja como eu quero, mas como tu queres.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Voltando para os discípulos, achou-os dormindo; e disse a Pedro: Assim nem uma hora pudestes vigiar comigo?<br/>Vigiai e orai, para que não entreis em tentação; o espírito, na verdade, está pronto, mas a carne é fraca.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Retirando-se mais uma vez, orou, dizendo: Pai meu, se este cálice não pode passar sem que eu o beba, faça-se a tua vontade.</lines>
+    </verse>
+  </lyrics>
+</song>

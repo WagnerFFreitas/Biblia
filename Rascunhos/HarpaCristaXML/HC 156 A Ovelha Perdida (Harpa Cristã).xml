@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:55">
+  <properties>
+    <titles>
+      <title>HC156 - A Ovelha Perdida</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O bom Pastor buscou-me<br/>Já longe do redil,<br/>E com ternura achou-me,<br/>Caído, triste, vil!<br/>As chagas com amor pensou,<br/>E ao lar nos braços me levou.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sim, Jesus amou-me,<br/>Com amor buscou-me,<br/>Ele mesmo restaurou-me a Deus;<br/>Por Seu sangue restaurou-me a Deus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Seguiu-me, bem distante<br/>Do seu lugar, no céu,<br/>E disse, em voz amante:<br/>"Achei-te, tu és Meu".<br/>Jamais senti tão grande amor<br/>Como este do meu bom Pastor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Por Ele sou querido,<br/>Que graça singular!<br/>Pois Ele foi ferido,<br/>A fim de me salvar;<br/>Assim, ovelha dEle sou,<br/>E com o seu rebanho vou.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Prossigo alegre agora;<br/>Deus dá poder cabal<br/>E graca salvadora;<br/>Protege-me do mal,<br/>O bom Pastor comigo está,<br/>Meus passos Ele guiará.</lines>
+    </verse>
+  </lyrics>
+</song>

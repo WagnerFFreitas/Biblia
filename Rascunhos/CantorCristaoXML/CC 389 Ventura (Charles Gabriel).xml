@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:07">
+  <properties>
+    <titles>
+      <title>CC 389 Ventura</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Charles Gabriel</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="389"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O amor de meu Cristo é ventura,<br/>repleto de graça sem par;<br/>e sua ternura percebo<br/>cada dia por mim aumentar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh! ternura, graça e amor<br/>me dispensa o Salvador!<br/>Que amor sublime do meu Mestre,<br/>que ternura, que graça sem par!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Contente seguir vou seus passos,<br/>nos trilhos traçados por Deus;<br/>e se me provar na fornalha,<br/>sejam feitos os desígnios seus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Veloz se aproxima o seu dia;<br/>então seu semblante verei.<br/>Assim seu amor e ternura<br/>eu eternamente gozarei.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:41">
+  <properties>
+    <titles>
+      <title>HC068 - Gozo De Ter Salvação</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Podes receber a doce paz de Deus,<br/>Crendo em Jesus, que já desceu dos céus;<br/>Toma, hoje, tua cruz,<br/>Vem das trevas para a luz,<br/>E, assim, mui gozo te dará Jesus!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gozo de ter salvação,<br/>Gozo em teu coração.<br/>Alegria fruíras,<br/>Quando desfrutares paz,<br/>Que te trouxe Cristo, na cruenta cruz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O amor de Cristo podes conhecer,<br/>Seu sustento santo podes receber;<br/>Não mais só combaterás,<br/>Cristo te defenderá,<br/>E, assim, mui gozo te dará Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Queres tu, de Cristo, fiel soldado ser?<br/>Pelejar por Ele sempre sem temer?<br/>Vem, então, ao Salvador;<br/>Far-te-á mui vencedor,<br/>E, assim, mui gozo te dará Jesus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Poderás por Cristo ser aqui uma luz,<br/>Se obedeceres ao Senhor Jesus!<br/>Ó vem, hoje, sem temor,<br/>Aceitar o Salvador,<br/>E, assim, mui gozo te dará Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

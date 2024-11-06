@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:44">
+  <properties>
+    <titles>
+      <title>HM499 - O Reino do Senhor</title>
+      <title>Ó Deus com infinito amor,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó Deus com infinito amor,<br/>Erige o reino do Senhor!<br/>Ao teu Ungido tu darás<br/>O cetro da celeste paz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O mundo inteiro, ilustre Rei,<br/>Será sujeito à tua lei!<br/>E, como a chuva, descerão<br/>Os bens da eterna salvação.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Enquanto, o sol no céu brilhar,<br/>Dominarás de mar a mar;<br/>Por onde for a sua luz<br/>Hás de reinar, Senhor Jesus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Os pobres favorecerás;<br/>Os homens todos julgarás;<br/>Os reis do mundo hão de trazer<br/>Seus dons, e bênçãos receber.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>E todos ante o grande Rei,<br/>Exultarão em sua lei;<br/>Gentios sejam, ou judeus,<br/>Conhecerão somente um Deus.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>De glória a terra se encherá<br/>E para sempre enfim será<br/>Louvado o nosso Salvador.<br/>Bendito o nome do Senhor!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:31">
+  <properties>
+    <titles>
+      <title>HC375 - A Igreja Universal</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na rocha firme, triunfal,<br/>Está a Igreja universal;<br/>Fundada foi por Ti, Jesus,<br/>Ao expirares lá na cruz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Com Teu poder, enche meu ser;<br/>Ó Deus de amor, dá-me fervor;<br/>Remido estou, Teu filho sou,<br/>Com Teu poder, ó vem me encher.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A graça imensa do bom Deus,<br/>Lugar me deu, de filho Seu,<br/>Com plena paz no coração,<br/>Amor veraz, e salvação.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eis, pedra viva agora sou;<br/>No templo Seu me colocou;<br/>Do corpo Seu, um membro sou,<br/>O sangue Seu me consagrou.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Na rocha, não vai se abalar,<br/>A Tua Igreja e vencerá;<br/>Quando este mundo se acabar,<br/>Contigo, ela reinará.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:56:20">
+  <properties>
+    <titles>
+      <title>HC632 - Mais Um Templo</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hoje, inaugura-se aqui, santo Deus,<br/>Mais um padrão de teu amor:<br/>Um novo templo, fanal para os céus,<br/>Causa de mais louvor!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Glória a Deus! - glória a Deus<br/>Cantem os filhos teus!<br/>Glória a Deus! - glória a Deus!<br/>Glória nos altos céus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Casa de cultos e fonte de luz,<br/>Onde, Senhor, dás salvação<br/>Pelo Evangelho que trouxe Jesus,<br/>Com tanta compaixão!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Marco sublime da proclamação<br/>Do teu amor - do teu querer:<br/>Os pecadores aqui ouvirão<br/>Qual é o seu dever.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Seja esta casa lugar de oração,<br/>Habitação tua, oh! Deus!<br/>E porta do Céu, lugar de perdão,<br/>Vida de paz nos céus!</lines>
+    </verse>
+  </lyrics>
+</song>

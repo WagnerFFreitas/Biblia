@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:43">
+  <properties>
+    <titles>
+      <title>HC443 - Larga O Mundo!</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pecador, um convite te queremos dar.<br/>Um convite divino o consolador;<br/>Hoje queres à casa paternal voltar,<br/>Onde Cristo te espera cheio de amor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Larga o mundo já, vem após<br/>Jesus;<br/>O qual pode agora mesmo te salvar!<br/>Tudo pronto está, que divina luz!<br/>Cristo hoje te convida para vir cear!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quando Cristo sofreu pregado lá na cruz;<br/>Preparou p'ra teu ser um divinal manjar;<br/>E agora te chama para Sua luz;<br/>Pois tua alma faminta Ele quer fartar!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó aceita o convite que Jesus te faz,<br/>Que franqueia a entrada na mansão de luz;<br/>E o gozo divino que te satisfaz,<br/>Ó aceita o convite do Senhor Jesus!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ai do que o convite santo recusar,<br/>E tiver por profano o sangue de Jesus;<br/>O banquete celeste não vai desfrutar,<br/>Quem despreza o convite feito lá na cruz!</lines>
+    </verse>
+  </lyrics>
+</song>

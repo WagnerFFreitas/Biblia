@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:12">
+  <properties>
+    <titles>
+      <title>HC269 - Louvarei Ao Meu Amado</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Louvarei ao meu amado;<br/>Sobre todos exaltado;<br/>Por Seu sangue fui comprado;<br/>Todo dEle sou.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No Seu nome há melodia;<br/>Quão suave em harmonia!<br/>Enche as almas de alegria<br/>Esse som - JESUS!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Digno é de confiança,<br/>Mui fiel e sem mudança;<br/>NEle está minha esperança;<br/>Bem seguro estou!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Seu caminho vou seguindo,<br/>Sua força me cingindo,<br/>Na carreira prosseguindo,<br/>Té no céu entrar.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lá verei meu Rei glorioso,<br/>Coroado, majestoso,<br/>Mais que todos amoroso,<br/>Meu SENHOR JESUS.</lines>
+    </verse>
+  </lyrics>
+</song>

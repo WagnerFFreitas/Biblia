@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:12">
+  <properties>
+    <titles>
+      <title>CC 138 A Lei do Senhor</title>
+      <title>Harwell</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Lowell Manson</author>
+      <author>Letra anônima</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="138"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Sábia, justa, santa e pura,<br/>é a lei do Senhor;<br/>que corrige a vida impura<br/>do perdido pecador.</lines>
+      <lines>Do Senhor o ensinamento<br/>nela tão perfeito está,<br/>é tão cheia de preceitos<br/>e conselhos santos dá.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Do Senhor os bons conselhos,<br/>justos e benignos são;<br/>neles vejo, quais espelhos,<br/>quanto é mau o meu coração.</lines>
+      <lines>Mais que o sol, resplandecentes<br/>os preceitos do Senhor,<br/>iluminam nossas mentes<br/>com vivo resplendor.</lines>
+    </verse>
+  </lyrics>
+</song>

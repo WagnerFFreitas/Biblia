@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:49">
+  <properties>
+    <titles>
+      <title>HCC 479 Respondendo ao Convite de Jesus</title>
+      <title>Mateus 4:19-22</title>
+    </titles>
+    <copyright>Mateus 4:19-22</copyright>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="479"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Disse-lhes: Vinde após mim, e eu vos farei pescadores de homens.<br/>Eles, pois, deixando imediatamente as redes, o seguiram.<br/>E, passando mais adiante, viu outros dois irmãos Tiago (...) e seu irmão João, no barco com seu pai (...) e os chamou.<br/>Estes, deixando imediatamente o barco e seu pai, seguiram-no.</lines>
+    </verse>
+  </lyrics>
+</song>

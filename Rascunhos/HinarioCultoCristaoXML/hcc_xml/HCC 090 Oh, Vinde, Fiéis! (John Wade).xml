@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:33">
+  <properties>
+    <titles>
+      <title>HCC 090 Oh, Vinde, Fiéis!</title>
+      <title>Adeste Fideles</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>John Wade</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="090"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, vinde, fiéis,<br/>triunfantes, alegres,<br/>sim, vinde a Belém,<br/>já movidos de amor.<br/>Nasceu vosso Rei,<br/>lá dos céus prometido.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh, vinde, adoremos!<br/>Oh, vinde, adoremos!<br/>Oh, vinde, adoremos<br/>a nosso Senhor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Olhai, admirados,<br/>a sua humildade.<br/>Os anjos o louvam<br/>com grande fervor,<br/>pois veio conosco<br/>habitar, encarnado.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Por nós, das alturas<br/>celestes baixando,<br/>em forma de servo<br/>se fez, por amor,<br/>e em glórias a vida<br/>nos dá para sempre.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nos céus adorai-o,<br/>vós, anjos em coro,<br/>e todos na terra<br/>tributem louvor.<br/>A Deus honra e glória,<br/>contentes, rendamos.</lines>
+    </verse>
+  </lyrics>
+</song>

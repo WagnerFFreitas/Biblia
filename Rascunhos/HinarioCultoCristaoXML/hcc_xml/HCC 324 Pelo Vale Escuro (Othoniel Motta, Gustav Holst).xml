@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:16">
+  <properties>
+    <titles>
+      <title>HCC 324 Pelo Vale Escuro</title>
+      <title>Cranham</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Othoniel Motta</author>
+      <author>Gustav Holst</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="324"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Pelo vale escuro<br/>seguirei, Jesus,<br/>mas por ti seguro,<br/>vendo a tua luz,</lines>
+      <lines>o meu passo incerto<br/>tu dirigirás.<br/>Ao sentir-te perto,<br/>nunca perco a paz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Os espinhos tantos<br/>que nos vêm sangrar<br/>são remédios santos<br/>para nos curar.</lines>
+      <lines>Onde existe a graça<br/>do bondoso Deus,<br/>tudo o que se passa<br/>nos conduz aos céus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Não há dor que seja<br/>sem divino fim.<br/>Faze, ó Deus que a Igreja<br/>compreenda assim</lines>
+      <lines>e apesar das trevas<br/>possa ver, Senhor,<br/>que tu mesmo a levas<br/>com imenso amor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Breve a noite desce,<br/>noite de Emaús,<br/>e meu ser carece<br/>de te ver, Jesus;</lines>
+      <lines>companheiro, amigo,<br/>ao meu lado vem.<br/>Fica, ó Deus, comigo,<br/>infinito bem!</lines>
+    </verse>
+  </lyrics>
+</song>

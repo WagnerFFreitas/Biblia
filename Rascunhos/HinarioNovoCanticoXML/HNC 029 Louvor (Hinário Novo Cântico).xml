@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:49">
+  <properties>
+    <titles>
+      <title>HNC 029 - Louvor</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="29"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó minha alma, a Deus bendize<br/>Em humilde adoração,<br/>Nada há mais que te escravize<br/>No pecado e escuridão!<br/>Oh! Louvai-o! Oh! Louvai-o!<br/>Ele é o Rei da criação!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pelo seu favor e graça<br/>Que outorgou a nossos pais,<br/>E por tudo que ele faça,<br/>Bendizei-o mais e mais!<br/>Oh! Louvai-o! Oh! Louvai-o!<br/>Como os nossos ancestrais.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se estivermos em perigo,<br/>Nosso Deus nos guardará;<br/>Ele as trevas e o inimigo<br/>Para sempre abaterá!<br/>Oh! Louvai-o! Oh! Louvai-o!<br/>Pelas bençãos que nos dá!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Anjos e homens, reverentes,<br/>Adorai-o com fervor;<br/>Lua, estrelas, sol luzente,<br/>Que ao espaço dais fulgor,<br/>Oh! Louvai-o! Oh! Louvai-o!<br/>Pois é Deus de excelso amor!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:58">
+  <properties>
+    <titles>
+      <title>HC179 - Redentor Formoso</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Redentor formoso e belo,<br/>Que habitas em alvor;<br/>Na minh'alma eu anelo<br/>De ser como és Tu, Senhor</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Té que um dia vá, remido,<br/>No céu eu ver o Redentor!<br/>Depois que eu tiver cumprido<br/>O Seu querer, por Seu amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Os meus olhos, ó retira,<br/>Deste mundo de horror,<br/>Pois minh'alma em Ti remira<br/>Tua graça e Teu favor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Já a noite se avança;<br/>Bela estrela vai nascer,<br/>Temos nós a esperança<br/>Dum eterno e gran prazer.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tua mão, ó meu sustente,<br/>Humilhado aos Teus pés,<br/>Com a alma e com a mente,<br/>Pela verdadeira fé.</lines>
+    </verse>
+  </lyrics>
+</song>

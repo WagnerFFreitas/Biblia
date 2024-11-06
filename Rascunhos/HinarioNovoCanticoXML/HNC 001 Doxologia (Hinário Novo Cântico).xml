@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-12-24T18:59:35">
+  <properties>
+    <titles>
+      <title>HNC 001 - Doxologia</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Justo é o Senhor em seus santos caminhos,<br/>Benigno em todas as suas obras. (bis)<br/>Perto está o Senhor, perto está dos que o invocam,<br/>De todos os que o invocam<br/>Em verdade. Aleluia! Aleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

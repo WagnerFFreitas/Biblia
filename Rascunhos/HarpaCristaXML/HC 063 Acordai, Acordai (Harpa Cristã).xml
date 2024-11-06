@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:40">
+  <properties>
+    <titles>
+      <title>HC063 - Acordai, Acordai</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eis marchamos para aquele bom país,<br/>Onde o crente (sim, é Cristo quem o diz),<br/>Com seu Salvador p'ra sempre ali feliz,<br/>Vai com Ele descansar.<br/>Trabalhemos, pois, com zelo e com vigor,<br/>Constrangidos pelo Seu imenso amor;<br/>Trabalhemos pelo nosso Salvador:<br/>Eis que a vida vai findar!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Acordai! Acordai! Despertai!<br/>Despertai!<br/>E cantai! Sim, cantai! O Senhor não tardará.<br/>Eis marchamos para aquele bom páis,<br/>Onde o crente (sim, é Cristo quem o diz),<br/>Com seu Salvador, p'ra sempre ali feliz,<br/>Vai com Ele descansar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eis conosco nosso insigne Capitão,<br/>Que nos assegura eterna salvação!<br/>Eis da santa fé, o invicto pavilhão!<br/>Vamos, vamos trabalhar!<br/>Eis avante! nada temos que temer;<br/>Por Jesus, havemos sempre de vencer,<br/>Trabalhemos, pois até o amanhecer,<br/>E o trabalho aqui findar!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Revestivos da couraça de Jesus,<br/>Como servos Seus e filhos, sim, da luz,<br/>Gloriando-nos em Cristo e Sua cruz!<br/>Vamos, vamos, trabalhar!<br/>Os perdidos, vamos com amor buscar,<br/>Aos desesperados, Vamos declarar<br/>Que Jesus 'stá pronto todos a salvar!<br/>Ó sim, vamos trabalhar!</lines>
+    </verse>
+  </lyrics>
+</song>

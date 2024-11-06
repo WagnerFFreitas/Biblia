@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:53">
+  <properties>
+    <titles>
+      <title>HNC 126 - Dependência</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c2</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="126"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>De ti, meu bom Senhor,<br/>Eu tenho precisão;<br/>Só teu divino amor<br/>Dá paz ao coração.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Concede-me, Jesus,<br/>Fruir teu rico amor!<br/>E andar em tua luz,<br/>Submisso a ti, Senhor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vencendo a tentação,<br/>Contente viverei<br/>Na tua proteção,<br/>Ó meu bendito Rei!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Ó meu Jesus, comigo<br/>Tu sempre hás de ficar,<br/>Até que eu vá contigo,<br/>Senhor, no céu morar!</tag>
+      </lines>
+    </verse>
+    <verse name="c2">
+      <lines>
+        <tag name="it">Ó meu Jesus, comigo<br/>Tu sempre hás de ficar,<br/>Até que eu vá contigo,<br/>Senhor, no céu morar! Amém.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:14">
+  <properties>
+    <titles>
+      <title>HM082 - Invocação</title>
+      <title>Onipotente Rei,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Justus Henri Nelson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Onipotente Rei,<br/>Presente está à grei,<br/>Com teu poder.<br/>Governa, Vencedor,<br/>Inspira-lhe louvor<br/>Sincero e grato amor,<br/>Em seu viver.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bondoso Deus e Pai,<br/>Ao céu confiante vai<br/>Nossa oração:<br/>Vem sempre abençoar,<br/>E faze prosperar<br/>A quanto semear<br/>A nossa mão.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vem tu, Consolador:<br/>Sê Testificador<br/>Da salvação.<br/>No templo vem entrar,<br/>E a obra completar,<br/>Das manchas vem lavar<br/>Meu coração.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó Grande e trino Deus,<br/>Ouve os louvores meus,<br/>Que oferto aqui.<br/>Pureza tu nos dás,<br/>Ao céu nos levarás<br/>E nos colocarás<br/>Bem junto a ti.</lines>
+    </verse>
+  </lyrics>
+</song>

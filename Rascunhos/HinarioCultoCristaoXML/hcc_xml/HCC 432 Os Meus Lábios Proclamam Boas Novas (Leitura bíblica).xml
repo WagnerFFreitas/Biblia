@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:40">
+  <properties>
+    <titles>
+      <title>HCC 432 Os Meus Lábios Proclamam Boas Novas</title>
+      <title>Salmos 40:8, 9</title>
+    </titles>
+    <copyright>Salmos 40:8, 9</copyright>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="432"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deleito-me em fazer a tua vontade, ó Deus meu; sim, a tua lei está dentro do meu coração.<br/>Tenho proclamado boas novas de justiça na grande congregação; eis que não retive os meus lábios.</lines>
+    </verse>
+  </lyrics>
+</song>

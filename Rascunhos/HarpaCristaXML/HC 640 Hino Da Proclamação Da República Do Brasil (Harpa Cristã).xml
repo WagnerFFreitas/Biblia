@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:56:21">
+  <properties>
+    <titles>
+      <title>HC640 - Hino Da Proclamação Da República Do Brasil</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Seja um pálio de luz desdobrado<br/>Sob a larga amplidão destes céus<br/>Este canto rebel, que o passado<br/>Vem remir dos mais torpes labéus!<br/>Seja um hino de glória que fale<br/>De esperanças de um novo porvir!<br/>Com visões de triunfos embale<br/>Quem por ele lutando surgir!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Liberdade! Liberdade!<br/>Abre as asas sobre nós!<br/>Das lutas na tempestade<br/>Dá que ouçamos tua voz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nós nem cremos que escravos outrora<br/>Tenha havido em tão nobre país...<br/>Hoje, o rubro lampejo da Aurora<br/>Acha irmãos, não tiranos hostis.<br/>Somos todos iguais! Ao futuro<br/>Saberemos, unidos, levar<br/>Nosso augusto estandarte que, puro,<br/>Brilha, ovante, da Pátria no altar!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Se é mister que de pertos valentes<br/>Haja sangue no nosso pendão,<br/>Sangue vivo do herói Tiradentes<br/>Batizou este audaz pavilhão!<br/>Mensageiros da paz, paz queremos,<br/>É de amor nossa força e poder,<br/>Mas da guerra nos transes supremos<br/>Heis de ver-nos lutar e vencer!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Do Ipiranga é preciso que o brado<br/>Seja um grito soberbo de fé!<br/>O Brasil já surgiu libertado,<br/>Sobre as púrpuras régias de pé!<br/>Eia, pois, brasileiros, avante!<br/>Verdes louros colhamos louçãos!<br/>Seja o nosso país, triunfante,<br/>Livre terra de livres irmãos!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:34">
+  <properties>
+    <titles>
+      <title>HC010 - Eu Te Louvo</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Glória a Deus, o Pai eterno,<br/>Cujo trono é os céus;<br/>O Universo lhe pertence.<br/>Glória, sim, ao nosso Deus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Eu te louvo! Eu te louvo!<br/>Oh! Jesus, meu Salvador!<br/>Dai-lhe glórias, ó remidos!<br/>Pois seu sangue limpa o pecador.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Glória ao Filho, mui amado,<br/>Que merece o louvor,<br/>Demos glória ao Seu nome,<br/>Ao cordeiro, ao Redentor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Demos nós, ao Santo Espírito,<br/>Mil louvores por seu dom;<br/>Por sua graça tão imensa,<br/>Glória a Ele, Ele é bom!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Glória, glória ao Pai bendito,<br/>Glória, glória a Jesus;<br/>Glória dai ao Santo Espírito,<br/>Ao Deus trino, nossa luz.</lines>
+    </verse>
+  </lyrics>
+</song>

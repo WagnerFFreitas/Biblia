@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:41:53">
+  <properties>
+    <titles>
+      <title>CC 037 Amor Glorioso</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>W. Walton</author>
+      <author>Adoniram Gordon</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="037"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Buscou-me com ternura<br/>Jesus, o bom Pastor;<br/>achou-me na miséria,<br/>salvou-me com amor;<br/>no céu cantaram de alegria<br/>os anjos, sim, em harmonia.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh! que amor glorioso!<br/>Preço tão grandioso<br/>que Jesus por mim na cruz pagou;<br/>inaudita graça me mostrou!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ferido abandonado,<br/>Jesus me socorreu;<br/>e segredou-me: "Achei-te;<br/>de agora em diante és meu".<br/>Tão meiga voz jamais ouvi;<br/>prazer maior jamais senti.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus mostrou-me as chagas<br/>que em meu lugar sofreu,<br/>coroa, mas de espinhos,<br/>a cruz que padeceu;<br/>que poderia em mim achar,<br/>pra tais afrontas suportar?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Minha alma embevecida,<br/>seu rosto a contemplar,<br/>recorda as muitas bênçãos<br/>do seu amor sem par;<br/>louvor e glória e adoração,<br/>tributa-lhe meu coração!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Enquanto as horas passam,<br/>eu tenho gozo e paz,<br/>e aguardo o meu bom Mestre,<br/>que tão feliz me faz;<br/>Jesus, a mim virá buscar,<br/>e então pra sempre irei gozar.</lines>
+    </verse>
+  </lyrics>
+</song>

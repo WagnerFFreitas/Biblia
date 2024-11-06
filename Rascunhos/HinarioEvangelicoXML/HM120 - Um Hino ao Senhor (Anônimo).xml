@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:20">
+  <properties>
+    <titles>
+      <title>HM120 - Um Hino ao Senhor</title>
+      <title>As grutas, as rochas imensas,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Anônimo</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As grutas, as rochas imensas,<br/>Dos mundos o grande esplendor<br/>Proclamam, bem alto, constantes,<br/>Um hino ao teu nome, Senhor!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nos céus, e no mar, e na terra,<br/>Nos bosques, nos prados em flor,<br/>No fragoso alcantil,<br/>Na amplitude celeste,<br/>Um hino ressoa ao Senhor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No céu, as estrelas brilhantes,<br/>Dos mares o grande fragor,<br/>E as brisas entoam, ridentes,<br/>Um hino ao teu nome, Senhor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As aves alegres, na mata,<br/>Por entre as ramagens em flor,<br/>Exultam em coro, cantando<br/>Um hino ao teu nome, Senhor!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>E tu, pecador, que vagueias,<br/>Que fazes ao teu Criador?<br/>Não achas momento em que cantes<br/>Um hino de glória ao Senhor?</lines>
+    </verse>
+  </lyrics>
+</song>

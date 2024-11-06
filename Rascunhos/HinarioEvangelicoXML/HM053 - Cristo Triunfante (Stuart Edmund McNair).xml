@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:10">
+  <properties>
+    <titles>
+      <title>HM053 - Cristo Triunfante</title>
+      <title>Jesus é rejeitado,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Stuart Edmund McNair</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus é rejeitado,<br/>O mundo não o quer;<br/>Recusa desdenhoso<br/>Seu Reino receber.<br/>Mas presto em majestade<br/>Do seu celeste lar,<br/>Vem triunfante em glória<br/>Aqui reinar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Presto vem o dia eterno<br/>Da sua exaltação!<br/>Este dia desejado<br/>De toda a criação!<br/>Oh! Que canto glorioso<br/>Então há de soar,<br/>Quando Cristo triunfante<br/>Aqui reinar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Já temos privilégio<br/>De pela fé prever<br/>A divinal herança<br/>Que vamos receber;<br/>A dor e sofrimento<br/>Terão de aqui findar,<br/>Quando Cristo triunfante<br/>Aqui reinar.</lines>
+    </verse>
+  </lyrics>
+</song>

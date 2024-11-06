@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:31">
+  <properties>
+    <titles>
+      <title>HCC 079 Ó Jesus, Eu Te Amo</title>
+      <title>Tomes</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Aaron Tomes</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="079"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Ó Jesus, eu te amo!<br/>Ó Jesus, eu te amo,<br/>pois aqui presente estás,</lines>
+      <lines>com bondade, graça e paz.<br/>Ó Jesus, eu te amo!<br/>Eu te amo!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Ó Jesus, te agradeço!<br/>Ó Jesus, te agradeço,<br/>pois aqui presente estás,</lines>
+      <lines>com bondade, graça e paz.<br/>Ó Jesus, te agradeço!<br/>Te agradeço!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Ó Jesus, eu te louvo!<br/>Ó Jesus, eu te louvo,<br/>pois aqui presente estás,</lines>
+      <lines>com bondade, graça e paz.<br/>Ó Jesus, eu te louvo!<br/>Eu te louvo!</lines>
+    </verse>
+  </lyrics>
+</song>

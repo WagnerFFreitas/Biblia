@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:49">
+  <properties>
+    <titles>
+      <title>HCC 478 Tua Voz Escuto a Convocar-me</title>
+      <title>Eis-me Aqui</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Hiram Rollo Júnior</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="478"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Tua voz escuto a convocar-me,<br/>pronto estou e vou te obedecer;</lines>
+      <lines>nesta senda vou seguir teus passos,<br/>mesmo que eu precise padecer.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">O que sou e tudo o que possuo<br/>eu entrego para te servir;</lines>
+      <lines>quero ser um instrumento usado por ti,<br/>Senhor, eis-me aqui, eis-me aqui.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Minha vida quebra, molda e usa,<br/>quero ser um vaso em tuas mãos;</lines>
+      <lines>que também eu seja como espelho<br/>refletindo sempre o teu padrão.</lines>
+    </verse>
+  </lyrics>
+</song>

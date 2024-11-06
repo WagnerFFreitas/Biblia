@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:04">
+  <properties>
+    <titles>
+      <title>HM344 - O Jardim da Oração</title>
+      <title>O Jardim onde Cristo me espera</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Eleanor Allen Schroll</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Jardim onde Cristo me espera<br/>É lugar de delícia e de paz.<br/>A certeza de sua presença<br/>Dá-me vida feliz e eficaz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh! Que lindo jardim,<br/>O jardim de oração,<br/>Onde Cristo me vem esperar;<br/>Perto dele estarei<br/>E contente serei<br/>De minha alma a seus pés derramar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No Jardim onde Cristo me espera,<br/>Eu deponho meus males e dor;<br/>E por bênção de Deus confortado,<br/>Dou louvores ao meu Redentor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No Jardim onde Cristo me espera,<br/>Quer também te acolher, meu irmão.<br/>Vem fruir a incessante bondade<br/>Que promana do seu coração!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Oh! Que lindo jardim,<br/>O jardim de oração,<br/>Onde as flores são graça e poder;<br/>Onde Cristo, o Senhor,<br/>Abre as portas do amor,<br/>Eu me sinto feliz em viver!</lines>
+    </verse>
+  </lyrics>
+</song>

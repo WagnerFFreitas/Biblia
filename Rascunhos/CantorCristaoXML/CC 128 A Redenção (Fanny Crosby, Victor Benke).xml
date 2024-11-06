@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:10">
+  <properties>
+    <titles>
+      <title>CC 128 A Redenção</title>
+      <title>Redeeming Grace</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Fanny Crosby</author>
+      <author>Victor Benke</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="128"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eterno Deus, queremos nós<br/>louvores a Jesus cantar;<br/>o seu amor, a sua cruz,<br/>ajuda-nos a celebrar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A graça vinda do alto céu<br/>que o Salvador nos concedeu,<br/>descanso traz ao coração,<br/>vigor e paz e salvação.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Da vida és o Criador,<br/>de ti provém inspiração;<br/>abrasa-nos com mais ardor<br/>pra divulgar a redenção.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>De Cristo a causa defender,<br/>o reino seu anunciar,<br/>a fama dele promover;<br/>eis nossa glória singular!</lines>
+    </verse>
+  </lyrics>
+</song>

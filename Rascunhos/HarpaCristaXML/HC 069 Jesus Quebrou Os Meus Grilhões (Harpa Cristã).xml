@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:41">
+  <properties>
+    <titles>
+      <title>HC069 - Jesus Quebrou Os Meus Grilhões</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus quebrou os meus grilhões,<br/>Com sangue me comprou;<br/>A minha alma, de prisões,<br/>Eterna resgatou.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Aleluia! Cristo salva o perdido pecador!<br/>Aleluia! Cristo salva o perdido com amor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>É minha paz, e proteção,<br/>Meu bom Consolador;<br/>Auxílio certo na aflição,<br/>Remédio para a dor,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nenhum perigo temerei,<br/>Estando em Jesus;<br/>As dores não mais sofrerei;<br/>Jesus é minha luz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus, Teu nome louvarei,<br/>Com todo o coração;<br/>Alegre ao mundo anunciarei<br/>Tão grande salvação.</lines>
+    </verse>
+  </lyrics>
+</song>

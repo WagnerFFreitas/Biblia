@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:15">
+  <properties>
+    <titles>
+      <title>HM394 - A Excelência do Amor</title>
+      <title>Qual o adorno desta vida?</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Qual o adorno desta vida?<br/>É o amor.<br/>Alegria é concedida,<br/>Pelo amor.<br/>É benigno, é paciente,<br/>Não se torna maldizente<br/>Este meigo amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Com suspeitas não se alcança<br/>Vero amor;<br/>Onde houver desconfiança,<br/>Ai do amor!<br/>Pois amemos a verdade:<br/>Onde reina a falsidade<br/>Não perdura o amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Não te irrites, mas tolera<br/>Com amor;<br/>Tudo sofre, tudo espera<br/>Pelo amor.<br/>Pois mostremos tolerância,<br/>Muitas vezes a arrogância<br/>Murcha e mata o amor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó cristão, ao teu vizinho<br/>Mostra amor;<br/>O valor não é mesquinho<br/>Deste amor.<br/>O supremo Deus nos ama;<br/>Cristo para o céu nos chama,<br/>Onde reina o amor!</lines>
+    </verse>
+  </lyrics>
+</song>

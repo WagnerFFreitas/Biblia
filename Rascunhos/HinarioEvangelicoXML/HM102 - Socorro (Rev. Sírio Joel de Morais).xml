@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:17">
+  <properties>
+    <titles>
+      <title>HM102 - Socorro</title>
+      <title>Oh! vem, Senhor, com teu poder</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Sírio Joel de Morais</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh! vem, Senhor, com teu poder<br/>Teu povo crente defender<br/>E a quem está a fraquejar<br/>Do mal, da dor, oh! vem salvar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ajuda o povo a ter vigor<br/>No zelo e fé, e com fervor<br/>De dia em dia te servir,<br/>Tua vontade perquirir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh! Cristo Eterno, oh! meu Jesus,<br/>És vero Deus, és vera luz!<br/>Habita em nós, se assim te apraz,<br/>E dá-nos bênçãos, dá-nos paz.</lines>
+    </verse>
+  </lyrics>
+</song>

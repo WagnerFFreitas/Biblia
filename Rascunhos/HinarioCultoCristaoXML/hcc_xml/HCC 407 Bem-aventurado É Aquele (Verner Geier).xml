@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:32">
+  <properties>
+    <titles>
+      <title>HCC 407 Bem-aventurado É Aquele</title>
+      <title>Salmo 1</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Verner Geier</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="407"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Bem-aventurado é aquele que tem no Senhor o auxílio.<br/>Bem-aventurado é aquele que não segue o mau conselho,</lines>
+      <lines>não imita o pecador<br/>nem o escarnecedor;<br/>antes tem o seu prazer em meditar na lei do Senhor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Ele é semelhante à árvore plantada junto às águas;<br/>vive sempre bem seguro, não receia o mal, nem mágoas;</lines>
+      <lines>dá seu fruto na estação,<br/>nunca as folhas cairão,<br/>tudo quanto faz prospera, pois tem no Senhor proteção.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Mas os ímpios não subsistirão no dia do juízo,<br/>nem os pecadores poderão entrar no paraíso;</lines>
+      <lines>só os justos entrarão<br/>na celestial mansão.<br/>Bem-aventurado é aquele que já tem em Deus salvação.</lines>
+    </verse>
+  </lyrics>
+</song>

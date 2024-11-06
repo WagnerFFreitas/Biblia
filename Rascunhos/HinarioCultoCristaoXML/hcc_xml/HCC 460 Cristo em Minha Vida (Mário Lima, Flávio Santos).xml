@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:46">
+  <properties>
+    <titles>
+      <title>HCC 460 Cristo em Minha Vida</title>
+      <title>Justificação Pela Fé</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Mário Lima</author>
+      <author>Flávio Santos</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="460"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Cristo veio ao mundo<br/>pra mudar o meu viver.<br/>Cristo em minha vida<br/>santifica meu querer.</lines>
+      <lines>Ele deu-me tudo,<br/>vindo morrer em meu lugar.<br/>Cristo em minha vida<br/>trouxe paz e perdão sem par.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Logo vem o dia<br/>quando Jesus irá voltar.<br/>Cristo, em sua graça,<br/>vai meu ser glorificar.</lines>
+      <lines>Deus, o pai das luzes,<br/>mostrou ao mundo a solução.<br/>Cristo em minha vida<br/>representa salvação.</lines>
+    </verse>
+  </lyrics>
+</song>

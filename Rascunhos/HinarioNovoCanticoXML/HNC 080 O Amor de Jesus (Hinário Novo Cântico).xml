@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:51">
+  <properties>
+    <titles>
+      <title>HNC 080 - O Amor de Jesus</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="80"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cantarei o imenso amor<br/>Do Senhor – amor sem fim! -,<br/>De Jesus que aqui desceu<br/>E morreu na cruz por mim.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Antes mesmo de eu orar<br/>Ou chorar minha aflição,<br/>Meu Jesus por mim chorou<br/>E implorou, na cruz, perdão.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ninguém pode calcular<br/>Nem sondar tão grande amor,<br/>Que me faz limpo e feliz,<br/>Do Juiz sem ter pavor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Não mereço tal favor,<br/>Mas Jesus me soube amar;<br/>Quero, pois, com devoção,<br/>Meu amor lhe dedicar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Falarei do grande amor<br/>Com louvor e gratidão!<br/>Servirei o meu Jesus,<br/>Que na cruz me deu perdão.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

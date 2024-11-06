@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:26">
+  <properties>
+    <titles>
+      <title>CC 205 Jesus Crucificado</title>
+      <title>Zion</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Henry Wright</author>
+      <author>Thomas Hastings</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="205"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Ó minha alma, sem demora ergue-te para entoar<br/>os louvores do teu Cristo e seu nome celebrar!</lines>
+      <lines>Pra remir-te sua vida te quis dar!<br/>Pra remir-te sua vida te quis dar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Minha condição tão triste conheceu meu Salvador,<br/>e dos céus desceu à terra para ser meu Redentor,</lines>
+      <lines>oh! quão grande é o amor do meu Senhor!<br/>Oh! quão grande é o amor do meu Senhor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Condenado justamente, que podia eu fazer<br/>pra livrar-me dessa pena, o perdão pra merecer?</lines>
+      <lines>O seu sangue quis Jesus por mim verter!<br/>O seu sangue quis Jesus por mim verter!</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">De meus crimes carregado, lá na cruz em meu lugar<br/>foi Jesus crucificado a minha alma pra salvar!</lines>
+      <lines>Vinde todos, já comigo adorar!<br/>Vinde todos, já comigo adorar!</lines>
+    </verse>
+  </lyrics>
+</song>

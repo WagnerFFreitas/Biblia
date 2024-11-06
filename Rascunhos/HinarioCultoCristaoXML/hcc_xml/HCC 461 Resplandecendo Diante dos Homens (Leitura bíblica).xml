@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:46">
+  <properties>
+    <titles>
+      <title>HCC 461 Resplandecendo Diante dos Homens</title>
+      <title>Mateus 5:13-16</title>
+    </titles>
+    <copyright>Mateus 5:13-16</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="461"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines><tag name="y">Dirigente:</tag><br/>Vós sois o sal da terra; mas se o sal se tornar insípido, com que se há de restaurar-lhe o sabor?<br/>Para nada mais presta, senão para ser lançado fora, e ser pisado pelos homens.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><tag name="y">Congregação:</tag><br/>Vós sois a luz do mundo. Não se pode esconder uma cidade situada sobre um monte;<br/>nem os que acendem uma candeia a colocam debaixo do alqueire, mas no velador, e assim ilumina a todos que estão na casa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><tag name="y">Todos:</tag><br/>Assim resplandeça a vossa luz diante dos homens, para que vejam as vossas boas obras, e glorifiquem a vosso Pai, que está nos céus.</lines>
+    </verse>
+  </lyrics>
+</song>

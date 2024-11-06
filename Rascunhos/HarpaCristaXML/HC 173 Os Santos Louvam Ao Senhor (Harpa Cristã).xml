@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:57">
+  <properties>
+    <titles>
+      <title>HC173 - Os Santos Louvam Ao Senhor</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pronto 'stamos p'ra louvar Jesus, o Salvador,<br/>Glória a Jesus e aleluia!<br/>E havemos de cantar ao nosso Redentor,<br/>Glória a Jesus e aleluia!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Têm os santos do Senhor<br/>O direito de cantar<br/>Que Jesus, com grande amor,<br/>Veio à terra p'ra salvar;<br/>Nossa alma resgatou,<br/>Com Seu sangue nos lavou;<br/>Glória a Jesus e aleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A certeza temos já da nossa redenção,<br/>Glória a Jesus e aleluia!<br/>E, cantando, vamos indo p'ra feliz Sião;<br/>Glória a Jesus e aleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Temos firmes as promessas que Deus nos quis dar,<br/>Glória a Jesu e aleluia!<br/>Por Jesus, aqui, podemos sempre triunfar,<br/>Glória a Jesus e aleluia!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Têm os santos do Senhor<br/>O poder de exaltar<br/>Cristo, nosso Salvador,<br/>Que nos veio resgatar;<br/>Já vivemos pela fé,<br/>No palácio do que "É";<br/>Glória a Jesus e aleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

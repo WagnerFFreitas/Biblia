@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:50">
+  <properties>
+    <titles>
+      <title>HNC 045 - Grande Redenção</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="45"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Milhares de milhares ouço<br/>Cantando a Deus com gratidão,<br/>A Cristo, o Salvador, louvando<br/>Por sua grande Redenção.<br/>“A Deus louvai” – em coro clamam;<br/>“ A Deus louvai – pois nos amou!<br/>E, pelo sangue do Cordeiro.<br/>De toda mancha nos lavou!”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O mesmo salmo triunfante,<br/>Em tons de santa exultação,<br/>Por todo o mundo vai subindo<br/>A Deus, Autor da Redenção.<br/>“A Deus louvai!” –nos vales soa<br/>E os montes fazem ecoar:<br/>“A Deus louvai, o Deus da Graça,<br/>Que aos pecadores quer salvar!”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>E nós, teus santos pés cercando,<br/>Enquanto militando aqui<br/>As nossas vozes elevamos<br/>Para exaltar, Senhor, a ti.<br/>“A Deus louvai!” – também clamamos!<br/>“ A Deus louvai, supremo Rei!<br/>E glória, honra, majestade<br/>A Cristo, o Salvador, rendei!”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Das trevas fomos nós chamados<br/>À Tua pura e santa luz!<br/>A escravidão e do pecado<br/>Nos libertaste pela cruz.<br/>“A Deus louvai!” – cantemos todos!<br/>“A Deus louvai, que nos remiu,<br/>E filhos seus e seus herdeiros,<br/>Em Cristo, nos constituiu!”</lines>
+    </verse>
+  </lyrics>
+</song>

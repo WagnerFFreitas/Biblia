@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:17">
+  <properties>
+    <titles>
+      <title>HM100 - Súplica do Crente</title>
+      <title>Volve, ó Senhor, com terno amor,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Anônimo</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Volve, ó Senhor, com terno amor,<br/>Os olhos teus, benigno,<br/>Ao coração que em oração<br/>Deseja ser mais digno.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vem conceder o teu poder<br/>Senhor Deus de clemência,<br/>Á igreja aqui, na vida em ti,<br/>Do amor, a florescência.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Abre as prisões, quebra os grilhões,<br/>Liberta os pecadores;<br/>Domina o mal e, paternal,<br/>Remove as nossas dores.</lines>
+    </verse>
+  </lyrics>
+</song>

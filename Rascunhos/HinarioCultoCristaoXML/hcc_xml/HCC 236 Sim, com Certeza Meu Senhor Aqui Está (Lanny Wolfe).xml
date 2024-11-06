@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:00">
+  <properties>
+    <titles>
+      <title>HCC 236 Sim, com Certeza Meu Senhor Aqui Está</title>
+      <title>Surely The Presence</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Lanny Wolfe</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="236"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sim, com certeza meu Senhor aqui está,<br/>pois eu sinto a sua graça, seu poder.<br/>Refletida em cada face aqui,<br/>sua glória posso ver;<br/>sim, com certeza meu Senhor aqui está.</lines>
+    </verse>
+  </lyrics>
+</song>

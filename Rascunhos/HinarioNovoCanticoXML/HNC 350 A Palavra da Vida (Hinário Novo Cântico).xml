@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:49:02">
+  <properties>
+    <titles>
+      <title>HNC 350 - A Palavra da Vida</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="350"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fonte da Celeste Vida,<br/>Manifesta o teu poder.<br/>Vivifica os sem alento,<br/>Faze os motos renascer!<br/>Vida eterna, vida eterna<br/>Nos vieste conceder.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ao abrirmos o teu Livro,<br/>Dele emane a luz do céus!<br/>Esclarece todo engano<br/>E dos erros livra os teus.<br/>Ilumina, ilumina<br/>Nossas almas, grande Deus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na leitura desta Bíblia,<br/>Dá-nos gozo, ó Senhor!<br/>Tendo, pelo teu ensino,<br/>Comunhão em santo amor.<br/>Exultamos, exultamos<br/>Entoando o teu louvor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pelo estudo da Palavra<br/>Aprendemos de Jesus.<br/>Oh! Concede os belos frutos<br/>Que esta instrução produz!<br/>E gozamos, e gozamos<br/>Alegria, vida e luz. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

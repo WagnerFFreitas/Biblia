@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:40">
+  <properties>
+    <titles>
+      <title>HM483 - Descanso</title>
+      <title>Já dormem campos, selvas,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. João Marques da Mota Sobrinho</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Já dormem campos, selvas,<br/>Com o homem, gados, relvas.<br/>Descansa tudo em paz.<br/>Mas tu, minha alma crente,<br/>Sus! Dá louvor fervente<br/>Ao teu Senhor, que bem te faz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó sol, onde ficaste?<br/>Da noite te afastaste,<br/>Que odeia a tua luz!<br/>Pois bem! Um Sol mais claro<br/>Já brilhou, é meu preclaro,<br/>Fulgente, esplêndido Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>De pobre corpo a vida<br/>Exulta, pois, a lida<br/>Agora vai cessar.<br/>Enfim, já libertado<br/>Da pena do pecado!<br/>Da triste dor vai descansar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>De bênçãos evidentes,<br/>Vitórias excelentes<br/>Jesus nos proverá.<br/>Ficai, pois sossegados,<br/>De Deus vós sois amados<br/>E sempre Deus convosco está.</lines>
+    </verse>
+  </lyrics>
+</song>

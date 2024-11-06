@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:27">
+  <properties>
+    <titles>
+      <title>HCC 380 Com a Minha Voz Clamo ao Senhor</title>
+      <title>Salmo 142</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Verner Geier</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="380"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines break="optional">Com a minha voz clamo ao Senhor,<br/>com a minha voz ao Senhor suplico.</lines>
+      <lines>Diante dele a queixar-me eu estou,<br/>diante dele exponho a minha aflição.</lines>
+    </verse>
+    <verse name="v1">
+      <lines break="optional">Quando aqui dentro de mim<br/>esmorece o meu espírito,<br/>tu então conheces minha vereda.</lines>
+      <lines>Olho à mão direita e vejo:<br/>não há quem me conheça,<br/>não há lugar onde me refugiar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Ó Senhor, a ti clamei,<br/>pois tu és o meu refúgio<br/>e o meu tesouro entre os viventes.</lines>
+      <lines>Vem, atende minha prece,<br/>estou muito abatido.<br/>Livrar-me vem do forte tentador.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Tira-me desta prisão<br/>e assim louvarei teu nome,<br/>e então os justos me cercarão.</lines>
+      <lines>Meu Senhor, eu clamo agora:<br/>Oh, vem livrar minha alma<br/>e cantarei que me fizeste bem!</lines>
+    </verse>
+  </lyrics>
+</song>

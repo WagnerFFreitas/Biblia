@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:11">
+  <properties>
+    <titles>
+      <title>HCC 297 Feliz o Dia</title>
+      <title>Happy Day</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Philip Doddridge</author>
+      <author>Edward Rimbault</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="297"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Feliz o dia em que aceitei<br/>do meu Senhor a salvação.</lines>
+      <lines>A paz completa eu alcancei<br/>e alegre está meu coração.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Que prazer eu senti<br/>no dia em que me converti!<br/>Agora sinto o seu amor<br/>e segurança, paz, fervor.</lines>
+      <lines>Sou feliz, tão feliz,<br/>pois em Jesus me satisfiz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">A decisão assim tomei<br/>de ser fiel ao Salvador</lines>
+      <lines>e em cada dia renderei<br/>somente a ele o meu louvor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Exulta, pois, meu coração<br/>no Filho do supremo Deus,</lines>
+      <lines>porque te deu a redenção<br/>e concedeu perdão dos céus.</lines>
+    </verse>
+  </lyrics>
+</song>

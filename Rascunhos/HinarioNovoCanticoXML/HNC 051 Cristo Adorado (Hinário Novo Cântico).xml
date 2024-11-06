@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:50">
+  <properties>
+    <titles>
+      <title>HNC 051 - Cristo Adorado</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="51"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Cristo coroai, Cordeiro vencedor!<br/>Ouvi das hostes celestiais, <br/>dos anjos, o louvor!<br/>Eleva a tua voz e entoa, coração,<br/>Louvado Àquele que morreu <br/>e deu-te a salvação.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A Cristo coroai, seu lado e mãos olhai!<br/>Das suas chagas e esplendor <br/>e a glória contemplai!<br/>Nem anjos lá do céu o podem suportar:<br/>Perante o místico esplendor<br/> abaixam seu olhar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A Cristo coroai! A vida nos doou,<br/>E a fim de dar-nos salvação<br/>da tumba triunfou!<br/>Cantemos seu poder: <br/>morreu, mas ressurgiu!<br/>A vida eterna ali nos deu <br/>e a morte destruiu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A Cristo coroai, das eras o Senhor,<br/>Dos mundos e astros <br/>da amplidão Eterno Criador,<br/>Ao grande Redentor, <br/>que nos deu salvação,<br/>Eternamente tributai louvor <br/>e adoração.</lines>
+    </verse>
+  </lyrics>
+</song>

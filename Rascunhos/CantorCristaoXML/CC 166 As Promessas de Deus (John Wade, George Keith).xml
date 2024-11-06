@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:18">
+  <properties>
+    <titles>
+      <title>CC 166 As Promessas de Deus</title>
+      <title>Adeste Fideles</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>John Wade</author>
+      <author>George Keith</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="166"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Acaso podíamos nós conseguir<br/>maior segurança do que possuir<br/>as lindas promessas do nosso bom Deus,</lines>
+      <lines>firmadas na Bíblia pra todos os seus,<br/>firmadas na Bíblia pra todos os seus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Oh! nunca temais, ele assim nos falou,<br/>sim, todos os dias convosco Eu estou;<br/>o vosso sustento serei, e deveis</lines>
+      <lines>em mim confiar; sempre sede fiéis,<br/>em mim confiar; sempre sede fiéis.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Por dificuldades tereis de passar,<br/>nenhum embaraço vos deve espantar;<br/>convosco eu estou para vos proteger</lines>
+      <lines>e o mal eu farei para o bem concorrer,<br/>e o mal eu farei para o bem concorrer.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Sim, a alma que em Cristo se refugiou,<br/>oh! todos os dias com ela eu estou;<br/>por mais que o inferno a procure perder,</lines>
+      <lines>jamais poderá, pois eu vou socorrer,<br/>jamais poderá, pois eu vou socorrer.</lines>
+    </verse>
+  </lyrics>
+</song>

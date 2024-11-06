@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:35">
+  <properties>
+    <titles>
+      <title>HC396 - Além Do Nosso Entendimento</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Muito além do nosso entendimento,<br/>Alto mais que todo o pensamento,<br/>Glorioso em seu sublime intento,<br/>É o amor de Deus, sem par.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Grande amor! Amor de Deus!<br/>Enche a terra e enche os céus!<br/>Grande amor! Amor que abrange<br/>A todo o mundo e atinge a mim!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fez um sacrifício infinito<br/>Dum valor imenso, inaudito;<br/>Dando-nos o Filho Seu bendito;<br/>Calculai o amor de Deus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Grande, foi mui grande o meu pecado;<br/>Triste, perigoso o meu estado;<br/>Mas o amor que nunca foi sondado<br/>Me salvou - o amor de Deus!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Foi quem perdoou os pecadores,<br/>Rogos atendeu de malfeitores,<br/>Quem sarou os pobres sofredores,<br/>Esse imenso amor da Deus!</lines>
+    </verse>
+  </lyrics>
+</song>

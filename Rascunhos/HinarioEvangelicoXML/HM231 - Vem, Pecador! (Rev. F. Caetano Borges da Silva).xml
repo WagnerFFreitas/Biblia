@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:41">
+  <properties>
+    <titles>
+      <title>HM231 - Vem, Pecador!</title>
+      <title>Manso e bondoso, eis Jesus nos chamando,</title>
+    </titles>
+    <copyright>Sarah Poulton Kalley</copyright>
+    <authors>
+      <author>Rev. F. Caetano Borges da Silva</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Manso e bondoso, eis Jesus nos chamando,<br/>Chama por ti e por mim;<br/>Eis, bate à porta, paciente esperando,<br/>Bate por ti e por mim!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh! Vem! Sim, vem! Não te demores, vem já.<br/>Eis, bate à porta, paciente esperando,<br/>E chama: Ó pecador, vem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Por que esperamos? Jesus nos convida,<br/>Chama por ti e por mim;<br/>Não desprezemos a graça da Vida,<br/>Dada por ti e por mim!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Que imenso amor tem Jesus nos mostrado,<br/>Sempre por ti e por mim!<br/>Pois libertou-nos do triste pecado,<br/>Mártir por ti e por mim!</lines>
+    </verse>
+  </lyrics>
+</song>

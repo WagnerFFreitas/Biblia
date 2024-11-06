@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:08">
+  <properties>
+    <titles>
+      <title>HC240 - Oh Dia Alegre!</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cristo pode hoje vir,<br/>Oh dia alegre! Irei amigos ver;<br/>O mal terá o seu fim,<br/>Se Cristo do céu descer!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh dia alegre, da vinda de Jesus!<br/>Jesus vem buscar-me para os céus;<br/>Ele vem breve para os Seus;<br/>Oh dia alegre! Da vinda de Jesus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Se hoje for p'ra meu lar,<br/>Oh dia alegre! Parece-me ouvir<br/>Os salvos cantando: "Vem!"<br/>Quem dera p'ra o céu partir!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Por que ansioso estar?<br/>Oh dia alegre! Há luz na margem além;<br/>Temporal nunca haverá;<br/>Do céu breve Cristo vem!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fiel a Jesus estou,<br/>Oh dia alegre! Livre estou p'ra dizer:<br/>"Cristo é tudo p'ra mim";<br/>Do céu virá com poder!</lines>
+    </verse>
+  </lyrics>
+</song>

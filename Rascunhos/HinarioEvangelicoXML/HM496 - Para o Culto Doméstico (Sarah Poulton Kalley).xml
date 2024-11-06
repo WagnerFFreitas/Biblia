@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:43">
+  <properties>
+    <titles>
+      <title>HM496 - Para o Culto Doméstico</title>
+      <title>Nós vimos com profundo amor</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nós vimos com profundo amor<br/>Render-te graças, bom Senhor;<br/>Sentimos viva gratidão<br/>Por teu cuidado e direção.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Saúde, vida, amigos, lar,<br/>As forças para trabalhar,<br/>São ricos bens que só dos Céus<br/>Nos podem vir, são dons de Deus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Guardados pelo teu poder<br/>Sabemos sem temor viver;<br/>A ti deixamos o porvir,<br/>E em paz podemos nós dormir.</lines>
+    </verse>
+  </lyrics>
+</song>

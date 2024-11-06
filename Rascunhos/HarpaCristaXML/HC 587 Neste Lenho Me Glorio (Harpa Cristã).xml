@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:56:11">
+  <properties>
+    <titles>
+      <title>HC587 - Neste Lenho Me Glorio</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Neste lenho me glorio,<br/>Manancial de resplendor;<br/>Brilha intenso o suplício<br/>Do divino Redentor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quando temos caridade,<br/>Mansidão, perfeito amor,<br/>Uma intensa claridade<br/>Mostra ao mundo seu fulgor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Que suprema dor e angústia<br/>Suportou o Salvador!<br/>Sim, por morte tão terrível<br/>Redimiu-nos com amor.</lines>
+    </verse>
+  </lyrics>
+</song>

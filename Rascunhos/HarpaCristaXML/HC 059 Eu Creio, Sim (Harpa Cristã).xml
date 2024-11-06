@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:40">
+  <properties>
+    <titles>
+      <title>HC059 - Eu Creio, Sim</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Té conhecer o amor sem fim,<br/>Um pecador fui eu;<br/>Em o meu pensar não houve lugar<br/>Para Cristo e o céu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Eu creio, sim, já creio, sim,<br/>Jesus morreu por mim;<br/>Pelo sangue Seu, que Ele verteu,<br/>Libertado fui por fim.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pois, quando vi Jesus por mim,<br/>Sofrendo sobre a cruz,<br/>O Meu coração, sem hesitação,<br/>Recebeu o amor e a luz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Com lágrimas, pedi perdão,<br/>E dor, também senti;<br/>Veio, então, Jesus, e a mim falou:<br/>"Foi por ti que Eu morri"</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Eu sei que Deus, no Filho seu,<br/>Me vê perfeito e são;<br/>Não há mais temor, só bendito amor,<br/>Gozo no meu coração.</lines>
+    </verse>
+  </lyrics>
+</song>

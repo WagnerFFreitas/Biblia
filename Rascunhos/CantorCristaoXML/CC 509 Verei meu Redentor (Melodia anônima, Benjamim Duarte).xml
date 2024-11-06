@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:31">
+  <properties>
+    <titles>
+      <title>CC 509 Verei meu Redentor</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Melodia anônima</author>
+      <author>Benjamim Duarte</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="509"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Finda a lida terreal,<br/>quando já do rio além,<br/>nessa vida tão gloriosa me encontrar,</lines>
+      <lines>sei que lá meu Redentor<br/>finalmente eu hei de ver,<br/>e com hinos de louvor hei de O saudar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Hei de ver meu Redentor;<br/>redimido junto dele eu hei de estar;</lines>
+      <lines>hei de ver meu Salvador;<br/>os sinais dos cravos hei de contemplar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Oh! que enlevo divinal:<br/>o seu rosto a contemplar,<br/>desde a aurora desse dia perenal;</lines>
+      <lines>como então o meu coração<br/>haverá de O exaltar,<br/>pela graça e compaixão celestial!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Nessa pátria de esplendor<br/>hei de amigos encontrar,<br/>meus irmãos em Cristo lá hei de rever;</lines>
+      <lines>mas primeiro que os irmãos,<br/>quando ali no céu chegar,<br/>meu Jesus é quem eu mais anseio ver.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Pelas portas de Sião,<br/>com as vestes a brilhar,<br/>onde a noite e o pranto nunca chegarão,</lines>
+      <lines>lá no lindo céu de luz,<br/>há de Cristo me guiar,<br/>e mui perto, sim, eu hei de vê-lo então.</lines>
+    </verse>
+  </lyrics>
+</song>

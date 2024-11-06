@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:45">
+  <properties>
+    <titles>
+      <title>HM253 - Vem, Meu Libertador!</title>
+      <title>Escuta os rogos que dirijo a ti,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Escuta os rogos que dirijo a ti,<br/>Vem, meu Libertador!<br/>Poder e dons, por mim, não tenho aqui.<br/>Vem, meu Libertador!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Vaguei perdido, longe do Senhor,<br/>Qual triste escravo de pecados<br/>Oh! Vem salvar-me com teu forte amor<br/>Vem, meu Libertador!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ouve os lamentos do meu coração,<br/>Vem, meu Libertador!<br/>Tira a minha alma da hórrida prisão.<br/>Vem, meu Libertador!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eu ando em trevas, sem a tua luz;<br/>Vem, meu Libertador!<br/>Vou fatigado, espero em ti, Jesus!<br/>Vem, meu Libertador!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Não te demores, dá-me a tua paz;<br/>Vem, meu Libertador!<br/>Pois certo estou da tua graça é eficaz.<br/>Vem, meu Libertador!</lines>
+    </verse>
+  </lyrics>
+</song>

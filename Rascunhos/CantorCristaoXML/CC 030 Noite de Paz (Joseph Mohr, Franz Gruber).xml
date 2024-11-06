@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:41:51">
+  <properties>
+    <titles>
+      <title>CC 030 Noite de Paz</title>
+      <title>Stille Nacht</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Joseph Mohr</author>
+      <author>Franz Gruber</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="030"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Tudo é paz! Tudo amor!<br/>Dormem todos em redor;<br/>Em Belém Jesus nasceu,</lines>
+      <lines>Rei da paz, da terra e céu;<br/>Nosso Salvador<br/>É Jesus Senhor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">"Glória a Deus! Glória a Deus!"<br/>Cantam anjos lá nos céus;<br/>Boas novas de perdão,</lines>
+      <lines>Graça excelsa salvação;<br/>Prova deste amor<br/>Dá o Redentor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Rei da paz, Rei de amor,<br/>Deste mundo Criador;<br/>Vinde todos Lhe pedir</lines>
+      <lines>Que nos venha conduzir;<br/>Deste mundo a luz<br/>É o Senhor Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

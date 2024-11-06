@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:36">
+  <properties>
+    <titles>
+      <title>HM464 - O Éden Celestial</title>
+      <title>Nós vamos caminho da terra dos santos,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Henry Maxwell Wright</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nós vamos caminho da terra dos santos,<br/>Mansão dos remidos, já livres do mal.<br/>Tu andas errante, e de Deus muito longe,<br/>Oh! dize, queres ir<br/>Para o Éden Celestial?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Queres ir? Queres ir?<br/>Oh! dize, queres ir<br/>Para o Éden Celestial?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Naquele país não há pranto ou gemido;<br/>Não reina a tristeza nem dor terreal.<br/>Tu vives aflito e receias a morte,<br/>Oh! dize, queres ir<br/>Para o Éden Celestial?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ali não há pobres, pois todos são ricos,<br/>Herdeiros da vida e da glória eternal;<br/>Teus dias no erro e no mal tu consomes,<br/>Oh! dize, queres ir<br/>Para o Éden Celestial?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh! Larga os prazeres tão falsos do mundo!<br/>Em Cristo há prazer, não fictício, rela;<br/>Não sejas descrente, oh! aceita o Evangelho<br/>E dize: Oh! Sim! Irei<br/>Para o Éden Celestial?</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Sim irei! Sim irei!<br/>Eu digo: Oh! Sim! Irei<br/>Para o Éden Celestial!</lines>
+    </verse>
+  </lyrics>
+</song>

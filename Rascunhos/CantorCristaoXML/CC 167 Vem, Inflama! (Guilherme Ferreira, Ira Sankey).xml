@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:18">
+  <properties>
+    <titles>
+      <title>CC 167 Vem, Inflama!</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Guilherme Ferreira</author>
+      <author>Ira Sankey</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="167"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Meu pecado resgatado<br/>foi na cruz por teu amor,<br/>e da morte, triste sorte,<br/>me livraste tu, Senhor!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Vem, inflama viva chama<br/>em meu peito, bem sem fim!<br/>Eu te adoro, sempre imploro:<br/>ó Jesus, habita em mim!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Se hesitante, vacilante<br/>ouço a voz do tentador,<br/>tu me guias, me auxilias<br/>e me tornas vencedor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Redimida, só tem vida<br/>a minha alma em teu amor;<br/>com apreço, reconheço,<br/>quanto devo a ti, Senhor!</lines>
+    </verse>
+  </lyrics>
+</song>

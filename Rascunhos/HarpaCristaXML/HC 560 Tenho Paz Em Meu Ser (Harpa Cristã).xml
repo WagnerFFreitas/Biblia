@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:56:06">
+  <properties>
+    <titles>
+      <title>HC560 - Tenho Paz Em Meu Ser</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tenho paz em meu ser, uma perfeita paz,<br/>Que o mundo não me pode dar.<br/>E na prova fatal ou na luta mortal<br/>Tenho paz para me confortar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Em meu ser habita Cristo, o Senhor.<br/>Em meu ser habita profundo amor!<br/>Sim, não me desampara: Ele é fiel:<br/>Estará comigo, meu Salvador.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quando eu fui a Jesus, encontrei plena luz,<br/>De paz a minh'alma inundou.<br/>Toda noite passou: novo dia raiou,<br/>Porque Cristo Jesus me salvou.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Esta paz sem igual, que me livra do mal,<br/>Sublime, sem par, eternal,<br/>Não a quero deixar: ela vai me ajudar,<br/>Té chegar à mansão celestial.</lines>
+    </verse>
+  </lyrics>
+</song>

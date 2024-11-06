@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:07">
+  <properties>
+    <titles>
+      <title>HM357 - Inteira Confiança</title>
+      <title>Senhor, eu sei que o teu poder não cessa,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Antonio de Campo Gonçalves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Senhor, eu sei que o teu poder não cessa,<br/>E teu amor insone me vigia;<br/>Também não falha a bênção da promessa,<br/>O teu amparo e doce companhia.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Senhor, contigo, em tua luz divina,<br/>Eu seguirei confoante na jornada;<br/>Não esquadrinho a sorte, acaso, ou sina,<br/>Mas sigo a tua luz na minha estrada.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Senhor, eu sei, nenhum merecimento<br/>Encontrarás em mim, na minha vida;<br/>Contudo, esperarei, sem desalento,<br/>Por teu amor, a bênção prometida.</lines>
+    </verse>
+  </lyrics>
+</song>

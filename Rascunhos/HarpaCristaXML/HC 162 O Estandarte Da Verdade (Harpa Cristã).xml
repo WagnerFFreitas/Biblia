@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:56">
+  <properties>
+    <titles>
+      <title>HC162 - O Estandarte Da Verdade</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Da verdade, levantemos o estandarte,<br/>Arvoremos o esndarte de Jesus,<br/>Proclamemos, com valor, por toda parte,<br/>A mensagem soleníssima da cruz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O mundo está sem luz, sem paz;<br/>Levemos paz, consolação,<br/>A quem, na dor, no luto jaz,<br/>Sem luz, sem paz, sem salvação.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Da verdade, levantemos o estandarte;<br/>Proclamaremos o Senhor, que é luz e paz;<br/>Pecador, ouve! Jesus tem para dar-te<br/>Salvação que nEle só, encontrarás.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Do Evangelho, levantemos o estandarte,<br/>Vem, desperta do teu sono, pecador;<br/>Que o teu Deus, que o teu Senhor tem para dar-te<br/>Copiosas bênçãos do Seu grande amor.</lines>
+    </verse>
+  </lyrics>
+</song>

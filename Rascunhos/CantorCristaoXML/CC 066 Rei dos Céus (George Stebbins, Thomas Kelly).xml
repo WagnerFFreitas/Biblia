@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:41:59">
+  <properties>
+    <titles>
+      <title>CC 066 Rei dos Céus</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>George Stebbins</author>
+      <author>Thomas Kelly</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="066"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eis, que Chefe tão glorioso<br/>é Jesus, o bom Senhor!<br/>Que lutou mui vitorioso<br/>para ser o Salvador.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Coroai-o, ó remidos,<br/>coroai-o Rei dos reis!<br/>Coroai-o, ó remidos,<br/>coroai-o Rei dos reis!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vinde, todos, coroá-lo;<br/>que troféus bons Ele traz!<br/>No poder entronizá-lo,<br/>Príncipe da nossa paz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Os judeus o rejeitaram,<br/>escolhendo um outro rei;<br/>Anjos, santos, potestades,<br/>obedecem sua lei.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Escutai o grande aplauso;<br/>triunfou o bom Jesus.<br/>Ele toma, pois, seu reino,<br/>coroado Rei dos céus.</lines>
+    </verse>
+  </lyrics>
+</song>

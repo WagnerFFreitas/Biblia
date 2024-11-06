@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:05:16">
+  <properties>
+    <titles>
+      <title>HCC 613 Com Alegria Recordamos</title>
+      <title>Jubileu</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Joan Sutton</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="613"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">As vitórias brilhantes do passado<br/>nós celebramos com gratidão.</lines>
+      <lines>Em anos de lutas e de glórias<br/>Deus guiou-nos por sua mão.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Com alegria recordamos:<br/>"Até aqui nos ajudou o Senhor".</lines>
+      <lines>Com júbilo prossigamos,<br/>fiéis às ordens de Cristo, o Salvador.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">O trabalho grandioso do presente<br/>é conservar, orar e construir.</lines>
+      <lines>As almas sem Cristo nos constrangem,<br/>leais e fortes a prosseguir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">A esperança gloriosa do futuro<br/>é de implantarmos em cada coração,</lines>
+      <lines>na Pátria e pelo mundo inteiro,<br/>a segurança da salvação.</lines>
+    </verse>
+  </lyrics>
+</song>

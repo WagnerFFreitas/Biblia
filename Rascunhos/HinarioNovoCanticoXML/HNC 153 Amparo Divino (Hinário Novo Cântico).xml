@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:54">
+  <properties>
+    <titles>
+      <title>HNC 153 - Amparo Divino</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="153"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Com tua mão segura bem a minha,<br/>Pois eu tão frágil sou, ó Salvador,<br/>Que não me atrevo a dar jamais um passo,<br/>Sem teu amparo, Cristo, meu Senhor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Com tua mão segura bem a minha,<br/>E meu caminho, alegre, seguirei!<br/>Mesmo onde as sombras caem mais escuras,<br/>Teu rosto vendo, nada temerei.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>E no momento de transpor o rio<br/>Que Tu, por mim, vieste atravessar,<br/>Com tua mão segura bem a minha,<br/>E sobre a morte eu hei de triunfar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Quando voltares, lá do céus descendo,<br/>Segura bem a minha mão, Senhor!<br/>E, meu Jesus, conduze-me contigo<br/>Para onde eu goze teu eterno amor. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

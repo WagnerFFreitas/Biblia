@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:56:06">
+  <properties>
+    <titles>
+      <title>HC558 - Dai-Me A Bíblia</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dai-me a Bíblia, que eu tanto anelo:<br/>Por seu caminho quero sempre andar.<br/>Por suas palavras são a grata nova<br/>Que Jesus Cristo veio anunciar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dai-me a Bíblia, livro tão<br/>precioso!<br/>Doutrina santa: fonte é de luz.<br/>E seus ensinos, qual farol glorioso,<br/>A nós conduzem ao Senhor Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dai-me a Bíblia: dela eu preciso,<br/>Pois do pecado a mim vai livrar<br/>E suas palavras são tão poderosas,<br/>Que minha alma podem renovar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dai-me a Bíblia! Que meu guia seja!<br/>E nesta vida meu caminho e luz!<br/>E seus ensinos - o roteiro certo -,<br/>Que me conduzam para o bom Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

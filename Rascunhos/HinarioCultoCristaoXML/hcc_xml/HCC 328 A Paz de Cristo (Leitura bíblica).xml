@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:17">
+  <properties>
+    <titles>
+      <title>HCC 328 A Paz de Cristo</title>
+      <title>2 Coríntios 4:8, 9, 16-18; João 14:27</title>
+    </titles>
+    <copyright>2 Coríntios 4:8, 9, 16-18; João 14:27</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="328"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Em tudo somos atribulados, mas não angustiados;<br/>perplexos, mas não desesperados;<br/>perseguidos, mas não desamparados;<br/>abatidos, mas não destruídos.<br/>Por isso não desfalecemos.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ainda que o nosso homem exterior se esteja consumindo, o interior, contudo, se renova de dia em dia.<br/>Porque a nossa leve e momentânea tribulação produz para nós cada vez mais abundantemente um eterno peso de glória;<br/>não atentando nós nas coisas que veem, mas sim nas que se não veem; porque as que se veem são temporais, enquanto as que se não veem são eternas.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Deixo-vos a paz, a minha paz vos dou;<br/>eu não vola dou como o mundo a dá.<br/>Não se turbe o vosso coração, nem se atemorize.</lines>
+    </verse>
+  </lyrics>
+</song>

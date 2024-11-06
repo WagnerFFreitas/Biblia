@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:50">
+  <properties>
+    <titles>
+      <title>HCC 483 Esforça-te e Tem Bom Ânimo</title>
+      <title>Josué 1:1, 6-9</title>
+    </titles>
+    <copyright>Josué 1:1, 6-9</copyright>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="483"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Falou o Senhor a Josué (...) dizendo: Esforça-te, e tem bom ânimo.<br/>Tão-somente esforça-te e tem mui bom ânimo.<br/>Não aparte da tua boca o livro desta lei, antes medita nele dia e noite,<br/>para que tenhas cuidado de fazer conforme tudo quanto nele está escrito;<br/>porque então farás prosperar o teu caminho, e serás bem sucedido.<br/>Não to mandei eu? Esforça-te, e tem bom ânimo; não te atemorizes, nem te espantes;<br/>porque o Senhor teu Deus está contigo, por onde quer que andares.</lines>
+    </verse>
+  </lyrics>
+</song>

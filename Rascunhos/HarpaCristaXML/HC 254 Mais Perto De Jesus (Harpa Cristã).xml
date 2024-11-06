@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:10">
+  <properties>
+    <titles>
+      <title>HC254 - Mais Perto De Jesus</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mais profundo no amor de Cristo<br/>Eu desejo estar!<br/>Mais humilde no meu ser, eu quero<br/>Sempre aqui andar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mais perto de Jesus,<br/>Eu quero aqui viver;<br/>Mais santo, meu Jesus,<br/>Eu desejo sempre ser.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mais profunda a Tua vontade,<br/>Quero conhecer;<br/>Té que minha vida, por inteiro,<br/>Mostre o Teu ser.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mais profundo, com dor, não importa,<br/>Pois eu quero estar,<br/>No Teu divinal amor firmado,<br/>Para fruto dar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mais profundo, dia após dia,<br/>Quero eu estar,<br/>Té que o alvo, o Mestre, aqui, me faça,<br/>Breve alcançar..</lines>
+    </verse>
+  </lyrics>
+</song>

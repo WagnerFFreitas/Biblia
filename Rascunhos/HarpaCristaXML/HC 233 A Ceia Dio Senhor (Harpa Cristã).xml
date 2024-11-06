@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:06">
+  <properties>
+    <titles>
+      <title>HC233 - A Ceia Dio Senhor</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó Jesus cristo, aqui estamos<br/>Unidos todos em um lugar,<br/>P'ra Tua morte nós relembrarmos,<br/>Que Tu quiseste por nós provar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alegra-nos, ó Jesus amado,<br/>Enchendo-nos do Consolador;<br/>Ó grande graça Tu nos tens dado,<br/>Pois somos salvos p'lo Teu amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Que nós sejamos abençoados;<br/>Também o pão e o vinho aqui,<br/>P'lo Teu poder sejam consagrados<br/>P'ra nos alimentarmos de Ti.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>E quando todos nos reunirmos,<br/>Um dia, lá no Teu lar, nos céus,<br/>Nós aleluias, sim, cantaremos,<br/>Eterno hino ao nosso Deus.</lines>
+    </verse>
+  </lyrics>
+</song>

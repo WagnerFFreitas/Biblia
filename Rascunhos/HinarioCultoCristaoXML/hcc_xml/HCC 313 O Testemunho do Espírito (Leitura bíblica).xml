@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:14">
+  <properties>
+    <titles>
+      <title>HCC 313 O Testemunho do Espírito</title>
+      <title>Romanos 8:1-11, 16</title>
+    </titles>
+    <copyright>Romanos 8:1-11, 16</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="313"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nenhuma condenação há para os que estão em Cristo Jesus.<br/>Porque a lei do Espírito da vida, em Cristo Jesus, te livrou da lei do pecado e da morte.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Porquanto o que era impossível à lei, visto que se achava fraca pela carne,<br/>Deus, enviando seu próprio Filho em semelhança da carne do pecado, e por causa do pecado, na carne condenou o pecado.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Para que a justa exigência da lei se cumprisse em nós, que não andamos segundo a carne, mas segundo o Espírito.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pois os que são segundo a carne inclinam-se para as coisas da carne; mas os que são segundo o Espírito para as coisas do Espírito.<br/>Porque a inclinação da carne é morte; mas a inclinação do Espírito é vida e paz.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Porquanto a inclinação da carne é inimizade contra Deus, pois não é sujeita à lei de Deus, nem em verdade o pode ser;<br/>e os que estão na carne não podem agradar a Deus.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Vós, porém, não estais na carne, mas no Espírito, se é que o Espírito de Deus habita em vós.<br/>Mas, se alguém não tem o Espírito de Cristo, esse tal não é dele.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ora, se Cristo está em vós, o corpo, na verdade, está morto por causa do pecado, mas o espírito vive por causa da justiça.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>E, se o Espírito daquele que dos mortos ressuscitou a Jesus habita em vós,<br/>aquele que dos mortos ressuscitou a Cristo Jesus há de vivificar também os vossos corpos mortais, pelo seu Espírito que em vós habita.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>O Espírito mesmo testifica com o nosso espírito que somos filhos de Deus.</lines>
+    </verse>
+  </lyrics>
+</song>

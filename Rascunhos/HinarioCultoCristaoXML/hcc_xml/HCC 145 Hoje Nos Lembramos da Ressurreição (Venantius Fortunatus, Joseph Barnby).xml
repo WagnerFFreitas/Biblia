@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:43">
+  <properties>
+    <titles>
+      <title>HCC 145 Hoje Nos Lembramos da Ressurreição</title>
+      <title>Salve Festa Dies</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Venantius Fortunatus</author>
+      <author>Joseph Barnby</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="145"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Hoje nos lembramos da ressurreição,<br/>que assegura ao salvo plena redenção.</lines>
+      <lines>Ao terceiro dia, como prometeu,<br/>os grilhões da morte o Salvador rompeu.<br/>Sejas tu louvado, Redentor Jesus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Vencedor da morte, o Salvador Jesus<br/>transformou as trevas em gloriosa luz</lines>
+      <lines>e as primícias fez-se, na ressurreição,<br/>dos fiéis que um dia ressuscitarão.<br/>Sejas tu louvado, forte vencedor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Tanto amaste, ó Cristo, o mundo pecador,<br/>que por nós sofreste a punição e a dor.</lines>
+      <lines>Mas, ressuscitado, junto ao Pai estás,<br/>garantindo a nós o teu perdão e paz.<br/>Sejas tu louvado, nosso mediador!</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Sumo sacerdote, santo intercessor,<br/>hoje te aclamamos Rei e Salvador.</lines>
+      <lines>Para sempre vives, na celeste luz,<br/>homem-Deus, Senhor e Redentor Jesus.<br/>Sejas tu louvado eternamente! Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

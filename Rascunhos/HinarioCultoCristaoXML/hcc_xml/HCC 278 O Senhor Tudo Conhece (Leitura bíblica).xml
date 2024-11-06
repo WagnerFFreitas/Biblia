@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:08">
+  <properties>
+    <titles>
+      <title>HCC 278 O Senhor Tudo Conhece</title>
+      <title>Salmos 139:1-4, 24</title>
+    </titles>
+    <copyright>Salmos 139:1-4, 24</copyright>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="278"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Senhor, tu me sondaste, e me conheces.<br/>Tu conheces o meu sentar e o meu levantar;<br/>de longe entendes o meu pensamento.</lines>
+      <lines break="optional">Esquadrinhas o meu andar, e o meu deitar,<br/>e conheces todos os meus caminhos.</lines>
+      <lines break="optional">Sem que haja uma palavra na minha língua,<br/>eis que, ó Senhor, tudo conheces.</lines>
+      <lines>Vê se há em mim algum caminho perverso,<br/>e guia-me pelo caminho eterno.</lines>
+    </verse>
+  </lyrics>
+</song>

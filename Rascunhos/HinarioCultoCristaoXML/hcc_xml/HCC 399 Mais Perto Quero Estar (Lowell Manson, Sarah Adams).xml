@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:31">
+  <properties>
+    <titles>
+      <title>HCC 399 Mais Perto Quero Estar</title>
+      <title>Bethany</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Lowell Manson</author>
+      <author>Sarah Adams</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="399"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Mais perto quero estar,<br/>meu Deus, de ti,<br/>mesmo que seja a dor<br/>que me una a ti!</lines>
+      <lines>Sempre hei de suplicar:<br/>mais perto quero estar,<br/>mais perto quero estar,<br/>meu Deus, de ti!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Andando triste aqui,<br/>na solidão,<br/>paz e descanso a mim<br/>teus braços dão.</lines>
+      <lines>Sempre hei de suplicar:<br/>mais perto quero estar,<br/>mais perto quero estar,<br/>meu Deus, de ti!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Minha alma cantará<br/>a ti, Senhor,<br/>cheia de gratidão<br/>por teu amor.</lines>
+      <lines>Sempre hei de suplicar:<br/>mais perto quero estar,<br/>mais perto quero estar,<br/>meu Deus, de ti!</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">E, quando a morte enfim<br/>me vier chamar,<br/>com o Senhor, nos céus,<br/>irei morar.</lines>
+      <lines>Então me alegrarei<br/>perto de ti, meu Rei,<br/>perto de ti, meu Rei,<br/>meu Deus, de ti! Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:03">
+  <properties>
+    <titles>
+      <title>HC209 - A Voz Do Bom Pastor</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Escuta a voz do bom Pastor<br/>Em esplendorosa solidão,<br/>Chama ao cordeiro que em temor<br/>Vaga na densa escuridão.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hoje vem a Jesus,<br/>Ao bondoso Salvador,<br/>Receber Sua luz.<br/>Vem a Cristo, o bom pastor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quem ajudar que a Jesus,<br/>Os pecados procurar,<br/>Vá espalhar a Sua luz,<br/>O Evangelho proclamar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Triste deserto o mundo é,<br/>Cercado de perigos mil;<br/>Vem, chama Cristo, vem com fé,<br/>Vem para dentro do redil.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Escuta hoje, o bom Pastor,<br/>Vem no aprisco te abrigar,<br/>Foge do lobo enganador,<br/>Pois ele quer te devorar.</lines>
+    </verse>
+  </lyrics>
+</song>

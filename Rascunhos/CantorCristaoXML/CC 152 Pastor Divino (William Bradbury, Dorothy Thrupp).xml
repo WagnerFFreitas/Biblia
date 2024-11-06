@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:15">
+  <properties>
+    <titles>
+      <title>CC 152 Pastor Divino</title>
+      <title>Bradbury</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>William Bradbury</author>
+      <author>Dorothy Thrupp</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="152"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Ouve-nos, Pastor divino,<br/>Nós, que neste bom lugar,<br/>Teu rebanho congregado,<br/>Desejamos te adorar.</lines>
+      <lines>Cristo amado, Cristo amado,<br/>Vem teu povo abençoar.<br/>Cristo amado, Cristo amado,<br/>Vem teu povo abençoar. </lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Ao perdido no pecado<br/>Seu perigo faze ver;<br/>Chama os pobres enganados,<br/>Faze-os tua voz ouvir;</lines>
+      <lines>Aos enfermos, aos enfermos,<br/>Mestre, digna-te acudir.<br/>Aos enfermos, aos enfermos,<br/>Mestre, digna-te acudir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Traze o pobre desgarrado<br/>Ao aprisco teu, Senhor;<br/>Toma o tenro cordeirinho<br/>No regaço teu, Pastor;</lines>
+      <lines>Dá-lhe os pastos, dá-lhe os pastos<br/>De celeste doce amor.<br/>Dá-lhe os pastos, dá-lhe os pastos<br/>De celeste doce amor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Ó Jesus, escuta o rogo,<br/>Nossa humilde petição;<br/>Vem encher o teu rebanho<br/>De sincera devoção;</lines>
+      <lines>Cantaremos, cantaremos,<br/>Tua afável proteção.<br/>Cantaremos, cantaremos,<br/>Tua afável proteção.</lines>
+    </verse>
+  </lyrics>
+</song>

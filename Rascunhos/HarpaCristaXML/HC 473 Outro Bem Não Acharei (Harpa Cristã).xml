@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:49">
+  <properties>
+    <titles>
+      <title>HC473 - Outro Bem Não Acharei</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Que outro bem ansioso buscarei?<br/>Bem melhor, que Jesus não acharei;<br/>NEle só para sempre, hei de estar,<br/>E de coração O amar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Outro bem não procurarei,<br/>Outro bem eu não acharei;<br/>Já em mim, 'stá Jesus,<br/>NEle só vou confiar.<br/>Quem aqui pode me saciar,<br/>Neste mundo enganador?<br/>Só Jesus, Jesus, só Jesus, Jesus,<br/>Rei meu e fiel Senhor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A vaidade do mundo acabará,<br/>Tudo aqui a seu tempo findará;<br/>Para sempre somente, há de durar<br/>Quem na luz de Cristo andar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Entre os homens não buscarei a luz;<br/>Não mais vivo, mais vive em mim Jesus;<br/>Sua graça é bastante para mim,<br/>Não terá no céu, mais fim!</lines>
+    </verse>
+  </lyrics>
+</song>

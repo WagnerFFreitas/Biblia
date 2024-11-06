@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:04">
+  <properties>
+    <titles>
+      <title>HM013 - Natal</title>
+      <title>Que milícia portentosa</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Dr. Joaõ Gomes da Rocha</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Que milícia portentosa<br/>Voa à terra de Judá!<br/>Cem mil anjos cantam glória.<br/>Glória ao Rei nascido já:<br/>"Vinde vê-lo<br/>Em Belém, onde ele está".</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Os pastores, apressados,<br/>De Deus fiam sua grei.<br/>Entre alegres e perplexos,<br/>Vão buscar o novo Rei:<br/>"É o Messias<br/>Prometido em nossa lei!"</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Logo os sábios no Oriente<br/>Vêem a Estrela de Belém:<br/>Ela aponta o Desejado,<br/>"O Deus-Homem,<br/>Que dos Céus ao mundo vem".</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ana e Simeão no templo<br/>Esperavam o Senhor;<br/>Era o tempo já previsto,<br/>Para entrar o Salvador<br/>No santuário,<br/>O edifício de esplendor.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vinde, alegres, celebremos<br/>Este dia de Natal,<br/>Dando a Cristo nossas almas<br/>Oferenda filial.<br/>"Aleluia!<br/>Ele é Rei universal!"</lines>
+    </verse>
+  </lyrics>
+</song>

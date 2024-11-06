@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:32">
+  <properties>
+    <titles>
+      <title>HCC 088 O Advento do Salvador</title>
+      <title>Isaías 60:1-3; 11:1-5; 40:3-5, 10, 11</title>
+    </titles>
+    <copyright>Isaías 60:1-3; 11:1-5; 40:3-5, 10, 11</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="088"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines><tag name="y">Dirigente:</tag><br/>Levanta-te, resplandece, porque é chegada a tua luz, e é nascida sobre ti a glória do Senhor.<br/>Pois eis que as trevas cobrirão a terra, e a escuridão os povos;<br/>mas sobre ti o Senhor virá surgindo, e a sua glória se verá sobre ti.<br/>E nações caminharão para a tua luz, e reis para o resplendor da tua aurora.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><tag name="y">Congregação:</tag><br/>Então brotará um rebento do toco de Jessé, e das suas raízes um renovo frutificará.<br/>E repousará sobre ele o Espírito do Senhor, o espírito de sabedoria e de entendimento, o espírito de conselho e de fortaleza, o espírito de conhecimento e de temor do Senhor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><tag name="y">Dirigente:</tag><br/>E deleitar-se-á no temor do Senhor; e não julgará segundo a vista dos seus olhos, nem decidirá segundo o ouvir dos seus ouvidos;</lines>
+    </verse>
+    <verse name="v4">
+      <lines><tag name="y">Todos:</tag><br/>mas julgará com justiça os pobres, e decidirá com equidade em defesa dos mansos da terra.<br/>A justiça será o cinto dos seus lombos, e a fidelidade o cinto dos seus rins.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><tag name="y">Dirigente:</tag><br/>Eis a voz do que clama: Preparai no deserto o caminho do Senhor;<br/>endireitai no ermo uma estrada para o nosso Deus.<br/>Todo vale será levantado, e será abatido todo monte e todo outeiro;<br/>e o terreno acidentado será nivelado, e o que é escabroso, aplanado.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><tag name="y">Congregação:</tag><br/>A glória do Senhor se revelará; e toda a carne juntamente a verá.<br/>Eis que o Senhor Deus virá com poder, e o seu braço dominará por ele;<br/>eis que o seu galardão está com ele, e a sua recompensa diante dele.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><tag name="y">Todos:</tag><br/>Como pastor ele apascentará o seu rebanho; entre os seus braços,<br/>recolherá os cordeirinhos e os levará no seu regaço;<br/>as que amamentam, ele as guiará mansamente.</lines>
+    </verse>
+  </lyrics>
+</song>

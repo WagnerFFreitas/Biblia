@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:47">
+  <properties>
+    <titles>
+      <title>HM263 - Venho, Como Estou!</title>
+      <title>Ouvi a doce voz</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ouvi a doce voz<br/>De Cristo, o Redentor,<br/>Que chama para a salvação,<br/>O pobre pecador.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Venho, meu Senhor!<br/>Venho, como estou!<br/>Bem nenhum existe em mim,<br/>Tua voz me convidou!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Outrora andei sem fé,<br/>Indigno e sem saber;<br/>Porém agora, meu Senhor,<br/>Eu vivo em teu poder.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A Deus eu louvarei<br/>Por essa redenção!<br/>Pois tendo Cristo, o Salvador,<br/>Eu tenho a salvação!</lines>
+    </verse>
+  </lyrics>
+</song>

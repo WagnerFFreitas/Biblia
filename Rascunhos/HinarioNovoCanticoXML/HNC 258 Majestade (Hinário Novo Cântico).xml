@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:59">
+  <properties>
+    <titles>
+      <title>HNC 258 - Majestade</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="258"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Caminha em majestade e vai!<br/>Ao som de hosana e exultação,<br/>Por entre palmas, para a cruz,<br/>Na estrada segue o bom Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Caminha em majestade e vai!<br/>Em glória segue para a cruz,<br/>Ele o pecado vencerá<br/>E a morte atroz abaterá.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Caminha em majestade e vai!<br/>As hostes de anjos, pelo céu,<br/>Ao longe vêem, com triste olhar,<br/>O sacrifício despontar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Caminha em majestade e vai!<br/>É vida a luta pertinaz.<br/>No céu o Pai o acolherá!<br/>Seu Filho, Ungido, subirá!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Caminha em majestade e vai!<br/>Em glória segue para a cruz.<br/>Se abate a fronte, em face à dor,<br/>Mas vai triunfante o Vencedor!</lines>
+    </verse>
+  </lyrics>
+</song>

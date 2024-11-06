@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:18">
+  <properties>
+    <titles>
+      <title>HM109 - Divino Poder</title>
+      <title>Honrar eu quero o Salvador,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Honrar eu quero o Salvador,<br/>Com belos hinos de louvor,<br/>Engrandecê-lo nos convém,<br/>Porque Jesus faz tudo bem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O verbo eterno ressoou<br/>E logo a terra e os céus criou;<br/>Divina ciência todos vêem,<br/>Porque Jesus faz tudo bem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Salvador mui perto está,<br/>Seu grande auxílio valerá<br/>Aos que somente nele crêem,<br/>Porque Jesus, faz tudo bem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Teus grandes feitos, nosso Deus,<br/>São proclamados lá nos céus;<br/>E lá eu cantarei também,<br/>Que meu Jesus faz tudo bem.</lines>
+    </verse>
+  </lyrics>
+</song>

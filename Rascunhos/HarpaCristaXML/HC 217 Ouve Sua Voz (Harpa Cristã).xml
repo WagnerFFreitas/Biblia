@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:04">
+  <properties>
+    <titles>
+      <title>HC217 - Ouve Sua Voz</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cristo com voz amorosa<br/>Chama-te p'ra Sua luz,<br/>Torna tua alma ditosa<br/>Se carregares a cruz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ouve Sua voz a chamar!<br/>Cristo te quer libertar;<br/>Fala com voz amorosa:<br/>"Paz hoje quero te dar".</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Por que voltar não procuras,<br/>Do mau caminho em que estás?<br/>No fim do qual amarguras,<br/>E eterna dor sofrerás.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mui breve irás encontrar-te<br/>Perante a morte, que atroz<br/>Vai, sem piedades, levar-te<br/>Onde não ouças Sua voz!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ouve Sua voz amorosa<br/>Como persiste a chamar;<br/>Com Sua mão poderosa<br/>Cristo te quer libertar.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:23">
+  <properties>
+    <titles>
+      <title>HCC 040 As Tuas Mãos Dirigem Meu Destino</title>
+      <title>Meu Destino</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Julie Hausmann</author>
+      <author>David Hodges</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="040"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As tuas mãos dirigem meu destino;<br/>ó Deus de amor, é bom que seja assim.<br/>São teus os meus poderes, minha vida.<br/>Em tudo, eterno Pai, dispõe de mim.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As tuas mãos dirigem meu destino;<br/>cravadas na sangüenta e rude cruz;<br/>por meus pecados foram traspassadas,<br/>e posso nelas descansar, Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As tuas mãos dirigem meu destino;<br/>acasos para mim não haverá.<br/>O grande Pai vigia o meu caminho<br/>e sem motivo não me afligirá.</lines>
+    </verse>
+  </lyrics>
+</song>

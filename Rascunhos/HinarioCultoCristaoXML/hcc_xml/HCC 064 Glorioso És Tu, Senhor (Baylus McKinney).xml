@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:28">
+  <properties>
+    <titles>
+      <title>HCC 064 Glorioso És Tu, Senhor</title>
+      <title>Glorious Name</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Baylus McKinney</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="064"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Salvador, nós te adoramos,<br/>proclamamos teu amor;<br/>tu és santo e poderoso,<br/>glorioso és tu, Senhor!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Glorioso, glorioso,<br/>glorioso és tu, Senhor!<br/><br/>Glorioso, glorioso,<br/>glorioso és tu, Senhor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Redentor, Senhor e Mestre,<br/>luz eterna das nações,<br/>tu és digno dos louvores<br/>de mui gratos corações.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Do teu lar de luz e glória<br/>à mais infamante cruz,<br/>tu vieste dar a vida<br/>pra nos redimir, Jesus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vem, oh, vem, eterno Cristo,<br/>Rei sublime, divinal;<br/>vem reinar, e para sempre,<br/>do teu trono celestial!</lines>
+    </verse>
+  </lyrics>
+</song>

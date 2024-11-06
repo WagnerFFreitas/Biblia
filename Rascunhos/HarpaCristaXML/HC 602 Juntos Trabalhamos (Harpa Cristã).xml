@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:56:14">
+  <properties>
+    <titles>
+      <title>HC602 - Juntos Trabalhamos</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Juntos trabalhamos pelo nosso Rei;<br/>Frutos mostraremos quando aqui voltar.<br/>Homens maus buscamos para a sua grei,<br/>Pois o nosso Rei também os quer salvar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mesmo em nossa casa, nosso derredor,<br/>Vamos trabalhando pelo salvador.<br/>Nossa recompensa há de ser maior,<br/>Sendo-lhe fiéis e ao seu supremo amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Temos a mensagem para proclamar,<br/>Tempos perigosos são os atuais;<br/>Cristo em breve volta, temos que lutar;<br/>Sempre avante, sim - Retroceder, jamais!</lines>
+    </verse>
+  </lyrics>
+</song>

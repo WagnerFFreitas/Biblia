@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:24">
+  <properties>
+    <titles>
+      <title>HCC 363 Sê Minha Vida, ó Deus de Poder</title>
+      <title>Slane</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Melodia irlandesa</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="363"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Sê minha vida, ó Deus de poder;<br/>que eu nunca perca a visão do teu ser.</lines>
+      <lines>Se é noite ou dia, tu és minha luz;<br/>tua presença meus passos conduz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Sê minha fonte de todo saber,<br/>pois a verdade eu desejo aprender.</lines>
+      <lines>Eu sou teu filho, ó Pai sem igual.<br/>Em mim habita, Senhor divinal.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Ó soberano do reino eternal,<br/>hei de chegar à vitória final.</lines>
+      <lines>Sê o primeiro no meu coração,<br/>sê minha vida, sê minha visão. Amém</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:22">
+  <properties>
+    <titles>
+      <title>HM134 - Tributo de Louvor</title>
+      <title>Ó santo Deus! Ao nome de Jesus</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Dr. João Gomes da Rocha</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó santo Deus! Ao nome de Jesus<br/>Glorificamos todos, com fervor;<br/>Por todo o bem trazido pela Cruz,<br/>Bendito seja o nome do Senhor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ao nome de Jesus se dobrará<br/>O mundo inteiro, com real temor!<br/>Mas o remido em glória viverá,<br/>Sempre exaltando o nome do Senhor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Desde manhã até à noite, aqui<br/>Ao povo se anuncia teu amor;<br/>Eis findo o culto oferecido a ti;<br/>Honrado seja o nome do Senhor!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:53">
+  <properties>
+    <titles>
+      <title>HNC 121 - Perfeição</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="121"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mais pureza dá-me, <br/>Mais horror ao mal,<br/>Mais calma em pesares, <br/>Mais alto ideal;<br/>Mais fé no meu Mestre,<br/>Mais consagração,<br/>Mais gozo em servi-lo, <br/>Mais grata oração.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mais prudência dá-me, <br/>Mais paz, meu Senhor,<br/>Mais firmeza em Cristo, <br/>Mais força na dor;<br/>Mais reto me torna,<br/>Mais triste ao pecar,<br/>Mais humilde filho, <br/>Mais pronto em te amar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mais confiança dá-me, <br/>Mais força em Jesus,<br/>Mais do seu domínio, <br/>Mais da sua luz;<br/>Mais rica esperança,<br/>Mais obras aqui,<br/>Mais ânsias de Glória, <br/>Mais vida em Ti. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

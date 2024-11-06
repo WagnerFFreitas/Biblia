@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:38">
+  <properties>
+    <titles>
+      <title>HCC 427 Pelo Lar Que Tu Nos Deste</title>
+      <title>Nosso Lar</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Renato Santos</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="427"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Pelo lar que tu nos deste,<br/>onde há paz e puro amor,<br/>pelo bem que nos fizeste,</lines>
+      <lines>damos graças, ó Senhor,<br/>pelo bem que nos fizeste,<br/>damos graças, ó Senhor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Pela vida em harmonia,<br/>tendo fé no Salvador,<br/>pelas bênçãos, cada dia,</lines>
+      <lines>damos graças, ó Senhor,<br/>pelas bênçãos, cada dia,<br/>damos graças, ó Senhor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Pela graça e esperança<br/>de um eterno lar de amor,<br/>que é por Cristo, nossa herança,</lines>
+      <lines>damos graças, ó Senhor,<br/>que é por Cristo, nossa herança,<br/>damos graças, ó Senhor!</lines>
+    </verse>
+  </lyrics>
+</song>

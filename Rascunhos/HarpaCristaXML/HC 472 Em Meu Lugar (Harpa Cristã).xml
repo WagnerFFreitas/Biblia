@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:48">
+  <properties>
+    <titles>
+      <title>HC472 - Em Meu Lugar</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cristo Jesus lá na cruz já sofre<br/>Em meu lugar, em meu lugar,<br/>Tudo por mim Ele ali padeceu,<br/>Para a minh'alma salvar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Glória a Jesus, meu pecado cravou<br/>Sobre a cruz, sobre a cruz,<br/>Sangue precioso minh'alma lavou;<br/>Glória ao bondoso Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

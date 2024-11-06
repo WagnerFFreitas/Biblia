@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:49:04">
+  <properties>
+    <titles>
+      <title>HNC 386 - Testemunho</title>
+    </titles>
+    <verseOrder>v1 o1 v2 o2</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="386"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Direi ao mundo que só o crente,<br/>Não me envergonho de dizer!<br/>Direi ao mundo que sou crente,<br/>E que por Cristo vou viver.<br/>Direi ao mundo que Ele salva,<br/>E nesta vida O seguirei;</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Eu sei que, crendo nEle,<br/>Terás as bênçãos que eu encontrei.<br/>Direi ao mundo que Ele me ama,<br/>Que Cristo dá perdão e paz.<br/>A minha vida eu entrego.<br/>Jesus, meu guia, satisfaz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Direi ao mundo que Ele volta,<br/>Se tarde ou cedo, eu não sei!<br/>Mas viverei sempre esperando,<br/>E preparado estarei.<br/>Na sua vinda gloriosa,<br/>Aos que o amarem Jesus dará</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Maravilhas infinitas,<br/>E ao lar celeste nos levará.<br/>Oh! Dize ao mundo que és crente,<br/>Não te envergonhes de o dizer.<br/>Oh! Dize ao mundo que és crente,<br/>E que por Cristo vais viver.</lines>
+    </verse>
+  </lyrics>
+</song>

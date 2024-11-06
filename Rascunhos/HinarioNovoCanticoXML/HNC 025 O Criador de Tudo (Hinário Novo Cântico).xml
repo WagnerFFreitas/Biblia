@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:49">
+  <properties>
+    <titles>
+      <title>HNC 025 - O Criador de Tudo</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="25"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deus, do infinito o Criador,<br/>Que deste aos astros seu fulgor,<br/>Tuas obras te proclamam!<br/>Ao explorarmos a amplidão,<br/>Obra sem par da tua mão,<br/>Extasiados te louvamos!<br/>Aleluia! Aleluia! Aleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ergue-se o homem para o céu,<br/>Deixa o planeta em que nasceu;<br/>Oh! Conquista sem limites!<br/>Como haveremos de entender<br/>Que Deus quisesse aqui viver?<br/>Deus eterno, entre os homens!<br/>Aleluia! Aleluia! Aleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hoje há problemas entre nós,<br/>Por não ouvirmos tua voz.<br/>Pai, perdoa as nossas faltas!<br/>Que nossas vidas em Jesus<br/>Busquem guarida, paz e luz,<br/>E teu nome celebremos:<br/>Aleluia! Aleluia! Aleluia!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>No grande plano divinal,<br/>Dessa harmonia universal,<br/>Deus com grande amor salvou-nos!<br/>Ele nos deixa conhecer<br/>Toda a extensão do seu poder<br/>Revelado no universo!<br/>Aleluia! Aleluia! Aleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

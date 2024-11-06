@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:01">
+  <properties>
+    <titles>
+      <title>HCC 242 O Exemplo do Rei</title>
+      <title>2 Samuel 24:18-24</title>
+    </titles>
+    <copyright>2 Samuel 24:18-24</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="242"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Veio Gade [o profeta] a Davi, e lhe disse:<br/>Sobe, levanta ao Senhor um altar na eira de Araúna, o jebuseu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Subiu, pois, Davi, conforme a palavra de Gade, como o Senhor havia ordenado.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>E olhando Araúna, viu que vinham ter com ele o rei e os seus servos;<br/>saiu, pois, e inclinou-se diante do rei com o rosto em terra.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Perguntou Araúna:<br/>Por que vem o rei meu senhor ao seu servo?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Respondeu Davi:<br/>Para comprar de ti a eira, a fim de dedicar nela um altar ao Senhor.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Então disse Araúna a Davi:<br/>Tome e ofereça ao rei meu senhor o que bem lhe parecer;<br/>eis aí os bois para o holocausto, e os trilhos e os aparelhos dos bois para lenha.<br/>Tudo isto, ó rei, Araúna te oferece.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Disse mais Araúna ao rei:<br/>O Senhor teu Deus tome prazer em ti.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Mas o rei disse a Araúna:<br/>Não! antes to comprarei pelo seu valor, porque não oferecerei ao Senhor meu Deus holocaustos que não me custem nada.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Comprou, pois, Davi, a eira e os bois por cinquenta siclos de prata.</lines>
+    </verse>
+  </lyrics>
+</song>

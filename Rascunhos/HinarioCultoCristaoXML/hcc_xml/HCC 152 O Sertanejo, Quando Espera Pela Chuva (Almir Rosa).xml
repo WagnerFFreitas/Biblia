@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:44">
+  <properties>
+    <titles>
+      <title>HCC 152 O Sertanejo, Quando Espera Pela Chuva</title>
+      <title>Comparação</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Almir Rosa</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="152"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">O sertanejo, quando espera pela chuva,<br/>tendo certeza de que a chuva vai chegar,<br/>prepara a terra e planta logo a semente,<br/>esperançoso que a semente vá brotar.</lines>
+      <lines break="optional">E vem da chuva uma lição,<br/>a qual nos leva à conclusão,<br/>de que é sinal que a colheita vai chegar.</lines>
+      <lines>Só é possível entender<br/>a provisão quando chover,<br/>e assim a chuva for molhando a plantação.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Agora aprenda a lição de uma figueira,<br/>quando seus ramos já começam a brotar,<br/>surgindo as folhas. E assim é a maneira<br/>de entendermos que o verão já vai chegar.</lines>
+      <lines break="optional">Vem da figueira uma lição,<br/>a qual nos leva à conclusão<br/>de que é sinal que o verão já vai chegar.<br/>E foi Jesus quem prometeu:</lines>
+      <lines>vendo os sinais que ele deu,<br/>temos certeza que ele logo vai voltar;<br/>temos certeza que ele logo vai voltar;<br/>temos certeza que ele logo vai voltar.</lines>
+    </verse>
+  </lyrics>
+</song>

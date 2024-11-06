@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:59">
+  <properties>
+    <titles>
+      <title>HCC 530 Pudesse Contar Toda a Glória</title>
+      <title>Fillmore</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>James Fillmore</author>
+      <author>Sebastião Souza</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="530"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Pudesse contar toda a glória<br/>que brilha no meu coração,<br/>pudesse contar do meu Mestre,<br/>e o mundo prestasse atenção,</lines>
+      <lines>iria então às cidades,<br/>correndo até o sertão,<br/>contando os ensinos de Cristo,<br/>e seu inefável perdão.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Melhor que contar é viver<br/>a vida de Cristo Jesus.<br/>E todos irão receber<br/>as novas que dão vida e luz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Pudesse contar da bondade<br/>de Cristo Jesus, meu Senhor,<br/>pudesse contar sua história,<br/>que salva a qualquer pecador,</lines>
+      <lines>iria então pelo mundo<br/>clamando com todo ardor,<br/>narrando essa história sublime<br/>do triste sofrer do Senhor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Pudesse contar do meu Cristo,<br/>do santo poder remidor,<br/>pudesse contar da agonia<br/>que teve por mim, pecador,</lines>
+      <lines>iria até que ouvissem,<br/>pregando com todo o fervor,<br/>contando essa história mui terna<br/>de Cristo, do seu grande amor.</lines>
+    </verse>
+  </lyrics>
+</song>

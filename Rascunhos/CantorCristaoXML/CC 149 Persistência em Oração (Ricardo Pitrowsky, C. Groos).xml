@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:15">
+  <properties>
+    <titles>
+      <title>CC 149 Persistência em Oração</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Ricardo Pitrowsky</author>
+      <author>C. Groos</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="149"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eis que, ó Pai, prostrados te rogamos nós:<br/>dá-nos a vitória nesta luta atroz;<br/>dá-nos fé robusta para resistir,<br/>é o que teus servos, vimos-Te pedir!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dá-nos persistência como a de Jacó<br/>pra lutar orando, num desejo só,<br/>suplicando graça, sem desanimar,<br/>té que recebamos teu favor sem par!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>E se demorares em nos responder<br/>firmes ficaremos sem desfalecer;<br/>tu por graça tudo nos darás Senhor,<br/>quando for provada nossa fé e amor!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>De salvar perdidos, pobres socorrer<br/>e de dar-nos bênçãos tens real prazer.<br/>Que alcancemos sempre tua compaixão!<br/>Dá-nos fé mais forte, dá-nos tua mão!</lines>
+    </verse>
+  </lyrics>
+</song>

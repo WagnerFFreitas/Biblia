@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:07">
+  <properties>
+    <titles>
+      <title>HC236 - Já Nos Lavou</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sobre a cruz o bom Cordeiro,<br/>Dura morte já provou,<br/>Por nós todos no madeiro,<br/>Para Deus Pai nos comprou;<br/>Com Seu sangue tem lavado<br/>Nossa alma imortal,<br/>E também nos resgatado<br/>Do poder do mal.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Já nos lavou, já nos lavou,<br/>Com Seu precioso sangue, Jesus, Salvador.<br/>Nos libertou, nos libertou,<br/>Com Seu precioso sangue do vil tentador.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pelo sangue derramado<br/>Livre entrada se nos dá<br/>No lugar santificado<br/>Onde o Pai celeste está;<br/>Este sangue nos indica<br/>O infinito, imenso amor<br/>De Jesus, pois purifica<br/>Todo pecador!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fomos nós predestinaos<br/>Para crermos em Jesus,<br/>Com Espírito selados,<br/>Para desfrutar na luz;<br/>Se vós hoje mesmo crerdes,<br/>Por Deus, feitos vós sereis,<br/>Para dons Lhe oferecerdes,<br/>Sacerdotes, reis.</lines>
+    </verse>
+  </lyrics>
+</song>

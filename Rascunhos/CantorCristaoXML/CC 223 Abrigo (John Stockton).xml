@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:30">
+  <properties>
+    <titles>
+      <title>CC 223 Abrigo</title>
+      <title>Stockton</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>John Stockton</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="223"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh! vinde, vós aflitos, já,<br/>a Cristo o Redentor;<br/>abrigo certo vos dará,<br/>refúgio em seu amor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cristo salva, Cristo salva,<br/>salva o pecador.<br/>Cristo salva, Cristo salva,<br/>salva o pecador.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Seu sangue derramou por nós,<br/>e assim nos veio abrir<br/>estrada reta que conduz<br/>ao céu, o bom porvir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Em Cristo há vida, paz e luz,<br/>só nele existe amor,<br/>dá tudo, enfim, o bom Jesus,<br/>ao pobre pecador.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh! vinde pois, vinde já<br/>a Cristo vos unir!<br/>Perdão Jesus concederá<br/>àquele que o seguir.</lines>
+    </verse>
+  </lyrics>
+</song>

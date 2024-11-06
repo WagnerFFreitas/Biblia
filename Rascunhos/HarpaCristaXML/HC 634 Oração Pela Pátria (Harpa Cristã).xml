@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:56:20">
+  <properties>
+    <titles>
+      <title>HC634 - Oração Pela Pátria</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Minha Pátria para Cristo!<br/>- Eis a minha petição.<br/>- Minha Pátria tão querida,<br/>Eu te dei meu coração.<br/>Lar prezado, lar formoso,<br/>É por ti o meu amor.<br/>Que o meu Deus de excelsa graça<br/>Te dispense seu favor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Salve Deus a minha Pátria,<br/>Minha Pátria varonil!<br/>Salve Deus a minha terra,<br/>Esta terra do Brasil!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Quero, pois, com alegria,<br/>Ver feliz a mãe gentil,<br/>Por vencer o Evangelho<br/>Nesta terra do Brasil.<br/>Brava gente brasileira,<br/>Longe vá temor servil;<br/>Ou ficar a Pátria salva,<br/>Ou morrer pelo Brasil.</lines>
+    </verse>
+  </lyrics>
+</song>

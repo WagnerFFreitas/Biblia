@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:49">
+  <properties>
+    <titles>
+      <title>HC122 - Fogo Divino</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fogo divino, clamamos por ti;<br/>Vem lá do alto, vem, desce aqui;<br/>Ó vem despertar-nos com teu fulgor;<br/>Vem inflamar-nos com teu calor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Desce do alto, bendito fogo,<br/>Desce poder celestial!<br/>Desce do alto, bendito fogo,<br/>Vem, chama pentecostal!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Desce, Espírito Consolador,<br/>Desce e enche-nos de santo amor,<br/>Desce ao mundo, nos mostra Jesus;<br/>Dá-nos poder, vida, graça e luz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Arde em minh'alma, ó chama de amor<br/>Arde em meu peito e dá-me valor;<br/>Consome todos os restos do mal;<br/>Desce já, ó fogo pentecostal!</lines>
+    </verse>
+  </lyrics>
+</song>

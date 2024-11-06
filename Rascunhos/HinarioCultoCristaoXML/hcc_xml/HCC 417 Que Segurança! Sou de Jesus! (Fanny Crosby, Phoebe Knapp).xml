@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:36">
+  <properties>
+    <titles>
+      <title>HCC 417 Que Segurança! Sou de Jesus!</title>
+      <title>Assurance</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Fanny Crosby</author>
+      <author>Phoebe Knapp</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="417"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Que segurança! Sou de Jesus!<br/>E já desfruto as bênçãos da luz.</lines>
+      <lines>Sou por Jesus herdeiro de Deus;<br/>ele me leva à glória dos céus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Canta, minha alma! Canta ao Senhor!<br/>Rende-lhe sempre ardente louvor!</lines>
+      <lines>Canta, minha alma! Canta ao Senhor!<br/>Rende-lhe sempre ardente louvor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Ao seu amor eu me submeti<br/>e extasiado então me senti.</lines>
+      <lines>Anjos cantando nos altos céus<br/>louvam a excelsa graça de Deus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Sempre vivendo em seu grande amor,<br/>me regozijo em meu Salvador.</lines>
+      <lines>Esperançoso, vivo na luz,<br/>pela bondade do meu Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

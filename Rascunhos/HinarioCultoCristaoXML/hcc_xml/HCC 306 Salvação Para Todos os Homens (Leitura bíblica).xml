@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:13">
+  <properties>
+    <titles>
+      <title>HCC 306 Salvação Para Todos os Homens</title>
+      <title>Tito 2:11-14</title>
+    </titles>
+    <copyright>Tito 2:11-14</copyright>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="306"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Porque a graça de Deus se manifestou, trazendo salvação a todos os homens,<br/>ensinando-nos, para que, renunciando à impiedade e às paixões mundanas,<br/>vivamos no presente mundo sóbria, e justa, e piamente, aguardando a bem-aventurada esperança<br/>e o aparecimento da glória do nosso grande Deus e Salvador Cristo Jesus,<br/>que se deu a si mesmo por nós para nos remir de toda iniquidade,<br/>e purificar para si um povo todo seu, zeloso de boas obras.</lines>
+    </verse>
+  </lyrics>
+</song>

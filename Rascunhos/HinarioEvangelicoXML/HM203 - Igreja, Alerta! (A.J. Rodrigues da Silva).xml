@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:36">
+  <properties>
+    <titles>
+      <title>HM203 - Igreja, Alerta!</title>
+      <title>É tempo, é tempo, o Mestre está chamando já!</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>A.J. Rodrigues da Silva</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>É tempo, é tempo, o Mestre está chamando já!<br/>Marchar, marchar, confiando em seu amor!<br/>Partir, partir, a salvação a proclamar,<br/>Com a palavra santa do bom Salvador!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Marchar, sim, avante!<br/>Marchar, erguendo o seu pendão real!<br/>Avante!<br/>Sim, avante, unidos, sempre firmes, avançai!<br/>Glória, glória eis que canta a multidão!<br/>Consagrando todo o vosso coração,<br/>A Jesus obedecei, seu querer executai,<br/>Entoai louvores altos! Avançai!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>"Queremos luz" é o grito das nações pagãs,<br/>Que vêm atravessando o imenso mar.<br/>Ir já, pregar as Boas-Novas de perdão,<br/>Sem esquecer também aqui de semear.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Desperta, Igreja! E vem o teu dever cumprir!<br/>A todos fazer a Cristo conhecer;<br/>A tua mão estende com paciente amor;<br/>Não deixes pecador nenhum se vá perder</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Igreja, alerta! O dia prometido vem,<br/>No qual do Céu Jesus Senhor virá;<br/>Por toda a parte o vitorioso Redentor,<br/>De eterna majestade, aclamação terá.</lines>
+    </verse>
+  </lyrics>
+</song>

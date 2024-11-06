@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:45">
+  <properties>
+    <titles>
+      <title>HCC 457 Fortes na Graça de Cristo</title>
+      <title>2 Timóteo 2:1-9, 11-13; 4:22</title>
+    </titles>
+    <copyright>2 Timóteo 2:1-9, 11-13; 4:22</copyright>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="457"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu, pois, meu filho, fortifica-te na graça que há em Cristo Jesus; e o que de mim ouviste diante de muitas testemunhas,<br/>transmite-o a homens fiéis, que sejam idôneos para também ensinarem os outros.<br/>Sofre comigo como bom soldado de Cristo Jesus. Nenhum soldado em serviço se embaraça com negócios desta vida,<br/>a fim de agradar àquele que o alistou para a guerra.<br/>E também se um atleta lutar nos jogos públicos, não será coroado se não lutar legitimamente.<br/>O lavrador que trabalha deve ser o primeiro a gozar dos frutos.<br/>Considera o que digo, porque o Senhor te dará entendimento em tudo.<br/>Lembra-te de Jesus Cristo, ressurgido dentre os mortos (...) pelo qual sofro a ponto de ser preso como malfeitor;<br/>mas a palavra de Deus não está presa.<br/>Fiel é esta palavra: Se, pois, já morremos com ele, também com ele viveremos; se perseveramos, com ele também reinaremos;<br/>se o negarmos, também ele nos negará; se somos infiéis, ele permanece fiel, porque não pode negar-se a si mesmo.<br/>O Senhor seja com teu espírito. A graça seja convosco.</lines>
+    </verse>
+  </lyrics>
+</song>

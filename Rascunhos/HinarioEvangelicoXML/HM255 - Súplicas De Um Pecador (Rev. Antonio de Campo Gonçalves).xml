@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:45">
+  <properties>
+    <titles>
+      <title>HM255 - Súplicas De Um Pecador</title>
+      <title>Vem, Senhor, Pai de bondade,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Antonio de Campo Gonçalves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vem, Senhor, Pai de bondade,<br/>Vem, socorre o pecador;<br/>Mostra nele a caridade,<br/>Expressão do teu amor.<br/>Alumia o seu caminho,<br/>Passo a passo, até chegar;<br/>Vai com ele que, sozinho,<br/>Já não pode mais andar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pecador, atribulado,<br/>Dia a dia no seu mal,<br/>Sofre a dor do seu pecado,<br/>Na jornada terreal;<br/>Dor imensa que tortura<br/>E malsina o seu querer.<br/>Mas um dia, por ventura,<br/>Com Jesus terá prazer.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pecador, arrependido,<br/>Salvo agora por Jesus,<br/>Hoje implora agradecido,<br/>De seu Deus perdão e luz.<br/>Vem, Senhor de infinda graça,<br/>Dá-me paz ao coração;<br/>Dom celeste que me faça<br/>Verdadeiro e bom cristão.</lines>
+    </verse>
+  </lyrics>
+</song>

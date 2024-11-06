@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:51">
+  <properties>
+    <titles>
+      <title>HNC 065 - Louvor</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="65"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dai graças, todos vós, <br/>a Deus, humildemente;<br/>Milagres fez por nós <br/>neste universo ingente.<br/>Pois vós deveis saber que <br/>muitos bens nos deu,<br/>Que pelo seu poder <br/>nos vem a luz do céu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Deus da Redenção <br/>nos queira dar na vida<br/>Alegre coração e <br/>auxílio em toda lida<br/>Mantenha-nos de pé, <br/>por seu imenso amor,<br/>E nos conserve a fé <br/>em Cristo, o Salvador.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Exaltação, louvor ao Pai, <br/>ao Filho amado<br/>E ao bom Consolador, <br/>que foi dos céus mandado!<br/>Ao grande e trino Deus,<br/> em canto triunfal,<br/>Tribute os hinos seus<br/> a Igreja Universal.</lines>
+    </verse>
+  </lyrics>
+</song>

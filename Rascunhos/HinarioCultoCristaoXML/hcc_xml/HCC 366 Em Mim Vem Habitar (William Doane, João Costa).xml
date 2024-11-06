@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:24">
+  <properties>
+    <titles>
+      <title>HCC 366 Em Mim Vem Habitar</title>
+      <title>More Love To Thee</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>William Doane</author>
+      <author>João Costa</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="366"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Em mim vem habitar,<br/>oh, vem, Jesus,<br/>e em mim fazer brilhar<br/>a tua luz!</lines>
+      <lines>Eis a minha ambição:<br/>ter e sentir, Senhor,<br/>mais gratidão<br/>e mais amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Os passos teus seguir<br/>eu quero, sim:<br/>servir e bendizer<br/>até o fim.</lines>
+      <lines>Eis o meu desejar,<br/>meu ideal maior:<br/>contigo andar,<br/>ó Salvador.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Em meu interior<br/>vem tu brilhar.<br/>Faz-me, com mais ardor,<br/>da cruz falar.</lines>
+      <lines>Reveste o coração<br/>de teu excelso amor,<br/>de retidão<br/>e de fervor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Oh! que consolação<br/>a Cristo amar,<br/>pois que com tanto amor<br/>me quis salvar!</lines>
+      <lines>Nada me alegra mais,<br/>gozo não há maior,<br/>que tua paz,<br/>ó Salvador. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

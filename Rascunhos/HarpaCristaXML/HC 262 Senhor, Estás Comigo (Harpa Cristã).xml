@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:11">
+  <properties>
+    <titles>
+      <title>HC262 - Senhor, Estás Comigo</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Senhor, estás comigo em todo tempo,<br/>Fazendo-me feliz no sofrimento,<br/>Ó dá-me cada dia o Teu sustento<br/>E graça p'ra cumprir Teu mandamento.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sim, estás comigo em todo<br/>tempo,<br/>Tu és o meu maná, meu alimento;<br/>Jesus, estás comigo em todo tempo,<br/>O dá-me Tua vida; Teu sustento.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Contigo, ó Senhor, vou caminhando,<br/>O Evangelho santo proclamando:<br/>A face do Senhor Jesus busacando,<br/>E sempre do pecado me guardando.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Por Deus estamos nós santificados<br/>Em Ti, Jesus, que nos tens resgatado<br/>Do mundo e de todo o vil pecado,<br/>Também o nosso ser vivificado.</lines>
+    </verse>
+  </lyrics>
+</song>

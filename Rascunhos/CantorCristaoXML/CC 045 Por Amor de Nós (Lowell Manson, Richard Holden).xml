@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:41:55">
+  <properties>
+    <titles>
+      <title>CC 045 Por Amor de Nós</title>
+      <title>Missionary Himn</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Lowell Manson</author>
+      <author>Richard Holden</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="045"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Senhor, quão admirável <br/>é teu divino amor!<br/>Eterno e perdurável,<br/>motivo de louvor.</lines>
+      <lines>Amando-nos, baixaste<br/>a este mundo aqui;<br/>querendo assim remir-nos<br/>e nos chamar a ti.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Tu, por amor, provaste<br/>a nossa condição,<br/>e, por amor, levaste<br/>a nossa punição.</lines>
+      <lines>Sofreste o desamparo,<br/>a ira e o dissabor,<br/>devidos ao pecado,<br/>ó grande Sofredor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Por nós tu deste a vida,<br/>morrendo sobre a cruz;<br/>qual nosso substituto<br/>sofreste tu, Jesus.</lines>
+      <lines>Por isso te cercamos<br/>com grata adoração;<br/>perante a ti prostramos<br/>corpo, alma e coração.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">E não julgamos pouco,<br/>em prova desse amor,<br/>o ser-nos permitido<br/>servir-te aqui, Senhor.</lines>
+      <lines>Ou seja em culto alegre,<br/>ou seja no sofrer,<br/>ou seja nos trabalhos,<br/>segundo o teu querer.</lines>
+    </verse>
+  </lyrics>
+</song>

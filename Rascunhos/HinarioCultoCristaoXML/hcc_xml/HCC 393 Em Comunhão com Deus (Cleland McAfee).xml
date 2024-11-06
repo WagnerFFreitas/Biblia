@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:29">
+  <properties>
+    <titles>
+      <title>HCC 393 Em Comunhão com Deus</title>
+      <title>McAfee</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Cleland McAfee</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="393"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Descanso pleno eu encontrei<br/>em comunhão com Deus<br/>e do pecado me afastei<br/>em comunhão com Deus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Segura-me, ó Cristo,<br/>nos fortes braços teus.<br/>Que eu sempre permaneça<br/>em comunhão com Deus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Conforto e bênçãos recebi<br/>em comunhão com Deus.<br/>Poder e forças descobri<br/>em comunhão com Deus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ao Mestre tudo eu entreguei<br/>em comunhão com Deus.<br/>Perdão e paz completa achei<br/>em comunhão com Deus.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:38">
+  <properties>
+    <titles>
+      <title>HM471 - Oh! Quanta Alegria!</title>
+      <title>Oh! Que alegria e sublimes venturas</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. João Marques da Mota Sobrinho</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh! Que alegria e sublimes venturas<br/>Gozam os salvos já livres de agruras!<br/>Suave descanso terão os cansados,<br/>De glória os justos serão coroados.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E como é bela e gloriosa a cidade,<br/>Onde não entra jamais a maldade;<br/>Onde não há, para a graça, medida<br/>E é sempre e logo por Deus concedida!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Não mais tristezas, ou mágoas e dores,<br/>Mas regozijo indivisível, louvores,<br/>Hinos a Deus, Sumo Bem, imutável.<br/>Por seu amor e seu dom inefável</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ao Uno Deus, que em Trindade subsiste,<br/>De quem, por quem e em quem é quanto existe,<br/>Ao Pai, ao Filho e ao Espírito Santo,<br/>Gratos louvores em vozes de encanto!</lines>
+    </verse>
+  </lyrics>
+</song>

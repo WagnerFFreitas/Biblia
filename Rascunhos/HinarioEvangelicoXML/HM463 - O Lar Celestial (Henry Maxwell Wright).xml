@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:35">
+  <properties>
+    <titles>
+      <title>HM463 - O Lar Celestial</title>
+      <title>Na pátria celeste, de Deus doce lar</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Henry Maxwell Wright</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na pátria celeste, de Deus doce lar<br/>Prepara Jesus para os seus um lugar<br/>Pois longe do mal do pecado e da dor<br/>Os quer ter consigo o fiel Remidor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh! Doce, doce lar!<br/>Ali com Jesus eu irei descansar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh! lar sacrossanto de paz e de amor!<br/>Ali, sobre o trono, verei meu Senhor,<br/>O meigo cordeiro reinando na luz,<br/>Por todos louvado, glorioso Jesus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Que puras delícias se encontram em ti!<br/>Que gozos supernos esperam aí<br/>Aqueles que junto de Cristo estarão<br/>E alegres, felizes, a Deus bendirão.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Não são seus prazeres que anseio possuir,<br/>De Deus a presença desejo fruir;<br/>Jamais olvidá-lo, jamais ofender<br/>A quem quis salvar-me e por mim quis morrer.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:48">
+  <properties>
+    <titles>
+      <title>HC471 - Avançai, Fiéis</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Avançai, fiéis soldados,<br/>Contra as hostes infernais;<br/>Ouve-se de guerra, brados,<br/>Homens de Gideão sejais;<br/>Deste mundo, a ilusão,<br/>O terror da própria morte<br/>Não nos turba o coração;<br/>Torna Deus, o fraco - forte.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pelo sangue do Cordeiro<br/>Nós vamos, sim, triunfar,<br/>O Senhor, ao vencedor vai coroar;<br/>Hei de vencer<br/>Com Jesus, o verdadeiro,<br/>Hei de vencer,<br/>Pelo Seu poder.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Avançai, fiéis soldados,<br/>A seguir o pavilhão;<br/>Ei-lo na frente arvorado<br/>Por Jesus, nosso Capitão;<br/>Escutemos o clamor<br/>Dos que foram abatidos;<br/>Vamos, logo sem temor,<br/>Em socorro dos feridos.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Avançai, fiéis soldados,<br/>Sempre fortes, a lutar,<br/>E os povos escravizados,<br/>Ide avante, a libertar,<br/>Manda Cristo avançar<br/>A vanguarda dos remidos;<br/>Galardão hão de alcançar<br/>Os que forem destemidos!</lines>
+    </verse>
+  </lyrics>
+</song>

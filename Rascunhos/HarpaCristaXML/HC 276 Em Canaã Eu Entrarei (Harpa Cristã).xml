@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:13">
+  <properties>
+    <titles>
+      <title>HC276 - Em Canaã Eu Entrarei</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Em Canaã eu entrarei, no meu país ditoso,<br/>E em Sião habitarei; que paz ali terei<br/>Com meu Jesus! Que gozo! Pois me dará repouso,<br/>Irei cantar, então, nos céus, um hino ao meu Deus!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh! Glória a<br/>Jesus, a Jesus, a Jesus!<br/>Oh! Glória a Jesus, ó meu poder e luz!<br/>Os santos reunidos, no reino dos remidos,<br/>Entoarão, enfim, nos céus,<br/>Um hino ao bom Deus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Já muitas provas eu passei e lutas bem notórias;<br/>Mas de andar não cansarei, até eu ver o Rei.<br/>Jesus, que dá vitória, me levará em glória,<br/>E entrarei no esplendor do reino do Senhor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mui breve Cristo voltará;<br/>nas nuvens, vê-lo-emos;<br/>E o Seu povo levará, e festa haverá;<br/>O nosso caro e bom Jesus, verdade, vida e luz.</lines>
+    </verse>
+  </lyrics>
+</song>

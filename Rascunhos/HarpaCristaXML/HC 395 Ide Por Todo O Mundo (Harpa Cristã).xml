@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:35">
+  <properties>
+    <titles>
+      <title>HC395 - Ide Por Todo O Mundo</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ide por todo o mundo e dizei:<br/>"É-Me dado todo o poder";<br/>Ide, anunciai que já ressuscitei,<br/>P'ra dar vida a todo o que crer.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Confiando, irei onde me mandar;<br/>Pela terra, pelo mar também.<br/>Eis que estou convosco para vos guardar,<br/>Por todos os séculos. Amém.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ide e ensinai todas as nações;<br/>Publicai a salvação e paz;<br/>Cristo já venceu a morte e seus grilhões,<br/>Liberdade agora, a todos traz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Da salvação a porta aberta está;<br/>Quem por ela hoje quer entrar?<br/>E Jesus quem oferece e quem dá<br/>Livre entrada no celeste lar.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-12-24T18:09:41">
+  <properties>
+    <titles>
+      <title>HNC 380 - Jesus Proteja a Pátria</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="380"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh! Minha Pátria amada,<br/>Brasil dos sonhos meus!<br/>Dirija o teu destino<br/>A mão do eterno Deus!<br/>Que brilhe em teu caminho<br/>A refulgente luz<br/>Do amor e da verdade,<br/>Da glória de Jesus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Que o Pai dirija e guarde<br/>A vida nacional,<br/>Nos livre de perigos,<br/>Pecado e todo mal!<br/>A quantos que governam<br/>Conceda seu favor<br/>E guie em paz o povo<br/>Nas sendas do amor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus proteja sempre<br/>O povo do Brasil<br/>E sobre a nossa terra<br/>Derrame bênçãos mil!<br/>A gratidão nos faça<br/>Erguer o coração<br/>Em culto fervoroso,<br/>Em santa adoração. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

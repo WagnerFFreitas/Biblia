@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:11">
+  <properties>
+    <titles>
+      <title>HM064 - Pastor Divino</title>
+      <title>Eis-nos, ó Pastor Divino,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eis-nos, ó pastor divino,<br/>Todos juntos num lugar,<br/>Como ovelhas, congregados,<br/>Teu auxílio a suplicar,<br/>Sê presente,<br/>O rebanho a apascentar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Guia os tristes, fatigados,<br/>Ao aprisco do Senhor!<br/>Leva os tenros cordeirinhos<br/>Nos teus braços bom pastor<br/>Às pastagens<br/>De celeste e doce amor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó Jesus bondoso, escuta,<br/>Nossa humilde petição!<br/>Vem encher o teu rebanho,<br/>De sincera gratidão!<br/>Cantaremos<br/>Tua imensa compaixão!</lines>
+    </verse>
+  </lyrics>
+</song>

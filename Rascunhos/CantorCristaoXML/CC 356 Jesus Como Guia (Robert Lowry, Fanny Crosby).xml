@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:00">
+  <properties>
+    <titles>
+      <title>CC 356 Jesus Como Guia</title>
+      <title>All The Way</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Robert Lowry</author>
+      <author>Fanny Crosby</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="356"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Meu Jesus me guia sempre.<br/>Que mais posso desejar?<br/>Duvidar do meu Amado?<br/>Do meu Deus desconfiar?</lines>
+      <lines>Paz perfeita, gozo infindo<br/>tenho, e sua proteção;<br/>pois eu sei que por mim vela<br/>seu bondoso coração.<br/>Pois eu sei que por mim vela<br/>seu bondoso coração.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Meu Jesus me guia sempre,<br/>ensinando-me a viver,<br/>concedendo graça e força<br/>para me desenvolver.</lines>
+      <lines>Perecer jamais eu posso,<br/>pois quem pode resistir<br/>ao Deus forte, Pai eterno,<br/>que minha alma quis remir?<br/>Ao Deus forte, Pai eterno,<br/>que minha alma quis remir?</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Meu Jesus me guia sempre,<br/>pelo seu tão terno amor!<br/>Vida santa, glória eterna<br/>me garante o Salvador.</lines>
+      <lines>Oh! mui breve vem o dia,<br/>o da grande redenção,<br/>quando salva, transformada,<br/>há de ser a criação!<br/>Quando salva, transformada,<br/>há de ser a criação!</lines>
+    </verse>
+  </lyrics>
+</song>

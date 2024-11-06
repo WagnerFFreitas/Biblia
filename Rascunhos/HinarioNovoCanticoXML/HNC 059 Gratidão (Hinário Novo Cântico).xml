@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:50">
+  <properties>
+    <titles>
+      <title>HNC 059 - Gratidão</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c2</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="59"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ao Deus eterno, Criador, <br/>Mil graças tributemos,<br/>Por tantos anos de labor, <br/>No pátrio lar que temos</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Provaste, ó Deus, o teu amor<br/>A nós os brasileiros, <br/>Na voz tão plena de fervor<br/>Dos grandes pioneiros</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Por toda a parte ó Redentor, <br/>Agora é anunciado <br/>Teu nome ao pobre pecador<br/>Que jaz no vil pecado. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Que grandes coisas ó Senhor,<br/>A todos nós legaste!<br/>São provas desse grande amor<br/>Com que tu nos amaste.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Ao Deus eterno, Criador, <br/>Ao Deus da Redenção,<br/>Por tantos anos de labor,<br/>A nossa gratidão!</tag>
+      </lines>
+    </verse>
+    <verse name="c2">
+      <lines>
+        <tag name="it">Ao Deus eterno, Criador, <br/>Ao Deus da Redenção,<br/>Por tantos anos de labor,<br/>A nossa gratidão! Amém.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

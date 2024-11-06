@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:57">
+  <properties>
+    <titles>
+      <title>HNC 216 - Perdão</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="216"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Acharei mercê em Deus?<br/>Pode ainda perdoar?<br/>Esquecer pecados meus?<br/>Minha vida transformar?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Em que sempre resisti,<br/>Sua ira suscitei,<br/>Seus apelos não ouvi,<br/>Transgredi a sua Lei!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Arrependo-me, Senhor,<br/>Tenho ao mal grande aversão!<br/>Sinto n’alma intenso horror,<br/>Posso ter o Teu perdão?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mansamente, diz Jesus:<br/>“Quero a paz te conceder!<br/>A salvar-te fui à cruz,<br/>Salvo estás, se podes crer.”</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sim, eu creio e salvo estou!<br/>Reina gozo lá no céu,<br/>Pois a Nova já chegou<br/>De mais um que nele creu.</lines>
+    </verse>
+  </lyrics>
+</song>

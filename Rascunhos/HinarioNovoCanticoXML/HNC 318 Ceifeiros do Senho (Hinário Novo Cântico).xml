@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:49:01">
+  <properties>
+    <titles>
+      <title>HNC 318 - Ceifeiros do Senho</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="318"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ceifeiros da Seara santa,<br/>Quão poucos, fracos sois!<br/>Mas forte é Cristo, vosso Mestre,<br/>Avante, avante, pois!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cansados, tristes, sem alento,<br/>Deixai-vos de chorar!<br/>Se Onipotente é vosso Mestre,<br/>Por que desanimar?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus está conosco sempre,<br/>Assim nos prometeu.<br/>Coragem, pois, irmãos, avante,<br/>Eis que Ele já venceu!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Os que esperam no Senhor renovar-se-ão!<br/>Crescerão em vigor; subirão até às alturas!<br/>Correrão, e sem fadiga andarão, sem se cansar!<br/>Correrão, e sem fadiga, andarão, sem se cansar!<br/>Voarão e, nas alturas, como águias serão!</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

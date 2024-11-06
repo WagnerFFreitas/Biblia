@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:17">
+  <properties>
+    <titles>
+      <title>HM409 - Sede Fiéis!</title>
+      <title>Erguei-vos cristãos! Cristo quer-vos de pé!</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Henry Maxwell Wright</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Erguei-vos cristãos! Cristo quer-vos de pé!<br/>Na luta do bem, revelai vossa fé!<br/>Cingindo a armadura, hoje a Cristo exaltai,<br/>À sombra da Cruz, corajosos lutai!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sede fiéis, e por Cristo lutai!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus vos remiu, afastai o temor.<br/>Confiantes segui vosso bom Salvador!<br/>Na causa de Cristo, fervor demonstrai!<br/>À sombra da Cruz, corajosos lutai!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As hostes do mal deveis hoje enfrentar.<br/>Das suas prisões pecadores livrar!<br/>De Cristo bem alto o pendão levantai!<br/>À sombra da Cruz, corajosos lutai!</lines>
+    </verse>
+  </lyrics>
+</song>

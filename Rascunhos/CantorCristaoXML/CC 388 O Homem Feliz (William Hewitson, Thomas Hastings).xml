@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:07">
+  <properties>
+    <titles>
+      <title>CC 388 O Homem Feliz</title>
+      <title>Ortonville</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>William Hewitson</author>
+      <author>Thomas Hastings</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="388"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Feliz é o homem que não vai<br/>conforme os ímpios vão,</lines>
+      <lines>nem com os pecadores tem<br/>alguma comunhão,<br/>alguma comunhão.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Porém na lei, na santa lei<br/>de Deus se alegra bem,</lines>
+      <lines>e posto sempre o coração<br/>na lei divina tem,<br/>na lei divina tem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Tal homem florescendo vai<br/>qual plantação que está</lines>
+      <lines>ao pé de um rio, e fruto bom<br/>em tempo próprio dá,<br/>em tempo próprio dá.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Jamais a sua folha cai,<br/>nem murcha vem a ser,</lines>
+      <lines>e bem maduro se fará<br/>o fruto que ele der,<br/>o fruto que ele der.</lines>
+    </verse>
+    <verse name="v5">
+      <lines break="optional">Os ímpios não serão assim,<br/>jamais felizes são;</lines>
+      <lines>porém parecem com o pó<br/>que os ventos levarão,<br/>que os ventos levarão.</lines>
+    </verse>
+    <verse name="v6">
+      <lines break="optional">No juízo não subsistirão,<br/>no dia do Senhor;</lines>
+      <lines>dos justos longe ficarão,<br/>curtindo eterna dor,<br/>curtindo eterna dor.</lines>
+    </verse>
+  </lyrics>
+</song>

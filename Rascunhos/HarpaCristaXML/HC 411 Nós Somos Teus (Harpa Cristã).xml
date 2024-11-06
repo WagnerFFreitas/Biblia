@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:37">
+  <properties>
+    <titles>
+      <title>HC411 - Nós Somos Teus</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Filho do eterno Deus, nós somos Teus!<br/>Compraste-nos, Jesus, por Tua cruz,<br/>Rendemo-nos, Senhor, cheios de fé e amor;<br/>Nós somos Teus, Filho de Deus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Teu caminho, ó Deus que leva ao céu,<br/>Faze-nos percorrer até morrer.<br/>Não tem que recear todo o que nele andar;<br/>Tu és, Senhor, o bom Pastor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A quem nos quis salvar vamos louvar<br/>Com voz e coração, em santa união,<br/>Aceita, pois, Senhor, nosso veraz louvor!<br/>Graças, oh! Deus, que somos Teus!</lines>
+    </verse>
+  </lyrics>
+</song>

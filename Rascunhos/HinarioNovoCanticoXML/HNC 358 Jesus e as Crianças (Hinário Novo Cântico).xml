@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-12-24T17:17:03">
+  <properties>
+    <titles>
+      <title>HNC 358 - Jesus e as Crianças</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="358"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="st">
+        <open>&lt;strong&gt;</open>
+        <close>&lt;/strong&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines><tag name="st">Congregação:</tag><br/><br/>A Jesus crianças vinham<br/>Sua bênção suplicar.<br/>Vós, que agora sois crianças,<br/>Vinde a ele, pois, louvar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><tag name="st">Congregação:</tag><br/><br/>Se crianças de outro tempo<br/>Aceitou com terno amor,<br/>Hoje a todas as crianças<br/>Salva, ainda, com favor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><tag name="st">Crianças:</tag><br/><br/>Meus pecados, no Calvário,<br/>Sobre a cruz Jesus pagou!<br/>A maior das maravilhas<br/>É que Cristo me amou.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><tag name="st">Crianças:</tag><br/><br/>Minhas mãos, tão pequeninas,<br/>Se ergam sempre em teu louvor,<br/>Ó Jesus, Senhor bendito,<br/>Por salvar-nos com amor! Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

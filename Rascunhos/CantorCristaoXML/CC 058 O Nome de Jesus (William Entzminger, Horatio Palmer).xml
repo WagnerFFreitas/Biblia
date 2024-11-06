@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:41:57">
+  <properties>
+    <titles>
+      <title>CC 058 O Nome de Jesus</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>William Entzminger</author>
+      <author>Horatio Palmer</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="058"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Do Salvador o nome traz<br/>recordação que a mim me apraz;<br/>dos vis grilhões me libertou,<br/>e deu-me a fé que me salvou.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Do Salvador o nome traz<br/>recordação que a mim me apraz;<br/>a ti, Senhor, a ti, louvor<br/>sem fim eu ergo com fervor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Em ti, Senhor, eu gozo paz<br/>e tudo mais que satisfaz;<br/>de bênçãos mil sou alvo, sim,<br/>que tu, Jesus, dás sempre a mim.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Desprezo, pois, o que é falaz,<br/>e ponho a fé no Deus veraz;<br/>foi ele quem, por grande amor,<br/>nos deu Jesus, o Redentor! </lines>
+    </verse>
+  </lyrics>
+</song>

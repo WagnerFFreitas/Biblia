@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:36">
+  <properties>
+    <titles>
+      <title>HM207 - Arautos Cristãos</title>
+      <title>Arautos somos de Jesus,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. João Marques da Mota Sobrinho</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Arautos somos de Jesus,<br/>Chamando as almas para a luz,<br/>A luz que brilha desde os céus<br/>E guia os homens para Deus.<br/>O mundo rola em perdição,<br/>E em Cristo há plena redenção.<br/>A vida nele proclamai,<br/>Seu evangelho anunciai.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Não cessa o tempo de correr<br/>E ainda há muito que fazer!<br/>O vosso posto hoje ocupai,<br/>A luz nas trevas espalhai!<br/>Assim mostramos gratidão<br/>A quem nos deu a salvação,<br/>A quem sofreu por nosso amor,<br/>Jesus, o Cristo, o Salvador!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:49">
+  <properties>
+    <titles>
+      <title>HCC 180 Jesus, Teu Nome Satisfaz</title>
+      <title>Come Together</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Jimmy Owens</author>
+      <author>W. Martin</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="180"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, teu nome satisfaz,<br/>por todo o mundo leva a paz,<br/>perfeito amor e vida traz,<br/>Jesus, Senhor amado.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ao servo teu, ó Salvador,<br/>ao coração tão sofredor<br/>dás tua graça e muito amor,<br/>Jesus, Senhor amado.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se enfrento forte provação,<br/>me fortalece a tua mão,<br/>pois peço ajuda em oração,<br/>Jesus, Senhor amado.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus, teu nome sem igual,<br/>dá força a todo o que é leal;<br/>dá paz perfeita, perenal,<br/>Jesus, Senhor amado.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:13">
+  <properties>
+    <titles>
+      <title>HM075 - Invocação</title>
+      <title>Eterno Pai! Teu povo congregado</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eterno pai! Teu povo congregado<br/>Humilde implora a tua graça aqui!<br/>No dia para o culto reservado<br/>Com esperança olhamos para ti<br/>Teu santo livro, ó grande Deus cercamos<br/>Com fé singela e reverente amor,<br/>E, como atentos filhos procuramos,<br/>Ciência na Palavra do Senhor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, aos teus benditos pés sentados,<br/>Queremos teu conselho receber,<br/>E, sendo por ti mesmo doutrinados,<br/>De mais em mais na santa fé crescer!<br/>Do mundo e seus encargos retirados,<br/>Nós vimos descansar em ti, Senhor,<br/>Mirando os ricos bens entesourados,<br/>Na plenitude do teu vasto amor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Consola os teus, Espírito Divino<br/>Desfaze a dor dos pobres corações,<br/>E, com a luz do teu celeste ensino,<br/>Vem aclarar as santas instruções;<br/>Aviva em nós as forças da memória,<br/>O entendimento, a fim de conhecer<br/>O Rei dos céus, o Cristo, cuja glória<br/>Enleva os santos anjos de prazer!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:38">
+  <properties>
+    <titles>
+      <title>HC413 - Meu Pastor</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Meu Pastor é Jesus Cristo<br/>NEle quero confiar;<br/>Com Jesus, não tenho falta,<br/>Junto a Ele eu quero andar;<br/>Me conduz ao bom descanso;<br/>Para o campo verde em flor,<br/>Refrigera, sim, minh'alma,<br/>Saciando-me de amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ele é meu companheiro;<br/>Com Jesus desejo andar;<br/>Pois me dá vigor e força,<br/>P'ra que eu possa caminhar;<br/>Ele é quem dá coragem,<br/>Para nada eu temer;<br/>Mesmo próximo à morte<br/>Certo estou que vou vencer.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Caminhando ao Seu lado<br/>Não mais temerei o mal;<br/>Seu bordão e Seu cajado<br/>Dão-me proteção real;<br/>Contra o meu inimigo<br/>O Senhor sempre virá;<br/>Me prepara uma mesa<br/>E comigo nela está.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Unge a cabeça minha<br/>Com óleo do Seu amor;<br/>O meu gozo é transbordante,<br/>Pois meu cálice tem dulçor;<br/>Por Sua misericórdia<br/>E por Seu sublime bem<br/>Habitarei em Sua casa<br/>Eternamente, amém!</lines>
+    </verse>
+  </lyrics>
+</song>

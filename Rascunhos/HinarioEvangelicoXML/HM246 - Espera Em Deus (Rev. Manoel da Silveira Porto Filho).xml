@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:44">
+  <properties>
+    <titles>
+      <title>HM246 - Espera Em Deus</title>
+      <title>Qual suspira a corça inquieta,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Manoel da Silveira Porto Filho</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Qual suspira a corça inquieta,<br/>Pelas àguas, a bramir,<br/>Tua divinal presença<br/>Que minha alma, ó Deus, sentir.<br/>Sede intensa me angustia,<br/>Quando, ó Deus, virá o dia<br/>De contínuo me alegrar<br/>Por teu rosto contemplar?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Só de lágrimas amargas<br/>Tenho enchido os dias meus,<br/>Pois os ímpios me atormentam<br/>Perguntando por meu Deus.<br/>Choro então os velhos dias<br/>Quando, em santas alegrias,<br/>Proclamava o teu louvor<br/>Junto a ti, ó meu Senhor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Em rajadas tormentosas<br/>Teu juízo me alcançou;<br/>E minha alma, inda ferida,<br/>Penitente, se humilhou.<br/>Tu então, meus pés guiando,<br/>Com ternura me amparando,<br/>Alto abrigo me vens dar<br/>E na rocha me firmar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Por que tremes, ó minha alma,<br/>E te abates dentro em mim?<br/>Vão bem longe os teus anseios,<br/>Deus ao teu penar pôs fim.<br/>Ele as ondas más quebranta.<br/>Nos seus braços te levanta.<br/>Ó minha alma, sem temor,<br/>Canta a Deus o teu louvor!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:43">
+  <properties>
+    <titles>
+      <title>HC446 - Ó Vem Já</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vem, ó alma cansada, que sentes dor,<br/>A teu bom Salvador, a Jesus,<br/>E confia no sangue do Redentor,<br/>Derramado, que foi lá na cruz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ó vem já! Ó vem já! A Jesus vem<br/>como estás;<br/>Não demores pecador aceitar o teu Salvador.<br/>Ó vem já! Ó vem já! A Jesus vem como estás,<br/>Não demores pecador aceitar o teu Salvador.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu que vagas mui longe do Salvador,<br/>No pecado, no mal preso estás;<br/>Só Jesus é que vai te livrar da dor,<br/>Salvação hoje mesmo te dar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cristo chama ainda: "Ó vinde a Mim,<br/>Oprimidos, cansados, sem paz;<br/>Vida eterna darei para vós, enfim,<br/>No meu reino de gozo veraz".</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-12-24T18:25:16">
+  <properties>
+    <titles>
+      <title>HNC 384 - Vamos com Jesus</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="384"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó jovens, atendei! Oh! Que lindo pavilhão<br/>Cristo há desfraldado já sobre a nação.<br/>E quer-vos nas fileiras a todos receber<br/>E levar-vos, sem demora, para combater.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó jovens, avançai! O divino Vencedor<br/>Quer juntar-vos todos hoje ao seu redor.<br/>Dispostos à batalha, saí sem vacilar!<br/>Vamos todos, companheiros, vamos a lutar!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As armas invencíveis do Chefe guiador<br/>São seu Evangelho e seu grande amor.<br/>Com elas revestidos e cheios de poder,<br/>Companheiros, com coragem, vamos a vencer!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Quem entra nessa guerra,<br/>Com Deus sempre andará<br/>E o Senhor vitória lhe concederá!<br/>Sim, vamos, companheiros,<br/>Pois, sendo aqui fiéis,<br/>Com Jesus conquistaremos imortais lauréis!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Vamos com Jesus e marchemos sem temor;<br/>Vamos ao combate inflamados de valor!<br/>Ânimo, lutemos todos contra o mal:<br/>É Jesus o nosso grande General!</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

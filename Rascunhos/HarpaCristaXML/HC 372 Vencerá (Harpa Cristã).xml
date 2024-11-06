@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:30">
+  <properties>
+    <titles>
+      <title>HC372 - Vencerá</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quem possui a Cristo, nEle firme está,<br/>Achará poder para o mal combater;<br/>Porque Suas promessas Ele cumprirá.<br/>Quem está em Cristo, sempre há de vencer.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Vencerá, vencerá, por<br/>Seu sanguevencerá;<br/>Vencerá, vencerá, sempre vencerá;<br/>Pois Jesus que impera, novas forças dá;<br/>E quem nEle espera sempre vencerá.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Em qualquer batalha, não desmaiará;<br/>Do poder das trevas há de triunfar;<br/>Deus lhe dará forças, nunca falhará;<br/>Porque Jeová combate em seu lugar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Entre os inimigos, mui audaz será,<br/>Quem unido a Cristo nunca vacilar.<br/>Em Jesus firmado, luz espargirá;<br/>A luz do Evangelho para os libertar.</lines>
+    </verse>
+  </lyrics>
+</song>

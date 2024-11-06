@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:41:52">
+  <properties>
+    <titles>
+      <title>CC 035 Incomparável</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Jane Hall</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="035"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O grande amor de meu Jesus,<br/>por mim morrendo sobre a cruz,<br/>da perdição pra me salvar,<br/>quem poderá contar?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Quem pode o seu amor contar?<br/>Quem pode o seu amor contar?<br/>O grande amor do Salvador<br/>quem poderá contar?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O cálix que Jesus bebeu,<br/>a maldição que padeceu<br/>na cruz por mim pra me salvar,<br/>quem poderá contar?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A zombaria tão cruel,<br/>a cruz sangrenta, o amargo fel,<br/>que ali sofreu pra me salvar,<br/>quem poderá contar?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Incomparável Salvador,<br/>quão inefável teu amor!<br/>Quão impossível de sondar!<br/>Imensidão sem par!</lines>
+    </verse>
+  </lyrics>
+</song>

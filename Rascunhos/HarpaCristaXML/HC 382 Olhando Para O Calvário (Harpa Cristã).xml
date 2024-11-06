@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:32">
+  <properties>
+    <titles>
+      <title>HC382 - Olhando Para O Calvário</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na cruz do Calvário olhando,<br/>Avistei o Salvador;<br/>Meu pecado expiando,<br/>Revelou-se o Seu amor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lá na fonte desta luz,<br/>que me trouxe um clarão,<br/>Foi onde eu achei abrigo,<br/>Vida, paz e salvação.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vi Jesus crucificado<br/>A sofrer tão grande dor,<br/>Foi Seu sangue derramado<br/>Pelo pobre pecador.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó Cordeiro imaculado,<br/>Que morreste sobre a cruz!<br/>Livra-me do vil pecado,<br/>Ó meu Salvador Jesus!</lines>
+    </verse>
+  </lyrics>
+</song>

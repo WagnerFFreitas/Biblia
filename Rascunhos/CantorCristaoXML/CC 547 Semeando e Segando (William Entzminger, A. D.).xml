@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:39">
+  <properties>
+    <titles>
+      <title>CC 547 Semeando e Segando</title>
+      <title>Sowing And Reaping</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>William Entzminger</author>
+      <author>A. D.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="547"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Semente lançada na terra<br/>germina e seu fruto produz;<br/>as nossas ações e palavas<br/>dão ceifa de trevas ou luz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Que queres, ó jovem, segar?<br/>A morte ou a vida será!<br/>O fruto de certo se colhe<br/>de tudo que se semear.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O joio do mal espalhado<br/>colheita maldita dará;<br/>o trigo do bem semeado,<br/>colheita de bênçãos trará.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se, pois, tu semeias na carne,<br/>a morte eternal tu terás;<br/>porém se no Espírito andares,<br/>da vida do céu gozarás.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Semente do bem, pois, semeia,<br/>bondade e palavras de amor;<br/>feliz tu serás para sempre<br/>com Cristo Jesus, o Senhor.</lines>
+    </verse>
+  </lyrics>
+</song>

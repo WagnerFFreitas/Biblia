@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:56:07">
+  <properties>
+    <titles>
+      <title>HC568 - Manso E Suave</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Manso e suave, é Cristo chamando:<br/>Chama por ti e por mim.<br/>Eis que Ele às portas espera velando:<br/>Vela por ti e por mim.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Vem já! vem já! alma cansada, vem já!<br/>Manso e suave, Jesus convidando,<br/>Chama: - "Vem, pecador, vem!"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Com paciência, Ele está esperando,<br/>Hoje, por ti e por mim.<br/>Oh! não desprezes a quem, convidando,<br/>Chama por ti e por mim.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Correm os dias, as horas se passam,<br/>Passam por ti e por mim.<br/>Transes de morte, por fim, vão chegando,<br/>Tanto por ti e por mim.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh! quanto amor que Jesus nos tem dado!<br/>Tudo por ti e por mim!<br/>Seu sangue foi sobre a Cruz derramado,<br/>Sim, foi por ti e por mim.</lines>
+    </verse>
+  </lyrics>
+</song>

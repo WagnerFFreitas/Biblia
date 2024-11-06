@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:18">
+  <properties>
+    <titles>
+      <title>HCC 331 Como Um Rio Calmo</title>
+      <title>Wye Valley</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Frances Havergal</author>
+      <author>James Mountain</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="331"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Como um rio calmo, vai correndo a paz<br/>com que Deus aos crentes sempre satisfaz.</lines>
+      <lines>É perfeita e cresce meiga em seu poder,<br/>alegrando a vida, dominando o ser.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>No Senhor firmado, tem o crente a paz,<br/>a completa bênção, comunhão veraz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">No bendito abrigo da divina mão<br/>não há inimigo, não se vê traição.</lines>
+      <lines>Ventos de cuidado, sombras de pesar<br/>nunca a santa calma poderão turbar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">São os nossos dias, de prazer ou dor,<br/>raios derramados pelo sol de amor.</lines>
+      <lines>Pondo a confiança plenamente em Deus,<br/>sempre o acharemos amparando os seus.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:42">
+  <properties>
+    <titles>
+      <title>HC440 - Faze Já O Seu Querer</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Em viver p'ra Cristo firme permanecerás<br/>E a paz após, tu sempre seguirás?<br/>E ao pé da cruz os teus cuidados deixarás?<br/>Faze já o Seu querer!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O Seu poder e Seus dons te dará;<br/>De gozo, Cristo, sim, te inundará;<br/>Do coração as manchas limpará<br/>Fazendo tu, p'ra sempre, Seu querer!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Queres ir após de Cristo e carregar a cruz?<br/>Queres conhecer a paz que dá Jesus?<br/>Queres que te guie com a verdadeira luz?<br/>Faze já o Seu querer!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Queres lá no céu os teus amigos encontrar?<br/>Deves preparar tua vida sem tardar,<br/>Queres p'ra Jesus a tua vida consagrar?<br/>Faze já o Seu querer!</lines>
+    </verse>
+  </lyrics>
+</song>

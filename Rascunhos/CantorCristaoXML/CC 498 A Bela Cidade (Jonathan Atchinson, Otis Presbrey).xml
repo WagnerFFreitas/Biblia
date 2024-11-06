@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:29">
+  <properties>
+    <titles>
+      <title>CC 498 A Bela Cidade</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Jonathan Atchinson</author>
+      <author>Otis Presbrey</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="498"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Tenho lido da bela cidade,<br/>construída por Cristo nos céus;<br/>é murada de jaspe luzente<br/>e juncada com áureos troféus.</lines>
+      <lines>e, no meio da praça, eis o rio<br/>do vigor e da vida eternal;<br/>mas metade da glória celeste<br/>jamais se contou ao mortal.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jamais se contou ao mortal;<br/>jamais se contou ao mortal;<br/>metade da glória celeste<br/>jamais se contou ao mortal.<br/>(Repetir o refrão)</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Tenho lido das belas moradas<br/>que Jesus foi no céu preparar,<br/>onde os crentes fiéis, para sempre,<br/>mui felizes irão habitar.</lines>
+      <lines>Nem tristeza, nem dor, nem gemidos<br/>entrarão na mansão paternal;<br/>mas metade do gozo celeste<br/>jamais se contou ao mortal.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Tenho lido das vestes brilhantes,<br/>das coroas que os santos terão<br/>quando o Pai os chamar e disser-lhes:<br/>"Recebei o eternal galardão."</lines>
+      <lines>Tenho lido que os santos na glória<br/>pisarão ruas de ouro e cristal;<br/>mas metade da glória celeste<br/>jamais se contou ao mortal.</lines>
+    </verse>
+  </lyrics>
+</song>

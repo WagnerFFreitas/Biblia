@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:49">
+  <properties>
+    <titles>
+      <title>HC120 - Noite  De Paz</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Noite de paz, Noite de Amor;<br/>Tudo dorme, em derredor!<br/>Entre os Astros que espargem a Luz<br/>Bela, indicando o menino Jesus,<br/>Brilha a estrela da Paz,<br/>Brilha a estrela da Paz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Noite de paz, Noite de Amor,<br/>Ouve o fiel pastor,<br/>Coros celestes que cantam a paz,<br/>Que nesta noite sublime nos traz,<br/>O nosso bom Redentor,<br/>O nosso bom Redentor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Noite de paz, Noite de Amor,<br/>Oh! Que belo resplendor,<br/>Paira no rosto do meigo Jesus!<br/>E no presépio do mundo, a luz!<br/>Astro de eterno fulgor,<br/>Astro de eterno fulgor.</lines>
+    </verse>
+  </lyrics>
+</song>

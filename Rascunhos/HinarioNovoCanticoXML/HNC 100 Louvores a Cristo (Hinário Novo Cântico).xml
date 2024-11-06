@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:52">
+  <properties>
+    <titles>
+      <title>HNC 100 - Louvores a Cristo</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="100"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó minha alma, sem demora,<br/>Vem a Cristo celebrar,<br/>E os louvores do seu Nome<br/>Exultante publicar.<br/>Vem, minha alma! Vem, minha alma<br/>Sua graça proclamar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Minha condição tão triste<br/>Conheceu o Salvador,<br/>Que o céu desceu à terra<br/>Para ser meu Redentor!<br/>Oh! Sublime! Oh! Sublime!<br/>É seu grande e santo amor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Meus pecados carregando<br/>No madeiro, em meu lugar,<br/>Foi Jesus crucificado<br/>E me pôde, assim, salvar.<br/>Para sempre, para sempre<br/>Seus louvores vou cantar.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:12">
+  <properties>
+    <titles>
+      <title>HC270 - Louvando Ao Nosso Criador</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sinto prazer louvando<br/>Ao nosso Criador,<br/>E gozo celebrando<br/>Os feitos do Senhor;<br/>Saber que sou lavado<br/>No sanggue de Jesus.<br/>Também que sou guiado,<br/>Pela divina luz!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Alegre irei avante,<br/>unido ao Salvador;<br/>Cantando triunfante,<br/>Ao nosso Criador!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Em Cristo, tenho gozo,<br/>E paz, celeste luz;<br/>Na obra, eu repouso,<br/>Cumprida lá na cruz;<br/>De graça revestido,<br/>Nada me faltará;<br/>Cristo tem prometido,<br/>Que tudo suprirá!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alegre sigo avante,<br/>Na senda que conduz<br/>A porta fulgurante<br/>Da mansão de Jesus;<br/>Com Deus aqui eu ando,<br/>Ele me guiará,<br/>E por fim me tomando,<br/>Ao céu me levará!</lines>
+    </verse>
+  </lyrics>
+</song>

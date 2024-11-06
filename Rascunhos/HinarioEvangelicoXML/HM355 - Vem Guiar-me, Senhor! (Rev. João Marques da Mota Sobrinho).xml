@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:07">
+  <properties>
+    <titles>
+      <title>HM355 - Vem Guiar-me, Senhor!</title>
+      <title>Venha, Senhor, guiar-me</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. João Marques da Mota Sobrinho</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Venha, Senhor, guiar-me<br/>A tua mão,<br/>E não me falte nunca<br/>A proteção<br/>Que só de ti espero<br/>Em meu andar.<br/>Oh! Vem o meu caminho<br/>Iluminar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Contempla em tua graça<br/>Meu pobre ser;<br/>Vê-lo assim, de certo,<br/>Enriquecer.<br/>Depondo o meu passado<br/>Ao pé da Cruz,<br/>Entrego o meu futuro<br/>A ti, Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se acaso visitar-me<br/>Vier a dor,<br/>Põe minha mão na tua,<br/>Oh! Meu Senhor!<br/>Serei afortunado,<br/>Se tu me dás,<br/>Consoante prometeste,<br/>A tua paz.</lines>
+    </verse>
+  </lyrics>
+</song>

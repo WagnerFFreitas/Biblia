@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:22">
+  <properties>
+    <titles>
+      <title>HCC 037 Deus Vos Guarde Pelo Seu Poder</title>
+      <title>God Be With You</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Jeremiah Rankin</author>
+      <author>William Tomer</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="037"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deus vos guarde pelo seu poder,<br/>protegidos e amparados,<br/>desfrutando os seus cuidados.<br/>Deus vos guarde pelo seu poder.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pelo seu poder e no seu amor,<br/>estaremos juntos com Jesus.<br/>Pelo seu poder e no seu amor,<br/>viveremos sempre em sua luz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Deus vos guarde por seu terno amor.<br/>Pela sua mão guiados,<br/>no rebanho bem guardados,<br/>Deus vos guarde por seu terno amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Deus vos guarde do poder do mal,<br/>do perigo dos pecados,<br/>de temores infundados.<br/>Deus vos guarde do poder do mal.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Deus vos guarde para o seu louvor,<br/>para um culto fervoroso<br/>e serviço proveitoso.<br/>Deus vos guarde para o seu louvor.</lines>
+    </verse>
+  </lyrics>
+</song>

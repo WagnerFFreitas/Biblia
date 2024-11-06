@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:46">
+  <properties>
+    <titles>
+      <title>HM259 - Redenção Suprema</title>
+      <title>O peso do pecado</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O peso do pecado<br/>Jesus a si tomou,<br/>Medonhas tempestades<br/>Por nós, na cruzm provou.<br/>Pagou por teus pecados!<br/>Sofreu em teu lugar!<br/>Por ti, por mim, por todos,<br/>Pois todos quis salvar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A obra é já perfeita!<br/>Liberto o devedor!<br/>Jesus pagou a conta;<br/>É justo e Salvador.<br/>Ó redenção suprema!<br/>Ó dom do eterno Deus!<br/>A entrada é livre e certa,<br/>Que leva para os céus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pois Deus ergueu da morte<br/>O Fiador Jesus!<br/>É vivo ressurreto,<br/>O que expirou na cruz!<br/>Agora entronizado,<br/>É Deus e Salvador,<br/>É sempre o mesmo Amigo<br/>Do pobre pecador.</lines>
+    </verse>
+  </lyrics>
+</song>

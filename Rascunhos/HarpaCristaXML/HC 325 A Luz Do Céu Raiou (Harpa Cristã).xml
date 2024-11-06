@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:21">
+  <properties>
+    <titles>
+      <title>HC325 - A Luz Do Céu Raiou</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Noutro tempo, sei como eu andei,<br/>Do pecado sob o véu,<br/>Mas do céu raiou e em mim entrou<br/>A luz do glorioso céu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Em meu coração a luz raiou<br/>Desde a glória, pois Jesus me amou;<br/>E agora vivo sempre alegre,<br/>Depois que luz do céu raiou!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E poder me dá, que só vem de lá,<br/>De Jesus, que me salvou;<br/>E eu vivo aqui, a louvar a Deus,<br/>Que minh'alma libertou.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O descanso entrou e o lutar findou,<br/>Com Jesus, meu Salvador;<br/>Seu amor sem fim revelado a mim,<br/>Enche-me de paz e amor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vou morar, então, na feliz Sião,<br/>Com meu Salvador Jesus,<br/>Para sempre ali, gozarei prazer<br/>Lá na gloriosa luz.</lines>
+    </verse>
+  </lyrics>
+</song>

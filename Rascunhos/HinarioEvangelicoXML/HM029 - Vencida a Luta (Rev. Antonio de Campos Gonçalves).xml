@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:06">
+  <properties>
+    <titles>
+      <title>HM029 - Vencida a Luta</title>
+      <title>Jardim das Oliveiras</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Antonio de Campos Gonçalves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jardim das Oliveiras,<br/>Recanto em que Jesus,<br/>Nas horas derradeiras,<br/>Sofreu, primeiro, a cruz;<br/>De ti subiram preces<br/>Do Santo Redentor.<br/>Jesus, só tu conheces<br/>O cálix de amargor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, Senhor, espero<br/>Nas horas de aflição,<br/>Lembrar-me do severo<br/>Jardim da provação;<br/>Senhor, mesmo inocente,<br/>Sofreste no jardim,<br/>Sofreste duramente,<br/>Sofreste só, por mim.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Passada a grande prova,<br/>Tiveste de enfrentar<br/>A dor, que se renova,<br/>Na cruz, em meu lugar;<br/>Venceste nessa luta:<br/>Achei descanso e paz,<br/>Minha alma já desfruta<br/>A salvação que dás.</lines>
+    </verse>
+  </lyrics>
+</song>

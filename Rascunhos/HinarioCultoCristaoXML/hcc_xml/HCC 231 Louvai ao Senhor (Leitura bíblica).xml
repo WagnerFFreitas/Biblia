@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:59">
+  <properties>
+    <titles>
+      <title>HCC 231 Louvai ao Senhor</title>
+      <title>Salmo 117</title>
+    </titles>
+    <copyright>Salmo 117</copyright>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="231"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Louvai ao Senhor todas as nações, exaltai-o todos os povos.<br/>Porque a sua benignidade é grande para conosco, e a verdade do Senhor dura para sempre.<br/>Louvai ao Senhor.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:42">
+  <properties>
+    <titles>
+      <title>HM493 - Anelo Patriótico</title>
+      <title>Praza a Deus que nossa pátria,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. João Marques da Mota Sobrinho</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praza a Deus que nossa pátria,<br/>Em que esplende o seu favor,<br/>Reconheça no Evangelho<br/>A mensagem do Senhor.<br/>Terra amada, pátrio ninho,<br/>Dom que só do céu provém,<br/>Possas tu, esclarecida,<br/>Ver em Cristo o Sumo Bem!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bravos crentes brasileiros,<br/>Para longe inércia vil!<br/>Pois querer a pátria salva,<br/>É ser digno do Brasil.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vãs crendices e outros males<br/>Obscurecem o país;<br/>Com a fé somente em Cristo<br/>O Brasil será feliz.<br/>Eis a única esperança<br/>De completa redenção.<br/>Para a pátria mui querida,<br/>Que nos prende o coração.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No trabalho diligente,<br/>Na virtude a refulgir,<br/>Sob o signo do Evangelho<br/>Há de a pátria progredir.<br/>Nosso céu em noite calma<br/>Rutilante ostenta a cruz;<br/>Brilhe assim em toda a pátria<br/>A palavra de Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:49:00">
+  <properties>
+    <titles>
+      <title>HNC 271 - Ressureição</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="271"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó filhos, vinde aqui cantar<br/>Ao Rei do céu, da terra e mar<br/>Que, ressurreto, vem reinar.<br/>Aleluia! Aleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>À tumba foram de manhã<br/>Mulheres com piedoso afã!<br/>Mas Cristo vive – a busca é vã!<br/>Aleluia! Aleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Um anjo, então, lhes proclamou<br/>Que Cristo já ressuscitou!<br/>As suas mágoas confortou.<br/>Aleluia! Aleluia!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Aceita agora, ó Salvador,<br/>O nosso canto de louvor,<br/>Que a Ti erguemos com amor!<br/>Aleluia! Aleluia!<br/>Amém.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Aleluia! Aleluia! Aleluia! Aleluia!</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

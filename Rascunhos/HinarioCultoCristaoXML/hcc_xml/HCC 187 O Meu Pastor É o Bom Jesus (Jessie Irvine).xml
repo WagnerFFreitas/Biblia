@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:51">
+  <properties>
+    <titles>
+      <title>HCC 187 O Meu Pastor É o Bom Jesus</title>
+      <title>Crimond</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Jessie Irvine</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="187"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O meu pastor é o bom Jesus,<br/>jamais me deixará.<br/>Às águas calmas me conduz<br/>e me protegerá.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As minhas forças vem nutrir<br/>em nome do Senhor<br/>e meu caminho dirigir<br/>por seu imenso amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se por escuro vale andar,<br/>não temerei o mal;<br/>com seu cajado a me guiar,<br/>prossigo até o final.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Banquete farto para mim<br/>vem ele preparar,<br/>e os inimigos meus, assim,<br/>me podem observar.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Com honras vem me receber,<br/>sou convidado seu.<br/>Completamente vem encher<br/>o copo que me deu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>A compaixão certo eu terei<br/>do meu fiel pastor<br/>e eternamente habitarei<br/>na casa do Senhor.</lines>
+    </verse>
+  </lyrics>
+</song>

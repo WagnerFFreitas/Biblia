@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:08">
+  <properties>
+    <titles>
+      <title>HCC 280 Se Sofrimentos Eu Causei, Senhor</title>
+      <title>Camacuá</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>C. Battersby</author>
+      <author>Pablo Sosa</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="280"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Se sofrimentos eu causei, Senhor;<br/>se o meu exemplo fez alguém cair;</lines>
+      <lines>se em teus caminhos eu não quis andar,<br/>perdão, Senhor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Se vão e fútil foi o meu falar;<br/>se a meu irmão não demonstrei amor;</lines>
+      <lines>se ao sofredor não estendi a mão,<br/>perdão, Senhor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Se indiferente foi o meu viver;<br/>tranquilo, calmo, sem lutar por ti,</lines>
+      <lines>devendo estar mui firme no labor,<br/>perdão, Senhor!</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Escuta, ó Deus, a minha petição,<br/>e vem livrar-me de incertezas mil.</lines>
+      <lines>Transforma este pobre pecador.<br/>Amém, Senhor!</lines>
+    </verse>
+  </lyrics>
+</song>

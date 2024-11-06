@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:08">
+  <properties>
+    <titles>
+      <title>HCC 281 O Desejo de Um Coração Contrito</title>
+      <title>Salmos 51:1, 2, 4, 6, 9, 10, 12, 15, 17</title>
+    </titles>
+    <copyright>Salmos 51:1, 2, 4, 6, 9, 10, 12, 15, 17</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="281"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines><tag name="y">Dirigente:</tag><br/>Compadece-te de mim, ó Deus, segundo a tua benignidade;<br/>apaga as minhas transgressões, segundo a multidão das tuas misericórdias.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><tag name="y">Congregação:</tag><br/>Lava-me completamente da minha iniquidade, e purifica-me do meu pecado.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><tag name="y">Coro:</tag><br/>Contra ti, contra ti somente, pequei, e fiz o que é mau diante dos teus olhos.<br/>Eis que desejas que a verdade esteja no íntimo;</lines>
+    </verse>
+    <verse name="v4">
+      <lines><tag name="y">Dirigente:</tag><br/>faze-me, pois, conhecer a sabedoria no secreto da minha alma.<br/>Esconde o teu rosto dos meus pecados, e apaga todas as minhas iniquidades.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><tag name="y">Congregação:</tag><br/>Cria em mim, ó Deus, um coração puro, e renova em mim um espírito estável.<br/>Restitui-me a alegria da tua salvação, e sustém-me com um espírito voluntário.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><tag name="y">Dirigente:</tag><br/>Abre, Senhor, os meus lábios, e a minha língua proclamará o teu louvor.<br/>O sacrifício aceitável a Deus é o espírito quebrantado;<br/>ao coração quebrantado e contrito não desprezarás, ó Deus.</lines>
+    </verse>
+  </lyrics>
+</song>

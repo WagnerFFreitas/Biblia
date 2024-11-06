@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:25">
+  <properties>
+    <titles>
+      <title>CC 200 A Vinda De Jesus</title>
+      <title>Seeking For Me</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c2 v3 c3 v4 c4</verseOrder>
+    <authors>
+      <author>A. N.</author>
+      <author>Emerson Hasty</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="200"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cristo, meu Salvador, veio a Belém,<br/>para sofrer zombaria e desdém.<br/>Veio por causa do amor que me tem,<br/>a procurar-me a mim!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A procurar-me a mim!<br/>A procurar-me a mim!<br/>Veio por causa do amor que me tem,<br/>a procurar-me a mim!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cristo, meu Salvador, morto na cruz,<br/>deu-me a alegria do reino de luz,<br/>e no caminho do céu me conduz;<br/>tudo Ele faz por mim!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Tudo Ele faz por mim!<br/>Tudo Ele faz por mim!<br/>E no caminho do céu me conduz;<br/>tudo Ele faz por mim!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cristo, meu Salvador, chama por ti;<br/>Ele te diz: com amor te remi.<br/>Vem, pois Jesus já fez tanto por ti.<br/>Não te demores mais!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Não te demores mais!<br/>Não te demores mais!<br/>Vem, pois Jesus já fez tanto por ti.<br/>Não te demores mais!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cristo, meu Salvador, inda virá<br/>com os remidos; que glória será!<br/>Eu face a face verei a Jeová,<br/>quando me vier buscar!</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Quando me vier buscar!<br/>Quando me vier buscar!<br/>Eu face a face verei a Jeová,<br/>quando me vier buscar!</lines>
+    </verse>
+  </lyrics>
+</song>

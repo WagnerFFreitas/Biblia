@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:41">
+  <properties>
+    <titles>
+      <title>HCC 438 Quero Ser Um Vaso de Bênção</title>
+      <title>Euclid</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Harper Smyth</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="438"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Quero ser um vaso de bênção,<br/>sim, um vaso escolhido por Deus,</lines>
+      <lines>para as novas levar aos perdidos,<br/>boas novas que vêm lá dos céus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Tudo consagro-te agora, Senhor;<br/>vou proclamar a mensagem de amor.</lines>
+      <lines>Meu compromisso no teu serviço<br/>é ser um vaso de bênção, Senhor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Quero ser um vaso de bênção.<br/>Cada dia desejo fazer</lines>
+      <lines>todo aquele que vive culpado<br/>o perdão por Jesus conhecer.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Para ser um vaso de bênção,<br/>é preciso ser sempre leal,</lines>
+      <lines>é preciso ter fé e pureza,<br/>que nos vêm do poder divinal.</lines>
+    </verse>
+  </lyrics>
+</song>

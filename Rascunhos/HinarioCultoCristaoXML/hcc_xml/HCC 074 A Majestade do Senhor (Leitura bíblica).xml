@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:30">
+  <properties>
+    <titles>
+      <title>HCC 074 A Majestade do Senhor</title>
+      <title>Salmos 104:1</title>
+    </titles>
+    <copyright>Salmos 104:1</copyright>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="074"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bendize, ó minha alma, ao Senhor!<br/>Senhor, Deus meu, tu és magnificentíssimo!<br/>Estás vestido de honra e de majestade.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:33">
+  <properties>
+    <titles>
+      <title>HM189 - Que Precioso Sangue</title>
+      <title>Oh! Que precioso sangue</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Henry Maxwell Wright</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh! Que precioso sangue<br/>O Senhor verteu,<br/>Quando, para resgatar-nos,<br/>Padeceu!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh! Que precioso sangue,<br/>Sangue de Jesus,<br/>Que por nós foi derramado<br/>Sobre a cruz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh! Que precioso sangue,<br/>Sacrificial.<br/>Pois apaga de nossa alma<br/>Todo o mal!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh! Que precioso sangue!<br/>Fala-nos de paz!<br/>Tudo quanto a lei exige<br/>Satisfaz!</lines>
+    </verse>
+  </lyrics>
+</song>

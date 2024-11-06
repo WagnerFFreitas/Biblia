@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:38">
+  <properties>
+    <titles>
+      <title>HCC 121 Jesus o Lar do Céu Deixou</title>
+      <title>Cram</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>James Montgomery</author>
+      <author>James Cram</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="121"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Jesus o lar do céu deixou e veio aqui morar.<br/>Sem honras tudo suportou pra todos ajudar.</lines>
+      <lines>Assim devemos nós viver, em graça, amor e paz;<br/>e, como Cristo, aqui crescer, fazendo o que lhe apraz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Quando em Jerusalém entrou Jesus, o Salvador,<br/>um canto infantil soou ao grande Rei de amor.</lines>
+      <lines>Hosana, sim, cantemos nós, hosana, em terra e mar!<br/>Pois, se calarmos nossa voz, as pedras vão cantar.</lines>
+    </verse>
+  </lyrics>
+</song>

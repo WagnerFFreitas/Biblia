@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:03">
+  <properties>
+    <titles>
+      <title>CC 371 Rocha Eterna - 2ª música</title>
+      <title>Excell</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Edwin Excell</author>
+      <author>Augustus Toplady</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="371"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Rocha eterna, foi na cruz<br/>que morreste Tu, Jesus;<br/>vem de Ti um sangue tal<br/>que me limpa todo o mal;</lines>
+      <lines>traz as bênçãos do perdão:<br/>gozo, paz e salvação.<br/>Traz as bênçãos do perdão:<br/>gozo, paz e salvação.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Nem trabalho, nem penar<br/>pode o pecador salvar;<br/>só tu podes, bom Jesus,<br/>dar-me vida, paz e luz.</lines>
+      <lines>Peço-te perdão, Senhor,<br/>pois confio em teu amor.<br/>Peço-te perdão, Senhor,<br/>pois confio em teu amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Eis que vem a morte atrás<br/>desta vida tão fugaz;<br/>quando eu ao meu lar subir,<br/>e teu rosto em glória vir,</lines>
+      <lines>rocha eterna, que prazer<br/>eu terei de em Ti viver.<br/>Rocha eterna, que prazer<br/>eu terei de em Ti viver.</lines>
+    </verse>
+  </lyrics>
+</song>

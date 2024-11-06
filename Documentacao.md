@@ -1306,3 +1306,20 @@ Biblia/
     │   ├── 2_hinariobatista.html
     │   ├── ...
     └── index.html
+	
+	
+Bíblia Almeida Revista e Atualizada (ARA) ok
+Bíblia de Jerusalém (BJ)
+Nova Versão Internacional (NVI) ok
+Bíblia King James (KJV)
+Bíblia em Linguagem de Hoje (BLH)
+Nova Tradução na Linguagem de Hoje (NTLH)
+Bíblia Católica Pastoral (BCP)
+Bíblia de Estudo MacArthur (BEM)
+Nova Almeida Atualizada (NAA)
+Bíblia Sociedade Bíblica (BSB)
+Bíblia Septuaginta (LXX)
+Almeida Revista e Corrigida (ARC) ok
+Almeida Corrigida e Fiel (ACF) ok
+Almeida Atualizada (AA)
+Almeida Revista e Atualizada (RA)

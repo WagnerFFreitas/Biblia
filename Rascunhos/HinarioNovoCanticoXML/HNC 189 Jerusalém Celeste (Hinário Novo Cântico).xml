@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:56">
+  <properties>
+    <titles>
+      <title>HNC 189 - Jerusalém Celeste</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="189"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jerusalém celeste, de fúlgido esplendor.<br/>És vívida esperança da Igreja o Senhor!<br/>Teus muros fulgurantes aviso pela fé,<br/>E ansioso em alcançar-te mantenho-me de pé!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>É Deus quem te ilumina, perene é tua luz;<br/>Refletes, incessante, a glória de Jesus.<br/>Que alegre canto inspiras, oh! Divinal mansão,<br/>Saber que és alvo e termo da peregrinação.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cidade radiosa,sem noite, morte ou mal,<br/>Que neste pobre mundo atinge o que é mortal.<br/>Exulta, ó alma crente, eis teu glorioso lar,<br/>Que Cristo, redivivo, no  céu foi preparar.</lines>
+    </verse>
+  </lyrics>
+</song>

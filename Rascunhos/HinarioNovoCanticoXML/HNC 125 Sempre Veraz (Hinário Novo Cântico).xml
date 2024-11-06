@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:53">
+  <properties>
+    <titles>
+      <title>HNC 125 - Sempre Veraz</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="125"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sempre veraz serei, pois, me acreditem;<br/>Forte serei, pois muito há que sofrer;<br/>Puro serei, no exemplo do meu Mestre,<br/>Nas provações ousado espero ser! (bis)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>De todos quero sempre ser amigo,<br/>Ser generoso e o bem não alegar;<br/>Sendo imperfeito, eu hei de ser humilde,<br/>Sempre hei de crer, confiar, servir e amar. (bis)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Para que eu seja sempre assim, ó Cristo,<br/>Vem dominar, mudar meu coração.<br/>Pois eu bem sei dos laços em que caio,<br/>Se não contar com tua proteção! Amém. (bis)</lines>
+    </verse>
+  </lyrics>
+</song>

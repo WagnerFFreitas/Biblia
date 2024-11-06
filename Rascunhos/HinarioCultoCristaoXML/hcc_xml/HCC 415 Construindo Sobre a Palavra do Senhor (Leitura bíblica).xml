@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:35">
+  <properties>
+    <titles>
+      <title>HCC 415 Construindo Sobre a Palavra do Senhor</title>
+      <title>Lucas 6:46; Mateus 7:24-27</title>
+    </titles>
+    <copyright>Lucas 6:46; Mateus 7:24-27</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="415"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines><tag name="y">Dirigente:</tag><br/>Por que me chamais: Senhor, Senhor, e não fazeis o que eu vos digo?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><tag name="y">Coro:</tag><br/>Todo aquele, pois, que ouve estas minhas palavras e as põe em prática, será comparado a um homem prudente, que edificou a sua casa sobre a rocha.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><tag name="y">Congregação:</tag><br/>E desceu a chuva, correram as torrentes, sopraram os ventos, e bateram com ímpeto contra aquela casa; contudo não caiu, porque estava fundada sobre a rocha.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><tag name="y">Dirigente:</tag><br/>Mas todo aquele que ouve estas minhas palavras, e não as põe em prática, será comparado a um homem insensato, que edificou a sua casa sobre a areia.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><tag name="y">Todos:</tag><br/>E desceu a chuva, correram as torrentes, sopraram os ventos, e bateram com ímpeto contra aquela casa, e ela caiu; e grande foi a sua queda.</lines>
+    </verse>
+  </lyrics>
+</song>

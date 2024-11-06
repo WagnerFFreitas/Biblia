@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:23">
+  <properties>
+    <titles>
+      <title>HM428 - Aspiração Feminina</title>
+      <title>A nós aqui reunidas,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Isaac Nicolau Salum</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A nós aqui reunidas,<br/>Senhor, envia luz:<br/>São tuas nossas vidas;<br/>Ganhaste-as já na cruz.<br/>É vão qualquer trabalho<br/>Sem tua aprovação,<br/>O nosso esforço é falho,<br/>Se não nos dás a mão.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nós crentes redimidas,<br/>Depomos nosso lar<br/>E as nossas próprias vidas<br/>Perante teu altar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Se a nossa fé se abala,<br/>Em face às tentações,<br/>Levanta a voz e fala<br/>Aos nossos corações.<br/>A experiência viva<br/>Do teu fiel amor<br/>Ao nosso ardor ativa<br/>E inspira em nós fervor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Esposas, mães, piedosas<br/>Queremos ser, Senhor,<br/>Fiéis e carinhosas<br/>Enchendo o lar de amor.<br/>Amor, paz, harmonia,<br/>Dominem nossa lar<br/>E em nossa companhia<br/>Vem tu sempre habitar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Escola de piedade,<br/>Que eleve a Igreja a ti,<br/>Seja esta sociedade<br/>Ao teu serviço aqui.<br/>E o mundo despertado<br/>Contemplará em nós<br/>Rebanho santo e amado<br/>Atento à tua voz.</lines>
+    </verse>
+  </lyrics>
+</song>

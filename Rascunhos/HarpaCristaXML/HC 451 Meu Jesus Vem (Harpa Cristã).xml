@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:44">
+  <properties>
+    <titles>
+      <title>HC451 - Meu Jesus Vem</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Os testemunhos indicam<br/>Que breve Cristo virá;<br/>Já os sinais testificam;<br/>Que Ele vem, não tardará.<br/>Oh! Dia de grande glória,<br/>Para os remidos será!<br/>Dia será de vitória;<br/>Jesus em breve virá.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Meu Jesus vem, meu Jesus vem;<br/>Vou encontrá-Lo no céu!<br/>Os anjos nas harpas tangem,<br/>Dando louvores a Deus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tudo é trevas no mundo,<br/>A noite chegada está,<br/>Mas voz de amor mui profundo<br/>Diz que Jesus voltará.<br/>Meu corpo já transformado,<br/>Um céu aberto achará!<br/>Com anjos mil a Seu lado,<br/>Jesus em breve virá!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tristezas desaparecem<br/>E dores não haverá;<br/>Estrelas já resplandecem;<br/>A festa começará!<br/>Descanso ali prometido,<br/>Minh'alma então gozará;<br/>Ouve a mensagem, perdido;<br/>Jesus em breve virá!</lines>
+    </verse>
+  </lyrics>
+</song>

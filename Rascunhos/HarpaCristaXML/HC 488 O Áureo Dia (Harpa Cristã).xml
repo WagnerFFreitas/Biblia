@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:52">
+  <properties>
+    <titles>
+      <title>HC488 - O Áureo Dia</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ao raiar do áureo dia, o bom Jesus vem nos buscar<br/>P'ra com Ele, sempre estarmos lá no céu;<br/>Os milhões purificados pelo sangue de Jesus<br/>Subirão p'ra contemplar o amado Seu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Quando os salvos<br/>congregados,<br/>Dentre os povos e nações,<br/>Virem Cristo mui amado,<br/>Oh! Que gozo encherá seus corações.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lá da Índia vem um povo que Jesus purificou<br/>E da África, as tribos chegarão,<br/>Quem de Cristo, a mensagem lhes levou, os<br/>Conquistou<br/>Juntos todos, lá no céu se alegrarão.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Quando os milhões da China,<br/>todos que Jesus ganhou<br/>Juntos dos que foram salvos no Brasil,<br/>Lá no céu unidos, glória derem todos a Jesus,<br/>Triunfantes estarão no Seu redil.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Espalhemos a mensagem, que Jesus nos entregou<br/>Da gloriosa nova que que vem lá da cruz;<br/>Que Seu sangue precioso purifica o pecador,<br/>Derramando nele gloriosa luz.</lines>
+    </verse>
+  </lyrics>
+</song>

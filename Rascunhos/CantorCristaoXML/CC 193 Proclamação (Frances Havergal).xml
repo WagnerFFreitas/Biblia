@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:24">
+  <properties>
+    <titles>
+      <title>CC 193 Proclamação</title>
+      <title>Tell It Out</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Frances Havergal</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="193"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Proclamai a todo o mundo que Jesus é Rei!<br/>Proclamai! Proclamai!<br/>Proclamai que suave e santa é sua magna lei!<br/>Proclamai! Proclamai!</lines>
+      <lines>Proclamai que Ele é o nosso Salvador<br/>Jesus, pois sofreu por nós, pregado na sangrenta cruz,<br/>que Ele, ao reino eterno, os salvos em amor conduz!<br/>Proclamai! Proclamai!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Proclamai que reina sempre nosso Salvador!<br/>Proclamai! Proclamai!<br/>Que por cetro do seu reino tem o santo amor!<br/>Proclamai! Proclamai!</lines>
+      <lines>Proclamai aos infelizes que ele vive lá,<br/>e aos cansados e contritos, que descanso dá;<br/>proclamai aos pecadores que ele os salvará!<br/>Proclamai! Proclamai!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Proclamai que em breve sobre as nuvens descerá!<br/>Proclamai! Proclamai!<br/>E com todos os seus santos em fulgor virá!<br/>Proclamai! Proclamai!</lines>
+      <lines>E, que sem demora venham todos se render,<br/>e fiéis e dedicados servos dele ser;<br/>sim, estejam prontos quando o Rei dos reis vier!<br/>Proclamai! Proclamai!</lines>
+    </verse>
+  </lyrics>
+</song>

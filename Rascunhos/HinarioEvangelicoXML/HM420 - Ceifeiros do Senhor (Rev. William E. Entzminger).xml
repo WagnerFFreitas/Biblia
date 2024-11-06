@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:20">
+  <properties>
+    <titles>
+      <title>HM420 - Ceifeiros do Senhor</title>
+      <title>Ceifeiros da seara santa,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. William E. Entzminger</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ceifeiros da seara santa,<br/>Mui fracos, pobres sois!<br/>Mas forte é Cristo, vosso Mestre;<br/>Avante, avante, pois!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Os que confiam no Senhor, renovar-se-ão;<br/>Crescerão em vigor; subirão até às alturas;<br/>Correrão e sem fadiga, andarão e sem cansar;<br/>Voarão e nas alturas, como águias serão.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cansados, tristes, sem alento,<br/>Deixai-vos de chorar!<br/>Se onipotente é vosso Mestre,<br/>Por que desanimar?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus está conosco sempre,<br/>Assim nos prometeu.<br/>Coragem, pois, irmãos, avante,<br/>Eis, que ele já venceu!</lines>
+    </verse>
+  </lyrics>
+</song>

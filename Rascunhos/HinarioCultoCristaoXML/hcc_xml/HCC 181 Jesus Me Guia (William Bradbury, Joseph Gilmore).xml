@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:49">
+  <properties>
+    <titles>
+      <title>HCC 181 Jesus Me Guia</title>
+      <title>He Leadeth Me</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>William Bradbury</author>
+      <author>Joseph Gilmore</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="181"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus me guia. Que prazer!<br/>Palavras de consolação!<br/>Por onde for, no meu viver,<br/>me guia sempre a sua mão.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus me guia. Que prazer!<br/>É sua mão que me conduz.<br/>Em cada passo do viver<br/>quem me dirige é meu Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nas horas tristes de aflição<br/>que a vida sempre a todos dá,<br/>ou quando alegre o coração,<br/>o meu Jesus me guiará.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ajuda-me a não murmurar,<br/>qualquer que seja a condição.<br/>Contente vou, me guiarás<br/>por tua mui bondosa mão.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>E, quando a morte a mim vier<br/>e a minha vida aqui ceifar,<br/>por ti guardado, meu Senhor,<br/>contigo irei então morar.</lines>
+    </verse>
+  </lyrics>
+</song>

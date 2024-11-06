@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:55">
+  <properties>
+    <titles>
+      <title>HCC 507 Eu Amo com Fervor a Igreja</title>
+      <title>St. Thomas</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Timothy Dwight</author>
+      <author>Aaron Williams</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="507"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eu amor com fervor<br/>a igreja do meu Deus,<br/>congregação de fé e amor<br/>dos que são filhos seus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Em comunhão viver<br/>com tantos bons irmãos<br/>é privilégio, é prazer<br/>pra nós, fiéis cristãos.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Por ela irei zelar,<br/>também orar e agir,<br/>até a vida aqui findar<br/>e eu ao céu subir.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:25">
+  <properties>
+    <titles>
+      <title>HM154 - Paz em Jesus</title>
+      <title>Oh! Que paz Jesus me dá!</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Luisa Agnes Wright</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh! Que paz Jesus me dá!<br/>Paz que outrora não senti!<br/>Cada vez sou mais feliz<br/>Desde que eu o conheci!</lines>
+    </verse>
+  </lyrics>
+</song>

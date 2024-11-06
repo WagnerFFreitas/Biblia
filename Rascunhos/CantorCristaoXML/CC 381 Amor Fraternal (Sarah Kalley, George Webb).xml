@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:06">
+  <properties>
+    <titles>
+      <title>CC 381 Amor Fraternal</title>
+      <title>Webb</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Sarah Kalley</author>
+      <author>George Webb</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="381"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Jesus, Pastor amado,<br/>contempla-nos aqui;<br/>concede que sejamos<br/>um corpo só em Ti.</lines>
+      <lines>Contendas e malícias<br/>que longe de nós vão;<br/>nenhum desgosto impeça<br/>a nossa comunhão.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Pois sendo resgatados<br/>por um só Salvador,<br/>devemos ser unidos<br/>por um mais forte amor;</lines>
+      <lines>olhar com simpatia<br/>os erros de um irmão,<br/>e todos ajudá-lo<br/>com branda compaixão.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Jesus, suave e meigo,<br/>ensina-nos a amar,<br/>e, como tu, sejamos<br/>também no perdoar!</lines>
+      <lines>Ah! quanto carecemos<br/>de auxílio do Senhor!<br/>Unidos, supliquemos<br/>a Deus por esse amor!</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Se tua igreja toda<br/>andar em santa união<br/>então será bendito<br/>o nome de "cristão".</lines>
+      <lines>Assim o que pediste<br/>em nós se cumprirá,<br/>e todo o mundo inteiro<br/>a ti conhecerá!</lines>
+    </verse>
+  </lyrics>
+</song>

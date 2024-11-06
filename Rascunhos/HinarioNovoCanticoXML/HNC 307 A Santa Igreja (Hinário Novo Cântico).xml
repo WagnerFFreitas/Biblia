@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:49:01">
+  <properties>
+    <titles>
+      <title>HNC 307 - A Santa Igreja</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="307"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Erga-se o estandarte,<br/>Tremulando à luz!<br/>Seu brasão: coroa<br/>Circundando a cruz!<br/>Na cruzada invicta,<br/>Quem quer hoje entrar,<br/>E o Evangelho santo<br/>Ir anunciar?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Luta contra as trevas,<br/>Luta contra o mal!<br/>Eis-nos à peleja<br/>Santa, divinal!<br/>Dar combate ao erro,<br/>À superstição,<br/>E salvar os homens<br/>Da degradação.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vinde ao combate<br/>Sem esmorecer!<br/>Da valor eterno<br/>Glória haveis de ter.<br/>A quem quer segui-lo,<br/>Eis que diz Jesus:<br/>“Negue-se a si mesmo,<br/>Tome a sua cruz.”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Salvador, confio<br/>Em Teu grande amor!<br/>Entro na batalha<br/>Com vibrante ardor.<br/>Dá que em Teu serviço<br/>Saiba a cruz tomar,<br/>E Teu santo Nome<br/>Hoje e sempre honrar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Erga-se o estandarte,<br/>Tremulando à luz!<br/>Seu brasão: coroa<br/>Circundando a cruz.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

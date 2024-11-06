@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:51">
+  <properties>
+    <titles>
+      <title>HM283 - Vida Santificada</title>
+      <title>Para seres santo</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Salomão Luis Ginsburg</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Para seres santo<br/>Tempo hás de tomar,<br/>Com o grande Mestre<br/>Seu livro estudar;<br/>Hás de sempre amá-lo,<br/>Aos fiéis valer,<br/>Em tudo e por tudo<br/>Fervoroso ser.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Para seres puro<br/>Tempo hás de encontrar,<br/>A sós com teu Mestre<br/>Mui freqüente estar;<br/>Teu olhar bem fito<br/>Nele sempre ter,<br/>Em tua conduta<br/>Demonstrar poder.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Para seres forte<br/>Tempo hás de buscar<br/>E, seguindo o Mestre,<br/>Junto dele andar.<br/>No gozo ou tristeza<br/>Ao Senhor servir,<br/>O seu bom conselho<br/>Diligente ouvir.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Para seres útil<br/>Tempo hás de guardar,<br/>Ser calmo e paciente,<br/>Em todo lugar;<br/>Ter a sua graça,<br/>Revelar amor,<br/>Contente e submisso<br/>Aos pés do Senhor.</lines>
+    </verse>
+  </lyrics>
+</song>

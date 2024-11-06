@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-12-24T20:19:49">
+  <properties>
+    <titles>
+      <title>HNC 280 - Ascensão</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="280"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Subiste ao céu, triunfador!<br/>De tudo agora és tu Senhor;<br/>Venceste, Rei da glória!<br/>Eis que te sentas junto ao Pai.<br/>Colher, em breve, a Igreja vai<br/>As bênçãos da vitória!<br/>A cruz é luz. O pecado? Expiado!<br/>Vida e morte, tudo está em mão que é forte!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Atrai-nos bem a ti, Jesus,<br/>Que andemos sempre em tua luz<br/>E o Reino teu busquemos.<br/>Dá que vivamos com temor<br/>E, humildes, pelo teu amor<br/>O mal abandonemos!<br/>Dá, Rei, à grei1 que, lutando sob teu mando,<br/>Seja firme; e sua fé ao mundo afirme.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Clamamos, ó Jesus, por ti.<br/>Vem ser com o teu povo aqui.<br/>Faze que viva unido<br/>E seja grato e liberal,<br/>Buscando o bem celestial,<br/>O bem imerecido. Oh! Sim! E assim,<br/>Nós, constantes e exultantes, juntaremos<br/>Nossas mãos: louvar-te-emos! Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

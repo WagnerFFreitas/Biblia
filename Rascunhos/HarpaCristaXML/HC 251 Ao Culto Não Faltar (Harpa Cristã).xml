@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:09">
+  <properties>
+    <titles>
+      <title>HC251 - Ao Culto Não Faltar</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ao outro culto; não faltar,<br/>Ó vinde todos p'ra louvar<br/>O nome santo do Senhor,<br/>"Que nos dá vida e fervor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nos separarmos em amor,<br/>Levando a paz do Salvador,<br/>Mas breve vinde, não falteis,<br/>Os pecadores sim, trazei.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se não pudermos reunir,<br/>Veremos santos no porvir,<br/>No culto do Senhor Jesus,<br/>Que vai haver no céu de luz.</lines>
+    </verse>
+  </lyrics>
+</song>

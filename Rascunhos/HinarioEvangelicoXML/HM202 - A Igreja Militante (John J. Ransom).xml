@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:35">
+  <properties>
+    <titles>
+      <title>HM202 - A Igreja Militante</title>
+      <title>Eis as escrava resgatada!</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>John J. Ransom</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eis a escrava resgatada!<br/>Grande preço Cristo deu;<br/>Não foi ouro nem foi prata;<br/>Mas o sangue que verteu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Grande foi a Tua graça<br/>Que por mim assim mostraste;<br/>Para meus grilhões partires<br/>Tua vida não poupaste.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pois agora que sou tua,<br/>Não te quero mais perder,<br/>Antes, meu Senhor, servir-te<br/>Grata, e só por ti viver.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Quero receber Teu jugo,<br/>E em Teus passos caminhar;<br/>Se por ti eu sofro tudo,<br/>Vou contigo em paz reinar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Todo amor por mim sentias<br/>Padecendo a dor da cruz<br/>Veste-me da tua glória!<br/>Vem! Oh! Vem, Senhor Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

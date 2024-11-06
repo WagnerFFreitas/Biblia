@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:44">
+  <properties>
+    <titles>
+      <title>CC 573 Dormindo no Senhor</title>
+      <title>Boylston</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Lowell Manson</author>
+      <author>Sarah Kalley</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="573"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dormindo no Senhor,<br/>bendito é nosso irmão;<br/>perante o trono, vencedor,<br/>desfruta a salvação.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dormindo no Senhor,<br/>liberto já do mal,<br/>deixando o mundo e seu labor,<br/>descansa em paz real.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dormindo no Senhor,<br/>oh! santa e calma paz!<br/>O gozo do divino amor<br/>sua alma satisfaz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dormindo no Senhor<br/>é doce assim morrer!<br/>Do crente a morte é sem terror,<br/>é ir com Deus viver.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Os mortos no Senhor<br/>hão de ressuscitar;<br/>oh! vem, bendito Salvador!<br/>Teus santos acordar!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Os mortos viverão;<br/>e os vivos, com fulgor<br/>ao teu encontro subirão.<br/>Não tardes, ó Senhor!</lines>
+    </verse>
+  </lyrics>
+</song>

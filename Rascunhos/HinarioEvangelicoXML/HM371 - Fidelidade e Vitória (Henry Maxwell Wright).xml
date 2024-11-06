@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:10">
+  <properties>
+    <titles>
+      <title>HM371 - Fidelidade e Vitória</title>
+      <title>Eu resolvi seguir-te,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Henry Maxwell Wright</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eu resolvi seguir-te,<br/>Jesus, até o fim,<br/>Pois tu, Senhor, prometes<br/>Guiar-me sempre a mim.<br/>Conheço que sou fraco,<br/>E o bem não sei fazer,<br/>Mas pela tua graça<br/>Hei sempre de vencer!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O mundo tu venceste<br/>E as suas obras más;<br/>E sobre tudo reinas,<br/>Ó Príncipe da Paz.<br/>No céu e aqui na terra<br/>Impera o teu poder,<br/>E, pela tua graça,<br/>Hei sempre de vencer!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cercado de inimigos<br/>Aqui no mundo estou;<br/>As tentações não cessam<br/>Por onde quer que vou;<br/>Mas tu estás mais perto,<br/>Pois vens em mim viver,<br/>E, pela tua graça,<br/>Hei sempre de vencer!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A todos que te seguem<br/>E tomam tua cruz,<br/>Prometes que contigo<br/>Irão morar, Jesus;<br/>Descansarão na glória<br/>Contigo, ó Vencedor,<br/>Pois pela tua graça<br/>Venceram, Salvador.</lines>
+    </verse>
+  </lyrics>
+</song>

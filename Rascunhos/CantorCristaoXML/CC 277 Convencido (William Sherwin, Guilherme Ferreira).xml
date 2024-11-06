@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:40">
+  <properties>
+    <titles>
+      <title>CC 277 Convencido</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>William Sherwin</author>
+      <author>Guilherme Ferreira</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="277"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Já convencido, eis-me, Senhor,<br/>que fui remido por teu amor;</lines>
+      <lines>eu quero obedecer e graças tributar<br/>a quem na cruz sofreu pra me salvar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Já convencido do meu perdão,<br/>que fui remido da escravidão,</lines>
+      <lines>corro, Senhor, a ti, cheio de ardente amor;<br/>vem habitar em mim, meu Salvador.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Já convencido que livre estou,<br/>já persuadido que ao céu eu vou;</lines>
+      <lines>guiado por Jesus, com ele habitarei,<br/>repouso lá no céu encontrarei.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Já convencido que Cristo é meu,<br/>já persuadido de que sou seu;</lines>
+      <lines>amar eu quero, sim, o grande Salvador,<br/>porque primeiro amou o pecador.</lines>
+    </verse>
+  </lyrics>
+</song>

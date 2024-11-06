@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:08">
+  <properties>
+    <titles>
+      <title>CC 116 Desejo da Alma</title>
+      <title>Pass Me Not</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Fanny Crosby</author>
+      <author>William Doane</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="116"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Vem, Espírito divino,<br/>grande ensinador!</lines>
+      <lines>Vem! descobre às nossas almas<br/>Cristo, o Salvador!</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Cristo! Mestre!<br/>Ouve com favor!</lines>
+      <lines>Em poder e graça insigne<br/>obre o teu amor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Vem! demole os alicerces<br/>da enganosa paz,</lines>
+      <lines>aos errados concedendo<br/>salvação veraz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Vem! reveste a tua igreja<br/>de poder e luz!</lines>
+      <lines>Vem! atrai os pecadores<br/>ao Senhor Jesus!</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Maravilhas soberanas<br/>outros povos vêm;</lines>
+      <lines>oh! derrama a mesma bênção<br/>sobre nós também!</lines>
+    </verse>
+  </lyrics>
+</song>

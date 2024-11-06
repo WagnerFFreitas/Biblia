@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:12">
+  <properties>
+    <titles>
+      <title>HCC 302 Novas Criaturas em Cristo</title>
+      <title>2 Coríntios 5:14-21</title>
+    </titles>
+    <copyright>2 Coríntios 5:14-21</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="302"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines><tag name="y">Dirigente:</tag><br/>O amor de Cristo nos constrange, porque julgamos assim:<br/>se um morreu por todos, logo todos morreram;<br/>e ele morreu por todos, para que os que vivem não vivam mais para si,<br/>mas para aquele que por eles morreu e ressuscitou.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><tag name="y">Congregação:</tag><br/>Por isso daqui por diante a ninguém conhecemos segundo a carne;<br/>e, ainda que tenhamos conhecido Cristo segundo a carne,<br/>contudo agora já não o conhecemos desse modo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><tag name="y">Coro:</tag><br/>Pelo que, se alguém está em Cristo, nova criatura é;<br/>as coisas velhas já passaram; eis que tudo se fez novo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><tag name="y">Dirigente:</tag><br/>Mas todas as coisas provêm de Deus, que nos reconciliou consigo mesmo por Cristo,<br/>e nos confiou o ministério da reconciliação;<br/>pois que Deus estava em Cristo reconciliando consigo o mundo,<br/>não imputando aos homens as suas transgressões;<br/>e nos encarregou da palavra da reconciliação.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><tag name="y">Congregação:</tag><br/>De sorte que somos embaixadores por Cristo, como se Deus por nós vos exortasse.<br/>Rogamos-vos, pois, por Cristo que vos reconcilieis com Deus.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><tag name="y">Todos:</tag><br/>Àquele que não conheceu pecado, Deus o fez pecado por nós;<br/>para que nele fôssemos feitos justiça de Deus.</lines>
+    </verse>
+  </lyrics>
+</song>

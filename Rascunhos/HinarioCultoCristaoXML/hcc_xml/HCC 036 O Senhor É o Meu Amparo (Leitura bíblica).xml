@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:22">
+  <properties>
+    <titles>
+      <title>HCC 036 O Senhor É o Meu Amparo</title>
+      <title>2 Samuel 22:2-4, 7; Salmos 91:1, 7; Isaías 41:10; Salmos 146:8, 9;Salmos 70:5</title>
+    </titles>
+    <copyright>2 Samuel 22:2-4, 7; Salmos 91:1, 7; Isaías 41:10; Salmos 146:8, 9;Salmos 70:5</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="036"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">O Senhor é o meu rochedo, a minha fortaleza<br/>e o meu libertador. É meu Deus, a minha rocha,<br/>nele confiarei; é o meu escudo,</lines>
+      <lines break="optional">e a força da minha salvação,<br/>o meu retiro, e o meu refúgio.<br/>Ao Senhor invocarei, pois é digno de louvor.</lines>
+      <lines>Sim, a meu Deus clamei;<br/>do seu templo ouviu ele a minha voz,<br/>e o meu clamor chegou aos seus ouvidos.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Aquele que habita no esconderijo do Altíssimo,<br/>à sombra do Todo-Poderoso descansará.</lines>
+      <lines>Mil poderão cair ao teu lado,<br/>e dez mil à tua direita;<br/>mas tu não serás atingido.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Não temas, porque eu sou contigo;<br/>não te assombres, porque eu sou teu Deus;<br/>eu te fortaleço, e te ajudo, e te sustento.</lines>
+      <lines break="optional">O Senhor abre os olhos aos cegos;<br/>o Senhor levanta os abatidos;<br/>o Senhor ama os justos.</lines>
+      <lines>O Senhor preserva os peregrinos;<br/>ampara o órfão e a viúva.<br/>Tu és o meu amparo e o meu libertador.</lines>
+    </verse>
+  </lyrics>
+</song>

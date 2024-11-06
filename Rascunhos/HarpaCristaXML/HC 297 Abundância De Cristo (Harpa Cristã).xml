@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:17">
+  <properties>
+    <titles>
+      <title>HC297 - Abundância De Cristo</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Desde que Jesus deu-me Sua luz,<br/>Posso jubilar, cantar;<br/>Ao meu coração trouxe salvação<br/>Que eu não posso te explicar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Abundantemente Cristo dá,<br/>Graça, que não há igual, não há;<br/>Aleluia, glória ao nome Seu!<br/>Que alegria sinto eu!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Desde que na cruz contemplei Jesus,<br/>Meus pecados dissipou;<br/>Tenho grande paz e perdão veraz,<br/>Quando a Seus pés estou.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lá da cruz provém, um caudal também,<br/>Que ao cansado forças dá;<br/>E das chagas vem o perdão, p'ra quem<br/>Mui sedento e fraco está!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Grato, então, darei glória a Cristo, o Rei,<br/>Pelo gozo que é sem par;<br/>Em continuação, o meu coração,<br/>Inda mais vai se alegrar.</lines>
+    </verse>
+  </lyrics>
+</song>

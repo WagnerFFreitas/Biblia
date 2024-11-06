@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:56:06">
+  <properties>
+    <titles>
+      <title>HC561 - Que Bênção!</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Que bênção: a lua brilhando no espaço!<br/>Que bênção: as ondas que rolam no mar!<br/>Que bênção: as flores brotando nos campos!<br/>Mas a maior bênção eu vou te contar:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus me salvou, dos<br/>pecados meus,<br/>Que bênção, Jesus! que bênção, meu Deus!<br/>Jesus me salvou, dos pecados meus,<br/>Que bênção, Jesus! que bênção, meu Deus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Que bênção: as aves que cantam e encantam!<br/>Que bênção: crianças em simples brincar!<br/>Que bênção: rebanhos pastando entre os rios!<br/>Mas a maior bênção eu vou te contar:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Que bênção: amigos que a mim procuram!<br/>Que bênção: a Pátria, a qual posso amar!<br/>Que bênção: família, saúde, fartural!<br/>Mas a maior bênção eu vou te contar:</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:27">
+  <properties>
+    <titles>
+      <title>HCC 055 Deus, Por Amor, Criou</title>
+      <title>A La Puerta</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Melodia americana</author>
+      <author>Fred Green</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="055"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Deus, por amor, criou pra nós o planeta,<br/>simples faísca na expansão universal.</lines>
+      <lines>Deu-lhe um propósito; servir de berço à vida,<br/>para aos humanos ser um lar especial.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Demos louvor ao Senhor pela terra,<br/>onde podemos nós viver e trabalhar.</lines>
+      <lines>Todos os povos poderão ter a fartura<br/>só quando todos nós soubermos partilhar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Ó Deus, nós agredimos a natureza,<br/>solo, florestas, animais, o céu e o mar.</lines>
+      <lines>Dá-nos, ó Deus, o teu perdão, pois queremos<br/>a tua criação amar e respeitar.</lines>
+    </verse>
+  </lyrics>
+</song>

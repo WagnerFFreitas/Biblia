@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:38">
+  <properties>
+    <titles>
+      <title>HCC 425 Cantai a Grandeza do Senhor</title>
+      <title>Salmos 147:7-9, 3, 5, 20</title>
+    </titles>
+    <copyright>Salmos 147:7-9, 3, 5, 20</copyright>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="425"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cantai ao Senhor em ação de graças; com a harpa cantai louvores ao nosso Deus.<br/>Ele é que cobre o céu de nuvens, que prepara a chuva para a terra, e que faz produzir erva sobre os montes;<br/>que dá aos animais o seu alimento.<br/>Sara os quebrantados de coração, e cura-lhes as feridas.<br/>Grande é o nosso Senhor, e de grande poder.<br/>Louvai ao Senhor!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:13">
+  <properties>
+    <titles>
+      <title>HC273 - Só A Ti Recorrerei</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quer nas trevas quer na luz,<br/>Só a Ti recorrerei,<br/>Só a Ti meu bom Jesus,<br/>E socorro acharei.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Só a Ti, meu Senhor,<br/>Só a Ti recorrerei;<br/>Só a Ti, Salvador,<br/>Um refúgio encontrarei!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quando lutas, penas, dor,<br/>Neste mundo encontrar,<br/>Eu Te buscarei, Senhor,<br/>E virás me consolar!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Quando o grande tentador<br/>A minh'alma combater,<br/>Pela graça do Senhor,<br/>Todo o mal hei de vencer.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fortes lutas eu terei,<br/>Neste mundo enganador,<br/>Mas socorro eu acharei,<br/>Em Ti, sempre, oh, Senhor!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:23">
+  <properties>
+    <titles>
+      <title>CC 189 Graça Inefável</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>James McGranahan</author>
+      <author>Arthur Pierson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="189"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A graça do Senhor<br/>meu coração venceu,<br/>pois para me salvar<br/>seu Filho amado deu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh! sim, qualquer que<br/>em Cristo crer,<br/>perdão eterno vai obter,<br/>e vida nova receber.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aquele que pecar<br/>a morte sofrerá;<br/>quem aceitar Jesus<br/>a vida alcançará.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Seu sangue derramou<br/>afim de nos salvar,<br/>e da condenação<br/>nos veio assim livrar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, vinde receber<br/>a vida e o seu perdão,<br/>e juntos possuir<br/>Jesus e a salvação!</lines>
+    </verse>
+  </lyrics>
+</song>

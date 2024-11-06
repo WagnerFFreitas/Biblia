@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:54">
+  <properties>
+    <titles>
+      <title>HCC 208 Eu Não Posso Fugir do Teu Espírito</title>
+      <title>Burgess</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Dan Burgess</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="208"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Eu não posso fugir do teu Espírito,<br/>nem ficar distante do teu amor.<br/>Se eu subir até os céus,<br/>se ao abismo eu descer,<br/>sei que ali tu estás.</lines>
+      <lines>Mesmo se eu tomar as asas da alvorada,<br/>tua mão ainda assim me guiará.<br/>Mesmo vindo a noite escura,<br/>tua luz brilhará<br/>e comigo estarás.</lines>
+    </verse>
+  </lyrics>
+</song>

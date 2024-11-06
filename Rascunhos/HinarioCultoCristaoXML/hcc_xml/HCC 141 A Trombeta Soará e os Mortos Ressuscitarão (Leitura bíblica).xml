@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:42">
+  <properties>
+    <titles>
+      <title>HCC 141 A Trombeta Soará e os Mortos Ressuscitarão</title>
+      <title>João 11:25; 6:40; 1 Coríntios 15:51, 52</title>
+    </titles>
+    <copyright>João 11:25; 6:40; 1 Coríntios 15:51, 52</copyright>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="141"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Declarou-lhes Jesus:<br/>Eu sou a ressurreição e a vida; quem crê em mim, ainda que morra, viverá.<br/>Porquanto esta é a vontade de meu Pai: Que todo aquele que vê o Filho e crê nele, tenha a vida eterna; e eu o ressuscitarei no último dia.<br/>Eis aqui vos digo um mistério: Nem todos dormiremos mas todos seremos transformados, num momento, num abrir e fechar de olhos,<br/>ao som da última trombeta; porque a trombeta soará, e os mortos serão ressuscitados incorruptíveis, e nós seremos transformados.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:08">
+  <properties>
+    <titles>
+      <title>HC241 - Marchemos Sem Temor</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>P'ra Sião marchamos sem algum temor,<br/>Por fé nos chamamos filhos do Senhor;<br/>Presto caminhamos, sem p'ra trás olhar,<br/>Com Jesus nós vamos, não podemos errar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Marchemos sem temor,<br/>repletos de valor,<br/>Marchemos nas pisadas do bom Redentor;<br/>Depressa, sem tardar, até no céu entrar;<br/>Por Jesus podemos sempre triunfar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>P'ra Sião marchamos sem desanimar,<br/>A verdade, vamos todos procalamar;<br/>Presto caminhamos, carregando a cruz,<br/>Pois nós desejamos ver no céu a Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>P'ra Sião marchamos em celeste luz,<br/>Dirigidos vamos p'lo Senhor Jesus;<br/>Presto caminhamos, rasga-se o véu;<br/>Já daqui estamos, pela fé, vendo o céu.</lines>
+    </verse>
+  </lyrics>
+</song>

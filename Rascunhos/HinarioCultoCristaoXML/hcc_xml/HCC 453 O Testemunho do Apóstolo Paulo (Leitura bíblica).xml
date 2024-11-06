@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:45">
+  <properties>
+    <titles>
+      <title>HCC 453 O Testemunho do Apóstolo Paulo</title>
+      <title>Atos 26:4-7, 9, 12-18</title>
+    </titles>
+    <copyright>Atos 26:4-7, 9, 12-18</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="453"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A minha vida, pois, desde a mocidade, o que tem sido sempre entre o meu povo e em Jerusalém,<br/>sabem-na todos os judeus, pois me conhecem desde o princípio e, se quiserem,<br/>podem dar testemunho de que, conforme a mais severa seita da nossa religião, vivi fariseu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E agora estou aqui para ser julgado por causa da esperança da promessa feita por Deus a nossos pais,<br/>a qual as nossas doze tribos, servindo a Deus fervorosamente noite e dia, esperam alcançar;<br/>é por causa desta esperança (...) que eu sou acusado pelos judeus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eu, na verdade, cuidara que devia praticar muitas coisas contra o nome de Jesus, o nazareno.<br/>Indo com este encargo a Damasco, munido de poder e comissão dos principais sacerdotes,<br/>ao meio-dia (...) vi no caminho uma luz do céu, que excedia o esplendor do sol,<br/>resplandecendo em torno de mim e dos que iam comigo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>E, caindo nós todos por terra, ouvi uma voz que me dizia em língua hebraica: Saulo, Saulo, por que me persegues?<br/>Dura coisa te é recalcitrar contra os aguilhões. Disse eu: Quem és, Senhor? Respondeu o Senhor: Eu sou Jesus, a quem tu persegues;<br/>mas levanta-te e põe-te em pé; pois para isto te apareci,<br/>para te fazer ministro e testemunha tanto das coisas em que me tens visto como daquelas em que te hei de aparecer;<br/>livrando-te deste povo e dos gentios, aos quais te envio, para lhes abrir os olhos a fim de que convertam das trevas à luz, e do poder de Satanás a Deus,<br/>para que recebam remissão de pecados e herança entre aqueles que são santificados pela fé em mim.</lines>
+    </verse>
+  </lyrics>
+</song>

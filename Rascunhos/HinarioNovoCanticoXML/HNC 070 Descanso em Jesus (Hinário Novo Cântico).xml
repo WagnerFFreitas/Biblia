@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:51">
+  <properties>
+    <titles>
+      <title>HNC 070 - Descanso em Jesus</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="70"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Todo o meu tão vil pecado<br/>Lanço, ó Cristo, sobre ti,<br/>Pois, Cordeiro imaculado,<br/>Tu me dás perdão aqui.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Minha mancha tão impura<br/>Tu bem podes retirar;<br/>E deixar em ti segura<br/>A minha alma descansar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pobre sou, angustiado,<br/>Mas revivo em tua cruz;<br/>E meu coração cansado<br/>Ponho só em ti, Jesus!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Minhas mágoas carregaste<br/>No madeiro, em meu lugar;<br/>Vida eterna me compraste,<br/>Salvação me vieste dar.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>E na glória eterna, ao lado<br/>Dos fiéis em multidão,<br/>Meus louvores, Cristo amado,<br/>Mais perfeitos te serão. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

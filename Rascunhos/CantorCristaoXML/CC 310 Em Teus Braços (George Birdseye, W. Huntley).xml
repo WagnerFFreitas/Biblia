@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:47">
+  <properties>
+    <titles>
+      <title>CC 310 Em Teus Braços</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>George Birdseye</author>
+      <author>W. Huntley</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="310"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Em teus braços eu me escondo,<br/>onde sempre quero estar;<br/>ao teu lado protegido<br/>eu desejo caminhar.</lines>
+      <lines>Inimigos me perseguem,<br/>eu sucumbo, ó Salvador!<br/>Muito aflito Te suplico:<br/>auxilia-me, Senhor!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Em teus braços eu me escondo,<br/>onde sempre quero estar;<br/>ao teu lado protegido<br/>eu desejo caminhar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Em teus braços eu me escondo,<br/>pois sem Ti não posso andar;<br/>com o coração aflito<br/>venho a Ti para implorar:</lines>
+      <lines>Oh! escuta, Cristo, os rogos<br/>que te faço com fervor!<br/>Dá-me abrigo nos teus braços,<br/>e protege-me Senhor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Em teus braços eu me escondo,<br/>onde possa repousar<br/>a minha alma tão cansada<br/>e um abrigo possa achar.</lines>
+      <lines>Já eu creio que me atendes,<br/>eu confio em ti, Senhor;<br/>nos teus braços abrigado<br/>bem seguro estou, Senhor!</lines>
+    </verse>
+  </lyrics>
+</song>

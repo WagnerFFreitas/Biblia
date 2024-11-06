@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:12">
+  <properties>
+    <titles>
+      <title>HM382 - União com Deus</title>
+      <title>Mais junto, ó Deus, a ti, mais junto a ti;</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Robert Hawkey Moreton</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mais junto, ó Deus, a ti, mais junto a ti;<br/>Por mais pesada cruz que eu tenha aqui,<br/>Aspiro ao gozo ali,<br/>Mais junto, ó Deus, a ti, mais junto a ti!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E quando ao pôr-do-sol, na solidão,<br/>Dormir cansado e só, meu leito o chão,<br/>Ver-me-ei, em sonho, ali,<br/>Mais junto, ó Deus, a ti, mais junto a ti!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh! Faze os passos meus, degraus do Céu;<br/>Amargas provações, proveito meu.<br/>Já teu amor senti!<br/>Mais junto, ó Deus, a ti, mais junto a ti!</lines>
+    </verse>
+  </lyrics>
+</song>

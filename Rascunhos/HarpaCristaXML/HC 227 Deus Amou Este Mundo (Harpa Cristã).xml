@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:06">
+  <properties>
+    <titles>
+      <title>HC227 - Deus Amou Este Mundo</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deus amou de tal maneira<br/>Este mundo sofredor,<br/>Que à humanidade inteira,<br/>Deus Seu Filho para Salvador.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>E agora nunca mais perece<br/>O que crê, mais vida eterna tem;<br/>Quem em Cristo permanece,<br/>Vai ser coroado além.<br/>O pecado na cruz foi vencido,<br/>Podes, pela fé, vencer também;<br/>De justiça, ó Sê vestido,<br/>E receberás coroa além.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Prisioneiro do pecado,<br/>Vagas sem esperança ter;<br/>Mas Jesus foi enviado,<br/>Para liberdade te trazer.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu que vives desviado<br/>Sem a paz de Deus gozar,<br/>Ouve a voz do Pai amado,<br/>Que te espera para te abraçar.</lines>
+    </verse>
+  </lyrics>
+</song>

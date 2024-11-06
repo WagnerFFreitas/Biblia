@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:06">
+  <properties>
+    <titles>
+      <title>HM027 - A Hora que Passa</title>
+      <title>De que procede a comoção,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>De que procede a comoção,<br/>O enlevo desta multidão,<br/>Todo este aplauso triunfal?<br/>Será algum festim real?<br/>Responde a turba: "Eis o Senhor!<br/>O Nazareno! O Salvador!"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quem é Jesus, para exercer<br/>Tão nobre e singular poder?<br/>Um viajante montanhês<br/>Sem luxo, ou pompa, ou altivez?<br/>Com voz de reverente amor,<br/>Dizem: "È Deus! o Salvador!"</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus! que outrora se humilhou<br/>E graça aos ímpios proclamou;<br/>Aos tristes deu consolação<br/>Sarando o enfermo coração;<br/>Estruge uníssono o clamor,<br/>Pois "Vai passando o Salvador!"</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus, Senhor, conosco está!<br/>Em nossas almas reinará!<br/>Recebe os oprimidos? Sim!<br/>E diz: "Aflitos, vinde a mim!"<br/>E corre a nova: "Eis o Senhor!"<br/>E todos vêem o Salvador!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Agora é tempo! Irmãos andai<br/>Alerta! E sem cessar clamai:<br/>"Tu, Filho de Davi, Jesus,<br/>Derrama em nossas almas luz!"<br/>- E, ouvindo, o Salvador parou!<br/>Pois inda o Cristo não passou!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ah! Que perverso o coração<br/>Que não aceita a salvação!<br/>Do Céu, um dia, o Juiz virá,<br/>E então um grito se erguerá<br/>- "È tarde! - Exclamam com terror!<br/>"Pois já passou o Salvador!"</lines>
+    </verse>
+  </lyrics>
+</song>

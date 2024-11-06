@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:27">
+  <properties>
+    <titles>
+      <title>HCC 382 Senhor, Se em Meu Caminho</title>
+      <title>Whitford</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Manoel Porto Filho</author>
+      <author>John Lloyd</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="382"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Senhor, se em meu caminho<br/>um dia eu me queixar<br/>ao ver somente espinho<br/>na estrada repontar,</lines>
+      <lines>teus pés ensanguentados<br/>mostrar-me vem, Jesus,<br/>feridos, traspassado<br/>em meu lugar na cruz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Se em dias nevoentos<br/>de provação e dor<br/>ouvires meus lamentos<br/>subindo a ti, Senhor,</lines>
+      <lines>os prantos alivia,<br/>mas vem lembrar a mim<br/>tu mesmo em agonia,<br/>sozinho, no jardim.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Se os fardos me pesarem<br/>e vires, ó Jesus,<br/>meus ombros se vergarem,<br/>cansados, sob a cruz,</lines>
+      <lines>oh, vem, pois, recordar-me<br/>que em Jerusalém<br/>sofreste, carregando<br/>pesada cruz também!</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Que a cruz iluminada<br/>em que mostraste amor<br/>conserve levantada<br/>a minha fé, Senhor.</lines>
+      <lines>Que além de todo pranto,<br/>meus olhos possam ver<br/>a ti, Cordeiro santo,<br/>razão do meu viver. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

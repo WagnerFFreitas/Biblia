@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:46">
+  <properties>
+    <titles>
+      <title>HM256 - Benigna Luz</title>
+      <title>Benigna luz, vem nesta noite escura</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Bispo Egmont Machado Krischke</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Benigna luz, vem nesta noite escura<br/>Guiar-me além!<br/>Do lar eu vago longe, sem ternura.<br/>Meu Guia, vem!<br/>Não peço ver a cena mais distante;<br/>Oh! Basta um passo,<br/>Um passo mais avante!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nem sempre humilde supliquei outrora<br/>Divina luz.<br/>Porém minha alma surpreendida implora:<br/>Vem, meu Jesus!<br/>Trilhei a senda impura do pecado.<br/>Cegou-me o orgulho.<br/>Esquece o meu passado.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vem, com tua graça poderosa,<br/>Guiar-me a mim,<br/>Até que toda a luta fatigosa<br/>Eu vença, enfim;<br/>Até rever, na luz da aurora infinda,<br/>Semblantes que perdi<br/>E que amo ainda.</lines>
+    </verse>
+  </lyrics>
+</song>

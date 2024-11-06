@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:52">
+  <properties>
+    <titles>
+      <title>HCC 196 Oh, Momento Glorioso!</title>
+      <title>Crown Him</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Thomas Kelly</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="196"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, momento glorioso,<br/>quando o Servo Sofredor<br/>se tornou vitorioso<br/>para ser o Salvador!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ó remidos, coroemos<br/>a Jesus, o Rei dos reis.<br/>Ó remidos, coroemos<br/>a Jesus, o Rei dos reis.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Coroaram sua fronte<br/>com espinhos, em furor;<br/>mas Jesus, da vida a fonte,<br/>coroemos com amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Anjos, santos o coroem,<br/>pois troféus consigo traz.<br/>A Jesus louvor entoem,<br/>nosso Príncipe da paz.</lines>
+    </verse>
+  </lyrics>
+</song>

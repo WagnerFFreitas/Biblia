@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:21">
+  <properties>
+    <titles>
+      <title>HCC 030 A Terra Semeamos</title>
+      <title>Wir Pflugen</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Matthias Claudius</author>
+      <author>Johann Schulz</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="030"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">A terra semeamos<br/>a fim de dar-nos pão,<br/>mas Deus é quem a nutre<br/>com benfazeja mão.</lines>
+      <lines>É Deus quem manda o frio,<br/>a chuva e o calor<br/>e faz surgiu da terra<br/>o fruto após a flor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>De todo bem a fonte<br/>é nosso bom Senhor.<br/>Louvai a Deus,<br/>louvai a Deus<br/>por seu imenso amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">O criador de tudo<br/>que perto ou longe está<br/>colore a flor silvestre<br/>e à estrela o brilho dá.</lines>
+      <lines>Os ventos lhe obedecem,<br/>o bravo mar também;<br/>as frágeis avezinhas<br/>o seu cuidado têm.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">A nós, porém, seus filhos,<br/>revela mais amor;<br/>o Filho eterno deu-nos:<br/>é Cristo, o Salvador,</lines>
+      <lines>que a nós nos fez herdeiros<br/>de tudo quanto tem,<br/>na redenção perfeita<br/>que dele nos provém.</lines>
+    </verse>
+  </lyrics>
+</song>

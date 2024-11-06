@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:55">
+  <properties>
+    <titles>
+      <title>HCC 211 Andemos Pelo Espírito Santo</title>
+      <title>Gálatas 5:22, 23, 25</title>
+    </titles>
+    <copyright>Gálatas 5:22, 23, 25</copyright>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="211"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O fruto do Espírito é:<br/>o amor, o gozo, a paz, a longanimidade, a benignidade, a bondade, a fidelidade, a mansidão, o domínio próprio.<br/>Se vivemos pelo Espírito, andemos também pelo Espírito.</lines>
+    </verse>
+  </lyrics>
+</song>

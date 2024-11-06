@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:41">
+  <properties>
+    <titles>
+      <title>HM486 - O Tempo é Breve</title>
+      <title>Declina o sol; a noite se aproxima;</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Declina o sol; a noite se aproxima;<br/>As forças falham; falta-nos vigor;<br/>Mas o cansado não se desanima,<br/>Pois, com a tarde, finda-se o labor.<br/>Em poucas horas raia o novo dia;<br/>Com forças novas vamos trabalhar;<br/>E tua graça, ó Deus, com melodia<br/>De agradecidas almas celebrar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fenece o ano; os curtos meses voam<br/>Como vapor; o tempo corre assim!<br/>Chega o final momento; as horas soam;<br/>Não há parada, certo vem o fim.<br/>Com esperança, firmes, avancemos,<br/>Saudando gratos mais um Ano-Bom.<br/>A nova quadra alegres recebemos,<br/>É do supremo Pai insigne dom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Os anos findam; foge-nos a vida;<br/>Já se aproxima o trânsito final.<br/>Mui breve é o curso, breve a humana lida;<br/>Vamos despir-nos do hábito mortal!<br/>Ó crentes! Eis a divinal aurora,<br/>A nova vida, o triunfal porvir,<br/>Quando os remidos entram, sem demora,<br/>Nas glórias que com Cristo vão fruir!</lines>
+    </verse>
+  </lyrics>
+</song>

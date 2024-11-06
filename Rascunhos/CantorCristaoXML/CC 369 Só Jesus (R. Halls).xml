@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:03">
+  <properties>
+    <titles>
+      <title>CC 369 Só Jesus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>R. Halls</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="369"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Quem tenho eu no céu, Senhor?<br/>Só Jesus; só Jesus.<br/>É só Jesus meu Salvador;<br/>só Jesus; só Jesus.</lines>
+      <lines>Ele o lagar por mim pisou;<br/>de sofrimentos me livrou;<br/>ele a minha alma fascinou,<br/>meu Jesus; meu Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Eu não almejo mais prazer:<br/>só Jesus; só Jesus.<br/>Gozo só Nele posso ter,<br/>em Jesus; em Jesus.</lines>
+      <lines>Pois a Jesus eu vou seguir;<br/>de seus ensinos me nutrir;<br/>toda a minha alma vou abrir,<br/>a Jesus; a Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">E se vier perseguição?<br/>Com Jesus; com Jesus.<br/>Ele será o meu quinhão<br/>só Jesus; só Jesus.</lines>
+      <lines>Nada me poderá faltar;<br/>quem é que o pode contestar?<br/>Pois prometeu bem me guardar,<br/>meu Jesus; meu Jesus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Quando esta vida terminar,<br/>só Jesus, só Jesus.<br/>Vou em seus braços descansar,<br/>de Jesus, de Jesus.</lines>
+      <lines>Dores me podem retalhar;<br/>ou meus amigos me deixar;<br/>eu, não obstante, vou cantar:<br/>só Jesus; só Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

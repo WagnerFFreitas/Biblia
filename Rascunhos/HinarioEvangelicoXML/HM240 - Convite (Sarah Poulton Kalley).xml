@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:43">
+  <properties>
+    <titles>
+      <title>HM240 - Convite</title>
+      <title>Vem dar louvor comigo!</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vem dar louvor comigo!<br/>Eu pobre não serei;<br/>Pois na divina graça<br/>Tesouros encontrei.<br/>Vem dar louvor comigo!<br/>O enfermo coração<br/>Meu Deus, na Cruz de Cristo,<br/>Curou com seu perdão.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vem dar louvor comigo!<br/>O mundo me cansou;<br/>Jesus, porém, bondoso,<br/>Repouso me ofertou.<br/>Vem dar louvor comigo!<br/>Errante andei sem luz;<br/>Mas eis que Cristo agora<br/>Os passos meus conduz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vem dar louvor comigo!<br/>Eu era pecador,<br/>Contudo, em Jesus Cristo<br/>Achei meu Redentor.<br/>Vem dar louvor comigo!<br/>Perdido andei, sem lar,<br/>Mas pela sua graça<br/>Abrigo me quis dar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vem dar louvor comigo!<br/>Sozinho eu padeci;<br/>Por ele acompanhado<br/>Ditoso me senti.<br/>Vem dar louvor comigo!<br/>Jesus me quis valer!<br/>Por sua imensa graça<br/>Irei no Céu viver.</lines>
+    </verse>
+  </lyrics>
+</song>

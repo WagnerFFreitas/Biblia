@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:04">
+  <properties>
+    <titles>
+      <title>HCC 260 Anda Com Jesus!</title>
+      <title>Humaitá</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Ivo Seitz</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="260"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Quando perguntares, sem saberes responder:<br/>"Para que existo? Donde vim? Que vou fazer?"<br/>Cristo é o caminho, a Bíblia o diz.<br/>Anda com Jesus e serás bem feliz.</lines>
+      <lines>Se estás sofrendo, se estás perplexo,<br/>Cristo é o caminho, descobrirás.<br/>Se tu tens receios, se a vida não tem nexo,<br/>anda com Jesus! Nunca mais te perderás.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:42">
+  <properties>
+    <titles>
+      <title>HC077 - Guarda O Contacto</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Queres, neste mundo, ser um vencedor?<br/>Queres tu cantas nas lutas e na dor?<br/>Queres ser alegre, qual bom lutador?<br/>Guarda o contacto com teu Salvador!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Guarda o contacto com teu Salvador,<br/>E a nuvem do mal não te cobrirá;<br/>Pela senda alegre, tu caminharás<br/>Indo em contacto com teu Salvador.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Neste mundo, vivem muitos a penar,<br/>Cujos corações transbordam de pesar;<br/>Dá-lhes a mensagem de amor sem par;<br/>Com Deus o contacto deves tu guardar!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Queres tu, com Deus, a comunhão obter?<br/>Sua glória em ti sempre permanecer?<br/>Que o mundo possa Cristo em ti ver!<br/>Guarda o contacto co'o supremo ser.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Deixa que o espírito implante em teu ser,<br/>O amor de Cristo, divinal praze;<br/>Queres, neste mundo, todo mal vencer?<br/>Guarda o contacto e terás poder!</lines>
+    </verse>
+  </lyrics>
+</song>

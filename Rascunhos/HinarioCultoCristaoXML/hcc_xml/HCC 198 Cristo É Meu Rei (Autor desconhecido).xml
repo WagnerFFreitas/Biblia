@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:53">
+  <properties>
+    <titles>
+      <title>HCC 198 Cristo É Meu Rei</title>
+      <title>Cascadura</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor desconhecido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="198"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aleluia, aleluia.<br/>Eu alegre cantarei.<br/>Aleluia, aleluia.<br/>Cristo é meu Rei.</lines>
+    </verse>
+  </lyrics>
+</song>

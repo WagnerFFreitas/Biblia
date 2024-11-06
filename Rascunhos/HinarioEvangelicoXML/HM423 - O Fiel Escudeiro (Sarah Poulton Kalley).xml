@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:21">
+  <properties>
+    <titles>
+      <title>HM423 - O Fiel Escudeiro</title>
+      <title>Forte escudeiro! Firme sempre eu estou!</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Forte escudeiro! Firme sempre eu estou!<br/>Aonde for mandado, logo vou;<br/>Marchando, quando o Mestre me ordenar,<br/>E parando, se ele assim determinar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Soa a trombeta! É tempo! Marchar!<br/>A ordem do Mestre é: Nunca recuar!<br/>Oh! Forte Capitão! Com teu poder<br/>Firma o escudeiro para combater!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Forte escudeiro! Firme neste setor<br/>Vigio as armas, sem nenhum temor!<br/>Quando o combate rijo se ferir,<br/>Presto quero estar, e a Cristo só seguir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Forte escudeiro! Parte sempre eu terei<br/>Nos altos feitos do meu grande Rei!<br/>No posto achado, no dever leal,<br/>Entro com Jesus na glória triunfal!</lines>
+    </verse>
+  </lyrics>
+</song>

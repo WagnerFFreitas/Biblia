@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:05:07">
+  <properties>
+    <titles>
+      <title>HCC 574 Um Só Rebanho</title>
+      <title>Morris</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Lelia Morris</author>
+      <author>José Freire</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="574"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Um só rebanho, um só pastor.<br/>Uma só fé em um só salvador.<br/>Em teu amor unidos aqui,</lines>
+      <lines>Num mesmo Espírito vamos a ti,<br/>Num mesmo Espírito vamos a ti.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Um só rebanho, um só pastor.<br/>Fruto ó Senhor, desse teu grande amor<br/>Só nos gloriamos na tua cruz.</lines>
+      <lines>Sê tu louvado, bendito Jesus!<br/>Sê tu louvado, bendito Jesus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Um só rebanho, um só pastor.<br/>Ó Cristo, és digno do nosso louvor.<br/>Tu és o ímã que nos atrai,</lines>
+      <lines>E só por ti adoramos o Pai,<br/>E só por ti adoramos o Pai.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Um só rebanho, um só pastor.<br/>Nós esperamos por ti, ó Senhor.<br/>É face a face que vamos ver</lines>
+      <lines>Quem nos amou e por nós quis morrer,<br/>Quem nos amou e por nós quis morrer.</lines>
+    </verse>
+  </lyrics>
+</song>

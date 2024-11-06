@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:31">
+  <properties>
+    <titles>
+      <title>HCC 403 O Senhor Me Acolhe</title>
+      <title>Salmos 27:1, 3-5, 9, 10, 13</title>
+    </titles>
+    <copyright>Salmos 27:1, 3-5, 9, 10, 13</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="403"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Senhor é a minha luz e a minha salvação; a quem temerei?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Senhor é a força da minha vida; de quem me recearei?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ainda que um exército se acampe contra mim, o meu coração não temerá;<br/>ainda que a guerra se levante contra mim, conservarei a minha confiança.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Uma coisa pedi ao Senhor, e a buscarei:<br/>que possa morar na casa do Senhor todos os dias da minha vida, para contemplar a formosura do Senhor, e inquirir no seu templo.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pois no dia da adversidade me esconderá no seu pavilhão;<br/>no recôndito do seu tabernáculo me esconderá; sobre uma rocha me elevará.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ouve, ó Senhor, a minha voz quando clamo; compadece-te de mim e responde-me.<br/>Quando disseste: Buscai o meu rosto; o meu coração te disse a ti: O teu rosto, Senhor, buscarei.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Não escondas de mim o teu rosto, não rejeites com ira o teu servo, tu que tens sido a minha ajuda.<br/>Não em enjeites nem me desempares, ó Deus da minha salvação.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Se meu pai e minha mãe me abandonarem, então o Senhor me acolherá.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Creio que hei de ver a bondade do Senhor na terra dos viventes.</lines>
+    </verse>
+  </lyrics>
+</song>

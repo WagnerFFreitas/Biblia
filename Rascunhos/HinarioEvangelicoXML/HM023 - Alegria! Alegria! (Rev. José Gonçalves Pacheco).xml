@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:05">
+  <properties>
+    <titles>
+      <title>HM023 - Alegria! Alegria!</title>
+      <title>Os Celetiais Cantores,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. José Gonçalves Pacheco</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Os celestiais cantores,<br/>Do perdão anunciadores,<br/>E os atônitos pastores,<br/>"Salve", aclamam o Senhor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E num preito imorredouro,<br/>Chegam Magos, que tesouro,<br/>Rico em mirra, incenso, em ouro,<br/>Dão ao Rei e Salvador!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Clara noite, santo dia,<br/>Clamam todos à porfia:<br/>Oh! Que bênção! Que alegria!<br/>Canta o coro sem cessar:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O divino é humanado;<br/>Cristo, a ti, Deus encarnado,<br/>Seja sempre o Reino dado,<br/>De poder e luz sem par!</lines>
+    </verse>
+  </lyrics>
+</song>

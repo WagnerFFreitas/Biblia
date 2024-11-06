@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:16">
+  <properties>
+    <titles>
+      <title>HCC 006 Onipotente Rei</title>
+      <title>Italian Himn</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Felice Giardini</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="006"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Onipotente Rei,<br/>aqui presente sê<br/>com teu poder!</lines>
+      <lines>Em teu excelso amor,<br/>inspira-nos louvor!<br/>Queremos-te, Senhor,<br/>engrandecer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Ó poderoso Deus,<br/>atende lá dos céus<br/>a petição.</lines>
+      <lines>Vem nos abençoar<br/>e vem fazer brotar<br/>o que se for plantar<br/>no coração.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Vem tu, Consolador,<br/>ser testificador<br/>da redenção.</lines>
+      <lines>Vem sempre em nós ficar,<br/>vem teu poder nos dar<br/>e assim nos dominar<br/>o coração.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Ó grande, trino Deus,<br/>te adoraremos nós<br/>aqui e além.</lines>
+      <lines>Santificar-nos-ás,<br/>ao céu nos levarás,<br/>a glória nos darás<br/>pra sempre, amém.</lines>
+    </verse>
+  </lyrics>
+</song>

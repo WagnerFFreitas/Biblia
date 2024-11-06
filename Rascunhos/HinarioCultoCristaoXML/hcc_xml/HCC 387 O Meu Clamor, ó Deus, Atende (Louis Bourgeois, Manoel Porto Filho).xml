@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:28">
+  <properties>
+    <titles>
+      <title>HCC 387 O Meu Clamor, ó Deus, Atende</title>
+      <title>Richier</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Louis Bourgeois</author>
+      <author>Manoel Porto Filho</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="387"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">O meu clamor, ó Deus, atende,<br/>pois dia e noite eu oro a ti.</lines>
+      <lines>Tão frágil sou, tão pobre aqui!<br/>Magoada e só, minha alma chora,<br/>por isso implora.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Da vida e luz tu és a fonte.<br/>Em mim derrama o teu poder.</lines>
+      <lines>Minha oração vem atender,<br/>pois, quando sai o sol bem cedo,<br/>eu intercedo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Tu és um Deus que não te alegras<br/>no tropeçar do pecador.</lines>
+      <lines>Bondoso e justo és tu, Senhor.<br/>Tu não toleras orgulhosos<br/>e mentirosos.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Na luz dos teus caminhos santos,<br/>humilde e grato eu andarei.</lines>
+      <lines>Tu és meu Deus, tu és meu Rei.<br/>Contigo sempre andar eu quero,<br/>puro e sincero.</lines>
+    </verse>
+    <verse name="v5">
+      <lines break="optional">Teus filhos têm constante alento,<br/>felizes sempre em tua paz.</lines>
+      <lines>De todo mal os guardarás,<br/>pois a tua lei, ó Deus, conhecem<br/>e te obedecem.</lines>
+    </verse>
+  </lyrics>
+</song>

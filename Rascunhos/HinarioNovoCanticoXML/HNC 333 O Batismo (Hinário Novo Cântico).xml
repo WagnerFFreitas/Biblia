@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-12-24T13:22:12">
+  <properties>
+    <titles>
+      <title>HNC 333 - O Batismo</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="333"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nós, Senhor, nos alegramos<br/>Ao teu mando obedecer.<br/>Pois tu mesmo nos mandaste<br/>O batismo receber.<br/>Vem, agora, Deus de amor,<br/>Conceder-nos teu favor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Este selo nos recorda<br/>Mandamento do Senhor.<br/>É figura que nos fala<br/>Do poder renovador.<br/>Vem por ele à Igreja unir<br/>Quem te quer aqui seguir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Morte ao mundo declaramos,<br/>Morte ao vil pecado, sim!<br/>Com Jesus ao nosso lado<br/>A vitória é certa, enfim!<br/>Ó Senhor, vem consagrar<br/>A quem vem se batizar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mortos para o mundo estamos,<br/>Desejando a Deus servir.<br/>Vivos em Jesus queremos<br/>Sua imagem refletir.<br/>Vem, Senhor, aqui fazer<br/>Tua graça em nós crescer. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

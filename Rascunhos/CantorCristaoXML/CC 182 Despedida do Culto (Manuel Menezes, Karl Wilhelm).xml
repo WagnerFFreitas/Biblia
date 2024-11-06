@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:22">
+  <properties>
+    <titles>
+      <title>CC 182 Despedida do Culto</title>
+      <title>Wacht-Am-Rhein</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Manuel Menezes</author>
+      <author>Karl Wilhelm</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="182"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Despede-nos, ó bom Jesus,<br/>no fim do teu serviço aqui;<br/>guiar-nos venha a tua luz,<br/>pra que sirvamos só a ti.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Despede-nos, ó Salvador!<br/>Despede-nos em teu amor;<br/>permite que nós outra vez<br/>nos ajuntemos, ó Senhor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Protege-nos, ó bom Jesus,<br/>e não nos largue a tua mão!<br/>O teu amor só nos induz<br/>a te louvar de coração.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pai nosso, tu, que estás nos céus,<br/>aqui, abençoar-nos vem;<br/>ó tu, Espírito de Deus,<br/>dá-nos inspiração também.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:43">
+  <properties>
+    <titles>
+      <title>CC 294 Necessitado</title>
+      <title>Need</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Robert Lowry</author>
+      <author>Annie Hawks</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="294"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>De Ti, Jesus Senhor,<br/>eu tenho precisão,<br/>só teu divino amor<br/>dá paz ao coração.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ó meu Jesus, comigo<br/>vem estar agora<br/>té que no céu contigo<br/>eu vá morar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh! dá-me, meu Jesus,<br/>fruir teu rico amor,<br/>e andar em tua luz,<br/>submisso a Ti, Senhor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vencendo a tentação,<br/>contente viverei<br/>sob tua proteção,<br/>Ó meu bendito Rei!</lines>
+    </verse>
+  </lyrics>
+</song>

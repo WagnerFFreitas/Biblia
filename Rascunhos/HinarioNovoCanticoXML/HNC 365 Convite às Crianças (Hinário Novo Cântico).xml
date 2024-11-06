@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:49:03">
+  <properties>
+    <titles>
+      <title>HNC 365 - Convite às Crianças</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="365"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh! Vinde crianças!<br/>Cantai a linda história<br/>Do bom Messias, Rei dos reis,<br/>Jesus, o Salvador.<br/>E repeti, com gratidão,<br/>A eterna e meiga exclamação:<br/>“Deixai as crianças que venham a mim.”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pais crentes traziam<br/>A Cristo seus filhinhos,<br/>Mas quando alguém os impediu,<br/>Tentando os afastar,<br/>Ouviu-se a voz do Mestre, então,<br/>Dizer com grande compaixão:<br/>“Deixai as crianças que venham a mim.”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh! Vinde crianças!<br/>Jesus deseja a todas<br/>A sua bênção conceder,<br/>E sua salvação!<br/>A voz de Cristo, o Bom Pastor,<br/>Repete ainda com amor:<br/>“Deixai as crianças que venham a mim.”</lines>
+    </verse>
+  </lyrics>
+</song>

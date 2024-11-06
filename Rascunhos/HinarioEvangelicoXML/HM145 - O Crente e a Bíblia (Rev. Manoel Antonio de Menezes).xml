@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:23">
+  <properties>
+    <titles>
+      <title>HM145 - O Crente e a Bíblia</title>
+      <title>Não abandono a Bíblia,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Manoel Antonio de Menezes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Não abandono a Bíblia,<br/>Revelação de Deus,<br/>De todos o tesouro,<br/>Seu guia para os Céus.<br/>Luzeiro ela é divino,<br/>Nas trevas a brilhar;<br/>É a voz do Pai celeste,<br/>Que a todos vem chamar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Não abandono a Bíblia,<br/>Revelação de Deus,<br/>De todos o tesouro,<br/>Seu guia para os Céus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Não abandono a Bíblia,<br/>Pois ela é que me diz<br/>Que poderei ser salvo<br/>E sempre ser feliz;<br/>Terei, pois, a certeza<br/>Da eterna salvação,<br/>Mediante a Cruz e o sangue<br/>De Cristo e seu perdão.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Não abandono a Bíblia,<br/>Sempre o confessarei;<br/>Quem dera ser ouvido<br/>Por toda a ímpia grei.<br/>Que saiba todo o mundo<br/>Que a Cristandade tem<br/>A fé robusta e pura,<br/>Que deste Livro vem.</lines>
+    </verse>
+  </lyrics>
+</song>

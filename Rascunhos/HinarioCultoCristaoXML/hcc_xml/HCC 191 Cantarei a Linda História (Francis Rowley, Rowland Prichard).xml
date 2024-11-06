@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:51">
+  <properties>
+    <titles>
+      <title>HCC 191 Cantarei a Linda História</title>
+      <title>Hyfrydol</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Francis Rowley</author>
+      <author>Rowland Prichard</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="191"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Cantarei a linda história<br/>de Jesus, meu Salvador,<br/>que deixou seu lar na glória<br/>para ser meu Redentor.</lines>
+      <lines>Eu, perdido, Cristo achou-me,<br/>longe, longe do meu lar;<br/>compassivo então guiou-me,<br/>para junto dele andar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Minhas mágoas, meus temores,<br/>Cristo sempre dissipou.<br/>Ele sente as minhas dores;<br/>crendo nele, firme estou.</lines>
+      <lines>Dias maus ainda tenho,<br/>sofrimento e dissabor;<br/>quando triste, a ele eu venho,<br/>me conforta o seu amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Cristo é meu, seu forte braço<br/>pela vida me conduz;<br/>dia a dia, passo a passo,<br/>vivo em paz, amor e luz.</lines>
+      <lines>Cantarei a linda história,<br/>muito grato a meu Senhor;<br/>cantarei da sua glória<br/>entre os santos, com fervor.</lines>
+    </verse>
+  </lyrics>
+</song>

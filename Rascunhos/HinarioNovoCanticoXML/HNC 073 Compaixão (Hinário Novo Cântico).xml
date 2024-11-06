@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:51">
+  <properties>
+    <titles>
+      <title>HNC 073 - Compaixão</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="73"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Ti, Senhor, atrevo-me a chegar,<br/>Bem sei que sou indigno de favor.<br/>Contrito venho para te implorar;<br/>Tem compaixão de mim, sou pecador!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sim, pecador, a suplicar perdão,<br/>Embora não mereça o teu favor;<br/>Mas dá-me, peço, a purificação!<br/>Tem compaixão de mim, sou pecador!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fugindo eu quis, em vão, me libertar<br/>Do meu pecado vil e opressor!<br/>E agora, exausto, aqui eis-me a clamar:<br/>Tem compaixão de mim, sou pecador!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tão infinito, ó Deus, é teu poder!<br/>Tão grande, ó Pai, o teu excelso amor!<br/>Aos rogos meus não deixes de atender:<br/>Tem compaixão de mim, sou pecador!<br/>Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:29">
+  <properties>
+    <titles>
+      <title>CC 218 Vinde a Mim</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>George Stebbins</author>
+      <author>Nathaniel Norton</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="218"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Oh! vinde a Mim, o vosso Salvador,<br/>vosso advogado, vosso Redentor,</lines>
+      <lines>o bom Pastor, e vosso eterno Rei!<br/>Oh! vinde a mim! Descanso vos darei!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh! vinde a Mim! Oh! vinde a Mim!<br/>Oh! vinde a Mim! Descanso vos darei!<br/>Descanso vos darei! Descanso vos darei!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Gozo eternal eu vos farei fruir.<br/>Vinde! Porque razão deixais de vir?</lines>
+      <lines>Vinde, fugi do enganador sagaz!<br/>Oh! vinde a Mim! Eu vos darei a paz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Oh! vinde a Mim, gentios e judeus!<br/>Não há limite à salvação de Deus.</lines>
+      <lines>Oh! vinde a Mim! Eu vos darei perdão,<br/>pois só por Mim tereis a salvação!</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Vida de paz, descanso e gozo, além,<br/>concederei a todos os que crêem.</lines>
+      <lines>Sois convidados ao festim real!<br/>Oh! vinde ao lar, à casa paternal!</lines>
+    </verse>
+  </lyrics>
+</song>

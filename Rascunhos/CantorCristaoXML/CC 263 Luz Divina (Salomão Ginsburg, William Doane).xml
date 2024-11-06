@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:37">
+  <properties>
+    <titles>
+      <title>CC 263 Luz Divina</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Salomão Ginsburg</author>
+      <author>William Doane</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="263"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh! vem, divina Luz,<br/>as trevas dissipar;<br/>Oh! vem me alumiar!<br/>Oh! vem, divina Luz!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sem luz nas trevas vivo;<br/>na alma que se humilha<br/>ó Luz divina, brilha;<br/>brilhar agora vem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh! vem, divina Luz,<br/>converte o coração;<br/>e dá-me a salvação!<br/>Oh! vem, divina Luz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amor celeste, vem,<br/>vem inundar meu ser,<br/>e o ódio desfazer.<br/>Amor celeste, vem!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh! vem Tu, meu Senhor,<br/>habita no meu lar;<br/>erige o teu altar,<br/>em mim, ó Salvador!</lines>
+    </verse>
+  </lyrics>
+</song>

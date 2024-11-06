@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:03">
+  <properties>
+    <titles>
+      <title>CC 371 Rocha Eterna - 1ª música</title>
+      <title>Toplady</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Thomas Hastings</author>
+      <author>Augustus Toplady</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="371"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Rocha eterna, foi na cruz<br/>que morreste Tu, Jesus;<br/>vem de Ti um sangue tal</lines>
+      <lines>que me limpa todo o mal;<br/>traz as bênçãos do perdão:<br/>gozo, paz e salvação.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Nem trabalho, nem penar<br/>pode o pecador salvar;<br/>só tu podes, bom Jesus,</lines>
+      <lines>dar-me vida, paz e luz.<br/>Peço-te perdão, Senhor,<br/>pois confio em teu amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Eis que vem a morte atrás<br/>desta vida tão fugaz;<br/>quando eu ao meu lar subir,</lines>
+      <lines>e teu rosto em glória vir,<br/>rocha eterna, que prazer<br/>eu terei de em Ti viver.</lines>
+    </verse>
+  </lyrics>
+</song>

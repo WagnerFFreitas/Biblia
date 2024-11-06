@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:07">
+  <properties>
+    <titles>
+      <title>HM356 - Confiança</title>
+      <title>Ó minha alma, espera em teu Senhor!</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. João Marques da Mota Sobrinho</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó minha alma, espera em teu Senhor!<br/>Tudo lhe confia, é teu Salvador!<br/>O sol fulgiu! Não há arrebol!<br/>Mas depois do inverno vem de novo o sol!<br/>Na tempestade, em hora cruel,<br/>Ele te protege, o Pai é fiel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó minha alma, espera em teu Senhor!<br/>Tudo lhe confia, é teu Salvador!<br/>Na Provação não nos deixa sós<br/>Pode mais que a fúria da dor mais feroz!<br/>Amor Eterno! Cremos em ti,<br/>És Refúgio nosso, mui certo aqui.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:49">
+  <properties>
+    <titles>
+      <title>HCC 178 O Nome do Senhor</title>
+      <title>Salmos 8:1; Malaquias 1:11; Salmos 72:17; Isaías 9:6; Atos 4:12; Salmos 29:2, 96:2; Felipenses 2:9-11</title>
+    </titles>
+    <copyright>Sl 8:1; Ml 1:11; Sl 72:17; Is 9:6; At 4:12; Sl 29:2, 96:2; Fp 2:9-11</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="178"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines><tag name="y">Todos:</tag><br/>Ó Senhor, Senhor nosso, quão admirável é o teu nome em toda a terra!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><tag name="y">Dirigente:</tag><br/>Mas desde o nascente do sol até o poente é grande entre as nações o meu nome;<br/>e em todo lugar se oferece ao meu nome incenso, e uma oblação pura;<br/>porque o meu nome é grande entre as nações, diz o Senhor dos exércitos.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><tag name="y">Congregação:</tag><br/>Permaneça o seu nome eternamente;<br/>continue a sua fama enquanto o sol durar, e os homens sejam abençoados nele;<br/>todas as nações, o chamem bem-aventurado.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><tag name="y">Dirigente:</tag><br/>Porque um menino nos nasceu, um filho se nos deu;<br/>e o governo estará sobre os seus ombros;<br/>e o seu nome será: Maravilhoso Conselheiro, Deus Forte, Pai Eterno, Príncipe da Paz.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><tag name="y">Congregação:</tag><br/>E em nenhum outro há salvação;<br/>porque debaixo do céu nenhum outro nome há, dado entre os homens, em que devamos ser salvos.<br/>Todos: Ó Senhor, Senhor nosso, quão admirável é o teu nome em toda a terra!</lines>
+    </verse>
+    <verse name="v6">
+      <lines><tag name="y">Dirigente:</tag><br/>Tributai ao Senhor a glória devida ao seu nome.<br/>Cantai ao Senhor, bendizei o seu nome;<br/>anunciai de dia em dia a sua salvação.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><tag name="y">Congregação:</tag><br/>Ó Senhor, Senhor nosso, quão admirável é o teu nome em toda a terra!</lines>
+    </verse>
+    <verse name="v8">
+      <lines><tag name="y">Dirigente:</tag><br/>Pelo que também Deus o exaltou soberanamente, e lhe deu o nome que é sobre todo nome;<br/>para que ao nome de Jesus se dobre todo joelho dos que estão nos céus, e na terra, e debaixo da terra,</lines>
+    </verse>
+    <verse name="v9">
+      <lines><tag name="y">Congregação:</tag><br/>e toda língua confesse que Jesus Cristo é Senhor, para glória de Deus Pai.</lines>
+    </verse>
+    <verse name="v10">
+      <lines><tag name="y">Todos:</tag><br/>Ó Senhor, Senhor nosso, quão admirável é o teu nome em toda a terra!</lines>
+    </verse>
+  </lyrics>
+</song>

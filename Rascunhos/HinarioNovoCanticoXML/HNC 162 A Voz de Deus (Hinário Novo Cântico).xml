@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:55">
+  <properties>
+    <titles>
+      <title>HNC 162 - A Voz de Deus</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="162"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quando a tempestade ruge<br/>Com o seu feroz bramir,<br/>Quando as nuvens se acumulam,<br/>Raios mil a despedir, <br/>Do trovão o som tremendo<br/>Faz-se ouvir e com pavor!<br/>Mas por sobre a tempestade<br/>Soa a tua voz, Senhor,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quando o mar vem mansamente,<br/>Sobre a areia se espraiar,<br/>Quando a brisa sussurante<br/>Calmamente perpassar,<br/>Soa mística harmonia,<br/>Ouve-se um feliz rumor;<br/>Desse coro, docemente, <br/>Vem a tua voz, Senhor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Quando o coração aflito<br/>Quer à dor, ao mal fugir,<br/>E se agita e luta e ruge,<br/>Sem descanso e paz sentir,<br/>Qual um som que se repete<br/>Nas quebradas a rolar,<br/>Ao aflito e contristado<br/>Tua voz vem consolar</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Eis que ouvimos tua voz,<br/>A animar os que andam sós.<br/>E em ti sempre confiados,<br/>Vão por ti, sempre a lutar,<br/>Nesta vida tormentosa,<br/>Qual fragor do vasto mar</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

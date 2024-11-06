@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:05:01">
+  <properties>
+    <titles>
+      <title>HCC 538 Fala e Não Te Cales</title>
+      <title>Fala e Não Te Cales</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Charles Gabriel</author>
+      <author>João Soren</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="538"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Quem irá nos campos trabalhar,<br/>e a semente santa semear?<br/>Lembra-te de quem levou<br/>uma cruz onde expirou!</lines>
+      <lines>Toma tua cruz também,<br/>renuncia a tudo e vem,<br/>segue o Mestre com fervor,<br/>semeando sem temor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Fala, fala e não te cales,<br/>ergue a cruz da redenção.<br/>Cristo espera que tu fales<br/>ou as pedras clamarão!</lines>
+      <lines>Fala, fala e não te cales,<br/>deixa agora os teus temores.<br/>Vai com fé aos pecadores,<br/>proclamando a salvação!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">A mensagem leva com amor<br/>às ovelhas que não têm pastor.<br/>Eis as multidões sem luz,<br/>perecendo sem Jesus!</lines>
+      <lines>Fala a todos sem cessar,<br/>pois o sol vai declinar;<br/>mostra agora compaixão,<br/>e anuncia a salvação.</lines>
+    </verse>
+  </lyrics>
+</song>

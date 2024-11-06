@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:00">
+  <properties>
+    <titles>
+      <title>HC190 - Cristo! Meu Cristo!</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh! quanto fez Jesus por mim!<br/>Salvou-me do pecado!<br/>Até a morte ( Triste fim),<br/>Amou-me o bem amado.<br/>Com Deus, o Pai, agora está<br/>Jesus, meu Advogado;<br/>Morada me concederá<br/>Na glória, com o amado.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cristo! meu Cristo!<br/>Teu nome é doce, amado!<br/>Desejo ver-te, face a face<br/>Meu Cristo bem amado.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Defende como protetor,<br/>Segura o pé cansado;<br/>E sobre mim, com terno amor,<br/>Vigia o bem amado.<br/>A minha humilde petição<br/>Escuta com agrado;<br/>Tranqüilo e débil coração,<br/>Repousa em Ti, Amado.</lines>
+    </verse>
+  </lyrics>
+</song>

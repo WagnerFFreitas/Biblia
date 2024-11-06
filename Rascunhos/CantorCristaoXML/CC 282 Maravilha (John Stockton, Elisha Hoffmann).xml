@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:41">
+  <properties>
+    <titles>
+      <title>CC 282 Maravilha</title>
+      <title>Glory To His Name</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>John Stockton</author>
+      <author>Elisha Hoffmann</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="282"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chegado à cruz do meu Salvador,<br/>Prostrado aos pés do meu Redentor,<br/>Ele atendeu logo a meu clamor;<br/>Glória ao Salvador!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Glória ao Salvador!<br/>Glória ao Salvador!<br/>Agora sei que Ele me salvou.<br/>Glória ao Salvador!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Que maravilha, Jesus me amou!<br/>Tudo de graça me perdoou!<br/>Quebrou meus laços e me livrou!<br/>Glória ao Salvador!</lines>
+    </verse>
+  </lyrics>
+</song>

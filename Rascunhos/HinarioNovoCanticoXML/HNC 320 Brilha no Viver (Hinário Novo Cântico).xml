@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:49:01">
+  <properties>
+    <titles>
+      <title>HNC 320 - Brilha no Viver</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="320"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Não somente ao se fazer trabalho singular<br/>É mister agir com muito ardor;<br/>Mas as coisas mais humildes a executar,<br/>Deves fazê-las com fervor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh! Talvez alguma vida possas confortar<br/>Com palavras brandas, de amor.<br/>Ou, talvez, algumas almas tristes alcançar<br/>Com a mensagem do Senhor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Por maior que venha a ser o teu esforço aqui,<br/>Por mais firme a tua devoção,<br/>Quantas almas inda jazem ao redor de ti,<br/>Na mais total escuridão.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Brilha no meio do teu viver,<br/>Brilha no meio do teu viver!<br/>Pois talvez algum aflito possas socorrer;<br/>Brilha no meio do teu viver.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

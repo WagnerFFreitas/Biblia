@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:35">
+  <properties>
+    <titles>
+      <title>HM199 - Vera Páscoa</title>
+      <title>Ó Jesus, ó vera Páscoa,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Anônimo</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó Jesus, ó vera Páscoa,<br/>Suspirada dos antigos!<br/>Ó Cordeiro eterno e meigo,<br/>Digna-te assistir aqui!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bom Jesus, ó Pão divino!<br/>Pela fé te recebemos.<br/>És nas almas o alimento<br/>Que sustenta o nosso amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bom Jesus, ó Vinho puro,<br/>De perene gozo a fonte,<br/>Que nossa alma viva sempre<br/>Para ti, de ti, em ti.</lines>
+    </verse>
+  </lyrics>
+</song>

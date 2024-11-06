@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:50">
+  <properties>
+    <titles>
+      <title>HCC 182 Dia a Dia</title>
+      <title>Blott En Dag</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Caroline Sandell-Berg</author>
+      <author>Oscar Ahnfelt</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="182"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Dia a dia passam-se os instantes,<br/>e o meu Deus me ampara em meu viver;<br/>pondo nele a minha fé constante,<br/>nada temo, nada vou temer.</lines>
+      <lines>É meu Pai, de coração bondoso,<br/>que me supre tudo em seu amor.<br/>Viva alegre ou em sofrer penoso,<br/>dá-me paz e alento o meu Senhor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Cada dia Deus está bem perto<br/>e conselhos dele posso ter.<br/>Segurança e auxílio em tempo certo<br/>me concede pelo seu poder.</lines>
+      <lines>Com carinho Deus protege e guia,<br/>qual zeloso pai, os filhos seus.<br/>"Forças te darei a cada dia"<br/>- é promessa que ele mesmo deu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Quero, ó Deus, em cada sofrimento,<br/>confiar em teu cuidado e amor.<br/>Que com fé eu permaneça atento<br/>às promessas tuas, Redentor!</lines>
+      <lines>E que eu possa, em lutas, dores, trevas,<br/>aceitar das tuas mãos, ó Deus,<br/>um a um os dias que me entregas<br/>nesta minha vida rumo ao céu.</lines>
+    </verse>
+  </lyrics>
+</song>

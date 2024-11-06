@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:54">
+  <properties>
+    <titles>
+      <title>HNC 155 - Castelo Forte</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="155"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Castelo forte é nosso Deus,<br/>Espada e bom escudo!<br/>Com seu poder defende os seus<br/>Em todo transe agudo.<br/>Com fúria pertinaz<br/>Persegue Satanás<br/>Com ânimo cruel!<br/>Mui forte é o Deus fiel,<br/>Igual não há na terra.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A força do homem nada faz,<br/>Sozinho está perdido!<br/>Mas nosso Deus socorro traz<br/>Em seu Filho escolhido.<br/>Sabeis quem é? Jesus,<br/>O que venceu na cruz,<br/>Senhor dos altos céus,<br/>E sendo o próprio Deus,<br/>Triunfa na batalha.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se nos quisessem devorar<br/>Demônios não contados,<br/>Não nos iriam derrotar<br/>Nem ver-nos assustados.<br/>O príncipe do mal,<br/>Com seu plano infernal,<br/>Já condenado está!<br/>Vencido cairá<br/>Por uma só palavra.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>De Deus o verbo ficará,<br/>Sabemos com certeza,<br/>E nada nos assustará<br/>Com Cristo por defesa!<br/>Se temos de perder<br/>Família, bens, prazer,<br/>Se tudo se acabar<br/>E a morte enfim chegar,<br/>Com ele reinaremos!</lines>
+    </verse>
+  </lyrics>
+</song>

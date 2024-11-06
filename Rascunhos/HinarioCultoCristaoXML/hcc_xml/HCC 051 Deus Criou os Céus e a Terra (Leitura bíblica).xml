@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:26">
+  <properties>
+    <titles>
+      <title>HCC 051 Deus Criou os Céus e a Terra</title>
+      <title>Sl 19.1; 90.1, 2; Gn 1.1, 2; Hb 11.3; Is 45.11, 12; Êx20.11; Sl 92.5; 145.10, 11</title>
+    </titles>
+    <copyright>Sl 19:1; 90:1, 2; Gn 1:1, 2; Hb 11:3; Is 45:11, 12; Êx 20:11; Sl 92:5; 145:10, 11</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="051"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines><tag name="y">Dirigente:</tag><br/>Os céus proclamam a glória de Deus e o firmamento anuncia a obra de suas mãos.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><tag name="y">Congregação:</tag><br/>Senhor, tu tens sido o nosso refúgio de geração em geração. Antes que nascessem os montes, ou que tivesses formado a terra e o mundo, sim, de eternidade a eternidade tu és Deus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><tag name="y">Dirigente:</tag><br/>No princípio criou Deus os céus e a terra. A terra era sem forma e vazia; e havia trevas sobre a face do abismo, mas o Espírito de Deus pairava sobre a face das águas.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><tag name="y">Todos:</tag><br/>Pela fé entendemos que os mundos foram criados pela palavra de Deus; de modo que o visível não foi feito daquilo que se vê.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><tag name="y">Dirigente:</tag><br/>Assim diz o Senhor: Eu é que fiz a terra, e nela criei o homem; as minhas mãos estenderam os céus, e a todo o seu exército dei as minhas ordens.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><tag name="y">Congregação:</tag><br/>Porque em seis dias fez o Senhor o céu e a terra, o mar e tudo que neles há, e ao sétimo dia descansou.</lines>
+    </verse>
+    <verse name="v7">
+      <lines break="optional"><tag name="y">Todos:</tag><br/>Quão grandes são, ó Senhor, as tuas obras! Quão profundos são os teus pensamentos! </lines>
+      <lines>Todas as tuas obras te louvarão, ó Senhor, e os teus santos te bendirão. Falarão da glória do teu reino, e relatarão o teu poder.</lines>
+    </verse>
+  </lyrics>
+</song>

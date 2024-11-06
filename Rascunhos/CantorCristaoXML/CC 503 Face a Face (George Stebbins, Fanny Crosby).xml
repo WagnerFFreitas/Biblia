@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:30">
+  <properties>
+    <titles>
+      <title>CC 503 Face a Face</title>
+      <title>Saved By Grace</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>George Stebbins</author>
+      <author>Fanny Crosby</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="503"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Em breve a vida vai findar;<br/>aqui não mais eu cantarei,</lines>
+      <lines>porque no céu irei morar,<br/>lá na presença do meu Rei.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">E face a face vê-lo-ei!<br/>De graça salvo, cantarei!</lines>
+      <lines>E face a face vê-lo-ei!<br/>De graça salvo, cantarei!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Chegado o dia de esplendor,<br/>quando Jesus me vier buscar,</lines>
+      <lines>bem certo estou de que o Senhor<br/>no céu a mim dará lugar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Ali a voz me soará<br/>de Cristo, eterno Redentor:</lines>
+      <lines>"Fiel, bom servo, bem está;<br/>desfruta o gozo do Senhor."</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Por meu Jesus eu vou viver,<br/>fazer a minha luz brilhar;</lines>
+      <lines>E cada dia vou fazer<br/>aquilo que o Senhor honrar.</lines>
+    </verse>
+  </lyrics>
+</song>

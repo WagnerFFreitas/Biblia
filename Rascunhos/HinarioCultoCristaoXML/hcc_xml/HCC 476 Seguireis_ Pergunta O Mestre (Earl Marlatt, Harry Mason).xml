@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:49">
+  <properties>
+    <titles>
+      <title>HCC 476 Seguireis? Pergunta O Mestre</title>
+      <title>Beacon Hill</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Earl Marlatt</author>
+      <author>Harry Mason</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="476"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">"Seguireis", pergunta o Mestre,<br/>"o caminho desta cruz?"</lines>
+      <lines>Respondemos com firmeza;<br/>"Seguiremos, sim, Jesus."</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Sim, seguiremos<br/>teus passos, Senhor,<br/>na vida ou morte,<br/>por onde for.</lines>
+      <lines>O compromisso<br/>contigo, ó Jesus,<br/>é sermos fiéis,<br/>andando em tua luz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">"Seguireis?", ainda o Mestre<br/>nos pergunta com dulçor.</lines>
+      <lines>Novamente asseguramos:<br/>"Seguiremos, ó Senhor!"</lines>
+    </verse>
+  </lyrics>
+</song>

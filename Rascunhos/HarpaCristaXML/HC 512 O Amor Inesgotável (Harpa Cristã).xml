@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:57">
+  <properties>
+    <titles>
+      <title>HC512 - O Amor Inesgotável</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O santo amor de Cristo, que não terá igual;<br/>A Sua vera graça, sublime e eternal,<br/>E a misericórdia imensa como o mar,<br/>A qual ao céu atinge, com gozo, hei de cantar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Como é inesgotável<br/>O amor de meu Jesus!<br/>Rico e inefável; nada é comparável<br/>Ao amor de meu Jesus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus andou no mundo, e o povo O procurou,<br/>E todas as angústias, sim, aos Seus pés deixou;<br/>E Seu amor brotava, qual rio divinal,<br/>Pujante, forte, imenso, sanando todo o mal.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Também, nos olhos cegos pôs uma nova luz,<br/>A luz que nos dá vida, que já brilhou na cruz;<br/>E deu também às almas, a glória de Seu ser,<br/>Ao implantar Sua graça, e Seu real poder.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O amor de Jesus Cristo, no mundo, é um fanal,<br/>Que marca vitorioso a senda do ideal;<br/>Embora passem os anos, é sempre eficaz,<br/>Precioso é dar à alma incomparável paz.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:59">
+  <properties>
+    <titles>
+      <title>HCC 529 A Grande Comissão</title>
+      <title>Marcos 16:9-14; Mateus 28:19,20; Marcos 16:19,20</title>
+    </titles>
+    <copyright>Marcos 16:9-14; Mateus 28:19,20; Marcos 16:19,20</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="529"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Havendo Jesus ressurgido cedo no primeiro dia da semana, apareceu (...) a Maria Madalena, da qual tinha expulsado sete demônios.<br/>Foi ela anunciá-lo aos que haviam andado com ele, os quais estavam tristes e chorando;<br/>e ouvindo eles que vivia, e que tinha sido visto por ela, não o creram.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Depois disso manifestou-se sob outra forma a dois deles que iam de caminho para o campo, os quais foram anunciá-lo aos outros;<br/>mas nem a estes deram crédito.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Por último, então, apareceu aos onze, e disse-lhes:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Portanto ide, fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo;<br/>ensinando-os a observar todas as coisas que eu vos tenho mandado;<br/>e eis que eu estou convosco todos os dias, até a consumação dos séculos.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O Senhor, depois de lhes ter falado, foi recebido no céu, e assentou-se à direita de Deus.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Eles, pois, saindo, pregaram por toda parte, cooperando com eles o Senhor.</lines>
+    </verse>
+  </lyrics>
+</song>

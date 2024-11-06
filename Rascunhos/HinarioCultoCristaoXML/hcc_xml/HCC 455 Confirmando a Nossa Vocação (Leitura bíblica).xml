@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:45">
+  <properties>
+    <titles>
+      <title>HCC 455 Confirmando a Nossa Vocação</title>
+      <title>2 Pedro 1:2-8, 10-12</title>
+    </titles>
+    <copyright>2 Pedro 1:2-8, 10-12</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="455"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Graça e paz vos sejam multiplicadas no pleno conhecimento de Deus e de Jesus, nosso Senhor;<br/>visto como o seu divino poder nos tem dado tudo o que diz respeito à vida e à piedade,<br/>pelo pleno conhecimento daquele que nos chamou por sua própria glória e virtude;<br/>pelas quais ele nos tem dado as suas preciosas e grandíssimas promessas,<br/>para que por elas vos torneis participantes da natureza divina, havendo escapado da corrupção que pela concupiscência há no mundo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E por isso mesmo vós, empregando toda a diligência, acrescentai à vossa fé a virtude, e à virtude a ciência, e à ciência o domínio próprio,<br/>e ao domínio próprio a perseverança, e à perseverança a piedade, e à piedade a fraternidade, e à fraternidade o amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Porque se em vós houver e abundarem estas coisas, elas não vos deixarão ociosos nem infrutíferos no pleno conhecimento de nosso Senhor Jesus Cristo.<br/>Portanto, irmãos, procurai mais diligentemente fazer firme a vossa vocação e eleição; porque, fazendo isto, nunca tropeçareis.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Porque assim vos será amplamente concedida a entrada no reino eterno do nosso Senhor e Salvador Jesus Cristo.<br/>Pelo que estarei sempre pronto para vos lembrar estas coisas, ainda que as saibais, e estejais confirmados na verdade que já está convosco.</lines>
+    </verse>
+  </lyrics>
+</song>

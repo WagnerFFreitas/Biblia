@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:00">
+  <properties>
+    <titles>
+      <title>HCC 240 Cristo, Nós Te Adoramos</title>
+      <title>Adore Thee</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Theodore Dubois</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="240"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Cristo, nós te adoramos,<br/>com gratidão te louvamos.<br/>Cristo, nós te adoramos,<br/>com gratidão te louvamos,</lines>
+      <lines>pois pela tua morte sobre a cruz<br/>remiste o mundo.<br/>Cristo, nós te adoramos,<br/>com gratidão te louvamos.<br/>Cristo, nós te adoramos.</lines>
+    </verse>
+  </lyrics>
+</song>

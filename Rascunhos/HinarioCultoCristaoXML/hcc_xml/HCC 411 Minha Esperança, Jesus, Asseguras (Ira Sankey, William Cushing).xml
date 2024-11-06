@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:33">
+  <properties>
+    <titles>
+      <title>HCC 411 Minha Esperança, Jesus, Asseguras</title>
+      <title>Under His Wings</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Ira Sankey</author>
+      <author>William Cushing</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="411"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Minha esperança, Jesus, asseguras,<br/>dando-me forças na luta feroz.</lines>
+      <lines>Firme em teu braço, eu alcanço as alturas,<br/>onde consigo escutar tua voz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Com tua paz, com teu poder,<br/>dá-me conforto e graça.</lines>
+      <lines>Todos os dias, em meu viver,<br/>tua vontade se faça.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Triste, procuro refúgio ao teu lado;<br/>volta-me a paz, o sossego me vem.</lines>
+      <lines>Quando na terra me achar desprezado,<br/>eu pensarei nessa pátria de além.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Quando cercar-me da morte a tristeza,<br/>finda a jornada do mundo cruel,</lines>
+      <lines>receberei lá no céu, com certeza,<br/>prêmio que dás ao teu servo fiel.</lines>
+    </verse>
+  </lyrics>
+</song>

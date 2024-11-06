@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:50">
+  <properties>
+    <titles>
+      <title>HM277 - Venturoso, O Justo</title>
+      <title>Venturoso o que não vaga</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Padre Antonio Pereira de Sousa Caldas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Venturoso o que não vaga<br/>Pela estrada criminosa<br/>Da impiedade, e a voz dolosa<br/>Do malvado que extravaga<br/>Com sorriso não afaga;<br/>Nem do vício corruptor<br/>Na cadeira pestilente<br/>Se assentou, com cego ardor;<br/>Antes posta sempre a mente<br/>Traz na lei do Criador!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Qual arbusto que, plantado<br/>Junto às águas da corrente,<br/>Com frescura permanente,<br/>Sempre está verde e copado,<br/>E, no tempo apropriado,<br/>Troca em fruto a tenra flor;<br/>Tal o justo que se esmera,<br/>Na lei santa do Senhor;<br/>Logo tudo lhe prospera,<br/>Tudo corre a seu sabor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Não assim a gente ímpia,<br/>Mas qual leve pó, que o vento<br/>Ergue e varre num momento,<br/>Pelos ares solto envia;<br/>É por isso que, no dia<br/>Do juízo se verão<br/>Maus e justos separados;<br/>Pois os maus perecerão,<br/>E aos fiéis, de glória armados<br/>O Senhor dará a mão.</lines>
+    </verse>
+  </lyrics>
+</song>

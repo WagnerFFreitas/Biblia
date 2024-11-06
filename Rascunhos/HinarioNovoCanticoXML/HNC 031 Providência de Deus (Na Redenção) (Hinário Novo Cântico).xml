@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:49">
+  <properties>
+    <titles>
+      <title>HNC 031 - Providência de Deus (Na Redenção)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c2</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="31"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó Deus, ó Providência, Sem ti não há viver!<br/>Vem dar-nos assistência do teu real poder!<br/>Tão-só em ti confiamos e em tua proteção,<br/>Pois só em ti achamos conforto e redenção.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ao homem Tu criaste, de ti vivo exemplar;<br/>Na terra o colocaste a fim de te louvar.<br/>Caído embora esteja, estendes tua mão,<br/>Na graça benfazeja da tua Redenção.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Em Cristo, o Filho amado, a tua graça vem<br/>Cobrir-nos o pecado e dar-nos todo o bem.<br/>Reais munificências gozamos nós, então,<br/>Nas ternas providências da tua redenção.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">És nosso Pai, ó Deus de amor!<br/>Teus filhos vêm aqui, também,<br/>Cantar louvor!<br/>Ao mundo renunciamos,<br/>Agora somos teus;<br/>E alegres proclamamos:<br/>“És o nosso Deus!”</tag>
+      </lines>
+    </verse>
+    <verse name="c2">
+      <lines>
+        <tag name="it">És nosso Pai, ó Deus de amor!<br/>Teus filhos vêm aqui, também,<br/>Cantar louvor!<br/>Ao mundo renunciamos,<br/>Agora somos teus;<br/>E alegres proclamamos:<br/>“És o nosso Deus!”<br/>Amém.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

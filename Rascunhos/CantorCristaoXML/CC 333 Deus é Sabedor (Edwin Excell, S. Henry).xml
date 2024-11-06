@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:53">
+  <properties>
+    <titles>
+      <title>CC 333 Deus é Sabedor</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Edwin Excell</author>
+      <author>S. Henry</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="333"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eu sei que Deus é sabedor<br/>do meu sofrer, da minha dor;<br/>mas sei também que o meu penar<br/>em gozo pode transformar,<br/>em gozo pode transformar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Meu Deus, meu Pai,<br/>meu Deus de tudo é sabedor,<br/>sim, Deus, meu Pai,<br/>vem minorar a minha dor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eu sei que Deus é sabedor<br/>que fui um grande pecador;<br/>mas, com poder e compaixão,<br/>livrou-me da destruição,<br/>livrou-me da destruição.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eu sei que Deus é sabedor<br/>das minhas faltas, meu temor;<br/>mas pronto está pra me valer,<br/>de todo o mal me proteger,<br/>de todo o mal me proteger.</lines>
+    </verse>
+  </lyrics>
+</song>

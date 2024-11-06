@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:09">
+  <properties>
+    <titles>
+      <title>HCC 286 Alvos Mais Que a Neve</title>
+      <title>Blessed Be The Fountain</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Eden Latta</author>
+      <author>Henry Perkins</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="286"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Seja bendito o Cordeiro<br/>que na cruz por nós padeceu!<br/>Seja bendito o seu sangue<br/>que por nós, pecadores, verteu!</lines>
+      <lines>Salvos do mal nós estamos,<br/>por tua graça e teu favor,<br/>pois que mais alvos que a neve<br/>o teu sangue nos torna, Senhor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Alvos mais que a neve,<br/>alvos mais que a neve,<br/>pois, em seu sangue lavados,<br/>nós temos perdão do Senhor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Foi espinhosa a coroa<br/>que Jesus por nós suportou;<br/>foram profundas as chagas<br/>que nos provam o quanto ele amou.</lines>
+      <lines>Há nessas chagas pureza<br/>para o indigno pecador,<br/>pois que mais alvos que a neve<br/>o teu sangue nos torna, Senhor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Se tudo a ti confessarmos<br/>e seguirmos na tua luz,<br/>tu não somente perdoas,<br/>purificas também, ó Jesus.</lines>
+      <lines>Lavas de todo pecado.<br/>Que maravilha esse amor!<br/>Pois que mais alvos que a neve<br/>o teu sangue nos torna, Senhor.</lines>
+    </verse>
+  </lyrics>
+</song>

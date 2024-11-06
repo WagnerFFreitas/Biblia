@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:39">
+  <properties>
+    <titles>
+      <title>HM219 - Ainda Há Lugar</title>
+      <title>Ainda há lugar! O régio Salvador</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ainda há lugar! O régio Salvador<br/>Ao seu palácio chama o pecador.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Vem, vem, ó vem!<br/>Ainda há no céu lugar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eis o convite, escuta a voz de Deus!<br/>Oh! Vinde a Cristo, vinde para os céus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hoje há lugar! Oh! Vence a hesitação!<br/>Pois, quem demora, arrisca a salvação.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A porta breve tem de se fechar<br/>E então a voz: Não mais podeis entrar!</lines>
+    </verse>
+  </lyrics>
+</song>

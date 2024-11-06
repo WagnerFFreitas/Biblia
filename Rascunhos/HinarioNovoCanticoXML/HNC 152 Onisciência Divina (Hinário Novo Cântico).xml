@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:54">
+  <properties>
+    <titles>
+      <title>HNC 152 - Onisciência Divina</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="152"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu me sondaste a mim, ó Deus,<br/>Não há segredo aos olhos teus!<br/>Prevês por onde quero andar,<br/>E sabes como vou falar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Contempla Tu meu interior!<br/>Quem compreenderá, Senhor,<br/>Tua ciência e o teu poder?<br/>Pois infinito é teu saber.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nas trevas e na clara luz<br/>A mão divina me conduz!<br/>E se fugindo acaso vou,<br/>Por teu poder cercado estou.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó Deus da minha salvação,<br/>Vem dominar meu coração;<br/>Vem controlar o meu sentir,<br/>E minha vida conduzir. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

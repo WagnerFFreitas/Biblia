@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:49:02">
+  <properties>
+    <titles>
+      <title>HNC 327 - Obreiros Cristãos</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="327"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aqui reunidos, queremos, ó Deus,<br/>À causa da Igreja servir.<br/>Na santa seara, a nós, servos teus,<br/>Oh! Mostra, Senhor, como agir.<br/><tag name="it">Aos teus mensageiros, oh! Vem, Salvador,<br/>Tornar cada vez mais fiéis!<br/>E dá-lhes amparo e sustendo, Senhor,<br/>Em tempos tão maus e cruéis.</tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nas lutas, liberta-os de toda paixão<br/>E dá-lhes o amor eficaz,<br/>O amor que congraça, que faz a união,<br/>O amor do "Evangelho da Paz".<br/><tag name="it">De vis preconceitos e impulsos carnais<br/>Vem sempre os teus servos guardar,<br/>Unindo-os no afeto de amigos leais,<br/>Fazendo-os em paz trabalhar.</tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh! Dá às mensagens mais alto poder;<br/>A todas inspira na cruz!<br/>Senhor, aos teus servos concede o saber,<br/>Mais fé, mais lampejos de luz!<br/><tag name="it">Dos falsos obreiros a astúcia do mal<br/>Afasta, Senhor, com poder.<br/>E à boa semente do santo trigal<br/>Permite nascer e crescer. Amém.</tag></lines>
+    </verse>
+  </lyrics>
+</song>

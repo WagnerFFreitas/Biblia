@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:51">
+  <properties>
+    <titles>
+      <title>HNC 066 - Contrição</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="66"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sonda-me, ó Deus, o coração;<br/>Sonda-me, ó Deus, o coração;<br/>Prova e conhece os meus pensamentos;<br/>Prova e conhece os meus pensamentos;<br/>Vê se em mim há algum mau caminho.<br/>Sonda-me, conhece-me<br/>E prova-me, ó Deus!</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Conhece-me o coração,<br/>Conhece-me o coração,<br/>Guia-me, Senhor,<br/>Guia-me, Senhor,<br/>E mostra o caminho,<br/>E guia meus passos,<br/>Guia meus passos,<br/>Ó meu Salvador. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

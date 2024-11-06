@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:03">
+  <properties>
+    <titles>
+      <title>HM341 - Segurança e Alegria</title>
+      <title>Que segurança! Tenho em Jesus,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>George Benjamin Nind</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Que segurança! Tenho em Jesus,<br/>Pois nele gozo paz, vida e luz!<br/>Com Cristo Herdeiro, Deus me aceitou,<br/>Mediante o Filho, que me salvou.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Conto esta históriam cantando assim:<br/>Na Cruz foi Cristo morto por mim!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Inteiramente me submeti;<br/>Plena alegria nele senti.<br/>Anjos descendo, trazem dos Céus<br/>Provas da graça que vem de Deus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Firmado em Cristo, no seu amor,<br/>Estou contente em meu Salvador;<br/>Esperançoso, hei de viver,<br/>Por Jesus Cristo, por seu poder!</lines>
+    </verse>
+  </lyrics>
+</song>

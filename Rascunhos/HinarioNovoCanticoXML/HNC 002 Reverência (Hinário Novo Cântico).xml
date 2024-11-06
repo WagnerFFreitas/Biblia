@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:48">
+  <properties>
+    <titles>
+      <title>HNC 002 - Reverência</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Senhor está no seu santo templo,<br/>O Senhor está no seu santo templo!<br/>Cale-se diante dele toda a terra,<br/>Cale-se diante dele toda a terra!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:42">
+  <properties>
+    <titles>
+      <title>HCC 138 Vinde Vós, Fiéis, Cantar</title>
+      <title>St. Kevin</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Arthur Sullivan</author>
+      <author>João Damasceno</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="138"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Vinde vós, fiéis, cantar<br/>triunfantemente;<br/>Deus seu povo libertou<br/>poderosamente.</lines>
+      <lines>Oh, cantai em alta voz,<br/>com amor profundo!<br/>Proclamai que ressurgiu<br/>o Senhor do mundo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Têm as almas redenção<br/>e, em Jesus, guarida;<br/>ressurgiu o Redentor,<br/>vossa luz e vida.</lines>
+      <lines>Foge o inverno, a dor cruel,<br/>do pecado a treva;<br/>redimidos por Jesus,<br/>ele ao céu vos leva.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Aleluia! Louvareis<br/>ao Senhor amado,<br/>Salvador, Deus imortal,<br/>já ressuscitado.</lines>
+      <lines>Aleluia! Exultai<br/>com fervor divino.<br/>Aleluia! Glória dai<br/>ao Deus uno e trino.</lines>
+    </verse>
+  </lyrics>
+</song>

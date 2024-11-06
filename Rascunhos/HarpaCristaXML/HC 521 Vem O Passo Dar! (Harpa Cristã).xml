@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:59">
+  <properties>
+    <titles>
+      <title>HC521 - Vem O Passo Dar!</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Com teu pecado vem já p'ra Jesus,<br/>Ele te quer perdoar,<br/>Deixa as trevas, vem já para a luz;<br/>Vem tua vida salvar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Vem! Vem! Vem o passo dar!<br/>Vem teu coração entregar;<br/>Vem já dizer: "Jesus me salvou,<br/>Do meu pecado limpo estou".</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Contra o pecado outra fonte não há,<br/>Só Jesus pode limpar;<br/>Dos teus temores e culpas, vem já<br/>NEle te refugiar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh! Que oferta por ti fez Jesus,<br/>Para te purificar!<br/>Deu o Seu sangue no alto da cruz;<br/>Vem tua alma lavar!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vem dar o passo, sem hesitação,<br/>Jesus te que pedoar;<br/>Agora mesmo toma a salvação<br/>Vem tua vida salvar.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:44">
+  <properties>
+    <titles>
+      <title>CC 571 Morte do Crente</title>
+      <title>There's A Land</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Letra anônima</author>
+      <author>Joseph Webster</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="571"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Para o crente, o morrer é cessar<br/>do trabalho, cessar de gemer;</lines>
+      <lines>é com Cristo Jesus repousar,<br/>sim, é principiar a viver.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Pra gozar com Jesus,<br/>à morada de Deus eu irei;</lines>
+      <lines>vou viver com Jesus,<br/>e a coroa de vida terei.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">O morrer é do mundo voar;<br/>o morrer é pra Cristo subir;</lines>
+      <lines>o morrer é com Cristo habitar;<br/>o morrer é pra a glória partir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">É sentir uma dita sem par,<br/>é ter parte na bênção dos céus,</lines>
+      <lines>é prazeres celestes gozar,<br/>é chegar à morada de Deus.</lines>
+    </verse>
+  </lyrics>
+</song>

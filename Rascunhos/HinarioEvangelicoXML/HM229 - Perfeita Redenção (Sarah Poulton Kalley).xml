@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:41">
+  <properties>
+    <titles>
+      <title>HM229 - Perfeita Redenção</title>
+      <title>Livres do medo, oh! Ditoso estado!</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Livres do medo, oh! Ditoso estado!<br/>Cristo morreu, levando o pecado,<br/>Eis o resgate - o pacto se fez,<br/>Fomos remidos de uma vez!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>De uma vez, cristão, acredita!<br/>No Salvador tens sorte bendita!<br/>Cristo na cruz a Lei satisfez<br/>E redimiu-nos de uma vez!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ao malfeitor, que a pena merece,<br/>Vida e perdão Jesus oferece.<br/>Graça recebe, sem timidez,<br/>Cristo te acolhe de uma vez!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>"Filhos de Deus!" - favor inaudito!<br/>Deus nos amou em grau infinito.<br/>Nesta clemência não há dobrez:<br/>Há segurança de uma vez!</lines>
+    </verse>
+  </lyrics>
+</song>

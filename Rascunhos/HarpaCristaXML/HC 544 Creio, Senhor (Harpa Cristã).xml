@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:56:03">
+  <properties>
+    <titles>
+      <title>HC544 - Creio, Senhor</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cristo Jesus, o sangue teu,<br/>Teu grande amor e retidão<br/>São para mim glorioso véu<br/>A me cobrir com teu perdão.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Creio, Senhor, na redenção<br/>Dada na cruz ao pecador,<br/>Que resgatou da perdição<br/>Meu pobre ser, por santo amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Creio, Senhor, que nunca mais<br/>Mal há de entrar no lar do Além,<br/>Que, pela cruz, os imortais<br/>Desfrutarão o eterno bem.</lines>
+    </verse>
+  </lyrics>
+</song>

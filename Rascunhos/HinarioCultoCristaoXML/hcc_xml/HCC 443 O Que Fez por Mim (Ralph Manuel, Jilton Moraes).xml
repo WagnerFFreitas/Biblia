@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:42">
+  <properties>
+    <titles>
+      <title>HCC 443 O Que Fez por Mim</title>
+      <title>Encontrado</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Ralph Manuel</author>
+      <author>Jilton Moraes</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="443"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Perdido, eu andava nas trevas,<br/>té que a luz de Jesus encontrei.</lines>
+      <lines>Estendeu sua mão, deu-me ajuda,<br/>direção nele então eu achei.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">O que fez por mim,<br/>também quer fazer por ti.<br/>É só nele crer e aceitá-lo pela fé</lines>
+      <lines>e vida nova tu hás de receber,<br/>seguindo os passos<br/>do Mestre em teu viver.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Aflito, sem rumo, eu vivia,<br/>té que a voz de Jesus eu ouvi,</lines>
+      <lines>me dizendo palavras de vida.<br/>Nele cri, sua paz recebi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Tão triste e oprimido me achava,<br/>tendo o fardo da vida a levar,</lines>
+      <lines>mas Jesus me falou com ternura<br/>e me deu alegria sem par!</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Em paz e contente hoje vivo<br/>porque Cristo Jesus me encontrou.</lines>
+      <lines>É por isso que eu canto louvores<br/>a Jesus, que do mal me salvou.</lines>
+    </verse>
+  </lyrics>
+</song>

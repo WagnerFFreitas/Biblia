@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:30">
+  <properties>
+    <titles>
+      <title>CC 504 Lá no Céu</title>
+      <title>Home Over There</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c2 v3 c3 v4 c4</verseOrder>
+    <authors>
+      <author>Tullius O'Kane</author>
+      <author>DeWitt Huntington</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="504"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Há um lar mui feliz lá no céu,<br/>onde não há tristeza nem dor,</lines>
+      <lines>onde os salvos irão habitar,<br/>na presença do seu Salvador.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Lá no céu, lá no céu;<br/>há um lar mui feliz lá no céu.</lines>
+      <lines>Lá no céu, lá no céu;<br/>há um lar mui feliz lá no céu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Tenho amigos fiéis lá no céu,<br/>que desfrutam o gozo na luz;</lines>
+      <lines>já venceram os males daqui<br/>e lá cantam louvor a Jesus.</lines>
+    </verse>
+    <verse name="c2">
+      <lines break="optional">Lá no céu, lá no céu;<br/>tenho amigos fiéis lá no céu!</lines>
+      <lines>Lá no céu, lá no céu;<br/>tenho amigos fiéis lá no céu!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Eu também vou viver lá no céu;<br/>e hei de ver quem me deu salvação.</lines>
+      <lines>Não demora o momento de eu ir<br/>e morar lá naquela mansão.</lines>
+    </verse>
+    <verse name="c3">
+      <lines break="optional">Lá no céu, lá no céu;<br/>eu também vou viver lá no céu;</lines>
+      <lines>lá no céu, lá no céu;<br/>eu também vou viver lá no céu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Nesse lar tão feliz lá no céu,<br/>nunca o mal poderá penetrar;</lines>
+      <lines>só há glória, pureza e prazer,<br/>onde os salvos por Cristo hão de entrar.</lines>
+    </verse>
+    <verse name="c4">
+      <lines break="optional">Lá no céu, lá no céu;<br/>nesse lar tão feliz lá no céu,</lines>
+      <lines>lá no céu, lá no céu;<br/>nesse lar tão feliz lá no céu.</lines>
+    </verse>
+  </lyrics>
+</song>

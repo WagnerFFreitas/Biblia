@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:49:01">
+  <properties>
+    <titles>
+      <title>HNC 304 - A Voz do Evangelho</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="304"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>A voz do Evangelho<br/>Já se fez ouvir aqui,<br/>Publicando, em som, alegre,<br/>O que Deus já fez por Ti.<br/>Pois tanto ao mundo amou,<br/>E ao perdido pecador,<br/>Que do céu lhe deu Seu Filho<br/>Para ser Seu Redentor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A voz do Evangelho<br/>Segurança, vida e paz,<br/>É o amor de Jesus Cristo<br/>Que o perdão de Deus nos traz.<br/>As novas se nos dão<br/>De haver um Salvador,<br/>Poderoso e mui bondoso<br/>Que perdoa o pecador.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A voz do Evangelho<br/>Vem a todos avisar<br/>Do perigo, grande e grave,<br/>Para quem se descuidar.<br/>Salvai-vos desde já,<br/>Não vos detenhais no mal,<br/>Cobiçando os seus prazeres,<br/>Pois vos pode ser fatal.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Santa paz e perdão,<br/>É a nova lá dos céus!<br/>Santa paz e perdão,<br/>Bendito o nosso Deus!</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

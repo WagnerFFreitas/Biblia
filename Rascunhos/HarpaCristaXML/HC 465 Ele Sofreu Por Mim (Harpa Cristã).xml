@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:47">
+  <properties>
+    <titles>
+      <title>HC465 - Ele Sofreu Por Mim</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eu li que Jesus fora preso;<br/>De dor a minh'alma vibrou;<br/>Eu antes assim não sentia,<br/>Agora isto a mim empolgou,<br/>Eu li que Ele foi conduzido<br/>À corte de Jerusalém;<br/>Ali padeceu grande afronta,<br/>Foi c'roado de espinhos também.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Eu sei que eu era culpado,<br/>Mas Ele sofreu já por mim;<br/>Eu sei que Ele era inocente,<br/>Padecendo tudo assim.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eu li que Jesus foi julgado;<br/>U'a cruz mui pesada levou,<br/>E nela, por mim expirando,<br/>Os meus vis pecados tomou;<br/>Enquanto na cruz, pendurado,<br/>U'a lança Seu lado furou;<br/>Na esponja Lhe deram vinagre,<br/>E Ele, por mim, o tragou</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Depois José de Arimatéia<br/>E outros discípulos também<br/>Puseram-No, em um sepulcro,<br/>E os guardas vigiavam bem;<br/>Enquanto no mundo, Ele disse,<br/>Que havia de ressuscitar,<br/>E Deus fez então um milagre,<br/>Fazendo-O dos mortos tornar!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Os guardas ainda vigiavam,<br/>Quando um anjo veio do céu,<br/>E a pedra que estava na porta,<br/>Com grande poder removeu;<br/>Depressa os laços caíram;<br/>O plano de Deus era assim;<br/>E a luz e a vida resplendem,<br/>E isto foi tudo por mim!</lines>
+    </verse>
+  </lyrics>
+</song>

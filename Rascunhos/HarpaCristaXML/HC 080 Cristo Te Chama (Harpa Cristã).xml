@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:42">
+  <properties>
+    <titles>
+      <title>HC080 - Cristo Te Chama</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cristo te chama, a ti pecador,<br/>Te chama a ti, com voz de amor;<br/>Deixa os pecados, e vem ao Senhor.<br/>Cristo te chama a ti!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cristo te chama, te chama a ti!<br/>Cristo te chama, ó vem pecador!<br/>Cristo te chama com voz de amor.<br/>Cristo te chama a ti!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Deixa as sendas do mundo d'horror,<br/>Vem a Jesus, vem com amor;<br/>Cristo te salva, ó vem, pecador;<br/>Cristo te chama a ti!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cristo glorioso virá com poder;<br/>Pronto estás para ascender?<br/>Só por Seu sangue tu podes vencer.<br/>Cristo te chama a ti!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A compassiva voz do Salvador,<br/>Chama-te já com santo amor;<br/>Vem para a fonte, ó vem pecador,<br/>Cristo te chama a ti!</lines>
+    </verse>
+  </lyrics>
+</song>

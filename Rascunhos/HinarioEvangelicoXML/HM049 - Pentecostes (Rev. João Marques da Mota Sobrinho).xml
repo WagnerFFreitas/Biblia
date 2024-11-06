@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:09">
+  <properties>
+    <titles>
+      <title>HM049 - Pentecostes</title>
+      <title>Ó Fonte eterna do saber,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. João Marques da Mota Sobrinho</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó Fonte eterna do saber,<br/>Os corações vem hoje encher,<br/>Que teu conselho ouçamos.<br/>Vem ensinar-nos como andar,<br/>Como ao bom Deus se deve amar.<br/>Que a vida consigamos.<br/>Vem, consola<br/>Os remidos;<br/>Os perdidos<br/>Torna-os crentes<br/>E renova suas mentes.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O teu vigor, consolações<br/>Derrama em nossos corações.<br/>Que fortes nos tornemos,<br/>E sob a tua proteção<br/>Vençamos sempre na aflição.<br/>Que o mal nós dominemos!<br/>A divina<br/>Pura graça<br/>Nos refaça,<br/>Consolados,<br/>Na tristeza confortados!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó Rocha firme em bravo mar,<br/>Em nossas almas vem gravar<br/>O Verbo teu bendito;<br/>Que nos lembremos com fervor<br/>De teu ensino, teu amor<br/>Ao coração aflito.<br/>Manda sempre<br/>Luz aos crentes;<br/>Que, contentes,<br/>Cristo achemos,<br/>Como Salvador o amemos.</lines>
+    </verse>
+  </lyrics>
+</song>

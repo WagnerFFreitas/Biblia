@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:56">
+  <properties>
+    <titles>
+      <title>HNC 193 - Aspiração do Céu</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="193"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vou à Pátria – eu, peregrino -,<br/>A viver eternamente com Jesus,<br/>Que concedeu-me feliz destino<br/>Quando, ferido, por mim morreu na cruz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dor e pena, tristeza e morte<br/>Lá no céu jamais o salvo encontrará!<br/>e desfrutando de Cristo a sorte,<br/>Eternamente a Deus exaltará.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Terra santa, formosa e pura,<br/>Salvo por Jesus eu entrarei em ti;<br/>Felicidade, paz e ventura,<br/>Perfeitamente desfrutarei ali.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Vou à pátria – eu, peregrino -,<br/>A viver eternamente com Jesus!<br/>Vou à Pátria –eu, peregrino -,<br/>A viver eternamente com Jesus!</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

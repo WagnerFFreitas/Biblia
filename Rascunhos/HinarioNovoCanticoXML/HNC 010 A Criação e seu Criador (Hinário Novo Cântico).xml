@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:49">
+  <properties>
+    <titles>
+      <title>HNC 010 - A Criação e seu Criador</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vós, criaturas de Deus Pai,<br/>Todos erguei a voz, cantai!<br/>Oh! Louvai-o! Aleluia!<br/>Tu, sol dourado a refulgir,<br/>Tu, lua em prata a reluzir,<br/>Oh! Louvai-o! Oh! Louvai-o!<br/>Aleluia! Aleluia! Aleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh! Boa terra que nos dás<br/>Infindas bênçãos, canta já!<br/>Oh! Louvai-o! Aleluia!<br/>Frutos e flores, juntos dai<br/>A glória a Deus, Senhor e Pai.<br/>Oh! Louvai-o! Oh! Louvai-o!<br/>Aleluia! Aleluia! Aleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vós, homens sábios e de bem,<br/>A todos proclamai também!<br/>Oh! Louvai-o! Aleluia!<br/>Louvor ao Filho, glória ao Pai,<br/>E ao Santo Espírito louvai!<br/>Oh! Louvai-o! Oh! Louvai-o!<br/>Aleluia! Aleluia! Aleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:37">
+  <properties>
+    <titles>
+      <title>HC042 - Saudai Jesus</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Saudai o nome de Jesus!<br/>Arcanjos, vos prostai;<br/>Arcanjos, vos prostai;<br/>Ao Filho do eterno Deus,<br/>Com glória, glória,<br/>Glória, glória,<br/>Com glória, coroai!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó escolhida geração<br/>Do bom eterno Pai,<br/>Do bom eterno Pai;<br/>Ao grande autor da salvação,<br/>Com glória, glória,<br/>Glória, glória,<br/>Com glória, coroai!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó perdoados, cujo amor<br/>Bem triunfante vai,<br/>Bem triunfante vai,<br/>Ao Deus Varão, Conquistador,<br/>Com glória, glória,<br/>Glória, glória,<br/>Com glória, coroai!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó raças, tribos e nações,<br/>Ao Rei dos reis honrai!<br/>Ao Rei dos reis honrai!<br/>A quem quebrou vossos grilhões,<br/>Com glória, glória.<br/>Glória, glória,<br/>Com glória, coroai!</lines>
+    </verse>
+  </lyrics>
+</song>

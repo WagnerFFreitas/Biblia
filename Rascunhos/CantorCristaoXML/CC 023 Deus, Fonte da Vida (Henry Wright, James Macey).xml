@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:41:50">
+  <properties>
+    <titles>
+      <title>CC 023 Deus, Fonte da Vida</title>
+      <title>Hanford</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Henry Wright</author>
+      <author>James Macey</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="023"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó Deus, do céu, da terra e mar,<br/>humildes vimos Te adorar;<br/>o teu amor, sim, celebrar,<br/>que tudo dás.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A luz benigna, a luz solar,<br/>a brisa branda e salutar,<br/>que vem a tudo renovar.<br/>Sim, tudo dás.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A verde relva, a linda flor,<br/>de ricos frutos o penhor,<br/>proclamam teu constante amor.<br/>Sim, tudo dás.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tu, por um mundo pecador<br/>Teu Filho deste, o Salvador;<br/>com ele tudo dás, Senhor.<br/>Sim, tudo dás.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dás vida aos mortos e perdão,<br/>dás aos perdidos salvação,<br/>de paz enchendo o coração.<br/>Sim, tudo dás.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Pureza dás e dás poder,<br/>a graça que nos é mister,<br/>por ti viver, por ti morrer.<br/>Sim, tudo dás.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ensina-nos, Senhor, a amar,<br/>ensina-nos, Senhor, a dar,<br/>e a ti a vida consagrar.<br/>Pois tudo dás.</lines>
+    </verse>
+  </lyrics>
+</song>

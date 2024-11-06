@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:33">
+  <properties>
+    <titles>
+      <title>HM186 - Submissão a Cristo</title>
+      <title>Meu corpo, vida e alma</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Dr. João Gomes da Rocha</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Meu corpo, vida e alma<br/>Devolvo a ti, Senhor!<br/>Minha oblação inteira,<br/>Segundo o teu favor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Agora, de hoje em diante,<br/>Meu amo és tu, Jesus!<br/>Conduze-me em teus passos,<br/>Benigna e clara luz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh! Redentor ilustre!<br/>Espero em teu poder;<br/>Consagro ao teu serviço<br/>Minha alma e todo o ser!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Esquece o meu pecado,<br/>Concede-me perdão;<br/>Que eu seja puro e santo,<br/>Ó sol da retidão!</lines>
+    </verse>
+  </lyrics>
+</song>

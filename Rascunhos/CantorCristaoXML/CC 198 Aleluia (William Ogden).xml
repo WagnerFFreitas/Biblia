@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:25">
+  <properties>
+    <titles>
+      <title>CC 198 Aleluia</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>William Ogden</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="198"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">A mensagem do Senhor; aleluia!<br/>É cheia de perdão e amor!</lines>
+      <lines>Cristo salva o pecador; aleluia!<br/>Salva até por meio de um olhar!</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Oh! olhai pois, e vivei!<br/>Confiai só em Jesus!</lines>
+      <lines>Ele salva o pecador; aleluia!<br/>Salva até por meio de um olhar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Vossa culpa já levou; aleluia!<br/>Jesus a satisfez na cruz;</lines>
+      <lines>sua vida já entregou; aleluia!<br/>Para vos apresentar a Deus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Sua graça nos legou; aleluia!<br/>Eterna vida lá nos céus.</lines>
+      <lines>Confiai só em Jesus; aleluia!<br/>Convertei-vos hoje mesmo a Deus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Aceitai a salvação; aleluia!<br/>Segui os passos do Senhor;</lines>
+      <lines>proclamai o seu perdão; aleluia!<br/>Exaltai o grande Redentor!</lines>
+    </verse>
+  </lyrics>
+</song>

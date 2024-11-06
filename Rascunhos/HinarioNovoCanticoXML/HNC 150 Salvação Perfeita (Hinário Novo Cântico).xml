@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:54">
+  <properties>
+    <titles>
+      <title>HNC 150 - Salvação Perfeita</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="150"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Livres do medo! Já resgatados!<br/>Cristo morreu por nossos pecados!<br/>Na sua cruz o pacto se fez,<br/>Fomos remidos de uma vez.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ao malfeitor, que a pena merece,<br/>Vida, perdão e paz oferece.<br/>Vem a Jesus com santa avidez<br/>Pois te recebe de uma vez!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Graça real! Não há mais castigo!<br/>Não mais temor, nem sombra ou perigo!<br/>Vestes reais, não triste nudez,<br/>Cristo enriquece de uma vez!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>“Filhos de Deus” – Oh! Gozo inaudito!<br/>Deus nos amou em grau infinito.<br/>Nesta clemência não há dobrez,<br/>Há segurança de uma vez!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Sim, de uma vez! Amigo, acredita,<br/>No Salvador tens sorte bendita!<br/>Cristo, na cruz, a Lei satisfez<br/>E redimiu-nos de uma vez!</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

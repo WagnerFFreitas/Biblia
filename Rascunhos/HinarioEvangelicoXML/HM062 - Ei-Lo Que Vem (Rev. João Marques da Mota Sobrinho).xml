@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:11">
+  <properties>
+    <titles>
+      <title>HM062 - Ei-Lo Que Vem</title>
+      <title>Entre nuvens multicores,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. João Marques da Mota Sobrinho</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Entre nuvens multicores,<br/>Com os santos, vem do céu,<br/>Quem, amando os pecadores,<br/>Morte atroz na cruz sofreu.<br/>Aleluia! Cristo volta!<br/>Ele reina, pois venceu!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Todos hão de vê-lo agora,<br/>Porque em glória vai descer.<br/>Mesmo aqueles que, em má hora,<br/>O fizeram padecer,<br/>Abatidos, consternados,<br/>O Messias tem de ver!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vem festiva, num momento,<br/>A esperada redenção.<br/>Cessa todo sofrimento!<br/>Queixas, mágoas, longe vão!<br/>Aleluia! Principia<br/>A total renovação!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Que todo o orbe, respeitoso,<br/>Te honre e louve, Salvador,<br/>Ante o trono glorioso,<br/>Se prosterne, com amor!<br/>Toma posse de teu reino.<br/>Aleluia! Vem, Senhor!</lines>
+    </verse>
+  </lyrics>
+</song>

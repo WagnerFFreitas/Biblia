@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:54">
+  <properties>
+    <titles>
+      <title>HC495 - Cristo À Porta Está</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus Cristo à porta está;<br/>Bate sempre para entrar;<br/>Se ouvires abre já;<br/>Abre o coração.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Abre o coração!<br/>Abre o coração!<br/>Jesus quer te libertar;<br/>Abre o coração!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus bate ainda lá<br/>E, se não abrires já,<br/>Ele triste voltará;<br/>Abre o coração!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus bate, abre já,<br/>Abre, sim, ó pecador!<br/>O Juízo à porta está;<br/>Abre o coração!</lines>
+    </verse>
+  </lyrics>
+</song>

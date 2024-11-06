@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:13">
+  <properties>
+    <titles>
+      <title>HCC 309 O Senhor Concede Salvação</title>
+      <title>Salmos 85:7-9</title>
+    </titles>
+    <copyright>Salmos 85:7-9</copyright>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="309"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mostra-nos, Senhor, a tua benignidade, e concede-nos a tua salvação.<br/>Escutarei o que Deus, o Senhor, disser;<br/>porque falará de paz ao seu povo, e aos seus santos, contanto que não voltem à insensatez.<br/>Certamente que a sua salvação está perto daqueles que o temem.</lines>
+    </verse>
+  </lyrics>
+</song>

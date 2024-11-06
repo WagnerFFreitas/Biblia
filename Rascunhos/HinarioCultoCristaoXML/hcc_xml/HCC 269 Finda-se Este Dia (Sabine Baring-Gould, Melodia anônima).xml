@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:25:40">
+  <properties>
+    <titles>
+      <title>HCC 269 Finda-se Este Dia</title>
+      <title>Lyndhurst</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Sabine Baring-Gould</author>
+      <author>Melodia anônima</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="269"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Finda-se este dia<br/>que meu Pai me deu,<br/>sombras vespertinas<br/>cobrem já o céu.</lines>
+      <lines>Ó Jesus bendito,<br/>se comigo estás,<br/>eu não temo a noite,<br/>vou dormir em paz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Com os meus pecados<br/>eu te entristeci,<br/>mas perdão te peço<br/>por amor de ti.</lines>
+      <lines>Sou humano e fraco,<br/>livra-me do mal,<br/>e em sossego tenho<br/>sono e paz real.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pelos pais e amigos,<br/>pela santa lei,<br/>pelo amor que salva,<br/>graças te darei.<br/>Ó Jesus, aceita<br/>minha petição,<br/>e seguro durmo,<br/>sem perturbação. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

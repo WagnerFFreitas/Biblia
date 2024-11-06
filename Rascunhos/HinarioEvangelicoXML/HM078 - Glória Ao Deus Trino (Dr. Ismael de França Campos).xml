@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:13">
+  <properties>
+    <titles>
+      <title>HM078 - Glória Ao Deus Trino</title>
+      <title>Excelso Deus, Senhor da Eternidade,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Dr. Ismael de França Campos</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Excelso Deus, Senhor da Eternidade,<br/>Eterno Pai, que tudo fazes bem;<br/>Ó Grande Rei! De luz e majestade<br/>Encheste os céus que as tuas mãos sustém!<br/>A criação proclama a tua glória,<br/>As santas leis e teu divino amor,<br/>Enquanto entoam hinos de vitória,<br/>Os coros de anjos, dando-te louvor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, a ti pertence a divindade;<br/>Do Criador o Verbo és tu, e a Lei;<br/>Na cruz morreste pela humanidade,<br/>Mas ressurgiste, Onipotente Rei!<br/>Coroa, trono, glórias tu deixaste,<br/>Ó Redentor! Quiseste a expiação.<br/>Escuta as vozes de quem tu salvaste:<br/>São aleluias pela redenção!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dos altos céus, Espírito Divino,<br/>O Pão és tu, Insigne Instruidor.<br/>Ao teu clarão, nosso eternal destino<br/>E nossa fé rebrilham com fulgor.<br/>Oh! Aleluia! A Glória celebremos,<br/>Do trino Deus na excelsitude além;<br/>E a ti, Senhor, as faltas confessamos.<br/>Vem perdoar, vem conduzir. Amém!</lines>
+    </verse>
+  </lyrics>
+</song>

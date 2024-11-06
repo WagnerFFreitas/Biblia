@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:41">
+  <properties>
+    <titles>
+      <title>HM230 - Ei-lo à Porta</title>
+      <title>Batem, batem... Quem será?</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Batem, batem... Quem será?<br/>Sempre, sempre, sempre, lá!<br/>Um estranho majestoso,<br/>Jamais houve dele igual!<br/>Ah! Minha alma! Não retardes<br/>Em abrir-lhe o teu portal!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Batem, batem... Quem será?<br/>Sempre, sempre, sempre, lá!<br/>Emperrada e rija a porta,<br/>Mui custosa de se abrir;<br/>Pois pecaods, arraigados,<br/>Teimam sempre em resistir!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Batem, Batem... Quem será?<br/>Sempre, sempre, sempre, lá!<br/>Bate sempre a mão ferida,<br/>E com paciente amor,<br/>Teu descuido lastimando,<br/>Ainda espera o Salvador.</lines>
+    </verse>
+  </lyrics>
+</song>

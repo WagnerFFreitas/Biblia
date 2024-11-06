@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:28">
+  <properties>
+    <titles>
+      <title>HM448 - Uma Fonte Carmesim</title>
+      <title>Há uma fonte carmesim</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Maria da Glória Loureiro de Andrade</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Há uma fonte carmesim<br/>Que meu Jesus abriu,<br/>No dia em que na Cruz por mim<br/>Morreu e me remiu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Eu creio, sim, eu creio,<br/>Jesus por mim morreu;<br/>Foi sobre a Cruz, com grande amor,<br/>Que Cristo padeceu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E desde que por seu amor<br/>Seu trilho me apontou,<br/>Confio nele, com fervor,<br/>Pois que me resgatou.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Por tua morte sobre a cruz,<br/>Terei vida imortal;<br/>Contigo, enfim, ó meu Jesus,<br/>Em glória celestial!</lines>
+    </verse>
+  </lyrics>
+</song>

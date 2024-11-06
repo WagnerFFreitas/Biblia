@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:58">
+  <properties>
+    <titles>
+      <title>HC519 - Achei Jesus, Meu Salvador</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Achei Jesus, o meu Salvador,<br/>De amor fiel, veraz;<br/>Não cessarei de Lhe dar louvor,<br/>Pois tenho a salvação e paz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Salvo por Cristo sou,<br/>Salvo por quem me amou!<br/>Perfeita paz, Ele agora me traz,<br/>Porque salvo estou!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vem me guardar Sua forte mão,<br/>De todo o vício e mal;<br/>Vencendo vou cada tentação;<br/>Sustém-me o braço divinal.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus me achou, tão aflito e mal,<br/>Sem ter consolação;<br/>Chamou-me a Si, com amor real;<br/>Cheguei-me e achei a salvação.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Da morte eterna me resgatou,<br/>Da dura escravidão;<br/>Na rocha eterna seguro estou;<br/>Cantando vou, com gratidão.</lines>
+    </verse>
+  </lyrics>
+</song>

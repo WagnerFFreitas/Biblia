@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:58">
+  <properties>
+    <titles>
+      <title>HM325 - Mais Perto da Tua Cruz</title>
+      <title>Meu Senhor, sou teu, tua voz ouvi</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Henry Maxwell Wright</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Meu Senhor, sou teu, tua voz ouvi<br/>A chamar-me com amor;<br/>Mas de ti mais perto eu desejo estar<br/>Ó bendito Salvador!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mais perto da tua cruz<br/>Quero estar, ó Salvador!<br/>Mais perto da tua cruz<br/>Quem me dera estar, Senhor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A seguir-te agora eu me decidi,<br/>Constrangido pelo amor;<br/>Jubiloso, pois, me declaro teu,<br/>Sem reservas, meu Senhor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Que delícias santas irei fruir<br/>Junto a ti, no doce lar;<br/>Que alegria imensa eu poder no céu<br/>O teu rosto contemplar!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-12-24T13:32:28">
+  <properties>
+    <titles>
+      <title>HNC 338 - Dia da Profissão de Fé</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="338"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Salve, dia de festa e canto,<br/>Quando venho a fé professar<br/>Em Deus Pai, no Espírito Santo<br/>E em Jesus que me veio salvar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Salve, tempo que evoca o passado,<br/>Quando a mão do meu Deus me tomou!<br/>Ele, amigo sem par, ao meu lado<br/>Com amor fraternal me guiou!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Salve, data de alegre memória,<br/>De convívio, de amor fraternal!<br/>Salve, dia em que canto vitória<br/>Contra as fúrias tremendas do mal.</lines>
+    </verse>
+  </lyrics>
+</song>

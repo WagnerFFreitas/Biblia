@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:24">
+  <properties>
+    <titles>
+      <title>CC 195 Vida Por Um Olhar</title>
+      <title>Latakia</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Amelia Hull</author>
+      <author>E. Taylor</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="195"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Terás vida em olhar pra Jesus, Salvador;<br/>Ele diz: Vida eterna eu te dou;</lines>
+      <lines>pois então, pecador, considera esse amor,<br/>vê Jesus que na cruz expirou.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Vê, vê, viverás!<br/>Terás vida em olhar pra Jesus, Salvador;<br/>Ele diz: Vida em mim acharás!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Terás vida em olhar pra Jesus, Salvador;<br/>sangue seu derramado ele tem;</lines>
+      <lines>paga está nossa falta; não haja temor;<br/>por olhar, pecador, vida vem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Terás vida em olhar pra Jesus, Salvador;<br/>não há choro, remorso, nem dor</lines>
+      <lines>que consiga remir a qualquer pecador;<br/>só o sangue do bom Redentor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Terás vida em olhar pra Jesus, Salvador;<br/>ele tudo por ti já sofreu.</lines>
+      <lines>Deus estende o convite ao maior transgressor;<br/>vê Jesus que por ti padeceu!</lines>
+    </verse>
+    <verse name="v5">
+      <lines break="optional">Terás vida em olhar pra Jesus, Salvador;<br/>ele diz: Vida eterna eu te dou;</lines>
+      <lines>nunca perecerás, crendo em Cristo, o Senhor;<br/>segurança em Jesus gozarás.</lines>
+    </verse>
+  </lyrics>
+</song>

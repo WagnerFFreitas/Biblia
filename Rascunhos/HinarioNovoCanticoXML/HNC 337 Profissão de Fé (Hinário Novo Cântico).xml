@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-12-24T13:29:57">
+  <properties>
+    <titles>
+      <title>HNC 337 - Profissão de Fé</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="337"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O céu festeja a conversão<br/>De mais um pecador!<br/>Exulta a Igreja de prazer;<br/>É dia de esplendor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sustenta, ó Deus, o pecador<br/>Que o mundo quis deixar!<br/>Acolhe o nosso novo irmão<br/>Que a fé vem professar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Confirma em teu poder, Senhor,<br/>A santa profissão<br/>E a cerimônia a relembrar<br/>O sangue da aspersão.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Consolador divino, vem<br/>As almas converter!<br/>Vem muitas almas batizar,<br/>Exerce o teu poder! Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

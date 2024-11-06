@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:11">
+  <properties>
+    <titles>
+      <title>HCC 294 Somos Purificados no Sangue de Jesus</title>
+      <title>1 João 1:1-3, 5-7</title>
+    </titles>
+    <copyright>1 João 1:1-3, 5-7</copyright>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="294"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O que era desde o princípio, o que ouvimos, o que vimos com os nossos olhos, o que contemplamos e as nossas mãos apalparam, a respeito do Verbo da vida<br/>(pois a vida foi manifestada, e nós a temos visto, e dela testificamos, e vos anunciamos a vida eterna, que estava com o Pai, e a nós foi manifestada);<br/>sim, o que vimos e ouvimos, isso vos anunciamos, para que vós também tenhais comunhão conosco; e a nossa comunhão é com o Pai, e com seu Filho, Jesus Cristo.<br/>E esta é a mensagem que dele ouvimos, e vos anunciamos: que Deus é luz, e nele não há trevas nenhumas.<br/>Se dissermos que temos comunhão com ele, e andarmos nas trevas, mentimos, e não praticamos a verdade;<br/>mas se andarmos na luz, como ele na luz está, temos comunhão uns com os outros, e o sangue de Jesus, seu Filho, nos purifica de todo pecado.</lines>
+    </verse>
+  </lyrics>
+</song>

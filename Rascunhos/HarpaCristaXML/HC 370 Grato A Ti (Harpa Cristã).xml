@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:30">
+  <properties>
+    <titles>
+      <title>HC370 - Grato A Ti</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó meu Senhor, dá-me mais gratidão,<br/>Por tudo que Tu fizeste por mim<br/>Por Tua graça no meu coração,<br/>Que me encheu de ventura sem fim!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mais grato a Ti, mais grato a<br/>Ti.<br/>Mais consagrado, ó faz-me, Senhor!<br/>Mais humilhado e cheio de amor,<br/>Faz-me mais grato a ti, mais grato a Ti!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>De graças deste ao meu coração<br/>A santidade, a paz e a fé;<br/>Gozo celeste e consolação,<br/>E liberdade de estar aos Teus pés.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó meu Senhor, Tu fizeste por mim,<br/>O que ninguém poderia fazer;<br/>Na cruz pregado verteste, assim,<br/>Sangue, no qual sempre posso vencer!</lines>
+    </verse>
+  </lyrics>
+</song>

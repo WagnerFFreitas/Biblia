@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:02">
+  <properties>
+    <titles>
+      <title>HC203 - Deixai De Ilusões</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O mundo de ilusão deixei,<br/>A senda de pecado e dor,<br/>P'ra ir ao meu glorioso lar;<br/>Ali há gozo, paz e amor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>No mundo não está meu lar,<br/>Aqui não posso descansar;<br/>Mas quero sempre avançar:<br/>No céu em breve hei de entrar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alguns procuram m'impedir,<br/>Na senda gloriosa andar,<br/>Mas quero sempre avançar,<br/>Até no lar poder entrar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amigo que no mundo estás,<br/>Não queres me acompanhar,<br/>À terra de eterno amor?<br/>Jesus deseja te livrar.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:56:09">
+  <properties>
+    <titles>
+      <title>HC576 - Assim Como Estou</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Assim como estou: sem nada dizer,<br/>Senão que por mim vieste a morrer,<br/>E me convidaste a ti recorrer:<br/>Bendito Jesus, me chego a ti!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Assim como estou: sem mais demorar,<br/>Minha alma do mal querendo limpar,<br/>A ti, que de tudo me podes lavar:<br/>Bendito Jesus, me chego a ti!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Assim como estou: em grande aflição,<br/>Tão digno de morte e da perdição,<br/>Rogando-te vida, com paz e perdão:<br/>Bendito Jesus, me chego a ti!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Assim como estou: o teu grande amor<br/>Me vence: e crendo em ti, sem temor,<br/>Eu quero servir-te, divino Senhor!<br/>- Bendito Jesus, me chego a ti!</lines>
+    </verse>
+  </lyrics>
+</song>

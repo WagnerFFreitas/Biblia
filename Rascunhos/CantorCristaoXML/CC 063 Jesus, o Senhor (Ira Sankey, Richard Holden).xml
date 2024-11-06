@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:41:59">
+  <properties>
+    <titles>
+      <title>CC 063 Jesus, o Senhor</title>
+      <title>Hiding In Thee</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Ira Sankey</author>
+      <author>Richard Holden</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="063"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Jesus, santo nome do Cristo de Deus,<br/>por Deus posto acima de todos os céus!<br/>Jesus, o bendito e divino Senhor,<br/>Jesus o bondoso, fiel Redentor!</lines>
+      <lines>Fiel Redentor, <br/>fiel Redentor,<br/>Jesus, o bondoso, fiel Redentor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Jesus Nazareno, sem honras aqui,<br/>Jesus, Deus excelso, com glórias ali,<br/>Jesus, que saudamos, real Salvador,<br/>Jesus, que aclamamos, do mundo o Senhor!</lines>
+      <lines>Do mundo o Senhor,<br/>do mundo o Senhor,<br/>Jesus, que aclamamos, do mundo o Senhor! </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:43">
+  <properties>
+    <titles>
+      <title>HCC 446 Brilho Celeste</title>
+      <title>Sunlight</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Henry Zelley</author>
+      <author>George Cook</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="446"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Peregrinando vou pelos montes<br/>e pelos vales, sempre na luz.</lines>
+      <lines>Cristo promete nunca deixar-me.<br/>"Eis-me convosco", disse Jesus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Brilho celeste, glória divina,<br/>enche a minha alma com tua paz.</lines>
+      <lines>Com alegria sigo cantando,<br/>pois Jesus Cristo me satisfaz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Sombras em volta, nuvens em cima,<br/>o Salvador não vão ocultar.</lines>
+      <lines>Ele é a luz que nunca se apaga.<br/>Sempre ao seu lado vou caminhar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Vão me guiando raios benditos<br/>que me conduzem para a mansão.</lines>
+      <lines>Mais e mais perto, o Mestre seguindo,<br/>canto os louvores da salvação.</lines>
+    </verse>
+  </lyrics>
+</song>

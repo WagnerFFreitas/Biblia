@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:39">
+  <properties>
+    <titles>
+      <title>HCC 430 O Que Darei a Cristo</title>
+      <title>Perkins</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Phil Perkins</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="430"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">O que darei a Cristo,<br/>que se entregou por mim?<br/>Como hei de meu amor mostrar<br/>a quem me amou assim?</lines>
+      <lines>Darei minha alma a Cristo<br/>e alegre entregarei<br/>o meu futuro em suas mãos<br/>e nada temerei.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Darei meus dons a Cristo<br/>e sempre o louvarei;<br/>os meus talentos, minha voz,<br/>assim consagrarei.</lines>
+      <lines>Darei meu corpo a Cristo,<br/>a mente, o coração;<br/>por onde quer que me mandar,<br/>meus pés o seguirão.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Darei meus bens a Cristo.<br/>O pouco que eu tiver<br/>aceita e abençoa,ó Deus.<br/>É teu também meu ser.</lines>
+      <lines>O que darei a Cristo,<br/>que se entregou por mim?<br/>Darei a minha vida<br/>a quem me amou assim.</lines>
+    </verse>
+  </lyrics>
+</song>

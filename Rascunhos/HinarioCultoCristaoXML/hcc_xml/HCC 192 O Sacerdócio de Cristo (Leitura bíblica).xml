@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:51">
+  <properties>
+    <titles>
+      <title>HCC 192 O Sacerdócio de Cristo</title>
+      <title>Hebreus 9:24,25; 7:25-27; 9:27,28</title>
+    </titles>
+    <copyright>Hebreus 9:24,25; 7:25-27; 9:27,28</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="192"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cristo não entrou num santuário feito por mãos (...) mas no próprio céu,<br/>para agora comparecer por nós perante a face de Deus;<br/>nem também para se oferecer muitas vezes,<br/>como o sumo sacerdote de ano em ano entra no santo lugar com sangue alheio.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Portanto, pode também salvar perfeitamente os que por ele se chegam a Deus,<br/>porquanto vive sempre para interceder por eles.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Porque nos convinha tal sumo sacerdote, santo, inocente, imaculado,<br/>separado dos pecadores e feito mais sublime que os céus;<br/>que não necessita, como os sumos sacerdotes, de oferecer cada dia sacrifícios,<br/>primeiramente por seus próprios pecados, e depois pelos do povo;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>porque isto fez ele, uma vez por todas, quando se ofereceu a si mesmo.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>E, como aos homens está ordenado morrerem uma só vez,<br/>vindo depois disso o juízo, assim também Cristo,<br/>oferecendo-se uma só vez para levar os pecados de muitos,<br/>aparecerá segunda vez, sem pecado, aos que o esperam para salvação.</lines>
+    </verse>
+  </lyrics>
+</song>

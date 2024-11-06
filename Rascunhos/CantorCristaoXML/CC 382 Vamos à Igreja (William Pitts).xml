@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:06">
+  <properties>
+    <titles>
+      <title>CC 382 Vamos à Igreja</title>
+      <title>Wildwood</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>William Pitts</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="382"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Tenho gozo e alegria celeste<br/>quando vou adorar ao Senhor</lines>
+      <lines>com os crentes em Cristo, na igreja,<br/>quando juntos rendemos louvor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Oh! vem, vem, vem, vem,<br/>sim, vem à igreja comigo,<br/>sim, vamos servir ao Senhor!</lines>
+      <lines>Pois maior alegria não temos<br/>do que ter comunhão em amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Vamos, crentes em Cristo, à igreja,<br/>conversar com o nosso bom Deus;</lines>
+      <lines>escutar os seus ricos conselhos,<br/>recolher ricas bênçãos dos céus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Com prazer eu aguardo a chegada<br/>desse dia do meu Salvador;</lines>
+      <lines>nele, pois, a minha alma contente<br/>se derrama em ações de louvor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Ó meu Mestre divino e amado,<br/>eu contigo desejo viver;</lines>
+      <lines>tua lei, tua causa e teu povo<br/>quero sempre abraçar, defender.</lines>
+    </verse>
+  </lyrics>
+</song>

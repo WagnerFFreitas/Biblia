@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:09">
+  <properties>
+    <titles>
+      <title>HM046 - Promessa Divina</title>
+      <title>Jesus, aos céus subindo,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, aos céus subindo,<br/>Nos prometeu mandar<br/>Consolador divino<br/>E sua luz nos dar.<br/>E o grande, insigne Mestre<br/>Conosco sempre está;<br/>Porvir ditoso mostra<br/>E guia para lá.</lines>
+    </verse>
+  </lyrics>
+</song>

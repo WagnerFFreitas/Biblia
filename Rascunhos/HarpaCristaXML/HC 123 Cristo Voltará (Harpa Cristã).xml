@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:50">
+  <properties>
+    <titles>
+      <title>HC123 - Cristo Voltará</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Um dia Cristo voltará;<br/>Ao ascender, o prometeu;<br/>Do modo que subiu virá;<br/>Há de ver o Rei Jesus, o povo seu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mui breve sim, Jesus virá,<br/>Alegre O verá Seu povo;<br/>Velando, todos devem sempre estar,<br/>A fim de vê-lo voltar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Os menageiros do Senhor,<br/>Afirmam que Jesus virá;<br/>E o poder Consolador<br/>As fiéis promessas nos revelará.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh! gozo sem comparação<br/>No dia do meu Salvador,<br/>Com a mui grande multidão,<br/>Subiremos ao encontro do Senhor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bem-vindo sejas, meu Senhor,<br/>Em Tua gloriosa luz;<br/>E nossa fé terá valor;<br/>Nós dizemos: "Ora, vem Senhor Jesus".</lines>
+    </verse>
+  </lyrics>
+</song>

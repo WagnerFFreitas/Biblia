@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-12-24T18:46:13">
+  <properties>
+    <titles>
+      <title>HNC 390 - Fiéis Soldados</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="390"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>De novo a combater por ti, Jesus, chamados<br/>Fiéis e bons soldados, agora eis-nos aqui,<br/>Unidos no dever de pelejar por ti.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Encher-nos vem de amor, de fé e de ousadia,<br/>Poder, sabedoria, valor, resolução!<br/>Que andemos, ó Senhor, em fraternal união.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Da cruz do Salvador ergamos o estandarte!<br/>Aqui, em toda parte, lutemos pela cruz!<br/>Oremos com fervor! Sirvamos a Jesus!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lutar, orar, servir, que certa é a vitória<br/>E após a luta, a glória de lá nos céus estar!<br/>Lutar, orar, servir, e com Jesus reinar!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Às armas, pois, e com valor,<br/>Fiéis soldados do Senhor,<br/>Fiéis soldados do Senhor!<br/>Às armas, pois, e com valor!</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

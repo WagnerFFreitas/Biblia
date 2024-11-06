@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:40">
+  <properties>
+    <titles>
+      <title>HC427 - Vai Orando</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>De pesar estás cercado,<br/>És provado pela dor?<br/>De sofrer estás cansado,<br/>E também do teu labor?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Vai orando, vai orando,<br/>Ao soprar do furacão.<br/>O Senhor está velando,<br/>Dar-te-á consolação.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nas doenças, incertezas,<br/>Que tu'alma passará,<br/>Só Jesus dará firmeza,<br/>E também te curará.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ao Senhor a voz eleva,<br/>Ora a Deus com mui fervor,<br/>Pois as faltas de releva<br/>E mitiga a tua dor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tarda Deus em consolar-te?<br/>Vai orando com poder;<br/>Presto, ajuda pode dar-te,<br/>Teu pedido responder.</lines>
+    </verse>
+  </lyrics>
+</song>

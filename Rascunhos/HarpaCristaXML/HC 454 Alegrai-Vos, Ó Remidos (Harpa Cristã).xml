@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:45">
+  <properties>
+    <titles>
+      <title>HC454 - Alegrai-Vos, Ó Remidos</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Glorioso é o Cordeiro,<br/>Ele é digno de louvor;<br/>É o resgate verdadeiro<br/>Do pecado e do horror,<br/>Alegrai-vos, ó remidos;<br/>Cantai glória ao Redentor!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Aleluia! Aleluia! Cantai glória e dai<br/>louvor!<br/>Aleluia! Aleluia! Cantai glória ao Redentor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Honra, glória e domínio<br/>A Jesus, o Rei dos reis!<br/>Que no santo vaticínio<br/>É a luz dos Seus fiéis.<br/>Alegrai-vos, ó remidos:<br/>Cantai glória, e vencereis!</lines>
+    </verse>
+  </lyrics>
+</song>

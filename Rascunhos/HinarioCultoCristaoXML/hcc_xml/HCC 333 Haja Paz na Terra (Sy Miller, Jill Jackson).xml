@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:18">
+  <properties>
+    <titles>
+      <title>HCC 333 Haja Paz na Terra</title>
+      <title>World Peace</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Sy Miller</author>
+      <author>Jill Jackson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="333"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Haja paz na terra,<br/>a começar em mim;<br/>haja paz na terra,<br/>a começar em mim.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Em Cristo todos somos<br/>filhos do mesmo Deus.<br/>Juntos, pois caminhemos<br/>na paz que vem dos céus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A começar em mim,<br/>prometo a meu Senhor<br/>que a cada passo que eu der,<br/>e seja onde for,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>a cada momento estarei vivendo<br/>em plena paz e amor.<br/>Haja paz na terra,<br/>a começar em mim.</lines>
+    </verse>
+  </lyrics>
+</song>

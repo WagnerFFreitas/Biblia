@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:21">
+  <properties>
+    <titles>
+      <title>HM127 - Louvor a Deus</title>
+      <title>Quem pelo mundo transitar,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quem pelo mundo transitar,<br/>A Deus bendiga com prazer,<br/>Saiba em espírito adorar<br/>Aquele que lhe deu o ser.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Entrai na casa do Senhor<br/>E seus louvores entoai;<br/>Ovelhas sois do bom Pastor<br/>E filhos do Celeste Pai.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Também sois servos de Jesus,<br/>Guardai, portanto, a sua Lei;<br/>Vivendo sempre em sua luz,<br/>Seu santo nome engrandecei.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A vida eterna nos dará<br/>Por sua infinda compaixão;<br/>O seu amor sem fim será;<br/>Gloriosa a nossa redenção.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:29">
+  <properties>
+    <titles>
+      <title>HM169 - Jesus e os Meninos</title>
+      <title>Ouve, ó Jesus querido,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ouve, ó Jesus querido,<br/>A nossa petição<br/>E dá-nos teu auxílio<br/>Nas horas da liçaõ.<br/>No tempo dos estudos<br/>Oh! Vem-nos ensinar;<br/>Que cada um procure<br/>Atento sempre estar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Permite que possamos<br/>Agir com retidão.<br/>Atentos no trabalho<br/>E dóceis na atenção.<br/>Ameno-nos com santo<br/>E verdadeiro amor,<br/>Em tudo obedecendo<br/>Ao grande Salvador.</lines>
+    </verse>
+  </lyrics>
+</song>

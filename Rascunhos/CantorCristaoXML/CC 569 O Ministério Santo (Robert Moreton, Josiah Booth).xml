@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:43">
+  <properties>
+    <titles>
+      <title>CC 569 O Ministério Santo</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Robert Moreton</author>
+      <author>Josiah Booth</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="569"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Senhor da ceifa, atende<br/>à nossa petição,<br/>que o teu trabalho siga<br/>com mais animação.</lines>
+      <lines>Os campos já branquejam,<br/>convidam a ceifar<br/>e mui preciosos frutos<br/>na igreja arrecadar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Somente a ti compete<br/>ceifeiros escolher;<br/>que façam o serviço<br/>conforme o teu querer.</lines>
+      <lines>As mentes, pois, prepara,<br/>inflama os corações<br/>e manda bons obreiros<br/>pregar às multidões.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Se aquele que nos veio<br/>pra trabalhar aqui<br/>no ministério santo,<br/>mandado foi por ti,</lines>
+      <lines>confirma seu trabalho<br/>com bênçãos especiais,<br/>e dá-lhe em ricos frutos<br/>divinas credenciais.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Alenta-lhe a esperança,<br/>aumenta nele a fé;<br/>na lida não permitas<br/>que lhe vacile o pé.</lines>
+      <lines>E, cada vez mais forte,<br/>mais cheio de fervor,<br/>a todos manifeste<br/>a graça do Senhor.</lines>
+    </verse>
+  </lyrics>
+</song>

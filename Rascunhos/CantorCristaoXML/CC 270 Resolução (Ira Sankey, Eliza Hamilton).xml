@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:39">
+  <properties>
+    <titles>
+      <title>CC 270 Resolução</title>
+      <title>Jesus, My Lord</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Ira Sankey</author>
+      <author>Eliza Hamilton</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="270"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Jesus, Senhor, me achego a Ti,<br/>Oh! dá-me alívio mesmo aqui,</lines>
+      <lines>o teu favor estende a mim,<br/>aceita um pecador!</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Eu venho como estou,<br/>eu venho como estou,</lines>
+      <lines>porque Jesus por mim morreu;<br/>eu venho como estou.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">As minhas culpas grandes são;<br/>mas, Tu, que não morreste em vão,</lines>
+      <lines>me podes conceder perdão;<br/>aceita um pecador!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Eu nada posso merecer,<br/>tu vês-me prestes a morrer,</lines>
+      <lines>Jesus, a Ti me vou render,<br/>aceita um pecador!</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Sim, venho agora, Redentor;<br/>só Tu, Jesus, és meu Senhor,</lines>
+      <lines>oh! vem salvar-me em teu amor,<br/>aceita um pecador!</lines>
+    </verse>
+  </lyrics>
+</song>

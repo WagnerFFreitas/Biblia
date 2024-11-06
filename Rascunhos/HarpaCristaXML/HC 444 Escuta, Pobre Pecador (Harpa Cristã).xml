@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:43">
+  <properties>
+    <titles>
+      <title>HC444 - Escuta, Pobre Pecador</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Escuta, pobre pecador,<br/>Em Cristo há perdão;<br/>Aceita agora o Salvador,<br/>Pois nEle há salvação!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Vem a Cristo sem tardança,<br/>Receber perdão,<br/>E a vida d'esperança<br/>Fruirás, então!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>P'ra redimir-te, o Redentor<br/>Seu sangue derramou!<br/>Na cruz; sofrendo grande dor,<br/>Jesus te resgatou!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Caminho certo é Jesus;<br/>Achamos nEle paz!<br/>Caminho santo e de luz,<br/>Que sempre satisfaz!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vem hoje, vem te entregar<br/>Deixando todo mal,<br/>Deus quer agora te salvar,<br/>Ó vem p'ra luz real!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:04">
+  <properties>
+    <titles>
+      <title>CC 373 Certeza</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Henry Wright</author>
+      <author>Melodia anônima</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="373"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Por mim sofreu o Salvador;<br/>glória, glória a meu Jesus!<br/>Louvai comigo ao Redentor.<br/>Glória, glória a meu Jesus!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus, Jesus, o Salvador!<br/>É doce o nome do Senhor;<br/>Abrasa-me com santo amor;<br/>glória, glória a meu Senhor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Os meus pecados carregou,<br/>glória, glória a meu Jesus!<br/>E sobre a cruz me resgatou.<br/>Glória, glória a meu Jesus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eu sei que perdoado estou;<br/>glória, glória a meu Jesus!<br/>e com certeza ao céu eu vou.<br/>Glória, glória a meu Jesus!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>E, quando a luta aqui findar,<br/>glória, glória a meu Jesus!<br/>No céu de luz eu vou cantar.<br/>Glória, glória a meu Jesus!</lines>
+    </verse>
+  </lyrics>
+</song>

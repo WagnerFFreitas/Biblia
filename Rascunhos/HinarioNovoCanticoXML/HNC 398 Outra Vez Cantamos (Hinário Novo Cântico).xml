@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-12-24T18:57:03">
+  <properties>
+    <titles>
+      <title>HNC 398 - Outra Vez Cantamos</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="398"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pai, outra vez cantamos teu louvor<br/>A uma voz, ao templo teu deixar.<br/>Bendito és tu, conosco estás, Senhor,<br/>Com tua paz vem nos abençoar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Que tua paz levemos para o lar;<br/>Sê tu conosco até ao anoitecer!<br/>E do pecado, ó Pai, vem nos guardar<br/>Ao virmos nós teu Nome engrandecer.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Que tua paz nos guie qual fanal<br/>Durante a noite, para nos guardar<br/>Na escuridão da vida e contra o mal,<br/>Pois luz e trevas podes dominar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dá-nos, Senhor, a tua paz fruir<br/>A cada instante em nosso labutar!<br/>E adentrando a Pátria do porvir,<br/>A paz perfeita iremos desfrutar. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

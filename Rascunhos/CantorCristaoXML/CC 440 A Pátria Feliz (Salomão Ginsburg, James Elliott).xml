@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:17">
+  <properties>
+    <titles>
+      <title>CC 440 A Pátria Feliz</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Salomão Ginsburg</author>
+      <author>James Elliott</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="440"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">A pátria para Cristo!<br/>Esta é minha oração!<br/>Ó pátria abençoada,<br/>é teu meu coração!</lines>
+      <lines>Querido lar paterno,<br/>ó pátria, ó meu amor!<br/>Ó Deus, de excelsa graça,<br/>dispensa-lhe favor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Ó povo brasileiro,<br/>oh! contemplai Jesus<br/>o qual por vós foi morto<br/>na ensanguentada cruz!</lines>
+      <lines>A pena do pecado<br/>com grande amor sofreu;<br/>seu sangue tão precioso<br/>ali por vós verteu!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">A pátria para Cristo!<br/>Oh! seja assim, meu Deus,<br/>que todo brasileiro<br/>ouça os apelos teus!</lines>
+      <lines>E quando nós ouvirmos<br/>a tua voz de além,<br/>que todo brasileiro<br/>atenda e goze o bem!</lines>
+    </verse>
+  </lyrics>
+</song>

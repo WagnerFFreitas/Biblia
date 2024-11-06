@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:35">
+  <properties>
+    <titles>
+      <title>HM461 - A Santa Habitação</title>
+      <title>Há um rio cristalino,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Manoel Antonio de Menezes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Há um rio cristalino,<br/>Que orna a santa habitação;<br/>Flui do trono do Cordeiro<br/>Para gozo do cristão.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sim, para ele nós iremos,<br/>E com Jesus, o Redentor,<br/>Sempre alegres estaremos<br/>Junto a Deus, o Criador.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lá nas margens desse rio,<br/>Só os salvos hão de ver<br/>O Senhor de toda a glória;<br/>Nele todos devem crer.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Antes que ao brilhante rio<br/>Nós possamos abordar,<br/>Retidão e santidade<br/>Temos todos de alcançar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Muito breve lá estaremos,<br/>Terminada a luta aqui,<br/>E louvores sempiternos<br/>Renderemos nós ali.</lines>
+    </verse>
+  </lyrics>
+</song>

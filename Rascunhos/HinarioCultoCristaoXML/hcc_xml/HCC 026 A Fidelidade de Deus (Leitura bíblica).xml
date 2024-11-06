@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:20">
+  <properties>
+    <titles>
+      <title>HCC 026 A Fidelidade de Deus</title>
+      <title>Salmos 44:1, 3, 4, 6; 148:1-3, 8, 9, 13; 1João 1:9; Isaías 43:25</title>
+    </titles>
+    <copyright>Salmos 44:1, 3, 4, 6; 148:1-3, 8, 9, 13; 1João 1:9; Isaías 43:25</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="026"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines><tag name="y">Congregação:</tag><br/>Ó Deus, nós ouvimos com os nossos ouvidos, nossos pais nos têm contado os feitos que realizaste em seus dias, nos tempos da antiguidade.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><tag name="y">Congregação:</tag><br/>Pois não foi pela sua espada que conquistaram a terra, nem foi o seu braço que os salvou, mas a tua destra e o teu braço, e a luz do teu rosto, porquanto<br/>te agradaste deles.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><tag name="y">Dirigente:</tag><br/>Tu é o meu Rei, ó Deus. Pois não confio no meu arco, nem a minha espada me pode salvar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"><tag name="y">Todos (cantando):</tag><br/>Tu és fiel, Senhor, tu és fiel, Senhor;<br/>dia após dia, com bênçãos sem fim.</lines>
+      <lines>Tua mercê me sustente e me guarda;<br/>tu és fiel, Senhor, fiel a mim.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><tag name="y">Homens:</tag><br/>Louvai ao Senhor desde o céu, louvai-o nas alturas! Louvai-o, todos os seus anjos!</lines>
+    </verse>
+    <verse name="v6">
+      <lines><tag name="y">Mulheres:</tag><br/>Louvai-o, sol e lua; louvai-o, todas as estrelas luzentes!</lines>
+    </verse>
+    <verse name="v7">
+      <lines><tag name="y">Homens:</tag><br/>Fogo e saraiva, neve e vapor;</lines>
+    </verse>
+    <verse name="v8">
+      <lines><tag name="y">Congregação:</tag><br/>montes e todos os outeiros; árvores frutíferas e todos os cedros.</lines>
+    </verse>
+    <verse name="v9">
+      <lines><tag name="y">Dirigente:</tag><br/>Louvem eles o nome do Senhor, pois só o seu nome é excelso.</lines>
+    </verse>
+    <verse name="v10">
+      <lines break="optional"><tag name="y">Todos (cantando):</tag><br/>Tu és fiel, Senhor, tu és fiel, Senhor;<br/>dia após dia, com bênçãos sem fim.</lines>
+      <lines>Tua mercê me sustente e me guarda;<br/>tu és fiel, Senhor, fiel a mim.</lines>
+    </verse>
+    <verse name="v11">
+      <lines><tag name="y">Congregação:</tag><br/>Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça.</lines>
+    </verse>
+    <verse name="v12">
+      <lines><tag name="y">Dirigente:</tag><br/>Eu, eu mesmo, sou o que apago as tuas transgressões por amor de mim, e dos teus pecados não me lembro.</lines>
+    </verse>
+    <verse name="v13">
+      <lines break="optional"><tag name="y">Todos (cantando):</tag><br/>Tu és fiel, Senhor, tu és fiel, Senhor;<br/>dia após dia, com bênçãos sem fim.</lines>
+      <lines>Tua mercê me sustente e me guarda;<br/>tu és fiel, Senhor, fiel a mim.</lines>
+    </verse>
+  </lyrics>
+</song>

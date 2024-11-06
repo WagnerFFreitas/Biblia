@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:38">
+  <properties>
+    <titles>
+      <title>HC415 - Jesus Te Quer Curar</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A terna voz do Salvador<br/>Te fala comovida;<br/>"Ó vem ao médico de amor,<br/>Que dá aos mortos vida"!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cristo Jesus te quer curar,<br/>E tem poder p'ra te curar,<br/>Dos males todos te livrar,<br/>Se nEle confiares!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Crê tu, a quem já Satanás<br/>Há anos tem ligado;<br/>A fé te salva, vai-te em paz,<br/>De todo o mal curado!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Os surdos ouvem, cegos vêem,<br/>Pois Cristo é poderoso!<br/>os coxos saram e andam bem,<br/>Por Seu poder glorioso!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sinais p'ra sempre seguirão<br/>Aos verdadeiros crentes!<br/>Demônios, sim, expulsarão,<br/>E curarão as gentes.</lines>
+    </verse>
+  </lyrics>
+</song>

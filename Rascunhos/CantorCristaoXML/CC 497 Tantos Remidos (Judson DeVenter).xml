@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:29">
+  <properties>
+    <titles>
+      <title>CC 497 Tantos Remidos</title>
+      <title>Looking This Way</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Judson DeVenter</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="497"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Tantos remidos vejo nos céus,<br/>tendo coroas, ricos troféus;</lines>
+      <lines>salvos, mercê de Cristo, já estão;<br/>sempre felizes eles serão.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Juntos na glória, vivem em luz,<br/>gozam da santa paz de Jesus;</lines>
+      <lines>belas canções de grato louvor<br/>cantam, sem fim, a seu Redentor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Tendo vencido o mundo falaz,<br/>transes penosos e Satanás,</lines>
+      <lines>foram então morada fazer<br/>onde só há perfeito prazer.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Fome nem sede nunca terão,<br/>dores ou mágoas não sofrerão;</lines>
+      <lines>vida perene, vida real<br/>gozam sem fim, libertos do mal.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Cristo "bem-vindo" aos salvos vai dar,<br/>nesse tão belo e santo lugar,</lines>
+      <lines>aos que em seu sangue limpos estão,<br/>brancos, mui brancos no coração.</lines>
+    </verse>
+  </lyrics>
+</song>

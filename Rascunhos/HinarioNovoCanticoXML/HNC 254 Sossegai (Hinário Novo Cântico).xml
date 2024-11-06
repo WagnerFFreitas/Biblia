@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:59">
+  <properties>
+    <titles>
+      <title>HNC 254 - Sossegai</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="254"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mestre o mar se revolta<br/>E as ondas nos dão pavor!<br/>O céu se reveste de trevas,<br/>Não temos um Salvador!<br/>Não se te dá que morramos?<br/>Podes assim dormir?<br/>Se a cada momento nos vemos<br/>Já prestes a submergir?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mestre, tão grande tristeza<br/>Me quer hoje consumir!<br/>Na dor que perturba minha alma<br/>Te imploro: “Vem me acudir!”<br/>De ondas do mal que me encobrem,<br/>Quem me virá valer?<br/>Não tardes, não tardes, bom Mestre,<br/>Estou quase a perecer!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mestre, chegou a bonança;<br/>Em paz vejo o céu e o mar!<br/>O meu coração goza calma<br/>Que não poderá findar.<br/>Firme, ao teu lado, ó Mestre,<br/>Dono da terra e céu,<br/>Eu hei de chegar, bem seguro,<br/>Ao porto, destino meu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">“As ondas atendem ao meu mandar: sossegai!<br/>Seja o encapelado mar,<br/>A ira dos homens, o gênio do mal;<br/>Tais águas não podem a nau tragar,<br/>Que leva o Senhor, Rei do céu e mar!<br/>Pois todos ouvem o meu mandar:<br/>Sossegai! Sossegai!<br/>Convosco estou para vos salvar; sossegai!”</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

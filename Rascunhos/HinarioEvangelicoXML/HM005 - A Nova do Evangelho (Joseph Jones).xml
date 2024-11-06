@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:03">
+  <properties>
+    <titles>
+      <title>HM005 - A Nova do Evangelho</title>
+      <title>A nova do Evangelho</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Joseph Jones</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A nova do Evangelho<br/>Já se fez ouvir aqui,<br/>Publicando em som alegre<br/>O que Deus já fez por ti.<br/>Pois tanto ao mundo amou,<br/>E ao perdido pecador,<br/>Que do céu lhe deu seu Filho<br/>Para ser seu Redentor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Santa paz e perdão<br/>É a nova lá dos céus!<br/>Santa paz e perdão!<br/>Bendito o nosso Deus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A nova do Evangelho,<br/>Segurança, vida e paz,<br/>É o amor de Jesus Cristo,<br/>Que o perdão de Deus nos traz.<br/>As novas se nos dão<br/>De haver um salvador,<br/>Poderoso e mui bondoso,<br/>Que perdoa ao pecador.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A nova do Evangelho<br/>Vem a todos avisar<br/>Do perigo grande e grave<br/>Para quem se descuidar<br/>Salvai-vos desde já,<br/>Não vos detenhais no mal,<br/>Não voltei atrás os olhos<br/>Pois vos pode ser fatal.</lines>
+    </verse>
+  </lyrics>
+</song>

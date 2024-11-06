@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:44">
+  <properties>
+    <titles>
+      <title>HC091 - Nívea Luz</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, eu almejo a pureza do céu,<br/>Tua linda presença no coração meu.<br/>Os ídolos quebro, me toma Jesus;<br/>Ó dá-me a pureza da nívea luz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nívea luz, a nívea luz,<br/>Ó dá-me a pureza da nívea luz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, me acode enquanto lidar,<br/>A colocar tudo no santo altar;<br/>A ti me entrego; nas chamas me pus;<br/>Ó dá-me a pureza da nívea luz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, com instância, humilde, roguei<br/>Que o sangue perfeito pureza me dê<br/>Me lava na fonte aberta na cruz;<br/>Ó dá-me a pureza da nívea luz!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus, neste instante, espero a mão<br/>Que há de criar-me o bom coração;<br/>Aqueles que o Espírito pedem de Deus,<br/>Dás sempre a pureza da nívia luz!</lines>
+    </verse>
+  </lyrics>
+</song>

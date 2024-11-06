@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:17">
+  <properties>
+    <titles>
+      <title>HM407 - Heróis do Bem</title>
+      <title>Campeões da peleja sagrada</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Domingos José Ferreira</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Campeões da peleja sagrada!<br/>O clarim chama à luta os fiéis!<br/>Vamos nós nesta arena bendita<br/>Conquistar os viçosos lauréis!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Com Jesus nas pelejas da cruz,<br/>Arvorando o pendão divinal,<br/>Levantemos bem alto esta luz,<br/>Pois é certa a vitória final.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Se o labor desta causa altaneira<br/>Tem espinhos, que podem ferir,<br/>Compensando no céu é mil vezes,<br/>Ao nos dar o mais grato porvir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>E se o mundo atear os seus ódios<br/>Contra nós, com mordente desdém,<br/>Não importa! Jamais entibia<br/>Os heróis da conquista do bem!</lines>
+    </verse>
+  </lyrics>
+</song>

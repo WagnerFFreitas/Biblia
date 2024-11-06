@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:55">
+  <properties>
+    <titles>
+      <title>HCC 511 Sou em Teu Nome Batizado</title>
+      <title>Holy Faith</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Johann Rambach</author>
+      <author>George Martin</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="511"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Sou em teu nome batizado,<br/>ó grande, santo e trino Deus.<br/>Por teu poder fui transformado.</lines>
+      <lines>Pertenço agora aos filhos teus.<br/>Que eu seja templo, ó Salvador,<br/>do teu Espírito de amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Ó Pai de amor, tu me salvaste;<br/>herdeiro sou e filho teu.<br/>Os meus pecados perdoaste;</lines>
+      <lines>Jesus por mim na cruz morreu.<br/>Aceita, ó Deus, a gratidão<br/>de um jubiloso coração.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Prometo agora, ó Deus amado,<br/>à tua voz obedecer.<br/>Por teu Espírito ajudado,</lines>
+      <lines>irei melhor te conhecer;<br/>com teus recursos, ó meu Rei,<br/>contra o pecado lutarei.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Ó trino Deus maravilhoso,<br/>nunca me deixes vacilar.<br/>Torna-me firme, ó Pai bondoso;</lines>
+      <lines>que eu possa mais e mais te amar<br/>até que, um dia, com Jesus<br/>eu vá morar, no céu de luz. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

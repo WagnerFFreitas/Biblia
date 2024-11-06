@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:53">
+  <properties>
+    <titles>
+      <title>HNC 135 - Mais de Cristo</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="135"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mais de Cristo eu quero ter,<br/>Seu ensino receber,<br/>Ter da sua compaixão<br/>E da sua mansidão.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mais, mais de Cristo!<br/>Mais, mais de Cristo!<br/>Mais do seu puro e santo amor,<br/>Mais do bondoso Salvador.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mais de Cristo eu quero ouvir,<br/>Nos seus passos prosseguir,<br/>Sempre perto dele andar,<br/>Seu amor manifestar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mais, mais de Cristo!<br/>Mais, mais de Cristo!<br/>Mais do seu puro e santo amor,<br/>Mais do bondoso Salvador.</lines>
+    </verse>
+  </lyrics>
+</song>

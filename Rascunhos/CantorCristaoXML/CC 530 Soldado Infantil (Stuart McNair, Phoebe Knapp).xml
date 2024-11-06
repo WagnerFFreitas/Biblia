@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:35">
+  <properties>
+    <titles>
+      <title>CC 530 Soldado Infantil</title>
+      <title>Assurance</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Stuart McNair</author>
+      <author>Phoebe Knapp</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="530"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Sou um soldado de Jesus Cristo,<br/>na luta insisto e tenho valor;</lines>
+      <lines>eu sou pequeno, mas a meu lado<br/>vai meu amado Rei, meu Senhor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Todos marchemos para a peleja,<br/>tendo em combate trombeta e luz;</lines>
+      <lines>firmes, avante, pois que a vitória<br/>é para a glória do Rei Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Hostes ferozes dos inimigos<br/>eu as persigo e posso vencer;</lines>
+      <lines>luto por Cristo, o Rei poderoso,<br/>nele acharei a força e o poder.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Para o combate vou preparado,<br/>e meu escudo carrego já;</lines>
+      <lines>sua Palavra serve de espada,<br/>foi-me doada por Deus, Jeová.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Marcho ditoso com estas armas,<br/>pois a vitória eu alcançarei;</lines>
+      <lines>e são e salvo, cheio de vida,<br/>na santa causa me gastarei.</lines>
+    </verse>
+  </lyrics>
+</song>

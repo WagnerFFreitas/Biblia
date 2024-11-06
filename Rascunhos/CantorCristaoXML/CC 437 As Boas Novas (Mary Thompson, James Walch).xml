@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:17">
+  <properties>
+    <titles>
+      <title>CC 437 As Boas Novas</title>
+      <title>Tidings</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Mary Thompson</author>
+      <author>James Walch</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="437"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Povo de Deus, cumpri o vosso encargo<br/>de proclamar do nosso Deus o amor!</lines>
+      <lines>Pois Ele, compassivo, não deseja<br/>a perdição do pobre pecador!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>As boas novas anunciai!<br/>Que Deus nos ama, contentes proclamai!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Oh! contemplai milhares que perecem<br/>presos nas garras do pecado e mal,</lines>
+      <lines>sem que haja quem, com pena, lhes indique<br/>Cristo Jesus, Libertador real!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Não consintais que fiquem desgarradas<br/>as almas pelas quais Jesus sofreu;</lines>
+      <lines>haja cuidado que ninguém se perca<br/>por descuidarmos o mandado seu!</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Disseminai entre as nações e tribos,<br/>que o nosso Deus é o Deus do eterno amor;</lines>
+      <lines>que Ele deixou as glórias infinitas<br/>para salvar o mundo pecador!</lines>
+    </verse>
+    <verse name="v5">
+      <lines break="optional">Oh! consagrai os vossos bens e filhos<br/>pra difundir de Cristo a santa luz!</lines>
+      <lines>Com orações constantes, fervorosas,<br/>auxiliai a causa de Jesus!</lines>
+    </verse>
+    <verse name="v6">
+      <lines break="optional">Ei-lo que vem! Mas antes dessa vinda<br/>apregoai a graça e seu amor!</lines>
+      <lines>Que estejam prontos todos os remidos<br/>para aclamá-lo: Cristo! Redentor!</lines>
+    </verse>
+  </lyrics>
+</song>

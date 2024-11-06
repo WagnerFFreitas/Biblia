@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:05:05">
+  <properties>
+    <titles>
+      <title>HCC 561 Diante de Deus Aprovado</title>
+      <title>1 Timóteo 3:1; 2 Timóteo 2:15; 4:5, 2; Tito 2:15; 2 Timóteo 2:1</title>
+    </titles>
+    <copyright>1 Timóteo 3:1; 2 Timóteo 2:15; 4:5, 2; Tito 2:15; 2 Timóteo 2:1</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="561"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fiel é esta palavra: Se alguém aspira ao episcopado, excelente obra deseja.<br/>Procura apresentar-te diante de Deus aprovado, como obreiro que não tem de que se envergonhar, que maneja bem a palavra da verdade.<br/>Sê sóbrio em tudo, sofre as aflições, faze a obra de um evangelista, cumpre bem o teu ministério.<br/>Prega a palavra, insta a tempo e fora de tempo, admoesta, repreende, exorta, com toda a longanimidade e ensino.<br/>Fala estas coisas, exorta e repreende com toda a autoridade. Ninguém te despreze. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu, pois (...) fortifica-te na graça que há em Cristo Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

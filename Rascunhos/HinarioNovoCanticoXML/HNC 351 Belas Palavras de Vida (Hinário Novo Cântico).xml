@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-12-24T14:03:03">
+  <properties>
+    <titles>
+      <title>HNC 351 - Belas Palavras de Vida</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="351"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quero ouvi-las mais outra vez,<br/>Belas palavras de vida!<br/>Narram tudo o que Cristo fez,<br/>Belas palavras de vida!<br/>Elas vêm de cima,<br/>Seu poder anima.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Só Jesus Cristo a todos dá<br/>Belas palavras de vida!<br/>Sem Jesus salvação não há;<br/>Belas palavras de vida!<br/>Com amor conclama,<br/>Para o céu te chama.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Só Jesus Cristo é Salvador!<br/>Belas palavras de vida!<br/>Quer salvar todo pecador!<br/>Belas palavras de vida!<br/>Ele vivifica<br/>E nos purifica.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Que alegres são! Que alegres são!<br/>Essas palavras de vida!<br/>Que alegres são! Que alegres são!<br/>Essas palavras de vida!</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

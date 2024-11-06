@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:55">
+  <properties>
+    <titles>
+      <title>HM310 - Dedicação</title>
+      <title>A ti, Senhor, meu Salvador</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>J. Costa</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A ti, Senhor, meu Salvador<br/>Minha alma dou contente;<br/>A redenção, a salvação<br/>Concedes plenamente.<br/>Nenhum favor, nem o terror<br/>Do mundo que se gasta,<br/>A tua luz, ó meu Jesus<br/>Jamais de mim afasta.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A ti, Senhor, Consolador<br/>Fiel minha alma adora!<br/>Vê bem, Jesus, aminha cruz<br/>Que tanto pesa agora.<br/>Luz divinal, sê meu fanal<br/>E guia aqui meu passo,<br/>Para eu honrar e não deixar<br/>A fé que na alma abraço.</lines>
+    </verse>
+  </lyrics>
+</song>

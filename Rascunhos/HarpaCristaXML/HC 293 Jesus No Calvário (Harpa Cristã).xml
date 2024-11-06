@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:16">
+  <properties>
+    <titles>
+      <title>HC293 - Jesus No Calvário</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus no Calvário, por mim sofreu<br/>A morte da maldição;<br/>Minh'alma ganhou, com o sangue Seu<br/>O preço da redenção.<br/>Do alto da cruz, Jesus exclamou:<br/>"Consumado está", e o espírito rendeu;<br/>O sangue verteu, e me expiou,<br/>Unindo-me ao povo Seu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na cruz do Calvário, a cédula foi<br/>Cravada que Ele riscou.<br/>O véu se rasgou, a porta se abriu,<br/>Aberta p'ra Deus ficou.<br/>Sobre a cruz eu morri, com Cristo Jesus;<br/>O meu "ego" falaz sobre o lenho levou.<br/>A noite fugiu, e raiou a luz!<br/>Por Cristo eu salvo estou.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na cruz do Calvário, ao mundo morri;<br/>Aqui um estranho fiquei;<br/>Não vivo mais eu, com Cristo me uni;<br/>Que vida excelsa achei!<br/>O Cordeiro de Deus minh'alma nevou;<br/>O sangue pascoal a culpa tirou,<br/>O destruidor minh'alma passou,<br/>Em Cristo liberto estou.</lines>
+    </verse>
+  </lyrics>
+</song>

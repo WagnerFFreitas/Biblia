@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:49:00">
+  <properties>
+    <titles>
+      <title>HNC 283 - Desafio</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="283"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Avançai! Avançai! Derrama essa luz<br/>Sobre os povos da terra que não têm Jesus!<br/>Ide já, diz o Mestre.Quem é que irá,<br/>Obediente ao preceito que todos nos dá?<br/>Confiai no Senhor!Não tenhais mais temor!<br/>Avançai, com Jesus, avançai! </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Avançai! Avançai! Com a Bíblia na mão!<br/>Proclamai às nações pela cruz Redenção!<br/>Enfrentai os perigos com fé sempre em Deus;<br/>Mesmo havendo pesares, rumamos aos céus.<br/>Dura lutas tereis, com Jesus vencereis!<br/>Avançai, sem temor, avançai!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Avançai! Avançai e pregai aos milhões<br/>Que parecem nas treva das desilusões!<br/>Foi por eles também que o Senhor padeceu,<br/>E na terra, entre os homens, insultos sofreu.<br/>Proclamai redenção!Em Jesus há perdão!<br/>Avançai, com amor, avançai!</lines>
+    </verse>
+  </lyrics>
+</song>

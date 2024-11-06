@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:29">
+  <properties>
+    <titles>
+      <title>HM453 - Anelos do Céu</title>
+      <title>Da linda pátria estou mui longe;</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Justus Henri Nelson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Da linda pátria estou mui longe;<br/>Cansado estou.<br/>Eu tenho de Jesus saudade;<br/>Quando será que vou?<br/>Passarinhos, bleas flores<br/>Querem-me encantar.<br/>Adeus terrestres esplendores!<br/>Eu já enxergo o lar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bem longe do meu lar, saudoso,<br/>Eu vou partir;<br/>Qual passarinho para o ninho,<br/>Desejo aos céus subir.<br/>De Jesus a vinda é certa;<br/>O dia, eu não sei,<br/>Mas ele manda estar alerta;<br/>Do exílio voltarei.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cristo Jesus me fez promessa<br/>De me buscar.<br/>Meu coração está ansioso,<br/>Eu quero já voar.<br/>Foi mui grande o meu pecado,<br/>Bem culpado sou;<br/>Mas no seu sangue fui lavado,<br/>Eu para a pátria vou.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:51">
+  <properties>
+    <titles>
+      <title>HC129 - A Fonte Salvadora</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó pecador, vem à fonte,<br/>Com o teu fardo de dor,<br/>Vem sepultá-lo nas águas;<br/>Paz acharás no Senhor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Depressa vem, depressa vem!<br/>Um só instante não queiras perder;<br/>Jesus espera salvar-te;<br/>Mercê p'ra ti, Ele tem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Como estás, vem à fonte,<br/>Jesus esperando está;<br/>E tua alma manchada<br/>Alva e pura será.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Salvador não despreza<br/>Quem, arrependido, crer.<br/>A vida eterna esperando<br/>De Suas mãos receber.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vem ser curado na fonte;<br/>Jesus a paz te quer dar;<br/>Vem, humilhado e contrito,<br/>Tua alma purificar.</lines>
+    </verse>
+  </lyrics>
+</song>

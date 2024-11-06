@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:38">
+  <properties>
+    <titles>
+      <title>HC046 - Um Pendão Real</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Um pendão real vos entregou o Rei<br/>A vós, soldados Seus;<br/>Corajosos, pois, em tudo o defendei,<br/>Marchando para os céus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Com valor! Sem temor!<br/>Por Cristo prontos a sofrer!<br/>Bem alto erguei o Seu pendão,<br/>Firmes sempre, até morrer!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eis formados já os negros batalhões<br/>Do grande usurpador!<br/>Declarai-vos, hoje, bravos campeões;<br/>Avante sem temor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Quem receio sente no seu coração,<br/>E fraco se mostrar,<br/>Não receberá o eterno galardão,<br/>Que Cristo tem p'ra dar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pois sejamos, todos, a Jesus leais,<br/>E a Seu real pendão;<br/>Os que na batalha sempre são fiéis,<br/>Com Ele reinarão.</lines>
+    </verse>
+  </lyrics>
+</song>

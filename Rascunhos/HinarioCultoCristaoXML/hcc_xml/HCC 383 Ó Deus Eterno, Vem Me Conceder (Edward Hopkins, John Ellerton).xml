@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:28">
+  <properties>
+    <titles>
+      <title>HCC 383 Ó Deus Eterno, Vem Me Conceder</title>
+      <title>Ellers</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Edward Hopkins</author>
+      <author>John Ellerton</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="383"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Ó Deus eterno, vem me conceder<br/>a plenitude do Consolador.</lines>
+      <lines>Dos altos céus me outorga teu poder,<br/>que me renova e enche de fervor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Vem tu fazer em minha habitação.<br/>Um templo santo almejo ser, Senhor.</lines>
+      <lines>Quero seguir a tua direção,<br/>viver no Espírito renovador.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Dá-me coragem pra testemunhar<br/>no meu pensar, falar e proceder.</lines>
+      <lines>Que eu tenha vida santa e exemplar,<br/>também repleta de fervor, poder.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Ó Deus, aumenta a minha compaixão<br/>pelos perdidos, sem amor, sem luz.</lines>
+      <lines>Que eu mostre a todos tua salvação.<br/>Eis minha prece, em nome de Jesus. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

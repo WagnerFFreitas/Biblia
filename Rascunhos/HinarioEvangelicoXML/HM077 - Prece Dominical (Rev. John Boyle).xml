@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:13">
+  <properties>
+    <titles>
+      <title>HM077 - Prece Dominical</title>
+      <title>Congregados, Pai Celeste,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. John Boyle</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Congregados, Pai Celeste,<br/>Eis os crentes hoje aqui,<br/>A louvar teu santo nome,<br/>Fervorosos vêm a ti.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Para sermos neste culto<br/>De sincero coração,<br/>Em nossa alma, vem, derrama<br/>Graça, amor, divina unção.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Por Jesus é que vivemos<br/>Pois só ele é Salvador;<br/>Quer no Céu, quer sobre a terra,<br/>Não há outro Mediador.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Para nos livrar da morte,<br/>Sobre a Cruz quis padecer;<br/>E, por ser nosso Advogado,<br/>Não cessou de interceder.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó Trindade santa, eterna,<br/>Três Pessoas num só Deus!<br/>Imploramos tua bênção,<br/>Nós que somos servos teus.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Lá nos altos Céus habitas,<br/>Tu, Senhor, que és todo o Bem!<br/>Aos teus filhos, pois, concede,<br/>As mansões do eterno além!</lines>
+    </verse>
+  </lyrics>
+</song>

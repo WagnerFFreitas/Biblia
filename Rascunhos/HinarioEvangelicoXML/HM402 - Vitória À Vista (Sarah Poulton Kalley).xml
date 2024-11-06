@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:16">
+  <properties>
+    <titles>
+      <title>HM402 - Vitória À Vista</title>
+      <title>Camaradas! A divisa</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Camaradas! A divisa<br/>Mostra-se nos céus!<br/>A vitória já se avista!<br/>Quem socorre é Deus!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>"Guarda o forte! Em breve eu venho",<br/>Clama o Salvador.<br/>Respondamos: "Venceremos<br/>Pelo teu favor!"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tropas infernais, rugindo,<br/>Metem-nos horror;<br/>Os heróis não desfalecem;<br/>Deus lhes dá vigor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dura e triste é a peleja,<br/>Perto a salvação!<br/>Eia! Avante, companheiros!<br/>Cristo é o Campeão.</lines>
+    </verse>
+  </lyrics>
+</song>

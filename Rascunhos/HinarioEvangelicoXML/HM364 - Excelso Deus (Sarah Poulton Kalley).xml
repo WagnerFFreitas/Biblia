@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:09">
+  <properties>
+    <titles>
+      <title>HM364 - Excelso Deus</title>
+      <title>Excelso é Deus no proceder!</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Excelso é Deus no proceder!<br/>Não falha o seu intento<br/>Nas aflições ou no prazer<br/>Eu tenho sempre alento;<br/>Ele é meu Rei,<br/>Descansarei<br/>Entregue ao seu governo,<br/>Guardado pelo Eterno.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Excelso é Deus no proceder!<br/>Do bem não se desvia;<br/>Ilimitado é o poder<br/>Com que meus passos guia.<br/>Meu bem-estar,<br/>Ou meu pesar,<br/>Lhe entrego, mui contente,<br/>Confiando plenamente.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Excelso é Deus no proceder!<br/>O cálice amargoso<br/>O lábio treme ao receber<br/>Do Salvador bondoso;<br/>Assim Jesus<br/>Levou a Cruz!<br/>Repousa aqui sofreido,<br/>O coração dorido!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Excelso é Deus no proceder!<br/>Com ele sempre unida<br/>Minha alma Deus promete encher<br/>De gozo, luz e vida.<br/>Mui cedo vai,<br/>Meu grande Pai<br/>Meu galardão mostrar-me,<br/>E sua glória dar-me.</lines>
+    </verse>
+  </lyrics>
+</song>

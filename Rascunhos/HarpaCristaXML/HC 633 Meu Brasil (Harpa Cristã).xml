@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:56:20">
+  <properties>
+    <titles>
+      <title>HC633 - Meu Brasil</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Meu Brasil, nação gigante e mui sublime,<br/>Creio ver-te muito breve bem maior,<br/>Combatendo a iniqüidade, o vício, o crime,<br/>Redimido aos pés de Cristo, o Salvador.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Meu Brasil - meu Brasil!<br/>Abre o largo peito e deixa a luz raiar!<br/>Meu Brasil! - meu Brasil!<br/>O Evangelho de Jesus te quer salvar!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Debelar a escuridão minh'alma anseia<br/>Do teu meio, onde o Evangelho prega a paz.<br/>Espalhando livros santos a mancheia,<br/>A vitória, meu Brasil, alcançarás.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Não te peço, meu Senhor, poder, riqueza,<br/>Nem as glórias que oferece o mundo vil:<br/>Dá que eu possa ver fulgindo de beleza,<br/>Na coroa de Jesus - o meu Brasil.</lines>
+    </verse>
+  </lyrics>
+</song>

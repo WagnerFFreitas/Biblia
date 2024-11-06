@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:52">
+  <properties>
+    <titles>
+      <title>HNC 114 - Brilho Celeste</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="114"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Peregrinando por sobre os montes,<br/>E pelos vales, sempre na luz,<br/>Cristo promete nunca deixar-me,<br/>“Eis-me convosco” – disse Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Se vejo sombras por toda parte,<br/>O Salvador não hão de ocultar!<br/>Pois Cristo é luz que nunca se apaga,<br/>Bem ao seu lado sempre hei de andar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A luz bendita me vai guiando<br/>Em meu caminho para a Mansão;<br/>Mais e mais perto seguindo o Mestre,<br/>Possuo o gozo da salvação.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Brilho celeste! Brilho celeste!<br/>Enche a minha alma, glória do Céu!<br/>Aleluia! Sigo cantando,<br/>Dando louvores, pois Cristo é meu!</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

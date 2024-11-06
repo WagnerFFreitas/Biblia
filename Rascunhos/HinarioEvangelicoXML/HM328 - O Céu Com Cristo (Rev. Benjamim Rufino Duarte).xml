@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:59">
+  <properties>
+    <titles>
+      <title>HM328 - O Céu Com Cristo</title>
+      <title>Depois que Cristo me salvou,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Benjamim Rufino Duarte</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Depois que Cristo me salvou,<br/>Em Céu o mundo se tornou;<br/>Até no meio do sofrer<br/>Eu tenho paz no meu viver.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh! Aleluia! Sim, eu sei!<br/>É Céu fruir perdão sem par!<br/>E com Jesus, o eterno Céu<br/>Eu desde agora irei gozar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mui longe outrora eu via o Céu;<br/>Mas quando Cristo me valeu,<br/>Então senti meu coração<br/>Entrar no Céu da retidão.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bem pouco importa eu habitar<br/>Em alto monte, à beira-mar,<br/>Em casa ou gruta, boa ou ruim:<br/>É sempre Céu, com Cristo em mim!</lines>
+    </verse>
+  </lyrics>
+</song>

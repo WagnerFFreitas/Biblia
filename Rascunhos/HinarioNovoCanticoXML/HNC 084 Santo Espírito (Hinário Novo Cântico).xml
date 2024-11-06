@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:51">
+  <properties>
+    <titles>
+      <title>HNC 084 - Santo Espírito</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="84"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Santo Espírito de amor,<br/>Cobre-me com teu poder!<br/>Purifica-me, Senhor,<br/>Quero, ó Deus, mais santo ser!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu atendes, ó Senhor,<br/>Quem te implora em contrição.<br/>Com tua graça e teu favor,<br/>Guia-me na retidão!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eu confio em ti, Senhor,<br/>Meu viver vem transformar!<br/>Quero, pois, com gratidão<br/>Minha vida consagrar! Amém.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Santo Espírito de Deus,<br/>Dá-me graça em teu poder!<br/>De ti procede todo o bem,<br/>Faze-me mais santo ser!</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

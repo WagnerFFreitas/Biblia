@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:57">
+  <properties>
+    <titles>
+      <title>HNC 214 - Convite e Aceitação</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c2</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="215"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ouço meu Senhor dizer:<br/>“Tuas forças débeis são,<br/>Nada podes merecer;<br/>Eu te dou a salvação.”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sim, eu venho a Ti, Senhor,<br/>Tua graça receber;<br/>Infinito é Teu amor,<br/>Sem limite o Teu poder.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pela fé em Ti, Jesus,<br/>Recebi perdão e paz;<br/>Tua graça lá na cruz<br/>A minha alma satisfaz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Quando estou em aflições,<br/>Tu és meu Consolador;<br/>Quando exposto às tentações,<br/>Meu auxílio e protetor.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lá na glória cantarei<br/>Tua eterna salvação;<br/>Junto ao trono renderei<br/>Meu louvor e gratidão.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">A Ti, Senhor Jesus,<br/>Venho como estou;<br/>Pois, sem nada merecer,<br/>Teu sangue me salvou.</tag>
+      </lines>
+    </verse>
+    <verse name="c2">
+      <lines>
+        <tag name="it">A Ti, Senhor Jesus,<br/>Venho como estou;<br/>Pois, sem nada merecer,<br/>Teu sangue me salvou. Amém.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

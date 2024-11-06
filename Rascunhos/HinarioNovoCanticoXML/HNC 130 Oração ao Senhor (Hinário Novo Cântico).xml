@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-10-12T13:50:06">
+  <properties>
+    <titles>
+      <title>HNC 130 - Oração ao Senhor</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="130"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dirijo a ti, Senhor, minha oração;<br/>Eu sei que tudo vês no coração.<br/>A ti venho adorar, a graça suplicar,<br/>O teu favor buscar, Senhor meu Deus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dirijo a ti, Senhor, minha oração;<br/>Do mal que pratiquei, a confissão!<br/>Sê Tu, ó meu Senhor, propício ao pecador,<br/>Concede, em teu amor, pleno perdão.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dirijo a ti, Senhor, minha oração,<br/>Divino amparo és em aflição.<br/>Tu podes consolar, minha alma confortar,<br/>E sempre me guardar de todo o mal.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Atende, ó meu Senhor, minha oração,<br/>Que humilde sobe a ti com gratidão;<br/>Imploro, meu Senhor, por Cristo, o Mediador,<br/>Que sempre em teu amor posso eu viver. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

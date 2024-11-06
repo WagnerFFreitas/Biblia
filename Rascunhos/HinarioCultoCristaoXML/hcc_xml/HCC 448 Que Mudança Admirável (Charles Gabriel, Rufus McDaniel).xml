@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:43">
+  <properties>
+    <titles>
+      <title>HCC 448 Que Mudança Admirável</title>
+      <title>McDaniel</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Charles Gabriel</author>
+      <author>Rufus McDaniel</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="448"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Que mudança admirável na vida provei,<br/>pois Cristo minha alma salvou!</lines>
+      <lines>Tenho a luz lá do céu que eu tanto busquei,<br/>pois Cristo minha alma salvou.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Oh, Cristo minha alma salvou!<br/>Sim, Cristo minha alma salvou!</lines>
+      <lines>Mesmo ali sobre a cruz, foi que Cristo Jesus<br/>da morte minha alma salvou.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Já deixei de trilhar as veredas do mal,<br/>pois Cristo minha alma salvou.</lines>
+      <lines>E feliz eu desfruto o favor divinal,<br/>pois Cristo minha alma salvou.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Sobre o vale da morte já brilha uma luz,<br/>pois Cristo minha alma salvou.</lines>
+      <lines>E eu avisto meu lar, no porvir, com Jesus,<br/>pois Cristo minha alma salvou.</lines>
+    </verse>
+  </lyrics>
+</song>

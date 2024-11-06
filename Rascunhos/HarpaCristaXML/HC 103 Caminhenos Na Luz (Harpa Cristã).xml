@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:46">
+  <properties>
+    <titles>
+      <title>HC103 - Caminhenos Na Luz</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Há uma luz, bendita luz,<br/>Que vem a nós dos céus;<br/>A face do Senhor Jesus<br/>Reflete o amor de Deus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Caminhemos na luz<br/>Caminhemos na luz de Deus.<br/>Caminhemos na luz<br/>Caminhemos na luz de Deus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Há uma gloriosa luz<br/>Guiando o nosso andar,<br/>Nos santos passos de Jesus,<br/>'Té chegarmos ao lar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Há uma luz, a santa luz<br/>Na qual podemos ver<br/>No lindo céu, a glória à flux,<br/>Que vamos receber.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Em santa e bendita luz.<br/>Cercado de esplendor,<br/>Virá O que morreu na cruz,<br/>Nosso amado Senhor.</lines>
+    </verse>
+  </lyrics>
+</song>

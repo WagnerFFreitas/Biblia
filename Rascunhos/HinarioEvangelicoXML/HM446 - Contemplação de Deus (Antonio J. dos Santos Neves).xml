@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:28">
+  <properties>
+    <titles>
+      <title>HM446 - Contemplação de Deus</title>
+      <title>Se nos cega o sol ardente,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Antonio J. dos Santos Neves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Se nos cega o sol ardente,<br/>Quando visto em seu fulgor,<br/>Quem contemplará Aquele<br/>Que do sol é Criador?<br/>Nem Adão, no Paraíso,<br/>Antes mesmo de pecar,<br/>Teve o grande privilégio<br/>De seu rosto contemplar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Luz, perante a qual é trevas<br/>Mesmo o sol a fulgurar,<br/>Nossos olhos, nus, humanos,<br/>Não te podem contemplar!<br/>Fogo em cima da Arca Santa,<br/>Sarça ardente do Sinai,<br/>Eis figuras, só, da glória,<br/>Do Senhor, do Eterno Pai.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Para termos nós com ele<br/>Franca e doce comunhão,<br/>Cristo, o Filho, fez-se carne,<br/>Fez-se nossa Redenção.<br/>Para que na glória eterna<br/>O vejamos já sem véu,<br/>Cristo padeceu a morte,<br/>Dando entrada para o Céu.</lines>
+    </verse>
+  </lyrics>
+</song>

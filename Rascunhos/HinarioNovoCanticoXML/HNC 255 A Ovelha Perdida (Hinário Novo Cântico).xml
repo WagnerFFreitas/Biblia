@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:59">
+  <properties>
+    <titles>
+      <title>HNC 255 - A Ovelha Perdida</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="255"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Noventa e nove ovelhas vão<br/>Seguras ao curral.<br/>Mas uma se extraviou<br/>Do aprisco pastoral,<br/>Vagando em montes de terror,<br/>Distante do fiel Pastor,<br/>Distante do fiel Pastor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>“Noventa e nove a Ti, Pastor,<br/>Não podem contentar?”<br/>“A errante é minha” respondeu,<br/>“Zeloso a irei buscar!<br/>Nos montes há perigos mil.<br/>De novo a quero em meu redil,<br/>De novo a quero em meu redil.”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ninguém jamais imaginou<br/>O quanto padeceu;<br/>Buscando a ovelha tão rebel,<br/>Terrível dor sofreu.F<br/>Foi, pois, assim que o Bom Pastor<br/>Salvou a ovelha por amor,<br/>Salvou a ovelha por amor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vem da montanha exultação:<br/>É a voz do Bom Pastor!<br/>Ressoa em notas triunfais<br/>O Salmo Vencedor.<br/>E os anjos cantam lá nos céus:<br/>“Voltou a ovelha para Deus,<br/>Voltou a ovelha para Deus.”</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:53">
+  <properties>
+    <titles>
+      <title>HNC 124 - Benigna Luz</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="124"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Benigna luz, os passos vacilantes<br/>Me vem guiar!<br/>É noite escura, e vejo os céus distantes,<br/>Me doce lar.<br/>Não peço ver da estrada as longas cenas;<br/>Oh! Basta um passo, um passo mais, apenas.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nem sempre humilde supliquei outrora<br/>A tua luz,<br/>Porém minha alma o teu perdão implora,<br/>Ó meu Jesus!<br/>O orgulho vão minha alma endurecia;<br/>Oh! Dá-me aqui visão de um novo dia.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O teu poder conduzirá seguro<br/>Meu caminhar;<br/>Descansarei, vencido o trilho escuro,<br/>No doce lar.<br/>Ali verei, na luz da eterna aurora,<br/>A tua face que não vejo agora. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

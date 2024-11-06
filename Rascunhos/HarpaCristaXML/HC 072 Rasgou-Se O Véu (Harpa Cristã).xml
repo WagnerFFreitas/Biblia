@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:41">
+  <properties>
+    <titles>
+      <title>HC072 - Rasgou-Se O Véu</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rasgou-se o véu, franca ficou a entrada;<br/>Confiança temos, para ali entrar,<br/>Onde a divina glória revelada,<br/>Outora, não podíamos mirar;<br/>Por Cristo, entrando, nada ali tememos;<br/>A glória brilha, sem nos ofuscar;<br/>Na luz estamos e permanecemos<br/>Firmes, tranqüilos, sem mais vacilar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Contigo ali, Senhor, nos encontramos,<br/>Pois nos levaste já ao santo Pai,<br/>Em cuja graça aceitos, sempre estamos,<br/>Em cujo amor tão grande nos atrai<br/>A Ti, ó filho - em Ti, ó bem amado!<br/>E só em Ti temos aceitação;<br/>E quem, no sangue estando já lavado,<br/>Isento está da eterna perdição.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó Deus, a Ti de coração louvamos,<br/>Pois de Ti nos quiseste aproximar,<br/>Quando separados de Ti ficamos,<br/>Por tua lei divina, violar,<br/>Teus santos seguidores, consagrados,<br/>No sangue do bendito Salvador,<br/>O culto e adoração Te apresentamos,<br/>Porque nos chamaste, ó bom Senhor.</lines>
+    </verse>
+  </lyrics>
+</song>

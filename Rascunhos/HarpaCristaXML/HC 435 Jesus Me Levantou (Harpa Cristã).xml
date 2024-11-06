@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:41">
+  <properties>
+    <titles>
+      <title>HC435 - Jesus Me Levantou</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Salvador, por Seu amor,<br/>Ao mundo vil por nós baixou,<br/>E dum abismo de horror,<br/>Minh'alma levantou!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Que salvação me deu Jesus,<br/>A qual na cruz p'ra mim ganhou,<br/>Estando em sombra, à plena luz,<br/>Com seu poder me levantou!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A Sua voz eu resisti!<br/>Enquanto amante me chamou,<br/>Mas Sua graça recebi,<br/>A qual me levantou!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh! Quanta dor sofreu por mim,<br/>Na cruz pregado espirou.<br/>Mas me salvou Jesus assim,<br/>Ali me levantou!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Que dom feliz em mim se vê,<br/>Pois Sua graça me salvou,<br/>Mas não compreendo eu, por quê<br/>Jesus me levantou!</lines>
+    </verse>
+  </lyrics>
+</song>

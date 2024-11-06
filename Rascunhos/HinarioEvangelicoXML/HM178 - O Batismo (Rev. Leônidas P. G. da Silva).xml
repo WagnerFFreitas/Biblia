@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:31">
+  <properties>
+    <titles>
+      <title>HM178 - O Batismo</title>
+      <title>Nós, Senhor, nos alegramos</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Leônidas P. G. da Silva</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nós, Senhor, nos alegramos<br/>Ao teu mando obedecer,<br/>Pois tu mesmo nos mandaste<br/>O batismo receber;<br/>Vem agora, Deus de amor,<br/>Conceder-nos teu favor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Este selo nos recorda<br/>Mandamento do Senhor;<br/>É figura que nos fala<br/>Do poder renovador.<br/>Vem por ele à Igreja unir<br/>Quem te quer aqui seguir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Morte ao mundo declaramos,<br/>Morte ao vil pecado, sim;<br/>Com Jesus ao nosso lado,<br/>A vitória é certa enfim;<br/>Aos que vamos batizar<br/>Vem tu mesmo consagrar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mortos com Jesus, vivamos<br/>Para Cristo só servir;<br/>Vivos com Jesus devemos<br/>Sua imagem refletir;<br/>Vem, Senhor, Vem tu fazer<br/>Tua graça em nós crescer.</lines>
+    </verse>
+  </lyrics>
+</song>

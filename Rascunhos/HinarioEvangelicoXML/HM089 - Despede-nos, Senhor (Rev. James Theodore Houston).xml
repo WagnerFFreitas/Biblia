@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:15">
+  <properties>
+    <titles>
+      <title>HM089 - Despede-nos, Senhor</title>
+      <title>Grande Deus! Em paz, agora,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. James Theodore Houston</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Grande Deus! Em paz, agora,<br/>Vem, despede-nos, Senhor,<br/>Certos de fruir as bênçãos<br/>Que provêm do teu amor,<br/>Dá-nos forças neste mundo de amargor!</lines>
+    </verse>
+  </lyrics>
+</song>

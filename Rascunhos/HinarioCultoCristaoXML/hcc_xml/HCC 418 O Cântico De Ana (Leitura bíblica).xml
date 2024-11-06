@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:36">
+  <properties>
+    <titles>
+      <title>HCC 418 O Cântico De Ana</title>
+      <title>1 Samuel 2:1-4, 6-10</title>
+    </titles>
+    <copyright>1 Samuel 2:1-4, 6-10</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="418"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O meu coração exulta no Senhor; o meu poder está exaltado no Senhor;<br/>a minha boca dilata-se contra os meus inimigos, porquanto me regozijo na tua salvação.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ninguém há santo como o Senhor; não há outro fora de ti; não há rocha como o nosso Deus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Não faleis mais palavras tão altivas, nem saia da vossa boca a arrogância; porque o Senhor é o Deus da sabedoria, e por ele são pesadas as ações.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Os arcos dos fortes estão quebrados, e os fracos são cingidos de força.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O Senhor é o que tira a vida e a dá (...) O Senhor empobrece e enriquece; abate e também exalta.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Levanta do pó o pobre, do monturo eleva o necessitado, para os fazer sentar entre os príncipes, para os fazer herdar um trono de glória;<br/>porque do Senhor são as colunas da terra, sobre elas pôs ele o mundo.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ele guardará os pés dos seus santos, porém os ímpios ficarão mudos nas trevas, porque o homem não prevalecerá pela força.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Os que contendem com o Senhor serão quebrantados; desde os céus trovejará contra eles.<br/>O Senhor julgará as extremidades da terra; dará força ao seu rei, e exaltará o poder do seu ungido.</lines>
+    </verse>
+  </lyrics>
+</song>

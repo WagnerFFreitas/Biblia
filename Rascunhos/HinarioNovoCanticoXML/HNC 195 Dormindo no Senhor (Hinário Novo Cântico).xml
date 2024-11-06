@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:56">
+  <properties>
+    <titles>
+      <title>HNC 195 - Dormindo no Senhor</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="195"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dormindo no Senhor,<br/>Bendito é nosso irmão!<br/>Perante o trono, vencedor,<br/>Desfruta a salvação.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dormindo no Senhor,<br/>Liberto já do mal.<br/>Deixando o mundo e seu labor,<br/>Descansa em paz real.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dormindo no Senhor,<br/>Na glória de Jesus,<br/>Perante o grande Redentor,<br/>Nos céus, vivendo em luz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dormindo no Senhor!<br/>É doce assim morrer!<br/>Do crente a morte é sem temor,<br/>É ir com Deus viver.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dormindo no Senhor,<br/>Ao pó seu corpo irá,<br/>Mas Deus, um dia, com poder<br/>O ressuscitará.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Os mortos viverão!<br/>E os vivos, com fulgor,<br/>Ao teu encontro subirão!<br/>Oh! Vem, Jesus Senhor!</lines>
+    </verse>
+  </lyrics>
+</song>

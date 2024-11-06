@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:43">
+  <properties>
+    <titles>
+      <title>HC086 - Satisfeito Com Cristo</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh! 'stou satisfeito com Cristo,<br/>Porque Ele minh'alma salvou;<br/>E sobre o madeiro, sofrendo,<br/>O Seu grande amor revelou.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh! 'stou satisfeiro com Cristo,<br/>Confesso-O por meu Salvador:<br/>Embora de nada ser digno,<br/>Desfruto do Seu grande amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh! s'tou satisfeito com Cristo,<br/>De triste, tornei-me feliz,<br/>Ouvindo o Seu santo Evangelho,<br/>E crendo no que Ele me diz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh! 'stou satisfeito com Cristo,<br/>E sei que vai logo voltar;<br/>Virá com poder glorioso,<br/>A fim de Seu povo levar.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:07">
+  <properties>
+    <titles>
+      <title>HM036 - Alvo Mais que a Neve</title>
+      <title>Bendito seja o Cordeiro</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Henry Maxwell Wright</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bendito seja o Cordeiro<br/>Que na cruz por nós morreu;<br/>Bendito seja o seu sangue,<br/>Que por nós ali ele verteu!<br/>Eis nesse sangue lavados,<br/>Tendo puro o coração,<br/>Os pecadores remidos,<br/>Que perante Deus estão!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Alvo ainda mais que a neve!<br/>Alvo ainda mais que a neve!<br/>Sim, nesse sangue lavado,<br/>Oh! Meu Jesus ficarei</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quão espinhosa a coroa<br/>Que Jesus por nós levou;<br/>Oh! Quão profundas as chagas<br/>Que nos provam quanto amou!<br/>Eis nessas chagas pureza<br/>Para o maior pecador,<br/>A quem mais alvo que a neve,<br/>O teu sangue faz, Senhor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se nós a ti confessarmos,<br/>E seguirmos tua luz,<br/>Tu não somente perdoas,<br/>Purificas ó Jesus<br/>Lavas de todo o pecado!<br/>Que maravilhas de amor,<br/>A nós mais alvos que a neve<br/>O teu sangue faz, Senhor!</lines>
+    </verse>
+  </lyrics>
+</song>

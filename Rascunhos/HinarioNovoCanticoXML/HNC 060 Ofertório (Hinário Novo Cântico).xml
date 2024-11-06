@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:50">
+  <properties>
+    <titles>
+      <title>HNC 060 - Ofertório</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="60"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Em tudo as Tuas mãos, Senhor,<br/>Nos têm enriquecido,<br/>E às provisões do Teu amor,<br/>Bondosas, conduzido.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>De Ti procede a salvação<br/>E as bênçãos incontáveis<br/>Que, dia a dia, ó Pai, nos dão<br/>As Tuas mãos amáveis.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>De Ti vivemos nós, Senhor,<br/>E em Ti nos alegramos;<br/>Na comunhão do puro amor<br/>Que em Cristo desfrutamos.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Com mui sincero coração<br/>Oferta aqui trazemos;<br/>Recebe com gratidão<br/>De quanto a Ti devemos. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

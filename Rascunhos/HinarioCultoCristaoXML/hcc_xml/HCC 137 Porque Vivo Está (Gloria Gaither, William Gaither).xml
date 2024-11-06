@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:41">
+  <properties>
+    <titles>
+      <title>HCC 137 Porque Vivo Está</title>
+      <title>Resurrection</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Gloria Gaither</author>
+      <author>William Gaither</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="137"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Deus enviou Jesus, seu Filho,<br/>e seu amor perdão nos dá.</lines>
+      <lines>Na cruz morreu por meus pecados,<br/>mas ressurgiu e vivo com o Pai está.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Porque vivo está, o amanhã enfrento.<br/>Sim, vivo está, não temerei.</lines>
+      <lines>Pois eu bem sei que é dele o meu futuro,<br/>e a vida vale a pena. Cristo vivo está.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Que belo é um nenezinho,<br/>e que prazer um filho dá!</lines>
+      <lines>Maior prazer é ter certeza<br/>de um feliz futuro: Cristo vivo está.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Um dia irei passar o rio,<br/>vencer a morte sem temor.</lines>
+      <lines>Morrer pra mim será vitória:<br/>verei a glória de Jesus, meu Salvador.</lines>
+    </verse>
+  </lyrics>
+</song>

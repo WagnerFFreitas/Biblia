@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:30">
+  <properties>
+    <titles>
+      <title>CC 507 Minha Coroa</title>
+      <title>Stars In My Crown</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>John Sweney</author>
+      <author>Eliza Hewitt</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="507"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Meu deleite é pensar numa terra além,<br/>onde irei, finda a luta de aquém;</lines>
+      <lines>quando por meu Jesus conseguir lá chegar,<br/>na coroa eu estrelas terei?</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Na coroa as estrelas preciosas terei,<br/>quando o dia de glória raiar?</lines>
+      <lines>Quando Deus me acordar<br/>e da tumba me erguer,<br/>na coroa eu estrelas terei?</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">No poder de Jesus vou orar e lutar,<br/>para ao céu muitas almas guiar;</lines>
+      <lines>quero, pois, merecer nesse dia final<br/>a coroa de glória a brilhar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Oh! que gozo será o seu rosto mirar,<br/>e, prostrado aos seus pés, o adorar!</lines>
+      <lines>Na cidade celeste de Cristo, meu Rei,<br/>a coroa da vida terei?</lines>
+    </verse>
+  </lyrics>
+</song>

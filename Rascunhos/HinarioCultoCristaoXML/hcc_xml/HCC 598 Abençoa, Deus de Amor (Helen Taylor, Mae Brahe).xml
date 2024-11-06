@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:05:12">
+  <properties>
+    <titles>
+      <title>HCC 598 Abençoa, Deus de Amor</title>
+      <title>Bless This House</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Helen Taylor</author>
+      <author>Mae Brahe</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="598"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Abençoa, Deus de amor,<br/>esta casa com favor.<br/>Às paredes dá, ó Deus,<br/>tua proteção dos céus.</lines>
+      <lines>Vem o teto defender<br/>da miséria e do sofrer;<br/>pela porta faz entrar<br/>alegria e amor sem par.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Ilumina o interior<br/>com teu divinal fulgor,<br/>e que cada coração<br/>busque a tua direção.</lines>
+      <lines>Livra-nos de todo mal<br/>nesta vida terreal.<br/>E prepara-nos, ó Deus,<br/>para o eterno lar dos céus. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

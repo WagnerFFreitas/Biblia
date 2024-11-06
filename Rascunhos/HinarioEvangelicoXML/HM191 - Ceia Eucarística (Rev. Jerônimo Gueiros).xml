@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:34">
+  <properties>
+    <titles>
+      <title>HM191 - Ceia Eucarística</title>
+      <title>Eis-me aqui, Senhor bondoso,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Jerônimo Gueiros</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eis-me aqui, Senhor bondoso,<br/>Tua Ceia a celebrar,<br/>E por ela, neste instante,<br/>Tua morte anunciar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Através do pão partido,<br/>Vem fazer-me discernir<br/>O teu corpo glorioso<br/>Que nas nuvens tem de vir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Do teu sangue e tua carne<br/>Pela fé já me nutri,<br/>Pois da Vida o Pão me deste<br/>Quando em ti, Jesus, eu cri.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Proclamando a tua morte,<br/>Eu relembro o grande amor<br/>Que inspirou teu sacrifício<br/>Por mim, pobre pecador.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Que o amor aqui lembrado<br/>Toque o pétreo coração<br/>Dos que, indignos, jazem fora<br/>Desta doce Comunhão!</lines>
+    </verse>
+  </lyrics>
+</song>

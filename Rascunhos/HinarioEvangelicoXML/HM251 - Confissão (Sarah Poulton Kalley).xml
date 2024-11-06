@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:45">
+  <properties>
+    <titles>
+      <title>HM251 - Confissão</title>
+      <title>Tu que sondaste a mim, ó Deus,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu que sondaste a mim, ó Deus,<br/>Não há segredo aos olhos teus;<br/>Prevês por onde quero andar,<br/>E sabes como vou falar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Teus olhos vêem meu interior!<br/>Quem compreenderá, Senhor,<br/>Tua ciência e teu poder?<br/>Pois infinito é teu saber.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nas trevas e na clara luz<br/>A mão divina me conduz;<br/>E, se fugindo acaso eu vou,<br/>Por teu poder cercado estou.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó Deus da minha salvação,<br/>Vem pesquisar meu coração;<br/>Sondar e ver o meu sentir<br/>E minha vida conduzir.</lines>
+    </verse>
+  </lyrics>
+</song>

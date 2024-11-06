@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:49:01">
+  <properties>
+    <titles>
+      <title>HNC 319 - Obreiros em Marcha</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="319"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eis marchamos para aquele bom país,<br/>Onde o crente, sim, é Cristo quem o diz,<br/>Com o Salvador, vivendo ali feliz,<br/>Vai com Ele descansar.<br/>Trabalhemos, pois, com zelo e com vigor,<br/>Constrangidos pelo Seu imenso amor;<br/>Bem servindo em tudo ao grande Salvador,<br/>Eis que a vida vai findar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eis conosco está o insigne Capitão,<br/>Que nos assegura eterna salvação!<br/>Eis da santa fé o invicto pavilhão!<br/>Vamos, vamos trabalhar!<br/>Eis, avante! Nada temos que temer!<br/>Por Jesus havemos sempre de vencer.<br/>Trabalhemos, pois, até ao anoitecer<br/>E o trabalho aqui findar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Revestidos da paciência de Jesus,<br/>Redimidos para andar aqui na luz,<br/>Exaltemos juntos hoje a sua Cruz,<br/>Vamos, vamos trabalhar.<br/>Os perdidos vamos com amor buscar!<br/>Aos descrentes vamos logo declarar<br/>Que Jesus quer, hoje, a todos resgatar!<br/>Oh! Sim, vamos trabalhar!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Acordai! Acordai! Despertai! Despertai!<br/>E cantai! Sim, cantai: O Senhor não tardará!<br/>Eis marchamos para aquele bom país,<br/>Onde o crente, sim, é Cristo quem o diz,<br/>Com o Salvador, vivendo ali feliz,<br/>Vai com Ele descansar.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

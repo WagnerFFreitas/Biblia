@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:23">
+  <properties>
+    <titles>
+      <title>CC 469 Corajosos</title>
+      <title>Royal Banner</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>James McGranahan</author>
+      <author>Daniel Whittle</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="469"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Um pendão real vos entregou o Rei,<br/>a vós, soldados seus;</lines>
+      <lines>corajosos, pois, de tudo o defendei,<br/>marchando para os céus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Com valor, sem temor,<br/>por Cristo prontos a sofrer,</lines>
+      <lines>bem alto erguei o seu pendão,<br/>firmes sempre até morrer!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Eis formados já malignos batalhões,<br/>do grande usurpador!</lines>
+      <lines>Revelai-vos hoje bravos campeões;<br/>avante sem temor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Oh! sejamos todos a Jesus leais,<br/>e a seu real pendão!</lines>
+      <lines>Os que na batalha sempre são fiéis<br/>com ele reinarão.</lines>
+    </verse>
+  </lyrics>
+</song>

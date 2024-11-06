@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:52">
+  <properties>
+    <titles>
+      <title>HNC 094 - A Porta da Salvação</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="94"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>É franca a porta divinal,<br/>Aberta a todo o mundo<br/>Poe ela o pecador mortal<br/>Avista amor profundo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Entrai! Jesus vos dá perdão,<br/>As culpas redimindo.<br/>Entrai, buscando a salvação,<br/>Pois seu amor é infindo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aberta, sim, de par em par!<br/>Entrai com grande urgência,<br/>Pois Deus a todos quer mostrar<br/>Real munificência.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Oh! Graça imensa! Pois, assim,<br/>Jesus convida: Vinde a mim!<br/>A mim, a mim;<br/>Convida: Vinde a mim!</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

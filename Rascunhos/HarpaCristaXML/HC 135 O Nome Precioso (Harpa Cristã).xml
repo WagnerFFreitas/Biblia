@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:52">
+  <properties>
+    <titles>
+      <title>HC135 - O Nome Precioso</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Teu nome é precioso, amado Salvador,<br/>E grande, glorioso, nos enche de amor,<br/>Nós todos Te adoramos com verdadeira fé,<br/>Também nos humilhamos, aos Teus santos pés.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Quantas bênçãos<br/>prometidas<br/>No Teu nome, ó Salvador!<br/>Hoje tenho vida. Graça é concedida,<br/>No Teu nome, ó Salvador!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Teu nome é sagrado, nos dá consolação;<br/>Por Ele foi-nos dado, do céu, real perdão;<br/>Aviva a esperança, aumenta nosso amor,<br/>Dá firme confiança e mais so Teu vigor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Teu nome é nossa vida e paz, ó Salvador!<br/>A arca oferecida ao pobre pecador;<br/>Por Ele abençoada é toda a nação,<br/>Que foi predestinada á grande vocação.</lines>
+    </verse>
+  </lyrics>
+</song>

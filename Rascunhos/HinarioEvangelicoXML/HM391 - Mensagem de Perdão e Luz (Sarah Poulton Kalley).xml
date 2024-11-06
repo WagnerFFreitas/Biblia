@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:14">
+  <properties>
+    <titles>
+      <title>HM391 - Mensagem de Perdão e Luz</title>
+      <title>Vai alma tristonha,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vai alma tristonha,<br/>Teu pranto depor!<br/>Enterra os cuidados<br/>Aos pés do Senhor!<br/>Ao Mestre confia<br/>Toda essa aflição,<br/>Jesus te concede<br/>Real compaixão!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Teus sustos e medos<br/>Descobre ao Senhor!<br/>Seu mando transforma<br/>A noite em fulgor!<br/>Levanta a cabeça!<br/>Cedo há de raiar<br/>O sol que dissipa<br/>Nuvens de pesar!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Há muitos que choram<br/>Angústia maior;<br/>Há corações tristes<br/>De culpas e dor!<br/>Vai! Leva a mensagem<br/>De perdão e luz!<br/>Vai! Deixa as tristezas<br/>Nas mãos de Jesus!</lines>
+    </verse>
+  </lyrics>
+</song>

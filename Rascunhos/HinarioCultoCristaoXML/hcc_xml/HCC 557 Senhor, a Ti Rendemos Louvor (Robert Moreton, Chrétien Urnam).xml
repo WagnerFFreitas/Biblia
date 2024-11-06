@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:05:04">
+  <properties>
+    <titles>
+      <title>HCC 557 Senhor, a Ti Rendemos Louvor</title>
+      <title>Rutherford</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Robert Moreton</author>
+      <author>Chrétien Urnam</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="557"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Senhor, a ti rendemos<br/>louvor e gratidão<br/>por servos que tu chamas,<br/>que teus obreiros são.</lines>
+      <lines>Os campos já branquejam,<br/>e vamos trabalhar.<br/>São uns os que semeiam,<br/>são outros a ceifar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Somente a ti compete<br/>ceifeiros escolher.<br/>Envia os que chamares,<br/>conforme o teu querer.</lines>
+      <lines>Saúde dá-lhes sempre<br/>e firmes convicções.<br/>Fiéis obreiros manda<br/>com limpos corações.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Conforta os teus ministros<br/>nas dores e aflições<br/>e torna realidade<br/>seus sonhos e visões.</lines>
+      <lines>Confirma seu trabalho<br/>com bênçãos celestiais.<br/>Que ajuda tenham eles<br/>de irmãos e irmãs leais.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Que tenham esperança,<br/>amor e muita fé,<br/>que em lutas eles fiquem<br/>seguros e de pé.</lines>
+      <lines>Que façam teu serviço<br/>com zelo e com fervor,<br/>a todos proclamando<br/>a graça do Senhor.</lines>
+    </verse>
+  </lyrics>
+</song>

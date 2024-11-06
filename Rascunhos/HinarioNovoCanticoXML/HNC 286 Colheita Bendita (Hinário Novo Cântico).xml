@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:49:00">
+  <properties>
+    <titles>
+      <title>HNC 286 - Colheita Bendita</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="286"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ceifeiros somos nós, fiéis,<br/>Ceifando para o Rei dos reis<br/>Os frutos prontos a colher<br/>Que em derredor se estão a ver.<br/>Assim, a Cristo, o Salvador,<br/>Rendemos preito de louvor,<br/>Ao nosso Mestre, lá no Céu,<br/>Que sobre a cruz por nós morreu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nós trabalhamos por Jesus<br/>Que para os campos nos conduz,<br/>E na Seara imensa quer<br/>Obreiros novos receber.<br/>Ainda há muito o que fazer,<br/>E tanto fruto que colher!<br/>Não ouves Cristo perguntar:<br/>“Quem quer por mim ir trabalhar?”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Estão as horas a fugir;<br/>O teu Senhor não tarda em vir.<br/>Tu queres fruto ao Céu levar,<br/>Ou folhas só apresentar?<br/>Oh! Não demores a atender!<br/>A noite em breve vai descer.<br/>Conosco toma o teu lugar<br/>E por Jesus vem trabalhar!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Vamos nós obedecer! Vamos à colheita!<br/>Para quando anoitecer ver a obra feita.<br/>Pouco tempo restará,<br/>Breve o prazo acabará;<br/>Breve, breve, breve acabará!</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:49:00">
+  <properties>
+    <titles>
+      <title>HNC 281(A) - Fronte Ensanguentada</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="281-A"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A fronte que uma vez sangrou<br/>Agora brilha em luz!<br/>Real é o halo que adornou<br/>O Vencedor Jesus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ele às alturas ascendeu,<br/>À glória se elevou!<br/>E é a eterna luz do céu,<br/>O Rei que se humilhou!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ele é dos anjos o prazer,<br/>Dos salvos, Redentor.<br/>A estes faz-se conhecer<br/>Nos bens do Seu amor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A nós o escárnio dessa cruz<br/>Completa graça traz!<br/>Um nome eterno dá Jesus<br/>De glória, gozo e paz!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Os que carregam sua cruz,<br/>Com Cristo hão de reinar.<br/>Verão de perto a sua luz<br/>No sempiterno lar.</lines>
+    </verse>
+  </lyrics>
+</song>

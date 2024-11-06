@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:45">
+  <properties>
+    <titles>
+      <title>HC458 - Guia Meus Passos</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Guia me passos, Senhor Jesus,<br/>Senhor de consolação,<br/>Leva-me à estrada da Tua luz,<br/>À fonte do Teu perdão.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lá fora, eis a chorar, sem Deus,<br/>Sem luz, sem lar.<br/>O pecador... Ouve, Senhor,<br/>a queixa do pecador.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tuas ovelhas fiéis conduz<br/>Por vales, vergéis em flor,<br/>Ao Teu aprisco, Senhor Jesus...<br/>Jesus, nosso bom Pastor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na larga estrada vai triste e só<br/>O filho de Belial...<br/>Triste, faminto, envolto em pó,<br/>Escravo infeliz do mal.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Senhor dos simples, Senhor Jesus,<br/>Oh! Glorioso Deus de amor!<br/>A ovelha errante atrai, conduz<br/>Ao Teu redil, bom Pastor.</lines>
+    </verse>
+  </lyrics>
+</song>

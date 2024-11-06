@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:50">
+  <properties>
+    <titles>
+      <title>HC478 - Eis-Me, Jesus</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eis-me, Jesus, Te louvando,<br/>Pois Tu padeceste assim;<br/>O sangue Teu derramado,<br/>Na dura cruz por mim.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Glória, aleluia! Ó Cordeiro,<br/>Tua vida deu-me paz!<br/>Dou-Te louvor verdadeiro,<br/>Por graça tão veraz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Do Teu amor me encheste,<br/>Oh! Maravilhoso Jesus;<br/>Quando o Espírito me deste,<br/>Trazendo gozo à flux!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Os Teus discípulos, fizeste<br/>Em línguas estranhas falar;<br/>O mesmo a mim concedeste,<br/>E dás a quem buscar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Que Teu Espírito desça,<br/>A fim de Teu povo selar,<br/>Realizando a promessa<br/>Naquele que confiar.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Os dons do Santo Espírito<br/>São nove, que Cristo nos dá;<br/>E ao que pede contrito,<br/>Jesus não os negará.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>É Teu amor, céu e gozo,<br/>No qual sempre me alegrarei;<br/>Ao meu Senhor tão bondoso,<br/>Mil glórias Lhe darei!</lines>
+    </verse>
+  </lyrics>
+</song>

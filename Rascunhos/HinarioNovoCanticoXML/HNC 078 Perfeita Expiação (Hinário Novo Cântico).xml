@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" modifiedIn="OpenLP 2.0.5" modifiedDate="2014-09-14T17:14:41">
+  <properties>
+    <titles>
+      <title>HNC 078 - Perfeita Expiação</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="78"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sacrifícios imolados<br/>Sobre o sanguinoso altar<br/>Não tiravam os pecados;<br/>Não podiam expiar<br/>Nossas culpas, nossas culpas,<br/>Nem remorsos dissipar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mas o sangue precioso<br/>Que na cruz o Redentor<br/>Derramou, tão generoso,<br/>Tem poder expiador:<br/>Purifica, purifica<br/>O mais ímpio pecador.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Triste choro o meu pecado,<br/>Mas Jesus me dá perdão;<br/>E por Ele perdoado,<br/>Não verei condenação.<br/>O Cordeiro, o Cordeiro<br/>Dá completa remissão.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Todo o peso do castigo <br/>– Punição que mereci! – <br/>Lá na cruz, supremo Amigo,<br/>Foi lançado sobre ti!<br/>Vou cantando, vou cantando:<br/>Minha culpa estava ali!</lines>
+    </verse>
+  </lyrics>
+</song>

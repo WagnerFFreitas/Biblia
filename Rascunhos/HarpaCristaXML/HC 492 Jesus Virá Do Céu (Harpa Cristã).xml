@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:52">
+  <properties>
+    <titles>
+      <title>HC492 - Jesus Virá Do Céu</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus em breve virá do céu,<br/>Cumprir o que subindo prometeu,<br/>Tudo revela que virá presto,<br/>Com Ele iremos p'ra o reino Seu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus com sangue me tem<br/>comprado,<br/>E pelo Espírito me tem selado;<br/>'Stou remido, tenho o penhor<br/>Da minha herança em meu Senhor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E, pelo mundo sem descansar,<br/>Os mensageiros 'stão a anunciar<br/>O Evangelho do Filho amado,<br/>Que a este mundo quis resgatar!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Do mundo inteiro já vão chegar!<br/>Em breve tu não achas mais lugar;<br/>Se vir desejas, não te demores,<br/>Mas vem depressa p'ra te salvar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Já vem o dia, clareando está,<br/>Pois a trombeta em breve soará,<br/>A Sua Noiva em vestes brancas,<br/>Jesus p'ra glória conduzirá.</lines>
+    </verse>
+  </lyrics>
+</song>

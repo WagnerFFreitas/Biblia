@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:17">
+  <properties>
+    <titles>
+      <title>HM408 - Proclamai as Boas Novas</title>
+      <title>Eis os milhões, que, em trevas e pecados,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Henry Maxwell Wright</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eis os milhões, que, em trevas e pecados,<br/>Vivem perdidos, sem o Salvador!<br/>Oh! Quem irá as novas proclamando:<br/>Que Deus, em Cristo, salva o pecador?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>"Todo o poder o Pai me deu,<br/>Na terra como lá no céu!<br/>Ide, pois, anunciai o Evangelho,<br/>E eis-me convosco sempre!"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Portas abertas eis por todo o mundo!<br/>Cristãos, erguei-vos! Sempre avante andai!<br/>Crentes em Cristo, uni as vossas forças,<br/>Da Escravidão os povos libertai!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó Deus! Apressa o glorioso dia,<br/>Em que os remidos todos se unirão,<br/>E em coro santo, excelso, jubiloso,<br/>Eternamente, glória te darão!</lines>
+    </verse>
+  </lyrics>
+</song>

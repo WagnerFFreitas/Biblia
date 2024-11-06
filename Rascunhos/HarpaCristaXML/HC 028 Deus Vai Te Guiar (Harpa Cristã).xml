@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:36">
+  <properties>
+    <titles>
+      <title>HC028 - Deus Vai Te Guiar</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Andas carregado de tristeza e dor,<br/>Sem nemhum auxílio, nem um Salvador?<br/>Ouve a mensagem de teu bom Jesus,<br/>E tem mais coragem, leva a tua cruz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Deus vai te guiar com Sua<br/>forte mão;<br/>Podes descansar na tribulação;<br/>Seja tua vida livre de pesar;<br/>Em tristeza e lida Deus vai te guiar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Toda carga por ti, Ele quer levar;<br/>Alma dolorida, ouve o Seu falar;<br/>Senda espinhosa Ele já andou,<br/>Morte afrontosa por ti suportou.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se estás tentado, Deus te ajudará,<br/>Sempre confiando, te libertará;<br/>As pisadas segue do teu Salvador,<br/>Crendo em Deus, prossegue, seja como for.</lines>
+    </verse>
+  </lyrics>
+</song>

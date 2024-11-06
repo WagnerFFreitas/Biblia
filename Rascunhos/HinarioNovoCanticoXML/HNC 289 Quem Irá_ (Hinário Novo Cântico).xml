@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:49:00">
+  <properties>
+    <titles>
+      <title>HNC 289 - Quem Irá?</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="289"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eis os milhões que, em trevas tão medonhas,<br/>Jazem perdidos, sem o Salvador!<br/>Oh! Quem irá as novas proclamando<br/>Que Deus, em Cristo, salva o pecador?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Portas abertas, eis por todo o mundo,<br/>Servos de Deus avante sempre andai!<br/>Crentes em Cristo, uni as vossas forças:<br/>Da escravidão os povos libertai.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó Deus! Apressa o glorioso dia<br/>Em que os remidos todos se unirão,<br/>E em coro santo, excelso, jubiloso,<br/>Eternamente glória a ti darão!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">"Todo o poder o pai me deu<br/>Na terra como lá no céu!<br/>Ide ao mundo anunciar o Evangelho,<br/>E eis-me convosco sempre!"</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

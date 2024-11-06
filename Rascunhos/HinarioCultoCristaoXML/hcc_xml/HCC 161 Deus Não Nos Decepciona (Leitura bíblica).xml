@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:46">
+  <properties>
+    <titles>
+      <title>HCC 161 Deus Não Nos Decepciona</title>
+      <title>Salmos 41:9-11</title>
+    </titles>
+    <copyright>Salmos 41:9-11</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="161"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O meu próprio amigo íntimo em quem eu tanto confiava, e que comia do meu pão, levantou contra mim o seu calcanhar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mas tu Senhor, compadece-te de mim e levanta-me.<br/>Por isso conheço eu que te deleitas em mim.</lines>
+    </verse>
+  </lyrics>
+</song>

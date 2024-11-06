@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:19">
+  <properties>
+    <titles>
+      <title>HC309 - Ao Findar Do Dia</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Finda a lida deste dia, ó bendito Salvador;<br/>Eis-nos todos reunidos a cantar o Teu louvor;<br/>Vem encher-nos do Teu santo e doce amor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A leitura da Palavra, vem, Senhor, abençoar,<br/>E no coração dos crentes Teus ensinos vem gravar.<br/>Tuas bênçãos continua a derramar!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Congregados nos acharmos constrangidos peloamor<br/>Que emana do Teu nome, ó amado Salvador;<br/>Aprendendo no Teu livro, ó Senhor! Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

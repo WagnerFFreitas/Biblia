@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:44">
+  <properties>
+    <titles>
+      <title>CC 574 Pátria Brasileira</title>
+      <title>National Anthem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Melodia inglesa</author>
+      <author>Samuel Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="574"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Do meu país Brasil,<br/>ó terra varonil,<br/>é meu cantar.<br/>Que matas virginais,<br/>que rios sem rivais<br/>e lindos litorais<br/>tu tens sem par!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu, minha Pátria, tens<br/>maravilhosos bens<br/>no seio teu;<br/>tão belos laranjais<br/>e ricos cafezais,<br/>riquezas naturais,<br/>orgulho meu!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sê livre, meu país,<br/>sê forte, sê feliz<br/>sob justas leis;<br/>aos filhos da nação<br/>concede proteção<br/>do crime e da traição,<br/>ó Rei dos reis!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>E faze-a prosperar,<br/>e sempre caminhar<br/>na tua luz;<br/>que sempre com favor<br/>e com excelso amor<br/>te cerque o bom Senhor<br/>e Rei, Jesus!</lines>
+    </verse>
+  </lyrics>
+</song>

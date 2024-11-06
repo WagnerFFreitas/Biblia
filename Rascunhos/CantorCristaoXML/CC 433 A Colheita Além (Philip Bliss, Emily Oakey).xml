@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:16">
+  <properties>
+    <titles>
+      <title>CC 433 A Colheita Além</title>
+      <title>Sowing The Seed</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Philip Bliss</author>
+      <author>Emily Oakey</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="433"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Cai a semente no bom frescor,<br/>é semeada, sim, no calor,</lines>
+      <lines>é semeada na viração,<br/>é semeada na escuridão.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Oh! qual há de ser, além,<br/>a ceifa do mal ou bem?<br/>Sempre lançada com força ou langor,</lines>
+      <lines>com ousadia, com medo e tremor!<br/>Já, ou nos dias do certo porvir,<br/>messe bendita e gloriosa tem de vir!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Sobre os rochedos irá murchar,<br/>ou nas estradas se esperdiçar,</lines>
+      <lines>entre os espinhos vai se perder,<br/>ou nas campinas há de crescer.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Há sementeira, pois, de amargor,<br/>há de remorso e de negro horror,</lines>
+      <lines>há de vergonha e de confusão,<br/>há de miséria e de perdição.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Vale-me Tu, grande Semeador!<br/>Faz prosperar todo o meu labor;</lines>
+      <lines>quero servir-te, meu Rei, Jesus,<br/>quero contigo ceifar em luz.</lines>
+    </verse>
+  </lyrics>
+</song>

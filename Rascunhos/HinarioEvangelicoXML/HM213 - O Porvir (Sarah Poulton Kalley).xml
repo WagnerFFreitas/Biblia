@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:38">
+  <properties>
+    <titles>
+      <title>HM213 - O Porvir</title>
+      <title>Cá sofremos aflição,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cá sofremos aflição,<br/>E as tristezas muitas são,<br/>Mas lá no céu há paz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh! Será alegre! Alegre, sim, alegre!<br/>Pois, no céu, com Cristo,<br/>Já não há separação.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Muitas vezes, com pesar,<br/>Temos de nos apartar<br/>Do mais amado aqui.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Todos que amam o Senhor,<br/>Salvos pelo seu favor,<br/>Com Ele vão morar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Criancinhas lá estarão,<br/>Que alcançaram salvação<br/>Por meio de Jesus.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vivos hemos de encontrar<br/>Os que nos custou deixar<br/>No mundo triste aqui.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Lá veremos a Jesus,<br/>Reinando em celeste luz,<br/>Sublime em seu poder.</lines>
+    </verse>
+  </lyrics>
+</song>

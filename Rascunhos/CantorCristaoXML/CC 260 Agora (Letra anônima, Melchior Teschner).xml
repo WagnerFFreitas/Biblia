@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:37">
+  <properties>
+    <titles>
+      <title>CC 260 Agora</title>
+      <title>St. Theodulph</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Letra anônima</author>
+      <author>Melchior Teschner</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="260"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Oh! quantos enganados,<br/>fiados no porvir!<br/>E quantos condenados,<br/>por sempre repelir</lines>
+      <lines>a salvação de graça<br/>que Deus tem para dar!<br/>À noite eterna descem,<br/>em trevas vão penar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Deixai entrar a graça<br/>em vossos corações;<br/>deixai que Deus desfaça<br/>os vossos vis grilhões.</lines>
+      <lines>Com vossa resistência<br/>mais duros vos tornais;<br/>tomai, pois, consciência,<br/>do quanto perigais.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Ainda que tivésseis<br/>o mundo e seu favor,<br/>que galardão teríeis<br/>sem ter o Salvador?</lines>
+      <lines>Pois cedo chega a hora<br/>de contas dar a Deus;<br/>Tornai-vos desde agora<br/>amados filhos seus!</lines>
+    </verse>
+  </lyrics>
+</song>

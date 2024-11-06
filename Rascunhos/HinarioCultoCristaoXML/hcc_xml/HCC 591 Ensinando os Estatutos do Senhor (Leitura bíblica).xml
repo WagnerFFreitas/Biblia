@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:05:11">
+  <properties>
+    <titles>
+      <title>HCC 591 Ensinando os Estatutos do Senhor</title>
+      <title>Deuteronômio 6:4-9, 20, 21, 23-25</title>
+    </titles>
+    <copyright>Deuteronômio 6:4-9, 20, 21, 23-25</copyright>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="591"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ouve, ó Israel; o Senhor nosso Deus é o único Senhor.<br/>Amarás, pois, ao Senhor teu Deus de todo o teu coração, de toda a tua alma e de todas as tuas forças.<br/>E estas palavras, que hoje te ordeno, estarão no teu coração;<br/>e as ensinarás a teus filhos, e delas falarás sentado em tua casa e andando pelo caminho, ao deitar-te e ao levantar-te.<br/>Também as atarás por sinal na tua mão e te serão por frontais entre os teus olhos;<br/>e as escreverás nos umbrais de tua casa, e nas tuas portas.<br/>Quando teu filho te perguntar no futuro, dizendo: Que significam os testemunhos,<br/>estatutos e preceitos que o Senhor nosso Deus vos ordenou? responderás a teu filho:<br/>Éramos servos de Faraó no Egito, porém o Senhor, com mão forte, nos tirou de lá;<br/>para nos introduzir e nos dar a terra que com juramento prometera a nossos pais.<br/>Pelo que o Senhor nos ordenou que observássemos todos estes estatutos, que temêssemos o Senhor nosso Deus,<br/>para o nosso bem em todo o tempo, a fim de que ele nos preservasse em vida, assim como hoje se vê.<br/>E será justiça para nós, se tivermos cuidado de cumprir todos estes mandamentos perante o Senhor nosso Deus, como ele nos ordenou.</lines>
+    </verse>
+  </lyrics>
+</song>

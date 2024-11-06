@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:54">
+  <properties>
+    <titles>
+      <title>HCC 503 O Cântico de Débora</title>
+      <title>Juízes 5:3-13, 19-21, 31</title>
+    </titles>
+    <copyright>Juízes 5:3-13, 19-21, 31</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="503"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ouvi, ó reis; dai ouvidos, ó príncipes! Eu cantarei ao Senhor, salmodiarei ao Senhor Deus de Israel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó Senhor, quando saíste de Seir, quando caminhaste desde o campo de Edom,<br/>a terra estremeceu, os céus gotejaram, sim, as nuvens gotejaram águas.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Os montes se abalaram diante do Senhor, e até Sinai, diante do Senhor Deus de Israel (...)<br/>Cessaram as caravanas; e os que viajavam iam por atalhos desviados.<br/>Cessaram as aldeias em Israel, cessaram; até que eu Débora, me levantei por mãe em Israel.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Escolheram deuses novos; logo a guerra estava às portas.<br/>Meu coração inclina-se para os guias de Israel, que voluntariamente se oferecem entre o povo. Bendizei ao Senhor.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Louvai vós (...) que vos assentais sobre ricos tapetes, e vós, que andais pelo caminho.<br/>Onde se ouve o estrondo dos flecheiros, entre os lugares onde se tiram águas,<br/>ali falarão das justiças do Senhor, das justiças que fez às suas aldeias em Israel.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Desperta, desperta, Débora; desperta, desperta, entoa um cântico; levanta-te Baraque, e leva em cativeiro os teus prisioneiros.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Então desceu o restante dos nobres e do povo; desceu o Senhor por mim contra os poderosos.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Vieram reis e pelejaram; pelejaram os reis de Canaã (...) Desde os céus pelejaram as estrelas (...)<br/>O ribeiro de Quisom os arrastou, aquele antigo ribeiro, o ribeiro de Quisom.<br/>Ó minha alma, calcaste aos pés a força.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Assim, ó Senhor, pereçam todos os teus inimigos! Sejam, porém, os que te amam, como o sol quando se levanta na sua força.</lines>
+    </verse>
+  </lyrics>
+</song>

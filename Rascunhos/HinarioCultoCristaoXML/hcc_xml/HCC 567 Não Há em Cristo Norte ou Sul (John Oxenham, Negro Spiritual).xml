@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:05:06">
+  <properties>
+    <titles>
+      <title>HCC 567 Não Há em Cristo Norte ou Sul</title>
+      <title>McKee</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>John Oxenham</author>
+      <author>Negro Spiritual</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="567"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Não há em Cristo Norte ou Sul,<br/>poente ou Leste algum,</lines>
+      <lines>mas sim a comunhão de amor<br/>que faz de todos um.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Unidos somos pela fé<br/>no mesmo Salvador,</lines>
+      <lines>humildes servos todos nós,<br/>servindo um só Senhor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Irmãos do Norte, irmãos do Sul,<br/>não há separação.</lines>
+      <lines>Em Cristo, Oriente ou pôr-do-sol<br/>num corpo só estão.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Na mesma fé que assim nos fez<br/>iguais aos pés da cruz,</lines>
+      <lines>mostremos sempre a comunhão<br/>dos salvos em Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

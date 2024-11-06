@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-12-24T17:40:05">
+  <properties>
+    <titles>
+      <title>HNC 372 - O Crente e a Bíblia</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="372"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Não abandono a Bíblia,<br/>Pois é a voz de Deus;<br/>Dos crentes o tesouro,<br/>Seu guia para os céus.<br/>É luz divina, intensa,<br/>Nas trevas a brilhar!<br/>É a voz do Pai celeste<br/>Que a todos vem chamar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Não abandono a Bíblia,<br/>O Livro que me diz<br/>Que salvo estou em Cristo,<br/>O que me faz feliz!<br/>E tenho, pois, certeza<br/>De lá no céu entrar,<br/>Pois ele, com seu sangue,<br/>Me quis purificar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>“Não abandono a Bíblia”,<br/>– eu sempre afirmarei.<br/>Quem dera ser ouvido<br/>Por toda a ímpia grei!<br/>Que saiba todo o mundo,<br/>Que a cristandade tem<br/>A fé robusta e pura<br/>Que pela Bíblia vem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Não abandono a Bíblia,<br/>Pois é a voz de Deus!<br/>Dos crentes o tesouro,<br/>Seu guia para os Céus.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

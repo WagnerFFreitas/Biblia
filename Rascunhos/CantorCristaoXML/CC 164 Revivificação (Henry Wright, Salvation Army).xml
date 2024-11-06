@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:18">
+  <properties>
+    <titles>
+      <title>CC 164 Revivificação</title>
+      <title>I Am Trusting</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Henry Wright</author>
+      <author>Salvation Army</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="164"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu que sobre a amarga cruz<br/>revelaste teu amor,<br/>tu, que vives, ó Jesus!<br/>Vivifica-nos, Senhor!</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Vem, oh! vem Jesus, Senhor,<br/>nossas almas despertar!<br/>Com teu puro e santo amor,</lines>
+      <lines>vem, oh! vem nos inflamar;<br/>Oh! vem! oh! vem!<br/>nossas almas inflamar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eis o mundo tentador<br/>procurando nos trair!<br/>Sem teu fogo abrasador<br/>perto estamos a cair.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Quantos, que corriam bem,<br/>já não mais contigo vão!<br/>Outros seguem, mas também<br/>frios, sem amor estão.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vem agora consumir<br/>tudo quanto, ó Salvador,<br/>quer, altivo, resistir<br/>ao teu brando e doce amor!</lines>
+    </verse>
+  </lyrics>
+</song>

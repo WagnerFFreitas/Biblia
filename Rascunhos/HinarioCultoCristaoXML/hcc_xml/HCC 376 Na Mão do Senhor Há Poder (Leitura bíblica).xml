@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:26">
+  <properties>
+    <titles>
+      <title>HCC 376 Na Mão do Senhor Há Poder</title>
+      <title>Salmos 62:5; 1 Pedro 5:6; 1 Crônicas 29:12</title>
+    </titles>
+    <copyright>Salmos 62:5; 1 Pedro 5:6; 1 Crônicas 29:12</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="376"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó minha alma, espera silenciosa somente em Deus, porque dele vem a minha esperança.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Humilhai-vos (...) debaixo da potente mão de Deus, para que a seu tempo vos exalte.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na tua mão há força e poder; na tua mão está o engrandecer e o dar força a tudo.</lines>
+    </verse>
+  </lyrics>
+</song>

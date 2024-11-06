@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:26">
+  <properties>
+    <titles>
+      <title>CC 202 Jesus tem Poder</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Ricardo Pitrowsky</author>
+      <author>Daniel Towner</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="202"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Jesus tem o poder de as culpas perdoar<br/>a quem, arrependido, a Deus, com fé se confessar.</lines>
+      <lines>Jesus tem o poder, oh! graças ao Senhor!<br/>De dar completa absolvição ao pobre pecador.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Sim, Cristo tem poder! Onipotente é!<br/>Por esse seu poder merece a nossa fé!</lines>
+      <lines>Sim, Cristo tem poder! Só nele confiai!<br/>Perante o seu poder humildes adorai!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Jesus tem o poder, real de converter<br/>o mais rebelde pecador, tornando-o novo ser.</lines>
+      <lines>Jesus tem o poder de sempre nos guardar,<br/>e assim ninguém das suas mãos nos pode arrebatar!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Jesus tem o poder de dar-nos proteção!<br/>A atribulados corações dará consolação!</lines>
+      <lines>Jesus tem o poder de, quando o fim chegar,<br/>cercar-nos de alegria e paz e a glória nos levar!</lines>
+    </verse>
+  </lyrics>
+</song>

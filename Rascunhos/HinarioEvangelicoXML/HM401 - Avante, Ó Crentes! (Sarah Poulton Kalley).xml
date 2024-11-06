@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:16">
+  <properties>
+    <titles>
+      <title>HM401 - Avante, Ó Crentes!</title>
+      <title>Avante, avante, ó crentes,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Avante, avante, ó crentes,<br/>Soldados de Jesus!<br/>Erguei seu estandarte,<br/>Lutai por sua cruz!<br/>Contra hostes inimigas,<br/>Ante essas multidões,<br/>O excelso Comandante<br/>Dirige os batalhões.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Avante, avante, ó crentes,<br/>Por Cristo pelejai!<br/>Vesti sua armadura,<br/>Em seu poder marchai!<br/>No posto sempre achados,<br/>Fiéis permanecei,<br/>Em meio de perigos<br/>Seguindo o grande Rei!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Avante, avante, ó crentes,<br/>A passo triunfal!<br/>Hoja há combate horrendo,<br/>Mui cedo a paz final!<br/>Então, eternamente,<br/>Bendito o vencedor,<br/>No céu glorificado,<br/>Com Cristo, o Salvador!</lines>
+    </verse>
+  </lyrics>
+</song>

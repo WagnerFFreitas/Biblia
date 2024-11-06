@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:19">
+  <properties>
+    <titles>
+      <title>HM417 - Sê Conosco</title>
+      <title>Pecadores, ignorantes,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pecadores, ignorantes,<br/>Vamos em Jesus falar!<br/>Sê conosco, Santo Mestre,<br/>Toda a língua a governar;<br/>Sê conosco,<br/>Para nos iluminar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Só palavras nós diremos<br/>Que promovam instrução;<br/>E que exaltem as doutrinas<br/>Da divina salvação;<br/>Sê conosco,<br/>Guia cada coração.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Visto sermos incapazes,<br/>Dá-nos, Deus, o teu poder;<br/>Acompanha os semeadores,<br/>E a semente há de crescer;<br/>Sê conosco,<br/>Vem cumprir o teu querer.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:49">
+  <properties>
+    <titles>
+      <title>HC474 - Paz, Doce Paz</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Paz, doce paz! Que brota, lá da cruz;<br/>Nos trouxe paz o sangue de Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Paz, doce paz! Andar no Teu querer,<br/>De Cristo, a nós a paz vai nos trazer.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Paz, doce paz! P'ra todo o pecador!<br/>Descanso e paz tereis no Salvador.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Paz, doce paz! Paz na separação,<br/>A paz de Cristo dá consolação!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Paz, doce paz! Enquanto ao meu porvir,<br/>Jesus, paz, sempre me fará fruir.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Paz, doce paz! Não temo a morte, a dor,<br/>Jesus venceu a morte e seu terror.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Paz, doce paz! Não tardará Jesus,<br/>E nos dará celeste paz e luz. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:59">
+  <properties>
+    <titles>
+      <title>HNC 260 - Amor que Vence</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="260"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amor, que por amor desceste!<br/>Amor, que por amor morreste!<br/>Ah! Quanta dor não padeceste!<br/>Minha alma vieste resgatar<br/>E meu amor ganhar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amor, que por amor seguias<br/>A mim, que sem amor Tu vias!<br/>Oh! Quanto amor por mim sentias,<br/>Eterno Deus, Senhor Jesus,<br/>Sofrendo sobre a cruz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amor, que tudo me perdoas,<br/>Amor, que até mesmo abençoas<br/>Um réu de quem Tu te afeiçoas!<br/>Vencido, ó Salvador, por ti,<br/>Teu grande amor senti!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Amor sublime, que perduras;<br/>Que em tua graça me seguras,<br/>Cercando-me de mil venturas!<br/>Aceita agora, ó Salvador,<br/>O meu humilde amor.<br/>Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

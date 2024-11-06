@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:28">
+  <properties>
+    <titles>
+      <title>HCC 388 Santifica a Tua Igreja</title>
+      <title>Ebenezer</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Henry Wright</author>
+      <author>Melodia galesa</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="388"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Santifica tua Igreja,<br/>ó bendito Salvador!<br/>Dá-lhe tua plena graça;<br/>vem, renova seu vigor.</lines>
+      <lines>Santifica, santifica<br/>nossas vidas, ó Senhor!<br/>Santifica, santifica<br/>nossas vidas, ó Senhor! Amém!</lines>
+    </verse>
+  </lyrics>
+</song>

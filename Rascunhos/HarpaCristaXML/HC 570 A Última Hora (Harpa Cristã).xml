@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:56:08">
+  <properties>
+    <titles>
+      <title>HC570 - A Última Hora</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>- Ao findar o labor desta vida,<br/>Quando a morte a teu lado chegar,<br/>Que destino há de ter a tua alma?<br/>Qual será no futuro teu lar?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Meu amigo, hoje tu tens a escolha:<br/>- Vida ou morte - qual vais aceitar?<br/>Amanhã pode ser muito tarde:<br/>Hoje Cristo te quer libertar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu procuras a paz neste mundo,<br/>Em prazeres que passam em vão,<br/>Mas, na última hora da vida,<br/>Eles não mais te satisfarão.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>- Por acaso tu riste, ó amigo,<br/>Quando ouviste falar de Jesus?<br/>Mas somente Jesus pode dar-te<br/>Salvação pela morte na cruz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tens manchada tua alma e não podes<br/>Contemplar o semblante de Deus:<br/>Só os crentes de corações limpos<br/>Poderão ter o gozo nos céus,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Se decides deixar teus pecados,<br/>E entregar tua vida a Jesus,<br/>Trilharás, sim, na última hora<br/>Um caminho brilhante de luz.</lines>
+    </verse>
+  </lyrics>
+</song>

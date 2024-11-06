@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:56:05">
+  <properties>
+    <titles>
+      <title>HC556 - Lê A Bíblia</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Se desejas conhecer<br/>A mensagem do Senhor,<br/>Tua alma enriquecer<br/>Na verdade e no Amor,</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lê a Bíblia! - Teu fervor<br/>Nela vem alimentar!<br/>Tua vida redimida<br/>No Senhor vai exultar.<br/>Lê a Bíblia - Teu fervor<br/>Nela vem alimentar!<br/>Tua vida redimida<br/>No Senhor vai exultar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Se almejas alcançar<br/>As promessas de Jesus<br/>E pretendes caminhar<br/>Sob a proteção da Cruz,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se em verdade queres ir<br/>Habitar com o Senhor,<br/>Junto dele usufruir<br/>Do mais rico e pleno amor.</lines>
+    </verse>
+  </lyrics>
+</song>

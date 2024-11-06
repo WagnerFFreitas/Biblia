@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:31">
+  <properties>
+    <titles>
+      <title>HM18 - O Presépio de Belém</title>
+      <title>Numa estrebaria rude</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Dr. João Gomes da Rocha</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Numa estrebaria rude<br/>Da cidade de Belém,<br/>Onde as gentes não pensavam<br/>Encontrar o Sumo-Bem,<br/>Foi que a Virgem deu à luz<br/>O menino, que é Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Era Deus, Senhor de tudo,<br/>Mas o mundo o viu nascer;<br/>Foi seu berço a manjedoura,<br/>Vida humana quis viver;<br/>Eis a quanto se humilhou<br/>No caminho que trilhou!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Desejamos tributar-lhe<br/>Gratidão e todo o amor,<br/>Pois, tristezas, dor e morte,<br/>Que sofreu o Redentor,<br/>Foi por nós, por compaixão,<br/>Para dar-nos salvação.</lines>
+    </verse>
+  </lyrics>
+</song>

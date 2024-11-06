@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:56">
+  <properties>
+    <titles>
+      <title>HC507 - Jesus Salva</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Salvador te quer salvar,<br/>Ó pecador, vem sem tardar;<br/>Recebe no teu coração<br/>A gloriosa salvação!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus salva, Jesus salva,<br/>Jesus salva o pecador.<br/>Ele te ama, hoje te chama,<br/>Com Sua voz de amor;<br/>Jesus salva, Jesus salva,<br/>Jesus salva, o pecador.<br/>Vem tu agora, vem sem demora,<br/>Te entregar ao Senhor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Salvador te chama, vem,<br/>Recebe logo o sumo bem;<br/>A salvação, o dom de Deus,<br/>A Jesus Cristo, o Rei dos céus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Salvador, chorando está,<br/>Por que não te entregas já?<br/>Vem hoje mesmo a Jesus.<br/>Vem receber celeste luz!</lines>
+    </verse>
+  </lyrics>
+</song>

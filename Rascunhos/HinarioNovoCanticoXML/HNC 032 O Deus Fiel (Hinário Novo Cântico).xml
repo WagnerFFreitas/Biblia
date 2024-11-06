@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:49">
+  <properties>
+    <titles>
+      <title>HNC 032 - O Deus Fiel</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="32"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu és fiel, Senhor, ó Pai celeste,<br/>Teus filhos sabem que não falharás !<br/>Nunca mudaste, Tu nunca faltaste,<br/>Tal como eras Tu sempre serás.	</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Flores e frutos, montanhas e mares,<br/>Sol, lua, estrelas brilhando no céu,<br/>Tudo criaste na terra e nos ares,<br/>Para louvar-te, Senhor, que és fiel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pleno perdão Tu dás! Que segurança !<br/>Cada momento me guias, Senhor,<br/>E no porvir, oh!  que doce esperança<br/>Desfrutarei do teu rico favor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Tu és fiel, Senhor ! Tu és fiel, Senhor !<br/>Dia após dia, com bênçãos sem fim,<br/>Tua mercê nos sustenta e nos guarda;<br/>Tu és fiel, Senhor, fiel assim.<br/></tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

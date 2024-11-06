@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:07">
+  <properties>
+    <titles>
+      <title>HM032 - O Santo Redentor</title>
+      <title>Deus-Homem, santo e meigo,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deus-Homem, santo e meigo,<br/>O Benfeitor Jesus,<br/>Por mãos iníquas preso,<br/>Morreu por nós na cruz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Foi nosso Substituto<br/>E nosso Fiador.<br/>Por nós crucificado,<br/>O santo Redentor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Crês nesta Boa-Nova<br/>De todo o coração?<br/>Que a ti Jesus oferta<br/>Perfeita salvação?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pois toma o dom celeste!<br/>Aceita o que ele dá!<br/>E crê! Remida e salva,<br/>Tua alma viverá.</lines>
+    </verse>
+  </lyrics>
+</song>

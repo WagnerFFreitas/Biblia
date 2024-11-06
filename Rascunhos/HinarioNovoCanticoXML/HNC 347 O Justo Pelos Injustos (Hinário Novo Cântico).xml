@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-12-24T13:51:00">
+  <properties>
+    <titles>
+      <title>HNC 347 - O Justo Pelos Injustos</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="347"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó crentes, cantai entoando o louvor<br/>De quem nos remiu com tão grande amor!<br/>Os crimes do mundo, levando na cruz,<br/>Por nossos pecados foi morto Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O preço completo o Justo pagou!<br/>Foi morto e da morte os laços quebrou;<br/>E as trevas da noite tornaram-se em luz<br/>No dia bendito de nosso Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Imagem do céu! Oh! Dia primor!<br/>Mercê divinal do grande Senhor!<br/>Quão doce descanso Jesus nos legou<br/>No santo Domingo em que ressuscitou!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Agora se cumpre em nós, bom Senhor,<br/>A linda promessa de teu amor:<br/>De que, congregados, tu sempre estarás<br/>Presente, trazendo-nos bênçãos e paz. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

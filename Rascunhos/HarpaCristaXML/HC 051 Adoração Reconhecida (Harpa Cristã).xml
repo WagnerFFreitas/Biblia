@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:39">
+  <properties>
+    <titles>
+      <title>HC051 - Adoração Reconhecida</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó minh'alma, sem demora,<br/>Ergue-te para entoar,<br/>Os louvores do teu Cristo,<br/>E Seu nome celebrar!<br/>P'ra remir-te, p'ra remir-te,<br/>Sua vida Ele quis dar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Minha condição tão triste<br/>Conheceu meu Salvador;<br/>Que dos céus desceu à terra,<br/>Para ser meu Redentor!<br/>Oh! Quão grande! Oh! Quão grande!<br/>É o amor de meu Senhor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Condenado, justamente,<br/>Que podia eu fazer,<br/>Dessa pena p'ra livrar-me,<br/>O perdão p'ra merecer?<br/>O Seu sangue, o Seu sangue,<br/>Quis Jesus por mim verter!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Com meus crimes carregado,<br/>Lá na cruz, em meu lugar,<br/>Foi Jesus crucificado,<br/>A minh'alma p'ra salvar;<br/>Vinde todos! Vinde todos,<br/>Já comigo, O adorar!</lines>
+    </verse>
+  </lyrics>
+</song>

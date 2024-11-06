@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-12-24T17:56:57">
+  <properties>
+    <titles>
+      <title>HNC 377 - A Nação para Cristo</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="377"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uma voz, nos primórdios da História,<br/>Fez-se ouvir com solene vigor,<br/>Proclamando a estupenda vitória<br/>Sobre a morte, o pecado e a dor!<br/>Foi Jesus, com palavras candentes<br/>Do seu verbo divino e veraz,<br/>Ordenando que a todas as gentes<br/>Se pregasse o Evangelho da paz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gloriosa missão nos foi dada<br/>De ganhar para Cristo os incréus!<br/>Como é nobre esta grande cruzada<br/>De elevar a Nação para os céus!<br/>Há, no entanto, uma força incontida<br/>Que preside este afã singular:<br/>É o amor que votamos à vida<br/>Dos perdidos que Deus quer salvar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>“A Nação para Cristo” — eis o lema,<br/>O anelo sublime e imortal,<br/>A divisa bendita e suprema,<br/>Expressão do mais alto ideal!<br/>Vamos, pois, incessantes na lida,<br/>Em socorro dos nossos irmãos,<br/>Transformar nossa Pátria querida<br/>Num reinado feliz de cristãos!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Eia, crentes, com santa ousadia,<br/>Com nobreza e real vocação,<br/>Vamos todos cantar a harmonia<br/>Do Evangelho de amor e perdão,<br/>Exaltando esse amor tão profundo<br/>Que dá vida imortal e feliz.<br/>Para Cristo, a esperança do mundo,<br/>Conquistemos o nosso País.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

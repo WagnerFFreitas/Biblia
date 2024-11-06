@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:37">
+  <properties>
+    <titles>
+      <title>HC041 - A Cristo Coroai</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Cristo coroai! Que por nós encarnou,<br/>E Deus, o Santo Deus e Pai, aos homens revelou.<br/>Eis a sua compaixão! Eis Sua mansidão!<br/>Quem vê a Cristo, vê ao Pai; sim, vê Seu coração.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A Cristo coroai! De tudo o Criador,<br/>O filho do eterno Deus, do mundo, o Salvador, Jesus Emanuel,<br/>o grande Redentor!<br/>Em busca dos perdidos, vem o nosso bom Pastor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A Cristo coroai! Que sobre a cruz, ganhou<br/>Por nós eterna redenção e para o céu voltou!<br/>Ele é o Rei dos reis! O Príncipe da paz!<br/>Jesus, da morte, o vencedor, que a salvação nos traz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A Cristo coroai! De todos o Senhor,<br/>A quem a multidão dos céus aclama com fervor!<br/>Eis o Cordeiro ali, que sobre o trono está!<br/>Que vive e reina lá por nós, e cedo voltará.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:17">
+  <properties>
+    <titles>
+      <title>HM103 - Nome Excelso</title>
+      <title>Tu, que tens o excelso nome</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Henry Maxwell Wright</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu, que tens o excelso nome<br/>De Jesus, o Salvador,<br/>Que morreste e agora vives,<br/>E conosco estás, Senhor,<br/>Oh! Que bom é confiar<br/>Sempre em ti, e descansar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu, ó Deus, Onipotente,<br/>Dá-me a graça de guiar<br/>Os meus tardos pés errantes<br/>E seguro me levar.<br/>Salvador! ó meu Jesus,<br/>Vem guardar-me em tua luz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Faze que, na minha vida,<br/>Ó Jesus, eu possa haurir<br/>Mais do teu poder imenso,<br/>Tua vida refletir;<br/>Que se veja em mim, Senhor,<br/>Tua graça, teu amor.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:48">
+  <properties>
+    <titles>
+      <title>HCC 174 Nome Bom, Doce a Fé</title>
+      <title>Precious Name</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>William Doane</author>
+      <author>Lydia Baxter</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="174"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nome santo e venerável<br/>é Jesus, o amado teu.<br/>Rei dos reis, Senhor eterno,<br/>tu o aclamarás no céu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nome bom, doce à fé,<br/>a esperança do porvir.<br/>Nome bom, doce à fé,<br/>a esperança do porvir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, que nome tão precioso,<br/>pois alegra o coração!<br/>Sendo por Jesus aceito,<br/>tu terás o seu perdão.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Este nome leva sempre<br/>para bem te defender.<br/>Ele é arma ao teu alcance<br/>quando o mal te aparecer.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Leva tu contigo o nome<br/>de Jesus, o Salvador.<br/>Este nome dá consolo,<br/>seja no lugar que for.</lines>
+    </verse>
+  </lyrics>
+</song>

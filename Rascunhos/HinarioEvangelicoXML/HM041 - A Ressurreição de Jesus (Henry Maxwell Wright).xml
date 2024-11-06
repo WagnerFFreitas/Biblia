@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:08">
+  <properties>
+    <titles>
+      <title>HM041 - A Ressurreição de Jesus</title>
+      <title>Cristo já ressuscitou; aleluia!</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Henry Maxwell Wright</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cristo já ressuscitou; aleluia!<br/>Sobre a morte triunfou; aleluia!<br/>Tudo consumado está; aleluia!<br/>Salvação de graça dá; aleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sobre a cruz Jesus sofreu; aleluia!<br/>E por nós ali morreu; aleluia!<br/>Mas agora vivo está; aleluia!<br/>Para sempre reinará; aleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gratos hinos hoje erguei; aleluia!<br/>A Jesus, o grande Rei; aleluia!<br/>Ele à morte quis baixar; aleluia!<br/>Pecadores resgatar; aleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

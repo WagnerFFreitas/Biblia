@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:16">
+  <properties>
+    <titles>
+      <title>HM403 - Resplandeçam Nossas Luzes</title>
+      <title>Nas tormentas desta vida</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nas tormentas desta vida<br/>Perto está a perdição!<br/>Aos incautos navegantes<br/>Quem trará a salvação?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Resplandeçam nossas luzes<br/>Através do escuro mar!<br/>Pois nas trevas do pecado<br/>Almas podem naufragar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sempre brilha, em graça imensa,<br/>Rico amor do eterno Deus;<br/>Cumpre a nós mostrar o rumo<br/>Da viagem para os céus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nuvens de paixão mundana<br/>Obscurecem-lhes o sol!<br/>Ergue o grito de perigo!<br/>Alça as luzes no farol!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Aos errantes, insensatos,<br/>Guia ao porto divinal!<br/>Em Jesus há vero abrigo<br/>Do furor do temporal.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Noite eterna se aproxima!<br/>Negro e denso o seu horror!<br/>Clama, avisa os infelizes!<br/>Insta-os para o Salvador!</lines>
+    </verse>
+  </lyrics>
+</song>

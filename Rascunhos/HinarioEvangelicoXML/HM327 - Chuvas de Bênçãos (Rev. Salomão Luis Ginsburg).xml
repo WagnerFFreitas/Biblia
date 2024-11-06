@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:59">
+  <properties>
+    <titles>
+      <title>HM327 - Chuvas de Bênçãos</title>
+      <title>Chuvas de bênçãos teremos;</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Salomão Luis Ginsburg</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chuvas de bênçãos teremos;<br/>É a promessa de Deus;<br/>Tempos benditos trazendo<br/>Chuvas de bênçãos dos céus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chuvas de bênçãos,<br/>Chuvas de bênçãos dos céus!<br/>Gotas benditas já temos,<br/>Chuvas rogamos a Deus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chuvas de bênçãos teremos<br/>De vida, paz e perdão;<br/>Os pecadores indignos<br/>Graças dos céus obterão.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chuvas de bênçãos teremos,<br/>Manda-nos já, ó Senhor<br/>Dá-nos o gozo dos frutos<br/>Dos teus ensinos de amor!</lines>
+    </verse>
+  </lyrics>
+</song>

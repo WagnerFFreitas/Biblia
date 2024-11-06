@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:05:13">
+  <properties>
+    <titles>
+      <title>HCC 599 Congregai e Santificai o Povo</title>
+      <title>Joel 2:15-18</title>
+    </titles>
+    <copyright>Joel 2:15-18</copyright>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="599"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tocai a trombeta (...) santificai um jejum, convocai uma assembleia solene;<br/>congregai o povo, santificai a congregação, ajuntai os anciãos, congregai os meninos, e as crianças de peito.<br/>Chorem os sacerdotes, ministros do Senhor (...) e digam:<br/>Poupa a teu povo, ó Senhor, e não entregues a tua herança ao opróbrio, para que as nações façam escárnio dele.<br/>Por que diriam entre os povos: Onde está o seu Deus?<br/>Então o Senhor teve zelo da sua terra, e se compadeceu do seu povo.</lines>
+    </verse>
+  </lyrics>
+</song>

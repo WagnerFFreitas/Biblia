@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:56:03">
+  <properties>
+    <titles>
+      <title>HC542 - História De Cristo</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Conta-me a história de Cristo,<br/>Grava-a no meu coração,<br/>A linda história inaudita,<br/>De graça, paz e perdão!<br/>Conta como Ele encarnando,<br/>Veio no mundo morar,<br/>E aos pecadores, indignos,<br/>De Deus o amor revelar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Conta como Ele, bondoso,<br/>Nunca a ninguém rejeitou,<br/>Como, de mãos estendidas,<br/>Todos a si convidou!<br/>Como não pode o bom Mestre,<br/>Seja a quem for, recusar,<br/>Se, convencido e contrito,<br/>O seu convite aceitar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Contra-me quando no monte<br/>Sobre a cidade chorou,<br/>pois orgulhosa e rebelde<br/>O seu amor rejeitou!<br/>Conta como Ele ainda chora<br/>Sobre os que seguem o mal;<br/>E, endurecidos, resistem<br/>Ao seu amor divinal.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Conta também como Cristo,<br/>Mesmo na cruz, se lembrou<br/>Dos seus cruéis inimigos,<br/>E ao Pai por eles rogou!<br/>Como ao ladrão moribundo<br/>Tão prontamente escutou,<br/>E, nesse dia, consigo<br/>Para o descanso o levou!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Conta-me as duras afontas<br/>Que mansamente sofreu:<br/>Como, na cruz levantado,<br/>Ele por ímpios morreu!<br/>Dá-me o viver na certeza<br/>De que foi mesmo por mim!<br/>Que seu amor inefável<br/>Não tem mudança nem fim!</lines>
+    </verse>
+  </lyrics>
+</song>

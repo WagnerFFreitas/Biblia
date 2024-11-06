@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:39">
+  <properties>
+    <titles>
+      <title>CC 272 Só Um Passo</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Ellen Bradford</author>
+      <author>E. Phelps</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="272"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Mui terna e mui doce do Mestre é a voz,<br/>chamando-me com amor:</lines>
+      <lines>de braços abertos espero, vem já;<br/>oh! vem ao teu Redentor!</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Cristo me chama, me quer salvar.<br/>É só um passo que tenho de dar;</lines>
+      <lines>quero achegar-me, Senhor, a ti,<br/>para nunca te abandonar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Tens muitos pecados e vives sem fé,<br/>sugere-me o tentador.</lines>
+      <lines>Eu tudo já fiz, me segreda outra voz,<br/>confia em teu Salvador.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">"Mui frágil me sinto, receio cair!"<br/>Com medo ainda aleguei.</lines>
+      <lines>Ó alma, não temas, pois Cristo te diz:<br/>Eu não te abandonarei.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">O mundo perdido nas trevas está,<br/>seu gozo é só ilusão.</lines>
+      <lines>Amor, vida e paz me concede Jesus,<br/>sou dele de coração.</lines>
+    </verse>
+  </lyrics>
+</song>

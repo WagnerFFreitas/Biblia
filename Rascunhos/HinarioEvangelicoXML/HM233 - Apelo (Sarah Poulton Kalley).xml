@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:42">
+  <properties>
+    <titles>
+      <title>HM233 - Apelo</title>
+      <title>Alma! Escuta o Salvador</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alma! Escuta o Salvador<br/>Que morreu por teu amor:<br/>Redimiu-te sobre a Cruz,<br/>Para a vida te conduz.<br/>- Condenado pela lei,<br/>Do castigo te livre;<br/>Vim do céu, por te salvar,<br/>Não me queres aceitar?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Minha glória tu verás,<br/>Minha graça gozarás.<br/>Vida eterna te darei;<br/>Não te desampararei.<br/>- Bem me psa, ó meu Senhor,<br/>Ser mui débil meu amor,<br/>Dá-me, pois, Senhor Jesus,<br/>Plena graça e plena luz.</lines>
+    </verse>
+  </lyrics>
+</song>

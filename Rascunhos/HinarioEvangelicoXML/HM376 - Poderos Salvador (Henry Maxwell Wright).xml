@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:11">
+  <properties>
+    <titles>
+      <title>HM376 - Poderos Salvador</title>
+      <title>Em ti, meu Senhor, confiarei;</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Henry Maxwell Wright</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Em ti, meu Senhor, confiarei;<br/>Contigo seguro estarei!<br/>Os ímpios vieste buscar;<br/>Tu és poderoso<br/>E me vens salvar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh! livra a minha alma, Senhor!<br/>Atende, Jesus, meu clamor!<br/>Os laços tu podes quebrar;<br/>Tu és poderos<br/>E me vens livrar!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Morreste por mim, ó Jesus!<br/>Por mim padeceste na cruz;<br/>Teu sangu me pode lavar!<br/>Tu és poderoso<br/>E me vens guardar!</lines>
+    </verse>
+  </lyrics>
+</song>

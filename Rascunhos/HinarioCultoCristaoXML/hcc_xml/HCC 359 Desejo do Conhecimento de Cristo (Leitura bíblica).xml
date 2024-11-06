@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:23">
+  <properties>
+    <titles>
+      <title>HCC 359 Desejo do Conhecimento de Cristo</title>
+      <title>Felipenses 3:7-9</title>
+    </titles>
+    <copyright>Felipenses 3:7-9</copyright>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="359"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O que para mim era lucro passei a considerá-lo como perda por amor de Cristo;<br/>sim, na verdade, tenho também como perda todas as coisas pela excelência do conhecimento de Cristo Jesus, meu Senhor;<br/>pelo qual sofri a perda de todas estas coisas, e as considero como refugo, para que possa ganhar a Cristo, e seja achado nele,<br/>não tendo como minha justiça a que vem da lei, mas a que vem pela fé em Cristo, a saber, a justiça que vem de Deus pela fé.</lines>
+    </verse>
+  </lyrics>
+</song>

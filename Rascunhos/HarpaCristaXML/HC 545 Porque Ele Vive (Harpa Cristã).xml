@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:56:03">
+  <properties>
+    <titles>
+      <title>HC545 - Porque Ele Vive</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deus enviou seu Filho amado<br/>Pra perdoar, pra me salvar.<br/>Na cruz morreu por meu pecado,<br/>Mas ressurgiu e vivo com o Pai está.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Porque Ele vive, posso crer<br/>no amanhã.<br/>Porque Ele vive, temor não há.<br/>Mas eu bem sei, eu sei, que a minha vida<br/>Está nas mãos de meu Jesus, que vivo está.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E quando, enfim, chegar a hora<br/>Em que a morte enfrentarei,<br/>Sem medo, então, terei vitória:<br/>Irei à Glória, ao meu Jesus que vivo está.</lines>
+    </verse>
+  </lyrics>
+</song>

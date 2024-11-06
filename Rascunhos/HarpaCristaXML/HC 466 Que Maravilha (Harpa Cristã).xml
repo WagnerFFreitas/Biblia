@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:47">
+  <properties>
+    <titles>
+      <title>HC466 - Que Maravilha</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amigo, conheces, também enalteces<br/>Jesus, o Filho de Deus?<br/>Tens nEle já crido, e assim recebido<br/>Jesus, o Filho de Deus?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Que maravilha! Que maravilha!<br/>Jesus, o Filho de Deus!<br/>Oh! Eu te adoro! Sim, eu te amo!<br/>Jesus, o Filho de Deus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Seguir, quem almeija, e n'alma deseja<br/>Jesus, o Filho de Deus?<br/>Quem foi rejeitado por esse adorado<br/>Jesus, o Filho de Deus?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se hoje confiares, também aceitares<br/>Jesus, o Filho de Deus.<br/>Irás jubilando, e sempre louvando<br/>Jesus, o Filho de Deus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dos céus, muito breve, descer p'ra nós deve,<br/>Jesus, o Filho de Deus!<br/>Ó vem, eu te clamo, ó vem, pois te amo,<br/>Jesus, o filho de Deus.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:54">
+  <properties>
+    <titles>
+      <title>HNC 154 - Segurança e Paz</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="154"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pelo vale escuro seguirei, Jesus,<br/>Mas por ti seguro, vendo a tua luz,<br/>O meu passo incerto Tu dirigirás!<br/>Ao sentir-te perto nunca perco a paz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Os espinhos tantos, que nos vêm sangrar,<br/>São remédios santos para nos curar.<br/>Onde existe a graça que nos vem dos céus,<br/>Tudo o que se passa mostra o amor de Deus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Não há dor que seja sem divino fim;<br/>Faze, ó Deus, que a Igreja compreenda assim!<br/>E apesar das trevas possa ver, Senhor,<br/>Que Tu mesmo a levas com imenso amor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Breve a noite desce, noite de Emaús!<br/>E meu ser carece de te ver, Jesus!<br/>Companheiro amigo, que ao meu lado vens,<br/>Sim, estás comigo, sempre me susténs. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

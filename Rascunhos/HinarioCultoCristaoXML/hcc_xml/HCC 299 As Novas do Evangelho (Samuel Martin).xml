@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:11">
+  <properties>
+    <titles>
+      <title>HCC 299 As Novas do Evangelho</title>
+      <title>The Gospel Bells</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Samuel Martin</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="299"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">As novas do evangelho<br/>vêm as trevas já banir;<br/>boas novas de alegria<br/>para quem com fé ouvir.</lines>
+      <lines>Assim Deus tanto amou<br/>ao perdido pecador<br/>que enviou seu filho amado<br/>para ser o Salvador.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">As novas do evangelho<br/>anunciam vida e paz;<br/>só Jesus aos pecadores<br/>salvação perene traz.</lines>
+      <lines>É tempo de aceitar,<br/>confiemos no Senhor<br/>tão bondoso e poderoso,<br/>que perdoa o pecador.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">As novas do evangelho<br/>levam todos a saber<br/>que há fartura para aquele<br/>que na boa nova crer.</lines>
+      <lines>Jesus é o pão do céu,<br/>alimenta o pecador<br/>e sustenta a sua vida<br/>na presença do Senhor.</lines>
+    </verse>
+  </lyrics>
+</song>

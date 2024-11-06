@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:26">
+  <properties>
+    <titles>
+      <title>HM439 - O Dia do Senhor</title>
+      <title>O dia do Senhor,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. João Marques da Mota Sobrinho</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O dia do Senhor,<br/>Que já mui perto vem,<br/>Há de este velho mundo pôr<br/>Na órbita do Bem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ver-se-á então reinar<br/>Justiça por igual;<br/>O Bem que amamos triunfar<br/>Sobre o perverso mal.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Temor, inquietação,<br/>Agora vão fugir;<br/>Não mais a guerra, a assolação,<br/>No mundo que há de vir.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh! Vem, Senhor Jesus!<br/>Que tua luz eterna paz<br/>Nos seja qual bendita luz,<br/>Que alegra e satisfaz!</lines>
+    </verse>
+  </lyrics>
+</song>

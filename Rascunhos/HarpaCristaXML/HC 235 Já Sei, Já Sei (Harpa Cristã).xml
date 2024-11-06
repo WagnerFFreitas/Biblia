@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:07">
+  <properties>
+    <titles>
+      <title>HC235 - Já Sei, Já Sei</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Comprado com sangue de Cristo,<br/>Alegre ao céu, sim eu vou;<br/>Liberto do vício maldito,<br/>Já sei que de Deus, filho sou.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Já sei, já sei,<br/>Comprado com sangue eu sou;<br/>Já sei, já sei,<br/>Com Cristo ao céu, sim eu vou.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Estou livre da lei severa,<br/>Pois Cristo me quis redimir,<br/>Enchendo minh'alma, deveras,<br/>Do gozo, que vem do porvir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Em Cristo Jesus sempre espero,<br/>E nunca O posso deixar;<br/>Calar Seus favores não quero,<br/>Vou sempre de Cristo falar!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Eu sei que, um dia, a beleza<br/>Do grande Rei vou contemplar;<br/>Agora me dá fortaleza,<br/>E sempre me quer consolar!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Eu sei que me espera a coroa,<br/>A qual, a Seus servos dará,<br/>Jesus, a divina pessoa,<br/>No céu onde Ele está!</lines>
+    </verse>
+  </lyrics>
+</song>

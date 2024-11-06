@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:51">
+  <properties>
+    <titles>
+      <title>HNC 069 - Súplica</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="69"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Salvador, Jesus bendito,<br/>De minha alma a Redenção,<br/>Tua graça me convida<br/>A buscar-te em confissão.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Por amor de mim morreste<br/>Sobre a ensangüentada cruz!<br/>Tu sofreste a minha pena,<br/>Oh! Meu Salvador Jesus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A minha alma purifica<br/>Em teu sangue remidor;<br/>Faze que, leal e humilde,<br/>Eu te sirva, meu Senhor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tua ovelha, nos teus braços,<br/>Bem segura guardarás.<br/>Vem livrar-me dos pecados<br/>E guardar-me em tua paz! Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

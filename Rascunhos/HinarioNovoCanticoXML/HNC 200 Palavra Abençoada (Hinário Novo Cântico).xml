@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:57">
+  <properties>
+    <titles>
+      <title>HNC 200 - Palavra Abençoada</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="200"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Palavra abençoada,<br/>Convite que contém<br/>Promessa e cumprimento<br/>Com infinito bem.<br/>“Oh! Vinde a mim!” – conclama<br/>O Cristo Salvador,<br/>Seus braços estendendo<br/>Ao pobre pecador.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Por que viver tão longe<br/>Da graça de Jesus?<br/>Por que vagar nas trevas,<br/>Podendo andar na luz?<br/>Da vida sem proveito,<br/>Da culpa a perdição,<br/>Corramos para a senda<br/>Da eterna salvação.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Em tudo, agora e sempre,<br/>Ouçamos ao Senhor;<br/>Pois há descanso e alívio<br/>No seu profundo amor.<br/>Assim conheceremos<br/>O gozo que produz<br/>No coração submisso<br/>O “vinde” de Jesus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Vinde, oh! Vinde a mim! (bis)<br/>Tristes alquebrados,<br/>Vinde, oh! Vinde a mim!<br/>Vinde, oh! Vinde a mim! (bis)<br/>Fracos e cansados,<br/>Vinde, oh! Vinde a mim!</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

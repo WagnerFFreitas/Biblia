@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:07">
+  <properties>
+    <titles>
+      <title>HC234 - O Gozo Dos Santos</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O gozo dos santos é o amor de Jesus,<br/>Grande é este amor que paz nos produz!<br/>A fonte da vida, que nos dá vigor,<br/>É o sangue de Cristo vertido em dor!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh! vê ali na cruz a graça<br/>de Jesus,<br/>Amor potente, que gozo produz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó vê, "eis o Homem" que padece ali,<br/>Coberto de sangue, ferido por ti.<br/>Estampa na face tão enorme dor;<br/>De 'spinhos coroa possui meu senhor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Com cravos, furados tem os pés e as mãos;<br/>Pregado no lenho, em grande aflição;<br/>Aberto Seu lado co'a lança cruel<br/>Sai água e sangue do Emanuel!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Por Cristo cumprida foi a obra de amor,<br/>Morreu qual cordeiro, por ti pecador;<br/>Confiando agora na obra da cruz,<br/>A vida nós temos por Cristo Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:55">
+  <properties>
+    <titles>
+      <title>HNC 157 - Segurança em Cristo</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c2</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="157"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Por meu delitos expirou<br/>Jesus, a vida e luz!<br/>Do meu pecado me livrou<br/>Na ensangüentada cruz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jamais terei tão fraca voz<br/>Que trema ao confessar<br/>A quem, por morte tão atroz,<br/>Minha alma quis salvar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sim, eu desejo aqui cantar<br/>Tão grande Salvador,<br/>E quando lá no céu chegar<br/>Louvá-lo-ei melhor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Faze-me forte em confessar<br/>A ti, Jesus, Senhor!<br/>Faze-me pronto a confiar<br/>No teu eterno amor.</tag>
+      </lines>
+    </verse>
+    <verse name="c2">
+      <lines>
+        <tag name="it">Faze-me forte em confessar<br/>A ti, Jesus, Senhor!<br/>Faze-me pronto a confiar<br/>No teu eterno amor. Amém.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

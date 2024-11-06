@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:51">
+  <properties>
+    <titles>
+      <title>HNC 068 - Necessidade</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="68"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eu creio, Senhor, na divina promessa,<br/>Vitórias já tive nas lutas aqui.<br/>Contudo, é mui certo que a gente tropeça;<br/>Por isso, Senhor, eu preciso de ti.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A luz que me guia no escuro caminho<br/>Fulgura de cima, do Sol criador;<br/>Contudo, não posso segui-la sozinho;<br/>Por isso eu preciso de ti, meu Senhor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bem sei que nas preces eu posso buscar-te,<br/>Jamais dessa bênção na vida eu descri;<br/>Contudo, é possível que eu dela me afaste;<br/>Por isso, Senhor, eu preciso de ti.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Esforços da terra, precário destino,<br/>Empenho dos homens, riqueza, o que for,<br/>Não valem a bênção do reino divino;<br/>Por isso eu preciso de ti, meu Senhor.<br/>Amém</lines>
+    </verse>
+  </lyrics>
+</song>

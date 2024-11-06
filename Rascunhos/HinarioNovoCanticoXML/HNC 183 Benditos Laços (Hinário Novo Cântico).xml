@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:56">
+  <properties>
+    <titles>
+      <title>HNC 183 - Benditos Laços</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="183"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Benditos laços são<br/>Os do fraterno amor,<br/>Que assim, em santa comunhão, <br/>Nos unem no Senhor </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ao mesmo trono, além,<br/>Vão nossas petições;<br/>É mútuo o gozo, e a dor também,<br/>Dos nossos corações.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aqui tudo é comum;<br/>Tristezas e prazer;<br/>Em Cristo somos todos um;<br/>É este o seu querer.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Se desta santa união<br/>Nos vamos separar,<br/>No céu eterna comunhão<br/>Havemos de gozar.</lines>
+    </verse>
+  </lyrics>
+</song>

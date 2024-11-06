@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:26">
+  <properties>
+    <titles>
+      <title>HCC 054 Toda a Natureza</title>
+      <title>Contemplação</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Selene Souza</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="054"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Toda a natureza me fala do meu Deus;<br/>árvores e frutos são todos seus.<br/>O céu, o mar, as flores<br/>e as noites de luar,<br/>sempre que os contemplo,<br/>paro para pensar.</lines>
+      <lines>Quem sou eu, ó Pai,<br/>pra merecer tamanho amor?<br/>Sim, tenho a resposta:<br/>Eu nada sou, Senhor, eu nada sou.<br/>Mas teu amor me transformou,<br/>tornou-me um novo ser.<br/>Quero estar contigo e no céu viver.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:23">
+  <properties>
+    <titles>
+      <title>HM140 - A Palavra da Vida</title>
+      <title>Fonte da celeste vida,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fonte da celeste vida,<br/>Vem descobre o teu poder!<br/>Vivifica os sem-alento,<br/>Faze os mortos reviver.<br/>Vida eterna<br/>Vem a todos conceder.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vem abrir teu santo Livro,<br/>Brilhe em nós a Luz dos céus!<br/>Esclarece todo o engano<br/>E dos erros livra os teus.<br/>Alumia<br/>Nossas almas, grande Deus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na leitura desta Bíblia<br/>Dá-nos gozo no Senhor.<br/>Tendo, pelo teu ensino,<br/>Comunhão em santo amor,<br/>Exultemos,<br/>Entoando o teu louvor!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pelo estudo da Palavra<br/>Aprendamos de Jesus!<br/>Oh! Concede os belos frutos<br/>Que tua instrução produz!<br/>E gozemos<br/>Alegria e vida e luz.</lines>
+    </verse>
+  </lyrics>
+</song>

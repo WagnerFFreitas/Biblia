@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:05">
+  <properties>
+    <titles>
+      <title>HM348 - Deus é Fiel!</title>
+      <title>Deus é fiel! Com alma paternal</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deus é fiel! Com alma paternal<br/>E sábia compaixão<br/>Os seus amapra: estende-lhes real<br/>E eterna proteção;<br/>No regozijo e na tristeza;<br/>Deus é nossa fortaleza;<br/>Deus é fiel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Deus é fiel! Seu filho eterno deu<br/>A fim de nos salvar;<br/>Com todo o amor nso chama para o céu,<br/>A vida nos quer dar.<br/>Asilo temos, nos seus braços,<br/>Do mundo e seus doloso laços;<br/>Deus é fiel!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Deus é fiel! Ajusta as aflições<br/>Que a nós melhor convém;<br/>Bondoso sempre, as suas correções<br/>Promovem nosso bem!<br/>É por amor que nos castiga!<br/>Mui perto está e a dor mitiga!<br/>Deus é fiel!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Deus é fiel! Marchemos sem temor<br/>Aonde nos conduz!<br/>Seu estandarte é sempre vencedor,<br/>Alçado por Jesus!<br/>Sim, caminhando para a glória,<br/>Tenhamos sempre na memória:<br/>Deus é fiel!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:33">
+  <properties>
+    <titles>
+      <title>HCC 091 Noite de Paz! Noite de Amor!</title>
+      <title>Stille Nacht</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Joseph Mohr</author>
+      <author>Franz Gruber</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="091"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Noite de paz!<br/>Noite de amor!<br/>Dormem todos em redor.</lines>
+      <lines>Em Belém Jesus nasceu,<br/>Rei da paz, da terra e céu.<br/>Nosso Salvador<br/>é Jesus, Senhor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">"Glória a Deus!<br/>Glória a Deus!"<br/>Cantam anjos lá dos céus;</lines>
+      <lines>trazem novas de perdão,<br/>graça eterna, salvação.<br/>Prova deste amor<br/>dá o Redentor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Rei da paz,<br/>Rei de amor<br/>é Jesus, o Salvador.</lines>
+      <lines>Vinde todos lhe rogar<br/>que nos venha abençoar.<br/>Deste mundo a luz<br/>é o Senhor Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:53">
+  <properties>
+    <titles>
+      <title>HC493 - Ao Pai Voltai</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ao Pai voltai, vós que chorais,<br/>Voltai ao lar paterno;<br/>Pois lá Jesus, em santa luz,<br/>Vos dá um gozo eterno!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ao Pai voltai, voltai ao lar eterno;<br/>A Deus tornai, ao vosso lar paterno.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Pai está ansioso lá,<br/>Pois quer vos ver a salvo;<br/>Tereis então a salvação<br/>Se Cristo for o alvo!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O mal deixai e regressai<br/>P'ra o lar do Pai glorioso,<br/>Então, assim, sereis enfim<br/>P'ra sempre mui ditoso.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Não recuseis, mas escolhei<br/>A Cristo, o vero trilho;<br/>Voltai ao lar, p'ra lá morar,<br/>Com Deus e com Seu Filho.</lines>
+    </verse>
+  </lyrics>
+</song>

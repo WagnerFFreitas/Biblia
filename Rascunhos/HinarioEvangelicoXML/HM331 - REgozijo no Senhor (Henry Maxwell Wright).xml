@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:59">
+  <properties>
+    <titles>
+      <title>HM331 - REgozijo no Senhor</title>
+      <title>Meu Senhor, que me salvaste</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Henry Maxwell Wright</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Meu Senhor, que me salvaste<br/>Teu e teu somente eu sou;<br/>Com teu sangue me remiste,<br/>Glória, ó Salvador, te dou.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh! Que glória! Oh! Que Glória!<br/>Sentirá meu coração!<br/>Eu confio em ti, Jesus;<br/>Crendo, tendo a salvação.<br/>Oh! Que glória! Oh! Que glória!<br/>Sentirá meu coração!<br/>Eu confio em ti Jesus;<br/>E em teu sangue achei perdão.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Para ter paz e conforto,<br/>Muito e muito trabalhei;<br/>Mas em vão foi todo o esforço;<br/>Foi por fé que o alcancei.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Confiando, inteiramente,<br/>Sempre em ti, Senhor Jesus,<br/>Tenho, certo, a infinda graça<br/>De viver em plena luz.</lines>
+    </verse>
+  </lyrics>
+</song>

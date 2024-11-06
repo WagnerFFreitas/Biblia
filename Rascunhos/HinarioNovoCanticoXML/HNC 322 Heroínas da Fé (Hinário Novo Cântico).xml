@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:49:01">
+  <properties>
+    <titles>
+      <title>HNC 322 - Heroínas da Fé</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="322"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Avante, companheiras,<br/>Na causa de Jesus!<br/>Ativas no trabalho,<br/>Servi enquanto há luz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mostrai, na atividade,<br/>A vossa gratidão<br/>A Cristo, o grande Amigo,<br/>O Autor da Redenção.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O exemplo de Maria<br/>Que, aos pés do Salvador,<br/>Tomou a melhor parte,<br/>Segui com fé e amor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Os dons do vosso afeto<br/>A Cristo consagrai!<br/>À Igreja, que é seu corpo,<br/>Dedicação mostrai!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Erguei-vos, heroínas,<br/>E vinde trabalhar!<br/>Mostrai vossas virtudes<br/>Na Pátria, Igreja e Lar!</lines>
+    </verse>
+  </lyrics>
+</song>

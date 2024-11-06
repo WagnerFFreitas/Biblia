@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:40">
+  <properties>
+    <titles>
+      <title>HC425 - Perdido Andei</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Perdido neste mundo andei,<br/>Imerso em sua escuridão;<br/>Em vãs promessas confiei;<br/>Não tinha Deus, nem salvação.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Perdido andei, mas me salvei,<br/>Sendo guiado pela luz,<br/>Que no Calvário avistei<br/>E me levou ao Rei Jesus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sem forças 'stava p'ra viver,<br/>Sem nada mais eu esperar;<br/>Quando uma luz eu pude ver,<br/>Que veio me iluminar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fitei a luz e logo cri,<br/>E muito alegre eu fiquei;<br/>Prazer do céu também senti;<br/>Quando essa luz eu abracei.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Confesso com satisfação,<br/>Que nessa luz me sinto bem;<br/>A paz entrou no coração,<br/>Porque vi um abrigo além.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nos braços do Senhor Jesus,<br/>Prazer eu tenho em viver,<br/>Unido á salvadora luz,<br/>Que Cristo veio me trazer.</lines>
+    </verse>
+  </lyrics>
+</song>

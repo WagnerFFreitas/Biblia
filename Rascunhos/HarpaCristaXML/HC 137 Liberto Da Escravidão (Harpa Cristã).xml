@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:52">
+  <properties>
+    <titles>
+      <title>HC137 - Liberto Da Escravidão</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Em Babilônia, em prisão,<br/>Estava Israel,<br/>O povo santo de Sião,<br/>Sofrendo dor cruel.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mas, um dia, se ouviu,<br/>Que do rei a voz saiu<br/>P'ra voltarem da escravidão.<br/>Todo povo a jubilar,<br/>Com as harpas a cantar,<br/>Foi em busca de Sião.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>"Cantai" disseram os caldeus,<br/>Os hinos de Sião,<br/>Mas isto mais entristeceu,<br/>Os filhos de Abraão.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Libertos foram lá por Deus<br/>Da vil escravidão.<br/>E toda alma se encheu,<br/>De riso e gratidão.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Quão grandes coisas nos fez Deus!<br/>Cantavam, já, então;<br/>E qual um sonho pareceu<br/>A volta p'ra Sião.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>E neste mundo, qual Babel,<br/>Há muitos em prisão,<br/>Sofrendo uma dor cruel,<br/>Sem ter consolação.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mas, de Cristo se ouviu<br/>Que Deus, a voz saiu,<br/>P'ra voltarem da escravidão.<br/>Queiras isto aceitar,<br/>Com a harpa vem cantar,<br/>E, assim, volta p'ra Sião.</lines>
+    </verse>
+  </lyrics>
+</song>

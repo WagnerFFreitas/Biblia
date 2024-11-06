@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:03">
+  <properties>
+    <titles>
+      <title>HM007 - Noite de Paz</title>
+      <title>Noite de paz! Noite de amor!</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Joseph Mohr</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Noite de paz! Noite de amor!<br/>Tudo dorme em derredor.<br/>Entre os astros que espargem a luz,<br/>Proclamando o Menino Jesus,<br/>Brilha a estrela da paz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Noite de paz! Noite de amor!<br/>Nas campinas ao pastor,<br/>Lindos anjos, mandados por Deus,<br/>Anunciam a nova dos céus:<br/>Nasce o bom Salvador.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Noite de paz! Noite de amor!<br/>Oh! Que belo resplendor<br/>Ilumina o Menino Jesus!<br/>No presépio do mundo eis a luz,<br/>Sol de eterno fulgor!</lines>
+    </verse>
+  </lyrics>
+</song>

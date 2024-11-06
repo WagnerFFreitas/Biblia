@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:17">
+  <properties>
+    <titles>
+      <title>CC 162 Vigiar e Orar</title>
+      <title>Vigia</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Alfredo Silva</author>
+      <author>Sophia Zuberbuehler</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="162"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Bem de manhã, embora o céu sereno<br/>pareça um dia calmo anunciar,</lines>
+      <lines>vigia e ora; o coração pequeno<br/>um temporal pode abrigar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bem de manhã, e sem cessar,<br/>vigiar, sim, e orar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Ao meio dia, e quando os sons da terra<br/>abafam mais de Deus a voz de amor,</lines>
+      <lines>recorre à oração, evita a guerra<br/>e goza paz com o Senhor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Do dia ao fim, após os teus lidares,<br/>relembra as bênçãos do celeste amor,</lines>
+      <lines>e conta a Deus prazeres e pesares,<br/>deixando em suas mãos a dor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">E sem cessar, vigia a cada instante,<br/>que o inimigo ataca sem parar.</lines>
+      <lines>Só com Jesus em comunhão constante<br/>é que o fiel vai triunfar.</lines>
+    </verse>
+  </lyrics>
+</song>

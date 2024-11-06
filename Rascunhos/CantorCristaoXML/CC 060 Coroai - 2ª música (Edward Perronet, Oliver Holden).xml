@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:41:58">
+  <properties>
+    <titles>
+      <title>CC 060 Coroai - 2ª música</title>
+      <title>Coronation</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Edward Perronet</author>
+      <author>Oliver Holden</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="060"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Saudai o nome de Jesus!<br/>Arcanjos vos prostrai!</lines>
+      <lines>O Filho do glorioso Deus,<br/>Com glória coroai!<br/>O Filho do glorioso Deus,<br/>Com glória coroai!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Ó escolhida geração,<br/>Do bom, eterno Pai,</lines>
+      <lines>O grande Autor da salvação,<br/>Com glória coroai!<br/>O grande Autor da salvação,<br/>Com glória coroai!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Ó perdoados, por Jesus,<br/>Alegres adorai!</lines>
+      <lines>O Deus de paz, o Deus de luz,<br/>Com glória coroai!<br/>O Deus de paz, o Deus de luz,<br/>Com glória coroai!</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Ó raças, tribos e nações,<br/>Ao Rei divino honrai;</lines>
+      <lines>A quem quebrou os vis grilhões,<br/>Com glória coroai!<br/>A quem quebrou os vis grilhões,<br/>Com glória coroai!</lines>
+    </verse>
+  </lyrics>
+</song>

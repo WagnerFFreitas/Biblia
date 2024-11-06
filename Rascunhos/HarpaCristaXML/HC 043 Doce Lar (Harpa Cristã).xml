@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:38">
+  <properties>
+    <titles>
+      <title>HC043 - Doce Lar</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na pátria celeste, de Deus o doce lar,<br/>Prepara Jesus, para os Seus, um lugar,<br/>Pois longe do mal, do pecado e da dor,<br/>Consigo p'ra sempre os quer ter seu Senhor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh! Doce, doce lar!<br/>Ali, com Jesus, vou para sempre descansar</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh! lar sacrossanto de paz e de amor!<br/>Ali sobre o trono, verei meu Senhor,<br/>O meigo Cordeiro, reinando em luz,<br/>Por todos louvado, bendito Jesus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Que puras delícias se encontram em ti!<br/>Que gozos supremos esperam ali,<br/>Aqueles a quem junto a Si Deus que ter,<br/>E perpetuamente os satisfazer!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Não são seus prazeres que anseio gozar,<br/>Mas, sim, com Jesus para sempre morar!<br/>Jamais desonrá-lo, jamais ofender<br/>A quem, p'ra ganhar-me, por mim quis morrer.</lines>
+    </verse>
+  </lyrics>
+</song>

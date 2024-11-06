@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:13">
+  <properties>
+    <titles>
+      <title>HM079 - Refúgio</title>
+      <title>Nos braços teus, eterno Pai,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Manoel da Silveira Porto Filho</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nos braços teus, eterno Pai,<br/>Em horas de tristeza e dor,<br/>A descansar minha alma vai,<br/>Confiando em ti, meu Redentor.<br/>E doce calma tem minha alma<br/>No terno abrigo do teu constante amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nas tentações e no amargor<br/>Que o mundo mau a mim vem dar,<br/>Tu és meu Deus, meu Protetor<br/>E em ti me vou refugiar.<br/>De minhas dores, meus terrores,<br/>Teu braço forte me vem aqui livrar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Á tua sombra correrei,<br/>Jesus bendito, meu Salvador;<br/>Ao pé da cruz repousarei,<br/>Vencendo o meu cuidado e dor.<br/>Por ti guardado, Cristo amado,<br/>Sustos e medo não mais terão vigor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>E quando o mundo, enfim, passar<br/>E o lar de amor me receber,<br/>Aos pés do Trono irei cantar,<br/>Teu santo nome engrandecer.<br/>Na luz superna, doce e terna,<br/>Vou para sempre junto de ti viver!</lines>
+    </verse>
+  </lyrics>
+</song>

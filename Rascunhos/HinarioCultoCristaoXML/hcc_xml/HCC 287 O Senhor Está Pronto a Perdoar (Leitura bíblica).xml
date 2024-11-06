@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:09">
+  <properties>
+    <titles>
+      <title>HCC 287 O Senhor Está Pronto a Perdoar</title>
+      <title>Salmos 32:1; Neemias 13:22; Salmos 86:5; 32:5; Isaías 55:7; Salmos 25:11</title>
+    </titles>
+    <copyright>Salmos 32:1; Neemias 13:22; Salmos 86:5; 32:5; Isaías 55:7; Salmos 25:11</copyright>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="287"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bem-aventurado aquele cuja transgressão é perdoada, e cujo pecado é coberto.<br/>Deus meu, lembra-te de mim, e perdoa-me segundo a abundância da tua misericórdia.<br/>Porque tu, Senhor, és bom, e pronto a perdoar, e abundante em benignidade para com todos os que te invocam.<br/>Confessei-te o meu pecado, e a minha iniquidade não encobri.<br/>Disse eu: Confessarei ao Senhor as minhas transgressões.<br/>Deixe o ímpio o seu caminho, e o homem maligno os seus pensamentos;<br/>volte-se ao Senhor, que se compadecerá dele; e para o nosso Deus, porque é generoso em perdoar.<br/>Por amor do teu nome, Senhor, perdoa a minha iniquidade, pois é grande.</lines>
+    </verse>
+  </lyrics>
+</song>

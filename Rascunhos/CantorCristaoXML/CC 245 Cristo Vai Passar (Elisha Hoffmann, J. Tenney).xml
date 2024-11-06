@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:34">
+  <properties>
+    <titles>
+      <title>CC 245 Cristo Vai Passar</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Elisha Hoffmann</author>
+      <author>J. Tenney</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="245"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Há hoje alguém esperando<br/>para Jesus encontrar?<br/>Venha, sem mais demorar-se,<br/>Cristo vai hoje passar!</lines>
+      <lines>Ei-lo de mãos estendidas,<br/>cheio de graça sem par.<br/>Oh! que ventura inaudita,<br/>Cristo vai hoje passar!</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Cristo vai hoje passar,<br/>passar, passar!<br/>Passa de amor transbordando,<br/>todos a si convidando.</lines>
+      <lines>O Mestre vai hoje passar,<br/>sim, hoje Ele vai passar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Há inda alguém duvidando<br/>do seu poder de salvar?<br/>Pois venha experimentá-lo,<br/>Cristo vai hoje passar!</lines>
+      <lines>O seu poder é divino,<br/>o seu amor é sem par.<br/>Ó coração quebrantado!<br/>Cristo vai hoje passar!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Há inda alguém demorando<br/>para Jesus aceitar?<br/>Eis que o Senhor está perto,<br/>Ele vai hoje passar!</lines>
+      <lines>Ó pecador desditoso,<br/>não cesses pois de clamar!<br/>Vem tuas culpas chorando;<br/>Cristo vai hoje passar!</lines>
+    </verse>
+  </lyrics>
+</song>

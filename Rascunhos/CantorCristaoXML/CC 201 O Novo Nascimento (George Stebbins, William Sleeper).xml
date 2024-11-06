@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:25">
+  <properties>
+    <titles>
+      <title>CC 201 O Novo Nascimento</title>
+      <title>Born Again</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>George Stebbins</author>
+      <author>William Sleeper</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="201"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Um rico, de noite, chegou a Jesus<br/>a fim de saber o caminho da luz;<br/>o Mestre bem claro lhe fêz entender:<br/>Importa renascer!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Importa renascer!<br/>Importa renascer!<br/>Com voz infalível o disse Jesus:<br/>Importa renascer!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vós, filhos do mundo, escutai ao Senhor<br/>que sempre vos chama com mui terno amor;<br/>ouvi que o Senhor nunca cessa em dizer:<br/>Importa renascer!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó vós, que no santo descanso de Deus<br/>quereis ter entrada, e viver com os seus,<br/>deveis à palavra de Cristo atender:<br/>Importa renascer!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Se amados no céu desejais encontrar,<br/>deveis vossas culpas a Deus confessar<br/>e a ordem de Cristo com fé acolher:<br/>Importa renascer!</lines>
+    </verse>
+  </lyrics>
+</song>

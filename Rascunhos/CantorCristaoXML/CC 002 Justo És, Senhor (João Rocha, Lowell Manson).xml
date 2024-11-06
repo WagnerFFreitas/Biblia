@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:41:46">
+  <properties>
+    <titles>
+      <title>CC 002 Justo És, Senhor</title>
+      <title>Salmo 145:17-18</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>João Rocha</author>
+      <author>Lowell Manson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="002"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Justo és, Senhor, nos teus santos caminhos;<br/>És digno em todas as tuas obras;<br/><br/>Justo és, Senhor, nos teus santos caminhos;<br/>És digno em todas as tuas obras;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eis, perto estás dos que Te invocam,<br/>De todos que Te invocam em verdade!<br/><br/>Eis, perto estás dos que Te invocam,<br/>de todos que Te invocam em verdade!<br/>Aleluia! Aleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

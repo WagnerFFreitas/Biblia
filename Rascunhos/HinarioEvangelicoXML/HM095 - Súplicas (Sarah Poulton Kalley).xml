@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:16">
+  <properties>
+    <titles>
+      <title>HM095 - Súplicas</title>
+      <title>Ó Deus Consolador! Convém</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó Deus Consolador! Convém<br/>Ao teu auxílio recorrer,<br/>Manancial de todo o bem!<br/>As almas vem fortalecer<br/>E, com celeste amor, guiar<br/>Os que te querem adorar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sem ti, ó Deus, o culto em vão<br/>E nulo em tudo nos será;<br/>Sem teu ensino e direção<br/>Nossa alma luzes não terá;<br/>E sem proveito, sem valor,<br/>As expressões do nosso amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Com teu amor, eterno Deus,<br/>Inspira as nossas petições.<br/>Ensina a orar, e para os céus<br/>Eleva os pobres corações!<br/>Desperta, ó santo Instruidor,<br/>Nas mudas almas, teu louvor!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:36">
+  <properties>
+    <titles>
+      <title>CC 257 Quem É Que Vai</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>James McGranahan</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="257"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Quem é que vai com Jesus estar<br/>lá no céu? Lá no céu?<br/>Quem dessa graça vai desfrutar?<br/>Vais tu? Vou eu? Vais tu? Vou eu?</lines>
+      <lines>Quem vai provar esse santo amor,<br/>longe de toda a tristeza e dor,<br/>junto com Cristo seu Salvador?<br/>Vais tu? Vou eu? Vais tu? Vou eu?</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Logo o cristão vai deixar a cruz<br/>lá no céu? Lá no céu?<br/>Ter a coroa de glória e luz.<br/>Vais tu? Vou eu? Vais tu? Vou eu?</lines>
+      <lines>Vai sim, de Cristo o semblante ver,<br/>suas palavras ouvir e ter<br/>gozo de celestial prazer?<br/>Vais tu? Vou eu? Vais tu? Vou eu?</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Quem vai ainda querer entrar<br/>lá no céu? Lá no céu?<br/>Pois se dirá: "Não há mais lugar."<br/>Vais tu? Vou eu? Vais tu? Vou eu?</lines>
+      <lines>Quem vai parar na miséria atroz,<br/>sem mais ouvir a celeste voz?<br/>Vai, por desgraça, qualquer de nós?<br/>Vais tu? Vou eu? Vais tu? Vou eu?</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Quem vai ter parte na adoração,<br/>lá no céu? Lá no céu?<br/>Que os redimidos a Deus darão?<br/>Vais tu? Vou eu? Vais tu? Vou eu?</lines>
+      <lines>Quem, com o coro celestial,<br/>parte terá no louvor real,<br/>livre de todo o poder do mal?<br/>Vais tu? Vou eu? Vais tu? Vou eu?</lines>
+    </verse>
+  </lyrics>
+</song>

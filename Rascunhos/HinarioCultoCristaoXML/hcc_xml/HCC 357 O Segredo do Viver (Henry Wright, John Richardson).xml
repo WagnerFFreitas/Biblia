@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:23">
+  <properties>
+    <titles>
+      <title>HCC 357 O Segredo do Viver</title>
+      <title>Tichfield</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Henry Wright</author>
+      <author>John Richardson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="357"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Quando me cercar o mal,<br/>ao rugir o temporal,</lines>
+      <lines>em Jesus vou confiar,<br/>pois jamais irá falhar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">O segredo do viver,<br/>o segredo do vencer,</lines>
+      <lines>é em Cristo confiar,<br/>pois jamais irá falhar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Quando a dor ou aflição<br/>perturbar meu coração,</lines>
+      <lines>é preciso confiar<br/>e a Jesus tudo entregar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Quando fraco me sentir,<br/>quando o mundo me oprimir,</lines>
+      <lines>e pesar a minha cruz,<br/>"Crê somente!", diz Jesus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Quer nas trevas, quer na luz,<br/>sempre perto está Jesus,</lines>
+      <lines>perto e pronto pra salvar<br/>quem somente confiar.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:42">
+  <properties>
+    <titles>
+      <title>HC076 - Vem, Ó Pródigo 2</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vem, ó pródigo, vem sem tardar, te chama Deus,<br/>Ouve-O chamando, sim, chamando a ti;<br/>Tu, que vagas errante escuta a voz dos céus,<br/>Ó escuta a voz de amor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Deus espera por ti, perdido, pródigo, vem;<br/>Deus espera por ti, perdido, pródigo, vem</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Com paciência e ternura te chama o Senhor,<br/>Ouve-O chamado, sim , chamado a ti;<br/>Vem enquanto te chama o meigo Salvador,<br/>Ó escuta a voz de amor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lá na casa do Pai, abundância há de pão;<br/>Ouve-O chamado, sim, chamado a ti;<br/>Já está pronta a mesa com toda a provisão,<br/>Ó escuta a voz de amor!</lines>
+    </verse>
+  </lyrics>
+</song>

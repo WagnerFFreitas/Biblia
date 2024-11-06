@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:05">
+  <properties>
+    <titles>
+      <title>HC221 - Opera Em Mim!</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eis-me a Teus pés, Senhor, opera em mim!<br/>Espero mais vigor, opera em mim!<br/>Eu gozo vou fruir, se Tua lei cumprir;<br/>Ó dá-me Teu amor: opera em mim!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sedento, com ardor, opera em mim!<br/>Te peço mais amor, opera em mim!<br/>Tu só me podes dar a perfeição sem par,<br/>Ó bom Consolador: opera em mim!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó meu Senhor Jesus, opera em mim!<br/>Por Tua santa luz, opera em mim!<br/>Revela-me o valor da morte do Senhor,<br/>Por mim, na dura cruz; opera em mim!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Não tardes mais, Senhor, opera em mim!<br/>Escuta o meu clamor, opera em mim!<br/>No sangue de Jesus, vertido lá na cruz,<br/>Me guarda por favor, opera em mim!</lines>
+    </verse>
+  </lyrics>
+</song>

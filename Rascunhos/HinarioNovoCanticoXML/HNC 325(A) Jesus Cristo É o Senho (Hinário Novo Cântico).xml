@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:49:02">
+  <properties>
+    <titles>
+      <title>HNC 325(A) - Jesus Cristo É o Senho</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="325-A"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Todas unidas com santo ardor,<br/>Almas remidas cheias de amor.<br/>Nossa mensagem é de valor,<br/>Pois Jesus Cristo é o Senhor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vamos bem alto o Seu nome erguer,<br/>Nossos recursos oferecer,<br/>Para que o mundo venha saber<br/>Que Ele é o Senhor de todo ser!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nosso trabalho é para o Senhor,<br/>Nossos talentos são do Senhor.<br/>Vamos, unidas, pois, proclamar<br/>Que Ele é o Senhor do céu e mar!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Sim, Jesus Cristo é o Senhor!<br/>Das nossas vidas Ele é o Senhor!<br/>Dos nossos lares Ele é o Senhor!<br/>E o nosso tempo é do Senhor!</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

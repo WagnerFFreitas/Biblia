@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:56">
+  <properties>
+    <titles>
+      <title>HNC 191 - Rio da Vida</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="191"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fonte de amor perene,<br/>Manancial de luz!<br/>Água da vida corre<br/>Do trono de Jesus!<br/>Calmo rio! Belo rio!<br/>Quero estar, também,<br/>Onde as águas sempre correm<br/>Desse rio além.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Muitos de nós já foram <br/>Cantar no céu louvor;<br/>Com o remidos cantam<br/>A Cristo, o Redentor.<br/>Santo rio! Junto ao rio<br/>Vou cantar, também,<br/>Onde as vozes nunca cessam,<br/>Na Jerusalém.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Límpida fonte corre<br/>Brilhante, corre a fux;<br/>Quem fez aquela alvura?<br/>O sangue de Jesus.<br/>Corre rio, calmo corre!<br/>Corra assim a paz.<br/>Em minha alma, para sempre,<br/>Corra mais e mais.</lines>
+    </verse>
+  </lyrics>
+</song>

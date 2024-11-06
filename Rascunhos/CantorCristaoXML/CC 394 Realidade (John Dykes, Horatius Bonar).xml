@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:08">
+  <properties>
+    <titles>
+      <title>CC 394 Realidade</title>
+      <title>Vox Dilecti</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>John Dykes</author>
+      <author>Horatius Bonar</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="394"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Ouvi o Salvador dizer:<br/>"Vem descansar em Mim,<br/>e nos meus braços podes ter<br/>consolação sem fim."</lines>
+      <lines>Então eu vim e lhe entreguei<br/>meu triste coração,<br/>abrigo, paz e gozo achei,<br/>achei consolação.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Ouvi o Salvador dizer:<br/>"De graça eu sempre dou<br/>as águas vivas. Vem beber:<br/>da vida a fonte Eu sou."</lines>
+      <lines>Vim a Jesus e me prostrei<br/>às águas e bebi;<br/>jamais a sede sentirei,<br/>estando sempre aqui.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Ouvi o Salvador dizer:<br/>"A luz do mundo sou;<br/>oh! vinde a Mim! a quem vier<br/>a luz da vida dou."</lines>
+      <lines>Vim a Jesus e nele achei<br/>o sol que brilha em mim;<br/>e nessa luz eu andarei<br/>até da vida o fim.</lines>
+    </verse>
+  </lyrics>
+</song>

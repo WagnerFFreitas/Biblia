@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:17">
+  <properties>
+    <titles>
+      <title>HCC 330 Descansando no Poder de Deus</title>
+      <title>Showalter</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Elisha Hoffmann</author>
+      <author>Anthony Showalter</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="330"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Que consolação tem meu coração,<br/>descansando no poder de Deus!</lines>
+      <lines>Ele tem prazer em me proteger,<br/>descansando no poder de Deus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Descansando<br/>nos eternos braços do meu Deus,</lines>
+      <lines>vou seguro,<br/>descansando no poder de Deus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Sempre avante vou, bem contente estou,<br/>descansando no poder de Deus.</lines>
+      <lines>Tudo hei de vencer pelo seu poder<br/>descansando no poder de Deus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Não recearei, nada temerei,<br/>descansando no poder de Deus.</lines>
+      <lines>Tenho paz e amor junto a meu Senhor,<br/>descansando no poder de Deus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Lutas sem cessar hei de atravessar,<br/>descansando no poder de Deus.</lines>
+      <lines>Não me deixarás, más me susterá,<br/>descansando no poder de Deus.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:03">
+  <properties>
+    <titles>
+      <title>HCC 256 Jesus Quer Entrar Hoje Em Teu Coração</title>
+      <title>Carmichael</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Ralph Carmichael</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="256"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Jesus quer entrar hoje em teu coração<br/>e para sempre ficar,</lines>
+      <lines>pois nada o impede de dar-te perdão<br/>quando o deixares entrar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Já muitas vezes à porta esperou,<br/>e agora ele volta a bater,</lines>
+      <lines>querendo te dar salvação, paz e amor.<br/>Queres a Cristo atender?</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Se abrires a porta do teu coração<br/>e o convidares a entrar,</lines>
+      <lines>Jesus te dará seu divino perdão<br/>para contigo habitar.</lines>
+    </verse>
+  </lyrics>
+</song>

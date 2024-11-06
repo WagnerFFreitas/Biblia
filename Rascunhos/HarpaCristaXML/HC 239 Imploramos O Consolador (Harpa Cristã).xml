@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:07">
+  <properties>
+    <titles>
+      <title>HC239 - Imploramos O Consolador</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vem ó Senhor, e completa<br/>A obra Tua em mim;<br/>Torna a minha alma dileta,<br/>Enchendo-me de Ti.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ó manda agora,<br/>O bom Consolador;<br/>Minh'alma Te implora,<br/>O meu amado Senhor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Há tanto tempo Te espero,<br/>Ó caro Salvador,<br/>Mas hoje mesmo eu quero<br/>O bom Consolador.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tens me tirado p'ra fora<br/>Do mundo sedutor;<br/>Ó vem selar-me agora<br/>Glorioso Redentor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A Ti pertence a glória,<br/>Benigno Salvador;<br/>Sempre me dás a vitória,<br/>Por Teu imenso amor.</lines>
+    </verse>
+  </lyrics>
+</song>

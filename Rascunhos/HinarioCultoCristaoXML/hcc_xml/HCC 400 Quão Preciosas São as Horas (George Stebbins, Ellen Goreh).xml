@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:31">
+  <properties>
+    <titles>
+      <title>HCC 400 Quão Preciosas São as Horas</title>
+      <title>Comunhão</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>George Stebbins</author>
+      <author>Ellen Goreh</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="400"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Quão preciosas são as horas<br/>na presença de Jesus,<br/>comunhão mui deliciosa<br/>de minha alma com a luz!</lines>
+      <lines>Os cuidados deste mundo<br/>não me podem envolver,<br/>pois é ele meu abrigo<br/>quando o Tentador vier,<br/>quando o Tentador vier.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Ao sentir-me pressionado<br/>por problemas terreais,<br/>irritado, enfraquecido,<br/>em hesitações carnais,</lines>
+      <lines>a Jesus eu me dirijo<br/>nesses tempos de aflição.<br/>As palavras que ele fala<br/>trazem-me consolação,<br/>trazem-me consolação.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Se eu confesso meus temores,<br/>toda a minha imperfeição,<br/>ele escuta com paciência<br/>essa triste confissão</lines>
+      <lines>e dá forças pra que eu vença<br/>o pecado e todo mal.<br/>Ele é sempre meu amigo,<br/>o melhor e mais leal,<br/>o melhor e mais leal.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Se quereis saber quão doce<br/>é com Deus ter comunhão,<br/>podereis, então, prová-lo<br/>e tereis compensação.</lines>
+      <lines>Procurai estar sozinhos<br/>em conversa com Jesus<br/>e tereis na vossa vida<br/>paz perfeita, graça e luz,<br/>paz perfeita graça e luz.</lines>
+    </verse>
+  </lyrics>
+</song>

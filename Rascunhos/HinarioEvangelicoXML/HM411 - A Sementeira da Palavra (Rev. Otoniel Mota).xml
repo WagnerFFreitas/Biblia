@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:18">
+  <properties>
+    <titles>
+      <title>HM411 - A Sementeira da Palavra</title>
+      <title>Na tênue luz da madrugada</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Otoniel Mota</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na tênue luz da madrugada<br/>Do leito salta o semeador.<br/>Ei-lo a seguir a sua estrada;<br/>Fiel, constante em seu labor.<br/>Tem a semente da Verdade,<br/>A vida eterna, o sumo bem;<br/>No coração da humanidade<br/>Semeando vai, semeando vem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cai a semente em solo ingrato,<br/>A passarada a comerá;<br/>E o semeador, no desbarato,<br/>Calado sofre a sorte má.<br/>Cai mais além, por sobre a rocha,<br/>Não tem raiz no seu crescer;<br/>Se promissora desabrocha,<br/>É para logo emurchecer.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cai sobre o sulco, e nasce e medra;<br/>Quanta esperança, ó semeador!<br/>Nem solo mau nem rija pedra;<br/>Mas surge o espinho em derredor.<br/>E o semeador não desanima<br/>No labutar, nas provações;<br/>Seu Deus de amor o vê de cima,<br/>E lhe prepara os corações.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>E o semeador de madrugada,<br/>Fiel, não tarda a estar de pé;<br/>Para o labor, seguindo a estrada,<br/>Com esperança a ardente fé,<br/>Ora e confia. Na fadiga<br/>Não o detém temor nenhum;<br/>Já brota a seara, e em cada espiga<br/>Sessenta, e trinta, e cem por um.</lines>
+    </verse>
+  </lyrics>
+</song>

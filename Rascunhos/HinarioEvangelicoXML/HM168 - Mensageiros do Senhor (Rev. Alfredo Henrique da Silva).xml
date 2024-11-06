@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:28">
+  <properties>
+    <titles>
+      <title>HM168 - Mensageiros do Senhor</title>
+      <title>Eu quero ser um anjo,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Alfredo Henrique da Silva</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eu quero ser um anjo,<br/>Que louve sempre a Deus;<br/>Quero imitar na terra<br/>Os anjos lá dos céus,<br/>Por isso a lei eterna<br/>E santa do Senhor,<br/>Nas aulas do domingo<br/>Estudo com amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bendita seja a escola<br/>Que espalha a santa luz<br/>E os pequeninos guia<br/>Nos passos de Jesus!<br/>Estudem as crianças<br/>Os mandamentos seus;<br/>No mundo sejam anjos<br/>Que sirvam sempre a Deus!</lines>
+    </verse>
+  </lyrics>
+</song>

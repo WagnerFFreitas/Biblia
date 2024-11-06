@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:46">
+  <properties>
+    <titles>
+      <title>HCC 164 Um Mandamento de Amor</title>
+      <title>João 15:12-14</title>
+    </titles>
+    <copyright>João 15:12-14</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="164"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O meu mandamento é este:<br/>Que vos ameis uns aos outros, assim como eu vos amei.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ninguém tem maior amor do que este, de dar alguém a sua vida pelos seus amigos.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vós sois meus amigos, se fizerdes o que eu vos mando.</lines>
+    </verse>
+  </lyrics>
+</song>

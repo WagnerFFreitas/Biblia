@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:02">
+  <properties>
+    <titles>
+      <title>HC206 - O Clarim Nos Alerta</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O clarim já nos alerta,<br/>Nosso coração desperta,<br/>Pois a vinda é bem certa de Jesus;<br/>De mil anjos rodeado,<br/>Para o crente preparado,<br/>Cristo volta coroado, Aleluia!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ó irmão por Deus liberto,<br/>Pelo sangue estás coberto;<br/>Tens o teu perdão bem certo, salvo estás;<br/>Voz de júbilo ouviremos<br/>E no céu nós cantaremos,<br/>Cristo breve nós veremos. Aleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lá nas bodas do Cordeiro,<br/>Sentaremos prazenteiros;<br/>Oh! Que gozo verdadeiro com Jesus!<br/>Pois no céu não há mais pranto,<br/>Eis que tudo será canto;<br/>Cristo vem buscar os santos. Aleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sim à mesa sentaremos,<br/>E com Cristo cearemos;<br/>Quão felizes nós seremos com Jesus!<br/>Para sempre gozaremos,<br/>E com Cristo reinaremos,<br/>Sua glória fruiremos. Aleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

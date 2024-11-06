@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:56:18">
+  <properties>
+    <titles>
+      <title>HC625 - Glória Indizível</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tenho lido da bela cidade<br/>Situada no Reino de Deus,<br/>Amurada de jaspe luzente,<br/>E juncada com áureos troféus.<br/>Bem no meio da praça eis o rio<br/>Da vida e vigor eternal;<br/>Mas metade da glória celeste<br/>Jamais se contou ao mortal.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jamais se contou ao mortal!<br/>Jamais se contou ao mortal!<br/>Metade da glória celeste<br/>Jamais se contou ao mortal.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tenho lido dos belos palácios,<br/>Que Jesus foi no Céu preparar,<br/>Onde os santos fiéis, para sempre,<br/>Mui felizes irão habitar;<br/>Nem tristeza, nem dor, nem velhice<br/>Veremos no lar paternal;<br/>Mas metade da glória celeste<br/>Jamais se contou ao mortal.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tenho lido das vestes brilhantes,<br/>Das coroas que os crentes terão,<br/>Quando o Pai os chamar proclamando:<br/>- "Recebei eternal galardão!"<br/>Tenho lido que os santos na glória<br/>Têm gozo e prazer perenal.<br/>Mas metade da glória celeste<br/>Jamais se contou ao mortal.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tenho lido da história bendita<br/>De Jesus, o fiel Redentor,<br/>Que por nós padeceu no Calvário<br/>E recebe ao mais vil pecador.<br/>Tenho lido do sangue vertido<br/>Que a todos redime do mal;<br/>Mas metade da glória celeste<br/>Jamais se contou ao mortal.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:53">
+  <properties>
+    <titles>
+      <title>HNC 117 - Pastor Divino</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="117"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eis-nos, ó Pastor divino,<br/>Todos juntos num lugar,<br/>Como ovelhas congregados,<br/>Teu auxílio a suplicar.<br/>És presente, és presente<br/>O rebanho a apascentar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Guia os tristes fatigados<br/>Ao teu bom redil, Senhor<br/>Leva os tenros cordeirinhos<br/>Nos teus braços, Bom Pastor,<br/>Às pastagens, às pastagens<br/>De celeste e doce amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó Jesus bondoso, escuta<br/>Nossa humilde petição!<br/>Vem encher o teu rebanho<br/>De sincera gratidão!<br/>Cantaremos, cantaremos<br/>Tua imensa compaixão. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

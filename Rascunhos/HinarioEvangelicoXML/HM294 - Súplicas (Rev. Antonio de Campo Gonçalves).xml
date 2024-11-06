@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:53">
+  <properties>
+    <titles>
+      <title>HM294 - Súplicas</title>
+      <title>Ó tu, Senhor, dos céus baixado</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Antonio de Campo Gonçalves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó tu, Senhor, dos céus baixado<br/>Com fogo celestial à terra,<br/>Acende em mim o amor sagrado,<br/>Dentro em meu peito o fogo encerra.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Que permaneça, ardentemente,<br/>Com brilho eterno, cintilante.<br/>Aceso para os céus somente,<br/>Em corações, louvor constante.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Senhor, sustenta o meu desejo:<br/>Pensar em ti, falar sincero,<br/>Guardar ma chama o teu lampejo,<br/>Viver contigo, humilde espero.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mas seja, ó Deus, por mim cumprido<br/>O teu querer, o que desejas;<br/>Teu grande amor, o preferido<br/>Divino amor, bendito sejas!</lines>
+    </verse>
+  </lyrics>
+</song>

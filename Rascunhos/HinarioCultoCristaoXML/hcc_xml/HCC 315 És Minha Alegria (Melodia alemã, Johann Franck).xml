@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:14">
+  <properties>
+    <titles>
+      <title>HCC 315 És Minha Alegria</title>
+      <title>Jesu Meine Freude</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Melodia alemã</author>
+      <author>Johann Franck</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="315"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">És minha alegria,<br/>meu sustento e guia,<br/>Cristo, bom Pastor.<br/>Tenho te buscado<br/>triste, angustiado,<br/>livra-me, Senhor.</lines>
+      <lines>Nada mais precioso há<br/>que o Cordeiro vindo ao mundo<br/>em amor profundo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Vãs são as riquezas,<br/>pois, mesmo em pobreza,<br/>Cristo, és meu prazer!<br/>Vãs as falsas honras,<br/>glórias e lisonjas;<br/>não as quero ter.</lines>
+      <lines>Na miséria, mágoa ou dor,<br/>ou em grande sofrimento,<br/>és o meu alento.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Cristo se aproxima<br/>e minha alma anima,<br/>dando vida e paz.<br/>Aos que a Deus adoram,<br/>e seus dons imploram,<br/>ele os satisfaz.</lines>
+      <lines>Mesmo tendo que sofrer<br/>duro escárnio e zombaria,<br/>és minha alegria.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:30">
+  <properties>
+    <titles>
+      <title>CC 226 Dá Teu Coração</title>
+      <title>McConnelsville</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Lelia Morris</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="226"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Queres o teu vi pecado vencer?<br/>Dá teu coração a Jesus.</lines>
+      <lines>Queres também seu favor receber?<br/>Dá teu coração a Jesus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Já chega de hesitação!<br/>Já chega de oposição!</lines>
+      <lines>Oh! busca em Cristo o perdão,<br/>e dá-lhe teu coração!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Em santidade desejas viver?<br/>Dá teu coração a Jesus.</lines>
+      <lines>Queres do Espírito Santo o poder?<br/>Dá teu coração a Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">A tempestade não quer acalmar?<br/>Dá teu coração a Jesus.</lines>
+      <lines>Queres as tuas paixões refrear?<br/>Dá teu coração a Jesus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Dos teus amigos alguém te traiu?<br/>Dá teu coração a Jesus.</lines>
+      <lines>Busca a amizade de quem te remiu;<br/>Dá teu coração a Jesus.</lines>
+    </verse>
+    <verse name="v5">
+      <lines break="optional">Queres no céu a teu Deus exaltar?<br/>Dá teu coração a Jesus.</lines>
+      <lines>Queres a glória divina alcançar?<br/>Dá teu coração a Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

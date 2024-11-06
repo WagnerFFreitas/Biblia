@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:05">
+  <properties>
+    <titles>
+      <title>CC 097 Jesus Veio Aqui</title>
+      <title>Ivory Palaces</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Henry Barraclough</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="097"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Oh! como é tão singular Jesus,<br/>esbelto e mui gentil!</lines>
+      <lines>No rosto traz uma rara luz,<br/>fanal do mundo vil!</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Da sua glória celestial<br/>veio Jesus aqui;</lines>
+      <lines>a sua graça divinal<br/>fê-lo ao mundo vir!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">A sua vida gastou aqui<br/>perdidos pra salvar;</lines>
+      <lines>na cruz sangrenta se deu a si,<br/>afim de os resgatar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">O povo com apatia viu<br/>a prova desse amor;</lines>
+      <lines>e sua graça jamais mediu<br/>um mundo pecador.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">No céu agora Jesus está,<br/>mas breve há de voltar,</lines>
+      <lines>e à glória os salvos transportará,<br/>onde hão de descansar.</lines>
+    </verse>
+  </lyrics>
+</song>

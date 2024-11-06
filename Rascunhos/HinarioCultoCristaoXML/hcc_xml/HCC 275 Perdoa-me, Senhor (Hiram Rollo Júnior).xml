@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:07">
+  <properties>
+    <titles>
+      <title>HCC 275 Perdoa-me, Senhor</title>
+      <title>Aldeota</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Hiram Rollo Júnior</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="275"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Perdoa-me, Senhor, se eu não vivi pra te servir,<br/>se em meu agir o teu amor também não refleti.</lines>
+      <lines break="optional">Perdoa-me, Senhor, se em teu caminho não segui,<br/>se falhas cometi,<br/>se tua doce voz não quis ouvir.</lines>
+      <lines>Escuta minha oração, Senhor,<br/>desejo aqui viver pra teu louvor;<br/>ensina-me a te ouvir<br/>e com amor servir<br/>e os santos passos teus aqui seguir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Perdoa-me, Senhor, se eu de ti me afastei,<br/>se em meu caminho escuro tua luz não procurei;</lines>
+      <lines break="optional">perdoa-me, Senhor, se na aflição não te busquei,<br/>se eu não te sondei,<br/>se teu querer pra mim não procurei.</lines>
+      <lines>Escuta minha oração, Senhor,<br/>desejo aqui viver pra teu louvor;<br/>ensina-me a voltar<br/>e junto a ti estar<br/>e em tua graça sempre confiar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Perdoa-me, Senhor, se frutos eu não produzi,<br/>se, indiferente a tudo, a missão eu não cumpri;</lines>
+      <lines break="optional">perdoa-me, Senhor, se os campos brancos eu não vi,<br/>se só pra mim vivi,<br/>se meus talentos não desenvolvi.</lines>
+      <lines>Escuta minha oração, Senhor,<br/>desejo aqui viver pra teu louvor;<br/>ensina-me a agir<br/>e meu dever cumprir<br/>e frutos dignos dedicar a ti.</lines>
+    </verse>
+  </lyrics>
+</song>

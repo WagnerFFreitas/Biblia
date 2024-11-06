@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:38">
+  <properties>
+    <titles>
+      <title>CC 265 Resgate</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Antônio Neves</author>
+      <author>Lewis Hartsough</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="265"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Pendurado no madeiro,<br/>ó Jesus, quiseste assim<br/>abolir meu cativeiro<br/>pelo teu amor sem fim!</lines>
+      <lines>O teu sangue foi vertido;<br/>expiraste, ó meu Jesus,<br/>e ficou por ti cumprido<br/>meu resgate sobre a cruz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Neste sangue que verteste<br/>purifica-me, Senhor;<br/>foi por mim que tu morreste.<br/>Sê propício ao pecador!</lines>
+      <lines>Sê propício ao desgraçado,<br/>sob a dor da maldição;<br/>desse abismo do pecado.<br/>Salva-me com tua mão.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">"Vinde a Mim", Jesus convida<br/>com seu manso coração;<br/>já da fé na chama brilha<br/>o penhor da salvação.</lines>
+      <lines>Ei-lo ali na cruz pregado;<br/>chama a todo pecador<br/>a limpar o seu pecado,<br/>nesse sangue expiador.</lines>
+    </verse>
+  </lyrics>
+</song>

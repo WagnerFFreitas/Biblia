@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:49:01">
+  <properties>
+    <titles>
+      <title>HNC 292 - A Vinda do Senhor</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="292"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Como foi para o céu, Jesus Cristo há de vir<br/>Quando o som da trombeta ecoar!<br/>Quando a voz do arcanjo celeste se ouvir,<br/>Eu irei com Jesus me encontrar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nesse dia de glória, o meu corpo mortal<br/>Semelhante ao de Cristo há de ser!<br/>E já livre da morte, e já livre do mal,<br/>A vitória de Cristo hei de ver.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eu aqui, pela cruz, para o mundo morri,<br/>Muita dor 'inda aqui sofrerei;<br/>Minha vida com Cristo em meu Deus escondi,<br/>E com Cristo eu, enfim, reinarei.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vem Jesus, ó Senhor, vem depressa reinar!<br/>Vem a paz e a justiça trazer!<br/>Criação, povo Teu, tudo almejo o raiar<br/>Desse dia de glória e poder.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Este império do mal vem, Senhor, destruir!<br/>Rei celeste, vem presto reinar.<br/>Vem, ó sol da justiça, no mundo luzir.<br/>Ó meu rei, vem meu pranto estancar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Oh! Que dia glorioso esse dia há de ser,<br/>Quando o som da trombeta ecoar!<br/>Quando Cristo, nas nuvens, tiver de descer<br/>E, então, triunfante reinar!</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

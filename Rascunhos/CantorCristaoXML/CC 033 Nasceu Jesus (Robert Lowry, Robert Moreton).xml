@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:41:52">
+  <properties>
+    <titles>
+      <title>CC 033 Nasceu Jesus</title>
+      <title>Natalício</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Robert Lowry</author>
+      <author>Robert Moreton</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="033"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Nasce Jesus,<br/>fonte de luz!<br/>Descem os anjos cantando;<br/>nasce Jesus,<br/>é nossa luz;<br/>trevas vem, pois, dissipando.</lines>
+      <lines break="optional">Nasce Jesus,<br/>fonte de luz!<br/>Rompe as cadeias do forte,<br/>raia o dia da salvação,<br/>triunfante vem!</lines>
+      <lines>Salve Jesus! Oh!<br/>firma teu justo império!<br/>Grato louvor os homens e os anjos deem!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nasce Jesus, fonte de luz!<br/>Oh! glória a Deus nas alturas!<br/>Paz na terra aos homens<br/>a quem quer Ele bem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Deus nos amou,<br/>e nos mandou<br/>Cristo, seu Filho querido.<br/>Deus nos amou,<br/>Deus encarnou!<br/>Vede o menino nascido!</lines>
+      <lines break="optional">Deus nos amou!<br/>Deus nos amou!<br/>Digam-no todos os povos;<br/>gozam paz e salvação<br/>todos os que creem.</lines>
+      <lines>Reino bendito!<br/>Reino de amor divino!<br/>Eis que as nações resgate por Cristo tem!</lines>
+    </verse>
+  </lyrics>
+</song>

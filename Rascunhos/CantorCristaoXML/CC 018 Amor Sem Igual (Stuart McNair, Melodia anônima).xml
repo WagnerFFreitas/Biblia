@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:41:49">
+  <properties>
+    <titles>
+      <title>CC 018 Amor Sem Igual</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Stuart McNair</author>
+      <author>Melodia anônima</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="018"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Oh! não tens ouvido do amor sem igual,<br/>Do amor que teu Deus tem por ti?</lines>
+      <lines>Do amor que O levou a seu Filho entregar<br/>Pra os salvos levar para Si?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh! crê!<br/>Oh! crê!<br/>A graça de Deus te chama dos céus;<br/>Oh! crê nesse amor sem igual!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Não foram os grandes que Cristo chamou,<br/>Nem justos veio Ele salvar;</lines>
+      <lines>Mas pobres e fracos, culpados e maus,<br/>Mandou pelos servos chamar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">O homem, porém, não podia chegar<br/>À santa presença de Deus;</lines>
+      <lines>Porque seus pecados qual grande montão,<br/>Vedavam-lhe a entrada nos céus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Mas pelo seu sangue Jesus expirou<br/>A culpa dos crentes na cruz;</lines>
+      <lines>Tirando o pecado, caminho mostrou,<br/>O qual para o céu nos conduz.</lines>
+    </verse>
+    <verse name="v5">
+      <lines break="optional">E tu, pecador, não desejas então<br/>O amor do teu Deus conhecer?</lines>
+      <lines>Por fé no Senhor, como teu Salvador,<br/>Irás alcançar tal prazer.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:02">
+  <properties>
+    <titles>
+      <title>HC204 - O Peregrino Na Terra</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sou peregrino na terra<br/>E longe estou do meu lar,<br/>Minh'alma anelante espera<br/>Que Cristo a venha buscar;<br/>Aqui só há descrença,<br/>As lutas não têm fim,<br/>Mas de Jesus, a presença,<br/>Glória será para mim!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>No céu de luz vou descansar,<br/>Com meu Jesus hei de morar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Em Cristo tendo já crido,<br/>Só pela fé viverei,<br/>Pois Deus me tem prometido,<br/>Que no céu descansarei!<br/>Eu tenho permanente<br/>O bom Consolador,<br/>Guiando-me brandamente<br/>À fonte viva de amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Embora às vezes o crente<br/>As dores sofra da cruz,<br/>Gozo terá permanente,<br/>Quando no céu vir Jesus<br/>De glória coroado<br/>No trono divinal,<br/>Por anjos sempre louvado,<br/>Num coro celestial.</lines>
+    </verse>
+  </lyrics>
+</song>

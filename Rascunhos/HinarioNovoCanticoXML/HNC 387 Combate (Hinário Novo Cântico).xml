@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-12-24T18:35:53">
+  <properties>
+    <titles>
+      <title>HNC 387 - Combate</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="387"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Moços, declarai guerra contra o mal,<br/>Exaltai a cruz do Salvador!<br/>Firmes empunhai armas não carnais,<br/>Sempre confiai em seu amor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Moços, avançai! Fortes vos tornais,<br/>Se o valor da Causa conheceis.<br/>Tremulante em luz, erguei o pendão,<br/>Garantia de que vencereis!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nosso Deus e Pai, ouve com favor!<br/>Vem nos ajudar a combater!<br/>E vencida, enfim, a luta final,<br/>A coroa vem nos conceder.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Todos juntos ao redor da cruz,<br/>Prontos, firmes estejamos nós!<br/>Sim, avante, alegres, corajosos,<br/>Sempre ouvindo de Jesus a voz.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

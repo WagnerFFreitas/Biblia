@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:33">
+  <properties>
+    <titles>
+      <title>HM185 - Consagração Pessoal</title>
+      <title>Minha alma, alegremente,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Henry Maxwell Wright</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Minha alma, alegremente,<br/>Senhor, te oferto aqui,<br/>E o corpo, em sacrifício,<br/>Que faço agora a ti.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Aqui e em toda a parte,<br/>Jesus, meu Salvador,<br/>Eu tudo e para sempre<br/>Consagro a ti, Senhor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>É doce assim deixar-me<br/>Na tua santa mão:<br/>E descansar seguro<br/>Em tua salvação.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sou teu, Jesus bendito!<br/>A Cruz me resgatou;<br/>E, por divina graça,<br/>À glória eterna eu vou.</lines>
+    </verse>
+  </lyrics>
+</song>

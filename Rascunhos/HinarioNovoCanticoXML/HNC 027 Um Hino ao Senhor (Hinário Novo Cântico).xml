@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:49">
+  <properties>
+    <titles>
+      <title>HNC 027 - Um Hino ao Senhor</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="27"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>As grutas, as rochas imensas,<br/>Dos mundos o grande esplendor,<br/>Proclamam bem alto, constantes,<br/>Um hino ao teu Nome, Senhor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No céu, as estrelas brilhantes,<br/>Dos mares o grande fragor,<br/>E as brisas entoam, ridentes,<br/>Um hino ao teu Nome, Senhor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As aves alegres, na mata,<br/>Por entre as ramagens em flor,<br/>Exultam em coro, cantando<br/>Um hino ao teu Nome, Senhor!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>E tu, pecador que vagueias,<br/>Que fazes ao teu Criador?<br/>Não achas momento em que cantes<br/>Um hino de glória ao Senhor?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Nos céus e no mar e na terra,<br/>Nos bosques, nos prados em flor,<br/>No fragoso alcantil, na amplitude celeste,<br/>Um hino ressoa ao Senhor!</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

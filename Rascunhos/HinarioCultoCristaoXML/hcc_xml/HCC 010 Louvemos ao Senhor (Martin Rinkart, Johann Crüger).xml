@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:17">
+  <properties>
+    <titles>
+      <title>HCC 010 Louvemos ao Senhor</title>
+      <title>Nun Danket</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Martin Rinkart</author>
+      <author>Johann Crüger</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="010"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Louvemos ao Senhor<br/>de coração e lábios,<br/>pois grandes coisas faz<br/>aos simples e aos sábios.</lines>
+      <lines>Mesmo antes de nascer,<br/>Deus cuida do bebê<br/>e tudo o que é melhor<br/>com graça já provê.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Louvemos ao Senhor,<br/>pois com amor deseja<br/>que sua eterna paz<br/>conosco sempre seja.</lines>
+      <lines>Sustém-nos seu favor<br/>nos dias a correr.<br/>Nas crises, na aflição,<br/>virá nos socorrer.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Louvemos ao Senhor,<br/>com toda a reverência,<br/>ao trino e santo Deus,<br/>em sua onipotência.</lines>
+      <lines>Em terra, céu e mar,<br/>nós, servos do Senhor,<br/>unindo os corações,<br/>cantemos seu louvor.</lines>
+    </verse>
+  </lyrics>
+</song>

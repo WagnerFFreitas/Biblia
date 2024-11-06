@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:31">
+  <properties>
+    <titles>
+      <title>HCC 401 Logo de Manhã</title>
+      <title>Logo de Manhã</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Aristeu Pires Júnior</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="401"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Logo de manhã, <br/>quero te buscar,<br/>tua voz ouvir, <br/>teu amor sentir</lines>
+      <lines>e estender as mãos <br/>para te louvar,<br/>derramar meu coração<br/>sobre teu altar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pois Tu sabes bem <br/>tudo quanto há em mim;<br/>Que vou te seguir<br/>e te amar até o fim.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">E no fim do dia,<br/>quando o sol se for,<br/>te adorarei,<br/>te darei louvor;</lines>
+      <lines>mesmo escura a noite,<br/>brilha a tua a luz<br/>e em teus braços eu descanso,<br/>meu Senhor Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

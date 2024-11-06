@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:34">
+  <properties>
+    <titles>
+      <title>HC011 - Ó Cristão, Eia Avante</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó cristãos, eia avante, eia avante!<br/>Por Jesus e Sua igreja a lutar;<br/>Co'a palavra, essa espada flamante,<br/>Vamos, vamos, irmãos, pelejar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ó Cristão, sempre avante na lida!<br/>O Evangelho com fé a pregar;<br/>Ao trabalho o Senhor nos convida,<br/>Vamos, pois, com Jesus pelejar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó cristãos, eia avante, eia avante!<br/>Boa nova aos perdidos levar;<br/>Por cidades e vilas adiante,<br/>Salvação vamos nós proclamar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó cristãos, eia avante, eia avante!<br/>Pois aurora já vemos raiar,<br/>Desse dia em que Cristo, triufante,<br/>Neste mundo há de sempre reinar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó cristãos, eia avante, eia avante!<br/>Vexilários da fé vamos ser;<br/>E a vanguarda do exército brilhante,<br/>Que gloriosa vitória há de ter!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó cristãos, eia avante, eia avante!<br/>Com coragem, sem nada temer,<br/>Com Jesus, divinal comandante,<br/>Nós havemos, irmãos, de vencer.</lines>
+    </verse>
+  </lyrics>
+</song>

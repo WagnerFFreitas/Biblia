@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:05">
+  <properties>
+    <titles>
+      <title>CC 100 Jesus Ressuscitado</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Philip Bliss</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="100"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Eis Jesus ressuscitado! <br/>Ele para o céu subiu,<br/>as prisões quebrou da morte;<br/>grandes feitos conseguiu.</lines>
+      <lines>Eis Jesus ressuscitado!<br/>Vive e reina lá no céu!<br/>Eis Jesus ressuscitado;<br/>Voltará ao povo seu!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Eis Jesus ressuscitado,<br/>para nosso Mestre ser!<br/>Conseguiu, na cruz morrendo,<br/>pelo crente interceder.</lines>
+      <lines>Eis Jesus ressuscitado,<br/>pra a vitória nos ganhar!<br/>Eis Jesus ressuscitado,<br/>para nos justificar!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Eis Jesus ressuscitado!<br/>Ele a morte aniquilou<br/>pra ressuscitar-nos todos,<br/>sim, os crentes que salvou.</lines>
+      <lines>Eis Jesus ressuscitado!<br/>Ele em breve voltará.<br/>Eis Jesus ressuscitado,<br/>e consigo nos terá!</lines>
+    </verse>
+  </lyrics>
+</song>

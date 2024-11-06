@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:41">
+  <properties>
+    <titles>
+      <title>HCC 135 Cristo Já Ressuscitou</title>
+      <title>Easter Himn</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Charles Wesley</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="135"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cristo já ressuscitou,<br/>Aleluia!<br/>sobre a morte triunfou.<br/>Aleluia!<br/>Tudo consumado está;<br/>Aleluia!<br/>salvação de graça dá.<br/>Aleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gratos hinos entoai;<br/>Aleluia!<br/>ao Senhor Jesus honrai,<br/>Aleluia!<br/>pois à morte quis baixar,<br/>Aleluia!<br/>pecadores pra salvar.<br/>Aleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uma vez na cruz sofreu;<br/>Aleluia!<br/>uma vez por nós morreu,<br/>Aleluia!<br/>mas agora vivo está,<br/>Aleluia!<br/>e pra sempre reinará.<br/>Aleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

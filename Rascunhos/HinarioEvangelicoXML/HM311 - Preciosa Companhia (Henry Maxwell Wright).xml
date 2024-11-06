@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:56">
+  <properties>
+    <titles>
+      <title>HM311 - Preciosa Companhia</title>
+      <title>Não temas! Contigo</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Henry Maxwell Wright</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>"Não temas! Contigo<br/>Eu sempre estarei",<br/>Oh! rica promessa<br/>Do benigno Rei!<br/>Qual astro que brilha<br/>Lá na escuridão,<br/>A mais fiel promessa<br/>Brilha em meu coração</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Comigo estar! Comigo estar!<br/>Sim, Jesus me promete<br/>Sempre comigo estar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Os lírios mais alvos,<br/>Cedo murcharão!<br/>Os dias mais belos,<br/>Breve passarão!<br/>O Lírio dos vales<br/>Não fenecerá,<br/>E Cristo, a Luz celeste,<br/>Sempre em mim brilhará</lines>
+    </verse>
+    <verse name="v3">
+      <lines>E, se pelas águas<br/>Tiver de seguir,<br/>Seus braços eternos<br/>Me virão cingir;<br/>Sim, mesmo no fogo,<br/>Que me vem provar;<br/>Jesus Senhor promete<br/>Sempre comigo estar.</lines>
+    </verse>
+  </lyrics>
+</song>

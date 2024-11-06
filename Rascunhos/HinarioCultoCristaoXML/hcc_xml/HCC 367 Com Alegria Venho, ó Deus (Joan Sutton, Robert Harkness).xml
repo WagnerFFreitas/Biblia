@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:24">
+  <properties>
+    <titles>
+      <title>HCC 367 Com Alegria Venho, ó Deus</title>
+      <title>Alegria</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Joan Sutton</author>
+      <author>Robert Harkness</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="367"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Com alegria venho, ó Deus,<br/>ao templo te adorar;</lines>
+      <lines>com reverência quero aqui<br/>teu culto celebrar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Eu, em qualquer lugar<br/>em que me possa achar,</lines>
+      <lines>ó Deus, desejo te servir<br/>e teu amor sentir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Senhor, desejo te agradar<br/>em tudo o que eu fizer.</lines>
+      <lines>Na igreja, escola e no meu lar,<br/>bondoso quero ser.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Aos meus amigos, pais e irmãos,<br/>que eu sempre mostre amor.</lines>
+      <lines>Atende, ó Deus, minha oração,<br/>e aceita meu louvor.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:38">
+  <properties>
+    <titles>
+      <title>CC 269 Confissão</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Fanny Crosby</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="269"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Eu aos teus pés, Jesus,<br/>com contrição,<br/>procuro a tua luz.<br/>Dá-me perdão!</lines>
+      <lines>Sim, vem-me perdoar,<br/>vem teu favor mostrar!<br/>Oh! queiras me escutar<br/>em oração!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Cansado e triste estou,<br/>meu Redentor.<br/>Um pecador eu sou,<br/>Cristo Senhor.</lines>
+      <lines>Portanto venho a ti;<br/>oh! dá-me alívio aqui,<br/>pois já me arrependi,<br/>meu Salvador!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Eis do meu Deus a voz<br/>vem me chamar;<br/>Jesus comigo a sós<br/>quer me falar!</lines>
+      <lines>Já creio, Salvador,<br/>no teu perdão e amor;<br/>e quero a ti, Senhor,<br/>me consagrar!</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Estou inda aos teus pés<br/>com gratidão!<br/>Meu Salvador tu és!<br/>Deste o perdão!</lines>
+      <lines>Eu creio em Ti, meu Deus;<br/>sou um dos servos teus!<br/>Conduze os passos meus,<br/>ó tu Jeová!</lines>
+    </verse>
+  </lyrics>
+</song>

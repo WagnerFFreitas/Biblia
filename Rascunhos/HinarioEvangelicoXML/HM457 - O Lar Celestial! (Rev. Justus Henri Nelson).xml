@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:33">
+  <properties>
+    <titles>
+      <title>HM457 - O Lar Celestial!</title>
+      <title>Na terra abençoada estou,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Justus Henri Nelson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na terra abençoada estou,<br/>E nela peregrino vou;<br/>Delícias muitas eu terei,<br/>Mas sempre aos céus aspirarei.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ó bela terra de fulgor!<br/>Que do alto monte, e em derredor,<br/>Olhando, vejo, além do mar,<br/>Que em breve eu hei de atravessar,<br/>A linda praia, perenal.<br/>Querido lar celestial.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Comigo sempre o Salvador<br/>Conversa em tons de grato amor;<br/>Também me guia em meu andar,<br/>Em rumo ao céu, meu santo lar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A meiga brisa, ó que prazer!<br/>Perfumes suaves vem trazer,<br/>De flores que não murcharão,<br/>De frutos que supernos são.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Na doce aragem celestial<br/>Flutua o canto angelical<br/>Da multidão que Deus remiu,<br/>Em coro que jamais se ouviu.</lines>
+    </verse>
+  </lyrics>
+</song>

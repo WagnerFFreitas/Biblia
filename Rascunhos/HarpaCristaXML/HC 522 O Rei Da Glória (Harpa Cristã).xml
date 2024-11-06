@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:59">
+  <properties>
+    <titles>
+      <title>HC522 - O Rei Da Glória</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Rei da glória, quem será,<br/>Senhor onipotente?<br/>Só Deus, o Filho, o poder ser,<br/>Que reina eternamente.<br/>As chagas que Ele recebeu,<br/>A morte que na cruz sofreu,<br/>O provam cabalmente!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A morte que Ele à morte deu,<br/>Ganhando a vitória,<br/>A sepultura que rompeu,<br/>Subindo à excelsa glória,<br/>Declaram Seu real poder,<br/>E ao mundo dão a conhecer,<br/>Que Cristo é o Rei da glória!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eis, elevado lá no céu,<br/>Jesus, o rei da glória,<br/>Ali reinando além do véu,<br/>Com Deus, na eterna glória,<br/>Onde remida multidão,<br/>Num êxtase de adoração,<br/>Dá a Jesus a glória!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh! Quão feliz quem nEle crer,<br/>Pois vê-Lo-á na glória!<br/>Sim, todo aquel'que renascer<br/>Tem o penhor da glória!<br/>Confessa ser um pecador.<br/>Confia só no Salvador,<br/>Jesus, o Rei da glória!</lines>
+    </verse>
+  </lyrics>
+</song>

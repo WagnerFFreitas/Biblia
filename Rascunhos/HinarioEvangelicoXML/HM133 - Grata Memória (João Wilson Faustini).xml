@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:22">
+  <properties>
+    <titles>
+      <title>HM133 - Grata Memória</title>
+      <title>Ó Mestre, nunca cessarão meus lábios</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>João Wilson Faustini</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó Mestre, nunca cessarão meus lábios<br/>De bendizer-te, de entoar-te glória;<br/>Pois eu conservo de teu bem imenso<br/>Grata memória.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quando perdido no val deste mundo<br/>Só me cercava nevoeiro escuro;<br/>Dos céus mandaste providente raio<br/>Brilhante e puro.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh! Nunca, nunca cessarão meus lábios<br/>De bendizer-te, de entoar-te glória;<br/>Pois eu conservo de teu bem imenso<br/>Grata memória.</lines>
+    </verse>
+  </lyrics>
+</song>

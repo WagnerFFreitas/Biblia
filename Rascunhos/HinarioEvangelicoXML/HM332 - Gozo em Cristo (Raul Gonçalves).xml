@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:59">
+  <properties>
+    <titles>
+      <title>HM332 - Gozo em Cristo</title>
+      <title>Luz após trevas,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Raul Gonçalves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Luz após trevas,<br/>Vida após luz,<br/>Ganho após perda,<br/>Glória após cruz,<br/>Paz após luta,<br/>Fruto após flor;<br/>Riso após pranto,<br/>Gozo após dor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Crente após ímpio,<br/>Justo após réu;<br/>Graça após ira,<br/>Vista após véu;<br/>Sol após chuva,<br/>Mel após sal,<br/>Lar após lida,<br/>Bem após mal.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Perto após longe,<br/>Cristo após "eu";<br/>Vida após tumba,<br/>Terra ante o Céu;<br/>Vida, paz, glória,<br/>Coroa e luz,<br/>Tudo isso eu tenho<br/>Crendo em Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

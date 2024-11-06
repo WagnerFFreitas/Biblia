@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:23">
+  <properties>
+    <titles>
+      <title>CC 471 Vitorioso</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Fanny Crosby</author>
+      <author>John Sweney</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="471"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Sempre vencendo, mui valoroso,<br/>Cristo Jesus, o Senhor!<br/>Chefe bendito, Chefe glorioso,<br/>Em tudo Ele é vencedor.</lines>
+      <lines>Ei-lo supremo, guiando<br/>com seu poder e valor!<br/>Todos unidos, avante,<br/>todos seguindo o Senhor!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Não é dos fortes a vitória<br/>nem dos que correm melhor!<br/>Mas dos fiéis e sinceros,<br/>como nos diz o Senhor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Sempre vencendo, mui valoroso,<br/>Cristo Jesus, o Senhor!<br/>Eis suas hostes inumeráveis,<br/>vindo com muito valor!</lines>
+      <lines>Cristo que é nosso Monarca,<br/>e tem a glória do Pai,<br/>sempre nos ama e nos guarda,<br/>sempre conosco Ele vai!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Sempre vencendo, mui valoroso,<br/>Cristo Jesus, o Senhor!<br/>Reis e monarcas, príncipes fortes<br/>buscam também seu favor.</lines>
+      <lines>E humildemente lhe peço<br/>que me permita lutar<br/>só ao seu lado, invencível,<br/>té minha vida findar!</lines>
+    </verse>
+  </lyrics>
+</song>

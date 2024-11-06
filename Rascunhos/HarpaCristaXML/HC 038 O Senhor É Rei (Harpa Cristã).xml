@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:37">
+  <properties>
+    <titles>
+      <title>HC038 - O Senhor É Rei</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Proclamai a todo o mundo que o Senhor é Rei!<br/>Proclamaii! Proclamai!<br/>Proclamai que suave e doce é Sua santa lei!<br/>Proclamai! Proclamai!<br/>Proclamai como Ele se chama Salvador Jesus<br/>Como Ele por nós morreu na ensangüentada cruz,<br/>Como Ele - o Cordeiro - sobre o trono está<br/>O Deus de toda graça, que de graça tudo dá.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Proclamai a todo o<br/>mundo<br/>Que o Senhor é Rei!<br/>Proclamai! Proclamai!<br/>Proclamai que suave e doce<br/>É sua santa lei!<br/>Proclamai! Proclamai!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Proclamai que reina em graça nosso Salvador!<br/>Proclamai! Proclamai!<br/>Que por cetro de Seu reino ele tem o amor!<br/>Proclamai! Proclamai!<br/>Anunciai aos tristes que Ele vive lá;<br/>E a todos os cansados que descanso Ele dá;<br/>Contai aos pecadores que Ele veio salvar,<br/>E a todos os cativos que Ele os pode libertar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Proclamai que Ele, do céu em breve descerá!<br/>Proclamai! Proclamai!<br/>E com todos os Seus santos aparecerá!<br/>Proclamai! Proclamai!<br/>Que, sem demora, venham todos se render<br/>E, com amor, em tudo a Cristo obedecer<br/>Que estejam todos prontos quando Ele voltar,<br/>E alegres, naquele dia, "Rei dos reis", o aclamar</lines>
+    </verse>
+  </lyrics>
+</song>

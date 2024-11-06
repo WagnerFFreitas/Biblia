@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:15">
+  <properties>
+    <titles>
+      <title>HM396 - Fraternidade Cristã</title>
+      <title>Bendita a santa união</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Alfredo Henrique da Silva</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bendita a santa união<br/>Que, no fraterno amor,<br/>A todos sempre, em comunhão,<br/>Nos prende no Senhor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ao mesmo trono, além,<br/>Vão nossas petições;<br/>Que desça o amor e a paz também<br/>Aos nossos corações.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aqui tudo é comum,<br/>Tristezas e prazer;<br/>Em Cristo somos todos um:<br/>É este o seu querer.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Se desta vida assim<br/>Nos vamos separar,<br/>Com Deus, o Pai, os Céus, por fim,<br/>Haveremos de gozar.</lines>
+    </verse>
+  </lyrics>
+</song>

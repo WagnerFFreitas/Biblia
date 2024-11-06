@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:24">
+  <properties>
+    <titles>
+      <title>HM433 - Jovens Cristãos</title>
+      <title>Lutai, ó Jovens, a valer,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Eduardo Henrique Moreira</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Lutai, ó Jovens, a valer,<br/>Bem unidos em Jesus;<br/>Fazei das trevas resplendor<br/>Deste Evangelho a eterna luz.<br/>Trabalhai com ânimo e constância,<br/>Seguindo o Salvador!<br/>Brilhai nas trevas da ignorância,<br/>Brilhai para o Senhor!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Oh! Sim! Brilhai para o Senhor.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Oh! Quantos vão a caminhar,<br/>Para a ruína e perdição;<br/>Pois ide a todos convidar<br/>A vir à casa de oração!<br/>Sim, Jesus vos manda convidá-los<br/>A ouvir do seu amor;<br/>Oh! Ide jovens já chamá-los,<br/>Chamai para o Senhor!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Oh! Sim! Chamai para o Senhor.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Enchei-vos de alegria e paz,<br/>Gratos hinos entoai!<br/>A quem vossa alma satisfaz,<br/>Ao vosso bom, celeste Pai.<br/>Exultai, irmãos, pois, tributando<br/>A Deus todo o louvor;<br/>Cantai, a graça proclamando!<br/>Cantai para o Senhor!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Oh! Sim! Cantai para o Senhor.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Avante sempre para os Céus,<br/>Não olhando para trás,<br/>Os olhos postos no bom Deus,<br/>Que vida e salvação nos traz.<br/>Sim! Marchai alegres, corajosos,<br/>À frente, sem temor!<br/>Pureza em tudo! E valorosos<br/>Marchai para o Senhor.</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Oh! Sim! Marchai para o Senhor.</lines>
+    </verse>
+  </lyrics>
+</song>

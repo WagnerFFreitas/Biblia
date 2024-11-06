@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:51">
+  <properties>
+    <titles>
+      <title>HCC 486 O Mestre Nos Chama</title>
+      <title>Ash Grove</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Melodia galesa</author>
+      <author>Sarah Doudney</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="486"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">O Mestre nos chama, devemos segui-lo;<br/>seus passos seguros nos dão direção.<br/>Nos vales, nos montes, caminhos difíceis,<br/>Jesus, santo guia, é luz proteção.</lines>
+      <lines>O Mestre nos chama, urgente conclama,<br/>perdidos esperam as novas de amor.<br/>Com fé prossigamos, cristãos verdadeiros,<br/>falemos a todos de Deus, o Senhor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">O Mestre nos chama, devemos ouvi-lo;<br/>em tempos de lutas e tribulação;<br/>com fé e coragem, guardados estamos;<br/>o Espírito Santo dá consolação.</lines>
+      <lines>O Mestre nos chama, urgente conclama,<br/>segui-lo devemos em todo viver.<br/>Felizes estamos, alegres levando<br/>mensagem de graça, de paz e poder.</lines>
+    </verse>
+  </lyrics>
+</song>

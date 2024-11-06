@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-12-24T17:43:19">
+  <properties>
+    <titles>
+      <title>HNC 374 - Saudando o Ano Novo</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="374"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ano velho, já findado,<br/>Foste o dom do Criador!<br/>Novo ano, que começas,<br/>Vens do mesmo Benfeitor.<br/>Testemunham, testemunham<br/>Desse Deus o grande amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Novo ano, a tua vinda<br/>Celebramos com festim.<br/>Mas teus dias fugitivos<br/>Prestes voam para o fim.<br/>Ignoramos, ignoramos<br/>Se veremos outro assim.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tua graça, ó Deus, cantamos<br/>Com acorde e suave som<br/>E com grande regozijo<br/>Bendizendo o excelso dom,<br/>Ao saudarmos, ao saudarmos<br/>O ano novo, o ano bom!</lines>
+    </verse>
+  </lyrics>
+</song>

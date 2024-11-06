@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:13">
+  <properties>
+    <titles>
+      <title>HM387 - Comunhão Preciosa</title>
+      <title>Preciosas são as horas</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Myron Augusto Clark</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Preciosas são as horas<br/>Na presença de Jesus!<br/>Comunão deliciosa<br/>Da minha alma com a luz!<br/>Os cuidados deste mundo<br/>Não me podem abalar,<br/>Pois é ele o meu abrigo<br/>Quando o tentador chegar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ao sentir-me rodeado<br/>De cuidados terreais,<br/>Irritado e abatido,<br/>Ou em dúvidas fatais,<br/>A Jesus eu me dirijo<br/>Nesses tempos de aflição,<br/>Pois só ele tem palavras<br/>De real consolação.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se confesso meus temores,<br/>Toda a minha imperfeição,<br/>Ele escuta com paciência<br/>Essa triste confissão;<br/>com ternura repreende<br/>Meu pecado e todo o mal.<br/>Ele é sempre o meu amigo,<br/>O melhor e mais leal.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Se quereis saber quão doce<br/>É a divina comunhão,<br/>Podereis mui bem prová-la,<br/>E tereis compensação;<br/>Procurai estar sozinhos<br/>Em conversa com Jesus.<br/>Provareis na vossa vida<br/>O poder que vem da cruz!</lines>
+    </verse>
+  </lyrics>
+</song>

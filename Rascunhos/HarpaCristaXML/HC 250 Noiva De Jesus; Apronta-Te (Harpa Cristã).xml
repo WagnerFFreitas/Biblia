@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:09">
+  <properties>
+    <titles>
+      <title>HC250 - Noiva De Jesus; Apronta-Te</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Cristo unida está a minh'alma,<br/>Pois nEle eu tenho meu vero sustento;<br/>Me enche de gozo do céu, e de calma;<br/>Também me ensina os seus mandamentos.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ó Noiva de Jesus,<br/>apronta-te para ir<br/>Para o eterno e santo reinado;<br/>Que divianal amor irás lá, então, fruir<br/>Com Jesus Cristo, o teu amado!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na santa Igreja, com sangue remida,<br/>Já é manifesta em mim Sua glória,<br/>Que por Sua graça me foi concedida,<br/>Na qual abrigado, terei a vitória.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Assim eu desejo a Cristo unido,<br/>Seguir o caminho p'ra bela cidade,<br/>Pois nEle, dos males, sou bem protegido,<br/>Também rodeado de vera bondade.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:34">
+  <properties>
+    <titles>
+      <title>HC013 - Jesus Comprou-Me</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus comprou-me do mundo aqui,<br/>Palavras doces são para mim;<br/>Jesus comprou-me e vai me dar<br/>Eterno gozo, celeste lar.<br/>Jesus comprou-me e vai me dar<br/>Eterno gozo, celeste lar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus comprou-me da escravidão,<br/>A paz eu gozo por seu perdão;<br/>Sou desprezado um pouco aqui,<br/>Mas eu espero gozar ali.<br/>Sou desprezado um pouco aqui,<br/>Mas eu espero gozar ali.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus comprou-me, e eu fiquei<br/>P'ra sempre livre da dura lei!<br/>Agora espero até Ele vir,<br/>P'ra que me leve ao Seu porvir.<br/>Agora espero até Ele vir,<br/>P'ra que me leve ao Seu porvir.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó vinde, amigos, e junto a nós,<br/>Ouvi depressa do céu a voz;<br/>- O que demora não chegará,<br/>Porque se perde e morrerá.<br/>- O que demora não chegará,<br/>Porque se perde e morrerá.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus comprou-me e me dará<br/>Lugar às mesas, que esperam lá.<br/>Ouve o convite, ó pecador,<br/>Pois Jesus Cristo é o Salvador.<br/>Ouve o convite, ó pecador,<br/>Pois Jesus Cristo é o Salvador.</lines>
+    </verse>
+  </lyrics>
+</song>

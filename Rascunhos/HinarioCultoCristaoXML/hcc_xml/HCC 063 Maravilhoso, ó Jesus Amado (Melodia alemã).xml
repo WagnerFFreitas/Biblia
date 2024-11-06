@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:28">
+  <properties>
+    <titles>
+      <title>HCC 063 Maravilhoso, ó Jesus Amado</title>
+      <title>Schonster Herr Jesu</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Melodia alemã</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="063"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Maravilhoso,<br/>ó Jesus amado,<br/>és tu, meu Rei, meu Salvador! <br/>A tua glória <br/>os céus e a terra <br/>celebram sem cessar, Senhor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Belas florestas, <br/>verdejantes bosques, <br/>quanto esplendor nos vêm mostrar!<br/>Mais belo, ó Cristo, <br/>és tu, que fazes <br/>o triste coração cantar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O sol glorioso<br/>e os milhões de estrelas<br/>vão pelo espaço a refulgir. <br/>Mais do que eles<br/>brilhas, ó Cristo,<br/>divina luz a difundir.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Belas as flores<br/>e os ditosos sonhos<br/>da juventude em seu fulgor.<br/>Mas logo passam,<br/>e tão somente <br/>tu permaneces, ó Senhor.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Quando findar-se<br/>minha vida breve,<br/>será descanso para mim;<br/>com tua glória <br/>hás de cobrir-me<br/>de resplendor que não tem fim.</lines>
+    </verse>
+  </lyrics>
+</song>

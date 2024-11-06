@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:13">
+  <properties>
+    <titles>
+      <title>HM076 - És Digno</title>
+      <title>De nosso cultom ó Deus, és digno,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Joaõ Marques da Mota Sobrinho</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>De nosso culto, ó Deus, és digno,<br/>Porque és do mundo e do homem criador;<br/>És Deus fiel e mui benigno<br/>E operas maravilhas, ó Senhor!<br/>Nós, inclinamos ante o teu altar,<br/>Teu santo nome vimos celebrar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Humildes vimos, não ufanos,<br/>Aquele imenso amor enaltecer,<br/>Com que em ruins, perpétuos danos,<br/>Te aprouve, ó Pai, ao pecador valer;<br/>E o que, de natureza foi mortal,<br/>Por tua graça, agora é imortal.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Agora é ele a ti benquisto<br/>E tem assegurada a redenção,<br/>Se crê no Salvador, que é Cristo,<br/>Divino Autor da Reconciliação.<br/>Pois o resgate a todos vem da Cruz<br/>E a vida a recebemos de Jesus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Concede, ó Pai, que a Ti unidos<br/>Por fé e amor em nossos corações,<br/>Sejamos como os teus remidos,<br/>Que formam já na terra multidões,<br/>Um corpo só, fiel até o fim,<br/>E que teu nome honremos sempre assim.</lines>
+    </verse>
+  </lyrics>
+</song>

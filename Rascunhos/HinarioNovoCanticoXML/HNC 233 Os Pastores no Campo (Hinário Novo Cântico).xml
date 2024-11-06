@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:58">
+  <properties>
+    <titles>
+      <title>HNC 233 - Os Pastores no Campo</title>
+    </titles>
+    <verseOrder>v1 o1 c1 v2 o2 c1 v3 o3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="233"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>No campo, o rebanho guardando,<br/>Os pastores, deitados no chão,<br/>Mal se vê, pela luz das estrelas,<br/>Que ao redor as ovelhas estão.<br/>De repente, um clarão tudo envolve,</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Quando lá das alturas dos céus<br/>Desce um anjo, fulgente de glória,<br/>Cantando em louvor de Deus!<br/>No primeiro Natal, eis que um anjo                <br/>Gloriosa mensagem nos traz:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>“Boas-novas alegres vos trago;<br/>Em Belém Jesus Cristo nasceu!”<br/>Logo após, lindo coro de anjos<br/>Aparece cantando no céu.<br/>Oh! Jamais tão bendita mensagem</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Aos ouvidos de todos soou,<br/>Nem tão doce e divina harmonia<br/>O próprio céu enlevou.<br/>Oh! Bem-vindo o Evangelho a este mundo<br/>Que em pecado e miséria ainda jaz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>À cidade vão logo os pastores,<br/>Para verem de perto Jesus!<br/>No presépio, o Menino contemplam,<br/>Que, do mundo, é a lídima Luz.<br/>As estrelas parecem unir-se</lines>
+    </verse>
+    <verse name="o3">
+      <lines>Ao celeste conjunto a cantar:<br/>“Em Belém, de Davi a cidade,<br/>Nasceu quem vos vem salvar!”<br/>Como cantam! E cremos que nunca<br/>Desse canto ouviremos assaz!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">“Glória a deus nas alturas,<br/>Na terra acordo e paz!”</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

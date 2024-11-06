@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:56:18">
+  <properties>
+    <titles>
+      <title>HC624 - Anseio Um Lugar De Amor</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Anseio a paz, um lugar de amor!<br/>Saudoso estou deste lar feliz;<br/>Subir em vestes de fulgor<br/>Ao sempiterno, bom país.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jamais virão os pecados vis<br/>A penetrar nos portais de luz;<br/>Será no centro do país<br/>O trono eterno de Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ali fruir infindáveis paz,<br/>Ali viver são os sonhos meus;<br/>E o doce enlevo que me traz,<br/>Real se torne, queira Deus!</lines>
+    </verse>
+  </lyrics>
+</song>

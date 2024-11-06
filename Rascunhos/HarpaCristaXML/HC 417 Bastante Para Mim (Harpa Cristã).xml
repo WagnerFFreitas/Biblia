@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:38">
+  <properties>
+    <titles>
+      <title>HC417 - Bastante Para Mim</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No meio duma dor,<br/>A cruz de Cristo eu vi,<br/>Qual viva fonte de amor,<br/>Bastante para mim!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lá da cruz corre sem cessar,<br/>Insondável como é o mar.<br/>Esta graça, que brota assim,<br/>Basta para mim!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Meu coração, a vacilar<br/>E apenas, pude assim<br/>Na graça crer; mas fui achar<br/>Bastante para mim!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cravados já, então, na cruz,<br/>Os meus pecados vi;<br/>E a graça achei de meu Jesus;<br/>Bastante para mim!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Com meu Jesus eu cantarei<br/>No céu, alegre, enfim;<br/>Que Sua graça foi, direi:<br/>Bastante para mim!</lines>
+    </verse>
+  </lyrics>
+</song>

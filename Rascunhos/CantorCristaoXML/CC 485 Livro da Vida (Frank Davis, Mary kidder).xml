@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:26">
+  <properties>
+    <titles>
+      <title>CC 485 Livro da Vida</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Frank Davis</author>
+      <author>Mary kidder</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="485"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">As riquezas do mundo<br/>pouco valem pra mim;<br/>pois, Jesus, no teu reino,<br/>dás-me vida sem fim;</lines>
+      <lines>e no livro da vida,<br/>que conservas aí,<br/>certo estou que meu nome<br/>foi escrito por Ti.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Foi escrito por Ti<br/>o meu nome no céu;<br/>sim, no livro da vida<br/>foi escrito por ti.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Meus pecados são muitos,<br/>como areia no mar;<br/>mas Jesus me revela<br/>sua graça sem par;</lines>
+      <lines>veio para salvar-me,<br/>o seu sangue verteu,<br/>e as delícias eternas<br/>ele me prometeu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Ó cidade festiva,<br/>refulgente de luz,<br/>és morada dos santos<br/>e fiéis de Jesus!</lines>
+      <lines>Só verá tua glória<br/>o que crer no Senhor,<br/>cuja vida foi salva<br/>pelo seu Redentor.</lines>
+    </verse>
+  </lyrics>
+</song>

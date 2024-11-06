@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:49:00">
+  <properties>
+    <titles>
+      <title>HNC 282 - A Grande Comissão</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="282"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Disse Jesus: “Ide por todo o mundo,<br/>E pregai o eterno dom<br/>Da salvação que, com amor profundo,<br/>Dá o Deus gracioso e bom!”<br/>Tendo na cruz a afirmação do amor,<br/>Proclamai o dom do Redentor!<br/>Oh! Conquistai<br/>Almas perdidas, buscai<br/>O pecador enfermo, quase moribundo!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Todos marchemos neste grande intento<br/>De pregar a salvação!<br/>Sem recuar, sempre mostrando alento.<br/>Sim cumpramos a missão<br/>Que o Salvador, Cristo Jesus, nos deu!<br/>Ele está também no posto seu.<br/>Diz-nos Rei;<br/>“Sempre convosco estarei!”<br/>Vamos, irmãos, bem firmes neste pensamento!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Firmes levemos a mensagem santa<br/>Do evangelho de Jesus!<br/>Esta mensagem divinal, que encanta,<br/>Espargindo graça e luz!<br/>Cheia de bençãos do glorioso Deus,<br/>Que conhece os escolhidos seus,<br/>Cheia de amor, <br/>Vem revelar o favor<br/>Da compaixão de Deus e dá-nos graça tanta.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Vamos, irmãos, levar<br/>Essa luz ao mundo inteiro!<br/>Vamos , irmãos, contar<br/>Que esse dom é verdadeiro!<br/>Vamos irmãos pregar<br/>Mui confiados no cordeiro<br/>Que, na Cruz, já fez<br/>A nossa Redenção.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

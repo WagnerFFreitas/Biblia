@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:52">
+  <properties>
+    <titles>
+      <title>HNC 098 - Não Há Condenação</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="98"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>“Não há condenação!”<br/>Assim diz o Senhor.<br/>Pois temos ante o Tribunal<br/>Perfeito defensor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>“Não há condenação!”<br/>O justo e santo Deus<br/>Aceita a Cristo, o Mediador,<br/>Que entrou por nós nos céus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>“Não há condenação!”<br/>Repousa, ó alma, aqui!<br/>É Cristo, quem na cruz morreu,<br/>Teu advogado ali.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>“Não há condenação!”<br/>O Cristo triunfou!<br/>Pagando alto preço, ali<br/>Na cruz nos libertou!</lines>
+    </verse>
+  </lyrics>
+</song>

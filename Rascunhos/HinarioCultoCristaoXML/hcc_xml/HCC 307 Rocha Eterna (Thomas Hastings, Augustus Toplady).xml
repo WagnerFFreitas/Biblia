@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:13">
+  <properties>
+    <titles>
+      <title>HCC 307 Rocha Eterna</title>
+      <title>Toplady</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Thomas Hastings</author>
+      <author>Augustus Toplady</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="307"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Rocha eterna, foi na cruz<br/>que morreste tu, Jesus.<br/>Vem de ti um sangue tal</lines>
+      <lines>que me limpa todo mal.<br/>Traz as bênçãos do perdão,<br/>da pureza e salvação.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Nem trabalho, nem pesar<br/>pode o pecador salvar.<br/>Só tu podes, bom Jesus,</lines>
+      <lines>dar-me vida, paz e luz.<br/>Peço-te perdão, Senhor,<br/>pois confio em teu amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Quando a morte, enfim, chegar,<br/>e meus olhos eu fechar;<br/>quando para o céu subir</lines>
+      <lines>e teu rosto em glória vir,<br/>Rocha eterna, que prazer<br/>eu terei de em ti viver!</lines>
+    </verse>
+  </lyrics>
+</song>

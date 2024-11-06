@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-05-17T18:16:38">
+  <properties>
+    <titles>
+      <title>HNC 156 - Confiança em Deus</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="156"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Descansa, ó minha alma, eis o Senhor ao lado;<br/>Paciente leva, e sem queixar-te, a cruz;<br/>Deixa o Senhor tomar de ti cuidado,<br/>É imutável teu fiel Jesus!<br/>Prossegue, ó alma, o Amigo celestial<br/>Protegerá teus passos no espinhal!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Prossegue, ó alma; o trilho é estreito e escuro,<br/>Mas no passado Deus guiou-te assim!<br/>Confia agora a Deus o teu futuro,<br/>E o que é mistério há de aclarar-se enfim.<br/>Confia, ó alma, a sua mansa voz<br/>Ainda acalma o vento e o mar feroz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Confia, ó alma! A hora vem chegando!<br/>Irás com Cristo, o teu Senhor, morar.<br/>Sem dor, nem mágoas gozarás cantando<br/>As alegrias do celeste lar!<br/>Descansa, ó alma; agora há pranto e dor;<br/>Depois o gozo, a paz, o céu de amor!</lines>
+    </verse>
+  </lyrics>
+</song>

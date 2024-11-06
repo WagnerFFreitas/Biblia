@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:19">
+  <properties>
+    <titles>
+      <title>HCC 338 Nossa Fé Jesus Contemplará</title>
+      <title>Fé Contemplada</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Bentley Ackley</author>
+      <author>James Rowe</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="338"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Deus promete grandes coisas conceder<br/>a qualquer que peça, crendo que há de obter</lines>
+      <lines>a resposta, sem na fé enfraquecer.<br/>Nossa fé Jesus contemplará.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Nossa fé Jesus contemplará;<br/>tudo o que Jesus promete dá.</lines>
+      <lines>Ele vê o coração e responde a petição;<br/>nossa fé Jesus contemplará.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Deus tem prometido a quem não duvidar<br/>dar-lhe tudo quanto a ele suplicar;</lines>
+      <lines>ele o prometeu e não irá negar.<br/>Nossa fé Jesus contemplará.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Deus já grandes maravilhas operou<br/>por alguém que firme nele confiou</lines>
+      <lines>e que da promessa em nada duvidou.<br/>Nossa fé Jesus contemplará.</lines>
+    </verse>
+  </lyrics>
+</song>

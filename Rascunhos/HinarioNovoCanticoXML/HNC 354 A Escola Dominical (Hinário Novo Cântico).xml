@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:49:03">
+  <properties>
+    <titles>
+      <title>HNC 354 - A Escola Dominical</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="354"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dominical é a grande e antiga Escola<br/>Em que se estuda o Livro do Senhor<br/>A vida aqui se exalta, se acrisola<br/>E alcança em Cristo seu real valor,<br/>E alcança em Cristo seu real valor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>De grandes vultos e eras memoráveis<br/>Lições sublimes vimos aprender!<br/>Lições inscritas nalma, inapagáveis,<br/>Que moldam nossas vidas com poder,<br/>Que moldam nossas vidas com poder.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Mestre insigne está presente - Cristo -,<br/>Que luz e vida à vida plena traz.<br/>O seu ensino igual jamais foi visto!<br/>Tesouros mostra, de alegria e paz,<br/>Tesouros mostra, de alegria e paz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Universal, bendita Escola é esta,<br/>Que os alunos conta por milhões,<br/>Na qual o estudo é verdadeira festa,<br/>Que empolga crianças, jovens e anciãos,<br/>Que empolga crianças, jovens e anciãos.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">À Escola, pois, Dominical, irmãos,<br/>Receber celeste luz!<br/>O santo Livro, aberto em nossas mãos,<br/>Aprendamos de Jesus.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:21">
+  <properties>
+    <titles>
+      <title>HM422 - A Santa Peleja</title>
+      <title>Erga-se o estandarte,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Henry Maxwell Wright</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Erga-se o estandarte,<br/>Tremulando, à luz!<br/>Seu brasão: Coroa<br/>Circundando a Cruz!<br/>Na cruzada invicta,<br/>Quem quer hoje entrar?<br/>O Evangelho santo<br/>Ir anunciar?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ergue-se o estandarte<br/>Tremulando à luz!<br/>Seu brasão: Coroa<br/>Circundando a Cruz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Luta contra as trevas!<br/>Luta contra o mal!<br/>Eis-nos à peleja,<br/>Santa, divinal!<br/>Dar combate ao erro,<br/>À superstição,<br/>E salvar os homens<br/>Da degradação.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vinde ao bom combate,<br/>Sem esmorecer,<br/>De valor eterno,<br/>Glória haveis de ter;<br/>A quem quer segui-lo,<br/>Eis que diz Jesus:<br/>"Negue-se a si mesmo,<br/>Tome a sua cruz."</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Salvador, confio<br/>Em teu grande amor.<br/>Entro na batalha<br/>Com vibrante ardor<br/>Dá que em teu serviço<br/>Saiba a Cruz tomar<br/>E teu Nome Santo<br/>Hoje e sempre honrar.</lines>
+    </verse>
+  </lyrics>
+</song>

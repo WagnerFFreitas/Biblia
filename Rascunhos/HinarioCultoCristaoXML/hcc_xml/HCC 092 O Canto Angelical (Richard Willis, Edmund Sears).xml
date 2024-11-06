@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:33">
+  <properties>
+    <titles>
+      <title>HCC 092 O Canto Angelical</title>
+      <title>Carol</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Richard Willis</author>
+      <author>Edmund Sears</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="092"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Em linda noite veio a nós<br/>um coro de esplendor,<br/>com harpas de ouro a cantar<br/>um hino de louvor.</lines>
+      <lines>"Aos homens paz e glória a Deus"<br/>- mensagem divinal!<br/>A terra toda então ouviu<br/>o canto angelical.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Pairando sobre a terra estão<br/>os anjos a cantar<br/>e sobre o mundo pecador<br/>derramam luz sem par.</lines>
+      <lines>Acima das tribulações<br/>da luta terreal,<br/>proclama a vinda singular<br/>o canto angelical.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Enquanto aqui na terra estão<br/>os dias a passar,<br/>os povos vivem sem amor,<br/>num mundo a guerrear.</lines>
+      <lines>Mas quando, enfim, reinar a paz,<br/>em glória triunfal,<br/>dos salvos todos se ouvirá<br/>o canto angelical.</lines>
+    </verse>
+  </lyrics>
+</song>

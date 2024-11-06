@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:43">
+  <properties>
+    <titles>
+      <title>HC083 - Não Posso Explicar</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mais perto de Jesus, procuro sempre eu chegar,<br/>Mais belo que o ouro do sol nado é a Ti mirar.<br/>Em pensamento, sonhos, tanta glória nunca vi;<br/>Pois Ele é mais belo do que eu jamais previ!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Não posso explicar<br/>Quão meigo é Jesus;<br/>Mas, face a face, no teu lar,<br/>Eu Te verei, Jesus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A estrela resplendente da manhã é minha luz;<br/>O lírio dos vales é o bom Senhor Jesus;<br/>Suave e doce é o cheiro que só vem de ti;<br/>Pois Ele é mais belo do que eu jamais previ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se mágoas vêm me pertubar, o bálsamo Ele tem;<br/>Me toma nos Seus braços e, assim, descanso bem;<br/>Na cruz levou Jesus o meu pecado sobre si;<br/>Pois Ele é mais belo do que eu jamais previ!</lines>
+    </verse>
+  </lyrics>
+</song>

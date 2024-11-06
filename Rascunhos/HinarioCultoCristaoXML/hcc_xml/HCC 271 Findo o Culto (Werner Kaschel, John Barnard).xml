@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:06">
+  <properties>
+    <titles>
+      <title>HCC 271 Findo o Culto</title>
+      <title>Patrixbourne</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Werner Kaschel</author>
+      <author>John Barnard</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="271"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Findo o culto, vou pra casa;<br/>vens comigo, meu Senhor.<br/>Foi tão bom cantar os hinos</lines>
+      <lines>com teu povo em teu louvor!<br/>Ao ouvir os teus ensinos,<br/>renovou-se o meu vigor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Meu Senhor, tu vens comigo,<br/>dando alento e direção.<br/>Pois lá fora o mundo é selva</lines>
+      <lines>de perigo e tentação;<br/>e eu preciso, amado Mestre,<br/>de poder e proteção.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Pois, Senhor, se vens comigo,<br/>tenho forças pra vencer<br/>e palavras de esperança</lines>
+      <lines>aos aflitos pra dizer.<br/>E que ao meu redor eu faça<br/>tua luz resplandecer. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

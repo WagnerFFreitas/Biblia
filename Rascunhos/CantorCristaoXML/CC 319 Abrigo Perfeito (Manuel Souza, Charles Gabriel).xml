@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:49">
+  <properties>
+    <titles>
+      <title>CC 319 Abrigo Perfeito</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Manuel Souza</author>
+      <author>Charles Gabriel</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="319"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Deus é meu abrigo em todo vendaval,<br/>Nele tenho, pois, toda proteção;</lines>
+      <lines>Vivo confiando em seu poder real,<br/>Sem qualquer perturbação.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Deus me guiará,<br/>Guiará, sim, Deus me guiará;</lines>
+      <lines>Deus me guardará,<br/>O meu Deus me guardará!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Os perigos que me cercam muitos são,<br/>Fortes tentações assaltar-me vêm!</lines>
+      <lines>Hostes infernais formadas sempre estão,<br/>Combatendo todo bem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">O meu Deus não me abandonará, porém,<br/>Onde o mal poder tenha de atacar;</lines>
+      <lines>Ele me protege como lhe convém,<br/>Nunca irei desanimar!</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Eu guardado estou, andando em seu amor,<br/>Abrigado em seu divinal poder;</lines>
+      <lines>Sim, prossigo vitorioso, sem pavor,<br/>Por não ter de que temer!</lines>
+    </verse>
+  </lyrics>
+</song>

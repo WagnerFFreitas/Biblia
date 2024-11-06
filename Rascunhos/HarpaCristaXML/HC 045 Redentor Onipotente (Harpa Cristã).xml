@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:38">
+  <properties>
+    <titles>
+      <title>HC045 - Redentor Onipotente</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Redentor onipotente,<br/>Poderoso Salvador,<br/>Advogado onisciente<br/>É Jesus, meu bom Senhor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ó Amante da minh'alma,<br/>Tu és tudo para mim!<br/>Tudo quanto eu careço<br/>Acho, Jesus, só em Ti.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Um abrigo sempre perto,<br/>Para todo o pecador;<br/>Um refúgio sempre aberto,<br/>É Jesus, meu Salvador.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Água viva! pão da vida!<br/>Doce sombra no calor,<br/>Que ao descanso nos convida,<br/>É Jesus, meu Salvador!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó Cordeiro imaculado,<br/>Que Seu sangue derramou,<br/>Meus pecados expiando,<br/>A minh'alma resgatou.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fundamentos inabalável!<br/>Rocha firme e secular!<br/>Infalível! Imutável!<br/>Quem mo poderá tirar?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O caminho que seguro,<br/>Sempre para o céu conduz,<br/>Quem a Cristo pronto segue,<br/>Quem tomar a sua cruz.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:41">
+  <properties>
+    <titles>
+      <title>CC 285 O Alvo Supremo</title>
+      <title>Higher Ground</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Charles Gabriel</author>
+      <author>Johnson Oatman Jr.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="285"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O mundo vil já desprezei,<br/>e seu caminho abominei;<br/>mas Te suplico, ó Salvador:<br/>A Ti me eleva, Redentor!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mais perto, sim, mais perto, sim,<br/>oh! junto a ti me eleva a mim.<br/>Ao céu em que, meu Salvador,<br/>contigo esteja sem temor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No mundo não encontro paz,<br/>pois ele não me satisfaz;<br/>aqui só tenho que sofrer,<br/>contigo quero, pois, viver.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Desejo, sim, aqui viver,<br/>por tua causa me bater;<br/>já pela fé eu avistei<br/>o lar em que descansarei.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>À tua glória, já no fim,<br/>ó meu Jesus, me leva, sim,<br/>e me sustenta até chegar<br/>às portas do celeste lar!</lines>
+    </verse>
+  </lyrics>
+</song>

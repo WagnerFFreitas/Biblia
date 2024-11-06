@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:23">
+  <properties>
+    <titles>
+      <title>HCC 361 Meu Senhor, Sou Teu</title>
+      <title>I Am Thine</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>William Doane</author>
+      <author>Fanny Crosby</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="361"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Meu Senhor, sou teu, tua voz ouvi,<br/>a chamar-me com amor;</lines>
+      <lines>mas de ti mais perto eu almejo estar,<br/>ó bendito Salvador!</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Mais perto da tua cruz,<br/>quero estar, ó Salvador!</lines>
+      <lines>Mais perto, para tua cruz,<br/>leva-me, ó meu Senhor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Bem contente está o meu coração<br/>em servir-te sem temor.</lines>
+      <lines>Seguirei teus passos com retidão,<br/>constrangido pelo amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Oh, que pura e santa alegria é<br/>aos teus santos pés me achar,</lines>
+      <lines>e com viva e mui reverente fé<br/>com o Salvador falar!</lines>
+    </verse>
+  </lyrics>
+</song>

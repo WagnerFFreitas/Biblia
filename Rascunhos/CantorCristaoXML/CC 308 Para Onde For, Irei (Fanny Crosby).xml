@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:46">
+  <properties>
+    <titles>
+      <title>CC 308 Para Onde For, Irei</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Fanny Crosby</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="308"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Se eu tiver Jesus ao lado<br/>e por Ele auxiliado,<br/>se por Ele for mandado<br/>a qualquer lugar, irei.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Seguirei a meu bom Mestre,<br/>seguirei a meu bom Mestre,<br/>seguirei a meu bom Mestre;<br/>onde quer que for, irei.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Seja meu caminho duro,<br/>espinhoso ou inseguro,<br/>em seus braços bem seguro,<br/>aonde me mandar, irei.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Males poderão cercar-me,<br/>ou perigos assustar-me,<br/>mas se Cristo segurar-me,<br/>aonde me mandar, irei.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Quando terminar a vida,<br/>finda minha triste lida,<br/>tenho a glória prometida,<br/>eu pra meu Senhor irei.</lines>
+    </verse>
+  </lyrics>
+</song>

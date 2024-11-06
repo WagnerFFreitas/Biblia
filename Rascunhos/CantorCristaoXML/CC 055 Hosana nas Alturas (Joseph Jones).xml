@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:41:57">
+  <properties>
+    <titles>
+      <title>CC 055 Hosana nas Alturas</title>
+      <title>Bendito o Rei</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3 c1 v4 v5 c1 v6</verseOrder>
+    <authors>
+      <author>Joseph Jones</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="055"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bendito o Rei que vem em nome do Senhor!<br/>A quem nós esperamos;<br/>ao qual nós adoramos!<br/>Bendito o Rei que vem em nome do Senhor!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hosana! Hosana! Hosana nas alturas!<br/>Hosana! Hosana! Hosana nas alturas!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Os seus gloriosos feitos celebrai com fervor!<br/>Em todo o vale soa nova pra nós tão boa!<br/>Bendito o Rei que vem em nome do Senhor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bendito o Rei que vem em nome do Senhor!<br/>Oh! rendam-lhe louvores,<br/>a Cristo em seus fulgores!<br/>Bendito o Rei que vem em nome do Senhor!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó vinde todos a Jesus, o Rei, Salvador!<br/>Todos com alegria, vozes em harmonia!<br/>Bendito o Rei que vem em nome do Senhor!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bendito o Rei que vem em nome do Senhor!<br/>Sim, vem tão majestoso<br/>Jesus, o Rei bondoso!<br/>Bendito o Rei que vem em nome do Senhor!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O Salvador seu povo chama a si com amor!<br/>Venham os pequeninos! Venham já, os meninos!<br/>Bendito o Rei que vem em nome do Senhor!</lines>
+    </verse>
+  </lyrics>
+</song>

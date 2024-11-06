@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:50">
+  <properties>
+    <titles>
+      <title>HNC 043 - O Deus de Amor</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="43"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Desperta já, meu coração,<br/>E louva ao Salvador;<br/>Cantando em hinos triunfais<br/>Que Deus é o Deus de amor.<br/>Imenso amor! Amor sem par!<br/>Preenche os vastos céus.<br/>Alcança a terra e a todos nós,<br/>Insigne amor de Deus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amor que um dia se encarnou<br/>A fim de me salvar,<br/>E que subindo à dura cruz<br/>Morreu em meu lugar!<br/>Amor que exclama: “Vinde a mim!”<br/>Que busca o pecador.<br/>Amor eterno, sem igual,<br/>De Cristo, Salvador.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Remido a preço tão real<br/>- O sangue do Senhor -, <br/>Com que pagar eu poderei<br/>Tal graça, tal amor?<br/>Quando Ele a mim, um pecador,<br/>Se digna de aceitar,<br/>E me levar com seus fiéis<br/>Ao santo e eterno lar?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Desperta já, meu coração,<br/>E louva ao grande Salvador;<br/>Cantando em hinos triunfais<br/>Que Deus é o Deus de amor.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:45">
+  <properties>
+    <titles>
+      <title>CC 577 Hino Nacional Brasileiro</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Joaquim Estrada</author>
+      <author>Francisco Silva</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="577"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Ouviram do Ipiranga as margens plácidas<br/>de um povo heroico o brado retumbante,<br/>e o sol da liberdade, em raios fúlgidos<br/>brilhou no céu da Pátria nesse instante.</lines>
+      <lines break="optional">Se o penhor dessa igualdade<br/>conseguimos conquistar com braço forte,<br/>em teu seio, ó liberdade,<br/>desafia o nosso peito a própria morte!</lines>
+      <lines break="optional">Ó Pátria amada, idolatrada, salve! Salve!<br/>Brasil, um sonho intenso, um raio vívido<br/>de amor e de esperança à terra desce.<br/>Se em teu formoso céu, risonho e límpido<br/>a imagem do Cruzeiro resplandece.</lines>
+      <lines>Gigante pela própria natureza.<br/>És belo, és forte impávido colosso.<br/>E o teu futuro espelha essa grandeza.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Terra adorada.<br/>Entre outras mil és tu, Brasil,<br/>ó Pátria amada!<br/>Dos filhos deste solo és mãe gentil.<br/>Pátria amada, Brasil!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Deitado eternamente em berço esplêndido<br/>ao som do mar e à luz do céu profundo<br/>fulguras, ó Brasil, florão da América,<br/>iluminado ao sol do Novo Mundo!</lines>
+      <lines break="optional">Do que a terra mais garrida<br/>teus risonhos, lindos campos têm mais flores;<br/>"Nossos bosques têm mais vida,<br/>nossa vida", no teu seio, "mais amores".</lines>
+      <lines break="optional">Ó Pátria amada, idolatrada, salve! Salve!<br/>Brasil, de amor eterno seja símbolo<br/>o lábaro que ostentas estrelado.<br/>E diga o verde louro desta flâmula:<br/>"Paz no futuro e glória no passado."</lines>
+      <lines>Mas se ergues da justiça a clava forte<br/>verás que um filho teu não foge à luta,<br/>nem teme, quem te adora, a própria morte.</lines>
+    </verse>
+  </lyrics>
+</song>

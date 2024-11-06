@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:10">
+  <properties>
+    <titles>
+      <title>HM058 - Cristo Virá</title>
+      <title>Marchamos num deserto,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Sara poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Marchamos num deserto,<br/>Cristo virá!<br/>A hora já está perto,<br/>Certo virá!<br/>Bendito o peregrino,<br/>Quando vier!<br/>Pois entra em lar divino,<br/>Quando vier!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Em majestade e glória,<br/>Cristo virá!<br/>Com brados de vitória,<br/>Certo virá!<br/>Saiamos a encontrá-lo,<br/>Quando vier!<br/>Unidos a aclamá-lo,<br/>Quando vier.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aos seus amados, cedo,<br/>Cristo virá!<br/>É findo todo o medo,<br/>Cristo virá!<br/>Não haverá canseira,<br/>Quando vier!<br/>Nem mais mortal carreira,<br/>Quando vier!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Em santa companhia,<br/>Cristo virá!<br/>Com festas de alegria,<br/>Cristo virá!<br/>Oh! vivas exultantes,<br/>Quando vier!<br/>Oh! hinos triunfantes,<br/>Quando vier!</lines>
+    </verse>
+  </lyrics>
+</song>

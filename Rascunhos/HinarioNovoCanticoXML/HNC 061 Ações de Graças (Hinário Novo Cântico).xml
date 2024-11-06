@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:50">
+  <properties>
+    <titles>
+      <title>HNC 061 - Ações de Graças</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="61"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Graças dou por esta vida,<br/>Pelo bem que revelou,<br/>Graças dou pelo futuro<br/>E por tudo que passou.<br/>Pelas bênçãos derramadas, <br/>Pelo amor, pela aflição,<br/>Pelas graças reveladas,<br/>Graças dou pelo perdão.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Graças pelo azul celeste<br/>E por nuvens que há também,<br/>Pelas rosas do caminho<br/>E os espinhos que elas têm.<br/>Pelas noites desta vida,<br/>Pela estrela que brilhou,<br/>Pela prece respondida<br/>E a esperança que falhou.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pela cruz e o sofrimento,<br/>E, afinal, ressurreição,<br/>Pelo amor, que é sem medida,<br/>Pela paz no coração;<br/>Pela lágrima vertida<br/>E o consolo que é sem par,<br/>Pelo dom da eterna vida<br/>Sempre graças hei de dar.</lines>
+    </verse>
+  </lyrics>
+</song>

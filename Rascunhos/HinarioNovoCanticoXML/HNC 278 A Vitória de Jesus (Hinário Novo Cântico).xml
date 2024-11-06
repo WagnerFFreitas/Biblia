@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:49:00">
+  <properties>
+    <titles>
+      <title>HNC 278 - A Vitória de Jesus</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="278"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Findou-se a luta de Jesus!<br/>O Salvador venceu na cruz!<br/>Já neste mundo raia a luz!<br/>Aleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Das mãos do grande usurpador<br/>Livrou-nos com profundo amor.<br/>Cantai ao forte Salvador:<br/>Aleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vencida a morte e seu horror,<br/>Subiu à glória o Redentor!<br/>Rompei em cantos de louvor!<br/>Aleluia!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Com majestade sem igual,<br/>Firmou o império divinal!<br/>Erguei o Salmo triunfal!<br/>Aleluia!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Aleluia! Aleluia! Aleluia!</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:38">
+  <properties>
+    <titles>
+      <title>HCC 120 Jesus, Desceu, a Bíblia o Diz</title>
+      <title>Getsêmane</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Mônica Ferreira</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="120"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus desceu, a Bíblia o diz,<br/>do seu celeste lar,<br/>a fim de o grande amor de Deus<br/>a todos revelar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus morreu, a Bíblia o diz,<br/>e fez expiação<br/>das nossas culpas lá na cruz,<br/>pra termos o perdão.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A Bíblia diz que ressurgiu,<br/>da morte vencedor.<br/>Por isso quer e pode ser<br/>o nosso Salvador.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A Bíblia diz que voltará,<br/>a fim de nos levar<br/>dos males desta vida aqui<br/>ao seu bendito lar.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A Bíblia diz-nos que Jesus<br/>no mundo reinará.<br/>Então, Senhor universal,<br/>louvor sem fim terá.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:24">
+  <properties>
+    <titles>
+      <title>CC 476 Brilho Celeste</title>
+      <title>Sunlight</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Henry Zelley</author>
+      <author>George Cook</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="476"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Peregrinando vou pelos montes<br/>e pelos vales sempre na luz!</lines>
+      <lines>Cristo promete nunca deixar-me;<br/>"Eis-me convosco," disse Jesus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Brilho celeste, brilho celeste!<br/>enche a minha alma, a glória de Deus!</lines>
+      <lines>Com aleluias sigo cantando,<br/>canto louvores, indo pra os céus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Sombras à roda, nuvens em cima<br/>o Salvador não hão de ocultar;</lines>
+      <lines>Ele é a luz que nunca se apaga,<br/>junto a seu lado sempre hei de andar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Vão me guiando raios benditos,<br/>que me conduzem para a mansão;</lines>
+      <lines>mais e mais perto, o Mestre seguindo,<br/>canto louvores da salvação.</lines>
+    </verse>
+  </lyrics>
+</song>

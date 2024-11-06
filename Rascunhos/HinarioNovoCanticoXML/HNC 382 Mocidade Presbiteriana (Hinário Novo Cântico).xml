@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-12-24T18:17:40">
+  <properties>
+    <titles>
+      <title>HNC 382 - Mocidade Presbiteriana</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="382"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Somos jovens num mundo velho<br/>A pregar novos ideais<br/>Do mesmo Evangelho<br/>Que pregaram nossos pais.<br/>O mundo muda, mas Cristo não!<br/>Importa que preguemos a salvação!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nossas mãos estarão unidas,<br/>Combatendo a escravidão<br/>De preciosas vidas<br/>Sem Jesus, sem direção.<br/>Não temeremos o tentador!<br/>Clamemos pelo Cristo Libertador!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Juventude cristã, avante!<br/>Empunhando o pendão real,<br/>Com fé no Comandante,<br/>Venceremos todo o mal!<br/>“Sê testemunha” — disse o Senhor.<br/>Falemos sempre de Jesus, sem temor!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Rapazes:<br/>Mocidade Presbiteriana,<br/>Somos testemunhas de Jesus!<br/>Temos que dizer ao nosso mundo<br/>Que a solução está na cruz!<br/><br/>Moças:<br/>Mocidade, testemunhas de Jesus.<br/>Sim, a solução de tudo está na cruz!</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

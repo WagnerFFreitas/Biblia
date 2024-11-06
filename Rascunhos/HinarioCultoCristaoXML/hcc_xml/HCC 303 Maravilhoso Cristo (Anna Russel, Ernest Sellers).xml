@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:12">
+  <properties>
+    <titles>
+      <title>HCC 303 Maravilhoso Cristo</title>
+      <title>New Orleans</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Anna Russel</author>
+      <author>Ernest Sellers</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="303"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Por mais triste que seja o dia,<br/>ou a noite sem terminar,</lines>
+      <lines>quem em Cristo Jesus confia,<br/>ainda cantará.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Maravilhoso Cristo,<br/>ele ensina minha alma a cantar:</lines>
+      <lines>um canto de força, coragem e fé,<br/>ele ensina minha alma a cantar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Quando a cruz é pesada e dura,<br/>quando é grande teu medo e dor;</lines>
+      <lines>com seu braço Jesus te ajuda,<br/>com seu poder e amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nunca houve alguém tão culpado,<br/>infeliz, sem ter paz e luz,<br/>que não fosse ao bom Deus levado<br/>por meio de Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

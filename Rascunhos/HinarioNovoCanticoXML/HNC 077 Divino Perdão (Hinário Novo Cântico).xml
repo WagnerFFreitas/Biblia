@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:51">
+  <properties>
+    <titles>
+      <title>HNC 077 - Divino Perdão</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="77"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quão abençoado aquele<br/>Que Jesus na cruz salvou!<br/>Seu pecado foi coberto,<br/>Sua dívida passou<br/>Para o Justo, para o Justo,<br/>Que, a salvar-nos, expirou.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Triste e envolto no silêncio,<br/>Meus pecados escondi;<br/>Que pesar de consciência,<br/>Que misérias padeci!<br/>Noite e dia, noite e dia<br/>Tua indignação senti.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mas por fim, desesperado,<br/>Descobri minha aflição.<br/>Meu delitos confessando<br/>Em Jesus achei perdão.<br/>Esta graça, esta graça<br/>Pede eterna gratidão!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Deus bondoso, todo crente<br/>Teu socorro implorará;<br/>Dos remorsos, vero alívio<br/>Em Jesus encontrará.<br/>Santo gozo, santo gozo<br/>Nele sempre reinará!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Deus bondoso! Deus clemente!<br/>Teu auxílio me darás<br/>E, com teu olhar divino, <br/>Os meus pés conduzirás.<br/>Sempre dócil, sempre dócil<br/>E submisso me farás.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Em receios e tristezas<br/>Anda aflito o pecador,<br/>Mas em Cristo, bem guardados,<br/>Para nós não há temor:<br/>Exultamos, exultamos<br/>No divino Salvador!</lines>
+    </verse>
+  </lyrics>
+</song>

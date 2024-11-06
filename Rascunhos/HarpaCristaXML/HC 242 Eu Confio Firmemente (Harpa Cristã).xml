@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:08">
+  <properties>
+    <titles>
+      <title>HC242 - Eu Confio Firmemente</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eu confio firmemente,<br/>Que no céu vou descansar<br/>Com Jesus alegremente, aleluia!<br/>Que prazer celeste sente<br/>A minh'alma em pensar,<br/>Na glória que no céu eu vou gozar!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Que eterna glória vou no céu<br/>gozar!<br/>Com Jesus, que do pecado me salvou;<br/>Santa paz e alegria lá no céu vou desfrutar;<br/>Eterna glória Cristo me comprou!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No céu vou ver o Cordeiro,<br/>Que por mim quis expirar,<br/>Pendurado no madeiro, aleluia!<br/>Que me fez também herdeiro<br/>Do que nunca vai murchar,<br/>Da glória que no céu eu vou gozar!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>De Jesus, o rosto santo,<br/>No céu hei de contemplar,<br/>Onde não há dor ou pranto, aleluia!<br/>Mas sim um sublime canto<br/>Que p'ra sempre vai soar<br/>Na glória, que no céu eu vou gozar!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Quando for ao céu chagado<br/>E a glória alcançar<br/>Por te Cristo ao meu lado, aleluia!<br/>No Seu trono assentado,<br/>A Jesus vou adorar;<br/>Eterna glória vou no céu gozar!</lines>
+    </verse>
+  </lyrics>
+</song>

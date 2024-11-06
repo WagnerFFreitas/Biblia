@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:22">
+  <properties>
+    <titles>
+      <title>HCC 354 A Alegria Vem Pela Manhã</title>
+      <title>Salmos 30:1, 2, 4-6, 8, 10-12</title>
+    </titles>
+    <copyright>Salmos 30:1, 2, 4-6, 8, 10-12</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="354"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Exaltar-te-ei, ó Senhor, porque tu me levantaste, e não permitiste que meus inimigos se alegrassem sobre mim.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó Senhor, Deus meu, a ti clamei, e tu me curaste.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cantai louvores ao Senhor, vós que sois seus santos, e louvai o seu santo nome.<br/>Porque a sua ira dura só um momento; no seu favor está a vida.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O choro pode durar uma noite; pela manhã, porém, vem o cântico de júbilo.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Quanto a mim, dizia eu na minha prosperidade: Jamais serei abalado.<br/>A ti, Senhor, clamei, e ao Senhor supliquei.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ouve, Senhor, e tem compaixão de mim! Ó Senhor, sê o meu ajudador!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Tornaste o meu pranto em regozijo (...) me cingiste de alegria; para que a minha alma te cante louvores, e não se cale.<br/>Senhor, Deus meu, eu te louvarei para sempre.</lines>
+    </verse>
+  </lyrics>
+</song>

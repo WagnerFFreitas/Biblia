@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:49">
+  <properties>
+    <titles>
+      <title>HNC 009 - Aleluia ao Deus Trino</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A ti, ó Deus, altíssimo Senhor,<br/>Eterno Pai, supremo Benfeitor,<br/>Teus filhos vêm, alegres, dar louvor.<br/>Aleluia! Aleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A ti, Deus Filho, Salvador Jesus,<br/>Da graça a fonte, da verdade a luz,<br/>Por teu amor mostrado sobre a cruz,<br/>Aleluia! Aleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A ti, ó Deus, Espírito de amor,<br/>De nossas almas santificador.<br/>Mestre divino, bom Consolador,<br/>Aleluia! Aleluia!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó Deus Triúno, vem-nos conceder<br/>A plenitude do real poder,<br/>E as nossas almas vem, aqui, reger.<br/>Aleluia! Aleluia! Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

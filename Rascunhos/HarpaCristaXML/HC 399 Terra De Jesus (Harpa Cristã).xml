@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:35">
+  <properties>
+    <titles>
+      <title>HC399 - Terra De Jesus</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deste mundo, sim, além, há um país de luz;<br/>Oh! Não queres ir lá? Oh! Não queres ir lá?<br/>Onde as trevas não se vêem,<br/>pois brilha ali Jesus;<br/>Oh! Não queres ir lá? Oh! Não queres ir lá?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Terra de Jesus,<br/>terra de amor!<br/>Oh! Não queres ir lá? Oh! Não queres ir lá?<br/>Onde brilha a luz do meu Salvador;<br/>Oh! Não queres ir lá? Oh! Não queres ir lá?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pelas portas de fulgor, não pode o mal entrar;<br/>Oh! Não queres ir lá? Oh! Não queres ir lá?<br/>Nem a morte, luto ou dor, no céu terão lugar,<br/>Oh! Não queres ir lá? Oh! Não queres ir lá?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh! Que divinal mansão Jesus nos preparou!<br/>Oh! Não queres ir lá! Oh! Não queres ir lá?<br/>Onde todos os irmãos<br/>vão ver quem os salvos,<br/>Oh! Não queres ir lá? Oh! Não queres ir lá?</lines>
+    </verse>
+  </lyrics>
+</song>

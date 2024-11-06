@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:24">
+  <properties>
+    <titles>
+      <title>HM430 - Sempre Unidas, Companheiras</title>
+      <title>Sempre unidas, companheiras,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Patrocínia de Castro Fernandes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sempre unidas, companheiras,<br/>Declaremos, por Jesus,<br/>Guerra santa contra as trevas,<br/>Pelejando junto à cruz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Vamos todas, companheiras!<br/>Sempre unidas no Senhor!<br/>Como esposas, mães ou filhas<br/>Trabalhemos com fervor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Somos fracas, bem sabemos;<br/>Mas havemos de vencer,<br/>Se tivermos confiança,<br/>Se cumprirmos o dever.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sempre firmes na esperança,<br/>Confiando no Senhor,<br/>Imploremos sua graça,<br/>Trabalhemos com fervor!</lines>
+    </verse>
+  </lyrics>
+</song>

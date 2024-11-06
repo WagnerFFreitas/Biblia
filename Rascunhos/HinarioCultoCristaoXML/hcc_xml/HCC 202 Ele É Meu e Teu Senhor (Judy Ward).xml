@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:53">
+  <properties>
+    <titles>
+      <title>HCC 202 Ele É Meu e Teu Senhor</title>
+      <title>Ward</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Judy Ward</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="202"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Se os problemas parecem não ter solução,<br/>quando as mágoas inundam o teu coração,</lines>
+      <lines>há alguém que atende a tua oração:<br/>Jesus Cristo, o Mestre e Senhor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Ele é dono da chuva, do sol e do ar,<br/>é Senhor da alegria, da dor, do chorar;<br/>ele é dono dos montes, do céu e do mar.</lines>
+      <lines>É Senhor das crianças, das preces, dos hinos;<br/>ele é meu e também teu Senhor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Ele é o caminho, a verdade e a luz;<br/>abre teu coração e recebe a Jesus.</lines>
+      <lines>Tua vida é Cristo que agora conduz,<br/>pois é ele teu Mestre e Senhor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Como é bom caminhar nesta luz, nesta paz!<br/>Ele vive pra sempre, ele me satisfaz.</lines>
+      <lines>Eu sou dele, e a vida que ele me traz<br/>é segura, pois ele é Senhor.</lines>
+    </verse>
+  </lyrics>
+</song>

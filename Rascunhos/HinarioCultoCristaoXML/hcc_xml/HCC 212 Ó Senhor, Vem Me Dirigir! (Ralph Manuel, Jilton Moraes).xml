@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:55">
+  <properties>
+    <titles>
+      <title>HCC 212 Ó Senhor, Vem Me Dirigir!</title>
+      <title>Desperta-me</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Ralph Manuel</author>
+      <author>Jilton Moraes</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="212"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Quero buscar e pedir ao Senhor<br/>do seu Espírito e seu amor;</lines>
+      <lines>e na Palavra vou refletir,<br/>pois suas ordens eu quero cumprir.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Ó Senhor, vem me dirigir!<br/>Com fervor quero te seguir.</lines>
+      <lines>Para hoje e sempre te honrar<br/>e teu amor ao mundo mostrar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Quero louvar e ouvir o Senhor,<br/>o seu Espírito libertador,</lines>
+      <lines>todo pecado já confessar,<br/>tudo que tenho lhe dedicar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Quero falar e seguir ao Senhor,<br/>ao seu Espírito consolador;</lines>
+      <lines>no seu trabalho vou investir<br/>e só a ele amar e servir.</lines>
+    </verse>
+  </lyrics>
+</song>

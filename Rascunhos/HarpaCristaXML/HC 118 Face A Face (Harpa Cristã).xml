@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:49">
+  <properties>
+    <titles>
+      <title>HC118 - Face A Face</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na presença estar de Cristo,<br/>Em Sua glória, que será;<br/>Lá no céu, em pleno gozo,<br/>Minha alma O verá.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Face a face, espero vê-lo;<br/>No além do céu de luz;<br/>Face a face em plena glória,<br/>Hei de ver o meu Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh! que glória será vê-lo;<br/>Que O possa eu mirar!<br/>Eis, em breve, vem o dia;<br/>Que sua glória há de mostrar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Quanto gozo há em Cristo,<br/>Quando não houver mais dor,<br/>Quando cessar o perigo,<br/>E gozarmos pleno amor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Face a face, quão glorioso<br/>Há de ser o existir,<br/>Vendo o rosto de quem veio,<br/>Nossas almas redimir.</lines>
+    </verse>
+  </lyrics>
+</song>

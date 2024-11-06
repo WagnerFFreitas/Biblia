@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:42">
+  <properties>
+    <titles>
+      <title>HCC 140 Da Sepultura Saiu</title>
+      <title>Christ Arose</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Robert Lowry</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="140"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Foi morto o Salvador<br/>e sepultado,<br/>mas com poder, vigor,<br/>ressuscitou.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Da sepultura saiu.<br/>Com triunfo e glória ressurgiu.<br/>Ressurgiu, vencendo a morte e seu poder;</lines>
+      <lines>pode agora a todos vida conceder.<br/>Ressurgiu! Ressurgiu!<br/>Aleluia! Ressurgiu!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tomaram precaução<br/>com seu sepulcro,<br/>mas tudo foi em vão<br/>para o reter.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Da morte triunfou.<br/>Oh, que vitória!<br/>Vida nos outorgou,<br/>vida eternal.</lines>
+    </verse>
+  </lyrics>
+</song>

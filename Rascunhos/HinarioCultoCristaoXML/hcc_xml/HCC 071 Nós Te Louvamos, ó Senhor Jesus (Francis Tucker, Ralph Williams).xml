@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:29">
+  <properties>
+    <titles>
+      <title>HCC 071 Nós Te Louvamos, ó Senhor Jesus</title>
+      <title>Sine Nomine</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Francis Tucker</author>
+      <author>Ralph Williams</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="071"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Nós te louvamos, ó Senhor Jesus,<br/>pois tu trocaste a glória pela cruz.</lines>
+      <lines>Que possa em nós brilhar a tua luz.<br/>Aleluia, aleluia.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Tu nos mostraste tua compaixão,<br/>e ao desgarrado deste tua mão.</lines>
+      <lines>Por tua morte temos salvação.<br/>Aleluia, aleluia.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Oh, vem, Senhor, fazer-nos recordar<br/>que foste servo pra nos libertar,</lines>
+      <lines>foste humilhado pra nos exaltar.<br/>Aleluia, aleluia.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Quis te exaltar o Deus de todo amor;<br/>teu santo nome é digno de louvor.</lines>
+      <lines>A ti se curvem todos com temor.<br/>Aleluia, aleluia.</lines>
+    </verse>
+    <verse name="v5">
+      <lines break="optional">Que toda língua diga em teu louvor:<br/>no céu, na terra, Cristo é Senhor.</lines>
+      <lines>E ao trino Deus cantemos com fervor:<br/>Aleluia, aleluia.</lines>
+    </verse>
+  </lyrics>
+</song>

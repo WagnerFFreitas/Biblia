@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:57">
+  <properties>
+    <titles>
+      <title>HNC 213 - A Última Hora</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="213"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ao findar o labor desta vida,<br/>Quando a morte ao teu lado chegar,<br/>Que destino há de ter a tua alma?<br/>Qual será, no futuro, teu lar?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu procuras a paz neste mundo<br/>Em prazeres que passam em vão,<br/>Mais na última hora da vida,<br/>Tais prazeres valor não terão.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Muitas vezes tu riste, ó amigo,<br/>Ao ouvires falar de Jesus.<br/>Mas somente o Senhor pode dar-te<br/>Salvação, pela morte na cruz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Com tua alma em pecado não podes<br/>Adentrar as moradas de Deus.<br/>Mas aquele a quem Deus tornou limpo,<br/>Gozará das venturas dos céus!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Se quiseres deixar teus pecados<br/>E entregar-te hoje mesmo a Jesus,<br/>Hás de ter, nesta vida e na morte,<br/>Um brilhante caminho de luz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Meu amigo, hoje tens a escolha:<br/>Vida ou morte, qual vais aceitar?<br/>Amanhã pode ser muito tarde,<br/>Hoje Cristo te quer libertar.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

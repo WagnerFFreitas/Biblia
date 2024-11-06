@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:38">
+  <properties>
+    <titles>
+      <title>HC049 - Aleluia! Já Creio</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deus tem prometido a salvação dar,<br/>A quem em Seu Filho Jesus confiar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Aleluia! Já creio em Cristo<br/>Jesus.<br/>E salvo já estou, pelo sangue da cruz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Foi tal Seu amor, que me substituiu,<br/>E sobre o Calvário, minh'alma remiu!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Não posso jamais desse amor duvidar;<br/>Não posso senão aos Seus pés me prostar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>E, quando, na glória, eu vir meu bom Rei,<br/>Com todos os santos ali cantarei.</lines>
+    </verse>
+  </lyrics>
+</song>

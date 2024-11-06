@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:36">
+  <properties>
+    <titles>
+      <title>CC 259 A Última Hora</title>
+      <title>Destino</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>João Diener</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="259"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Ao findar o labor desta vida,<br/>quando a morte a teu lado chegar,</lines>
+      <lines>que destino há de ter a tua alma?<br/>Qual será no futuro teu lar?</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Meu amigo, hoje tu tens a escolha:<br/>vida ou morte, qual vais aceitar?</lines>
+      <lines>Amanhã pode ser muito tarde,<br/>hoje Cristo te quer libertar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Tu procuras a paz neste mundo<br/>em prazeres que passam em vão,</lines>
+      <lines>mas, na última hora da vida,<br/>eles já não te satisfarão.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Por acaso tu riste, ó amigo,<br/>quando ouviste falar em Jesus?</lines>
+      <lines>Mas é só Ele o único meio<br/>de salvar pela morte na cruz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Tens manchada tua alma e não podes,<br/>nunca, ver o semblante de Deus;</lines>
+      <lines>só os crentes com corações limpos<br/>poderão ter o gozo nos céus.</lines>
+    </verse>
+    <verse name="v5">
+      <lines break="optional">Se decides deixar teus pecados,<br/>e entregar tua vida a Jesus,</lines>
+      <lines>trilharás, sim, na última hora<br/>um caminho brilhante de luz.</lines>
+    </verse>
+  </lyrics>
+</song>

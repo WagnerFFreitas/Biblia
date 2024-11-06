@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:14">
+  <properties>
+    <titles>
+      <title>HM390 - Riqeuza em Jesus</title>
+      <title>Sou pobre sem Jesus,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. João Marques da Mota Sobrinho</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sou pobre sem Jesus,<br/>Sem meu bom Salvador;<br/>Aspiro à sua luz,<br/>Ao seu excelso amor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sem ti, Senhor, sou pobre,<br/>Sem mérito ou virtude,<br/>Mas, tendo a tua bênção,<br/>Eu sou feliz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sou pobre sem Jesus,<br/>Sem ele a vida é vã,<br/>Tristezas só produz,<br/>Em seu contínuo afã.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sou pobre sem Jesus<br/>E débil contra o mal;<br/>Ele é quem me conduz,<br/>Meu guia, meu fanal.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sou pobre sem Jesus,<br/>A luta é árdua aqui!<br/>De joelhos junto à Cruz,<br/>Descanso tenho em ti.</lines>
+    </verse>
+  </lyrics>
+</song>

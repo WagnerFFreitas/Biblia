@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:49">
+  <properties>
+    <titles>
+      <title>HNC 034 - Convite ao Louvor</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="34"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Demos com alegre som<br/>Glória a Deus, porque ele é bom</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Com poder ele ordenou<br/>E no mundo a luz raiou</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Com nosso olhar de compaixão<br/>Viu a nossa perdição</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O seu povo abençoou<br/>No deserto ele o guiou</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Demos com alegre som<br/>Glória a Deus, porque ele é bom</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Sua graça Deus nos dá<br/>E jamais nos deixará!</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

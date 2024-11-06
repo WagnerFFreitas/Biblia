@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:28">
+  <properties>
+    <titles>
+      <title>CC 495 Redenção</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Eben Rexford</author>
+      <author>Deloss Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="495"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Nós iremos com Cristo Jesus gozar<br/>uma vida de eterno prazer e amor,</lines>
+      <lines>onde nunca perigo qualquer há de entrar,<br/>vida gloriosa na graça do Redentor!</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Salvos por Jesus cantaremos nós no céu;<br/>glória, glória, paz, salvação do Senhor!</lines>
+      <lines>Eis que todos, anjos e santos, sem véu,<br/>hemos de O ver coroado Rei e, do céu, Senhor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Todos nós, os remidos, com gratidão,<br/>juntos, num regozijo eternal com Deus,</lines>
+      <lines>louvaremos a quem nos deu tal salvação!<br/>Sim, ao Cordeiro de Deus e Senhor dos céus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Oh! que grande verdade, que grande luz!<br/>Paz, favor, redenção, alegria, amor,</lines>
+      <lines>tudo, tudo nos vem, pela morte na cruz,<br/>desse Cordeiro de Deus, divinal Senhor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Pela fé no Senhor recebemos paz,<br/>dom gracioso de Cristo Jesus, o Rei.</lines>
+      <lines>Deu-nos, pois, salvação que é completa e veraz!<br/>Oh! sim, livrou-nos do justo rigor da lei!</lines>
+    </verse>
+    <verse name="v5">
+      <lines break="optional">Tão alegres seremos na vida ali,<br/>pois veremos Jesus que na cruz venceu!</lines>
+      <lines>Provas Ele nos deu já por ter vindo aqui,<br/>oh! que ditosa esperança do povo seu!</lines>
+    </verse>
+  </lyrics>
+</song>

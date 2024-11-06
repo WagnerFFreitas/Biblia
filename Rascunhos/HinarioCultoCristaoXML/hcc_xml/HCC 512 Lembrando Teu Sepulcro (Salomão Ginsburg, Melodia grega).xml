@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:56">
+  <properties>
+    <titles>
+      <title>HCC 512 Lembrando Teu Sepulcro</title>
+      <title>Whitfield</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Salomão Ginsburg</author>
+      <author>Melodia grega</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="512"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Lembrando teu sepulcro,<br/>pensando em tua cruz,<br/>estamos reunidos<br/>pra te louvar, Jesus.</lines>
+      <lines>Seguimos teu exemplo<br/>aqui, ao batizar,<br/>querendo obedecer-te<br/>e em tudo te agradar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Nas águas batizados,<br/>contigo, Redentor,<br/>deixamos o pecado,<br/>pois tu és vencedor.</lines>
+      <lines>E, como ressurgiste<br/>pra vida perenal,<br/>assim também, ó Cristo,<br/>levanta-nos do mal.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Porque ressuscitaste,<br/>venceste Satanás;<br/>morreste pra salvar-nos,<br/>mas sempre viverás.</lines>
+      <lines>A morte derrotaste,<br/>ó Salvador, Jesus.<br/>E a vida nova outorgas<br/>a quem seguir a luz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Contigo sepultados,<br/>queremos nós aqui<br/>renunciar o mundo<br/>e só viver por ti;</lines>
+      <lines>ressuscitados, vamos,<br/>Jesus, contigo andar.<br/>Oh, vem, vem ajudar-nos<br/>a sempre a ti honrar!</lines>
+    </verse>
+  </lyrics>
+</song>

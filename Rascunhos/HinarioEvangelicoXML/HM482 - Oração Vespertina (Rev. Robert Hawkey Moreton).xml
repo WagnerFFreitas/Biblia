@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:40">
+  <properties>
+    <titles>
+      <title>HM482 - Oração Vespertina</title>
+      <title>Salvador, por ti guardados,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Robert Hawkey Moreton</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Salvador, por ti guardados,<br/>Desejamos descansar.<br/>Vem livrar-nos dos cuidados,<br/>Do constante batalhar.<br/>Noite a dentro algum perigo<br/>Contra nós pode investir;<br/>Dá-nos teu amor abrigo,<br/>E nos faça em paz dormir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>De teus olhos, trevas densas<br/>Não nos podem ocultar.<br/>Teu cuidado nos dispensas<br/>Em perpétuo vigiar.<br/>Se esta noite adormecemos<br/>Para o nosso fim mortal,<br/>Seja para recebermos<br/>Galardão celestial.</lines>
+    </verse>
+  </lyrics>
+</song>

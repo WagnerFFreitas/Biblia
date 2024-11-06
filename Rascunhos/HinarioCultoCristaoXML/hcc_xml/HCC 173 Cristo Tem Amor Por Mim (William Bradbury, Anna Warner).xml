@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:48">
+  <properties>
+    <titles>
+      <title>HCC 173 Cristo Tem Amor Por Mim</title>
+      <title>China</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>William Bradbury</author>
+      <author>Anna Warner</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="173"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cristo tem amor por mim;<br/>sei que a Bíblia diz assim.<br/>Por crianças como eu<br/>numa cruz Jesus morreu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cristo me ama! Cristo me ama!<br/>Cristo me ama! A Bíblia diz assim.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sim, Jesus me tem amor;<br/>é meu Mestre e Salvador.<br/>Ele sempre tem prazer<br/>de crianças receber.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Salvação me deu Jesus;<br/>quero andar na sua luz.<br/>Quando a vida terminar<br/>viverei no eterno lar.</lines>
+    </verse>
+  </lyrics>
+</song>

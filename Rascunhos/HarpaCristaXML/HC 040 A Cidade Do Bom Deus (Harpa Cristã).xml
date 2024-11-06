@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:37">
+  <properties>
+    <titles>
+      <title>HC040 - A Cidade Do Bom Deus</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Que se diz os teus encantos,<br/>Ó cidade do bom Deus!<br/>Que soberba te levantas<br/>Entre as glórias desses Céus,<br/>Desde o mundo preparada<br/>Para Cristo e para os seus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>São de jaspe adamantino<br/>Os teus muros, ó Sião!<br/>São douradas essas ruas,<br/>Que os remidos pisarão!<br/>De celste luz banhadas,<br/>Refulgentes sempre estão!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pelo próprio Deus fundada<br/>Sobre a rocha secular<br/>Quão seguras tuas portas!<br/>Quem as pode ameaçar?<br/>Igualmente, quão seguro<br/>Quem por ela lá entrar!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Quão felizes são teus filhos,<br/>Vendo a face do Senhor!<br/>Nunca mais a fome sentem,<br/>Nunca sentem mais a dor,<br/>Com os anjos desfrutando<br/>Pleno gozo, paz e amor!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O trono do Cordeiro,<br/>Noite e dia, sem cessar<br/>Corre o rio da água viva,<br/>Para todos saciar!<br/>Lá com Cristo, vão teus filhos,<br/>Satisfeitos descansar!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Se, por Teu amor infindo,<br/>De Sião eu filho for,<br/>Zombe o mundo e escarneça,<br/>Nada importa, Salvador,<br/>Pois que do Teu gozo eterno<br/>Mesmo aqui tenho o penhor!</lines>
+    </verse>
+  </lyrics>
+</song>

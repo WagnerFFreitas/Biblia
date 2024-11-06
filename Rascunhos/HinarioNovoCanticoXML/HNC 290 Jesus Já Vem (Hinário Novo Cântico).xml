@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:49:00">
+  <properties>
+    <titles>
+      <title>HNC 290 - Jesus Já Vem</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="290"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus já vem, o grande Salvador,<br/>O Bem-amado destes corações!<br/>E os crentes mortos, vastas multidões,<br/>Ressurgirão!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus já vem! E ao mesmo tempo nós,<br/>Os que no mundo vivos ele achar,<br/>Já transformados vamos a cantar<br/>O Seu louvor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus já vem! Oh! Perfeição de amor!<br/>Pois para sempre, a andar com Ele em luz,<br/>Quer ter a Igreja, que, na sua cruz,<br/>Já redimiu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus já vem! Que bênçãos em irmos ver<br/>A quem, por nós, a morte aqui sofreu!<br/>E a interceder por nós, compareceu<br/>Perante o Pai.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh! Vem, Senhor! Não tardes, ó Jesus!<br/>Pois Tu somente irás satisfazer<br/>Aos nossos corações, que anelam ver<br/>Seu Salvador! Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

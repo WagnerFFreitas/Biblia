@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:17">
+  <properties>
+    <titles>
+      <title>HC302 - Não Murmures Canta</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No mundo murmura-se tanto,<br/>Entre os que cristãos dizem ser;<br/>Em vez de louvores há pranto,<br/>Fraqueza em lugar de poder.<br/>Murmuram-assim no deserto,<br/>Em Mara, Israel murmurou;<br/>Oh! Não vêem que Deus está perto;<br/>Jamais Seu auxílio negou.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Em vez de murmurares, canta<br/>Um hino de louvor a Deus;<br/>Jesus quer te dar vida santa,<br/>Qual noiva levar-te p'ra os céus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu vives, irmão, murmurando,<br/>Tal como um escravo do mal;<br/>Se Deus a tua fé 'stá provando,<br/>Tu não tens razão para tal.<br/>Deus castiga aquele a quem ama,<br/>De ti, também não se esqueceu;<br/>Qual pai amoroso te chama,<br/>E cuida, sim, do que é Seu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>E mesmo se as ondas rugirem,<br/>No revolto e bravio mar,<br/>Os céus poderás ver se abrirem,<br/>Se um hino tua alma cantar,<br/>Não temas ciladas, nem morte,<br/>P'ra cima tu deves olhar;<br/>O leme segura bem forte,<br/>Até do céu a luz raiar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Se um hino cantar tu puderes,<br/>Nas horas de grande aflição,<br/>Então voarás, se quiseres,<br/>Até a celeste mansão;<br/>Nas asas da águia levado,<br/>Bem perto do mar de cristal<br/>E por fim então libertado,<br/>À terra, chegar, celestial.</lines>
+    </verse>
+  </lyrics>
+</song>

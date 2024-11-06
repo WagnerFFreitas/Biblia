@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:21">
+  <properties>
+    <titles>
+      <title>HCC 348 A Minha Fé e o Meu Amor</title>
+      <title>Solid Rock</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>William Bradbury</author>
+      <author>Edward Mote</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="348"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Minha esperança, até o fim,<br/>é Cristo, que morreu por mim.</lines>
+      <lines>Eu creio só no meu Senhor,<br/>no nome do bom Redentor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A minha fé<br/>e o meu amor<br/>estão firmados no Senhor,<br/>estão firmados no Senhor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Se lhe não posso a face ver,<br/>na sua graça vou viver.</lines>
+      <lines>Em cada crise, sem falhar,<br/>sempre hei de nele confiar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Jamais falhou ao prometer;<br/>nas lutas vem me socorrer.</lines>
+      <lines>Ao sobrevir a tentação,<br/>é Cristo a minha salvação.</lines>
+    </verse>
+  </lyrics>
+</song>

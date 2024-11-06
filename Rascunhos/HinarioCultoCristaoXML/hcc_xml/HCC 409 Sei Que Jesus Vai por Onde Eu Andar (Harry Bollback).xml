@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:33">
+  <properties>
+    <titles>
+      <title>HCC 409 Sei Que Jesus Vai por Onde Eu Andar</title>
+      <title>Bollback</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Harry Bollback</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="409"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Sei que Jesus vai por onde eu andar,<br/>vem meu Jesus me guiar.<br/>Sobre as montanhas, na terra e no mar,<br/>sempre comigo ele está.</lines>
+      <lines>E quando no vale de dor eu passar,<br/>comigo ele está, sim, eu sei, eu sei.<br/>Sei que Jesus vai por onde eu andar,<br/>vem meu Jesus me guiar.</lines>
+    </verse>
+  </lyrics>
+</song>

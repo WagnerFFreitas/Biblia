@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:10">
+  <properties>
+    <titles>
+      <title>CC 124 Cantarei</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Philip Bliss</author>
+      <author>H. McGranahan</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="124"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Cantarei do amor de Cristo,<br/>nunca houve amor igual;</lines>
+      <lines>deu a vida pra salvar-nos<br/>da condenação fatal.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Cantarei de Jesus Cristo<br/>poderoso Salvador;</lines>
+      <lines>pois transforma, regenera<br/>o perdido, indigno malfeitor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Cantarei das suas palavras,<br/>tão repletas de poder,</lines>
+      <lines>que consolam e me inspiram<br/>a Jesus obedecer.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Cantarei da imensa graça<br/>do seu terno coração;</lines>
+      <lines>pela fé que tenho nele<br/>me garante o meu perdão.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">O seu nome tão glorioso<br/>com fervor proclamarei;</lines>
+      <lines>junto com os seus remidos<br/>esse nome exaltarei.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:39">
+  <properties>
+    <titles>
+      <title>HC423 - De Ti Preciso Mais</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, preciso mais de amor,<br/>Reino de Deus, em meu coração;<br/>Da compaixão Tu és o Senhor;<br/>De Ti preciso mais.<br/>De Ti preciso mais,<br/>Do Teu amor veraz;<br/>Sei que estás pronto p'ra me valer,<br/>De Ti preciso mais!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, preciso mais de poder,<br/>Dom do eterno Consolador;<br/>És o dador que enche meu ser;<br/>De Ti preciso mais!<br/>De Ti preciso mais,<br/>Do Teu poder veraz,<br/>Da Tua graça, ó vem me encher,<br/>De Ti preciso mais!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, preciso mais Te imitar,<br/>Com humildade e submissão;<br/>Tua instrução eu quero guardar,<br/>De Ti preciso mais,<br/>De Ti preciso mais,<br/>Da graça eficaz,<br/>Sei que Tu queres m'a conceder,<br/>De Ti preciso mais!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus, preciso mais de ouvir<br/>No meu silêncio a voz de amor,<br/>Que dá vigor para eu Te servir,<br/>De Ti preciso mais.<br/>De Ti preciso mais.<br/>A Tua voz veraz<br/>No meu silêncio sempre atender,<br/>De Ti preciso mais!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus, preciso mais comunhão,<br/>Contigo estar em santo Tabor;<br/>É esplendor, transfiguração;<br/>De Ti preciso mais.<br/>De Ti preciso mais,<br/>Transformação veraz;<br/>A Tua face eu quero ter,<br/>De Ti preciso mais!</lines>
+    </verse>
+  </lyrics>
+</song>

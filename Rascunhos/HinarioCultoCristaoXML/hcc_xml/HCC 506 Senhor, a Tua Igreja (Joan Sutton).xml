@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:55">
+  <properties>
+    <titles>
+      <title>HCC 506 Senhor, a Tua Igreja</title>
+      <title>Mont'Serrat</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Joan Sutton</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="506"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Senhor, a tua igreja<br/>se une com fervor<br/>querendo expressar-te<br/>profundo e grato amor.</lines>
+      <lines>Em vão é nosso esforço<br/>sem tua aprovação;<br/>viemos implorar-te<br/>a tua direção.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Dá-nos visão e coragem,<br/>pois queremos te obedecer,</lines>
+      <lines>e, em tudo o que nós fizermos,<br/>te honrar e engrandecer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Em ti nós confiamos<br/>pois tudo vem de ti.<br/>E a ti nos consagramos<br/>por toda a vida aqui.</lines>
+      <lines>Das bênçãos que nos deste<br/>trazemos o melhor:<br/>talentos, bens e tempo<br/>são teus, ó Salvador.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-12-24T17:24:59">
+  <properties>
+    <titles>
+      <title>HNC 364 - Graças a Deus</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="364"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>De manhã, deixando o leito,<br/>Faço a Deus minha oração.<br/>Dou-lhe graças pela noite,<br/>Pelo sono e proteção.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mas também, durante o dia,<br/>Sou mui grato ao meu Senhor<br/>Pelo pão, o lar e a vida,<br/>Que me provam seu amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>E depois, vindo a noitinha,<br/>Novamente, ao me deitar,<br/>Oro a Deus e, agradecido,<br/>Durmo em paz, sem recear.</lines>
+    </verse>
+  </lyrics>
+</song>

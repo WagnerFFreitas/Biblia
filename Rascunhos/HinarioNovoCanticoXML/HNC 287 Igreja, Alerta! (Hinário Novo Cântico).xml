@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:49:00">
+  <properties>
+    <titles>
+      <title>HNC 287 - Igreja, Alerta!</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="287"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>É tempo! É tempo, o Mestre está chamando já!<br/>Marchar, marchar, confiando em Seu amor!<br/>Partir, partir a salvação a proclamar,<br/>Cumprindo ordem santa do bom Salvador!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Levemos luz, aos povos e nações pagãs<br/>Que vivem longe, além do imenso mar.<br/>Oh! Vamos lá levar-lhes novas de amor,<br/>Sem esquecer também aqui de semear.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Desperta, Igreja! E vem o teu dever cumprir.<br/>A todos faze a Cristo conhecer!<br/>A tua mão estende, com paciente amor,<br/>Ajuda-os, em Jesus, a vida receber.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Igreja, alerta! O dia prometido vem,<br/>No qual Jesus, o Salvador, virá!<br/>Por toda parte, o vitorioso Redentor<br/>Eterna glória e honra e louvor terá.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Marchar, sim, avante!<br/>Marchar, sim, <br/>Erguendo o Seu pendão real, avante!<br/>Sim, avante! Unidos sempre, firmes avançai!<br/>“Glória! Glória!” Eis que canta a multidão!<br/>Consagrando todo o vosso coração,<br/>A Jesus obedecei, seu querer executai,<br/>Entoai louvores altos! Avançai!</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

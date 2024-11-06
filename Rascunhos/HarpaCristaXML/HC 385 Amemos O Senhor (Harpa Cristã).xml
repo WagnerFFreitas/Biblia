@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:33">
+  <properties>
+    <titles>
+      <title>HC385 - Amemos O Senhor</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Irmãos, amemos o Senhor,<br/>Por Seu divinal amor;<br/>Pois a nossa culpa expiou,<br/>Com sangue que derramou.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Irmãos, amemos o Senhor,<br/>Pois Ele já nos amou;<br/>E do pecado enganador,<br/>Com Seu sangue nos lavou.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Irmãos, amemos o Senhor,<br/>O nosso ensinador;<br/>Ele é a fonte do saber<br/>P'ra todo que nEle crer.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Irmãos, amemos o Senhor,<br/>O nosso bom Salvador;<br/>E o consumador daquela fé,<br/>Que desce do Deus, que "É".</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Irmãos, amemos o Senhor,<br/>Também o Consolador,<br/>E a nosso Pai Celestial,<br/>Que paz nos dá eternal.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:54">
+  <properties>
+    <titles>
+      <title>HM298 - Rocha Eternal!</title>
+      <title>Rocha firme, divinal,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Manoel de Arruda Camargo</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rocha firme, divinal,<br/>Abrigar-me venho em ti,<br/>Do pecado e todo o mal<br/>Com que a morte mereci.<br/>Tua graça me salvou<br/>E minha alma libertou.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Minhas obras, eu bem sei,<br/>Mesmo feitas em temor,<br/>Não cumpriram a tua lei,<br/>Nem revelam teu amor;<br/>Não mereço, pois, perdão;<br/>Só em ti há salvação.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Para me salvar, que fiz?<br/>Foi só crer em tua Cruz;<br/>Tua morte me bendiz<br/>E me guia a tua luz<br/>Viverei por teu poder;<br/>O pecador hei de vencer.</lines>
+    </verse>
+  </lyrics>
+</song>

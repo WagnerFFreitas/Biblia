@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:37">
+  <properties>
+    <titles>
+      <title>HM469 - Morada Eterna</title>
+      <title>Há um país de vida e paz,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Há um país de vida e paz,<br/>Morada só do bem;<br/>O dia eterno reina ali,<br/>Jamais a noite vem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Porém à entrada do país<br/>Existe um grande mar;<br/>Por suas águas nós, mortais,<br/>Teremos de passar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ah! Se pudéssemos por fé,<br/>Sem nuvens de temor,<br/>Só avistar o bom país,<br/>Morada do Senhor!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Veríamos além do mar<br/>Que brilha excelsa luz;<br/>Que mal nenhum têm a temer<br/>Os servos de Jesus!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Então na morte a própria dor<br/>Não nos apartará<br/>Do grande amor e eterna paz<br/>Que Cristo nos dará!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:16">
+  <properties>
+    <titles>
+      <title>CC 432 Avante com Deus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Salomão Ginsburg</author>
+      <author>P. Edwards Jr.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="432"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Ó crentes brasileiros,<br/>firmai-vos no Senhor,<br/>o seu pendão erguendo,<br/>pendão do seu amor.</lines>
+      <lines>"A pátria para Cristo!"<br/>Bem alto apregoai,<br/>e a graça do evangelho<br/>na vida proclamai.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Oh! quantos infelizes,<br/>sem Deus, sem salvação,<br/>no abismo estão caindo<br/>da eterna perdição!</lines>
+      <lines>A salvação perfeita,<br/>a vida, o gozo e a paz<br/>dá Cristo, nosso Mestre,<br/>pois a alma satisfaz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Tremenda resistência<br/>havemos de sofrer:<br/>Satã e suas hostes<br/>procuram nos deter.</lines>
+      <lines>Coragem, pois, ó crentes,<br/>Jesus triunfará!<br/>Nos lares brasileiros<br/>Jesus dominará.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Ó crentes brasileiros,<br/>o Mestre tem poder<br/>de aos nossos conterrâneos<br/>a vida conceder!</lines>
+      <lines>Na luta prossigamos<br/>com zelo e com ardor:<br/>"A Pátria para Cristo!"<br/>Avante com fervor!</lines>
+    </verse>
+  </lyrics>
+</song>

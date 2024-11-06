@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:51">
+  <properties>
+    <titles>
+      <title>HC130 - Cristo É Meu!</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Manso Pastor já no mundo viveu e Ele é meu,<br/>Nos dando a vida, por nós padeceu e Ele é meu;<br/>Graça tão vasta não posso sondar, mas Ele é meu.<br/>Sou perdoado já posso cantar, que Ele é meu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cristo é meu!<br/>Cristo é meu!<br/>Maravilhoso, mas certo é dizer:<br/>Jesus é meu!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Há um amigo de amor sem igual e Ele é meu;<br/>Sempre o mais forte, o mais firme e leal e Ele é meu.<br/>Sou tão indigno de ser um dos Seus, mas Ele é meu.<br/>Vou Seu amor desfrutar, lá nos céus, pois Ele é meu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ele mandou-nos o Consolador, também é meu.<br/>Cheio de graça, de paz e de amor, e tudo é meu.<br/>Nada me nega dos Seus ricos dons, pois tudo é meu.<br/>Grandes tesouros, tão puros e bons, são todos meus.</lines>
+    </verse>
+  </lyrics>
+</song>

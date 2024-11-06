@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:24">
+  <properties>
+    <titles>
+      <title>HC339 - Jesus Ressuscitado</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh! Jesus ressuscitado,<br/>Grande é o Teu poder!<br/>Sê comigo, ó meu amado,<br/>Dá-me a graça e o saber.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>P'ra fazer a Tua vontade,<br/>Quero de ti mais poder;<br/>Dá-me a Tua santidade,<br/>Quero só p'ra Ti viver.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Meu Senhor, Tu és meu guia,<br/>Dá-me força, vida e luz;<br/>Plena paz e alegria,<br/>Me concede, ó meu Jesus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>És a luz tão radiosa,<br/>Que me traz consolação;<br/>Com Tua morte dolorosa,<br/>Tu me deste a salvação.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Quero, ó Deus, agradecer-Te<br/>O Teu grande, imenso amor,<br/>Porque já me concedeste<br/>O real Consolador.</lines>
+    </verse>
+  </lyrics>
+</song>

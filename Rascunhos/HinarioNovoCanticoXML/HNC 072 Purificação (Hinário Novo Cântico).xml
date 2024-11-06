@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:51">
+  <properties>
+    <titles>
+      <title>HNC 072 - Purificação</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="72"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A minha alma está manchada<br/>De pecado e corrupção,<br/>Pois em mim não há justiça,<br/>Santidade ou retidão.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Minha origem reconheço;<br/>Pecador, bem sei, nasci;<br/>Da maldade procedente,<br/>O seu fardo já senti.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vem, Jesus, e santifica<br/>Este pobre pecador!<br/>Dá-me a graça de sentir-me<br/>Amparado em teu amor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O teu sangue precioso,<br/>Derramado sobre a cruz,<br/>Me redime do pecado<br/>De uma vez, ó meu Jesus.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vem, Senhor, purificar-me,<br/>Teu perdão receberei.<br/>Eu bem sei que para sempre<br/>Ao teu lado reinarei. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

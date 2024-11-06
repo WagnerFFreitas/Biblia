@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:42">
+  <properties>
+    <titles>
+      <title>HCC 139 A Ressurreição</title>
+      <title>Lucas 24:1-12</title>
+    </titles>
+    <copyright>Lucas 24:1-12</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="139"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mas já no primeiro dia da semana, bem de madrugada,<br/>foram elas ao sepulcro, levando as especiarias que tinham preparado.<br/>E acharam a pedra revolvida do sepulcro.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Entrando, porém, não acharam o corpo do Senhor Jesus.<br/>E, estando elas perplexas a esse respeito,<br/>eis que lhes apareceram dois varões em vestes resplandecentes.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>E ficando elas atemorizadas e abaixando o rosto para o chão,<br/>eles lhes disseram: Por que buscais entre os mortos aquele que vive?<br/>Ele não está aqui, mas ressurgiu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lembrai-vos de como vos falou, estando ainda na Galiléia, dizendo:<br/>Importa que o Filho do homem seja entregue nas mãos de homens pecadores,<br/>e seja crucificado, e ao terceiro dia ressurja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lembraram-se, então das suas palavras; e, voltando do sepulcro,<br/>anunciaram todas estas coisas aos onze e a todos os demais.<br/>Eram Maria Madalena, e Joana, e Maria, mãe de Tiago.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Também as outras que estavam com elas relataram estas coisas aos apóstolos.<br/>E pareceram-lhes como um delírio as palavras das mulheres e não lhe deram crédito.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mas, Pedro, levantando-se, correu ao sepulcro;<br/>e, abaixando-se, viu somente os panos de linho;<br/>e retirou-se, admirando consigo o que havia acontecido.</lines>
+    </verse>
+  </lyrics>
+</song>

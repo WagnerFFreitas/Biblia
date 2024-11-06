@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:06">
+  <properties>
+    <titles>
+      <title>HC232 - Os Bem -Aventurados</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bem-aventurado são<br/>Os de limpo coração,<br/>Que não buscam as riquezas para si;<br/>A tranqüilidade e paz,<br/>Que desfrutam, oh, jamais,<br/>Poderão discriminadas ser por mim!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh, cantemos aleluia!<br/>Jubilosos, com poder!<br/>Bem alegres, com fervor,<br/>Demos a Jesus louvor,<br/>E mais gozo vamos dEle receber!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Grande dita e mui favor<br/>Me concede meu Senhor,<br/>Pelo sangue que por mim verteu na cruz;<br/>Tornará tembém meu ser,<br/>Cheio de veraz prazer,<br/>Se viver e caminhar na Sua luz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ao Senhor obedecer,<br/>DEle mesmo me encher,<br/>Para mim isto é verdadeiro céu;<br/>E por Seu imenso amor,<br/>Para o pobre pecador,<br/>Quero aqui, louvá-Lo, e além do véu!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Quão perfeita, é minha paz!<br/>Não anelo nada mais,<br/>Quero sempre aqui fazer o Seu querer;<br/>Tenho o amado Salvador,<br/>E possuo Seu amor;<br/>Gozarei eternamente mui prazer!</lines>
+    </verse>
+  </lyrics>
+</song>

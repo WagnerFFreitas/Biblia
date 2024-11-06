@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:07">
+  <properties>
+    <titles>
+      <title>CC 385 Louvor</title>
+      <title>Louvor</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Manuel Souza</author>
+      <author>Charles Gabriel</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="385"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Vamos nós louvar a Deus, <br/>Vamos, vamos;<br/>Ao Senhor de toda a luz,<br/>Santo, santo!</lines>
+      <lines>Cantem, louvem, lá nos céus<br/>Nosso Deus e Rei Jesus!<br/>Exaltado seja Deus,<br/>Santo, santo!</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Exaltado seja nosso Deus e Pai!<br/>Exaltado para sempre, oh! exaltai!<br/>Cantem, louvem, lá nos céus</lines>
+      <lines>Nosso Deus e Rei Jesus!<br/>Exaltado seja Deus,<br/>Santo, santo!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Deus, o nosso eterno Pai,<br/>Santo, santo,<br/>Deu-nos bênçãos por Jesus,<br/>Vede, vede!</lines>
+      <lines>Ao Senhor glorificai,<br/>Vós, os salvos pela cruz,<br/>Sim, conosco glória dai,<br/>Vinde, vinde!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Exaltemos nosso Deus,<br/>Santo, santo;<br/>Exaltemos com fervor,<br/>Hoje, hoje!</lines>
+      <lines>Tributemos todos nós<br/>Hinos santos de louvor,<br/>Sim, louvor em alta voz,<br/>Hoje, hoje!</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Ao Senhor de todo amor,<br/>Deus de glória,<br/>Deus de luz, e Deus de paz,<br/>Cantem glória!</lines>
+      <lines>Hoje nós também louvor<br/>Vimos dar-te que te apraz,<br/>Pois nos deste, Salvador,<br/>Muitas bênçãos!</lines>
+    </verse>
+  </lyrics>
+</song>

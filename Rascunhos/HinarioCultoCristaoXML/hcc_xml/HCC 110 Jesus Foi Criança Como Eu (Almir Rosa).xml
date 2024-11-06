@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:36">
+  <properties>
+    <titles>
+      <title>HCC 110 Jesus Foi Criança Como Eu</title>
+      <title>Jesus, Criança Como Eu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Almir Rosa</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="110"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines break="optional">Jesus foi criança como eu,<br/>Jesus foi criança como eu.</lines>
+      <lines>Ele as criancinhas<br/>muito compreendeu<br/>porque foi criancinha como eu.</lines>
+    </verse>
+    <verse name="v1">
+      <lines break="optional">Quando certa vez foi passear,<br/>no caminho ele se perdeu.</lines>
+      <lines>Seus pais o procuraram<br/>sem poder achar<br/>porque foi criança como eu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Quando as mães quiseram ver Jesus,<br/>seus filhinhos ele abençoou;</lines>
+      <lines>"Que venham as crianças",<br/>ele respondeu<br/>porque foi criança como eu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Aos que o seguiram ensinou:<br/>"Se alguém quiser chegar ao céu,</lines>
+      <lines>tal qual uma criança<br/>deve se tornar",<br/>porque foi criança como eu.</lines>
+    </verse>
+  </lyrics>
+</song>

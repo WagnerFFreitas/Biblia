@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:32">
+  <properties>
+    <titles>
+      <title>HM182 - Dedicação</title>
+      <title>Quem está ao lado</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Henry Maxwell Wright</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quem está ao lado<br/>Do bom Salvador,<br/>Pronto a dedicar-se<br/>Hoje ao seu Senhor?<br/>Tudo abandonando,<br/>E Jesus seguir,<br/>Encarando tudo<br/>Quanto possa vir?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Quem de Cristo ao lado<br/>Sempre quer andar?<br/>Quem quer ajudá-lo<br/>Outros a chamar?<br/>Pela tua graça,<br/>Pelo teu amor,<br/>Eis-nos do teu lado,<br/>Somos teus, Senhor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Não ambicionando<br/>Honras ou poder,<br/>Eis-nos todos firmes<br/>Para combater.<br/>Quem o amor de Cristo,<br/>Vema contemplar,<br/>Há de , resoluto,<br/>Do seu lado estar!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Não com ouro ou prata<br/>Ó, Senhor Jesus,<br/>Tu nos redimiste:<br/>Foi por tua Cruz;<br/>E com o teu sangue,<br/>Sangue remidor,<br/>Tu nos resgataste,<br/>De uma vez, Senhor!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A peleja sempre<br/>Dura nos virá;<br/>Inimigo forte<br/>Nos combaterá;<br/>Mas onipotente<br/>É o Rei dos reis!<br/>A vitória é certa<br/>Para os seus fiéis!</lines>
+    </verse>
+  </lyrics>
+</song>

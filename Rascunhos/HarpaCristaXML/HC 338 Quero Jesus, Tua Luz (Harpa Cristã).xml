@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:24">
+  <properties>
+    <titles>
+      <title>HC338 - Quero Jesus, Tua Luz</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quero sempre, Jesus, receber Tua luz,<br/>Revestir-me do Consolador;<br/>E um dia nos céus, junto ao trono de Deus,<br/>Fruirei abundante amor!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ó Jesus, guarda o meu coração,<br/>Nele faz Tua eterna habitação,<br/>Quero sempre Teu nome louvar!<br/>Pois quiseste minh'alma resgatar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sob o sangue estarei abrigado da lei,<br/>Do pecado e da vil tentação;<br/>Neste sangue há paz, gozo que satisfaz<br/>E certeza de vero perdão!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh! Que consolação eu terei em Sião,<br/>Vendo a face do meigo Jesus;<br/>Um eterno louvor eu darei ao Senhor,<br/>Ao entrar na cidade da luz!</lines>
+    </verse>
+  </lyrics>
+</song>

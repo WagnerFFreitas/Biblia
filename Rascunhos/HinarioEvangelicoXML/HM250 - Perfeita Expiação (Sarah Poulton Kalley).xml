@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:45">
+  <properties>
+    <titles>
+      <title>HM250 - Perfeita Expiação</title>
+      <title>Sacrifícios Imolados</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sacrifícios imolados<br/>Sobre o sanguinoso altar<br/>Não tiravam os pecados,<br/>Não podiam expiar<br/>Nossas culpas,<br/>Nem remorsos dissipar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Temos sangue precioso<br/>De um divino Remidor;<br/>Eficaz e glorioso<br/>É o grande Expiador:<br/>Purifica<br/>O mais ímpio pecador.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Triste, choro o meu pecado;<br/>De Jesus me vem perdão.<br/>E por ele resgatado<br/>Não verei condenação.<br/>O Cordeiro<br/>Dá completa remissão.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Todo o peso do castigo,<br/>Punição que mereci<br/>Lá na cruz, superno Amigo,<br/>Foi lançado sobre ti!<br/>Vou cantando:<br/>Minha culpa estava ali!</lines>
+    </verse>
+  </lyrics>
+</song>

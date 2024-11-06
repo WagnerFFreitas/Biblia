@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:51">
+  <properties>
+    <titles>
+      <title>HCC 489 O Resultado da Nossa Fé</title>
+      <title>Efésios 2:8-10; Tiago 2:14-10, 26</title>
+    </titles>
+    <copyright>Efésios 2:8-10; Tiago 2:14-10, 26</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="489"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Porque pela graça sois salvos, por meio da fé; e isto não vem de vós, é dom de Deus; não vem das obras, para que ninguém se glorie.<br/>Porque somos feitura sua, criados em Cristo Jesus para boas obras, as quais Deus antes preparou para que andássemos nelas.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Que proveito há, meus irmãos se alguém disser que tem fé e não tiver obras?<br/>Se um irmão ou uma irmã estiverem nus e tiverem falta de mantimento cotidiano, e algum de vós lhes disser:<br/>Ide em paz, aquentai-vos e fartai-vos; e não lhes derdes as coisas necessárias para o corpo, que proveito há nisso?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Assim também a fé, se não tiver obras, é morta em si mesma.<br/>Mas dirá alguém: Tu tens fé, e eu tenho obras; mostra-me a tua fé sem obras, e eu te mostrarei a minha fé pelas minhas obras.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Crês tu que Deus é um só? Fazes bem; os demônios também o creem, e estremecem.<br/>Mas queres saber, ó homem vão, que a fé sem as obras é estéril?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Porque, assim como o corpo sem o espírito está morto, assim também a fé sem obras é morta.</lines>
+    </verse>
+  </lyrics>
+</song>

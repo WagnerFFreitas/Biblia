@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:54">
+  <properties>
+    <titles>
+      <title>HNC 138 - Refúgio</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="138"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó bondoso Salvador,<br/>Sê Tu meu amparador!<br/>Negras ondas de aflição,<br/>Fortes ventos perto estão.<br/>Deste espanto e de terrror!<br/>Vem salvar-me, ó bom Senhor!<br/>E no porto faze entrar<br/>Minha barca sem quebrar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Consternado nesta dor,<br/>Sem refúgio, sem vigor,<br/>Meu medroso coração<br/>Vem rogar-te proteção.<br/>Mostra o teu imenso amor,<br/>Ó benigno Salvador!<br/>Poderosa e clara luz,<br/>Não me deixes, ó Jesus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Compassivo Redentor,<br/>Vale a um triste pecador!<br/>Vida e gozo Tu me dás,<br/>Graça infinda, eterna paz.<br/>Enche o débil coração,<br/>Com os dons da salvação,<br/>E seguro, sem temor,<br/>Gozarei do teu favor. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

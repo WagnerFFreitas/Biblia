@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:49:00">
+  <properties>
+    <titles>
+      <title>HNC 269 - Pureza no Sangue de Cristo</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="269"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Seja bendito o Cordeiro<br/>Que na cruz por nós padeceu;<br/>Seja bendito o seu sangue<br/>Que por nós, pecadores, verteu.<br/>Eis que no sangue lavados,<br/>E tendo o puro o coração,<br/>Os pecadores remidos<br/>Por Jesus têm com Deus comunhão</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quão espinhosa a coroa<br/>Que Jesus por nós suportou!<br/>Oh! Quão profundas as chagas<br/>Que nos provam o quanto ele amou!<br/>Eis nessas chagas pureza<br/>Para o maior pecador,<br/>A quem mais alvo que a neve<br/>O teu sangue transforma, Senhor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se as faltas nós confessarmos<br/>E seguirmos na tua luz,<br/>Tu não somente perdoas;<br/>Purificas também, ó Jesus!<br/>Lavas de todo pecado,<br/>Que maravilhas de amor!<br/>Pois que mais alvo que a neve<br/>O teu sangue nos torna, Senhor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Alvo mais que a neve,<br/>Alvo mais que a neve!<br/>Sim nesse sangue lavado,<br/>Mais alvo que a neve eu estou.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

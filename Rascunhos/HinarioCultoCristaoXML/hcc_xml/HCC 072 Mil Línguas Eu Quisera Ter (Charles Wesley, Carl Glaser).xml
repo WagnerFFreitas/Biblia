@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:30">
+  <properties>
+    <titles>
+      <title>HCC 072 Mil Línguas Eu Quisera Ter</title>
+      <title>Azmon</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Charles Wesley</author>
+      <author>Carl Glaser</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="072"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mil línguas eu quisera ter<br/>para entoar louvor<br/>à tua graça e ao teu poder,<br/>meu Rei e meu Senhor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Teu santo nome, ó Redentor,<br/>o meu temor desfaz<br/>e traz a mim, um pecador,<br/>consolo, vida e paz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Com teus remidos louvarei<br/>o teu eterno amor<br/>e o nome teu exaltarei,<br/>bondoso Salvador.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó Mestre amado, meu Jesus,<br/>ajuda-me a levar,<br/>por todo o mundo, a tua luz,<br/>o teu amor sem par.</lines>
+    </verse>
+  </lyrics>
+</song>

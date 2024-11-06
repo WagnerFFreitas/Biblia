@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:52">
+  <properties>
+    <titles>
+      <title>HNC 099 - Louvor ao Redentor</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="99"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Minha alma, louva ao Redentor,<br/>Jesus, teu Rei, teu Salvador;<br/>Morreu na cruz, em teu lugar,<br/>E salvação te veio dar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh! Quão perdido e longe andei,<br/>Rebelde a Deus e à sua lei!<br/>Com terno e tão paciente amor,<br/>Seguiu-me sempre o Salvador.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bendito o dia quando, enfim,<br/>Vi Cristo sobre a cruz, por mim!<br/>Vencido por tão grande amor,<br/>Rendi-me logo ao Salvador.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vem alma aflita descansar,<br/>Jesus te pode perdoar!<br/>A ele entrega o coração<br/>E teu será o seu perdão.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Sim, sobre a cruz, em meu lugar,<br/>Jesus morreu e me salvou!<br/>Firme e seguro posso andar,<br/>Porque seu sangue me lavou.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

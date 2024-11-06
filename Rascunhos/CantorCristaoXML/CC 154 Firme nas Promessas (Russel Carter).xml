@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:16">
+  <properties>
+    <titles>
+      <title>CC 154 Firme nas Promessas</title>
+      <title>Promises</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Russel Carter</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="154"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Firme nas promessas do meu Salvador,<br/>cantarei louvores ao meu Criador.</lines>
+      <lines>Fico, pelos séculos do seu amor.<br/>Firme nas promessas de Jesus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Firme, firme,<br/>Firme nas promessas de Jesus, meu Mestre.</lines>
+      <lines>Firme, firme,<br/>Sim, firme nas promessas de Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Firme nas promessas não irei falhar,<br/>vindo as tempestades a me consternar;</lines>
+      <lines>pelo Verbo eterno eu hei de trabalhar,<br/>firme nas promessas de Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Firme nas promessas sempre vejo assim<br/>purificação no sangue para mim;</lines>
+      <lines>plena liberdade gozarei, sem fim,<br/>firme nas promessas de Jesus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Firme nas promessas do Senhor Jesus,<br/>em amor ligado com a sua cruz,</lines>
+      <lines>cada dia mais alegro-me na luz,<br/>firme nas promessas de Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

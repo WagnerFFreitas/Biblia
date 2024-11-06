@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:33">
+  <properties>
+    <titles>
+      <title>CC 521 A Cidade Santa</title>
+      <title>The Holy City</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>F. Weatherly</author>
+      <author>Stephen Adams</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="521"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Dormindo no meu leito,<br/>em sonho encantador<br/>um dia eu vi Jerusalém<br/>e o templo do Senhor.<br/>Ouvi cantar crianças,<br/>e em meio a seu cantar<br/>rompeu a voz dos anjos<br/>do céu a proclamar,</lines>
+      <lines>rompeu a voz dos anjos<br/>do céu a proclamar:<br/>Jerusalém! Jerusalém!<br/>Cantai, ó santa grei!<br/>Hosana! Hosana!<br/>Hosana ao vosso Rei!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Então o sonho se alterou<br/>não mais o som feliz<br/>ouvia das hosanas<br/>dos coros infantis.<br/>O ar em torno se esfriou,<br/>do sol faltava a luz<br/>e num alto e tosco monte vi<br/>o vulto de uma cruz!</lines>
+      <lines>E num alto e tosco monte vi<br/>o vulto de uma cruz!<br/>Jerusalém! Jerusalém!<br/>(aos anjos escutei)<br/>Hosana! Hosana!<br/>Hosana ao vosso Rei!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Ainda a cena se mudou;<br/>surgiu em resplendor<br/>a divinal cidade,<br/>morada do Senhor.<br/>Da lua não brilhava a luz,<br/>nem sol nascia lá</lines>
+      <lines break="optional">mas só fulgia a luz de Deus,<br/>mui pura em seu brilhar.<br/>E todos que queriam, sim,<br/>podiam logo entrar<br/>na mui feliz Jerusalém,<br/>que nunca passará.</lines>
+      <lines>Na mui feliz Jerusalém,<br/>que nunca passará.<br/>Jerusalém! Jerusalém!<br/>Teu dia vai raiar!<br/>Hosana! Hosana!<br/>Hosana sem cessar!<br/>Hosana! Hosana!<br/>Hosana sem cessar!</lines>
+    </verse>
+  </lyrics>
+</song>

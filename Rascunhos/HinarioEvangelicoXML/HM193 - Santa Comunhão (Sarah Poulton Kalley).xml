@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:34">
+  <properties>
+    <titles>
+      <title>HM193 - Santa Comunhão</title>
+      <title>Disposta a mesa, ó Salvador,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Disposta a mesa, ó Salvador,<br/>Vem presidir aqui!<br/>Ministra o vinho, parte o pão:<br/>Nutrir-nos vem de ti!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fiéis, lembramos tua cruz;<br/>Por nós, sofreste ali.<br/>Por tua graça divinal,<br/>Vivemos sempre em ti.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Desperta, anima, enleva os teus,<br/>Fazendo-os discernir<br/>Que tu, Senhor, presente estás<br/>Teu povo a dirigir.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Na Santa Ceia, ó grande Deus,<br/>Buscamos comunhão<br/>Com Cristo, nosso Benfeitor,<br/>Com todo o vero irmão.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sabemos que Jesus virá<br/>Em majestade e luz;<br/>Juiz supremo, Eterno Rei.<br/>Oh! Vem, Senhor Jesus!</lines>
+    </verse>
+  </lyrics>
+</song>

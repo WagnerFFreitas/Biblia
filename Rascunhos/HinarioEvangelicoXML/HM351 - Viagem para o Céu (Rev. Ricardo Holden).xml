@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:06">
+  <properties>
+    <titles>
+      <title>HM351 - Viagem para o Céu</title>
+      <title>Nada temam! Cristo mesmo</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Ricardo Holden</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nada temam! Cristo mesmo<br/>Vai ao leme a governar;<br/>O batel não segue a esmo,<br/>Através do fundo mar,<br/>Para o porto,<br/>Onde vamos descansar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nesta costa reina a morte,<br/>Não podemos ancorar;<br/>Do outro lado há nova sorte,<br/>Que devemos já buscar.<br/>Iça a vela!<br/>Vamos, vamos navegar!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ventos e ondas do oceano<br/>Não nos devem assustar,<br/>Vai conosco o Soberano,<br/>Ele os sabe apaziguar.<br/>O seu gesto<br/>Basta para os abrandar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Outros tempos nos esperam<br/>Neste abrigo, o doce lar,<br/>Onde os ares não se alteram,<br/>Nem se agita o grande mar.<br/>Doce calma<br/>Vamos em Jesus gozar.</lines>
+    </verse>
+  </lyrics>
+</song>

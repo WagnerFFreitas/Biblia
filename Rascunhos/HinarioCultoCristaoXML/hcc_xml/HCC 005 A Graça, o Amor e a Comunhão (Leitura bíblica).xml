@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:16">
+  <properties>
+    <titles>
+      <title>HCC 005 A Graça, o Amor e a Comunhão</title>
+      <title>Judas 1:20,21; 2 Coríntios 13:13; Judas 1:25</title>
+    </titles>
+    <copyright>Judas 1:20,21; 2 Coríntios 13:13; Judas 1:25</copyright>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="005"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Mas vós, amados, edificando-vos sobre a vossa santíssima fé, orando no Espírito Santo, conservai-vos no amor de Deus, esperando a misericórdia de nosso Senhor Jesus Cristo para a vida eterna.</lines>
+      <lines break="optional">A graça do Senhor Jesus Cristo, e o amor de Deus, e a comunhão do Espírito Santo sejam com todos vós.</lines>
+      <lines>Ao único Deus, nosso Salvador, por Jesus Cristo nosso Senhor, glória, majestade, domínio e poder, antes de todos os séculos, e agora, e para todo o sempre. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

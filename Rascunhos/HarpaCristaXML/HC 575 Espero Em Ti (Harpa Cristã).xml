@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:56:08">
+  <properties>
+    <titles>
+      <title>HC575 - Espero Em Ti</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eu só espero em ti,<br/>Cordeiro, que por mim,<br/>Foste à cruz.<br/>Ouve minha oração,<br/>Dá-me a tua mão,<br/>Enche meu coração<br/>Com santa luz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dá-me consolação,<br/>Guarda meu coração!<br/>Teu grande amor,<br/>Teu sangue carmesim,<br/>Deste na cruz por mim.<br/>Que eu viva para ti,<br/>Com muito ardor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A Trilha seguirei,<br/>E provas eu terei.<br/>Meu guia sê,<br/>Do mal vem me livrar:<br/>Puro me conservar!<br/>Pra sempre vou cantar<br/>O teu louvor.</lines>
+    </verse>
+  </lyrics>
+</song>

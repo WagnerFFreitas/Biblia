@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:11">
+  <properties>
+    <titles>
+      <title>HM375 - Refúgio Espiritual</title>
+      <title>Quando a vaga tormentosa</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Jerônimo Gueiros</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quando a vaga tormentosa<br/>Deste mundo me aturdir,<br/>Tua mão miraculosa<br/>Queor, ó Deus, em mim sentir.<br/>Quero estar sempre a teu lado,<br/>Poderoso Salvador!<br/>Quero ser por ti guardado,<br/>Deus clemente, Deus de amor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quando a fúria do inimigo<br/>Perturbar-me o coração,<br/>Tu serás fiel amigo,<br/>Meu consolo na aflição!<br/>Quando exausto na jornada<br/>Mais não possa caminhar,<br/>Vem valer-me pela estrada,<br/>Vem fazer-me ao fim chegar!</lines>
+    </verse>
+  </lyrics>
+</song>

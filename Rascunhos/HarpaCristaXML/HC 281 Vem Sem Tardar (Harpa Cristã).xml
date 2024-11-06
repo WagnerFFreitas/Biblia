@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:14">
+  <properties>
+    <titles>
+      <title>HC281 - Vem Sem Tardar</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vem a Cristo, sem tardar,<br/>Não te queiras recusar,<br/>Ó amigo, vem depressa a Jesus!<br/>Vem das trevas para a luz,<br/>Cristo quer te consolar,<br/>Vem a Ele, ó perdido, sem tardar!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sem tardar, vem sem tardar;<br/>Sem tardar, vem sem tardar.<br/>Ó aceita a salvação,<br/>No teu pobre coração,<br/>Jesus Cristo te convida: "Sem tardar".</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vem a Cristo, sem tardar,<br/>Um tesouro te quer dar;<br/>Ele quer te conceder real perdão;<br/>Cristo vê teu coração,<br/>Tua alma a soluçar;<br/>Vem a Ele, ó perdido, sem tardar!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vem a Cristo, sem tardar,<br/>Com Seus dons te quer fartar,<br/>Com riquezas que jamais se perderão.<br/>Vem, estende a tua mão,<br/>Cristo quer te perdoar!<br/>Vem a Ele, ó perdido, sem tardar!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vem a Cristo sem tardar,<br/>Tua tenda vem firmar<br/>Sobre a rocha que do mal te guardará;<br/>O receio larga já,<br/>Vem p'ra Cristo te salvar;<br/>Ele mesmo te avisa: "Sem tardar"!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:41:59">
+  <properties>
+    <titles>
+      <title>CC 068 Bem-Aventurados</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Ira Sankey</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="068"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Glória seja dada a Cristo,<br/>Filho eterno do bom Deus!<br/>Pois remiu-nos pela graça<br/>e nos fez herdeiros seus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Salvos pela fé em Cristo,<br/>salvos, sim, no sangue seu;<br/>tendo nele segurança,<br/>caminhemos para o céu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Já se foi o tempo triste<br/>em que procuramos luz!<br/>Eis que longe de nós fica;<br/>Cristo agora nos conduz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sim, guardados nós por Ele,<br/>viveremos em amor;<br/>Bem-aventurados somos;<br/>entoemos-lhe louvor.</lines>
+    </verse>
+  </lyrics>
+</song>

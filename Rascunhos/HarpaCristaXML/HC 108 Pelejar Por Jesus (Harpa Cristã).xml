@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:47">
+  <properties>
+    <titles>
+      <title>HC108 - Pelejar Por Jesus</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Por Jesus vamos pelejar,<br/>Prosseguindo o nosso andar;<br/>E com Ele, então, no céu,<br/>Nós iremos a paz gozar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lutemos todos contra o mal,<br/>E vamos a Jesus seguir;<br/>Ele é o nosso General<br/>E a glória do porvir!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Em Jesus temos nós poder;<br/>Avancemos, já sem temer;<br/>Confiando no Seu amor,<br/>Vamos lutar, até vencer.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Crentes, para Jesus olhai,<br/>Pela fé, sempre, sim, lutai;<br/>Ao inimigo, ó combatei;<br/>O Evangelho anunciai.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A Escritura nos diz assim:<br/>Que Jesus é p'ra ti e mim,<br/>O caminho, a luz veraz,<br/>Que nos leva ao céu, enfim.</lines>
+    </verse>
+  </lyrics>
+</song>

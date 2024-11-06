@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:49:04">
+  <properties>
+    <titles>
+      <title>HNC 397 - Por minha Boa Mãe</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="397"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Por minha boa mãe<br/>E pelo seu amor,<br/>Na terra, sem igual,<br/>Eu louvo-te, ó Senhor</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pois ela me cuidou<br/>Da vida ao despontar.<br/>E aos pés do bom Jesus<br/>Feliz me fez andar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se pobre ou rico eu for,<br/>Jamais hei de esquecer<br/>A minha boa mãe,<br/>Enquanto aqui eu viver.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>É grato aqui sentir<br/>De mãe o puro amor<br/>Por ela o coração<br/>Bendiz ao Criador.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">É grande o bem<br/>Que na alma tem<br/>Que pode alguém<br/>Chamar de mãe!</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

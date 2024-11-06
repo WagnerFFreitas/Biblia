@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:10">
+  <properties>
+    <titles>
+      <title>HM372 - Confiança</title>
+      <title>Do fundo abismo clamo,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Do fundo abismo clamo,<br/>Vencido de temor;<br/>Eterno Deus, escuta<br/>O triste pecador!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Senhor, se tu notares<br/>O mal que cometi,<br/>No dia da justiça,<br/>Quem fugirá de ti?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Contudo, ó Deus supremo<br/>Em ti hei de confiar;<br/>Socorro prometeste,<br/>Não poderás falhar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>De ti, Senhor bendito,<br/>Receberei perdão;<br/>E só de ti minha alma<br/>Espera salvação.</lines>
+    </verse>
+  </lyrics>
+</song>

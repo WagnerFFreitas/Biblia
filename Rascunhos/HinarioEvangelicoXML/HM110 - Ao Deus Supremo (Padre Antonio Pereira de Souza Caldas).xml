@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:18">
+  <properties>
+    <titles>
+      <title>HM110 - Ao Deus Supremo</title>
+      <title>Seja louvado</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Padre Antonio Pereira de Souza Caldas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Seja louvado<br/>O Deus Supremo,<br/>Deus revelado<br/>Em Emanuel;<br/>Que, onipotente,<br/>Prodígios obra,<br/>Sempre clemente,<br/>Sempre fiel.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Seja louvado<br/>O Deus supremo,<br/>Deus revelado<br/>Em Emanuel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Só Deus merece<br/>Culto perene;<br/>Vinde! Não cesse<br/>O seu louvor!<br/>De todos seja<br/>Sempre exaltado,<br/>E cante a Igreja<br/>Com terno amor!</lines>
+    </verse>
+  </lyrics>
+</song>

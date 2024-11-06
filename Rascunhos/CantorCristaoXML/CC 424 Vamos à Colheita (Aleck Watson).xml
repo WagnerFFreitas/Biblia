@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:14">
+  <properties>
+    <titles>
+      <title>CC 424 Vamos à Colheita</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Aleck Watson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="424"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Ceifeiros somos nós, fiéis,<br/>segando para o Rei dos reis,<br/>os frutos prontos pra colher,<br/>que em derredor se estão a ver.</lines>
+      <lines>Assim, ao nosso Salvador<br/>rendemos preito de louvor,<br/>ao nosso Mestre, lá no céu,<br/>que sobre a cruz por nós morreu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Vamos já obedecer,<br/>vamos à colheita!<br/>Para, quando anoitecer,<br/>ver a obra feita,</lines>
+      <lines>pouco tempo ainda há,<br/>breve o prazo acabará;<br/>breve, breve, breve acabará.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Nós respigamos por Jesus,<br/>que para os campos nos conduz.<br/>E, se os obreiros poucos são,<br/>ociosos ficaremos? Não!</lines>
+      <lines>Ainda há campos pra ceifar<br/>que muito fruto devem dar.<br/>Não ouves Cristo perguntar:<br/>Quem quer por mim ir trabalhar?</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">As horas vão passando já,<br/>o dia breve acabará,<br/>conosco toma o teu lugar<br/>e por Jesus vem trabalhar!</lines>
+      <lines>Por que ocioso esperas lá?<br/>A noite logo chegará.<br/>Tu queres fruto ao céu levar,<br/>ou folhas só apresentar?</lines>
+    </verse>
+  </lyrics>
+</song>

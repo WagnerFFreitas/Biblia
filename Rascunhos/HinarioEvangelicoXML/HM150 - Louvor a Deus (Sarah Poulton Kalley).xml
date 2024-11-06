@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:24">
+  <properties>
+    <titles>
+      <title>HM150 - Louvor a Deus</title>
+      <title>No santo dia do Senhor</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No santo dia do Senhor<br/>É bom, com salmos de louvor,<br/>O grande, eterno Deus honrar,<br/>E sua graça proclamar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bem de manhã exultarei<br/>Por muitas bênçãos que provei;<br/>E em vindo a noite, o coração<br/>Transbordará de gratidão.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A ti minha alma se erguerá,<br/>E jubilosa cantará,<br/>Em doces hinos, o louvor<br/>Do meu benigno Salvador.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Que sábias tuas obras são!<br/>E dignas de contemplação!<br/>Os teus conselhos, ó Jesus,<br/>Refletem pura e clara luz!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O justo fazes florecer,<br/>E qual palmeira há de crescer,<br/>Porque confia sempre em ti,<br/>Dos infelizes não se ri.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tu, Deus excelso, nos darás<br/>A vida plena e santa paz;<br/>E cantaremos lá nos céus:<br/>És justo e bom, ó nosso Deus!</lines>
+    </verse>
+  </lyrics>
+</song>

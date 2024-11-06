@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:35">
+  <properties>
+    <titles>
+      <title>HC398 - Perto Do Meu Redentor</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Desejo estar em um lugar<br/>Mui perto do meu Redentor;<br/>Ali eu posso descansar,<br/>Por Seu amparo e Seu amor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mui perto do meu Redentor,<br/>Seguro abrigo encontrarei;<br/>Me guardará do tentador,<br/>Assim eu nada temerei.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ninguém me poderá tirar<br/>A paz que frui o coração;<br/>Jesus bondoso vai me dar<br/>A mais segura proteção.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tristezas, nem temor terei,<br/>Estando perto de Jesus;<br/>Envolto sempre me verei,<br/>Com Seu fulgor, com Sua luz.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:27">
+  <properties>
+    <titles>
+      <title>HC355 - Fala Do Amor De Cristo</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fala do amor de Cristo<br/>Ao triste pecador,<br/>Amor por todos visto<br/>Na cruz do Redentor;<br/>Com alegria canta<br/>A paz que vem do céu;<br/>A tua voz levanta<br/>Em glória a Deus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cristo na cruz ganhou-nos<br/>Eterna salvação.<br/>Com sangue Seu lavou-nos<br/>O Rei da redenção!<br/>No templo, o véu rasgado;<br/>Caminho abriu Jesus<br/>Na cruz, inaugurado<br/>P'ro céu de luz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Para os aflitos, canta,<br/>As bênçãos que em Deus há;<br/>Da cruz pendão levanta<br/>Pois ânimo nos dá.<br/>Canta para os perdidos<br/>A graça de Jesus;<br/>Seu sangue já vertido,<br/>Que flui da cruz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Canta com esperança,<br/>Na escuridão também,<br/>Canta com confiança,<br/>Há vida no além;<br/>Canta no alvor do dia,<br/>E quando a noite vem;<br/>Em Cristo, harmonia<br/>Com Deus se obtém!</lines>
+    </verse>
+  </lyrics>
+</song>

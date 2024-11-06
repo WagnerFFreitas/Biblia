@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:52">
+  <properties>
+    <titles>
+      <title>HNC 096 - Redenção Suprema</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="96"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O peso do pecado Jesus a si tomou;<br/>De Deus a justa ira na rude cruz provou.<br/>Pagou por teus pecados! Sofreu em teu lugar!<br/>Por ti, por mim, por todos, e assim nos quis salvar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Perfeito e bom resgate pagou o Salvador,<br/>Ao derramar seu sangue remiu o pecador.<br/>Oh! Redenção suprema! Favor celestial!<br/>Entrada agora temos na casa paternal!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pois Deus ergueu da morte o Redentor Jesus!<br/>E vivo, ressurreto, o que expirou na cruz!<br/>Agora, entronizado no céu, o Salvador<br/>É sempre o mesmo Amigo do pobre pecador.</lines>
+    </verse>
+  </lyrics>
+</song>

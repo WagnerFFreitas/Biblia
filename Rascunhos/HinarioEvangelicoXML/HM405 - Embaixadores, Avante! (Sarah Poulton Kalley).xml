@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:16">
+  <properties>
+    <titles>
+      <title>HM405 - Embaixadores, Avante!</title>
+      <title>Ouve! A voz divina clama!</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ouve! A voz divina clama!<br/>"Quem deseja trabalhar?"<br/>Ricos campos nos convidam,<br/>Hoje entremos a ceifar!<br/>Incessante o Mestre apela;<br/>Chama obreiros para si.<br/>Quem responderá, dizendo:<br/>"Manda-me! Estou pronto aqui?"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Corre! Aponta aos pecadores<br/>O benigno Salvador!<br/>Vai! Conduze os cordeirinhos<br/>Ao regaço do Pastor!<br/>Leva às almas doloridas<br/>Nova de consolação!<br/>Vai! Publica a todo o mundo:<br/>"Em Jesus há salvação".</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ah! Não digas, ocioso:<br/>"Eu não tenho que fazer!"<br/>Eis os povos que padecem,<br/>Multidões a perecer!<br/>Olha o Mestre que suplica<br/>Ouve a voz chamando a ti!<br/>Oh! Responde sem demora:<br/>Manda-me! Estou pronto aqui!"</lines>
+    </verse>
+  </lyrics>
+</song>

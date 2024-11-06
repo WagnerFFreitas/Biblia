@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:28">
+  <properties>
+    <titles>
+      <title>CC 214 Cristo Chama Por Ti</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Manuel Souza</author>
+      <author>Bentley Ackley</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="214"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Cristo Jesus, com amor divinal,<br/>chama por ti; que amor sem igual!</lines>
+      <lines>Ele te dá salvação eternal;<br/>vem pecador, agora!</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Vem a Jesus, o bom Salvador!<br/>Ele por ti já sofreu grande dor;</lines>
+      <lines>sangue verteu no Calvário;<br/>dá-te perdão plenário!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Oh! não desprezes tal prova de amor!<br/>Vem, ó vem já a Cristo, o Senhor;</lines>
+      <lines>ele te chama, vem já, pecador!<br/>Como é propícia a hora!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Vem meu amigo, que a morte a ninguém<br/>mostra-se compassiva, e convém<br/>que te despertes, que o mal aí vem.</lines>
+      <lines>Vem, ó, vem sem demora!</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Hoje tu tens a melhor ocasião<br/>de te entregares de coração;</lines>
+      <lines>vem a Jesus, que te dá salvação.<br/>Vai-se o bom tempo embora!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:56">
+  <properties>
+    <titles>
+      <title>HNC 182 - União Fraterna</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="182"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Que grande bênção é<br/>Estarem com amor,<br/>Irmãos, ligados pela fé,<br/>Louvando ao Salvador!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O mundo observará<br/>Tão santa e doce paz;<br/>E admirado ficará<br/>Com a bênção que ela traz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mandaste aos teus, Jesus,<br/>Da divinal mansão,<br/>O Santo Espírito que produz<br/>Tão plena comunhão. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

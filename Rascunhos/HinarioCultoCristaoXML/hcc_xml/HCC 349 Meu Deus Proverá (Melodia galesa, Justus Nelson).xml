@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:21">
+  <properties>
+    <titles>
+      <title>HCC 349 Meu Deus Proverá</title>
+      <title>Maldwin</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Melodia galesa</author>
+      <author>Justus Nelson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="349"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Na forte aflição, nos perigos e dor,<br/>na vil traição ou intenso temor,</lines>
+      <lines>com toda a certeza vitória virá.<br/>É firme a promessa: Meu Deus proverá.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Se às aves do céu dá sustento o bom Deus,<br/>cuidado maior ele tem pelos seus,</lines>
+      <lines>e nada de bom aos fiéis faltará.<br/>Sublime verdade: Meu Deus proverá.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">O nosso poder ele quer sustentar<br/>pra assim conseguirmos o mal derrotar.</lines>
+      <lines>Do nosso Inimigo nos protegerá,<br/>e é nossa a vitória: Meu Deus proverá.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Na hora final,quando a morte chegar,<br/>a voz do Senhor só nos há se alegrar.</lines>
+      <lines>Então lá na glória nos receberá,<br/>pois tenho certeza: "Meu Deus proverá."</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:25">
+  <properties>
+    <titles>
+      <title>HM434 - Avante, Ó Mocidade!</title>
+      <title>Eia! Avante! Ó mocidade!</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Raul Gonçalves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eia! Avante! Ó mocidade!<br/>Por Jesus convém lutar;<br/>A peleja é gloriosa,<br/>Deus nos há de auxiliar.<br/>Eia, avante! Jovens crentes!<br/>De olhos postos em Jesus,<br/>Caminhemos destemidos,<br/>Espalhando sempre a luz!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Por Jesusm com zelo santo,<br/>Vinde, ó jovens, combater!<br/>Revestidos do Evangelho<br/>Proclamai o seu poder!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eia! Avante! Ó mocidade!<br/>Ponde em Deus o coração;<br/>Só há um real caminho<br/>De gloriosa salvação!<br/>Ide, pois, intemeratos<br/>Vibrem forte qual clarim<br/>As palavras do convite:<br/>"Vinte todos, vinde a mim!"</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eia! Avante! Ó mocidade!<br/>Escudados no Senhor;<br/>Onde há fé ninguém vacila,<br/>Haja vida, luz, vigor!<br/>Eia! Avante! Resolutos!<br/>Sempre unidos, pelejai,<br/>Sempre unidos na esperança,<br/>Bem unidos, avançai!</lines>
+    </verse>
+  </lyrics>
+</song>

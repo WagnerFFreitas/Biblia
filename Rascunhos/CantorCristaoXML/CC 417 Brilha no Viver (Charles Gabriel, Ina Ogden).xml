@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:13">
+  <properties>
+    <titles>
+      <title>CC 417 Brilha no Viver</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Charles Gabriel</author>
+      <author>Ina Ogden</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="417"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Não somente pra fazer um feito singular,<br/>É mister agir com muito ardor;</lines>
+      <lines>Mas as coisas mais humildes por executar,<br/>Deves fazê-las com fervor!</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Brilha no meio do teu viver,<br/>Brilha no meio do teu viver!</lines>
+      <lines>Pois talvez algum aflito possa socorrer,<br/>Brilha no meio do teu viver!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Oh! talvez alguma vida possas alegrar,<br/>Com palavras doces em amor;</lines>
+      <lines>Ou talvez algumas almas tristes alcançar,<br/>Com a mensagem do Senhor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Por maior que seja teu esforço a exercer,<br/>Por mais firme a tua devoção;</lines>
+      <lines>Em redor, oh! quantas almas vivem sem prazer,<br/>Jazem na negra escuridão!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:54">
+  <properties>
+    <titles>
+      <title>HCC 502 Temos por Lutas Passado</title>
+      <title>Vitória Nas Lutas</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Manuel Souza</author>
+      <author>Samuel Beazley</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="502"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Temos por lutas passado,<br/>lutas terríveis, cruéis,<br/>mas o Senhor tem livrado<br/>delas seus servos fiéis.</lines>
+      <lines>Força e poder nos tem dado,<br/>ele nos tem sustentado,<br/>dando-nos pleno perdão,<br/>segurança e consolação.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Sim, Deus é por nós. Quem nos vencerá?<br/>Pelo seu amor leal Deus nos guardará.</lines>
+      <lines>Defender-nos-á do poder do mal.<br/>Vamos, irmãos, exaltar ao Senhor e seu nome honrar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Deus já nos tem prometido<br/>uma vitória total.<br/>Ele não tem esquecido<br/>sua palavra real.</lines>
+      <lines>Ele nos tem protegido,<br/>tudo nos tem garantido.<br/>Por sua mão temos paz,<br/>vida eterna que satisfaz.</lines>
+    </verse>
+  </lyrics>
+</song>

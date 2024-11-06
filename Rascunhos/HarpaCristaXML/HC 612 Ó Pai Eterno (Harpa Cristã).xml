@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:56:16">
+  <properties>
+    <titles>
+      <title>HC612 - Ó Pai Eterno</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó Pai eterno que no Céu habitas,<br/>Nós, os teus filhos, vimos te pedir<br/>Que nos amparem tuas mãos benditas,<br/>Em nossas lutas hoje e no porvir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Não nos impute nossos vis pecados,<br/>Teus, nós sejamos, sempre mais e mais;<br/>Pois, confiantes, somos vigorados<br/>Em teus paternos braços divinais.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó Pai, transforma nossa natureza,<br/>Vem ensinar-nos a fazer o bem.<br/>Em nossa mente dá-nos mais pureza,<br/>Mais santidade, por Jesus, Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

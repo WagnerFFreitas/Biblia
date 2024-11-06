@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:22">
+  <properties>
+    <titles>
+      <title>HM136 - Louvor e Súplica</title>
+      <title>Grande Deus, o teu louvor</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Robert Hawkey Moreton</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Grande Deus, o teu louvor<br/>Hoje, unidos, entoamos;<br/>Teu excelso e terno amor<br/>Jubilosos celebramos.<br/>Culto damos só a ti:<br/>Abençoa-nos aqui.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Reina, Príncipe da Paz,<br/>Onde agora o mal domina;<br/>Obre em graça, que perfaz,<br/>Do Evangelho a sã doutrina.<br/>Leve, ó Deus, a sua luz,<br/>Todo o orbe ao Rei Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Seja ao Pai, supremo Deus,<br/>Ao Espírito de vida<br/>E a Jesus, nos altos céus,<br/>Honra, sem cessar, rendida.<br/>Infinito é seu poder,<br/>Nele temos vida e ser.</lines>
+    </verse>
+  </lyrics>
+</song>

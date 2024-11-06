@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:08">
+  <properties>
+    <titles>
+      <title>CC 392 Extraviado</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Charles Butler</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="392"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bem longe de Deus eu andava,<br/>um pobre perdido fui eu;<br/>pensava que fosse impossível<br/>entrar a minha alma no céu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vaguei tão errante nas trevas,<br/>nem raio de luz vinha a mim,<br/>e triste, cansada minha alma,<br/>não via perdão para mim.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Estando no meio das trevas,<br/>bem clara uma voz eu ouvi<br/>dizendo-me: "Sou poderoso<br/>pra dar salvação hoje a ti."</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Parei, era a voz do meu Mestre,<br/>falando palavras de amor;<br/>clamei: "Sou um pobre perdido,<br/>oh! tem compaixão, Salvador!"</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Então me entreguei a meu Mestre,<br/>feliz Jesus Cristo me fez.<br/>A todos eu vou proclamando:<br/>Foi ele que me satisfez.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>E quando, por graça de Cristo,<br/>o céu alcançar afinal,<br/>louvores darei para sempre<br/>a quem me deu vida eternal.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:15">
+  <properties>
+    <titles>
+      <title>CC 429 Ceifando</title>
+      <title>Harvest</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Knowles Shaw</author>
+      <author>George Minor</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="429"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Espalhemos todos a semente santa<br/>desde a madrugada até o anoitecer,</lines>
+      <lines>calmos, aguardando o tempo da colheita,<br/>quando alegremente havemos de colher.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Havemos de colher! Havemos de colher!<br/>Oh! quão jubilosos havemos de colher!</lines>
+      <lines>Havemos de colher! Havemos de colher!<br/>Messes abundantes havemos de trazer!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Semeemos quando seres perniciosos<br/>a semente boa querem destruir;</lines>
+      <lines>Deus abençoando, alegres, satisfeitos,<br/>a colheita santa havemos de fruir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Eia, pois, obreiros, semeai, ousados,<br/>a semente viva da verdade e luz,</lines>
+      <lines>proclamando Cristo, seu poder e glória,<br/>salvação perfeita que alcançou na cruz!</lines>
+    </verse>
+  </lyrics>
+</song>

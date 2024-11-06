@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:41:56">
+  <properties>
+    <titles>
+      <title>CC 053 Os Filhos de Sião</title>
+      <title>Marching To Zion</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Robert Lowry</author>
+      <author>Isaac Watts</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="053"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó filhos de Sião,<br/>honrai o Rei dos reis;<br/>louvores altos lhe cantai,<br/>louvores altos lhe cantai.<br/>Guardai as santas leis,<br/>guardai as santas leis.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sião é a nossa<br/>santa e gloriosa cidade,<br/>também perene morada<br/>dos crentes em nosso Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Os que do mundo são<br/>a Deus não dão louvor;<br/>mas filhos do celeste Rei,<br/>mas filhos do celeste Rei,<br/>louvai ao Salvador,<br/>louvai ao Salvador.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dos montes de Sião<br/>provém delícias tais,<br/>que de prazer nos enchem mais,<br/>que de prazer nos enchem mais<br/>que gozos terreais,<br/>que gozos terreais.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó venham-no louvar<br/>os que seus filhos são,<br/>e se ergam já a demandar,<br/>e se ergam já a demandar<br/>às plagas de Sião,<br/>às plagas de Sião! </lines>
+    </verse>
+  </lyrics>
+</song>

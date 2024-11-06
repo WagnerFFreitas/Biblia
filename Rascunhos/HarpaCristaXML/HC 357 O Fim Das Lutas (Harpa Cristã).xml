@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:27">
+  <properties>
+    <titles>
+      <title>HC357 - O Fim Das Lutas</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quando esta vida de lutas cessar,<br/>Vou para o céu meu descanso gozar<br/>Com meu Jesus, lá na glória sem fim;<br/>Oh! Que ventura será para mim!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh! Que prazer! Glória a Jesus!<br/>Eu hei de ver no céu de luz;<br/>Nunca morrer, a Jesus sempre ver,<br/>Oh! Será gozo eterno, p'ra mim!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Penso na paz e no grande amor,<br/>Do lar celeste do meu salvador;<br/>Em ver Seu rosto, em sorrir também,<br/>Na grande glória do dida que vem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pais e amigos, irmãos, hão de estar<br/>No santo rio, de gozo a cantar,<br/>Sempre alegres, louvando ao Senhor,<br/>Gozando bênçãos do seu Criador</lines>
+    </verse>
+  </lyrics>
+</song>

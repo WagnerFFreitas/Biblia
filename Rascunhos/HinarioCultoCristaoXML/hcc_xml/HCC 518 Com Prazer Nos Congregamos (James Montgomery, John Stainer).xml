@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:57">
+  <properties>
+    <titles>
+      <title>HCC 518 Com Prazer Nos Congregamos</title>
+      <title>All For Jesus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>James Montgomery</author>
+      <author>John Stainer</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="518"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Com prazer nos congregamos<br/>para a ceia do Senhor.</lines>
+      <lines>Reverentes, recordamos<br/>a paixão do Salvador.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">O sentido de seu gesto<br/>de renúncia e compaixão</lines>
+      <lines>seja a todos manifesto<br/>pelo vinho e pelo pão.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Recordando o sofrimento<br/>que por nós quis enfrentar,</lines>
+      <lines>temos duplo sentimento:<br/>de alegria e de pesar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Celebremos a presença<br/>do divino Salvador.</lines>
+      <lines>Seja firme a nossa crença,<br/>vivo e puro o nosso amor.</lines>
+    </verse>
+  </lyrics>
+</song>

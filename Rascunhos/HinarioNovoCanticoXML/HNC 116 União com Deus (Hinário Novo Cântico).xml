@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-12-24T19:46:55">
+  <properties>
+    <titles>
+      <title>HNC 116 - União com Deus</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="116"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mais perto quero estar, meu Deus, de ti,<br/>Inda que seja a dor que me uma a ti!<br/>Sempre hei de suplicar:<br/>“Mais perto quero estar,<br/>Mais perto quero estar, meu Deus, de ti!”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mesmo vagando aqui, na solidão,<br/>De noite, a descansar, dormindo ao chão,<br/>Em sonhos vou clamar:<br/>“Mais perto quero estar,<br/>Mais perto quero estar, meu Deus, de ti!”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Minha alma cantará a ti, Senhor!<br/>Betel aqui verei teu favor.<br/>Eu sempre hei de rogar:<br/>“Mais perto quero estar,<br/>Mais perto quero estar, meu Deus, de ti!”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>E quando a morte, enfim, me vier chamar,<br/>Nos céus, com o Senhor, irei morar!<br/>Então me alegrarei, perto de ti, meu Rei!<br/>Perto de ti, meu Rei, meu Deus de ti! Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

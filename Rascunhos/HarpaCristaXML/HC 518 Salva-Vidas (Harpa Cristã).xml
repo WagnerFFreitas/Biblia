@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:58">
+  <properties>
+    <titles>
+      <title>HC518 - Salva-Vidas</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Por seus pecados, 'stá o pecador<br/>Qual pobre náufrago sem Salvador;<br/>Que triste sorte, perece no mar,<br/>Nada, se cansa, e vai afundar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Orando, joga ao que se afoga,<br/>O salva-vidas sem demorar;<br/>Antes que desça - Desapareça<br/>Nas profundezas do mar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O salva-vidas não queres lançar<br/>Ao que 's afoga nas ondas do mar?<br/>Que morte horrível tem o pecador,<br/>Que não aceita o bom Salvador!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>É Jesus Cristo, o Filho de Deus;<br/>O salva-vidas lançado dos céus;<br/>Cristo te pode salvar hoje até,<br/>O salva-vidas segura com fé.</lines>
+    </verse>
+  </lyrics>
+</song>

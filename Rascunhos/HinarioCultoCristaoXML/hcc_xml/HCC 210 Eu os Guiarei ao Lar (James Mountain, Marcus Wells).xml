@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:55">
+  <properties>
+    <titles>
+      <title>HCC 210 Eu os Guiarei ao Lar</title>
+      <title>Everlasting Love</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>James Mountain</author>
+      <author>Marcus Wells</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="210"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Santo Espírito de Deus,<br/>vem guiar os filhos teus.<br/>Alegria vem nos dar,<br/>no deserto ao caminhar.</lines>
+      <lines>Peregrinos somos nós,<br/>a ouvir a tua voz<br/>bem suave a murmurar:<br/>"Eu os guiarei ao lar."</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Não nos deixes, por favor,<br/>sucumbir ao Tentador.<br/>Dá firmeza ao coração<br/>e vitória na oração.</lines>
+      <lines>Em tremendo temporal,<br/>dá-nos paz celestial,<br/>vindo, suave, murmurar:<br/>"Eu os guiarei ao lar."</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Quando a vida aqui findar,<br/>vamos lá no céu morar.<br/>Nossos nomes, com prazer,<br/>junto a Deus iremos ver.</lines>
+      <lines>No caminho para a Luz,<br/>preparado por Jesus,<br/>vem, suave, murmurar:<br/>"Eu os guiarei ao lar."</lines>
+    </verse>
+  </lyrics>
+</song>

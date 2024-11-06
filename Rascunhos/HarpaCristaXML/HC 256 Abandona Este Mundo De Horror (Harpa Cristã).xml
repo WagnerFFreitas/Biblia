@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:10">
+  <properties>
+    <titles>
+      <title>HC256 - Abandona Este Mundo De Horror</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Abandona este mar,<br/>Onde podes naufragar;<br/>Abandona este mundo de horror,<br/>A maré te levará,<br/>O teu barco quebrará,<br/>Ó aceita a Jesus, o Salvador!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Abandona já duma vez,<br/>Este proceloso mar.<br/>Hoje sem tardar;<br/>Do castigo eternal,<br/>E de morte tão fatal,<br/>Foge logo pecador com rapidez.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eis faróis a clarear<br/>E perigos a marcar;<br/>Abandona este mundo de horror,<br/>Já na barra mais além,<br/>O teu barco se sustém,<br/>Ó aceita a Jesus, o Salvador!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eis que vozes sem cessar,<br/>Não se cansam de clamar:<br/>Abandona este mundo de horror,<br/>Ó amigo, ouve já,<br/>Essa voz te salvará.<br/>Ó aceita a Jesus, o Salvdor!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Não escutas a Jesus,<br/>Que te chama para aluz?<br/>Abandona este mundo de horror,<br/>Se persistes em vagar,<br/>Não te poderás salvar.<br/>Ó aceita a Jesus, o Salvador!</lines>
+    </verse>
+  </lyrics>
+</song>

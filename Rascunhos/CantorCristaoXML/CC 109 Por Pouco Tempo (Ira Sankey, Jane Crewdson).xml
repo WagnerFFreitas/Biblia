@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:07">
+  <properties>
+    <titles>
+      <title>CC 109 Por Pouco Tempo</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Ira Sankey</author>
+      <author>Jane Crewdson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="109"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Anseio paz que qual um rio corre,<br/>e no deserto faz brotar a flor;</lines>
+      <lines>anseio a fé que neste pouco tempo<br/>descansa no bendito Salvador.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Há pouco tempo pra velar, orando,<br/>e contra o inimigo batalhar.</lines>
+      <lines>Há pouco tempo para aqui, chorando,<br/>lançar semente pra depois ceifar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Por pouco tempo, as lâmpadas zelando<br/>devemos, bem despertos, esperar;</lines>
+      <lines>assim pois, pressuroso o noivo vindo,<br/>com Ele nós iremos pra seu lar.</lines>
+    </verse>
+  </lyrics>
+</song>

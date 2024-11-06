@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:58">
+  <properties>
+    <titles>
+      <title>HNC 241 - O Nascimento de Jesus</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="241"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mal supõe aquela gente<br/>Que em Belém quer ir parar,<br/>Que uma luz tão refulgente<br/>Vai ali brilhar.<br/>É por anjos anunciado,<br/>E os pastores logo vêem<br/>Que o Senhor, por Deus mandado,<br/>Nasce em Belém.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mundo triste, vem! Desperta!<br/>Teus grilhões desfeitos são!<br/>Tens a porta franca aberta;<br/>Sai da vil prisão!<br/>Não hesites, duvidoso,<br/>Esse dom do céu provém;<br/>Cristo, o Todo-poderoso,<br/>Nasce em Belém.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Proclamai a todo o mundo,<br/>Toda raça, toda cor:<br/>Cristo, em seu amor profundo,<br/>Salva o pecador!<br/>Confiança Nele tende,<br/>Não desprezará ninguém!<br/>Vinde, os braços vos estende!<br/>Nasce em Belém.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Vinde ouvir a doce história,<br/>Que dos altos céus nos vem!<br/>O Messias, Rei da glória,<br/>Nasce em Belém.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:01">
+  <properties>
+    <titles>
+      <title>HC197 - O Lar Da Glória</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No céu foi Jesus preparar-nos lugar,<br/>Na glória.<br/>E breve, mui breve Ele há de voltar,<br/>Em glória.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Eu sei, eu sei, eu tenho um lar na glória!<br/>Oh! eu sei, eu sei, um lar no céu!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Levanta os olhos e conta o que há,<br/>Na glória.<br/>De pedras preciosas o lar brilha lá,<br/>Em glória.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ainda não vi, mas os anjos estão,<br/>Na glória.<br/>E ruas cobertas de ouro serão,<br/>Na glória.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Um dia, feliz para o céu seguirei,<br/>P'ra glória,<br/>Com Cristo a reinar, eu depois voltarei,<br/>Em glória.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Amigos espero no céu encontrar,<br/>Na glória.<br/>E juntos havemos de sempre ficar,<br/>Na glória.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:21">
+  <properties>
+    <titles>
+      <title>HM131 - Salmo 19</title>
+      <title>Ó Senhor, os céus proclamam</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Blanche Lício</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó Senhor, os céus proclamam<br/>Quanto sabes tu fazer.<br/>Anuncia o firmamento<br/>Provas mil do teu poder.<br/>Pai celeste! A tua glória<br/>Faze em nós resplandecer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tua santa lei perfeita<br/>Refrigério às almas traz.<br/>São mui sábios teus preceitos,<br/>Dão-nos vida, gozo e paz.<br/>Dos louvores dos teus servos<br/>Tu, Senhor, te agradarás.</lines>
+    </verse>
+  </lyrics>
+</song>

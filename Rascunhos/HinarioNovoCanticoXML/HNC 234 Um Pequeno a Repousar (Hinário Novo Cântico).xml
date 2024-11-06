@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:58">
+  <properties>
+    <titles>
+      <title>HNC 234 - Um Pequeno a Repousar</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="234"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quem é o pequeno a repousar<br/>Nos braços de Maria,<br/>A quem os anjos vêm cantar<br/>Os hinos de alegria?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Por que tão pobre fora, então,<br/>A sua estrebaria?<br/>É que ao pobre pecador<br/>O Verbo a paz traria!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Trazei a Ele o coração,<br/>Prostrai-vos reverentes,<br/>Aos pés do rei, que a salvação<br/>Nos trouxe eternamente!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">É este Jesus o rei que anuncia a paz<br/>A quem Deus quer bem.<br/>Da virgem eleita é filho, Jesus,<br/>Que nasceu em Belém!</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

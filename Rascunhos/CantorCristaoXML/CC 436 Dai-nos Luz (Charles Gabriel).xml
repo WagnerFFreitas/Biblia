@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:17">
+  <properties>
+    <titles>
+      <title>CC 436 Dai-nos Luz</title>
+      <title>McCabe</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Charles Gabriel</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="436"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Uma voz ressoa de geral clamor:<br/>Dai-nos luz! Dai-nos luz!</lines>
+      <lines>Os milhões em trevas, cheio de pavor,<br/>pedem luz, pedem luz!</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Dai-nos luz, a mui gloriosa luz<br/>de perdão, de paz e amor!</lines>
+      <lines>Dai-nos luz, a tão preciosa luz<br/>de Jesus, o Salvador!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Ansiamos vida, paz, consolação,<br/>dai-nos luz! Dai-nos luz!</lines>
+      <lines>Se é por Cristo só que Deus nos dá perdão,<br/>dai-nos luz! Dai-nos luz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Sim, por toda parte deve reluzir<br/>essa luz de Jesus,</lines>
+      <lines>que ilumina a estrada que hemos de seguir.<br/>Dai-nos luz! Dai-nos luz!</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Eia, pois, ó crentes, todo o mundo enchei<br/>dessa luz de Jesus!</lines>
+      <lines>Aos milhões perdidos sem tardar valei<br/>com a luz de Jesus!</lines>
+    </verse>
+  </lyrics>
+</song>

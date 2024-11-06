@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:09">
+  <properties>
+    <titles>
+      <title>CC 122 Motivos de Louvor</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Henry Wright</author>
+      <author>Kate Preston</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="122"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Oh! vinde ouvir, enquanto<br/>de Cristo eu vou cantar,<br/>meu Salvador bendito,<br/>pois veio-me salvar!</lines>
+      <lines>Cordeiro imaculado,<br/>minha alma resgatou,<br/>e com seu próprio sangue<br/>meu coração lavou.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Quando a seus pés sentado,<br/>eu, grato, cantarei<br/>os tão gloriosos feitos<br/>do meu Senhor e Rei.</lines>
+      <lines>Sim, mesmo quando os males<br/>me queiram submergir,<br/>eu cantarei de Cristo,<br/>que os pode destruir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Seguindo na vereda<br/>que para o céu conduz,<br/>eu cantarei de Cristo,<br/>a minha vida e luz!</lines>
+      <lines>Quando eu me achar sem males<br/>naquele santo lar,<br/>eternamente a Cristo<br/>louvor hei de cantar.</lines>
+    </verse>
+  </lyrics>
+</song>

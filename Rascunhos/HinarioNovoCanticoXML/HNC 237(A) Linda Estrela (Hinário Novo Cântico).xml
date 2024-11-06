@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:58">
+  <properties>
+    <titles>
+      <title>HNC 237(A) - Linda Estrela</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="237-A"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh! Linda estrela! Fulgor cintilante!<br/>Rumo nas trevas teu brilho nos dá;<br/>Vem conduzir-nos, ó lume divino.<br/>Para onde o Infante nascido já está.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gotas de orvalho no berço rebrilham;<br/>Na manjedoura, sozinho, Ele jaz.<br/>Anjos o adoram, real maravilha!<br/>Deus sempiterno do reino de paz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Que lhe traremos, que pias ofertas?<br/>Raros odores? Presentes de luz?<br/>Pérolas puras de mares longínquos?<br/>Mirra da Arábia? Tesouros de Ormuz?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>São todas vãs as ofertas mundanas,<br/>Ouro não pode comprar seu favor!<br/>Cristo, porém, de nós todos aceita<br/>As oferendas sinceras de amor!</lines>
+    </verse>
+  </lyrics>
+</song>

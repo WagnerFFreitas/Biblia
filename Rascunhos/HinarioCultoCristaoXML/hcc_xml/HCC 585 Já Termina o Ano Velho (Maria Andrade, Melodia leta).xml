@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:05:10">
+  <properties>
+    <titles>
+      <title>HCC 585 Já Termina o Ano Velho</title>
+      <title>Babylonian Rivers</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Maria Andrade</author>
+      <author>Melodia leta</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="585"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Já termina o ano velho;<br/>damos a Jesus louvor,</lines>
+      <lines>pois guardou-nos do Maligno<br/>o ano todo, com amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Do pecado nos afasta,<br/>nossos passos vem guiar.</lines>
+      <lines>Reanima nossas forças<br/>e um bom ano vem nos dar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">A verdade em nós conserva;<br/>dá-nos tua proteção;</lines>
+      <lines>de doutrina falsa e ímpia<br/>livra nosso coração.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Cristo eterno, te adoramos,<br/>pois na glória de esplendor,</lines>
+      <lines>junto a ti, eternamente<br/>viveremos, ó Senhor. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

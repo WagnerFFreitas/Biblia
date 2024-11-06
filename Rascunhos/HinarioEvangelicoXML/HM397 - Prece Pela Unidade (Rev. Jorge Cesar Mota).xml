@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:15">
+  <properties>
+    <titles>
+      <title>HM397 - Prece Pela Unidade</title>
+      <title>Fonte divina</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Jorge Cesar Mota</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fonte divina<br/>De caridade,<br/>Tem piedade<br/>De nós, Senhor!<br/>Somos tão poucos<br/>E desunidos!<br/>Dá aos teus remidos<br/>Mais paz e amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dá que sejamos<br/>Num mundo estranho<br/>Um só rebanho:<br/>És o Pastor.<br/>Nossos motivos<br/>Tu bem conheces.<br/>Vem nossas preces<br/>Ouvir, Senhor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se nos separam<br/>Cousas humanas,<br/>Tu nos irmanas<br/>Em tua cruz.<br/>Unida e forte<br/>O mundo veja<br/>A tua Igreja,<br/>Senhor Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

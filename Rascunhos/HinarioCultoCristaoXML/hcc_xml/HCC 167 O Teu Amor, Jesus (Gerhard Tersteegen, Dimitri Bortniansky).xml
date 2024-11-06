@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:47">
+  <properties>
+    <titles>
+      <title>HCC 167 O Teu Amor, Jesus</title>
+      <title>St. Petersburg</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Gerhard Tersteegen</author>
+      <author>Dimitri Bortniansky</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="167"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Não há no mundo amor intenso<br/>qual o teu amor, Jesus:<br/>profundo, eterno, santo e imenso,</lines>
+      <lines>demonstrado sobre a cruz.<br/>A ti, ó Cristo, cada dia<br/>louvarei com alegria.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">A tua graça, ó Cristo amado,<br/>não me deixa perecer;<br/>revela sempre o teu cuidado,</lines>
+      <lines>renovando o meu viver.<br/>Bendito amor, sublime e santo,<br/>que me enxuga todo o pranto!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Jesus, teu nome bem merece<br/>toda a minha adoração.<br/>Louvor sincero te oferece</lines>
+      <lines>meu contrito coração.<br/>Que eu possa sempre, em toda parte,<br/>ó Senhor, servir e honrar-te.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:12">
+  <properties>
+    <titles>
+      <title>CC 136 Estudo Bíblico</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Sarah Kalley</author>
+      <author>John Goss</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="136"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eis, Samuel ouviu palavras de favor,<br/>e muito se admirou, ouvindo o Criador!<br/>Que dita, se Jesus assim<br/>viesse-me ensinar a mim!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Não poderia estar com falta de atenção,<br/>por medo de pecar de língua ou coração;<br/>Mas sempre havia de escutar,<br/>ouvindo o grande Deus falar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pois na divina lei eu ouço a voz de Deus,<br/>o santo, eterno Rei, falando-me dos céus,<br/>com reverente amor convém<br/>saber o que essa lei contém.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Eu devo humilde ouvir a amável instrução,<br/>e ao bom Jesus servir de todo o coração;<br/>seu servo humilde, mas fiel<br/>tal como o infante Samuel.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sim, Deus agora está tão perto, tão real!<br/>Oh! quão feliz será, com alma filial,<br/>dizer-lhe, em hino de louvor:<br/>"Escuto; fala, pois, Senhor!"</lines>
+    </verse>
+  </lyrics>
+</song>

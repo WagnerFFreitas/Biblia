@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:48">
+  <properties>
+    <titles>
+      <title>HC116 - Livre Estou</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eu vagava pela senda de horror,<br/>Oprimido pelo pecado e temor.<br/>Quando o Salvador eu vi,<br/>Sua terna voz ouvi,<br/>Meu Jesus me libertou por Seu amor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Livre estou! Livre estou!<br/>Pela graça de Jesus livre estou;<br/>Livre estou! Livre estou!<br/>Aleluia! Pela fé, livre estou!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eu vagava pela senda de horror,<br/>Não pensava no amor do Salvador;<br/>Eu vagava sem ter luz,<br/>Longe do Senhor Jesus,<br/>Mais liberto, hoje canto a Deus louvor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eu vagava pela senda de horror,<br/>Mas, agora, quero andar com meu Senhor,<br/>Quero ouvir Sua terna voz,<br/>E segui-Lo sempre após,<br/>Glória seja dada ao nosso bom Pastor.</lines>
+    </verse>
+  </lyrics>
+</song>

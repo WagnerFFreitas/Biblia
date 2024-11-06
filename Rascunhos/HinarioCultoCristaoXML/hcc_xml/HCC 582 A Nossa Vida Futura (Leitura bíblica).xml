@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:05:09">
+  <properties>
+    <titles>
+      <title>HCC 582 A Nossa Vida Futura</title>
+      <title>Am 4:12; 2Co 4:17,18; 2Co 5:1, 6, 8; 1Ts 4;15-17; At 17:10, 31; Ap 20:12; Ap 20:10, 14, 15; Ap 21:2, 2, 22, 23; 22:1; 21:17</title>
+    </titles>
+    <copyright>Am 4:12; 2Co 4:17,18; 2Co 5:1, 6, 8; 1Ts 4;15-17; At 17:10, 31; Ap 20:12; Ap 20:10, 14, 15; Ap 21:2, 2, 22, 23; 22:1; 21:17</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="582"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines><tag name="y">1. O Preparo</tag><br/>Prepara-te (...) para te encontrares com o teu Deus.<br/>Porque a nossa leve e momentânea tribulação produz para nós cada vez mais abundantemente um eterno peso de glória;<br/>não atentando nós nas coisas que se veem, mas sim nas que se não veem;<br/>porque as que se veem são temporais, enquanto as que se não veem são eternas.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><tag name="y">2. A Alma é Imortal</tag><br/>Porque sabemos que, se a nossa casa terrestre (...) se desfizer, temos de Deus um edifício, uma casa não feita por mãos, eterna, nos céus.<br/>Temos, portanto, sempre bom ânimo (...) enquanto estamos presentes no corpo;<br/>estamos ausentes do Senhor, temos bom ânimo, mas desejamos antes estar ausentes deste corpo, para estarmos presentes com o Senhor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><tag name="y">3. A Ressurreição</tag><br/>Nós, os que ficarmos vivos para a vinda do Senhor, de modo algum precederemos os que já dormem.<br/>Porque o Senhor mesmo descerá do céu com grande brado, à voz do arcanjo, ao som da trombeta de Deus,<br/>e os que morreram em Cristo ressuscitarão primeiro.<br/>Nós, os que ficarmos vivos, seremos arrebatados juntamente com eles, nas nuvens,<br/>ao encontro do Senhor nos ares, e assim estaremos para sempre com o Senhor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><tag name="y">4. O Juízo Final</tag><br/>Mas Deus, não levando em conta os tempos da ignorância, manda agora que todos os homens em todo lugar se arrependam;<br/>porquanto determinou um dia em que com justiça há de julgar o mundo (...) E vi os mortos, grandes e pequenos, em pé diante do trono (...)<br/>e os mortos foram julgados pelas coisas que estavam escritas nos livros, segundo as suas obras.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><tag name="y">5. O Inferno</tag><br/>O Diabo (...) foi lançado no lago de fogo e enxofre, onde estão a besta e o falso profeta;<br/>de dia e de noite serão atormentados pelos séculos dos séculos.<br/>E a morte e o hades foram lançados no lago de fogo.<br/>Esta é a segunda morte, o lago de fogo.<br/>E todo aquele que não foi achado inscrito no livro da vida, foi lançado no lago de fogo.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><tag name="y">6. O Céu</tag><br/>E vi um novo céu e uma nova terra (...) E vi a santa cidade, a nova Jerusalém, que descia do céu da parte de Deus (...)<br/>Nela não vi santuário, porque o seu santuário é o Senhor Deus Todo-Poderoso, e o Cordeiro.<br/>A cidade não necessita nem do sol, nem da luz, para que nela resplandeçam, porque a glória de Deus a tem alumiado, e o Cordeiro é a sua lâmpada.<br/>E mostrou-me o rio da água da vida, claro como cristal, que procedia do trono de Deus e do Cordeiro.<br/>E não entrará nela coisa alguma impura (...) mas somente os que estão inscritos no livro da vida do Cordeiro.</lines>
+    </verse>
+  </lyrics>
+</song>

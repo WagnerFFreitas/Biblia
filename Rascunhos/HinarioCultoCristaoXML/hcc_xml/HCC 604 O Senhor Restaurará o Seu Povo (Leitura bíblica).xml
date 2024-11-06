@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:05:14">
+  <properties>
+    <titles>
+      <title>HCC 604 O Senhor Restaurará o Seu Povo</title>
+      <title>Ezequiel 36:28-30, 33-36</title>
+    </titles>
+    <copyright>Ezequiel 36:28-30, 33-36</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="604"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vós sereis o meu povo, e eu serei o vosso Deus.<br/>Pois eu vos livrarei de todas as vossas imundícias; e chamarei o trigo, e o multiplicarei, e não trarei fome sobre vós;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>mas multiplicarei o fruto das árvores, e a novidade do campo, para que não mais recebais o opróbrio da fome entre as nações.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No dia em que eu vos purificar de todas as vossas iniquidades,<br/>então farei com que sejam habitadas as cidades e sejam edificados os lugares devastados.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>E a terra que estava assolada será lavrada, em lugar de ser uma desolação aos olhos de todos os que passavam.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>E dirão: Esta terra que estava assolada tem-se tornado como jardim do Éden;<br/>e as cidades solitárias, e assoladas, e destruídas, estão fortalecidas e habitadas.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Então as nações que ficarem de resto em redor de vós saberão que eu, o Senhor,<br/>tenho reedificado as cidades destruídas, e plantado o que estava devastado.<br/>Eu, o Senhor, o disse e o farei.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:56:07">
+  <properties>
+    <titles>
+      <title>HC569 - Morri Na Cruz Por Ti</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>"Morri na cruz por ti:<br/>Morri pra te livrar!<br/>Meu sangue, ali, verti,<br/>E posso te salvar."</lines>
+    </verse>
+    <verse name="c1">
+      <lines>"Morri! morri na cruz por ti:<br/>- Que fazes tu por mim?<br/>Morri! morri na cruz por ti:<br/>- Que fazes tu por mim?"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>"Vivi assim por ti,,<br/>Em dor, em dissabor,<br/>E tudo fiz aqui<br/>Pra ser teu Salvador."</lines>
+    </verse>
+    <verse name="v3">
+      <lines>"Sofri na cruz por ti,<br/>A fim de te salvar.<br/>A vida conseguir,<br/>Que tu irás gozar."</lines>
+    </verse>
+    <verse name="v4">
+      <lines>"Eu trouxe a salvação,<br/>Dos altos céus louvor.<br/>É certo meu perdão,<br/>É grande o meu amor!"</lines>
+    </verse>
+  </lyrics>
+</song>

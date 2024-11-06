@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:25">
+  <properties>
+    <titles>
+      <title>HCC 372 Quero Ser Como Cristo</title>
+      <title>Ives</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Thomas Chisholm</author>
+      <author>David Ives</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="372"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Tenho um desejo especial:<br/>Quero ser como Cristo.<br/>Este é meu santo ideal:<br/>quero ser como Cristo.</lines>
+      <lines>Mestre o Senhor sempre há de ser.<br/>Que o mundo inteiro possa ver<br/>sua presença em meu viver.<br/>Quero ser como Cristo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Ao Pai celeste obedeceu.<br/>Quero ser como Cristo<br/>Na cruz por todos padeceu.<br/>Quero ser como Cristo.</lines>
+      <lines>Os meus pecados carregou;<br/>paz e descanso me ofertou.<br/>Seu agressores perdoou.<br/>Quero ser como Cristo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Em santidade aqui viveu.<br/>Quero ser como Cristo.<br/>Por seus irmãos intercedeu.<br/>Quero ser como Cristo.</lines>
+      <lines>Em seu poder desejo andar,<br/>de sua cruz testemunhar,<br/>eis meu sincero anelar:<br/>quero ser como Cristo.</lines>
+    </verse>
+  </lyrics>
+</song>

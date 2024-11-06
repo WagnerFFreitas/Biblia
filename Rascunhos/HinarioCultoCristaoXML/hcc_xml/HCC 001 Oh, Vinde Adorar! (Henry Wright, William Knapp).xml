@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:15">
+  <properties>
+    <titles>
+      <title>HCC 001 Oh, Vinde Adorar!</title>
+      <title>Wareham</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Henry Wright</author>
+      <author>William Knapp</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="001"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Oh, vinde adorar o excelso e bom Deus,<br/>Senhor soberano da terra e dos céus,</lines>
+      <lines>que reina supremo, envolto na luz,<br/>e que se revela em Cristo Jesus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Nos astros do céu, na terra e no mar,<br/>a glória divina podeis contemplar.</lines>
+      <lines>A gota de orvalho, o fruto e a flor<br/>proclamam constantes o seu grande autor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">A Deus, nosso Pai, ao Filho de amor,<br/>ao Santo Espírito, o Consolador,</lines>
+      <lines>com vozes erguidas, em todo lugar,<br/>ao Deus trino e santo, oh, vinde adorar!</lines>
+    </verse>
+  </lyrics>
+</song>

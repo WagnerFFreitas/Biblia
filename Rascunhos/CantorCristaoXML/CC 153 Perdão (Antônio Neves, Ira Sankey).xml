@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:16">
+  <properties>
+    <titles>
+      <title>CC 153 Perdão</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Antônio Neves</author>
+      <author>Ira Sankey</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="153"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Se aqui, Senhor, bem poucos<br/>te vêm cantar louvor,<br/>e aos vis prazeres loucos<br/>preferem teu amor,</lines>
+      <lines>o que impossível seja<br/>a ti, meu Deus, não há:<br/>Conquiste a tua igreja<br/>ao meu país, Jeová!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Jesus, ao povo inspira,<br/>tu, que és verdade e luz,<br/>quebranta-lhe a mentira,<br/>das trevas o conduz.</lines>
+      <lines>Da cega idolatria,<br/>ó salva-o, meu Senhor!<br/>Transforma em claro dia<br/>a noite de temor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Senhor, tu dás sustento<br/>ao mundo, com poder,<br/>e dá-lhes mandamento<br/>pra te reconhecer.</lines>
+      <lines>Porém aos que rejeitam<br/>a salvação e a cruz,<br/>e a graça não aceitam,<br/>ó, dá perdão, Jesus!</lines>
+    </verse>
+  </lyrics>
+</song>

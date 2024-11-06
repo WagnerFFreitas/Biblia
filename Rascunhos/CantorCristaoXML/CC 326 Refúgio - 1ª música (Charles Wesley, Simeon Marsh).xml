@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:51">
+  <properties>
+    <titles>
+      <title>CC 326 Refúgio - 1ª música</title>
+      <title>Martyn</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Charles Wesley</author>
+      <author>Simeon Marsh</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="326"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Meu divino Protetor,<br/>quero em Ti me refugiar;<br/>pois as ondas de terror<br/>ameaçam me tragar!</lines>
+      <lines>Quase estou a perecer!<br/>Dá-me a tua proteção;<br/>pois guardado em teu poder<br/>não receio o furacão.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Outro amparo não achei;<br/>sem alento venho a ti,<br/>se me negas morrerei,<br/>voz da morte eu já ouvi.</lines>
+      <lines>Eu confio em teu amor<br/>e na tua compaixão;<br/>és meu forte defensor,<br/>não me largue a tua mão.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Tudo o que eu desejo dás,<br/>Cristo meu, e ainda mais;<br/>dá-me força e tua paz,<br/>sempre tu comigo vais.</lines>
+      <lines>O teu nome santo é,<br/>e eu injusto e fraco sou;<br/>ponho em ti a minha fé,<br/>sei que em ti seguro estou.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Graça imensa em ti se achou<br/>para tudo perdoar;<br/>sangue teu se derramou,<br/>nele quero me lavar.</lines>
+      <lines>Fonte Tu de todo bem,<br/>dá-me sempre de beber!<br/>Confortar minha alma vem;<br/>queiras sempre me valer.</lines>
+    </verse>
+  </lyrics>
+</song>

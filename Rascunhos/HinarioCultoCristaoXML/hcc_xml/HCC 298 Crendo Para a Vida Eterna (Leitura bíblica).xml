@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:11">
+  <properties>
+    <titles>
+      <title>HCC 298 Crendo Para a Vida Eterna</title>
+      <title>João 3:14-21</title>
+    </titles>
+    <copyright>João 3:14-21</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="298"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E como Moisés levantou a serpente no deserto, assim importa que o Filho do homem seja levantado; para que todo aquele que nele crê tenha a vida eterna.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Porque Deus enviou o seu Filho ao mundo, não para que julgasse o mundo, mas para que o mundo fosse salvo por ele.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Quem crê nele não é julgado; mas quem não crê, já está julgado; porquanto não crê no nome do unigênito Filho de Deus.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>E o julgamento é este: A luz veio ao mundo, e os homens amaram antes as trevas que a luz, porque as suas obras era más.<br/>Porque todo aquele que faz o mal aborrece a luz, e não vem para a luz, para que as suas obras não sejam reprovadas.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mas quem pratica a verdade vem para a luz, a fim de que seja manifesto que as suas obras são feitas em Deus.</lines>
+    </verse>
+  </lyrics>
+</song>

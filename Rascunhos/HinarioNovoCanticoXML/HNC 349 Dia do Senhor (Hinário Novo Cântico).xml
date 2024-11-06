@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-12-24T13:58:24">
+  <properties>
+    <titles>
+      <title>HNC 349 - Dia do Senhor</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="349"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hoje é o dia do Senhor!<br/>Entoai o seu louvor<br/>E adorai-o com fervor.<br/>Glória ao nosso Deus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hoje a casa de oração<br/>Procuramos, em união,<br/>E gozamos comunhão<br/>Com o nosso Deus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hoje, Cristo, ao pregador<br/>Que anuncia o seu amor,<br/>Dê a prova do favor:<br/>O poder de Deus!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hoje é dia de perdão!<br/>Deus convida o coração<br/>A aceitar a Redenção;<br/>Glória ao nosso Deus!</lines>
+    </verse>
+  </lyrics>
+</song>

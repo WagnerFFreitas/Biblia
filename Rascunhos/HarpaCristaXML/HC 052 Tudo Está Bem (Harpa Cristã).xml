@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:39">
+  <properties>
+    <titles>
+      <title>HC052 - Tudo Está Bem</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pelo amor de Deus bendito,<br/>Vai tudo bem!<br/>Seu amor é infinito:<br/>Tudo está bem!<br/>Esse amor nos tem provado,<br/>Em Seu Filho muito amado,<br/>Que, por nós, foi imolado.<br/>Sim, sim, 'stá bem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cristo, agora, o cetro empunha:<br/>Vai tudo bem!<br/>Quem morreu é quem governa:<br/>Tudo está bem!<br/>Seu amor é imutável,<br/>Seu poder Inabalável,<br/>Seu cuidado é incansável.<br/>Sim, sim, 'sta bem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A fé canta na tristeza:<br/>Vai tudo bem!<br/>Canta, sim, e com firmeza:<br/>Tudo está bem!<br/>Pois se Deus é quem nos guia,<br/>Ternamente nos vigia,<br/>Com bondade, noite e dia.<br/>Sim, sim, 'stá bem!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Por caminhos escabrosos,<br/>Vai tudo bem!<br/>Ou por mares tormentosos,<br/>Tudo está bem!<br/>A Jesus tudo obedece;<br/>Sempre o mesmo permanece!<br/>Nem um só dos seus esquece!<br/>Sim, sim, 'sta bem!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Quer na vida, quer na morte,<br/>Vai tudo bem!<br/>Qual feliz é nossa sorte!<br/>Tudo está bem!<br/>Pelo sangue resgatados,<br/>E do mundo separados.<br/>Sempre por Jesus guardados,<br/>Sim, sim 'stá bem!</lines>
+    </verse>
+  </lyrics>
+</song>

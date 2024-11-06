@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:02">
+  <properties>
+    <titles>
+      <title>HC201 - A Decisão</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh! Dia alegre! Eu abracei<br/>Jesus, e nEle salvação!<br/>O gozo deste coração<br/>Eu mais e mais publicarei.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dia feliz! Dia feliz!<br/>Quando em Jesus me satisfiz!<br/>Jesus me ensina a vigiar.<br/>E confiante nEle, orar,<br/>Dia feliz! Dia feliz!<br/>Quando em Jesus me satisfiz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Completa a grande transação,<br/>Jesus é meu, eu do Senor!<br/>Chamou-me a voz do Seu amor;<br/>Cedi à imensa atração.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Descansa, ó alma! O Salvador<br/>É teu sustento, o pão dos céus;<br/>E quem possui o eterno Deus,<br/>Resiste a todo o tentador.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Meu sacro voto, excelso Deus,<br/>De dia em dia afirmarei!<br/>E além da morte exultarei,<br/>Teu filho e súdito dos céus.</lines>
+    </verse>
+  </lyrics>
+</song>

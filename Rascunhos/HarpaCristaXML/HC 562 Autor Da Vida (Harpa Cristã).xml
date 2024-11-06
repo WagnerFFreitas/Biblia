@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:56:06">
+  <properties>
+    <titles>
+      <title>HC562 - Autor Da Vida</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Autor da vida, Cristo, Deus!<br/>A vida fluis a teu querer.<br/>Perdão por ti nos vem dos céus,<br/>E tu nos dás real prazer,<br/>Fazendo em nosso coração<br/>Raiar a luz da salvação.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nos deste a vida eterna a nós -<br/>Outrora mortos para Deus -<br/>Fizeste ouvir a tua voz<br/>- A voz que vivifica os teus.<br/>Pra te render real louvor,<br/>Estamos juntos, oh! Senhor!</lines>
+    </verse>
+  </lyrics>
+</song>

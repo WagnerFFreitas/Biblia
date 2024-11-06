@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:30">
+  <properties>
+    <titles>
+      <title>HCC 395 Quero Estar ao Pé da Cruz</title>
+      <title>Near The Cross</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>William Doane</author>
+      <author>Fanny Crosby</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="395"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Quero estar ao pé da cruz,<br/>de onde rica fonte</lines>
+      <lines>corre franca, salutar,<br/>do Calvário monte.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Sim, na cruz, sim, na cruz<br/>sempre me glorio</lines>
+      <lines>e descanso encontrarei<br/>salvo, além do rio.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">A tremer ao pé da cruz,<br/>graça eterna achou-me;</lines>
+      <lines>matutina estrela ali<br/>raios seus mandou-me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Sempre a cruz, Jesus, meu Deus,<br/>queiras recordar-me;</lines>
+      <lines>dela à sombra, Salvador,<br/>queiras abrigar-me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Confiante, junto à cruz,<br/>sem temor vigio,</lines>
+      <lines>pois à praia santa irei,<br/>salvo, além do rio.</lines>
+    </verse>
+  </lyrics>
+</song>

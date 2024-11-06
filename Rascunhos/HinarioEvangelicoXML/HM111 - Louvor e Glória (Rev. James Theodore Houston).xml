@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:18">
+  <properties>
+    <titles>
+      <title>HM111 - Louvor e Glória</title>
+      <title>Nós louvamos a Deus, pelo dom de Jesus</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. James Theodore Houston</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nós louvamos a Deus, pelo dom de Jesus<br/>Que por vis pecadores, morreu sobre a cruz</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Aleluia! Toda a glória te rendemos, sem fim.<br/>Aleluia! Toda a graça te imploramos. Amém,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sim, louvamos a Deus, pela luz que nos dá,<br/>Luz que as trevas dissipa, e jamais falhará!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Louvaremos sem fim, ao Cordeiro de Deus,<br/>Que foi morto, mas vive na glória dos céus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vem encher-nos, ó Deus, de celeste fervor,<br/>E fazer-nos sentir teu poder teu amor!</lines>
+    </verse>
+  </lyrics>
+</song>

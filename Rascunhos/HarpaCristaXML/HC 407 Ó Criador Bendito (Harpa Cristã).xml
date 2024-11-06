@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:37">
+  <properties>
+    <titles>
+      <title>HC407 - Ó Criador Bendito</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó Criador bendito, ó fonte de esperança,<br/>A Ti, ó Pai contritos, buscamos com confiança;<br/>Nos deste em herança a glória sempiterna;<br/>O pão da vida eterna, ó manda-nos dos céus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Excelso Criador, supremo benfeitor,<br/>O Teu amor derrama em nós, qual viva chama<br/>Excelso Criador, supremo benfeitor,<br/>O Teu amor derrama, por Teu Consolador.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Unidos espermaos o Teu celeste ensino;<br/>Ó manda, suplicamos por Teu poder divino;<br/>Aceita este hino, que nós a Ti cantamos,<br/>Pois gratos Te louvamos, por Tua salvação.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O coração se alegra e a alma está contente<br/>No dia em que se entrega<br/>ao Deus onipotente;<br/>Que paz profunda sente a alma do perdido<br/>Que hoje é um remido por Cristo, o Salvador!</lines>
+    </verse>
+  </lyrics>
+</song>

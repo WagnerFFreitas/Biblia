@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:33">
+  <properties>
+    <titles>
+      <title>CC 518 Glória</title>
+      <title>Bethany</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Lowell Manson</author>
+      <author>John Law</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="518"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Há um lugar de paz no mundo além:<br/>dos salvos a feliz Jerusalém.</lines>
+      <lines>Oh! como dão louvor<br/>a Cristo, o seu Senhor,<br/>cantando com amor,<br/>sempre, sem fim!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Cristo vos quer salvar; vinde e vereis!<br/>Oh! vinde sem tardar, não hesiteis.</lines>
+      <lines>Com ele ireis morar,<br/>paz com Jesus gozar,<br/>e nunca mais pecar,<br/>sempre, sem fim!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Os que no céu estão brilham na luz,<br/>gozando a salvação do bom Jesus.</lines>
+      <lines>Ao lar dos santos vêm<br/>só os que nele creem,<br/>e muita glória têm,<br/>sempre, sem fim!</lines>
+    </verse>
+  </lyrics>
+</song>

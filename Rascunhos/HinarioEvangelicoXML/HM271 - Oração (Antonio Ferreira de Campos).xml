@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:49">
+  <properties>
+    <titles>
+      <title>HM271 - Oração</title>
+      <title>Mais pureza dá-me,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Antonio Ferreira de Campos</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mais pureza dá-me,<br/>Mais horror ao mal,<br/>Mais calma em pesares<br/>Mais alto ideal.<br/>Mais fé, em meu Mestre,<br/>Mais consagração,<br/>Mais gozo em servir-te,<br/>Mais inspiração.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mais prudência dá-me,<br/>Mais paz, ó Senhor.<br/>Mais firmeza, em Cristo,<br/>Mais forças na dor.<br/>Mais leal me torna,<br/>Mais triste ao pecar,<br/>Mais humilde filho,<br/>Mais grato e exemplar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mais confiança dá-me,<br/>Mais vida, em Jesus,<br/>Mais do seu domínio,<br/>Mais da sua luz;<br/>Mais rica esperança,<br/>Mais obras aqui,<br/>Mais ânsias da Glória,<br/>Mais ânsias de ti!</lines>
+    </verse>
+  </lyrics>
+</song>

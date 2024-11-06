@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:09">
+  <properties>
+    <titles>
+      <title>HM051 - Á Santíssima Trindade</title>
+      <title>A ti, ó Deus, Altíssimo Senhor,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Henry Maxwell Wright</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A ti, ó Deus, Altíssimo Senhor,<br/>Eterno Pai, Supremo Benfeitor,<br/>Nós, os teus servos, damos-te louvor;<br/>Aleluia! Aleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A ti, Deus Filho, Salvador Jesus,<br/>Da graça a Fonte, da Verdade a Luz;<br/>Por teu amor, medido pela Cruz,<br/>Aleluia! Aleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A ti, ó Santo Espírito, Veraz,<br/>Divino Santificador, de paz,<br/>Consolador que vida e luz nos dás,<br/>Aleluia! Aleluia!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A ti, Deus trino, Onipotente Deus,<br/>Que habitas com teu povo e estás nos Céus,<br/>Tributam gratidão os servos teus,<br/>Aleluia! Aleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

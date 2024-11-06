@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:17">
+  <properties>
+    <titles>
+      <title>HM104 - Louvor ao Trino Deus</title>
+      <title>Santo! Santo! Santo! Deus onipotente!</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>REv. João Gomes da Rocha</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Santo! Santo! Santo! Deus onipotente!<br/>Cantam de manhã nossas vozes com ardor.<br/>Santo! Santo! Santo! Bom e verdadeiro!<br/>És Deus triuno, excelso Criador!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Santo! Santo! Santo! Todos os remidos,<br/>Juntos com os anjos, proclamam teu louvor.<br/>Antes de formar-se o firmamento e a terra<br/>Eras, e sempre és, e hás de ser, Senhor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Santo! Santo! Santo! Nós, os pecadores,<br/>Não podemos ver tua glória sem tremor.<br/>Tu somente és santo; só tu és perfeito,<br/>Deus soberano, imenso em teu amor!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Santo! Santo! Santo! Deus Onipotente!<br/>Tuas obras louvam teu nome com fervor.<br/>Santo! Santo! Santo! Justo e compassivo!<br/>És Deus triuno, excelso Criador!</lines>
+    </verse>
+  </lyrics>
+</song>

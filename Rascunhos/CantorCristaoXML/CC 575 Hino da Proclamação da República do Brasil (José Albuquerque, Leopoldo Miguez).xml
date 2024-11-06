@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:44">
+  <properties>
+    <titles>
+      <title>CC 575 Hino da Proclamação da República do Brasil</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>José Albuquerque</author>
+      <author>Leopoldo Miguez</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="575"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Seja um pálio de luz desdobrado<br/>sob a larga amplidão destes céus<br/>este canto rebel que o passado<br/>vem remir dos mais torpes labéus!</lines>
+      <lines>Seja um hino de glória que fale<br/>de esperanças de um novo porvir!<br/>Com visões de triunfos embale<br/>quem por ele lutando surgir!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Liberdade! Liberdade!<br/>Abre as asas sobre nós!<br/>Das lutas na tempestade<br/>dá que ouçamos tua voz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Nós nem cremos que escravos outrora<br/>tenha havido em tão nobre país...<br/>Hoje o rubro lampejo da aurora<br/>acha irmãos, não tiranos hostis.</lines>
+      <lines>Somos todos iguais! Ao futuro<br/>saberemos, unidos, levar<br/>nosso augusto estandarte que, puro,<br/>brilha, ovante, da Pátria no altar!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Se é mister que de peitos valentes<br/>haja sangue no nosso pendão,<br/>sangue vivo do herói Tiradentes<br/>batizou deste audaz pavilhão!</lines>
+      <lines>Mensageiros de paz, paz queremos.<br/>É de amor nossa força e poder,<br/>mas de guerra nos transes supremos<br/>heis de ver-nos lutar e vencer!</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Do Ipiranga é precioso que o brado<br/>seja um grito soberbo de fé!<br/>O Brasil já surgiu libertado<br/>sobre as púrpuras régias de pé!</lines>
+      <lines>Eia pois, brasileiros, avante!<br/>Verdes louros colhamos louçãos!<br/>Seja o nosso país, triunfante,<br/>livre terra de livres irmãos!</lines>
+    </verse>
+  </lyrics>
+</song>

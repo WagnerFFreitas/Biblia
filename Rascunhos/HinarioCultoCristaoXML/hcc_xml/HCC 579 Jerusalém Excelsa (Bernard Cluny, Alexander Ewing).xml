@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:05:08">
+  <properties>
+    <titles>
+      <title>HCC 579 Jerusalém Excelsa</title>
+      <title>Ewing</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Bernard Cluny</author>
+      <author>Alexander Ewing</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="579"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Jerusalém excelsa,<br/>gloriamo-nos em ti,<br/>afável esperança<br/>de todo crente aqui.</lines>
+      <lines>Radiante é tua porta,<br/>que ao longe já se vê,<br/>por onde tem entrada<br/>o que no Cristo crê.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">A cruz e sua glória<br/>e o nosso Redentor<br/>em ti são exaltados<br/>com hinos de louvor.</lines>
+      <lines>Que gozo tu me inspiras,<br/>eterna habitação,<br/>pois sei que em ti se finda<br/>a peregrinação!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Ó doce lar amado,<br/>descanso meu serás,<br/>quando eu tiver herdado<br/>teu bem e tua paz.</lines>
+      <lines>Ó coração que gemes,<br/>na dor que se desfaz,<br/>com Deus, que te redime,<br/>feliz, então serás.</lines>
+    </verse>
+  </lyrics>
+</song>

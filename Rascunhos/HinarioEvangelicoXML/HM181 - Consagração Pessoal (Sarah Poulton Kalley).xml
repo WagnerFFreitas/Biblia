@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:32">
+  <properties>
+    <titles>
+      <title>HM181 - Consagração Pessoal</title>
+      <title>Eis-me, ó Salvador aqui.</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eis-me, ó Salvador aqui.<br/>Corpo e alma oferto a ti.<br/>Servo inútil, sem valor,<br/>Teu, contudo, sou, Senhor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Franco em obra e no pensar,<br/>Mui propenso a tropeçar,<br/>Salvo estou por teu amor,<br/>E me voto a ti, Senhor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Subjugado em todo o ser,<br/>Me submeto ao teu poder,<br/>Grande é o preço do perdão,<br/>Dá-me igual consagração!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Eu, remido pecador,<br/>Me dedido ao Redentor.<br/>Teu - é este coração,<br/>Teu - em plena sujeição.</lines>
+    </verse>
+  </lyrics>
+</song>

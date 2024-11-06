@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:17">
+  <properties>
+    <titles>
+      <title>HCC 009 Louvamos-te, ó Deus</title>
+      <title>Revive Us Again</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>William Mackay</author>
+      <author>John Husband</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="009"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Louvamos-te, ó Deus,<br/>pelo dom de Jesus,<br/>que por nós, pecadores,<br/>foi morto na cruz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Aleluia! Toda a glória<br/>te rendemos, sem fim.<br/>Aleluia! Tua graça<br/>imploramos, amém!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Louvamos-te, ó Deus,<br/>e ao teu Filho de amor,<br/>que foi morto, mas vive,<br/>supremo Senhor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Louvamos-te, ó Deus,<br/>pelo Espírito, luz<br/>que nos tira das trevas<br/>e a Cristo conduz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, vem nos encher<br/>de celeste fervor<br/>e fazer-nos fruir<br/>teu afável amor.</lines>
+    </verse>
+  </lyrics>
+</song>

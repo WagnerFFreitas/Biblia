@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:29">
+  <properties>
+    <titles>
+      <title>HCC 392 Aviva-nos, Senhor</title>
+      <title>Revive Thy Work, O Lord</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>William Doane</author>
+      <author>Albert Midlane</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="392"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aviva-nos, Senhor!<br/>Oh, dá-nos teu poder!<br/>De santidade, fé e amor<br/>reveste o nosso ser!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Aviva-nos, Senhor!<br/>Eis nossa petição.<br/>Acende o fogo divinal<br/>em cada coração.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Desperta-nos, Senhor!<br/>Oh, faze-nos fruir<br/>as ricas bênçãos divinais,<br/>primícias do porvir!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Renova-nos, Senhor!<br/>Inspira mais fervor,<br/>aumenta nossa compaixão<br/>por todo pecador.</lines>
+    </verse>
+  </lyrics>
+</song>

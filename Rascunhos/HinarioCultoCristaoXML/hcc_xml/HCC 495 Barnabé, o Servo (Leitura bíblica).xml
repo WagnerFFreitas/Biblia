@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:52">
+  <properties>
+    <titles>
+      <title>HCC 495 Barnabé, o Servo</title>
+      <title>Atos 4:36, 37; 11:25, 26</title>
+    </titles>
+    <copyright>Atos 4:36, 37; 11:25, 26</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="495"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Então José, cognominado pelos apóstolos Barnabé (que quer dizer, filho de consolação),<br/>levita, natural de Chipre, possuindo um campo, vendeu-o, trouxe o preço e o depositou aos pés dos apóstolos.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Partiu, pois, Barnabé para Tarso, em busca de Saulo; e, tendo-o achado, o levou para Antioquia.<br/>E durante um ano inteiro reuniram-se naquela igreja e instruíram muita gente;<br/>e em Antioquia os discípulos pela primeira vez foram chamados cristãos.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:58">
+  <properties>
+    <titles>
+      <title>HM321 - Nosso Jesus</title>
+      <title>Oh! Vinde cantaremos:</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh! Vinde cantaremos:<br/>"Nosso Jesus"!<br/>Seu nome exaltemos,<br/>Nosso Jesus!<br/>Irmãos na salvação,<br/>Com terna gratidão,<br/>Remidos, sentiremos<br/>Nosso Jesus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Por nosso amor desceste,<br/>Nosso Jesus!<br/>Vergonha aqui sofreste,<br/>Nosso Jesus!<br/>Excelso Salvador,<br/>Tão rico é teu amor,<br/>Que até por nós morreste,<br/>Nosso Jesus!</lines>
+    </verse>
+  </lyrics>
+</song>

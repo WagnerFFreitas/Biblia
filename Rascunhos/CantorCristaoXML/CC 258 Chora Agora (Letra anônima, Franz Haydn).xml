@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:36">
+  <properties>
+    <titles>
+      <title>CC 258 Chora Agora</title>
+      <title>Austrian Himn</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Letra anônima</author>
+      <author>Franz Haydn</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="258"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Pecador, confessa e chora<br/>teus pecados, sem tardar;<br/>olha bem que o tempo foge,<br/>é perigo demorar.</lines>
+      <lines>Louco estás se não te emendas,<br/>sabes que te há de julgar<br/>um Deus reto e justiceiro<br/>que te pode condenar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Chora agora as tuas culpas,<br/>vai a Deus as confessar;<br/>e se não, sem mais remédio<br/>tarde então hás de chorar.</lines>
+      <lines>Ah! se a dor aqui te aflige,<br/>como então hás de sofrer<br/>no tormento, sem alívio,<br/>para sempre a padecer?</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Com remorso e pranto tarde<br/>tu dirás: "Eu infeliz!<br/>Eu perverso e desgraçado!<br/>Deus chamou-me e eu não quis."</lines>
+      <lines>Ouve a Deus, escuta agora,<br/>sim, enquanto a vida der;<br/>pois naquele grande dia<br/>justiceiro Ele há de ser.</lines>
+    </verse>
+  </lyrics>
+</song>

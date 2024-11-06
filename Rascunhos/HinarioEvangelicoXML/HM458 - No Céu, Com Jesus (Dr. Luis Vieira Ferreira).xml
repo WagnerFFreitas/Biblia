@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:33">
+  <properties>
+    <titles>
+      <title>HM458 - No Céu, Com Jesus</title>
+      <title>Junto ao trono de Deus, preparado,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Dr. Luis Vieira Ferreira</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Junto ao trono de Deus, preparado,<br/>Há cristão, um lugar oara ti,;<br/>Há alegrias, há gozo exaltado,<br/>Há delícias profusas, ali;<br/>Sim! ali!<br/>De seus anjos fiéis rodeado,<br/>Numa esfera de glória e de luz,<br/>Junto a Deus nos espera Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Os encantos da terra não podem<br/>Dar idéia do gozo dali,<br/>Se na terra os prazeres acodem,<br/>São prazeres que findam aqui;<br/>Mas ali<br/>As venturas eternas concorrem,<br/>Com o brilho perpétuo da luz,<br/>A tornar-te feliz com Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Conservemos em nossa lembrança<br/>As riquezas do lindo país,<br/>E guardemos conosco a esperança<br/>Duma vida melhor, mais feliz;<br/>Pois dali<br/>Uma voz verdadeira não cansa<br/>De falar-nos do Reino da luz<br/>E do amor protetor de Jesus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Se quisermos gozar da ventura<br/>Que no belo país haverá,<br/>É somente pedir de alma pura,<br/>E essa graça Jesus nos dará;<br/>Pois dali,<br/>Todo cheio de amor, de ternura,<br/>Desse amor que mostrou, lá na cruz,<br/>Nos atende, nos ouve Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:34">
+  <properties>
+    <titles>
+      <title>HM194 - A Mesa do Senhor</title>
+      <title>Nosso Pai, aqui reunidos,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Otoniel Mota</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nosso Pai, aqui reunidos,<br/>Aos teus filhos redimidos<br/>Pelo sangue de Jesus,<br/>Suplicamos que transmitas<br/>Tuas bênçãos infinitas<br/>Que esta Mesa nos traduz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vem, Espírito, ilumina!<br/>Sê conosco! Aos teus ensina<br/>A adorar o Redentor!<br/>Oh! Que dádiva suprema<br/>Através de cada emblema<br/>Se revele ao pecador!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ante o augusto sacramento<br/>Se renova o juramento<br/>De maior consagração;<br/>E nas almas recolhidas,<br/>Se oferecem nossas vidas.<br/>Deus de infinda compaixão!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nosso corpo, nossa mente,<br/>Nossos bens, humildemente<br/>Pomos tudo em teu altar;<br/>Deus de amor, bem que imperfeita,<br/>A oblação sincera aceita<br/>E dispõe-nos a te amar!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:15">
+  <properties>
+    <titles>
+      <title>CC 150 Pai Nosso</title>
+      <title>Hendon</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Henri Malan</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="150"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nosso Pai, que estás nos céus,<br/>que és rodeado de esplendor,<br/>nome teu santificar<br/>vimos com ardente amor,<br/>vimos com ardente amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O teu reino venha a nós,<br/>nele brilha a luz sem véu;<br/>seja feito o teu querer<br/>tanto aqui como é no céu,<br/>tanto aqui como é no céu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cada dia o nosso pão,<br/>que a nós todos dá vigor,<br/>dá-nos hoje, nosso Deus,<br/>pelo teu benigno amor,<br/>pelo teu benigno amor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vem, Senhor, nos perdoar,<br/>como nós com todo amor,<br/>desejamos desculpar<br/>nosso devedor maior,<br/>nosso devedor maior.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>No furor da tentação<br/>que nos pode ser fatal,<br/>não nos deixes, pois, cair,<br/>livra-nos de todo mal,<br/>livra-nos de todo mal.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:43">
+  <properties>
+    <titles>
+      <title>HC081 - Pode Salvar</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Somente em Cristo podemos<br/>A salvação receber;<br/>Novo concertos nós temos<br/>Em quem na cruz quis morres.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pode salvar, pode salvar,<br/>Tira os pecados, e quer vos salvar,<br/>Pode salvar, pode salvar,<br/>Tira os pecados, e quer vos salvar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quando perdoa os pecados<br/>Vida nos quer conceder.<br/>Fomos por sangue comprados<br/>Do mundo vão de viver.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Teu coração já entrega<br/>A quem te pode salvar;<br/>E quem as dores carrega:<br/>Cristo te pode livrar!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cristo te quer dar agora<br/>Paz e descanso real;<br/>Quer revelar-te esta hora:<br/>Graça imensa e real.</lines>
+    </verse>
+  </lyrics>
+</song>

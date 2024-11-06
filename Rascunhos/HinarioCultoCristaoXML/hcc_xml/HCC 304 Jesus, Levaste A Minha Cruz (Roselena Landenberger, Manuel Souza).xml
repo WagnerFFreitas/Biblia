@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:12">
+  <properties>
+    <titles>
+      <title>HCC 304 Jesus, Levaste A Minha Cruz</title>
+      <title>Amador</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Roselena Landenberger</author>
+      <author>Manuel Souza</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="304"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Jesus, levaste a minha cruz,<br/>humilde em teu amor.</lines>
+      <lines>No teu olhar brilhava a luz<br/>de compaixão, Senhor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Provaste, ó Cristo, amargo fel<br/>e zombaria, enfim,</lines>
+      <lines>de um povo mau e tão cruel,<br/>sofrendo, ali, por mim.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Suspenso numa cruz tão vil,<br/>mostraste o teu amor.</lines>
+      <lines>Perdão pra gente tão hostil<br/>rogaste, Salvador.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Rendeste o espírito, afinal,<br/>com forte brado teu.</lines>
+      <lines>Venceste a luta contra o mal<br/>missão que o Pai te deu.</lines>
+    </verse>
+  </lyrics>
+</song>

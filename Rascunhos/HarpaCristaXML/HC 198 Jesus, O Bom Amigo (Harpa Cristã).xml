@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:01">
+  <properties>
+    <titles>
+      <title>HC198 - Jesus, O Bom Amigo</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Achei um bom amigo,<br/>Jesus, o Salvador,<br/>O escolhido dos milhares para mim;<br/>Dos vales é o lírio; é o forte Mediador,<br/>Que me purifica e guarda para Si,<br/>Consolador amado, meu protetor do mal,<br/>Solicitude minha toma a Si.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dos vales é o lírio, a estrela da<br/>manhã,<br/>O escolhido dos milhares para mim.<br/>Consolador amado, meu protetor do mal,<br/>Solicitude minha toma a Si,<br/>Dos vales é o lírio, a estrela da manhã,<br/>O escolhido dos milhares para mim.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Levou-me as dores todas,<br/>As mágoas lhe enteguei;<br/>Minha fortaleza é, na tentação.<br/>Deixei, por Ele tudo; os ídolos queimei;<br/>Ele me conserva santo o coração,<br/>Que o mundo me abandone; persiga o tentador;<br/>Jesus me guarda até da vida o fim.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Não desampara nunca,<br/>Nem me abandonará,<br/>Se fiel e obediente eu viver;<br/>Um muro é de fogo, que me protegerá,<br/>'Té que venha a mim o tempo de morrer,<br/>Ao céu então voando, Sua glória eu verei<br/>Onde a dor e a morte nunca vêm.</lines>
+    </verse>
+  </lyrics>
+</song>

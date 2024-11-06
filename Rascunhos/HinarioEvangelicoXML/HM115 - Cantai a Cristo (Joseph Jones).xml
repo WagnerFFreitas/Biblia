@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:19">
+  <properties>
+    <titles>
+      <title>HM115 - Cantai a Cristo</title>
+      <title>Cantai a Cristo, o Salvador,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Joseph Jones</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cantai a Cristo, o Salvador,<br/>Que tanto nos amou,<br/>E, para nossa redenção,<br/>Seu sangue derramou!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Salvação! Salvação!<br/>Alcançou-nos o filho de Deus.<br/>Salvação! Salvação!<br/>Glória a Deus no mais alto dos céus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cantai a glória divinal,<br/>O amor do grande Deus,<br/>Divina flama a consumir<br/>Os vis pecadores meus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>De Cristo o excelso e infindo amor,<br/>Oh, vinde, publicai!<br/>E dele a grande salvação<br/>A todos proclamai!</lines>
+    </verse>
+  </lyrics>
+</song>

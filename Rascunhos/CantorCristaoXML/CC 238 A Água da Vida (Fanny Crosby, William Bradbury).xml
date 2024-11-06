@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:33">
+  <properties>
+    <titles>
+      <title>CC 238 A Água da Vida</title>
+      <title>The Water Of Life</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Fanny Crosby</author>
+      <author>William Bradbury</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="238"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">A água da vida Jesus nos dá,<br/>franca e livremente!<br/>Quem beber dela não morrerá,<br/>nunca, nunca, nunca!</lines>
+      <lines>Ó pecadores, sem exceção,<br/>vinde, vinde, vinde!<br/>Cristo oferece-vos salvação,<br/>grátis, a todos que a buscam!</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">O Espírito e a Esposa dizem:<br/>"Vem! Vem, bebe dessa água da vida!"<br/>Responda, pois, quem sede tem:<br/>"À fonte de Cristo já vou."</lines>
+      <lines>Sim, a água da vida corre<br/>sempre, sempre sempre!<br/>Sim, a água da vida corre,<br/>oh! sim, corre ao nosso dispor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Cristo prepara a mansão nos céus,<br/>franca e livremente!<br/>Onde estaremos com nosso Deus,<br/>sempre, sempre, sempre!</lines>
+      <lines>Lá não há morte, pecado ou dor,<br/>nunca, nunca, nunca!<br/>Só há riquezas de real valor:<br/>Cristo as promete aos que O amam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Cristo nos dá veste nupcial,<br/>franca e livremente!<br/>Ele vos chama ao festim real,<br/>cedo, cedo, cedo!</lines>
+      <lines>É para aqueles que nele creem,<br/>hoje, hoje, hoje!<br/>Todas as glórias do mundo além<br/>Cristo as revela aos que O amam.</lines>
+    </verse>
+  </lyrics>
+</song>

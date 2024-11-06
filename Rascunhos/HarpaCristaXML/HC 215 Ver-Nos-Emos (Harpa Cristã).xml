@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:04">
+  <properties>
+    <titles>
+      <title>HC215 - Ver-Nos-Emos</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Neste mundo a vera Igreja,<br/>Peregrina vai andar,<br/>Anelando que esteja<br/>No seu verdadeiro lar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ver-nos-emos, ver-nos-emos,<br/>Ver-nos-emos na terra divinal;<br/>Ver-nos-emos, ver-nos-emos,<br/>Ver-nos-emos junto ao rio sem igual.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nada aqui é permanente,<br/>Tudo tem que terminar,<br/>Mas olhamos para a frente,<br/>Para o nosso eterno lar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Os remidos cá enterram<br/>Seus amados ao morrer,<br/>Mas um dia, sim, esperam<br/>Que no céu os hão de ver.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Com Jesus, o Rei, nos ares,<br/>Beve havemos nós de estar,<br/>E com anjos, aos milhares,<br/>Sua glória contemplar.</lines>
+    </verse>
+  </lyrics>
+</song>

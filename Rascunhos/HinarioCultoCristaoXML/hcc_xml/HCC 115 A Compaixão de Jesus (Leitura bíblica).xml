@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:37">
+  <properties>
+    <titles>
+      <title>HCC 115 A Compaixão de Jesus</title>
+      <title>Mateus 20:30-34</title>
+    </titles>
+    <copyright>Mateus 20:30-34</copyright>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="115"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eis que dois cegos, sentados junto do caminho,<br/>ouvindo que Jesus passava, clamaram, dizendo:<br/>Senhor, Filho de Davi, tem compaixão de nós.<br/>E a multidão os repreendeu, para que se calassem;<br/>eles, porém, clamaram ainda mais alto, dizendo:<br/>Senhor, Filho de Davi, tem compaixão de nós.<br/>E Jesus, parando, chamou-os e perguntou:<br/>Que quereis que vos faça?<br/>Disseram-lhe eles: Senhor, que nos abram os olhos.<br/>E Jesus, movido de compaixão, tocou-lhes os olhos,<br/>e imediatamente recuperaram a vista, e o seguiram.</lines>
+    </verse>
+  </lyrics>
+</song>

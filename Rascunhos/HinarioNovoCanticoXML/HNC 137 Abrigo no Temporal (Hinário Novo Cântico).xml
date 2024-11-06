@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:54">
+  <properties>
+    <titles>
+      <title>HNC 137 - Abrigo no Temporal</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="137"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rochedo forte é o Senhor,<br/>Refúgio na tribulação!<br/>Constante e firme amparador,<br/>Refúgio na tribulação!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>É como sombra no calor,<br/>Descanso na tribulação!<br/>Refaz as forças, dá vigor:<br/>Descanso na tribulação!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Piloto bom no bravo mar,<br/>Firmeza na tribulação!<br/>Ancoradouro singular,<br/>Firmeza na tribulação!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Leal Amigo e Benfeitor,<br/>Auxílio na tribulação!<br/>Fiel e eterno Salvador,<br/>Auxílio na tribulação!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Oh! Cristo é nosso abrigo no temporal,<br/>Na tentação, em todo mal!<br/>Sim, Cristo é nosso abrigo no temporal,<br/>Refúgio na tribulação!</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

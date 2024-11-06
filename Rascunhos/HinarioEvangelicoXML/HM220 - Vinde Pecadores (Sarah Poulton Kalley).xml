@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:39">
+  <properties>
+    <titles>
+      <title>HM220 - Vinde Pecadores</title>
+      <title>Vinde, pobres pecadores,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vinde, pobres pecadores,<br/>Vinde mesmo como estais;<br/>Cristo pronto está a salvar-vos<br/>Oh! Por que vos demorais?<br/>Cristo pode.<br/>Ele quer. Vós duvidais?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vinde, vós que estais famintos,<br/>Vossa fome saciar:<br/>Paz, perdão e santidade<br/>Vinde todos alcançar;<br/>Pois, de graça,<br/>Tudo Cristo vos quer dar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vinde, vós que estais cansados,<br/>Oprimidos, vinde já;<br/>Quem demora em vir a Cristo<br/>Sua angústia agravará.<br/>Vossas dores<br/>O Senhor aliviará.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vinde, ó crentes redimidos,<br/>Vinde a Cristo, o Redentor.<br/>Sempre junto do madeiro<br/>Contemplai o Salvador.<br/>Redimidos!<br/>Exultai no seu amor!</lines>
+    </verse>
+  </lyrics>
+</song>

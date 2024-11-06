@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:07">
+  <properties>
+    <titles>
+      <title>HCC 274 Com a Paz Vem Despedir-nos</title>
+      <title>Lauda Anima</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>John Goss</author>
+      <author>John Fawcett</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="274"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Com a paz vem despedir-nos<br/>deste culto, bom Senhor.<br/>Gratos somos pelas bênçãos</lines>
+      <lines>que nos dás por teu favor.<br/>Dá-nos forças, dá-nos forças<br/>pra vencermos pelo amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Muitas graças te rendemos<br/>pela tua salvação.<br/>Que sejamos fervorosos,</lines>
+      <lines>tendo fé no coração,<br/>bem seguros, bem seguros<br/>pela tua forte mão.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Quando o teu amor chamar-nos<br/>deste mundo e seu labor,<br/>a chamada atenderemos</lines>
+      <lines>e estaremos sem temor.<br/>Reinaremos, reinaremos<br/>ao teu lado, Salvador.</lines>
+    </verse>
+  </lyrics>
+</song>

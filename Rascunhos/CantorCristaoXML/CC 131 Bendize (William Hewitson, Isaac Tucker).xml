@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:11">
+  <properties>
+    <titles>
+      <title>CC 131 Bendize</title>
+      <title>Devizes</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>William Hewitson</author>
+      <author>Isaac Tucker</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="131"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bendize, ó tu, meu coração,<br/>bendize ao Salvador;<br/>e tudo quanto houver em mim,<br/>consagre-lhe louvor,<br/>consagre-lhe louvor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bendize, ó tu, meu coração,<br/>bendize ao Salvador;<br/>não fiques esquecido, pois,<br/>do seu divino amor,<br/>do seu divino amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ele os delitos com amor<br/>e graça perdoou,<br/>e com divina compaixão<br/>Jesus te aliviou,<br/>Jesus te aliviou.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O teu desejo satisfaz<br/>com verdadeiros bens;<br/>a vida renovada assim,<br/>tu, como as águias, tens,<br/>tu, como as águias, tens.</lines>
+    </verse>
+  </lyrics>
+</song>

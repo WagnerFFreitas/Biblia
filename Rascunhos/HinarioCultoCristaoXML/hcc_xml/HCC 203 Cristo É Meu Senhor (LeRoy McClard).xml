@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:53">
+  <properties>
+    <titles>
+      <title>HCC 203 Cristo É Meu Senhor</title>
+      <title>Lordship Of Christ</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>LeRoy McClard</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="203"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cristo Jesus é meu Mestre e Senhor,<br/>a vida a ele entreguei.<br/>Minha esperança, meu Rei, Salvador,<br/>nele tudo encontrei.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cristo é meu Senhor,<br/>Cristo é meu Senhor.<br/>É dele tudo o que tenho e que sou.<br/>Cristo é meu Senhor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Meu Redentor é somente Jesus,<br/>digno de todo louvor.<br/>Ele é o caminho, a verdade e a luz,<br/>vida, poder e amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Queres a Cristo Jesus te entregar,<br/>obedecer e servir?<br/>Nele terás alegrias sem par.<br/>Vem a Jesus seguir.</lines>
+    </verse>
+  </lyrics>
+</song>

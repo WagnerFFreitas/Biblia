@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:59">
+  <properties>
+    <titles>
+      <title>HNC 244 - Mensagem aos Pastores</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="244"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Em noite linda e silente,<br/>Nos verdes prados do Oriente,<br/>Nos verdes prados do Oriente,<br/>Rebanhos a descansar!<br/>Eis que ouviram pastores<br/>Um canto de mil louvores, (bis)<br/>A Deus os anjos entoar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Então àqueles pastores,<br/>Da grande estrela aos fulgores<br/>Da grande estrela aos fulgores<br/>Ressoa a nova do céu!<br/>Jesus, de celeste origem,<br/>Da mais crente e humilde virgem, (bis)<br/>A vos salvar, já nasceu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Que canto angélico é este?<br/>Que mensagem de Ti vem?<br/>Ó Pai, que nova nos deste<br/>Para Teu povo em Belém?</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

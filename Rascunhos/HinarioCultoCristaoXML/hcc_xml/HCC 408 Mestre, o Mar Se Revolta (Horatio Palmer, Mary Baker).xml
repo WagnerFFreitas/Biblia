@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:32">
+  <properties>
+    <titles>
+      <title>HCC 408 Mestre, o Mar Se Revolta</title>
+      <title>Sossegai</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Horatio Palmer</author>
+      <author>Mary Baker</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="408"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Mestre, o mar se revolta,<br/>as ondas nos dão pavor.<br/>O céu se reveste de trevas,<br/>não temos um salvador.</lines>
+      <lines>Não te incomodas conosco?<br/>Podes assim dormir,<br/>se a cada momento estamos<br/>bem perto de submergir?</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">As ondas atendem ao meu mandar: " Sossegai!"<br/>Seja o encapelado mar,<br/>a ira dos homens, as forças do mal,<br/>tais águas não podem a nau tragar<br/>que leva o Senhor, Rei do céu e mar.</lines>
+      <lines>Pois todos ouvem o meu mandar:<br/>"Sossegai, sossegai;<br/>convosco estou para vos salvar,<br/>sim, sossegai."</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Mestre, na minha tristeza<br/>estou quase a sucumbir.<br/>A dor que perturba minha alma,<br/>eu peço-te, vem banir.</lines>
+      <lines>De ondas do mal que me encobrem,<br/>quem me fará sair?<br/>Pereço, sem ti, ó meu Mestre;<br/>vem logo, vem me acudir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Mestre, chegou a bonança.<br/>Em paz vejo o céu e o mar.<br/>O meu coração vive em calma<br/>que não poderá findar.</lines>
+      <lines>Fica comigo, meu Mestre,<br/>dono da terra e céu,<br/>e assim chegarei bem seguro<br/>ao porto, destino meu.</lines>
+    </verse>
+  </lyrics>
+</song>

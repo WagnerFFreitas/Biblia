@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:19">
+  <properties>
+    <titles>
+      <title>HC311 - Jesus, Meu Salvador</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus salvou-me do mundo,<br/>Ele é tão doce p'ra mim;<br/>Amor, Lhe tenho, profundo,<br/>Por Sua graça sem fim;<br/>Quando ia eu no deserto,<br/>Sem gozo, paz e sem luz,<br/>Ele buscou-me, por certo,<br/>Té que achou-me - Jesus!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus, Jesus, Tu és meu Salvador,<br/>Jesus, Jesus, só Teu serei, Senhor.<br/>Na sanda mui verdadeira,<br/>Guia-me Tua mão,<br/>E ao findar minha carreira,<br/>Receberei galardão.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus de Saron é a rosa,<br/>Lírio suave é p'ra mim;<br/>Ele é a rocha preciosa,<br/>Onde há gozo sem fim;<br/>É da manhã a estrela,<br/>Na noite escura e sem luz,<br/>Tenho doçura em vê-la,<br/>Pois ela é meu Jesus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na manjedora nascendo,<br/>No mundo, só batalhou;<br/>Em meu lugar padecendo,<br/>Sangue por mim derramou,<br/>Ressurgiu da sepultura,<br/>Subindo à dextra de Deus;<br/>Breve virá das alturas,<br/>Descendo em nuvens dos céus.</lines>
+    </verse>
+  </lyrics>
+</song>

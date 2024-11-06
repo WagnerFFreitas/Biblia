@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:43">
+  <properties>
+    <titles>
+      <title>HC082 - Um Meigo Salvador</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Um Salvador meigo eu tenho,<br/>A quem antes não conheci;<br/>Agora, alegre, eu venho<br/>Contando a todos que O vi.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Todos, todos verão,<br/>Todos, todos verão;<br/>Jesus glorioso e bondoso,<br/>Sim, todos, todos verão.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>De todos, é o mais formoso,<br/>Imagem da glória de Deus;<br/>Tornou-me alegre e ditoso,<br/>E herdeiro da glória dos céus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se os ímpios me armarem cilada,<br/>Na senda que hei de trilhar,<br/>Jesus me dará boa espada,<br/>E os laços eu hei de cortar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A vida e o amor Tu me deste,<br/>Porque Tu amaste a mim,<br/>Tornou, sim, a glória celeste,<br/>Minha sorte bendita, enfim.</lines>
+    </verse>
+  </lyrics>
+</song>

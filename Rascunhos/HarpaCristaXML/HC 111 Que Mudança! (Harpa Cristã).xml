@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:48">
+  <properties>
+    <titles>
+      <title>HC111 - Que Mudança!</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Que mudança em mim fez o meu bom Jesus,<br/>Vindo Ele ao meu coração.<br/>Deu-me paz paz divinal, deu-me gozo e luz,<br/>Entrando em meu coração!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Entrando no meu coração!<br/>Entrando no meu coração!<br/>Que mudança em mim<br/>Fez o meu bom Jesus,<br/>Vindo Ele ao meu coração.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eu andava pedido, Jesus me salvou,<br/>Enrando no meu coração.<br/>Meus pecados sem conta, Seu sangue lavou,<br/>Vindo Ele ao meu coração!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>E agora, do céu, a certeza me deu,<br/>Entrando no meu coração.<br/>Seu Espírito, selo e penhor concedeu,<br/>Vindo Ele ao meu coração.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pelo vale da morte não temo passar!<br/>Com Ele no meu coração;<br/>A cidade celeste me vai transportar,<br/>O guarda do meu coração.</lines>
+    </verse>
+  </lyrics>
+</song>

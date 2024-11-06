@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:29">
+  <properties>
+    <titles>
+      <title>HCC 389 O Senhor Deus Nos Santifica</title>
+      <title>Levíticos 22:33, 32; Josué 3:5; 1 Tessalonicenses 5:15, 19-23; Levíticos 20:7, 8</title>
+    </titles>
+    <copyright>Levíticos 22:33, 32; Josué 3:5; 1 Tessalonicenses 5:15, 19-23; Levíticos 20:7, 8</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="389"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eu sou o Senhor. Eu sou o Senhor que vos santifico.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Santificai-vos, porque amanhã o Senhor fará maravilhas no meio de vós.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vede que ninguém dê a outrem mal por mal, mas segui sempre o bem, uns para com os outros, e para com todos.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Não extingais o Espírito; não desprezeis as profecias, mas ponde tudo à prova.<br/>Retende o que é bom; abstende-vos de toda espécie de mal.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>E o próprio Deus de paz vos santifique completamente;<br/>e o vosso espírito, e alma e corpo sejam plenamente conservados irrepreensíveis para a vinda de nosso Senhor Jesus Cristo.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Portanto santificai-vos, e sede santos, pois eu sou o Senhor vosso Deus.<br/>Guardai os meus estatutos, e cumpri-os. Eu sou o Senhor que vos santifico.</lines>
+    </verse>
+  </lyrics>
+</song>

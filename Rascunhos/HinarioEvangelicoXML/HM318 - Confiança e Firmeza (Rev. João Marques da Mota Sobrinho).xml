@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:57">
+  <properties>
+    <titles>
+      <title>HM318 - Confiança e Firmeza</title>
+      <title>A Jesus Cristo,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. João Marques da Mota Sobrinho</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Jesus Cristo,<br/>Meu grande Amigo,<br/>Hei de abiri sempre<br/>Meu coração.<br/>Tenho em seus braços<br/>Constante abrigo,<br/>Em sua graça<br/>Consolação.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sim, confiante,<br/>Jesus bendito,<br/>Aos teus pés sempre<br/>Tu me verás;<br/>De tua bênção<br/>Eu necessito,<br/>E do conforto<br/>De tua paz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>De Jesus Cristo<br/>Eu dia a dia,<br/>Por seu ensino,<br/>Que é sem igual,<br/>A luz recebo,<br/>Que me alumia<br/>E livra os passos<br/>De todo o mal.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A Jesus Cristo,<br/>Se amargurado,<br/>Mágoas e dores<br/>Remeterei.<br/>Eu tudo espero<br/>De seu cuidado:<br/>Amor infindo<br/>É sua lei.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Do trilho reto,<br/>De quando em quando<br/>Os maus se esforçam<br/>Por me arredar;<br/>Mas fico a salvo<br/>Em me firmando<br/>Em Jesus Cristo,<br/>"Pedra angular".</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:50">
+  <properties>
+    <titles>
+      <title>HC124 - Adoração</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Adorai o Rei do Universo!<br/>Terra e céus, cantai o Seu louvor!<br/>Todo o ser no grande mar submerso,<br/>Louve ao Dominador!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Todos juntos O louvemos!<br/>Grande Salvador e Redentor!<br/>Todos O louvemos!<br/>Régio Dominador!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Adorai-O, anjos poderosos,<br/>Vós que Sua glória contemplais!<br/>Vós, remidos, já vitoriosos;<br/>Graças, rendei-lhe mais!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sol e lua, coros estelares,<br/>Sua majestade anunciai,<br/>Hostes grandes, centos de milhares,<br/>O Seu poder mostrai!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ventos! Chuvas! Raios! Trovoadas!<br/>Revelai o forte Criador!<br/>Vós dizeis, ó serras elevadas,<br/>Quão grande é meu Senhor!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Altos cedros! Grama verdejante!<br/>Esta sinfonia aumentai;<br/>Aves, vermes, todo o ser gigante;<br/>Gratos a Deus louvai!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Homens! Jovens! Velhos e meninos!<br/>Adorai ao vosso Redentor!<br/>Reis e sábios, grandes, pequeninos,<br/>Dai-lhe veraz louvor!</lines>
+    </verse>
+  </lyrics>
+</song>

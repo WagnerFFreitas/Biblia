@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:22">
+  <properties>
+    <titles>
+      <title>HM425 - Soldados de Cristo</title>
+      <title>Confiando no Senhor, avançai!</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Salomão Luis Ginsburg</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Confiando no Senhor, avançai!<br/>Ide avante em seu amor, avançai!<br/>O ideal de Cristo honrai;<br/>Sua fama divulgai;<br/>Sua graça procurai; avançai!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vinde todos trabalhar; avançai!<br/>Ide as novas publicar; avançai!<br/>Com sincera fé e amor,<br/>Recebendo o seu favor,<br/>E seguindo o Salvador; avançai!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cristo avisa que virá; avançai!<br/>O caminho aberto está; avançai!<br/>Luz Celeste, vem guiar<br/>O rebanho ao seu lugar.<br/>Tudo tendes, e sem par; avançai!</lines>
+    </verse>
+  </lyrics>
+</song>

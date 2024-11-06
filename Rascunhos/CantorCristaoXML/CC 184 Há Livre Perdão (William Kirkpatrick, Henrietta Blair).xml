@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:22">
+  <properties>
+    <titles>
+      <title>CC 184 Há Livre Perdão</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>William Kirkpatrick</author>
+      <author>Henrietta Blair</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="184"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Glória a Jesus, pois há livre perdão,<br/>há livre perdão, há livre perdão!<br/>Vem, pecador, aceitar este dom:<br/>De Deus um livre perdão!</lines>
+      <lines>Vem, sim, agora em Jesus confiar,<br/>Jesus confiar, Jesus confiar;<br/>vida perene vais nele encontrar;<br/>e pleno e livre perdão!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cristo está pronto pra te perdoar,<br/>pra te perdoar, pra te perdoar!<br/>Ó pecador, porque não aceitar?<br/>Em Deus há livre perdão.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Longe de Cristo só podes sofrer,<br/>só podes sofrer, só podes sofrer;<br/>mas nos seus braços há sumo prazer;<br/>em Deus há livre perdão!</lines>
+      <lines>Trevas te cercam? Oh! vem para a luz,<br/>oh! vem para a luz, oh! vem para a luz,<br/>paz, força e vida terás em Jesus;<br/>e pleno e livre perdão!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Basta pensar só no seu grande amor,<br/>no seu grande amor, no seu grande amor,<br/>no seu sofrer e na morte de horror,<br/>pra ver que há livre perdão!</lines>
+      <lines>Arrependido te entrega a Jesus,<br/>te entrega a Jesus, te entrega a Jesus,<br/>que te concede perdão pela cruz;<br/>sim, pleno e livre perdão!</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Sim, há perdão para aquele que crer,<br/>aquele que crer, aquele que crer!<br/>E mesmo agora tu podes obter<br/>de Deus um livre perdão.</lines>
+      <lines>Cristo espera, sim, vem como estás,<br/>sim, vem como estás, sim, vem como estás;<br/>Oh! vem agora, pois receberás<br/>um pleno e livre perdão!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:28">
+  <properties>
+    <titles>
+      <title>HCC 061 O Sentimento de Jesus</title>
+      <title>Felipenses 2:5-11</title>
+    </titles>
+    <copyright>Felipenses 2:5-11</copyright>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="061"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Tende em vós aquele sentimento que houve também em Cristo Jesus, o qual, subsistindo em forma de Deus, não considerou o ser igual a Deus coisa a que se devia aferrar, </lines>
+      <lines break="optional">mas esvaziou-se a si mesmo, tomando a forma de servo, tornando-se semelhante aos homens; e, achado na forma de homem, humilhou-se a si mesmo, tornando-se obediente até a morte, e morte de cruz. </lines>
+      <lines break="optional">Pelo que também Deus o exaltou soberanamente, e lhe deu o nome que é sobre todo nome; para que ao nome de Jesus se dobre todo joelho dos que estão nos céus, e na terra, e debaixo da terra, </lines>
+      <lines>e toda língua confesse que Jesus Cristo é Senhor, para a glória de Deus Pai.</lines>
+    </verse>
+  </lyrics>
+</song>

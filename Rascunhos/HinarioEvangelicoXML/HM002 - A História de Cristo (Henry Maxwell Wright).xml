@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:02">
+  <properties>
+    <titles>
+      <title>HM002 - A História de Cristo</title>
+      <title>Conta-me a História de Cristo,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Henry Maxwell Wright</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Conta-me a história de Cristo,<br/>Grava-a no meu coração;<br/>Conta-me a história inaudita<br/>De graça, paz e perdão.<br/>Conta como ele, encarnado,<br/>Veio no mundo morar;<br/>Aos pecadores, indignos,<br/>De Deus o amor revelar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Conta como ele, bondoso,<br/>Nunca a ninguém rejeitou;<br/>Como, de mãos estendidas,<br/>Todos a si convidou;<br/>Como o Senhor jamais pode,<br/>Seja a quem for, rejeitar,<br/>Se, convencido e contrito,<br/>O seu convite aceitar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Conta-me as duras afrontas<br/>Que mansamente sofreu;<br/>Como, na cruz levantado,<br/>Ele por ímpios morreu!<br/>Dá-me o viver na certeza<br/>De que foi mesmo por mim,<br/>Pois seu amor inefável<br/>Não tem mudança nem fim! - H.M.W.</lines>
+    </verse>
+  </lyrics>
+</song>

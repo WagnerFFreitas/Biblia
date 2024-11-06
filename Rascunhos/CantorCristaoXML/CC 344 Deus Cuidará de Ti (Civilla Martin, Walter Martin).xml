@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:56">
+  <properties>
+    <titles>
+      <title>CC 344 Deus Cuidará de Ti</title>
+      <title>God Cares</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Civilla Martin</author>
+      <author>Walter Martin</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="344"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aflito e triste coração,<br/>Deus cuidará de ti!<br/>Por ti opera a Sua mão,<br/>que cuidará de ti.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Deus cuidará de ti,<br/>em cada dia proverá;<br/>Sim, cuidará de ti,<br/>Deus cuidará de ti!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na dor cruel na provação,<br/>Deus cuidará de ti!<br/>Socorro dá e salvação,<br/>pois cuidará de ti.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A tua fé Deus quer provar,<br/>mas cuidará de ti!<br/>O teu amor quer aumentar,<br/>e cuidará de ti.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nos seus tesouros tudo tens,<br/>Deus cuidará de ti!<br/>Terrestres e celestes bens,<br/>e cuidará de ti.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O que é mister te pode dar,<br/>Quem cuidará de ti!<br/>Nos braços Seus te sustentar,<br/>pois cuidará de ti.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:23">
+  <properties>
+    <titles>
+      <title>HCC 042 Guia, ó Deus, a Minha Vida</title>
+      <title>CWM Rhondda</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>William Williams</author>
+      <author>John Hughes</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="042"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Guia, ó Deus, a minha vida<br/>neste mundo de aflição.<br/>Frágil sou em minha lida,<br/>mas é forte a tua mão.</lines>
+      <lines>O meu ser de paz reveste,<br/>livra-me da tentação,<br/>livra-me da tentação.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Abre as fontes da verdade<br/>de onde puras águas vêm.<br/>Neste mundo de maldade,<br/>faz-me aproveitá-las bem.</lines>
+      <lines>Sê o fogo, sê a nuvem,<br/>sê libertador também,<br/>sê libertador também.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">E, chegando ao fim da estrada,<br/>o Jordão eu vou passar<br/>e acharei no céu morada<br/>que Jesus foi preparar.</lines>
+      <lines>E em louvor ao Deus eterno<br/>para sempre vou cantar,<br/>para sempre vou cantar.</lines>
+    </verse>
+  </lyrics>
+</song>

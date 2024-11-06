@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:24">
+  <properties>
+    <titles>
+      <title>HCC 362 Desejo a Santidade</title>
+      <title>Clovelly</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Salomão Ginsburg</author>
+      <author>Josiah Booth</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="362"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Desejo a santidade<br/>do amor do meu Jesus;<br/>viver pra sua glória<br/>e andar em sua luz.</lines>
+      <lines>Eu aprender desejo<br/>a justa e santa lei;<br/>às ordens do meu Mestre<br/>eu obedecerei.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Seguir em tudo almejo<br/>o exemplo de Jesus,<br/>trilhando o bom caminho<br/>que ao santo lar conduz.</lines>
+      <lines>E Cristo, o meu bom Mestre,<br/>também me ensina a orar.<br/>Sozinho na montanha<br/>com Deus vou conversar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Amar e obedecer-te<br/>desejo, meu Jesus,<br/>pois tu por mim morreste<br/>pregado numa cruz.</lines>
+      <lines>Ó Salvador, concede<br/>a mim teu favor.<br/>Que eu mostre a toda gente<br/>o teu imenso amor.</lines>
+    </verse>
+  </lyrics>
+</song>

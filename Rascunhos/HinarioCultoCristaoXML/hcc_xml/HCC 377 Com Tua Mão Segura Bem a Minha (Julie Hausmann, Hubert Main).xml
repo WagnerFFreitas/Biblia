@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:26">
+  <properties>
+    <titles>
+      <title>HCC 377 Com Tua Mão Segura Bem a Minha</title>
+      <title>Hold Thou My Hand</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Julie Hausmann</author>
+      <author>Hubert Main</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="377"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Com tua mão segura bem a minha,<br/>pois eu tão frágil sou, ó Salvador,</lines>
+      <lines>que não me atrevo a dar jamais um passo<br/>sem teu amparo, meu Jesus, Senhor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Com tua mão segura bem a minha,<br/>e pelo mundo, alegre, seguirei.</lines>
+      <lines>Mesmo onde as sombras caem mais escuras,<br/>teu rosto vendo, nada temerei.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Quando eu chegar à beira desse rio<br/>que tu, por mim, quiseste atravessar,</lines>
+      <lines>com tua mão segura bem a minha,<br/>e sobre a morte eu hei de triunfar.</lines>
+    </verse>
+  </lyrics>
+</song>

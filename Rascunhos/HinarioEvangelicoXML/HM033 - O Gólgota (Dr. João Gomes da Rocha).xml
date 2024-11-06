@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:07">
+  <properties>
+    <titles>
+      <title>HM033 - O Gólgota</title>
+      <title>Vede o Calvário! Além está,</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Dr. João Gomes da Rocha</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vede o Calvário! Além está,<br/>Ao norte de Sião.<br/>Ali, por nós, Jesus pagou<br/>A eterna salvação.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quem, porventura, sondará<br/>A dor que padeceu!<br/>Contudo, foi por todos nós<br/>Que a morte atroz sofreu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Morreu na Cruz e deu perdão<br/>A todo pecador,<br/>Que, arrependido, queira estar<br/>Na paz do seu Senhor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ninguém nos pode resgatar<br/>Da pena universal;<br/>Mas Cristo a todos nos remiu,<br/>A preço divinal.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh! Quanto, quanto nos amou!<br/>Amemo-lo também;<br/>E, confiando em seu amor,<br/>Façamos todo o bem.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:44">
+  <properties>
+    <titles>
+      <title>HCC 451 Como É Triste Andar em Trevas</title>
+      <title>Doce Luz</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>George Stebbins</author>
+      <author>Joaquim Figueiredo</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="451"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Eu nas trevas vagueava,<br/>sem a luz da salvação;</lines>
+      <lines>eu vivia sempre triste<br/>e sem fé no coração.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Como é triste andar em trevas,<br/>sem o brilho dessa luz!</lines>
+      <lines>Bela é a vida iluminada,<br/>dirigida por Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Mas um dia Deus mostrou-me<br/>sua graça e a doce luz;</lines>
+      <lines>vi então caminho claro,<br/>ao ouvir o meu Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">O meu ser pecaminoso<br/>contra a retidão lutou;</lines>
+      <lines>mas Jesus me deu vitória<br/>e das trevas me livrou.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Foi um novo nascimento.<br/>Honra e glória ao Redentor!</lines>
+      <lines>Ele deu-me luz e vida,<br/>santidade e seu amor.</lines>
+    </verse>
+  </lyrics>
+</song>

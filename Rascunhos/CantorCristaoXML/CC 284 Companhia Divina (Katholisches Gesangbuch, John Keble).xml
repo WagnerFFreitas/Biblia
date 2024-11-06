@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:42:41">
+  <properties>
+    <titles>
+      <title>CC 284 Companhia Divina</title>
+      <title>Hursley</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Katholisches Gesangbuch</author>
+      <author>John Keble</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="284"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó meu querido Salvador,<br/>vem conceder-me teu favor;<br/>nuvem nenhuma terreal<br/>tire-me a luz celestial.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quando eu do leito despertar,<br/>tua presença quero achar;<br/>ao dar começo ao meu labor,<br/>sê tu meu Guia e Protetor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vem conceder-me teu poder,<br/>só poderei assim vencer<br/>as seduções do tentador;<br/>fica comigo, Salvador.</lines>
+    </verse>
+  </lyrics>
+</song>

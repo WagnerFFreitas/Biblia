@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:23">
+  <properties>
+    <titles>
+      <title>HM426 - Proclamai a Redenção</title>
+      <title>Avançai, avançai, derramai essa luz</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. R.E. Neighbour</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Avançai, avançai, derramai essa luz<br/>Sobre os povos da terra que não têm Jesus!<br/>Ide, pois, diz o Mestre. Quem é que irá,<br/>Obediente ao preceito que a todos nos dá?<br/>Confiai no Senhor; não tenhais mais temor;<br/>Avançai, com Jesus, avançai!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Avançai, avançai, com a Bíblia na mão;<br/>Proclamai às nações pela Cruz redenção.<br/>Enfrentai os perigos com fé sempre em Deus;<br/>Se sofrermos aqui, reinaremos nos Céus.<br/>Duras lutas tereis, com Jesus vencereis;<br/>Avançai, sem temor, avançai!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Avançai, avançai, e pregai aos milhões,<br/>Que perecem nas trevas das desilusões.<br/>Foi por eles também que na Cruz padeceu,<br/>E na terra as injúrias o Justo sofreu.<br/>Proclamai redenção. Em Jesus há perdão!<br/>Avançai, com amor, avançai!</lines>
+    </verse>
+  </lyrics>
+</song>

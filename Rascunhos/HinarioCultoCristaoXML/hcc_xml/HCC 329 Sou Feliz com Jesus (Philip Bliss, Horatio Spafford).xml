@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:17">
+  <properties>
+    <titles>
+      <title>HCC 329 Sou Feliz com Jesus</title>
+      <title>Ville De Havre</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Philip Bliss</author>
+      <author>Horatio Spafford</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="329"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Se paz a mais doce eu puder desfrutar,<br/>se dor a mais forte sofrer,</lines>
+      <lines>oh, seja o que for, tu me fazes saber<br/>que feliz com Jesus sempre sou!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sou feliz<br/>com Jesus.<br/>Sou feliz com Jesus,<br/>meu Senhor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Embora me assalte o cruel Satanás,<br/>e ataque com vis tentações;</lines>
+      <lines>oh, certo eu estou, apesar de aflições,<br/>que feliz eu serei com Jesus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Meu triste pecado, por meu Salvador<br/>foi pago de um modo total.</lines>
+      <lines>Valeu-me o Senhor, oh, que amor sem igual!<br/>Sou feliz, graças dou a Jesus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">A vinda eu anseio do meu Salvador.<br/>Ao céu ele vai me levar;</lines>
+      <lines>em breve eu irei para sempre morar<br/>com os salvos por Cristo Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

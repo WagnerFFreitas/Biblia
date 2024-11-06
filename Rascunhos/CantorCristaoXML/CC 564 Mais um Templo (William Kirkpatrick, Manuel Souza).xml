@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:42">
+  <properties>
+    <titles>
+      <title>CC 564 Mais um Templo</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>William Kirkpatrick</author>
+      <author>Manuel Souza</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="564"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Hoje, inaugura-se aqui, santo Deus,<br/>mais um padrão do teu amor;</lines>
+      <lines>um novo templo, fanal para os céus,<br/>causa de mais louvor!</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Glória a Deus, glória a Deus!<br/>Cantem os filhos teus!</lines>
+      <lines>Glória a Deus, glória a Deus!<br/>Glória nos altos céus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Casa de cultos e fonte de luz,<br/>onde o Senhor dá salvação</lines>
+      <lines>pelo evangelho que trouxe Jesus<br/>com tanta compaixão!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Marco sublime da proclamação<br/>do teu amor, do teu querer;</lines>
+      <lines>os pecadores aqui ouvirão<br/>qual é o seu dever.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Seja esta casa lugar de oração,<br/>habitação certa de Deus,</lines>
+      <lines>porta do céu e lugar de perdão,<br/>vida de paz dos céus.</lines>
+    </verse>
+  </lyrics>
+</song>

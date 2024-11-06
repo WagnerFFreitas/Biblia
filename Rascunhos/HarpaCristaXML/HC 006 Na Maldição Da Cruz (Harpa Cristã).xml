@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:33">
+  <properties>
+    <titles>
+      <title>HC006 - Na Maldição Da Cruz</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu, na maldição da cruz,<br/>Elevate o Teu amor,<br/>Em rogar, Senhor Jesus:<br/>"Pai, perdoa ao transgressor".</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Queres, queres, com vigor,<br/>Muitas almas despertar;<br/>Queres, queres ó Senhor!<br/>Transformar, remir, curar;<br/>Oh! sim! oh! sim!<br/>Queres todas renovar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Maligno tentador<br/>E o autor da perdição<br/>Do pecado, mal e dor,<br/>Da doença e da aflição.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu levaste, ó bom Jesus,<br/>O pecado, o mal e a dor,<br/>E a doença sobre a cruz;<br/>És o grande Salvador!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Deus é bom, quer sempre o bem<br/>Do oprimido pecador;<br/>Mal nenhum, em Si, Deus tem;<br/>"Deus é luz, Deus é amor!"</lines>
+    </verse>
+  </lyrics>
+</song>

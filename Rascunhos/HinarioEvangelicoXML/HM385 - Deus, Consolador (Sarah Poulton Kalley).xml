@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:17:13">
+  <properties>
+    <titles>
+      <title>HM385 - Deus, Consolador</title>
+      <title>Pai dos órfãos! Deus de amor!</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Sarah Poulton Kalley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pai dos órfãos! Deus de amor!<br/>Da viúva o Protetor!<br/>O desamparado aqui<br/>Quer refugiar-se em ti.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Fala ao triste coração!<br/>Dá-lhe paz, consolação!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Foste ao túmulo chorar<br/>E pudeste consolar;<br/>Terno e bom Senhor Jesus,<br/>Tua vida é pura luz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dom supremo, celestial,<br/>Do conforto divinal!<br/>Doce alívio nos trarás,<br/>Luz divina tu nos dás.</lines>
+    </verse>
+  </lyrics>
+</song>

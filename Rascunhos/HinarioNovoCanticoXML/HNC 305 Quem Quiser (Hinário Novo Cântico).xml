@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:49:01">
+  <properties>
+    <titles>
+      <title>HNC 305 - Quem Quiser</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="305"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quem ouvir as novas, deve proclamar.<br/>Salvação de graça, vinde desfrutar!<br/>Oh! Que o mundo inteiro ouça anunciar:<br/>Todo o que quiser é vir!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quem quiser, agora, venha aceitar:<br/>Eis a porta aberta, entre sem tardar!<br/>É Jesus caminho para ao céu chegar!<br/>Todo o que quiser é vir!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Que fiel promessa tens, ó pecador,<br/>De uma vida eterna! Vem ao Salvador!<br/>Ele a todos fala com mui terno amor.<br/>Todo o que quiser é vir!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Todo o que quiser, todo o que quiser<br/>Pode a boa-nova hoje receber!<br/>Que o senhor da Glória a todos quer remir!<br/>Todo o que quiser é vir!</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

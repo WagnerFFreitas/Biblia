@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:19">
+  <properties>
+    <titles>
+      <title>HCC 341 Nossa Confiança no Senhor</title>
+      <title>Salmos 25:2, 3; 34:22, 15; 22:4, 5; 25:10; 64:1; 43:3, 4; Hebreus 4:16</title>
+    </titles>
+    <copyright>Salmos 25:2, 3; 34:22, 15; 22:4, 5; 25:10; 64:1; 43:3, 4; Hebreus 4:16</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14 v15 v16 v17</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="341"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines><tag name="y">Dirigente:</tag><br/>Deus meu, em ti confio; não seja eu envergonhado;</lines>
+    </verse>
+    <verse name="v2">
+      <lines><tag name="y">Congregação:</tag><br/>não triunfem sobre mim os meus inimigos.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><tag name="y">Todos:</tag><br/>Não seja envergonhado nenhum dos que em ti esperam;</lines>
+    </verse>
+    <verse name="v4">
+      <lines><tag name="y">Coro:</tag><br/>envergonhados sejam os que sem causa procedem traiçoeiramente.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><tag name="y">Dirigente:</tag><br/>O Senhor resgata a alma dos seus servos,</lines>
+    </verse>
+    <verse name="v6">
+      <lines><tag name="y">Congregação:</tag><br/>e nenhum dos que nele se refugiam será condenado.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><tag name="y">Coro:</tag><br/>Os olhos do Senhor estão sobre os justos, e os seus ouvidos atentos ao seu clamor.</lines>
+    </verse>
+    <verse name="v8">
+      <lines><tag name="y">Congregação:</tag><br/>Em ti confiaram nossos pais;</lines>
+    </verse>
+    <verse name="v9">
+      <lines><tag name="y">Coro:</tag><br/>confiaram, e tu os livraste.</lines>
+    </verse>
+    <verse name="v10">
+      <lines><tag name="y">Congregação:</tag><br/>A ti clamaram e foram salvos;</lines>
+    </verse>
+    <verse name="v11">
+      <lines><tag name="y">Coro:</tag><br/>em ti confiaram, e não foram confundidos.</lines>
+    </verse>
+    <verse name="v12">
+      <lines><tag name="y">Dirigente:</tag><br/>Todas as veredas do Senhor são misericórdia e verdade para aqueles que guardam o seu pacto e os seus testemunhos.</lines>
+    </verse>
+    <verse name="v13">
+      <lines><tag name="y">Congregação:</tag><br/>Ouve, ó Deus, a minha voz na minha queixa; preserva a minha vida do horror do inimigo.</lines>
+    </verse>
+    <verse name="v14">
+      <lines><tag name="y">Todos:</tag><br/>Envia a tua luz e a tua verdade, para que me guiem;</lines>
+    </verse>
+    <verse name="v15">
+      <lines><tag name="y">Coro:</tag><br/>levem-me elas ao teu santo monte, e à tua habitação.</lines>
+    </verse>
+    <verse name="v16">
+      <lines><tag name="y">Dirigente:</tag><br/>Então irei ao altar de Deus, a Deus, que é minha alegria.</lines>
+    </verse>
+    <verse name="v17">
+      <lines><tag name="y">Todos:</tag><br/>Cheguemos-nos, pois, confiadamente ao trono da graça, para que recebamos misericórdia e achemos graça,<br/>a fim de sermos socorridos no momento oportuno.</lines>
+    </verse>
+  </lyrics>
+</song>

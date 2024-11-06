@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:49:04">
+  <properties>
+    <titles>
+      <title>HNC 399 - Término do Culto</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="399"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Findado agora o culto, ó Deus,<br/>Prestado em teu louvor,<br/>Despede em paz e guia os teus<br/>Até chegarmos lá nos céus,<br/>Ó Pai de vero amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>De Cristo dá-nos sempre ter<br/>A graça singular!<br/>No teu amor permanecer,<br/>No Santo Espírito viver,<br/>Em comunhão sem par. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

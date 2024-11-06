@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:34">
+  <properties>
+    <titles>
+      <title>HC392 - Peregrinos Somos</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Peregrinos somos aqui<br/>Té o labor findar;<br/>Deste mundo queremos ir<br/>Ao celeste lar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh! Pátria mui feliz<br/>Em ti irei morar;<br/>Eu irei morar<br/>Eu irei morar<br/>Jerusalém, oh meu país<br/>E meu querido lar!<br/>Jerusalém, oh meu país<br/>E meu querido lar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Minha grande consolação<br/>É sempre em ti morar,<br/>Oh, querida, bela Sião,<br/>Meu eterno lar!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Como o povo de Abraão,<br/>Sempre a viajar,<br/>Para a terra da promissão,<br/>Santo e doce lar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó Senhor, queremos vencer,<br/>E de Ti alcançar<br/>Gozo, paz, eterno prazer,<br/>No bendito lar!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>É o meu desejo, Jesus,<br/>Sempre peregrinar;<br/>Dirigido por Tua luz<br/>Té que chegue ao lar.</lines>
+    </verse>
+  </lyrics>
+</song>

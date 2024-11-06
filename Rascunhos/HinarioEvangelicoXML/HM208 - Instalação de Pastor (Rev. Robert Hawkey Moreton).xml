@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:37">
+  <properties>
+    <titles>
+      <title>HM208 - Instalação de Pastor</title>
+      <title>Senhor da ceifa, atende</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. Robert Hawkey Moreton</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Senhor da ceifa, atende<br/>À nossa petição;<br/>Que o bom trabalho siga<br/>Com grande animação.<br/>Os campos já branquejam:<br/>Convidam a ceifar,<br/>E os preciosos frutos<br/>Na Igreja a arrecadar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Somente a ti compete<br/>Ceifeiros escolher,<br/>Que tudo realizem<br/>Conforme o teu querer.<br/>Os ânimos prepara;<br/>Inflama os corações;<br/>E manda os bons obreiros<br/>Em grandes multidões.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se aquele que escolhemos<br/>Mandado foi por ti,<br/>Seu santo ministério<br/>Conduze sempre aqui;<br/>Confirma o pastorado<br/>Com bênçãos especiais,<br/>E dá-lhe, em ricos frutos,<br/>Divinas credenciais.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Alenta-lhe a esperança,<br/>Aumenta nele a fé;<br/>Na lida, não permitas<br/>Que lhe vacile o pé;<br/>E cada vez mais forte,<br/>Mas cheio de fervor,<br/>A todos manifeste<br/>Agraça do Senhor.</lines>
+    </verse>
+  </lyrics>
+</song>

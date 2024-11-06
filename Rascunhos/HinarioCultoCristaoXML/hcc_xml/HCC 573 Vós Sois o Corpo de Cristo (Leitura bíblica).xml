@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:05:07">
+  <properties>
+    <titles>
+      <title>HCC 573 Vós Sois o Corpo de Cristo</title>
+      <title>1 Coríntios 12:12-18, 27</title>
+    </titles>
+    <copyright>1 Coríntios 12:12-18, 27</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="573"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines><tag name="y">Dirigente:</tag><br/>Porque, assim como o corpo é um, e tem muitos membros, e todos os membros do corpo,<br/>embora muitos, formam um só corpo, assim também é Cristo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><tag name="y">Coro:</tag><br/>Pois em um só Espírito fomos todos nós batizados em um só corpo, quer judeus, quer gregos,<br/>quer escravos, quer livres, e a todos nós foi dado beber de um só Espírito.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><tag name="y">Congregação:</tag><br/>Porque também o corpo não é um membro, mas muitos.<br/>Se o pé disser: Porque não sou mão, não sou do corpo; nem por isso deixará de ser do corpo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><tag name="y">Dirigente:</tag><br/>E se a orelha disser: Porque não sou olho, não sou do corpo; nem por isso deixará de ser do corpo.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><tag name="y">Coro:</tag><br/>Se o corpo todo fosse olho, onde estaria o ouvido? Se todo fosse ouvido, onde estaria o olfato?<br/>Mas agora Deus colocou os membros do corpo, cada um deles como quis.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><tag name="y">Dirigente:</tag><br/>Vós sois corpo de Cristo, e individualmente seus membros.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T21:43:37">
+  <properties>
+    <titles>
+      <title>CC 539 Brilhando</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Edwin Excell</author>
+      <author>Nellie Talbot</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cantor Cristão" entry="539"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vejo no céu resplendente<br/>do sol a clara luz;<br/>quero viver tão somente<br/>brilhando por Jesus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Brilhando, brilhando,<br/>quero brilhar como a luz!<br/>Brilhando, brilhando,<br/>sempre brilhar por Jesus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eu quero em tudo exaltá-lo<br/>na escola e no estudar;<br/>nunca também olvidá-lo<br/>em casa e no brincar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Com um viver diligente,<br/>assim me quer Jesus;<br/>sempre com rosto contente,<br/>brilhando como a luz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Do feio e triste pecado,<br/>Senhor, vem-me guardar;<br/>sempre por ti amparado<br/>desejo, ó Deus, andar.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Se esta é a tua vontade,<br/>brilhando viverei,<br/>e pela tua bondade<br/>ao lindo céu irei.</lines>
+    </verse>
+  </lyrics>
+</song>

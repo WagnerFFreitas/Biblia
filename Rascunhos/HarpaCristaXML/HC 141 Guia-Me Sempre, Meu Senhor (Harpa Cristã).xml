@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:53">
+  <properties>
+    <titles>
+      <title>HC141 - Guia-Me Sempre, Meu Senhor</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aonde guiar-me meu Senhor,<br/>Eu seguirei, por Seu amor;<br/>É Sua mão que me conduz,<br/>Por mim ferida sobre a cruz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Guia-me sempre, meu Senhor,<br/>Guia meus passos, Salvador;<br/>Tu me compraste sobre a cruz;<br/>Rege-me em tudo, meu Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Acho prazer em Te seguir;<br/>Descanso e paz me faz sentir;<br/>Doce é a mim o Teu querer,<br/>Gozo me traz Te obedecer.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sigo sem medo o meu Senhor<br/>Que me encheu do Seu amor;<br/>Sentindo perto a Sua mão,<br/>Posso cantar na escuridão.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Para Seu reino me conduz,<br/>Pelo jardim e pela cruz;<br/>Lá ficou morto o velho "eu",<br/>Lá meu espírito reviveu.</lines>
+    </verse>
+  </lyrics>
+</song>

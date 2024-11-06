@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:21">
+  <properties>
+    <titles>
+      <title>HM126 - Sol Da Minha Alma</title>
+      <title>Sol da minha alma és tu, Senhor;</title>
+    </titles>
+    <copyright>2001-Imprensa Metodista</copyright>
+    <authors>
+      <author>Dr. João Gomes da Rocha</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sol da minha alma és tu, Senhor;<br/>Vem toda a treva afugentar!<br/>Que, afim, liberto de temor,<br/>Vá tua glória contemplar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sol da minha alma! Ó pura luz!<br/>A glória eterna está em ti.<br/>Com teu favor, Senhor Jesus,<br/>Refletirei seu brilho aqui.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Há muitos hoje em luto e dor,<br/>Em indigência e tentação.<br/>Vem acudir-lhes, Salvador,<br/>Estende ao pobre a tua mão.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Comigo o dia todo estás;<br/>De ti alcanço todo o bem.<br/>Concede a outros tua paz<br/>E a fé em ti somente. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

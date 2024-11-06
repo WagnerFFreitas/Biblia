@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:59">
+  <properties>
+    <titles>
+      <title>HNC 261 - O Gólgota</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mui longe o monte verde está,<br/>Ao norte de Sião.<br/>Ali na cruz, o bom Jesus,<br/>Nos deu a salvação.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quem neste mundo sondará<br/>A dor que padeceu?<br/>Mas crer podemos: “Foi por nós<br/>Que ali na cruz sofreu.”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Morreu por nós na infame cruz,<br/>Perdão nos concedeu.<br/>Lavou os nossos corações<br/>No sangue que verteu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ninguém podia nos livrar<br/>Da pena eternal.<br/>Só Cristo pôde nos remir<br/>A preço divinal.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Oh! Quanto, quanto nos amou!<br/>Amemo-lo também!<br/>E confiando em Seu amor,<br/>Façamos todo bem.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

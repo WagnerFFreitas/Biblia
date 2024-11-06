@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:04:16">
+  <properties>
+    <titles>
+      <title>HCC 326 Jesus, em Ti Eu Tenho Paz</title>
+      <title>Paz</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Hiram Rollo Júnior</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="326"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Jesus, em ti eu tenho paz;<br/>tu és Senhor do meu viver.<br/>Sem ti a vida se desfaz;</lines>
+      <lines>contigo sei que irei vencer.<br/>Sem ti a vida se desfaz,<br/>contigo sei que irei vencer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">O mundo não conhece a paz<br/>e em trevas vive a padecer.<br/>Somente Cristo é capaz</lines>
+      <lines>de alívio pleno conceder.<br/>Somente Cristo é capaz<br/>de alívio pleno conceder.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Estás aflito e não tens paz ?<br/>Caminhas quase a perecer ?<br/>Jesus é quem te satisfaz</lines>
+      <lines>e abranda todo o teu sofrer.<br/>Jesus é quem te satisfaz<br/>e abranda todo o teu sofrer.</lines>
+    </verse>
+  </lyrics>
+</song>

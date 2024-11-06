@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:41">
+  <properties>
+    <titles>
+      <title>HM226 - Que Fazes Tu Por Mim?</title>
+      <title>Dos altos céus desci,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. João Marques da Mota Sobrinho</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dos altos céus desci,<br/>No mundo vim morar;<br/>Na cruz, por fim, morri,<br/>Tua alma por salvar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Por ti, somente, ó pecador,<br/>Do céu à cruz eu vim;<br/>Por ti provei do inferno o horror;<br/>Que fazes tu por mim?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Então, porque te amei;<br/>Oh! Pobre pecador!<br/>A morte suportei,<br/>Por ser teu Salvador.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Do mais amargo fel<br/>O Cálice eu bebi;<br/>A morte mais cruel<br/>Eu tive só por ti.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vim dar-te bênção, paz<br/>E vida eterna além;<br/>Se creres, viverás.<br/>Não tardes: crê e vem!</lines>
+    </verse>
+  </lyrics>
+</song>

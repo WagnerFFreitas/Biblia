@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-09-21T14:48:56">
+  <properties>
+    <titles>
+      <title>HNC 176 - Fidelidade do Cristão</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c2</verseOrder>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="176"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sempre fiéis, sim, a ti nós seremos,<br/>Por tua graça, bendito Senhor!<br/>Sempre fiéis, nós por ti lutaremos<br/>Com teu poder, ó Jesus, Salvador!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Por ti, ó bendito Cordeiro,<br/>Quem não deseja se te conhecer?<br/>Quem, se de fato é cristão verdadeiro,<br/>Não estará, por ti, pronto a sofrer?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó Salvador, pecadores nós somos,<br/>Como podemos deixar de cair?<br/>Mas, se por ti amparados nós formos,<br/>Sempre fiéis poderemos seguir.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nós te louvamos, pois Tu, que venceste,<br/>Sempre em triunfo nos podes levar.<br/>A teus fiéis, ó Jesus, prometeste<br/>Todos os dias com eles estar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">Sempre fiéis, irmãos aqui sejamos!<br/>Sempre fiéis a Cristo Jesus!<br/>Que até à morte por nós prosseguindo,<br/>Vida nos deu, salvação pela cruz! </tag>
+      </lines>
+    </verse>
+    <verse name="c2">
+      <lines>
+        <tag name="it">Sempre fiéis, irmãos aqui sejamos!<br/>Sempre fiéis a Cristo Jesus!<br/>Que até à morte por nós prosseguindo,<br/>Vida nos deu, salvação pela cruz! Amém.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

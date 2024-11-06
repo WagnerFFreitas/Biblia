@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-21T18:16:54">
+  <properties>
+    <titles>
+      <title>HM299 - Louvor e Súplica</title>
+      <title>Vem, Senhor, do bem a Fonte,</title>
+    </titles>
+    <copyright>2001- Imprensa Metodista</copyright>
+    <authors>
+      <author>Rev. James Theodore Houston</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vem, Senhor, do bem a Fonte,<br/>Vem, celeste Redentor,<br/>Ajudar-me a entoar-te<br/>Dignos hinos de louvor;<br/>Tu, Jesus, por mim morreste<br/>Quero só por ti viver;<br/>Quero em todos os momentos<br/>Tua bênção receber.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eu estava condenado,<br/>Quando Cristo me buscou;<br/>Para me livrar da pena<br/>O seu sangue derramou;<br/>E na morte dolorosa<br/>Paz, perdão e vida achei;<br/>Redimido, eternamente,<br/>Sua glória fruirei.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Desta graça, ó Cristo Amado,<br/>Sou perpétuo devedor.<br/>Mais e mais a ti me prenda<br/>Ó Jesus, o teu amor.<br/>Sou ingrato, reconheço,<br/>Peço, meu Senhor, perdão;<br/>Vem livrar-me do pecado<br/>E reger meu coração.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:50">
+  <properties>
+    <titles>
+      <title>HC480 - Fim Do Ano</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deus eterno, em Tua presença,<br/>Nossos séculos horas são<br/>E um segundo a existência<br/>Da humana geração;<br/>Mas o homem que ao Teu lado,<br/>Pela fé quer já voar,<br/>Neste mundo de pecado,<br/>Lento o tempo vê passar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Outro ano há fenecido,<br/>Que o viver mais encurtou,<br/>E o descanso apetecido,<br/>Algo mais se aproximou.<br/>Graças mil por Teus favores,<br/>Tua Igreja, ó Deus, te dá!<br/>Aleluias e louvores,<br/>Teu poder nos susterá!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu proteges as famílias,<br/>Visitando cada lar;<br/>Se o Senhor nos auxilia,<br/>Que nos pode aqui faltar?<br/>Onde quer que Te ame o homem,<br/>E Te sirva, andando bem,<br/>Faze que seja o Teu nome<br/>Exaltado sempre! Amém! Amém!</lines>
+    </verse>
+  </lyrics>
+</song>

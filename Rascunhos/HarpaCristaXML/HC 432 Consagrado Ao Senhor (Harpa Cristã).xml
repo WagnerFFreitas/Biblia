@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:41">
+  <properties>
+    <titles>
+      <title>HC432 - Consagrado Ao Senhor</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Minha vida seja sim,<br/>Consagrada a Ti, Senhor;<br/>Possas sempre Tu por mim,<br/>Operar o Teu amor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A minh'alma lava Salvador<br/>No Teu sangue puro, carmezim;<br/>Minha vida toma para ser, Senhor,<br/>Tua para sempre, sim.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Que meus pés somente vão<br/>Onde os santos possam ir;<br/>Numa eternal canção,<br/>Minha voz se faça ouvir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Seja o meu tempo já,<br/>Consagrado em Teu labor;<br/>Que meus lábios, Jeová,<br/>Falem só do Teu amor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Toma, ó Deus, o meu querer,<br/>Faze-o Teu, ó Salvador,<br/>Hoje habita no meu ser;<br/>Enche-me do Teu fervor.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó recebe-me, Senhor,<br/>Quando venho me prostar<br/>A Teus pés, ó Salvador,<br/>Hoje vem me consagrar.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:59">
+  <properties>
+    <titles>
+      <title>HCC 234 Pai Celeste, Deus Bendito</title>
+      <title>Constancy</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Raphael Pages</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="234"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Pai celeste, Deus bendito,<br/>manifesta teu amor!<br/>A teus pés, aqui prostrados,<br/>imploramos teu favor.</lines>
+      <lines>Aos que jazem no pecado,<br/>mostra a luz da salvação.<br/>Vem brilhar em nossas almas,<br/>ilumina o coração.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Nesta vida atribulada,<br/>vem, Senhor, nos consolar.<br/>Aos aflitos e cansados<br/>mostra teu amor sem par.</lines>
+      <lines>Nas fraquezas dá conforto,<br/>aumentando a nossa fé<br/>e firmando, com bondade,<br/>sobre a Rocha nosso pé.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Nossas culpas e delitos<br/>tu nos podes perdoar.<br/>Vem guiar-nos no caminho<br/>que conduz ao santo lar.</lines>
+      <lines>Por Jesus, teu Filho amado,<br/>nosso eterno Sumo Bem,<br/>tudo nós te suplicamos.<br/>Glória a ti, Senhor. Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

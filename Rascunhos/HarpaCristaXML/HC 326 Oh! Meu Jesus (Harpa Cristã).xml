@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:55:22">
+  <properties>
+    <titles>
+      <title>HC326 - Oh! Meu Jesus</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó meu Jesus, quando lutas no caminho encontrar,<br/>A Tua mão divina vem me ajudar;<br/>Não temerei amparado por Ti mesmo, meu Jesus,<br/>Ó Salvador, a vitória me vem por Tua luz,<br/>Por Ti espero somente, meu Senhor,<br/>Para andar de valor em valor;<br/>Ó meu Jesus, minhas forças hei de ver mais aumentar;<br/>Tendo a fé; Tua graça me há de bastar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó meu Jesus, encostado em Teu braço vou andar,<br/>E com amor na sã Palavra meditar;<br/>Sempre assim na peleja,<br/>por Jesus eu vencerei,<br/>E pela fé, abrigado do mal estarei;<br/>Já bem armado as trevas desfarei,<br/>Pelo poder de Jesus, o meu Rei!<br/>Ó meu Jesus, que me dás,<br/>no coração, do Teu amor,<br/>Hei de Te ver glorioso, no céu d'esplendor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó meu Jesus, o Teu nome invocarei com mui amor,<br/>Todo o poder Te foi entregue Salvador;<br/>De todo o ser, o joelho ante Ti se dobrará;<br/>Que és o Senhor, toda língua testificará,<br/>Os nossos pés, Salvador queiras firmar<br/>Na rocha, que não se pode abalar;<br/>Ó meu Jesus, Tua graça quero sempre procurar,<br/>Té que eu vá nos Teus braços enfim repousar.</lines>
+    </verse>
+  </lyrics>
+</song>

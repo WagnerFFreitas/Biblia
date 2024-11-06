@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.3" modifiedIn="OpenLP 2.0.3" modifiedDate="2013-12-24T18:13:28">
+  <properties>
+    <titles>
+      <title>HNC 381 - Intercessão pela Cidade</title>
+    </titles>
+    <authors>
+      <author>Hinário Novo Cântico</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Novo Cântico" entry="381"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A cidade, ó Deus, protege,<br/>Cada rua, cada lar,<br/>Seus cansados transeuntes,<br/>Todo o humano labutar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Guarda a todos os governantes<br/>E aos que fazem nossa lei;<br/>E que graças toda gente<br/>Renda a ti, supremo Rei!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Abençoa a nossa indústria<br/>E os que lutam pelo pão.<br/>E que nós, Senhor, cantemos:<br/>“Tudo vem de tua mão!”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Abençoa aos que trabalham,<br/>Ao fiel batalhador!<br/>Eficientes, produtivos,<br/>Faze-os sempre, bom Senhor!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Abençoa nossa Igreja,<br/>Nossos dias, nosso lar;<br/>E que assim, por toda a vida,<br/>Nós possamos te louvar! Amém.</lines>
+    </verse>
+  </lyrics>
+</song>

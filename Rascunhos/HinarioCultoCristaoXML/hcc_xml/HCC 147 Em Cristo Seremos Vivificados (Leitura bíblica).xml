@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:43">
+  <properties>
+    <titles>
+      <title>HCC 147 Em Cristo Seremos Vivificados</title>
+      <title>1 Coríntios 15:19-22; Jó 19:25</title>
+    </titles>
+    <copyright>1 Coríntios 15:19-22; Jó 19:25</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="147"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines><tag name="y">Todos:</tag><br/>Se é só para esta vida que esperamos em Cristo,<br/>somos de todos os homens os mais dignos de lástima.<br/>Mas na realidade Cristo foi ressuscitado dentre os mortos.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><tag name="y">Dirigente:</tag><br/>Porque, assim como por um homem veio a morte,<br/>também por um homem veio a ressurreição dos mortos.<br/>Pois como em Adão todos morrem, do mesmo modo em Cristo todos serão vivificados.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><tag name="y">Todos:</tag><br/>Pois eu sei que o meu Redentor vive, e que por fim se levantará sobre a terra.</lines>
+    </verse>
+  </lyrics>
+</song>

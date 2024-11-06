@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:38">
+  <properties>
+    <titles>
+      <title>HCC 118 São de Jesus as Histórias</title>
+      <title>Stories Of Jesus</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>William Parker</author>
+      <author>Hugh Martin</author>
+      <author>Frederic Challinor</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="118"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">São de Jesus as histórias que eu quero ouvir.<br/>Elas me mostram o modo certo de agir.</lines>
+      <lines>Quando nos montes, à beira-mar,<br/>tudo o que fez, oh, vem me contar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Simples crianças queriam dele aprender.<br/>Hoje, ao ouví-lo, desejo tudo reter.</lines>
+      <lines>Que grande bênção, que grande paz!<br/>Cristo, meu Mestre, me satisfaz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Essas histórias me falam do seu poder<br/>de transformar minha vida num novo ser.</lines>
+      <lines>Sempre com ele quero ficar;<br/>suas verdades vou proclamar.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-11-14T22:03:23">
+  <properties>
+    <titles>
+      <title>HCC 041 O Senhor Te Guiará</title>
+      <title>Isaías 55:12; 58:8-11; 42:10, 12, 6-8; 55:12</title>
+    </titles>
+    <copyright>Isaías 55:12; 58:8-11; 42:10, 12, 6-8; 55:12</copyright>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author>Leitura bíblica</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hinário Para o Culto Cristão" entry="041"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines><tag name="y">Todos:</tag><br/>Com alegria saireis, e em paz sereis guiados; os montes e os outeiros romperão em cânticos diante de vós, e todas as árvores do campo baterão palmas.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><tag name="y">Coro:</tag><br/>Então romperá a tua luz como a alva, e a tua cura apressadamente brotará; e a tua justiça irá adiante de ti; e a glória do Senhor será a tua retaguarda.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><tag name="y">Pastor:</tag><br/>Então clamarás, e o Senhor te responderá; gritarás, e ele dirá: Eis-me aqui. Se tirares do meio de ti o jugo, e estender do dedo, e o falar iniquamente; e se abrires a tua alma ao faminto, e fartares o aflito;</lines>
+    </verse>
+    <verse name="v4">
+      <lines><tag name="y">Coro:</tag><br/>então a tua luz nascerá nas trevas, e a tua escuridão será como meio-dia.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><tag name="y">Todos:</tag><br/>O Senhor te guiará continuamente, e te fartará até em lugares áridos, e fortificará os teus ossos; serás como um jardim regado, e como um manancial, cujas águas nunca falham.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><tag name="y">Coro:</tag><br/>Cantai ao Senhor um cântico novo, e o seu louvor desde a extremidade da terra (...) Deem glória ao Senhor, e anunciem nas ilhas o seu louvor.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><tag name="y">Pastor:</tag><br/>Eu, o Senhor, te chamei em justiça; tomei-te pela mão, e te guardei; e te dei por pacto ao povo, e para luz das nações;</lines>
+    </verse>
+    <verse name="v8">
+      <lines><tag name="y">Coro:</tag><br/>para abrir os olhos dos cegos, para tirar da prisão os presos, e do cárcere os que jazem em trevas.</lines>
+    </verse>
+    <verse name="v9">
+      <lines><tag name="y">Todos:</tag><br/>Eu sou o Senhor; este é o meu nome. Com alegria saireis, e em paz sereis guiados.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-19T21:54:54">
+  <properties>
+    <titles>
+      <title>HC148 - Bendirei A Jesus</title>
+    </titles>
+    <copyright>Harpa Cristã</copyright>
+    <authors>
+      <author>Autor Desconhecido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Louvarei meu Guia sábio,<br/>Louvarei, louvarei;<br/>Bendirei, com alma e lábios,<br/>Bendirei Jesus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Aleluia! Louvo a Jesus!<br/>Deu-me salvação na cruz!<br/>Aleluia a quem me conduz!<br/>Glória a meu Jesus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Louvarei a quem me ampara,<br/>Louvarei, louvarei;<br/>Nada dEle me separa;<br/>Bendirei Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A quem leva os meus cuidados,<br/>Louvarei, louvarei;<br/>Me sustenta os pés cansados,<br/>Bendirei Jesus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A quem dá-me aqui vitória,<br/>Louvarei, louvarei;<br/>Dar-me-à coroa e glória;<br/>Bendirei Jesus.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Meu sublime Rei glorioso,<br/>Louvarei, louvarei;<br/>Em celeste coro e gozo,<br/>Bendirei Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>
