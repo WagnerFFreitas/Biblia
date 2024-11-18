@@ -87,7 +87,7 @@ const livros = {
     "joel": {
         "capitulos": 3
     },
-    "amós": {
+    "amos": {
         "capitulos": 9
     },
     "abdias": {
@@ -126,7 +126,7 @@ const livros = {
     "lucas": {
         "capitulos": 24
     },
-    "joão": {
+    "joao": {
         "capitulos": 21
     },
     "atos": {
@@ -144,7 +144,7 @@ const livros = {
     "gálatas": {
         "capitulos": 6
     },
-    "efésios": {
+    "efesios": {
         "capitulos": 6
     },
     "filipenses": {
@@ -159,10 +159,10 @@ const livros = {
     "2tessalonicenses": {
         "capitulos": 3
     },
-    "1timóteo": {
+    "1timoteo": {
         "capitulos": 6
     },
-    "2timóteo": {
+    "2timoteo": {
         "capitulos": 4
     },
     "tito": {
@@ -183,13 +183,13 @@ const livros = {
     "2pedro": {
         "capitulos": 3
     },
-    "1joão": {
+    "1joao": {
         "capitulos": 5
     },
-    "2joão": {
+    "2joao": {
         "capitulos": 1
     },
-    "3joão": {
+    "3joao": {
         "capitulos": 1
     },
     "jude": {
