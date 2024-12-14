@@ -6,10 +6,26 @@
             padding: 20px;
             background-color: #f4f4f4;
         }
+        
         h1 {
             text-align: center;
-            color: #333;
+            color: #3663bd;
+            font-size: 2.5em; 
+            font-weight: 900; /* Aumenta a espessura da fonte */
+            font-style: italic;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Efeito de sombra */
         }
+
+        h2 {
+            text-align: left;
+            color: #3663bd;
+            font-size: 2em; 
+            font-weight: 900; /* Aumenta a espessura da fonte */
+            font-style: italic;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Efeito de sombra */
+        }
+
+        
         ul {
             list-style-type: none;
             padding: 0;
