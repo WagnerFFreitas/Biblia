@@ -1,0 +1,549 @@
+index.html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harpa Cristã</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Harpa Cristã</h1>
+        </header>
+        
+        <div class="content">
+            <div class="hymn-list">
+                <div id="hymnListContainer"></div>
+            </div>
+            
+            <div class="hymn-view">
+                <div id="hymnContent">
+                    <p class="select-message">Selecione um hino para começar</p>
+                </div>
+                <button id="presentationMode" class="presentation-button">
+                    Modo Apresentação
+                </button>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+
+index.html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harpa Cristã</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Harpa Cristã</h1>
+        </header>
+        
+        <div class="content">
+            <div class="hymn-list">
+                <div id="hymnListContainer"></div>
+            </div>
+            
+            <div class="hymn-view">
+                <div id="hymnContent">
+                    <p class="select-message">Selecione um hino para começar</p>
+                </div>
+                <button id="presentationMode" class="presentation-button">
+                    Modo Apresentação
+                </button>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+styles.css
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+header {
+    background-color: #8B4513;
+    padding: 1rem 2rem;
+}
+
+header h1 {
+    color: white;
+    font-size: 1.5rem;
+}
+
+.content {
+    display: flex;
+    flex: 1;
+    overflow: hidden;
+}
+
+.hymn-list {
+    width: 300px;
+    background-color: #f5f5f5;
+    border-right: 1px solid #ddd;
+    overflow-y: auto;
+    padding: 1rem;
+}
+
+.hymn-button {
+    width: 100%;
+    padding: 0.5rem 1rem;
+    text-align: left;
+    background: none;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 0.5rem;
+    border-radius: 4px;
+}
+
+.hymn-button:hover {
+    background-color: #DEB887;
+}
+
+.hymn-button.active {
+    background-color: #8B4513;
+    color: white;
+}
+
+.hymn-view {
+    flex: 1;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#hymnContent {
+    max-width: 800px;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.select-message {
+    color: #666;
+    font-style: italic;
+}
+
+.presentation-button {
+    padding: 0.5rem 1rem;
+    background-color: #8B4513;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.presentation-button:hover {
+    background-color: #6b3410;
+}
+
+.verse {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+    white-space: pre-wrap;
+}
+
+.verse-navigation {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+script.js
+const sampleHymns = [
+    {
+        number: 1,
+        name: "Chuvas de Graça",
+        verses: [
+            "Deus prometeu com certeza\nChuvas de graça mandar;\nSeu Santo Espírito hoje\nQuer nossa alma saciar.",
+            "Chuvas de graça,\nChuvas pedimos, Senhor;\nManda-nos chuvas constantes,\nChuvas do Consolador.",
+            "Cristo nos tem concedido\nO santo Consolador,\nDando-nos paz e alegria,\nProvas de Seu grande amor."
+        ]
+    },
+    {
+        number: 2,
+        name: "Saudosa Lembrança",
+        verses: [
+            "Saudosa lembrança do tempo passado,\nDo povo que amava ao Senhor;\nQuando ele vivia submisso e guardado\nPor Deus, em Seu grande amor.",
+            "Mas hoje, que vemos? Que quadro tristonho!\nQue sono pesado e fatal!\nParece um enfermo em letargo medonho,\nDormindo em pecado mortal."
+        ]
+    }
+];
+
+let currentHymn = null;
+let currentVerse = 0;
+let presentationWindow = null;
+
+function createHymnList() {
+    const container = document.getElementById('hymnListContainer');
+    sampleHymns.forEach(hymn => {
+        const button = document.createElement('button');
+        button.className = 'hymn-button';
+        button.textContent = `${hymn.number}. ${hymn.name}`;
+        button.onclick = () => selectHymn(hymn);
+        container.appendChild(button);
+    });
+}
+
+function selectHymn(hymn) {
+    currentHymn = hymn;
+    currentVerse = 0;
+    updateHymnView();
+    updateHymnButtons();
+}
+
+function updateHymnButtons() {
+    const buttons = document.querySelectorAll('.hymn-button');
+    buttons.forEach(button => {
+        button.classList.remove('active');
+        if (currentHymn && button.textContent.startsWith(`${currentHymn.number}.`)) {
+            button.classList.add('active');
+        }
+    });
+}
+
+function updateHymnView() {
+    const content = document.getElementById('hymnContent');
+    if (!currentHymn) {
+        content.innerHTML = '<p class="select-message">Selecione um hino para começar</p>';
+        return;
+    }
+
+    content.innerHTML = `
+        <h2>${currentHymn.number}. ${currentHymn.name}</h2>
+        <div class="verse">${currentHymn.verses[currentVerse]}</div>
+        <div class="verse-navigation">
+            <button onclick="previousVerse()" ${currentVerse === 0 ? 'disabled' : ''}>
+                VOLTAR
+            </button>
+            <span>Estrofe ${currentVerse + 1} de ${currentHymn.verses.length}</span>
+            <button onclick="nextVerse()" ${currentVerse === currentHymn.verses.length - 1 ? 'disabled' : ''}>
+                SEGUINTE
+            </button>
+        </div>
+    `;
+}
+
+function previousVerse() {
+    if (currentVerse > 0) {
+        currentVerse--;
+        updateHymnView();
+        updatePresentationWindow();
+    }
+}
+
+function nextVerse() {
+    if (currentVerse < currentHymn.verses.length - 1) {
+        currentVerse++;
+        updateHymnView();
+        updatePresentationWindow();
+    }
+}
+
+function updatePresentationWindow() {
+    if (presentationWindow && !presentationWindow.closed && currentHymn) {
+        const content = presentationWindow.document.querySelector('.content');
+        if (content) {
+            content.textContent = currentHymn.verses[currentVerse];
+        }
+    }
+}
+
+function openPresentationMode() {
+    if (presentationWindow && !presentationWindow.closed) {
+        presentationWindow.close();
+    }
+
+    presentationWindow = window.open('', 'presentation', 'fullscreen=yes');
+    presentationWindow.document.write(`
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>Apresentação - Harpa Cristã</title>
+            <style>
+                body {
+                    margin: 0;
+                    padding: 0;
+                    height: 100vh;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    background: url('https://images.unsplash.com/photo-1472396961693-142e6e269027') center/cover no-repeat;
+                    background-color: rgba(0, 0, 0, 0.7);
+                    background-blend-mode: overlay;
+                    color: white;
+                    font-family: 'Times New Roman', serif;
+                }
+                .content {
+                    text-align: center;
+                    font-size: 2.5rem;
+                    padding: 2rem;
+                    white-space: pre-wrap;
+                }
+            </style>
+        </head>
+        <body>
+            <div class="content">${currentHymn ? currentHymn.verses[currentVerse] : ''}</div>
+        </body>
+        </html>
+    `);
+}
+
+document.getElementById('presentationMode').onclick = openPresentationMode;
+
+// Inicializar a lista de hinos quando a página carregar
+document.addEventListener('DOMContentLoaded', createHymnList);
+
+------------------------------
+styles.css
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    color: #333;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+header {
+    background-color: #8B4513;
+    padding: 1rem 2rem;
+}
+header h1 {
+    color: white;
+    font-size: 1.5rem;
+}
+.content {
+    display: flex;
+    flex: 1;
+    overflow: hidden;
+}
+.hymn-list {
+    width: 300px;
+    background-color: #f5f5f5;
+    border-right: 1px solid #ddd;
+    overflow-y: auto;
+    padding: 1rem;
+}
+.hymn-button {
+    width: 100%;
+    padding: 0.5rem 1rem;
+    text-align: left;
+    background: none;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 0.5rem;
+    border-radius: 4px;
+}
+.hymn-button:hover {
+    background-color: #DEB887;
+}
+.hymn-button.active {
+    background-color: #8B4513;
+    color: white;
+}
+.hymn-view {
+    flex: 1;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#hymnContent {
+    max-width: 800px;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.select-message {
+    color: #666;
+    font-style: italic;
+}
+.presentation-button {
+    padding: 0.5rem 1rem;
+    background-color: #8B4513;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.presentation-button:hover {
+    background-color: #6b3410;
+}
+.verse {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+    white-space: pre-wrap;
+}
+.verse-navigation {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+
+script.js
+const sampleHymns = [
+    {
+        number: 1,
+        name: "Chuvas de Graça",
+        verses: [
+            "Deus prometeu com certeza\nChuvas de graça mandar;\nSeu Santo Espírito hoje\nQuer nossa alma saciar.",
+            "Chuvas de graça,\nChuvas pedimos, Senhor;\nManda-nos chuvas constantes,\nChuvas do Consolador.",
+            "Cristo nos tem concedido\nO santo Consolador,\nDando-nos paz e alegria,\nProvas de Seu grande amor."
+        ]
+    },
+    {
+        number: 2,
+        name: "Saudosa Lembrança",
+        verses: [
+            "Saudosa lembrança do tempo passado,\nDo povo que amava ao Senhor;\nQuando ele vivia submisso e guardado\nPor Deus, em Seu grande amor.",
+            "Mas hoje, que vemos? Que quadro tristonho!\nQue sono pesado e fatal!\nParece um enfermo em letargo medonho,\nDormindo em pecado mortal."
+        ]
+    }
+];
+let currentHymn = null;
+let currentVerse = 0;
+let presentationWindow = null;
+function createHymnList() {
+    const container = document.getElementById('hymnListContainer');
+    sampleHymns.forEach(hymn => {
+        const button = document.createElement('button');
+        button.className = 'hymn-button';
+        button.textContent = `${hymn.number}. ${hymn.name}`;
+        button.onclick = () => selectHymn(hymn);
+        container.appendChild(button);
+    });
+}
+function selectHymn(hymn) {
+    currentHymn = hymn;
+    currentVerse = 0;
+    updateHymnView();
+    updateHymnButtons();
+}
+function updateHymnButtons() {
+    const buttons = document.querySelectorAll('.hymn-button');
+    buttons.forEach(button => {
+        button.classList.remove('active');
+        if (currentHymn && button.textContent.startsWith(`${currentHymn.number}.`)) {
+            button.classList.add('active');
+        }
+    });
+}
+function updateHymnView() {
+    const content = document.getElementById('hymnContent');
+    if (!currentHymn) {
+        content.innerHTML = '<p class="select-message">Selecione um hino para começar</p>';
+        return;
+    }
+    content.innerHTML = `
+        <h2>${currentHymn.number}. ${currentHymn.name}</h2>
+        <div class="verse">${currentHymn.verses[currentVerse]}</div>
+        <div class="verse-navigation">
+            <button onclick="previousVerse()" ${currentVerse === 0 ? 'disabled' : ''}>
+                VOLTAR
+            </button>
+            <span>Estrofe ${currentVerse + 1} de ${currentHymn.verses.length}</span>
+            <button onclick="nextVerse()" ${currentVerse === currentHymn.verses.length - 1 ? 'disabled' : ''}>
+                SEGUINTE
+            </button>
+        </div>
+    `;
+}
+function previousVerse() {
+    if (currentVerse > 0) {
+        currentVerse--;
+        updateHymnView();
+        updatePresentationWindow();
+    }
+}
+function nextVerse() {
+    if (currentVerse < currentHymn.verses.length - 1) {
+        currentVerse++;
+        updateHymnView();
+        updatePresentationWindow();
+    }
+}
+function updatePresentationWindow() {
+    if (presentationWindow && !presentationWindow.closed && currentHymn) {
+        const content = presentationWindow.document.querySelector('.content');
+        if (content) {
+            content.textContent = currentHymn.verses[currentVerse];
+        }
+    }
+}
+function openPresentationMode() {
+    if (presentationWindow && !presentationWindow.closed) {
+        presentationWindow.close();
+    }
+    presentationWindow = window.open('', 'presentation', 'fullscreen=yes');
+    presentationWindow.document.write(`
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>Apresentação - Harpa Cristã</title>
+            <style>
+                body {
+                    margin: 0;
+                    padding: 0;
+                    height: 100vh;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    background: url('https://images.unsplash.com/photo-1472396961693-142e6e269027') center/cover no-repeat;
+                    background-color: rgba(0, 0, 0, 0.7);
+                    background-blend-mode: overlay;
+                    color: white;
+                    font-family: 'Times New Roman', serif;
+                }
+                .content {
+                    text-align: center;
+                    font-size: 2.5rem;
+                    padding: 2rem;
+                    white-space: pre-wrap;
+                }
+            </style>
+        </head>
+        <body>
+            <div class="content">${currentHymn ? currentHymn.verses[currentVerse] : ''}</div>
+        </body>
+        </html>
+    `);
+}
+document.getElementById('presentationMode').onclick = openPresentationMode;
+// Inicializar a lista de hinos quando a página carregar
+document.addEventListener('DOMContentLoaded', createHymnList);

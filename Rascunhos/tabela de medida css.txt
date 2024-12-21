@@ -1,0 +1,24 @@
+Medida	Pixels (px)	Rem	Porcentagem (%)
+Muito Pequena	8px	0.5rem	50%
+Pequena	10px	0.625rem	62.5%
+Média Pequena	12px	0.75rem	75%
+Média	16px	1rem	100%
+Média Grande	18px	1.125rem	112.5%
+Grande	24px	1.5rem	150%
+Grande Extra	30px	1.875rem	187.5%
+Extra Grande	36px	2.25rem	225%
+Enorme	48px	3rem	300%
+Gigante	60px	3.75rem	375%
+Colossal	72px	4.5rem	450%
+Observações:
+
+A unidade rem é relativa ao tamanho da fonte do elemento raiz (geralmente o elemento <html>). No exemplo acima, considerei que o tamanho da fonte do elemento raiz é de 16px.
+A unidade % é relativa ao tamanho da fonte do elemento pai. No exemplo acima, considerei que o tamanho da fonte do elemento pai é de 16px.
+A tabela acima é apenas um exemplo e os valores podem variar dependendo do contexto e do design do seu site ou aplicativo.
+Lembre-se de que a escolha da unidade de medida depende do contexto e do objetivo do seu design. Aqui estão algumas dicas gerais:
+
+Use px para medidas fixas e precisas.
+Use rem para medidas relativas ao tamanho da fonte do elemento raiz.
+Use % para medidas relativas ao tamanho da fonte do elemento pai.
+Gostaria que eu elaborasse mais sobre isso ou fornecesse mais exemplos?
+

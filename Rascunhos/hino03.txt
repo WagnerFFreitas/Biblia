@@ -1,0 +1,1829 @@
+1A
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harpa Cristã</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Harpa Cristã</h1>
+        </header>
+        
+        <div class="content">
+            <div class="sidebar">
+                <div class="hino-list" id="hinoList">
+                    <!-- Lista de hinos será preenchida via JavaScript -->
+                </div>
+            </div>
+            
+            <div class="main-content">
+                <div id="hinoContent"></div>
+                <button id="openPresentation" class="presentation-btn">
+                    Modo Apresentação
+                </button>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+header {
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+.content {
+    display: flex;
+    flex: 1;
+}
+
+.sidebar {
+    width: 250px;
+    background-color: #f8f8f8;
+    padding: 20px;
+    overflow-y: auto;
+}
+
+.hino-list {
+    display: flex;
+    flex-direction: column;
+}
+
+.hino-item {
+    padding: 10px;
+    cursor: pointer;
+    border-bottom: 1px solid #ddd;
+}
+
+.hino-item:hover {
+    background-color: #e0e0e0;
+}
+
+.main-content {
+    flex: 1;
+    padding: 20px;
+}
+
+.presentation-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+/* Estilos para a janela de apresentação */
+.presentation-window {
+    background-image: url('harpa_background.jpg');
+    background-size: cover;
+    color: white;
+    padding: 40px;
+    text-align: center;
+}
+
+.navigation-buttons {
+    position: fixed;
+    bottom: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.nav-button {
+    padding: 10px 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border: none;
+    cursor: pointer;
+}
+
+
+let harpaCrista = null;
+let currentHino = null;
+let currentVerse = 0;
+let presentationWindow = null;
+
+// Carregar o arquivo JSON
+fetch('harpa_crista.json')
+    .then(response => response.json())
+    .then(data => {
+        harpaCrista = data;
+        populateHinoList();
+    });
+
+function populateHinoList() {
+    const hinoList = document.getElementById('hinoList');
+    harpaCrista.forEach(hino => {
+        const hinoItem = document.createElement('div');
+        hinoItem.className = 'hino-item';
+        hinoItem.textContent = `${hino.numero} - ${hino.nome}`;
+        hinoItem.onclick = () => selectHino(hino);
+        hinoList.appendChild(hinoItem);
+    });
+}
+
+function selectHino(hino) {
+    currentHino = hino;
+    currentVerse = 0;
+    displayHino();
+}
+
+function displayHino() {
+    const hinoContent = document.getElementById('hinoContent');
+    hinoContent.innerHTML = `
+        <h2>${currentHino.numero} - ${currentHino.nome}</h2>
+        <div>${currentHino.estrofes[currentVerse]}</div>
+    `;
+}
+
+document.getElementById('openPresentation').onclick = () => {
+    if (currentHino) {
+        presentationWindow = window.open('', '_blank', 'fullscreen=yes');
+        presentationWindow.document.write(`
+            <!DOCTYPE html>
+            <html>
+            <head>
+                <title>Apresentação - Harpa Cristã</title>
+                <link rel="stylesheet" href="styles.css">
+            </head>
+            <body class="presentation-window">
+                <div id="presentationContent"></div>
+                <div class="navigation-buttons">
+                    <button class="nav-button" onclick="window.opener.previousVerse()">VOLTAR</button>
+                    <button class="nav-button" onclick="window.opener.nextVerse()">SEGUINTE</button>
+                </div>
+            </body>
+            </html>
+        `);
+        updatePresentation();
+    }
+};
+
+function updatePresentation() {
+    if (presentationWindow && !presentationWindow.closed) {
+        const content = presentationWindow.document.getElementById('presentationContent');
+        content.innerHTML = `
+            <h2>${currentHino.numero} - ${currentHino.nome}</h2>
+            <div>${currentHino.estrofes[currentVerse]}</div>
+        `;
+    }
+}
+
+function nextVerse() {
+    if (currentHino && currentVerse < currentHino.estrofes.length - 1) {
+        currentVerse++;
+        updatePresentation();
+    }
+}
+
+function previousVerse() {
+    if (currentHino && currentVerse > 0) {
+        currentVerse--;
+        updatePresentation();
+    }
+}
+
+1B
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harpa Cristã Digital</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h1>Harpa Cristã</h1>
+                <div class="search-container">
+                    <input type="text" id="searchInput" placeholder="Buscar hino...">
+                    <i class="fas fa-search"></i>
+                </div>
+            </div>
+            <div class="hino-list" id="hinoList">
+                <!-- Lista de hinos será preenchida via JavaScript -->
+            </div>
+        </aside>
+
+        <main class="main-content">
+            <div class="toolbar">
+                <button id="decreaseFontSize" class="tool-button">
+                    <i class="fas fa-minus"></i>
+                </button>
+                <button id="increaseFontSize" class="tool-button">
+                    <i class="fas fa-plus"></i>
+                </button>
+                <button id="toggleTheme" class="tool-button">
+                    <i class="fas fa-moon"></i>
+                </button>
+                <button id="openPresentation" class="tool-button presentation-btn">
+                    <i class="fas fa-tv"></i> Modo Apresentação
+                </button>
+            </div>
+
+            <div id="hinoContent" class="hino-content">
+                <div class="welcome-message">
+                    <i class="fas fa-book-open fa-3x"></i>
+                    <h2>Bem-vindo à Harpa Cristã Digital</h2>
+                    <p>Selecione um hino da lista para começar</p>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+:root {
+    --primary-color: #2c3e50;
+    --secondary-color: #3498db;
+    --background-color: #ffffff;
+    --text-color: #333333;
+    --sidebar-width: 300px;
+    --transition-speed: 0.3s;
+}
+
+[data-theme="dark"] {
+    --primary-color: #1a1a1a;
+    --secondary-color: #3498db;
+    --background-color: #121212;
+    --text-color: #ffffff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+}
+
+/* Sidebar Styles */
+.sidebar {
+    width: var(--sidebar-width);
+    background-color: var(--primary-color);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    transition: var(--transition-speed);
+}
+
+.sidebar-header {
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.sidebar-header h1 {
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+}
+
+.search-container {
+    position: relative;
+    margin-top: 10px;
+}
+
+.search-container input {
+    width: 100%;
+    padding: 10px 35px 10px 15px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.1);
+    color: white;
+}
+
+.search-container i {
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.hino-list {
+    flex: 1;
+    overflow-y: auto;
+    padding: 10px;
+}
+
+.hino-item {
+    padding: 12px 15px;
+    margin: 5px 0;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: var(--transition-speed);
+}
+
+.hino-item:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.hino-item.active {
+    background-color: var(--secondary-color);
+}
+
+/* Main Content Styles */
+.main-content {
+    flex: 1;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    display: flex;
+    flex-direction: column;
+    transition: var(--transition-speed);
+}
+
+.toolbar {
+    padding: 15px;
+    display: flex;
+    gap: 10px;
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+.tool-button {
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: var(--secondary-color);
+    color: white;
+    cursor: pointer;
+    transition: var(--transition-speed);
+}
+
+.tool-button:hover {
+    opacity: 0.9;
+}
+
+.presentation-btn {
+    margin-left: auto;
+}
+
+.hino-content {
+    flex: 1;
+    padding: 30px;
+    overflow-y: auto;
+    line-height: 1.6;
+}
+
+.welcome-message {
+    text-align: center;
+    padding: 50px;
+    color: var(--text-color);
+}
+
+.welcome-message i {
+    margin-bottom: 20px;
+    color: var(--secondary-color);
+}
+
+/* Presentation Window Styles */
+.presentation-window {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+                      url('harpa_background.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 40px;
+}
+
+.presentation-content {
+    font-size: 2em;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.navigation-buttons {
+    position: fixed;
+    bottom: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.nav-button {
+    padding: 15px 30px;
+    background-color: rgba(255, 255, 255, 0.2);
+    color: white;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: var(--transition-speed);
+}
+
+.nav-button:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+/* Scrollbar Styles */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.1);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--
+
+Aqui está uma versão melhorada e modernizada do código, com um design mais atraente e funcionalidades adicionais:
+
+**index.html:**
+```html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harpa Cristã Digital</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h1>Harpa Cristã</h1>
+                <div class="search-container">
+                    <input type="text" id="searchInput" placeholder="Buscar hino...">
+                    <i class="fas fa-search"></i>
+                </div>
+            </div>
+            <div class="hino-list" id="hinoList">
+                <!-- Lista de hinos será preenchida via JavaScript -->
+            </div>
+        </aside>
+
+        <main class="main-content">
+            <div class="toolbar">
+                <button id="decreaseFontSize" class="tool-button">
+                    <i class="fas fa-minus"></i>
+                </button>
+                <button id="increaseFontSize" class="tool-button">
+                    <i class="fas fa-plus"></i>
+                </button>
+                <button id="toggleTheme" class="tool-button">
+                    <i class="fas fa-moon"></i>
+                </button>
+                <button id="openPresentation" class="tool-button presentation-btn">
+                    <i class="fas fa-tv"></i> Modo Apresentação
+                </button>
+            </div>
+
+            <div id="hinoContent" class="hino-content">
+                <div class="welcome-message">
+                    <i class="fas fa-book-open fa-3x"></i>
+                    <h2>Bem-vindo à Harpa Cristã Digital</h2>
+                    <p>Selecione um hino da lista para começar</p>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+```
+
+**styles.css:**
+```css
+:root {
+    --primary-color: #2c3e50;
+    --secondary-color: #3498db;
+    --background-color: #ffffff;
+    --text-color: #333333;
+    --sidebar-width: 300px;
+    --transition-speed: 0.3s;
+}
+
+[data-theme="dark"] {
+    --primary-color: #1a1a1a;
+    --secondary-color: #3498db;
+    --background-color: #121212;
+    --text-color: #ffffff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+}
+
+/* Sidebar Styles */
+.sidebar {
+    width: var(--sidebar-width);
+    background-color: var(--primary-color);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    transition: var(--transition-speed);
+}
+
+.sidebar-header {
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.sidebar-header h1 {
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+}
+
+.search-container {
+    position: relative;
+    margin-top: 10px;
+}
+
+.search-container input {
+    width: 100%;
+    padding: 10px 35px 10px 15px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.1);
+    color: white;
+}
+
+.search-container i {
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.hino-list {
+    flex: 1;
+    overflow-y: auto;
+    padding: 10px;
+}
+
+.hino-item {
+    padding: 12px 15px;
+    margin: 5px 0;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: var(--transition-speed);
+}
+
+.hino-item:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.hino-item.active {
+    background-color: var(--secondary-color);
+}
+
+/* Main Content Styles */
+.main-content {
+    flex: 1;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    display: flex;
+    flex-direction: column;
+    transition: var(--transition-speed);
+}
+
+.toolbar {
+    padding: 15px;
+    display: flex;
+    gap: 10px;
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+.tool-button {
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: var(--secondary-color);
+    color: white;
+    cursor: pointer;
+    transition: var(--transition-speed);
+}
+
+.tool-button:hover {
+    opacity: 0.9;
+}
+
+.presentation-btn {
+    margin-left: auto;
+}
+
+.hino-content {
+    flex: 1;
+    padding: 30px;
+    overflow-y: auto;
+    line-height: 1.6;
+}
+
+.welcome-message {
+    text-align: center;
+    padding: 50px;
+    color: var(--text-color);
+}
+
+.welcome-message i {
+    margin-bottom: 20px;
+    color: var(--secondary-color);
+}
+
+/* Presentation Window Styles */
+.presentation-window {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+                      url('harpa_background.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 40px;
+}
+
+.presentation-content {
+    font-size: 2em;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.navigation-buttons {
+    position: fixed;
+    bottom: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.nav-button {
+    padding: 15px 30px;
+    background-color: rgba(255, 255, 255, 0.2);
+    color: white;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: var(--transition-speed);
+}
+
+.nav-button:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+/* Scrollbar Styles */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.1);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--
+/* Continuação do styles.css */
+
+::-webkit-scrollbar-thumb {
+    background: var(--secondary-color);
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--primary-color);
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+    }
+
+    .sidebar {
+        width: 100%;
+        height: auto;
+        max-height: 40vh;
+    }
+
+    .main-content {
+        height: 60vh;
+    }
+
+    .toolbar {
+        flex-wrap: wrap;
+    }
+
+    .presentation-btn {
+        width: 100%;
+        margin-top: 10px;
+    }
+}
+
+/* Animações */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.hino-content {
+    animation: fadeIn 0.5s ease-out;
+}
+
+/* Estilos para diferentes tamanhos de fonte */
+.font-size-small {
+    font-size: 0.9em;
+}
+
+.font-size-medium {
+    font-size: 1em;
+}
+
+.font-size-large {
+    font-size: 1.2em;
+}
+
+/* Estilos para modo de alto contraste */
+[data-theme="high-contrast"] {
+    --primary-color: #000000;
+    --secondary-color: #ffffff;
+    --background-color: #000000;
+    --text-color: #ffffff;
+}
+
+/* Estilos para tooltips */
+.tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip .tooltip-text {
+    visibility: hidden;
+    width: 120px;
+    background-color: var(--primary-color);
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.tooltip:hover .tooltip-text {
+    visibility: visible;
+    opacity: 1;
+}
+
+/* Estilos para mensagens de erro */
+.error-message {
+    background-color: #ff6b6b;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0;
+    text-align: center;
+}
+
+/* Estilos para loading spinner */
+.loading-spinner {
+    width: 50px;
+    height: 50px;
+    border: 5px solid #f3f3f3;
+    border-top: 5px solid var(--secondary-color);
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    margin: 20px auto;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Estilos para botões de compartilhamento */
+.share-buttons {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.share-button {
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: var(--transition-speed);
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.share-button.facebook {
+    background-color: #3b5998;
+    color: white;
+}
+
+.share-button.whatsapp {
+    background-color: #25d366;
+    color: white;
+}
+
+/* Estilos para favoritos */
+.favorite-button {
+    background: none;
+    border: none;
+    color: #ffd700;
+    cursor: pointer;
+    padding: 5px;
+    transition: var(--transition-speed);
+}
+
+.favorite-button:hover {
+    transform: scale(1.2);
+}
+
+/* Estilos para modo de impressão */
+@media print {
+    .sidebar,
+    .toolbar {
+        display: none;
+    }
+
+    .main-content {
+        width: 100%;
+        height: auto;
+    }
+
+    .hino-content {
+        padding: 20px;
+    }
+}
+
+/* Estilos para acessibilidade */
+.skip-link {
+    position: absolute;
+    left: -9999px;
+    z-index: 999;
+    padding: 1em;
+    background-color: var(--secondary-color);
+    color: white;
+    text-decoration: none;
+}
+
+.skip-link:focus {
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+/* Estilos para feedback visual */
+.button-feedback {
+    position: relative;
+    overflow: hidden;
+}
+
+.button-feedback::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 5px;
+    height: 5px;
+    background: rgba(255, 255, 255, 0.5);
+    opacity: 0;
+    border-radius: 100%;
+    transform: scale(1, 1) translate(-50%);
+    transform-origin: 50% 50%;
+}
+
+.button-feedback:active::after {
+    animation: ripple 0.6s ease-out;
+}
+
+@keyframes ripple {
+    0% {
+        transform: scale(0, 0);
+        opacity: 0.5;
+    }
+    100% {
+        transform: scale(20, 20);
+        opacity: 0;
+    }
+}
+// Variáveis globais
+let harpaCrista = null;
+let currentHino = null;
+let currentVerse = 0;
+let presentationWindow = null;
+let fontSize = 1;
+let isDarkMode = false;
+
+// Inicialização
+document.addEventListener('DOMContentLoaded', () => {
+    initializeApp();
+    setupEventListeners();
+});
+
+async function initializeApp() {
+    try {
+        const response = await fetch('harpa_crista.json');
+        harpaCrista = await response.json();
+        populateHinoList();
+        loadUserPreferences();
+    } catch (error) {
+        showError('Erro ao carregar os hinos. Por favor, tente novamente.');
+    }
+}
+
+function setupEventListeners() {
+    // Pesquisa
+    document.getElementById('searchInput').addEventListener('input', handleSearch);
+
+    // Controles de fonte
+    document.getElementById('increaseFontSize').addEventListener('click', () => changeFontSize(0.1));
+    document.getElementById('decreaseFontSize').addEventListener('click', () => changeFontSize(-0.1));
+
+    // Tema
+    document.getElementById('toggleTheme').addEventListener('click', toggleTheme);
+
+    // Modo apresentação
+    document.getElementById('openPresentation').addEventListener('click', openPresentationMode);
+
+    // Teclas de atalho
+    document.addEventListener('keydown', handleKeyboardShortcuts);
+}
+
+function handleSearch(event) {
+    const searchTerm = event.target.value.toLowerCase();
+    const hinoItems = document.querySelectorAll('.hino-item');
+
+    hinoItems.forEach(item => {
+        const hinoText = item.textContent.toLowerCase();
+        item.style.display = hinoText.includes(searchTerm) ? 'block' : 'none';
+    });
+}
+
+function populateHinoList() {
+    const hinoList = document.getElementById('hinoList');
+    hinoList.innerHTML = '';
+
+    harpaCrista.forEach(h
+
+// Continuação do script.js
+
+    harpaCrista.forEach(hino => {
+        const hinoItem = document.createElement('div');
+        hinoItem.className = 'hino-item';
+        hinoItem.dataset.hinoId = hino.numero;
+        
+        const hinoContent = `
+            <span class="hino-number">${hino.numero}</span>
+            <span class="hino-title">${hino.nome}</span>
+            <button class="favorite-button" title="Adicionar aos favoritos">
+                <i class="fas fa-star"></i>
+            </button>
+        `;
+        
+        hinoItem.innerHTML = hinoContent;
+        hinoItem.addEventListener('click', () => selectHino(hino));
+        hinoList.appendChild(hinoItem);
+    });
+}
+
+function selectHino(hino) {
+    currentHino = hino;
+    currentVerse = 0;
+    updateActiveHino(hino.numero);
+    displayHino();
+}
+
+function updateActiveHino(hinoNumber) {
+    document.querySelectorAll('.hino-item').forEach(item => {
+        item.classList.remove('active');
+        if (item.dataset.hinoId === hinoNumber.toString()) {
+            item.classList.add('active');
+        }
+    });
+}
+
+function displayHino() {
+    const hinoContent = document.getElementById('hinoContent');
+    if (!currentHino) return;
+
+    const verses = currentHino.estrofes.map((estrofe, index) => `
+        <div class="verse ${index === currentVerse ? 'active' : ''}" data-verse="${index}">
+            <h3>Estrofe ${index + 1}</h3>
+            <p>${estrofe}</p>
+        </div>
+    `).join('');
+
+    hinoContent.innerHTML = `
+        <div class="hino-header">
+            <h2>${currentHino.numero} - ${currentHino.nome}</h2>
+            <div class="hino-controls">
+                <button class="share-button facebook" onclick="shareHino('facebook')">
+                    <i class="fab fa-facebook"></i> Compartilhar
+                </button>
+                <button class="share-button whatsapp" onclick="shareHino('whatsapp')">
+                    <i class="fab fa-whatsapp"></i> Compartilhar
+                </button>
+            </div>
+        </div>
+        <div class="verses-container">
+            ${verses}
+        </div>
+    `;
+}
+
+function openPresentationMode() {
+    if (!currentHino) {
+        showError('Por favor, selecione um hino primeiro.');
+        return;
+    }
+
+    presentationWindow = window.open('', '_blank', 'fullscreen=yes');
+    presentationWindow.document.write(`
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>Apresentação - ${currentHino.nome}</title>
+            <link rel="stylesheet" href="styles.css">
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+        </head>
+        <body class="presentation-window">
+            <div id="presentationContent" class="presentation-content"></div>
+            <div class="navigation-buttons">
+                <button class="nav-button" onclick="window.opener.previousVerse()">
+                    <i class="fas fa-chevron-left"></i> VOLTAR
+                </button>
+                <button class="nav-button" onclick="window.opener.nextVerse()">
+                    SEGUINTE <i class="fas fa-chevron-right"></i>
+                </button>
+            </div>
+        </body>
+        </html>
+    `);
+    updatePresentation();
+}
+
+function updatePresentation() {
+    if (presentationWindow && !presentationWindow.closed) {
+        const content = presentationWindow.document.getElementById('presentationContent');
+        content.innerHTML = `
+            <h2>${currentHino.numero} - ${currentHino.nome}</h2>
+            <div class="verse-content">${currentHino.estrofes[currentVerse]}</div>
+        `;
+    }
+}
+
+function nextVerse() {
+    if (currentHino && currentVerse < currentHino.estrofes.length - 1) {
+        currentVerse++;
+        updatePresentation();
+        updateVerseHighlight();
+    }
+}
+
+function previousVerse() {
+    if (currentHino && currentVerse > 0) {
+        currentVerse--;
+        updatePresentation();
+        updateVerseHighlight();
+    }
+}
+
+function updateVerseHighlight() {
+    document.querySelectorAll('.verse').forEach(verse => {
+        verse.classList.remove('active');
+        if (parseInt(verse.dataset.verse) === currentVerse) {
+            verse.classList.add('active');
+        }
+    });
+}
+
+function changeFontSize(delta) {
+    fontSize = Math.max(0.8, Math.min(1.5, fontSize + delta));
+    document.documentElement.style.setProperty('--content-font-size', `${fontSize}em`);
+    localStorage.setItem('fontSize', fontSize);
+}
+
+function toggleTheme() {
+    isDarkMode = !isDarkMode;
+    document.body.setAttribute('data-theme', isDarkMode ? 'dark' : 'light');
+    localStorage.setItem('darkMode', isDarkMode);
+    
+    const themeIcon = document.querySelector('#toggleTheme i');
+    themeIcon.className = isDarkMode ? 'fas fa-sun' : 'fas fa-moon';
+}
+
+function shareHino(platform) {
+    if (!currentHino) return;
+
+    const hinoText = `${currentHino.numero} - ${currentHino.nome}`;
+    const shareUrl = encodeURIComponent(window.location.href);
+
+    if (platform === 'facebook') {
+        window.open(`https://www.facebook.com/sharer/sharer.php?u=${shareUrl}&quote=${hinoText}`);
+    } else if (platform === 'whatsapp') {
+        window.open(`https://api.whatsapp.com/send?text=${hinoText} - ${shareUrl}`);
+    }
+}
+
+function handleKeyboardShortcuts(event) {
+    if (event.key === 'ArrowRight') {
+        nextVerse();
+    } else if (event.key === 'ArrowLeft') {
+        previousVerse();
+    } else if (event.key === 'Escape' && presentationWindow) {
+        presentationWindow.close();
+    }
+}
+
+function showError(message) {
+    const errorDiv = document.createElement('div');
+    errorDiv.className = 'error-message';
+    errorDiv.textContent = message;
+    
+    document.body.appendChild(errorDiv);
+    setTimeout(() => errorDiv.remove(), 3000);
+}
+
+function loadUserPreferences() {
+    // Carregar preferências salvas
+    fontSize = parseFloat(localStorage.getItem('fontSize')) || 1;
+    isDarkMode = localStorage.getItem('darkMode') === 'true';
+    
+    // Aplicar preferências
+    document.documentElement.style.setProperty('--content-font-size', `${fontSize}em`);
+    if (isDarkMode) {
+        document.body.setAttribute('data-theme', 'dark');
+        document.querySelector('#toggleTheme i').className = 'fas fa-sun';
+    }
+}
+
+// Inicializar service worker para PWA
+if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/sw.js')
+        .then(registration => console.log('ServiceWorker registrado'))
+        .catch(error => console.log('Erro no registro do ServiceWorker:', error));
+}
+
+
+2a
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harpa Cristã</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1 id="title">Harpa Cristã</h1>
+    </header>
+    <aside>
+        <ul id="hymn-list">
+            <!-- Os hinos serão carregados aqui dinamicamente -->
+        </ul>
+    </aside>
+    <main>
+        <div id="hymn-display">
+            <!-- O hino selecionado será mostrado aqui -->
+        </div>
+    </main>
+    <button id="open-new-window">Abrir em nova janela</button>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #f8f9fa;
+    padding: 10px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+#title {
+    margin: 0;
+}
+
+aside {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 200px;
+    height: calc(100vh - 50px);
+    overflow-y: auto;
+    background-color: #f1f1f1;
+    padding: 10px;
+}
+
+main {
+    flex: 1;
+    padding: 20px;
+    overflow-y: auto;
+}
+
+#hymn-display {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+button#open-new-window {
+    margin: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    cursor: pointer;
+    margin-bottom: 5px;
+}
+
+li:hover {
+    text-decoration: underline;
+}
+
+// Simulação do arquivo harpa_crista.json
+const hymns = [
+    { number: 1, name: "Hino 1", verses: ["Estrofe 1 do Hino 1", "Estrofe 2 do Hino 1"] },
+    { number: 2, name: "Hino 2", verses: ["Estrofe 1 do Hino 2", "Estrofe 2 do Hino 2"] }
+    // Adicione mais hinos conforme necessário
+];
+
+document.addEventListener('DOMContentLoaded', () => {
+    const hymnList = document.getElementById('hymn-list');
+    const hymnDisplay = document.getElementById('hymn-display');
+    let currentHymnIndex = 0;
+    let currentVerseIndex = 0;
+
+    hymns.forEach((hymn, index) => {
+        const listItem = document.createElement('li');
+        listItem.textContent = hymn.name;
+        listItem.addEventListener('click', () => {
+            currentHymnIndex = index;
+            currentVerseIndex = 0;
+            displayHymn(index);
+        });
+        hymnList.appendChild(listItem);
+    });
+
+    function displayHymn(index) {
+        hymnDisplay.innerHTML = `
+            <h2>${hymns[index].name}</h2>
+            <p>${hymns[index].verses[currentVerseIndex]}</p>
+        `;
+    }
+
+    document.getElementById('open-new-window').addEventListener('click', () => {
+        const newWindow = window.open('', '', 'width=800,height=600');
+        newWindow.document.write(`
+            <html>
+            <head>
+                <title>${hymns[currentHymnIndex].name}</title>
+                <style>
+                    body {
+                        background-image: url('path/to/harpa_crista_background.jpg');
+                        background-size: cover;
+                        font-family: Arial, sans-serif;
+                        color: white;
+                        text-align: center;
+                        padding: 20px;
+                    }
+                    button {
+                        margin: 10px;
+                        padding: 10px;
+                    }
+                </style>
+            </head>
+            <body>
+                <h2>${hymns[currentHymnIndex].name}</h2>
+                <div id="verse-container">
+                    <p>${hymns[currentHymnIndex].verses[currentVerseIndex]}</p>
+                </div>
+                <button id="prev-verse">VOLTAR</button>
+                <button id="next-verse">SEGUINTE</button>
+                <script>
+                    let currentVerseIndex = ${currentVerseIndex};
+                    const verses = ${JSON.stringify(hymns[currentHymnIndex].verses)};
+
+                    function updateVerse() {
+                        document.getElementById('verse-container').innerHTML = '<p>' + verses[currentVerseIndex] + '</p>';
+                    }
+
+                    document.getElementById('prev-verse').addEventListener('click', () => {
+                        if (currentVerseIndex > 0) {
+                            currentVerseIndex--;
+                            updateVerse();
+                        }
+                    });
+
+                    document.getElementById('next-verse').addEventListener('click', () => {
+                        if (currentVerseIndex < verses.length - 1) {
+                            currentVerseIndex++;
+                            updateVerse();
+                        }
+                    });
+                </script>
+            </body>
+            </html>
+        `);
+        newWindow.document.close();
+    });
+});
+
+2b
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harpa Cristã</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1 id="title">Harpa Cristã</h1>
+    </header>
+    <div class="container">
+        <aside>
+            <ul id="hymn-list">
+                <!-- Os hinos serão carregados aqui dinamicamente -->
+            </ul>
+        </aside>
+        <main>
+            <div id="hymn-display">
+                <!-- O hino selecionado será mostrado aqui -->
+            </div>
+        </main>
+    </div>
+    <button id="open-new-window">Abrir em nova janela</button>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f0f2f5;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+header {
+    background-color: #4a90e2;
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.container {
+    display: flex;
+    flex: 1;
+    overflow: hidden;
+}
+
+aside {
+    width: 250px;
+    background-color: #ffffff;
+    border-right: 1px solid #ddd;
+    overflow-y: auto;
+    padding: 10px;
+}
+
+main {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    overflow-y: auto;
+    background-color: #ffffff;
+}
+
+#hymn-display {
+    max-width: 600px;
+    width: 100%;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+}
+
+button#open-new-window {
+    background-color: #4a90e2;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    align-self: flex-start;
+    transition: background-color 0.3s;
+}
+
+button#open-new-window:hover {
+    background-color: #357abd;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+li:hover {
+    background-color: #e1e5ea;
+}
+
+h1, h2 {
+    margin: 0;
+    font-weight: normal;
+}
+
+// Simulação do arquivo harpa_crista.json
+const hymns = [
+    { number: 1, name: "Hino 1", verses: ["Estrofe 1 do Hino 1", "Estrofe 2 do Hino 1"] },
+    { number: 2, name: "Hino 2", verses: ["Estrofe 1 do Hino 2", "Estrofe 2 do Hino 2"] }
+    // Adicione mais hinos conforme necessário
+];
+
+document.addEventListener('DOMContentLoaded', () => {
+    const hymnList = document.getElementById('hymn-list');
+    const hymnDisplay = document.getElementById('hymn-display');
+    let currentHymnIndex = 0;
+    let currentVerseIndex = 0;
+
+    hymns.forEach((hymn, index) => {
+        const listItem = document.createElement('li');
+        listItem.textContent = hymn.name;
+        listItem.addEventListener('click', () => {
+            currentHymnIndex = index;
+            currentVerseIndex = 0;
+            displayHymn(index);
+        });
+        hymnList.appendChild(listItem);
+    });
+
+    function displayHymn(index) {
+        hymnDisplay.innerHTML = `
+            <h2>${hymns[index].name}</h2>
+            <p>${hymns[index].verses[currentVerseIndex]}</p>
+        `;
+    }
+
+    document.getElementById('open-new-window').addEventListener('click', () => {
+        const newWindow = window.open('', '', 'width=800,height=600');
+        newWindow.document.write(`
+            <html>
+            <head>
+                <title>${hymns[currentHymnIndex].name}</title>
+                <style>
+                    body {
+                        background-image: url('path/to/harpa_crista_background.jpg');
+                        background-size: cover;
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: center;
+                        align-items: center;
+                        height: 100vh;
+                        margin: 0;
+                        font-family: 'Roboto', sans-serif;
+                        color: white;
+                        text-align: center;
+                        padding: 20px;
+                    }
+                    button {
+                        margin: 10px;
+                        padding: 10px 20px;
+                        background-color: #4a90e2;
+                        color: white;
+                        border: none;
+                        border-radius: 5px;
+                        cursor: pointer;
+                        transition: background-color 0.3s;
+                    }
+                    button:hover {
+                        background-color: #357abd;
+                    }
+                </style>
+            </head>
+            <body>
+                <h2>${hymns[currentHymnIndex].name}</h2>
+                <div id="verse-container">
+                    <p>${hymns[currentHymnIndex].verses[currentVerseIndex]}</p>
+                </div>
+                <button id="prev-verse">VOLTAR</button>
+                <button id="next-verse">SEGUINTE</button>
+                <script>
+                    let currentVerseIndex = ${currentVerseIndex};
+                    const verses = ${JSON.stringify(hymns[currentHymnIndex].verses)};
+
+                    function updateVerse() {
+                        document.getElementById('verse-container').innerHTML = '<p>' + verses[currentVerseIndex] + '</p>';
+                    }
+
+                    document.getElementById('prev-verse').addEventListener('click', () => {
+                        if (currentVerseIndex > 0) {
+                            currentVerseIndex--;
+                            updateVerse();
+                        }
+                    });
+
+                    document.getElementById('next-verse').addEventListener('click', () => {
+                        if (currentVerseIndex < verses.length - 1) {
+                            currentVerseIndex++;
+                            updateVerse();
+                        }
+                    });
+                </script>
+            </body>
+            </html>
+        `);
+        newWindow.document.close();
+    });
+});
+
+obs:
+:root {
+    --primary-color: #4a90e2;
+    --secondary-color: #ffffff;
+    --accent-color: #f0f2f5;
+    --text-color: #333;
+    --background-color: #fff;
+}
+
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: var(--accent-color);
+    color: var(--text-color);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+header {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.container {
+    display: flex;
+    flex: 1;
+    overflow: hidden;
+}
+
+aside {
+    width: 250px;
+    background-color: var(--background-color);
+    border-right: 1px solid #ddd;
+    overflow-y: auto;
+    padding: 10px;
+}
+
+main {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    overflow-y: auto;
+    background-color: var(--background-color);
+}
+
+#hymn-display {
+    max-width: 600px;
+    width: 100%;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+}
+
+button#open-new-window {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    align-self: flex-start;
+    transition: background-color 0.3s;
+}
+
+button#open-new-window:hover {
+    background-color: #357abd;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+li:hover {
+    background-color: #e1e5ea;
+}
+
+h1, h2 {
+    margin: 0;
+    font-weight: normal;
+}
+
+@media (max-width: 768px) {
+    aside {
+        width: 200px;
+    }
+}
+
+// Simulação do arquivo harpa_crista.json
+const hymns = [
+    { number: 1, name: "Hino 1", verses: ["Estrofe 1 do Hino 1", "Estrofe 2 do Hino 1"] },
+    { number: 2, name: "Hino 2", verses: ["Estrofe 1 do Hino 2", "Estrofe 2 do Hino 2"] }
+    // Adicione mais hinos conforme necessário
+];
+
+document.addEventListener('DOMContentLoaded', () => {
+    const hymnList = document.getElementById('hymn-list');
+    const hymnDisplay = document.getElementById('hymn-display');
+    let currentHymnIndex = 0;
+    let currentVerseIndex = 0;
+
+    // Preencher lista de hinos
+    hymns.forEach((hymn, index) => {
+        const listItem = document.createElement('li');
+        listItem.textContent = hymn.name;
+        listItem.addEventListener('click', () => {
+            currentHymnIndex = index;
+            currentVerseIndex = 0;
+            displayHymn(index);
+        });
+        hymnList.appendChild(listItem);
+    });
+
+    // Função para exibir o hino selecionado e sua primeira estrofe
+    function displayHymn(index) {
+        hymnDisplay.innerHTML = `
+            <h2>${hymns[index].name}</h2>
+            <p>${hymns[index].verses[currentVerseIndex]}</p>
+        `;
+    }
+
+    // Abrir nova janela para exibição do hino
+    document.getElementById('open-new-window').addEventListener('click', () => {
+        const newWindow = window.open('', '', 'width=800,height=600');
+        newWindow.document.write(`
+            <html>
+            <head>
+                <title>${hymns[currentHymnIndex].name}</title>
+                <style>
+                    body {
+                        background-image: url('path/to/harpa_crista_background.jpg');
+                        background-size: cover;
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: center;
+                        align-items: center;
+                        height: 100vh;
+                        margin: 0;
+                        font-family: 'Roboto', sans-serif;
+                        color: white;
+                        text-align: center;
+                        padding: 20px;
+                    }
+                    button {
+                        margin: 10px;
+                        padding: 10px 20px;
+                        background-color: #4a90e2;
+                        color: white;
+                        border: none;
+                        border-radius: 5px;
+                        cursor: pointer;
+                        transition: background-color 0.3s;
+                    }
+                    button:hover {
+                        background-color: #357abd;
+                    }
+                </style>
+            </head>
+            <body>
+                <h2>${hymns[currentHymnIndex].name}</h2>
+                <div id="verse-container">
+                    <p>${hymns[currentHymnIndex].verses[currentVerseIndex]}</p>
+                </div>
+                <button id="prev-verse">VOLTAR</button>
+                <button id="next-verse">SEGUINTE</button>
+                <script>
+                    let currentVerseIndex = ${currentVerseIndex};
+                    const verses = ${JSON.stringify(hymns[currentHymnIndex].verses)};
+
+                    function updateVerse() {
+                        document.getElementById('verse-container').innerHTML = '<p>' + verses[currentVerseIndex] + '</p>';
+                    }
+
+                    document.getElementById('prev-verse').addEventListener('click', () => {
+                        if (currentVerseIndex > 0) {
+                            currentVerseIndex--;
+                            updateVerse();
+                        }
+                    });
+
+                    document.getElementById('next-verse').addEventListener('click', () => {
+                        if (currentVerseIndex < verses.length - 1) {
+                            currentVerseIndex++;
+                            updateVerse();
+                        }
+                    });
+                </script>
+            </body>
+            </html>
+        `);
+        newWindow.document.close();
+    });
+});
+

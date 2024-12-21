@@ -1,0 +1,978 @@
+*{padding:0px; margin:0px}
+/* Resluções */
+@media (min-width: 240px) {
+  .box{width: auto; background:#333; height:100px}
+}
+
+@media (min-width: 270px) {
+  .box{width: auto; background:#6C0; height:100px}
+}
+
+@media (min-width: 480px) {
+  .box{width: auto; background:##90F; height:100px}
+}
+
+@media (min-width: 768px) {
+  .box{width: auto; background:#F00; height:100px}
+}
+
+@media (min-width: 1024px) {
+  .box{width: auto; background:#C00; height:100px}
+}
+
+
+
+
+
+
+// Small devices (landscape phones, 576px and up) @media (min-width: 576px) { // Medium devices (tablets, 768px and up) @media (min-width: 768px) { #wrapper {width:90%; margin: 0 auto; } #content {width:70%; float:left; } #sidebar {width:30%; float:right; } // Large devices (desktops, 992px and up) @media (min-width: 992px) { ... } } // Extra large devices (large desktops, 1200px and up) @media (min-width: 1200px) { #wrapper {width:90%; margin: 0 auto; } }
+
+
+
+
+
+Trabalhando com 'MEDIA QUERIES':
+
+Se [largura do dispositivo] for menor ou igual a 768px, então execute o {...}
+
+    @media (max-width: 768px) {
+      .nome-da-classe {
+        color: #fff; /* elemento que vai ser modificado/adicionado/sobrescrito nessa resolução */
+      }
+    }
+Se [largura do dispositivo] for maior ou igual a 768px, então execute o {...}
+
+    @media (min-width: 768px) {
+      .nome-da-classe {
+        color: #fff; /* elemento que vai ser modificado/adicionado/sobrescrito nessa resolução */
+      }
+    }
+Se [largura do dispositivo] for entre 768px e 600px, então execute o {...}
+
+    @media (max-width: 768px) and (min-width: 600px) {
+      .nome-da-classe {
+        color: #fff; /* elemento que vai ser modificado/adicionado/sobrescrito nessa resolução */
+      }
+    }
+/_ esse é um bloco normal de css, o browser vai ler e mostrar esses valores na tela do usuário _/
+
+  .box {
+    border: 1px solid #000;
+    width: 320px;
+    height: 120px;
+    background-color: red;
+  }
+/_ esse é um bloco condicional, o browser vai ler e mostrar esses valores na tela do usuário SE a resolução da tela for menor que 768px _/
+
+  @media (max-width: 768px) {
+    .box {
+      background-color: blue;
+    }
+  }
+/_ esse é um bloco condicional, o browser vai ler e mostrar esses valores na tela do usuário SE a resolução da tela for menor que 420px _/
+
+  @media (max-width: 420px) {
+    .box {
+      width: 100%;
+      background-color: yellow;
+    }
+  }
+
+
+
+@media screen and (min-width: 520px){
+    .logo-cabecalho {width: 214px; background: url(../img/logo.png) center center/214px no-repeat;}
+    .btn {font-size: 2em;}
+}
+
+/* SMALL DEVICES - TABLETS */
+
+@media screen and (min-width: 768px){
+    .servico {width: 49%; float: left; margin-right: 2%;}
+    .servico:nth-child(2) {margin-right: 0;}
+    .newsletter h2 {font-size: 2em;}
+    .newsletter h3 {font-size: 1.5em;}
+    .newsletter input {width: 70%; padding: 2%; float: left; margin-right: 1%;}
+    .newsletter button {width: 29%; padding: 2%; float: right; margin-top: 0;}
+}
+
+/* MEDIUM DEVICES - TABLETS & DESKTOPS */
+
+@media screen and (min-width: 960px){
+    .title {width: 70%; float: left; text-align: left;}
+    .title h2 {font-size: 3em;}
+    .title h3 {font-size: 2em;}
+    .servico {width: 48%;}
+    .servico:nth-child(2){margin-right: 2%;}
+    .newsletter input {width: 60%; float: none;}
+    .newsletter button {width: 20%; float: none;}
+}
+
+/* LARGE DEVICES - WIDESCREEN */
+
+@media screen and (min-width: 1366px){
+    .btn-menu {display: none;}
+    .btn-close {display: none;}
+    .menu {width: auto; height: 56px; line-height: 56px; float: right; background-color: #f5f5f5; display: block; position: static;}
+    .menu li {padding: 0; float: left;}
+    .menu li a {color: #130400; font-size: 1em; padding: 15px;}
+    .menu li a:hover {border: none; color: #fd385b;}
+    .fonte-banner {margin-top: 10%;}
+}
+
+
+
+
+/*=============== 
+MEDIA QUERYS
+==================*/
+
+html {
+  font-size: 50%;
+}
+
+@media (max-width: 680px) {
+  .hero .container {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .hero .container img {
+    order: -1;
+    margin-top: -3rem;
+    margin-bottom: 6rem;
+  }
+
+  .form-group {
+    display: block;
+  }
+
+  .form-group input {
+    width: 95%;
+  }
+}
+
+@media (max-width: 590px) {
+  header nav {
+    display: none;
+  }
+
+  .one,
+  .two,
+  .three {
+    background-color: #fff;
+    height: 5px;
+    width: 100%;
+    margin: 6px auto;
+
+    transition-duration: .3s;
+  }
+
+  .menu-toggle {
+    width: 40px;
+    height: 30px;
+    margin-right: 6px;
+  }
+
+  /* fullscreen */
+  .menu-section.on {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    width: 100vw;
+    height: 100vh;
+
+    background-color: #7159c1;
+
+    z-index: 2;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .menu-section.on nav {
+    display: block;
+  }
+
+  .menu-section.on .menu-toggle {
+    position: absolute;
+    right: 18px;
+    top: 13px;
+  }
+
+  .menu-section.on .menu-toggle .one {
+    transform: rotate(45deg) translate(7px, 7px);
+    -webkit-transform: rotate(45deg) translate(7px, 7px);
+    -ms-transform: rotate(45deg) translate(7px, 7px);
+    transform: rotate(45deg) translate(7px, 7px);
+  }
+
+  .menu-section.on .menu-toggle .two {
+    opacity: 0;
+  }
+
+  .menu-section.on .menu-toggle .three {
+    transform: rotate(-45deg) translate(8px, -9px);
+    -webkit-transform: rotate(-45deg) translate(8px, -9px);
+    -ms-transform: rotate(-45deg) translate(8px, -9px);
+    transform: rotate(-45deg) translate(8px, -9px);
+  }
+
+  .menu-section nav ul {
+    display: block;
+    text-align: center;
+  }
+
+  .menu-section nav a {
+    transition-duration: .5s;
+    font-size: 3rem;
+    line-height: 4rem;
+    display: block;
+  }
+}
+
+@media (max-width: 320px) {
+  #form h3 {
+    font-size: 2rem;
+  }
+}
+
+
+
+body { 
+    padding: 15px; 
+    background:#eee; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+ 
+.caixa {
+    border: solid 1px #666; 
+    padding: 5px 10px;
+    margin: 40px;
+}
+ 
+.area-visivel span {
+    color: #666;
+    display: none;
+}
+ 
+/* max-width  */
+@media (max-width: 600px) {
+    .um {
+        background: rgb(255, 153, 184);
+    }
+    span .menor600 {
+        display: inline-block;
+    }
+}
+ 
+/* min-width */
+@media (min-width: 900px) {
+    .dois {
+        background: #F90;
+    }
+    span .maior900 {
+        display: inline-block;
+    }
+}
+ 
+/* min-width & max-width */
+@media (min-width: 600px) and (max-width: 900px) {
+    .tres {
+        background: rgb(121, 174, 228);
+    }
+    span .entre600-900 {
+        display: inline-block;
+    }
+}
+
+/* max width telas pequenas */
+@media (max-width: 480px) {
+    .iphone {
+        background: rgb(209, 165, 209);
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+* max-width  */
+@media screen and (max-width: 600px) {
+	.um {
+		background: #F9C;
+	}
+	span.lt600 {
+		display: inline-block;
+	}
+}
+
+/* min-width */
+@media screen and (min-width: 900px) {
+	.dois {
+		background: #F90;
+	}
+	span.gt900 {
+		display: inline-block;
+	}
+}
+
+/* min-width & max-width */
+@media screen and (min-width: 600px) and (max-width: 900px) {
+	.tres {
+		background: #9CF;
+	}
+	span.bt600-900 {
+		display: inline-block;
+	}
+}
+
+/* max device width */
+@media screen and (max-device-width: 480px) {
+	.iphone {
+		background: #ccc;
+	}
+
+
+CSS HTML
+Media queries, o que são e como usar no CSS?
+Neste artigo, nós iremos aprender sobre o uso de media queries no CSS e iremos aprender como utilizá-los em nossas aplicações web.
+
+ há 2 anos 1 mês
+
+Quer receber conteúdos
+exclusivos sobre programação?
+Digite seu nome
+Digite seu e-mail
+Enviar
+Você sabia que a TreinaWeb é a mais completa escola para desenvolvedores do mercado?
+O que você encontrará aqui na TreinaWeb?
+
+Mentoria de carreira
+Mentoria de carreira
+
+Suporte com professores
+Suporte direto com os professores
+
+Plano de estudo
+Plano de estudos simples e direto
+
+Projetos voltados ao mercado de trabalho
+Projetos voltados ao mercado de trabalho
+
+Matricule-se agora mesmo
+Artigos
+Media queries, o que são e como usar no CSS?
+Atualmente podemos observar que as páginas web que desenvolvemos são acessadas pelos mais variados dispositivos, como computadores, celulares, tablets e até mesmo tv’s. Cada um desses dispositivos possui diferentes resoluções e formatos de tela.
+
+
+
+
+E para conseguirmos que nossos usuários possuam uma boa experiência nossas páginas devem ser capazes de se adequar à esses dispositivos, daí a necessidade de desenvolver páginas que são responsivas. Um dos recursos do CSS que podemos utilizar para alcançar esse objetivo é o recurso conhecido como media queries.
+
+
+Neste artigo iremos aprender o que são os media queries e também sobre a sua sintaxe, para que você possa acompanhar este artigo sem dificuldades é necessário possuir alguns conhecimentos básicos sobre HTML e CSS. Fica aqui a recomendação dos seguintes artigos caso precise refrescar a memória sobre esses tópicos:
+
+O que é e como começar com HTML e CSS?
+Seletores básicos no CSS
+Unidades de medida no CSS
+O que são Media Queries?
+
+Media query, nada mais é do que uma estrutura do CSS que permite aplicar estilizações especificas para uma página web de acordo com certas condições, fazendo assim com esta página possa se adequar ao layout de tela em diferentes tamanhos e tipos de mídia.
+
+A sintaxe básica ao utilizarmos media query é a seguinte:
+
+Copiar
+@media (condição) {
+	/* Estilizações CSS */
+}
+No exemplo acima, podemos observar a sintaxe dos media queries, primeiramente utilizamos a expressão @media e logo em seguida definimos a condição dentro dos parênteses.
+
+
+Tipos de media ou Media types
+Sua funcionalidade serve para direcionar determinado CSS para um meio específico de dispositivo, ou seja, definem para qual tipo de media, o CSS que você aplica em seu site será direcionado.
+
+Existem vários media types, aqui, citarei alguns:
+
+print: Para impressoras;
+Copiar
+@media print {
+	/* Estilizações CSS */
+}
+screen: Para monitores ou outros dispositivos como computadores, tablets e smartphones com telas coloridas e com resolução adequada;
+Copiar
+@media screen and (max-width: 768px){
+	/* Estilizações CSS */
+}
+handheld: Para dispositivos de mão.
+Copiar
+@media handheld and (min-width: 700px) and (orientantion: landscape){
+	/* Estilizações CSS */
+}
+all: Para todos os tipos de mídia.
+Copiar
+@media all and (orientation: landscape){
+	/* Estilizações CSS */
+}
+Media features no media query
+
+Um media feature é a largura da janela do documento, normalmente usado para atribuir uma condição que vai testar se o que foi definido é verdadeiro ou falso, ou seja, são elementos do CSS que atribuídos a estrutura do media para exibir quando a estilização sofrerá modificação.
+
+De forma simplificada, podemos destacar alguns:
+
+orientation
+width
+height
+O orientation possui dois possíveis valores, os quais são portrait e landscape, onde o primeiro define a orientação em retrato, ou seja, se a altura é maior ou igual à largura e o segundo, orientação paisagem seguindo o mesmo resultado citado antes
+
+
+Já o width define a largura do elemento na horizontal. E por último o height que define a altura do elemento na vertical.
+
+Muitos media features podem ter prefixado min- ou max-, ou seja, servem para definir a largura mínima ou máxima de uma condição, assim definindo se nossas estilizações serão aplicadas conforme o tamanho da tela. Vamos ver alguns exemplos:
+
+Copiar
+@media (max-width:600px){
+	/* Estilizações CSS */
+}
+
+@media (max-width:600px){
+	.Card-TreinaWeb{
+		flex-direction: column;
+	}
+}
+Neste exemplo, podemos observar que foi definido um tamanho máximo de tela, segundo o tamanho que se encontra dentro dos parênteses definido com 600px, chamado de breakpoints, fazendo com que essa estilização só seja aplicada em dispositivos com telas maiores que 600px de largura.
+
+
+Então, partimos para o segundo exemplo de código que mostrará o seu uso com media query para mínimo:
+
+Copiar
+@media (min-width:500px){
+	/* Estilizações CSS */
+}
+
+
+@media (min-width:500px){
+	.Card-TreinaWeb{
+		flex-direction: column;
+	}
+}
+Assim, observamos que foi definido o tamanho mínimo de tela para as nossas alterações. Como exemplo foi usado o flex-direction: column. Que indica que a partir deste tamanho a classe aplicada sofrer uma alteração e ficará em coluna.
+
+
+Nos próximos tópicos aprenderemos como adicionar operadores lógicos que facilitará e simplificará o uso desta explicação.
+
+O que é um operador lógico no media query e quais seus tipos?
+Um operador lógico pode ser uma comparação entre elementos ou resultados, e pode conter, uma negação entre os mesmos e, neste artigo falaremos sobre os operadores lógicos de media query que são: and, or, only e not.
+
+
+Operador lógico and no media queries:
+Este operador lógico é usado para combinar múltiplas media features em uma mesma media query, requerendo que cada sequência de características, retorne verdadeiro na ordem para que a query seja verdadeira, simplificando isso, no and às duas condições precisam ser verdadeiras para que sua media query funcione. Como no exemplo a seguir:
+
+Copiar
+@media (min-widht: 769px) and (max-width: 1024px){
+	/* Estilizações CSS */
+}
+No exemplo anterior, você pode perceber que para a condição entrar no media seria necessário ter o mínimo de largura de 769px e a máxima de 1024px para o tamanho da tela. Está é uma pequena demonstração de como usar o operador and.
+
+Copiar
+@media screen and (max-widht: 600px){
+	/* Estilizações CSS */
+}
+
+Neste outro exemplo, foi adicionado media type para condição do and.
+
+Operador lógico only no media queries:
+Usamos este operador para navegadores que não reconhecem estilos aplicados com media query.
+
+Como aplicar no CSS:
+
+Copiar
+@media only screen and (max-width: 768px){
+	/* Estilizações CSS */
+}
+Neste exemplo usamos o operador only e o and, para definir o tamanho máximo que sua tela terá que atingir para serem feitas alterações.
+
+Operador lógico or no media queries:
+Este operador lógico é usado com o caractere , que simboliza que para ocorrer alteração no media, uma das condições definidas precisa ser verdadeira.
+
+Exemplo da condição:
+
+Copiar
+@media (max-width: 30.5em), print and (orientation: portrait) {
+	/* Estilizações CSS */
+}
+Para este exemplo, usamos a virgular para definir uma das condições aplicadas e como exemplo atribuímos o orientation.
+
+Operador lógico not no media queries:
+Usamos este operador lógico para negar uma característica na query, porém, ele não pode ser usado sozinho, pois necessita de algo a ser negado para cair na condição aplicada.
+
+Copiar
+@media not all and (monochrome) {...}
+Neste exemplo, ele está negando tudo que vem após o not, então apenas entrará naquela condição o que diferir da condição.
+
+Porém, em casos em que há uso de vírgula, a expressão se encerrará ao inserir o novo conteúdo depois da vírgula.
+
+Conclusão
+Neste artigo aprendemos sobre medias types, media queries e seus operadores lógicos. Além dos exemplos citados, existem outros métodos de media mais avançados, por isso recomendo fortemente a leitura da documentação disponibilizada pela Mozilla.
+
+#CSS #HTML #media types #media queries
+Autor(a) do artigo
+Redação Treinaweb
+Todos os artigos
+Artigos
+relacionados
+Seletores avançados do CSS
+Nesse artigo você irá entender alguns tipos de seletores pouco utilizados no CSS, porém extremamente...
+
+ 
+Guia da linguagem CSS
+Nesse guia completo veremos como funciona e quais as formas de criar estilizações com CSS, necessári...
+
+ 
+Começando com SVG no Front-End - Parte 1
+Aprenda a começar a trabalhar com SVG para a criação de formas e efeitos no Front-End.
+
+ 
+Media Query. Colocando em prática seu uso.
+Neste artigo, nós iremos aprender sobre o uso de Media Query no CSS3, na prática aprendendo como uti...
+
+ 
+FlexBox ou CSS Grid?
+Houve um tempo em que posicionar elementos pelo CSS poderia ser trabalhoso, dependendo do que fosse...
+
+ 
+CSS Grid – Um Guia Interativo (Parte 1 – Containers)
+Aprenda definitivamente a trabalhar com CSS Grid com este Guia Interativo para facilitar o seu traba...
+
+ 
+ASP.NET Core - Criando uma Streaming API
+Streaming não se resume apenas a conteúdo de media. Aprenda neste artigo como criar uma streaming AP...
+
+ 
+Ferramenta para avaliar a complexidade de código escrito em PHP
+Conheça um pouco mais sobre a phploc, ferramenta para avaliar a complexidade de código escrito em PH...
+
+ 
+Quero programar: Por onde começar?
+Veja os procedimentos recomendados para se tornar um programador.
+
+ 
+Prototipagem e suas armadilhas
+Protótipos fazem parte do dia a dia da equipe de design, mas como podemos otimizar e maximizar a sua...
+
+ 
+Adicionando OData em uma API ASP.NET Core
+OData é um padrão de boas práticas para a criação de API. Veja os recursos que este padrão fornece p...
+
+ 
+Estruturas condicionais e de repetição no Python
+Neste artigo, conheceremos as estruturas condicionais e de repetição no Python.
+
+TreinaWeb
+Escola online para desenvolvedores
+     
+Inscreva-se e receba nossos lançamentos, promoções e novidades
+Nome: 
+Nome
+ E-mail: 
+Seu e-mail
+Inscreva-se
+Cursos 
+ Base para Devs
+ Front-end
+ Back-end
+ Mobile
+ Bancos de Dados
+ Cloud
+ Infra
+ E mais
+A empresa 
+Baixe nosso aplicativo
+Aceitamos as principais formas de pagamento
+       
+Seus dados e compra estão 100% seguros
+ 
+Av. Paulista, 1765, Conj 71 e 72 - Bela Vista - São Paulo - SP - 01311-200
+© 2004 - 2024 TreinaWeb Tecnologia LTDA - CNPJ: 06.156.637/0001-58
+
+
+
+#wrapper {width:95%;  margin: 0 auto; }
+
+#header {width:100%; }
+
+#content {width:100%; }
+
+#sidebar {width:100%; }
+
+#footer {width:100%; }
+
+// Small devices (landscape phones, 576px and up)
+
+@media (min-width: 576px) {
+
+// Medium devices (tablets, 768px and up)
+
+@media (min-width: 768px) {
+
+#wrapper {width:90%;  margin: 0 auto; }
+
+#content {width:70%; float:left; }
+
+#sidebar {width:30%; float:right; }
+
+// Large devices (desktops, 992px and up)
+
+@media (min-width: 992px) { ... }
+
+}
+
+// Extra large devices (large desktops, 1200px and up)
+
+@media (min-width: 1200px) {
+
+#wrapper {width:90%;  margin: 0 auto; }
+
+}
+
+
+Implementar Imagens Responsivas
+Uma maneira de garantir que suas imagens não se quebrem é simplesmente usar um valor dinâmico para todas as imagens, como abordamos anteriormente.
+
+img {
+width: 100%;
+}
+
+
+Tipografia Responsiva para o texto de seu site
+
+@media (min-width: 992px) {
+
+body, p, a, h4 {
+
+font-size: 14px;
+
+}
+
+}
+
+Buscar
+    Buscar em mais de 800 tutoriais
+freeCodeCamp.org
+Fórum Doar
+Aprenda a programar — currículo gratuito de 3 mil horas
+
+23 de janeiro de 2023
+/
+#CSS
+Como tornar seu HTML responsivo adicionando uma única linha de CSS
+Daniel Rosa
+Tradutor: Daniel Rosa
+freeCodeCamp.org
+Autor: freeCodeCamp.org (em inglês)
+Como tornar seu HTML responsivo adicionando uma única linha de CSS
+Artigo original: How to make your HTML responsive by adding a single line of CSS
+
+Neste artigo, ensinarei você a usar o CSS Grid para criar uma grade de imagens superlegal, que varia seu número de colunas de acordo com a largura da tela.
+
+O mais lindo disso tudo é que: a responsividade será adicionada com uma única linha de CSS.
+
+Isso quer dizer que não precisaremos encher o HTML de nomes de classe feios (como col-sm-4, col-md-8) nem criar media queries para cada tamanho de tela.
+
+Se quiser aprender a criar sites responsivos em nível profissional, você pode conferir o bootcamp de design responsivo para a web da Scrimba (em inglês), pois ele leva os estudantes do nível iniciante ao avançado em 15 horas de tutoriais interativos.
+
+Agora, vamos lá!
+
+A configuração
+Para este artigo, seguirei com a grade que utilizei em meu primeiro artigo sobre CSS Grid. Em seguida, adicionarei as imagens ao final do artigo. Esta é a aparência inicial da grade:
+
+1_fJNIdDiScjhI9CZjdxv3Eg
+Aqui temos o HTML:
+
+<div class="container">  
+  <div>1</div>  
+  <div>2</div>  
+  <div>3</div>  
+  <div>4</div>  
+  <div>5</div>  
+  <div>6</div>  
+</div>
+Aqui vai o CSS:
+
+.container {  
+    display: grid;  
+    grid-template-columns: 100px 100px 100px;  
+    grid-template-rows: 50px 50px;  
+}
+Observação: o exemplo também tem uma estilização mais básica, sobre a qual eu não entrarei em detalhes por aqui, já que não tem a ver com o que faz o CSS Grid.
+
+Se o código deixar você confuso, recomendo a leitura do meu artigo Learn CSS Grid in 5 minutes (texto em inglês), onde eu explico o básico do módulo de layout.
+
+Vamos iniciar tornando as colunas responsivas.
+
+Responsividade básica com a unidade de fracionamento
+O CSS Grid trouxe um tipo de valor totalmente novo, chamado unidade de fração. A unidade de fração é expressa por fr e permite dividir o contêiner em quantas partes (frações) você quiser.
+
+Vamos alterar cada uma das colunas para que tenha uma unidade de fração de largura.
+
+.container {  
+    display: grid;  
+    grid-template-columns: 1fr 1fr 1fr;  
+    grid-template-rows: 50px 50px;  
+}
+O que acontece aqui é que a grade divide toda a largura em três frações. Cada uma das colunas toma uma das três unidades. Este é o resultado:
+
+1_JgGPqT2AfFNDD8DhG2wPdQ
+Se alterarmos o valor de grid-template-columns para1fr 2fr 1fr, a segunda coluna terá o dobro da largura das outras duas colunas. A largura total, agora, é de quatro unidades de fração, sendo que a segunda coluna ocupa duas unidades de fração, enquanto as outras colunas ocupam apenas uma unidade. Esta é a aparência:
+
+1_cpfokc1HBgCwOTNhRU9SHg
+Em outras palavras, o valor da unidade de fração torna muito fácil alterar a largura das colunas.
+
+Responsividade avançada
+O exemplo acima, no entanto, não nos dá a responsividade que queremos, pois essa grade sempre terá três colunas de largura. Queremos que nossa grade possa variar em termos do número de colunas de acordo com a largura do contêiner. Para conseguir isso, precisamos aprender três conceitos novos.
+
+repeat()
+Começaremos com a função repeat(). Essa é uma maneira muito poderosa de se especificar as linhas e colunas. Vamos pegar como exemplo nossa grade original e alterá-la usando repeat():
+
+.container {  
+    display: grid;  
+    grid-template-columns: repeat(3, 100px);  
+    grid-template-rows: repeat(2, 50px);  
+}
+Ou seja, repeat(3, 100px) é o mesmo que 100px 100px 100px. O primeiro parâmetro especifica quantas colunas ou linhas queremos, enquanto o segundo especifica a largura. Isso nos dará exatamente o mesmo layout com o qual começamos:
+
+1_fJNIdDiScjhI9CZjdxv3Eg-1
+auto-fit (ajuste automático)
+Temos, então, o auto-fit. Vamos, agora, evitar o uso de um número fixo de colunas e substituir 3 por auto-fit.
+
+.container {  
+    display: grid;  
+    grid-gap: 5px;  
+    grid-template-columns: repeat(auto-fit, 100px);
+    grid-template-rows: repeat(2, 100px);  
+}
+Isso resulta no seguinte comportamento:
+
+cd97bfe8-e7fc-4ba7-ade9-ad61648c4a02
+A grade, agora, varia seu número de colunas de acordo com a largura do contêiner.
+
+Ela simplesmente tenta ajustar o número possível de colunas de 100px de largura no contêiner que ela puder.
+
+Porém, se colocássemos diretamente no código que todas as colunas devem ter exatamente 100px, jamais teremos aquela flexibilidade desejada, pois elas raramente ocuparão a largura total. Como é possível ver no gif acima, a grade geralmente deixa espaço em branco no lado direito.
+
+minmax()
+O ingrediente final do qual precisamos para consertar isso é conhecido como minmax(). Simplesmente substituímos 100px por minmax(100px, 1fr). Aqui vemos o CSS final:
+
+.container {  
+    display: grid;  
+    grid-gap: 5px;  
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-template-rows: repeat(2, 100px);  
+}
+Observe que toda a responsividade acontece em uma única linha de CSS.
+
+O resultado pode ser visto no comportamento abaixo:
+
+1_1FOrkyNbaabo3_LJxcdDbg
+Como podemos ver, funciona perfeitamente. A função minmax() define um intervalo de tamanho maior que ou igual ao mínimo (min) e menor que ou igual ao máximo (max).
+
+Assim, as colunas sempre serão de, pelo menos, 100px. Se, entretanto, tivermos mais espaço disponível, a grade distribuirá esse espaço igualmente entre cada uma das colunas, já que as colunas agora têm uma unidade de fração (1fr) em vez de 100px.
+
+Adicionando as imagens
+A etapa final, agora, é adicionar as imagens. Isso não tem a ver com o CSS Grid, mas vamos dar uma olhada no código.
+
+Começamos adicionando a tag img em cada um dos itens da grade.
+
+<div>
+    <img src="img/forest.jpg"/>
+</div>
+Para fazer com que a imagem se ajuste ao item, definimos que ela seja da largura e da altura do próprio item. Para isso, usamos object-fit: cover;. Isso fará com que a imagem cubra todo o contêiner, ficando o navegador responsável por cortar parte da imagem, se necessário.
+
+.container > div > img {  
+    width: 100%;  
+    height: 100%;  
+    object-fit: cover;  
+}
+O resultado é o seguinte:
+
+1_jCNANupl0ECRzF6cOLuWNw
+Pronto! Você acaba de conhecer um dos conceitos mais complexos do CSS Grid! Parabéns!
+
+Suporte dos navegadores
+Antes de encerrarmos, gostaria de falar um pouco sobre o suporte dos navegadores. No momento em que este artigo foi escrito, 93% do tráfego mundial em sites da web dá suporte ao CSS Grid. Esse número só vem aumentando. Começa a ficar cada vez mais claro que o CSS Grid está se tornando uma habilidade obrigatória para os desenvolvedores de front-end. Isso é muito semelhante ao que aconteceu com o CSS Flexbox há alguns anos.
+
+Se você quiser aprender Flexbox, Grid e design responsivo de uma vez, confira o bootcamp de design responsivo para a web da Scrimba (em inglês). Ele levará você do nível iniciante ao avançado com tutoriais interativos fáceis de acompanhar.
+
+bootcamp-banner
+Clique aqui para acessar o bootcamp avançado.
+O autor, Per Borgen, é cofundador da Scrimba, uma plataforma de aprendizagem interativa para se aprender a programar.
+
+Obrigado pela leitura! 😀
+
+Daniel Rosa
+Tradutor: Daniel Rosa
+Um profissional dos idiomas humanos apaixonado por linguagens de computador. | A world languages professional in love with computer languages.
+
+freeCodeCamp.org
+Autor: freeCodeCamp.org (em inglês)
+Ler mais publicações.
+
+Se você leu até aqui, agradeça ao autor para mostrar que você se importa com o trabalho. Agradeça
+
+Aprenda a programar gratuitamente. O plano de estudos em código aberto do freeCodeCamp já ajudou mais de 40.000 pessoas a obter empregos como desenvolvedores. Comece agora
+
+O freeCodeCamp é uma organização beneficente 501(c)(3), isenta de impostos e apoiada por doações (Número de identificação fiscal federal dos Estados Unidos: 82-0779546).
+
+Nossa missão: ajudar as pessoas a aprender a programar de forma gratuita. Conseguimos isso criando milhares de vídeos, artigos e lições de programação interativas, todas disponíveis gratuitamente para o público.
+
+As doações feitas ao freeCodeCamp vão para nossas iniciativas educacionais e ajudam a pagar servidores, serviços e a equipe.
+
+Você pode fazer uma doação dedutível de impostos aqui.
+
+Trending Books and Handbooks
+Nova aba em HTML
+Máscaras de sub-rede
+40 projetos em JavaScript
+Tutorial de button onClick
+Bot do Discord
+Centralizar em CSS
+Excluir pastas com o cmd
+Imagens em CSS
+25 projetos em Python
+Excluir branches
+Jogo do dinossauro
+Menu iniciar
+Arrays vazios em JS
+Caracteres especiais
+Python para iniciantes
+Provedores de e-mail
+15 portfólios
+Node.js no Ubuntu
+10 sites de desafios
+Clonar branches
+Date now em JavaScript
+Var, let e const em JavaScript
+Axios em React
+ForEach em JavaScript
+Fotos do Instagram
+Media queries do CSS
+Fix do Live Server no VS Code
+SQL em Python
+Interpretadas x compiladas
+Imagens SVG em HTML e CSS
+Aplicativo móvel
+Download on the App Store
+Get it on Google Play
+Sobre
+Rede de ex-alunos
+Código aberto
+Loja
+Apoio
+Patrocinadores
+Honestidade acadêmica
+Código de conduta
+Política de privacidade
+Termos de serviço
+Política de direitos de autor
+
+
+
+
+
+html, body {
+	width: 100%;
+	height: 100%;
+	margin: 0;	
+}
+html {
+	font-family: "helvetica neue", sans serif;
+}
+.nav {
+	border-bottom: solid 1px #eaeaeb;
+	text-align: right;
+	height: 70px;
+	line-height: 70px;
+}
+.menu {
+	margin: 0 30px 0 0;
+}
+.menu a {
+	clear: right;
+	text-decoration: none;
+	color: grey;
+	padding: 15px 15px 15px 15px;
+	margin: 0 10px;
+	line-height: 70px;
+}
+.menu a:hover {
+	background-color: #888;
+	color: #fff;
+}
+label {
+	margin: 0 40px 0 0;
+	font-size: 26px;
+	line-height: 70px;
+	display: none;
+	width: 26px;
+	float: right;
+}
+#toggle {
+	display: none;
+}
+
+@media only screen and (max-width: 700px) {
+	label {
+		display: block;
+		cursor: pointer;
+	}
+	.menu {
+		text-align: center;
+		width: 100%;
+		display: none;
+    position: static;
+	}
+	.menu a {
+		display: block;
+		border-bottom: solid 1px #eaeaeb;
+		margin: 0;
+		padding: 0;
+	}
+	.menu a:hover {
+		color:#fff;
+		background-color: #888;
+	}
+
+	#toggle:checked + .menu {
+		display: block;
+	}
+}
+<div class="nav">
+	<label for="toggle">&#9776;</label>
+	<input type="checkbox" id="toggle">
+	<div class="menu">
+                 <a href="#">Home</a>
+		 <a href="#">Servi&ccedil;os</a>
+		 <a href="#">Sobre</a>
+		 <a href="#">Contato</a>
+	</div>
+</div>
+Voltar para a publicação
+
+
+
+
+
+
+
+
+
+
