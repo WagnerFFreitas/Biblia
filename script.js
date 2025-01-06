@@ -2089,6 +2089,12 @@ const utilidades = [
     { texto: 'Cursos', link: 'html/cursos.html' } // Adicionando o link para cursos
 ];
 
+// O trecho abaixo cria a lista com os detalhes da opção SOBRE, do projeto e o que está funcionando
+const sobre = [
+    { texto: 'O projeto "Bíblia Sagrada" tem como objetivo oferecer uma ferramenta online completa e acessível para leitura e estudo da Bíblia Sagrada, além de conteúdos complementares como Harpa Cristã, Hinário Batista, Dicionário Bíblico e Concordância.', link: '#' },
+    { texto: 'Estão disponíveis diferentes versões da Bíblia, incluindo a Almeida Revista e Atualizada (ARA), Almeida Atualizada (AA), Almeida Corrigida e Fiel (ACF), e outras.', link: '#' }
+];
+
 // Função para popular as listas
 function populateList(listId, items) {
     const listElement = document.getElementById(listId);
@@ -2109,6 +2115,7 @@ populateList('versoes-list', versoes);
 populateList('dicionario-list', dicionario);
 populateList('harpa-hinario-list', harpaHinario);
 populateList('utilidades-list', utilidades);
+populateList('sobre-list', sobre);
 
 // Funções para mostrar e esconder as listas
 function showList(listId) {
