@@ -2092,7 +2092,9 @@ const utilidades = [
 // O trecho abaixo cria a lista com os detalhes da opção SOBRE, do projeto e o que está funcionando
 const sobre = [
     { texto: 'O projeto "Bíblia Sagrada" tem como objetivo oferecer uma ferramenta online completa e acessível para leitura e estudo da Bíblia Sagrada, além de conteúdos complementares como Harpa Cristã, Hinário Batista, Dicionário Bíblico e Concordância.', link: '#' },
-    { texto: 'Estão disponíveis diferentes versões da Bíblia, incluindo a Almeida Revista e Atualizada (ARA), Almeida Atualizada (AA), Almeida Corrigida e Fiel (ACF), e outras.', link: '#' }
+    { texto: 'Estão disponíveis diferentes versões da Bíblia, incluindo a Almeida Revista e Atualizada (ARA), Almeida Atualizada (AA), Almeida Corrigida e Fiel (ACF), e outras.', link: '#' },
+    { texto: 'O projeto está em desenvolvimento, estando somente os livros até Salmos 94 completos; a opção SLIDE para a exibição dos versiculos em um datashow', link: '#' },
+    { texto: 'Existe também a opção para BAIXAR alguns conteudos para estudo teologico e por ultimo a opção UTILIDADES com alguns topicos incluse uma lista de sites com cursos variados, sendo a grande maior parte gratuitos, contudo estão sendo organizados', link: '#' }
 ];
 
 // Função para popular as listas
