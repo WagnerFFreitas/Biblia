@@ -1978,74 +1978,6 @@ document.querySelector('header nav ul li:first-child a').addEventListener('click
     abrirJanelaSlide(activeLivro, activeCapitulo, activeVersiculoButton ? activeVersiculoButton.textContent.trim() : 1);
 });
 
-
-
-
-
-
-
-
-
-/* CONTROLA OPÇÃO BAIXAR
-const downloads = [
-    { texto: 'A Bíblia Católica', link: 'baixar/A_Biblia_Catolica.pdf' },
-    { texto: 'A Bíblia Sagrada NVT', link: 'baixar/A_Biblia_Sagrada_NVT.pdf' },
-    { texto: 'A Bíblia Viva', link: 'baixar/A_Biblia_Viva.pdf' },
-    { texto: 'A vida completa de Jesus<br>Pr. Juanribe<br>Pagliarin', link: 'baixar/A_vida_completa_de_Jesus_Pr_Juanribe_Pagliarin.pdf' },
-    { texto: 'Bíblia de Genebra<br>(só estudo)', link: 'baixar/Biblia_Genebra_so_estudo.pdf' },
-    { texto: 'Bíblia em ordem<br>cronológica NVI', link: 'baixar/Biblia_em_ordem_cronologica_NVI.pdf' },
-    { texto: 'Bíblia explicada', link: 'baixar/Biblia_explicada.pdf' },
-    { texto: 'Bíblia KJA', link: 'baixar/Biblia_KJA.pdf' },
-    { texto: 'Bíblia<br>Palavra-Chave', link: 'baixar/Biblia_palavra_chave.pdf' },
-    { texto: 'Bíblia Thompson<br>Temas em Cadeia', link: 'baixar/Biblia_Thompson_temas_em_cadeia.pdf' }
-];
-
-const listaBaixar = document.getElementById('Baixar');
-downloads.forEach(download => {
-    const li = document.createElement('li');
-    const a = document.createElement('a');
-    a.href = download.link;
-    a.innerHTML = download.texto;
-    a.target = '_blank'; // Abre o link em uma nova janela
-    li.appendChild(a);
-    listaBaixar.appendChild(li);
-});
-
-const dropdown = document.querySelector('.dropdown');
-
-// Função para mostrar a lista
-function showList() {
-    listaBaixar.style.display = 'block';
-}
-
-// Função para esconder a lista
-function hideList() {
-    listaBaixar.style.display = 'none';
-}
-
-// Eventos de mouse
-dropdown.addEventListener('mouseenter', showList);
-listaBaixar.addEventListener('mouseenter', showList);
-dropdown.addEventListener('mouseleave', () => {
-    setTimeout(() => {
-        if (!dropdown.matches(':hover') && !listaBaixar.matches(':hover')) {
-            hideList();
-        }
-    }, 200); // Atraso para dar tempo de mover o mouse
-});
-
-listaBaixar.addEventListener('mouseleave', () => {
-    setTimeout(() => {
-        if (!dropdown.matches(':hover') && !listaBaixar.matches(':hover')) {
-            hideList();
-        }
-    }, 200);
-});*/
-
-
-
-//----------------------------------
-
 // O bloco abaixo cria a lista para cada item na barra de menu superior com o estilo Dropdown
 
 // O trecho abaixo cria a lista de download da opção BAIXAR 
@@ -2089,14 +2021,6 @@ const utilidades = [
     { texto: 'Cursos', link: 'html/cursos.html' } // Adicionando o link para cursos
 ];
 
-// O trecho abaixo cria a lista com os detalhes da opção SOBRE, do projeto e o que está funcionando
-const sobre = [
-    { texto: 'O projeto "Bíblia Sagrada" tem como objetivo oferecer uma ferramenta online completa e acessível para leitura e estudo da Bíblia Sagrada, além de conteúdos complementares como Harpa Cristã, Hinário Batista, Dicionário Bíblico e Concordância.', link: '#' },
-    { texto: 'Estão disponíveis diferentes versões da Bíblia, incluindo a Almeida Revista e Atualizada (ARA), Almeida Atualizada (AA), Almeida Corrigida e Fiel (ACF), e outras.', link: '#' },
-    { texto: 'O projeto está em desenvolvimento, estando somente os livros até Salmos 94 completos; a opção SLIDE para a exibição dos versiculos em um datashow', link: '#' },
-    { texto: 'Existe também a opção para BAIXAR alguns conteudos para estudo teologico e por ultimo a opção UTILIDADES com alguns topicos incluse uma lista de sites com cursos variados, sendo a grande maior parte gratuitos, contudo estão sendo organizados', link: '#' }
-];
-
 // Função para popular as listas
 function populateList(listId, items) {
     const listElement = document.getElementById(listId);
@@ -2117,7 +2041,6 @@ populateList('versoes-list', versoes);
 populateList('dicionario-list', dicionario);
 populateList('harpa-hinario-list', harpaHinario);
 populateList('utilidades-list', utilidades);
-populateList('sobre-list', sobre);
 
 // Funções para mostrar e esconder as listas
 function showList(listId) {
@@ -2150,4 +2073,40 @@ document.querySelectorAll('.dropdown').forEach(dropdown => {
             }
         }, 200);
     });
+});
+
+
+
+function loadSobre() {
+    const content = document.querySelector('.content');
+    
+    // Remova todos os elementos filhos da área principal, exceto a marca d'água
+    Array.from(content.children).forEach(child => {
+        if (!child.classList.contains('watermark')) {
+            child.remove();
+        }
+    });
+
+    // Verifique se o conteúdo "Sobre" já foi adicionado
+    let sobreContent = document.querySelector('.sobre-content');
+    if (!sobreContent) {
+        // Crie o conteúdo "Sobre"
+        sobreContent = document.createElement('div');
+        sobreContent.classList.add('sobre-content');
+        sobreContent.style.position = 'relative'; // Garante que esteja acima da marca d'água
+        sobreContent.style.zIndex = '2'; // Certifica que o texto aparece acima
+        sobreContent.innerHTML = `
+            <h2>Sobre</h2>
+            <p>O projeto "Bíblia Sagrada" tem como objetivo oferecer uma ferramenta online completa e acessível para leitura e estudo da Bíblia Sagrada, além de conteúdos complementares como Harpa Cristã, Hinário Batista, Dicionário Bíblico e Concordância.</p>
+            <p>Estão disponíveis diferentes versões da Bíblia, incluindo a Almeida Revista e Atualizada (ARA), Almeida Atualizada (AA), Almeida Corrigida e Fiel (ACF), e outras.</p>
+            <p>O projeto está em desenvolvimento, estando somente os livros até Salmos 94 completos; a opção SLIDE para a exibição dos versículos em um Datashow. Existe também a opção para BAIXAR alguns conteúdos para estudo teológico e por último a opção UTILIDADES com alguns tópicos, incluído uma lista de sites com cursos variados, sendo a grande maioria gratuitos, contudo estão sendo organizados.</p>
+            <p>Por favor ao terminar a leitura precione a tecla F5</p>
+        `;
+        content.appendChild(sobreContent); // Adiciona o conteúdo "Sobre"
+    }
+}
+
+document.getElementById('sobre').addEventListener('click', (event) => {
+    event.preventDefault();
+    loadSobre();
 });

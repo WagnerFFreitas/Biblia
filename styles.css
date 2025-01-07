@@ -385,6 +385,37 @@ footer p {
     background-color: #0f0e0e; /* Fundo ao passar o mouse */
 }
 
+/* O bloco abaixo define o estilo do conteúdo da página "Sobre" */
+.sobre-content h2 {
+    color: #f8f8f8;
+    /*font-weight: bold;*/
+    font-style: italic;
+    font-size: 2.5vw;
+    text-align: center;
+    margin: 20px 0 10px;
+    padding-left: 220px;
+    
+}
+
+.sobre-content p {
+    color: #f8f8f8;
+    font-style: italic;
+    margin-top: -10px;
+    margin-left: 430px;
+    margin-right: 30px;
+    font-size: 1.5vw;
+    position: relative;
+    text-align: center; 
+    width: calc(100% - 290px);
+    max-width: 1200px;    
+    white-space: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+}
+
+/*----------------*/
+
 /* Responsividade para diferentes tamanhos de telas */
 
 /* O bloco abaixo configura o estilo da classe "versiculo-texto" para telas com largura máxima de 1920px */
