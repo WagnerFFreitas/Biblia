@@ -2098,11 +2098,9 @@ document.querySelectorAll('.dropdown').forEach(dropdown => {
         }, 200);
     });
 });
-
 //O bloco abaixo configura a exibição do texto da opção "SOBRE"
 function loadSobre() {
     const content = document.querySelector('.content');
-    
     // O trecho remova todos os elementos filhos da área principal, exceto a marca d'água
     Array.from(content.children).forEach(child => {
         if (!child.classList.contains('watermark')) {
