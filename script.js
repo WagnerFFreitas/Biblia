@@ -256,6 +256,13 @@ async function loadVersiculo(livro, capitulo, versiculo) {
 // O bloco abaixo cria a função para exibir/ocultar os versículos
 function toggleVersiculos(livro, capitulo) {
     const content = document.querySelector('.content');
+
+    
+    // O trecho abaixo remove o texto "SOBRE" se estiver sendo exibido
+    const existingSobre = content.querySelector('.sobre-content');
+    if (existingSobre) {
+        existingSobre.remove();
+    }
     
     // O trecho abaixo procura por elementos dos versículos ou capítulos existentes
     const existingVersiculos = content.querySelector(`.versiculos-${livro}-${capitulo}`);
@@ -295,6 +302,15 @@ function toggleVersiculos(livro, capitulo) {
 // O bloco abaixo cria a função para carregar o livro
 function loadBook(livro) {
     const content = document.querySelector('.content');
+
+/*Incluido para teste 0/01/25*/
+// Remove o texto "SOBRE" se estiver presente
+const existingSobre = content.querySelector('.sobre-content');
+if (existingSobre) {
+    existingSobre.remove();
+}
+
+
 
     // O trecho abaixo verifica se o livro clicado é o mesmo que está ativo
     if (activeLivro === livro) {
@@ -368,6 +384,14 @@ function createVersiculosButtons(livro, capitulo) {
 
 // O bloco abaixo cria a função para alternar o texto do versículo
 function toggleVersiculoText(livro, capitulo, versiculo, button) {
+
+    // O trecho abaixo remove qualquer texto "SOBRE" se estiver sendo exibido
+    const content = document.querySelector('.content');
+        const existingSobre = content.querySelector('.sobre-content');
+        if (existingSobre) {
+            existingSobre.remove();
+        }
+
     if (activeVersiculoButton === button) {
         // O trecho abaixo verifica se o botão clicado for o mesmo, caso sim, remover o texto
         const existingVersiculo = document.querySelector('.versiculo-texto');
@@ -2075,26 +2099,25 @@ document.querySelectorAll('.dropdown').forEach(dropdown => {
     });
 });
 
-
-
+//O bloco abaixo configura a exibição do texto da opção "SOBRE"
 function loadSobre() {
     const content = document.querySelector('.content');
     
-    // Remova todos os elementos filhos da área principal, exceto a marca d'água
+    // O trecho remova todos os elementos filhos da área principal, exceto a marca d'água
     Array.from(content.children).forEach(child => {
         if (!child.classList.contains('watermark')) {
             child.remove();
         }
     });
 
-    // Verifique se o conteúdo "Sobre" já foi adicionado
+    // O trecho abaixo verifique se o conteúdo "Sobre" já foi adicionado
     let sobreContent = document.querySelector('.sobre-content');
     if (!sobreContent) {
         // Crie o conteúdo "Sobre"
         sobreContent = document.createElement('div');
         sobreContent.classList.add('sobre-content');
-        sobreContent.style.position = 'relative'; // Garante que esteja acima da marca d'água
-        sobreContent.style.zIndex = '2'; // Certifica que o texto aparece acima
+        sobreContent.style.position = 'relative'; // Esta linha garante que o texto esteja acima da marca d'água
+        sobreContent.style.zIndex = '2'; // Esta certifica-se que o texto apareça acima
         sobreContent.innerHTML = `
             <h2>Sobre</h2>
             <p>O projeto "Bíblia Sagrada" tem como objetivo oferecer uma ferramenta online completa e acessível para leitura e estudo da Bíblia Sagrada, além de conteúdos complementares como Harpa Cristã, Hinário Batista, Dicionário Bíblico e Concordância.</p>
@@ -2102,7 +2125,7 @@ function loadSobre() {
             <p>O projeto está em desenvolvimento, estando somente os livros até Salmos 118 completos; a opção SLIDE para a exibição dos versículos em um Datashow. Existe também a opção para BAIXAR alguns conteúdos para estudo teológico e por último a opção UTILIDADES com alguns tópicos, incluído uma lista de sites com cursos variados, sendo a grande maioria gratuitos, contudo estão sendo organizados.</p>
             <p>Por favor ao terminar a leitura precione a tecla F5</p>
         `;
-        content.appendChild(sobreContent); // Adiciona o conteúdo "Sobre"
+        content.appendChild(sobreContent); // Esta linha adiciona o texto da opção "Sobre"
     }
 }
 
