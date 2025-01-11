@@ -97,8 +97,6 @@ Biblia/
 │   ├── nvi.json            (JSON para o livro de Gênesis - NVI)
 │   ├── ...                 (Outros livros e versões)
 
-
-
 #### 2. Menu Interativo de Livros:
 
 * **Navegação Intuitiva:** A interface principal da aplicação apresenta um menu lateral com uma lista organizada de todos os livros da Bíblia. Essa lista é organizada de forma lógica e intuitiva, permitindo que o usuário encontre facilmente o livro desejado. 
