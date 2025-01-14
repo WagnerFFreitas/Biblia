@@ -173,6 +173,10 @@ nav ul li a:hover {
 }
 
 /* O bloco abaixo configura a posição da barra do menu superior */
+.header {
+    position: fixed;
+}
+
 .header-top {
     display: flex;
     justify-content: space-between;
