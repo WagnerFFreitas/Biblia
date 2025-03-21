@@ -60,7 +60,7 @@ Biblia/
 │   ├── harpa_crista.css (Estilo da Harpa Cristã)
 │   ├── cantor_cristao.css (Estilo do Cantor Cristão)
 │   └── cursos.css (Estilo da página de cursos)
-├── script/
+├── js/
 │   ├── original.js (Script da Bíblia em original)
 │   ├── arc.js (Script da Bíblia ARC)
 │   ├── ara.js (Script da Bíblia ARA)
@@ -82,20 +82,52 @@ Biblia/
 ├── img/
 │   ├── cursos.png
 │   ├── biblia.png
-├── genesis/
-│   ├── 1_arc.html (Capítulo 1 de Gênesis - ARC)
-│   ├── 2_arc.html (Capítulo 2 de Gênesis - ARC)
-│   ├── 3_arc.html
-│   ├── ...               (Demais capítulos)
-├── exodo/
-│   ├── 1_arc.html (Capítulo 1 de Êxodo - ARC)
-│   ├── 2_arc.html (Capítulo 2 de Êxodo - ARC)
-│   ├── ...                (Demais capítulos)
-├── ..... (Demais livros e capítulos)
-├── json/
-│   ├── ara.json            (JSON para o livro de Gênesis - ARA)
-│   ├── nvi.json            (JSON para o livro de Gênesis - NVI)
-│   ├── ...                 (Outros livros e versões)
+├── arc/
+│   ├── genesis
+│   │   ├── 1.html (Capítulo 1 de Gênesis - ARC)
+│   │   ├── 2.html (Capítulo 2 de Gênesis - ARC)
+│   │   ├── 3.html (Capítulo 2 de Gênesis - ARC)
+│   │   ├── 1.json (Capítulo 1 de Gênesis - ARC)
+│   │   ├── 2.json (Capítulo 2 de Gênesis - ARC)
+│   │   ├── 3.json (Capítulo 2 de Gênesis - ARC)
+│   │   ├── ...    (Demais capítulos)
+│   │   
+│   ├── exodo/
+│   │   ├── 1.html (Capítulo 1 de Êxodo - ARC)
+│   │   ├── 2.html (Capítulo 2 de Êxodo - ARC)
+│   │   ├── 1.json (Capítulo 1 de Gênesis - ARC)
+│   │   ├── 2.json (Capítulo 2 de Gênesis - ARC)
+│   │   ├── ...    (Demais capítulos)
+│   ├── .....(Demais livros e capítulos)
+├── ara/
+│   ├── genesis
+│   │   ├── 1.json (Capítulo 1 de Gênesis - ARA)
+│   │   ├── 2.json (Capítulo 2 de Gênesis - ARA)
+│   │   ├── 3.json (Capítulo 2 de Gênesis - ARA)
+│   │   ├── ...    (Demais capítulos)
+│   │   
+│   ├── exodo/
+│   │   ├── 1.json (Capítulo 1 de Gênesis - ARA)
+│   │   ├── 2.json (Capítulo 2 de Gênesis - ARA)
+│   │   ├── 3.json (Capítulo 2 de Gênesis - ARA)
+│   │   ├── ...    (Demais capítulos)
+│   ├── .....(Demais livros e capítulos)
+├── nvi/
+│   ├── genesis
+│   │   ├── 1.json (Capítulo 1 de Gênesis - NVI)
+│   │   ├── 2.json (Capítulo 2 de Gênesis - NVI)
+│   │   ├── 3.json (Capítulo 2 de Gênesis - NVI)
+│   │   ├── ...    (Demais capítulos)
+│   │   
+│   ├── exodo/
+│   │   ├── 1.json (Capítulo 1 de Gênesis - NVI)
+│   │   ├── 2.json (Capítulo 2 de Gênesis - NVI)
+│   │   ├── 3.json (Capítulo 2 de Gênesis - NVI)
+│   │   ├── ...    (Demais capítulos)
+│   ├── .....(Demais livros e capítulos)
+├── harpa_cantor/
+│   ├── harpa_crista.json
+│   ├── cantor_cristao.json
 
 #### 2. Menu Interativo de Livros:
 
