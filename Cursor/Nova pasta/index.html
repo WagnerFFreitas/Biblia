@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Bíblia Sagrada Online - Leia e estude a palavra de Deus">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Roboto+Mono&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <title>Bíblia Sagrada</title>
+    <link rel="stylesheet" href="css/common.css">
+</head>
+<body>
+    <header class="header-top">
+        <button class="add-button" aria-label="Adicionar conteúdo">
+            <span class="material-icons">add</span>
+        </button>
+            <h1>Bíblia Sagrada</h1>
+                <div class="search-bar">
+            <input type="text" placeholder="Buscar..." aria-label="Campo de busca">
+            <button aria-label="Buscar">
+                <span class="material-icons">search</span>
+            </button>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <div class="cards-grid">
+                <!-- Versões da Bíblia -->
+                <section class="card-section">
+                    <h2>Versões da Bíblia</h2>
+                    <div class="cards-container" id="bibleVersions">
+                        <!-- Cards serão inseridos via JavaScript -->
+                    </div>
+                </section>
+
+                <!-- Hinários -->
+                <section class="card-section">
+                    <h2>Hinários</h2>
+                    <div class="cards-container" id="hymnBooks">
+                        <!-- Cards serão inseridos via JavaScript -->
+                    </div>
+                </section>
+
+                <!-- Recursos -->
+                <section class="card-section">
+                    <h2>Recursos</h2>
+                    <div class="cards-container" id="additionalResources">
+                        <!-- Cards serão inseridos via JavaScript -->
+                </div>
+            </section>
+            </div>
+        </div>
+    </main>
+
+    <!-- Scripts -->
+    <script src="js/config.js"></script>
+    <script src="js/common.js"></script>
+    <script>
+        // Função para criar os cards dinamicamente
+        function createCards() {
+            // Versões da Bíblia
+            const bibleContainer = document.getElementById('bibleVersions');
+            CONFIG.BIBLE_VERSIONS.forEach(version => {
+                const card = createCard(version, 'bible');
+                bibleContainer.appendChild(card);
+            });
+
+            // Hinários
+            const hymnContainer = document.getElementById('hymnBooks');
+            CONFIG.HYMN_BOOKS.forEach(book => {
+                const card = createCard(book, 'hymn');
+                hymnContainer.appendChild(card);
+            });
+
+            // Recursos
+            const resourceContainer = document.getElementById('additionalResources');
+            CONFIG.ADDITIONAL_RESOURCES.forEach(resource => {
+                const card = createCard(resource, resource.id);
+                resourceContainer.appendChild(card);
+            });
+        }
+
+        // Função para criar um card
+        function createCard(item, type) {
+            const card = document.createElement('a');
+            card.href = '#';
+            card.className = 'card';
+            card.dataset.type = type;
+
+            card.innerHTML = `
+                <img src="${item.image}" alt="${item.name}" loading="lazy">
+                <h3>${item.name.toLowerCase()}</h3>
+            `;
+
+            return card;
+        }
+
+        // Inicializa os cards quando o DOM estiver carregado
+        document.addEventListener('DOMContentLoaded', createCards);
+    </script>
+</body>
+</html>

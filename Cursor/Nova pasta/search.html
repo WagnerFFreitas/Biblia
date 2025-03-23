@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Busque na Bíblia Sagrada">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Roboto+Mono&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <title>Busca na Bíblia</title>
+    <link rel="stylesheet" href="css/common.css">
+    <link rel="stylesheet" href="css/search.css">
+</head>
+<body>
+    <header class="header-top">
+        <button class="menu-button" aria-label="Menu">
+            <span class="material-icons">menu</span>
+        </button>
+        <h1>Busca na Bíblia</h1>
+        <div class="header-actions">
+            <button class="theme-toggle" aria-label="Alternar tema">
+                <span class="material-icons">dark_mode</span>
+            </button>
+        </div>
+    </header>
+
+    <main class="search-container">
+        <!-- Filtros de Busca -->
+        <section class="search-filters">
+            <div class="version-filter">
+                <label for="searchVersion">Versão:</label>
+                <select id="searchVersion">
+                    <!-- Versões serão carregadas via JavaScript -->
+                </select>
+            </div>
+            <div class="book-filter">
+                <label for="searchBook">Livro:</label>
+                <select id="searchBook">
+                    <option value="">Todos os livros</option>
+                    <!-- Livros serão carregados via JavaScript -->
+                </select>
+            </div>
+            <div class="search-type">
+                <label>Tipo de Busca:</label>
+                <div class="radio-group">
+                    <input type="radio" id="exact" name="searchType" value="exact" checked>
+                    <label for="exact">Exata</label>
+                    <input type="radio" id="fuzzy" name="searchType" value="fuzzy">
+                    <label for="fuzzy">Aproximada</label>
+                </div>
+            </div>
+            <div class="search-options">
+                <label>
+                    <input type="checkbox" id="caseSensitive">
+                    Sensível a maiúsculas/minúsculas
+                </label>
+                <label>
+                    <input type="checkbox" id="wholeWord">
+                    Palavra inteira
+                </label>
+            </div>
+        </section>
+
+        <!-- Campo de Busca -->
+        <section class="search-input">
+            <div class="search-box">
+                <input type="text" id="searchQuery" placeholder="Digite sua busca...">
+                <button id="searchButton" aria-label="Buscar">
+                    <span class="material-icons">search</span>
+                </button>
+            </div>
+            <div class="search-suggestions" id="searchSuggestions">
+                <!-- Sugestões serão carregadas via JavaScript -->
+            </div>
+        </section>
+
+        <!-- Resultados da Busca -->
+        <section class="search-results">
+            <div class="results-header">
+                <h2>Resultados</h2>
+                <div class="results-count">
+                    <span id="resultsCount">0</span> resultados encontrados
+                </div>
+            </div>
+            <div class="results-list" id="searchResults">
+                <!-- Resultados serão carregados via JavaScript -->
+            </div>
+            <div class="results-pagination">
+                <button class="prev-page" disabled>
+                    <span class="material-icons">chevron_left</span>
+                </button>
+                <span class="page-info">Página <span id="currentPage">1</span> de <span id="totalPages">1</span></span>
+                <button class="next-page" disabled>
+                    <span class="material-icons">chevron_right</span>
+                </button>
+            </div>
+        </section>
+
+        <!-- Histórico de Busca -->
+        <section class="search-history">
+            <h2>Histórico de Busca</h2>
+            <div class="history-list" id="searchHistory">
+                <!-- Histórico será carregado via JavaScript -->
+            </div>
+            <button class="clear-history">Limpar Histórico</button>
+        </section>
+    </main>
+
+    <!-- Scripts -->
+    <script src="js/config.js"></script>
+    <script src="js/common.js"></script>
+    <script src="js/bible-search.js"></script>
+</body>
+</html> 

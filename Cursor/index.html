@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Bíblia Sagrada Online - Leia e estude a palavra de Deus">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Roboto+Mono&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <title>Bíblia Sagrada</title>
+    <link rel="stylesheet" href="css/common.css">
+    <link rel="icon" type="image/png" href="img/favicon.png">
+    <script type="module" src="js/theme.js"></script>
+    <script type="module" src="js/navigation.js"></script>
+    <script type="module" src="js/search.js"></script>
+    <script type="module" src="js/settings.js"></script>
+</head>
+<body>
+    <header class="header-top">
+        <button class="menu-button" aria-label="Abrir menu">
+            <span class="material-icons">menu</span>
+        </button>
+        <h1>Bíblia Sagrada</h1>
+        <div class="search-bar">
+            <input type="text" placeholder="Buscar..." aria-label="Campo de busca">
+            <button aria-label="Buscar">
+                <span class="material-icons">search</span>
+            </button>
+        </div>
+    </header>
+
+    <nav class="side-menu">
+        <div class="menu-header">
+            <button class="close-menu" aria-label="Fechar menu">
+                <span class="material-icons">close</span>
+            </button>
+            <h2>Menu</h2>
+        </div>
+        <ul class="menu-items">
+            <li><a href="#bible"><span class="material-icons">menu_book</span> Bíblia</a></li>
+            <li><a href="#hymns"><span class="material-icons">music_note</span> Hinários</a></li>
+            <li><a href="#study"><span class="material-icons">school</span> Estudos</a></li>
+            <li><a href="#resources"><span class="material-icons">folder</span> Recursos</a></li>
+            <li><a href="#settings"><span class="material-icons">settings</span> Configurações</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <div class="container">
+            <div class="cards-grid">
+                <!-- Versões da Bíblia -->
+                <section class="card-section">
+                    <h2>Versões da Bíblia</h2>
+                    <div class="cards-container" id="bibleVersions">
+                        <!-- Cards serão inseridos via JavaScript -->
+                    </div>
+                </section>
+
+                <!-- Hinários -->
+                <section class="card-section">
+                    <h2>Hinários</h2>
+                    <div class="cards-container" id="hymnBooks">
+                        <!-- Cards serão inseridos via JavaScript -->
+                    </div>
+                </section>
+
+                <!-- Recursos -->
+                <section class="card-section">
+                    <h2>Recursos</h2>
+                    <div class="cards-container" id="additionalResources">
+                        <!-- Cards serão inseridos via JavaScript -->
+                    </div>
+                </section>
+
+                <!-- Planos de Estudo -->
+                <section class="card-section">
+                    <h2>Planos de Estudo</h2>
+                    <div class="cards-container study-plans">
+                        <!-- Cards serão inseridos via JavaScript -->
+                    </div>
+                </section>
+            </div>
+        </div>
+    </main>
+
+    <!-- Container de Notificações -->
+    <div class="notification-container"></div>
+
+    <!-- Modal de Perfil -->
+    <div class="modal" id="profileModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Perfil do Usuário</h2>
+                <button class="close-modal" aria-label="Fechar modal">
+                    <span class="material-icons">close</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="user-info">
+                    <div class="user-avatar">
+                        <span class="material-icons">account_circle</span>
+                    </div>
+                    <div class="user-details">
+                        <h3>Nome do Usuário</h3>
+                        <p>Nível <span class="level">1</span></p>
+                        <p>Sequência: <span class="streak">0</span> dias</p>
+                    </div>
+                </div>
+                <div class="user-stats">
+                    <div class="stat-item">
+                        <span class="material-icons">book</span>
+                        <span>Leituras: <span class="total-readings">0</span></span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="material-icons">school</span>
+                        <span>Estudos: <span class="total-studies">0</span></span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="material-icons">note</span>
+                        <span>Anotações: <span class="total-notes">0</span></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal de Configurações -->
+    <div class="modal" id="settingsModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Configurações</h2>
+                <button class="close-modal" aria-label="Fechar modal">
+                    <span class="material-icons">close</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="settings-section">
+                    <h3>Aparência</h3>
+                    <div class="setting-item">
+                        <label for="theme">Tema</label>
+                        <select id="theme">
+                            <option value="light">Claro</option>
+                            <option value="dark">Escuro</option>
+                            <option value="system">Sistema</option>
+                        </select>
+                    </div>
+                    <div class="setting-item">
+                        <label for="fontSize">Tamanho da Fonte</label>
+                        <select id="fontSize">
+                            <option value="small">Pequeno</option>
+                            <option value="medium" selected>Médio</option>
+                            <option value="large">Grande</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="settings-section">
+                    <h3>Notificações</h3>
+                    <div class="setting-item">
+                        <label for="notifications">Ativar Notificações</label>
+                        <input type="checkbox" id="notifications" checked>
+                    </div>
+                    <div class="setting-item">
+                        <label for="reminderTime">Horário do Lembrete</label>
+                        <input type="time" id="reminderTime" value="08:00">
+                    </div>
+                </div>
+                <div class="settings-section">
+                    <h3>Dados</h3>
+                    <div class="setting-item">
+                        <button id="exportData" class="button">Exportar Dados</button>
+                    </div>
+                    <div class="setting-item">
+                        <button id="importData" class="button">Importar Dados</button>
+                    </div>
+                    <div class="setting-item">
+                        <button id="clearData" class="button danger">Limpar Dados</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script type="module" src="js/config.js"></script>
+    <script type="module" src="js/common.js"></script>
+    <script type="module" src="js/navigation.js"></script>
+    <script type="module" src="js/theme.js"></script>
+    <script type="module" src="js/user-progress.js"></script>
+    <script type="module" src="js/settings.js"></script>
+    <script type="module" src="js/resources.js"></script>
+    <script type="module" src="js/study.js"></script>
+    <script type="module" src="js/study-plans.js"></script>
+    <script type="module" src="js/bible.js"></script>
+    <script type="module" src="js/hymns.js"></script>
+    <script type="module" src="js/search.js"></script>
+    <script type="module" src="js/study-ui.js"></script>
+</body>
+</html> 

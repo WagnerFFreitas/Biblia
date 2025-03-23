@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bíblia Sagrada</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="css/common.css">
+    <link rel="stylesheet" href="css/bible.css">
+</head>
+<body>
+    <header class="main-header">
+        <div class="logo">
+            <h1>Biblia Sagrada</h1>
+        </div>
+        <div class="search-container">
+            <button class="btn-todos">Todos</button>
+            <input type="text" placeholder="Digite o termo de busca" class="search-input">
+            <button class="btn-buscar">Buscar</button>
+        </div>
+        <nav class="main-nav">
+            <ul>
+                <li><a href="#slide">Slide</a></li>
+                <li><a href="#versoes">Versões</a></li>
+                <li><a href="#dicionario">Dicionário e Concordância</a></li>
+                <li><a href="#harpa">Harpa e Hinário</a></li>
+                <li><a href="#baixar">Baixar</a></li>
+                <li><a href="#utilidades">Utilidades</a></li>
+                <li><a href="#contato">Contato</a></li>
+                <li><a href="#sobre">Sobre</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="bible-container">
+        <aside class="books-menu">
+            <h2>LIVROS</h2>
+            <ul class="books-list">
+                <li><a href="#genesis" class="active">Gênesis</a></li>
+                <li><a href="#exodo">Êxodo</a></li>
+                <li><a href="#levitico">Levítico</a></li>
+                <li><a href="#numeros">Números</a></li>
+                <li><a href="#deuteronomio">Deuteronômio</a></li>
+                <li><a href="#josue">Josué</a></li>
+                <li><a href="#juizes">Juízes</a></li>
+                <li><a href="#rute">Rute</a></li>
+                <li><a href="#1samuel">1º Samuel</a></li>
+                <li><a href="#2samuel">2º Samuel</a></li>
+                <li><a href="#1reis">1º Reis</a></li>
+                <li><a href="#2reis">2º Reis</a></li>
+                <li><a href="#1cronicas">1º Crônicas</a></li>
+                <li><a href="#2cronicas">2º Crônicas</a></li>
+                <!-- Outros livros serão adicionados via JavaScript -->
+            </ul>
+        </aside>
+
+        <main class="bible-content">
+            <header class="chapter-header">
+                <h2>GENESIS - CAPÍTULO 1 - VERSÍCULO 1</h2>
+            </header>
+
+            <div class="verses-grid">
+                <!-- Grid de versículos será gerado via JavaScript -->
+            </div>
+
+            <div class="verse-content">
+                <h3 class="verse-title">CRIAÇÃO DO CÉU E DA TERRA E DE TUDO O QUE NELES SE CONTÉM</h3>
+                <p class="verse-text">No princípio criou Deus os céus e a terra.</p>
+            </div>
+        </main>
+    </div>
+
+    <footer class="main-footer">
+        <p>&copy; Bíblia Sagrada 2024</p>
+    </footer>
+
+    <script src="js/config.js"></script>
+    <script src="js/common.js"></script>
+    <script src="js/bible-versions.js"></script>
+    <script src="js/bible-navigation.js"></script>
+    <script src="js/bible-reader.js"></script>
+</body>
+</html> 
