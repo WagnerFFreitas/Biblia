@@ -1,0 +1,6 @@
+verificar se todos html contem esta linha
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+verificar os títulos dos versículos
+
+feito ate Obadias
