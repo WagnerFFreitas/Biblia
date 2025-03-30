@@ -1,6 +1,12 @@
 verificar se todos html contem esta linha
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 verificar os títulos dos versículos
 
 feito ate Obadias
+
+Feito a correção das tag e títulos dos versículos Gênesis 1 até 23
