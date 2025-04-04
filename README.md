@@ -87,16 +87,11 @@ Biblia/
 │   │   ├── 1.html (Capítulo 1 de Gênesis - ARC)
 │   │   ├── 2.html (Capítulo 2 de Gênesis - ARC)
 │   │   ├── 3.html (Capítulo 2 de Gênesis - ARC)
-│   │   ├── 1.json (Capítulo 1 de Gênesis - ARC)
-│   │   ├── 2.json (Capítulo 2 de Gênesis - ARC)
-│   │   ├── 3.json (Capítulo 2 de Gênesis - ARC)
-│   │   ├── ...    (Demais capítulos)
+│   │   │   ├── ...    (Demais capítulos)
 │   │   
 │   ├── exodo/
 │   │   ├── 1.html (Capítulo 1 de Êxodo - ARC)
 │   │   ├── 2.html (Capítulo 2 de Êxodo - ARC)
-│   │   ├── 1.json (Capítulo 1 de Gênesis - ARC)
-│   │   ├── 2.json (Capítulo 2 de Gênesis - ARC)
 │   │   ├── ...    (Demais capítulos)
 │   ├── .....(Demais livros e capítulos)
 ├── ara/
