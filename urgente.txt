@@ -6,10 +6,10 @@ verificar se todos html contem esta linha
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-verificar os tÃ­tulos dos versÃ­culos
+verificar os ti­tulos dos versículos
 
 feito ate Obadias
 
-Feito a correção das tag e tí­tulos dos versi­culos de Esdras 1 até 10
+Feito a correção das tag e tí­tulos dos versículos de Neemias 1 até 13
 
-parei em Neemias
+parei em Ester
