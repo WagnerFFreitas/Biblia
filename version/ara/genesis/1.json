@@ -1,0 +1,23 @@
+
+{
+    "livro": "Gênesis",
+    "capítulo": 1,
+    "versículos": {
+        "1": {
+            "título": "A Criação",
+            "texto": "No princípio, criou Deus os céus e a terra."
+        },
+        "2": "A terra, porém, estava sem forma e vazia; havia trevas sobre a face do abismo, e o Espírito de Deus pairava por sobre as águas.",
+        "3": "Disse Deus: Haja luz; e houve luz.",
+        "4": "E viu Deus que a luz era boa; e fez separação entre a luz e as trevas.",
+        "5": "Chamou Deus à luz Dia e às trevas, Noite. Houve tarde e manhã, o primeiro dia.",
+        "6": "E disse Deus: Haja firmamento no meio das águas, e haja separação entre águas e águas.",
+        "7": "Fez, pois, Deus o firmamento e separação entre as águas debaixo do firmamento e as águas sobre o firmamento. E assim se fez.",
+        "8": "E chamou Deus ao firmamento Céus. Houve tarde e manhã, o segundo dia.",
+        "9": "Disse também Deus: Ajuntem-se as águas debaixo dos céus num só lugar, e apareça a porção seca; e assim se fez.",
+        "10": "À porção seca chamou Deus Terra; e ao ajuntamento das águas, Mares. E viu Deus que isso era bom.",
+        "11": "E disse: Produza a terra relva, ervas que dêem semente e árvores frutíferas que dêem fruto segundo a sua espécie, cuja semente esteja nele, sobre a terra. E assim se fez.",
+        "12": "A terra produziu relva, ervas que davam semente segundo a sua espécie e árvores que davam fruto, cuja semente estava nele, conforme a sua espécie. E viu Deus que isso era bom.",
+        "13": "Houve tarde e manhã, o terceiro dia."
+    }
+}

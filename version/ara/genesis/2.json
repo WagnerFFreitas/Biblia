@@ -1,0 +1,17 @@
+
+{
+    "livro": "Gênesis",
+    "capítulo": 2,
+    "versículos": {
+        "1": "Assim, pois, foram acabados os céus e a terra e todo o seu exército.",
+        "2": "E, havendo Deus terminado no dia sétimo a sua obra, que fizera, descansou nesse dia de toda a sua obra que tinha feito.",
+        "3": "E abençoou Deus o dia sétimo e o santificou; porque nele descansou de toda a obra que, como Criador, fizera.",
+        "4": {
+            "título": "O homem no jardim do Éden",
+            "texto": "Esta é a gênese dos céus e da terra quando foram criados, quando o SENHOR Deus os criou."
+        },
+        "5": "Não havia ainda nenhuma planta do campo na terra, pois ainda nenhuma erva do campo havia brotado; porque o SENHOR Deus não fizera chover sobre a terra, e também não havia homem para lavrar o solo.",
+        "6": "Mas uma neblina subia da terra e regava toda a superfície do solo.",
+        "7": "Então, formou o SENHOR Deus ao homem do pó da terra e lhe soprou nas narinas o fôlego de vida, e o homem passou a ser alma vivente."
+    }
+}

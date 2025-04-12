@@ -1,0 +1,35 @@
+
+{
+    "livro": "Êxodo",
+    "capítulo": 1,
+    "versículos": {
+        "1": "Jacó foi para o Egito, levando os seus filhos, e cada um deles foi com a sua família. Eis os seus nomes:",
+        "2": "Rúben, Simeão, Levi, Judá,",
+        "3": "Issacar, Zebulom, Benjamim,",
+        "4": "Dã, Naftali, Gade e Aser.",
+        "5": "Ao todo eram setenta pessoas descendentes de Jacó. José já estava no Egito.",
+        "6": "Com o passar do tempo, José e os seus irmãos e todos os daquela geração morreram,",
+        "7": "porém os descendentes deles, o povo de Israel, tiveram muitos filhos e netos. Eles se multiplicaram e ficaram muito fortes, e o país ficou cheio deles.",
+        "8": {
+            "título": "A escravidão no Egito",
+            "texto": "Então um novo rei, que não tinha conhecido José, começou a governar o Egito."
+        },
+        "9": "Ele disse ao seu povo: — Vejam! O povo de Israel é numeroso demais e mais forte do que nós.",
+        "10": "Precisamos pensar num plano para não deixá-los aumentar mais ainda. Do contrário, em caso de guerra, eles poderão se juntar com os nossos inimigos e lutar contra nós, para depois abandonarem o país.",
+        "11": "Por isso os egípcios puseram feitores para vigiarem os israelitas e colocaram sobre eles pesados trabalhos. E os israelitas construíram para o Faraó as cidades de Pitom e Ramessés, para servirem como depósitos.",
+        "12": "Porém, quanto mais os egípcios os maltratavam, tanto mais os israelitas aumentavam e se espalhavam. E os egípcios ficaram com medo deles",
+        "13": "e por isso foram muito cruéis com os israelitas.",
+        "14": "Tornaram amarga a vida deles, obrigando-os a fazer trabalhos pesados com barro e tijolos e toda a qualidade de trabalhos nos campos. Em todos esses trabalhos, eles tratavam os israelitas com crueldade.",
+        "15": {
+            "título": "As parteiras salvam os meninos",
+            "texto": "Havia duas parteiras chamadas Sifrá e Puá, que ajudavam as mulheres dos hebreus quando elas tinham filhos. O rei do Egito falou com elas"
+        },
+        "16": "e disse: — Quando vocês estiverem ajudando as mulheres dos hebreus a darem à luz, reparem bem. Se a criança for menino, matem-na; se for menina, deixem-na viver.",
+        "17": "Porém as parteiras temiam a Deus e não fizeram o que o rei tinha mandado, mas deixaram os meninos viver.",
+        "18": "Por isso o rei mandou chamá-las e perguntou: — Por que foi que vocês deixaram os meninos viver?",
+        "19": "Elas responderam: — É que as mulheres dos hebreus não são como as egípcias. Elas são fortes e dão à luz antes que a parteira chegue.",
+        "20": "Por causa disso, Deus tratou bem as parteiras; e o povo israelita continuou a aumentar e ficou mais forte ainda.",
+        "21": "E, porque as parteiras temiam a Deus, ele deu filhos a elas.",
+        "22": "Então o Faraó deu esta ordem ao seu povo: — Joguem no rio Nilo todos os meninos que nascerem dos hebreus, mas deixem viver as meninas."
+    }
+}

@@ -1,0 +1,35 @@
+
+{
+    "livro": "Êxodo",
+    "capítulo": 1,
+    "versículos": {
+        "1": "São estes os nomes dos filhos de Israel que entraram no Egito com Jacó; cada um entrou com sua família:",
+        "2": "Rúben, Simeão, Levi e Judá,",
+        "3": "Issacar, Zebulom, Benjamim,",
+        "4": "Dã e Naftali, Gade e Aser.",
+        "5": "Toda descendência de Jacó foi de setenta pessoas; José, porém, já estava no Egito.",
+        "6": "José morreu, e todos os seus irmãos, e toda aquela geração.",
+        "7": "Os filhos de Israel foram fecundos, multiplicaram-se, tornaram-se numerosos e fortes demais, e encheram a terra.",
+        "8": {
+            "título": "A escravidão em Egito",
+            "texto": "Entretanto, levantou-se novo rei sobre o Egito, que não conhecera a José;"
+        },
+        "9": "e disse ao seu povo: Eis que o povo de Israel é mais numeroso e mais forte do que nós.",
+        "10": "Vinde, usemos de astúcia para com ele, para que não se multiplique, e aconteça que, vindo guerra, ele também se ajunte com os nossos inimigos, e peleje contra nós, e se retire da terra.",
+        "11": "Portanto, estabeleceram sobre eles feitores, para os afligirem com suas cargas; e Israel edificou para Faraó as cidades-celeiros de Pitom e Ramessés.",
+        "12": "Mas, quanto mais os afligiam, tanto mais se multiplicavam e cresciam; de maneira que se enfadavam por causa dos filhos de Israel.",
+        "13": "Por isso, os egípcios faziam os filhos de Israel servir com dureza;",
+        "14": "amarguravam-lhes a vida com dura servidão, em barro, em tijolos e com todo trabalho no campo; todo o seu serviço, em que os obrigavam a servir, era com rigor.",
+        "15": {
+            "título": "As parteiras desobedecem a Faraó",
+            "texto": "Falou o rei do Egito às parteiras das hebréias, das quais uma se chamava Sifrá, e a outra, Puá,"
+        },
+        "16": "e lhes disse: Quando ajudardes no parto as hebréias e as virdes sobre os assentos, se for filho, matai-o; se for filha, viverá.",
+        "17": "As parteiras, porém, temeram a Deus e não fizeram como lhes ordenara o rei do Egito; antes, conservavam com vida os meninos.",
+        "18": "Então, o rei do Egito chamou as parteiras e as indagou: Por que tendes feito isto e guardastes os meninos com vida?",
+        "19": "Responderam as parteiras a Faraó: É que as mulheres hebréias não são como as egípcias; porque são vigorosas, e, antes que a parteira chegue a elas, já deram à luz.",
+        "20": "Portanto, Deus fez bem às parteiras. E o povo se aumentou e se tornou mui forte.",
+        "21": "E aconteceu que, como as parteiras temeram a Deus, ele lhes estabeleceu casas.",
+        "22": "Então, ordenou Faraó a todo o seu povo: A todo filho que nascer lançareis no rio, mas a toda filha conservareis com vida."
+    }
+}

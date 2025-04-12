@@ -1,0 +1,41 @@
+
+{
+    "livro": "בְּרֵאשִׁית",
+    "capítulo": 3,
+    "versículos": {
+        "1": {
+            "título": "החטא הראשון",
+            "texto": "וְהַנָּחָשׁ הָיָה עָרוּם מִכֹּל חַיַּת הַשָּׂדֶה אֲשֶׁר עָשָׂה יְהוָה אֱלֹהִים וַיֹּאמֶר אֶל־הָאִשָּׁה אַף כִּי־אָמַר אֱלֹהִים לֹא תֹאכְלוּ מִכֹּל עֵץ הַגָּן׃",
+            "traducao": "Ora, a serpente era mais astuta que todos os animais do campo que o SENHOR Deus tinha feito. E esta disse à mulher: É assim que Deus disse: Não comereis de toda árvore do jardim?"
+        },
+        "2": {
+            "texto": "וַתֹּאמֶר הָאִשָּׁה אֶל־הַנָּחָשׁ מִפְּרִי עֵץ־הַגָּן נֹאכֵל׃",
+            "traducao": "E disse a mulher à serpente: Do fruto das árvores do jardim podemos comer,"
+        },
+        "3": {
+            "texto": "וּמִפְּרִי הָעֵץ אֲשֶׁר בְּתוֹךְ־הַגָּן אָמַר אֱלֹהִים לֹא תֹאכְלוּ מִמֶּנּוּ וְלֹא תִגְּעוּ בּוֹ פֶּן־תְּמֻתוּן׃",
+            "traducao": "Mas do fruto da árvore que está no meio do jardim, disse Deus: Dele não comereis, nem nele tocareis, para que não morrais."
+        },
+        "4": {
+            "texto": "וַיֹּאמֶר הַנָּחָשׁ אֶל־הָאִשָּׁה לֹא־מוֹת תְּמֻתוּן׃",
+            "traducao": "Então, a serpente disse à mulher: Certamente não morrereis."
+        },
+        "5": {
+            "texto": "כִּי יֹדֵעַ אֱלֹהִים כִּי בְּיוֹם אֲכָלְכֶם מִמֶּנּוּ וְנִפְקְחוּ עֵינֵיכֶם וִהְיִיתֶם כֵּאלֹהִים יֹדְעֵי טוֹב וָרָע׃",
+            "traducao": "Porque Deus sabe que no dia em que dele comerdes, serão abertos os vossos olhos, e sereis como Deus, conhecendo o bem e o mal."
+        },
+        "6": {
+            "texto": "וַתֵּרֶא הָאִשָּׁה כִּי טוֹב הָעֵץ לְמַאֲכָל וְכִי תַאֲוָה־הוּא לָעֵינַיִם וְנֶחְמָד הָעֵץ לְהַשְׂכִּיל וַתִּקַּח מִפִּרְיוֹ וַתֹּאכַל וַתִּתֵּן גַּם־לְאִישָׁהּ עִמָּהּ וַיֹּאכַל׃",
+            "traducao": "E viu a mulher que aquela árvore era boa para se comer, e agradável aos olhos, e árvore desejável para dar entendimento; e tomou do seu fruto, e comeu, e deu também a seu marido, e ele comeu com ela."
+        },
+        "7": {
+            "texto": "וַתִּפָּקַחְנָה עֵינֵי שְׁנֵיהֶם וַיֵּדְעוּ כִּי עֵירֻמִּם הֵם וַיִּתְפְּרוּ עֲלֵה תְאֵנָה וַיַּעֲשׂוּ לָהֶם חֲגֹרֹת׃",
+            "traducao": "Então, foram abertos os olhos de ambos, e conheceram que estavam nus; e coseram folhas de figueira, e fizeram para si aventais."
+        },
+        "8": {
+            "título": "אדם וחוה מסתתרים",
+            "texto": "וַיִּשְׁמְעוּ אֶת־קוֹל יְהוָה אֱלֹהִים מִתְהַלֵּךְ בַּגָּן לְרוּחַ הַיּוֹם וַיִּתְחַבֵּא הָאָדָם וְאִשְׁתּוֹ מִפְּנֵי יְהוָה אֱלֹהִים בְּתוֹךְ עֵץ הַגָּן׃",
+            "traducao": "E ouviram a voz do Senhor Deus, que passeava no jardim à brisa do dia; e esconderam-se Adão e sua mulher da presença do Senhor Deus, entre as árvores do jardim."
+        }
+    }
+}

@@ -1,0 +1,341 @@
+
+{
+    "livros": [
+        {
+            "id": "genesis",
+            "nome": "Gênesis",
+            "abreviacao": "Gn",
+            "testamento": "antigo",
+            "capitulos": 50
+        },
+        {
+            "id": "exodo",
+            "nome": "Êxodo",
+            "abreviacao": "Ex",
+            "testamento": "antigo",
+            "capitulos": 40
+        },
+        {
+            "id": "levitico",
+            "nome": "Levítico",
+            "abreviacao": "Lv",
+            "testamento": "antigo",
+            "capitulos": 27
+        },
+        {
+            "id": "numeros",
+            "nome": "Números",
+            "abreviacao": "Nm",
+            "testamento": "antigo",
+            "capitulos": 36
+        },
+        {
+            "id": "deuteronomio",
+            "nome": "Deuteronômio",
+            "abreviacao": "Dt",
+            "testamento": "antigo",
+            "capitulos": 34
+        },
+        {
+            "id": "josue",
+            "nome": "Josué",
+            "abreviacao": "Js",
+            "testamento": "antigo",
+            "capitulos": 24
+        },
+        {
+            "id": "juizes",
+            "nome": "Juízes",
+            "abreviacao": "Jz",
+            "testamento": "antigo",
+            "capitulos": 21
+        },
+        {
+            "id": "rute",
+            "nome": "Rute",
+            "abreviacao": "Rt",
+            "testamento": "antigo",
+            "capitulos": 4
+        },
+        {
+            "id": "1samuel",
+            "nome": "1 Samuel",
+            "abreviacao": "1Sm",
+            "testamento": "antigo",
+            "capitulos": 31
+        },
+        {
+            "id": "2samuel",
+            "nome": "2 Samuel",
+            "abreviacao": "2Sm",
+            "testamento": "antigo",
+            "capitulos": 24
+        },
+        {
+            "id": "1reis",
+            "nome": "1 Reis",
+            "abreviacao": "1Rs",
+            "testamento": "antigo",
+            "capitulos": 22
+        },
+        {
+            "id": "2reis",
+            "nome": "2 Reis",
+            "abreviacao": "2Rs",
+            "testamento": "antigo",
+            "capitulos": 25
+        },
+        {
+            "id": "1cronicas",
+            "nome": "1 Crônicas",
+            "abreviacao": "1Cr",
+            "testamento": "antigo",
+            "capitulos": 29
+        },
+        {
+            "id": "2cronicas",
+            "nome": "2 Crônicas",
+            "abreviacao": "2Cr",
+            "testamento": "antigo",
+            "capitulos": 36
+        },
+        {
+            "id": "esdras",
+            "nome": "Esdras",
+            "abreviacao": "Ed",
+            "testamento": "antigo",
+            "capitulos": 10
+        },
+        {
+            "id": "neemias",
+            "nome": "Neemias",
+            "abreviacao": "Ne",
+            "testamento": "antigo",
+            "capitulos": 13
+        },
+        {
+            "id": "ester",
+            "nome": "Ester",
+            "abreviacao": "Et",
+            "testamento": "antigo",
+            "capitulos": 10
+        },
+        {
+            "id": "jo",
+            "nome": "Jó",
+            "abreviacao": "Jó",
+            "testamento": "antigo",
+            "capitulos": 42
+        },
+        {
+            "id": "salmos",
+            "nome": "Salmos",
+            "abreviacao": "Sl",
+            "testamento": "antigo",
+            "capitulos": 150
+        },
+        {
+            "id": "proverbios",
+            "nome": "Provérbios",
+            "abreviacao": "Pv",
+            "testamento": "antigo",
+            "capitulos": 31
+        },
+        {
+            "id": "eclesiastes",
+            "nome": "Eclesiastes",
+            "abreviacao": "Ec",
+            "testamento": "antigo",
+            "capitulos": 12
+        },
+        {
+            "id": "cantares",
+            "nome": "Cantares",
+            "abreviacao": "Ct",
+            "testamento": "antigo",
+            "capitulos": 8
+        },
+        {
+            "id": "isaias",
+            "nome": "Isaías",
+            "abreviacao": "Is",
+            "testamento": "antigo",
+            "capitulos": 66
+        },
+        {
+            "id": "jeremias",
+            "nome": "Jeremias",
+            "abreviacao": "Jr",
+            "testamento": "antigo",
+            "capitulos": 52
+        },
+        {
+            "id": "lamentacoes",
+            "nome": "Lamentações",
+            "abreviacao": "Lm",
+            "testamento": "antigo",
+            "capitulos": 5
+        },
+        {
+            "id": "ezequiel",
+            "nome": "Ezequiel",
+            "abreviacao": "Ez",
+            "testamento": "antigo",
+            "capitulos": 48
+        },
+        {
+            "id": "daniel",
+            "nome": "Daniel",
+            "abreviacao": "Dn",
+            "testamento": "antigo",
+            "capitulos": 12
+        },
+        {
+            "id": "oseias",
+            "nome": "Oséias",
+            "abreviacao": "Os",
+            "testamento": "antigo",
+            "capitulos": 14
+        },
+        {
+            "id": "joel",
+            "nome": "Joel",
+            "abreviacao": "Jl",
+            "testamento": "antigo",
+            "capitulos": 3
+        },
+        {
+            "id": "amos",
+            "nome": "Amós",
+            "abreviacao": "Am",
+            "testamento": "antigo",
+            "capitulos": 9
+        },
+        {
+            "id": "obadias",
+            "nome": "Obadias",
+            "abreviacao": "Ob",
+            "testamento": "antigo",
+            "capitulos": 1
+        },
+        {
+            "id": "jonas",
+            "nome": "Jonas",
+            "abreviacao": "Jn",
+            "testamento": "antigo",
+            "capitulos": 4
+        },
+        {
+            "id": "miqueias",
+            "nome": "Miquéias",
+            "abreviacao": "Mq",
+            "testamento": "antigo",
+            "capitulos": 7
+        },
+        {
+            "id": "naum",
+            "nome": "Naum",
+            "abreviacao": "Na",
+            "testamento": "antigo",
+            "capitulos": 3
+        },
+        {
+            "id": "habacuque",
+            "nome": "Habacuque",
+            "abreviacao": "Hc",
+            "testamento": "antigo",
+            "capitulos": 3
+        },
+        {
+            "id": "sofonias",
+            "nome": "Sofonias",
+            "abreviacao": "Sf",
+            "testamento": "antigo",
+            "capitulos": 3
+        },
+        {
+            "id": "ageu",
+            "nome": "Ageu",
+            "abreviacao": "Ag",
+            "testamento": "antigo",
+            "capitulos": 2
+        },
+        {
+            "id": "zacarias",
+            "nome": "Zacarias",
+            "abreviacao": "Zc",
+            "testamento": "antigo",
+            "capitulos": 14
+        },
+        {
+            "id": "malaquias",
+            "nome": "Malaquias",
+            "abreviacao": "Ml",
+            "testamento": "antigo",
+            "capitulos": 4
+        },
+        {
+            "id": "mateus",
+            "nome": "Mateus",
+            "abreviacao": "Mt",
+            "testamento": "novo",
+            "capitulos": 28
+        },
+        {
+            "id": "marcos",
+            "nome": "Marcos",
+            "abreviacao": "Mc",
+            "testamento": "novo",
+            "capitulos": 16
+        },
+        {
+            "id": "lucas",
+            "nome": "Lucas",
+            "abreviacao": "Lc",
+            "testamento": "novo",
+            "capitulos": 24
+        },
+        {
+            "id": "joao",
+            "nome": "João",
+            "abreviacao": "Jo",
+            "testamento": "novo",
+            "capitulos": 21
+        },
+        {
+            "id": "atos",
+            "nome": "Atos",
+            "abreviacao": "At",
+            "testamento": "novo",
+            "capitulos": 28
+        },
+        {
+            "id": "romanos",
+            "nome": "Romanos",
+            "abreviacao": "Rm",
+            "testamento": "novo",
+            "capitulos": 16
+        },
+        {
+            "id": "1corintios",
+            "nome": "1 Coríntios",
+            "abreviacao": "1Co",
+            "testamento": "novo",
+            "capitulos": 16
+        },
+        {
+            "id": "2corintios",
+            "nome": "2 Coríntios",
+            "abreviacao": "2Co",
+            "testamento": "novo",
+            "capitulos": 13
+        },
+        {
+            "id": "galatas",
+            "nome": "Gálatas",
+            "abreviacao": "Gl",
+            "testamento": "novo",
+            "capitulos": 6
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+
+{
+    "livro": "Gênesis",
+    "capítulo": 3,
+    "versículos": {
+        "1": {
+            "título": "A tentação e a queda",
+            "texto": "Ora, a serpente era mais astuta que todos os animais do campo que o Senhor Deus havia feito. E ela disse à mulher: — Foi isto mesmo que Deus disse: "Não comam de nenhuma árvore do jardim"?"
+        },
+        "2": "Respondeu a mulher à serpente: — Podemos comer do fruto das árvores do jardim,",
+        "3": "mas do fruto da árvore que está no meio do jardim, disse Deus: "Não comam dele, nem toquem nele, para que não morram."",
+        "4": "Então a serpente disse à mulher: — É certo que não morrerão.",
+        "5": "Porque Deus sabe que no dia em que vocês comerem desse fruto, os olhos de vocês se abrirão, e vocês serão como Deus, conhecendo o bem e o mal.",
+        "6": "A mulher viu que a árvore era boa para se comer, agradável aos olhos e desejável para dar entendimento. Então pegou o fruto, comeu-o e o deu também ao marido, e ele comeu.",
+        "7": "Então os olhos de ambos se abriram, e perceberam que estavam nus. Costuraram folhas de figueira e fizeram tangas para si.",
+        "8": {
+            "título": "Deus confronta o homem",
+            "texto": "Quando ouviram o som dos passos do Senhor Deus, que caminhava pelo jardim no final da tarde, o homem e sua mulher se esconderam da presença do Senhor Deus, por entre as árvores do jardim."
+        },
+        "9": "E o Senhor Deus chamou o homem, perguntando: — Onde está você?",
+        "10": "Ele respondeu: — Ouvi o som dos teus passos no jardim, e, porque estava nu, tive medo e me escondi.",
+        "11": "Perguntou Deus: — Quem lhe disse que você estava nu? Você comeu da árvore da qual lhe ordenei que não comesse?",
+        "12": "Então o homem respondeu: — A mulher que me deste por companheira, ela me deu da árvore, e eu comi.",
+        "13": "Disse o Senhor Deus à mulher: — Que é isto que você fez? Respondeu a mulher: — A serpente me enganou, e eu comi.",
+        "14": {
+            "título": "As consequências do pecado",
+            "texto": "Então o Senhor Deus disse à serpente: — Porque você fez isso, maldita é você entre todos os animais domésticos e entre todos os animais selváticos; você rastejará sobre o seu ventre e comerá pó todos os dias da sua vida."
+        },
+        "15": "Porei inimizade entre você e a mulher, entre a descendência de você e o descendente dela. Este lhe ferirá a cabeça, e você lhe ferirá o calcanhar.",
+        "16": "E à mulher disse: — Multiplicarei sobremodo os sofrimentos da sua gravidez; em meio a dores você dará à luz filhos; o seu desejo será para o seu marido, e ele a dominará.",
+        "17": "E a Adão disse: — Visto que você deu ouvidos à voz de sua mulher e comeu da árvore da qual eu lhe ordenei que não comesse, maldita é a terra por sua causa. Em meio a penosos trabalhos você comerá dela todos os dias da sua vida.",
+        "18": "Ela lhe produzirá espinhos e abrolhos; e você comerá a erva do campo.",
+        "19": "Do suor do seu rosto comerá o seu pão, até que você volte à terra, pois dela você foi tirado; porque você é pó e ao pó voltará.",
+        "20": "E o homem deu à sua mulher o nome de Eva, pois ela se tornou a mãe de todos os seres humanos.",
+        "21": "O Senhor Deus fez roupas de peles de animais para Adão e sua mulher e os vestiu.",
+        "22": {
+            "título": "A expulsão do Éden",
+            "texto": "Então disse o Senhor Deus: — Agora o homem se tornou como um de nós, conhecedor do bem e do mal. Para que ele não estenda a mão e tome também da árvore da vida, coma e viva eternamente,"
+        },
+        "23": "o Senhor Deus, por isso, o lançou fora do jardim do Éden, para cultivar a terra da qual foi tirado.",
+        "24": "Tendo expulsado o homem, colocou ao oriente do jardim do Éden querubins e uma espada flamejante que se movia, guardando o caminho da árvore da vida."
+    }
+}
