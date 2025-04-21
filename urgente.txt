@@ -6,10 +6,8 @@ verificar se todos html contem esta linha
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-verificar os ti­tulos dos versículos
+verificar os tÃ­tulos dos versÃ­culos
 
 
 
-Feito a correção das tag e tí­tulos dos versículos de Malaquias de 1 até 4
-
-parei em Mateus
+parei em Marcos
