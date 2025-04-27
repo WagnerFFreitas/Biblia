@@ -90,7 +90,7 @@ const livros = {
     "amos": {
         "capitulos": 9
     },
-    "abdias": {
+    "obadias": {
         "capitulos": 1
     },
     "jonas": {
@@ -105,7 +105,7 @@ const livros = {
     "habacuque": {
         "capitulos": 3
     },
-    "safonias": {
+    "sofonias": {
         "capitulos": 3
     },
     "ageu": {
@@ -227,7 +227,7 @@ function createCapitulosButtons(livro) {
 // O bloco abaixo cria a função para carregar o conteúdo de um versículo específico
 async function loadVersiculo(livro, capitulo, versiculo) {
     //const response = await fetch(`${livro}/${capitulo}.html`);
-    const response = await fetch(`../../version/arc/${livro}/${capitulo}.html`);
+    const response = await fetch(`../version/arc/${livro}/${capitulo}.html`);
     const html = await response.text();
         
     const tempDiv = document.createElement('div');
