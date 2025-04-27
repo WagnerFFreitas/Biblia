@@ -5,12 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@600&display=swap" rel="stylesheet">
     <title>Bíblia Sagrada</title>
-    <link rel="stylesheet" href="../css/arc.css">
+    <link rel="stylesheet" href="../css/ara.css">
 </head>
 <body>
     <header>
-        <div class="header-top">    
-            <h1>Bíblia Sagrada ARC</h1>
+        <div class="header-top">
+            <h1>Bíblia Sagrada ARA</h1>
                 <div class="search-bar">
                 <select>
                     <option value="todos">Todos</option>
@@ -22,34 +22,35 @@
             </div>
         </div>
         <div class="header-bottom">
-    <nav>
-        <ul>
-            <li><a href="#">Slide</a></li>
-            <li class="dropdown">
-                <a href="#" id="versoes">Versões</a>
-                <ul class="dropdown-content" id="versoes-list"></ul>
-            </li>
-            <li class="dropdown">
-                <a href="#" id="dicionario">Dicionário e Concordância</a>
-                <ul class="dropdown-content" id="dicionario-list"></ul>
-            </li>
-            <li class="dropdown">
-                <a href="#" id="harpa-hinario">Harpa e Hinário</a>
-                <ul class="dropdown-content" id="harpa-hinario-list"></ul>
-            </li>
-            <li class="dropdown">
-                <a href="#" id="baixar">Baixar</a>
-                <ul class="dropdown-content" id="Baixar"></ul>
-            </li>
-            <li class="dropdown">
-                <a href="#" id="utilidades">Utilidades</a>
-                <ul class="dropdown-content" id="utilidades-list"></ul>
-            </li>
-            <li><a href="mailto:wagnerffreitas1973@gmail.com">Contato</a></li>
-            <li><a href="#" id="sobre">Sobre</a></li>
-        </ul>
-    </nav>
-</div>
+            <nav>
+                <ul>
+                    <li><a href="#">Slide</a></li>
+                    <li class="dropdown">
+                        <a href="#" id="versoes">Versões</a>
+                        <ul class="dropdown-content" id="versoes-list"></ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" id="dicionario">Dicionário e Concordância</a>
+                        <ul class="dropdown-content" id="dicionario-list"></ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" id="harpa-hinario">Harpa e Hinário</a>
+                        <ul class="dropdown-content" id="harpa-hinario-list"></ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" id="baixar">Baixar</a>
+                        <!-- ID CORRIGIDO AQUI -->
+                        <ul class="dropdown-content" id="baixar-list"></ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" id="utilidades">Utilidades</a>
+                        <ul class="dropdown-content" id="utilidades-list"></ul>
+                    </li>
+                    <li><a href="mailto:wagnerffreitas1973@gmail.com">Contato</a></li>
+                    <li><a href="#" id="sobre">Sobre</a></li>
+                </ul>
+            </nav>
+        </div>
     </header>
     <main>
         <div class="container">
@@ -86,12 +87,12 @@
                     <li><a href="#" data-livro="oseias">Oseias</a></li>
                     <li><a href="#" data-livro="joel">Joel</a></li>
                     <li><a href="#" data-livro="amos">Amós</a></li>
-                    <li><a href="#" data-livro="obadias">Obadias</a></li>
+                    <li><a href="#" data-livro="abdias">Abdias</a> <!-- Corrigido se necessário no JS também -->
                     <li><a href="#" data-livro="jonas">Jonas</a></li>
                     <li><a href="#" data-livro="miqueias">Miqueias</a></li>
                     <li><a href="#" data-livro="naum">Naum</a></li>
                     <li><a href="#" data-livro="habacuque">Habacuque</a></li>
-                    <li><a href="#" data-livro="sofonias">Sofonias</a></li>
+                    <li><a href="#" data-livro="safonias">Safonias</a> <!-- Corrigido se necessário no JS também -->
                     <li><a href="#" data-livro="ageu">Ageu</a></li>
                     <li><a href="#" data-livro="zacarias">Zacarias</a></li>
                     <li><a href="#" data-livro="malaquias">Malaquias</a></li>
@@ -107,8 +108,10 @@
                     <li><a href="#" data-livro="efesios">Efésios</a></li>
                     <li><a href="#" data-livro="filipenses">Filipenses</a></li>
                     <li><a href="#" data-livro="colossenses">Colossenses</a></li>
-                    <li><a href="#" data-livro="1tessaloniceses">1º Tessalonicenses</a></li>
-                    <li><a href="#" data-livro="2tessaloniceses">2º Tessalonicenses</a></li>
+                    <!-- data-livro CORRIGIDO ABAIXO -->
+                    <li><a href="#" data-livro="1tessalonicenses">1º Tessalonicenses</a></li>
+                    <!-- data-livro CORRIGIDO ABAIXO -->
+                    <li><a href="#" data-livro="2tessalonicenses">2º Tessalonicenses</a></li>
                     <li><a href="#" data-livro="1timoteo">1º Timóteo</a></li>
                     <li><a href="#" data-livro="2timoteo">2º Timóteo</a></li>
                     <li><a href="#" data-livro="tito">Tito</a></li>
@@ -125,16 +128,18 @@
                 </ul>
             </aside>
             <section class="content">
+                <!-- A div watermark será preenchida pelo JS via window.onload -->
                 <div class="watermark">
-                    <!--<img src="biblia.png" alt="Marca d'água da Bíblia">-->
+                    <!-- A imagem comentada foi removida -->
                 </div>
-                <ul id="Baixar" style="display: none;"></ul>
+                <!-- A UL perdida foi removida daqui -->
             </section>
         </div>
     </main>
     <footer>
         <p>© Bíblia Sagrada 2024</p>
     </footer>
-    <script src="../script/arc.js"></script>
+    <!-- Certifique-se que o caminho para ara.js está correto -->
+    <script src="../script/ara.js"></script>
 </body>
 </html>

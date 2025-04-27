@@ -5,12 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@600&display=swap" rel="stylesheet">
     <title>Bíblia Sagrada</title>
-    <link rel="stylesheet" href="../css/ara.css">
+    <link rel="stylesheet" href="../css/ara.css"> <!-- Referencia ara.css -->
 </head>
 <body>
     <header>
         <div class="header-top">
-            <h1>Bíblia Sagrada ARA</h1>
+            <h1>Bíblia Sagrada ARA</h1> <!-- Título ARA -->
                 <div class="search-bar">
                 <select>
                     <option value="todos">Todos</option>
@@ -40,7 +40,7 @@
                     <li class="dropdown">
                         <a href="#" id="baixar">Baixar</a>
                         <!-- ID CORRIGIDO AQUI -->
-                        <ul class="dropdown-content" id="baixar-list"></ul>
+                        <ul class="dropdown-content" id="baixar-list"></ul> <!-- ID 'baixar-list' -->
                     </li>
                     <li class="dropdown">
                         <a href="#" id="utilidades">Utilidades</a>
@@ -87,12 +87,12 @@
                     <li><a href="#" data-livro="oseias">Oseias</a></li>
                     <li><a href="#" data-livro="joel">Joel</a></li>
                     <li><a href="#" data-livro="amos">Amós</a></li>
-                    <li><a href="#" data-livro="abdias">Abdias</a> <!-- Corrigido se necessário no JS também -->
+                    <li><a href="#" data-livro="abdias">Abdias</a> <!-- Texto/data-livro Abdias -->
                     <li><a href="#" data-livro="jonas">Jonas</a></li>
                     <li><a href="#" data-livro="miqueias">Miqueias</a></li>
                     <li><a href="#" data-livro="naum">Naum</a></li>
                     <li><a href="#" data-livro="habacuque">Habacuque</a></li>
-                    <li><a href="#" data-livro="safonias">Safonias</a> <!-- Corrigido se necessário no JS também -->
+                    <li><a href="#" data-livro="safonias">Safonias</a> <!-- Texto/data-livro Safonias -->
                     <li><a href="#" data-livro="ageu">Ageu</a></li>
                     <li><a href="#" data-livro="zacarias">Zacarias</a></li>
                     <li><a href="#" data-livro="malaquias">Malaquias</a></li>
@@ -109,9 +109,9 @@
                     <li><a href="#" data-livro="filipenses">Filipenses</a></li>
                     <li><a href="#" data-livro="colossenses">Colossenses</a></li>
                     <!-- data-livro CORRIGIDO ABAIXO -->
-                    <li><a href="#" data-livro="1tessalonicenses">1º Tessalonicenses</a></li>
+                    <li><a href="#" data-livro="1tessalonicenses">1º Tessalonicenses</a></li> <!-- data-livro '1tessalonicenses' -->
                     <!-- data-livro CORRIGIDO ABAIXO -->
-                    <li><a href="#" data-livro="2tessalonicenses">2º Tessalonicenses</a></li>
+                    <li><a href="#" data-livro="2tessalonicenses">2º Tessalonicenses</a></li> <!-- data-livro '2tessalonicenses' -->
                     <li><a href="#" data-livro="1timoteo">1º Timóteo</a></li>
                     <li><a href="#" data-livro="2timoteo">2º Timóteo</a></li>
                     <li><a href="#" data-livro="tito">Tito</a></li>
@@ -128,11 +128,12 @@
                 </ul>
             </aside>
             <section class="content">
-                <!-- A div watermark será preenchida pelo JS via window.onload -->
                 <div class="watermark">
-                    <!-- A imagem comentada foi removida -->
+                    <!-- CORREÇÃO APLICADA: Incluindo a imagem comentada como no arc.html -->
+                    <!--<img src="biblia.png" alt="Marca d'água da Bíblia">-->
                 </div>
-                <!-- A UL perdida foi removida daqui -->
+                <!-- CORREÇÃO APLICADA: Incluindo a UL perdida como no arc.html -->
+                <ul id="Baixar" style="display: none;"></ul>
             </section>
         </div>
     </main>
@@ -140,6 +141,6 @@
         <p>© Bíblia Sagrada 2024</p>
     </footer>
     <!-- Certifique-se que o caminho para ara.js está correto -->
-    <script src="../script/ara.js"></script>
+    <script src="../script/ara.js"></script> <!-- Referencia ara.js -->
 </body>
 </html>

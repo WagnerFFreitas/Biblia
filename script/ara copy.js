@@ -1734,15 +1734,15 @@ function getNumVersiculos(livro, capitulo) {
 window.onload = () => {
     const content = document.querySelector('.content');
     const watermarkContainer = document.createElement('div');
-    watermarkContainer.classList.add('watermark'); // Cria <div class="watermark">
-
-    const img = document.createElement('img'); // Cria <img>
-    img.src = '../img/biblia.png';             // Define a fonte da imagem
+    watermarkContainer.classList.add('watermark');
+    
+    const img = document.createElement('img');
+    img.src = '../img/biblia.png';
     img.alt = "Marca d'água da Bíblia";
-    img.classList.add('watermark-image');    // Adiciona classe à imagem
-
-    watermarkContainer.appendChild(img);       // Adiciona <img> dentro da <div>
-    content.appendChild(watermarkContainer); // Adiciona a <div> ao .content
+    img.classList.add('watermark-image');
+    
+    watermarkContainer.appendChild(img);
+    content.appendChild(watermarkContainer);
 };
 
 // O bloco abaixo cria a janela de SLIDE para o data-show

@@ -1,6 +1,8 @@
+/* --- START OF FILE ara.css --- */
+
 /* O bloco abaixo configura o corpo da página */
 body {
-    background-color: #181818;
+    background-color: #181818; /* Fundo base ainda necessário se a imagem não carregar */
     color: #fff;
     font-family: sans-serif;
     margin: 0;
@@ -13,11 +15,12 @@ h1 {
     margin: 0;
     margin-top: 20px;
     margin-left: 30px;
-    font-size: 2.5em;
+    font-size: 2.5em; 
     font-weight: bold;
     font-style: italic;
 }
 
+/* O bloco abaixo configura o estilo da barra de navegação (geral, se houver fora do header) */
 /* O bloco abaixo configura o estilo da barra de navegação */
 nav {
     background: linear-gradient(to right, #333, #555, #777);
@@ -26,7 +29,7 @@ nav {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
 }
 
-/* O bloco abaixo configura o estilo da lista de navegação */
+/* Estilos para links de navegação (aplicado à nav dentro do header) */
 nav ul {
     display: flex;
     justify-content: center;
@@ -35,7 +38,6 @@ nav ul {
     padding: 0;
 }
 
-/* O bloco abaixo configura o espaçamento entre os itens de navegação na horizontal */
 nav ul li {
     margin: 0 5px;
 }
@@ -50,12 +52,11 @@ nav ul li a {
     transition: background 0.3s ease;
 }
 
-/* O bloco abaixo configura o efeito ao passar o mouse sobre os links de navegação */
 nav ul li a:hover {
-    background: rgba(255, 255, 255, 0.1);
+    background: rgba(255, 255, 255, 0.2); /* Fundo hover mais visível */
 }
 
-/* O bloco abaixo configura o menu lateral dos livros */
+/* aqui e menu lateral O bloco abaixo configura o menu lateral dos livros */
 .menu-livros {
     flex: 1;
     margin-right: 20px;
@@ -73,7 +74,7 @@ nav ul li a:hover {
     height: calc(100vh - 200px);
 }
 
-/* O bloco abaixo configura a largura da barra de rolagem do menu lateral */
+/* O bloco abaixo configura a largura da barra de rolagem do menu lateral */ 
 .menu-livros::-webkit-scrollbar {
     width: 12px;
 }
@@ -83,7 +84,7 @@ nav ul li a:hover {
     background: #383838;
 }
 
-/* O bloco abaixo configura a cor, arredondamento e a margem da barra de rolagem */
+/* O bloco abaixo configura a cor, arredondamento e a margem da barra de rolagem */  
 .menu-livros::-webkit-scrollbar-thumb {
     background: #a7a2a2;
     border-radius: 10px;
@@ -104,7 +105,7 @@ nav ul li a:hover {
 
 /* O bloco abaixo configura a cor e remove o sublinhamento */
 .menu-livros a {
-    color: #fcf9f9;
+    color: #fcf9f9; 
     text-decoration: none;
 }
 
@@ -119,10 +120,8 @@ nav ul li a:hover {
     overflow-y: auto;
     overflow-x: hidden;
     height: calc(100vh - 160px); /*160px e a altura da barra de rolagem direita*/
-    margin-left: 190px; /* Adiciona margem para não ficar sob o menu lateral */
-    padding-right: 10px; /* Espaço para a barra de rolagem não colar no conteúdo */
-    position: relative; /* Para z-index funcionar */
 }
+
 
 .content::-webkit-scrollbar {
     width: 16px; /* Largura da barra de rolagem */
@@ -139,21 +138,23 @@ nav ul li a:hover {
      min-height: 50px; /* Altura mínima da barra de rolagem */
 }
 
-
 /* O bloco abaixo configura o contêiner para exibir seus filhos em uma linha */
 .container {
     display: flex;
     flex-direction: row;
-    margin-top: 130px; /* Ajuste conforme a altura do seu header */
 }
 
-/* O bloco abaixo configura a barra de busca */
-.search-bar {
-    display: flex;
-    align-items: center;
-    flex-shrink: 0;
-    margin-right: 60px;
-    margin-top: 20px;
+
+/* O bloco abaixo configura a opção da barra de busca */
+.search-bar select {
+    margin-right: 5px;
+    color: #fff;
+    font-size: 16px;
+    padding: 8px;
+    border: 1px solid #fff; 
+    appearance: none;
+    border-radius: 5px;
+    background-color: #383838;
 }
 
 /* O bloco abaixo configura a opção da barra de busca */
@@ -162,7 +163,7 @@ nav ul li a:hover {
     color: #fff;
     font-size: 16px;
     padding: 8px;
-    border: 1px solid #fff;
+    border: 1px solid #fff; 
     appearance: none;
     border-radius: 5px;
     background-color: #383838;
@@ -195,31 +196,24 @@ nav ul li a:hover {
     background-color: #f34141;
 }
 
-/* Cabeçalho fixo */
-header {
+/* O bloco abaixo configura a posição da barra do menu superior */
+.header {
     position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    z-index: 100; /* Garante que o header fique acima de outros elementos */
-    background-color: #181818; /* Adiciona fundo para cobrir conteúdo ao rolar */
 }
-
 
 .header-top {
     display: flex;
     justify-content: space-between;
-    align-items: center; /* Alinha itens verticalmente */
 }
 
 /* O bloco abaixo configura a distancia superior da barra de menu superior e o texto*/
 .header-bottom {
-    /* margin-top: 28px;  Removido - Ajustado pelo posicionamento fixo */
+    margin-top: 28px;
 }
 
 /* O bloco abaixo configura a margem esquerda da barra de menu superior*/
 .header-bottom ul {
-     /* margin-left: 130px; Removido - A centralização já faz o trabalho */
+    margin-left: 130px;
 }
 .header-bottom ul li{
     font-style: italic;
@@ -231,10 +225,10 @@ header {
     grid-template-columns: repeat(auto-fit, minmax(70px, 1fr));
     gap: 10px;
     padding: 20px;
-    /* margin-left: 220px; Removido - A margem já está no .content */
+    margin-left: 220px; /* Adicionando margem esquerda de 60px */
     margin-right: 20px;
-    margin-top: 0; /* Ajustado de -50px para 0 ou um valor positivo */
-    /* max-width: calc(100% - 80px); Removido - Deixa o grid ocupar o espaço */
+    margin-top: -50px;
+    max-width: calc(100% - 80px); /* Reduzindo o max-width para compensar a margem */
 }
 
 /* O bloco abaixo configura os botões dos capítulos */
@@ -245,41 +239,39 @@ header {
     padding: 8px 12px;
     border-radius: 5px;
     cursor: pointer;
-    font-size: 1em; /* Usar 'em' ou 'px' em vez de 'vw' aqui */
+    font-size: 1vw;
     border: none;
     transition: background-color 0.3s;
 }
 
-/* O bloco abaixo configura o efeito ao passar o mouse, mudando a cor dos botões */
+/* O bloco abaixo configura o efeito ao passar o mouse, mudando a cor dos botões (Os botões são gerado pelo script.js) */
 .botao-capitulo:hover, .botao-versiculo:hover {
     background-color: #45a049;
 }
 
-/* O bloco abaixo configura o estilo do titulo H2 (Livro ou Livro-Capitulo) */
+/* O bloco abaixo configura o estilo do titulo dos botões "Livro-Capitulo-Versículo" (Os botões são gerado pelo script.js)*/
 h2 {
     font-weight: bold;
     color: #f5f1f1;
     font-style: italic;
-    font-size: 2.0em; /* Ajustado de vw para em */
+    font-size: 2.5vw;
     text-align: center;
     margin-top: 30px;
-    /* margin-left: 150px; Removido - A margem já está no .content */
-    margin-bottom: 20px; /* Adicionado espaço abaixo */
-    /* max-width: calc(100% - 80px); Removido */
+    margin-left: 150px; /* Adicionando margem esquerda de 60px */
+    max-width: calc(100% - 80px); /* Reduzindo o max-width para compensar a margem */
 }
 
 /* O bloco abaixo configura o estilo do titulo do menu lateral */
 h3 {
     font-weight: bold;
     color: #f5f1f1;
-    font-size: 1.5em;
+    font-size: 1.5em; 
     font-style: italic;
     margin-left: 14px;
     margin-top: 5px;
 }
 
-/* O bloco abaixo configura o titulo da passagem biblica (H3 dentro de .versiculo-texto) - REMOVIDO/SUBSTITUÍDO */
-/* strong { ... } foi removido pois a regra específica abaixo é melhor */
+/* Não existe aqui o bloco Strong, pois este CSS e para ser usado com arquivos JSON */
 
 /* O bloco abaixo configura os botões dos versículos */
 .versiculos {
@@ -288,13 +280,13 @@ h3 {
     grid-template-columns: repeat(auto-fit, minmax(70px, 1fr));
     gap: 10px;
     padding: 20px;
-    /* margin-left: 220px; Removido - A margem já está no .content */
+    margin-left: 220px; /* Adicionando margem esquerda de 60px */
     margin-right: 20px;
-    margin-top: 0; /* Ajustado de -10px para 0 ou positivo */
-    /* max-width: calc(100% - 80px); Removido */
+    margin-top: -10px;
+    max-width: calc(100% - 80px); /* Reduzindo o max-width para compensar a margem */
 }
 
-/* O bloco abaixo configura a cor de fundo dos botões */
+/* O bloco abaixo configura a cor de fundo dos botões ao passar o mouse por cima */
 .botao-versiculo {
     background-color: #6758ec;
     border: none;
@@ -303,101 +295,83 @@ h3 {
     padding: 8px 12px;
     border-radius: 5px;
     cursor: pointer;
-    font-size: 1em; /* Usar 'em' ou 'px' em vez de 'vw' aqui */
+    font-size: 1vw;
     border: none;
     transition: background-color 0.3s;
 }
 
-/* O bloco abaixo configura o texto dos versículos (parágrafo <p>) */
+/* O bloco abaixo configura o texto dos versículos */
 .versiculo-texto {
-    /* COR DO TEXTO DO VERSÍCULO (PADRÃO) */
-    color: #ffffff; /* COR BRANCA CONFORME SOLICITADO */
-
+    color: #f8f8f8;
     font-weight: bold;
     font-style: italic;
-    margin-top: 20px; /* Aumentado espaço acima */
-    /* margin-left: 220px; Removido - A margem já está no .content */
+    margin-top: 10px;
+    margin-left: 220px; /* Adicionando margem esquerda de 60px */
     margin-right: 30px;
     margin-bottom: 80px;
-    /* TAMANHO DO TEXTO DO VERSÍCULO */
-    font-size: 2.2vw; /* MANTIDO - Ajuste se necessário (ex: 2.5vw, 24px) */
-    line-height: 1.4; /* Aumentado um pouco para melhor leitura */
+    font-size: 2.2vw;
+    line-height: 1.2;
     position: relative;
     text-align: center;
-    /* max-width: calc(100% - 80px); Removido */
-    white-space: normal; /* Permite quebra de linha normal */
-    overflow: visible; /* Permite que o texto flua, ajuste se necessário */
-    text-overflow: clip; /* Evita '...' se overflow for hidden */
+    max-width: calc(100% - 80px); /* Reduzindo o max-width para compensar a margem */
+    white-space: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
     word-wrap: break-word;
-    padding: 0 15px; /* Adiciona padding lateral interno */
 }
 
-/* --- NOVO/AJUSTADO: Estilo para o TÍTULO DO VERSÍCULO (H3) --- */
+/* O bloco abaixo configura o texto dos títulos dos versiculos no arquivos JSON (H3) */
 .versiculo-texto h3 {
-    /* COR DO TÍTULO */
-    color: #5df565; /* COR VERDE CONFORME SOLICITADO */
-
-    /* TAMANHO DO TÍTULO */
-    font-size: 1.9vw; /* Um pouco menor que o texto do versículo (ajuste se necessário) */
-
-    /* Outros estilos para diferenciar o título */
+    color: #5df565;
+    font-size: 1.9vw;
     font-weight: bold;
-    font-style: normal;  /* Título sem itálico */
-    text-transform: uppercase; /* Título em maiúsculas */
-    margin-bottom: 20px; /* Aumentado espaço abaixo do título */
-    line-height: 1.2;
-    margin-left: 0; /* Remove margem lateral herdada */
-    margin-right: 0; /* Remove margem lateral herdada */
+    font-style: normal;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    line-height: 1.3;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    /* Sombra diferente ou mais forte para o título */
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.9);
 }
 
 /* O bloco abaixo configura o tamanho da barra inferior da página "Rodapé" */
 footer {
     background-color: #383838;
     text-align: center;
-    padding: 5px 0; /* Reduzido o padding para ajustar altura */
+    padding: fixed;
     width: 100%;
     position: fixed;
     bottom: 0;
     left: 0px;
-    z-index: 1; /* Abaixo do conteúdo principal e menu */
+    z-index: 1;
     height: 30px;
-    box-sizing: border-box; /* Inclui padding na altura */
 }
 
 /* O bloco abaixo configura o tamanho da fonte e a altura da barra inferior da pagina */
 footer p {
-    font-size: 14px; /* Reduzido um pouco */
-    line-height: 20px; /* Ajustado para centralizar na altura do footer */
-    margin: 0; /* Remove margem padrão do parágrafo */
+    font-size: 16px;
+    line-height: 0.2;
 }
 
 /* O bloco abaixo inclui a imagem da Bíblia em marca d'água de fundo */
-/* A classe .watermark é adicionada pelo JS, então estilizamos ela */
-.watermark {
-    position: fixed;
-    top: 0;
-    left: 190px; /* Começa após o menu lateral */
-    width: calc(100% - 190px); /* Ocupa o restante da largura */
-    height: 100%;
-    z-index: -1; /* Coloca atrás do conteúdo */
-    pointer-events: none; /* Não interfere com cliques */
-    display: flex; /* Para centralizar a imagem filha */
-    justify-content: center;
-    align-items: center;
-    overflow: hidden; /* Esconde partes da imagem que saem */
-}
-
-/* Estilo para a imagem DENTRO do .watermark */
 .watermark-image {
-    max-width: 80%; /* Limita a largura da imagem */
-    max-height: 80%; /* Limita a altura da imagem */
-    width: auto; /* Mantém proporção */
-    height: auto; /* Mantém proporção */
-    opacity: 0.15; /* Reduzida opacidade */
-    object-fit: contain; /* Garante que a imagem caiba sem distorcer */
+    position: fixed;
+    top: 0; 
+    left: 0;
+    width: 100%;
+    height: 120%;
+    opacity: 0.3;
+    z-index: 10;
+    pointer-events: none;
+    overflow: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
-
+/* Dropdown Menu */
 .dropdown {
     position: relative;
     display: inline-block;
@@ -406,170 +380,95 @@ footer p {
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: rgba(0, 0, 0, 0.9); /* Fundo mais escuro */
-    min-width: 240px; /* Largura mínima */
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.5); /* Sombra mais sutil */
-    z-index: 110; /* Acima do header */
-    padding: 5px 0; /* Padding vertical */
+    box-shadow: 0px 8px 16px 0px rgb(255, 255, 255);
+    z-index: 1;
+    padding: 0;
     margin: 0;
     list-style: none;
-    left: 50%; /* Começa no meio do item pai */
-    transform: translateX(-50%); /* Centraliza a lista */
+    left: -130px; /* Ajuste conforme necessário */
     top: 100%; /* Exibe a lista logo abaixo do item do menu */
-    margin-top: 5px; /* Pequena margem acima da lista */
-    border-radius: 4px; /* Bordas arredondadas */
+    margin-top: 10px; /* Margem acima da lista */
+    width: 240px; /* Ajuste conforme necessário */
+    background-color: rgba(0, 0, 0, 0.9);
 }
 
 .dropdown-content li {
-    padding: 0; /* Removido padding do LI */
-    margin: 0; /* Removido margem do LI */
-    line-height: 1.4; /* Espaçamento entre linhas padrão */
+    padding: 1px 8px; /* Reduz o padding vertical e horizontal */
+    font-size: 16px;
+    line-height: 1; /* Diminui o espaçamento entre as linhas */
+    margin-bottom: 1px;
 }
 
 .dropdown-content li a {
-    color: #d7d880; /* Cor amarelada */
+    color: rgb(215, 216, 128); /* Cor do texto */
     text-decoration: none;
     display: block;
-    text-align: center; /* Centralizado */
-    white-space: normal; /* Permite quebra de linha */
-    padding: 8px 16px; /* Padding no link */
-    font-size: 0.9em; /* Tamanho da fonte dos itens */
-    transition: background-color 0.2s ease, color 0.2s ease; /* Transição suave */
+    text-align: left; /* Centralização do texto */
+    white-space: nowrap; /* Evitar quebras de linha automáticas */
+    border-radius: 8px; /* Borda arredondada */
+    width: 100%; /* Ocupa toda a largura do item */
+    height: 100%; /* Ocupa toda a altura do item */
+    box-sizing: border-box; /* Inclui padding e border na largura e altura total */
+    padding: 8px 16px; /* Adiciona padding ao link */
+    
 }
 
-/* Removido :hover do dropdown principal para exibir a lista. JS controla isso */
-/* .dropdown:hover .dropdown-content { display: block; } */
+.dropdown:hover .dropdown-content {
+    display: block; /* Exibe a lista quando o mouse está sobre o dropdown */
+}
 
 .dropdown-content li a:hover {
-    color: white; /* Cor do texto ao passar o mouse */
-    background-color: #333; /* Fundo escuro ao passar o mouse */
+    color: rgb(255, 254, 254); /* Cor do texto ao passar o mouse */
+    background-color: #0f0e0e; /* Fundo ao passar o mouse */
 }
 
 /* O bloco abaixo define o estilo do conteúdo da página "Sobre" */
 .sobre-content {
     position: relative;
-    padding: 30px 20px 80px 20px; /* Aumenta padding, especialmente inferior */
-    max-width: 800px; /* Largura máxima */
-    margin: 30px auto; /* Centraliza e adiciona margem superior */
-    text-align: center; /* Centraliza todo o texto */
-    z-index: 2; /* Acima da marca d'água */
+    padding: 20px;
+    max-width: 70%;
+    margin: 10px auto;
+    padding: 20px;
 }
 
 .sobre-content h2 {
     color: #f8f8f8;
     font-weight: bold;
     font-style: italic;
-    font-size: 2.2em; /* Ajustado tamanho */
+    font-size: 2.5em;
     text-align: center;
-    margin: 0 0 30px 0; /* Margem apenas abaixo */
+    margin: 0 auto;
+    margin-left: 10%;
 }
 
 .sobre-content p {
     color: #f8f8f8;
     font-style: italic;
-    font-size: 1.3em; /* Ajustado tamanho */
-    line-height: 1.6; /* Melhora legibilidade */
-    margin-bottom: 20px; /* Espaço entre parágrafos */
-    text-align: justify; /* Justifica o texto para melhor leitura */
-    hyphens: auto; /* Permite hifenização se suportado */
+    margin-top: -10px;
+    margin: 0 auto;
+    font-size: 1.5em;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    max-width: 1200px;
+    white-space: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+    margin-left: 10%;
 }
 
-/* .sobre { ... } Removida regra redundante/antiga */
-
-/* Responsividade */
-
-/* Remove menu lateral e ajusta layout para telas menores */
-@media (max-width: 768px) {
-    .menu-livros {
-        display: none; /* Esconde menu lateral por padrão */
-        position: absolute; /* Muda posicionamento */
-        left: 0;
-        top: 0; /* Alinha com o topo do header */
-        width: 200px; /* Largura do menu quando visível */
-        height: 100vh; /* Altura total */
-        background-color: #222; /* Fundo ligeiramente diferente */
-        z-index: 105; /* Acima do header */
-        box-shadow: 2px 0 5px rgba(0,0,0,0.5);
-        /* Transição pode ser adicionada aqui */
-    }
-
-    /* Estilo para mostrar o menu quando a classe 'show' é adicionada pelo JS */
-    .menu-livros.show {
-        display: block;
-    }
-
-    .container {
-        margin-top: 100px; /* Ajusta margem superior para header menor */
-    }
-
-    .content {
-        margin-left: 0; /* Remove margem esquerda pois o menu está escondido */
-        height: calc(100vh - 130px); /* Ajusta altura */
-    }
-
-    /* Adiciona botão de menu (precisa existir no HTML com classe .menu-button) */
-    .menu-button {
-        display: block; /* Mostra o botão de menu */
-        position: fixed;
-        top: 15px; /* Ajuste conforme necessário */
-        left: 15px;
-        z-index: 110; /* Acima de tudo */
-        background: #555;
-        color: white;
-        border: none;
-        padding: 10px 15px;
-        cursor: pointer;
-        border-radius: 5px;
-    }
-
-     /* Ajusta barra de busca e título */
-    .header-top {
-        flex-direction: column; /* Empilha título e busca */
-        align-items: flex-start; /* Alinha à esquerda */
-    }
-    h1 {
-        margin-left: 60px; /* Espaço para o botão de menu */
-        font-size: 1.8em;
-    }
-    .search-bar {
-        margin: 10px 15px 0 15px; /* Ajusta margens */
-        width: calc(100% - 30px); /* Ocupa largura */
-    }
-    .search-bar input[type="text"] {
-         flex-grow: 1; /* Input ocupa espaço restante */
-    }
-
-     /* Ajusta menu de navegação */
-    nav ul {
-        flex-wrap: wrap; /* Permite que os itens quebrem linha */
-        justify-content: flex-start; /* Alinha à esquerda */
-        padding-left: 10px;
-    }
-    nav ul li {
-        margin: 5px;
-    }
-
-    /* Ajusta tamanho de fontes e margens gerais */
-    h2 { font-size: 1.8em; }
-    .botao-capitulo, .botao-versiculo { font-size: 0.9em; padding: 6px 10px;}
-    .versiculo-texto { font-size: 4.5vw; margin-left: 15px; margin-right: 15px; }
-    .versiculo-texto h3 { font-size: 4.0vw; }
-    .sobre-content { max-width: 95%; padding: 15px; }
-    .sobre-content h2 { font-size: 1.8em; }
-    .sobre-content p { font-size: 1.1em; text-align: left; }
-    .watermark { left: 0; width: 100%; }
+.sobre {
+    max-width: 800px; /* Define o tamanho máximo do conteúdo */
+    margin: 0 auto; /* Centraliza o conteúdo */
+    padding: 20px; /* Adiciona um espaçamento interno */
+    display: flex; /* Usa flexbox para criar um layout responsivo */
+    flex-direction: column; /* Define a direção do layout */
+    align-items: center; /* Centraliza os elementos */
 }
 
-@media (max-width: 480px) {
-    h1 { font-size: 1.5em; margin-left: 55px; }
-    .search-bar select, .search-bar input, .search-bar button { font-size: 14px; padding: 6px;}
-    nav ul li a { padding: 6px 10px; font-size: 0.9em; }
-    h2 { font-size: 1.5em; }
-    .capitulos, .versiculos { grid-template-columns: repeat(auto-fit, minmax(50px, 1fr)); gap: 5px; padding: 10px; }
-    .botao-capitulo, .botao-versiculo { font-size: 0.8em; padding: 5px 8px;}
-    .versiculo-texto { font-size: 5.0vw; }
-    .versiculo-texto h3 { font-size: 4.5vw; }
-    .sobre-content h2 { font-size: 1.5em; }
-    .sobre-content p { font-size: 1.0em; }
-    footer p { font-size: 12px; }
+.sobre > * {
+    margin-bottom: 20px; /* Adiciona um espaçamento entre os elementos */
 }
+
+/* --- Responsividade --- */

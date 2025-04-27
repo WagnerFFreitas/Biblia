@@ -13,7 +13,7 @@ h1 {
     margin: 0;
     margin-top: 20px;
     margin-left: 30px;
-    font-size: 2.5em; 
+    font-size: 2.5em;
     font-weight: bold;
     font-style: italic;
 }
@@ -73,7 +73,7 @@ nav ul li a:hover {
     height: calc(100vh - 200px);
 }
 
-/* O bloco abaixo configura a largura da barra de rolagem do menu lateral */ 
+/* O bloco abaixo configura a largura da barra de rolagem do menu lateral */
 .menu-livros::-webkit-scrollbar {
     width: 12px;
 }
@@ -83,7 +83,7 @@ nav ul li a:hover {
     background: #383838;
 }
 
-/* O bloco abaixo configura a cor, arredondamento e a margem da barra de rolagem */  
+/* O bloco abaixo configura a cor, arredondamento e a margem da barra de rolagem */
 .menu-livros::-webkit-scrollbar-thumb {
     background: #a7a2a2;
     border-radius: 10px;
@@ -104,7 +104,7 @@ nav ul li a:hover {
 
 /* O bloco abaixo configura a cor e remove o sublinhamento */
 .menu-livros a {
-    color: #fcf9f9; 
+    color: #fcf9f9;
     text-decoration: none;
 }
 
@@ -158,7 +158,7 @@ nav ul li a:hover {
     color: #fff;
     font-size: 16px;
     padding: 8px;
-    border: 1px solid #fff; 
+    border: 1px solid #fff;
     appearance: none;
     border-radius: 5px;
     background-color: #383838;
@@ -191,27 +191,9 @@ nav ul li a:hover {
     background-color: #f34141;
 }
 
-/* O bloco abaixo configura a posição da barra do menu superior */
-.header {
-    position: fixed;
-}
-
-.header-top {
+.container {
     display: flex;
-    justify-content: space-between;
-}
-
-/* O bloco abaixo configura a distancia superior da barra de menu superior e o texto*/
-.header-bottom {
-    margin-top: 28px;
-}
-
-/* O bloco abaixo configura a margem esquerda da barra de menu superior*/
-.header-bottom ul {
-    margin-left: 130px;
-}
-.header-bottom ul li{
-    font-style: italic;
+    flex-direction: row;
 }
 
 /* O bloco abaixo configura os botões dos capítulos */
@@ -239,10 +221,11 @@ nav ul li a:hover {
     transition: background-color 0.3s;
 }
 
-/* O bloco abaixo configura o efeito ao passar o mouse, mudando a cor dos botões (Os botões são gerado pelo script.js) */
+/* O bloco abaixo configura o efeito ao passar o mouse, mudando a cor dos botões */
 .botao-capitulo:hover, .botao-versiculo:hover {
     background-color: #45a049;
 }
+
 
 /* O bloco abaixo configura o estilo do titulo dos botões "Livro-Capitulo-Versículo" (Os botões são gerado pelo script.js)*/
 h2 {
@@ -266,19 +249,8 @@ h3 {
     margin-top: 5px;
 }
 
-/* O bloco abaixo configura o titulo da passagem biblica */
-strong {
-    font-weight: bold;
-    color: #5df565;
-    font-size: 2.5vw;
-    font-style: italic;
-    margin-left: 5px;
-    margin-top: 20px;
-    letter-spacing: 1px;
-    white-space: normal;
-    line-height: 1.1 !important;
-    display: block;
-}
+/* O bloco abaixo configura o titulo da passagem biblica (H3 dentro de .versiculo-texto) - REMOVIDO/SUBSTITUÍDO */
+/* strong { ... } foi removido pois a regra específica abaixo é melhor */
 
 /* O bloco abaixo configura os botões dos versículos */
 .versiculos {
@@ -307,7 +279,6 @@ strong {
     transition: background-color 0.3s;
 }
 
-/* O bloco abaixo configura o texto dos versículos */
 .versiculo-texto {
     color: #f8f8f8;
     font-weight: bold;
@@ -325,6 +296,24 @@ strong {
     overflow: hidden;
     text-overflow: ellipsis;
     word-wrap: break-word;
+}
+
+/* --- NOVO/AJUSTADO: Estilo para o TÍTULO DO VERSÍCULO (H3) --- */
+.versiculo-texto h3 {
+    /* COR DO TÍTULO */
+    color: #5df565; /* COR VERDE CONFORME SOLICITADO */
+
+    /* TAMANHO DO TÍTULO */
+    font-size: 1.9vw; /* Um pouco menor que o texto do versículo (ajuste se necessário) */
+
+    /* Outros estilos para diferenciar o título */
+    font-weight: bold;
+    font-style: normal;  /* Título sem itálico */
+    text-transform: uppercase; /* Título em maiúsculas */
+    margin-bottom: 20px; /* Aumentado espaço abaixo do título */
+    line-height: 1.2;
+    margin-left: 0; /* Remove margem lateral herdada */
+    margin-right: 0; /* Remove margem lateral herdada */
 }
 
 /* O bloco abaixo configura o tamanho da barra inferior da página "Rodapé" */
@@ -347,6 +336,8 @@ footer p {
 }
 
 /* O bloco abaixo inclui a imagem da Bíblia em marca d'água de fundo */
+/* A classe .watermark é adicionada pelo JS, então estilizamos ela */
+/* O bloco abaixo inclui a imagem da Bíblia em marca d'água de fundo */
 .watermark-image {
     position: fixed;
     top: 0; 
@@ -361,6 +352,7 @@ footer p {
     background-repeat: no-repeat;
     background-position: center;
 }
+
 
 .dropdown {
     position: relative;
@@ -403,6 +395,7 @@ footer p {
     
 }
 
+/* Removido :hover do dropdown principal para exibir a lista. JS controla isso */
 .dropdown:hover .dropdown-content {
     display: block; /* Exibe a lista quando o mouse está sobre o dropdown */
 }
@@ -461,6 +454,7 @@ footer p {
     margin-bottom: 20px; /* Adiciona um espaçamento entre os elementos */
 }
 
+/* Responsividade */
 
 @media (max-width: 600px) {
     .sobre {
