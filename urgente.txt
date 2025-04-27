@@ -13,3 +13,4 @@ verificar os títulos dos versículos
 livros terminados
 organizar o menu com as imagens da versões da Biblia
 ajustar o css da versão ARA
+"Criando a estrutura toda da versão ARA 26/04/25 22:52"
