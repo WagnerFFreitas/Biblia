@@ -200,7 +200,7 @@ const livros = {
     }
 };
 
-// O bloco abaixo cria as variáveis globais para o elemento H2, livro ativo e botões de versículos ativo
+// O bloco abaixo cria as variáveis globais para o elemento H2, livro e botões dos versículos ativo
 let titulo = null;
 let activeVersiculoButton = null;
 let activeLivro = null;
@@ -236,7 +236,7 @@ async function loadVersiculo(livro, capitulo, versiculo) {
     const versiculoContent = tempDiv.querySelector(`#versiculo-${versiculo}`);
     const content = document.querySelector('.content');
 
-    // O trecho abaixo remove qualquer texto de versículo existente
+    // O trecho abaixo remove qualquer texto de versículo que tiver sendo exibido
     const existingVersiculo = content.querySelector('.versiculo-texto');
     if (existingVersiculo) {
         existingVersiculo.remove();
@@ -269,7 +269,7 @@ function toggleVersiculos(livro, capitulo) {
     const existingVersiculos = content.querySelector(`.versiculos-${livro}-${capitulo}`);
     const allVersiculos = content.querySelectorAll('.book-content');
 
-    // O trecho abaixo verifica se os versículos já estiverem visíveis, removê-los ao clicar novamente
+    // O trecho abaixo verifica se os versículos já estiverem visíveis e remove ao clicar pela segunda vez
     if (existingVersiculos) {
         existingVersiculos.remove();
         
@@ -282,7 +282,7 @@ function toggleVersiculos(livro, capitulo) {
         // O trecho abaixo remove qualquer exibição anterior de capítulos e versículos
         allVersiculos.forEach(versiculo => versiculo.remove());
 
-        // O trecho abaixo remove o texto do versículo quando um novo capítulo é clicado
+        // O trecho abaixo remove o texto do versículo quando um novo capítulo é selecionado
         const existingVersiculo = content.querySelector('.versiculo-texto');
         if (existingVersiculo) {
             existingVersiculo.remove();
@@ -299,61 +299,57 @@ function toggleVersiculos(livro, capitulo) {
         activeCapitulo = capitulo;
     }
 }
-
 // O bloco abaixo cria a função para carregar o livro
 function loadBook(livro) {
     const content = document.querySelector('.content');
 
-/*Incluido para teste 0/01/25*/
 // Remove o texto "SOBRE" se estiver presente
 const existingSobre = content.querySelector('.sobre-content');
 if (existingSobre) {
     existingSobre.remove();
 }
 
-
-
-    // O trecho abaixo verifica se o livro clicado é o mesmo que está ativo
-    if (activeLivro === livro) {
-        // O trecho abaixo verifica se e o mesmo livro, remove apenas os capítulos e versículos, mantendo a marca d'água
-        const capitulosContainer = content.querySelector('.capitulos-container');
-        const versiculoTexto = content.querySelector('.versiculo-texto');
-        if (capitulosContainer) {
-            capitulosContainer.remove();
-        }
-        if (versiculoTexto) {
-            versiculoTexto.remove();
-        }
-        titulo.textContent = '';
-
-        // O trecho abaixo remove todos os botões de capítulos e versículos
-        const allBookContents = content.querySelectorAll('.book-content');
-        allBookContents.forEach(content => content.remove());
-
-        // O trecho abaixo limpa o livro ativo
-        activeLivro = null;
-        activeCapitulo = null;
-        return;
+// O trecho abaixo verifica se o livro selecionado é o mesmo que está ativo
+if (activeLivro === livro) {
+    // O trecho abaixo verifica se e o mesmo livro, caso seja remove apenas os capítulos e versículos e mantem a imagem de fundo em marca d'água
+    const capitulosContainer = content.querySelector('.capitulos-container');
+    const versiculoTexto = content.querySelector('.versiculo-texto');
+    if (capitulosContainer) {
+        capitulosContainer.remove();
     }
+    if (versiculoTexto) {
+        versiculoTexto.remove();
+    }
+    titulo.textContent = '';
 
-    // O trecho abaixo limpa o conteúdo anterior, exceto a marca d'água
-    const elementsToRemove = content.querySelectorAll('h2, .capitulos-container, .versiculo-texto, .book-content');
-    elementsToRemove.forEach(element => element.remove());
+    // O trecho abaixo remove todos os botões de capítulos e versículos
+    const allBookContents = content.querySelectorAll('.book-content');
+    allBookContents.forEach(content => content.remove());
 
-    // O trecho abaixo adiciona o título do livro e os botões de capítulos
-    titulo = document.createElement('h2');
-    titulo.textContent = `${livro.toUpperCase()}`;
-    content.appendChild(titulo);
-
-    const capitulosContainer = document.createElement('div');
-    capitulosContainer.classList.add('capitulos-container');
-    capitulosContainer.appendChild(createCapitulosButtons(livro));
-
-    content.appendChild(capitulosContainer);
-
-    // O trecho abaixo define o livro ativo como o livro atual
-    activeLivro = livro;
+    // O trecho abaixo limpa o livro ativo
+    activeLivro = null;
     activeCapitulo = null;
+    return;
+}
+
+// O trecho abaixo limpa o conteúdo anterior, exceto a imagem em marca d'água
+const elementsToRemove = content.querySelectorAll('h2, .capitulos-container, .versiculo-texto, .book-content');
+elementsToRemove.forEach(element => element.remove());
+
+// O trecho abaixo adiciona o título do livro e os botões de capítulos
+titulo = document.createElement('h2');
+titulo.textContent = `${livro.toUpperCase()}`;
+content.appendChild(titulo);
+
+const capitulosContainer = document.createElement('div');
+capitulosContainer.classList.add('capitulos-container');
+capitulosContainer.appendChild(createCapitulosButtons(livro));
+
+content.appendChild(capitulosContainer);
+
+// O trecho abaixo define o livro ativo como o livro atual
+activeLivro = livro;
+activeCapitulo = null;
 }
 
 // O bloco abaixo adiciona eventos de clique aos links dos livros
@@ -1624,7 +1620,7 @@ function getNumVersiculos(livro, capitulo) {
             2: 17,
             3: 18
         },
-        "1_timoteo": {
+        "1timoteo": {
             1: 20,
             2: 15,
             3: 16,
@@ -2005,7 +2001,6 @@ document.querySelector('header nav ul li:first-child a').addEventListener('click
 });
 
 // O bloco abaixo cria a lista para cada item na barra de menu superior com o estilo Dropdown
-
 // O trecho abaixo cria a lista de download da opção BAIXAR 
 const downloads = [
     { texto: 'A Bíblia Católica', link: 'baixar/A_Biblia_Catolica.pdf' },
@@ -2100,6 +2095,7 @@ document.querySelectorAll('.dropdown').forEach(dropdown => {
         }, 200);
     });
 });
+
 //O bloco abaixo configura a exibição do texto da opção "SOBRE"
 function loadSobre() {
     const content = document.querySelector('.content');

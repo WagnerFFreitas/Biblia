@@ -1,43 +1,33 @@
-
 {
     "livro": "Gênesis",
-    "capítulo": 3,
-    "versículos": {
-        "1": {
-            "título": "A serpente e a tentação",
-            "texto": "Ora, a serpente era mais astuta que todos os animais do campo que o Senhor Deus tinha feito. E esta disse à mulher: É assim que Deus disse: Não comereis de toda árvore do jardim?"
-        },
-        "2": "E disse a mulher à serpente: Do fruto das árvores do jardim podemos comer,",
-        "3": "mas do fruto da árvore que está no meio do jardim, disse Deus: Dele não comereis, nem nele tocareis, para que não morrais.",
-        "4": "Então, a serpente disse à mulher: Certamente não morrereis.",
-        "5": "Porque Deus sabe que, no dia em que dele comerdes, serão abertos os vossos olhos, e sereis como Deus, conhecendo o bem e o mal.",
-        "6": "E viu a mulher que aquela árvore era boa para se comer, e agradável aos olhos, e árvore desejável para dar entendimento; e tomou do seu fruto, e comeu, e deu também a seu marido, e ele comeu com ela.",
-        "7": "Então, foram abertos os olhos de ambos, e conheceram que estavam nus; e coseram folhas de figueira, e fizeram para si aventais.",
-        "8": {
-            "título": "Deus busca Adão e Eva",
-            "texto": "E ouviram a voz do Senhor Deus, que passeava no jardim à brisa do dia; e esconderam-se Adão e sua mulher da presença do Senhor Deus, entre as árvores do jardim."
-        },
-        "9": "E chamou o Senhor Deus ao homem, e disse-lhe: Onde estás?",
-        "10": "E ele disse: Ouvi a tua voz no jardim, e temi, porque estava nu, e escondi-me.",
-        "11": "E disse Deus: Quem te mostrou que estavas nu? Comeste tu da árvore de que te ordenei que não comesses?",
-        "12": "Então, disse o homem: A mulher que me deste por companheira, ela me deu do fruto da árvore, e eu comi.",
-        "13": "E disse o Senhor Deus à mulher: Por que fizeste isso? E disse a mulher: A serpente enganou-me, e eu comi.",
-        "14": {
-            "título": "As consequências do pecado",
-            "texto": "Então, o Senhor Deus disse à serpente: Porquanto fizeste isso, maldita és mais que todo gado, e mais que todos os animais do campo; sobre o teu ventre andarás, e pó comerás todos os dias da tua vida."
-        },
-        "15": "E porei inimizade entre ti e a mulher, e entre a tua descendência e a sua descendência; esta te ferirá a cabeça, e tu lhe ferirás o calcanhar.",
-        "16": "À mulher disse: Multiplicarei grandemente a dor da tua conceição; com dor darás à luz filhos; e o teu desejo será para o teu marido, e ele te dominará.",
-        "17": "E ao homem disse: Porquanto deste ouvidos à voz de tua mulher, e comeste da árvore de que te ordenei, dizendo: Não comerás dela; maldita é a terra por tua causa; com dor comerás dela todos os dias da tua vida.",
-        "18": "Espinhos e cardos também te produzirá; e comerás da erva do campo.",
-        "19": "No suor do teu rosto comerás o teu pão, até que tornes à terra, porque dela foste tomado; porquanto és pó, e ao pó tornarás.",
-        "20": "E chamou Adão o nome de sua mulher Eva, porquanto ela era a mãe de todos os viventes.",
-        "21": "E fez o Senhor Deus para Adão e sua mulher túnicas de peles, e os vestiu.",
-        "22": {
-            "título": "A expulsão do Éden",
-            "texto": "Então, disse o Senhor Deus: Eis que o homem se tem tornado como um de nós, conhecendo o bem e o mal; ora, para que não estenda a sua mão, e tome também da árvore da vida, e coma, e viva eternamente..."
-        },
-        "23": "Assim, o Senhor Deus o lançou fora do jardim do Éden, para lavrar a terra de que fora tomado.",
-        "24": "E, havendo lançado fora o homem, pôs ao oriente do jardim do Éden os querubins, e uma espada flamejante que andava ao redor, para guardar o caminho da árvore da vida."
+    "capitulo": 3,
+    "titulos": {
+        "1": "A queda do homem"
+    },
+    "versiculos": {
+        "1": "Mas a serpente, mais sagaz que todos os animais selváticos que o Senhor Deus tinha feito, disse à mulher: É assim que Deus disse: Não comereis de toda árvore do jardim?",
+        "2": "Respondeu-lhe a mulher: Do fruto das árvores do jardim podemos comer,",
+        "3": "mas do fruto da árvore que está no meio do jardim, disse Deus: Dele não comereis, nem tocareis nele, para que não morrais.",
+        "4": "Então, a serpente disse à mulher: É certo que não morrereis.",
+        "5": "Porque Deus sabe que no dia em que dele comerdes se vos abrirão os olhos e, como Deus, sereis conhecedores do bem e do mal.",
+        "6": "Vendo a mulher que a árvore era boa para se comer, agradável aos olhos e árvore desejável para dar entendimento, tomou-lhe do fruto e comeu e deu também ao marido, e ele comeu.",
+        "7": "Abriram-se, então, os olhos de ambos; e, percebendo que estavam nus, coseram folhas de figueira e fizeram cintas para si.",
+        "8": "Quando ouviram a voz do Senhor Deus, que andava no jardim pela viração do dia, esconderam-se da presença do Senhor Deus, o homem e sua mulher, por entre as árvores do jardim.",
+        "9": "E chamou o Senhor Deus ao homem e lhe perguntou: Onde estás?",
+        "10": "Ele respondeu: Ouvi a tua voz no jardim, e, porque estava nu, tive medo, e me escondi.",
+        "11": "Perguntou-lhe Deus: Quem te fez saber que estavas nu? Comeste da árvore de que te ordenei que não comesses?",
+        "12": "Então, disse o homem: A mulher que me deste por esposa, ela me deu da árvore, e eu comi.",
+        "13": "Disse o Senhor Deus à mulher: Que é isso que fizeste? Respondeu a mulher: A serpente me enganou, e eu comi.",
+        "14": "Então, o Senhor Deus disse à serpente: Visto que isso fizeste, maldita és entre todos os animais domésticos e o és entre todos os animais selváticos; rastejarás sobre o teu ventre e comerás pó todos os dias da tua vida.",
+        "15": "Porei inimizade entre ti e a mulher, entre a tua descendência e o seu descendente. Este te ferirá a cabeça, e tu lhe ferirás o calcanhar.",
+        "16": "E à mulher disse: Multiplicarei sobremodo os sofrimentos da tua gravidez; em meio de dores darás à luz filhos; o teu desejo será para o teu marido, e ele te governará.",
+        "17": "E a Adão disse: Visto que atendeste a voz de tua mulher e comeste da árvore que eu te ordenara não comesses, maldita é a terra por tua causa; em fadigas obterás dela o sustento durante os dias de tua vida.",
+        "18": "Ela produzirá também cardos e abrolhos, e tu comerás a erva do campo.",
+        "19": "No suor do rosto comerás o teu pão, até que tornes à terra, pois dela foste formado; porque tu és pó e ao pó tornarás.",
+        "20": "E deu o homem o nome de Eva a sua mulher, por ser a mãe de todos os seres humanos.",
+        "21": "Fez o Senhor Deus vestimenta de peles para Adão e sua mulher e os vestiu.",
+        "22": "Então, disse o Senhor Deus: Eis que o homem se tornou como um de nós, conhecedor do bem e do mal; assim, que não estenda a mão, e tome também da árvore da vida, e coma, e viva eternamente.",
+        "23": "O Senhor Deus, por isso, o lançou fora do jardim do Éden, a fim de lavrar a terra de que fora tomado.",
+        "24": "E, expulso o homem, colocou querubins ao oriente do jardim do Éden e o refulgir de uma espada que se revolvia, para guardar o caminho da árvore da vida."
     }
 }

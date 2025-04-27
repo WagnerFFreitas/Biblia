@@ -1,38 +1,32 @@
-
 {
     "livro": "Gênesis",
-    "capítulo": 8,
-    "versículos": {
-        "1": {
-            "título": "O final da enchente",
-            "texto": "Deus não se esqueceu de Noé e de todos os animais selvagens e domésticos que estavam com ele na barca. Deus fez soprar um vento sobre a terra, e o nível das águas começou a baixar."
-        },
-        "2": "As fontes do abismo e as janelas do céu se fecharam, e a chuva parou.",
-        "3": "As águas foram baixando lentamente, e depois de cento e cinquenta dias o nível já estava mais baixo.",
-        "4": "No dia dezessete do sétimo mês, a barca encalhou nas montanhas de Ararate.",
-        "5": "As águas continuaram a baixar; e no dia primeiro do décimo mês apareceram os topos das montanhas.",
-        "6": "Quarenta dias depois, Noé abriu a janela que havia feito na barca",
-        "7": "e soltou um corvo. O corvo não voltou, mas continuou voando de um lado para outro, até que as águas secaram completamente.",
-        "8": "Noé também soltou uma pomba a fim de descobrir se as águas haviam baixado ainda mais.",
-        "9": "Mas a pomba não encontrou onde pousar porque as águas ainda cobriam toda a terra. Por isso, voltou para junto de Noé na barca. Ele estendeu a mão, pegou a pomba e a colocou dentro da barca.",
-        "10": "Esperou mais sete dias e soltou novamente a pomba.",
-        "11": "Na tarde daquele dia ela voltou para ele, trazendo no bico uma folha nova de oliveira. Então Noé ficou sabendo que o nível das águas havia baixado ainda mais.",
-        "12": "Esperou mais sete dias, soltou a pomba de novo, e ela não voltou mais.",
-        "13": {
-            "título": "A saída da barca",
-            "texto": "Noé tinha seiscentos e um anos de idade. No primeiro dia do primeiro mês daquele ano, as águas haviam secado. Noé tirou a cobertura da barca, olhou e viu que a terra estava quase seca."
-        },
-        "14": "No dia vinte e sete do segundo mês a terra estava completamente seca.",
-        "15": "Então Deus disse a Noé:",
-        "16": "— Saia da barca com a sua mulher, os seus filhos e as suas noras.",
-        "17": "Leve com você todos os animais: as aves, os animais grandes e pequenos, isto é, todos os seres vivos que se movem, para que eles se espalhem pela terra, tenham muitas crias e encham a terra de novo.",
-        "18": "Então Noé saiu com a sua mulher, os seus filhos e as suas noras.",
-        "19": "Todos os animais grandes e pequenos e todas as aves saíram da barca, grupo por grupo, de acordo com as suas espécies.",
-        "20": {
-            "título": "O sacrifício de Noé",
-            "texto": "Noé construiu um altar para o SENHOR Deus, pegou alguns animais e algumas aves considerados puros e os queimou no altar como oferta a Deus."
-        },
-        "21": "O cheiro agradável do sacrifício deixou o SENHOR satisfeito, e ele pensou assim: 'Eu não amaldiçoarei de novo a terra por causa das pessoas. Eu sei que desde a sua juventude elas só pensam em maldades. Não matarei mais todos os seres vivos, como fiz desta vez.",
-        "22": "Enquanto o mundo existir, haverá semeadura e colheita, frio e calor, verão e inverno, dia e noite.'"
+    "capitulo": 8,
+    "titulos": {
+        "1": "O fim do dilúvio",
+        "20": "Noé constrói um altar"
+    },
+    "versiculos": {
+        "1": "Então Deus lembrou de Noé e de todos os animais que estavam com ele na barca. Deus fez com que um vento soprasse sobre a terra, e a água começou a baixar.",
+        "2": "As fontes do grande mar e as janelas do céu se fecharam. Parou de chover,",
+        "3": "e durante cento e cinquenta dias a água foi baixando pouco a pouco.",
+        "4": "No dia dezessete do sétimo mês, a barca parou na região montanhosa de Ararate.",
+        "5": "A água continuou a baixar, até que no primeiro dia do décimo mês apareceram os picos das montanhas.",
+        "6": "No fim de quarenta dias, Noé abriu a janela que havia feito na barca",
+        "7": "e soltou um corvo, que ficou voando de um lado para outro, esperando que a terra secasse.",
+        "8": "Depois Noé soltou uma pomba a fim de ver se a terra já estava seca;",
+        "9": "mas a pomba não achou lugar para pousar porque a terra ainda estava toda coberta de água. Aí Noé estendeu a mão, pegou a pomba e a pôs dentro da barca.",
+        "10": "Noé esperou mais sete dias e soltou a pomba de novo.",
+        "11": "Ela voltou à tardinha, trazendo no bico uma folha verde de oliveira. Assim Noé ficou sabendo que a água havia baixado.",
+        "12": "E ele esperou mais sete dias e de novo soltou a pomba, e dessa vez ela não voltou.",
+        "13": "Quando Noé tinha seiscentos e um anos, as águas que estavam sobre a terra secaram. No dia primeiro do primeiro mês, Noé tirou a cobertura da barca e viu que a terra estava secando.",
+        "14": "No dia vinte e sete do segundo mês, a terra estava bem seca.",
+        "15": "Aí Deus disse a Noé:",
+        "16": "— Saia da barca junto com a sua mulher, os seus filhos e as suas noras.",
+        "17": "Faça sair também todos os animais que estão com você, isto é, as aves, os animais domésticos, os animais selvagens e os que se arrastam pelo chão. Que eles se espalhem por toda parte e tenham muitas crias para encherem a terra.",
+        "18": "Assim Noé e a sua mulher saíram da barca, junto com os seus filhos e as suas noras.",
+        "19": "Também saíram todos os animais e as aves, em grupos, de acordo com as suas espécies.",
+        "20": "Noé construiu um altar para oferecer sacrifícios a Deus, o Senhor. Ele pegou aves e animais puros, um de cada espécie, e os queimou como sacrifício no altar.",
+        "21": "O cheiro dos sacrifícios agradou ao Senhor, e ele pensou assim: “Nunca mais vou amaldiçoar a terra por causa da raça humana, pois eu sei que desde a sua juventude as pessoas só pensam em coisas más.",
+        "22": "Também nunca mais destruirei todos os seres vivos, como fiz desta vez. Enquanto o mundo existir, sempre haverá semeadura e colheita, frio e calor, verão e inverno, dia e noite.”"
     }
 }

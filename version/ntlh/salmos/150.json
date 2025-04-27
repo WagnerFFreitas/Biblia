@@ -1,0 +1,15 @@
+{
+    "livro": "Salmos",
+    "capitulo": 150,
+    "titulos": {
+        "1": "Louvem a Deus, o Senhor"
+    },
+    "versiculos": {
+        "1": "Aleluia! Louvem a Deus no seu Templo. Louvem o seu poder, que se vê no céu.",
+        "2": "Louvem o Senhor pelas coisas maravilhosas que tem feito. Louvem a sua imensa grandeza.",
+        "3": "Louvem a Deus com trombetas. Louvem com harpas e liras.",
+        "4": "Louvem o Senhor com pandeiros e danças. Louvem com harpas e flautas.",
+        "5": "Louvem a Deus com pratos musicais. Louvem bem alto com pratos sonoros.",
+        "6": "Todos os seres vivos, louvem o Senhor! Aleluia!"
+    }
+}

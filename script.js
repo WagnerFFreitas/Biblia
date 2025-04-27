@@ -105,19 +105,19 @@ function createElementAnime(anime) {
     if (anime.titleAnime.includes('ARC')) {
       url = '../html/arc.html';
     } else if (anime.titleAnime.includes('ARA')) {
-      url = 'biblia/html/ara.html';
+      url = '../html/ara.html';
     } else if (anime.titleAnime.includes('ACF')) {
-      url = 'biblia/html/acf.html';
+      url = '../html/acf.html';
     } else if (anime.titleAnime.includes('NAA')) {
-      url = 'biblia/html/naa.html';
+      url = '../html/naa.html';
     } else if (anime.titleAnime.includes('NVI')) {
-      url = 'biblia/html/nvi.html';
+      url = '../html/nvi.html';
     } else if (anime.titleAnime.includes('NTLH')) {
-      url = 'biblia/html/ntlh.html';
+      url = '../html/ntlh.html';
     } else if (anime.titleAnime.includes('BKJ')) {
-      url = 'biblia/html/bkj.html';
+      url = '../html/bkj.html';
     } else if (anime.titleAnime.includes('Original')) {
-      url = 'biblia/html/original.html';
+      url = '../html/original.html';
     }
 
     // Redireciona para a página correspondente

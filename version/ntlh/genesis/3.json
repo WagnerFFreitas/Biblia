@@ -1,43 +1,35 @@
-
 {
     "livro": "Gênesis",
-    "capítulo": 3,
-    "versículos": {
-        "1": {
-            "título": "A desobediência",
-            "texto": "Ora, a serpente era o animal mais esperto de todos os animais selvagens que o SENHOR Deus tinha feito. Ela perguntou à mulher: — É verdade que Deus mandou que vocês não comessem de nenhuma árvore do jardim?"
-        },
-        "2": "A mulher respondeu: — Podemos comer as frutas de qualquer árvore do jardim,",
-        "3": "menos a fruta da árvore que fica no meio do jardim. Deus nos mandou que não comêssemos dessa fruta, nem tocássemos nela. Se fizermos isso, morreremos.",
-        "4": "Mas a serpente afirmou: — Vocês não morrerão coisa nenhuma!",
+    "capitulo": 3,
+    "titulos": {
+        "1": "A desobediência do primeiro casal",
+        "14": "O castigo",
+        "22": "Adão e Eva são expulsos do jardim"
+    },
+    "versiculos": {
+        "1": "A cobra era o animal mais esperto que o Senhor Deus havia feito. Ela perguntou à mulher: — É verdade que Deus mandou que vocês não comessem as frutas de nenhuma árvore do jardim?",
+        "2": "A mulher respondeu: — Podemos comer as frutas de qualquer árvore,",
+        "3": "menos a fruta da árvore que fica no meio do jardim. Deus nos disse que não devemos comer dessa fruta, nem tocar nela. Se fizermos isso, morreremos.",
+        "4": "Mas a cobra afirmou: — Vocês não morrerão coisa nenhuma!",
         "5": "Deus disse isso porque sabe que, quando vocês comerem a fruta dessa árvore, os seus olhos se abrirão, e vocês serão como Deus, conhecendo o bem e o mal.",
-        "6": "A mulher viu que a árvore era bonita e que as suas frutas eram boas de se comer. E ela pensou como seria bom ter entendimento. Aí apanhou uma fruta e comeu; e deu uma ao seu marido, e ele também comeu.",
-        "7": "Nesse momento os olhos dos dois se abriram, e eles perceberam que estavam nus. Então costuraram folhas de figueira uma às outras e fizeram tangas para si mesmos.",
-        "8": {
-            "título": "Deus confronta o homem",
-            "texto": "Nesse dia, quando estava soprando uma brisa fresca, o homem e a mulher ouviram o SENHOR Deus andando no jardim e se esconderam dele no meio das árvores."
-        },
-        "9": "Mas o SENHOR Deus chamou o homem e perguntou: — Onde é que você está?",
-        "10": "O homem respondeu: — Eu ouvi que o senhor estava andando no jardim e fiquei com medo porque estava nu. Por isso me escondi.",
-        "11": "E Deus perguntou: — Quem foi que lhe disse que você estava nu? Por acaso você comeu a fruta da árvore que eu proibi de comer?",
-        "12": "O homem respondeu: — A mulher que o senhor me deu para ser a minha companheira, ela me ofereceu a fruta, e eu comi.",
-        "13": "Então o SENHOR Deus perguntou à mulher: — Por que você fez isso? Ela respondeu: — A serpente me enganou, e eu comi.",
-        "14": {
-            "título": "O castigo",
-            "texto": "Aí o SENHOR Deus disse à serpente: — Por causa do que você fez, você será maldita entre todos os animais domésticos e entre todos os animais selvagens. Você se arrastará pelo chão e comerá pó durante toda a sua vida."
-        },
-        "15": "Eu farei com que você e a mulher sejam inimigas, e com que os descendentes dela e os seus descendentes também sejam inimigos. Um descendente dela ferirá a sua cabeça, e você ferirá o calcanhar dele.",
-        "16": "E disse à mulher: — Aumentarei o seu sofrimento na gravidez, e com dores você dará à luz filhos. Apesar disso, você sentirá desejo pelo seu marido, e ele a dominará.",
-        "17": "E disse ao homem: — Você atendeu ao pedido da sua mulher e comeu a fruta da árvore que eu havia proibido de comer. Por isso amaldiçoarei a terra por sua causa. Você terá de trabalhar duramente todos os dias da sua vida a fim de tirar da terra o que você precisa para viver.",
-        "18": "A terra produzirá espinhos e ervas ruins, e você terá de comer as plantas que crescem nos campos.",
-        "19": "Você trabalhará no pesado para arrancar da terra o alimento, até que volte para ela, pois da terra você foi tirado. Você foi feito de terra e em terra vai se tornar de novo.",
-        "20": "O homem deu à sua mulher o nome de Eva, porque ela seria a mãe de todos os seres humanos.",
-        "21": "O SENHOR Deus fez roupas de pele de animais para Adão e Eva e os vestiu.",
-        "22": {
-            "título": "A expulsão do jardim",
-            "texto": "Então o SENHOR Deus disse: "Agora o ser humano se tornou como um de nós e tem o conhecimento do bem e do mal. Ele não deve comer a fruta da árvore da vida e viver para sempre.""
-        },
-        "23": "Assim, o SENHOR Deus expulsou do jardim do Éden o homem, para que ele cultivasse a terra da qual tinha sido formado.",
-        "24": "E, depois de expulsar o homem, Deus colocou, a leste do jardim, os querubins e uma espada de fogo que se movia continuamente para todos os lados, a fim de guardar o caminho que levava à árvore da vida."
+        "6": "A mulher viu que a árvore era bonita e que as suas frutas eram boas de se comer. E ela pensou como seria bom ter entendimento. Aí apanhou uma fruta e comeu; e deu ao seu marido, e ele também comeu.",
+        "7": "Nesse momento os olhos dos dois se abriram, e eles perceberam que estavam nus. Então costuraram umas folhas de figueira para usar como tangas.",
+        "8": "Naquele dia, quando soprava o vento suave da tarde, o homem e a sua mulher ouviram a voz do Senhor Deus, que estava passeando pelo jardim. Então se esconderam dele, no meio das árvores.",
+        "9": "Mas o Senhor Deus chamou o homem e perguntou: — Onde é que você está?",
+        "10": "O homem respondeu: — Eu ouvi a tua voz, quando estavas passeando pelo jardim, e fiquei com medo porque estava nu. Por isso me escondi.",
+        "11": "Aí Deus perguntou: — E quem foi que lhe disse que você estava nu? Por acaso você comeu a fruta da árvore que eu o proibi de comer?",
+        "12": "O homem disse: — A mulher que me deste para ser a minha companheira me deu a fruta, e eu comi.",
+        "13": "Então o Senhor Deus perguntou à mulher: — Por que você fez isso? A mulher respondeu: — A cobra me enganou, e eu comi.",
+        "14": "Então o Senhor Deus disse à cobra: — Por causa do que você fez você será castigada. Entre todos os animais só você receberá esta maldição: de hoje em diante você vai andar se arrastando pelo chão e vai comer o pó da terra.",
+        "15": "Eu farei com que você e a mulher sejam inimigas uma da outra, e assim também serão inimigas a sua descendência e a descendência dela. Esta esmagará a sua cabeça, e você picará o calcanhar da descendência dela.",
+        "16": "Para a mulher Deus disse: — Vou aumentar o seu sofrimento na gravidez, e com muita dor você dará à luz filhos. Apesar disso, você terá desejo de estar com o seu marido, e ele a dominará.",
+        "17": "E para Adão Deus disse o seguinte: — Você fez o que a sua mulher disse e comeu a fruta da árvore que eu o proibi de comer. Por causa do que você fez, a terra será maldita. Você terá de trabalhar duramente a vida inteira a fim de que a terra produza alimento suficiente para você.",
+        "18": "Ela lhe dará mato e espinhos, e você terá de comer ervas do campo.",
+        "19": "Terá de trabalhar no pesado e suar para fazer com que a terra produza algum alimento; isso até que você volte para a terra, pois dela você foi formado. Você foi feito de terra e vai virar terra outra vez.",
+        "20": "O homem pôs na sua mulher o nome de Eva por ser ela a mãe de todos os seres humanos.",
+        "21": "E o Senhor Deus fez roupas de peles de animais para Adão e a sua mulher se vestirem.",
+        "22": "Então o Senhor Deus disse o seguinte: — Agora o homem se tornou como um de nós, pois conhece o bem e o mal. Ele não deve comer a fruta da árvore da vida e viver para sempre.",
+        "23": "Por isso o Senhor Deus expulsou o homem do jardim do Éden e fez com que ele cultivasse a terra da qual havia sido formado.",
+        "24": "Deus expulsou o homem e no lado leste do jardim pôs os querubins e uma espada de fogo que dava voltas em todas as direções. Deus fez isso para que ninguém chegasse perto da árvore da vida."
     }
 }

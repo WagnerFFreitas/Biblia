@@ -1,0 +1,35 @@
+{
+    "livro": "Mateus",
+    "capitulo": 1,
+    "titulos": {
+        "1": "A genealogia de Jesus Cristo",
+        "18": "O nascimento de Jesus Cristo"
+    },
+    "versiculos": {
+        "1": "Livro da genealogia de Jesus Cristo, filho de Davi, filho de Abraão.",
+        "2": "Abraão gerou a Isaque; Isaque, a Jacó; Jacó, a Judá e a seus irmãos;",
+        "3": "Judá gerou de Tamar a Perez e a Zera; Perez gerou a Esrom; Esrom, a Arão;",
+        "4": "Arão gerou a Aminadabe; Aminadabe, a Naassom; Naassom, a Salmom;",
+        "5": "Salmom gerou de Raabe a Boaz; este, de Rute, gerou a Obede; e Obede, a Jessé;",
+        "6": "Jessé gerou ao rei Davi; e o rei Davi, a Salomão, da que fora mulher de Urias;",
+        "7": "Salomão gerou a Roboão; Roboão, a Abias; Abias, a Asa;",
+        "8": "Asa gerou a Josafá; Josafá, a Jorão; Jorão, a Uzias;",
+        "9": "Uzias gerou a Jotão; Jotão, a Acaz; Acaz, a Ezequias;",
+        "10": "Ezequias gerou a Manassés; Manassés, a Amom; Amom, a Josias;",
+        "11": "Josias gerou a Jeconias e a seus irmãos, no tempo do exílio na Babilônia.",
+        "12": "Depois do exílio na Babilônia, Jeconias gerou a Salatiel; e Salatiel, a Zorobabel;",
+        "13": "Zorobabel gerou a Abiúde; Abiúde, a Eliaquim; Eliaquim, a Azor;",
+        "14": "Azor gerou a Sadoque; Sadoque, a Aquim; Aquim, a Eliúde;",
+        "15": "Eliúde gerou a Eleazar; Eleazar, a Matã; Matã, a Jacó.",
+        "16": "E Jacó gerou a José, marido de Maria, da qual nasceu Jesus, que se chama o Cristo.",
+        "17": "De sorte que todas as gerações, desde Abraão até Davi, são catorze; desde Davi até ao exílio na Babilônia, catorze; e desde o exílio na Babilônia até Cristo, catorze.",
+        "18": "Ora, o nascimento de Jesus Cristo foi assim: estando Maria, sua mãe, desposada com José, sem que tivessem antes coabitado, achou-se grávida pelo Espírito Santo.",
+        "19": "Mas José, seu esposo, sendo justo e não a querendo infamar, resolveu deixá-la secretamente.",
+        "20": "Enquanto ponderava nestas coisas, eis que lhe apareceu, em sonho, um anjo do Senhor, dizendo: José, filho de Davi, não temas receber Maria, tua mulher, porque o que nela foi gerado é do Espírito Santo.",
+        "21": "Ela dará à luz um filho e lhe porás o nome de Jesus, porque ele salvará o seu povo dos pecados deles.",
+        "22": "Ora, tudo isto aconteceu para que se cumprisse o que fora dito pelo Senhor por intermédio do profeta:",
+        "23": "Eis que a virgem conceberá e dará à luz um filho, e ele será chamado pelo nome de Emanuel",
+        "24": "Despertado José do sono, fez como lhe ordenara o anjo do Senhor e recebeu sua mulher.",
+        "25": "Contudo, não a conheceu, enquanto ela não deu à luz um filho, a quem pôs o nome de Jesus."
+    }
+}

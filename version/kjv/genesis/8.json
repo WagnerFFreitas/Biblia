@@ -1,38 +1,29 @@
-
 {
-    "livro": "Genesis",
-    "capítulo": 8,
-    "versículos": {
-        "1": {
-            "título": "The End of the Flood",
-            "texto": "And God remembered Noah, and every living thing, and all the cattle that was with him in the ark: and God made a wind to pass over the earth, and the waters asswaged;"
-        },
-        "2": "The fountains also of the deep and the windows of heaven were stopped, and the rain from heaven was restrained;",
-        "3": "And the waters returned from off the earth continually: and after the end of the hundred and fifty days the waters were abated.",
-        "4": "And the ark rested in the seventh month, on the seventeenth day of the month, upon the mountains of Ararat.",
-        "5": "And the waters decreased continually until the tenth month: in the tenth month, on the first day of the month, were the tops of the mountains seen.",
-        "6": "And it came to pass at the end of forty days, that Noah opened the window of the ark which he had made:",
-        "7": "And he sent forth a raven, which went forth to and fro, until the waters were dried up from off the earth.",
-        "8": "Also he sent forth a dove from him, to see if the waters were abated from off the face of the ground;",
-        "9": "But the dove found no rest for the sole of her foot, and she returned unto him into the ark, for the waters were on the face of the whole earth: then he put forth his hand, and took her, and pulled her in unto him into the ark.",
-        "10": "And he stayed yet other seven days; and again he sent forth the dove out of the ark;",
-        "11": "And the dove came in to him in the evening; and, lo, in her mouth was an olive leaf pluckt off: so Noah knew that the waters were abated from off the earth.",
-        "12": "And he stayed yet other seven days; and sent forth the dove; which returned not again unto him any more.",
-        "13": {
-            "título": "Noah Leaves the Ark",
-            "texto": "And it came to pass in the six hundredth and first year, in the first month, the first day of the month, the waters were dried up from off the earth: and Noah removed the covering of the ark, and looked, and, behold, the face of the ground was dry."
-        },
-        "14": "And in the second month, on the seven and twentieth day of the month, was the earth dried.",
-        "15": "And God spake unto Noah, saying,",
-        "16": "Go forth of the ark, thou, and thy wife, and thy sons, and thy sons' wives with thee.",
-        "17": "Bring forth with thee every living thing that is with thee, of all flesh, both of fowl, and of cattle, and of every creeping thing that creepeth upon the earth; that they may breed abundantly in the earth, and be fruitful, and multiply upon the earth.",
-        "18": "And Noah went forth, and his sons, and his wife, and his sons' wives with him:",
-        "19": "Every beast, every creeping thing, and every fowl, and whatsoever creepeth upon the earth, after their kinds, went forth out of the ark.",
-        "20": {
-            "título": "God's Covenant with Noah",
-            "texto": "And Noah builded an altar unto the LORD; and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar."
-        },
-        "21": "And the LORD smelled a sweet savour; and the LORD said in his heart, I will not again curse the ground any more for man's sake; for the imagination of man's heart is evil from his youth; neither will I again smite any more every thing living, as I have done.",
-        "22": "While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease."
+    "livro": "Gênesis",
+    "capitulo": 8,
+    "titulos": {},
+    "versiculos": {
+        "1": "E Deus lembrou de Noé, e de toda coisa vivente, e de todo o gado que estava com ele na arca; e Deus fez um vento passar sobre a terra, e as águas se diminuíram.",
+        "2": "Também as fontes do abismo e as janelas do céu foram fechadas, e a chuva do céu foi contida;",
+        "3": "e as águas retornaram de sobre a terra continuamente; e após o fim dos cento e cinquenta dias as águas foram diminuídas.",
+        "4": "E a arca descansou no sétimo mês, no décimo sétimo dia do mês, sobre os montes de Ararate.",
+        "5": "E as águas diminuíram continuamente até o décimo mês; no décimo mês, no primeiro dia do mês, foram vistos os topos dos montes.",
+        "6": "E aconteceu que, ao fim de quarenta dias, Noé abriu a janela da arca que ele fizera.",
+        "7": "E ele enviou um corvo, que saindo, ia e voltava, até secar as águas de sobre a terra.",
+        "8": "Ele também enviou uma pomba, para ver se as águas haviam diminuído da face da terra;",
+        "9": "mas a pomba não encontrou descanso para a sola de seu pé, e ela retornou para ele na arca, pois as águas estavam sobre a face de toda a terra. Então, ele estendeu sua mão e a tomou, e a puxou para si para dentro da arca.",
+        "10": "E ele ficou mais outros sete dias, e novamente enviou a pomba para fora da arca,",
+        "11": "e a pomba veio a ele à tarde, e eis que no seu bico estava uma folha de oliveira arrancada. Assim Noé soube que as águas haviam diminuído de sobre a terra.",
+        "12": "E ele ficou mais outros sete dias, e enviou a pomba, que não mais retornou a ele.",
+        "13": "E aconteceu, no seiscentésimo primeiro ano, no primeiro mês, no primeiro dia do mês, que as águas foram secas de sobre a terra. E Noé removeu a cobertura da arca, e olhou, e eis que a face da terra estava seca.",
+        "14": "E no segundo mês, no vigésimo sétimo dia do mês, a terra estava seca.",
+        "15": "E Deus falou a Noé, dizendo:",
+        "16": "Vai adiante da arca, tu e tua mulher e teus filhos, e as mulheres de teus filhos contigo.",
+        "17": "Traze toda coisa vivente que está contigo, de toda carne, tanto das aves, quanto do gado e de toda coisa rastejante que rasteja sobre a terra; que eles possam procriar abundantemente na terra, e sejam frutíferos, e se multipliquem sobre a terra.",
+        "18": "E Noé foi adiante, e seus filhos e sua mulher, e as mulheres de seus filhos com ele.",
+        "19": "E saíram da arca todo animal, toda coisa rastejante, e toda ave, e tudo que rasteja sobre a terra, segundo as suas espécies.",
+        "20": "E Noé construiu um altar ao SENHOR; e tomou de todo animal limpo, e de toda ave limpa, e ofereceu ofertas queimadas sobre o altar.",
+        "21": "E o SENHOR cheirou um aroma doce, e o SENHOR disse em seu coração: Eu não amaldiçoarei novamente a terra por causa do homem; pois a imaginação do coração do homem é má desde a sua juventude. Tampouco eu ferirei novamente toda coisa vivente, como o fiz.",
+        "22": "Enquanto a terra permanecer, tempo de semeadura e de colheita, e frio e calor, e verão e inverno, e dia e noite não cessarão."
     }
 }

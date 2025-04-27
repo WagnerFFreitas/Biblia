@@ -1,0 +1,13 @@
+{
+    "livro": "Levítico",
+    "capitulo": 23,
+    "titulos": {
+        "1": "As festas religiosas",
+        "3": "O Sábado"
+    },
+    "versiculos": {
+        "1": "O Senhor Deus mandou que Moisés",
+        "2": "desse aos israelitas as seguintes leis a respeito das festas religiosas mais importantes, quando o povo se reúne para adorar o Senhor:",
+        "3": "Vocês têm seis dias para trabalhar, mas o sétimo dia é o dia sagrado de descanso, quando todos deverão se reunir para adorar a Deus. Não façam nenhum trabalho nesse dia. Em todos os lugares onde os israelitas morarem, o sábado é um dia dedicado a Deus, o Senhor."
+    }
+}

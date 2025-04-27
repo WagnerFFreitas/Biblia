@@ -1,38 +1,34 @@
-
 {
     "livro": "Gênesis",
-    "capítulo": 8,
-    "versículos": {
-        "1": {
-            "título": "O fim do dilúvio",
-            "texto": "E lembrou-se Deus de Noé, e de todos os animais, e de todo o gado que com ele estavam na arca; e Deus fez passar um vento sobre a terra, e aquietaram-se as águas."
-        },
-        "2": "Cerraram-se as fontes do abismo e as comportas dos céus, e a chuva dos céus deteve-se.",
-        "3": "E as águas iam-se escoando continuamente de sobre a terra, e ao cabo de cento e cinqüenta dias, começaram a minguar.",
-        "4": "No dia dezessete do sétimo mês, repousou a arca sobre as montanhas de Ararate.",
-        "5": "E as águas foram minguando até ao décimo mês; no décimo mês, no primeiro dia do mês, apareceram os cumes dos montes.",
-        "6": "E aconteceu que, ao cabo de quarenta dias, abriu Noé a janela da arca que tinha feito.",
-        "7": "E soltou um corvo, que, saindo, ia e voltava até que as águas secaram de sobre a terra.",
-        "8": "Depois soltou uma pomba, para ver se as águas tinham minguado de sobre a face da terra.",
-        "9": "A pomba, porém, não achou repouso para a planta do seu pé e voltou a ele para a arca; porque as águas estavam sobre a face de toda a terra; e ele estendeu a mão, tomou-a e recolheu-a consigo na arca.",
-        "10": "E esperou ainda outros sete dias, e tornou a enviar a pomba fora da arca.",
-        "11": "E a pomba voltou a ele à tarde; e eis, arrancada, uma folha de oliveira no seu bico; e conheceu Noé que as águas tinham minguado de sobre a terra.",
-        "12": "Então esperou ainda outros sete dias, e enviou fora a pomba; mas não tornou mais a ele.",
-        "13": {
-            "título": "Noé sai da arca",
-            "texto": "E aconteceu que no ano seiscentos e um, no mês primeiro, no primeiro dia do mês, as águas se secaram de sobre a terra. Então Noé tirou a cobertura da arca, e olhou, e eis que a face da terra estava enxuta."
-        },
-        "14": "E no segundo mês, aos vinte e sete dias do mês, a terra estava seca.",
-        "15": "Então falou Deus a Noé, dizendo:",
-        "16": "Sai da arca, tu, e tua mulher, e teus filhos, e as mulheres de teus filhos contigo.",
-        "17": "Todos os animais que estão contigo, de toda carne, tanto aves como gado, e todo réptil que se arrasta sobre a terra, traze para fora contigo; e povoem abundantemente a terra, e frutifiquem, e se multipliquem sobre a terra.",
-        "18": "Então saiu Noé, e seus filhos, e sua mulher, e as mulheres de seus filhos com ele.",
-        "19": "Todo animal, todo réptil, e toda ave, e tudo o que se move sobre a terra, conforme as suas famílias, saiu para fora da arca.",
-        "20": {
-            "título": "A aliança e o arco-íris",
-            "texto": "E edificou Noé um altar ao Senhor; e tomou de todo animal limpo, e de toda ave limpa, e ofereceu holocaustos sobre o altar."
-        },
-        "21": "E o Senhor sentiu o suave cheiro, e disse o Senhor em seu coração: Não tornarei mais a amaldiçoar a terra por causa do homem; porque a imaginação do coração do homem é má desde a sua meninice, nem tornarei mais a ferir todo o vivente, como fiz.",
-        "22": "Enquanto a terra durar, sementeira e ceifa, e frio e calor, e verão e inverno, e dia e noite, não cessarão."
+    "capitulo": 8,
+    "titulos": {
+        "1": "Diminuem as águas do dilúvio",
+        "6": "Noé solta um corvo e depois uma pomba",
+        "13": "Noé e sua família saem da arca",
+        "20": "Noé levanta um altar"
+    },
+    "versiculos": {
+        "1": "Lembrou-se Deus de Noé e de todos os animais selváticos e de todos os animais domésticos que com ele estavam na arca; Deus fez soprar um vento sobre a terra, e baixaram as águas.",
+        "2": "Fecharam-se as fontes do abismo e também as comportas dos céus, e a copiosa chuva dos céus se deteve.",
+        "3": "As águas iam-se escoando continuamente de sobre a terra e minguaram ao cabo de cento e cinquenta dias.",
+        "4": "No dia dezessete do sétimo mês, a arca repousou sobre as montanhas de Ararate.",
+        "5": "E as águas foram minguando até ao décimo mês, em cujo primeiro dia apareceram os cimos dos montes.",
+        "6": "Ao cabo de quarenta dias, abriu Noé a janela que fizera na arca",
+        "7": "e soltou um corvo, o qual, tendo saído, ia e voltava, até que se secaram as águas de sobre a terra.",
+        "8": "Depois, soltou uma pomba para ver se as águas teriam já minguado da superfície da terra;",
+        "9": "mas a pomba, não achando onde pousar o pé, tornou a ele para a arca; porque as águas cobriam ainda a terra. Noé, estendendo a mão, tomou-a e a recolheu consigo na arca.",
+        "10": "Esperou ainda outros sete dias e de novo soltou a pomba fora da arca.",
+        "11": "À tarde, ela voltou a ele; trazia no bico uma folha nova de oliveira; assim entendeu Noé que as águas tinham minguado de sobre a terra.",
+        "12": "Então, esperou ainda mais sete dias e soltou a pomba; ela, porém, já não tornou a ele.",
+        "13": "Sucedeu que, no primeiro dia do primeiro mês, do ano seiscentos e um, as águas se secaram de sobre a terra. Então, Noé removeu a cobertura da arca e olhou, e eis que o solo estava enxuto.",
+        "14": "E, aos vinte e sete dias do segundo mês, a terra estava seca.",
+        "15": "Então, disse Deus a Noé:",
+        "16": "Sai da arca, e, contigo, tua mulher, e teus filhos, e as mulheres de teus filhos.",
+        "17": "Os animais que estão contigo, de toda carne, tanto aves como gado, e todo réptil que rasteja sobre a terra, faze sair a todos, para que povoem a terra, sejam fecundos e nela se multipliquem.",
+        "18": "Saiu, pois, Noé, com seus filhos, sua mulher e as mulheres de seus filhos.",
+        "19": "E também saíram da arca todos os animais, todos os répteis, todas as aves e tudo o que se move sobre a terra, segundo as suas famílias.",
+        "20": "Levantou Noé um altar ao Senhor e, tomando de animais limpos e de aves limpas, ofereceu holocaustos sobre o altar.",
+        "21": "E o Senhor aspirou o suave cheiro e disse consigo mesmo: Não tornarei a amaldiçoar a terra por causa do homem, porque é mau o desígnio íntimo do homem desde a sua mocidade; nem tornarei a ferir todo vivente, como fiz.",
+        "22": "Enquanto durar a terra, não deixará de haver sementeira e ceifa, frio e calor, verão e inverno, dia e noite."
     }
 }

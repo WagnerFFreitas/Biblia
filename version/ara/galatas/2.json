@@ -1,0 +1,30 @@
+{
+    "livro": "Gálatas",
+    "capitulo": 2,
+    "titulos": {
+        "1": "O apostolado aos judeus e aos gentios",
+        "11": "Paulo repreende a Pedro. A justificação pela fé em Cristo Jesus"
+    },
+    "versiculos": {
+        "1": "Catorze anos depois, subi outra vez a Jerusalém com Barnabé, levando também a Tito.",
+        "2": "Subi em obediência a uma revelação; e lhes expus o evangelho que prego entre os gentios, mas em particular aos que pareciam de maior influência, para, de algum modo, não correr ou ter corrido em vão.",
+        "3": "Contudo, nem mesmo Tito, que estava comigo, sendo grego, foi constrangido a circuncidar-se.",
+        "4": "E isto por causa dos falsos irmãos que se entremeteram com o fim de espreitar a nossa liberdade que temos em Cristo Jesus e reduzir-nos à escravidão;",
+        "5": "aos quais nem ainda por uma hora nos submetemos, para que a verdade do evangelho permanecesse entre vós.",
+        "6": "E, quanto àqueles que pareciam ser de maior influência , esses, digo, que me pareciam ser alguma coisa nada me acrescentaram;",
+        "7": "antes, pelo contrário, quando viram que o evangelho da incircuncisão me fora confiado, como a Pedro o da circuncisão",
+        "9": "e, quando conheceram a graça que me foi dada, Tiago, Cefas e João, que eram reputados colunas, me estenderam, a mim e a Barnabé, a destra de comunhão, a fim de que nós fôssemos para os gentios, e eles, para a circuncisão;",
+        "10": "recomendando-nos somente que nos lembrássemos dos pobres, o que também me esforcei por fazer.",
+        "11": "Quando, porém, Cefas veio a Antioquia, resisti-lhe face a face, porque se tornara repreensível.",
+        "12": "Com efeito, antes de chegarem alguns da parte de Tiago, comia com os gentios; quando, porém, chegaram, afastou-se e, por fim, veio a apartar-se, temendo os da circuncisão.",
+        "13": "E também os demais judeus dissimularam com ele, a ponto de o próprio Barnabé ter-se deixado levar pela dissimulação deles.",
+        "14": "Quando, porém, vi que não procediam corretamente segundo a verdade do evangelho, disse a Cefas, na presença de todos: se, sendo tu judeu, vives como gentio e não como judeu, por que obrigas os gentios a viverem como judeus?",
+        "15": "Nós, judeus por natureza e não pecadores dentre os gentios,",
+        "16": "sabendo, contudo, que o homem não é justificado por obras da lei, e sim mediante a fé em Cristo Jesus, também temos crido em Cristo Jesus, para que fôssemos justificados pela fé em Cristo e não por obras da lei, pois, por obras da lei, ninguém será justificado.",
+        "17": "Mas se, procurando ser justificados em Cristo, fomos nós mesmos também achados pecadores, dar-se-á o caso de ser Cristo ministro do pecado? Certo que não!",
+        "18": "Porque, se torno a edificar aquilo que destruí, a mim mesmo me constituo transgressor.",
+        "19": "Porque eu, mediante a própria lei, morri para a lei, a fim de viver para Deus. Estou crucificado com Cristo;",
+        "20": "logo, já não sou eu quem vive, mas Cristo vive em mim; e esse viver que, agora, tenho na carne, vivo pela fé no Filho de Deus, que me amou e a si mesmo se entregou por mim.",
+        "21": "Não anulo a graça de Deus; pois, se a justiça é mediante a lei, segue-se que morreu Cristo em vão."
+    }
+}

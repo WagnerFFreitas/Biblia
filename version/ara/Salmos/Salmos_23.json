@@ -1,0 +1,15 @@
+{
+    "livro": "Salmos",
+    "capitulo": 23,
+    "titulos": {
+        "1": "O"
+    },
+    "versiculos": {
+        "1": "O Senhor é o meu pastor; nada me faltará.",
+        "2": "Ele me faz repousar em pastos verdejantes.",
+        "3": "refrigera-me a alma.",
+        "4": "Ainda que eu ande pelo vale da sombra da morte,",
+        "5": "Preparas-me uma mesa",
+        "6": "Bondade e misericórdia certamente me seguirão"
+    }
+}

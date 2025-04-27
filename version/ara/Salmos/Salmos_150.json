@@ -1,0 +1,15 @@
+{
+    "livro": "Salmos",
+    "capitulo": 150,
+    "titulos": {
+        "1": "Doxologia final"
+    },
+    "versiculos": {
+        "1": "Aleluia!",
+        "2": "Louvai-o pelos seus poderosos feitos;",
+        "3": "Louvai-o ao som da trombeta;",
+        "4": "Louvai-o com adufes e danças;",
+        "5": "Louvai-o com címbalos sonoros;",
+        "6": "Todo ser que respira louve ao Senhor ."
+    }
+}

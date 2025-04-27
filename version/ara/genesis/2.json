@@ -1,17 +1,35 @@
-
 {
     "livro": "Gênesis",
-    "capítulo": 2,
-    "versículos": {
+    "capitulo": 2,
+    "titulos": {
+        "4": "A formação do homem",
+        "18": "A formação da mulher"
+    },
+    "versiculos": {
         "1": "Assim, pois, foram acabados os céus e a terra e todo o seu exército.",
         "2": "E, havendo Deus terminado no dia sétimo a sua obra, que fizera, descansou nesse dia de toda a sua obra que tinha feito.",
         "3": "E abençoou Deus o dia sétimo e o santificou; porque nele descansou de toda a obra que, como Criador, fizera.",
-        "4": {
-            "título": "O homem no jardim do Éden",
-            "texto": "Esta é a gênese dos céus e da terra quando foram criados, quando o SENHOR Deus os criou."
-        },
-        "5": "Não havia ainda nenhuma planta do campo na terra, pois ainda nenhuma erva do campo havia brotado; porque o SENHOR Deus não fizera chover sobre a terra, e também não havia homem para lavrar o solo.",
+        "4": "Esta é a gênese dos céus e da terra quando foram criados, quando o Senhor Deus os criou.",
+        "5": "Não havia ainda nenhuma planta do campo na terra, pois ainda nenhuma erva do campo havia brotado; porque o Senhor Deus não fizera chover sobre a terra, e também não havia homem para lavrar o solo.",
         "6": "Mas uma neblina subia da terra e regava toda a superfície do solo.",
-        "7": "Então, formou o SENHOR Deus ao homem do pó da terra e lhe soprou nas narinas o fôlego de vida, e o homem passou a ser alma vivente."
+        "7": "Então, formou o Senhor Deus ao homem do pó da terra e lhe soprou nas narinas o fôlego de vida, e o homem passou a ser alma vivente.",
+        "8": "E plantou o Senhor Deus um jardim no Éden, na direção do Oriente, e pôs nele o homem que havia formado.",
+        "9": "Do solo fez o Senhor Deus brotar toda sorte de árvores agradáveis à vista e boas para alimento; e também a árvore da vida no meio do jardim e a árvore do conhecimento do bem e do mal.",
+        "10": "E saía um rio do Éden para regar o jardim e dali se dividia, repartindo-se em quatro braços.",
+        "11": "O primeiro chama-se Pisom; é o que rodeia a terra de Havilá, onde há ouro.",
+        "12": "O ouro dessa terra é bom; também se encontram lá o bdélio e a pedra de ônix.",
+        "13": "O segundo rio chama-se Giom; é o que circunda a terra de Cuxe.",
+        "14": "O nome do terceiro rio é Tigre; é o que corre pelo oriente da Assíria. E o quarto é o Eufrates.",
+        "15": "Tomou, pois, o Senhor Deus ao homem e o colocou no jardim do Éden para o cultivar e o guardar.",
+        "16": "E o Senhor Deus lhe deu esta ordem: De toda árvore do jardim comerás livremente,",
+        "17": "mas da árvore do conhecimento do bem e do mal não comerás; porque, no dia em que dela comeres, certamente morrerás.",
+        "18": "Disse mais o Senhor Deus: Não é bom que o homem esteja só; far-lhe-ei uma auxiliadora que lhe seja idônea.",
+        "19": "Havendo, pois, o Senhor Deus formado da terra todos os animais do campo e todas as aves dos céus, trouxe-os ao homem, para ver como este lhes chamaria; e o nome que o homem desse a todos os seres viventes, esse seria o nome deles.",
+        "20": "Deu nome o homem a todos os animais domésticos, às aves dos céus e a todos os animais selváticos; para o homem, todavia, não se achava uma auxiliadora que lhe fosse idônea.",
+        "21": "Então, o Senhor Deus fez cair pesado sono sobre o homem, e este adormeceu; tomou uma das suas costelas e fechou o lugar com carne.",
+        "22": "E a costela que o Senhor Deus tomara ao homem, transformou-a numa mulher e lha trouxe.",
+        "23": "E disse o homem:",
+        "24": "Por isso, deixa o homem pai e mãe e se une à sua mulher, tornando-se os dois uma só carne.",
+        "25": "Ora, um e outro, o homem e sua mulher, estavam nus e não se envergonhavam."
     }
 }

@@ -1,0 +1,37 @@
+{
+    "livro": "Provérbios",
+    "capitulo": 26,
+    "titulos": {
+        "1": "O tolo",
+        "13": "O preguiçoso",
+        "17": "Outros provérbios"
+    },
+    "versiculos": {
+        "1": "Elogiar um tolo é tão absurdo como cair neve no verão ou chover no tempo da colheita.",
+        "2": "A maldição não cai sobre quem não merece; ela é como um passarinho que voa sem rumo.",
+        "3": "O chicote foi feito para o cavalo, o freio, para o jumento, e a vara, para as costas de quem não tem juízo.",
+        "4": "Quem dá uma resposta séria a uma pergunta tola é tão tolo como quem a fez.",
+        "5": "Responda ao tolo de acordo com a tolice dele para que ele não fique pensando que é sábio.",
+        "6": "Quem manda um tolo dar um recado está procurando problemas; seria melhor que cortasse os próprios pés.",
+        "7": "Um provérbio citado por um tolo tem tanto valor como as pernas de um aleijado.",
+        "8": "Elogiar um tolo é o mesmo que amarrar a pedra no estilingue.",
+        "9": "O tolo, citando um provérbio, é como o bêbado tentando tirar um espinho da mão.",
+        "10": "O patrão que contrata qualquer tolo que lhe pede emprego acaba prejudicando todos.",
+        "11": "O tolo que faz uma tolice pela segunda vez é como um cachorro que volta ao seu vômito.",
+        "12": "Pode-se esperar mais de um tolo do que de quem pensa que é mais sábio do que é.",
+        "13": "O preguiçoso fica em casa e diz: “Se eu sair, o leão me pega.”",
+        "14": "O preguiçoso vira de um lado para outro na cama. Ele é como uma porta que gira nas dobradiças, mas, de fato, não sai do lugar.",
+        "15": "Existe gente que tem preguiça até de pôr a comida na própria boca.",
+        "16": "O preguiçoso acha que ele sozinho sabe mais do que sete homens capazes de dar respostas certas.",
+        "17": "Quem se mete na discussão dos outros é como quem agarra pelas orelhas um cachorro que vai passando.",
+        "20": "Sem lenha o fogo se apaga; sem mexericos a briga se acaba.",
+        "21": "Como carvão sobre as brasas e lenha no fogo, assim é o briguento para atiçar uma briga.",
+        "22": "Os mexericos são tão deliciosos! Como gostamos de saboreá-los!",
+        "23": "Como o verniz cobre um pote de barro, as palavras fingidas encobrem um coração mau.",
+        "24": "O hipócrita que odeia esconde o seu ódio atrás da bajulação.",
+        "25": "Ele pode falar muito bem, mas não acredite no que ele diz porque o seu coração está cheio de ódio.",
+        "26": "Ele pode disfarçar, mas todos acabarão vendo a sua maldade.",
+        "27": "Quem coloca uma armadilha para os outros acaba caindo nela; quem rola uma pedra será esmagado por ela.",
+        "28": "Quem odeia fere os outros com mentiras; as palavras bajuladoras causam desgraças."
+    }
+}

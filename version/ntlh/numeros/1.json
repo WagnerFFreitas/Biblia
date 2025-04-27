@@ -1,0 +1,24 @@
+{
+    "livro": "Números",
+    "capitulo": 1,
+    "titulos": {
+        "1": "A primeira contagem do povo",
+        "19": "Tribo Chefe de Grupo de Famílias",
+        "47": "Os levitas"
+    },
+    "versiculos": {
+        "1": "No segundo ano depois da saída dos israelitas do Egito, no dia primeiro do segundo mês, o Senhor Deus falou com Moisés no deserto do Sinai, na Tenda Sagrada. Ele disse:",
+        "2": "— Você e Arão devem fazer a contagem do povo de Israel por grupos de famílias e por famílias.",
+        "3": "Façam a lista de todos os homens de vinte anos para cima, isto é, todos os que já têm idade para o serviço militar.",
+        "4": "Vocês chamarão um chefe de grupo de famílias de cada tribo para ajudá-los.",
+        "19": "Assim, a contagem no deserto do Sinai foi feita como o Senhor havia ordenado a Moisés.",
+        "47": "Mas os levitas não foram registrados com as outras tribos,",
+        "48": "pois o Senhor tinha dito a Moisés o seguinte:",
+        "49": "— Quando você fizer a contagem dos homens com idade para o serviço militar, deixe de fora os homens da tribo de Levi.",
+        "50": "Mas ponha os levitas para cuidarem da Tenda Sagrada e de todos os seus móveis e objetos. Eles carregarão a Tenda e todo o seu equipamento, farão ali o serviço religioso e acamparão ao redor dela.",
+        "51": "Quando a Tenda tiver de ser transportada, os levitas a desarmarão e, quando for preciso acampar de novo, eles a armarão outra vez. Quem não for levita e chegar perto da Tenda deverá ser morto.",
+        "52": "Os outros israelitas ficarão cada um no seu próprio acampamento, perto da sua própria bandeira, de acordo com o seu grupo.",
+        "53": "Mas os levitas acamparão ao redor da Tenda para guardá-la a fim de que ninguém chegue perto, e assim eu não fique irado com o povo de Israel.",
+        "54": "E o povo fez tudo como o Senhor havia ordenado a Moisés."
+    }
+}

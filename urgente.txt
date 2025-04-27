@@ -11,5 +11,5 @@ verificar os títulos dos versículos
 
 
 livros terminados
-organizar 
-o menu com as imagens da versões da Biblia
+organizar o menu com as imagens da versões da Biblia
+ajustar o css da versão ARA

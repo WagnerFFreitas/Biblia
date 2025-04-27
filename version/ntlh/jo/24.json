@@ -1,0 +1,28 @@
+{
+    "livro": "Jó",
+    "capitulo": 24,
+    "titulos": {
+        "1": "Os maus roubam",
+        "5": "Os pobres são explorados pelos maus",
+        "13": "Perversos, assassinos, adúlteros, ladrões"
+    },
+    "versiculos": {
+        "1": "“Por que o Todo-Poderoso não marca um dia para julgar, um dia para fazer justiça aos que são dele?",
+        "2": "Há homens que mudam os marcos de divisa para aumentar as suas terras; eles roubam ovelhas e as põem no meio das suas.",
+        "3": "Levam jumentos que pertencem a órfãos e ficam com o boi de uma viúva como garantia de pagamento de empréstimo.",
+        "4": "Eles não respeitam os direitos dos pobres e forçam os necessitados a correr e se esconder.",
+        "5": "“Como se fossem jumentos selvagens, os pobres andam pelo deserto procurando alimento para os filhos.",
+        "6": "Os pobres precisam trabalhar nas colheitas dos maus e apanham uvas para eles.",
+        "7": "Não têm cobertas para se cobrir de noite, não têm nada que os proteja do frio.",
+        "8": "Nas montanhas são encharcados pelas chuvas e procuram abrigo nas rochas.",
+        "9": "Os perversos pegam orfãozinhos e fazem deles escravos e recebem os filhos dos necessitados como pagamento de dívidas.",
+        "10": "Os pobres andam por aí quase nus e passam fome enquanto trabalham na colheita do trigo.",
+        "11": "Eles movem as pedras dos moinhos dos maus para fazer azeite e pisam as suas uvas para fazer vinho, mas morrem de sede durante esse trabalho.",
+        "12": "Os feridos e os que estão morrendo gritam nas cidades, mas Deus não escuta os seus gritos pedindo socorro.",
+        "13": "“Os perversos odeiam a luz; em todos os seus caminhos, em tudo o que fazem, não querem saber dela.",
+        "14": "O assassino se levanta de madrugada para matar o pobre e de noite vira ladrão.",
+        "15": "O adúltero espera o cair da noite e cobre o rosto para que ninguém o veja.",
+        "16": "Os ladrões invadem de noite as casas; eles não saem de dia, pois não querem nada com a luz.",
+        "17": "Eles têm medo da luz do dia, mas a escuridão não os deixa apavorados.”"
+    }
+}

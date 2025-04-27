@@ -1,0 +1,39 @@
+{
+    "livro": "Romanos",
+    "capitulo": 16,
+    "titulos": {
+        "1": "Paulo recomenda a Febe",
+        "3": "As saudações pessoais",
+        "17": "As admoestações",
+        "21": "As saudações dos companheiros",
+        "25": "A doxologia"
+    },
+    "versiculos": {
+        "1": "Recomendo-vos a nossa irmã Febe, que está servindo à igreja de Cencreia,",
+        "2": "para que a recebais no Senhor como convém aos santos e a ajudeis em tudo que de vós vier a precisar; porque tem sido protetora de muitos e de mim inclusive.",
+        "3": "Saudai Priscila e Áquila, meus cooperadores em Cristo Jesus,",
+        "4": "os quais pela minha vida arriscaram a sua própria cabeça; e isto lhes agradeço, não somente eu, mas também todas as igrejas dos gentios;",
+        "5": "saudai igualmente a igreja que se reúne na casa deles. Saudai meu querido Epêneto, primícias da Ásia para Cristo.",
+        "6": "Saudai Maria, que muito trabalhou por vós.",
+        "7": "Saudai Andrônico e Júnias, meus parentes e companheiros de prisão, os quais são notáveis entre os apóstolos e estavam em Cristo antes de mim.",
+        "8": "Saudai Amplíato, meu dileto amigo no Senhor.",
+        "9": "Saudai Urbano, que é nosso cooperador em Cristo, e também meu amado Estáquis.",
+        "10": "Saudai Apeles, aprovado em Cristo. Saudai os da casa de Aristóbulo.",
+        "11": "Saudai meu parente Herodião. Saudai os da casa de Narciso, que estão no Senhor.",
+        "12": "Saudai Trifena e Trifosa, as quais trabalhavam no Senhor. Saudai a estimada Pérside, que também muito trabalhou no Senhor.",
+        "13": "Saudai Rufo, eleito no Senhor, e igualmente a sua mãe, que também tem sido mãe para mim.",
+        "14": "Saudai Asíncrito, Flegonte, Hermes, Pátrobas, Hermas e os irmãos que se reúnem com eles.",
+        "15": "Saudai Filólogo, Júlia, Nereu e sua irmã, Olimpas e todos os santos que se reúnem com eles.",
+        "16": "Saudai-vos uns aos outros com ósculo santo. Todas as igrejas de Cristo vos saúdam.",
+        "17": "Rogo-vos, irmãos, que noteis bem aqueles que provocam divisões e escândalos, em desacordo com a doutrina que aprendestes; afastai-vos deles,",
+        "18": "porque esses tais não servem a Cristo, nosso Senhor, e sim a seu próprio ventre; e, com suaves palavras e lisonjas, enganam o coração dos incautos.",
+        "19": "Pois a vossa obediência é conhecida por todos; por isso, me alegro a vosso respeito; e quero que sejais sábios para o bem e símplices para o mal.",
+        "20": "E o Deus da paz, em breve, esmagará debaixo dos vossos pés a Satanás. A graça de nosso Senhor Jesus seja convosco.",
+        "21": "Saúda-vos Timóteo, meu cooperador, e Lúcio, Jasom e Sosípatro, meus parentes.",
+        "22": "Eu, Tércio, que escrevi esta epístola, vos saúdo no Senhor.",
+        "23": "Saúda-vos Gaio, meu hospedeiro e de toda a igreja. Saúda-vos Erasto, tesoureiro da cidade, e o irmão Quarto.",
+        "25": "Ora, àquele que é poderoso para vos confirmar segundo o meu evangelho e a pregação de Jesus Cristo, conforme a revelação do mistério guardado em silêncio nos tempos eternos,",
+        "26": "e que, agora, se tornou manifesto e foi dado a conhecer por meio das Escrituras proféticas, segundo o mandamento do Deus eterno, para a obediência por fé, entre todas as nações,",
+        "27": "ao Deus único e sábio seja dada glória, por meio de Jesus Cristo, pelos séculos dos séculos. Amém!"
+    }
+}
