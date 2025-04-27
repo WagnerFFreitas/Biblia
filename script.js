@@ -6,49 +6,49 @@ var animeList = []
 // Almeida Revisada e Atualizada
 animeList.push({
   titleAnime: 'Bíblia ARC',
-  img: '../img/arc.png'
+  img: './img/arc.png'
 })
 
 // Almeida Revista e Atualizada
 animeList.push({
   titleAnime: 'Bíblia ARA',
-  img: '../img/ara.png'
+  img: './img/ara.png'
 })
 
 // Almeida Corrigida Fiel
 animeList.push({
   titleAnime: ' Bíblia ACF',
-  img: '../img/acf.png'
+  img: './img/acf.png'
 })
 
 // Nova Almeida Atualizada 
 animeList.push({
   titleAnime: 'Bíblia NAA',
-  img: '../img/naa.png'
+  img: './img/naa.png'
 }) 
 
 // Nova Versão Internacional
 animeList.push({
   titleAnime: 'Bíblia NVI',
-  img: '../img/nvi.png'
+  img: './img/nvi.png'
 })
 
 // Nova Tradução na Linguagem de Hoje
 animeList.push({
   titleAnime: ' Bíblia NTLH',
-  img: '../img/ntlh.png'
+  img: './img/ntlh.png'
 })
 
 // Bíblia King James
 animeList.push({
   titleAnime: ' Bíblia BKJ',
-  img: '../img/bkj.png'
+  img: './img/bkj.png'
 })
 
 // Original em Hebraico e Grego
 animeList.push({
   titleAnime: ' Bíblia Original',
-  img: '../img/original.png'
+  img: './img/original.png'
 })
 
 // Variável que representa o input do usuário
