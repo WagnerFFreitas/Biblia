@@ -48,7 +48,7 @@ animeList.push({
 // Original em Hebraico e Grego
 animeList.push({
   titleAnime: ' Bíblia Original',
-  img: '/biblia/img/original.png'
+  img: './img/original.png'
 })
 
 // Variável que representa o input do usuário
