@@ -1,157 +1,88 @@
-// Lista das versões da biblia dentro de uma Array
+// Lista das versões da Bíblia (padrão) - cada item com título e imagem
 var animeList = []
 
-// Push do título e imagem)
+// Adicionando versões padrões
+animeList.push({ titleAnime: 'Bíblia ARC', img: './img/arc.png' })
+animeList.push({ titleAnime: 'Bíblia ARA', img: './img/ara.png' })
+animeList.push({ titleAnime: 'Bíblia ACF', img: './img/acf.png' })
+animeList.push({ titleAnime: 'Bíblia NAA', img: './img/naa.png' })
+animeList.push({ titleAnime: 'Bíblia NVI', img: './img/nvi.png' })
+animeList.push({ titleAnime: 'Bíblia NTLH', img: './img/ntlh.png' })
+animeList.push({ titleAnime: 'Bíblia BKJ', img: './img/bkj.png' })
+animeList.push({ titleAnime: 'Bíblia Original', img: './img/original.png' })
 
-// Almeida Revisada e Atualizada
-animeList.push({
-  titleAnime: 'Bíblia ARC',
-  img: './img/arc.png'
-})
-
-// Almeida Revista e Atualizada
-animeList.push({
-  titleAnime: 'Bíblia ARA',
-  img: './img/ara.png'
-})
-
-// Almeida Corrigida Fiel
-animeList.push({
-  titleAnime: ' Bíblia ACF',
-  img: './img/acf.png'
-})
-
-// Nova Almeida Atualizada 
-animeList.push({
-  titleAnime: 'Bíblia NAA',
-  img: './img/naa.png'
-}) 
-
-// Nova Versão Internacional
-animeList.push({
-  titleAnime: 'Bíblia NVI',
-  img: './img/nvi.png'
-})
-
-// Nova Tradução na Linguagem de Hoje
-animeList.push({
-  titleAnime: ' Bíblia NTLH',
-  img: './img/ntlh.png'
-})
-
-// Bíblia King James
-animeList.push({
-  titleAnime: ' Bíblia BKJ',
-  img: './img/bkj.png'
-})
-
-// Original em Hebraico e Grego
-animeList.push({
-  titleAnime: ' Bíblia Original',
-  img: './img/original.png'
-})
-
-// Variável que representa o input do usuário
+// Input da barra de busca
 var inputUserFilter = document.getElementById('inputUser')
 
-// Função responsável por filtrar os itens do site
-function searchBar () {
-  // Variável que define a lista como elemento
+// Função que filtra as versões da Bíblia com base no texto digitado
+function searchBar() {
   var list = document.getElementById('List')
-  // ?
-  list.innerHTML = ''
-  // Resumo da sintaxe abaixo: var filteredAnimes = animeList.filter(anime => anime.titleAnime.startsWith(inputUserFilter.value))
-  // Constante animes filtrados
+  list.innerHTML = '' // Limpa a lista atual
+
   const filteredAnimes = []
-  // ?
+
+  // Verifica quais Bíblias correspondem ao texto pesquisado
   for (let i = 0; i < animeList.length; i++) {
     const animeName = animeList[i].titleAnime
     if (animeName.includes(inputUserFilter.value)) {
       filteredAnimes.push(animeList[i])
     }
   }
-  // ?
+
+  // Adiciona as Bíblias filtradas na lista
   for (let i = 0; i < filteredAnimes.length; i++) {
     list.appendChild(createElementAnime(filteredAnimes[i]))
   }
 }
 
-
-
-/* 24/04/25 14:33 Função responsável por criar os elementos do site
-function createElementAnime (anime) {
-  const listItem = document.createElement('li')
-  const img = document.createElement('img')
-  const name = document.createElement('h2')
-  img.src=anime.img
-  name.innerHTML = anime.titleAnime
-  listItem.appendChild(img)
-  listItem.appendChild(name)
-  return listItem
-}*/
-
+// Cria o elemento HTML (li, img, h2) para cada Bíblia
 function createElementAnime(anime) {
   const listItem = document.createElement('li')
   const img = document.createElement('img')
   const name = document.createElement('h2')
-  
+
   img.src = anime.img
   name.innerHTML = anime.titleAnime
-  
-  // Adiciona evento de clique
+
+  // Redireciona para a página correspondente ao clicar
   listItem.addEventListener('click', () => {
     let url;
-    // Verifica qual bíblia foi clicada
-    if (anime.titleAnime.includes('ARC')) {
-      url = '../html/arc.html';
-    } else if (anime.titleAnime.includes('ARA')) {
-      url = '../html/ara.html';
-    } else if (anime.titleAnime.includes('ACF')) {
-      url = '../html/acf.html';
-    } else if (anime.titleAnime.includes('NAA')) {
-      url = '../html/naa.html';
-    } else if (anime.titleAnime.includes('NVI')) {
-      url = '../html/nvi.html';
-    } else if (anime.titleAnime.includes('NTLH')) {
-      url = '../html/ntlh.html';
-    } else if (anime.titleAnime.includes('BKJ')) {
-      url = '../html/bkj.html';
-    } else if (anime.titleAnime.includes('Original')) {
-      url = '../html/original.html';
-    }
+    if (anime.titleAnime.includes('ARC')) url = './html/arc.html';
+    else if (anime.titleAnime.includes('ARA')) url = './html/ara.html';
+    else if (anime.titleAnime.includes('ACF')) url = './html/acf.html';
+    else if (anime.titleAnime.includes('NAA')) url = './html/naa.html';
+    else if (anime.titleAnime.includes('NVI')) url = './html/nvi.html';
+    else if (anime.titleAnime.includes('NTLH')) url = './html/ntlh.html';
+    else if (anime.titleAnime.includes('BKJ')) url = './html/bkj.html';
+    else if (anime.titleAnime.includes('Original')) url = './html/original.html';
 
-    // Redireciona para a página correspondente
     if (url) {
       window.open(url, '_self');
     }
-  });
+  })
 
   listItem.appendChild(img)
   listItem.appendChild(name)
   return listItem
 }
 
-// Chama a função sem que o usuário coloque alguma informação na barra de pesquisa
+// Inicializa carregando toda a lista (sem filtro)
 searchBar()
 
-// ?
+// Botões de upload e visualização de imagem
 const realFileBtn = document.getElementById('realFile');
-// ?
 const customBtn = document.getElementById('newAnimeImg');
-// ?
 var uploadedImg = '';
 
-// ?
+// Botão de upload de imagem (clicável)
 customBtn.addEventListener('click', function() {
   realFileBtn.click();
 });
-// ?
+
+// Preview da imagem selecionada
 realFileBtn.addEventListener('change', (event) => {
-  // ?
-  if (realFileBtn.files.length <=0){
-    return;
-  }
-  // ?
+  if (realFileBtn.files.length <= 0) return;
+
   let reader = new FileReader();
   reader.onloadend = () => {
     uploadedImg = reader.result;
@@ -160,44 +91,35 @@ realFileBtn.addEventListener('change', (event) => {
     preImg.src = uploadedImg;
     preImg.style.display = 'flex';
   }
-  // ?
   reader.readAsDataURL(realFileBtn.files[0]);
 })
 
-// Função responsável por fazer o pop-up ficar visível
-function openPopup () {
+// Mostra o pop-up para adicionar nova versão
+function openPopup() {
   document.querySelector('body').classList.add('visible')
 }
 
-// Função responsável por fazer o pop-up ficar invisível
-function closePopup () { 
+// Fecha o pop-up de adicionar versão
+function closePopup() { 
   document.querySelector('body').classList.remove('visible')
   const preImg = document.getElementById('imgPreview');
   customBtn.style.display = 'block';
   preImg.src = '';
   preImg.style.display = 'none';
-  document.getElementById('inputUser').value='';
+  document.getElementById('inputUser').value = '';
 }
 
-// Função responsável por fazer o pop-up ficar invisível
-function closeWlc () {                    
+// Fecha o pop-up de boas-vindas
+function closeWlc() {                    
   var welcomePopup = document.getElementById('popupWlc')
-  console.log(welcomePopup)
   welcomePopup.classList.remove('visibleWlc')
 }
 
-// Função que salva os novos animes colocados pelo usuário na lista
-function saveAnime () {
-  // Função que coleta e da um valor para o título de anime inserido pelo usuário 
+// Salva uma nova versão de Bíblia na lista
+function saveAnime() {
   const animeName = document.getElementById('newAnimeTitle').value;
-  // função que coleta a imagem enviada pelo usuário
   const animeImg = uploadedImg;
-  animeList.push({
-    titleAnime: animeName,
-    img: animeImg
-  })
-  // Atualiza lista de animes
-  searchBar()
-  // Chamando função que fecha pop-up
-  closePopup('closeStyle')
+  animeList.push({ titleAnime: animeName, img: animeImg })
+  searchBar() // Atualiza a lista
+  closePopup() // Fecha o pop-up
 }
