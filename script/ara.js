@@ -227,7 +227,7 @@ function createCapitulosButtons(livro) {
 // O bloco abaixo cria a função para carregar o conteúdo de um versículo específico
 async function loadVersiculo(livro, capitulo, versiculo) {
     // Modificado para carregar arquivos JSON da pasta \biblia\version\ara\
-    const response = await fetch(`../../version/ara/${livro}/${capitulo}.json`);
+    const response = await fetch(`../version/ara/${livro}/${capitulo}.json`);
     const data = await response.json();
     
     const content = document.querySelector('.content');
@@ -1858,7 +1858,7 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
 
                 async function carregarCapitulo() {
                     try {
-                        const response = await fetch('../../version/ara/' + livro + '/' + capitulo + '.json');
+                        const response = await fetch('../version/ara/' + livro + '/' + capitulo + '.json');
                         dadosCapitulo = await response.json();
                         totalVersiculos = Object.keys(dadosCapitulo.versiculos).length;
                         carregarVersiculo();
