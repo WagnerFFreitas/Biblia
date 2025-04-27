@@ -7,7 +7,7 @@
 }
 
 body {
-  background-image: url(../img/biblia.png);
+  background-image: url(./img/biblia.png);
   background-color: #f5f5f5;
   background-size: cover;  /* Faz a imagem cobrir toda a tela */
   background-position: center;
