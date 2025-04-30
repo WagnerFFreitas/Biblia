@@ -1,6 +1,6 @@
 /* O bloco abaixo configura o corpo da página */
 body {
-    background-color: #181818; /* Fundo base ainda necessário se a imagem não carregar */
+    background-color: #181818;
     color: #fff;
     font-family: sans-serif;
     margin: 0;
@@ -18,7 +18,6 @@ h1 {
     font-style: italic;
 }
 
-/* O bloco abaixo configura o estilo da barra de navegação (geral, se houver fora do header) */
 /* O bloco abaixo configura o estilo da barra de navegação */
 nav {
     background: linear-gradient(to right, #333, #555, #777);
@@ -27,7 +26,7 @@ nav {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
 }
 
-/* Estilos para links de navegação (aplicado à nav dentro do header) */
+/* O bloco abaixo configura o estilo da lista de navegação */
 nav ul {
     display: flex;
     justify-content: center;
@@ -36,6 +35,7 @@ nav ul {
     padding: 0;
 }
 
+/* O bloco abaixo configura o espaçamento entre os itens de navegação na horizontal */
 nav ul li {
     margin: 0 5px;
 }
@@ -50,11 +50,22 @@ nav ul li a {
     transition: background 0.3s ease;
 }
 
+/* O bloco abaixo configura o efeito ao passar o mouse sobre os links de navegação */
 nav ul li a:hover {
-    background: rgba(255, 255, 255, 0.2); /* Fundo hover mais visível */
+    background: rgba(255, 255, 255, 0.1);
 }
 
-/* aqui e menu lateral O bloco abaixo configura o menu lateral dos livros */
+.menu-title {
+    margin-right: auto;
+    margin-left: -105px; /* Para afastar um pouquinho da borda */
+    font-weight: bold;
+    text-align: center;
+    font-size: 1em;
+    line-height: 1.2;
+}
+
+
+/* O bloco abaixo configura o menu lateral dos livros */
 .menu-livros {
     flex: 1;
     margin-right: 20px;
@@ -64,7 +75,7 @@ nav ul li a:hover {
     color: #fff;
     padding: 20px;
     position: fixed;
-    top: 130px;
+    top: 153px;
     left: 0;
     width: 160px;
     bottom: 0;
@@ -93,7 +104,7 @@ nav ul li a:hover {
 .menu-livros ul {
     list-style-type: none;
     padding: 0;
-    margin: 15px;
+    margin: 10px;
 }
 
 /* O bloco abaixo configura o espaçamento interior dos itens da lista na barra lateral */
@@ -120,7 +131,6 @@ nav ul li a:hover {
     height: calc(100vh - 160px); /*160px e a altura da barra de rolagem direita*/
 }
 
-
 .content::-webkit-scrollbar {
     width: 16px; /* Largura da barra de rolagem */
 }
@@ -136,23 +146,20 @@ nav ul li a:hover {
      min-height: 50px; /* Altura mínima da barra de rolagem */
 }
 
+
 /* O bloco abaixo configura o contêiner para exibir seus filhos em uma linha */
 .container {
     display: flex;
     flex-direction: row;
 }
 
-
-/* O bloco abaixo configura a opção da barra de busca */
-.search-bar select {
-    margin-right: 5px;
-    color: #fff;
-    font-size: 16px;
-    padding: 8px;
-    border: 1px solid #fff; 
-    appearance: none;
-    border-radius: 5px;
-    background-color: #383838;
+/* O bloco abaixo configura a barra de busca */
+.search-bar {
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    margin-right: 60px;
+    margin-top: 20px;
 }
 
 /* O bloco abaixo configura a opção da barra de busca */
@@ -266,10 +273,22 @@ h3 {
     font-size: 1.5em; 
     font-style: italic;
     margin-left: 14px;
-    margin-top: 5px;
+    margin-top: -5px;
 }
 
-/* Não existe aqui o bloco Strong, pois este CSS e para ser usado com arquivos JSON */
+/* O bloco abaixo configura o titulo da passagem bíblica */
+strong {
+    font-weight: bold;
+    color: #5df565;
+    font-size: 2.5vw;
+    font-style: italic;
+    margin-left: 5px;
+    margin-top: 20px;
+    letter-spacing: 1px;
+    white-space: normal;
+    line-height: 1.1 !important;
+    display: block;
+}
 
 /* O bloco abaixo configura os botões dos versículos */
 .versiculos {
@@ -318,22 +337,6 @@ h3 {
     word-wrap: break-word;
 }
 
-/* O bloco abaixo configura o texto dos títulos dos versiculos no arquivos JSON (H3) */
-.versiculo-texto h3 {
-    color: #5df565;
-    font-size: 1.9vw;
-    font-weight: bold;
-    font-style: normal;
-    text-transform: uppercase;
-    margin-bottom: 20px;
-    line-height: 1.3;
-    margin-left: 0;
-    margin-right: 0;
-    margin-top: 0;
-    /* Sombra diferente ou mais forte para o título */
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.9);
-}
-
 /* O bloco abaixo configura o tamanho da barra inferior da página "Rodapé" */
 footer {
     background-color: #383838;
@@ -369,7 +372,6 @@ footer p {
     background-position: center;
 }
 
-/* Dropdown Menu */
 .dropdown {
     position: relative;
     display: inline-block;
@@ -469,4 +471,40 @@ footer p {
     margin-bottom: 20px; /* Adiciona um espaçamento entre os elementos */
 }
 
-/* --- Responsividade --- */
+@media (max-width: 600px) {
+    .sobre {
+        max-width: 100%; /* Ajusta o tamanho máximo para dispositivos menores */
+    }
+}
+
+/* Responsividade para diferentes tamanhos de telas */
+@media (min-width: 1366px) and (max-width: 1920px) {
+    .versiculo-texto {
+        font-size: 2.8em;
+    }
+}
+
+/* Adiciona responsividade para dispositivos menores */
+@media (max-width: 768px) {
+    .sobre-content {
+        max-width: 90%;
+    }
+    .sobre-content h2 {
+        font-size: 2em;
+    }
+    .sobre-content p {
+        font-size: 1.2em;
+    }
+}
+
+@media (max-width: 480px) {
+    .sobre-content {
+        max-width: 100%;
+    }
+    .sobre-content h2 {
+        font-size: 1.8em;
+    }
+    .sobre-content p {
+        font-size: 1em;
+    }
+}
