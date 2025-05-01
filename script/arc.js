@@ -1956,7 +1956,7 @@ async function loadChapter() {
     setLoadingState(true);
     try {
         /*const response = await fetch(\`../../version/arc/\${config.livro}/\${config.capitulo}.html\`);*/
-        const response = await fetch(\`../../version/arc/\${config.livro}/\${config.capitulo}.html\`);
+        const response = await fetch(\`../version/arc/\${config.livro}/\${config.capitulo}.html\`);
         if (!response.ok) throw new Error(\`Capítulo \${config.capitulo} do livro '\${config.livro}' não encontrado (status: \${response.status})\`);
         const html = await response.text();
         const parser = new DOMParser();
