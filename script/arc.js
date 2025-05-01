@@ -227,7 +227,7 @@ function createCapitulosButtons(livro) {
 // O bloco abaixo cria a função para carregar o conteúdo de um versículo específico
 async function loadVersiculo(livro, capitulo, versiculo) {
     //const response = await fetch(`${livro}/${capitulo}.html`);
-    const response = await fetch(`../../version/arc/${livro}/${capitulo}.html`);
+    const response = await fetch(`../version/arc/${livro}/${capitulo}.html`);
     const html = await response.text();
         
     const tempDiv = document.createElement('div');
