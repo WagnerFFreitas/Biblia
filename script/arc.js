@@ -1735,481 +1735,380 @@ window.onload = () => {
     content.appendChild(watermarkContainer);
 };
 
-// O bloco abaixo cria a janela de SLIDE para o data-show
+function capitalizeLivro(livro) {
+    return livro.charAt(0).toUpperCase() + livro.slice(1).toLowerCase();
+}
+
 function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
-    // Verifica se a janela já existe e está aberta
+    // Corrige a capitalização do livro para bater com o objeto BIBLIA
+    const livroCorrigido = capitalizeLivro(livroAtual);
+
     if (window.janelaSlide && !window.janelaSlide.closed) {
-        window.janelaSlide.focus(); // Se já estiver aberta, apenas foca nela
-        // Opcional: Atualizar o conteúdo da janela existente se necessário
-        // window.janelaSlide.location.reload(); // Ou chamar uma função dentro da janela para atualizar
+        window.janelaSlide.focus();
         return;
     }
 
-    // Configurações da janela (tela cheia disponível)
     const largura = window.screen.availWidth;
     const altura = window.screen.availHeight;
-    const features = `width=${largura},height=${altura},menubar=no,toolbar=no,location=no,resizable=yes,scrollbars=yes`;
+    const features = `width=${largura},height=${altura},menubar=no,toolbar=no,location=no,resizable=yes,scrollbars=no`; // Alterado para scrollbars=no
 
-    // Abre a nova janela (ou reutiliza a referência se fechada)
     window.janelaSlide = window.open('', 'JanelaSlide', features);
 
-    // Verifica se a janela foi bloqueada pelo navegador
     if (!window.janelaSlide) {
         alert("A abertura da janela de slide foi bloqueada pelo navegador. Por favor, permita pop-ups para este site.");
         return;
     }
 
-    // Conteúdo HTML da janela Slide
+    // Objeto BIBLIA dentro do HTML da janela!
+    const BIBLIA = {
+        Genesis: [31, 25, 24, 26, 32, 22, 24, 22, 29, 32, 32, 20, 18, 24, 21, 16, 27, 33, 38, 18, 34, 24, 20, 67, 34, 35, 46, 22, 35, 43, 55, 32, 20, 31, 29, 43, 36, 30, 23, 23, 57, 38, 34, 34, 28, 34, 31, 22, 33, 26],
+        Exodo: [22, 25, 22, 31, 23, 30, 25, 32, 35, 29, 10, 51, 22, 31, 27, 36, 16, 27, 25, 26, 36, 31, 33, 18, 40, 37, 21, 43, 46, 38, 18, 35, 23, 35, 35, 38, 29, 31, 43, 38],
+        Levitico: [17, 16, 17, 35, 19, 30, 38, 36, 24, 20, 47, 8, 59, 57, 33, 34, 16, 30, 37, 27, 24, 33, 44, 23, 55, 46, 34],
+        Numeros: [54, 34, 51, 49, 31, 27, 89, 26, 23, 36, 35, 16, 33, 45, 41, 50, 13, 32, 22, 29, 35, 41, 30, 25, 18, 65, 23, 31, 40, 16, 54, 42, 56, 29, 34, 13],
+        Deuteronomio: [46, 37, 29, 49, 33, 25, 26, 20, 29, 22, 32, 32, 18, 29, 23, 22, 20, 22, 21, 20, 23, 30, 25, 22, 19, 19, 26, 68, 29, 20, 30, 52, 29, 12],
+        Josue: [18, 24, 17, 24, 15, 27, 26, 35, 27, 43, 23, 24, 33, 15, 63, 10, 18, 28, 51, 9, 45, 34, 16, 33],
+        Juizes: [36, 23, 31, 24, 31, 40, 25, 35, 57, 18, 40, 15, 25, 20, 20, 31, 13, 31, 30, 48, 25],
+        Rute: [22, 23, 18, 22],
+        '1Samuel': [28, 36, 21, 22, 12, 21, 17, 22, 27, 27, 15, 25, 23, 52, 35, 23, 58, 30, 24, 42, 15, 23, 29, 22, 44, 25, 12, 25, 11, 31, 13], // Atenção à chave '1Samuel'
+        '2Samuel': [27, 32, 39, 12, 25, 23, 29, 18, 13, 19, 27, 31, 39, 33, 37, 23, 29, 33, 43, 26, 22, 51, 39, 25], // Atenção à chave '2Samuel'
+        '1Reis': [53, 46, 28, 34, 18, 38, 51, 66, 28, 29, 43, 33, 34, 31, 34, 34, 24, 46, 21, 43, 29, 53], // Atenção à chave '1Reis'
+        '2Reis': [18, 25, 27, 44, 27, 33, 20, 29, 37, 36, 21, 22, 25, 29, 38, 20, 41, 37, 37, 21, 26, 20, 37, 20, 30], // Atenção à chave '2Reis'
+        '1Cronicas': [54, 55, 24, 43, 26, 81, 40, 40, 44, 14, 47, 41, 14, 17, 29, 43, 27, 17, 19, 8, 30, 19, 32, 31, 31, 32, 34, 21, 30], // Atenção à chave '1Cronicas'
+        '2Cronicas': [17, 18, 17, 22, 14, 42, 22, 18, 31, 19, 23, 16, 22, 15, 19, 14, 19, 34, 11, 37, 20, 12, 21, 27, 28, 23, 9, 27, 36, 27, 21, 33, 25, 33, 27, 23], // Atenção à chave '2Cronicas'
+        Esdras: [11, 70, 13, 24, 17, 22, 28, 36, 15, 44],
+        Neemias: [11, 20, 32, 23, 19, 19, 73, 18, 38, 39, 36, 47, 31],
+        Ester: [22, 23, 15, 17, 14, 14, 10, 17, 32, 3],
+        Jo: [22, 13, 26, 21, 27, 30, 21, 22, 35, 22, 20, 25, 28, 22, 35, 22, 16, 21, 29, 29, 34, 30, 17, 41, 6, 14, 23, 28, 25, 31, 40, 22, 33, 37, 16, 33, 24, 41, 30, 24, 34, 17], // Chave 'Jo' (curta)
+        Salmos: [6, 12, 8, 8, 12, 10, 17, 9, 20, 18, 7, 8, 6, 7, 5, 11, 15, 50, 14, 9, 13, 31, 6, 10, 22, 12, 14, 9, 11, 12, 24, 11, 22, 22, 28, 12, 40, 22, 13, 17, 13, 11, 5, 26, 17, 11, 9, 14, 20, 23, 19, 9, 6, 7, 23, 13, 11, 11, 17, 12, 8, 12, 11, 10, 13, 20, 7, 35, 36, 5, 8, 11, 22, 19, 12, 20, 7, 18, 52, 7, 11, 12, 13, 9, 18, 7, 20, 14, 17, 20, 9, 21, 14, 11, 17, 72, 13, 19, 9, 12, 8, 6, 48, 176, 7, 8, 8, 8, 8, 5, 6, 5, 7, 8, 11, 3, 18, 12, 10, 10, 12, 8, 20, 10, 8, 6],
+        Proverbios: [33, 22, 35, 27, 23, 35, 27, 36, 18, 32, 31, 28, 25, 35, 33, 33, 28, 24, 29, 30, 31, 29, 35, 34, 28, 28, 27, 28, 27, 33, 31],
+        Eclesiastes: [18, 26, 22, 16, 20, 12, 29, 17, 18, 20, 10, 14],
+        Cantares: [17, 17, 11, 16, 16, 13, 13, 14], // Usando 'Cantares' como chave
+        Isaias: [31, 22, 26, 6, 30, 13, 25, 22, 21, 34, 16, 6, 22, 32, 9, 14, 14, 7, 25, 6, 17, 25, 18, 23, 12, 21, 13, 29, 24, 33, 9, 20, 24, 17, 10, 22, 38, 22, 8, 31, 29, 25, 28, 28, 25, 13, 15, 22, 26, 11, 23, 15, 12, 17, 13, 12, 21, 14, 21, 22, 11, 12, 19, 25, 24, 18, 24],
+        Jeremias: [19, 37, 25, 31, 31, 30, 34, 22, 26, 25, 23, 17, 27, 22, 21, 21, 27, 23, 15, 18, 14, 30, 40, 10, 38, 24, 22, 17, 32, 24, 40, 44, 26, 22, 19, 32, 21, 28, 18, 16, 18, 22, 13, 30, 5, 28, 7, 47, 39, 46, 64, 34],
+        Lamentacoes: [22, 22, 66, 22, 22],
+        Ezequiel: [28, 10, 27, 17, 17, 14, 27, 18, 11, 22, 25, 28, 23, 23, 8, 63, 24, 32, 14, 49, 32, 31, 49, 27, 17, 21, 36, 26, 21, 26, 18, 32, 33, 31, 15, 38, 28, 23, 29, 49, 26, 24, 27, 31, 25, 24, 23, 35],
+        Daniel: [21, 49, 30, 37, 31, 28, 28, 27, 27, 21, 45, 13],
+        Oseias: [11, 23, 5, 19, 15, 11, 16, 14, 17, 15, 12, 14, 16, 9],
+        Joel: [20, 32, 21],
+        Amos: [15, 16, 15, 13, 27, 14, 17, 14, 15],
+        Obadias: [21], // Usando 'Obadias'
+        Jonas: [17, 10, 10, 11],
+        Miqueias: [16, 13, 12, 13, 15, 16, 20],
+        Naum: [15, 13, 19],
+        Habacuque: [17, 20, 19], // Usando 'Habacuque'
+        Sofonias: [18, 15, 20], // Usando 'Sofonias'
+        Ageu: [15, 23],
+        Zacarias: [21, 13, 10, 14, 11, 15, 14, 23, 17, 12, 17, 14, 9, 21],
+        Malaquias: [14, 17, 18, 6],
+        Mateus: [25, 23, 17, 25, 48, 34, 29, 34, 38, 42, 30, 50, 58, 36, 39, 28, 27, 35, 30, 34, 46, 46, 39, 51, 46, 75, 66, 20],
+        Marcos: [45, 28, 35, 41, 43, 56, 37, 38, 50, 52, 33, 44, 37, 72, 47, 20],
+        Lucas: [80, 52, 38, 44, 39, 49, 50, 56, 62, 42, 54, 59, 35, 35, 32, 31, 37, 43, 48, 47, 38, 71, 56, 53],
+        Joao: [51, 25, 36, 54, 47, 71, 53, 59, 41, 42, 57, 50, 38, 31, 27, 33, 26, 40, 42, 31, 25], // Chave 'Joao'
+        Atos: [26, 47, 26, 37, 42, 15, 60, 40, 43, 48, 30, 25, 52, 28, 41, 40, 34, 28, 41, 38, 40, 30, 35, 27, 27, 32, 44, 31],
+        Romanos: [32, 29, 31, 25, 21, 23, 25, 39, 33, 21, 36, 21, 14, 23, 33, 27],
+        '1Corintios': [31, 16, 23, 21, 13, 20, 40, 13, 27, 33, 34, 31, 13, 40, 58, 24], // Atenção à chave '1Corintios'
+        '2Corintios': [24, 17, 18, 18, 21, 18, 16, 24, 15, 18, 33, 21, 14], // Atenção à chave '2Corintios'
+        Galatas: [24, 21, 29, 31, 26, 18],
+        Efesios: [23, 22, 21, 32, 33, 24],
+        Filipenses: [30, 30, 21, 23],
+        Colossenses: [29, 23, 25, 18],
+        '1Tessalonicenses': [10, 20, 13, 18, 28], // Atenção à chave '1Tessalonicenses'
+        '2Tessalonicenses': [12, 17, 18], // Atenção à chave '2Tessalonicenses'
+        '1Timoteo': [20, 15, 16, 16, 25, 21], // Atenção à chave '1Timoteo'
+        '2Timoteo': [18, 26, 17, 22], // Atenção à chave '2Timoteo'
+        Tito: [16, 15, 15],
+        Filemom: [25],
+        Hebreus: [14, 18, 19, 16, 14, 20, 28, 13, 28, 39, 40, 29, 25],
+        Tiago: [27, 26, 18, 17, 20],
+        '1Pedro': [25, 25, 22, 19, 14], // Atenção à chave '1Pedro'
+        '2Pedro': [21, 22, 18], // Atenção à chave '2Pedro'
+        '1Joao': [10, 29, 24, 21, 21], // Atenção à chave '1Joao'
+        '2Joao': [13], // Atenção à chave '2Joao'
+        '3Joao': [14], // Atenção à chave '3Joao'
+        Judas: [25],
+        Apocalipse: [20, 29, 22, 11, 14, 17, 17, 13, 21, 11, 19, 17, 18, 20, 8, 21, 18, 24, 21, 15, 27, 21]
+    };
+    const LIVROS = Object.keys(BIBLIA);
+
     const slideHTML = `
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Slide Bíblico - ${livroAtual} ${capituloAtual}:${versiculoAtual}</title>
-    <style>
-        /* Reset básico e Estilos Globais */
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        html, body {
-            height: 100%; /* Garante que html e body ocupem toda a altura */
-            overflow: hidden; /* Previne barras de rolagem no body */
-        }
-        body {
-            font-family: 'Arial Black', 'Arial Bold', Gadget, sans-serif;
-            background-color: #121212;
-            color: #ffffff;
-            display: flex; /* Usa flexbox para layout geral */
-            flex-direction: column; /* Empilha header, content, navigation */
-            min-height: 100vh; /* Garante que o body ocupe toda a altura da viewport */
-            text-align: center;
-        }
-
-        /* Marca d'água */
-        #watermark {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background-image: url('../img/biblia.png'); /* Verifique se este caminho está correto */
-            background-size: cover;
-            background-repeat: no-repeat;
-            background-position: center;
-            opacity: 0.15;
-            z-index: -1; /* Fica atrás de todo o conteúdo */
-        }
-
-        /* Cabeçalho */
-        #header {
-            padding: 15px 0;
-            font-size: 2.5vmax; /* Tamanho responsivo */
-            color: #f1c40f;
-            text-transform: uppercase;
-            background-color: rgba(0,0,0,0.7);
-            width: 100%;
-            flex-shrink: 0; /* Não permite que o header encolha */
-            z-index: 10; /* Garante que fique acima da marca d'água */
-        }
-
-        /* Área de Conteúdo Principal */
-        #content {
-            flex: 1; /* Ocupa todo o espaço vertical restante */
-            display: flex;
-            flex-direction: column; /* Empilha título e texto */
-            align-items: center; /* Centraliza horizontalmente */
-            justify-content: flex-start; /* Alinha o título no topo */
-            padding: 20px;
-            width: 100%;
-            overflow-y: auto; /* Permite rolagem se o conteúdo for muito grande */
-            z-index: 5; /* Acima da marca d'água */
-        }
-
-        /* Classe base para elementos de versículo (título e texto) */
-        .verse-content {
-            display: none; /* Oculto por padrão */
-            width: 100%;
-            max-width: 90%; /* Limita largura para melhor leitura */
-            margin-left: auto;
-            margin-right: auto;
-            text-align: center;
-        }
-
-        /* Classe para mostrar o par de versículo ativo */
-        .verse-content.active {
-            display: block; /* Torna visível */
-            animation: fadeIn 0.5s ease-in-out;
-        }
-
-        /* Estilo para o título do versículo (conteúdo do <strong>) */
-        .verse-title {
-            font-size: 2.0vmax; /* Tamanho um pouco menor que o texto */
-            color: #f1c40f;
-            margin-bottom: 30px; /* Aumenta espaço abaixo do título */
-            font-weight: bold;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            font-style: normal; /* Título geralmente não itálico */
-            flex-shrink: 0; /* Não encolhe */
-        }
-         /* Oculta a div do título se ela estiver vazia (sem <strong>) */
-        .verse-title:empty {
-            display: none;
-            margin-bottom: 0;
-        }
-
-        /* Estilo para o texto principal do versículo */
-        .verse-text {
-            font-size: 2.8vmax; /* Tamanho principal do texto - Ajuste conforme necessário */
-            line-height: 1.6; /* Melhora legibilidade */
-            font-style: italic;
-            /* Centralização Vertical Dinâmica: */
-            margin-top: auto;    /* Empurra para baixo */
-            margin-bottom: auto; /* Empurra para cima */
-            padding-bottom: 30px; /* Espaço extra abaixo antes da navegação */
-            flex-grow: 0; /* Não estica */
-            flex-shrink: 0; /* Não encolhe */
-        }
-
-        /* Animação de Fade-in */
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(15px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-
-        /* Navegação Inferior */
-        #navigation {
-            padding: 15px 0;
-            background-color: rgba(0,0,0,0.7);
-            width: 100%;
-            flex-shrink: 0; /* Não permite que a navegação encolha */
-            z-index: 1000; /* Garante que fique acima de tudo */
-            display: flex;
-            justify-content: center;
-            gap: 20px; /* Espaço entre os botões */
-        }
-
-        /* Botões de Navegação */
-        .nav-button {
-            padding: 12px 25px;
-            font-size: 1.2rem;
-            background-color: #f1c40f;
-            color: #000;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            transition: background-color 0.3s, opacity 0.3s;
-            font-weight: bold;
-            margin: 0 10px;
-            font-family: 'Arial', sans-serif; /* Fonte mais padrão para botões */
-            font-style: normal; /* Remove itálico dos botões */
-        }
-        .nav-button:hover:not(:disabled) {
-            background-color: #d4ac0d; /* Cor um pouco mais escura no hover */
-        }
-        .nav-button:disabled {
-            background-color: #555; /* Cinza para desabilitado */
-            color: #999;
-            cursor: not-allowed;
-            opacity: 0.7;
-        }
-    </style>
+<meta charset="UTF-8">
+<title>Slide Bíblico - ${livroCorrigido} ${capituloAtual}:${versiculoAtual}</title>
+<style>
+    body {
+        font-family: Arial Black, Arial, sans-serif;
+        background: #121212;
+        color: #fff;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+        overflow: hidden; /* Mantém oculto o overflow */
+    }
+    #header {
+        padding: 15px 0;
+        font-size: 2.5vmax;
+        color: #f1c40f;
+        text-transform: uppercase;
+        background: rgba(0,0,0,0.7);
+        width: 100%;
+        font-weight: bold;
+        text-align: center; /* Centraliza o texto */
+    }
+    #content {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 20px;
+        width: 100%;
+    }
+    .verse-content {
+        display: none;
+        width: 100%;
+        max-width: 90%;
+        margin: auto;
+        text-align: center;
+    }
+    .verse-content.active {
+        display: block;
+    }
+    .verse-title {
+        font-size: 2.8vmax;
+        color: #f1c40f;
+        margin-top: -10px; /* Ajuste para mover para cima ou para baixo */
+        margin-bottom: 30px;
+        font-weight: bold;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+    }
+    .verse-title:empty {
+        display: none;
+        margin-bottom: 0;
+    }
+    .verse-text {
+        font-size: 3.05vmax;
+        line-height: 1.0;
+        font-style: italic;
+        margin-top: auto;
+        margin-bottom: auto;
+        padding-bottom: 30px;
+    }
+    #navigation {
+        padding: 15px 0;
+        background: rgba(0, 0, 0, 0.7);
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+    }
+    .nav-button {
+        padding: 12px 25px;
+        font-size: 1.2rem;
+        background: #f1c40f;
+        color: #000;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-weight: bold;
+        margin: 0 10px;
+    }
+    .nav-button:disabled {
+        background: #555;
+        color: #999;
+        cursor: not-allowed;
+        opacity: 0.7;
+    }
+    .nav-button:hover:not(:disabled) {
+        background: #d4ac0d;
+    }
+</style>
 </head>
 <body>
-    <div id="watermark"></div>
-    <div id="header">${livroAtual.toUpperCase()} ${capituloAtual}:${versiculoAtual}</div>
-    <div id="content">
-        <!-- Versículos serão carregados aqui pelo JavaScript -->
-        <div style="padding: 20px; text-align: center;">Carregando...</div>
-    </div>
-    <div id="navigation">
-        <button class="nav-button" id="prev-btn" title="Versículo/Capítulo Anterior (Seta Esquerda)">‹ Anterior</button>
-        <button class="nav-button" id="next-btn" title="Próximo Versículo/Capítulo (Seta Direita)">Próximo ›</button>
-    </div>
+<div id="header">${livroCorrigido.toUpperCase()} ${capituloAtual}:${versiculoAtual}</div>
+<div id="content"><div style="padding:20px;">Carregando...</div></div>
+<div id="navigation">
+    <button class="nav-button" id="prev-btn">‹ Anterior</button>
+    <button class="nav-button" id="next-btn">Próximo ›</button>
+</div>
+<script>
+const BIBLIA = ${JSON.stringify(BIBLIA)};
+const LIVROS = ${JSON.stringify(LIVROS)};
+const config = {
+    livro: '${livroCorrigido}',
+    capitulo: ${capituloAtual},
+    versiculo: ${versiculoAtual},
+    versiculosNodes: [],
+    totalVersiculos: 0
+};
+const elements = {
+    header: document.getElementById('header'),
+    content: document.getElementById('content'),
+    prevBtn: document.getElementById('prev-btn'),
+    nextBtn: document.getElementById('next-btn')
+};
 
-    <script>
-        // --- Configuração Inicial ---
-        const config = {
-            livro: '${livroAtual}',
-            capitulo: ${capituloAtual},
-            versiculo: ${versiculoAtual},
-            versiculosNodes: [], // Armazena os nós DOM originais dos versículos
-            totalVersiculos: 0 // Total de versículos no capítulo atual
-        };
-
-        // --- Referências aos Elementos DOM ---
-        const elements = {
-            header: document.getElementById('header'),
-            content: document.getElementById('content'),
-            prevBtn: document.getElementById('prev-btn'),
-            nextBtn: document.getElementById('next-btn'),
-            body: document.body // Referência ao body para forçar reflow se necessário
-        };
-
-        // --- Funções Principais ---
-
-        // Carrega os versículos do capítulo especificado
-        async function loadChapter() {
-            console.log(\`Carregando: \${config.livro} \${config.capitulo}\`);
-            setLoadingState(true); // Mostra estado de carregamento
-
-            try {
-                // IMPORTANTE: Ajuste o caminho se necessário. Este caminho é relativo
-                // à localização do ARQUIVO HTML PRINCIPAL que chama abrirJanelaSlide.
-                const response = await fetch(\`../version/arc/\${config.livro}/\${config.capitulo}.html\`);
-
-                if (!response.ok) {
-                    throw new Error(\`Capítulo \${config.capitulo} do livro '\${config.livro}' não encontrado (status: \${response.status})\`);
-                }
-
-                const html = await response.text();
-                const parser = new DOMParser();
-                const doc = parser.parseFromString(html, 'text/html');
-
-                // Extrai todos os elementos que representam versículos (ajuste o seletor se necessário)
-                config.versiculosNodes = Array.from(doc.querySelectorAll('[id^="versiculo-"]'));
-                config.totalVersiculos = config.versiculosNodes.length;
-
-                console.log(\`Encontrados \${config.totalVersiculos} versículos.\`);
-
-                if (config.totalVersiculos === 0) {
-                    // Considerar se isso é um erro ou apenas um capítulo vazio
-                     console.warn('Nenhum versículo encontrado neste capítulo.');
-                    // Poderia exibir uma mensagem "Capítulo sem versículos."
-                    elements.content.innerHTML = '<div class="verse-content active" style="margin-top: auto; margin-bottom:auto;">Capítulo vazio ou não encontrado.</div>';
-                    config.versiculo = 1; // Reset para caso navegue para cá
-                } else {
-                     // Ajusta o versículo atual se ele for inválido para o capítulo carregado
-                    if (config.versiculo < 1) config.versiculo = 1;
-                    if (config.versiculo > config.totalVersiculos) config.versiculo = config.totalVersiculos;
-
-                    renderVerses(); // Cria os elementos HTML para os versículos
-                    showCurrentVerse(); // Mostra o versículo correto
-                }
-
-            } catch (error) {
-                console.error('Erro ao carregar capítulo:', error);
-                elements.content.innerHTML = \`
-                    <div class="verse-content active" style="color: #e74c3c; margin-top: auto; margin-bottom: auto; font-style: normal; font-size: 1.5rem;">
-                        <strong>Erro ao carregar:</strong><br>
-                        \${error.message}<br><br>
-                        Tentando carregar: Livro: \${config.livro}, Capítulo: \${config.capitulo}
-                    </div>
-                \`;
-                 // Desabilita botões em caso de erro grave
-                 elements.prevBtn.disabled = true;
-                 elements.nextBtn.disabled = true;
-            } finally {
-                setLoadingState(false); // Esconde estado de carregamento
-                updateNavigationButtons(); // Atualiza estado dos botões após carregar
-            }
+async function loadChapter() {
+    setLoadingState(true);
+    try {
+        const response = await fetch(\`../version/arc/\${config.livro}/\${config.capitulo}.html\`);
+        if (!response.ok) throw new Error(\`Capítulo \${config.capitulo} do livro '\${config.livro}' não encontrado (status: \${response.status})\`);
+        const html = await response.text();
+        const parser = new DOMParser();
+        const doc = parser.parseFromString(html, 'text/html');
+        config.versiculosNodes = Array.from(doc.querySelectorAll('[id^="versiculo-"]'));
+        config.totalVersiculos = config.versiculosNodes.length;
+        if (config.totalVersiculos === 0) {
+            elements.content.innerHTML = '<div class="verse-content active" style="margin-top:auto;margin-bottom:auto;">Capítulo vazio ou não encontrado.</div>';
+            config.versiculo = 1;
+        } else {
+            if (config.versiculo < 1) config.versiculo = 1;
+            if (config.versiculo > config.totalVersiculos) config.versiculo = config.totalVersiculos;
+            renderVerses();
+            showCurrentVerse();
         }
-
-        // Define o estado visual de carregamento
-        function setLoadingState(isLoading) {
-            if (isLoading) {
-                elements.content.innerHTML = '<div class="verse-content active" style="margin-top: auto; margin-bottom: auto; font-style: normal;">Carregando...</div>';
-                elements.prevBtn.disabled = true;
-                elements.nextBtn.disabled = true;
-            }
-             // Não limpa o conteúdo aqui no 'false', pois loadChapter/renderVerses farão isso.
-        }
-
-        // Renderiza os elementos HTML para todos os versículos (inicialmente ocultos)
-        function renderVerses() {
-            elements.content.innerHTML = ''; // Limpa conteúdo anterior
-            config.versiculosNodes.forEach((verseNode, index) => {
-                const verseNumber = index + 1;
-                const verseIdClass = \`verse-num-\${verseNumber}\`; // Classe para identificar o par
-
-                const strongElement = verseNode.querySelector('strong');
-                let titleHTML = '';
-                let textHTML = '';
-
-                 // Clona o nó para manipular sem afetar o original em config.versiculosNodes
-                 const tempDiv = verseNode.cloneNode(true);
-
-                if (strongElement) {
-                    // Pega o HTML do strong original para o título
-                    titleHTML = strongElement.outerHTML;
-                    // Remove o strong do nó clonado para obter o texto restante
-                    const strongInTemp = tempDiv.querySelector('strong');
-                    if (strongInTemp) {
-                         strongInTemp.parentNode.removeChild(strongInTemp);
-                    }
-                }
-                 // O texto restante é o innerHTML do nó clonado (sem o strong)
-                 textHTML = tempDiv.innerHTML.trim();
-
-                // Cria elemento para o TÍTULO (conteúdo do strong)
-                const titleElement = document.createElement('div');
-                titleElement.className = \`verse-title verse-content \${verseIdClass}\`; // Classes: estilo, controle visibilidade, identificador
-                titleElement.innerHTML = titleHTML;
-                elements.content.appendChild(titleElement);
-
-                // Cria elemento para o TEXTO principal do versículo
-                const textElement = document.createElement('div');
-                textElement.className = \`verse-text verse-content \${verseIdClass}\`; // Classes: estilo, controle visibilidade, identificador
-                textElement.innerHTML = textHTML;
-                elements.content.appendChild(textElement);
-            });
-        }
-
-        // Mostra o versículo atual e esconde os outros
-        function showCurrentVerse() {
-            const currentVerseClass = \`verse-num-\${config.versiculo}\`;
-            console.log(\`Mostrando versículo: \${config.versiculo} (classe: \${currentVerseClass})\`);
-
-            // 1. Oculta TODOS os elementos de versículo (remove .active)
-            document.querySelectorAll('.verse-content').forEach(v => {
-                v.classList.remove('active');
-            });
-
-            // 2. Mostra APENAS os elementos do versículo ATUAL (adiciona .active)
-            const currentElements = document.querySelectorAll('.' + currentVerseClass);
-            if (currentElements.length > 0) {
-                currentElements.forEach(el => el.classList.add('active'));
-                 // Força reflow para garantir reinício da animação
-                 elements.content.offsetHeight;
-            } else {
-                 console.warn(\`Elementos para o versículo \${config.versiculo} não encontrados.\`);
-                 // Pode ser que o capítulo esteja vazio ou houve erro no renderVerses
-                 if (config.totalVersiculos === 0) {
-                     elements.content.innerHTML = '<div class="verse-content active" style="margin-top: auto; margin-bottom:auto;">Capítulo vazio ou não encontrado.</div>';
-                 }
-            }
-
-            // 3. Atualiza o cabeçalho e o título da janela
-            const headerText = \`\${config.livro.toUpperCase()} \${config.capitulo}:\${config.versiculo}\`;
-            elements.header.textContent = headerText;
-            document.title = \`Slide Bíblico - \${headerText}\`;
-
-             // 4. Atualiza botões (feito em updateNavigationButtons chamado após showCurrentVerse ou em finally)
-             // updateNavigationButtons(); // Chamado após operações assíncronas ou de navegação
-        }
-
-         // Atualiza o estado (habilitado/desabilitado) dos botões de navegação
-        function updateNavigationButtons() {
-            // Botão Anterior: Desabilitado se for o primeiro versículo do primeiro capítulo (assumindo que o primeiro livro não tem capítulo 0)
-            // TODO: Precisaria de uma lista de livros para saber qual é o primeiro livro. Por enquanto, só verifica cap 1, ver 1.
-            elements.prevBtn.disabled = (config.capitulo <= 1 && config.versiculo <= 1);
-
-            // Botão Próximo: Desabilitado se for o último versículo do capítulo ATUAL.
-            // A lógica para ir ao próximo capítulo cuidará de reabilitá-lo.
-            // Também desabilita se o total de versículos for 0 (capítulo vazio/erro).
-            elements.nextBtn.disabled = (config.totalVersiculos === 0 || config.versiculo >= config.totalVersiculos);
-
-            // Log de estado dos botões para debug
-            // console.log(\`Botões atualizados: Prev: \${elements.prevBtn.disabled}, Next: \${elements.nextBtn.disabled}\`);
-        }
-
-        // --- Funções de Navegação ---
-
-        function nextVerse() {
-            if (config.versiculo < config.totalVersiculos) {
-                config.versiculo++;
-                showCurrentVerse();
-                updateNavigationButtons(); // Atualiza botões após mudar versículo
-            } else {
-                // Se está no último versículo, tenta ir para o próximo capítulo
-                nextChapter();
-            }
-        }
-
-        async function nextChapter() {
-            console.log("Tentando ir para o próximo capítulo...");
-            config.capitulo++;
-            config.versiculo = 1; // Começa no primeiro versículo do novo capítulo
-            await loadChapter(); // Carrega o novo capítulo (que chamará showCurrentVerse e updateNavigationButtons)
-        }
-
-        function prevVerse() {
-            if (config.versiculo > 1) {
-                config.versiculo--;
-                showCurrentVerse();
-                updateNavigationButtons(); // Atualiza botões após mudar versículo
-            } else {
-                // Se está no primeiro versículo, tenta ir para o capítulo anterior
-                prevChapter();
-            }
-        }
-
-        async function prevChapter() {
-            if (config.capitulo > 1) {
-                console.log("Tentando ir para o capítulo anterior...");
-                config.capitulo--;
-                config.versiculo = 1; // Vai para o primeiro versículo do capítulo anterior
-                // Idealmente, aqui carregaríamos o capítulo e DEPOIS definiríamos
-                // config.versiculo para o ÚLTIMO versículo, mas isso requer saber
-                // o total de versículos ANTES de chamar showCurrentVerse.
-                // Vamos manter a simplicidade indo para o versículo 1 por enquanto.
-                await loadChapter(); // Carrega o capítulo anterior
-            } else {
-                console.log("Já está no primeiro capítulo.");
-                // O botão 'prev' já deve estar desabilitado pela updateNavigationButtons
-            }
-        }
-
-        // --- Event Listeners ---
-        elements.nextBtn.addEventListener('click', nextVerse);
-        elements.prevBtn.addEventListener('click', prevVerse);
-
-        // Navegação por teclado (Setas Esquerda/Direita)
-        document.addEventListener('keydown', (e) => {
-            // Ignora eventos se um input/textarea estiver focado (não temos aqui, mas é boa prática)
-            // if (document.activeElement.tagName === 'INPUT' || document.activeElement.tagName === 'TEXTAREA') {
-            //     return;
-            // }
-
-            if (e.key === 'ArrowRight' || e.key === 'PageDown') {
-                // Só avança se o botão não estiver desabilitado
-                if (!elements.nextBtn.disabled) {
-                    nextVerse();
-                }
-            } else if (e.key === 'ArrowLeft' || e.key === 'PageUp') {
-                 // Só volta se o botão não estiver desabilitado
-                if (!elements.prevBtn.disabled) {
-                    prevVerse();
-                }
-            } else if (e.key === 'Escape') {
-                // Fecha a janela com a tecla Esc
-                 window.close();
-             }
-        });
-
-         // Listener para fechar a janela se a janela principal for fechada (opcional)
-         // window.addEventListener('beforeunload', () => {
-         //    // Código para fechar esta janela slide, se necessário
-         // });
-
-
-        // --- Inicialização ---
-        loadChapter(); // Carrega o capítulo inicial quando o script roda
-
-    </script>
-</body>
-</html>
-    `;
-
-    // Escreve o conteúdo na janela
-    // Usar document.write é comum aqui, mas pode ter implicações se chamado após o fechamento do fluxo inicial.
-    // Abrir, escrever e fechar o documento da janela é a abordagem padrão para popups criados assim.
-    window.janelaSlide.document.open();
-    window.janelaSlide.document.write(slideHTML);
-    window.janelaSlide.document.close(); // Essencial para finalizar o carregamento do DOM da nova janela
-
-    // Foca na janela recém-criada ou atualizada
-    window.janelaSlide.focus();
+    } catch (error) {
+        elements.content.innerHTML = \`
+            <div class="verse-content active" style="color: #e74c3c; margin-top:auto; margin-bottom:auto; font-size:1.5rem;">
+                <strong>Erro ao carregar:</strong><br>
+                \${error.message}<br><br>
+                Tentando carregar: Livro: \${config.livro}, Capítulo: \${config.capitulo}
+            </div>
+        \`;
+        elements.prevBtn.disabled = true;
+        elements.nextBtn.disabled = true;
+    } finally {
+        setLoadingState(false);
+        updateNavigationButtons();
+        updateHeader();
+    }
 }
 
-// Exemplo de como chamar a função (coloque isso no seu HTML principal, dentro de um script ou evento)
-// Certifique-se de que os valores de livro, capítulo e versículo são válidos
-// document.getElementById('botao-abrir-slide').addEventListener('click', () => {
-//     abrirJanelaSlide('Genesis', 1, 1); // Exemplo: Abrir Gênesis 1:1
-// });
+function setLoadingState(isLoading) {
+    if (isLoading) {
+        elements.content.innerHTML = '<div class="verse-content active" style="margin-top:auto;margin-bottom:auto;">Carregando...</div>';
+        elements.prevBtn.disabled = true;
+        elements.nextBtn.disabled = true;
+    }
+}
+
+function renderVerses() {
+    elements.content.innerHTML = '';
+    config.versiculosNodes.forEach((verseNode, index) => {
+        const verseNumber = index + 1;
+        const verseIdClass = \`verse-num-\${verseNumber}\`;
+        const strongElement = verseNode.querySelector('strong');
+        let titleHTML = '';
+        let textHTML = '';
+        const tempDiv = verseNode.cloneNode(true);
+        if (strongElement) {
+            titleHTML = strongElement.outerHTML;
+            const strongInTemp = tempDiv.querySelector('strong');
+            if (strongInTemp) strongInTemp.parentNode.removeChild(strongInTemp);
+        }
+        textHTML = tempDiv.innerHTML.trim();
+        const titleElement = document.createElement('div');
+        titleElement.className = \`verse-title verse-content \${verseIdClass}\`;
+        titleElement.innerHTML = titleHTML;
+        elements.content.appendChild(titleElement);
+        const textElement = document.createElement('div');
+        textElement.className = \`verse-text verse-content \${verseIdClass}\`;
+        textElement.innerHTML = textHTML;
+        elements.content.appendChild(textElement);
+    });
+}
+
+function showCurrentVerse() {
+    const currentVerseClass = \`verse-num-\${config.versiculo}\`;
+    document.querySelectorAll('.verse-content').forEach(v => v.classList.remove('active'));
+    const currentElements = document.querySelectorAll('.' + currentVerseClass);
+    if (currentElements.length > 0) {
+        currentElements.forEach(el => el.classList.add('active'));
+    }
+    updateHeader();
+    updateNavigationButtons();
+}
+
+function avancar() {
+    const livroIndex = LIVROS.indexOf(config.livro);
+    const capitulosLivro = BIBLIA[config.livro];
+    if (!capitulosLivro) return;
+    const totalCapitulos = capitulosLivro.length;
+    const totalVersiculosCapitulo = capitulosLivro[config.capitulo - 1];
+    if (config.versiculo < totalVersiculosCapitulo) {
+        config.versiculo++;
+        showCurrentVerse();
+    } else if (config.capitulo < totalCapitulos) {
+        config.capitulo++;
+        config.versiculo = 1;
+        loadChapter();
+    } else if (livroIndex < LIVROS.length - 1) {
+        config.livro = LIVROS[livroIndex + 1];
+        config.capitulo = 1;
+        config.versiculo = 1;
+        loadChapter();
+    }
+}
+
+function voltar() {
+    const livroIndex = LIVROS.indexOf(config.livro);
+    const capitulosLivro = BIBLIA[config.livro];
+    if (!capitulosLivro) return;
+    if (config.versiculo > 1) {
+        config.versiculo--;
+        showCurrentVerse();
+    } else if (config.capitulo > 1) {
+        config.capitulo--;
+        config.versiculo = BIBLIA[config.livro][config.capitulo - 1];
+        loadChapter();
+    } else if (livroIndex > 0) {
+        config.livro = LIVROS[livroIndex - 1];
+        config.capitulo = BIBLIA[config.livro].length;
+        config.versiculo = BIBLIA[config.livro][config.capitulo - 1];
+        loadChapter();
+    }
+}
+
+function updateNavigationButtons() {
+    const livroIndex = LIVROS.indexOf(config.livro);
+    const capitulosLivro = BIBLIA[config.livro];
+    if (!capitulosLivro) {
+        elements.prevBtn.disabled = true;
+        elements.nextBtn.disabled = true;
+        return;
+    }
+    const totalCapitulos = capitulosLivro.length;
+    const totalVersiculosCapitulo = capitulosLivro[config.capitulo - 1];
+    elements.prevBtn.disabled = (livroIndex === 0 && config.capitulo === 1 && config.versiculo === 1);
+    elements.nextBtn.disabled = (livroIndex === LIVROS.length - 1 && config.capitulo === totalCapitulos && config.versiculo === totalVersiculosCapitulo);
+}
+
+function updateHeader() {
+    elements.header.textContent = \`\${config.livro.toUpperCase()} \${config.capitulo}:\${config.versiculo}\`;
+    document.title = \`Slide Bíblico - \${config.livro} \${config.capitulo}:\${config.versiculo}\`;
+}
+
+elements.nextBtn.onclick = avancar;
+elements.prevBtn.onclick = voltar;
+document.addEventListener('keydown', function(e) {
+    if (e.key === 'ArrowRight') avancar();
+    if (e.key === 'ArrowLeft') voltar();
+});
+
+loadChapter();
+</script>
+</body>
+</html>
+`;
+
+    window.janelaSlide.document.open();
+    window.janelaSlide.document.write(slideHTML);
+    window.janelaSlide.document.close();
+}
 
 
 

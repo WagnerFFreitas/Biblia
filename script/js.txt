@@ -1,3 +1,493 @@
+function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
+    // Corrige a capitalização do livro para bater com o objeto BIBLIA
+    const livroCorrigido = capitalizeLivro(livroAtual);
+
+    if (window.janelaSlide && !window.janelaSlide.closed) {
+        window.janelaSlide.focus();
+        return;
+    }
+
+    const largura = window.screen.availWidth;
+    const altura = window.screen.availHeight;
+    const features = `width=${largura},height=${altura},menubar=no,toolbar=no,location=no,resizable=yes,scrollbars=yes`;
+
+    window.janelaSlide = window.open('', 'JanelaSlide', features);
+
+    if (!window.janelaSlide) {
+        alert("A abertura da janela de slide foi bloqueada pelo navegador. Por favor, permita pop-ups para este site.");
+        return;
+    }
+
+    // Objeto BIBLIA dentro do HTML da janela!
+    const BIBLIA = {
+        Genesis: [31, 25, 24, 26, 32, 22, 24, 22, 29, 32, 32, 20, 18, 24, 21, 16, 27, 33, 38, 18, 34, 24, 20, 67, 34, 35, 46, 22, 35, 43, 55, 32, 20, 31, 29, 43, 36, 30, 23, 23, 57, 38, 34, 34, 28, 34, 31, 22, 33, 26],
+        Exodus: [22, 25, 22, 31, 23, 30, 25, 32, 35, 29, 10, 51, 22, 31, 27, 36, 16, 27, 25, 26, 36, 31, 33, 18, 40, 37, 21, 43, 46, 38, 18, 35, 23, 35, 35, 38, 29, 31, 43, 38]
+        // ...adicione mais livros
+    };
+    const LIVROS = Object.keys(BIBLIA);
+
+    const slideHTML = `
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Slide Bíblico - ${livroCorrigido} ${capituloAtual}:${versiculoAtual}</title>
+<style>
+    body { font-family: Arial Black, Arial, sans-serif; background: #121212; color: #fff; margin:0; padding:0; display:flex; flex-direction:column; min-height:100vh; }
+    #header { padding: 15px 0; font-size: 2.5vmax; color: #f1c40f; text-transform: uppercase; background: rgba(0,0,0,0.7); width:100%; font-weight: bold;  text-align: center; /* Adicione esta linha para centralizar o texto */}
+    #content { flex:1; display:flex; flex-direction:column; align-items:center; justify-content:center; padding:20px; width:100%; overflow-y:auto; }
+    .verse-content { display:none; width:100%; max-width:90%; margin:auto; text-align:center; }
+    .verse-content.active { display:block; }
+    .verse-title { font-size:2.0vmax; color:#f1c40f;margin-top: -10px; /* Ajuste para mover para cima ou para baixo */ margin-bottom:30px; font-weight:bold; text-transform:uppercase; letter-spacing:1px; }
+    .verse-title:empty { display:none; margin-bottom:0; }
+    .verse-text { font-size:2.8vmax; line-height:1.6; font-style:italic; margin-top:auto; margin-bottom:auto; padding-bottom:30px; }
+    #navigation { padding:15px 0; background:rgba(0,0,0,0.7); width:100%; display:flex; justify-content:center; gap:20px; }
+    .nav-button { padding:12px 25px; font-size:1.2rem; background:#f1c40f; color:#000; border:none; border-radius:5px; cursor:pointer; font-weight:bold; margin:0 10px; }
+    .nav-button:disabled { background:#555; color:#999; cursor:not-allowed; opacity:0.7; }
+    .nav-button:hover:not(:disabled) { background:#d4ac0d; }
+</style>
+</head>
+<body>
+<div id="header">${livroCorrigido.toUpperCase()} ${capituloAtual}:${versiculoAtual}</div>
+<div id="content"><div style="padding:20px;">Carregando...</div></div>
+<div id="navigation">
+    <button class="nav-button" id="prev-btn">‹ Anterior</button>
+    <button class="nav-button" id="next-btn">Próximo ›</button>
+</div>
+<script>
+const BIBLIA = ${JSON.stringify(BIBLIA)};
+const LIVROS = ${JSON.stringify(LIVROS)};
+const config = {
+    livro: '${livroCorrigido}',
+    capitulo: ${capituloAtual},
+    versiculo: ${versiculoAtual},
+    versiculosNodes: [],
+    totalVersiculos: 0
+};
+const elements = {
+    header: document.getElementById('header'),
+    content: document.getElementById('content'),
+    prevBtn: document.getElementById('prev-btn'),
+    nextBtn: document.getElementById('next-btn')
+};
+
+async function loadChapter() {
+    setLoadingState(true);
+    try {
+        const response = await fetch(\`../version/arc/\${config.livro}/\${config.capitulo}.html\`);
+        if (!response.ok) throw new Error(\`Capítulo \${config.capitulo} do livro '\${config.livro}' não encontrado (status: \${response.status})\`);
+        const html = await response.text();
+        const parser = new DOMParser();
+        const doc = parser.parseFromString(html, 'text/html');
+        config.versiculosNodes = Array.from(doc.querySelectorAll('[id^="versiculo-"]'));
+        config.totalVersiculos = config.versiculosNodes.length;
+        if (config.totalVersiculos === 0) {
+            elements.content.innerHTML = '<div class="verse-content active" style="margin-top:auto;margin-bottom:auto;">Capítulo vazio ou não encontrado.</div>';
+            config.versiculo = 1;
+        } else {
+            if (config.versiculo < 1) config.versiculo = 1;
+            if (config.versiculo > config.totalVersiculos) config.versiculo = config.totalVersiculos;
+            renderVerses();
+            showCurrentVerse();
+        }
+    } catch (error) {
+        elements.content.innerHTML = \`
+            <div class="verse-content active" style="color: #e74c3c; margin-top:auto; margin-bottom:auto; font-size:1.5rem;">
+                <strong>Erro ao carregar:</strong><br>
+                \${error.message}<br><br>
+                Tentando carregar: Livro: \${config.livro}, Capítulo: \${config.capitulo}
+            </div>
+        \`;
+        elements.prevBtn.disabled = true;
+        elements.nextBtn.disabled = true;
+    } finally {
+        setLoadingState(false);
+        updateNavigationButtons();
+        updateHeader();
+    }
+}
+
+function setLoadingState(isLoading) {
+    if (isLoading) {
+        elements.content.innerHTML = '<div class="verse-content active" style="margin-top:auto;margin-bottom:auto;">Carregando...</div>';
+        elements.prevBtn.disabled = true;
+        elements.nextBtn.disabled = true;
+    }
+}
+
+function renderVerses() {
+    elements.content.innerHTML = '';
+    config.versiculosNodes.forEach((verseNode, index) => {
+        const verseNumber = index + 1;
+        const verseIdClass = \`verse-num-\${verseNumber}\`;
+        const strongElement = verseNode.querySelector('strong');
+        let titleHTML = '';
+        let textHTML = '';
+        const tempDiv = verseNode.cloneNode(true);
+        if (strongElement) {
+            titleHTML = strongElement.outerHTML;
+            const strongInTemp = tempDiv.querySelector('strong');
+            if (strongInTemp) strongInTemp.parentNode.removeChild(strongInTemp);
+        }
+        textHTML = tempDiv.innerHTML.trim();
+        const titleElement = document.createElement('div');
+        titleElement.className = \`verse-title verse-content \${verseIdClass}\`;
+        titleElement.innerHTML = titleHTML;
+        elements.content.appendChild(titleElement);
+        const textElement = document.createElement('div');
+        textElement.className = \`verse-text verse-content \${verseIdClass}\`;
+        textElement.innerHTML = textHTML;
+        elements.content.appendChild(textElement);
+    });
+}
+
+function showCurrentVerse() {
+    const currentVerseClass = \`verse-num-\${config.versiculo}\`;
+    document.querySelectorAll('.verse-content').forEach(v => v.classList.remove('active'));
+    const currentElements = document.querySelectorAll('.' + currentVerseClass);
+    if (currentElements.length > 0) {
+        currentElements.forEach(el => el.classList.add('active'));
+    }
+    updateHeader();
+    updateNavigationButtons();
+}
+
+function avancar() {
+    const livroIndex = LIVROS.indexOf(config.livro);
+    const capitulosLivro = BIBLIA[config.livro];
+    if (!capitulosLivro) return;
+    const totalCapitulos = capitulosLivro.length;
+    const totalVersiculosCapitulo = capitulosLivro[config.capitulo - 1];
+    if (config.versiculo < totalVersiculosCapitulo) {
+        config.versiculo++;
+        showCurrentVerse();
+    } else if (config.capitulo < totalCapitulos) {
+        config.capitulo++;
+        config.versiculo = 1;
+        loadChapter();
+    } else if (livroIndex < LIVROS.length - 1) {
+        config.livro = LIVROS[livroIndex + 1];
+        config.capitulo = 1;
+        config.versiculo = 1;
+        loadChapter();
+    }
+}
+
+function voltar() {
+    const livroIndex = LIVROS.indexOf(config.livro);
+    const capitulosLivro = BIBLIA[config.livro];
+    if (!capitulosLivro) return;
+    if (config.versiculo > 1) {
+        config.versiculo--;
+        showCurrentVerse();
+    } else if (config.capitulo > 1) {
+        config.capitulo--;
+        config.versiculo = BIBLIA[config.livro][config.capitulo - 1];
+        loadChapter();
+    } else if (livroIndex > 0) {
+        config.livro = LIVROS[livroIndex - 1];
+        config.capitulo = BIBLIA[config.livro].length;
+        config.versiculo = BIBLIA[config.livro][config.capitulo - 1];
+        loadChapter();
+    }
+}
+
+function updateNavigationButtons() {
+    const livroIndex = LIVROS.indexOf(config.livro);
+    const capitulosLivro = BIBLIA[config.livro];
+    if (!capitulosLivro) {
+        elements.prevBtn.disabled = true;
+        elements.nextBtn.disabled = true;
+        return;
+    }
+    const totalCapitulos = capitulosLivro.length;
+    const totalVersiculosCapitulo = capitulosLivro[config.capitulo - 1];
+    elements.prevBtn.disabled = (livroIndex === 0 && config.capitulo === 1 && config.versiculo === 1);
+    elements.nextBtn.disabled = (livroIndex === LIVROS.length - 1 && config.capitulo === totalCapitulos && config.versiculo === totalVersiculosCapitulo);
+}
+
+function updateHeader() {
+    elements.header.textContent = \`\${config.livro.toUpperCase()} \${config.capitulo}:\${config.versiculo}\`;
+    document.title = \`Slide Bíblico - \${config.livro} \${config.capitulo}:\${config.versiculo}\`;
+}
+
+elements.nextBtn.onclick = avancar;
+elements.prevBtn.onclick = voltar;
+document.addEventListener('keydown', function(e) {
+    if (e.key === 'ArrowRight') avancar();
+    if (e.key === 'ArrowLeft') voltar();
+});
+
+loadChapter();
+</script>
+</body>
+</html>
+`;
+
+    window.janelaSlide.document.open();
+    window.janelaSlide.document.write(slideHTML);
+    window.janelaSlide.document.close();
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
+    // Corrige a capitalização do livro para bater com o objeto BIBLIA
+    const livroCorrigido = capitalizeLivro(livroAtual);
+
+    if (window.janelaSlide && !window.janelaSlide.closed) {
+        window.janelaSlide.focus();
+        return;
+    }
+
+    const largura = window.screen.availWidth;
+    const altura = window.screen.availHeight;
+    const features = `width=${largura},height=${altura},menubar=no,toolbar=no,location=no,resizable=yes,scrollbars=yes`;
+
+    window.janelaSlide = window.open('', 'JanelaSlide', features);
+
+    if (!window.janelaSlide) {
+        alert("A abertura da janela de slide foi bloqueada pelo navegador. Por favor, permita pop-ups para este site.");
+        return;
+    }
+
+    // Objeto BIBLIA dentro do HTML da janela!
+    const BIBLIA = {
+        Genesis: [31, 25, 24, 26, 32, 22, 24, 22, 29, 32, 32, 20, 18, 24, 21, 16, 27, 33, 38, 18, 34, 24, 20, 67, 34, 35, 46, 22, 35, 43, 55, 32, 20, 31, 29, 43, 36, 30, 23, 23, 57, 38, 34, 34, 28, 34, 31, 22, 33, 26],
+        Exodus: [22, 25, 22, 31, 23, 30, 25, 32, 35, 29, 10, 51, 22, 31, 27, 36, 16, 27, 25, 26, 36, 31, 33, 18, 40, 37, 21, 43, 46, 38, 18, 35, 23, 35, 35, 38, 29, 31, 43, 38]
+        // ...adicione mais livros
+    };
+    const LIVROS = Object.keys(BIBLIA);
+
+    const slideHTML = `
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Slide Bíblico - ${livroCorrigido} ${capituloAtual}:${versiculoAtual}</title>
+<style>
+    body { font-family: Arial Black, Arial, sans-serif; background: #121212; color: #fff; margin:0; padding:0; display:flex; flex-direction:column; min-height:100vh; }
+    #header { padding: 15px 0; font-size: 2.5vmax; color: #f1c40f; text-transform: uppercase; background: rgba(0,0,0,0.7); width:100%; font-weight: bold; }
+    #content { flex:1; display:flex; flex-direction:column; align-items:center; justify-content:center; padding:20px; width:100%; overflow-y:auto; }
+    .verse-content { display:none; width:100%; max-width:90%; margin:auto; text-align:center; }
+    .verse-content.active { display:block; }
+    .verse-title { font-size:2.0vmax; color:#f1c40f; margin-bottom:30px; font-weight:bold; text-transform:uppercase; letter-spacing:1px; }
+    .verse-title:empty { display:none; margin-bottom:0; }
+    .verse-text { font-size:2.8vmax; line-height:1.6; font-style:italic; margin-top:auto; margin-bottom:auto; padding-bottom:30px; }
+    #navigation { padding:15px 0; background:rgba(0,0,0,0.7); width:100%; display:flex; justify-content:center; gap:20px; }
+    .nav-button { padding:12px 25px; font-size:1.2rem; background:#f1c40f; color:#000; border:none; border-radius:5px; cursor:pointer; font-weight:bold; margin:0 10px; }
+    .nav-button:disabled { background:#555; color:#999; cursor:not-allowed; opacity:0.7; }
+    .nav-button:hover:not(:disabled) { background:#d4ac0d; }
+</style>
+</head>
+<body>
+<div id="header">${livroCorrigido.toUpperCase()} ${capituloAtual}:${versiculoAtual}</div>
+<div id="content"><div style="padding:20px;">Carregando...</div></div>
+<div id="navigation">
+    <button class="nav-button" id="prev-btn">‹ Anterior</button>
+    <button class="nav-button" id="next-btn">Próximo ›</button>
+</div>
+<script>
+const BIBLIA = ${JSON.stringify(BIBLIA)};
+const LIVROS = ${JSON.stringify(LIVROS)};
+const config = {
+    livro: '${livroCorrigido}',
+    capitulo: ${capituloAtual},
+    versiculo: ${versiculoAtual},
+    versiculosNodes: [],
+    totalVersiculos: 0
+};
+const elements = {
+    header: document.getElementById('header'),
+    content: document.getElementById('content'),
+    prevBtn: document.getElementById('prev-btn'),
+    nextBtn: document.getElementById('next-btn')
+};
+
+async function loadChapter() {
+    setLoadingState(true);
+    try {
+        const response = await fetch(\`../version/arc/\${config.livro}/\${config.capitulo}.html\`);
+        if (!response.ok) throw new Error(\`Capítulo \${config.capitulo} do livro '\${config.livro}' não encontrado (status: \${response.status})\`);
+        const html = await response.text();
+        const parser = new DOMParser();
+        const doc = parser.parseFromString(html, 'text/html');
+        config.versiculosNodes = Array.from(doc.querySelectorAll('[id^="versiculo-"]'));
+        config.totalVersiculos = config.versiculosNodes.length;
+        if (config.totalVersiculos === 0) {
+            elements.content.innerHTML = '<div class="verse-content active" style="margin-top:auto;margin-bottom:auto;">Capítulo vazio ou não encontrado.</div>';
+            config.versiculo = 1;
+        } else {
+            if (config.versiculo < 1) config.versiculo = 1;
+            if (config.versiculo > config.totalVersiculos) config.versiculo = config.totalVersiculos;
+            renderVerses();
+            showCurrentVerse();
+        }
+    } catch (error) {
+        elements.content.innerHTML = \`
+            <div class="verse-content active" style="color: #e74c3c; margin-top:auto; margin-bottom:auto; font-size:1.5rem;">
+                <strong>Erro ao carregar:</strong><br>
+                \${error.message}<br><br>
+                Tentando carregar: Livro: \${config.livro}, Capítulo: \${config.capitulo}
+            </div>
+        \`;
+        elements.prevBtn.disabled = true;
+        elements.nextBtn.disabled = true;
+    } finally {
+        setLoadingState(false);
+        updateNavigationButtons();
+        updateHeader();
+    }
+}
+
+function setLoadingState(isLoading) {
+    if (isLoading) {
+        elements.content.innerHTML = '<div class="verse-content active" style="margin-top:auto;margin-bottom:auto;">Carregando...</div>';
+        elements.prevBtn.disabled = true;
+        elements.nextBtn.disabled = true;
+    }
+}
+
+function renderVerses() {
+    elements.content.innerHTML = '';
+    config.versiculosNodes.forEach((verseNode, index) => {
+        const verseNumber = index + 1;
+        const verseIdClass = \`verse-num-\${verseNumber}\`;
+        const strongElement = verseNode.querySelector('strong');
+        let titleHTML = '';
+        let textHTML = '';
+        const tempDiv = verseNode.cloneNode(true);
+        if (strongElement) {
+            titleHTML = strongElement.outerHTML;
+            const strongInTemp = tempDiv.querySelector('strong');
+            if (strongInTemp) strongInTemp.parentNode.removeChild(strongInTemp);
+        }
+        textHTML = tempDiv.innerHTML.trim();
+        const titleElement = document.createElement('div');
+        titleElement.className = \`verse-title verse-content \${verseIdClass}\`;
+        titleElement.innerHTML = titleHTML;
+        elements.content.appendChild(titleElement);
+        const textElement = document.createElement('div');
+        textElement.className = \`verse-text verse-content \${verseIdClass}\`;
+        textElement.innerHTML = textHTML;
+        elements.content.appendChild(textElement);
+    });
+}
+
+function showCurrentVerse() {
+    const currentVerseClass = \`verse-num-\${config.versiculo}\`;
+    document.querySelectorAll('.verse-content').forEach(v => v.classList.remove('active'));
+    const currentElements = document.querySelectorAll('.' + currentVerseClass);
+    if (currentElements.length > 0) {
+        currentElements.forEach(el => el.classList.add('active'));
+    }
+    updateHeader();
+    updateNavigationButtons();
+}
+
+function avancar() {
+    const livroIndex = LIVROS.indexOf(config.livro);
+    const capitulosLivro = BIBLIA[config.livro];
+    if (!capitulosLivro) return;
+    const totalCapitulos = capitulosLivro.length;
+    const totalVersiculosCapitulo = capitulosLivro[config.capitulo - 1];
+    if (config.versiculo < totalVersiculosCapitulo) {
+        config.versiculo++;
+        showCurrentVerse();
+    } else if (config.capitulo < totalCapitulos) {
+        config.capitulo++;
+        config.versiculo = 1;
+        loadChapter();
+    } else if (livroIndex < LIVROS.length - 1) {
+        config.livro = LIVROS[livroIndex + 1];
+        config.capitulo = 1;
+        config.versiculo = 1;
+        loadChapter();
+    }
+}
+
+function voltar() {
+    const livroIndex = LIVROS.indexOf(config.livro);
+    const capitulosLivro = BIBLIA[config.livro];
+    if (!capitulosLivro) return;
+    if (config.versiculo > 1) {
+        config.versiculo--;
+        showCurrentVerse();
+    } else if (config.capitulo > 1) {
+        config.capitulo--;
+        config.versiculo = BIBLIA[config.livro][config.capitulo - 1];
+        loadChapter();
+    } else if (livroIndex > 0) {
+        config.livro = LIVROS[livroIndex - 1];
+        config.capitulo = BIBLIA[config.livro].length;
+        config.versiculo = BIBLIA[config.livro][config.capitulo - 1];
+        loadChapter();
+    }
+}
+
+function updateNavigationButtons() {
+    const livroIndex = LIVROS.indexOf(config.livro);
+    const capitulosLivro = BIBLIA[config.livro];
+    if (!capitulosLivro) {
+        elements.prevBtn.disabled = true;
+        elements.nextBtn.disabled = true;
+        return;
+    }
+    const totalCapitulos = capitulosLivro.length;
+    const totalVersiculosCapitulo = capitulosLivro[config.capitulo - 1];
+    elements.prevBtn.disabled = (livroIndex === 0 && config.capitulo === 1 && config.versiculo === 1);
+    elements.nextBtn.disabled = (livroIndex === LIVROS.length - 1 && config.capitulo === totalCapitulos && config.versiculo === totalVersiculosCapitulo);
+}
+
+function updateHeader() {
+    elements.header.textContent = \`\${config.livro.toUpperCase()} \${config.capitulo}:\${config.versiculo}\`;
+    document.title = \`Slide Bíblico - \${config.livro} \${config.capitulo}:\${config.versiculo}\`;
+}
+
+elements.nextBtn.onclick = avancar;
+elements.prevBtn.onclick = voltar;
+document.addEventListener('keydown', function(e) {
+    if (e.key === 'ArrowRight') avancar();
+    if (e.key === 'ArrowLeft') voltar();
+});
+
+loadChapter();
+</script>
+</body>
+</html>
+`;
+
+    window.janelaSlide.document.open();
+    window.janelaSlide.document.write(slideHTML);
+    window.janelaSlide.document.close();
+}
+
+
+
+
+
 // O bloco abaixo cria a janela de SLIDE para o data-show
 function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
     // Verifica se a janela já existe e está aberta
