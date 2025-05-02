@@ -1955,15 +1955,13 @@ const elements = {
 async function loadChapter() {
     setLoadingState(true);
     try {
-        const response = await fetch(`https://wagnerffreitas.github.io/biblia/version/arc/${config.livro.toLowerCase()}/${config.capitulo}.html`);
-        if (!response.ok) throw new Error(`Capítulo ${config.capitulo} do livro '${config.livro}' não encontrado (status: ${response.status})`);
-
+        const response = await fetch(\`../version/arc/\${config.livro}/\${config.capitulo}.html\`);
+        if (!response.ok) throw new Error(\`Capítulo \${config.capitulo} do livro '\${config.livro}' não encontrado (status: \${response.status})\`);
         const html = await response.text();
         const parser = new DOMParser();
         const doc = parser.parseFromString(html, 'text/html');
         config.versiculosNodes = Array.from(doc.querySelectorAll('[id^="versiculo-"]'));
         config.totalVersiculos = config.versiculosNodes.length;
-
         if (config.totalVersiculos === 0) {
             elements.content.innerHTML = '<div class="verse-content active" style="margin-top:auto;margin-bottom:auto;">Capítulo vazio ou não encontrado.</div>';
             config.versiculo = 1;
@@ -1974,13 +1972,13 @@ async function loadChapter() {
             showCurrentVerse();
         }
     } catch (error) {
-        elements.content.innerHTML = `
+        elements.content.innerHTML = \`
             <div class="verse-content active" style="color: #e74c3c; margin-top:auto; margin-bottom:auto; font-size:1.5rem;">
                 <strong>Erro ao carregar:</strong><br>
-                ${error.message}<br><br>
-                Tentando carregar: Livro: ${config.livro}, Capítulo: ${config.capitulo}
+                \${error.message}<br><br>
+                Tentando carregar: Livro: \${config.livro}, Capítulo: \${config.capitulo}
             </div>
-        `;
+        \`;
         elements.prevBtn.disabled = true;
         elements.nextBtn.disabled = true;
     } finally {
@@ -1989,6 +1987,7 @@ async function loadChapter() {
         updateHeader();
     }
 }
+
 function setLoadingState(isLoading) {
     if (isLoading) {
         elements.content.innerHTML = '<div class="verse-content active" style="margin-top:auto;margin-bottom:auto;">Carregando...</div>';
