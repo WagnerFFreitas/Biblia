@@ -1,3 +1,490 @@
+
+
+falta rodape
+
+// O bloco abaixo cria a janela de SLIDE para o data-show
+function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
+
+    // O trecho abaixo verifica se a janela já está aberta e não está fechada
+    if (window.janelaSlide && !window.janelaSlide.closed) {
+        window.janelaSlide.focus();
+        return;
+    }
+
+    // O trecho abaixo obtém a largura e altura da tela do usuário
+    const largura = window.screen.availWidth;
+    const altura = window.screen.availHeight;
+
+    // O trecho abaixo abre uma nova janela com as dimensões especificadas
+    window.janelaSlide = window.open('', 'JanelaSlide', `width=${largura},height=${altura}`);
+
+    // Abre o documento da nova janela para escrita
+    window.janelaSlide.document.open();
+
+    // Escreve todo o conteúdo HTML, CSS e JS na nova janela
+    window.janelaSlide.document.write(`
+        <!DOCTYPE html>
+        <html lang="pt-BR">
+        <head>
+            <title>Janela Slide</title>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <style>
+                /* O bloco abaixo cria o estilo do corpo da pagina do SLIDE */
+                body {
+                    font-family: sans-serif;
+                    /* padding: 1.25rem; */ /* Removido para permitir título de largura total */
+                    background-color: #181818;
+                    color: white;
+                    position: relative;
+                    margin: 0; /* Remove margens padrão */
+                    overflow: hidden; /* Impede barras de rolagem */
+                    display: flex;
+                    flex-direction: column;
+                    /* justify-content: center; */ /* Removido para o título ficar no topo */
+                    align-items: center; /* Centraliza horizontalmente */
+                    min-height: 100vh; /* Garante altura mínima total */
+                    font-style: italic;
+                    font-weight: bold;
+                    box-sizing: border-box; /* Inclui padding no tamanho total */
+                }
+
+                /* O bloco abaixo cria o estilo para os botões genéricos (se houver) */
+                button {
+                    padding: 0.63rem 1.25rem; /* 10px 20px */
+                    font-size: clamp(1rem, 2vw + 0.5rem, 1.5rem); /* Tamanho de fonte responsivo */
+                    background-color: white;
+                    color: black;
+                    border: none;
+                    cursor: pointer;
+                    position: relative;
+                    transition: background-color 0.3s ease, color 0.3s ease; /* Transição suave */
+                }
+
+                /* O bloco abaixo configura o efeito ao passar o mouse, mudando a cor dos botões */
+                button:hover {
+                    background-color: black;
+                    color: white;
+                }
+
+                /* O bloco abaixo cria o estilos para o container do versículo */
+                #versiculo-container {
+                    display: flex;
+                    justify-content: center;
+                    align-items: center; /* Centraliza texto verticalmente se houver múltiplas linhas */
+                    margin-top: 1.5rem; /* Adiciona espaço ABAIXO do título */
+                    margin-bottom: 1.25rem; /* 20px - Espaço acima dos botões */
+                    font-size: clamp(4rem, 8vw, 6rem); /* Tamanho de fonte responsivo */
+                    width: 90%; /* Limita a largura para melhor leitura */
+                    text-align: center; /* Centraliza o texto do versículo */
+                    flex-grow: 1; /* Permite que o container cresça para preencher espaço */
+                    overflow-y: auto; /* Adiciona scroll se o texto for muito grande */
+                    padding: 0 1rem; /* Adiciona padding lateral interno */
+                    box-sizing: border-box;
+                }
+
+                 /* O bloco abaixo configura o titulo (Estilo Imagem 1) */
+                 #titulo {
+                     background-color: black;     /* Barra de fundo preta */
+                     color: #f1c40f;             /* Cor amarela/dourada */
+                     width: 100%;                /* Ocupa toda a largura */
+                     text-align: center;         /* Texto centralizado */
+                     padding: 0.75rem 0;         /* Espaçamento vertical interno */
+                     font-size: clamp(1.8rem, 3.5vw, 2.8rem); /* Tamanho da fonte */
+                     font-weight: bold;          /* Negrito */
+                     font-style: normal;         /* Garante que NÃO seja itálico */
+                     font-family: Arial, sans-serif; /* Fonte comum não serifada */
+                     text-transform: uppercase;  /* Garante caixa alta */
+                     margin: 0;                  /* Remove margens externas */
+                     box-sizing: border-box;     /* Padding não aumenta largura total */
+                     flex-shrink: 0;             /* Impede que o título encolha */
+                 }
+
+
+                /* O bloco abaixo configura o estilo dos textos dos versiculos */
+                .versiculo-texto {
+                    text-align: center; /* Centralizado geralmente funciona melhor para slides */
+                    font-size: clamp(2.5rem, 5vw, 6rem); /* Tamanho de fonte responsivo para o texto */
+                    max-width: 100%; /* Garante que não ultrapasse o container */
+                    overflow-wrap: break-word; /* Quebra palavras longas */
+                    line-height: 1.4; /* Melhora a legibilidade */
+                    font-weight: normal; /* Ajuste se quiser versículo bold ou normal */
+                    font-style: normal; /* Ajuste se quiser versículo itálico ou normal */
+                }
+
+                /* O bloco abaixo configura o estilo do titulo dos versiculos (se houver <strong>) */
+                #versiculo-container strong {
+                    color: #5df565; /* Verde claro */
+                    font-size: clamp(2rem, 3.5vw, 4.5rem); /* Tamanho de fonte responsivo */
+                    margin-top: 0.63rem; /* 10px */
+                    display: block; /* Garante que fique em linha separada */
+                    font-weight: bold; /* Garante que strong seja bold */
+                }
+
+                /* O bloco abaixo coloca a imagem de fundo em marca d'água */
+                #watermark {
+                    position: fixed; /* Fixo na tela */
+                    top: 0;
+                    left: 0;
+                    width: 100%;
+                    height: 100%;
+                    background-image: url('../img/biblia.png'); /* Ajuste o caminho se necessário */
+                    opacity: 0.15; /* Mais sutil */
+                    z-index: -1; /* Coloca atrás de todo o conteúdo */
+                    pointer-events: none; /* Não interfere com cliques */
+                    overflow: hidden;
+                    background-size: contain; /* Garante que a imagem caiba sem cortar */
+                    background-repeat: no-repeat;
+                    background-position: center;
+                }
+
+                /* O bloco abaixo configura o estilos para o container dos botões */
+                #botao-container {
+                    /* position: absolute; */ /* Removido para fluxo normal abaixo do versículo */
+                    /* bottom: 2rem; */
+                    /* left: 50%; */
+                    /* transform: translateX(-50%); */
+                    width: 100%; /* Ocupa a largura */
+                    display: flex;
+                    justify-content: center; /* Centraliza os botões */
+                    gap: 5rem; /* Espaço maior entre os botões */
+                    z-index: 1; /* Garante que fiquem sobre a marca d'água */
+                    padding: 1rem 0 2rem 0; /* Espaçamento acima e abaixo dos botões */
+                    box-sizing: border-box;
+                    flex-shrink: 0; /* Impede que o container encolha */
+                }
+
+                /* O bloco abaixo configura o estilos para os botões "voltar" e "próximo" */
+                #voltar-botao,
+                #proximo-botao {
+                    background-color: white;
+                    border: none;
+                    padding: 0.75rem 2rem; /* Mais preenchimento */
+                    font-size: clamp(1rem, 1.5vw, 1.5rem); /* Tamanho responsivo */
+                    font-weight: 900;
+                    font-style: italic;
+                    position: relative; /* Necessário para os ::before/::after */
+                    display: inline-block;
+                    text-align: center;
+                    transition: background-color 0.3s ease, color 0.3s ease;
+                    width: 180px; /* Largura fixa para melhor alinhamento */
+                    box-sizing: border-box; /* Padding incluído na largura */
+                    color: black; /* Cor inicial do texto */
+                    flex-shrink: 0; /* Impede que os botões encolham */
+                }
+
+                /* O bloco abaixo configura o efeito ao passar o mouse, mudando a cor dos botões "voltar" e "próximo" */
+                #voltar-botao:hover,
+                #proximo-botao:hover {
+                    background-color: black;
+                    color: white;
+                }
+
+                /* O bloco abaixo cria e configura as pontas da setas */
+                #voltar-botao::before,
+                #proximo-botao::after {
+                    content: '';
+                    position: absolute;
+                    top: 50%;
+                    transform: translateY(-50%);
+                    width: 0;
+                    height: 0;
+                    border-style: solid;
+                    border-width: 28px; /* Tamanho da seta (ajuste conforme necessário) */
+                    transition: border-color 0.3s ease;
+                }
+
+                /* O bloco abaixo configura o estilos para a seta do botão "voltar" */
+                #voltar-botao::before {
+                    left: -56px; /* Distância da seta (igual a border-width * 2) */
+                    border-color: transparent white transparent transparent; /* Seta aponta para a esquerda */
+                }
+
+                /* O bloco abaixo configura o estilos para a seta do botão "próximo" */
+                #proximo-botao::after {
+                    right: -56px; /* Distância da seta (igual a border-width * 2) */
+                    border-color: transparent transparent transparent white; /* Seta aponta para a direita */
+                }
+
+                /* O bloco abaixo configura o efeito ao passar o mouse, mudando a cor da seta "voltar" */
+                #voltar-botao:hover::before {
+                    border-color: transparent black transparent transparent;
+                }
+
+                /* O bloco abaixo configura o efeito ao passar o mouse, mudando a cor da seta "próximo" */
+                #proximo-botao:hover::after {
+                    border-color: transparent transparent transparent black;
+                }
+            </style>
+        </head>
+        <body>
+            <!-- Div para a marca d'água -->
+            <div id="watermark"></div>
+
+            <!-- Título exibindo Livro, Capítulo e Versículo -->
+            <!-- FORMATO DO TÍTULO ALTERADO AQUI -->
+            <div id="titulo">${livroAtual.toUpperCase()} ${capituloAtual}:${versiculoAtual}</div>
+
+            <!-- Container onde o texto do versículo será carregado -->
+            <div id="versiculo-container">
+                <div class="versiculo-texto">Carregando...</div>
+            </div>
+
+            <!-- Container para os botões de navegação -->
+            <div id="botao-container">
+                <button id="voltar-botao">VOLTAR</button>
+                <button id="proximo-botao">PRÓXIMO</button>
+            </div>
+
+            <!-- Script para carregar e navegar pelos versículos -->
+            <script>
+                // Variáveis globais para o estado atual
+                let capituloAtual = ${capituloAtual};
+                let versiculoAtual = ${versiculoAtual};
+                const livroAtual = '${livroAtual}'; // Ex: 'genesis' (esperado em minúsculas)
+                const versaoBiblia = 'arc'; // Defina a versão desejada ('arc', 'ara', etc.)
+
+                // Variável para armazenar o conteúdo HTML do capítulo carregado
+                let capituloConteudo = '';
+
+                // IMPORTANTE: Objeto/Array para armazenar a contagem de versículos por capítulo.
+                // Substitua isso pela sua fonte de dados real!
+                const contagemVersiculos = {
+                    arc: { // Versão ARC
+                        genesis: [31, 25, 24, 26, 32, 22, 24, 22, 29, 32, 32, 20, 18, 24, 21, 16, 27, 33, 38, 18, 34, 24, 20, 67, 34, 35, 46, 22, 35, 43, 55, 32, 20, 31, 29, 43, 36, 30, 23, 23, 57, 38, 34, 34, 28, 34, 31, 22, 33, 26],
+                        exodo: [22, 25, 22, 31, 23, 30, 25, 32, 35, 29, 10, 51, 22, 31, 27, 36, 16, 27, 25, 26, 36, 31, 33, 18, 40, 37, 21, 43, 46, 38, 18, 35, 23, 35, 35, 38, 29, 31, 43, 38],
+                        // Adicione outros livros da versão ARC aqui...
+                    },
+                    ara: { // Versão ARA (exemplo com JSON, ajuste se necessário)
+                        // Se ARA usa JSON, a lógica de carregamento/parse seria diferente
+                        // genesis: [31, 25, ...], // Exemplo se ARA também usar array
+                        // Adicione outros livros da versão ARA aqui...
+                    }
+                    // Adicione outras versões aqui...
+                };
+
+                // Obtém o array de contagem para o livro e versão atuais
+                let versiculosPorCapitulo = (contagemVersiculos[versaoBiblia] && contagemVersiculos[versaoBiblia][livroAtual]) ? contagemVersiculos[versaoBiblia][livroAtual] : [];
+
+                // Função para carregar o conteúdo HTML de um capítulo específico
+                function carregarCapitulo(capitulo) {
+                    // Usa caminho absoluto a partir da raiz do servidor
+                    const caminhoArquivo = \`/version/\${versaoBiblia}/\${livroAtual}/\${capitulo}.html\`;
+
+                    // Log para depuração: mostra qual arquivo está tentando carregar
+                    console.log(\`[LOG] Tentando carregar capítulo via fetch (Absoluto): \${caminhoArquivo}\`); // Log 1
+
+                    // Usa a API Fetch para buscar o arquivo
+                    fetch(caminhoArquivo)
+                        .then(response => {
+                            // Verifica se a requisição foi bem-sucedida (status 200-299)
+                            console.log(\`[LOG] Fetch status para \${caminhoArquivo}: \${response.status}\`); // Log 2
+                            if (!response.ok) {
+                                // Se não encontrou (404) ou outro erro, lança um erro
+                                throw new Error(\`Erro HTTP: \${response.status} ao buscar \${caminhoArquivo}\`);
+                            }
+                            // Se ok, retorna o conteúdo do arquivo como texto
+                            return response.text();
+                        })
+                        .then(text => {
+                            // Armazena o conteúdo do capítulo na variável global
+                             console.log(\`[LOG] Capítulo \${capitulo} carregado. Tamanho: \${text.length} caracteres.\`); // Log 3
+                            capituloConteudo = text;
+                            // Chama a função para carregar o versículo desejado
+                            carregarVersiculo(versiculoAtual);
+                        })
+                        .catch(error => {
+                             // Se ocorrer qualquer erro no fetch ou processamento
+                             console.error('[LOG] Erro no fetch ou .then:', error); // Log 4 (Erro)
+                             // Exibe uma mensagem de erro clara para o usuário
+                             const container = document.getElementById('versiculo-container');
+                             container.innerHTML = \`<div class="versiculo-texto" style="color: red; font-size: 1.5rem;">Erro ao carregar capítulo. Verifique o Console (F12).</div>\`;
+                             document.getElementById('titulo').innerText = "ERRO AO CARREGAR CAPÍTULO"; // Atualiza título para erro
+                        });
+                }
+
+                // Função para extrair e exibir um versículo específico do conteúdo do capítulo carregado
+                function carregarVersiculo(versiculo) {
+                    console.log(\`[LOG] Iniciando carregarVersiculo para versículo: \${versiculo}\`); // Log 5
+                    // Verifica se temos conteúdo do capítulo carregado
+                    if (!capituloConteudo) {
+                         console.warn("[LOG] Conteúdo do capítulo vazio ao tentar carregar versículo."); // Log 6 (Aviso)
+                         document.getElementById('versiculo-container').innerHTML = '<div class="versiculo-texto" style="color: orange;">Aguardando carregamento do capítulo...</div>';
+                         return; // Sai da função se não houver conteúdo
+                    }
+
+                    try { // Adiciona try...catch para erros de parse
+                        // Cria um parser DOM para analisar o HTML do capítulo
+                        const parser = new DOMParser();
+                        const doc = parser.parseFromString(capituloConteudo, 'text/html');
+                        console.log(\`[LOG] HTML do capítulo parseado. Buscando #versiculo-\${versiculo}\`); // Log 7
+
+                        // Tenta encontrar o elemento do versículo pelo ID (ex: id="versiculo-1")
+                        const versiculoElemento = doc.querySelector('#versiculo-' + versiculo);
+                        console.log(\`[LOG] Elemento encontrado para #versiculo-\${versiculo}:\`, versiculoElemento); // Log 8
+
+                        const versiculoContainer = document.getElementById('versiculo-container');
+                        const tituloElement = document.getElementById('titulo');
+
+                        // Verifica se o elemento do versículo foi encontrado
+                        if (versiculoElemento) {
+                             console.log(\`[LOG] Versículo \${versiculo} encontrado. Conteúdo:\`, versiculoElemento.innerHTML.substring(0,100) + '...'); // Log 9
+                            // Atualiza o container com o HTML interno do versículo
+                            versiculoContainer.innerHTML = \`<div class="versiculo-texto">\${versiculoElemento.innerHTML}</div>\`;
+                            // Atualiza o título da janela - FORMATO ALTERADO AQUI
+                            tituloElement.innerText = \`\${livroAtual.toUpperCase()} \${capituloAtual}:\${versiculo}\`;
+                        } else {
+                            // Se o versículo específico não for encontrado no HTML carregado
+                            console.warn(\`[LOG] Versículo \${versiculo} NÃO encontrado no HTML parseado!\`); // Log 10 (Aviso)
+                            versiculoContainer.innerHTML = \`<div class="versiculo-texto" style="color: orange;">Versículo \${versiculo} não encontrado neste capítulo.</div>\`;
+                            // Mantém o título indicando o versículo que foi tentado carregar - FORMATO ALTERADO AQUI
+                            tituloElement.innerText = \`\${livroAtual.toUpperCase()} \${capituloAtual}:\${versiculo} (Não encontrado)\`;
+                        }
+                    } catch (parseError) {
+                        console.error('[LOG] Erro ao parsear o HTML do capítulo:', parseError); // Log 11 (Erro)
+                        const versiculoContainer = document.getElementById('versiculo-container');
+                        versiculoContainer.innerHTML = \`<div class="versiculo-texto" style="color: red; font-size: 1.5rem;">Erro ao processar o HTML do capítulo. Verifique o console (F12).</div>\`;
+                         document.getElementById('titulo').innerText = "ERRO AO PROCESSAR CAPÍTULO"; // Atualiza título para erro
+                    }
+                }
+
+                // Função para avançar para o próximo versículo ou capítulo
+                function proximoVersiculo() {
+                    // Verifica se a configuração de versículos existe para este livro/versão
+                    if (!versiculosPorCapitulo || versiculosPorCapitulo.length === 0) {
+                        console.error("Configuração de versículos por capítulo ausente ou inválida.");
+                        alert("Erro: Não foi possível determinar o número de versículos para este livro. A navegação está desativada.");
+                        return;
+                    }
+                     // Verifica se o capítulo atual é válido dentro da configuração
+                    if(capituloAtual < 1 || capituloAtual > versiculosPorCapitulo.length) {
+                         console.error(\`Capítulo atual (\${capituloAtual}) fora dos limites da configuração [1-\${versiculosPorCapitulo.length}].\`);
+                         alert("Erro: Estado inválido do capítulo. Recarregando.");
+                         capituloAtual = 1; versiculoAtual = 1; carregarCapitulo(capituloAtual); return;
+                    }
+
+                    // Incrementa o número do versículo
+                    versiculoAtual++;
+
+                    // Verifica se ultrapassou o último versículo do capítulo atual
+                    if (versiculoAtual > versiculosPorCapitulo[capituloAtual - 1]) {
+                        // Se sim, avança para o próximo capítulo
+                        capituloAtual++;
+                        // Verifica se ainda existe um próximo capítulo neste livro
+                        if (capituloAtual <= versiculosPorCapitulo.length) {
+                            // Se existe, reseta para o versículo 1 do novo capítulo
+                            versiculoAtual = 1;
+                            // Coloca "Carregando..." temporariamente enquanto busca o novo capítulo
+                            document.getElementById('versiculo-container').innerHTML = '<div class="versiculo-texto">Carregando capítulo...</div>';
+                            // Atualiza o título - FORMATO ALTERADO AQUI
+                            document.getElementById('titulo').innerText = \`\${livroAtual.toUpperCase()} \${capituloAtual}:\${versiculoAtual}\`;
+                            // Carrega o conteúdo do novo capítulo
+                            carregarCapitulo(capituloAtual);
+                        } else {
+                            // Se não há mais capítulos, chegou ao fim do livro
+                            capituloAtual--; // Volta para o último capítulo válido
+                            versiculoAtual = versiculosPorCapitulo[capituloAtual - 1]; // Volta para o último versículo
+                            alert('Fim do livro.'); // Informa o usuário
+                            document.getElementById('proximo-botao').disabled = true;
+                            document.getElementById('voltar-botao').disabled = false;
+                        }
+                    } else {
+                        // Se ainda está dentro do mesmo capítulo, apenas carrega o próximo versículo
+                        carregarVersiculo(versiculoAtual);
+                        document.getElementById('proximo-botao').disabled = false;
+                        document.getElementById('voltar-botao').disabled = false;
+                    }
+                }
+
+                // Função para retroceder para o versículo ou capítulo anterior
+                function voltarVersiculo() {
+                     // Verifica se a configuração de versículos existe para este livro/versão
+                    if (!versiculosPorCapitulo || versiculosPorCapitulo.length === 0) {
+                        console.error("Configuração de versículos por capítulo ausente ou inválida.");
+                        alert("Erro: Não foi possível determinar o número de versículos para este livro. A navegação está desativada.");
+                        return;
+                    }
+                     // Verifica se o capítulo atual é válido dentro da configuração
+                    if(capituloAtual < 1 || capituloAtual > versiculosPorCapitulo.length) {
+                         console.error(\`Capítulo atual (\${capituloAtual}) fora dos limites da configuração [1-\${versiculosPorCapitulo.length}].\`);
+                         alert("Erro: Estado inválido do capítulo. Recarregando.");
+                         capituloAtual = 1; versiculoAtual = 1; carregarCapitulo(capituloAtual); return;
+                    }
+
+                    // Decrementa o número do versículo
+                    versiculoAtual--;
+
+                    // Verifica se ficou menor que 1 (ou seja, precisa ir para o capítulo anterior)
+                    if (versiculoAtual < 1) {
+                        // Se sim, retrocede para o capítulo anterior
+                        capituloAtual--;
+                        // Verifica se ainda está dentro dos limites do livro (capítulo >= 1)
+                        if (capituloAtual >= 1) {
+                            // Se sim, define o versículo para o último do capítulo anterior
+                            versiculoAtual = versiculosPorCapitulo[capituloAtual - 1];
+                            // Coloca "Carregando..." temporariamente
+                            document.getElementById('versiculo-container').innerHTML = '<div class="versiculo-texto">Carregando capítulo...</div>';
+                             // Atualiza o título - FORMATO ALTERADO AQUI
+                            document.getElementById('titulo').innerText = \`\${livroAtual.toUpperCase()} \${capituloAtual}:\${versiculoAtual}\`;
+                            // Carrega o conteúdo do capítulo anterior
+                            carregarCapitulo(capituloAtual);
+                        } else {
+                            // Se não, chegou ao início do livro (capítulo 0 ou menor)
+                            capituloAtual = 1; // Volta para o primeiro capítulo
+                            versiculoAtual = 1; // Volta para o primeiro versículo
+                            alert('Início do livro.'); // Informa o usuário
+                            document.getElementById('voltar-botao').disabled = true;
+                            document.getElementById('proximo-botao').disabled = false;
+                            // Recarrega o primeiro versículo (o capítulo 1 já deve estar carregado ou será carregado)
+                            carregarVersiculo(versiculoAtual);
+                        }
+                    } else {
+                        // Se ainda está no mesmo capítulo, apenas carrega o versículo anterior
+                        carregarVersiculo(versiculoAtual);
+                        document.getElementById('proximo-botao').disabled = false;
+                        document.getElementById('voltar-botao').disabled = false;
+                    }
+                }
+
+                // Adiciona os ouvintes de evento aos botões
+                document.getElementById('proximo-botao').addEventListener('click', proximoVersiculo);
+                document.getElementById('voltar-botao').addEventListener('click', voltarVersiculo);
+
+                // --- INICIALIZAÇÃO ---
+                console.log('[LOG] Iniciando script da janela slide.'); // Log de início
+                // Verifica se a configuração de versículos foi carregada corretamente
+                if (versiculosPorCapitulo.length > 0) {
+                     console.log(\`[LOG] Configuração encontrada para \${livroAtual}. Carregando capítulo \${capituloAtual}...\`);
+                    // Se sim, carrega o capítulo inicial passado como parâmetro
+                    carregarCapitulo(capituloAtual);
+                    // Verifica se está no primeiro versículo do primeiro capítulo para desabilitar 'voltar'
+                    if (capituloAtual === 1 && versiculoAtual === 1) {
+                        document.getElementById('voltar-botao').disabled = true;
+                    }
+                } else {
+                    // Se a configuração não foi encontrada para o livro/versão
+                    console.error(\`[LOG] Configuração de contagem de versículos não encontrada para \${versaoBiblia.toUpperCase()} - \${livroAtual.toUpperCase()}\`);
+                    const container = document.getElementById('versiculo-container');
+                    container.innerHTML = '<div class="versiculo-texto" style="color: red; font-size: 1.5rem;">Erro Crítico: Configuração de capítulos/versículos ausente para este livro. Incapaz de carregar conteúdo.</div>';
+                    document.getElementById('titulo').innerText = "ERRO DE CONFIGURAÇÃO"; // Atualiza título para erro
+                    // Desabilita botões pois não há como navegar
+                    document.getElementById('voltar-botao').disabled = true;
+                    document.getElementById('proximo-botao').disabled = true;
+                }
+
+            </script>
+        </body>
+        </html>
+    `);
+
+    // Fecha o documento da nova janela, fazendo o navegador renderizar o conteúdo
+    window.janelaSlide.document.close();
+}
+
+
+*************************
+
+
 function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
     // Corrige a capitalização do livro para bater com o objeto BIBLIA
     const livroCorrigido = capitalizeLivro(livroAtual);
