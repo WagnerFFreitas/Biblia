@@ -1803,6 +1803,8 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
                     box-sizing: border-box;
                     font-style: normal; /* Override body italic */
                     font-weight: normal; /* Override body bold */
+                    position: relative; /* Para posicionar o título */
+                    height: 100%;
                 }
 
                  /* O bloco abaixo configura o titulo (Estilo Imagem 1) */
@@ -1838,11 +1840,19 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
                 /* O bloco abaixo configura o estilo do titulo dos versiculos (se houver <strong>) */
                 #versiculo-container strong {
                     color: #5df565;
-                    font-size: clamp(2rem, 3.5vw, 4.5rem);
+                    /*font-size: clamp(2rem, 3.5vw, 4.5rem);*/
+                    font-size: clamp(2rem, 2.5vw, 5rem);
                     margin-top: 0.63rem;
                     display: block;
                     font-weight: bold; /* Strong should be bold */
-                    font-style: normal; /* Ensure strong isn't italic by default */
+                    font-style: italic; /* Ensure strong isn't italic by default */
+                    position: absolute;
+                    top: 0;
+                    left: 50%;
+                    transform: translateX(-50%);
+                    text-align: center;
+                    width: 100%;
+                    z-index: 1; /* Ensure it appears above the watermark */
                 }
 
                 /* O bloco abaixo coloca a imagem de fundo em marca d'água */
