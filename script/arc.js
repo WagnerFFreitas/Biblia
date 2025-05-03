@@ -2067,7 +2067,7 @@ function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual) {
 
                 // Função para carregar o conteúdo HTML de um capítulo específico
                 function carregarCapitulo(capitulo) {
-                    const caminhoArquivo = \`/version/\${versaoBiblia}/\${livroAtual}/\${capitulo}.html\`;
+                    const caminhoArquivo = \`../version/\${versaoBiblia}/\${livroAtual}/\${capitulo}.html\`;
                     console.log(\`[LOG] Tentando carregar capítulo via fetch (Absoluto): \${caminhoArquivo}\`);
                     fetch(caminhoArquivo)
                         .then(response => {
