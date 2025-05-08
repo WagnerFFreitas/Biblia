@@ -3,43 +3,24 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <!-- Fonte Playfair Display -->
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
-
   <title>BibliaV1</title>
-
-  <!-- Estilos personalizados do site -->
   <link rel="stylesheet" href="./style.css">
 </head>
-
 <body>
-
-  <!-- Cabeçalho principal com logo e barra de pesquisa -->
   <header class='header'>
-    <!-- Botão para abrir o Pop-up de adicionar nova versão da Bíblia -->
     <button class='material-icons openPopup' onclick='openPopup()'></button>
-
-    <!-- Título do site -->
     <a href='/'>Versões da Bíblia</a>
-
-    <!-- Barra de busca -->
     <nav class='box'>
       <span class='material-icons bloom'>search</span>
       <input id='inputUser' onchange='searchBar()' type='text' placeholder='Procurar versão'>
     </nav>
   </header>
-
-  <!-- Lista dinâmica das versões da Bíblia -->
   <ul class='listStyle' id='List'></ul>
-
-  <!-- Pop-up de boas-vindas -->
   <div class='welcome visibleWlc' id='popupWlc'>
     <button class='material-icons closeWlc' onclick="closeWlc()">close</button>
     <h2>Seja Bem-Vindo à Bíblia On-Line!</h2>
   </div>
-
-  <!-- Pop-up para adicionar nova versão -->
   <div class='popup'>
     <button class='material-icons closeStyle' onclick="closePopup()">close</button>
     <div>
@@ -50,17 +31,11 @@
     <input id='newAnimeTitle' class='animeInputTitle' placeholder='Insira o título da Bíblia'>
     <button class='saveStyle' onclick='saveAnime()'>Salvar</button>
   </div>
-
-  <!-- Efeito de fundo degradê -->
   <div class='gradient'></div>
-
-  <!-- Rodapé -->
   <footer>
     <p>© Bíblia Sagrada 2024</p>
   </footer>
-
-  <!-- Script principal do site -->
   <script src="./script.js"></script>
-
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'93c92b33fb4cbd0a',t:'MTc0NjcwOTUyNy4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script>
 </body>
 </html>
