@@ -1,0 +1,26 @@
+{
+  "livro": "Salmos",
+  "capítulo": 100,
+  "versículos": {
+    "1": {
+      "título": "Hino de louvor",
+      "texto": "Celebrem com júbilo ao Senhor ,"
+    },
+    "2": {
+      "título": "",
+      "texto": "Sirvam ao Senhor com alegria,"
+    },
+    "3": {
+      "título": "",
+      "texto": "Saibam que o Senhor é Deus;"
+    },
+    "4": {
+      "título": "",
+      "texto": "Entrem por suas portas"
+    },
+    "5": {
+      "título": "",
+      "texto": "Porque o Senhor é bom,"
+    }
+  }
+}

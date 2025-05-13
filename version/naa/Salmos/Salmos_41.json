@@ -1,0 +1,58 @@
+{
+  "livro": "Salmos",
+  "capítulo": 41,
+  "versículos": {
+    "1": {
+      "título": "Oração de um doente",
+      "texto": "Bem-aventurado é aquele"
+    },
+    "2": {
+      "título": "",
+      "texto": "O Senhor o protege,"
+    },
+    "3": {
+      "título": "",
+      "texto": "O Senhor o assiste"
+    },
+    "4": {
+      "título": "",
+      "texto": "Eu disse: “Compadece-te"
+    },
+    "5": {
+      "título": "",
+      "texto": "Os meus inimigos"
+    },
+    "6": {
+      "título": "",
+      "texto": "Se algum deles vem me visitar,"
+    },
+    "7": {
+      "título": "",
+      "texto": "Todos os que me odeiam"
+    },
+    "8": {
+      "título": "",
+      "texto": "“Foi uma peste que deu nele”;"
+    },
+    "9": {
+      "título": "",
+      "texto": "Até o meu amigo íntimo,"
+    },
+    "10": {
+      "título": "",
+      "texto": "Tu, porém, Senhor ,"
+    },
+    "11": {
+      "título": "",
+      "texto": "Com isto saberei"
+    },
+    "12": {
+      "título": "",
+      "texto": "Quanto a mim, tu me susténs"
+    },
+    "13": {
+      "título": "",
+      "texto": "Bendito seja o Senhor ,"
+    }
+  }
+}

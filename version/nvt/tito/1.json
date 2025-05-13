@@ -1,0 +1,16 @@
+{
+    "livro": "Tito",
+    "capitulo": 1,
+    "titulos": {
+        "1": "Saudações de Paulo",
+        "5": "O trabalho de Tito em Creta"
+    },
+    "versiculos": {
+        "1": "Eu, Paulo, escravo de Deus e apóstolo de Jesus Cristo, escrevo esta carta. Fui enviado para fortalecer a fé daqueles que Deus escolheu e para ensinar-lhes a verdade que mostra como viver uma vida de devoção. Essa verdade lhes dá a esperança da vida eterna que Deus, aquele que não mente, prometeu antes dos tempos eternos. E agora, no devido tempo, ele revelou essa mensagem, que anunciamos a todos. Por ordem de Deus, nosso Salvador, fui encarregado de realizar esse trabalho em favor dele.",
+        "4": "Escrevo a Tito, meu verdadeiro filho na fé que compartilhamos. Que Deus, o Pai, e Cristo Jesus, nosso Salvador, lhe deem graça e paz.",
+        "5": "Deixei-o na ilha de Creta para que você completasse o trabalho e nomeasse presbíteros em cada cidade, conforme o instruí. O presbítero deve ter uma vida irrepreensível. Deve ser marido de uma só mulher, e seus filhos devem partilhar de sua fé e não ter fama de devassos nem rebeldes. O bispo administra a casa de Deus e, portanto, deve ter uma vida irrepreensível. Não deve ser arrogante nem briguento, não deve beber vinho em excesso, nem ser violento, nem buscar lucro desonesto.",
+        "8": "Em vez disso, deve ser hospitaleiro e amar o bem. Deve viver sabiamente, ser justo e ter uma vida de devoção e disciplina. Deve estar plenamente convicto da mensagem fiel que lhe foi ensinada, de modo que possa encorajar outros com o verdadeiro ensino e mostrar aos que se opõem onde estão errados.",
+        "10": "Pois há muitos rebeldes que promovem conversas inúteis e enganam as pessoas. Refiro-me especialmente àqueles que insistem na necessidade da circuncisão. É preciso fazê-los calar, pois, com seus ensinamentos falsos, têm desviado famílias inteiras da verdade. Sua motivação é obter lucro desonesto. Até mesmo um deles, um profeta nascido em Creta, disse: \"Os cretenses são mentirosos, animais cruéis e comilões preguiçosos\". Isso é verdade. Portanto, repreenda-os severamente, a fim de fortalecê-los na fé. É preciso que deixem de dar ouvidos a mitos judaicos e às ordens daqueles que se desviaram da verdade.",
+        "15": "Para os que são puros, tudo é puro. Mas, para os corruptos e descrentes, nada é puro, pois têm a mente e a consciência corrompidas. Afirmam que conhecem a Deus, mas o negam por seu modo de viver. São detestáveis e desobedientes, e não servem para fazer nada de bom."
+    }
+}

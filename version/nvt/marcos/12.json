@@ -1,0 +1,35 @@
+{
+    "livro": "Marcos",
+    "capitulo": 12,
+    "titulos": {
+        "1": "A parábola dos lavradores maus",
+        "13": "Impostos para César",
+        "18": "Discussão sobre a ressurreição dos mortos",
+        "28": "O mandamento mais importante",
+        "35": "De quem o Cristo é filho?",
+        "38": "Jesus critica os mestres da lei",
+        "41": "A oferta da viúva"
+    },
+    "versiculos": {
+        "1": "Então Jesus começou a lhes ensinar por meio de parábolas: \"Um homem plantou um vinhedo. Construiu uma cerca ao seu redor, um tanque de prensar e uma torre para o guarda. Depois, arrendou o vinhedo a alguns lavradores e partiu para um lugar distante. No tempo da colheita da uva, enviou um de seus servos para receber sua parte da produção. Os lavradores agarraram o servo, o espancaram e o mandaram de volta de mãos vazias. Então o dono da terra enviou outro servo, mas eles o insultaram e bateram na cabeça dele. O próximo servo que ele mandou foi morto. Outros servos que ele enviou foram espancados ou mortos, até que só restou um: seu filho muito amado. Por fim, o dono o enviou, pois pensou: ‘Certamente respeitarão meu filho’.",
+        "7": "\"Os lavradores, porém, disseram uns aos outros: ‘Aí vem o herdeiro da propriedade. Vamos matá-lo e tomar posse desta terra!’. Então o agarraram, o mataram e jogaram seu corpo para fora do vinhedo.",
+        "9": "\"O que vocês acham que o dono do vinhedo fará?\", perguntou Jesus. \"Ele virá, matará os lavradores e arrendará o vinhedo a outros. Vocês nunca leram nas Escrituras: ‘A pedra que os construtores rejeitaram se tornou a pedra angular.",
+        "11": "Isso é obra do Senhor e é maravilhosa de ver’?\"",
+        "12": "Os líderes religiosos queriam prender Jesus, pois perceberam que eram eles os lavradores maus a que Jesus se referia. No entanto, por medo da multidão, deixaram-no e foram embora.",
+        "13": "Mais tarde, os líderes enviaram alguns fariseus e membros do partido de Herodes com o objetivo de levar Jesus a dizer algo que desse motivo para o prenderem. Disseram: \"Mestre, sabemos como o senhor é honesto. É imparcial e não demonstra favoritismo. Ensina o caminho de Deus de acordo com a verdade. Agora, diga-nos: É certo pagar impostos a César ou não? Devemos pagar ou não?\".",
+        "16": "Jesus percebeu a hipocrisia deles e disse: \"Por que vocês tentam me apanhar numa armadilha? Mostrem-me uma moeda de prata, e eu lhes direi\". Quando lhe deram a moeda, ele disse: \"De quem são a imagem e o título nela gravados?\". \"De César\", responderam.",
+        "17": "\"Então deem a César o que pertence a César, e deem a Deus o que pertence a Deus\", disse ele. Sua resposta os deixou muito admirados.",
+        "18": "Depois vieram a Jesus alguns saduceus, líderes religiosos que afirmam não haver ressurreição dos mortos, e perguntaram: \"Mestre, Moisés nos deu uma lei segundo a qual se um homem morrer sem deixar filhos, o irmão dele deve se casar com a viúva e ter um filho que dará continuidade ao nome do irmão. Numa família havia sete irmãos. O mais velho se casou e morreu sem deixar filhos. O segundo irmão se casou com a viúva, mas também morreu sem deixar filhos. Então o terceiro irmão se casou com ela. O mesmo aconteceu até o sétimo irmão, e nenhum deixou filhos. Por fim, a mulher também morreu. Diga-nos, de quem ela será esposa na ressurreição? Afinal, os sete se casaram com ela\".",
+        "24": "Jesus respondeu: \"O erro de vocês está em não conhecerem as Escrituras nem o poder de Deus. Pois, quando os mortos ressuscitarem, não se casarão nem se darão em casamento. Nesse sentido, serão como os anjos do céu.",
+        "26": "\"Agora, quanto a haver ressurreição dos mortos, vocês não leram a esse respeito nos escritos de Moisés, no relato sobre o arbusto em chamas? Deus disse a Moisés: ‘Eu sou o Deus de Abraão, o Deus de Isaque e o Deus de Jacó’. Portanto, ele é o Deus dos vivos, e não dos mortos. Vocês estão completamente enganados!\".",
+        "28": "Um dos mestres da lei estava ali ouvindo a discussão. Ao perceber que Jesus tinha respondido bem, perguntou: \"De todos os mandamentos, qual é o mais importante?\".",
+        "29": "Jesus respondeu: \"O mandamento mais importante é este: ‘Ouça, ó Israel! O Senhor, nosso Deus, é o único Senhor. Ame o Senhor, seu Deus, de todo o seu coração, de toda a sua alma, de toda a sua mente e de todas as suas forças’. O segundo é igualmente importante: ‘Ame o seu próximo como a si mesmo’. Nenhum outro mandamento é maior que esses\".",
+        "32": "O mestre da lei respondeu: \"Muito bem, mestre. O senhor falou a verdade ao dizer que há só um Deus, e nenhum outro. E sei que é importante amá-lo de todo o meu coração, de todo o meu entendimento e de todas as minhas forças, e amar o meu próximo como a mim mesmo. É mais importante que oferecer todos os holocaustos e sacrifícios exigidos pela lei\".",
+        "34": "Ao perceber quanto o homem compreendia, Jesus disse: \"Você não está longe do reino de Deus\". Depois disso, ninguém se atreveu a lhe fazer mais perguntas.",
+        "35": "Mais tarde, enquanto ensinava o povo no templo, Jesus fez a seguinte pergunta: \"Por que os mestres da lei afirmam que o Cristo é filho de Davi? O próprio Davi, falando por meio do Espírito Santo, disse: ‘O Senhor disse ao meu Senhor: Sente-se no lugar de honra à minha direita até que eu humilhe seus inimigos debaixo de seus pés’.",
+        "37": "Uma vez que Davi chamou o Cristo de ‘meu Senhor’, como ele pode ser filho de Davi?\". E a grande multidão o ouvia com prazer.",
+        "38": "Jesus também ensinou: \"Cuidado com os mestres da lei! Eles gostam de se exibir com vestes longas e de receber saudações respeitosas quando andam pelas praças. E como gostam de sentar-se nos lugares de honra nas sinagogas e à cabeceira da mesa nos banquetes! No entanto, tomam posse dos bens das viúvas de maneira desonesta e, depois, para dar a impressão de piedade, fazem longas orações em público. Por causa disso, serão duramente castigados\".",
+        "41": "Jesus sentou-se perto da caixa de ofertas do templo e ficou observando o povo colocar o dinheiro. Muitos ricos contribuíam com grandes quantias. Então veio uma viúva pobre e colocou duas moedas pequenas.",
+        "43": "Jesus chamou seus discípulos e disse: \"Eu lhes digo a verdade: essa viúva depositou na caixa de ofertas mais que todos os outros. Eles deram uma parte do que lhes sobrava, mas ela, em sua pobreza, deu tudo que tinha\"."
+    }
+}

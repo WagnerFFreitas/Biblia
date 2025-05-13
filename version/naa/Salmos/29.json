@@ -1,0 +1,50 @@
+{
+  "livro": "Salmos",
+  "capítulo": 29,
+  "versículos": {
+    "1": {
+      "título": "A poderosa voz de Deus",
+      "texto": "Deem ao Senhor ,"
+    },
+    "2": {
+      "título": "",
+      "texto": "Deem ao Senhor"
+    },
+    "3": {
+      "título": "",
+      "texto": "Ouve-se a voz do Senhor"
+    },
+    "4": {
+      "título": "",
+      "texto": "A voz do Senhor é poderosa;"
+    },
+    "5": {
+      "título": "",
+      "texto": "A voz do Senhor"
+    },
+    "6": {
+      "título": "",
+      "texto": "Ele faz o Líbano saltar"
+    },
+    "7": {
+      "título": "",
+      "texto": "A voz do Senhor"
+    },
+    "8": {
+      "título": "",
+      "texto": "A voz do Senhor"
+    },
+    "9": {
+      "título": "",
+      "texto": "A voz do Senhor"
+    },
+    "10": {
+      "título": "",
+      "texto": "O Senhor governa os dilúvios;"
+    },
+    "11": {
+      "título": "",
+      "texto": "O Senhor dá força ao seu povo,"
+    }
+  }
+}

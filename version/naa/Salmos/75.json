@@ -1,0 +1,46 @@
+{
+  "livro": "Salmos",
+  "capítulo": 75,
+  "versículos": {
+    "1": {
+      "título": "Deus é juiz",
+      "texto": "Graças te rendemos, ó Deus,"
+    },
+    "2": {
+      "título": "",
+      "texto": "Pois disseste: “Quando chegar"
+    },
+    "3": {
+      "título": "",
+      "texto": "Ainda que tremam a terra"
+    },
+    "4": {
+      "título": "",
+      "texto": "Digo aos soberbos"
+    },
+    "5": {
+      "título": "",
+      "texto": "Não levantem orgulhosamente"
+    },
+    "6": {
+      "título": "",
+      "texto": "Porque não é do Oriente,"
+    },
+    "7": {
+      "título": "",
+      "texto": "Deus é o juiz;"
+    },
+    "8": {
+      "título": "",
+      "texto": "Porque na mão do Senhor"
+    },
+    "9": {
+      "título": "",
+      "texto": "Quanto a mim,"
+    },
+    "10": {
+      "título": "",
+      "texto": "Ele diz: “Abaterei"
+    }
+  }
+}

@@ -28,8 +28,8 @@
     // ou preenchida estaticamente no HTML com links para recarregar a página.
 
     const dicionario = [
-        { texto: 'Dicionário VINE (Externo)', link: 'https://www.exemplo.com/vine' }, // Exemplo
-        { texto: 'Concordância Strong (Externo)', link: 'https://www.exemplo.com/strong' } // Exemplo
+        { texto: 'Dicionário (Em breve)', link: 'https://www.exemplo.com/vine' }, // Exemplo
+        { texto: 'Concordância (Em breve)', link: 'https://www.exemplo.com/strong' } // Exemplo
     ];
 
     const harpaHinario = [

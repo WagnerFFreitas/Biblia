@@ -1,0 +1,30 @@
+{
+  "livro": "Salmos",
+  "capítulo": 13,
+  "versículos": {
+    "1": {
+      "título": "Oração de fé",
+      "texto": "Até quando, Senhor ,"
+    },
+    "2": {
+      "título": "",
+      "texto": "Até quando estarei relutando"
+    },
+    "3": {
+      "título": "",
+      "texto": "Olha para mim e responde-me,"
+    },
+    "4": {
+      "título": "",
+      "texto": "para que o meu inimigo não diga:"
+    },
+    "5": {
+      "título": "",
+      "texto": "Quanto a mim,"
+    },
+    "6": {
+      "título": "",
+      "texto": "Cantarei ao Senhor ,"
+    }
+  }
+}

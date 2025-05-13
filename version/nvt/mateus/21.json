@@ -1,0 +1,41 @@
+{
+    "livro": "Mateus",
+    "capitulo": 21,
+    "titulos": {
+        "1": "A entrada de Jesus em Jerusalém",
+        "12": "Jesus purifica o templo",
+        "18": "Jesus amaldiçoa a figueira",
+        "23": "A autoridade de Jesus é questionada",
+        "28": "A parábola dos dois filhos",
+        "33": "A parábola dos lavradores maus"
+    },
+    "versiculos": {
+        "1": "Quando já se aproximavam de Jerusalém, Jesus e seus discípulos chegaram a Betfagé, no monte das Oliveiras. Jesus enviou na frente dois discípulos. \"Vão àquele povoado adiante\", disse ele. \"Assim que entrarem, verão uma jumenta amarrada, com seu jumentinho ao lado. Desamarrem os animais e tragam-nos para mim. Se alguém lhes perguntar o que estão fazendo, digam apenas: ‘O Senhor precisa deles’, e de imediato a pessoa deixará que vocês os levem.\"",
+        "4": "Isso aconteceu para cumprir o que foi dito por meio do profeta:",
+        "5": "\"Digam ao povo de Sião: ‘Vejam, seu Rei se aproxima. Ele é humilde e vem montado num jumento, num jumentinho, cria de jumenta’\".",
+        "6": "Os dois discípulos fizeram como Jesus havia ordenado. Trouxeram a jumenta e o jumentinho e puseram seus mantos sobre o jumentinho, e Jesus montou nele.",
+        "8": "Grande parte da multidão estendeu seus mantos ao longo do caminho diante de Jesus, e outros cortaram ramos das árvores e os espalharam pelo chão. E as pessoas, tanto as que iam à frente como as que o seguiam, gritavam: \"Hosana, Filho de Davi! Bendito é o que vem em nome do Senhor! Hosana no mais alto céu!\".",
+        "10": "Quando Jesus entrou em Jerusalém, toda a cidade estava em grande alvoroço. \"Quem é este?\", perguntavam.",
+        "11": "A multidão respondia: \"É Jesus, o profeta de Nazaré, da Galileia\".",
+        "12": "Então Jesus entrou no templo e começou a expulsar todos que ali estavam comprando e vendendo animais para os sacrifícios. Derrubou as mesas dos cambistas e as cadeiras dos que vendiam pombas, dizendo: \"As Escrituras declaram: ‘Meu templo será chamado casa de oração’, mas vocês o transformaram num esconderijo de ladrões!\".",
+        "14": "Os cegos e os coxos vieram a Jesus no templo, e ele os curou. Quando os principais sacerdotes e mestres da lei viram esses milagres maravilhosos e ouviram até as crianças no templo gritar \"Hosana, Filho de Davi\", ficaram indignados. \"Está ouvindo o que as crianças estão dizendo?\", perguntaram a Jesus.",
+        "17": "\"Sim\", respondeu ele. \"Vocês nunca leram as Escrituras? Elas dizem: ‘Ensinaste crianças e bebês a te dar louvor’.\" Então ele voltou a Betânia, onde passou a noite.",
+        "18": "De manhã, enquanto voltava para Jerusalém, Jesus teve fome. Encontrando uma figueira à beira do caminho, foi ver se havia figos, mas só encontrou folhas. Então, disse à figueira: \"Nunca mais dê frutos!\". E, no mesmo instante, a figueira secou.",
+        "20": "Quando os discípulos viram isso, ficaram admirados e perguntaram: \"Como a figueira secou tão depressa?\".",
+        "21": "Jesus respondeu: \"Eu lhes digo a verdade: se vocês tiverem fé e não duvidarem, poderão fazer o mesmo que fiz com esta figueira, e muito mais. Poderão até dizer a este monte: ‘Levante-se e atire-se no mar’, e isso acontecerá. Se crerem, receberão qualquer coisa que pedirem em oração\".",
+        "23": "Quando Jesus voltou ao templo e começou a ensinar, os principais sacerdotes e líderes do povo vieram até ele e perguntaram: \"Com que autoridade você faz essas coisas? Quem lhe deu esse direito?\".",
+        "24": "Jesus respondeu: \"Eu lhes direi com que autoridade faço essas coisas se vocês responderem a uma pergunta: A autoridade de João para batizar vinha do céu ou era apenas humana?\".",
+        "26": "Eles discutiram a questão entre si: \"Se dissermos que vinha do céu, ele perguntará por que não cremos em João. Mas, se dissermos que era apenas humana, seremos atacados pela multidão, pois todos pensam que João era profeta\". Por fim, responderam a Jesus: \"Não sabemos\". E Jesus replicou: \"Então eu também não direi com que autoridade faço essas coisas.\"",
+        "28": "\"O que acham disto? Um homem que tinha dois filhos disse ao mais velho: ‘Filho, vá trabalhar no vinhedo hoje’. O filho respondeu: ‘Não vou’, mas depois mudou de ideia e foi. Então o pai disse ao outro filho: ‘Vá você’, e ele respondeu: ‘Sim senhor, eu vou’, mas não foi.",
+        "31": "\"Qual dos dois obedeceu ao pai?\" Eles responderam: \"O primeiro\".",
+        "32": "Então Jesus explicou: \"Eu lhes digo a verdade: cobradores de impostos e prostitutas entrarão no reino de Deus antes de vocês. Pois João veio e mostrou o caminho da justiça, mas vocês não creram nele, enquanto cobradores de impostos e prostitutas creram. E, mesmo depois de verem isso, vocês se recusaram a mudar de ideia e crer nele.\"",
+        "33": "\"Agora, ouçam outra parábola. O dono de uma propriedade plantou um vinhedo. Construiu uma cerca ao redor, um tanque de prensar e uma torre para o guarda. Depois, arrendou o vinhedo a alguns lavradores e partiu para um lugar distante. No tempo da colheita da uva, enviou seus servos a fim de receber sua parte da colheita. Os lavradores agarraram os servos, espancaram um deles, mataram outro e apedrejaram o terceiro. Então o dono da propriedade enviou um grupo maior de servos para receber a parte dele, mas o resultado foi o mesmo.",
+        "37": "\"Por fim, o dono enviou seu filho, pois pensou: ‘Certamente respeitarão meu filho’.",
+        "38": "\"No entanto, quando os lavradores viram o filho, disseram uns aos outros: ‘Aí vem o herdeiro da propriedade. Vamos matá-lo e tomar posse desta terra!’. Então o agarraram, o arrastaram para fora do vinhedo e o mataram.",
+        "40": "\"Quando o dono da terra voltar, o que vocês acham que ele fará com aqueles lavradores?\", perguntou Jesus.",
+        "41": "Os líderes religiosos responderam: \"Ele os matará cruelmente e arrendará o vinhedo para outros, que lhe darão sua parte depois de cada colheita\".",
+        "42": "Então Jesus disse: \"Vocês nunca leram nas Escrituras: ‘A pedra que os construtores rejeitaram se tornou a pedra angular. Isso é obra do Senhor e é maravilhosa de ver’?",
+        "43": "Eu lhes digo que o reino de Deus lhes será tirado e entregue a um povo que produzirá os devidos frutos. Quem tropeçar nesta pedra será despedaçado, e aquele sobre quem ela cair será reduzido a pó\".",
+        "45": "Quando os principais sacerdotes e fariseus ouviram essa parábola, perceberam que eles eram os lavradores maus a que Jesus se referia. Queriam prendê-lo, mas tinham medo das multidões, pois elas o consideravam um profeta."
+    }
+}

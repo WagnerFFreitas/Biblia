@@ -1,0 +1,26 @@
+{
+  "livro": "Salmos",
+  "capítulo": 127,
+  "versículos": {
+    "1": {
+      "título": "Todo bem procede de Deus",
+      "texto": "Se o Senhor não edificar a casa,"
+    },
+    "2": {
+      "título": "",
+      "texto": "Será inútil levantar de madrugada,"
+    },
+    "3": {
+      "título": "",
+      "texto": "Herança do Senhor são os filhos;"
+    },
+    "4": {
+      "título": "",
+      "texto": "Como flechas"
+    },
+    "5": {
+      "título": "",
+      "texto": "Feliz o homem que enche deles"
+    }
+  }
+}

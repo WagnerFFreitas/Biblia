@@ -1,0 +1,40 @@
+{
+    "livro": "Jó",
+    "capitulo": 8,
+    "titulos": {
+        "1": "Uma mulher é pega em adultério",
+        "12": "Jesus, a luz do mundo",
+        "21": "O povo incrédulo é advertido",
+        "31": "Jesus e Abraão"
+    },
+    "versiculos": {
+        "1": "Jesus voltou ao monte das Oliveiras, mas na manhã seguinte, bem cedo, estava outra vez no templo. Logo se reuniu uma multidão, e ele se sentou e a ensinou. Então os mestres da lei e os fariseus lhe trouxeram uma mulher pega em adultério e a colocaram diante da multidão.",
+        "4": "\"Mestre, esta mulher foi pega no ato de adultério\", disseram eles a Jesus. \"A lei de Moisés ordena que ela seja apedrejada. O que o senhor diz?\"",
+        "6": "Procuravam apanhá-lo numa armadilha, ao fazê-lo dizer algo que pudessem usar contra ele. Jesus, porém, apenas se inclinou e começou a escrever com o dedo na terra. Eles continuaram a exigir uma resposta, de modo que ele se levantou e disse: \"Aquele de vocês que nunca pecou atire a primeira pedra\". Então inclinou-se novamente e voltou a escrever na terra.",
+        "9": "Quando ouviram isso, foram saindo, um de cada vez, começando pelos mais velhos, até que só restaram Jesus e a mulher no meio da multidão. Então Jesus se levantou de novo e disse à mulher: \"Onde estão seus acusadores? Nenhum deles a condenou?\".",
+        "11": "\"Não, Senhor\", respondeu ela. E Jesus disse: \"Eu também não a condeno. Vá e não peque mais\".",
+        "12": "Jesus voltou a falar ao povo e disse: \"Eu sou a luz do mundo. Se vocês me seguirem, não andarão no escuro, pois terão a luz da vida\".",
+        "13": "Os fariseus disseram: \"Você faz essas declarações a respeito de si mesmo! Seu testemunho não é válido\".",
+        "14": "Jesus respondeu: \"Meu testemunho é válido, embora eu mesmo o dê, pois eu sei de onde vim e para onde vou, mas vocês não sabem de onde vim nem para onde vou. Vocês julgam por padrões humanos, mas eu não julgo ninguém. E, mesmo que o fizesse, meu julgamento seria correto, pois não estou sozinho. O Pai, que me enviou, está comigo. A lei de vocês diz que, se duas pessoas concordarem sobre alguma coisa, seu testemunho é aceito como fato. Eu sou uma testemunha, e meu Pai, que me enviou, é a outra\".",
+        "19": "\"Onde está seu Pai?\", perguntaram eles.",
+        "20": "Jesus respondeu: \"Uma vez que vocês não sabem quem sou eu, não sabem quem é meu Pai. Se vocês me conhecessem, também conheceriam meu Pai\". Jesus fez essas declarações enquanto ensinava na parte do templo onde eram colocadas as ofertas. No entanto, não foi preso, pois ainda não havia chegado sua hora.",
+        "21": "Mais tarde, Jesus lhes disse outra vez: \"Eu vou embora. Vocês procurarão por mim, mas morrerão em seus pecados. Não podem ir para onde eu vou\".",
+        "22": "Os judeus perguntaram: \"Será que ele está planejando cometer suicídio? A que ele se refere quando diz: ‘Não podem ir para onde eu vou’?\".",
+        "23": "Jesus prosseguiu: \"Vocês são daqui de baixo; eu sou lá de cima. Vocês pertencem a este mundo; eu não. Foi por isso que eu disse que vocês morrerão em seus pecados, pois a menos que creiam que eu sou lá de cima, morrerão em seus pecados\".",
+        "25": "\"Quem é você?\", perguntaram eles.",
+        "26": "Jesus respondeu: \"Sou aquele que sempre afirmei ser. Tenho muito que dizer e julgar a respeito de vocês, mas não o farei. Digo ao mundo apenas o que ouvi daquele que me enviou, e ele é inteiramente verdadeiro\". Ainda assim, não entenderam que ele lhes falava a respeito do Pai.",
+        "28": "Então Jesus disse: \"Quando vocês me levantarem, entenderão que eu sou o Filho do Homem. Não faço coisa alguma por minha própria conta; digo apenas o que o Pai me ensinou. E aquele que me enviou está comigo; ele não me abandonou, pois sempre faço o que lhe agrada\". Muitos que o ouviram dizer essas coisas creram nele.",
+        "31": "Jesus disse aos judeus que creram nele: \"Vocês são verdadeiramente meus discípulos se permanecerem fiéis a meus ensinamentos. Então conhecerão a verdade, e a verdade os libertará\".",
+        "33": "\"Mas somos descendentes de Abraão\", disseram eles. \"Nunca fomos escravos de ninguém. O que quer dizer com ‘Vocês serão libertos’?\"",
+        "34": "Jesus respondeu: \"Eu lhes digo a verdade: todo o que peca é escravo do pecado. O escravo não é membro permanente da família, mas o filho faz parte da família, para sempre. Portanto, se o Filho os libertar, vocês serão livres de fato. Sim, eu sei que vocês são descendentes de Abraão. E, no entanto, procuram me matar, pois não há lugar em seu coração para a minha mensagem. Eu lhes digo o que vi quando estava com meu Pai, mas vocês seguem o conselho do pai de vocês\".",
+        "39": "\"Nosso pai é Abraão!\", declararam eles.",
+        "40": "Jesus respondeu: \"Se vocês fossem, de fato, filhos de Abraão, seguiriam o exemplo dele. Em vez disso, procuram me matar porque eu lhes disse a verdade que ouvi de Deus. Abraão nunca fez isso. Vocês estão imitando seu verdadeiro pai\". \"Não somos filhos ilegítimos!\", retrucaram. \"O próprio Deus é nosso verdadeiro Pai!\"",
+        "42": "Jesus lhes disse: \"Se Deus fosse seu Pai, vocês me amariam, porque eu venho até vocês da parte de Deus. Não estou aqui por minha própria conta, mas ele me enviou. Por que vocês não entendem o que eu digo? É porque nem sequer conseguem me ouvir! Pois são filhos de seu pai, o diabo, e gostam de fazer as coisas perversas que ele deseja. Ele foi assassino desde o princípio. Sempre odiou a verdade, pois não há verdade alguma nele. Quando ele mente, age de acordo com seu caráter, pois é mentiroso e pai da mentira. Portanto, quando eu digo a verdade, é natural que não creiam em mim! Qual de vocês pode me acusar de pecado? E, uma vez que lhes digo a verdade, por que não creem em mim? Quem pertence a Deus ouve as palavras de Deus. Mas vocês não ouvem, pois não pertencem a Deus\".",
+        "48": "\"Samaritano endemoninhado!\", responderam os líderes judeus. \"Não temos dito desde o início que está possuído por demônio?\"",
+        "49": "\"Não tenho em mim demônio algum\", disse Jesus. \"Pelo contrário, honro meu Pai, e vocês me desonram. Eu não procuro minha própria glória; há quem a procure para mim, e ele é o Juiz. Eu lhes digo a verdade: quem obedecer a meu ensino jamais morrerá!\"",
+        "52": "Os líderes judeus disseram: \"Agora sabemos que você está possuído por demônio. Até Abraão e os profetas morreram, mas você diz: ‘Quem obedecer a meu ensino jamais morrerá!’. Por acaso você é maior que nosso pai Abraão? Ele morreu, assim como os profetas. Quem você pensa que é?\".",
+        "54": "Jesus respondeu: \"Se eu quisesse glória para mim mesmo, essa glória não contaria. Mas é meu Pai quem me glorifica. Vocês dizem: ‘Ele é nosso Deus’, mas nem o conhecem. Eu o conheço. Se eu dissesse que não o conheço, seria tão mentiroso quanto vocês! Mas eu o conheço e lhe obedeço. Seu pai Abraão exultou com a expectativa da minha vinda. Ele a viu e se alegrou\".",
+        "57": "Os líderes judeus disseram: \"Você não tem nem cinquenta anos. Como pode dizer que viu Abraão?\".",
+        "58": "Jesus respondeu: \"Eu lhes digo a verdade: antes mesmo de Abraão nascer, Eu Sou!\". Então apanharam pedras para atirar em Jesus, mas ele se ocultou deles e saiu do templo."
+    }
+}

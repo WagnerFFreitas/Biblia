@@ -1,0 +1,38 @@
+{
+  "livro": "Salmos",
+  "capítulo": 114,
+  "versículos": {
+    "1": {
+      "título": "As maravilhas do êxodo",
+      "texto": "Quando Israel saiu do Egito,"
+    },
+    "2": {
+      "título": "",
+      "texto": "Judá se tornou"
+    },
+    "3": {
+      "título": "",
+      "texto": "O mar viu isso e fugiu;"
+    },
+    "4": {
+      "título": "",
+      "texto": "Os montes saltaram"
+    },
+    "5": {
+      "título": "",
+      "texto": "O que lhe aconteceu, ó mar,"
+    },
+    "6": {
+      "título": "",
+      "texto": "Montes, por que estão saltando"
+    },
+    "7": {
+      "título": "",
+      "texto": "Trema, ó terra,"
+    },
+    "8": {
+      "título": "",
+      "texto": "Ele transformou a rocha"
+    }
+  }
+}

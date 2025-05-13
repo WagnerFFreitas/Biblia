@@ -1,0 +1,130 @@
+{
+  "livro": "Êxodo",
+  "capítulo": 22,
+  "versículos": {
+    "1": {
+      "título": "Leis a respeito da propriedade",
+      "texto": "— Se alguém furtar um boi ou uma ovelha e abater ou vender o animal, por um boi pagará cinco bois, e quatro ovelhas por uma ovelha."
+    },
+    "2": {
+      "título": "",
+      "texto": "— Se um ladrão for achado arrombando uma casa e, sendo ferido, morrer, quem o feriu não será culpado do sangue."
+    },
+    "3": {
+      "título": "",
+      "texto": "Se, porém, já havia sol quando isso aconteceu, quem o feriu será culpado do sangue. O ladrão deverá fazer restituição total. Se não tiver com que pagar, será vendido por seu furto."
+    },
+    "4": {
+      "título": "",
+      "texto": "Se aquilo que roubou for achado vivo em seu poder, seja boi, jumento ou ovelha, pagará o dobro."
+    },
+    "5": {
+      "título": "",
+      "texto": "— Se alguém fizer pastar o seu animal num campo ou numa vinha e o largar para comer em campo de outra pessoa, pagará com o melhor do seu próprio campo e o melhor da sua própria vinha."
+    },
+    "6": {
+      "título": "",
+      "texto": "— Se irromper fogo, e pegar nos espinheiros, e destruir os feixes de cereal colhido, ou a plantação que já estiver madura, ou o campo todo, aquele que acendeu o fogo pagará totalmente o queimado."
+    },
+    "7": {
+      "título": "",
+      "texto": "— Se alguém der ao seu próximo dinheiro ou objetos para guardar, e isso for furtado àquele que o recebeu, o ladrão, se for achado, pagará o dobro."
+    },
+    "8": {
+      "título": "",
+      "texto": "Se o ladrão não for achado, então o dono da casa será levado diante dos juízes, a ver se não meteu a mão nos bens do próximo."
+    },
+    "9": {
+      "título": "",
+      "texto": "— Em todo negócio fraudulento, seja a respeito de boi, ou de jumento, ou de ovelhas, ou de roupas, ou de qualquer coisa perdida, de que uma das partes diz: “Isto é meu”, a causa de ambas as partes será levada diante dos juízes; aquele a quem os juízes condenarem pagará o dobro ao seu próximo."
+    },
+    "10": {
+      "título": "",
+      "texto": "— Se alguém der ao seu próximo um animal para que tome conta dele, seja jumento, boi, ovelha ou outro animal qualquer, e este morrer, ficar aleijado ou for afugentado, sem que ninguém o veja,"
+    },
+    "11": {
+      "título": "",
+      "texto": "então haverá juramento do Senhor entre ambos, de que não meteu a mão nos bens do seu próximo; o dono aceitará o juramento, e o outro não fará restituição."
+    },
+    "12": {
+      "título": "",
+      "texto": "Porém, se, de fato, o animal tiver sido furtado, terá de pagá-lo ao seu dono."
+    },
+    "13": {
+      "título": "",
+      "texto": "Se for dilacerado, trará o que restou em testemunho disso e não pagará o animal dilacerado."
+    },
+    "14": {
+      "título": "",
+      "texto": "— Se alguém pedir emprestado a seu próximo um animal, e este ficar aleijado ou morrer, não estando presente o dono, aquele que pediu emprestado terá de pagá-lo ao seu dono."
+    },
+    "15": {
+      "título": "",
+      "texto": "Se o dono esteve presente, não o pagará; se foi alugado, o preço do aluguel será o pagamento."
+    },
+    "16": {
+      "título": "Leis civis e religiosas",
+      "texto": "— Se alguém seduzir uma virgem que ainda não foi prometida em casamento e tiver relações com ela, pagará seu dote e a tomará por mulher."
+    },
+    "17": {
+      "título": "",
+      "texto": "Se o pai dela definitivamente não quiser dar-lhe a moça em casamento, aquele que a seduziu pagará em dinheiro conforme o dote das virgens."
+    },
+    "18": {
+      "título": "",
+      "texto": "— A feiticeira você não deixará viver."
+    },
+    "19": {
+      "título": "",
+      "texto": "— Quem tiver coito com animal será morto."
+    },
+    "20": {
+      "título": "",
+      "texto": "— Quem sacrificar aos deuses e não somente ao Senhor será destruído."
+    },
+    "21": {
+      "título": "",
+      "texto": "— Não maltrate o estrangeiro, nem o oprima; porque vocês foram estrangeiros na terra do Egito."
+    },
+    "22": {
+      "título": "",
+      "texto": "Não maltratem as viúvas nem os órfãos."
+    },
+    "23": {
+      "título": "",
+      "texto": "Se de algum modo os maltratarem, e eles clamarem a mim, eu lhes ouvirei o clamor;"
+    },
+    "24": {
+      "título": "",
+      "texto": "a minha ira se acenderá, e eu matarei vocês à espada; as suas mulheres ficarão viúvas, e os seus filhos ficarão órfãos."
+    },
+    "25": {
+      "título": "",
+      "texto": "— Se você emprestar dinheiro a alguém do meu povo, ao pobre que está com você, não trate com ele como um credor que impõe juros."
+    },
+    "26": {
+      "título": "",
+      "texto": "Se você pegar o manto do seu próximo como penhor, devolva-o antes do pôr do sol,"
+    },
+    "27": {
+      "título": "",
+      "texto": "porque é com ele que se cobre, é a roupa do seu corpo; em que ele se deitaria? Quando ele clamar a mim, eu o ouvirei, porque sou misericordioso."
+    },
+    "28": {
+      "título": "",
+      "texto": "— Não blasfeme contra Deus, nem amaldiçoe uma autoridade do seu povo."
+    },
+    "29": {
+      "título": "",
+      "texto": "— Não demore em trazer ofertas do melhor das suas colheitas e das suas vinhas; entregue-me o primogênito dos seus filhos."
+    },
+    "30": {
+      "título": "",
+      "texto": "Faça o mesmo com as suas vacas e com as suas ovelhas; deixe que a cria fique sete dias com a mãe, mas no oitavo dia você a entregará para mim."
+    },
+    "31": {
+      "título": "",
+      "texto": "— Vocês serão homens consagrados a mim; portanto, não comam carne de animais dilacerados no campo; joguem essa carne aos cães."
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "livro": "Salmos",
+  "capítulo": 129,
+  "versículos": {
+    "1": {
+      "título": "Perseguido, mas não derrotado",
+      "texto": "Muitas vezes me angustiaram"
+    },
+    "2": {
+      "título": "",
+      "texto": "muitas vezes me angustiaram"
+    },
+    "3": {
+      "título": "",
+      "texto": "Os lavradores passaram o arado"
+    },
+    "4": {
+      "título": "",
+      "texto": "Mas o Senhor é justo;"
+    },
+    "5": {
+      "título": "",
+      "texto": "Sejam envergonhados e repelidos"
+    },
+    "6": {
+      "título": "",
+      "texto": "Sejam como a erva dos telhados,"
+    },
+    "7": {
+      "título": "",
+      "texto": "que não enche a mão do ceifeiro,"
+    },
+    "8": {
+      "título": "",
+      "texto": "E também os que passam"
+    }
+  }
+}

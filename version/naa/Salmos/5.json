@@ -1,0 +1,54 @@
+{
+  "livro": "Salmos",
+  "capítulo": 5,
+  "versículos": {
+    "1": {
+      "título": "Oração pedindo a proteção de Deus",
+      "texto": "Dá ouvidos, Senhor ,"
+    },
+    "2": {
+      "título": "",
+      "texto": "Escuta, Rei meu e Deus meu,"
+    },
+    "3": {
+      "título": "",
+      "texto": "De manhã, Senhor ,"
+    },
+    "4": {
+      "título": "",
+      "texto": "Pois tu não és Deus que se agrade"
+    },
+    "5": {
+      "título": "",
+      "texto": "Os arrogantes não permanecerão"
+    },
+    "6": {
+      "título": "",
+      "texto": "Tu destróis os que proferem"
+    },
+    "7": {
+      "título": "",
+      "texto": "Eu, porém, pela riqueza"
+    },
+    "8": {
+      "título": "",
+      "texto": "Senhor , guia-me na tua justiça,"
+    },
+    "9": {
+      "título": "",
+      "texto": "Porque na boca dos meus"
+    },
+    "10": {
+      "título": "",
+      "texto": "Declara-os culpados, ó Deus;"
+    },
+    "11": {
+      "título": "",
+      "texto": "Mas alegrem-se todos"
+    },
+    "12": {
+      "título": "",
+      "texto": "Pois tu, Senhor ,"
+    }
+  }
+}

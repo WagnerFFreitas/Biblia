@@ -1,0 +1,70 @@
+{
+  "livro": "Cantares de Salomâo",
+  "capítulo": 5,
+  "versículos": {
+    "1": {
+      "título": "Esposo",
+      "texto": "Já entrei no meu jardim,"
+    },
+    "2": {
+      "título": "Esposa",
+      "texto": "Eu dormia, mas o meu coração"
+    },
+    "3": {
+      "título": "Esposa",
+      "texto": "Já tirei a minha túnica!"
+    },
+    "4": {
+      "título": "",
+      "texto": "O meu amado meteu a mão"
+    },
+    "5": {
+      "título": "",
+      "texto": "Eu me levantei para abrir a porta"
+    },
+    "6": {
+      "título": "",
+      "texto": "Abri a porta ao meu amado,"
+    },
+    "7": {
+      "título": "",
+      "texto": "Os guardas, que rondavam"
+    },
+    "8": {
+      "título": "",
+      "texto": "Filhas de Jerusalém, jurem:"
+    },
+    "9": {
+      "título": "Coro",
+      "texto": "O que é que o seu amado tem"
+    },
+    "10": {
+      "título": "Esposa",
+      "texto": "O meu amado é alvo e rosado,"
+    },
+    "11": {
+      "título": "",
+      "texto": "A sua cabeça é como o ouro"
+    },
+    "12": {
+      "título": "",
+      "texto": "Os seus olhos são como pombas"
+    },
+    "13": {
+      "título": "",
+      "texto": "As suas faces são como"
+    },
+    "14": {
+      "título": "",
+      "texto": "As suas mãos são"
+    },
+    "15": {
+      "título": "",
+      "texto": "As suas pernas são"
+    },
+    "16": {
+      "título": "",
+      "texto": "O seu falar é muito suave;"
+    }
+  }
+}

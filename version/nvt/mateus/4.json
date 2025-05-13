@@ -1,0 +1,27 @@
+{
+    "livro": "Mateus",
+    "capitulo": 4,
+    "titulos": {
+        "1": "A tentação de Jesus",
+        "12": "O início do ministério de Jesus",
+        "18": "Os primeiros discípulos",
+        "23": "Multidões seguem Jesus"
+    },
+    "versiculos": {
+        "1": "Em seguida, Jesus foi conduzido pelo Espírito ao deserto para ser tentado pelo diabo. Depois de passar quarenta dias e quarenta noites sem comer, teve fome.",
+        "3": "O tentador veio e lhe disse: \"Se você é o Filho de Deus, ordene que estas pedras se transformem em pães\".",
+        "4": "Jesus, porém, respondeu: \"As Escrituras dizem: ‘Uma pessoa não vive só de pão, mas de toda palavra que vem da boca de Deus’\".",
+        "5": "Então o diabo o levou à cidade santa, até o ponto mais alto do templo, e disse: \"Se você é o Filho de Deus, salte daqui. Pois as Escrituras dizem: ‘Ele ordenará a seus anjos que o protejam. Eles o sustentarão com as mãos, para que não machuque o pé em alguma pedra’\".",
+        "7": "Jesus respondeu: \"As Escrituras também dizem: ‘Não ponha à prova o Senhor, seu Deus’\".",
+        "8": "Em seguida, o diabo o levou até um monte muito alto e lhe mostrou todos os reinos do mundo e sua glória. \"Eu lhe darei tudo isto\", declarou. \"Basta ajoelhar-se e adorar-me.\"",
+        "10": "\"Saia daqui, Satanás!\", disse Jesus. \"Pois as Escrituras dizem: ‘Adore o Senhor, seu Deus, e sirva somente a ele’.\"",
+        "11": "Então o diabo foi embora, e anjos vieram e serviram Jesus.",
+        "12": "Quando Jesus soube que João havia sido preso, voltou à Galileia. Saindo de Nazaré, mudou-se para Cafarnaum, junto ao mar da Galileia, na região de Zebulom e Naftali. Cumpriu-se, desse modo, o que foi dito por meio do profeta Isaías:",
+        "15": "\"Na terra de Zebulom e Naftali, junto ao mar, além do rio Jordão, na Galileia, onde vivem tantos gentios,",
+        "16": "o povo que vivia na escuridão viu uma grande luz, e sobre os que viviam na terra onde a morte lança sua sombra, uma luz brilhou\".",
+        "17": "A partir de então, Jesus começou a anunciar sua mensagem: \"Arrependam-se, pois o reino dos céus está próximo\".",
+        "18": "Enquanto andava à beira do mar da Galileia, Jesus viu dois irmãos, Simão, também chamado Pedro, e André. Jogavam redes ao mar, pois viviam da pesca. Jesus lhes disse: \"Sigam-me, e eu farei de vocês pescadores de gente\". No mesmo instante, deixaram suas redes e o seguiram.",
+        "21": "Pouco adiante, Jesus viu outros dois irmãos, Tiago e João, consertando redes num barco com o pai, Zebedeu. Jesus os chamou, e eles também o seguiram de imediato, deixando para trás o barco e o pai.",
+        "23": "Jesus viajou por toda a região da Galileia, ensinando nas sinagogas, anunciando as boas-novas do reino e curando as pessoas de todo tipo de doenças. As notícias a seu respeito se espalharam até a Síria, e logo o povo começou a lhe trazer todos que estavam enfermos. Qualquer que fosse a enfermidade ou dor, quer estivessem possuídos por demônio, quer sofressem de convulsões, quer fossem paralíticos, Jesus os curava. Grandes multidões o seguiam, gente da Galileia, das Dez Cidades, de Jerusalém, de toda a Judeia e da região a leste do rio Jordão."
+    }
+}

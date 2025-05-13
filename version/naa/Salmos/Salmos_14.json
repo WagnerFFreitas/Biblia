@@ -1,0 +1,34 @@
+{
+  "livro": "Salmos",
+  "capítulo": 14,
+  "versículos": {
+    "1": {
+      "título": "A corrupção do pecador e sua redenção",
+      "texto": "Diz o insensato no seu coração:"
+    },
+    "2": {
+      "título": "",
+      "texto": "Do céu o Senhor olha"
+    },
+    "3": {
+      "título": "",
+      "texto": "Todos se desviaram"
+    },
+    "4": {
+      "título": "",
+      "texto": "Será que não entendem nada"
+    },
+    "5": {
+      "título": "",
+      "texto": "Lá, ficarão tomados"
+    },
+    "6": {
+      "título": "",
+      "texto": "Vocês querem frustrar"
+    },
+    "7": {
+      "título": "",
+      "texto": "Quem dera que de Sião viesse já"
+    }
+  }
+}

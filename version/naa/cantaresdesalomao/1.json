@@ -1,0 +1,74 @@
+{
+  "livro": "Cantares de Salomâo",
+  "capítulo": 1,
+  "versículos": {
+    "1": {
+      "título": "",
+      "texto": "Cântico dos cânticos de Salomão."
+    },
+    "2": {
+      "título": "Esposa",
+      "texto": "Beije-me com os beijos"
+    },
+    "3": {
+      "título": "",
+      "texto": "Suave é o aroma"
+    },
+    "4": {
+      "título": "",
+      "texto": "Leve-me com você!"
+    },
+    "5": {
+      "título": "Esposa",
+      "texto": "Eu sou morena e bonita,"
+    },
+    "6": {
+      "título": "",
+      "texto": "Não olhem para a minha"
+    },
+    "7": {
+      "título": "",
+      "texto": "Diga-me, ó amado"
+    },
+    "8": {
+      "título": "Esposo",
+      "texto": "Se você, a mais bela"
+    },
+    "9": {
+      "título": "",
+      "texto": "Comparo você, minha querida,"
+    },
+    "10": {
+      "título": "",
+      "texto": "O seu rosto fica lindo"
+    },
+    "11": {
+      "título": "",
+      "texto": "Faremos para você"
+    },
+    "12": {
+      "título": "Esposa",
+      "texto": "Enquanto o rei está assentado"
+    },
+    "13": {
+      "título": "",
+      "texto": "O meu amado é para mim"
+    },
+    "14": {
+      "título": "",
+      "texto": "O meu amado é para mim"
+    },
+    "15": {
+      "título": "Esposo",
+      "texto": "Como você é bela,"
+    },
+    "16": {
+      "título": "Esposa",
+      "texto": "Como você é belo, meu amado!"
+    },
+    "17": {
+      "título": "",
+      "texto": "As vigas da nossa casa"
+    }
+  }
+}

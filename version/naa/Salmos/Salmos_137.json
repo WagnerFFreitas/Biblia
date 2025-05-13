@@ -1,0 +1,42 @@
+{
+  "livro": "Salmos",
+  "capítulo": 137,
+  "versículos": {
+    "1": {
+      "título": "Saudades de Sião",
+      "texto": "Às margens dos rios da Babilônia,"
+    },
+    "2": {
+      "título": "",
+      "texto": "Nos salgueiros que lá havia,"
+    },
+    "3": {
+      "título": "",
+      "texto": "pois aqueles que"
+    },
+    "4": {
+      "título": "",
+      "texto": "Mas como poderíamos entoar"
+    },
+    "5": {
+      "título": "",
+      "texto": "Se eu me esquecer de você,"
+    },
+    "6": {
+      "título": "",
+      "texto": "Que a minha língua fique colada"
+    },
+    "7": {
+      "título": "",
+      "texto": "Contra os filhos de Edom,"
+    },
+    "8": {
+      "título": "",
+      "texto": "Filha da Babilônia,"
+    },
+    "9": {
+      "título": "",
+      "texto": "Feliz aquele que pegar"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "livro": "Salmos",
+  "capítulo": 93,
+  "versículos": {
+    "1": {
+      "título": "O poder e a majestade de Deus",
+      "texto": "Reina o Senhor ."
+    },
+    "2": {
+      "título": "",
+      "texto": "O teu trono está firme"
+    },
+    "3": {
+      "título": "",
+      "texto": "Levantam os rios, ó Senhor ,"
+    },
+    "4": {
+      "título": "",
+      "texto": "Mas o Senhor nas alturas"
+    },
+    "5": {
+      "título": "",
+      "texto": "Os teus testemunhos"
+    }
+  }
+}

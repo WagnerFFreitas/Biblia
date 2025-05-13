@@ -1,0 +1,26 @@
+{
+  "livro": "Oséias",
+  "capítulo": 3,
+  "versículos": {
+    "1": {
+      "título": "O amor de Deus pelo povo infiel",
+      "texto": "O Senhor me disse:"
+    },
+    "2": {
+      "título": "",
+      "texto": "Assim, comprei-a por quinze peças de prata e cento e cinquenta quilos de cevada."
+    },
+    "3": {
+      "título": "",
+      "texto": "E eu disse a ela:"
+    },
+    "4": {
+      "título": "",
+      "texto": "Porque os filhos de Israel ficarão por muito tempo sem rei, sem príncipe, sem sacrifício, sem coluna, sem estola sacerdotal ou ídolos do lar."
+    },
+    "5": {
+      "título": "",
+      "texto": "Depois, os filhos de Israel voltarão e buscarão o Senhor , seu Deus, e Davi, seu rei; e, nos últimos dias, tremendo, se aproximarão do Senhor e da sua bondade."
+    }
+  }
+}

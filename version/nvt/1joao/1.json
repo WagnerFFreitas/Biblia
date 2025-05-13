@@ -1,0 +1,13 @@
+{
+    "livro": "1 João",
+    "capitulo": 1,
+    "titulos": {
+        "1": "Introdução",
+        "5": "Viver na luz"
+    },
+    "versiculos": {
+        "1": "Proclamamos a vocês aquele que existia desde o princípio, aquele que ouvimos e vimos com nossos próprios olhos e tocamos com nossas próprias mãos. Ele é a Palavra da vida. Aquele que é a vida nos foi revelado, e nós o vimos. Agora, testemunhamos e lhes proclamamos que ele é a vida eterna. Ele estava com o Pai e nos foi revelado. Anunciamos-lhes aquilo que nós mesmos vimos e ouvimos, para que tenham comunhão conosco. E nossa comunhão é com o Pai e com seu Filho, Jesus Cristo. Escrevemos estas coisas para que vocês participem plenamente de nossa alegria.",
+        "5": "Esta é a mensagem que ouvimos dele e que agora lhes transmitimos: Deus é luz, e nele não há escuridão alguma. Portanto, se afirmamos que temos comunhão com ele mas vivemos na escuridão, mentimos e não praticamos a verdade. Mas, se vivemos na luz, como Deus está na luz, temos comunhão uns com os outros, e o sangue de Jesus, seu Filho, nos purifica de todo pecado.",
+        "8": "Se afirmamos que não temos pecados, enganamos a nós mesmos e não vivemos na verdade. Mas, se confessamos nossos pecados, ele é fiel e justo para perdoar nossos pecados e nos purificar de toda injustiça. Se afirmamos que não pecamos, chamamos Deus de mentiroso e mostramos que não há em nós lugar para sua palavra."
+    }
+}

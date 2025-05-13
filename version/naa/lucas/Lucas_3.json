@@ -1,0 +1,158 @@
+{
+  "livro": "Lucas",
+  "capítulo": 3,
+  "versículos": {
+    "1": {
+      "título": "A pregação de João Batista",
+      "texto": "No décimo quinto ano do reinado de Tibério César, sendo Pôncio Pilatos governador da Judeia, Herodes, tetrarca da Galileia, seu irmão Filipe, tetrarca da região da Itureia e Traconites, e Lisânias, tetrarca de Abilene,"
+    },
+    "2": {
+      "título": "",
+      "texto": "sendo sumos sacerdotes Anás e Caifás, a palavra de Deus veio a João, filho de Zacarias, no deserto."
+    },
+    "3": {
+      "título": "",
+      "texto": "Ele percorreu toda a região nas imediações do rio Jordão, pregando batismo de arrependimento para remissão de pecados,"
+    },
+    "4": {
+      "título": "",
+      "texto": "conforme está escrito no livro das palavras do profeta Isaías:"
+    },
+    "5": {
+      "título": "",
+      "texto": "Todos os vales serão aterrados,"
+    },
+    "6": {
+      "título": "",
+      "texto": "e toda a humanidade verá"
+    },
+    "7": {
+      "título": "",
+      "texto": "João dizia às multidões que saíam para ser batizadas:"
+    },
+    "8": {
+      "título": "",
+      "texto": "Produzam frutos dignos de arrependimento! E não comecem a dizer uns aos outros: “Temos por pai Abraão”, porque eu afirmo a vocês que Deus pode fazer com que destas pedras surjam filhos a Abraão."
+    },
+    "9": {
+      "título": "",
+      "texto": "E também o machado já está posto à raiz das árvores. Portanto, toda árvore que não produz bom fruto é cortada e lançada ao fogo."
+    },
+    "10": {
+      "título": "",
+      "texto": "Então as multidões perguntaram a João:"
+    },
+    "11": {
+      "título": "",
+      "texto": "Ele respondeu:"
+    },
+    "12": {
+      "título": "",
+      "texto": "Também alguns publicanos chegaram para ser batizados e perguntaram a João:"
+    },
+    "13": {
+      "título": "",
+      "texto": "Ele respondeu:"
+    },
+    "14": {
+      "título": "",
+      "texto": "Também soldados lhe perguntaram:"
+    },
+    "15": {
+      "título": "",
+      "texto": "Estando o povo na expectativa, e pensando todos em seu íntimo a respeito de João, se por acaso ele não seria o próprio Cristo,"
+    },
+    "16": {
+      "título": "",
+      "texto": "João tratou de explicar a todos:"
+    },
+    "17": {
+      "título": "",
+      "texto": "Ele tem a pá em suas mãos, para limpar a sua eira e recolher o trigo no seu celeiro; porém queimará a palha num fogo que nunca se apaga."
+    },
+    "18": {
+      "título": "",
+      "texto": "E assim, com muitas outras exortações, João anunciava o evangelho ao povo."
+    },
+    "19": {
+      "título": "",
+      "texto": "Mas Herodes, o tetrarca, sendo repreendido por João por causa de Herodias, mulher de seu irmão, e por todas as maldades que o mesmo Herodes havia feito,"
+    },
+    "20": {
+      "título": "",
+      "texto": "acrescentou a todas as outras ainda esta: mandou prender João."
+    },
+    "21": {
+      "título": "O batismo de Jesus",
+      "texto": "Ao ser todo o povo batizado, Jesus também foi batizado. E aconteceu que, enquanto ele orava, o céu se abriu,"
+    },
+    "22": {
+      "título": "",
+      "texto": "o Espírito Santo desceu sobre ele em forma corpórea como pomba, e do céu veio uma voz, que dizia:"
+    },
+    "23": {
+      "título": "A genealogia de Jesus Cristo",
+      "texto": "Ora, Jesus tinha cerca de trinta anos quando começou o seu ministério. Era, conforme se pensava, filho de José, filho de Eli,"
+    },
+    "24": {
+      "título": "",
+      "texto": "filho de Matate, filho de Levi, filho de Melqui, filho de Janai, filho de José,"
+    },
+    "25": {
+      "título": "",
+      "texto": "filho de Matatias, filho de Amós, filho de Naum, filho de Esli, filho de Nagai,"
+    },
+    "26": {
+      "título": "",
+      "texto": "filho de Maate, filho de Matatias, filho de Semei, filho de José, filho de Jodá,"
+    },
+    "27": {
+      "título": "",
+      "texto": "filho de Joanã, filho de Resa, filho de Zorobabel, filho de Salatiel, filho de Neri,"
+    },
+    "28": {
+      "título": "",
+      "texto": "filho de Melqui, filho de Adi, filho de Cosã, filho de Elmadã, filho de Er,"
+    },
+    "29": {
+      "título": "",
+      "texto": "filho de Josué, filho de Eliézer, filho de Jorim, filho de Matate, filho de Levi,"
+    },
+    "30": {
+      "título": "",
+      "texto": "filho de Simeão, filho de Judá, filho de José, filho de Jonã, filho de Eliaquim,"
+    },
+    "31": {
+      "título": "",
+      "texto": "filho de Meleá, filho de Mená, filho de Matatá, filho de Natã, filho de Davi,"
+    },
+    "32": {
+      "título": "",
+      "texto": "filho de Jessé, filho de Obede, filho de Boaz, filho de Salá, filho de Naassom,"
+    },
+    "33": {
+      "título": "",
+      "texto": "filho de Aminadabe, filho de Admim, filho de Arni, filho de Esrom, filho de Perez, filho de Judá,"
+    },
+    "34": {
+      "título": "",
+      "texto": "filho de Jacó, filho de Isaque, filho de Abraão, filho de Tera, filho de Naor,"
+    },
+    "35": {
+      "título": "",
+      "texto": "filho de Serugue, filho de Ragaú, filho de Faleque, filho de Éber, filho de Salá,"
+    },
+    "36": {
+      "título": "",
+      "texto": "filho de Cainã, filho de Arfaxade, filho de Sem, filho de Noé, filho de Lameque,"
+    },
+    "37": {
+      "título": "",
+      "texto": "filho de Metusalém, filho de Enoque, filho de Jarede, filho de Maalalel, filho de Cainã,"
+    },
+    "38": {
+      "título": "",
+      "texto": "filho de Enos, filho de Sete, filho de Adão, filho de Deus."
+    }
+  }
+}

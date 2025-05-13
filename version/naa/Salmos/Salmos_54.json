@@ -1,0 +1,34 @@
+{
+  "livro": "Salmos",
+  "capítulo": 54,
+  "versículos": {
+    "1": {
+      "título": "Oração pedindo a ajuda de Deus",
+      "texto": "Ó Deus, salva-me, pelo teu nome,"
+    },
+    "2": {
+      "título": "",
+      "texto": "Escuta, ó Deus, a minha oração,"
+    },
+    "3": {
+      "título": "",
+      "texto": "Pois contra mim se levantam"
+    },
+    "4": {
+      "título": "",
+      "texto": "Eis que Deus é o meu ajudador,"
+    },
+    "5": {
+      "título": "",
+      "texto": "Ele retribuirá o mal"
+    },
+    "6": {
+      "título": "",
+      "texto": "Eu te oferecerei sacrifícios"
+    },
+    "7": {
+      "título": "",
+      "texto": "Pois ele me livrou"
+    }
+  }
+}

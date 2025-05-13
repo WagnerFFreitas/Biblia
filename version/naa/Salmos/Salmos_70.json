@@ -1,0 +1,26 @@
+{
+  "livro": "Salmos",
+  "capítulo": 70,
+  "versículos": {
+    "1": {
+      "título": "Oração pedindo ajuda",
+      "texto": "Agrada-te, ó Deus,"
+    },
+    "2": {
+      "título": "",
+      "texto": "Que sejam envergonhados"
+    },
+    "3": {
+      "título": "",
+      "texto": "Retrocedam por causa"
+    },
+    "4": {
+      "título": "",
+      "texto": "Exultem e em ti se alegrem"
+    },
+    "5": {
+      "título": "",
+      "texto": "Eu sou pobre e necessitado;"
+    }
+  }
+}

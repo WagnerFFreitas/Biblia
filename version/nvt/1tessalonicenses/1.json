@@ -1,0 +1,14 @@
+{
+    "livro": "1 Tessalonicenses",
+    "capitulo": 1,
+    "titulos": {
+        "1": "Saudações de Paulo",
+        "2": "Ação de graças pelos tessalonicenses"
+    },
+    "versiculos": {
+        "1": "Nós, Paulo, Silas e Timóteo, escrevemos esta carta à igreja em Tessalônica, a vocês que estão em Deus, o Pai, e no Senhor Jesus Cristo. Que Deus lhes dê graça e paz.",
+        "2": "Sempre damos graças a Deus por todos vocês e os mencionamos constantemente em nossas orações. Quando oramos por vocês diante de nosso Deus e Pai, relembramos seu trabalho fiel, seus atos em amor e sua firme esperança em nosso Senhor Jesus Cristo.",
+        "4": "Sabemos, irmãos, que Deus os ama e os escolheu. Pois, quando lhes apresentamos as boas-novas, não o fizemos apenas com palavras, mas também com poder, visto que o Espírito Santo lhes deu plena certeza de que era verdade o que lhes dizíamos. E vocês sabem como nos comportamos entre vocês e em seu favor. Assim, apesar do sofrimento que isso lhes trouxe, vocês receberam a mensagem com a alegria que vem do Espírito Santo e se tornaram imitadores nossos e do Senhor. Com isso, tornaram-se exemplo para todos os irmãos na Grécia, tanto na Macedônia como na Acaia.",
+        "8": "Agora, partindo de vocês, a palavra do Senhor tem se espalhado por toda parte, até mesmo além da Macedônia e da Acaia, pois sua fé em Deus se tornou conhecida em todo lugar. Não precisamos sequer mencioná-la, pois as pessoas têm comentado sobre como vocês nos acolheram e como deixaram os ídolos a fim de servir ao Deus vivo e verdadeiro. Também comentam como vocês esperam do céu a vinda de Jesus, o Filho de Deus, a quem ele ressuscitou dos mortos e que nos livrará da ira que está para vir."
+    }
+}

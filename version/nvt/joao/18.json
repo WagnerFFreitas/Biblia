@@ -1,0 +1,42 @@
+{
+    "livro": "João",
+    "capitulo": 18,
+    "titulos": {
+        "1": "Jesus é traído e preso",
+        "13": "Pedro nega Jesus pela primeira vez",
+        "19": "O sumo sacerdote interroga Jesus",
+        "25": "Pedro nega Jesus pela segunda e terceira vez",
+        "28": "O julgamento de Jesus diante de Pilatos",
+        "39": "Jesus é condenado à morte"
+    },
+    "versiculos": {
+        "1": "Depois de dizer essas coisas, Jesus atravessou com seus discípulos o vale de Cedrom e entrou num bosque de oliveiras. Judas, o traidor, conhecia aquele lugar, pois Jesus tinha ido muitas vezes ali com seus discípulos. Os principais sacerdotes e fariseus tinham dado a Judas um destacamento de soldados e alguns guardas do templo para acompanhá-lo. Eles chegaram ao bosque de oliveiras com tochas, lanternas e armas.",
+        "4": "Jesus, sabendo tudo que ia lhe acontecer, foi ao encontro deles. \"A quem vocês procuram?\", perguntou.",
+        "5": "\"A Jesus, o nazareno\", responderam.",
+        "6": "\"Sou eu\", disse ele. (Judas, o traidor, estava com eles.) Quando Jesus disse: \"Sou eu\", todos recuaram e caíram para trás, no chão. Mais uma vez, ele perguntou: \"A quem vocês procuram?\". E, novamente, eles responderam: \"A Jesus, o nazareno\".",
+        "8": "\"Já lhes disse que sou eu\", respondeu ele. \"E, uma vez que é a mim que vocês procuram, deixem estes outros irem embora.\" Ele fez isso para cumprir sua própria declaração: \"Não perdi um só de todos que me deste\".",
+        "10": "Então Simão Pedro puxou uma espada e cortou a orelha direita de Malco, o servo do sumo sacerdote. Jesus, porém, disse a Pedro: \"Guarde sua espada de volta na bainha. Acaso não beberei o cálice que o Pai me deu?\".",
+        "12": "Assim, os soldados, seu comandante e os guardas do templo prenderam Jesus e o amarraram.",
+        "13": "Primeiro, levaram Jesus a Anás, pois era sogro de Caifás, o sumo sacerdote naquele ano. Caifás foi quem tinha dito aos outros líderes judeus: \"É melhor que um homem morra pelo povo\".",
+        "15": "Simão Pedro e outro discípulo seguiram Jesus. Esse outro discípulo era conhecido do sumo sacerdote, de modo que lhe permitiram entrar com Jesus no pátio do sumo sacerdote. Pedro teve de ficar do lado de fora do portão. Então o discípulo conhecido do sumo sacerdote falou com a moça que tomava conta do portão, e ela deixou Pedro entrar. A moça perguntou a Pedro: \"Você não é um dos discípulos daquele homem?\". \"Não\", respondeu ele. \"Não sou.\"",
+        "18": "Como fazia frio, os servos da casa e os guardas tinham feito uma fogueira com carvão e se esquentavam ao redor dela. Pedro estava ali com eles, esquentando-se também.",
+        "19": "Lá dentro, o sumo sacerdote começou a interrogar Jesus a respeito de seus discípulos e de seus ensinamentos. Jesus respondeu: \"Falei abertamente a todos. Ensinei regularmente nas sinagogas e no templo, onde o povo se reúne. Por que você me interroga? Pergunte aos que me ouviram. Eles sabem o que eu disse\".",
+        "22": "Um dos guardas do templo que estava perto bateu no rosto de Jesus, dizendo: \"Isso é maneira de responder ao sumo sacerdote?\".",
+        "23": "Jesus respondeu: \"Se eu disse algo errado, prove. Mas, se digo a verdade, por que você me bate?\".",
+        "24": "Então Anás amarrou Jesus e o enviou a Caifás, o sumo sacerdote.",
+        "25": "Nesse meio-tempo, enquanto Simão Pedro estava perto da fogueira, esquentando-se, perguntaram-lhe novamente: \"Você não é um dos discípulos dele?\". Ele negou, dizendo: \"Não sou\".",
+        "26": "Mas um dos servos da casa do sumo sacerdote, parente do homem de quem Pedro havia cortado a orelha, perguntou: \"Eu não vi você no bosque de oliveiras com Jesus?\". Mais uma vez, Pedro negou. E, no mesmo instante, o galo cantou.",
+        "28": "O julgamento de Jesus diante de Caifás terminou nas primeiras horas da manhã. Em seguida, foi levado ao palácio do governador romano. Seus acusadores não entraram, pois se contaminariam e não poderiam celebrar a Páscoa. Então o governador Pilatos foi até eles e perguntou: \"Qual é a acusação contra este homem?\".",
+        "30": "Eles responderam: \"Não o teríamos entregue ao senhor se ele não fosse um criminoso\".",
+        "31": "\"Então levem-no embora e julguem-no de acordo com a lei de vocês\", disse Pilatos.",
+        "32": "\"Só os romanos têm direito de executar alguém\", responderam os líderes judeus. Assim cumpriu-se a previsão de Jesus sobre como ele morreria.",
+        "33": "Então Pilatos entrou novamente no palácio e ordenou que trouxessem Jesus. \"Você é o rei dos judeus?\", perguntou ele.",
+        "34": "Jesus respondeu: \"Essa pergunta é sua ou outros lhe falaram a meu respeito?\".",
+        "35": "\"Acaso sou judeu?\", disse Pilatos. \"Seu próprio povo e os principais sacerdotes o trouxeram a mim para ser julgado. Por quê? O que você fez?\"",
+        "36": "Jesus respondeu: \"Meu reino não é deste mundo. Se fosse, meus seguidores lutariam para impedir que eu fosse entregue aos líderes judeus. Mas meu reino não procede deste mundo\".",
+        "37": "Pilatos disse: \"Então você é rei?\". \"Você diz que sou rei\", respondeu Jesus. \"De fato, nasci e vim ao mundo para testemunhar a verdade. Todos que amam a verdade ouvem minha voz.\"",
+        "38": "Pilatos perguntou: \"Que é a verdade?\".",
+        "39": "Depois que disse isso, Pilatos saiu outra vez para onde estava o povo e declarou: \"Ele não é culpado de crime algum. Mas vocês têm o costume de pedir que eu solte um prisioneiro cada ano, na Páscoa. Vocês querem que eu solte o ‘rei dos judeus’?\".",
+        "40": "Eles, porém, gritaram: \"Não! Esse homem, não! Queremos Barrabás!\". Esse Barrabás era um criminoso."
+    }
+}

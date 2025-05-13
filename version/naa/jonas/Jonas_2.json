@@ -1,0 +1,46 @@
+{
+  "livro": "Jonas",
+  "capítulo": 2,
+  "versículos": {
+    "1": {
+      "título": "A oração de Jonas",
+      "texto": "Então Jonas, do ventre do peixe, orou ao Senhor , seu Deus,"
+    },
+    "2": {
+      "título": "",
+      "texto": "e disse:"
+    },
+    "3": {
+      "título": "",
+      "texto": "Pois me lançaste"
+    },
+    "4": {
+      "título": "",
+      "texto": "Então eu disse:"
+    },
+    "5": {
+      "título": "",
+      "texto": "“As águas me cercaram"
+    },
+    "6": {
+      "título": "",
+      "texto": "Desci até os fundamentos"
+    },
+    "7": {
+      "título": "",
+      "texto": "Quando, dentro de mim,"
+    },
+    "8": {
+      "título": "",
+      "texto": "Os que adoram ídolos vãos"
+    },
+    "9": {
+      "título": "",
+      "texto": "Mas, com a voz"
+    },
+    "10": {
+      "título": "",
+      "texto": "E o Senhor falou ao peixe, e este vomitou Jonas na terra."
+    }
+  }
+}

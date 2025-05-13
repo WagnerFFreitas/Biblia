@@ -1,0 +1,42 @@
+{
+  "livro": "Salmos",
+  "capítulo": 47,
+  "versículos": {
+    "1": {
+      "título": "Deus, o rei de toda a terra",
+      "texto": "Batam palmas, todos os povos;"
+    },
+    "2": {
+      "título": "",
+      "texto": "Pois o Senhor Altíssimo"
+    },
+    "3": {
+      "título": "",
+      "texto": "Ele nos submeteu os povos"
+    },
+    "4": {
+      "título": "",
+      "texto": "Escolheu para nós"
+    },
+    "5": {
+      "título": "",
+      "texto": "Deus subiu em meio a aclamações,"
+    },
+    "6": {
+      "título": "",
+      "texto": "Cantem louvores a Deus,"
+    },
+    "7": {
+      "título": "",
+      "texto": "Deus é o Rei de toda a terra;"
+    },
+    "8": {
+      "título": "",
+      "texto": "Deus reina sobre as nações;"
+    },
+    "9": {
+      "título": "",
+      "texto": "Os príncipes dos povos"
+    }
+  }
+}

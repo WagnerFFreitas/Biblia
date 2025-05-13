@@ -1,0 +1,54 @@
+{
+  "livro": "Salmos",
+  "capítulo": 143,
+  "versículos": {
+    "1": {
+      "título": "Súplica por libertação",
+      "texto": "Ouve, Senhor , a minha oração,"
+    },
+    "2": {
+      "título": "",
+      "texto": "Não entres em juízo"
+    },
+    "3": {
+      "título": "",
+      "texto": "Pois o inimigo tem perseguido"
+    },
+    "4": {
+      "título": "",
+      "texto": "Por isso, dentro de mim"
+    },
+    "5": {
+      "título": "",
+      "texto": "Lembro-me dos dias de outrora,"
+    },
+    "6": {
+      "título": "",
+      "texto": "A ti levanto as mãos;"
+    },
+    "7": {
+      "título": "",
+      "texto": "Senhor , responde-me depressa!"
+    },
+    "8": {
+      "título": "",
+      "texto": "Faze-me ouvir, pela manhã,"
+    },
+    "9": {
+      "título": "",
+      "texto": "Livra-me, Senhor ,"
+    },
+    "10": {
+      "título": "",
+      "texto": "Ensina-me a fazer a tua vontade,"
+    },
+    "11": {
+      "título": "",
+      "texto": "Vivifica-me, Senhor ,"
+    },
+    "12": {
+      "título": "",
+      "texto": "E, por tua misericórdia,"
+    }
+  }
+}

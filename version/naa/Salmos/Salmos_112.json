@@ -1,0 +1,46 @@
+{
+  "livro": "Salmos",
+  "capítulo": 112,
+  "versículos": {
+    "1": {
+      "título": "A felicidade de quem teme a Deus",
+      "texto": "Aleluia!"
+    },
+    "2": {
+      "título": "",
+      "texto": "A sua descendência"
+    },
+    "3": {
+      "título": "",
+      "texto": "Na sua casa há prosperidade"
+    },
+    "4": {
+      "título": "",
+      "texto": "Aos justos, nasce luz nas trevas;"
+    },
+    "5": {
+      "título": "",
+      "texto": "Feliz aquele que se compadece"
+    },
+    "6": {
+      "título": "",
+      "texto": "não será jamais abalado;"
+    },
+    "7": {
+      "título": "",
+      "texto": "Não se atemoriza de más notícias;"
+    },
+    "8": {
+      "título": "",
+      "texto": "O seu coração, bem firmado,"
+    },
+    "9": {
+      "título": "",
+      "texto": "Distribui, dá aos pobres;"
+    },
+    "10": {
+      "título": "",
+      "texto": "O ímpio vê isso e fica com raiva;"
+    }
+  }
+}

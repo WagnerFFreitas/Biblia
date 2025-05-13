@@ -1,0 +1,54 @@
+{
+  "livro": "Salmos",
+  "capítulo": 97,
+  "versículos": {
+    "1": {
+      "título": "A majestade e o domínio de Deus",
+      "texto": "Reina o Senhor ."
+    },
+    "2": {
+      "título": "",
+      "texto": "Nuvens e escuridão o rodeiam,"
+    },
+    "3": {
+      "título": "",
+      "texto": "Adiante dele vai um fogo"
+    },
+    "4": {
+      "título": "",
+      "texto": "Os seus relâmpagos"
+    },
+    "5": {
+      "título": "",
+      "texto": "Os montes se derretem como cera"
+    },
+    "6": {
+      "título": "",
+      "texto": "Os céus anunciam a sua justiça,"
+    },
+    "7": {
+      "título": "",
+      "texto": "Sejam envergonhados todos"
+    },
+    "8": {
+      "título": "",
+      "texto": "Sião ouve e se alegra,"
+    },
+    "9": {
+      "título": "",
+      "texto": "Pois tu, Senhor , és o Altíssimo"
+    },
+    "10": {
+      "título": "",
+      "texto": "Vocês que amam o Senhor ,"
+    },
+    "11": {
+      "título": "",
+      "texto": "A luz se difunde para o justo,"
+    },
+    "12": {
+      "título": "",
+      "texto": "Alegrem-se no Senhor , ó justos,"
+    }
+  }
+}

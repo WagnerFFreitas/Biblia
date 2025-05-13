@@ -1,0 +1,198 @@
+{
+  "livro": "Mateus",
+  "capítulo": 5,
+  "versículos": {
+    "1": {
+      "título": "Caps.",
+      "texto": "Ao ver as multidões, Jesus subiu ao monte. Ele se assentou e os seus discípulos se aproximaram dele."
+    },
+    "2": {
+      "título": "",
+      "texto": "Então ele passou a ensiná-los."
+    },
+    "3": {
+      "título": "As bem-aventuranças",
+      "texto": "— Bem-aventurados"
+    },
+    "4": {
+      "título": "",
+      "texto": "— Bem-aventurados"
+    },
+    "5": {
+      "título": "",
+      "texto": "— Bem-aventurados os mansos,"
+    },
+    "6": {
+      "título": "",
+      "texto": "— Bem-aventurados"
+    },
+    "7": {
+      "título": "",
+      "texto": "— Bem-aventurados"
+    },
+    "8": {
+      "título": "",
+      "texto": "— Bem-aventurados"
+    },
+    "9": {
+      "título": "",
+      "texto": "— Bem-aventurados"
+    },
+    "10": {
+      "título": "",
+      "texto": "— Bem-aventurados"
+    },
+    "11": {
+      "título": "",
+      "texto": "— Bem-aventurados são vocês quando, por minha causa, os insultarem e os perseguirem, e, mentindo, disserem todo mal contra vocês."
+    },
+    "12": {
+      "título": "",
+      "texto": "Alegrem-se e exultem, porque é grande a sua recompensa nos céus; pois assim perseguiram os profetas que viveram antes de vocês."
+    },
+    "13": {
+      "título": "Sal e luz",
+      "texto": "— Vocês são o sal da terra; ora, se o sal vier a ser insípido, como lhe restaurar o sabor? Para nada mais presta senão para, lançado fora, ser pisado pelos homens."
+    },
+    "14": {
+      "título": "",
+      "texto": "— Vocês são a luz do mundo. Não se pode esconder uma cidade situada no alto de um monte."
+    },
+    "15": {
+      "título": "",
+      "texto": "Nem se acende uma lamparina para colocá-la debaixo de um cesto, mas num lugar adequado onde ilumina bem todos os que estão na casa."
+    },
+    "16": {
+      "título": "",
+      "texto": "Assim brilhe também a luz de vocês diante dos outros, para que vejam as boas obras que vocês fazem e glorifiquem o Pai de vocês, que está nos céus."
+    },
+    "17": {
+      "título": "Ensino a respeito da Lei",
+      "texto": "— Não pensem que vim revogar a Lei ou os Profetas; não vim para revogar, mas para cumprir."
+    },
+    "18": {
+      "título": "",
+      "texto": "Porque em verdade lhes digo: até que o céu e a terra passem, nem um i ou um til jamais passará da Lei, até que tudo se cumpra."
+    },
+    "19": {
+      "título": "",
+      "texto": "Aquele, pois, que desrespeitar um destes mandamentos, ainda que dos menores, e ensinar os outros a fazer o mesmo, será considerado mínimo no Reino dos Céus; aquele, porém, que os observar e ensinar, esse será considerado grande no Reino dos Céus."
+    },
+    "20": {
+      "título": "",
+      "texto": "Porque eu afirmo que, se a justiça de vocês não exceder em muito a dos escribas e fariseus, jamais entrarão no Reino dos Céus."
+    },
+    "21": {
+      "título": "Ensino a respeito da ira",
+      "texto": "— Vocês ouviram o que foi dito aos antigos: “Não mate.” E ainda: “Quem matar estará sujeito a julgamento.”"
+    },
+    "22": {
+      "título": "",
+      "texto": "Eu, porém, lhes digo que todo aquele que se irar contra o seu irmão estará sujeito a julgamento; e quem insultar o seu irmão estará sujeito a julgamento do tribunal; e quem o chamar de tolo estará sujeito ao inferno de fogo."
+    },
+    "23": {
+      "título": "",
+      "texto": "Portanto, se você estiver trazendo a sua oferta ao altar e lá se lembrar que o seu irmão tem alguma coisa contra você,"
+    },
+    "24": {
+      "título": "",
+      "texto": "deixe diante do altar a sua oferta e vá primeiro reconciliar-se com o seu irmão; e então volte e faça a sua oferta."
+    },
+    "25": {
+      "título": "",
+      "texto": "— Entre em acordo sem demora com o seu adversário, enquanto você está com ele a caminho, para que o adversário não entregue você ao juiz, o juiz entregue você ao oficial de justiça, e você seja jogado na prisão."
+    },
+    "26": {
+      "título": "",
+      "texto": "Em verdade lhe digo que você não sairá dali enquanto não pagar o último centavo."
+    },
+    "27": {
+      "título": "Ensino a respeito do adultério",
+      "texto": "— Vocês ouviram o que foi dito: “Não cometa adultério.”"
+    },
+    "28": {
+      "título": "",
+      "texto": "Eu, porém, lhes digo: todo o que olhar para uma mulher com intenção impura, já cometeu adultério com ela no seu coração."
+    },
+    "29": {
+      "título": "",
+      "texto": "— Se o seu olho direito leva você a tropeçar, arranque-o e jogue-o fora. Pois é preferível você perder uma parte do seu corpo do que ter o corpo inteiro lançado no inferno."
+    },
+    "30": {
+      "título": "",
+      "texto": "E, se a sua mão direita leva você a tropeçar, corte-a e jogue-a fora. Pois é preferível você perder uma parte do seu corpo do que o corpo inteiro ir para o inferno."
+    },
+    "31": {
+      "título": "Ensino a respeito do divórcio",
+      "texto": "— Também foi dito: “Aquele que repudiar a sua mulher deve dar-lhe uma carta de divórcio.”"
+    },
+    "32": {
+      "título": "",
+      "texto": "Eu, porém, lhes digo: quem repudiar a sua mulher, exceto em caso de relações sexuais ilícitas, a expõe a se tornar adúltera; e aquele que casar com a repudiada comete adultério."
+    },
+    "33": {
+      "título": "Ensino a respeito de juramentos",
+      "texto": "— Vocês também ouviram o que foi dito aos antigos: “Não faça juramento falso, mas cumpra rigorosamente para com o Senhor o que você jurou.”"
+    },
+    "34": {
+      "título": "",
+      "texto": "Eu, porém, lhes digo: não jurem de modo nenhum; nem pelo céu, por ser o trono de Deus;"
+    },
+    "35": {
+      "título": "",
+      "texto": "nem pela terra, por ser estrado de seus pés; nem por Jerusalém, por ser a cidade do grande Rei."
+    },
+    "36": {
+      "título": "",
+      "texto": "Não jure pela sua cabeça, porque você não pode fazer com que um só cabelo fique branco ou preto."
+    },
+    "37": {
+      "título": "",
+      "texto": "Que a palavra de vocês seja: Sim, sim; não, não. O que passar disto vem do Maligno."
+    },
+    "38": {
+      "título": "Ensino a respeito da vingança",
+      "texto": "— Vocês ouviram o que foi dito: “Olho por olho, dente por dente.”"
+    },
+    "39": {
+      "título": "",
+      "texto": "Eu, porém, lhes digo: Não resistam ao perverso. Se alguém lhe der um tapa na face direita, ofereça-lhe também a face esquerda."
+    },
+    "40": {
+      "título": "",
+      "texto": "Se alguém quer processar você e tirar-lhe a túnica, deixe que leve também a capa."
+    },
+    "41": {
+      "título": "",
+      "texto": "Se alguém obrigar você a andar uma milha, vá com ele duas."
+    },
+    "42": {
+      "título": "",
+      "texto": "Dê a quem lhe pede e não volte as costas ao que quer lhe pedir emprestado."
+    },
+    "43": {
+      "título": "O amor aos inimigos",
+      "texto": "— Vocês ouviram o que foi dito: “Ame o seu próximo e odeie o seu inimigo.”"
+    },
+    "44": {
+      "título": "",
+      "texto": "Eu, porém, lhes digo: amem os seus inimigos e orem pelos que perseguem vocês,"
+    },
+    "45": {
+      "título": "",
+      "texto": "para demonstrarem que são filhos do Pai de vocês, que está nos céus. Porque ele faz o seu sol nascer sobre maus e bons e vir chuvas sobre justos e injustos."
+    },
+    "46": {
+      "título": "",
+      "texto": "Porque, se vocês amam aqueles que os amam, que recompensa terão? Os publicanos também não fazem o mesmo?"
+    },
+    "47": {
+      "título": "",
+      "texto": "E, se saudarem somente os seus irmãos, o que é que estão fazendo de mais? Os gentios também não fazem o mesmo?"
+    },
+    "48": {
+      "título": "",
+      "texto": "Portanto, sejam perfeitos como é perfeito o Pai de vocês, que está no céu."
+    }
+  }
+}

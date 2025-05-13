@@ -1,0 +1,26 @@
+{
+  "livro": "Salmos",
+  "capítulo": 125,
+  "versículos": {
+    "1": {
+      "título": "Fé inabalável",
+      "texto": "Os que confiam no Senhor"
+    },
+    "2": {
+      "título": "",
+      "texto": "Como em volta de Jerusalém"
+    },
+    "3": {
+      "título": "",
+      "texto": "O cetro dos ímpios"
+    },
+    "4": {
+      "título": "",
+      "texto": "Faze o bem, Senhor ,"
+    },
+    "5": {
+      "título": "",
+      "texto": "Quanto aos que se desviam"
+    }
+  }
+}

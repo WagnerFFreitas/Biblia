@@ -1,0 +1,30 @@
+{
+  "livro": "Salmos",
+  "capítulo": 1,
+  "versículos": {
+    "1": {
+      "título": "Os justos e os ímpios",
+      "texto": "Bem-aventurado é aquele"
+    },
+    "2": {
+      "título": "",
+      "texto": "Pelo contrário, o seu prazer está"
+    },
+    "3": {
+      "título": "",
+      "texto": "Ele é como árvore plantada"
+    },
+    "4": {
+      "título": "",
+      "texto": "Os ímpios não são assim;"
+    },
+    "5": {
+      "título": "",
+      "texto": "Por isso, os ímpios"
+    },
+    "6": {
+      "título": "",
+      "texto": "Pois o Senhor conhece"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "livro": "Salmos",
+  "capítulo": 134,
+  "versículos": {
+    "1": {
+      "título": "Convite ao louvor a Deus",
+      "texto": "Bendigam o Senhor , todos vocês,"
+    },
+    "2": {
+      "título": "",
+      "texto": "Levantem as mãos para o santuário"
+    },
+    "3": {
+      "título": "",
+      "texto": "Que, de Sião, o Senhor ,"
+    }
+  }
+}

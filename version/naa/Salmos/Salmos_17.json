@@ -1,0 +1,66 @@
+{
+  "livro": "Salmos",
+  "capítulo": 17,
+  "versículos": {
+    "1": {
+      "título": "Súplica por proteção divina",
+      "texto": "Ouve, Senhor , a causa justa,"
+    },
+    "2": {
+      "título": "",
+      "texto": "Venha da tua presença"
+    },
+    "3": {
+      "título": "",
+      "texto": "Sondas o meu coração,"
+    },
+    "4": {
+      "título": "",
+      "texto": "Quanto às obras humanas,"
+    },
+    "5": {
+      "título": "",
+      "texto": "Os meus passos se acostumaram"
+    },
+    "6": {
+      "título": "",
+      "texto": "Eu te invoco, ó Deus,"
+    },
+    "7": {
+      "título": "",
+      "texto": "Mostra as maravilhas"
+    },
+    "8": {
+      "título": "",
+      "texto": "Guarda-me"
+    },
+    "9": {
+      "título": "",
+      "texto": "Protege-me dos perversos"
+    },
+    "10": {
+      "título": "",
+      "texto": "Insensíveis,"
+    },
+    "11": {
+      "título": "",
+      "texto": "andam agora cercando"
+    },
+    "12": {
+      "título": "",
+      "texto": "Parecem-se com o leão,"
+    },
+    "13": {
+      "título": "",
+      "texto": "Levanta-te, Senhor !"
+    },
+    "14": {
+      "título": "",
+      "texto": "Com a tua mão, Senhor ,"
+    },
+    "15": {
+      "título": "",
+      "texto": "Eu, porém, na justiça"
+    }
+  }
+}

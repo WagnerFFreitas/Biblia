@@ -1,0 +1,34 @@
+{
+  "livro": "Salmos",
+  "capítulo": 67,
+  "versículos": {
+    "1": {
+      "título": "Convite para louvar a Deus",
+      "texto": "Seja Deus gracioso para conosco,"
+    },
+    "2": {
+      "título": "",
+      "texto": "para que se conheça na terra"
+    },
+    "3": {
+      "título": "",
+      "texto": "Louvem-te os povos, ó Deus!"
+    },
+    "4": {
+      "título": "",
+      "texto": "Alegrem-se e exultem as nações,"
+    },
+    "5": {
+      "título": "",
+      "texto": "Louvem-te os povos, ó Deus!"
+    },
+    "6": {
+      "título": "",
+      "texto": "A terra deu o seu fruto,"
+    },
+    "7": {
+      "título": "",
+      "texto": "Que Deus nos abençoe,"
+    }
+  }
+}

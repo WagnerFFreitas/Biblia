@@ -1,0 +1,54 @@
+{
+  "livro": "Salmos",
+  "capítulo": 26,
+  "versículos": {
+    "1": {
+      "título": "Oração de um justo",
+      "texto": "Faze-me justiça, Senhor ,"
+    },
+    "2": {
+      "título": "",
+      "texto": "Examina-me, Senhor , e prova-me;"
+    },
+    "3": {
+      "título": "",
+      "texto": "Pois a tua misericórdia,"
+    },
+    "4": {
+      "título": "",
+      "texto": "Não me tenho assentado"
+    },
+    "5": {
+      "título": "",
+      "texto": "Detesto a assembleia"
+    },
+    "6": {
+      "título": "",
+      "texto": "Lavo as mãos na inocência"
+    },
+    "7": {
+      "título": "",
+      "texto": "para entoar, com voz alta,"
+    },
+    "8": {
+      "título": "",
+      "texto": "Eu amo, Senhor ,"
+    },
+    "9": {
+      "título": "",
+      "texto": "Não colhas a minha alma"
+    },
+    "10": {
+      "título": "",
+      "texto": "em cujas mãos há crimes"
+    },
+    "11": {
+      "título": "",
+      "texto": "Quanto a mim, porém,"
+    },
+    "12": {
+      "título": "",
+      "texto": "O meu pé está firme"
+    }
+  }
+}

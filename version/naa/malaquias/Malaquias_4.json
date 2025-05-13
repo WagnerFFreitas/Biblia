@@ -1,0 +1,30 @@
+{
+  "livro": "Malaquias",
+  "capítulo": 4,
+  "versículos": {
+    "1": {
+      "título": "O sol da justiça e seu precursor",
+      "texto": "— Pois eis que vem o dia, queimando como fornalha. Todos os soberbos e todos os que praticam o mal serão como a palha; o dia que vem os queimará, diz o Senhor dos Exércitos, de modo que não lhes deixará nem raiz nem ramo."
+    },
+    "2": {
+      "título": "",
+      "texto": "Mas para vocês que temem o meu nome nascerá o sol da justiça, trazendo salvação nas suas asas. Vocês sairão e saltarão como bezerros soltos da estrebaria."
+    },
+    "3": {
+      "título": "",
+      "texto": "Vocês pisarão os ímpios, pois eles se farão cinzas debaixo das plantas dos pés de vocês, naquele dia que prepararei, diz o Senhor dos Exércitos."
+    },
+    "4": {
+      "título": "",
+      "texto": "— Lembrem-se da Lei de Moisés, meu servo, a qual lhe prescrevi em Horebe para todo o Israel, a saber, estatutos e juízos."
+    },
+    "5": {
+      "título": "",
+      "texto": "— Eis que eu lhes enviarei o profeta Elias, antes que venha o grande e terrível Dia do Senhor ."
+    },
+    "6": {
+      "título": "",
+      "texto": "Ele converterá o coração dos pais aos seus filhos e o coração dos filhos aos seus pais, para que eu não venha e castigue a terra com maldição."
+    }
+  }
+}

@@ -49,8 +49,24 @@ function createCapitulosButtons(livro) {
         const button = document.createElement('button');
         button.textContent = `${i}`;
         button.classList.add('botao-capitulo');
+        
         button.addEventListener('click', () => {
-            toggleVersiculos(livro, i);
+            // Atualiza os valores globais primeiro
+            window.activeLivro = livro;
+            window.activeCapitulo = i;
+            
+            // Se estiver no modo leitura, força o recarregamento
+            if (window.isReadingModeEnabled) {
+                // Remove apenas o conteúdo de leitura existente
+                const content = document.querySelector('.content');
+                const oldContent = content.querySelector('.all-verses-content');
+                if (oldContent) oldContent.remove();
+                
+                // Recria o conteúdo do modo leitura
+                window.loadChapterInReadingMode(livro, i);
+            } else {
+                window.toggleVersiculos(livro, i);
+            }
         });
         capitulosContainer.appendChild(button);
     }
@@ -214,6 +230,33 @@ function loadBook(livro) {
     window.activeCapitulo = null;
     window.activeVersiculoButton = null;
 }
+
+// Função para alternar entre os modos de visualização
+function toggleViewMode(mode) {
+    // Remove todas as classes de modo
+    document.body.classList.remove('module-lista', 'module-leitura');
+    
+    // Adiciona a classe específica do modo selecionado
+    if (mode === 'lista') {
+        document.body.classList.add('module-lista');
+    } else if (mode === 'leitura') {
+        document.body.classList.add('module-leitura');
+    }
+}
+
+// Adiciona os event listeners para os botões/links que controlam os modos
+document.addEventListener('DOMContentLoaded', () => {
+    const modoListaBtn = document.querySelector('#modo-lista');
+    const modoLeituraBtn = document.querySelector('#modo-leitura');
+
+    if (modoListaBtn) {
+        modoListaBtn.addEventListener('click', () => toggleViewMode('lista'));
+    }
+    
+    if (modoLeituraBtn) {
+        modoLeituraBtn.addEventListener('click', () => toggleViewMode('leitura'));
+    }
+});
 
 document.addEventListener('DOMContentLoaded', () => {
     window.titulo = document.querySelector('.content h2');

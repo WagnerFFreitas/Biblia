@@ -1,0 +1,46 @@
+{
+  "livro": "Ester",
+  "capítulo": 7,
+  "versículos": {
+    "1": {
+      "título": "Ester denuncia Hamã",
+      "texto": "O rei foi com Hamã ao banquete da rainha Ester."
+    },
+    "2": {
+      "título": "",
+      "texto": "No segundo dia, durante o banquete do vinho, o rei perguntou a Ester:"
+    },
+    "3": {
+      "título": "",
+      "texto": "Então a rainha Ester disse:"
+    },
+    "4": {
+      "título": "",
+      "texto": "Porque fomos vendidos, eu e o meu povo, para sermos destruídos, mortos e aniquilados de vez. Se ainda nos tivessem vendido como escravos e escravas, eu me calaria, pois não valeria a pena incomodar o rei por uma coisa dessas."
+    },
+    "5": {
+      "título": "",
+      "texto": "Então o rei Assuero perguntou à rainha Ester:"
+    },
+    "6": {
+      "título": "",
+      "texto": "Ester respondeu:"
+    },
+    "7": {
+      "título": "",
+      "texto": "O rei, no seu furor, se levantou do banquete do vinho e passou para o jardim do palácio. Hamã, porém, ficou para rogar por sua vida à rainha Ester, pois viu que o mal contra ele já estava determinado pelo rei."
+    },
+    "8": {
+      "título": "",
+      "texto": "Quando o rei voltou do jardim do palácio para a casa do banquete do vinho, Hamã tinha caído sobre o divã em que se achava Ester. Então o rei disse:"
+    },
+    "9": {
+      "título": "",
+      "texto": "Então Harbona, um dos eunucos que serviam o rei, disse:"
+    },
+    "10": {
+      "título": "",
+      "texto": "E assim enforcaram Hamã na forca que ele tinha preparado para Mordecai. Então o furor do rei se aplacou."
+    }
+  }
+}

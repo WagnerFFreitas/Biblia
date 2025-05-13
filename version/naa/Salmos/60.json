@@ -1,0 +1,54 @@
+{
+  "livro": "Salmos",
+  "capítulo": 60,
+  "versículos": {
+    "1": {
+      "título": "Oração em tempos de guerra",
+      "texto": "Ó Deus, tu nos rejeitaste"
+    },
+    "2": {
+      "título": "",
+      "texto": "Abalaste a terra e a fendeste;"
+    },
+    "3": {
+      "título": "",
+      "texto": "Fizeste o teu povo"
+    },
+    "4": {
+      "título": "",
+      "texto": "Deste um estandarte"
+    },
+    "5": {
+      "título": "",
+      "texto": "Para que os teus amados"
+    },
+    "6": {
+      "título": "",
+      "texto": "Deus falou na sua santidade:"
+    },
+    "7": {
+      "título": "",
+      "texto": "Gileade é meu"
+    },
+    "8": {
+      "título": "",
+      "texto": "Moabe, porém,"
+    },
+    "9": {
+      "título": "",
+      "texto": "Quem me conduzirá"
+    },
+    "10": {
+      "título": "",
+      "texto": "Não nos rejeitaste, ó Deus?"
+    },
+    "11": {
+      "título": "",
+      "texto": "Presta-nos auxílio na angústia,"
+    },
+    "12": {
+      "título": "",
+      "texto": "Em Deus faremos proezas,"
+    }
+  }
+}

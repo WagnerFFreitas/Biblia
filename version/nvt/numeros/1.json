@@ -1,0 +1,38 @@
+{
+    "livro": "Números",
+    "capitulo": 1,
+    "titulos": {
+        "1": "Censo dos soldados de Israel"
+    },
+    "versiculos": {
+        "1": "No primeiro dia do segundo mês, no segundo ano desde a saída dos israelitas do Egito, o Senhor falou a Moisés na tenda do encontro, no deserto do Sinai, e disse: \"Realize um censo de toda a comunidade de Israel, de acordo com seus clãs e famílias. Faça uma lista de todos os homens de 20 anos para cima, aptos para irem à guerra. Você e Arão registrarão os soldados com a ajuda do chefe dos clãs de cada uma das tribos.",
+        "5": "\"Estes são os chefes dos clãs que os ajudarão, conforme suas tribos: da tribo de Rúben, Elizur, filho de Sedeur;",
+        "6": "da tribo de Simeão, Selumiel, filho de Zurisadai;",
+        "7": "da tribo de Judá, Naassom, filho de Aminadabe;",
+        "8": "da tribo de Issacar, Natanael, filho de Zuar;",
+        "9": "da tribo de Zebulom, Eliabe, filho de Helom;",
+        "10": "da tribo de Efraim, filho de José, Elisama, filho de Amiúde; da tribo de Manassés, filho de José, Gamaliel, filho de Pedazur;",
+        "11": "da tribo de Benjamim, Abidã, filho de Gideoni;",
+        "12": "da tribo de Dã, Aieser, filho de Amisadai;",
+        "13": "da tribo de Aser, Pagiel, filho de Ocrã;",
+        "14": "da tribo de Gade, Eliasafe, filho de Deuel;",
+        "15": "da tribo de Naftali, Aira, filho de Enã.",
+        "16": "Esses são os representantes escolhidos da comunidade, líderes das tribos de seus antepassados, chefes dos clãs de Israel\".",
+        "17": "Assim, Moisés e Arão convocaram os líderes nomeados e, naquele mesmo dia, reuniram toda a comunidade. Todos foram registrados conforme sua linhagem, de acordo com seus clãs e famílias. Os homens de 20 anos para cima foram registrados um a um, como o Senhor tinha ordenado a Moisés. Desse modo, Moisés registrou seus nomes enquanto estavam no deserto do Sinai, na seguinte ordem:",
+        "20": "Da tribo de Rúben, o filho mais velho de Jacó, os homens de 20 anos para cima, aptos para irem à guerra, conforme os nomes anotados nos registros de seus clãs e famílias, totalizaram 46.500. Esse é o número da tribo de Rúben.",
+        "22": "Da tribo de Simeão, os homens de 20 anos para cima, aptos para irem à guerra, conforme os nomes anotados nos registros de seus clãs e famílias, totalizaram 59.300. Esse é o número da tribo de Simeão.",
+        "24": "Da tribo de Gade, os homens de 20 anos para cima, aptos para irem à guerra, conforme os nomes anotados nos registros de seus clãs e famílias, totalizaram 45.650. Esse é o número da tribo de Gade.",
+        "26": "Da tribo de Judá, os homens de 20 anos para cima, aptos para irem à guerra, conforme os nomes anotados nos registros de seus clãs e famílias, totalizaram 74.600. Esse é o número da tribo de Judá.",
+        "28": "Da tribo de Issacar, os homens de 20 anos para cima, aptos para irem à guerra, conforme os nomes anotados nos registros de seus clãs e famílias, totalizaram 54.400. Esse é o número da tribo de Issacar.",
+        "30": "Da tribo de Zebulom, os homens de 20 anos para cima, aptos para irem à guerra, conforme os nomes anotados nos registros de seus clãs e famílias, totalizaram 57.400. Esse é o número da tribo de Zebulom.",
+        "32": "Da tribo de Efraim, filho de José, os homens de 20 anos para cima, aptos para irem à guerra, conforme os nomes anotados nos registros de seus clãs e famílias, totalizaram 40.500. Esse é o número da tribo de Efraim.",
+        "34": "Da tribo de Manassés, filho de José, os homens de 20 anos para cima, aptos para irem à guerra, conforme os nomes anotados nos registros de seus clãs e famílias, totalizaram 32.200. Esse é o número da tribo de Manassés.",
+        "36": "Da tribo de Benjamim, os homens de 20 anos para cima, aptos para irem à guerra, conforme os nomes anotados nos registros de seus clãs e famílias, totalizaram 35.400. Esse é o número da tribo de Benjamim.",
+        "38": "Da tribo de Dã, os homens de 20 anos para cima, aptos para irem à guerra, conforme os nomes anotados nos registros de seus clãs e famílias, totalizaram 62.700. Esse é o número da tribo de Dã.",
+        "40": "Da tribo de Aser, os homens de 20 anos para cima, aptos para irem à guerra, conforme os nomes anotados nos registros de seus clãs e famílias, totalizaram 41.500. Esse é o número da tribo de Aser.",
+        "42": "Da tribo de Naftali, os homens de 20 anos para cima, aptos para irem à guerra, conforme os nomes anotados nos registros de seus clãs e famílias, totalizaram 53.400. Esse é o número da tribo de Naftali.",
+        "44": "Moisés, Arão e os doze líderes de Israel registraram esses homens, todos incluídos na lista de acordo com suas famílias. Todos os homens de Israel de 20 anos para cima, aptos para irem à guerra, foram registrados de acordo com suas famílias. No total, 603.550 homens.",
+        "47": "Esse total, porém, não incluía os clãs dos levitas, pois o Senhor tinha dito a Moisés: \"Não inclua a tribo de Levi no censo e não conte seus membros com o restante dos israelitas. Encarregue os levitas de cuidarem do tabernáculo da aliança e de toda a sua mobília e todos os seus utensílios. Eles transportarão o tabernáculo e todos os seus utensílios, cuidarão dele e acamparão ao seu redor. Sempre que o tabernáculo tiver de ser transportado, os levitas o desmontarão. Na hora de acampar, eles o armarão novamente. Qualquer pessoa não autorizada que se aproximar do tabernáculo será executada. Os israelitas acamparão de acordo com suas divisões numa área designada por sua bandeira. Os levitas, por sua vez, acamparão ao redor do tabernáculo da aliança para proteger a comunidade de Israel da ira do Senhor . É responsabilidade dos levitas montar guarda ao redor do tabernáculo da aliança\".",
+        "54": "Os israelitas fizeram exatamente conforme o Senhor havia ordenado a Moisés."
+    }
+}

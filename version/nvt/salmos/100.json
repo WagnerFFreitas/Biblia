@@ -1,0 +1,14 @@
+{
+    "livro": "Salmos",
+    "capitulo": 100,
+    "titulos": {
+        "1": "Salmo de ações de graças."
+    },
+    "versiculos": {
+        "1": "Aclamem ao Senhor todos os habitantes da terra!",
+        "2": "Sirvam ao Senhor com alegria, apresentem-se diante dele com cânticos.",
+        "3": "Reconheçam que o Senhor é Deus! Ele nos criou e a ele pertencemos; somos seu povo, o rebanho que ele pastoreia.",
+        "4": "Entrem por suas portas com ações de graças e, em seus pátios, com cânticos de louvor; deem-lhe graças e louvem o seu nome.",
+        "5": "Pois o Senhor é bom! Seu amor dura para sempre, e sua fidelidade, por todas as gerações."
+    }
+}

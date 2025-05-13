@@ -1,0 +1,34 @@
+{
+  "livro": "Salmos",
+  "capítulo": 142,
+  "versículos": {
+    "1": {
+      "título": "Oração pedindo ajuda",
+      "texto": "Ao Senhor ergo"
+    },
+    "2": {
+      "título": "",
+      "texto": "Derramo diante dele"
+    },
+    "3": {
+      "título": "",
+      "texto": "Quando dentro de mim"
+    },
+    "4": {
+      "título": "",
+      "texto": "Olha à minha direita e vê,"
+    },
+    "5": {
+      "título": "",
+      "texto": "A ti clamo, Senhor ,"
+    },
+    "6": {
+      "título": "",
+      "texto": "Atende ao meu clamor,"
+    },
+    "7": {
+      "título": "",
+      "texto": "Tira a minha alma do cárcere"
+    }
+  }
+}

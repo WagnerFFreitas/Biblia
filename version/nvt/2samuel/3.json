@@ -1,0 +1,35 @@
+{
+    "livro": "2 Samuel",
+    "capitulo": 3,
+    "titulos": {
+        "2": "Os filhos de Davi nascidos em Hebrom",
+        "6": "Abner une forças com Davi",
+        "22": "Abner é assassinado por Joabe",
+        "31": "Davi lamenta a morte de Abner"
+    },
+    "versiculos": {
+        "1": "Assim começou uma longa guerra entre a família de Saul e a família de Davi. Com o tempo, Davi se fortaleceu cada vez mais, e a família de Saul foi se enfraquecendo.",
+        "2": "Estes são os filhos de Davi que nasceram em Hebrom: O mais velho era Amnom, filho de Ainoã, de Jezreel.",
+        "3": "O segundo era Daniel, filho de Abigail, a viúva de Nabal, do Carmelo. O terceiro era Absalão, filho de Maaca, filha de Talmai, rei de Gesur.",
+        "4": "O quarto era Adonias, filho de Hagite. O quinto era Sefatias, filho de Abital.",
+        "5": "O sexto era Itreão, filho de Eglá, esposa de Davi. Todos esses filhos de Davi nasceram em Hebrom.",
+        "6": "Enquanto continuava a guerra entre as famílias de Saul e de Davi, Abner se tornou um líder cada vez mais influente entre a família de Saul. Um dia, Isbosete, filho de Saul, acusou Abner de ter relações com uma das concubinas de Saul, uma mulher chamada Rispa, filha de Aiá.",
+        "8": "Abner ficou furioso com as palavras de Isbosete. \"Por acaso sou um cão de Judá para ser tratado dessa maneira?\", gritou ele. \"Depois de tudo que fiz por seu pai, Saul, e pela família e os amigos dele ao não entregar você a Davi, minha recompensa é ser acusado por causa dessa mulher? Que Deus me castigue severamente se eu não fizer por Davi tudo que o Senhor prometeu a ele! Tomarei o reino da família de Saul e o entregarei a Davi. Estabelecerei o trono de Davi tanto sobre Israel como sobre Judá, desde Dã, ao norte, até Berseba, ao sul!\" Isbosete não se atreveu a dizer nem mais uma palavra, pois teve medo do que Abner poderia fazer.",
+        "12": "Então Abner enviou mensageiros para dizer a Davi: \"Afinal, a quem pertence esta terra? Faça um acordo comigo, e eu o ajudarei a conseguir o apoio de todo o Israel\".",
+        "13": "\"Está bem\", respondeu Davi. \"Mas só farei acordo com você se, quando vier para cá, trouxer de volta minha esposa Mical, filha de Saul.\"",
+        "14": "Davi enviou a seguinte mensagem a Isbosete, filho de Saul: \"Devolva minha esposa Mical, pois eu conquistei o direito de me casar com ela com os prepúcios de cem filisteus\".",
+        "15": "Então Isbosete mandou tirar Mical de seu marido, Palti, filho de Laís. Palti a seguiu até Baurim, chorando ao longo de todo o caminho, até que Abner lhe disse: \"Volte para casa!\", e ele voltou.",
+        "17": "Abner reuniu as autoridades de Israel e lhes disse: \"Faz algum tempo que vocês querem declarar Davi seu rei. Chegou a hora de agir! Pois o Senhor disse: ‘Escolhi meu servo Davi para livrar meu povo, Israel, das mãos dos filisteus e de todos os seus inimigos’\". Abner também falou com os homens de Benjamim. Depois, foi a Hebrom para dizer a Davi que todo o povo de Israel e de Benjamim tinha concordado em apoiá-lo.",
+        "20": "Quando Abner, acompanhado de vinte homens, chegou a Hebrom, Davi os recebeu com um grande banquete. Então Abner disse a Davi: \"Deixe que eu vá e convoque uma reunião de todo o Israel para apoiar meu senhor, o rei. Farão uma aliança com o senhor para que reine sobre eles, e o senhor governará sobre tudo que seu coração desejar\". Davi se despediu dele, e Abner partiu em paz.",
+        "22": "Contudo, logo depois que Davi despediu Abner em paz, Joabe e alguns dos soldados de Davi retornaram de um ataque, trazendo muitos despojos. Quando Joabe chegou, foi informado de que Abner, filho de Ner, tinha acabado de visitar o rei, que o havia despedido em paz.",
+        "24": "Joabe foi até o rei e perguntou: \"O que foi que o senhor fez? Por que deixou Abner escapar? O senhor conhece muito bem Abner, filho de Ner! Sabe que ele veio espioná-lo e descobrir tudo que o senhor anda fazendo!\".",
+        "26": "Então Joabe saiu da presença de Davi e enviou mensageiros para alcançar Abner. Eles o encontraram perto do poço de Sirá e o trouxeram de volta, sem que Davi soubesse. Quando Abner chegou a Hebrom, Joabe o chamou para um lado, junto ao portão da cidade, como se fosse falar com ele em particular. Então, apunhalou-o no estômago e o matou para vingar a morte de Asael, seu irmão.",
+        "28": "Quando Davi soube o que havia acontecido, declarou: \"Juro pelo Senhor que eu e meu reino somos para sempre inocentes desse crime contra Abner, filho de Ner. Que essa culpa permaneça sobre Joabe e sua família! Que em todas as gerações da família de Joabe nunca falte um homem que tenha fluxo ou lepra, que use muletas, que morra pela espada, ou que tenha de mendigar o alimento!\".",
+        "30": "Assim, Joabe e seu irmão Abisai assassinaram Abner, pois ele havia matado Asael, irmão deles, na batalha em Gibeom.",
+        "31": "Então Davi disse a Joabe e a todos que estavam com ele: \"Rasguem suas roupas e vistam pano de saco. Lamentem a morte de Abner\", e o próprio rei seguiu o cortejo fúnebre. Sepultaram Abner em Hebrom, e o rei chorou em alta voz junto ao túmulo, e todo o povo lamentou com ele. Então o rei entoou esta canção fúnebre: \"Acaso Abner devia morrer como um vilão?",
+        "34": "Suas mãos não estavam atadas, nem seus pés acorrentados. Não, você foi assassinado, vítima de uma trama perversa\".",
+        "35": "Todo o povo lamentou uma vez mais por Abner. Davi tinha se recusado a comer no dia do funeral, e todos insistiram para que ele se alimentasse. Mas ele havia feito um voto: \"Que Deus me castigue severamente se eu comer alguma coisa antes do pôr do sol\".",
+        "36": "Seu voto agradou muito o povo. De fato, aprovavam tudo que o rei fazia. Assim, todos em Judá e em Israel entenderam que Davi não era responsável pelo assassinato de Abner, filho de Ner.",
+        "38": "Então o rei disse a seus oficiais: \"Não percebem que um grande comandante caiu hoje em Israel? E, embora eu seja o rei ungido, esses dois filhos de Zeruia, Joabe e Abisai, são fortes demais para que eu os controle. Que o Senhor retribua a esses homens maus por sua maldade\"."
+    }
+}

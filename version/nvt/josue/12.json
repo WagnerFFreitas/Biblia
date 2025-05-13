@@ -1,0 +1,31 @@
+{
+    "livro": "Josué",
+    "capitulo": 12,
+    "titulos": {
+        "1": "Reis derrotados a leste do Jordão",
+        "7": "Reis derrotados a oeste do Jordão"
+    },
+    "versiculos": {
+        "1": "Estes são os reis a leste do Jordão que os israelitas mataram e de cujas terras se apossaram. Seu território se estendia desde o vale do Arnom até o monte Hermom, e incluía toda a terra no lado leste do vale do Jordão.",
+        "2": "Derrotaram Seom, rei dos amorreus, que vivia em Hesbom. Seu reino abrangia Aroer, à beira do vale do Arnom, e se estendia desde a cidade no meio do vale até o rio Jaboque, que é a divisa com os amonitas. Esse território incluía toda a metade sul de Gileade. Seom também controlava o vale do Jordão e algumas regiões a leste, desde o mar da Galileia, ao norte, até o mar Morto, ao sul, incluindo o caminho para Bete-Jesimote e, mais ao sul, as encostas do monte Pisga.",
+        "4": "Derrotaram Ogue, rei de Basã e o último dos refains, que vivia em Astarote e em Edrei. Ele governava o território que se estendia desde o monte Hermom até Salcá, ao norte; toda a região de Basã, a leste, até a divisa com os reinos de Gesur e Maaca, a oeste. Esse território abrangia a metade norte de Gileade, até a divisa com Seom, rei de Hesbom.",
+        "6": "Moisés, servo do Senhor , e os israelitas haviam destruído o povo do rei Seom e o povo do rei Ogue. Moisés havia entregado a terra deles como propriedade às tribos de Rúben e Gade e à meia tribo de Manassés.",
+        "7": "Esta é a lista dos reis que Josué e os israelitas derrotaram a oeste do rio Jordão, desde Baal-Gade, no vale do Líbano, até o monte Halaque, que sobe em direção a Seir. Josué deu essa terra como propriedade às tribos de Israel e a repartiu entre elas. A terra abrangia a região montanhosa, as colinas do oeste, o vale do Jordão, as encostas dos montes, o deserto e o Neguebe. Nessa região viviam os hititas, os amorreus, os cananeus, os ferezeus, os heveus e os jebuseus. Estes são os reis que Israel derrotou:",
+        "9": "O rei de Jericó, o rei de Ai, próxima a Betel,",
+        "10": "o rei de Jerusalém, o rei de Hebrom,",
+        "11": "o rei de Jarmute, o rei de Laquis,",
+        "12": "o rei de Eglom, o rei de Gezer,",
+        "13": "o rei de Debir, o rei de Geder,",
+        "14": "o rei de Hormá, o rei de Arade,",
+        "15": "o rei de Libna, o rei de Adulão,",
+        "16": "o rei de Maquedá, o rei de Betel,",
+        "17": "o rei de Tapua, o rei de Héfer,",
+        "18": "o rei de Afeque, o rei de Lasarom,",
+        "19": "o rei de Madom, o rei de Hazor,",
+        "20": "o rei de Sinrom-Merom, o rei de Acsafe,",
+        "21": "o rei de Taanaque, o rei de Megido,",
+        "22": "o rei de Quedes, o rei de Jocneão, no Carmelo,",
+        "23": "o rei de Dor, na cidade de Nafote-Dor, o rei de Goim, em Gilgal,",
+        "24": "e o rei de Tirza. Ao todo, os israelitas derrotaram 31 reis."
+    }
+}

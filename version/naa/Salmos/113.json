@@ -1,0 +1,42 @@
+{
+  "livro": "Salmos",
+  "capítulo": 113,
+  "versículos": {
+    "1": {
+      "título": "Louvor a Deus pela sua bondade",
+      "texto": "Aleluia!"
+    },
+    "2": {
+      "título": "",
+      "texto": "Bendito seja o nome do Senhor ,"
+    },
+    "3": {
+      "título": "",
+      "texto": "Do nascimento do sol"
+    },
+    "4": {
+      "título": "",
+      "texto": "Excelso é o Senhor ,"
+    },
+    "5": {
+      "título": "",
+      "texto": "Quem é semelhante ao Senhor ,"
+    },
+    "6": {
+      "título": "",
+      "texto": "que se inclina para ver"
+    },
+    "7": {
+      "título": "",
+      "texto": "Ele levanta o pobre do pó"
+    },
+    "8": {
+      "título": "",
+      "texto": "para o fazer sentar"
+    },
+    "9": {
+      "título": "",
+      "texto": "O Senhor faz com que"
+    }
+  }
+}

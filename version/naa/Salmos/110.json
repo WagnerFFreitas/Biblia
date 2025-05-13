@@ -1,0 +1,34 @@
+{
+  "livro": "Salmos",
+  "capítulo": 110,
+  "versículos": {
+    "1": {
+      "título": "O reino e o sacerdócio do Messias",
+      "texto": "Disse o Senhor"
+    },
+    "2": {
+      "título": "",
+      "texto": "O Senhor lhe enviará de Sião"
+    },
+    "3": {
+      "título": "",
+      "texto": "O seu povo se apresentará"
+    },
+    "4": {
+      "título": "",
+      "texto": "O Senhor jurou"
+    },
+    "5": {
+      "título": "",
+      "texto": "O Senhor, à sua direita,"
+    },
+    "6": {
+      "título": "",
+      "texto": "Ele julgará entre as nações,"
+    },
+    "7": {
+      "título": "",
+      "texto": "No caminho,"
+    }
+  }
+}

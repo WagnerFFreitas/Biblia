@@ -1,0 +1,30 @@
+{
+  "livro": "Salmos",
+  "capítulo": 126,
+  "versículos": {
+    "1": {
+      "título": "Consolo para os que choram",
+      "texto": "Quando o Senhor restaurou"
+    },
+    "2": {
+      "título": "",
+      "texto": "Então a nossa boca"
+    },
+    "3": {
+      "título": "",
+      "texto": "De fato, grandes coisas"
+    },
+    "4": {
+      "título": "",
+      "texto": "Restaura, Senhor , a nossa sorte,"
+    },
+    "5": {
+      "título": "",
+      "texto": "Os que com lágrimas semeiam"
+    },
+    "6": {
+      "título": "",
+      "texto": "Quem sai andando e chorando,"
+    }
+  }
+}

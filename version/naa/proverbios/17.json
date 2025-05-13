@@ -1,0 +1,118 @@
+{
+  "livro": "Provérbios",
+  "capítulo": 17,
+  "versículos": {
+    "1": {
+      "título": "",
+      "texto": "Melhor é um bocado seco"
+    },
+    "2": {
+      "título": "",
+      "texto": "O escravo sábio dominará sobre"
+    },
+    "3": {
+      "título": "",
+      "texto": "O crisol prova a prata"
+    },
+    "4": {
+      "título": "",
+      "texto": "O malfeitor dá atenção"
+    },
+    "5": {
+      "título": "",
+      "texto": "Quem zomba do pobre insulta"
+    },
+    "6": {
+      "título": "",
+      "texto": "Coroa dos velhos"
+    },
+    "7": {
+      "título": "",
+      "texto": "Palavras bonitas"
+    },
+    "8": {
+      "título": "",
+      "texto": "O suborno é pedra mágica"
+    },
+    "9": {
+      "título": "",
+      "texto": "Quem encobre a transgressão"
+    },
+    "10": {
+      "título": "",
+      "texto": "Uma repreensão cala mais fundo"
+    },
+    "11": {
+      "título": "",
+      "texto": "O rebelde só procura"
+    },
+    "12": {
+      "título": "",
+      "texto": "Melhor é encontrar uma ursa"
+    },
+    "13": {
+      "título": "",
+      "texto": "Quanto àquele que paga"
+    },
+    "14": {
+      "título": "",
+      "texto": "Começar uma discussão é como"
+    },
+    "15": {
+      "título": "",
+      "texto": "O Senhor detesta"
+    },
+    "16": {
+      "título": "",
+      "texto": "De que serviria o dinheiro"
+    },
+    "17": {
+      "título": "",
+      "texto": "O amigo ama em todo tempo,"
+    },
+    "18": {
+      "título": "",
+      "texto": "Quem não tem juízo"
+    },
+    "19": {
+      "título": "",
+      "texto": "Quem ama a discórdia"
+    },
+    "20": {
+      "título": "",
+      "texto": "O perverso de coração"
+    },
+    "21": {
+      "título": "",
+      "texto": "Quem gera um tolo faz isso"
+    },
+    "22": {
+      "título": "",
+      "texto": "O coração alegre é bom remédio,"
+    },
+    "23": {
+      "título": "",
+      "texto": "O ímpio aceita suborno"
+    },
+    "24": {
+      "título": "",
+      "texto": "A sabedoria"
+    },
+    "25": {
+      "título": "",
+      "texto": "O filho insensato"
+    },
+    "26": {
+      "título": "",
+      "texto": "Não é bom punir o justo;"
+    },
+    "27": {
+      "título": "",
+      "texto": "Quem controla as suas palavras"
+    },
+    "28": {
+      "título": "",
+      "texto": "Até o insensato, quando se cala,"
+    }
+  }
+}

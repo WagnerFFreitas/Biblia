@@ -1,0 +1,58 @@
+{
+  "livro": "Salmos",
+  "capítulo": 96,
+  "versículos": {
+    "1": {
+      "título": "Louvor à glória e à majestade de Deus",
+      "texto": "Cantem ao Senhor"
+    },
+    "2": {
+      "título": "",
+      "texto": "Cantem ao Senhor ,"
+    },
+    "3": {
+      "título": "",
+      "texto": "Anunciem entre as nações"
+    },
+    "4": {
+      "título": "",
+      "texto": "Porque o Senhor é grande"
+    },
+    "5": {
+      "título": "",
+      "texto": "Porque todos os deuses dos povos"
+    },
+    "6": {
+      "título": "",
+      "texto": "Glória e majestade"
+    },
+    "7": {
+      "título": "",
+      "texto": "Deem ao Senhor ,"
+    },
+    "8": {
+      "título": "",
+      "texto": "Deem ao Senhor"
+    },
+    "9": {
+      "título": "",
+      "texto": "Adorem o Senhor"
+    },
+    "10": {
+      "título": "",
+      "texto": "Digam entre as nações:"
+    },
+    "11": {
+      "título": "",
+      "texto": "Alegrem-se os céus,"
+    },
+    "12": {
+      "título": "",
+      "texto": "Alegre-se o campo"
+    },
+    "13": {
+      "título": "",
+      "texto": "na presença do Senhor ,"
+    }
+  }
+}

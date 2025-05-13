@@ -1,0 +1,298 @@
+{
+  "livro": "Neemias",
+  "capítulo": 7,
+  "versículos": {
+    "1": {
+      "título": "Neemias estabelece guardas em Jerusalém",
+      "texto": "Depois de reconstruída a muralha e colocados os portões no seu lugar, estabelecidos os porteiros, os cantores e os levitas,"
+    },
+    "2": {
+      "título": "",
+      "texto": "eu nomeei Hanani, meu irmão, e Hananias, comandante da fortaleza, para que cuidassem da segurança de Jerusalém. Hananias era homem fiel e temente a Deus, mais do que muitos outros."
+    },
+    "3": {
+      "título": "",
+      "texto": "E eu lhes disse:"
+    },
+    "4": {
+      "título": "",
+      "texto": "A cidade era espaçosa e grande, mas havia pouca gente nela, e as casas ainda não haviam sido reconstruídas."
+    },
+    "5": {
+      "título": "A relação dos que voltaram a Jerusalém",
+      "texto": "Então o meu Deus me pôs no coração que ajuntasse os nobres, os magistrados e o povo, para registrar as genealogias. Achei o livro da genealogia dos que foram os primeiros a voltar do cativeiro, e nele estava escrito:"
+    },
+    "6": {
+      "título": "",
+      "texto": "Estes são os filhos da província que voltaram do cativeiro, do meio dos exilados que Nabucodonosor, rei da Babilônia, tinha levado para lá. Eles voltaram para Jerusalém e para Judá, cada um para a sua cidade,"
+    },
+    "7": {
+      "título": "",
+      "texto": "e vieram com Zorobabel, Jesua, Neemias, Azarias, Raamias, Naamani, Mordecai, Bilsã, Misperete, Bigvai, Neum e Baaná."
+    },
+    "8": {
+      "título": "",
+      "texto": "os filhos de Parós, dois mil cento e setenta e dois."
+    },
+    "9": {
+      "título": "",
+      "texto": "Os filhos de Sefatias, trezentos e setenta e dois."
+    },
+    "10": {
+      "título": "",
+      "texto": "Os filhos de Ará, seiscentos e cinquenta e dois."
+    },
+    "11": {
+      "título": "",
+      "texto": "Os filhos de Paate-Moabe, dos filhos de Jesua e de Joabe, dois mil oitocentos e dezoito."
+    },
+    "12": {
+      "título": "",
+      "texto": "Os filhos de Elão, mil duzentos e cinquenta e quatro."
+    },
+    "13": {
+      "título": "",
+      "texto": "Os filhos de Zatu, oitocentos e quarenta e cinco."
+    },
+    "14": {
+      "título": "",
+      "texto": "Os filhos de Zacai, setecentos e sessenta."
+    },
+    "15": {
+      "título": "",
+      "texto": "Os filhos de Binui, seiscentos e quarenta e oito."
+    },
+    "16": {
+      "título": "",
+      "texto": "Os filhos de Bebai, seiscentos e vinte e oito."
+    },
+    "17": {
+      "título": "",
+      "texto": "Os filhos de Azgade, dois mil trezentos e vinte e dois."
+    },
+    "18": {
+      "título": "",
+      "texto": "Os filhos de Adonicão, seiscentos e sessenta e sete."
+    },
+    "19": {
+      "título": "",
+      "texto": "Os filhos de Bigvai, dois mil e sessenta e sete."
+    },
+    "20": {
+      "título": "",
+      "texto": "Os filhos de Adim, seiscentos e cinquenta e cinco."
+    },
+    "21": {
+      "título": "",
+      "texto": "Os filhos de Ater, da família de Ezequias, noventa e oito."
+    },
+    "22": {
+      "título": "",
+      "texto": "Os filhos de Hasum, trezentos e vinte e oito."
+    },
+    "23": {
+      "título": "",
+      "texto": "Os filhos de Besai, trezentos e vinte e quatro."
+    },
+    "24": {
+      "título": "",
+      "texto": "Os filhos de Harife, cento e doze."
+    },
+    "25": {
+      "título": "",
+      "texto": "Os filhos de Gibeão, noventa e cinco."
+    },
+    "26": {
+      "título": "",
+      "texto": "Os homens de Belém e de Netofa, cento e oitenta e oito."
+    },
+    "27": {
+      "título": "",
+      "texto": "Os homens de Anatote, cento e vinte e oito."
+    },
+    "28": {
+      "título": "",
+      "texto": "Os homens de Bete-Azmavete, quarenta e dois."
+    },
+    "29": {
+      "título": "",
+      "texto": "Os homens de Quiriate-Jearim, Cefira e Beerote, setecentos e quarenta e três."
+    },
+    "30": {
+      "título": "",
+      "texto": "Os homens de Ramá e Geba, seiscentos e vinte e um."
+    },
+    "31": {
+      "título": "",
+      "texto": "Os homens de Micmás, cento e vinte e dois."
+    },
+    "32": {
+      "título": "",
+      "texto": "Os homens de Betel e Ai, cento e vinte e três."
+    },
+    "33": {
+      "título": "",
+      "texto": "Os homens do outro Nebo, cinquenta e dois."
+    },
+    "34": {
+      "título": "",
+      "texto": "Os filhos do outro Elão, mil duzentos e cinquenta e quatro."
+    },
+    "35": {
+      "título": "",
+      "texto": "Os filhos de Harim, trezentos e vinte."
+    },
+    "36": {
+      "título": "",
+      "texto": "Os filhos de Jericó, trezentos e quarenta e cinco."
+    },
+    "37": {
+      "título": "",
+      "texto": "Os filhos de Lode, Hadide e Ono, setecentos e vinte e um."
+    },
+    "38": {
+      "título": "",
+      "texto": "Os filhos de Senaá, três mil novecentos e trinta."
+    },
+    "39": {
+      "título": "",
+      "texto": "Os sacerdotes: os filhos de Jedaías, da casa de Jesua, novecentos e setenta e três."
+    },
+    "40": {
+      "título": "",
+      "texto": "Os filhos de Imer, mil e cinquenta e dois."
+    },
+    "41": {
+      "título": "",
+      "texto": "Os filhos de Pasur, mil duzentos e quarenta e sete."
+    },
+    "42": {
+      "título": "",
+      "texto": "Os filhos de Harim, mil e dezessete."
+    },
+    "43": {
+      "título": "",
+      "texto": "Os levitas: os filhos de Jesua, de Cadmiel, dos filhos de Hodeva, setenta e quatro."
+    },
+    "44": {
+      "título": "",
+      "texto": "Os cantores: os filhos de Asafe, cento e quarenta e oito."
+    },
+    "45": {
+      "título": "",
+      "texto": "Os porteiros: os filhos de Salum, os filhos de Ater, os filhos de Talmom, os filhos de Acube, os filhos de Hatita, os filhos de Sobai, cento e trinta e oito."
+    },
+    "46": {
+      "título": "",
+      "texto": "Os servidores do templo: os filhos de Zia, os filhos de Hasufa, os filhos de Tabaote,"
+    },
+    "47": {
+      "título": "",
+      "texto": "os filhos de Queros, os filhos de Sia, os filhos de Padom,"
+    },
+    "48": {
+      "título": "",
+      "texto": "os filhos de Lebana, os filhos de Hagaba, os filhos de Salmai,"
+    },
+    "49": {
+      "título": "",
+      "texto": "os filhos de Hanã, os filhos de Gidel, os filhos de Gaar,"
+    },
+    "50": {
+      "título": "",
+      "texto": "os filhos de Reaías, os filhos de Rezim, os filhos de Necoda,"
+    },
+    "51": {
+      "título": "",
+      "texto": "os filhos de Gazão, os filhos de Uzá, os filhos de Paseia,"
+    },
+    "52": {
+      "título": "",
+      "texto": "os filhos de Besai, os filhos de Meunim, os filhos de Nefusesim,"
+    },
+    "53": {
+      "título": "",
+      "texto": "os filhos de Baquebuque, os filhos de Hacufa, os filhos de Harur,"
+    },
+    "54": {
+      "título": "",
+      "texto": "os filhos de Bazlite, os filhos de Meída, os filhos de Harsa,"
+    },
+    "55": {
+      "título": "",
+      "texto": "os filhos de Barcos, os filhos de Sísera, os filhos de Tama,"
+    },
+    "56": {
+      "título": "",
+      "texto": "os filhos de Nesias e os filhos de Hatifa."
+    },
+    "57": {
+      "título": "",
+      "texto": "Os filhos dos servos de Salomão: os filhos de Sotai, os filhos de Soferete, os filhos de Perida,"
+    },
+    "58": {
+      "título": "",
+      "texto": "os filhos de Jaala, os filhos de Darcom, os filhos de Gidel,"
+    },
+    "59": {
+      "título": "",
+      "texto": "os filhos de Sefatias, os filhos de Hatil, os filhos de Poquerete-Hazebaim e os filhos de Amom."
+    },
+    "60": {
+      "título": "",
+      "texto": "Todos os servidores do templo e os filhos dos servos de Salomão eram trezentos e noventa e dois."
+    },
+    "61": {
+      "título": "",
+      "texto": "Os seguintes voltaram de Tel-Melá, Tel-Harsa, Querube, Adom e Imer, porém não puderam provar que as suas famílias e a sua linhagem eram de Israel:"
+    },
+    "62": {
+      "título": "",
+      "texto": "os filhos de Delaías, os filhos de Tobias, os filhos de Necoda, seiscentos e quarenta e dois."
+    },
+    "63": {
+      "título": "",
+      "texto": "Dos sacerdotes: os filhos de Habaías, os filhos de Coz, os filhos de Barzilai, que tinha casado com uma das filhas de Barzilai, o gileadita, e que foi chamado pelo nome dele."
+    },
+    "64": {
+      "título": "",
+      "texto": "Estes procuraram o seu registro nos livros genealógicos, porém não acharam; por isso, foram considerados impuros para o sacerdócio."
+    },
+    "65": {
+      "título": "",
+      "texto": "O governador lhes disse que não comessem das coisas sagradas, até que se levantasse um sacerdote capaz de decidir a questão por meio de Urim e Tumim."
+    },
+    "66": {
+      "título": "",
+      "texto": "Toda esta congregação junta era de quarenta e dois mil trezentos e sessenta,"
+    },
+    "67": {
+      "título": "",
+      "texto": "além dos seus servos e das suas servas, que eram sete mil trezentos e trinta e sete. Havia também duzentos e quarenta e cinco cantores e cantoras."
+    },
+    "68": {
+      "título": "",
+      "texto": "Os seus cavalos eram setecentos e trinta e seis; as suas mulas, duzentas e quarenta e cinco."
+    },
+    "69": {
+      "título": "",
+      "texto": "Os camelos eram quatrocentos e trinta e cinco e os jumentos, seis mil setecentos e vinte."
+    },
+    "70": {
+      "título": "Contribuições para o templo",
+      "texto": "Alguns dos chefes das famílias contribuíram para a obra. O governador deu para o tesouro oito quilos e quatrocentos gramas de ouro, cinquenta bacias e quinhentas e trinta vestes sacerdotais."
+    },
+    "71": {
+      "título": "",
+      "texto": "E alguns mais dos chefes das famílias deram para o tesouro da obra cento e sessenta e oito quilos de ouro e mil e trezentos quilos de prata."
+    },
+    "72": {
+      "título": "",
+      "texto": "O que o restante do povo deu foram cento e sessenta e oito quilos de ouro, mil e duzentos quilos de prata e sessenta e sete vestes sacerdotais."
+    },
+    "73": {
+      "título": "",
+      "texto": "Os sacerdotes, os levitas, os porteiros, os cantores, alguns do povo, os servidores do templo e todo o Israel moravam nas suas cidades."
+    }
+  }
+}

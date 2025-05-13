@@ -1,0 +1,46 @@
+{
+  "livro": "Salmos",
+  "capítulo": 6,
+  "versículos": {
+    "1": {
+      "título": "Oração em tempo de angústia",
+      "texto": "Senhor , não me repreendas"
+    },
+    "2": {
+      "título": "",
+      "texto": "Tem compaixão de mim, Senhor ,"
+    },
+    "3": {
+      "título": "",
+      "texto": "Também a minha alma está"
+    },
+    "4": {
+      "título": "",
+      "texto": "Volta-te, Senhor , e socorre-me;"
+    },
+    "5": {
+      "título": "",
+      "texto": "Pois, na morte,"
+    },
+    "6": {
+      "título": "",
+      "texto": "Estou cansado de tanto gemer;"
+    },
+    "7": {
+      "título": "",
+      "texto": "De tristeza os meus olhos"
+    },
+    "8": {
+      "título": "",
+      "texto": "Afastem-se de mim, todos vocês"
+    },
+    "9": {
+      "título": "",
+      "texto": "o Senhor ouviu a minha súplica;"
+    },
+    "10": {
+      "título": "",
+      "texto": "Sejam envergonhados e fiquem"
+    }
+  }
+}

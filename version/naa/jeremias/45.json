@@ -1,0 +1,26 @@
+{
+  "livro": "Jeremias",
+  "capítulo": 45,
+  "versículos": {
+    "1": {
+      "título": "A mensagem de Jeremias a Baruque",
+      "texto": "Palavra que o profeta Jeremias falou a Baruque, filho de Nerias, quando este escrevia num livro as palavras ditadas por Jeremias, no quarto ano do reinado de Jeoaquim, filho de Josias, rei de Judá:"
+    },
+    "2": {
+      "título": "",
+      "texto": "— Assim diz o Senhor , Deus de Israel, a respeito de você, Baruque:"
+    },
+    "3": {
+      "título": "",
+      "texto": "Você disse: “Ai de mim! Porque o Senhor acrescentou tristeza ao meu sofrimento. Estou cansado de gemer e não encontro descanso.”"
+    },
+    "4": {
+      "título": "",
+      "texto": "Diga-lhe o seguinte: Assim diz o Senhor : “Aquilo que construí eu vou demolir e aquilo que plantei eu vou arrancar, e isto em toda a terra."
+    },
+    "5": {
+      "título": "",
+      "texto": "E você está buscando coisas grandes para si mesmo? Não faça isto! Porque eis que trarei mal sobre toda a humanidade”, diz o Senhor , “mas a você darei a sua vida como despojo, em qualquer lugar para onde você for.”"
+    }
+  }
+}

@@ -28,7 +28,7 @@ function loadSobre() {
         sobreContent.innerHTML = `
             <h2>Sobre o Projeto Bíblia Sagrada</h2>
             <p>Este projeto tem como objetivo oferecer uma ferramenta online completa e acessível para leitura e estudo da Bíblia Sagrada.</p>
-            <p>Versão Atual: Almeida Revista e Atualizada (ARA). Outras versões, Harpa Cristã, Hinário Batista, Dicionário Bíblico e Concordância poderão ser adicionadas futuramente.</p>
+            <p>Versões: Almeida Corrigida e Fiel (ACF), Almeida Revista e Atualizada (ARA). Outras versões, Harpa Cristã, Hinário Batista, Dicionário Bíblico e Concordância poderão ser adicionadas futuramente.</p>
             <p>Funcionalidades incluem a leitura dos textos, navegação por livros/capítulos/versículos e a opção de visualização em modo "Slide" para apresentações (Datashow).</p>
             <p>Utilize o menu lateral para navegar pelos livros e os botões que aparecem para selecionar capítulos e versículos.</p>
             <p>O projeto está em desenvolvimento contínuo.</p>

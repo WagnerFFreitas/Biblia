@@ -1,0 +1,34 @@
+{
+  "livro": "Isaías",
+  "capítulo": 18,
+  "versículos": {
+    "1": {
+      "título": "Profecia contra a Etiópia",
+      "texto": "Ai da terra onde há o roçar"
+    },
+    "2": {
+      "título": "",
+      "texto": "que envia embaixadores por mar"
+    },
+    "3": {
+      "título": "",
+      "texto": "Todos vocês, habitantes do mundo,"
+    },
+    "4": {
+      "título": "",
+      "texto": "Porque o Senhor me disse:"
+    },
+    "5": {
+      "título": "",
+      "texto": "Porque antes da vindima,"
+    },
+    "6": {
+      "título": "",
+      "texto": "Todos serão deixados"
+    },
+    "7": {
+      "título": "",
+      "texto": "Naquele tempo,"
+    }
+  }
+}

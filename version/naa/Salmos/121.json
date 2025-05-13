@@ -1,0 +1,38 @@
+{
+  "livro": "Salmos",
+  "capítulo": 121,
+  "versículos": {
+    "1": {
+      "título": "Deus, o nosso protetor",
+      "texto": "Elevo os meus olhos"
+    },
+    "2": {
+      "título": "",
+      "texto": "O meu socorro vem do Senhor ,"
+    },
+    "3": {
+      "título": "",
+      "texto": "Ele não permitirá"
+    },
+    "4": {
+      "título": "",
+      "texto": "É certo que não dormita,"
+    },
+    "5": {
+      "título": "",
+      "texto": "O Senhor é quem guarda você;"
+    },
+    "6": {
+      "título": "",
+      "texto": "De dia não lhe fará mal o sol,"
+    },
+    "7": {
+      "título": "",
+      "texto": "O Senhor guardará você"
+    },
+    "8": {
+      "título": "",
+      "texto": "O Senhor guardará a sua saída"
+    }
+  }
+}

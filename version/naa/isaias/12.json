@@ -1,0 +1,30 @@
+{
+  "livro": "Isaías",
+  "capítulo": 12,
+  "versículos": {
+    "1": {
+      "título": "Cântico de louvor pela restauração de Israel",
+      "texto": "Naquele dia, você dirá:"
+    },
+    "2": {
+      "título": "",
+      "texto": "Eis que Deus é a minha salvação;"
+    },
+    "3": {
+      "título": "",
+      "texto": "Com alegria, vocês tirarão água"
+    },
+    "4": {
+      "título": "",
+      "texto": "Naquele dia, vocês dirão:"
+    },
+    "5": {
+      "título": "",
+      "texto": "Cantem louvores ao Senhor ,"
+    },
+    "6": {
+      "título": "",
+      "texto": "Exultem e gritem de alegria,"
+    }
+  }
+}

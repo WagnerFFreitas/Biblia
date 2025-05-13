@@ -1,0 +1,50 @@
+{
+  "livro": "Salmos",
+  "capítulo": 42,
+  "versículos": {
+    "1": {
+      "título": "A alma suspira por Deus",
+      "texto": "Assim como a corça suspira"
+    },
+    "2": {
+      "título": "",
+      "texto": "A minha alma tem sede de Deus,"
+    },
+    "3": {
+      "título": "",
+      "texto": "As minhas lágrimas têm sido"
+    },
+    "4": {
+      "título": "",
+      "texto": "Lembro-me destas coisas —"
+    },
+    "5": {
+      "título": "",
+      "texto": "Por que você está abatida,"
+    },
+    "6": {
+      "título": "",
+      "texto": "Sinto abatida dentro de mim"
+    },
+    "7": {
+      "título": "",
+      "texto": "Um abismo chama outro abismo,"
+    },
+    "8": {
+      "título": "",
+      "texto": "Contudo, o Senhor , durante o dia,"
+    },
+    "9": {
+      "título": "",
+      "texto": "Pergunto a Deus, minha rocha:"
+    },
+    "10": {
+      "título": "",
+      "texto": "Os meus ossos se esmigalham,"
+    },
+    "11": {
+      "título": "",
+      "texto": "Por que você está abatida,"
+    }
+  }
+}

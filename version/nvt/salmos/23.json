@@ -1,0 +1,15 @@
+{
+    "livro": "Salmos",
+    "capitulo": 23,
+    "titulos": {
+        "1": "Salmo de Davi."
+    },
+    "versiculos": {
+        "1": "O Senhor é meu pastor, e nada me faltará.",
+        "2": "Ele me faz repousar em verdes pastos e me leva para junto de riachos tranquilos.",
+        "3": "Renova minhas forças e me guia pelos caminhos da justiça; assim, ele honra o seu nome.",
+        "4": "Mesmo quando eu andar pelo escuro vale da morte, não terei medo, pois tu estás ao meu lado. Tua vara e teu cajado me protegem.",
+        "5": "Preparas um banquete para mim na presença de meus inimigos. Unges minha cabeça com óleo; meu cálice transborda.",
+        "6": "Certamente a bondade e o amor me seguirão todos os dias de minha vida, e viverei na casa do Senhor para sempre."
+    }
+}

@@ -1,0 +1,42 @@
+{
+  "livro": "Salmos",
+  "capítulo": 99,
+  "versículos": {
+    "1": {
+      "título": "A santidade de Deus",
+      "texto": "Reina o Senhor ;"
+    },
+    "2": {
+      "título": "",
+      "texto": "O Senhor é grande em Sião"
+    },
+    "3": {
+      "título": "",
+      "texto": "Celebrem eles o teu nome"
+    },
+    "4": {
+      "título": "",
+      "texto": "És rei poderoso"
+    },
+    "5": {
+      "título": "",
+      "texto": "Exaltem o Senhor , nosso Deus,"
+    },
+    "6": {
+      "título": "",
+      "texto": "Moisés e Arão,"
+    },
+    "7": {
+      "título": "",
+      "texto": "Falava-lhes na coluna de nuvem;"
+    },
+    "8": {
+      "título": "",
+      "texto": "Tu lhes respondeste,"
+    },
+    "9": {
+      "título": "",
+      "texto": "Exaltem o Senhor , nosso Deus,"
+    }
+  }
+}

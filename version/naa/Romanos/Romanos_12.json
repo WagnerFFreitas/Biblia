@@ -1,0 +1,90 @@
+{
+  "livro": "Romanos",
+  "capítulo": 12,
+  "versículos": {
+    "1": {
+      "título": "A nova vida",
+      "texto": "Portanto, irmãos, pelas misericórdias de Deus, peço que ofereçam o seu corpo como sacrifício vivo, santo e agradável a Deus. Este é o culto racional de vocês."
+    },
+    "2": {
+      "título": "",
+      "texto": "E não vivam conforme os padrões deste mundo, mas deixem que Deus os transforme pela renovação da mente, para que possam experimentar qual é a boa, agradável e perfeita vontade de Deus."
+    },
+    "3": {
+      "título": "O devido uso de dons espirituais",
+      "texto": "Porque, pela graça que me foi dada, digo a cada um de vocês que não pense de si mesmo além do que convém. Pelo contrário, pense com moderação, segundo a medida da fé que Deus repartiu a cada um."
+    },
+    "4": {
+      "título": "",
+      "texto": "Porque assim como num só corpo temos muitos membros, mas nem todos os membros têm a mesma função,"
+    },
+    "5": {
+      "título": "",
+      "texto": "assim também nós, embora sejamos muitos, somos um só corpo em Cristo e membros uns dos outros."
+    },
+    "6": {
+      "título": "",
+      "texto": "Temos, porém, diferentes dons segundo a graça que nos foi dada: se é profecia, seja segundo a proporção da fé;"
+    },
+    "7": {
+      "título": "",
+      "texto": "se é ministério, dediquemo-nos ao ministério; o que ensina dedique-se ao ensino;"
+    },
+    "8": {
+      "título": "",
+      "texto": "o que exorta faça-o com dedicação; o que contribui, com generosidade; o que preside, com zelo; quem exerce misericórdia, com alegria."
+    },
+    "9": {
+      "título": "As virtudes recomendadas",
+      "texto": "O amor seja sem hipocrisia. Odeiem o mal e apeguem-se ao bem."
+    },
+    "10": {
+      "título": "",
+      "texto": "Amem uns aos outros com amor fraternal. Quanto à honra, deem sempre preferência aos outros."
+    },
+    "11": {
+      "título": "",
+      "texto": "Quanto ao zelo, não sejam preguiçosos. Sejam fervorosos de espírito, servindo o Senhor."
+    },
+    "12": {
+      "título": "",
+      "texto": "Alegrem-se na esperança, sejam pacientes na tribulação e perseverem na oração."
+    },
+    "13": {
+      "título": "",
+      "texto": "Ajudem a suprir as necessidades dos santos. Pratiquem a hospitalidade."
+    },
+    "14": {
+      "título": "",
+      "texto": "Abençoem aqueles que perseguem vocês; abençoem e não amaldiçoem."
+    },
+    "15": {
+      "título": "",
+      "texto": "Alegrem-se com os que se alegram e chorem com os que choram."
+    },
+    "16": {
+      "título": "",
+      "texto": "Tenham o mesmo modo de pensar de uns para com os outros. Em vez de serem orgulhosos, sejam solidários com os humildes. Não sejam sábios aos seus próprios olhos."
+    },
+    "17": {
+      "título": "",
+      "texto": "Não paguem a ninguém mal por mal; procurem fazer o bem diante de todos."
+    },
+    "18": {
+      "título": "",
+      "texto": "Se possível, no que depender de vocês, vivam em paz com todas as pessoas."
+    },
+    "19": {
+      "título": "",
+      "texto": "Meus amados, não façam justiça com as próprias mãos, mas deem lugar à ira de Deus, pois está escrito:"
+    },
+    "20": {
+      "título": "",
+      "texto": "Façam o contrário:"
+    },
+    "21": {
+      "título": "",
+      "texto": "Não se deixe vencer pelo mal, mas vença o mal com o bem."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "livro": "Salmos",
+  "capítulo": 128,
+  "versículos": {
+    "1": {
+      "título": "Temor de Deus e felicidade no lar",
+      "texto": "Bem-aventurado"
+    },
+    "2": {
+      "título": "",
+      "texto": "Você comerá"
+    },
+    "3": {
+      "título": "",
+      "texto": "Sua esposa,"
+    },
+    "4": {
+      "título": "",
+      "texto": "Eis como será abençoado"
+    },
+    "5": {
+      "título": "",
+      "texto": "Que o Senhor o abençoe"
+    },
+    "6": {
+      "título": "",
+      "texto": "e veja os filhos dos seus filhos."
+    }
+  }
+}

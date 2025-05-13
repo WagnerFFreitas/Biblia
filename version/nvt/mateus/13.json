@@ -1,0 +1,43 @@
+{
+    "livro": "Mateus",
+    "capitulo": 13,
+    "titulos": {
+        "1": "A parábola do semeador",
+        "24": "A parábola do trigo e do joio",
+        "31": "A parábola da semente de mostarda",
+        "33": "A parábola do fermento",
+        "34": "As parábolas cumprem uma profecia",
+        "36": "Explicação da parábola do trigo e do joio",
+        "44": "A parábola do tesouro escondido",
+        "45": "A parábola da pérola",
+        "47": "A parábola da rede de pesca",
+        "52": "Mestres da lei no reino",
+        "53": "Jesus é rejeitado em Nazaré"
+    },
+    "versiculos": {
+        "1": "Mais tarde, naquele mesmo dia, Jesus saiu de casa e sentou-se à beira-mar. Logo, uma grande multidão se juntou ao seu redor. Então ele entrou num barco, sentou-se e ensinou o povo que permanecia na praia. Jesus contou várias parábolas, como esta:",
+        "4": "\"Um lavrador saiu para semear. Enquanto espalhava as sementes pelo campo, algumas caíram à beira do caminho, e as aves vieram e as comeram. Outras sementes caíram em solo rochoso e, não havendo muita terra, germinaram rapidamente, mas as plantas logo murcharam sob o calor do sol e secaram, pois não tinham raízes profundas. Outras sementes caíram entre espinhos, que cresceram e sufocaram os brotos. Ainda outras caíram em solo fértil e produziram uma colheita trinta, sessenta e até cem vezes maior que a quantidade semeada. Quem é capaz de ouvir, ouça com atenção!\".",
+        "10": "Os discípulos vieram e lhe perguntaram: \"Por que o senhor usa parábolas quando fala ao povo?\".",
+        "11": "Ele respondeu: \"A vocês é permitido entender os segredos do reino dos céus, mas a outros não. Pois ao que tem, mais lhe será dado, e terá em grande quantia; mas do que nada tem, até o que tem lhe será tirado. É por isso que uso parábolas: eles olham, mas não veem; escutam, mas não ouvem nem entendem.",
+        "14": "\"Cumpre-se, desse modo, a profecia de Isaías que diz: ‘Quando ouvirem o que digo, não entenderão. Quando virem o que faço, não compreenderão.",
+        "15": "Pois o coração deste povo está endurecido; ouvem com dificuldade e têm os olhos fechados, de modo que seus olhos não veem, e seus ouvidos não ouvem, e seu coração não entende, e não se voltam para mim, nem permitem que eu os cure’.",
+        "16": "\"Felizes, porém, são seus olhos, pois eles veem; e seus ouvidos, pois eles ouvem. Eu lhes digo a verdade: muitos profetas e justos desejaram ver o que vocês têm visto e ouvir o que vocês têm ouvido, mas não puderam.",
+        "18": "\"Agora, ouçam a explicação da parábola sobre o lavrador que saiu para semear. As sementes que caíram à beira do caminho representam os que ouvem a mensagem sobre o reino e não a entendem. Então o maligno vem e arranca a semente que foi lançada em seu coração. As que caíram no solo rochoso representam aqueles que ouvem a mensagem e, sem demora, a recebem com alegria. Contudo, uma vez que não têm raízes profundas, não duram muito. Assim que enfrentam problemas ou são perseguidos por causa da mensagem, cedo desanimam. As que caíram entre os espinhos representam outros que ouvem a mensagem, mas logo ela é sufocada pelas preocupações desta vida e pela sedução da riqueza, de modo que não produzem fruto. E as que caíram em solo fértil representam os que ouvem e entendem a mensagem e produzem uma colheita trinta, sessenta e até cem vezes maior que a quantidade semeada\".",
+        "24": "Esta foi outra parábola que Jesus contou: \"O reino dos céus é como um agricultor que semeou boas sementes em seu campo. Enquanto os servos dormiam, seu inimigo veio, semeou joio no meio do trigo e foi embora. Quando a plantação começou a crescer, o joio também cresceu.",
+        "27": "\"Os servos do agricultor vieram e disseram: ‘O campo em que o senhor semeou as boas sementes está cheio de joio. De onde ele veio?’.",
+        "28": "\"‘Um inimigo fez isso’, respondeu o agricultor. \"‘Devemos arrancar o joio?’, perguntaram os servos.",
+        "29": "\"‘Não’, respondeu ele. ‘Se tirarem o joio, pode acontecer de arrancarem também o trigo. Deixem os dois crescerem juntos até a colheita. Então, direi aos ceifeiros que separem o joio, amarrem-no em feixes e queimem-no e, depois, guardem o trigo no celeiro’\".",
+        "31": "Então Jesus contou outra parábola: \"O reino dos céus é como a semente de mostarda que alguém semeia num campo. É a menor de todas as sementes, mas se torna a maior das hortaliças; cresce até se transformar em árvore, e vêm as aves e fazem ninho em seus galhos\".",
+        "33": "Jesus também contou a seguinte parábola: \"O reino dos céus é como o fermento usado por uma mulher para fazer pão. Embora ela coloque apenas uma pequena quantidade de fermento em três medidas de farinha, toda a massa fica fermentada\".",
+        "34": "Jesus sempre usava histórias e comparações como essas quando falava às multidões. Na verdade, nunca lhes falava sem usar parábolas. Cumpriu-se, desse modo, o que foi dito por meio do profeta: \"Eu lhes falarei por meio de parábolas; explicarei coisas escondidas desde a criação do mundo\".",
+        "36": "Em seguida, deixando as multidões do lado de fora, Jesus entrou em casa. Seus discípulos lhe pediram: \"Por favor, explique-nos a história do joio no campo\".",
+        "37": "Jesus respondeu: \"O Filho do Homem é o agricultor que planta as boas sementes. O campo é o mundo, e as boas sementes são o povo do reino. O joio são as pessoas que pertencem ao maligno, e o inimigo que plantou o joio no meio do trigo é o diabo. A colheita é o fim dos tempos, e os que fazem a colheita são os anjos.",
+        "40": "\"Da mesma forma que o joio é separado e queimado no fogo, assim será no fim dos tempos. O Filho do Homem enviará seus anjos, e eles removerão do reino tudo que produz pecado e todos que praticam o mal e os lançarão numa fornalha ardente, onde haverá choro e ranger de dentes. Então os justos brilharão como o sol no reino de seu Pai. Quem é capaz de ouvir, ouça com atenção!\"",
+        "44": "\"O reino dos céus é como um tesouro escondido que um homem descobriu num campo. Em seu entusiasmo, ele o escondeu novamente, vendeu tudo que tinha e, com o dinheiro da venda, comprou aquele campo.\"",
+        "45": "\"O reino dos céus também é como um negociante que procurava pérolas da melhor qualidade. Quando descobriu uma pérola de grande valor, vendeu tudo que tinha e, com o dinheiro da venda, comprou a tal pérola.\"",
+        "47": "\"O reino dos céus é, ainda, como uma rede de pesca que foi lançada ao mar e pegou peixes de todo tipo. Quando a rede estava cheia, os pescadores a arrastaram até a praia, sentaram-se e juntaram os peixes bons em cestos, jogando fora os ruins. Assim será no fim dos tempos. Os anjos virão, separarão os perversos dos justos e os lançarão na fornalha ardente, onde haverá choro e ranger de dentes. Vocês entendem todas essas coisas?\" \"Sim\", responderam eles.",
+        "52": "Então ele acrescentou: \"Todo mestre da lei que se torna discípulo no reino dos céus é como o dono de uma casa que tira do seu tesouro verdades preciosas, tanto novas como velhas\".",
+        "53": "Quando Jesus terminou de contar essas parábolas, deixou aquela região e voltou para Nazaré, cidade onde tinha morado. Enquanto ensinava na sinagoga, todos se admiravam e perguntavam: \"De onde lhe vêm a sabedoria e o poder para realizar milagres? Não é esse o filho do carpinteiro? Conhecemos Maria, sua mãe, e também seus irmãos, Tiago, José, Simão e Judas. Todas as suas irmãs moram aqui, entre nós. Onde ele aprendeu todas essas coisas?\". E sentiam-se muito ofendidos.",
+        "58": "Então Jesus lhes disse: \"Um profeta recebe honra em toda parte, menos em sua cidade e entre sua própria família\". E, por causa da incredulidade deles, realizou ali apenas uns poucos milagres."
+    }
+}

@@ -1,0 +1,86 @@
+{
+  "livro": "Isaías",
+  "capítulo": 32,
+  "versículos": {
+    "1": {
+      "título": "Um reinado de justiça",
+      "texto": "Eis aí um rei que irá reinar"
+    },
+    "2": {
+      "título": "",
+      "texto": "Cada um deles servirá"
+    },
+    "3": {
+      "título": "",
+      "texto": "Os olhos dos que veem"
+    },
+    "4": {
+      "título": "",
+      "texto": "O coração dos apressados"
+    },
+    "5": {
+      "título": "",
+      "texto": "O tolo nunca mais"
+    },
+    "6": {
+      "título": "",
+      "texto": "Porque o tolo fala tolices,"
+    },
+    "7": {
+      "título": "",
+      "texto": "Quanto ao fraudulento,"
+    },
+    "8": {
+      "título": "",
+      "texto": "Mas o nobre projeta coisas nobres"
+    },
+    "9": {
+      "título": "Advertências contra as mulheres de Jerusalém",
+      "texto": "Vocês, mulheres"
+    },
+    "10": {
+      "título": "",
+      "texto": "Daqui a pouco mais de um ano,"
+    },
+    "11": {
+      "título": "",
+      "texto": "Vocês, mulheres"
+    },
+    "12": {
+      "título": "",
+      "texto": "Batam no peito e chorem"
+    },
+    "13": {
+      "título": "",
+      "texto": "Sobre a terra do meu povo"
+    },
+    "14": {
+      "título": "",
+      "texto": "O palácio será abandonado,"
+    },
+    "15": {
+      "título": "",
+      "texto": "Isso será assim"
+    },
+    "16": {
+      "título": "",
+      "texto": "a retidão habitará no deserto,"
+    },
+    "17": {
+      "título": "",
+      "texto": "O efeito da justiça será paz,"
+    },
+    "18": {
+      "título": "",
+      "texto": "O meu povo habitará"
+    },
+    "19": {
+      "título": "",
+      "texto": "mesmo que haja granizo,"
+    },
+    "20": {
+      "título": "",
+      "texto": "Bem-aventurados são vocês,"
+    }
+  }
+}

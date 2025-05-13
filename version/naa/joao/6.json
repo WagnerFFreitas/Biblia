@@ -1,0 +1,290 @@
+{
+  "livro": "João",
+  "capítulo": 6,
+  "versículos": {
+    "1": {
+      "título": "A multiplicação de pães e peixes",
+      "texto": "Depois dessas coisas, Jesus atravessou o mar da Galileia, que é o de Tiberíades."
+    },
+    "2": {
+      "título": "",
+      "texto": "Uma grande multidão o seguia, porque tinham visto os sinais que ele fazia na cura dos enfermos."
+    },
+    "3": {
+      "título": "",
+      "texto": "Então Jesus subiu ao monte e sentou-se ali com os seus discípulos."
+    },
+    "4": {
+      "título": "",
+      "texto": "Ora, a Páscoa, festa dos judeus, estava próxima."
+    },
+    "5": {
+      "título": "",
+      "texto": "Então Jesus, erguendo os olhos e vendo que uma grande multidão se aproximava, disse a Filipe:"
+    },
+    "6": {
+      "título": "",
+      "texto": "Mas Jesus dizia isto para testá-lo, porque sabia o que estava para fazer."
+    },
+    "7": {
+      "título": "",
+      "texto": "Filipe respondeu:"
+    },
+    "8": {
+      "título": "",
+      "texto": "Um dos discípulos, chamado André, irmão de Simão Pedro, disse a Jesus:"
+    },
+    "9": {
+      "título": "",
+      "texto": "— Aqui está um menino que tem cinco pães de cevada e dois peixinhos. Mas o que é isto para tanta gente?"
+    },
+    "10": {
+      "título": "",
+      "texto": "Jesus disse:"
+    },
+    "11": {
+      "título": "",
+      "texto": "Então Jesus pegou os pães e, tendo dado graças, distribuiu-os entre eles; e também igualmente os peixes, tanto quanto queriam."
+    },
+    "12": {
+      "título": "",
+      "texto": "E, quando já estavam satisfeitos, Jesus disse aos seus discípulos:"
+    },
+    "13": {
+      "título": "",
+      "texto": "Assim, pois, o fizeram e encheram doze cestos de pedaços dos cinco pães de cevada, que sobraram depois que todos tinham comido."
+    },
+    "14": {
+      "título": "",
+      "texto": "Quando as pessoas viram o sinal que Jesus havia feito, disseram:"
+    },
+    "15": {
+      "título": "",
+      "texto": "Jesus ficou sabendo que estavam para vir com a intenção de fazê-lo rei à força. Então ele se retirou outra vez, sozinho, para o monte."
+    },
+    "16": {
+      "título": "Jesus anda sobre o mar",
+      "texto": "Ao final do dia, os discípulos de Jesus desceram para o mar."
+    },
+    "17": {
+      "título": "",
+      "texto": "E, entrando num barco, passaram para o outro lado, rumo a Cafarnaum. Já estava escuro, e Jesus ainda não tinha ido até onde eles estavam."
+    },
+    "18": {
+      "título": "",
+      "texto": "E o mar começava a ficar agitado, porque soprava um vento forte."
+    },
+    "19": {
+      "título": "",
+      "texto": "Os discípulos já tinham navegado uns cinco ou seis quilômetros, quando viram Jesus andando sobre o mar, aproximando-se do barco; e ficaram com medo."
+    },
+    "20": {
+      "título": "",
+      "texto": "Mas Jesus lhes disse:"
+    },
+    "21": {
+      "título": "",
+      "texto": "Então eles o receberam com alegria, e logo o barco chegou ao seu destino."
+    },
+    "22": {
+      "título": "Jesus, o pão da vida",
+      "texto": "No dia seguinte, a multidão que tinha ficado do outro lado do mar notou que ali havia apenas um pequeno barco e que Jesus não tinha entrado nele com os seus discípulos, tendo estes partido sozinhos."
+    },
+    "23": {
+      "título": "",
+      "texto": "Entretanto, outros barquinhos de Tiberíades se aproximaram do lugar onde a multidão havia comido o pão depois que o Senhor deu graças."
+    },
+    "24": {
+      "título": "",
+      "texto": "Quando aquela multidão viu que Jesus não estava ali nem os seus discípulos, entraram nos barcos e partiram para Cafarnaum à procura de Jesus."
+    },
+    "25": {
+      "título": "",
+      "texto": "E, tendo-o encontrado no outro lado do mar, lhe perguntaram:"
+    },
+    "26": {
+      "título": "",
+      "texto": "Jesus respondeu:"
+    },
+    "27": {
+      "título": "",
+      "texto": "Trabalhem, não pela comida que se estraga, mas pela que permanece para a vida eterna, a qual o Filho do Homem dará a vocês; porque Deus, o Pai, o confirmou com o seu selo."
+    },
+    "28": {
+      "título": "",
+      "texto": "Então lhe perguntaram:"
+    },
+    "29": {
+      "título": "",
+      "texto": "Jesus respondeu:"
+    },
+    "30": {
+      "título": "",
+      "texto": "Então eles disseram:"
+    },
+    "31": {
+      "título": "",
+      "texto": "Nossos pais comeram o maná no deserto, como está escrito: “Deu-lhes a comer pão do céu.”"
+    },
+    "32": {
+      "título": "",
+      "texto": "Jesus lhes disse:"
+    },
+    "33": {
+      "título": "",
+      "texto": "Porque o pão de Deus é o que desce do céu e dá vida ao mundo."
+    },
+    "34": {
+      "título": "",
+      "texto": "Então lhe disseram:"
+    },
+    "35": {
+      "título": "",
+      "texto": "Jesus respondeu:"
+    },
+    "36": {
+      "título": "",
+      "texto": "Porém eu já disse que vocês não creem, embora estejam me vendo."
+    },
+    "37": {
+      "título": "",
+      "texto": "Todo aquele que o Pai me dá, esse virá a mim; e o que vem a mim, de modo nenhum o lançarei fora."
+    },
+    "38": {
+      "título": "",
+      "texto": "Porque eu desci do céu, não para fazer a minha própria vontade, mas a vontade daquele que me enviou."
+    },
+    "39": {
+      "título": "",
+      "texto": "E a vontade de quem me enviou é esta: que eu não perca nenhum de todos os que ele me deu; pelo contrário, eu o ressuscitarei no último dia."
+    },
+    "40": {
+      "título": "",
+      "texto": "De fato, a vontade de meu Pai é que todo aquele que vir o Filho e nele crer tenha a vida eterna; e eu o ressuscitarei no último dia."
+    },
+    "41": {
+      "título": "",
+      "texto": "Então os judeus começaram a murmurar contra ele, porque tinha dito: “Eu sou o pão que desceu do céu.”"
+    },
+    "42": {
+      "título": "",
+      "texto": "E diziam:"
+    },
+    "43": {
+      "título": "",
+      "texto": "Jesus respondeu:"
+    },
+    "44": {
+      "título": "",
+      "texto": "Ninguém pode vir a mim se o Pai, que me enviou, não o trouxer; e eu o ressuscitarei no último dia."
+    },
+    "45": {
+      "título": "",
+      "texto": "Está escrito nos Profetas: “E todos serão ensinados por Deus.” Portanto, todo aquele que ouviu e aprendeu do Pai, esse vem a mim."
+    },
+    "46": {
+      "título": "",
+      "texto": "Não que alguém tenha visto o Pai, a não ser aquele que vem de Deus; este já viu o Pai."
+    },
+    "47": {
+      "título": "",
+      "texto": "— Em verdade, em verdade lhes digo: quem crê em mim tem a vida eterna."
+    },
+    "48": {
+      "título": "",
+      "texto": "Eu sou o pão da vida."
+    },
+    "49": {
+      "título": "",
+      "texto": "Os pais de vocês comeram o maná no deserto e morreram."
+    },
+    "50": {
+      "título": "",
+      "texto": "Este é o pão que desce do céu, para que todo o que dele comer não pereça."
+    },
+    "51": {
+      "título": "",
+      "texto": "Eu sou o pão vivo que desceu do céu; se alguém comer deste pão, viverá eternamente. E o pão que eu darei pela vida do mundo é a minha carne."
+    },
+    "52": {
+      "título": "",
+      "texto": "Então os judeus começaram a discutir entre si, dizendo:"
+    },
+    "53": {
+      "título": "",
+      "texto": "Jesus respondeu:"
+    },
+    "54": {
+      "título": "",
+      "texto": "Quem come a minha carne e bebe o meu sangue tem a vida eterna, e eu o ressuscitarei no último dia."
+    },
+    "55": {
+      "título": "",
+      "texto": "Pois a minha carne é verdadeira comida, e o meu sangue é verdadeira bebida."
+    },
+    "56": {
+      "título": "",
+      "texto": "Quem come a minha carne e bebe o meu sangue permanece em mim, e eu permaneço nele."
+    },
+    "57": {
+      "título": "",
+      "texto": "Assim como o Pai, que vive, me enviou, e igualmente eu vivo por causa do Pai, também quem de mim se alimenta viverá por mim."
+    },
+    "58": {
+      "título": "",
+      "texto": "Este é o pão que desceu do céu, em nada semelhante àquele que os pais de vocês comeram e, mesmo assim, morreram; quem comer este pão viverá eternamente."
+    },
+    "59": {
+      "título": "",
+      "texto": "Jesus disse essas coisas quando ensinava na sinagoga de Cafarnaum."
+    },
+    "60": {
+      "título": "As palavras da vida eterna",
+      "texto": "Muitos dos seus discípulos, tendo ouvido tais palavras, disseram:"
+    },
+    "61": {
+      "título": "",
+      "texto": "Mas Jesus, sabendo por si mesmo que os seus discípulos murmuravam a respeito do que ele havia falado, disse-lhes:"
+    },
+    "62": {
+      "título": "",
+      "texto": "Que acontecerá, então, se virem o Filho do Homem subir para o lugar onde primeiro estava?"
+    },
+    "63": {
+      "título": "",
+      "texto": "O Espírito é o que vivifica; a carne para nada aproveita. As palavras que eu lhes tenho falado são espírito e são vida."
+    },
+    "64": {
+      "título": "",
+      "texto": "Mas há descrentes entre vocês."
+    },
+    "65": {
+      "título": "",
+      "texto": "E prosseguiu:"
+    },
+    "66": {
+      "título": "",
+      "texto": "Diante disso, muitos dos seus discípulos o abandonaram e já não andavam com ele."
+    },
+    "67": {
+      "título": "",
+      "texto": "Então Jesus perguntou aos doze:"
+    },
+    "68": {
+      "título": "",
+      "texto": "Simão Pedro respondeu:"
+    },
+    "69": {
+      "título": "",
+      "texto": "e nós temos crido e conhecido que o senhor é o Santo de Deus."
+    },
+    "70": {
+      "título": "",
+      "texto": "Então Jesus lhes disse:"
+    },
+    "71": {
+      "título": "",
+      "texto": "Ele se referia a Judas, filho de Simão Iscariotes, porque este, sendo um dos doze, era quem o haveria de trair."
+    }
+  }
+}

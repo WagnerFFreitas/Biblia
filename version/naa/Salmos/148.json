@@ -1,0 +1,62 @@
+{
+  "livro": "Salmos",
+  "capítulo": 148,
+  "versículos": {
+    "1": {
+      "título": "Um coro de aleluias",
+      "texto": "Aleluia!"
+    },
+    "2": {
+      "título": "",
+      "texto": "Louvem o Senhor ,"
+    },
+    "3": {
+      "título": "",
+      "texto": "Louvem o Senhor , sol e lua;"
+    },
+    "4": {
+      "título": "",
+      "texto": "Louvem o Senhor , céus dos céus"
+    },
+    "5": {
+      "título": "",
+      "texto": "Louvem o nome do Senhor ,"
+    },
+    "6": {
+      "título": "",
+      "texto": "Ele os estabeleceu"
+    },
+    "7": {
+      "título": "",
+      "texto": "Desde a terra, louvem o Senhor !"
+    },
+    "8": {
+      "título": "",
+      "texto": "fogo e granizo, neve e vapor"
+    },
+    "9": {
+      "título": "",
+      "texto": "montes e todas as colinas,"
+    },
+    "10": {
+      "título": "",
+      "texto": "feras e todo o gado,"
+    },
+    "11": {
+      "título": "",
+      "texto": "reis da terra e todos os povos,"
+    },
+    "12": {
+      "título": "",
+      "texto": "rapazes e moças,"
+    },
+    "13": {
+      "título": "",
+      "texto": "Louvem o nome do Senhor ,"
+    },
+    "14": {
+      "título": "",
+      "texto": "Ele exalta o poder do seu povo,"
+    }
+  }
+}
