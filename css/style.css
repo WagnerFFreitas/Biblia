@@ -30,6 +30,7 @@ nav ul {
   list-style: none;
   margin: 0;
   padding: 0;
+  margin-right: -140px;
 }
 
 nav ul li {
@@ -225,7 +226,7 @@ nav ul li a:hover {
   background-color: #45a049;
 }
 
-/* Títulos */
+/* Títulos que fica acima dos botões */
 h2 {
   font-weight: bold;
   color: #f5f1f1;
@@ -233,6 +234,7 @@ h2 {
   font-size: 2.5vw;
   text-align: center;
   margin-top: 30px;
+  margin-left: 150px;
   max-width: calc(100% - 80px);
 }
 
@@ -438,11 +440,12 @@ footer p {
 
 /* Modo leitura - container principal */
 .reading-mode-content {
-  max-width: 800px;
+  max-width: 80%;
   margin: 20px auto;
   padding: 20px;
   background-color: rgba(30, 30, 30, 0.7);
   border-radius: 8px;
+  margin-right: 10px;
 }
 
 .reading-mode-header {
@@ -510,3 +513,39 @@ footer p {
   background-color: #4CAF50;
   color: white;
 }
+
+/* --- INÍCIO DO TRECHO MODIFICADO/ADICIONADO --- */
+/* Navegação do Modo Leitura (Cap. Anterior / Próximo Cap.) */
+.reading-mode-navigation {
+  display: flex;
+  justify-content: flex-start; /* ESTA LINHA ALINHA OS BOTÕES À DIREITA */
+  margin-bottom: 15px; /* Espaço entre os botões e o texto do capítulo abaixo */
+  padding-bottom: 10px; 
+  /* border-bottom: 1px solid #444; Opcional: linha separadora */
+}
+
+/* Estilos para os botões dentro deste container */
+.reading-mode-navigation button {
+  padding: 6px 12px; 
+  font-size: 0.85em; 
+  cursor: pointer;
+  background-color: #4a4a4a; 
+  color: #e0e0e0; 
+  border: 1px solid #666; 
+  border-radius: 4px;
+  margin-left: 8px; 
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+.reading-mode-navigation button:disabled {
+  cursor: not-allowed;
+  opacity: 0.4;
+  background-color: #333; 
+  border-color: #555;
+}
+
+.reading-mode-navigation button:not(:disabled):hover {
+  background-color: #5a5a5a;
+  border-color: #777;
+}
+/* --- FIM DO TRECHO MODIFICADO/ADICIONADO --- */
