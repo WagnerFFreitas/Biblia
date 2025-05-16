@@ -1,130 +1,43 @@
 {
-  "livro": "Jeremias",
-  "capítulo": 4,
-  "versículos": {
-    "1": {
-      "título": "A volta para Deus",
-      "texto": "“Se você voltar, ó Israel,"
+    "livro": "Jeremias",
+    "capitulo": 4,
+    "titulos": {
+        "1": "A volta para Deus",
+        "5": "O mal vem do Norte",
+        "19": "A tristeza de Jeremias por causa do seu povo",
+        "23": "A destruição futura"
     },
-    "2": {
-      "título": "",
-      "texto": "se jurar em verdade, em juízo"
-    },
-    "3": {
-      "título": "",
-      "texto": "Porque assim diz o Senhor aos homens de Judá e Jerusalém:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Deixem-se circuncidar"
-    },
-    "5": {
-      "título": "O mal vem do Norte",
-      "texto": "Anunciem em Judá,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Levantem um estandarte,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Um leão já subiu"
-    },
-    "8": {
-      "título": "",
-      "texto": "Por isso, vistam roupa"
-    },
-    "9": {
-      "título": "",
-      "texto": "— Naquele dia, diz o Senhor , o rei e as autoridades perderão a coragem, os sacerdotes ficarão pasmados, e os profetas, espantados."
-    },
-    "10": {
-      "título": "",
-      "texto": "Então eu disse:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Naquele tempo, se dirá a este povo e à cidade de Jerusalém:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Um vento mais forte do que este virá ainda de minha parte, e, então, também eu pronunciarei a sentença contra eles."
-    },
-    "13": {
-      "título": "",
-      "texto": "Eis que o destruidor avança"
-    },
-    "14": {
-      "título": "",
-      "texto": "Lave a maldade"
-    },
-    "15": {
-      "título": "",
-      "texto": "Uma voz se faz ouvir desde Dã"
-    },
-    "16": {
-      "título": "",
-      "texto": "Anunciem isto às nações"
-    },
-    "17": {
-      "título": "",
-      "texto": "Como os guardas de um campo,"
-    },
-    "18": {
-      "título": "",
-      "texto": "“A sua conduta e as suas obras"
-    },
-    "19": {
-      "título": "A tristeza de Jeremias por causa do seu povo",
-      "texto": "Ah! Meu coração! Meu coração!"
-    },
-    "20": {
-      "título": "",
-      "texto": "Golpe sobre golpe se anuncia,"
-    },
-    "21": {
-      "título": "",
-      "texto": "Até quando terei de ver"
-    },
-    "22": {
-      "título": "",
-      "texto": "“O meu povo é insensato;"
-    },
-    "23": {
-      "título": "A destruição futura",
-      "texto": "Olhei para a terra,"
-    },
-    "24": {
-      "título": "",
-      "texto": "Olhei para os montes,"
-    },
-    "25": {
-      "título": "",
-      "texto": "Olhei, e eis que"
-    },
-    "26": {
-      "título": "",
-      "texto": "Olhei ainda, e eis que"
-    },
-    "27": {
-      "título": "",
-      "texto": "Pois assim diz o Senhor :"
-    },
-    "28": {
-      "título": "",
-      "texto": "“Por isso, a terra pranteará,"
-    },
-    "29": {
-      "título": "",
-      "texto": "“Ao clamor dos cavaleiros"
-    },
-    "30": {
-      "título": "",
-      "texto": "E você, cidade destruída,"
-    },
-    "31": {
-      "título": "",
-      "texto": "Porque ouço um grito"
+    "versiculos": {
+        "1": "“Se você voltar, ó Israel,",
+        "2": "se jurar em verdade, em juízo",
+        "3": "Porque assim diz o Senhor aos homens de Judá e Jerusalém:",
+        "4": "Deixem-se circuncidar",
+        "5": "Anunciem em Judá,",
+        "6": "Levantem um estandarte,",
+        "7": "Um leão já subiu",
+        "8": "Por isso, vistam roupa",
+        "9": "— Naquele dia, diz o Senhor , o rei e as autoridades perderão a coragem, os sacerdotes ficarão pasmados, e os profetas, espantados.",
+        "10": "Então eu disse:",
+        "11": "Naquele tempo, se dirá a este povo e à cidade de Jerusalém:",
+        "12": "Um vento mais forte do que este virá ainda de minha parte, e, então, também eu pronunciarei a sentença contra eles.",
+        "13": "Eis que o destruidor avança",
+        "14": "Lave a maldade",
+        "15": "Uma voz se faz ouvir desde Dã",
+        "16": "Anunciem isto às nações",
+        "17": "Como os guardas de um campo,",
+        "18": "“A sua conduta e as suas obras",
+        "19": "Ah! Meu coração! Meu coração!",
+        "20": "Golpe sobre golpe se anuncia,",
+        "21": "Até quando terei de ver",
+        "22": "“O meu povo é insensato;",
+        "23": "Olhei para a terra,",
+        "24": "Olhei para os montes,",
+        "25": "Olhei, e eis que",
+        "26": "Olhei ainda, e eis que",
+        "27": "Pois assim diz o Senhor :",
+        "28": "“Por isso, a terra pranteará,",
+        "29": "“Ao clamor dos cavaleiros",
+        "30": "E você, cidade destruída,",
+        "31": "Porque ouço um grito"
     }
-  }
 }

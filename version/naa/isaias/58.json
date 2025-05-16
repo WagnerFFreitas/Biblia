@@ -1,62 +1,23 @@
 {
-  "livro": "Isaías",
-  "capítulo": 58,
-  "versículos": {
-    "1": {
-      "título": "O jejum que agrada a Deus",
-      "texto": "“Grite a plenos pulmões,"
+    "livro": "Isaías",
+    "capitulo": 58,
+    "titulos": {
+        "1": "O jejum que agrada a Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "Mesmo neste estado,"
-    },
-    "3": {
-      "título": "",
-      "texto": "dizendo: ‘Por que jejuamos,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Eis que vocês jejuam"
-    },
-    "5": {
-      "título": "",
-      "texto": "Seria este o jejum que escolhi:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Será que não é este"
-    },
-    "7": {
-      "título": "",
-      "texto": "Será que não é também"
-    },
-    "8": {
-      "título": "",
-      "texto": "“Então a luz de vocês romperá"
-    },
-    "9": {
-      "título": "",
-      "texto": "Então vocês pedirão ajuda,"
-    },
-    "10": {
-      "título": "",
-      "texto": "se abrirem o seu coração"
-    },
-    "11": {
-      "título": "",
-      "texto": "O Senhor os guiará"
-    },
-    "12": {
-      "título": "",
-      "texto": "Vocês reconstruirão"
-    },
-    "13": {
-      "título": "",
-      "texto": "“Se vigiarem os seus pés,"
-    },
-    "14": {
-      "título": "",
-      "texto": "então vocês terão no Senhor"
+    "versiculos": {
+        "1": "“Grite a plenos pulmões,",
+        "2": "Mesmo neste estado,",
+        "3": "dizendo: ‘Por que jejuamos,",
+        "4": "Eis que vocês jejuam",
+        "5": "Seria este o jejum que escolhi:",
+        "6": "Será que não é este",
+        "7": "Será que não é também",
+        "8": "“Então a luz de vocês romperá",
+        "9": "Então vocês pedirão ajuda,",
+        "10": "se abrirem o seu coração",
+        "11": "O Senhor os guiará",
+        "12": "Vocês reconstruirão",
+        "13": "“Se vigiarem os seus pés,",
+        "14": "então vocês terão no Senhor"
     }
-  }
 }

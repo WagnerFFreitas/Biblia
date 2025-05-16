@@ -1,158 +1,49 @@
 {
-  "livro": "Gênesis",
-  "capítulo": 19,
-  "versículos": {
-    "1": {
-      "título": "Ló recebe em sua casa os dois anjos",
-      "texto": "Ao anoitecer, os dois anjos chegaram a Sodoma. Ló estava sentado junto ao portão da cidade. Quando viu os anjos, levantou-se e, indo ao encontro deles, prostrou-se com o rosto em terra"
+    "livro": "Gênesis",
+    "capitulo": 19,
+    "titulos": {
+        "1": "Ló recebe em sua casa os dois anjos",
+        "23": "A destruição de Sodoma e Gomorra",
+        "30": "A origem dos moabitas e dos amonitas"
     },
-    "2": {
-      "título": "",
-      "texto": "e lhes disse:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Ló insistiu tanto, que eles foram e entraram na casa dele. Deu-lhes um banquete, fez assar uns pães sem fermento, e eles comeram."
-    },
-    "4": {
-      "título": "",
-      "texto": "Mas, antes que eles se deitassem, os homens daquela cidade cercaram a casa. Eram os homens de Sodoma, tanto os moços como os velhos, sim, todo o povo de todos os lados."
-    },
-    "5": {
-      "título": "",
-      "texto": "E chamaram Ló e lhe disseram:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Então Ló foi até a porta, fechou-a atrás de si"
-    },
-    "7": {
-      "título": "",
-      "texto": "e lhes disse:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Olhem aqui! Tenho duas filhas, virgens, e vou trazê-las para vocês. Façam com elas o que quiserem, porém não façam nada a estes homens, porque se acham sob a proteção do meu teto."
-    },
-    "9": {
-      "título": "",
-      "texto": "Eles, porém, disseram:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Porém os homens, estendendo a mão, puxaram Ló para dentro e fecharam a porta."
-    },
-    "11": {
-      "título": "",
-      "texto": "E feriram de cegueira os que estavam do lado de fora, desde o menor até o maior, de modo que se cansaram à procura da porta."
-    },
-    "12": {
-      "título": "",
-      "texto": "Então os homens disseram a Ló:"
-    },
-    "13": {
-      "título": "",
-      "texto": "pois vamos destruir este lugar, porque o seu clamor tem aumentado, chegando até a presença do Senhor , e o Senhor nos enviou a destruí-lo."
-    },
-    "14": {
-      "título": "",
-      "texto": "Então Ló saiu e foi falar com os seus genros, os que estavam para casar com as suas filhas. Ele disse:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Ao amanhecer, os anjos apressaram Ló, dizendo:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Como, porém, ele se demorasse, aqueles homens o pegaram pela mão, a ele, a sua mulher e as duas filhas, sendo-lhe o Senhor misericordioso, e o tiraram, e o puseram fora da cidade."
-    },
-    "17": {
-      "título": "",
-      "texto": "Havendo-os levado para fora, um deles disse:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Mas Ló disse a eles:"
-    },
-    "19": {
-      "título": "",
-      "texto": "Eis que o teu servo encontrou favor diante dos teus olhos, e engrandeceste a tua misericórdia para comigo, salvando-me a vida. Mas não posso fugir para o monte, pois receio que a destruição vá me alcançar, e eu morra."
-    },
-    "20": {
-      "título": "",
-      "texto": "Eis aqui perto uma cidadezinha para a qual eu posso fugir. Ela é bem pequena. Permite que eu fuja para lá — ela é bem pequena, não é verdade? —, e nela poderei salvar a minha vida."
-    },
-    "21": {
-      "título": "",
-      "texto": "O anjo respondeu:"
-    },
-    "22": {
-      "título": "",
-      "texto": "Vá depressa e refugie-se nela; pois nada posso fazer, enquanto você não tiver chegado lá. Por isso, a cidade recebeu o nome de Zoar."
-    },
-    "23": {
-      "título": "A destruição de Sodoma e Gomorra",
-      "texto": "O sol estava nascendo sobre a terra, quando Ló entrou em Zoar."
-    },
-    "24": {
-      "título": "",
-      "texto": "Então o Senhor fez chover enxofre e fogo sobre Sodoma e Gomorra. Isso veio da parte do Senhor , desde os céus."
-    },
-    "25": {
-      "título": "",
-      "texto": "Ele destruiu aquelas cidades, e toda a campina, e todos os moradores das cidades, e o que nascia na terra."
-    },
-    "26": {
-      "título": "",
-      "texto": "E a mulher de Ló olhou para trás e virou uma estátua de sal."
-    },
-    "27": {
-      "título": "",
-      "texto": "Na manhã seguinte, Abraão se levantou de madrugada e foi para o lugar onde tinha estado na presença do Senhor ."
-    },
-    "28": {
-      "título": "",
-      "texto": "Abraão olhou para Sodoma e Gomorra e para toda a terra da campina e viu que da terra subia fumaça, como se fosse a fumaça de uma fornalha."
-    },
-    "29": {
-      "título": "",
-      "texto": "Assim, quando destruiu as cidades da campina, Deus se lembrou de Abraão e tirou Ló do meio da destruição, quando subverteu as cidades em que Ló tinha morado."
-    },
-    "30": {
-      "título": "A origem dos moabitas e dos amonitas",
-      "texto": "Ló partiu de Zoar e habitou no monte, ele e as duas filhas, porque receavam permanecer em Zoar. Ló habitou numa caverna, e com ele as duas filhas."
-    },
-    "31": {
-      "título": "",
-      "texto": "Então a primogênita disse à mais moça:"
-    },
-    "32": {
-      "título": "",
-      "texto": "Venha, vamos embebedá-lo com vinho, deitemo-nos com ele e conservemos a descendência de nosso pai."
-    },
-    "33": {
-      "título": "",
-      "texto": "Naquela noite, deram de beber vinho a seu pai. E, entrando a primogênita, se deitou com ele, sem que ele o notasse, nem quando ela se deitou, nem quando se levantou."
-    },
-    "34": {
-      "título": "",
-      "texto": "No dia seguinte, a primogênita disse à mais nova:"
-    },
-    "35": {
-      "título": "",
-      "texto": "De novo, naquela noite, deram de beber vinho a seu pai. E, entrando a mais nova, se deitou com ele, sem que ele o notasse, nem quando ela se deitou, nem quando se levantou."
-    },
-    "36": {
-      "título": "",
-      "texto": "E assim as duas filhas de Ló ficaram grávidas do próprio pai."
-    },
-    "37": {
-      "título": "",
-      "texto": "A primogênita deu à luz um filho e lhe deu o nome de Moabe. Este é o pai dos moabitas, até o dia de hoje."
-    },
-    "38": {
-      "título": "",
-      "texto": "A mais nova também deu à luz um filho e lhe deu o nome de Ben-Ami. Este é o pai dos amonitas, até o dia de hoje."
+    "versiculos": {
+        "1": "Ao anoitecer, os dois anjos chegaram a Sodoma. Ló estava sentado junto ao portão da cidade. Quando viu os anjos, levantou-se e, indo ao encontro deles, prostrou-se com o rosto em terra",
+        "2": "e lhes disse:",
+        "3": "Ló insistiu tanto, que eles foram e entraram na casa dele. Deu-lhes um banquete, fez assar uns pães sem fermento, e eles comeram.",
+        "4": "Mas, antes que eles se deitassem, os homens daquela cidade cercaram a casa. Eram os homens de Sodoma, tanto os moços como os velhos, sim, todo o povo de todos os lados.",
+        "5": "E chamaram Ló e lhe disseram:",
+        "6": "Então Ló foi até a porta, fechou-a atrás de si",
+        "7": "e lhes disse:",
+        "8": "Olhem aqui! Tenho duas filhas, virgens, e vou trazê-las para vocês. Façam com elas o que quiserem, porém não façam nada a estes homens, porque se acham sob a proteção do meu teto.",
+        "9": "Eles, porém, disseram:",
+        "10": "Porém os homens, estendendo a mão, puxaram Ló para dentro e fecharam a porta.",
+        "11": "E feriram de cegueira os que estavam do lado de fora, desde o menor até o maior, de modo que se cansaram à procura da porta.",
+        "12": "Então os homens disseram a Ló:",
+        "13": "pois vamos destruir este lugar, porque o seu clamor tem aumentado, chegando até a presença do Senhor , e o Senhor nos enviou a destruí-lo.",
+        "14": "Então Ló saiu e foi falar com os seus genros, os que estavam para casar com as suas filhas. Ele disse:",
+        "15": "Ao amanhecer, os anjos apressaram Ló, dizendo:",
+        "16": "Como, porém, ele se demorasse, aqueles homens o pegaram pela mão, a ele, a sua mulher e as duas filhas, sendo-lhe o Senhor misericordioso, e o tiraram, e o puseram fora da cidade.",
+        "17": "Havendo-os levado para fora, um deles disse:",
+        "18": "Mas Ló disse a eles:",
+        "19": "Eis que o teu servo encontrou favor diante dos teus olhos, e engrandeceste a tua misericórdia para comigo, salvando-me a vida. Mas não posso fugir para o monte, pois receio que a destruição vá me alcançar, e eu morra.",
+        "20": "Eis aqui perto uma cidadezinha para a qual eu posso fugir. Ela é bem pequena. Permite que eu fuja para lá — ela é bem pequena, não é verdade? —, e nela poderei salvar a minha vida.",
+        "21": "O anjo respondeu:",
+        "22": "Vá depressa e refugie-se nela; pois nada posso fazer, enquanto você não tiver chegado lá. Por isso, a cidade recebeu o nome de Zoar.",
+        "23": "O sol estava nascendo sobre a terra, quando Ló entrou em Zoar.",
+        "24": "Então o Senhor fez chover enxofre e fogo sobre Sodoma e Gomorra. Isso veio da parte do Senhor , desde os céus.",
+        "25": "Ele destruiu aquelas cidades, e toda a campina, e todos os moradores das cidades, e o que nascia na terra.",
+        "26": "E a mulher de Ló olhou para trás e virou uma estátua de sal.",
+        "27": "Na manhã seguinte, Abraão se levantou de madrugada e foi para o lugar onde tinha estado na presença do Senhor .",
+        "28": "Abraão olhou para Sodoma e Gomorra e para toda a terra da campina e viu que da terra subia fumaça, como se fosse a fumaça de uma fornalha.",
+        "29": "Assim, quando destruiu as cidades da campina, Deus se lembrou de Abraão e tirou Ló do meio da destruição, quando subverteu as cidades em que Ló tinha morado.",
+        "30": "Ló partiu de Zoar e habitou no monte, ele e as duas filhas, porque receavam permanecer em Zoar. Ló habitou numa caverna, e com ele as duas filhas.",
+        "31": "Então a primogênita disse à mais moça:",
+        "32": "Venha, vamos embebedá-lo com vinho, deitemo-nos com ele e conservemos a descendência de nosso pai.",
+        "33": "Naquela noite, deram de beber vinho a seu pai. E, entrando a primogênita, se deitou com ele, sem que ele o notasse, nem quando ela se deitou, nem quando se levantou.",
+        "34": "No dia seguinte, a primogênita disse à mais nova:",
+        "35": "De novo, naquela noite, deram de beber vinho a seu pai. E, entrando a mais nova, se deitou com ele, sem que ele o notasse, nem quando ela se deitou, nem quando se levantou.",
+        "36": "E assim as duas filhas de Ló ficaram grávidas do próprio pai.",
+        "37": "A primogênita deu à luz um filho e lhe deu o nome de Moabe. Este é o pai dos moabitas, até o dia de hoje.",
+        "38": "A mais nova também deu à luz um filho e lhe deu o nome de Ben-Ami. Este é o pai dos amonitas, até o dia de hoje."
     }
-  }
 }

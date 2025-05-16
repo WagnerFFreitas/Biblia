@@ -1,62 +1,23 @@
 {
-  "livro": "Oséias",
-  "capítulo": 12,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Efraim apascenta o vento"
+    "livro": "Oséias",
+    "capitulo": 12,
+    "titulos": {
+        "2": "A acusação contra Judá"
     },
-    "2": {
-      "título": "A acusação contra Judá",
-      "texto": "“O Senhor tem uma controvérsia"
-    },
-    "3": {
-      "título": "",
-      "texto": "No ventre, Jacó pegou"
-    },
-    "4": {
-      "título": "",
-      "texto": "Lutou com o anjo e venceu;"
-    },
-    "5": {
-      "título": "",
-      "texto": "O Senhor , o Deus dos Exércitos,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Quanto a você,"
-    },
-    "7": {
-      "título": "",
-      "texto": "“Como mercador"
-    },
-    "8": {
-      "título": "",
-      "texto": "Efraim diz:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Mas eu sou o Senhor ,"
-    },
-    "10": {
-      "título": "",
-      "texto": "“Falei aos profetas"
-    },
-    "11": {
-      "título": "",
-      "texto": "Será que há transgressão"
-    },
-    "12": {
-      "título": "",
-      "texto": "Jacó fugiu para a terra da Síria;"
-    },
-    "13": {
-      "título": "",
-      "texto": "Mas o Senhor ,"
-    },
-    "14": {
-      "título": "",
-      "texto": "Efraim amargamente"
+    "versiculos": {
+        "1": "Efraim apascenta o vento",
+        "2": "“O Senhor tem uma controvérsia",
+        "3": "No ventre, Jacó pegou",
+        "4": "Lutou com o anjo e venceu;",
+        "5": "O Senhor , o Deus dos Exércitos,",
+        "6": "Quanto a você,",
+        "7": "“Como mercador",
+        "8": "Efraim diz:",
+        "9": "Mas eu sou o Senhor ,",
+        "10": "“Falei aos profetas",
+        "11": "Será que há transgressão",
+        "12": "Jacó fugiu para a terra da Síria;",
+        "13": "Mas o Senhor ,",
+        "14": "Efraim amargamente"
     }
-  }
 }

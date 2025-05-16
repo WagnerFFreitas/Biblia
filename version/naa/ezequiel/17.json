@@ -1,102 +1,34 @@
 {
-  "livro": "Ezequiel",
-  "capítulo": 17,
-  "versículos": {
-    "1": {
-      "título": "A parábola das duas águias e da videira",
-      "texto": "A palavra do Senhor veio a mim, dizendo:"
+    "livro": "Ezequiel",
+    "capitulo": 17,
+    "titulos": {
+        "1": "A parábola das duas águias e da videira",
+        "22": "Uma promessa de restauração"
     },
-    "2": {
-      "título": "",
-      "texto": "— Filho do homem, proponha um enigma e apresente uma parábola à casa de Israel."
-    },
-    "3": {
-      "título": "",
-      "texto": "Diga: Assim diz o Senhor Deus :"
-    },
-    "4": {
-      "título": "",
-      "texto": "Arrancou a ponta mais alta"
-    },
-    "5": {
-      "título": "",
-      "texto": "Depois, pegou"
-    },
-    "6": {
-      "título": "",
-      "texto": "Ela cresceu"
-    },
-    "7": {
-      "título": "",
-      "texto": "“Houve outra grande águia,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Ela estava plantada em boa terra,"
-    },
-    "9": {
-      "título": "",
-      "texto": "— Diga: Assim diz o Senhor Deus :"
-    },
-    "10": {
-      "título": "",
-      "texto": "Mas, mesmo que esteja"
-    },
-    "11": {
-      "título": "",
-      "texto": "Então a palavra do Senhor veio a mim, dizendo:"
-    },
-    "12": {
-      "título": "",
-      "texto": "— Pergunte agora à casa rebelde: Será que vocês não sabem o que significa isso? Diga: Eis que o rei da Babilônia veio a Jerusalém, pegou o seu rei e os seus príncipes e os levou consigo para a Babilônia."
-    },
-    "13": {
-      "título": "",
-      "texto": "Escolheu um membro da família real, fez aliança com ele e tomou dele juramento. Levou os poderosos da terra,"
-    },
-    "14": {
-      "título": "",
-      "texto": "para que o reino ficasse humilhado e não se levantasse, mas, guardando a sua aliança, pudesse subsistir."
-    },
-    "15": {
-      "título": "",
-      "texto": "Mas ele se rebelou contra o rei da Babilônia, enviando os seus mensageiros ao Egito, para conseguir cavalos e um grande exército. Será que prosperará ou conseguirá escapar aquele que faz tais coisas? Poderá quebrar a aliança e escapar?"
-    },
-    "16": {
-      "título": "",
-      "texto": "— Tão certo como eu vivo, diz o Senhor Deus , no lugar em que mora o rei que o pôs no trono, cujo juramento desprezou e cuja aliança quebrou, sim, junto dele, no meio da Babilônia será morto."
-    },
-    "17": {
-      "título": "",
-      "texto": "Faraó, nem com grande exército, nem com numerosa companhia, o ajudará na guerra, quando rampas e torres de ataque forem levantadas para destruir muitas vidas."
-    },
-    "18": {
-      "título": "",
-      "texto": "Ele desprezou o juramento, quebrando a aliança feita com aperto de mão, e praticou todas estas coisas; por isso, não escapará."
-    },
-    "19": {
-      "título": "",
-      "texto": "— Portanto, assim diz o Senhor Deus : Tão certo como eu vivo, o meu juramento que ele desprezou e a minha aliança que ele quebrou, isto farei recair sobre a sua cabeça."
-    },
-    "20": {
-      "título": "",
-      "texto": "Estenderei sobre ele a minha rede, e ficará preso nas minhas malhas. Eu o levarei para a Babilônia e ali entrarei em juízo com ele por causa da rebeldia que praticou contra mim."
-    },
-    "21": {
-      "título": "",
-      "texto": "Todos os seus fugitivos, com todas as suas tropas, cairão à espada, e os que restarem serão espalhados aos quatro ventos. Então vocês saberão que eu, o Senhor , falei."
-    },
-    "22": {
-      "título": "Uma promessa de restauração",
-      "texto": "— Assim diz o Senhor Deus : Também eu pegarei a ponta mais alta de um cedro e a plantarei; do principal dos seus ramos cortarei o renovo mais tenro e eu mesmo o plantarei sobre um monte alto e sublime."
-    },
-    "23": {
-      "título": "",
-      "texto": "No monte alto de Israel, o plantarei; ele produzirá ramos, dará frutos e se tornará um cedro excelente. Debaixo dele, viverão pássaros de todo tipo; à sombra dos seus ramos se aninharão aves de toda espécie."
-    },
-    "24": {
-      "título": "",
-      "texto": "Todas as árvores do campo saberão que eu, o Senhor , derrubo a árvore alta e elevo a baixa, seco a árvore verde e faço reverdecer a seca. Eu, o Senhor , falei e eu o cumprirei."
+    "versiculos": {
+        "1": "A palavra do Senhor veio a mim, dizendo:",
+        "2": "— Filho do homem, proponha um enigma e apresente uma parábola à casa de Israel.",
+        "3": "Diga: Assim diz o Senhor Deus :",
+        "4": "Arrancou a ponta mais alta",
+        "5": "Depois, pegou",
+        "6": "Ela cresceu",
+        "7": "“Houve outra grande águia,",
+        "8": "Ela estava plantada em boa terra,",
+        "9": "— Diga: Assim diz o Senhor Deus :",
+        "10": "Mas, mesmo que esteja",
+        "11": "Então a palavra do Senhor veio a mim, dizendo:",
+        "12": "— Pergunte agora à casa rebelde: Será que vocês não sabem o que significa isso? Diga: Eis que o rei da Babilônia veio a Jerusalém, pegou o seu rei e os seus príncipes e os levou consigo para a Babilônia.",
+        "13": "Escolheu um membro da família real, fez aliança com ele e tomou dele juramento. Levou os poderosos da terra,",
+        "14": "para que o reino ficasse humilhado e não se levantasse, mas, guardando a sua aliança, pudesse subsistir.",
+        "15": "Mas ele se rebelou contra o rei da Babilônia, enviando os seus mensageiros ao Egito, para conseguir cavalos e um grande exército. Será que prosperará ou conseguirá escapar aquele que faz tais coisas? Poderá quebrar a aliança e escapar?",
+        "16": "— Tão certo como eu vivo, diz o Senhor Deus , no lugar em que mora o rei que o pôs no trono, cujo juramento desprezou e cuja aliança quebrou, sim, junto dele, no meio da Babilônia será morto.",
+        "17": "Faraó, nem com grande exército, nem com numerosa companhia, o ajudará na guerra, quando rampas e torres de ataque forem levantadas para destruir muitas vidas.",
+        "18": "Ele desprezou o juramento, quebrando a aliança feita com aperto de mão, e praticou todas estas coisas; por isso, não escapará.",
+        "19": "— Portanto, assim diz o Senhor Deus : Tão certo como eu vivo, o meu juramento que ele desprezou e a minha aliança que ele quebrou, isto farei recair sobre a sua cabeça.",
+        "20": "Estenderei sobre ele a minha rede, e ficará preso nas minhas malhas. Eu o levarei para a Babilônia e ali entrarei em juízo com ele por causa da rebeldia que praticou contra mim.",
+        "21": "Todos os seus fugitivos, com todas as suas tropas, cairão à espada, e os que restarem serão espalhados aos quatro ventos. Então vocês saberão que eu, o Senhor , falei.",
+        "22": "— Assim diz o Senhor Deus : Também eu pegarei a ponta mais alta de um cedro e a plantarei; do principal dos seus ramos cortarei o renovo mais tenro e eu mesmo o plantarei sobre um monte alto e sublime.",
+        "23": "No monte alto de Israel, o plantarei; ele produzirá ramos, dará frutos e se tornará um cedro excelente. Debaixo dele, viverão pássaros de todo tipo; à sombra dos seus ramos se aninharão aves de toda espécie.",
+        "24": "Todas as árvores do campo saberão que eu, o Senhor , derrubo a árvore alta e elevo a baixa, seco a árvore verde e faço reverdecer a seca. Eu, o Senhor , falei e eu o cumprirei."
     }
-  }
 }

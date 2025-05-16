@@ -1,54 +1,21 @@
 {
-  "livro": "Salmos",
-  "capítulo": 76,
-  "versículos": {
-    "1": {
-      "título": "A majestade e o poder de Deus",
-      "texto": "Deus é conhecido em Judá;"
+    "livro": "Salmos",
+    "capitulo": 76,
+    "titulos": {
+        "1": "A majestade e o poder de Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "Em Salém está o seu tabernáculo,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Ali, despedaçou ele as flechas,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Tu és ilustre e mais glorioso"
-    },
-    "5": {
-      "título": "",
-      "texto": "Os corajosos foram despojados;"
-    },
-    "6": {
-      "título": "",
-      "texto": "Ante a tua repreensão,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Tu, sim, tu és terrível;"
-    },
-    "8": {
-      "título": "",
-      "texto": "Desde os céus fizeste ouvir"
-    },
-    "9": {
-      "título": "",
-      "texto": "quando Deus se levantou"
-    },
-    "10": {
-      "título": "",
-      "texto": "Pois até a ira humana"
-    },
-    "11": {
-      "título": "",
-      "texto": "Façam votos ao Senhor , seu Deus,"
-    },
-    "12": {
-      "título": "",
-      "texto": "Ele acaba com"
+    "versiculos": {
+        "1": "Deus é conhecido em Judá;",
+        "2": "Em Salém está o seu tabernáculo,",
+        "3": "Ali, despedaçou ele as flechas,",
+        "4": "Tu és ilustre e mais glorioso",
+        "5": "Os corajosos foram despojados;",
+        "6": "Ante a tua repreensão,",
+        "7": "Tu, sim, tu és terrível;",
+        "8": "Desde os céus fizeste ouvir",
+        "9": "quando Deus se levantou",
+        "10": "Pois até a ira humana",
+        "11": "Façam votos ao Senhor , seu Deus,",
+        "12": "Ele acaba com"
     }
-  }
 }

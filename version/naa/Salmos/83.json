@@ -1,78 +1,27 @@
 {
-  "livro": "Salmos",
-  "capítulo": 83,
-  "versículos": {
-    "1": {
-      "título": "Julgamento de Deus contra as nações inimigas",
-      "texto": "Ó Deus, não te cales!"
+    "livro": "Salmos",
+    "capitulo": 83,
+    "titulos": {
+        "1": "Julgamento de Deus contra as nações inimigas"
     },
-    "2": {
-      "título": "",
-      "texto": "Os teus inimigos se alvoroçam,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Tramam astutamente"
-    },
-    "4": {
-      "título": "",
-      "texto": "Eles dizem:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Pois tramam de comum acordo"
-    },
-    "6": {
-      "título": "",
-      "texto": "São as tendas de Edom"
-    },
-    "7": {
-      "título": "",
-      "texto": "Gebal, Amom e Amaleque,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Também a Assíria se alia com eles,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Faze com eles"
-    },
-    "10": {
-      "título": "",
-      "texto": "eles foram destruídos em En-Dor"
-    },
-    "11": {
-      "título": "",
-      "texto": "Sejam os seus nobres"
-    },
-    "12": {
-      "título": "",
-      "texto": "que disseram:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Deus meu, faze-os como folhas"
-    },
-    "14": {
-      "título": "",
-      "texto": "Como o fogo devora um bosque"
-    },
-    "15": {
-      "título": "",
-      "texto": "assim persegue-os"
-    },
-    "16": {
-      "título": "",
-      "texto": "Cobre o rosto deles de vergonha,"
-    },
-    "17": {
-      "título": "",
-      "texto": "Sejam envergonhados"
-    },
-    "18": {
-      "título": "",
-      "texto": "Então reconhecerão que só tu,"
+    "versiculos": {
+        "1": "Ó Deus, não te cales!",
+        "2": "Os teus inimigos se alvoroçam,",
+        "3": "Tramam astutamente",
+        "4": "Eles dizem:",
+        "5": "Pois tramam de comum acordo",
+        "6": "São as tendas de Edom",
+        "7": "Gebal, Amom e Amaleque,",
+        "8": "Também a Assíria se alia com eles,",
+        "9": "Faze com eles",
+        "10": "eles foram destruídos em En-Dor",
+        "11": "Sejam os seus nobres",
+        "12": "que disseram:",
+        "13": "Deus meu, faze-os como folhas",
+        "14": "Como o fogo devora um bosque",
+        "15": "assim persegue-os",
+        "16": "Cobre o rosto deles de vergonha,",
+        "17": "Sejam envergonhados",
+        "18": "Então reconhecerão que só tu,"
     }
-  }
 }

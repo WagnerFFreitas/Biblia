@@ -1,102 +1,36 @@
 {
-  "livro": "1 Samuel",
-  "capítulo": 19,
-  "versículos": {
-    "1": {
-      "título": "Jônatas intercede por Davi",
-      "texto": "Saul falou a seu filho Jônatas e a todos os servos sobre matar Davi. Mas Jônatas, filho de Saul, era muito afeiçoado a Davi."
+    "livro": "1 Samuel",
+    "capitulo": 19,
+    "titulos": {
+        "1": "Jônatas intercede por Davi",
+        "8": "Saul procura, de novo, matar Davi",
+        "12": "Mical engana seu pai e salva Davi",
+        "18": "Saul e seus mensageiros profetizam"
     },
-    "2": {
-      "título": "",
-      "texto": "Por isso, Jônatas revelou esse plano a Davi, dizendo:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Eu sairei e estarei ao lado de meu pai no campo onde você estiver. Falarei com meu pai a respeito de você. Se eu descobrir alguma coisa, contarei a você."
-    },
-    "4": {
-      "título": "",
-      "texto": "Então Jônatas falou bem de Davi a Saul, seu pai, e lhe disse:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Arriscando a sua vida, ele matou o filisteu e o Senhor efetuou grande livramento a todo o Israel. Você mesmo viu isso e ficou contente. Por que, então, você pecaria contra sangue inocente, matando Davi sem motivo?"
-    },
-    "6": {
-      "título": "",
-      "texto": "Saul atendeu à voz de Jônatas e jurou:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Jônatas chamou Davi, contou-lhe todas estas palavras e o levou a Saul. E Davi esteve diante de Saul como antes."
-    },
-    "8": {
-      "título": "Saul procura, de novo, matar Davi",
-      "texto": "E tornou a haver guerra. Davi lutou contra os filisteus e os feriu com grande derrota, e eles fugiram dele."
-    },
-    "9": {
-      "título": "",
-      "texto": "E o espírito mau, enviado da parte do Senhor , veio sobre Saul. Ele estava sentado em sua casa, com a sua lança na mão, enquanto Davi dedilhava a harpa."
-    },
-    "10": {
-      "título": "",
-      "texto": "Saul tentou encravar Davi na parede, porém ele se desviou e a lança foi se encravar na parede. Então Davi fugiu e escapou."
-    },
-    "11": {
-      "título": "",
-      "texto": "Porém, naquela mesma noite, Saul mandou mensageiros à casa de Davi, que o vigiassem, para ele o matar pela manhã. Porém Mical, a mulher de Davi, o avisou:"
-    },
-    "12": {
-      "título": "Mical engana seu pai e salva Davi",
-      "texto": "Então Mical desceu Davi por uma janela, e ele se foi, fugiu e escapou."
-    },
-    "13": {
-      "título": "",
-      "texto": "Mical pegou um ídolo do lar e o deitou na cama. Pôs um tecido de pelos de cabra sobre a cabeça do ídolo, e o cobriu com um manto."
-    },
-    "14": {
-      "título": "",
-      "texto": "Quando Saul enviou mensageiros para prender Davi, Mical disse:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Então Saul mandou mensageiros que fossem ver Davi, dizendo:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Quando os mensageiros entraram, eis que na cama estava apenas o ídolo do lar com o tecido de pelos de cabra ao redor da cabeça."
-    },
-    "17": {
-      "título": "",
-      "texto": "Então Saul disse a Mical:"
-    },
-    "18": {
-      "título": "Saul e seus mensageiros profetizam",
-      "texto": "Assim, Davi fugiu e escapou, e foi até onde Samuel estava, em Ramá, e lhe contou tudo o que Saul lhe havia feito. Então se retiraram, ele e Samuel, e ficaram na casa dos profetas."
-    },
-    "19": {
-      "título": "",
-      "texto": "Saul ficou sabendo que Davi estava na casa dos profetas, em Ramá."
-    },
-    "20": {
-      "título": "",
-      "texto": "Então Saul enviou mensageiros para trazerem Davi. Quando viram um grupo de profetas profetizando, liderados por Samuel, o Espírito de Deus veio sobre os mensageiros de Saul, e também eles profetizaram."
-    },
-    "21": {
-      "título": "",
-      "texto": "Quando soube disso, Saul enviou outros mensageiros, e também estes profetizaram. Então Saul enviou um terceiro grupo de mensageiros, os quais também profetizaram."
-    },
-    "22": {
-      "título": "",
-      "texto": "Então o próprio Saul foi a Ramá. Quando chegou ao poço grande na cidade de Seco, perguntou:"
-    },
-    "23": {
-      "título": "",
-      "texto": "Então Saul foi para a casa dos profetas, em Ramá. E o mesmo Espírito de Deus veio sobre ele, que, caminhando, profetizava até chegar à casa dos profetas, em Ramá."
-    },
-    "24": {
-      "título": "",
-      "texto": "Também ele despiu a sua túnica e profetizou diante de Samuel. E, sem a túnica, ficou deitado no chão todo aquele dia e toda aquela noite. Por isso se diz: “Está também Saul entre os profetas?”"
+    "versiculos": {
+        "1": "Saul falou a seu filho Jônatas e a todos os servos sobre matar Davi. Mas Jônatas, filho de Saul, era muito afeiçoado a Davi.",
+        "2": "Por isso, Jônatas revelou esse plano a Davi, dizendo:",
+        "3": "Eu sairei e estarei ao lado de meu pai no campo onde você estiver. Falarei com meu pai a respeito de você. Se eu descobrir alguma coisa, contarei a você.",
+        "4": "Então Jônatas falou bem de Davi a Saul, seu pai, e lhe disse:",
+        "5": "Arriscando a sua vida, ele matou o filisteu e o Senhor efetuou grande livramento a todo o Israel. Você mesmo viu isso e ficou contente. Por que, então, você pecaria contra sangue inocente, matando Davi sem motivo?",
+        "6": "Saul atendeu à voz de Jônatas e jurou:",
+        "7": "Jônatas chamou Davi, contou-lhe todas estas palavras e o levou a Saul. E Davi esteve diante de Saul como antes.",
+        "8": "E tornou a haver guerra. Davi lutou contra os filisteus e os feriu com grande derrota, e eles fugiram dele.",
+        "9": "E o espírito mau, enviado da parte do Senhor , veio sobre Saul. Ele estava sentado em sua casa, com a sua lança na mão, enquanto Davi dedilhava a harpa.",
+        "10": "Saul tentou encravar Davi na parede, porém ele se desviou e a lança foi se encravar na parede. Então Davi fugiu e escapou.",
+        "11": "Porém, naquela mesma noite, Saul mandou mensageiros à casa de Davi, que o vigiassem, para ele o matar pela manhã. Porém Mical, a mulher de Davi, o avisou:",
+        "12": "Então Mical desceu Davi por uma janela, e ele se foi, fugiu e escapou.",
+        "13": "Mical pegou um ídolo do lar e o deitou na cama. Pôs um tecido de pelos de cabra sobre a cabeça do ídolo, e o cobriu com um manto.",
+        "14": "Quando Saul enviou mensageiros para prender Davi, Mical disse:",
+        "15": "Então Saul mandou mensageiros que fossem ver Davi, dizendo:",
+        "16": "Quando os mensageiros entraram, eis que na cama estava apenas o ídolo do lar com o tecido de pelos de cabra ao redor da cabeça.",
+        "17": "Então Saul disse a Mical:",
+        "18": "Assim, Davi fugiu e escapou, e foi até onde Samuel estava, em Ramá, e lhe contou tudo o que Saul lhe havia feito. Então se retiraram, ele e Samuel, e ficaram na casa dos profetas.",
+        "19": "Saul ficou sabendo que Davi estava na casa dos profetas, em Ramá.",
+        "20": "Então Saul enviou mensageiros para trazerem Davi. Quando viram um grupo de profetas profetizando, liderados por Samuel, o Espírito de Deus veio sobre os mensageiros de Saul, e também eles profetizaram.",
+        "21": "Quando soube disso, Saul enviou outros mensageiros, e também estes profetizaram. Então Saul enviou um terceiro grupo de mensageiros, os quais também profetizaram.",
+        "22": "Então o próprio Saul foi a Ramá. Quando chegou ao poço grande na cidade de Seco, perguntou:",
+        "23": "Então Saul foi para a casa dos profetas, em Ramá. E o mesmo Espírito de Deus veio sobre ele, que, caminhando, profetizava até chegar à casa dos profetas, em Ramá.",
+        "24": "Também ele despiu a sua túnica e profetizou diante de Samuel. E, sem a túnica, ficou deitado no chão todo aquele dia e toda aquela noite. Por isso se diz: “Está também Saul entre os profetas?”"
     }
-  }
 }

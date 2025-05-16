@@ -1,42 +1,18 @@
 {
-  "livro": "Salmos",
-  "capítulo": 149,
-  "versículos": {
-    "1": {
-      "título": "Hino de louvor",
-      "texto": "Aleluia!"
+    "livro": "Salmos",
+    "capitulo": 149,
+    "titulos": {
+        "1": "Hino de louvor"
     },
-    "2": {
-      "título": "",
-      "texto": "Alegre-se Israel no seu Criador;"
-    },
-    "3": {
-      "título": "",
-      "texto": "Louvem o nome do Senhor"
-    },
-    "4": {
-      "título": "",
-      "texto": "Porque o Senhor"
-    },
-    "5": {
-      "título": "",
-      "texto": "Que os santos exultem de glória,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Nos seus lábios estejam"
-    },
-    "7": {
-      "título": "",
-      "texto": "para exercer vingança"
-    },
-    "8": {
-      "título": "",
-      "texto": "para prender os seus reis"
-    },
-    "9": {
-      "título": "",
-      "texto": "para executar contra eles"
+    "versiculos": {
+        "1": "Aleluia!",
+        "2": "Alegre-se Israel no seu Criador;",
+        "3": "Louvem o nome do Senhor",
+        "4": "Porque o Senhor",
+        "5": "Que os santos exultem de glória,",
+        "6": "Nos seus lábios estejam",
+        "7": "para exercer vingança",
+        "8": "para prender os seus reis",
+        "9": "para executar contra eles"
     }
-  }
 }

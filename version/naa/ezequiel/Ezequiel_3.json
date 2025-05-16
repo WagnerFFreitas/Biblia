@@ -1,114 +1,37 @@
 {
-  "livro": "Ezequiel",
-  "capítulo": 3,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Ainda me disse:"
+    "livro": "Ezequiel",
+    "capitulo": 3,
+    "titulos": {
+        "4": "A missão do profeta",
+        "16": "O atalaia de Israel"
     },
-    "2": {
-      "título": "",
-      "texto": "Então abri a boca, e ele me deu o rolo para comer."
-    },
-    "3": {
-      "título": "",
-      "texto": "E me disse:"
-    },
-    "4": {
-      "título": "A missão do profeta",
-      "texto": "Disse-me ainda:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Porque você não está sendo enviado a um povo de fala obscura nem de língua difícil, mas à casa de Israel."
-    },
-    "6": {
-      "título": "",
-      "texto": "Você não está sendo enviado a muitos povos de fala obscura e de língua difícil, cujas palavras você não poderia entender. Se eu o enviasse a esses povos, eles certamente dariam ouvidos a você."
-    },
-    "7": {
-      "título": "",
-      "texto": "Mas a casa de Israel não vai querer dar ouvidos a você, porque não quer dar ouvidos a mim; pois toda a casa de Israel tem o coração fechado e a mente endurecida."
-    },
-    "8": {
-      "título": "",
-      "texto": "Eis que endureci o seu rosto contra o rosto deles e endureci a sua fronte contra a fronte deles."
-    },
-    "9": {
-      "título": "",
-      "texto": "Tornei a sua fronte mais dura do que a rocha — como o diamante. Portanto, não tenha medo deles, nem se assuste com o rosto deles, porque são casa rebelde."
-    },
-    "10": {
-      "título": "",
-      "texto": "Ainda me disse mais:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Vá falar com os exilados, os filhos do seu povo, e, quer ouçam quer deixem de ouvir, fale com eles e diga-lhes: “Assim diz o Senhor Deus .”"
-    },
-    "12": {
-      "título": "",
-      "texto": "Então o Espírito me levantou, e ouvi atrás de mim a voz de um grande estrondo, que, levantando-se do seu lugar, dizia:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Ouvi o ruído das asas dos seres viventes, que tocavam umas nas outras, e o barulho das rodas juntamente com eles e o som de um grande estrondo."
-    },
-    "14": {
-      "título": "",
-      "texto": "Então o Espírito me levantou e me levou. Eu fui, amargurado no furor do meu espírito, e a mão do Senhor se fez forte sobre mim."
-    },
-    "15": {
-      "título": "",
-      "texto": "Então fui a Tel-Abibe, aos exilados que habitavam junto ao rio Quebar, e, durante sete dias, assentei-me ali, perplexo, no meio deles."
-    },
-    "16": {
-      "título": "O atalaia de Israel",
-      "texto": "Depois dos sete dias, a palavra do Senhor veio a mim, dizendo:"
-    },
-    "17": {
-      "título": "",
-      "texto": "— Filho do homem, eu o coloquei como atalaia sobre a casa de Israel. Você ouvirá a palavra da minha boca e lhes dará aviso da minha parte."
-    },
-    "18": {
-      "título": "",
-      "texto": "Quando eu disser ao ímpio: “Você certamente morrerá”, e você não o avisar e nada disser para o advertir do seu mau caminho, para lhe salvar a vida, esse ímpio morrerá na sua maldade, mas você será responsável pela morte dele."
-    },
-    "19": {
-      "título": "",
-      "texto": "Mas, se você avisar o ímpio, e ele não se converter da sua maldade e do seu mau caminho, ele morrerá na sua maldade, mas você terá salvo a sua vida."
-    },
-    "20": {
-      "título": "",
-      "texto": "— Também quando o justo se desviar da sua justiça e fizer maldade, e eu puser diante dele um tropeço, ele morrerá. Visto que você não o avisou, ele morrerá no seu pecado, e os atos de justiça que ele havia praticado não serão lembrados, e você será responsável pela morte dele."
-    },
-    "21": {
-      "título": "",
-      "texto": "No entanto, se você avisar o justo, para que não peque, e ele não pecar, certamente viverá, porque foi avisado; e você terá salvo a sua vida."
-    },
-    "22": {
-      "título": "",
-      "texto": "A mão do Senhor veio sobre mim, e ele me disse:"
-    },
-    "23": {
-      "título": "",
-      "texto": "Levantei-me e fui para o vale, e eis que a glória do Senhor estava ali, como a glória que eu tinha visto junto ao rio Quebar; e caí com o rosto em terra."
-    },
-    "24": {
-      "título": "",
-      "texto": "Então o Espírito entrou em mim, e me pôs em pé, e falou comigo, e me disse:"
-    },
-    "25": {
-      "título": "",
-      "texto": "Quanto a você, filho do homem, eis que porão cordas sobre você e irão amarrá-lo com elas; e você não poderá sair para o meio do povo."
-    },
-    "26": {
-      "título": "",
-      "texto": "Farei com que a sua língua se apegue ao céu da boca, e você ficará mudo e incapaz de os repreender; porque são casa rebelde."
-    },
-    "27": {
-      "título": "",
-      "texto": "Mas, quando eu falar com você, eu lhe devolverei a fala e você lhes dirá: “Assim diz o Senhor Deus .” Quem ouvir, que ouça; e quem deixar de ouvir, que fique sem ouvir; porque são casa rebelde."
+    "versiculos": {
+        "1": "Ainda me disse:",
+        "2": "Então abri a boca, e ele me deu o rolo para comer.",
+        "3": "E me disse:",
+        "4": "Disse-me ainda:",
+        "5": "Porque você não está sendo enviado a um povo de fala obscura nem de língua difícil, mas à casa de Israel.",
+        "6": "Você não está sendo enviado a muitos povos de fala obscura e de língua difícil, cujas palavras você não poderia entender. Se eu o enviasse a esses povos, eles certamente dariam ouvidos a você.",
+        "7": "Mas a casa de Israel não vai querer dar ouvidos a você, porque não quer dar ouvidos a mim; pois toda a casa de Israel tem o coração fechado e a mente endurecida.",
+        "8": "Eis que endureci o seu rosto contra o rosto deles e endureci a sua fronte contra a fronte deles.",
+        "9": "Tornei a sua fronte mais dura do que a rocha — como o diamante. Portanto, não tenha medo deles, nem se assuste com o rosto deles, porque são casa rebelde.",
+        "10": "Ainda me disse mais:",
+        "11": "Vá falar com os exilados, os filhos do seu povo, e, quer ouçam quer deixem de ouvir, fale com eles e diga-lhes: “Assim diz o Senhor Deus .”",
+        "12": "Então o Espírito me levantou, e ouvi atrás de mim a voz de um grande estrondo, que, levantando-se do seu lugar, dizia:",
+        "13": "Ouvi o ruído das asas dos seres viventes, que tocavam umas nas outras, e o barulho das rodas juntamente com eles e o som de um grande estrondo.",
+        "14": "Então o Espírito me levantou e me levou. Eu fui, amargurado no furor do meu espírito, e a mão do Senhor se fez forte sobre mim.",
+        "15": "Então fui a Tel-Abibe, aos exilados que habitavam junto ao rio Quebar, e, durante sete dias, assentei-me ali, perplexo, no meio deles.",
+        "16": "Depois dos sete dias, a palavra do Senhor veio a mim, dizendo:",
+        "17": "— Filho do homem, eu o coloquei como atalaia sobre a casa de Israel. Você ouvirá a palavra da minha boca e lhes dará aviso da minha parte.",
+        "18": "Quando eu disser ao ímpio: “Você certamente morrerá”, e você não o avisar e nada disser para o advertir do seu mau caminho, para lhe salvar a vida, esse ímpio morrerá na sua maldade, mas você será responsável pela morte dele.",
+        "19": "Mas, se você avisar o ímpio, e ele não se converter da sua maldade e do seu mau caminho, ele morrerá na sua maldade, mas você terá salvo a sua vida.",
+        "20": "— Também quando o justo se desviar da sua justiça e fizer maldade, e eu puser diante dele um tropeço, ele morrerá. Visto que você não o avisou, ele morrerá no seu pecado, e os atos de justiça que ele havia praticado não serão lembrados, e você será responsável pela morte dele.",
+        "21": "No entanto, se você avisar o justo, para que não peque, e ele não pecar, certamente viverá, porque foi avisado; e você terá salvo a sua vida.",
+        "22": "A mão do Senhor veio sobre mim, e ele me disse:",
+        "23": "Levantei-me e fui para o vale, e eis que a glória do Senhor estava ali, como a glória que eu tinha visto junto ao rio Quebar; e caí com o rosto em terra.",
+        "24": "Então o Espírito entrou em mim, e me pôs em pé, e falou comigo, e me disse:",
+        "25": "Quanto a você, filho do homem, eis que porão cordas sobre você e irão amarrá-lo com elas; e você não poderá sair para o meio do povo.",
+        "26": "Farei com que a sua língua se apegue ao céu da boca, e você ficará mudo e incapaz de os repreender; porque são casa rebelde.",
+        "27": "Mas, quando eu falar com você, eu lhe devolverei a fala e você lhes dirá: “Assim diz o Senhor Deus .” Quem ouvir, que ouça; e quem deixar de ouvir, que fique sem ouvir; porque são casa rebelde."
     }
-  }
 }

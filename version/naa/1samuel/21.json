@@ -1,66 +1,25 @@
 {
-  "livro": "1 Samuel",
-  "capítulo": 21,
-  "versículos": {
-    "1": {
-      "título": "Davi vai para junto de Aimeleque",
-      "texto": "Então Davi foi até Nobe, ao sacerdote Aimeleque. Aimeleque, tremendo, saiu ao encontro de Davi e perguntou:"
+    "livro": "1 Samuel",
+    "capitulo": 21,
+    "titulos": {
+        "1": "Davi vai para junto de Aimeleque",
+        "10": "Davi foge de Saul para Gate"
     },
-    "2": {
-      "título": "",
-      "texto": "Davi respondeu ao sacerdote Aimeleque:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Agora, o que você tem à mão? Dê-me cinco pães ou o que puder encontrar."
-    },
-    "4": {
-      "título": "",
-      "texto": "O sacerdote respondeu a Davi, dizendo:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Davi respondeu ao sacerdote:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Então o sacerdote deu a Davi o pão sagrado, porque não havia ali outro, a não ser os pães da proposição, que tinham sido tirados de diante do Senhor , quando foram trocados, no devido dia, por pão quente."
-    },
-    "7": {
-      "título": "",
-      "texto": "Acontece que estava ali, naquele dia, um dos servos de Saul, detido diante do Senhor , cujo nome era Doegue, edomita, o chefe dos pastores de Saul."
-    },
-    "8": {
-      "título": "",
-      "texto": "Davi disse a Aimeleque:"
-    },
-    "9": {
-      "título": "",
-      "texto": "O sacerdote respondeu:"
-    },
-    "10": {
-      "título": "Davi foge de Saul para Gate",
-      "texto": "Naquele dia, Davi se levantou e fugiu de Saul. Ele foi procurar Aquis, rei de Gate."
-    },
-    "11": {
-      "título": "",
-      "texto": "Porém os servos de Aquis lhe disseram:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Davi guardou essas palavras no coração e teve muito medo de Aquis, rei de Gate."
-    },
-    "13": {
-      "título": "",
-      "texto": "Por isso mudou o seu comportamento diante deles, fingindo-se de louco nas mãos deles. Fazia riscos nos batentes dos portões e deixava escorrer saliva pela barba."
-    },
-    "14": {
-      "título": "",
-      "texto": "Então Aquis disse aos seus servos:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Será que estou com falta de doidos, para que vocês me trouxessem este para fazer doidices diante de mim? Devo deixar que este entre em minha casa?"
+    "versiculos": {
+        "1": "Então Davi foi até Nobe, ao sacerdote Aimeleque. Aimeleque, tremendo, saiu ao encontro de Davi e perguntou:",
+        "2": "Davi respondeu ao sacerdote Aimeleque:",
+        "3": "Agora, o que você tem à mão? Dê-me cinco pães ou o que puder encontrar.",
+        "4": "O sacerdote respondeu a Davi, dizendo:",
+        "5": "Davi respondeu ao sacerdote:",
+        "6": "Então o sacerdote deu a Davi o pão sagrado, porque não havia ali outro, a não ser os pães da proposição, que tinham sido tirados de diante do Senhor , quando foram trocados, no devido dia, por pão quente.",
+        "7": "Acontece que estava ali, naquele dia, um dos servos de Saul, detido diante do Senhor , cujo nome era Doegue, edomita, o chefe dos pastores de Saul.",
+        "8": "Davi disse a Aimeleque:",
+        "9": "O sacerdote respondeu:",
+        "10": "Naquele dia, Davi se levantou e fugiu de Saul. Ele foi procurar Aquis, rei de Gate.",
+        "11": "Porém os servos de Aquis lhe disseram:",
+        "12": "Davi guardou essas palavras no coração e teve muito medo de Aquis, rei de Gate.",
+        "13": "Por isso mudou o seu comportamento diante deles, fingindo-se de louco nas mãos deles. Fazia riscos nos batentes dos portões e deixava escorrer saliva pela barba.",
+        "14": "Então Aquis disse aos seus servos:",
+        "15": "Será que estou com falta de doidos, para que vocês me trouxessem este para fazer doidices diante de mim? Devo deixar que este entre em minha casa?"
     }
-  }
 }

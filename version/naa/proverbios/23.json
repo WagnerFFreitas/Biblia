@@ -1,146 +1,56 @@
 {
-  "livro": "Provérbios",
-  "capítulo": 23,
-  "versículos": {
-    "1": {
-      "título": "— 6 —",
-      "texto": "Quando você se assentar"
+    "livro": "Provérbios",
+    "capitulo": 23,
+    "titulos": {
+        "1": "— 6 —",
+        "4": "— 7 —",
+        "6": "— 8 —",
+        "9": "— 9 —",
+        "10": "— 10 —",
+        "12": "— 11 —",
+        "13": "— 12 —",
+        "15": "— 13 —",
+        "17": "— 14 —",
+        "19": "— 15 —",
+        "22": "— 16 —",
+        "26": "— 17 —",
+        "29": "— 18 —"
     },
-    "2": {
-      "título": "",
-      "texto": "Encoste uma faca"
-    },
-    "3": {
-      "título": "",
-      "texto": "Não cobice os pratos deliciosos"
-    },
-    "4": {
-      "título": "— 7 —",
-      "texto": "Não se fatigue para ficar rico;"
-    },
-    "5": {
-      "título": "",
-      "texto": "Você quer pôr os seus olhos"
-    },
-    "6": {
-      "título": "— 8 —",
-      "texto": "Não coma o pão do invejoso,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Porque, como imagina"
-    },
-    "8": {
-      "título": "",
-      "texto": "Você vomitará"
-    },
-    "9": {
-      "título": "— 9 —",
-      "texto": "Não fale com um tolo,"
-    },
-    "10": {
-      "título": "— 10 —",
-      "texto": "Não remova os marcos antigos,"
-    },
-    "11": {
-      "título": "",
-      "texto": "porque o Redentor deles é forte"
-    },
-    "12": {
-      "título": "— 11 —",
-      "texto": "Aplique o seu coração ao ensino"
-    },
-    "13": {
-      "título": "— 12 —",
-      "texto": "Não deixe a criança"
-    },
-    "14": {
-      "título": "",
-      "texto": "Você a castigará com a vara"
-    },
-    "15": {
-      "título": "— 13 —",
-      "texto": "Meu filho, se o seu coração"
-    },
-    "16": {
-      "título": "",
-      "texto": "o meu íntimo exultará,"
-    },
-    "17": {
-      "título": "— 14 —",
-      "texto": "Não tenha inveja dos pecadores;"
-    },
-    "18": {
-      "título": "",
-      "texto": "Porque certamente"
-    },
-    "19": {
-      "título": "— 15 —",
-      "texto": "Escute, meu filho, e seja sábio;"
-    },
-    "20": {
-      "título": "",
-      "texto": "Não se junte com os beberrões"
-    },
-    "21": {
-      "título": "",
-      "texto": "porque os beberrões"
-    },
-    "22": {
-      "título": "— 16 —",
-      "texto": "Escute o seu pai, que o gerou,"
-    },
-    "23": {
-      "título": "",
-      "texto": "Compre a verdade"
-    },
-    "24": {
-      "título": "",
-      "texto": "O pai de um justo"
-    },
-    "25": {
-      "título": "",
-      "texto": "Dê essa alegria ao seu pai"
-    },
-    "26": {
-      "título": "— 17 —",
-      "texto": "Meu filho, preste bem atenção"
-    },
-    "27": {
-      "título": "",
-      "texto": "Pois uma prostituta"
-    },
-    "28": {
-      "título": "",
-      "texto": "Como assaltante,"
-    },
-    "29": {
-      "título": "— 18 —",
-      "texto": "Para quem são os ais?"
-    },
-    "30": {
-      "título": "",
-      "texto": "Para os que se demoram"
-    },
-    "31": {
-      "título": "",
-      "texto": "Não olhe para o vinho,"
-    },
-    "32": {
-      "título": "",
-      "texto": "Pois no fim"
-    },
-    "33": {
-      "título": "",
-      "texto": "Os seus olhos"
-    },
-    "34": {
-      "título": "",
-      "texto": "Você será como o que se deita"
-    },
-    "35": {
-      "título": "",
-      "texto": "Você dirá: “Fui espancado,"
+    "versiculos": {
+        "1": "Quando você se assentar",
+        "2": "Encoste uma faca",
+        "3": "Não cobice os pratos deliciosos",
+        "4": "Não se fatigue para ficar rico;",
+        "5": "Você quer pôr os seus olhos",
+        "6": "Não coma o pão do invejoso,",
+        "7": "Porque, como imagina",
+        "8": "Você vomitará",
+        "9": "Não fale com um tolo,",
+        "10": "Não remova os marcos antigos,",
+        "11": "porque o Redentor deles é forte",
+        "12": "Aplique o seu coração ao ensino",
+        "13": "Não deixe a criança",
+        "14": "Você a castigará com a vara",
+        "15": "Meu filho, se o seu coração",
+        "16": "o meu íntimo exultará,",
+        "17": "Não tenha inveja dos pecadores;",
+        "18": "Porque certamente",
+        "19": "Escute, meu filho, e seja sábio;",
+        "20": "Não se junte com os beberrões",
+        "21": "porque os beberrões",
+        "22": "Escute o seu pai, que o gerou,",
+        "23": "Compre a verdade",
+        "24": "O pai de um justo",
+        "25": "Dê essa alegria ao seu pai",
+        "26": "Meu filho, preste bem atenção",
+        "27": "Pois uma prostituta",
+        "28": "Como assaltante,",
+        "29": "Para quem são os ais?",
+        "30": "Para os que se demoram",
+        "31": "Não olhe para o vinho,",
+        "32": "Pois no fim",
+        "33": "Os seus olhos",
+        "34": "Você será como o que se deita",
+        "35": "Você dirá: “Fui espancado,"
     }
-  }
 }

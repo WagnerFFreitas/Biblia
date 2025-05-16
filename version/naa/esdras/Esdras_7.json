@@ -1,118 +1,38 @@
 {
-  "livro": "Esdras",
-  "capítulo": 7,
-  "versículos": {
-    "1": {
-      "título": "Artaxerxes envia Esdras a Jerusalém",
-      "texto": "Passadas estas coisas, no reinado de Artaxerxes, rei da Pérsia, Esdras veio da Babilônia. Esdras era filho de Seraías, filho de Azarias, filho de Hilquias,"
+    "livro": "Esdras",
+    "capitulo": 7,
+    "titulos": {
+        "1": "Artaxerxes envia Esdras a Jerusalém",
+        "27": "Esdras louva a Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "filho de Salum, filho de Zadoque, filho de Aitube,"
-    },
-    "3": {
-      "título": "",
-      "texto": "filho de Amarias, filho de Azarias, filho de Meraiote,"
-    },
-    "4": {
-      "título": "",
-      "texto": "filho de Zeraías, filho de Uzi, filho de Buqui,"
-    },
-    "5": {
-      "título": "",
-      "texto": "filho de Abisua, filho de Fineias, filho de Eleazar, filho de Arão, o sumo sacerdote."
-    },
-    "6": {
-      "título": "",
-      "texto": "Ele era escriba versado na Lei de Moisés, dada pelo Senhor , Deus de Israel. E, como a mão do Senhor , seu Deus, estava sobre ele, o rei lhe deu tudo o que ele havia pedido."
-    },
-    "7": {
-      "título": "",
-      "texto": "Também vieram para Jerusalém alguns dos filhos de Israel, dos sacerdotes, dos levitas, dos cantores, dos porteiros e dos servidores do templo. Isto foi no sétimo ano do reinado de Artaxerxes."
-    },
-    "8": {
-      "título": "",
-      "texto": "Esdras chegou a Jerusalém no quinto mês, no sétimo ano deste rei."
-    },
-    "9": {
-      "título": "",
-      "texto": "Ele partiu da Babilônia no primeiro dia do primeiro mês, e, no primeiro dia do quinto mês, chegou a Jerusalém, porque a mão bondosa do seu Deus estava sobre ele."
-    },
-    "10": {
-      "título": "",
-      "texto": "Porque Esdras pôs no coração o propósito de buscar a Lei do Senhor , cumpri-la e ensinar em Israel os seus estatutos e os seus juízos."
-    },
-    "11": {
-      "título": "",
-      "texto": "Esta é a cópia da carta que o rei Artaxerxes entregou ao sacerdote Esdras, o escriba versado nas palavras, nos mandamentos e nos estatutos que o Senhor deu a Israel:"
-    },
-    "12": {
-      "título": "",
-      "texto": "“Artaxerxes, rei dos reis, ao sacerdote Esdras, escriba da Lei do Deus do céu: Paz perfeita!"
-    },
-    "13": {
-      "título": "",
-      "texto": "Estou decretando que, no meu reino, todo aquele do povo de Israel e dos seus sacerdotes e levitas que quiser ir com você para Jerusalém, que vá."
-    },
-    "14": {
-      "título": "",
-      "texto": "Você está sendo autorizado pelo rei e os seus sete conselheiros para fazer uma averiguação em Judá e em Jerusalém, segundo a Lei do seu Deus, a qual está em suas mãos."
-    },
-    "15": {
-      "título": "",
-      "texto": "Leve a prata e o ouro que o rei e os seus conselheiros espontaneamente ofereceram ao Deus de Israel, cuja habitação está em Jerusalém."
-    },
-    "16": {
-      "título": "",
-      "texto": "Leve também a prata e o ouro que você achar em toda a província da Babilônia, com as ofertas voluntárias do povo e dos sacerdotes, oferecidas espontaneamente para o templo de seu Deus, em Jerusalém."
-    },
-    "17": {
-      "título": "",
-      "texto": "Empregue esse dinheiro com diligência e compre novilhos, carneiros, cordeiros, com as suas ofertas de cereais e as suas libações, para oferecer sobre o altar do templo do seu Deus, em Jerusalém."
-    },
-    "18": {
-      "título": "",
-      "texto": "Com o resto da prata e do ouro, você e os seus irmãos podem fazer o que acharem melhor, segundo a vontade do seu Deus."
-    },
-    "19": {
-      "título": "",
-      "texto": "E os utensílios que lhe foram dados para o serviço da casa do seu Deus, restitua-os diante do Deus de Jerusalém."
-    },
-    "20": {
-      "título": "",
-      "texto": "E tudo mais que for necessário para o templo de seu Deus e que você tiver de providenciar será pago pela casa dos tesouros do rei."
-    },
-    "21": {
-      "título": "",
-      "texto": "Eu mesmo, o rei Artaxerxes, estou decretando a todos os tesoureiros que estão do outro lado do Eufrates o que segue: entreguem diligentemente tudo o que o sacerdote Esdras, escriba da Lei do Deus do céu, solicitar,"
-    },
-    "22": {
-      "título": "",
-      "texto": "até três mil e quatrocentos quilos de prata, dez mil quilos de trigo, dois mil litros de vinho, dois mil litros de azeite e sal à vontade."
-    },
-    "23": {
-      "título": "",
-      "texto": "Tudo o que for ordenado pelo Deus do céu, que se faça com exatidão para o templo do Deus do céu. Pois por que haveria grande ira sobre o reino do rei e dos seus filhos?"
-    },
-    "24": {
-      "título": "",
-      "texto": "Também informamos, a respeito de todos os sacerdotes e levitas, cantores, porteiros, de todos os que servem nesta Casa de Deus, que não será lícito impor-lhes nem direitos, nem impostos, nem pedágios."
-    },
-    "25": {
-      "título": "",
-      "texto": "E você, Esdras, conforme a sabedoria que o seu Deus lhe deu, nomeie magistrados e juízes que julguem todo o povo que está na região do outro lado do Eufrates, isto é, todos os que conhecem as leis do seu Deus; e que elas sejam ensinadas aos que não as conhecem."
-    },
-    "26": {
-      "título": "",
-      "texto": "Todo aquele que não observar a lei do seu Deus e a lei do rei com diligência, seja condenado ou à morte, ou ao desterro, ou ao confisco de bens, ou à prisão.”"
-    },
-    "27": {
-      "título": "Esdras louva a Deus",
-      "texto": "— Bendito seja o Senhor , Deus de nossos pais, que deste modo moveu o coração do rei para adornar a Casa do Senhor , em Jerusalém;"
-    },
-    "28": {
-      "título": "",
-      "texto": "e que estendeu para mim a sua misericórdia diante do rei, dos seus conselheiros e de todos os seus príncipes poderosos. Assim, eu me animei, porque a mão do Senhor , meu Deus, estava sobre mim, e reuni alguns chefes de Israel para voltarem comigo."
+    "versiculos": {
+        "1": "Passadas estas coisas, no reinado de Artaxerxes, rei da Pérsia, Esdras veio da Babilônia. Esdras era filho de Seraías, filho de Azarias, filho de Hilquias,",
+        "2": "filho de Salum, filho de Zadoque, filho de Aitube,",
+        "3": "filho de Amarias, filho de Azarias, filho de Meraiote,",
+        "4": "filho de Zeraías, filho de Uzi, filho de Buqui,",
+        "5": "filho de Abisua, filho de Fineias, filho de Eleazar, filho de Arão, o sumo sacerdote.",
+        "6": "Ele era escriba versado na Lei de Moisés, dada pelo Senhor , Deus de Israel. E, como a mão do Senhor , seu Deus, estava sobre ele, o rei lhe deu tudo o que ele havia pedido.",
+        "7": "Também vieram para Jerusalém alguns dos filhos de Israel, dos sacerdotes, dos levitas, dos cantores, dos porteiros e dos servidores do templo. Isto foi no sétimo ano do reinado de Artaxerxes.",
+        "8": "Esdras chegou a Jerusalém no quinto mês, no sétimo ano deste rei.",
+        "9": "Ele partiu da Babilônia no primeiro dia do primeiro mês, e, no primeiro dia do quinto mês, chegou a Jerusalém, porque a mão bondosa do seu Deus estava sobre ele.",
+        "10": "Porque Esdras pôs no coração o propósito de buscar a Lei do Senhor , cumpri-la e ensinar em Israel os seus estatutos e os seus juízos.",
+        "11": "Esta é a cópia da carta que o rei Artaxerxes entregou ao sacerdote Esdras, o escriba versado nas palavras, nos mandamentos e nos estatutos que o Senhor deu a Israel:",
+        "12": "“Artaxerxes, rei dos reis, ao sacerdote Esdras, escriba da Lei do Deus do céu: Paz perfeita!",
+        "13": "Estou decretando que, no meu reino, todo aquele do povo de Israel e dos seus sacerdotes e levitas que quiser ir com você para Jerusalém, que vá.",
+        "14": "Você está sendo autorizado pelo rei e os seus sete conselheiros para fazer uma averiguação em Judá e em Jerusalém, segundo a Lei do seu Deus, a qual está em suas mãos.",
+        "15": "Leve a prata e o ouro que o rei e os seus conselheiros espontaneamente ofereceram ao Deus de Israel, cuja habitação está em Jerusalém.",
+        "16": "Leve também a prata e o ouro que você achar em toda a província da Babilônia, com as ofertas voluntárias do povo e dos sacerdotes, oferecidas espontaneamente para o templo de seu Deus, em Jerusalém.",
+        "17": "Empregue esse dinheiro com diligência e compre novilhos, carneiros, cordeiros, com as suas ofertas de cereais e as suas libações, para oferecer sobre o altar do templo do seu Deus, em Jerusalém.",
+        "18": "Com o resto da prata e do ouro, você e os seus irmãos podem fazer o que acharem melhor, segundo a vontade do seu Deus.",
+        "19": "E os utensílios que lhe foram dados para o serviço da casa do seu Deus, restitua-os diante do Deus de Jerusalém.",
+        "20": "E tudo mais que for necessário para o templo de seu Deus e que você tiver de providenciar será pago pela casa dos tesouros do rei.",
+        "21": "Eu mesmo, o rei Artaxerxes, estou decretando a todos os tesoureiros que estão do outro lado do Eufrates o que segue: entreguem diligentemente tudo o que o sacerdote Esdras, escriba da Lei do Deus do céu, solicitar,",
+        "22": "até três mil e quatrocentos quilos de prata, dez mil quilos de trigo, dois mil litros de vinho, dois mil litros de azeite e sal à vontade.",
+        "23": "Tudo o que for ordenado pelo Deus do céu, que se faça com exatidão para o templo do Deus do céu. Pois por que haveria grande ira sobre o reino do rei e dos seus filhos?",
+        "24": "Também informamos, a respeito de todos os sacerdotes e levitas, cantores, porteiros, de todos os que servem nesta Casa de Deus, que não será lícito impor-lhes nem direitos, nem impostos, nem pedágios.",
+        "25": "E você, Esdras, conforme a sabedoria que o seu Deus lhe deu, nomeie magistrados e juízes que julguem todo o povo que está na região do outro lado do Eufrates, isto é, todos os que conhecem as leis do seu Deus; e que elas sejam ensinadas aos que não as conhecem.",
+        "26": "Todo aquele que não observar a lei do seu Deus e a lei do rei com diligência, seja condenado ou à morte, ou ao desterro, ou ao confisco de bens, ou à prisão.”",
+        "27": "— Bendito seja o Senhor , Deus de nossos pais, que deste modo moveu o coração do rei para adornar a Casa do Senhor , em Jerusalém;",
+        "28": "e que estendeu para mim a sua misericórdia diante do rei, dos seus conselheiros e de todos os seus príncipes poderosos. Assim, eu me animei, porque a mão do Senhor , meu Deus, estava sobre mim, e reuni alguns chefes de Israel para voltarem comigo."
     }
-  }
 }

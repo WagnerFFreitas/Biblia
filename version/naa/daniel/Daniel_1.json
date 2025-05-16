@@ -1,90 +1,30 @@
 {
-  "livro": "Daniel",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "A educação de Daniel e de seus companheiros",
-      "texto": "No ano terceiro do reinado de Jeoaquim, rei de Judá, Nabucodonosor, rei da Babilônia, veio a Jerusalém e a sitiou."
+    "livro": "Daniel",
+    "capitulo": 1,
+    "titulos": {
+        "1": "A educação de Daniel e de seus companheiros"
     },
-    "2": {
-      "título": "",
-      "texto": "O Senhor entregou nas mãos dele Jeoaquim, rei de Judá, e alguns dos utensílios da Casa de Deus. Nabucodonosor levou esses utensílios para a terra de Sinar, para o templo do seu deus, e os pôs na casa do tesouro do seu deus."
-    },
-    "3": {
-      "título": "",
-      "texto": "Depois, o rei ordenou a Aspenaz, chefe dos seus eunucos, que trouxesse alguns dos filhos de Israel, tanto da linhagem real como dos nobres,"
-    },
-    "4": {
-      "título": "",
-      "texto": "jovens sem nenhum defeito, de boa aparência, sábios, instruídos, versados no conhecimento e que fossem competentes para servirem no palácio real. E que Aspenaz lhes ensinasse a cultura e a língua dos caldeus."
-    },
-    "5": {
-      "título": "",
-      "texto": "O rei determinou que eles recebessem uma alimentação diária tirada das finas iguarias da mesa real e do vinho que ele bebia. Os jovens deveriam ser educados ao longo de três anos e, ao final desse período, passariam a servir o rei."
-    },
-    "6": {
-      "título": "",
-      "texto": "Entre eles, se achavam Daniel, Hananias, Misael e Azarias, que eram da tribo de Judá."
-    },
-    "7": {
-      "título": "",
-      "texto": "O chefe dos eunucos lhes deu outros nomes, a saber: a Daniel, o de Beltessazar; a Hananias, o de Sadraque; a Misael, o de Mesaque; e a Azarias, o de Abede-Nego."
-    },
-    "8": {
-      "título": "",
-      "texto": "Daniel resolveu não se contaminar com as finas iguarias do rei, nem com o vinho que ele bebia; por isso, pediu ao chefe dos eunucos que lhe permitisse não se contaminar."
-    },
-    "9": {
-      "título": "",
-      "texto": "E Deus concedeu a Daniel misericórdia e compreensão da parte do chefe dos eunucos."
-    },
-    "10": {
-      "título": "",
-      "texto": "Porém o chefe dos eunucos disse a Daniel:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Então Daniel foi falar com o cozinheiro-chefe, a quem o chefe dos eunucos havia encarregado de cuidar de Daniel, Hananias, Misael e Azarias."
-    },
-    "12": {
-      "título": "",
-      "texto": "Daniel disse a ele:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Depois, compare a nossa aparência com a dos jovens que comem das finas iguarias do rei. Dependendo do que enxergar, o senhor decidirá o que fazer com estes seus servos."
-    },
-    "14": {
-      "título": "",
-      "texto": "O cozinheiro-chefe concordou e fez a experiência durante dez dias."
-    },
-    "15": {
-      "título": "",
-      "texto": "No fim dos dez dias, a aparência dos quatro jovens era melhor, e eles estavam mais robustos do que todos os jovens que comiam das finas iguarias do rei."
-    },
-    "16": {
-      "título": "",
-      "texto": "Com isto, o cozinheiro-chefe tirou deles as finas iguarias e o vinho que deviam beber e lhes dava legumes."
-    },
-    "17": {
-      "título": "",
-      "texto": "Ora, a estes quatro jovens Deus deu o conhecimento e a inteligência em toda cultura e sabedoria. Mas a Daniel deu inteligência para interpretar todo tipo de visões e sonhos."
-    },
-    "18": {
-      "título": "",
-      "texto": "Ao final do tempo determinado pelo rei para que os jovens fossem levados à sua presença, o chefe dos eunucos os levou à presença de Nabucodonosor."
-    },
-    "19": {
-      "título": "",
-      "texto": "Então o rei falou com eles. E, entre todos, não foram achados outros como Daniel, Hananias, Misael e Azarias. Por isso, passaram a servir o rei."
-    },
-    "20": {
-      "título": "",
-      "texto": "Em toda matéria de sabedoria e de inteligência sobre que o rei lhes fez perguntas, os achou dez vezes mais sábios do que todos os magos e encantadores que havia em todo o seu reino."
-    },
-    "21": {
-      "título": "",
-      "texto": "Daniel continuou ali até o primeiro ano do reinado de Ciro."
+    "versiculos": {
+        "1": "No ano terceiro do reinado de Jeoaquim, rei de Judá, Nabucodonosor, rei da Babilônia, veio a Jerusalém e a sitiou.",
+        "2": "O Senhor entregou nas mãos dele Jeoaquim, rei de Judá, e alguns dos utensílios da Casa de Deus. Nabucodonosor levou esses utensílios para a terra de Sinar, para o templo do seu deus, e os pôs na casa do tesouro do seu deus.",
+        "3": "Depois, o rei ordenou a Aspenaz, chefe dos seus eunucos, que trouxesse alguns dos filhos de Israel, tanto da linhagem real como dos nobres,",
+        "4": "jovens sem nenhum defeito, de boa aparência, sábios, instruídos, versados no conhecimento e que fossem competentes para servirem no palácio real. E que Aspenaz lhes ensinasse a cultura e a língua dos caldeus.",
+        "5": "O rei determinou que eles recebessem uma alimentação diária tirada das finas iguarias da mesa real e do vinho que ele bebia. Os jovens deveriam ser educados ao longo de três anos e, ao final desse período, passariam a servir o rei.",
+        "6": "Entre eles, se achavam Daniel, Hananias, Misael e Azarias, que eram da tribo de Judá.",
+        "7": "O chefe dos eunucos lhes deu outros nomes, a saber: a Daniel, o de Beltessazar; a Hananias, o de Sadraque; a Misael, o de Mesaque; e a Azarias, o de Abede-Nego.",
+        "8": "Daniel resolveu não se contaminar com as finas iguarias do rei, nem com o vinho que ele bebia; por isso, pediu ao chefe dos eunucos que lhe permitisse não se contaminar.",
+        "9": "E Deus concedeu a Daniel misericórdia e compreensão da parte do chefe dos eunucos.",
+        "10": "Porém o chefe dos eunucos disse a Daniel:",
+        "11": "Então Daniel foi falar com o cozinheiro-chefe, a quem o chefe dos eunucos havia encarregado de cuidar de Daniel, Hananias, Misael e Azarias.",
+        "12": "Daniel disse a ele:",
+        "13": "Depois, compare a nossa aparência com a dos jovens que comem das finas iguarias do rei. Dependendo do que enxergar, o senhor decidirá o que fazer com estes seus servos.",
+        "14": "O cozinheiro-chefe concordou e fez a experiência durante dez dias.",
+        "15": "No fim dos dez dias, a aparência dos quatro jovens era melhor, e eles estavam mais robustos do que todos os jovens que comiam das finas iguarias do rei.",
+        "16": "Com isto, o cozinheiro-chefe tirou deles as finas iguarias e o vinho que deviam beber e lhes dava legumes.",
+        "17": "Ora, a estes quatro jovens Deus deu o conhecimento e a inteligência em toda cultura e sabedoria. Mas a Daniel deu inteligência para interpretar todo tipo de visões e sonhos.",
+        "18": "Ao final do tempo determinado pelo rei para que os jovens fossem levados à sua presença, o chefe dos eunucos os levou à presença de Nabucodonosor.",
+        "19": "Então o rei falou com eles. E, entre todos, não foram achados outros como Daniel, Hananias, Misael e Azarias. Por isso, passaram a servir o rei.",
+        "20": "Em toda matéria de sabedoria e de inteligência sobre que o rei lhes fez perguntas, os achou dez vezes mais sábios do que todos os magos e encantadores que havia em todo o seu reino.",
+        "21": "Daniel continuou ali até o primeiro ano do reinado de Ciro."
     }
-  }
 }

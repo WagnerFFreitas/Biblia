@@ -1,126 +1,41 @@
 {
-  "livro": "Jó",
-  "capítulo": 6,
-  "versículos": {
-    "1": {
-      "título": "Por que prolongar a vida, se o fim é certo?",
-      "texto": "Então Jó respondeu:"
+    "livro": "Jó",
+    "capitulo": 6,
+    "titulos": {
+        "1": "Por que prolongar a vida, se o fim é certo?",
+        "14": "Meus amigos me enganaram",
+        "24": "Vejam que não estou mentindo"
     },
-    "2": {
-      "título": "",
-      "texto": "“Ah! Se a minha queixa, de fato,"
-    },
-    "3": {
-      "título": "",
-      "texto": "esta, na verdade, pesaria mais"
-    },
-    "4": {
-      "título": "",
-      "texto": "Porque as flechas"
-    },
-    "5": {
-      "título": "",
-      "texto": "Será que o jumento selvagem"
-    },
-    "6": {
-      "título": "",
-      "texto": "Pode-se comer sem sal"
-    },
-    "7": {
-      "título": "",
-      "texto": "Aquilo que a minha alma"
-    },
-    "8": {
-      "título": "",
-      "texto": "“Quem dera que se cumprisse"
-    },
-    "9": {
-      "título": "",
-      "texto": "Que fosse do agrado de Deus"
-    },
-    "10": {
-      "título": "",
-      "texto": "Isto ainda seria"
-    },
-    "11": {
-      "título": "",
-      "texto": "Por que esperar,"
-    },
-    "12": {
-      "título": "",
-      "texto": "Por acaso a minha força"
-    },
-    "13": {
-      "título": "",
-      "texto": "Não encontro socorro"
-    },
-    "14": {
-      "título": "Meus amigos me enganaram",
-      "texto": "“Ao aflito deve o amigo"
-    },
-    "15": {
-      "título": "",
-      "texto": "Meus irmãos me enganaram;"
-    },
-    "16": {
-      "título": "",
-      "texto": "turvada com o gelo e com a neve"
-    },
-    "17": {
-      "título": "",
-      "texto": "torrente que seca"
-    },
-    "18": {
-      "título": "",
-      "texto": "As caravanas se desviam"
-    },
-    "19": {
-      "título": "",
-      "texto": "As caravanas de Temá procuram"
-    },
-    "20": {
-      "título": "",
-      "texto": "Ficam envergonhados"
-    },
-    "21": {
-      "título": "",
-      "texto": "Assim também vocês"
-    },
-    "22": {
-      "título": "",
-      "texto": "Por acaso pedi"
-    },
-    "23": {
-      "título": "",
-      "texto": "Será que pedi que me livrassem"
-    },
-    "24": {
-      "título": "Vejam que não estou mentindo",
-      "texto": "“Ensinem-me, e eu me calarei;"
-    },
-    "25": {
-      "título": "",
-      "texto": "Como são persuasivas"
-    },
-    "26": {
-      "título": "",
-      "texto": "Por acaso vocês pensam"
-    },
-    "27": {
-      "título": "",
-      "texto": "Até sobre um órfão"
-    },
-    "28": {
-      "título": "",
-      "texto": "Agora, pois, tenham a bondade"
-    },
-    "29": {
-      "título": "",
-      "texto": "Por favor, mudem de parecer,"
-    },
-    "30": {
-      "título": "",
-      "texto": "Há iniquidade em meus lábios?"
+    "versiculos": {
+        "1": "Então Jó respondeu:",
+        "2": "“Ah! Se a minha queixa, de fato,",
+        "3": "esta, na verdade, pesaria mais",
+        "4": "Porque as flechas",
+        "5": "Será que o jumento selvagem",
+        "6": "Pode-se comer sem sal",
+        "7": "Aquilo que a minha alma",
+        "8": "“Quem dera que se cumprisse",
+        "9": "Que fosse do agrado de Deus",
+        "10": "Isto ainda seria",
+        "11": "Por que esperar,",
+        "12": "Por acaso a minha força",
+        "13": "Não encontro socorro",
+        "14": "“Ao aflito deve o amigo",
+        "15": "Meus irmãos me enganaram;",
+        "16": "turvada com o gelo e com a neve",
+        "17": "torrente que seca",
+        "18": "As caravanas se desviam",
+        "19": "As caravanas de Temá procuram",
+        "20": "Ficam envergonhados",
+        "21": "Assim também vocês",
+        "22": "Por acaso pedi",
+        "23": "Será que pedi que me livrassem",
+        "24": "“Ensinem-me, e eu me calarei;",
+        "25": "Como são persuasivas",
+        "26": "Por acaso vocês pensam",
+        "27": "Até sobre um órfão",
+        "28": "Agora, pois, tenham a bondade",
+        "29": "Por favor, mudem de parecer,",
+        "30": "Há iniquidade em meus lábios?"
     }
-  }
 }

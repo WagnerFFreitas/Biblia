@@ -1,54 +1,21 @@
 {
-  "livro": "2 Samuel",
-  "capítulo": 4,
-  "versículos": {
-    "1": {
-      "título": "Isbosete é morto",
-      "texto": "Quando Isbosete, o filho de Saul, soube que Abner tinha sido morto em Hebrom, as suas mãos desfaleceram; e todo o Israel ficou consternado."
+    "livro": "2 Samuel",
+    "capitulo": 4,
+    "titulos": {
+        "1": "Isbosete é morto"
     },
-    "2": {
-      "título": "",
-      "texto": "Esse filho de Saul tinha a seu serviço dois homens, capitães de tropas. Um se chamava Baaná e o outro, Recabe. Eram filhos de Rimom, o beerotita, dos filhos de Benjamim, porque também a cidade de Beerote era considerada como pertencente a Benjamim."
-    },
-    "3": {
-      "título": "",
-      "texto": "Os beerotitas tinham fugido para Gitaim e ali vivem como estrangeiros até o dia de hoje."
-    },
-    "4": {
-      "título": "",
-      "texto": "Jônatas, filho de Saul, tinha um filho aleijado dos pés. Ele tinha cinco anos de idade quando de Jezreel chegaram as notícias da morte de Saul e de Jônatas. Então sua ama o pegou e fugiu. Aconteceu que, apressando-se ela a fugir, ele caiu e ficou manco. Seu nome era Mefibosete."
-    },
-    "5": {
-      "título": "",
-      "texto": "Recabe e Baaná, filhos de Rimom, beerotita, chegaram à casa de Isbosete, no maior calor do dia, estando este a dormir, ao meio-dia."
-    },
-    "6": {
-      "título": "",
-      "texto": "Ali, entraram para o interior da casa, como que vindo buscar trigo, e o feriram na barriga. Depois, Recabe e Baaná, seu irmão, fugiram."
-    },
-    "7": {
-      "título": "",
-      "texto": "Eles tinham entrado na casa enquanto Isbosete estava deitado em sua cama, no quarto de dormir, feriram-no e o mataram. Depois cortaram a cabeça dele e a levaram, andando toda a noite pelo caminho da planície."
-    },
-    "8": {
-      "título": "",
-      "texto": "Levaram a cabeça de Isbosete ao rei Davi, em Hebrom, e lhe disseram:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Porém Davi respondeu a Recabe e a Baaná, seu irmão, filhos de Rimom, o beerotita, dizendo:"
-    },
-    "10": {
-      "título": "",
-      "texto": "quando alguém me trouxe a notícia de que Saul estava morto, pensando que me trazia uma boa notícia, como recompensa eu o agarrei e matei em Ziclague."
-    },
-    "11": {
-      "título": "",
-      "texto": "Muito mais agora que homens perversos mataram um homem justo em sua casa, deitado no seu leito, será que eu não requereria o sangue dele das mãos de vocês e não os exterminaria da face da terra?"
-    },
-    "12": {
-      "título": "",
-      "texto": "Então Davi deu ordem aos seus moços e eles mataram Recabe e Baaná. Depois, cortaram as mãos e os pés deles, e os penduraram junto à cisterna em Hebrom. Porém pegaram a cabeça de Isbosete e a sepultaram no túmulo de Abner, em Hebrom."
+    "versiculos": {
+        "1": "Quando Isbosete, o filho de Saul, soube que Abner tinha sido morto em Hebrom, as suas mãos desfaleceram; e todo o Israel ficou consternado.",
+        "2": "Esse filho de Saul tinha a seu serviço dois homens, capitães de tropas. Um se chamava Baaná e o outro, Recabe. Eram filhos de Rimom, o beerotita, dos filhos de Benjamim, porque também a cidade de Beerote era considerada como pertencente a Benjamim.",
+        "3": "Os beerotitas tinham fugido para Gitaim e ali vivem como estrangeiros até o dia de hoje.",
+        "4": "Jônatas, filho de Saul, tinha um filho aleijado dos pés. Ele tinha cinco anos de idade quando de Jezreel chegaram as notícias da morte de Saul e de Jônatas. Então sua ama o pegou e fugiu. Aconteceu que, apressando-se ela a fugir, ele caiu e ficou manco. Seu nome era Mefibosete.",
+        "5": "Recabe e Baaná, filhos de Rimom, beerotita, chegaram à casa de Isbosete, no maior calor do dia, estando este a dormir, ao meio-dia.",
+        "6": "Ali, entraram para o interior da casa, como que vindo buscar trigo, e o feriram na barriga. Depois, Recabe e Baaná, seu irmão, fugiram.",
+        "7": "Eles tinham entrado na casa enquanto Isbosete estava deitado em sua cama, no quarto de dormir, feriram-no e o mataram. Depois cortaram a cabeça dele e a levaram, andando toda a noite pelo caminho da planície.",
+        "8": "Levaram a cabeça de Isbosete ao rei Davi, em Hebrom, e lhe disseram:",
+        "9": "Porém Davi respondeu a Recabe e a Baaná, seu irmão, filhos de Rimom, o beerotita, dizendo:",
+        "10": "quando alguém me trouxe a notícia de que Saul estava morto, pensando que me trazia uma boa notícia, como recompensa eu o agarrei e matei em Ziclague.",
+        "11": "Muito mais agora que homens perversos mataram um homem justo em sua casa, deitado no seu leito, será que eu não requereria o sangue dele das mãos de vocês e não os exterminaria da face da terra?",
+        "12": "Então Davi deu ordem aos seus moços e eles mataram Recabe e Baaná. Depois, cortaram as mãos e os pés deles, e os penduraram junto à cisterna em Hebrom. Porém pegaram a cabeça de Isbosete e a sepultaram no túmulo de Abner, em Hebrom."
     }
-  }
 }

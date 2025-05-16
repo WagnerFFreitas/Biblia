@@ -1,70 +1,27 @@
 {
-  "livro": "Amós",
-  "capítulo": 2,
-  "versículos": {
-    "1": {
-      "título": "Moabe",
-      "texto": "Assim diz o Senhor :"
+    "livro": "Amós",
+    "capitulo": 2,
+    "titulos": {
+        "1": "Moabe",
+        "4": "Judá",
+        "6": "Israel"
     },
-    "2": {
-      "título": "",
-      "texto": "Por isso, porei fogo em Moabe,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Eliminarei do meio dele o juiz,"
-    },
-    "4": {
-      "título": "Judá",
-      "texto": "Assim diz o Senhor :"
-    },
-    "5": {
-      "título": "",
-      "texto": "Por isso, porei fogo em Judá,"
-    },
-    "6": {
-      "título": "Israel",
-      "texto": "Assim diz o Senhor :"
-    },
-    "7": {
-      "título": "",
-      "texto": "Esmagam no pó da terra"
-    },
-    "8": {
-      "título": "",
-      "texto": "Eles se deitam ao lado"
-    },
-    "9": {
-      "título": "",
-      "texto": "“Todavia, fui eu que destruí"
-    },
-    "10": {
-      "título": "",
-      "texto": "Também fui eu que tirei vocês"
-    },
-    "11": {
-      "título": "",
-      "texto": "Escolhi alguns dos seus filhos"
-    },
-    "12": {
-      "título": "",
-      "texto": "“Mas vocês deram"
-    },
-    "13": {
-      "título": "",
-      "texto": "“Como faz um carro"
-    },
-    "14": {
-      "título": "",
-      "texto": "Os mais ágeis não encontrarão"
-    },
-    "15": {
-      "título": "",
-      "texto": "Os que manejam o arco"
-    },
-    "16": {
-      "título": "",
-      "texto": "Até mesmo os mais corajosos"
+    "versiculos": {
+        "1": "Assim diz o Senhor :",
+        "2": "Por isso, porei fogo em Moabe,",
+        "3": "Eliminarei do meio dele o juiz,",
+        "4": "Assim diz o Senhor :",
+        "5": "Por isso, porei fogo em Judá,",
+        "6": "Assim diz o Senhor :",
+        "7": "Esmagam no pó da terra",
+        "8": "Eles se deitam ao lado",
+        "9": "“Todavia, fui eu que destruí",
+        "10": "Também fui eu que tirei vocês",
+        "11": "Escolhi alguns dos seus filhos",
+        "12": "“Mas vocês deram",
+        "13": "“Como faz um carro",
+        "14": "Os mais ágeis não encontrarão",
+        "15": "Os que manejam o arco",
+        "16": "Até mesmo os mais corajosos"
     }
-  }
 }

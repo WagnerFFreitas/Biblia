@@ -1,142 +1,46 @@
 {
-  "livro": "Jó",
-  "capítulo": 21,
-  "versículos": {
-    "1": {
-      "título": "Será que é do homem que eu me queixo?",
-      "texto": "Então Jó respondeu:"
+    "livro": "Jó",
+    "capitulo": 21,
+    "titulos": {
+        "1": "Será que é do homem que eu me queixo?",
+        "7": "Os maus cantam e se alegram",
+        "17": "Que Deus castigue os ímpios",
+        "27": "Vocês querem me consolar com palavras vazias?"
     },
-    "2": {
-      "título": "",
-      "texto": "“Ouçam com atenção"
-    },
-    "3": {
-      "título": "",
-      "texto": "Tenham paciência, e eu falarei;"
-    },
-    "4": {
-      "título": "",
-      "texto": "Será que é do homem"
-    },
-    "5": {
-      "título": "",
-      "texto": "Olhem para mim"
-    },
-    "6": {
-      "título": "",
-      "texto": "Porque só de pensar nisso"
-    },
-    "7": {
-      "título": "Os maus cantam e se alegram",
-      "texto": "“Como é que os ímpios"
-    },
-    "8": {
-      "título": "",
-      "texto": "Os seus filhos se estabelecem"
-    },
-    "9": {
-      "título": "",
-      "texto": "As suas casas têm paz"
-    },
-    "10": {
-      "título": "",
-      "texto": "Os seus touros geram"
-    },
-    "11": {
-      "título": "",
-      "texto": "Deixam as suas crianças correr"
-    },
-    "12": {
-      "título": "",
-      "texto": "Cantam com tamborim e harpa"
-    },
-    "13": {
-      "título": "",
-      "texto": "Passam os seus dias"
-    },
-    "14": {
-      "título": "",
-      "texto": "“E são estes os que se dirigem"
-    },
-    "15": {
-      "título": "",
-      "texto": "Quem é o Todo-Poderoso,"
-    },
-    "16": {
-      "título": "",
-      "texto": "Vejam que não provém deles"
-    },
-    "17": {
-      "título": "Que Deus castigue os ímpios",
-      "texto": "“Quantas vezes se apaga"
-    },
-    "18": {
-      "título": "",
-      "texto": "Quantas vezes são como a palha"
-    },
-    "19": {
-      "título": "",
-      "texto": "“Vocês dizem que Deus"
-    },
-    "20": {
-      "título": "",
-      "texto": "Seus próprios olhos devem"
-    },
-    "21": {
-      "título": "",
-      "texto": "Porque depois de morto,"
-    },
-    "22": {
-      "título": "",
-      "texto": "Será que alguém pode"
-    },
-    "23": {
-      "título": "",
-      "texto": "“Um morre em pleno vigor,"
-    },
-    "24": {
-      "título": "",
-      "texto": "com os seus baldes"
-    },
-    "25": {
-      "título": "",
-      "texto": "Outro, ao contrário,"
-    },
-    "26": {
-      "título": "",
-      "texto": "Juntamente jazem no pó,"
-    },
-    "27": {
-      "título": "Vocês querem me consolar com palavras vazias?",
-      "texto": "“Eis que eu conheço"
-    },
-    "28": {
-      "título": "",
-      "texto": "Porque vocês perguntam:"
-    },
-    "29": {
-      "título": "",
-      "texto": "“Será que vocês"
-    },
-    "30": {
-      "título": "",
-      "texto": "que o mau é poupado"
-    },
-    "31": {
-      "título": "",
-      "texto": "Quem lhe jogará na cara"
-    },
-    "32": {
-      "título": "",
-      "texto": "Finalmente, é levado à sepultura,"
-    },
-    "33": {
-      "título": "",
-      "texto": "A terra do vale que o cobre"
-    },
-    "34": {
-      "título": "",
-      "texto": "Como, então, vocês querem"
+    "versiculos": {
+        "1": "Então Jó respondeu:",
+        "2": "“Ouçam com atenção",
+        "3": "Tenham paciência, e eu falarei;",
+        "4": "Será que é do homem",
+        "5": "Olhem para mim",
+        "6": "Porque só de pensar nisso",
+        "7": "“Como é que os ímpios",
+        "8": "Os seus filhos se estabelecem",
+        "9": "As suas casas têm paz",
+        "10": "Os seus touros geram",
+        "11": "Deixam as suas crianças correr",
+        "12": "Cantam com tamborim e harpa",
+        "13": "Passam os seus dias",
+        "14": "“E são estes os que se dirigem",
+        "15": "Quem é o Todo-Poderoso,",
+        "16": "Vejam que não provém deles",
+        "17": "“Quantas vezes se apaga",
+        "18": "Quantas vezes são como a palha",
+        "19": "“Vocês dizem que Deus",
+        "20": "Seus próprios olhos devem",
+        "21": "Porque depois de morto,",
+        "22": "Será que alguém pode",
+        "23": "“Um morre em pleno vigor,",
+        "24": "com os seus baldes",
+        "25": "Outro, ao contrário,",
+        "26": "Juntamente jazem no pó,",
+        "27": "“Eis que eu conheço",
+        "28": "Porque vocês perguntam:",
+        "29": "“Será que vocês",
+        "30": "que o mau é poupado",
+        "31": "Quem lhe jogará na cara",
+        "32": "Finalmente, é levado à sepultura,",
+        "33": "A terra do vale que o cobre",
+        "34": "Como, então, vocês querem"
     }
-  }
 }

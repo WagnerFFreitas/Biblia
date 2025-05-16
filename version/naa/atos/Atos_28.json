@@ -1,130 +1,44 @@
 {
-  "livro": "Atos",
-  "capítulo": 28,
-  "versículos": {
-    "1": {
-      "título": "A ilha de Malta",
-      "texto": "Uma vez em terra, verificamos que a ilha se chamava Malta."
+    "livro": "Atos",
+    "capitulo": 28,
+    "titulos": {
+        "1": "A ilha de Malta",
+        "7": "Públio hospeda Paulo",
+        "11": "A continuação da viagem",
+        "16": "Paulo em Roma",
+        "23": "Paulo prega em Roma",
+        "30": "Paulo prisioneiro durante dois anos"
     },
-    "2": {
-      "título": "",
-      "texto": "Os nativos nos trataram com singular humanidade, porque, acendendo uma fogueira, acolheram a todos nós por causa da chuva que caía e por causa do frio."
-    },
-    "3": {
-      "título": "",
-      "texto": "Tendo Paulo ajuntado e atirado à fogueira um feixe de gravetos, uma víbora, fugindo do calor, prendeu-se na mão dele."
-    },
-    "4": {
-      "título": "",
-      "texto": "Quando os nativos viram a víbora pendurada na mão de Paulo, disseram uns aos outros:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Porém ele, sacudindo a víbora no fogo, não sofreu mal nenhum."
-    },
-    "6": {
-      "título": "",
-      "texto": "Mas eles esperavam que Paulo viesse a inchar ou a cair morto de repente. Depois de muito esperar, vendo que nada de anormal lhe acontecia, mudando de opinião, diziam que ele era um deus."
-    },
-    "7": {
-      "título": "Públio hospeda Paulo",
-      "texto": "Perto daquele lugar havia um sítio que pertencia ao homem principal da ilha, chamado Públio, o qual nos recebeu e hospedou com muita bondade durante três dias."
-    },
-    "8": {
-      "título": "",
-      "texto": "Aconteceu que o pai de Públio estava enfermo de disenteria, ardendo em febre. Paulo foi visitá-lo e, orando, impôs-lhe as mãos, e o curou."
-    },
-    "9": {
-      "título": "",
-      "texto": "À vista deste acontecimento, os demais enfermos da ilha vieram e foram curados,"
-    },
-    "10": {
-      "título": "",
-      "texto": "os quais nos distinguiram com muitas honrarias; e, tendo nós de prosseguir viagem, nos puseram a bordo tudo o que era necessário."
-    },
-    "11": {
-      "título": "A continuação da viagem",
-      "texto": "Três meses depois, embarcamos num navio de Alexandria, que tinha passado o inverno na ilha. O navio tinha por emblema os deuses gêmeos Castor e Pólux."
-    },
-    "12": {
-      "título": "",
-      "texto": "Chegando a Siracusa, ficamos ali três dias."
-    },
-    "13": {
-      "título": "",
-      "texto": "Dali, navegando ao longo da costa, chegamos a Régio. No dia seguinte começou a soprar o vento sul e, em dois dias, chegamos a Putéoli,"
-    },
-    "14": {
-      "título": "",
-      "texto": "onde encontramos alguns irmãos que nos pediram que ficássemos com eles sete dias; e foi assim que nos dirigimos a Roma."
-    },
-    "15": {
-      "título": "",
-      "texto": "Tendo ali os irmãos ouvido notícias nossas, vieram ao nosso encontro até a Praça de Ápio e as Três Vendas. Ao vê-los, Paulo deu graças a Deus e sentiu-se mais animado."
-    },
-    "16": {
-      "título": "Paulo em Roma",
-      "texto": "Uma vez em Roma, Paulo recebeu permissão para morar por sua conta, tendo em sua companhia o soldado que o guardava."
-    },
-    "17": {
-      "título": "",
-      "texto": "Três dias depois, ele convocou os principais dos judeus. Quando estavam reunidos, Paulo disse:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Estes, depois de me interrogarem, quiseram soltar-me, porque não encontraram em mim nenhum crime passível de morte."
-    },
-    "19": {
-      "título": "",
-      "texto": "Diante da oposição dos judeus, fui obrigado a apelar para César, não tendo eu, porém, nada de que acusar o meu povo."
-    },
-    "20": {
-      "título": "",
-      "texto": "Foi por isto que pedi para vê-los e para falar com vocês; porque é pela esperança de Israel que estou preso com esta corrente."
-    },
-    "21": {
-      "título": "",
-      "texto": "Então eles lhe disseram:"
-    },
-    "22": {
-      "título": "",
-      "texto": "Mas gostaríamos de ouvir o que você pensa, porque sabemos que em todos os lugares essa seita é contestada."
-    },
-    "23": {
-      "título": "Paulo prega em Roma",
-      "texto": "Tendo eles marcado um dia, foram em grande número ao encontro de Paulo no lugar onde ele residia. Então, desde a manhã até a tarde, lhes fez uma exposição em testemunho do Reino de Deus, procurando persuadi-los a respeito de Jesus, tanto pela Lei de Moisés como pelos Profetas."
-    },
-    "24": {
-      "título": "",
-      "texto": "Houve alguns que ficaram persuadidos pelo que Paulo dizia; outros, porém, continuaram incrédulos."
-    },
-    "25": {
-      "título": "",
-      "texto": "E, havendo discordância entre eles, começaram a ir embora. Mas, antes que saíssem, Paulo disse estas palavras:"
-    },
-    "26": {
-      "título": "",
-      "texto": "“Vá a este povo e diga:"
-    },
-    "27": {
-      "título": "",
-      "texto": "Porque o coração deste povo"
-    },
-    "28": {
-      "título": "",
-      "texto": "E Paulo concluiu:"
-    },
-    "29": {
-      "título": "",
-      "texto": ""
-    },
-    "30": {
-      "título": "Paulo prisioneiro durante dois anos",
-      "texto": "Durante dois anos, Paulo permaneceu na sua própria casa, que tinha alugado, onde recebia todos os que o procuravam."
-    },
-    "31": {
-      "título": "",
-      "texto": "Pregava o Reino de Deus, e, com toda a ousadia, ensinava as coisas referentes ao Senhor Jesus Cristo, sem impedimento algum."
+    "versiculos": {
+        "1": "Uma vez em terra, verificamos que a ilha se chamava Malta.",
+        "2": "Os nativos nos trataram com singular humanidade, porque, acendendo uma fogueira, acolheram a todos nós por causa da chuva que caía e por causa do frio.",
+        "3": "Tendo Paulo ajuntado e atirado à fogueira um feixe de gravetos, uma víbora, fugindo do calor, prendeu-se na mão dele.",
+        "4": "Quando os nativos viram a víbora pendurada na mão de Paulo, disseram uns aos outros:",
+        "5": "Porém ele, sacudindo a víbora no fogo, não sofreu mal nenhum.",
+        "6": "Mas eles esperavam que Paulo viesse a inchar ou a cair morto de repente. Depois de muito esperar, vendo que nada de anormal lhe acontecia, mudando de opinião, diziam que ele era um deus.",
+        "7": "Perto daquele lugar havia um sítio que pertencia ao homem principal da ilha, chamado Públio, o qual nos recebeu e hospedou com muita bondade durante três dias.",
+        "8": "Aconteceu que o pai de Públio estava enfermo de disenteria, ardendo em febre. Paulo foi visitá-lo e, orando, impôs-lhe as mãos, e o curou.",
+        "9": "À vista deste acontecimento, os demais enfermos da ilha vieram e foram curados,",
+        "10": "os quais nos distinguiram com muitas honrarias; e, tendo nós de prosseguir viagem, nos puseram a bordo tudo o que era necessário.",
+        "11": "Três meses depois, embarcamos num navio de Alexandria, que tinha passado o inverno na ilha. O navio tinha por emblema os deuses gêmeos Castor e Pólux.",
+        "12": "Chegando a Siracusa, ficamos ali três dias.",
+        "13": "Dali, navegando ao longo da costa, chegamos a Régio. No dia seguinte começou a soprar o vento sul e, em dois dias, chegamos a Putéoli,",
+        "14": "onde encontramos alguns irmãos que nos pediram que ficássemos com eles sete dias; e foi assim que nos dirigimos a Roma.",
+        "15": "Tendo ali os irmãos ouvido notícias nossas, vieram ao nosso encontro até a Praça de Ápio e as Três Vendas. Ao vê-los, Paulo deu graças a Deus e sentiu-se mais animado.",
+        "16": "Uma vez em Roma, Paulo recebeu permissão para morar por sua conta, tendo em sua companhia o soldado que o guardava.",
+        "17": "Três dias depois, ele convocou os principais dos judeus. Quando estavam reunidos, Paulo disse:",
+        "18": "Estes, depois de me interrogarem, quiseram soltar-me, porque não encontraram em mim nenhum crime passível de morte.",
+        "19": "Diante da oposição dos judeus, fui obrigado a apelar para César, não tendo eu, porém, nada de que acusar o meu povo.",
+        "20": "Foi por isto que pedi para vê-los e para falar com vocês; porque é pela esperança de Israel que estou preso com esta corrente.",
+        "21": "Então eles lhe disseram:",
+        "22": "Mas gostaríamos de ouvir o que você pensa, porque sabemos que em todos os lugares essa seita é contestada.",
+        "23": "Tendo eles marcado um dia, foram em grande número ao encontro de Paulo no lugar onde ele residia. Então, desde a manhã até a tarde, lhes fez uma exposição em testemunho do Reino de Deus, procurando persuadi-los a respeito de Jesus, tanto pela Lei de Moisés como pelos Profetas.",
+        "24": "Houve alguns que ficaram persuadidos pelo que Paulo dizia; outros, porém, continuaram incrédulos.",
+        "25": "E, havendo discordância entre eles, começaram a ir embora. Mas, antes que saíssem, Paulo disse estas palavras:",
+        "26": "“Vá a este povo e diga:",
+        "27": "Porque o coração deste povo",
+        "28": "E Paulo concluiu:",
+        "30": "Durante dois anos, Paulo permaneceu na sua própria casa, que tinha alugado, onde recebia todos os que o procuravam.",
+        "31": "Pregava o Reino de Deus, e, com toda a ousadia, ensinava as coisas referentes ao Senhor Jesus Cristo, sem impedimento algum."
     }
-  }
 }

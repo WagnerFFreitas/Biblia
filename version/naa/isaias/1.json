@@ -1,130 +1,43 @@
 {
-  "livro": "Isaías",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Visão que Isaías, filho de Amoz, teve a respeito de Judá e Jerusalém, nos dias de Uzias, Jotão, Acaz e Ezequias, reis de Judá."
+    "livro": "Isaías",
+    "capitulo": 1,
+    "titulos": {
+        "2": "A nação pecadora",
+        "10": "O culto hipócrita é condenado",
+        "18": "O convite da graça",
+        "21": "O julgamento e a redenção de Jerusalém"
     },
-    "2": {
-      "título": "A nação pecadora",
-      "texto": "Escutem, ó céus,"
-    },
-    "3": {
-      "título": "",
-      "texto": "O boi conhece o seu dono,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Ai desta nação pecadora,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Por que vocês insistem"
-    },
-    "6": {
-      "título": "",
-      "texto": "Desde a planta do pé"
-    },
-    "7": {
-      "título": "",
-      "texto": "A terra de vocês está devastada,"
-    },
-    "8": {
-      "título": "",
-      "texto": "A filha de Sião foi deixada"
-    },
-    "9": {
-      "título": "",
-      "texto": "Se o Senhor dos Exércitos"
-    },
-    "10": {
-      "título": "O culto hipócrita é condenado",
-      "texto": "Príncipes de Sodoma,"
-    },
-    "11": {
-      "título": "",
-      "texto": "O Senhor diz:"
-    },
-    "12": {
-      "título": "",
-      "texto": "“Quando comparecem"
-    },
-    "13": {
-      "título": "",
-      "texto": "Não me tragam mais ofertas vãs!"
-    },
-    "14": {
-      "título": "",
-      "texto": "As Festas da Lua Nova"
-    },
-    "15": {
-      "título": "",
-      "texto": "“Quando vocês estendem"
-    },
-    "16": {
-      "título": "",
-      "texto": "Lavem-se e purifiquem-se!"
-    },
-    "17": {
-      "título": "",
-      "texto": "Aprendam a fazer o bem;"
-    },
-    "18": {
-      "título": "O convite da graça",
-      "texto": "O Senhor diz:"
-    },
-    "19": {
-      "título": "",
-      "texto": "Se estiverem dispostos"
-    },
-    "20": {
-      "título": "",
-      "texto": "Mas, se recusarem"
-    },
-    "21": {
-      "título": "O julgamento e a redenção de Jerusalém",
-      "texto": "Como se fez prostituta"
-    },
-    "22": {
-      "título": "",
-      "texto": "Jerusalém, a sua prata"
-    },
-    "23": {
-      "título": "",
-      "texto": "Os seus príncipes são rebeldes"
-    },
-    "24": {
-      "título": "",
-      "texto": "Por isso, o Senhor,"
-    },
-    "25": {
-      "título": "",
-      "texto": "Voltarei a minha mão"
-    },
-    "26": {
-      "título": "",
-      "texto": "Eu lhe darei juízes"
-    },
-    "27": {
-      "título": "",
-      "texto": "Sião será redimida pelo direito,"
-    },
-    "28": {
-      "título": "",
-      "texto": "Mas os transgressores"
-    },
-    "29": {
-      "título": "",
-      "texto": "Vocês terão vergonha"
-    },
-    "30": {
-      "título": "",
-      "texto": "Porque vocês serão"
-    },
-    "31": {
-      "título": "",
-      "texto": "O forte se tornará como estopa,"
+    "versiculos": {
+        "1": "Visão que Isaías, filho de Amoz, teve a respeito de Judá e Jerusalém, nos dias de Uzias, Jotão, Acaz e Ezequias, reis de Judá.",
+        "2": "Escutem, ó céus,",
+        "3": "O boi conhece o seu dono,",
+        "4": "Ai desta nação pecadora,",
+        "5": "Por que vocês insistem",
+        "6": "Desde a planta do pé",
+        "7": "A terra de vocês está devastada,",
+        "8": "A filha de Sião foi deixada",
+        "9": "Se o Senhor dos Exércitos",
+        "10": "Príncipes de Sodoma,",
+        "11": "O Senhor diz:",
+        "12": "“Quando comparecem",
+        "13": "Não me tragam mais ofertas vãs!",
+        "14": "As Festas da Lua Nova",
+        "15": "“Quando vocês estendem",
+        "16": "Lavem-se e purifiquem-se!",
+        "17": "Aprendam a fazer o bem;",
+        "18": "O Senhor diz:",
+        "19": "Se estiverem dispostos",
+        "20": "Mas, se recusarem",
+        "21": "Como se fez prostituta",
+        "22": "Jerusalém, a sua prata",
+        "23": "Os seus príncipes são rebeldes",
+        "24": "Por isso, o Senhor,",
+        "25": "Voltarei a minha mão",
+        "26": "Eu lhe darei juízes",
+        "27": "Sião será redimida pelo direito,",
+        "28": "Mas os transgressores",
+        "29": "Vocês terão vergonha",
+        "30": "Porque vocês serão",
+        "31": "O forte se tornará como estopa,"
     }
-  }
 }

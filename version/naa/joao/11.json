@@ -1,234 +1,70 @@
 {
-  "livro": "João",
-  "capítulo": 11,
-  "versículos": {
-    "1": {
-      "título": "A morte de Lázaro",
-      "texto": "Um homem chamado Lázaro estava doente. Ele era de Betânia, da aldeia de Maria e de sua irmã Marta."
+    "livro": "João",
+    "capitulo": 11,
+    "titulos": {
+        "1": "A morte de Lázaro",
+        "17": "Jesus é a ressurreição e a vida",
+        "28": "Jesus chora",
+        "38": "A ressurreição de Lázaro",
+        "45": "O plano para matar Jesus"
     },
-    "2": {
-      "título": "",
-      "texto": "Esta Maria, cujo irmão Lázaro estava doente, era a mesma que ungiu o Senhor com perfume e lhe enxugou os pés com os seus cabelos."
-    },
-    "3": {
-      "título": "",
-      "texto": "Por isso, as irmãs de Lázaro mandaram dizer a Jesus:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Ao receber a notícia, Jesus disse:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Ora, Jesus amava Marta e a irmã dela, e também Lázaro."
-    },
-    "6": {
-      "título": "",
-      "texto": "Quando soube que Lázaro estava doente, ainda se demorou dois dias no lugar onde estava."
-    },
-    "7": {
-      "título": "",
-      "texto": "Depois, disse aos seus discípulos:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Os discípulos disseram:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Mas, se andar de noite, tropeça, porque nele não há luz."
-    },
-    "11": {
-      "título": "",
-      "texto": "Tendo dito isso, acrescentou:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Então os discípulos disseram:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Jesus falava da morte de Lázaro, mas eles pensavam que tivesse falado do repouso do sono."
-    },
-    "14": {
-      "título": "",
-      "texto": "Então Jesus lhes disse claramente:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Por causa de vocês me alegro de que não estivesse lá, para que vocês possam crer. Mas vamos até ele."
-    },
-    "16": {
-      "título": "",
-      "texto": "Então Tomé, chamado Dídimo, disse aos outros discípulos:"
-    },
-    "17": {
-      "título": "Jesus é a ressurreição e a vida",
-      "texto": "Quando Jesus chegou, encontrou Lázaro já sepultado havia quatro dias."
-    },
-    "18": {
-      "título": "",
-      "texto": "Ora, Betânia ficava a mais ou menos três quilômetros de Jerusalém."
-    },
-    "19": {
-      "título": "",
-      "texto": "Muitos dos judeus vieram visitar Marta e Maria, a fim de consolá-las por causa do irmão."
-    },
-    "20": {
-      "título": "",
-      "texto": "Marta, quando soube que Jesus estava chegando, foi encontrar-se com ele; Maria, porém, ficou sentada em casa."
-    },
-    "21": {
-      "título": "",
-      "texto": "Então Marta disse a Jesus:"
-    },
-    "22": {
-      "título": "",
-      "texto": "Mas também sei que, mesmo agora, tudo o que o senhor pedir a Deus, ele concederá."
-    },
-    "23": {
-      "título": "",
-      "texto": "Jesus disse a ela:"
-    },
-    "24": {
-      "título": "",
-      "texto": "Ao que Marta respondeu:"
-    },
-    "25": {
-      "título": "",
-      "texto": "Então Jesus declarou:"
-    },
-    "26": {
-      "título": "",
-      "texto": "E todo o que vive e crê em mim não morrerá eternamente. Você crê nisto?"
-    },
-    "27": {
-      "título": "",
-      "texto": "Marta respondeu:"
-    },
-    "28": {
-      "título": "Jesus chora",
-      "texto": "Depois de dizer isto, Marta foi chamar Maria, a sua irmã, e lhe disse em particular:"
-    },
-    "29": {
-      "título": "",
-      "texto": "Quando Maria ouviu isso, levantou-se depressa e foi até ele,"
-    },
-    "30": {
-      "título": "",
-      "texto": "pois Jesus ainda não tinha entrado na aldeia, mas permanecia onde Marta o havia encontrado."
-    },
-    "31": {
-      "título": "",
-      "texto": "Os judeus que estavam com Maria em casa e a consolavam, vendo-a levantar-se depressa e sair, seguiram-na, pensando que ela ia ao túmulo para chorar."
-    },
-    "32": {
-      "título": "",
-      "texto": "Quando Maria chegou ao lugar onde Jesus estava, ao vê-lo, lançou-se aos seus pés, dizendo:"
-    },
-    "33": {
-      "título": "",
-      "texto": "Quando Jesus viu que ela chorava, e que os judeus que a acompanhavam também choravam, agitou-se no espírito e se comoveu."
-    },
-    "34": {
-      "título": "",
-      "texto": "E perguntou:"
-    },
-    "35": {
-      "título": "",
-      "texto": "Jesus chorou."
-    },
-    "36": {
-      "título": "",
-      "texto": "Então os judeus disseram:"
-    },
-    "37": {
-      "título": "",
-      "texto": "Mas alguns disseram:"
-    },
-    "38": {
-      "título": "A ressurreição de Lázaro",
-      "texto": "Jesus, agitando-se novamente em si mesmo, foi até o túmulo, que era uma gruta em cuja entrada tinham colocado uma pedra."
-    },
-    "39": {
-      "título": "",
-      "texto": "Então Jesus ordenou:"
-    },
-    "40": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "41": {
-      "título": "",
-      "texto": "Então tiraram a pedra. E Jesus, levantando os olhos para o céu, disse:"
-    },
-    "42": {
-      "título": "",
-      "texto": "Eu sei que sempre me ouves, mas falei isso por causa da multidão presente, para que creiam que tu me enviaste."
-    },
-    "43": {
-      "título": "",
-      "texto": "E, depois de dizer isso, clamou em alta voz:"
-    },
-    "44": {
-      "título": "",
-      "texto": "Aquele que tinha morrido saiu, tendo os pés e as mãos amarrados com ataduras e o rosto envolto num lenço. Então Jesus lhes ordenou:"
-    },
-    "45": {
-      "título": "O plano para matar Jesus",
-      "texto": "Muitos dos judeus que tinham vindo visitar Maria, vendo o que Jesus havia feito, creram nele."
-    },
-    "46": {
-      "título": "",
-      "texto": "Outros, porém, foram até os fariseus e lhes contaram o que Jesus havia feito."
-    },
-    "47": {
-      "título": "",
-      "texto": "Então os principais sacerdotes e os fariseus convocaram o Sinédrio e disseram:"
-    },
-    "48": {
-      "título": "",
-      "texto": "Se o deixarmos assim, todos crerão nele; depois, virão os romanos e tomarão não só o nosso lugar, mas a própria nação."
-    },
-    "49": {
-      "título": "",
-      "texto": "Mas um deles, Caifás, que era sumo sacerdote naquele ano, advertiu-os, dizendo:"
-    },
-    "50": {
-      "título": "",
-      "texto": "nem entendem que é melhor para vocês que morra um só homem pelo povo e que não venha a perecer toda a nação."
-    },
-    "51": {
-      "título": "",
-      "texto": "Ora, Caifás não disse isto por conta própria, mas, sendo sumo sacerdote naquele ano, profetizou que Jesus estava para morrer pela nação."
-    },
-    "52": {
-      "título": "",
-      "texto": "E não somente pela nação, mas também para reunir em um só corpo os filhos de Deus, que andam dispersos."
-    },
-    "53": {
-      "título": "",
-      "texto": "Desde aquele dia, resolveram matar Jesus."
-    },
-    "54": {
-      "título": "",
-      "texto": "Assim sendo, Jesus já não andava publicamente entre os judeus, mas retirou-se para uma região vizinha ao deserto, para uma cidade chamada Efraim, onde permaneceu com os discípulos."
-    },
-    "55": {
-      "título": "",
-      "texto": "Estava próxima a Páscoa dos judeus, e muitos daquela região foram a Jerusalém antes da Páscoa para se purificar."
-    },
-    "56": {
-      "título": "",
-      "texto": "Lá, procuravam Jesus e, estando eles no templo, diziam uns aos outros:"
-    },
-    "57": {
-      "título": "",
-      "texto": "Ora, os principais sacerdotes e os fariseus haviam ordenado que, se alguém soubesse onde ele estava, o denunciasse, para que pudessem prendê-lo."
+    "versiculos": {
+        "1": "Um homem chamado Lázaro estava doente. Ele era de Betânia, da aldeia de Maria e de sua irmã Marta.",
+        "2": "Esta Maria, cujo irmão Lázaro estava doente, era a mesma que ungiu o Senhor com perfume e lhe enxugou os pés com os seus cabelos.",
+        "3": "Por isso, as irmãs de Lázaro mandaram dizer a Jesus:",
+        "4": "Ao receber a notícia, Jesus disse:",
+        "5": "Ora, Jesus amava Marta e a irmã dela, e também Lázaro.",
+        "6": "Quando soube que Lázaro estava doente, ainda se demorou dois dias no lugar onde estava.",
+        "7": "Depois, disse aos seus discípulos:",
+        "8": "Os discípulos disseram:",
+        "9": "Jesus respondeu:",
+        "10": "Mas, se andar de noite, tropeça, porque nele não há luz.",
+        "11": "Tendo dito isso, acrescentou:",
+        "12": "Então os discípulos disseram:",
+        "13": "Jesus falava da morte de Lázaro, mas eles pensavam que tivesse falado do repouso do sono.",
+        "14": "Então Jesus lhes disse claramente:",
+        "15": "Por causa de vocês me alegro de que não estivesse lá, para que vocês possam crer. Mas vamos até ele.",
+        "16": "Então Tomé, chamado Dídimo, disse aos outros discípulos:",
+        "17": "Quando Jesus chegou, encontrou Lázaro já sepultado havia quatro dias.",
+        "18": "Ora, Betânia ficava a mais ou menos três quilômetros de Jerusalém.",
+        "19": "Muitos dos judeus vieram visitar Marta e Maria, a fim de consolá-las por causa do irmão.",
+        "20": "Marta, quando soube que Jesus estava chegando, foi encontrar-se com ele; Maria, porém, ficou sentada em casa.",
+        "21": "Então Marta disse a Jesus:",
+        "22": "Mas também sei que, mesmo agora, tudo o que o senhor pedir a Deus, ele concederá.",
+        "23": "Jesus disse a ela:",
+        "24": "Ao que Marta respondeu:",
+        "25": "Então Jesus declarou:",
+        "26": "E todo o que vive e crê em mim não morrerá eternamente. Você crê nisto?",
+        "27": "Marta respondeu:",
+        "28": "Depois de dizer isto, Marta foi chamar Maria, a sua irmã, e lhe disse em particular:",
+        "29": "Quando Maria ouviu isso, levantou-se depressa e foi até ele,",
+        "30": "pois Jesus ainda não tinha entrado na aldeia, mas permanecia onde Marta o havia encontrado.",
+        "31": "Os judeus que estavam com Maria em casa e a consolavam, vendo-a levantar-se depressa e sair, seguiram-na, pensando que ela ia ao túmulo para chorar.",
+        "32": "Quando Maria chegou ao lugar onde Jesus estava, ao vê-lo, lançou-se aos seus pés, dizendo:",
+        "33": "Quando Jesus viu que ela chorava, e que os judeus que a acompanhavam também choravam, agitou-se no espírito e se comoveu.",
+        "34": "E perguntou:",
+        "35": "Jesus chorou.",
+        "36": "Então os judeus disseram:",
+        "37": "Mas alguns disseram:",
+        "38": "Jesus, agitando-se novamente em si mesmo, foi até o túmulo, que era uma gruta em cuja entrada tinham colocado uma pedra.",
+        "39": "Então Jesus ordenou:",
+        "40": "Jesus respondeu:",
+        "41": "Então tiraram a pedra. E Jesus, levantando os olhos para o céu, disse:",
+        "42": "Eu sei que sempre me ouves, mas falei isso por causa da multidão presente, para que creiam que tu me enviaste.",
+        "43": "E, depois de dizer isso, clamou em alta voz:",
+        "44": "Aquele que tinha morrido saiu, tendo os pés e as mãos amarrados com ataduras e o rosto envolto num lenço. Então Jesus lhes ordenou:",
+        "45": "Muitos dos judeus que tinham vindo visitar Maria, vendo o que Jesus havia feito, creram nele.",
+        "46": "Outros, porém, foram até os fariseus e lhes contaram o que Jesus havia feito.",
+        "47": "Então os principais sacerdotes e os fariseus convocaram o Sinédrio e disseram:",
+        "48": "Se o deixarmos assim, todos crerão nele; depois, virão os romanos e tomarão não só o nosso lugar, mas a própria nação.",
+        "49": "Mas um deles, Caifás, que era sumo sacerdote naquele ano, advertiu-os, dizendo:",
+        "50": "nem entendem que é melhor para vocês que morra um só homem pelo povo e que não venha a perecer toda a nação.",
+        "51": "Ora, Caifás não disse isto por conta própria, mas, sendo sumo sacerdote naquele ano, profetizou que Jesus estava para morrer pela nação.",
+        "52": "E não somente pela nação, mas também para reunir em um só corpo os filhos de Deus, que andam dispersos.",
+        "53": "Desde aquele dia, resolveram matar Jesus.",
+        "54": "Assim sendo, Jesus já não andava publicamente entre os judeus, mas retirou-se para uma região vizinha ao deserto, para uma cidade chamada Efraim, onde permaneceu com os discípulos.",
+        "55": "Estava próxima a Páscoa dos judeus, e muitos daquela região foram a Jerusalém antes da Páscoa para se purificar.",
+        "56": "Lá, procuravam Jesus e, estando eles no templo, diziam uns aos outros:",
+        "57": "Ora, os principais sacerdotes e os fariseus haviam ordenado que, se alguém soubesse onde ele estava, o denunciasse, para que pudessem prendê-lo."
     }
-  }
 }

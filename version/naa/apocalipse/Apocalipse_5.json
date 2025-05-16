@@ -1,62 +1,23 @@
 {
-  "livro": "Apocalipse",
-  "capítulo": 5,
-  "versículos": {
-    "1": {
-      "título": "O livro e o Cordeiro",
-      "texto": "Vi, na mão direita daquele que estava sentado no trono, um livro em forma de rolo escrito por dentro e por fora, e selado com sete selos."
+    "livro": "Apocalipse",
+    "capitulo": 5,
+    "titulos": {
+        "1": "O livro e o Cordeiro"
     },
-    "2": {
-      "título": "",
-      "texto": "Vi, também, um anjo forte, que proclamava com voz forte:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Ora, nem no céu, nem sobre a terra, nem debaixo da terra, ninguém podia abrir o livro, nem mesmo olhar para ele."
-    },
-    "4": {
-      "título": "",
-      "texto": "E eu chorava muito, porque ninguém foi achado digno de abrir o livro, nem mesmo de olhar para ele."
-    },
-    "5": {
-      "título": "",
-      "texto": "Então um dos anciãos me disse:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Então vi, no meio do trono e dos quatro seres viventes e entre os anciãos, em pé, um Cordeiro que parecia que tinha sido morto. Ele tinha sete chifres, bem como sete olhos, que são os sete espíritos de Deus enviados por toda a terra."
-    },
-    "7": {
-      "título": "",
-      "texto": "O Cordeiro foi e pegou o livro da mão direita daquele que estava sentado no trono."
-    },
-    "8": {
-      "título": "",
-      "texto": "E, quando ele pegou o livro, os quatro seres viventes e os vinte e quatro anciãos se prostraram diante do Cordeiro, tendo cada um deles uma harpa e taças de ouro cheias de incenso, que são as orações dos santos,"
-    },
-    "9": {
-      "título": "",
-      "texto": "e cantavam um cântico novo, dizendo:"
-    },
-    "10": {
-      "título": "",
-      "texto": "e para o nosso Deus"
-    },
-    "11": {
-      "título": "",
-      "texto": "Vi e ouvi uma voz de muitos anjos ao redor do trono, dos seres viventes e dos anciãos, cujo número era de milhões de milhões e milhares de milhares,"
-    },
-    "12": {
-      "título": "",
-      "texto": "proclamando com voz forte:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Então ouvi que toda criatura que há no céu e sobre a terra, debaixo da terra e sobre o mar, e tudo o que neles há, estava dizendo:"
-    },
-    "14": {
-      "título": "",
-      "texto": "E os quatro seres viventes respondiam: “Amém!” Também os anciãos se prostraram e adoraram."
+    "versiculos": {
+        "1": "Vi, na mão direita daquele que estava sentado no trono, um livro em forma de rolo escrito por dentro e por fora, e selado com sete selos.",
+        "2": "Vi, também, um anjo forte, que proclamava com voz forte:",
+        "3": "Ora, nem no céu, nem sobre a terra, nem debaixo da terra, ninguém podia abrir o livro, nem mesmo olhar para ele.",
+        "4": "E eu chorava muito, porque ninguém foi achado digno de abrir o livro, nem mesmo de olhar para ele.",
+        "5": "Então um dos anciãos me disse:",
+        "6": "Então vi, no meio do trono e dos quatro seres viventes e entre os anciãos, em pé, um Cordeiro que parecia que tinha sido morto. Ele tinha sete chifres, bem como sete olhos, que são os sete espíritos de Deus enviados por toda a terra.",
+        "7": "O Cordeiro foi e pegou o livro da mão direita daquele que estava sentado no trono.",
+        "8": "E, quando ele pegou o livro, os quatro seres viventes e os vinte e quatro anciãos se prostraram diante do Cordeiro, tendo cada um deles uma harpa e taças de ouro cheias de incenso, que são as orações dos santos,",
+        "9": "e cantavam um cântico novo, dizendo:",
+        "10": "e para o nosso Deus",
+        "11": "Vi e ouvi uma voz de muitos anjos ao redor do trono, dos seres viventes e dos anciãos, cujo número era de milhões de milhões e milhares de milhares,",
+        "12": "proclamando com voz forte:",
+        "13": "Então ouvi que toda criatura que há no céu e sobre a terra, debaixo da terra e sobre o mar, e tudo o que neles há, estava dizendo:",
+        "14": "E os quatro seres viventes respondiam: “Amém!” Também os anciãos se prostraram e adoraram."
     }
-  }
 }

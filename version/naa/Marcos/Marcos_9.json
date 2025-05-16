@@ -1,206 +1,65 @@
 {
-  "livro": "Marcos",
-  "capítulo": 9,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Dizia-lhes ainda:"
+    "livro": "Marcos",
+    "capitulo": 9,
+    "titulos": {
+        "2": "A transfiguração de Jesus",
+        "9": "A vinda de Elias",
+        "14": "A cura de um menino",
+        "30": "De novo Jesus prediz a sua morte e ressurreição",
+        "33": "O maior no Reino dos Céus",
+        "38": "Quem não é contra nós é por nós",
+        "42": "Os tropeços"
     },
-    "2": {
-      "título": "A transfiguração de Jesus",
-      "texto": "Seis dias depois, Jesus tomou consigo Pedro, Tiago e João e os levou, em particular, a sós, a um alto monte. E Jesus foi transfigurado diante deles."
-    },
-    "3": {
-      "título": "",
-      "texto": "As suas roupas se tornaram resplandecentes, de um branco muito intenso, como nenhum lavandeiro no mundo as poderia alvejar."
-    },
-    "4": {
-      "título": "",
-      "texto": "E lhes apareceu Elias com Moisés, e estavam falando com Jesus."
-    },
-    "5": {
-      "título": "",
-      "texto": "Então Pedro, tomando a palavra, disse a Jesus:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Pois não sabia o que dizer, por estarem eles apavorados."
-    },
-    "7": {
-      "título": "",
-      "texto": "A seguir, veio uma nuvem que os envolveu; e dela veio uma voz que dizia:"
-    },
-    "8": {
-      "título": "",
-      "texto": "E, de repente, olhando ao redor, não viram mais ninguém com eles, a não ser Jesus."
-    },
-    "9": {
-      "título": "A vinda de Elias",
-      "texto": "Ao descerem do monte, Jesus lhes ordenou que não divulgassem as coisas que tinham visto, até o dia em que o Filho do Homem ressuscitasse dentre os mortos."
-    },
-    "10": {
-      "título": "",
-      "texto": "Eles guardaram a recomendação, perguntando uns aos outros o que seria esse ressuscitar dentre os mortos."
-    },
-    "11": {
-      "título": "",
-      "texto": "Então perguntaram a Jesus:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Eu, porém, lhes digo que Elias já veio, e fizeram com ele tudo o que quiseram, como está escrito a respeito dele."
-    },
-    "14": {
-      "título": "A cura de um menino",
-      "texto": "Quando eles se aproximaram dos outros discípulos, viram numerosa multidão ao redor deles e os escribas discutindo com eles."
-    },
-    "15": {
-      "título": "",
-      "texto": "E logo toda a multidão, ao ver Jesus, ficou surpresa e, correndo até ele, o saudava."
-    },
-    "16": {
-      "título": "",
-      "texto": "Então Jesus perguntou:"
-    },
-    "17": {
-      "título": "",
-      "texto": "E um, do meio da multidão, respondeu:"
-    },
-    "18": {
-      "título": "",
-      "texto": "e este, sempre que se apossa dele, lança-o por terra, e ele espuma, range os dentes e vai definhando. Pedi aos seus discípulos que o expulsassem, mas eles não puderam."
-    },
-    "19": {
-      "título": "",
-      "texto": "Então Jesus exclamou:"
-    },
-    "20": {
-      "título": "",
-      "texto": "E eles o trouxeram. Quando ele viu Jesus, o espírito imediatamente agitou o menino com violência, e, caindo ele por terra, revolvia-se espumando."
-    },
-    "21": {
-      "título": "",
-      "texto": "Jesus perguntou ao pai do menino:"
-    },
-    "22": {
-      "título": "",
-      "texto": "e muitas vezes o tem lançado no fogo e na água, para o matar. Mas, se o senhor pode fazer alguma coisa, tenha compaixão de nós e ajude-nos."
-    },
-    "23": {
-      "título": "",
-      "texto": "Ao que Jesus respondeu:"
-    },
-    "24": {
-      "título": "",
-      "texto": "E imediatamente o pai do menino exclamou:"
-    },
-    "25": {
-      "título": "",
-      "texto": "Vendo Jesus que muita gente estava se reunindo, repreendeu o espírito imundo, dizendo-lhe:"
-    },
-    "26": {
-      "título": "",
-      "texto": "E ele, gritando e agitando-o muito, saiu, deixando-o como se estivesse morto, a ponto de muitos dizerem:"
-    },
-    "27": {
-      "título": "",
-      "texto": "Mas Jesus, tomando-o pela mão, o ergueu, e ele se levantou."
-    },
-    "28": {
-      "título": "",
-      "texto": "Quando Jesus entrou em casa, os seus discípulos lhe perguntaram em particular:"
-    },
-    "29": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "30": {
-      "título": "De novo Jesus prediz a sua morte e ressurreição",
-      "texto": "E, tendo saído dali, passavam pela Galileia, e Jesus não queria que ninguém o soubesse,"
-    },
-    "31": {
-      "título": "",
-      "texto": "porque ensinava os seus discípulos e lhes dizia:"
-    },
-    "32": {
-      "título": "",
-      "texto": "Eles, porém, não compreendiam isto e tinham medo de perguntar."
-    },
-    "33": {
-      "título": "O maior no Reino dos Céus",
-      "texto": "Chegaram, então, a Cafarnaum. Estando em casa, Jesus perguntou aos discípulos:"
-    },
-    "34": {
-      "título": "",
-      "texto": "Mas eles se calaram, porque, no caminho, tinham discutido entre si sobre quem era o maior."
-    },
-    "35": {
-      "título": "",
-      "texto": "E Jesus, assentando-se, chamou os doze e lhes disse:"
-    },
-    "36": {
-      "título": "",
-      "texto": "Trazendo uma criança, colocou-a no meio deles e, tomando-a nos braços, disse-lhes:"
-    },
-    "37": {
-      "título": "",
-      "texto": "— Quem receber uma criança, tal como esta, em meu nome, recebe a mim; e quem receber a mim, não é a mim que recebe, mas aquele que me enviou."
-    },
-    "38": {
-      "título": "Quem não é contra nós é por nós",
-      "texto": "João disse a Jesus:"
-    },
-    "39": {
-      "título": "",
-      "texto": "Mas Jesus respondeu:"
-    },
-    "40": {
-      "título": "",
-      "texto": "Pois quem não é contra nós é a favor de nós."
-    },
-    "41": {
-      "título": "",
-      "texto": "Pois aquele que lhes der de beber um copo de água, em meu nome, porque vocês são de Cristo, em verdade lhes digo que de modo nenhum perderá a sua recompensa."
-    },
-    "42": {
-      "título": "Os tropeços",
-      "texto": "— E, se alguém fizer tropeçar um destes pequeninos que creem em mim, seria melhor para esse que uma grande pedra de moinho fosse pendurada ao seu pescoço e fosse jogado no mar."
-    },
-    "43": {
-      "título": "",
-      "texto": "E, se a sua mão leva você a tropeçar, corte-a; pois é melhor você entrar aleijado na vida do que, tendo as duas mãos, ir para o inferno, para o fogo que nunca se apaga"
-    },
-    "44": {
-      "título": "",
-      "texto": "."
-    },
-    "45": {
-      "título": "",
-      "texto": "E, se o seu pé leva você a tropeçar, corte-o; pois é melhor você entrar na vida aleijado do que, tendo os dois pés, ser lançado no inferno"
-    },
-    "46": {
-      "título": "",
-      "texto": "."
-    },
-    "47": {
-      "título": "",
-      "texto": "E, se um dos seus olhos leva você a tropeçar, arranque-o; pois é melhor você entrar no Reino de Deus com um olho só do que, tendo os dois, ser lançado no inferno,"
-    },
-    "48": {
-      "título": "",
-      "texto": "onde não lhes morre o verme, nem o fogo se apaga."
-    },
-    "49": {
-      "título": "",
-      "texto": "— Porque cada um será salgado com fogo."
-    },
-    "50": {
-      "título": "",
-      "texto": "O sal é bom; mas, se o sal vier a se tornar insípido, como lhe restaurar o sabor? Tenham sal em vocês mesmos e paz uns com os outros."
+    "versiculos": {
+        "1": "Dizia-lhes ainda:",
+        "2": "Seis dias depois, Jesus tomou consigo Pedro, Tiago e João e os levou, em particular, a sós, a um alto monte. E Jesus foi transfigurado diante deles.",
+        "3": "As suas roupas se tornaram resplandecentes, de um branco muito intenso, como nenhum lavandeiro no mundo as poderia alvejar.",
+        "4": "E lhes apareceu Elias com Moisés, e estavam falando com Jesus.",
+        "5": "Então Pedro, tomando a palavra, disse a Jesus:",
+        "6": "Pois não sabia o que dizer, por estarem eles apavorados.",
+        "7": "A seguir, veio uma nuvem que os envolveu; e dela veio uma voz que dizia:",
+        "8": "E, de repente, olhando ao redor, não viram mais ninguém com eles, a não ser Jesus.",
+        "9": "Ao descerem do monte, Jesus lhes ordenou que não divulgassem as coisas que tinham visto, até o dia em que o Filho do Homem ressuscitasse dentre os mortos.",
+        "10": "Eles guardaram a recomendação, perguntando uns aos outros o que seria esse ressuscitar dentre os mortos.",
+        "11": "Então perguntaram a Jesus:",
+        "12": "Jesus respondeu:",
+        "13": "Eu, porém, lhes digo que Elias já veio, e fizeram com ele tudo o que quiseram, como está escrito a respeito dele.",
+        "14": "Quando eles se aproximaram dos outros discípulos, viram numerosa multidão ao redor deles e os escribas discutindo com eles.",
+        "15": "E logo toda a multidão, ao ver Jesus, ficou surpresa e, correndo até ele, o saudava.",
+        "16": "Então Jesus perguntou:",
+        "17": "E um, do meio da multidão, respondeu:",
+        "18": "e este, sempre que se apossa dele, lança-o por terra, e ele espuma, range os dentes e vai definhando. Pedi aos seus discípulos que o expulsassem, mas eles não puderam.",
+        "19": "Então Jesus exclamou:",
+        "20": "E eles o trouxeram. Quando ele viu Jesus, o espírito imediatamente agitou o menino com violência, e, caindo ele por terra, revolvia-se espumando.",
+        "21": "Jesus perguntou ao pai do menino:",
+        "22": "e muitas vezes o tem lançado no fogo e na água, para o matar. Mas, se o senhor pode fazer alguma coisa, tenha compaixão de nós e ajude-nos.",
+        "23": "Ao que Jesus respondeu:",
+        "24": "E imediatamente o pai do menino exclamou:",
+        "25": "Vendo Jesus que muita gente estava se reunindo, repreendeu o espírito imundo, dizendo-lhe:",
+        "26": "E ele, gritando e agitando-o muito, saiu, deixando-o como se estivesse morto, a ponto de muitos dizerem:",
+        "27": "Mas Jesus, tomando-o pela mão, o ergueu, e ele se levantou.",
+        "28": "Quando Jesus entrou em casa, os seus discípulos lhe perguntaram em particular:",
+        "29": "Jesus respondeu:",
+        "30": "E, tendo saído dali, passavam pela Galileia, e Jesus não queria que ninguém o soubesse,",
+        "31": "porque ensinava os seus discípulos e lhes dizia:",
+        "32": "Eles, porém, não compreendiam isto e tinham medo de perguntar.",
+        "33": "Chegaram, então, a Cafarnaum. Estando em casa, Jesus perguntou aos discípulos:",
+        "34": "Mas eles se calaram, porque, no caminho, tinham discutido entre si sobre quem era o maior.",
+        "35": "E Jesus, assentando-se, chamou os doze e lhes disse:",
+        "36": "Trazendo uma criança, colocou-a no meio deles e, tomando-a nos braços, disse-lhes:",
+        "37": "— Quem receber uma criança, tal como esta, em meu nome, recebe a mim; e quem receber a mim, não é a mim que recebe, mas aquele que me enviou.",
+        "38": "João disse a Jesus:",
+        "39": "Mas Jesus respondeu:",
+        "40": "Pois quem não é contra nós é a favor de nós.",
+        "41": "Pois aquele que lhes der de beber um copo de água, em meu nome, porque vocês são de Cristo, em verdade lhes digo que de modo nenhum perderá a sua recompensa.",
+        "42": "— E, se alguém fizer tropeçar um destes pequeninos que creem em mim, seria melhor para esse que uma grande pedra de moinho fosse pendurada ao seu pescoço e fosse jogado no mar.",
+        "43": "E, se a sua mão leva você a tropeçar, corte-a; pois é melhor você entrar aleijado na vida do que, tendo as duas mãos, ir para o inferno, para o fogo que nunca se apaga",
+        "44": ".",
+        "45": "E, se o seu pé leva você a tropeçar, corte-o; pois é melhor você entrar na vida aleijado do que, tendo os dois pés, ser lançado no inferno",
+        "46": ".",
+        "47": "E, se um dos seus olhos leva você a tropeçar, arranque-o; pois é melhor você entrar no Reino de Deus com um olho só do que, tendo os dois, ser lançado no inferno,",
+        "48": "onde não lhes morre o verme, nem o fogo se apaga.",
+        "49": "— Porque cada um será salgado com fogo.",
+        "50": "O sal é bom; mas, se o sal vier a se tornar insípido, como lhe restaurar o sabor? Tenham sal em vocês mesmos e paz uns com os outros."
     }
-  }
 }

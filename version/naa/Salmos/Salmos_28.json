@@ -1,42 +1,18 @@
 {
-  "livro": "Salmos",
-  "capítulo": 28,
-  "versículos": {
-    "1": {
-      "título": "Súplica e ações de graças",
-      "texto": "A ti clamo, ó Senhor ;"
+    "livro": "Salmos",
+    "capitulo": 28,
+    "titulos": {
+        "1": "Súplica e ações de graças"
     },
-    "2": {
-      "título": "",
-      "texto": "Ouve a voz das minhas súplicas,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Não me arrastes com os ímpios,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Paga-lhes segundo as suas obras,"
-    },
-    "5": {
-      "título": "",
-      "texto": "E, visto que não compreendem"
-    },
-    "6": {
-      "título": "",
-      "texto": "Bendito seja o Senhor ,"
-    },
-    "7": {
-      "título": "",
-      "texto": "O Senhor é a minha força"
-    },
-    "8": {
-      "título": "",
-      "texto": "O Senhor é a força do seu povo,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Salva o teu povo"
+    "versiculos": {
+        "1": "A ti clamo, ó Senhor ;",
+        "2": "Ouve a voz das minhas súplicas,",
+        "3": "Não me arrastes com os ímpios,",
+        "4": "Paga-lhes segundo as suas obras,",
+        "5": "E, visto que não compreendem",
+        "6": "Bendito seja o Senhor ,",
+        "7": "O Senhor é a minha força",
+        "8": "O Senhor é a força do seu povo,",
+        "9": "Salva o teu povo"
     }
-  }
 }

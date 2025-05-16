@@ -1,134 +1,41 @@
 {
-  "livro": "Gênesis",
-  "capítulo": 5,
-  "versículos": {
-    "1": {
-      "título": "Descendentes de Adão",
-      "texto": "Este é o livro da genealogia de Adão."
+    "livro": "Gênesis",
+    "capitulo": 5,
+    "titulos": {
+        "1": "Descendentes de Adão"
     },
-    "2": {
-      "título": "",
-      "texto": "Deus os criou homem e mulher, os abençoou e lhes deu o nome de “ser humano”, no dia em que foram criados."
-    },
-    "3": {
-      "título": "",
-      "texto": "Adão viveu cento e trinta anos, e gerou um filho à sua semelhança, conforme a sua imagem, e lhe deu o nome de Sete."
-    },
-    "4": {
-      "título": "",
-      "texto": "Depois que gerou esse filho, Adão viveu oitocentos anos; e teve filhos e filhas."
-    },
-    "5": {
-      "título": "",
-      "texto": "Todos os dias da vida de Adão foram novecentos e trinta anos; e morreu."
-    },
-    "6": {
-      "título": "",
-      "texto": "Sete viveu cento e cinco anos e gerou Enos."
-    },
-    "7": {
-      "título": "",
-      "texto": "Depois que gerou Enos, Sete viveu oitocentos e sete anos; e teve filhos e filhas."
-    },
-    "8": {
-      "título": "",
-      "texto": "Todos os dias de Sete foram novecentos e doze anos; e morreu."
-    },
-    "9": {
-      "título": "",
-      "texto": "Enos viveu noventa anos e gerou Cainã."
-    },
-    "10": {
-      "título": "",
-      "texto": "Depois que gerou Cainã, Enos viveu oitocentos e quinze anos; e teve filhos e filhas."
-    },
-    "11": {
-      "título": "",
-      "texto": "Todos os dias de Enos foram novecentos e cinco anos; e morreu."
-    },
-    "12": {
-      "título": "",
-      "texto": "Cainã viveu setenta anos e gerou Maalalel."
-    },
-    "13": {
-      "título": "",
-      "texto": "Depois que gerou Maalalel, Cainã viveu oitocentos e quarenta anos; e teve filhos e filhas."
-    },
-    "14": {
-      "título": "",
-      "texto": "Todos os dias de Cainã foram novecentos e dez anos; e morreu."
-    },
-    "15": {
-      "título": "",
-      "texto": "Maalalel viveu sessenta e cinco anos e gerou Jarede."
-    },
-    "16": {
-      "título": "",
-      "texto": "Depois que gerou Jarede, Maalalel viveu oitocentos e trinta anos; e teve filhos e filhas."
-    },
-    "17": {
-      "título": "",
-      "texto": "Todos os dias de Maalalel foram oitocentos e noventa e cinco anos; e morreu."
-    },
-    "18": {
-      "título": "",
-      "texto": "Jarede viveu cento e sessenta e dois anos e gerou Enoque."
-    },
-    "19": {
-      "título": "",
-      "texto": "Depois que gerou Enoque, Jarede viveu oitocentos anos; e teve filhos e filhas."
-    },
-    "20": {
-      "título": "",
-      "texto": "Todos os dias de Jarede foram novecentos e sessenta e dois anos; e morreu."
-    },
-    "21": {
-      "título": "",
-      "texto": "Enoque viveu sessenta e cinco anos e gerou Metusalém."
-    },
-    "22": {
-      "título": "",
-      "texto": "Enoque andou com Deus; e, depois que gerou Metusalém, viveu trezentos anos; e teve filhos e filhas."
-    },
-    "23": {
-      "título": "",
-      "texto": "Todos os dias de Enoque foram trezentos e sessenta e cinco anos."
-    },
-    "24": {
-      "título": "",
-      "texto": "Enoque andou com Deus e não foi mais visto, porque Deus o levou para junto de si."
-    },
-    "25": {
-      "título": "",
-      "texto": "Metusalém viveu cento e oitenta e sete anos e gerou Lameque."
-    },
-    "26": {
-      "título": "",
-      "texto": "Depois que gerou Lameque, Metusalém viveu setecentos e oitenta e dois anos; e teve filhos e filhas."
-    },
-    "27": {
-      "título": "",
-      "texto": "Todos os dias de Metusalém foram novecentos e sessenta e nove anos; e morreu."
-    },
-    "28": {
-      "título": "",
-      "texto": "Lameque viveu cento e oitenta e dois anos e gerou um filho."
-    },
-    "29": {
-      "título": "",
-      "texto": "Deu-lhe o nome de Noé, dizendo:"
-    },
-    "30": {
-      "título": "",
-      "texto": "Depois que gerou Noé, Lameque viveu quinhentos e noventa e cinco anos; e teve filhos e filhas."
-    },
-    "31": {
-      "título": "",
-      "texto": "Todos os dias de Lameque foram setecentos e setenta e sete anos; e morreu."
-    },
-    "32": {
-      "título": "",
-      "texto": "Noé tinha quinhentos anos de idade e gerou Sem, Cam e Jafé."
+    "versiculos": {
+        "1": "Este é o livro da genealogia de Adão.",
+        "2": "Deus os criou homem e mulher, os abençoou e lhes deu o nome de “ser humano”, no dia em que foram criados.",
+        "3": "Adão viveu cento e trinta anos, e gerou um filho à sua semelhança, conforme a sua imagem, e lhe deu o nome de Sete.",
+        "4": "Depois que gerou esse filho, Adão viveu oitocentos anos; e teve filhos e filhas.",
+        "5": "Todos os dias da vida de Adão foram novecentos e trinta anos; e morreu.",
+        "6": "Sete viveu cento e cinco anos e gerou Enos.",
+        "7": "Depois que gerou Enos, Sete viveu oitocentos e sete anos; e teve filhos e filhas.",
+        "8": "Todos os dias de Sete foram novecentos e doze anos; e morreu.",
+        "9": "Enos viveu noventa anos e gerou Cainã.",
+        "10": "Depois que gerou Cainã, Enos viveu oitocentos e quinze anos; e teve filhos e filhas.",
+        "11": "Todos os dias de Enos foram novecentos e cinco anos; e morreu.",
+        "12": "Cainã viveu setenta anos e gerou Maalalel.",
+        "13": "Depois que gerou Maalalel, Cainã viveu oitocentos e quarenta anos; e teve filhos e filhas.",
+        "14": "Todos os dias de Cainã foram novecentos e dez anos; e morreu.",
+        "15": "Maalalel viveu sessenta e cinco anos e gerou Jarede.",
+        "16": "Depois que gerou Jarede, Maalalel viveu oitocentos e trinta anos; e teve filhos e filhas.",
+        "17": "Todos os dias de Maalalel foram oitocentos e noventa e cinco anos; e morreu.",
+        "18": "Jarede viveu cento e sessenta e dois anos e gerou Enoque.",
+        "19": "Depois que gerou Enoque, Jarede viveu oitocentos anos; e teve filhos e filhas.",
+        "20": "Todos os dias de Jarede foram novecentos e sessenta e dois anos; e morreu.",
+        "21": "Enoque viveu sessenta e cinco anos e gerou Metusalém.",
+        "22": "Enoque andou com Deus; e, depois que gerou Metusalém, viveu trezentos anos; e teve filhos e filhas.",
+        "23": "Todos os dias de Enoque foram trezentos e sessenta e cinco anos.",
+        "24": "Enoque andou com Deus e não foi mais visto, porque Deus o levou para junto de si.",
+        "25": "Metusalém viveu cento e oitenta e sete anos e gerou Lameque.",
+        "26": "Depois que gerou Lameque, Metusalém viveu setecentos e oitenta e dois anos; e teve filhos e filhas.",
+        "27": "Todos os dias de Metusalém foram novecentos e sessenta e nove anos; e morreu.",
+        "28": "Lameque viveu cento e oitenta e dois anos e gerou um filho.",
+        "29": "Deu-lhe o nome de Noé, dizendo:",
+        "30": "Depois que gerou Noé, Lameque viveu quinhentos e noventa e cinco anos; e teve filhos e filhas.",
+        "31": "Todos os dias de Lameque foram setecentos e setenta e sete anos; e morreu.",
+        "32": "Noé tinha quinhentos anos de idade e gerou Sem, Cam e Jafé."
     }
-  }
 }

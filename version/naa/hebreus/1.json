@@ -1,62 +1,24 @@
 {
-  "livro": "Hebreus",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "A revelação de Deus",
-      "texto": "Antigamente, Deus falou, muitas vezes e de muitas maneiras, aos pais, pelos profetas,"
+    "livro": "Hebreus",
+    "capitulo": 1,
+    "titulos": {
+        "1": "A revelação de Deus",
+        "5": "O Filho e os anjos"
     },
-    "2": {
-      "título": "",
-      "texto": "mas, nestes últimos dias, nos falou pelo Filho, a quem constituiu herdeiro de todas as coisas e pelo qual também fez o universo."
-    },
-    "3": {
-      "título": "",
-      "texto": "O Filho, que é o resplendor da glória de Deus e a expressão exata do seu Ser, sustentando todas as coisas pela sua palavra poderosa, depois de ter feito a purificação dos pecados, assentou-se à direita da Majestade, nas alturas,"
-    },
-    "4": {
-      "título": "",
-      "texto": "tendo-se tornado tão superior aos anjos quanto herdou mais excelente nome do que eles."
-    },
-    "5": {
-      "título": "O Filho e os anjos",
-      "texto": "Pois a qual dos anjos Deus em algum momento disse:"
-    },
-    "6": {
-      "título": "",
-      "texto": "E, novamente, ao introduzir o Primogênito no mundo, diz:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Ainda, quanto aos anjos, diz:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Mas, a respeito do Filho, diz:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Amaste a justiça"
-    },
-    "10": {
-      "título": "",
-      "texto": "Diz ainda:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Eles perecerão,"
-    },
-    "12": {
-      "título": "",
-      "texto": "como manto tu os enrolarás,"
-    },
-    "13": {
-      "título": "",
-      "texto": "Ora, a qual dos anjos Deus em algum momento disse:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Não são todos eles espíritos ministradores, enviados para serviço a favor dos que hão de herdar a salvação?"
+    "versiculos": {
+        "1": "Antigamente, Deus falou, muitas vezes e de muitas maneiras, aos pais, pelos profetas,",
+        "2": "mas, nestes últimos dias, nos falou pelo Filho, a quem constituiu herdeiro de todas as coisas e pelo qual também fez o universo.",
+        "3": "O Filho, que é o resplendor da glória de Deus e a expressão exata do seu Ser, sustentando todas as coisas pela sua palavra poderosa, depois de ter feito a purificação dos pecados, assentou-se à direita da Majestade, nas alturas,",
+        "4": "tendo-se tornado tão superior aos anjos quanto herdou mais excelente nome do que eles.",
+        "5": "Pois a qual dos anjos Deus em algum momento disse:",
+        "6": "E, novamente, ao introduzir o Primogênito no mundo, diz:",
+        "7": "Ainda, quanto aos anjos, diz:",
+        "8": "Mas, a respeito do Filho, diz:",
+        "9": "Amaste a justiça",
+        "10": "Diz ainda:",
+        "11": "Eles perecerão,",
+        "12": "como manto tu os enrolarás,",
+        "13": "Ora, a qual dos anjos Deus em algum momento disse:",
+        "14": "Não são todos eles espíritos ministradores, enviados para serviço a favor dos que hão de herdar a salvação?"
     }
-  }
 }

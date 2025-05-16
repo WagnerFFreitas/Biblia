@@ -1,166 +1,54 @@
 {
-  "livro": "Jó",
-  "capítulo": 31,
-  "versículos": {
-    "1": {
-      "título": "Que Deus me pese numa balança justa",
-      "texto": "“Fiz uma aliança"
+    "livro": "Jó",
+    "capitulo": 31,
+    "titulos": {
+        "1": "Que Deus me pese numa balança justa",
+        "7": "Nunca cobicei, nem adulterei",
+        "13": "Sempre fui justo e caridoso",
+        "24": "Nunca neguei a Deus",
+        "29": "Nunca me alegrei com o mal",
+        "35": "Eis aqui a minha defesa"
     },
-    "2": {
-      "título": "",
-      "texto": "Do contrário, qual seria"
-    },
-    "3": {
-      "título": "",
-      "texto": "Por acaso, não é a perdição"
-    },
-    "4": {
-      "título": "",
-      "texto": "Será que Deus não vê"
-    },
-    "5": {
-      "título": "",
-      "texto": "Se andei com falsidade"
-    },
-    "6": {
-      "título": "",
-      "texto": "— que Deus me pese"
-    },
-    "7": {
-      "título": "Nunca cobicei, nem adulterei",
-      "texto": "“Se os meus passos se desviaram"
-    },
-    "8": {
-      "título": "",
-      "texto": "então que outros comam"
-    },
-    "9": {
-      "título": "",
-      "texto": "Se o meu coração se deixou"
-    },
-    "10": {
-      "título": "",
-      "texto": "então que a minha mulher"
-    },
-    "11": {
-      "título": "",
-      "texto": "Pois eu teria cometido"
-    },
-    "12": {
-      "título": "",
-      "texto": "Isso seria fogo que consome"
-    },
-    "13": {
-      "título": "Sempre fui justo e caridoso",
-      "texto": "“Se não reconheci"
-    },
-    "14": {
-      "título": "",
-      "texto": "então que faria eu"
-    },
-    "15": {
-      "título": "",
-      "texto": "Aquele que me formou"
-    },
-    "16": {
-      "título": "",
-      "texto": "“Se retive o que os pobres"
-    },
-    "17": {
-      "título": "",
-      "texto": "ou, se sozinho"
-    },
-    "18": {
-      "título": "",
-      "texto": "— porque"
-    },
-    "19": {
-      "título": "",
-      "texto": "se vi alguém perecer"
-    },
-    "20": {
-      "título": "",
-      "texto": "se ele não me agradeceu"
-    },
-    "21": {
-      "título": "",
-      "texto": "se eu levantei a mão"
-    },
-    "22": {
-      "título": "",
-      "texto": "então que a omoplata caia"
-    },
-    "23": {
-      "título": "",
-      "texto": "Porque o castigo de Deus"
-    },
-    "24": {
-      "título": "Nunca neguei a Deus",
-      "texto": "“Se no ouro pus"
-    },
-    "25": {
-      "título": "",
-      "texto": "se me alegrei por ser grande"
-    },
-    "26": {
-      "título": "",
-      "texto": "se olhei para o sol,"
-    },
-    "27": {
-      "título": "",
-      "texto": "e o meu coração se deixou"
-    },
-    "28": {
-      "título": "",
-      "texto": "também isto seria um delito"
-    },
-    "29": {
-      "título": "Nunca me alegrei com o mal",
-      "texto": "“Se me alegrei com a desgraça"
-    },
-    "30": {
-      "título": "",
-      "texto": "— eu que não deixei"
-    },
-    "31": {
-      "título": "",
-      "texto": "se as pessoas que moram"
-    },
-    "32": {
-      "título": "",
-      "texto": "— pois o estrangeiro"
-    },
-    "33": {
-      "título": "",
-      "texto": "se, como Adão, encobri"
-    },
-    "34": {
-      "título": "",
-      "texto": "porque eu tinha medo"
-    },
-    "35": {
-      "título": "Eis aqui a minha defesa",
-      "texto": "“Quem dera que eu tivesse"
-    },
-    "36": {
-      "título": "",
-      "texto": "Por certo que a levaria"
-    },
-    "37": {
-      "título": "",
-      "texto": "Eu lhe mostraria"
-    },
-    "38": {
-      "título": "",
-      "texto": "“Se a minha terra clamar"
-    },
-    "39": {
-      "título": "",
-      "texto": "se comi os seus frutos"
-    },
-    "40": {
-      "título": "",
-      "texto": "que ela produza espinhos"
+    "versiculos": {
+        "1": "“Fiz uma aliança",
+        "2": "Do contrário, qual seria",
+        "3": "Por acaso, não é a perdição",
+        "4": "Será que Deus não vê",
+        "5": "Se andei com falsidade",
+        "6": "— que Deus me pese",
+        "7": "“Se os meus passos se desviaram",
+        "8": "então que outros comam",
+        "9": "Se o meu coração se deixou",
+        "10": "então que a minha mulher",
+        "11": "Pois eu teria cometido",
+        "12": "Isso seria fogo que consome",
+        "13": "“Se não reconheci",
+        "14": "então que faria eu",
+        "15": "Aquele que me formou",
+        "16": "“Se retive o que os pobres",
+        "17": "ou, se sozinho",
+        "18": "— porque",
+        "19": "se vi alguém perecer",
+        "20": "se ele não me agradeceu",
+        "21": "se eu levantei a mão",
+        "22": "então que a omoplata caia",
+        "23": "Porque o castigo de Deus",
+        "24": "“Se no ouro pus",
+        "25": "se me alegrei por ser grande",
+        "26": "se olhei para o sol,",
+        "27": "e o meu coração se deixou",
+        "28": "também isto seria um delito",
+        "29": "“Se me alegrei com a desgraça",
+        "30": "— eu que não deixei",
+        "31": "se as pessoas que moram",
+        "32": "— pois o estrangeiro",
+        "33": "se, como Adão, encobri",
+        "34": "porque eu tinha medo",
+        "35": "“Quem dera que eu tivesse",
+        "36": "Por certo que a levaria",
+        "37": "Eu lhe mostraria",
+        "38": "“Se a minha terra clamar",
+        "39": "se comi os seus frutos",
+        "40": "que ela produza espinhos"
     }
-  }
 }

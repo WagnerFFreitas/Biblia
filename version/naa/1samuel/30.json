@@ -1,130 +1,42 @@
 {
-  "livro": "1 Samuel",
-  "capítulo": 30,
-  "versículos": {
-    "1": {
-      "título": "Ziclague é saqueada pelos amalequitas",
-      "texto": "Aconteceu que, ao terceiro dia, quando Davi e os seus homens chegaram a Ziclague, os amalequitas já tinham invadido o Sul e a cidade de Ziclague. Tomaram Ziclague e a incendiaram."
+    "livro": "1 Samuel",
+    "capitulo": 30,
+    "titulos": {
+        "1": "Ziclague é saqueada pelos amalequitas",
+        "7": "Davi livra os cativos",
+        "21": "A lei a respeito da divisão da presa"
     },
-    "2": {
-      "título": "",
-      "texto": "Levaram cativas as mulheres que lá estavam, mas não mataram ninguém, nem pequenos nem grandes; tão somente os levaram consigo e foram embora."
-    },
-    "3": {
-      "título": "",
-      "texto": "Davi e os seus homens chegaram à cidade, e viram que tinha sido queimada, e que as suas mulheres, os seus filhos e as suas filhas haviam sido levados cativos."
-    },
-    "4": {
-      "título": "",
-      "texto": "Então Davi e o povo que estava com ele ergueram a voz e choraram, até não terem mais forças para chorar."
-    },
-    "5": {
-      "título": "",
-      "texto": "Também as duas mulheres de Davi tinham sido levadas: Ainoã, a jezreelita, e Abigail, a viúva de Nabal, o carmelita."
-    },
-    "6": {
-      "título": "",
-      "texto": "Davi ficou muito angustiado, pois o povo falava de apedrejá-lo, porque todos estavam amargurados, cada um por causa de seus filhos e suas filhas. Mas Davi se reanimou no Senhor , seu Deus."
-    },
-    "7": {
-      "título": "Davi livra os cativos",
-      "texto": "Davi disse a Abiatar, o sacerdote, filho de Aimeleque:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Então Davi consultou o Senhor , dizendo:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Então Davi partiu, ele e os seiscentos homens que com ele estavam, e chegaram ao ribeiro de Besor, onde os retardatários ficaram."
-    },
-    "10": {
-      "título": "",
-      "texto": "Davi e quatrocentos homens continuaram a perseguição, mas duzentos ficaram atrás, por não poderem passar o ribeiro de Besor, de tão cansados que estavam."
-    },
-    "11": {
-      "título": "",
-      "texto": "Encontraram no campo um homem egípcio e o trouxeram a Davi. Deram-lhe pão, e ele comeu, e deram-lhe água para beber."
-    },
-    "12": {
-      "título": "",
-      "texto": "Deram-lhe também um pedaço de pasta de figos secos e dois cachos de passas, e ele comeu. Assim, recobrou as forças, pois havia três dias e três noites que não comia pão, nem bebia água."
-    },
-    "13": {
-      "título": "",
-      "texto": "Então Davi lhe perguntou:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Nós invadimos o lado sul dos queretitas, o território de Judá e o lado sul de Calebe e pusemos fogo em Ziclague."
-    },
-    "15": {
-      "título": "",
-      "texto": "Então Davi lhe perguntou:"
-    },
-    "16": {
-      "título": "",
-      "texto": "E ele levou Davi até lá. Eis que os amalequitas estavam espalhados por toda a região, comendo, bebendo e fazendo festa por todo aquele grande despojo que tomaram da terra dos filisteus e da terra de Judá."
-    },
-    "17": {
-      "título": "",
-      "texto": "Davi os atacou e lutou contra eles, desde o crepúsculo até a tarde do dia seguinte, e nenhum deles escapou, a não ser quatrocentos moços que montaram em camelos e fugiram."
-    },
-    "18": {
-      "título": "",
-      "texto": "Assim, Davi salvou tudo o que os amalequitas tinham levado. Também salvou as suas duas mulheres."
-    },
-    "19": {
-      "título": "",
-      "texto": "Não lhes faltou coisa alguma, nem pequena nem grande, nem os filhos, nem as filhas, nem o despojo, nada do que lhes haviam tomado: Davi trouxe tudo de volta."
-    },
-    "20": {
-      "título": "",
-      "texto": "Davi também tomou todas as ovelhas e o gado. Então levaram esses animais diante de Davi e disseram:"
-    },
-    "21": {
-      "título": "A lei a respeito da divisão da presa",
-      "texto": "Quando Davi se aproximou dos duzentos homens que, de tão cansados que estavam, não o puderam seguir e ficaram no ribeiro de Besor, estes saíram ao encontro de Davi e do povo que vinha com ele. Davi se aproximou deles e os saudou cordialmente."
-    },
-    "22": {
-      "título": "",
-      "texto": "Então todos os perversos e malignos, dentre os homens que tinham ido com Davi, disseram:"
-    },
-    "23": {
-      "título": "",
-      "texto": "Porém Davi disse:"
-    },
-    "24": {
-      "título": "",
-      "texto": "E quem lhes daria ouvidos nisso? Porque a mesma parte que cabe aos que foram à batalha será também a parte dos que ficaram com a bagagem; receberão partes iguais."
-    },
-    "25": {
-      "título": "",
-      "texto": "E assim, desde aquele dia em diante, isso foi estabelecido por estatuto e direito em Israel, até o dia de hoje."
-    },
-    "26": {
-      "título": "",
-      "texto": "Quando Davi chegou a Ziclague, enviou parte do despojo aos anciãos de Judá, seus amigos, dizendo:"
-    },
-    "27": {
-      "título": "",
-      "texto": "Ele enviou esse presente aos anciãos de Betel, de Ramote do Neguebe, de Jatir,"
-    },
-    "28": {
-      "título": "",
-      "texto": "de Aroer, de Sifmote, de Estemoa,"
-    },
-    "29": {
-      "título": "",
-      "texto": "de Racal, das cidades dos jerameelitas e dos queneus,"
-    },
-    "30": {
-      "título": "",
-      "texto": "de Horma, de Borasã, de Atace,"
-    },
-    "31": {
-      "título": "",
-      "texto": "de Hebrom e de todos os lugares em que Davi tinha passado, ele e os seus homens."
+    "versiculos": {
+        "1": "Aconteceu que, ao terceiro dia, quando Davi e os seus homens chegaram a Ziclague, os amalequitas já tinham invadido o Sul e a cidade de Ziclague. Tomaram Ziclague e a incendiaram.",
+        "2": "Levaram cativas as mulheres que lá estavam, mas não mataram ninguém, nem pequenos nem grandes; tão somente os levaram consigo e foram embora.",
+        "3": "Davi e os seus homens chegaram à cidade, e viram que tinha sido queimada, e que as suas mulheres, os seus filhos e as suas filhas haviam sido levados cativos.",
+        "4": "Então Davi e o povo que estava com ele ergueram a voz e choraram, até não terem mais forças para chorar.",
+        "5": "Também as duas mulheres de Davi tinham sido levadas: Ainoã, a jezreelita, e Abigail, a viúva de Nabal, o carmelita.",
+        "6": "Davi ficou muito angustiado, pois o povo falava de apedrejá-lo, porque todos estavam amargurados, cada um por causa de seus filhos e suas filhas. Mas Davi se reanimou no Senhor , seu Deus.",
+        "7": "Davi disse a Abiatar, o sacerdote, filho de Aimeleque:",
+        "8": "Então Davi consultou o Senhor , dizendo:",
+        "9": "Então Davi partiu, ele e os seiscentos homens que com ele estavam, e chegaram ao ribeiro de Besor, onde os retardatários ficaram.",
+        "10": "Davi e quatrocentos homens continuaram a perseguição, mas duzentos ficaram atrás, por não poderem passar o ribeiro de Besor, de tão cansados que estavam.",
+        "11": "Encontraram no campo um homem egípcio e o trouxeram a Davi. Deram-lhe pão, e ele comeu, e deram-lhe água para beber.",
+        "12": "Deram-lhe também um pedaço de pasta de figos secos e dois cachos de passas, e ele comeu. Assim, recobrou as forças, pois havia três dias e três noites que não comia pão, nem bebia água.",
+        "13": "Então Davi lhe perguntou:",
+        "14": "Nós invadimos o lado sul dos queretitas, o território de Judá e o lado sul de Calebe e pusemos fogo em Ziclague.",
+        "15": "Então Davi lhe perguntou:",
+        "16": "E ele levou Davi até lá. Eis que os amalequitas estavam espalhados por toda a região, comendo, bebendo e fazendo festa por todo aquele grande despojo que tomaram da terra dos filisteus e da terra de Judá.",
+        "17": "Davi os atacou e lutou contra eles, desde o crepúsculo até a tarde do dia seguinte, e nenhum deles escapou, a não ser quatrocentos moços que montaram em camelos e fugiram.",
+        "18": "Assim, Davi salvou tudo o que os amalequitas tinham levado. Também salvou as suas duas mulheres.",
+        "19": "Não lhes faltou coisa alguma, nem pequena nem grande, nem os filhos, nem as filhas, nem o despojo, nada do que lhes haviam tomado: Davi trouxe tudo de volta.",
+        "20": "Davi também tomou todas as ovelhas e o gado. Então levaram esses animais diante de Davi e disseram:",
+        "21": "Quando Davi se aproximou dos duzentos homens que, de tão cansados que estavam, não o puderam seguir e ficaram no ribeiro de Besor, estes saíram ao encontro de Davi e do povo que vinha com ele. Davi se aproximou deles e os saudou cordialmente.",
+        "22": "Então todos os perversos e malignos, dentre os homens que tinham ido com Davi, disseram:",
+        "23": "Porém Davi disse:",
+        "24": "E quem lhes daria ouvidos nisso? Porque a mesma parte que cabe aos que foram à batalha será também a parte dos que ficaram com a bagagem; receberão partes iguais.",
+        "25": "E assim, desde aquele dia em diante, isso foi estabelecido por estatuto e direito em Israel, até o dia de hoje.",
+        "26": "Quando Davi chegou a Ziclague, enviou parte do despojo aos anciãos de Judá, seus amigos, dizendo:",
+        "27": "Ele enviou esse presente aos anciãos de Betel, de Ramote do Neguebe, de Jatir,",
+        "28": "de Aroer, de Sifmote, de Estemoa,",
+        "29": "de Racal, das cidades dos jerameelitas e dos queneus,",
+        "30": "de Horma, de Borasã, de Atace,",
+        "31": "de Hebrom e de todos os lugares em que Davi tinha passado, ele e os seus homens."
     }
-  }
 }

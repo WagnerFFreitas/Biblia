@@ -1,82 +1,28 @@
 {
-  "livro": "Salmos",
-  "capítulo": 80,
-  "versículos": {
-    "1": {
-      "título": "Oração pela restauração de Israel",
-      "texto": "Dá ouvidos, ó pastor de Israel,"
+    "livro": "Salmos",
+    "capitulo": 80,
+    "titulos": {
+        "1": "Oração pela restauração de Israel"
     },
-    "2": {
-      "título": "",
-      "texto": "Diante de Efraim,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Restaura-nos, ó Deus;"
-    },
-    "4": {
-      "título": "",
-      "texto": "Ó Senhor , Deus dos Exércitos,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Para comer, tu lhe deste"
-    },
-    "6": {
-      "título": "",
-      "texto": "Fizeste de nós"
-    },
-    "7": {
-      "título": "",
-      "texto": "Restaura-nos,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Trouxeste uma videira do Egito;"
-    },
-    "9": {
-      "título": "",
-      "texto": "Preparaste-lhe o terreno,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Com a sombra dela"
-    },
-    "11": {
-      "título": "",
-      "texto": "Ela estendeu a sua ramagem"
-    },
-    "12": {
-      "título": "",
-      "texto": "Por que derrubaste as cercas"
-    },
-    "13": {
-      "título": "",
-      "texto": "O javali da selva a devasta,"
-    },
-    "14": {
-      "título": "",
-      "texto": "Ó Deus dos Exércitos,"
-    },
-    "15": {
-      "título": "",
-      "texto": "Protege o que"
-    },
-    "16": {
-      "título": "",
-      "texto": "Foi cortada, foi queimada."
-    },
-    "17": {
-      "título": "",
-      "texto": "Seja a tua mão sobre aquele"
-    },
-    "18": {
-      "título": "",
-      "texto": "E assim não nos afastaremos de ti."
-    },
-    "19": {
-      "título": "",
-      "texto": "Restaura-nos, ó Senhor ,"
+    "versiculos": {
+        "1": "Dá ouvidos, ó pastor de Israel,",
+        "2": "Diante de Efraim,",
+        "3": "Restaura-nos, ó Deus;",
+        "4": "Ó Senhor , Deus dos Exércitos,",
+        "5": "Para comer, tu lhe deste",
+        "6": "Fizeste de nós",
+        "7": "Restaura-nos,",
+        "8": "Trouxeste uma videira do Egito;",
+        "9": "Preparaste-lhe o terreno,",
+        "10": "Com a sombra dela",
+        "11": "Ela estendeu a sua ramagem",
+        "12": "Por que derrubaste as cercas",
+        "13": "O javali da selva a devasta,",
+        "14": "Ó Deus dos Exércitos,",
+        "15": "Protege o que",
+        "16": "Foi cortada, foi queimada.",
+        "17": "Seja a tua mão sobre aquele",
+        "18": "E assim não nos afastaremos de ti.",
+        "19": "Restaura-nos, ó Senhor ,"
     }
-  }
 }

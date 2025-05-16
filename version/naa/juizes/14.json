@@ -1,86 +1,30 @@
 {
-  "livro": "Juízes",
-  "capítulo": 14,
-  "versículos": {
-    "1": {
-      "título": "O casamento de Sansão",
-      "texto": "Sansão foi a Timna, onde viu uma das filhas dos filisteus."
+    "livro": "Juízes",
+    "capitulo": 14,
+    "titulos": {
+        "1": "O casamento de Sansão",
+        "10": "O enigma de Sansão"
     },
-    "2": {
-      "título": "",
-      "texto": "Voltou para casa e disse ao seu pai e à sua mãe:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Porém o seu pai e a sua mãe lhe disseram:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Mas o seu pai e a sua mãe não sabiam que isto vinha do Senhor , pois este procurava ocasião contra os filisteus. Porque naquele tempo os filisteus dominavam sobre Israel."
-    },
-    "5": {
-      "título": "",
-      "texto": "Sansão foi com o seu pai e a sua mãe a Timna. Quando chegaram às vinhas de Timna, eis que um leão novo, rugindo, saiu ao encontro dele."
-    },
-    "6": {
-      "título": "",
-      "texto": "Então o Espírito do Senhor de tal maneira se apossou de Sansão, que ele rasgou o leão como quem rasga um cabrito, sem nada ter nas mãos. Sansão, no entanto, não contou nem a seu pai nem a sua mãe o que havia feito."
-    },
-    "7": {
-      "título": "",
-      "texto": "Então ele foi e falou com aquela mulher, e dela se agradou."
-    },
-    "8": {
-      "título": "",
-      "texto": "Depois de alguns dias, voltou para casar com ela. E, afastando-se do caminho para ver o corpo do leão morto, eis que havia nele um enxame de abelhas com mel."
-    },
-    "9": {
-      "título": "",
-      "texto": "Pegou o favo nas mãos e se foi andando e comendo dele. Quando chegou onde estavam o seu pai e a sua mãe, deu-lhes um pouco do mel, e eles comeram. Mas Sansão não lhes contou que havia tirado o mel do corpo do leão."
-    },
-    "10": {
-      "título": "O enigma de Sansão",
-      "texto": "O pai de Sansão foi à casa daquela mulher, e Sansão deu ali um banquete, como os moços costumavam fazer."
-    },
-    "11": {
-      "título": "",
-      "texto": "Quando os filisteus viram Sansão, convidaram trinta companheiros para estarem com ele."
-    },
-    "12": {
-      "título": "",
-      "texto": "Então Sansão lhes disse:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Se não puderem me explicar o significado, vocês me darão as trinta túnicas e as trinta mudas de roupa."
-    },
-    "14": {
-      "título": "",
-      "texto": "Sansão disse:"
-    },
-    "15": {
-      "título": "",
-      "texto": "No quarto dia, disseram à mulher de Sansão:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Então a mulher de Sansão chorou diante dele e disse:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Ela chorou diante dele os sete dias em que celebravam as bodas. No sétimo dia, Sansão disse a resposta, porque ela não parava de importunar. Então ela declarou o enigma aos homens do seu povo."
-    },
-    "18": {
-      "título": "",
-      "texto": "Assim, no sétimo dia, antes do pôr do sol, os homens daquela cidade disseram a Sansão:"
-    },
-    "19": {
-      "título": "",
-      "texto": "Então o Espírito do Senhor de tal maneira se apossou de Sansão, que ele desceu até Asquelom, matou trinta homens daquela cidade, pegou as roupas deles e as deu aos que decifraram o enigma. Porém Sansão ficou irado e voltou para a casa do seu pai."
-    },
-    "20": {
-      "título": "",
-      "texto": "Quanto à mulher de Sansão, foi dada em casamento ao homem que tinha sido o seu amigo de honra."
+    "versiculos": {
+        "1": "Sansão foi a Timna, onde viu uma das filhas dos filisteus.",
+        "2": "Voltou para casa e disse ao seu pai e à sua mãe:",
+        "3": "Porém o seu pai e a sua mãe lhe disseram:",
+        "4": "Mas o seu pai e a sua mãe não sabiam que isto vinha do Senhor , pois este procurava ocasião contra os filisteus. Porque naquele tempo os filisteus dominavam sobre Israel.",
+        "5": "Sansão foi com o seu pai e a sua mãe a Timna. Quando chegaram às vinhas de Timna, eis que um leão novo, rugindo, saiu ao encontro dele.",
+        "6": "Então o Espírito do Senhor de tal maneira se apossou de Sansão, que ele rasgou o leão como quem rasga um cabrito, sem nada ter nas mãos. Sansão, no entanto, não contou nem a seu pai nem a sua mãe o que havia feito.",
+        "7": "Então ele foi e falou com aquela mulher, e dela se agradou.",
+        "8": "Depois de alguns dias, voltou para casar com ela. E, afastando-se do caminho para ver o corpo do leão morto, eis que havia nele um enxame de abelhas com mel.",
+        "9": "Pegou o favo nas mãos e se foi andando e comendo dele. Quando chegou onde estavam o seu pai e a sua mãe, deu-lhes um pouco do mel, e eles comeram. Mas Sansão não lhes contou que havia tirado o mel do corpo do leão.",
+        "10": "O pai de Sansão foi à casa daquela mulher, e Sansão deu ali um banquete, como os moços costumavam fazer.",
+        "11": "Quando os filisteus viram Sansão, convidaram trinta companheiros para estarem com ele.",
+        "12": "Então Sansão lhes disse:",
+        "13": "Se não puderem me explicar o significado, vocês me darão as trinta túnicas e as trinta mudas de roupa.",
+        "14": "Sansão disse:",
+        "15": "No quarto dia, disseram à mulher de Sansão:",
+        "16": "Então a mulher de Sansão chorou diante dele e disse:",
+        "17": "Ela chorou diante dele os sete dias em que celebravam as bodas. No sétimo dia, Sansão disse a resposta, porque ela não parava de importunar. Então ela declarou o enigma aos homens do seu povo.",
+        "18": "Assim, no sétimo dia, antes do pôr do sol, os homens daquela cidade disseram a Sansão:",
+        "19": "Então o Espírito do Senhor de tal maneira se apossou de Sansão, que ele desceu até Asquelom, matou trinta homens daquela cidade, pegou as roupas deles e as deu aos que decifraram o enigma. Porém Sansão ficou irado e voltou para a casa do seu pai.",
+        "20": "Quanto à mulher de Sansão, foi dada em casamento ao homem que tinha sido o seu amigo de honra."
     }
-  }
 }

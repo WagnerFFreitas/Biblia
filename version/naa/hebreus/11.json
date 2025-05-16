@@ -1,166 +1,53 @@
 {
-  "livro": "Hebreus",
-  "capítulo": 11,
-  "versículos": {
-    "1": {
-      "título": "A natureza da fé",
-      "texto": "Ora, a fé é a certeza de coisas que se esperam, a convicção de fatos que não se veem."
+    "livro": "Hebreus",
+    "capitulo": 11,
+    "titulos": {
+        "1": "A natureza da fé",
+        "4": "Os primeiros heróis",
+        "8": "Os patriarcas",
+        "23": "Moisés",
+        "30": "Os israelitas em Canaã"
     },
-    "2": {
-      "título": "",
-      "texto": "Pois, pela fé, os antigos obtiveram bom testemunho."
-    },
-    "3": {
-      "título": "",
-      "texto": "Pela fé, entendemos que o universo foi formado pela palavra de Deus, de maneira que o visível veio a existir das coisas que não são visíveis."
-    },
-    "4": {
-      "título": "Os primeiros heróis",
-      "texto": "Pela fé, Abel ofereceu a Deus um sacrifício mais excelente do que Caim, pelo qual obteve testemunho de ser justo, tendo a aprovação de Deus quanto às suas ofertas. Por meio da fé, mesmo depois de morto, ainda fala."
-    },
-    "5": {
-      "título": "",
-      "texto": "Pela fé, Enoque foi levado a fim de não passar pela morte; não foi achado, porque Deus o havia levado. Pois, antes de ser levado, obteve testemunho de que havia agradado a Deus."
-    },
-    "6": {
-      "título": "",
-      "texto": "De fato, sem fé é impossível agradar a Deus, porque é necessário que aquele que se aproxima de Deus creia que ele existe e que recompensa os que o buscam."
-    },
-    "7": {
-      "título": "",
-      "texto": "Pela fé, Noé, divinamente instruído a respeito de acontecimentos que ainda não se viam e sendo temente a Deus, construiu uma arca para a salvação de sua família. Assim, ele condenou o mundo e se tornou herdeiro da justiça que vem da fé."
-    },
-    "8": {
-      "título": "Os patriarcas",
-      "texto": "Pela fé, Abraão, quando chamado, obedeceu, a fim de ir para um lugar que devia receber como herança; e partiu sem saber para onde ia."
-    },
-    "9": {
-      "título": "",
-      "texto": "Pela fé, peregrinou na terra da promessa como em terra alheia, habitando em tendas com Isaque e Jacó, herdeiros com ele da mesma promessa."
-    },
-    "10": {
-      "título": "",
-      "texto": "Porque Abraão aguardava a cidade que tem fundamentos, da qual Deus é o arquiteto e construtor."
-    },
-    "11": {
-      "título": "",
-      "texto": "Pela fé, também, a própria Sara, apesar de não poder ter filhos e já ser idosa, recebeu poder para ser mãe, pois considerou fiel aquele que lhe havia feito a promessa."
-    },
-    "12": {
-      "título": "",
-      "texto": "Por isso, também de um só homem, praticamente morto, saiu uma posteridade tão numerosa como as estrelas do céu e inumerável como a areia que está na praia do mar."
-    },
-    "13": {
-      "título": "",
-      "texto": "Todos estes morreram na fé. Não obtiveram as promessas, mas viram-nas de longe e se alegraram com elas, confessando que eram estrangeiros e peregrinos na terra."
-    },
-    "14": {
-      "título": "",
-      "texto": "Porque os que falam desse modo manifestam estar procurando uma pátria."
-    },
-    "15": {
-      "título": "",
-      "texto": "E, se, na verdade, se lembrassem daquela de onde saíram, teriam oportunidade de voltar."
-    },
-    "16": {
-      "título": "",
-      "texto": "Mas, agora, desejam uma pátria superior, isto é, celestial. Por isso, Deus não se envergonha deles, de ser chamado o seu Deus, porque lhes preparou uma cidade."
-    },
-    "17": {
-      "título": "",
-      "texto": "Pela fé, Abraão, quando posto à prova, ofereceu Isaque. Aquele que acolheu as promessas de Deus estava a ponto de sacrificar o seu único filho,"
-    },
-    "18": {
-      "título": "",
-      "texto": "do qual havia sido dito: “A sua descendência virá por meio de Isaque.”"
-    },
-    "19": {
-      "título": "",
-      "texto": "Abraão considerou que Deus era poderoso até para ressuscitar Isaque dentre os mortos, de onde também figuradamente o recebeu de volta."
-    },
-    "20": {
-      "título": "",
-      "texto": "Pela fé, igualmente Isaque abençoou Jacó e Esaú, a respeito de coisas que ainda estavam para vir."
-    },
-    "21": {
-      "título": "",
-      "texto": "Pela fé, Jacó, quando estava para morrer, abençoou cada um dos filhos de José e, apoiado sobre a extremidade do seu bordão, adorou a Deus."
-    },
-    "22": {
-      "título": "",
-      "texto": "Pela fé, José, próximo do seu fim, fez menção do êxodo dos filhos de Israel, bem como deu ordens a respeito de seus próprios ossos."
-    },
-    "23": {
-      "título": "Moisés",
-      "texto": "Pela fé, Moisés, depois de nascer, foi escondido por seus pais durante três meses, porque viram que era um menino bonito e não temeram o decreto do rei."
-    },
-    "24": {
-      "título": "",
-      "texto": "Pela fé, Moisés, sendo homem feito, recusou ser chamado filho da filha de Faraó,"
-    },
-    "25": {
-      "título": "",
-      "texto": "preferindo ser maltratado junto com o povo de Deus a usufruir prazeres transitórios do pecado."
-    },
-    "26": {
-      "título": "",
-      "texto": "Ele entendeu que ser desprezado por causa de Cristo era uma riqueza maior do que os tesouros do Egito, porque contemplava a recompensa."
-    },
-    "27": {
-      "título": "",
-      "texto": "Pela fé, Moisés abandonou o Egito, não ficando amedrontado com a ira do rei, pois permaneceu firme como quem vê aquele que é invisível."
-    },
-    "28": {
-      "título": "",
-      "texto": "Pela fé, celebrou a Páscoa e o derramamento do sangue, para que o exterminador não tocasse nos primogênitos dos israelitas."
-    },
-    "29": {
-      "título": "",
-      "texto": "Pela fé, os israelitas atravessaram o mar Vermelho como por terra seca. Quando os egípcios tentaram fazer o mesmo, foram engolidos pelo mar."
-    },
-    "30": {
-      "título": "Os israelitas em Canaã",
-      "texto": "Pela fé, ruíram as muralhas de Jericó, depois de rodeadas por sete dias."
-    },
-    "31": {
-      "título": "",
-      "texto": "Pela fé, Raabe, a prostituta, não foi destruída com os desobedientes, porque acolheu os espias com paz."
-    },
-    "32": {
-      "título": "",
-      "texto": "E que mais direi? Certamente me faltará o tempo necessário para falar de Gideão, de Baraque, de Sansão, de Jefté, de Davi, de Samuel e dos profetas,"
-    },
-    "33": {
-      "título": "",
-      "texto": "os quais, por meio da fé, conquistaram reinos, praticaram a justiça, obtiveram promessas, fecharam a boca de leões,"
-    },
-    "34": {
-      "título": "",
-      "texto": "extinguiram a violência do fogo, escaparam de ser mortos à espada, da fraqueza tiraram força, fizeram-se poderosos na guerra, puseram em fuga exércitos estrangeiros."
-    },
-    "35": {
-      "título": "",
-      "texto": "Mulheres receberam, pela ressurreição, os seus mortos."
-    },
-    "36": {
-      "título": "",
-      "texto": "outros, por sua vez, passaram pela prova de zombarias e açoites, sim, até de algemas e prisões."
-    },
-    "37": {
-      "título": "",
-      "texto": "Foram apedrejados, serrados ao meio, mortos ao fio da espada. Andaram como peregrinos, vestidos de peles de ovelhas e de cabras; passaram por necessidades, foram afligidos e maltratados."
-    },
-    "38": {
-      "título": "",
-      "texto": "O mundo não era digno deles. Andaram errantes pelos desertos, pelos montes, pelas covas, pelos antros da terra."
-    },
-    "39": {
-      "título": "",
-      "texto": "Todos estes, mesmo tendo obtido bom testemunho por meio da fé, não obtiveram a concretização da promessa,"
-    },
-    "40": {
-      "título": "",
-      "texto": "porque Deus tinha previsto algo melhor para nós, para que eles, sem nós, não fossem aperfeiçoados."
+    "versiculos": {
+        "1": "Ora, a fé é a certeza de coisas que se esperam, a convicção de fatos que não se veem.",
+        "2": "Pois, pela fé, os antigos obtiveram bom testemunho.",
+        "3": "Pela fé, entendemos que o universo foi formado pela palavra de Deus, de maneira que o visível veio a existir das coisas que não são visíveis.",
+        "4": "Pela fé, Abel ofereceu a Deus um sacrifício mais excelente do que Caim, pelo qual obteve testemunho de ser justo, tendo a aprovação de Deus quanto às suas ofertas. Por meio da fé, mesmo depois de morto, ainda fala.",
+        "5": "Pela fé, Enoque foi levado a fim de não passar pela morte; não foi achado, porque Deus o havia levado. Pois, antes de ser levado, obteve testemunho de que havia agradado a Deus.",
+        "6": "De fato, sem fé é impossível agradar a Deus, porque é necessário que aquele que se aproxima de Deus creia que ele existe e que recompensa os que o buscam.",
+        "7": "Pela fé, Noé, divinamente instruído a respeito de acontecimentos que ainda não se viam e sendo temente a Deus, construiu uma arca para a salvação de sua família. Assim, ele condenou o mundo e se tornou herdeiro da justiça que vem da fé.",
+        "8": "Pela fé, Abraão, quando chamado, obedeceu, a fim de ir para um lugar que devia receber como herança; e partiu sem saber para onde ia.",
+        "9": "Pela fé, peregrinou na terra da promessa como em terra alheia, habitando em tendas com Isaque e Jacó, herdeiros com ele da mesma promessa.",
+        "10": "Porque Abraão aguardava a cidade que tem fundamentos, da qual Deus é o arquiteto e construtor.",
+        "11": "Pela fé, também, a própria Sara, apesar de não poder ter filhos e já ser idosa, recebeu poder para ser mãe, pois considerou fiel aquele que lhe havia feito a promessa.",
+        "12": "Por isso, também de um só homem, praticamente morto, saiu uma posteridade tão numerosa como as estrelas do céu e inumerável como a areia que está na praia do mar.",
+        "13": "Todos estes morreram na fé. Não obtiveram as promessas, mas viram-nas de longe e se alegraram com elas, confessando que eram estrangeiros e peregrinos na terra.",
+        "14": "Porque os que falam desse modo manifestam estar procurando uma pátria.",
+        "15": "E, se, na verdade, se lembrassem daquela de onde saíram, teriam oportunidade de voltar.",
+        "16": "Mas, agora, desejam uma pátria superior, isto é, celestial. Por isso, Deus não se envergonha deles, de ser chamado o seu Deus, porque lhes preparou uma cidade.",
+        "17": "Pela fé, Abraão, quando posto à prova, ofereceu Isaque. Aquele que acolheu as promessas de Deus estava a ponto de sacrificar o seu único filho,",
+        "18": "do qual havia sido dito: “A sua descendência virá por meio de Isaque.”",
+        "19": "Abraão considerou que Deus era poderoso até para ressuscitar Isaque dentre os mortos, de onde também figuradamente o recebeu de volta.",
+        "20": "Pela fé, igualmente Isaque abençoou Jacó e Esaú, a respeito de coisas que ainda estavam para vir.",
+        "21": "Pela fé, Jacó, quando estava para morrer, abençoou cada um dos filhos de José e, apoiado sobre a extremidade do seu bordão, adorou a Deus.",
+        "22": "Pela fé, José, próximo do seu fim, fez menção do êxodo dos filhos de Israel, bem como deu ordens a respeito de seus próprios ossos.",
+        "23": "Pela fé, Moisés, depois de nascer, foi escondido por seus pais durante três meses, porque viram que era um menino bonito e não temeram o decreto do rei.",
+        "24": "Pela fé, Moisés, sendo homem feito, recusou ser chamado filho da filha de Faraó,",
+        "25": "preferindo ser maltratado junto com o povo de Deus a usufruir prazeres transitórios do pecado.",
+        "26": "Ele entendeu que ser desprezado por causa de Cristo era uma riqueza maior do que os tesouros do Egito, porque contemplava a recompensa.",
+        "27": "Pela fé, Moisés abandonou o Egito, não ficando amedrontado com a ira do rei, pois permaneceu firme como quem vê aquele que é invisível.",
+        "28": "Pela fé, celebrou a Páscoa e o derramamento do sangue, para que o exterminador não tocasse nos primogênitos dos israelitas.",
+        "29": "Pela fé, os israelitas atravessaram o mar Vermelho como por terra seca. Quando os egípcios tentaram fazer o mesmo, foram engolidos pelo mar.",
+        "30": "Pela fé, ruíram as muralhas de Jericó, depois de rodeadas por sete dias.",
+        "31": "Pela fé, Raabe, a prostituta, não foi destruída com os desobedientes, porque acolheu os espias com paz.",
+        "32": "E que mais direi? Certamente me faltará o tempo necessário para falar de Gideão, de Baraque, de Sansão, de Jefté, de Davi, de Samuel e dos profetas,",
+        "33": "os quais, por meio da fé, conquistaram reinos, praticaram a justiça, obtiveram promessas, fecharam a boca de leões,",
+        "34": "extinguiram a violência do fogo, escaparam de ser mortos à espada, da fraqueza tiraram força, fizeram-se poderosos na guerra, puseram em fuga exércitos estrangeiros.",
+        "35": "Mulheres receberam, pela ressurreição, os seus mortos.",
+        "36": "outros, por sua vez, passaram pela prova de zombarias e açoites, sim, até de algemas e prisões.",
+        "37": "Foram apedrejados, serrados ao meio, mortos ao fio da espada. Andaram como peregrinos, vestidos de peles de ovelhas e de cabras; passaram por necessidades, foram afligidos e maltratados.",
+        "38": "O mundo não era digno deles. Andaram errantes pelos desertos, pelos montes, pelas covas, pelos antros da terra.",
+        "39": "Todos estes, mesmo tendo obtido bom testemunho por meio da fé, não obtiveram a concretização da promessa,",
+        "40": "porque Deus tinha previsto algo melhor para nós, para que eles, sem nós, não fossem aperfeiçoados."
     }
-  }
 }

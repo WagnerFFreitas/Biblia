@@ -1,106 +1,36 @@
 {
-  "livro": "Êxodo",
-  "capítulo": 2,
-  "versículos": {
-    "1": {
-      "título": "O nascimento de Moisés",
-      "texto": "Um homem da casa de Levi casou com uma mulher da mesma tribo."
+    "livro": "Êxodo",
+    "capitulo": 2,
+    "titulos": {
+        "1": "O nascimento de Moisés",
+        "11": "Moisés foge do Egito",
+        "23": "O sofrimento do povo"
     },
-    "2": {
-      "título": "",
-      "texto": "A mulher ficou grávida e deu à luz um filho. Vendo que o menino era bonito, escondeu-o durante três meses."
-    },
-    "3": {
-      "título": "",
-      "texto": "Não podendo, porém, escondê-lo por mais tempo, pegou um cesto de junco, tapou os buracos com betume e piche e, pondo nele o menino, largou o cesto no meio dos juncos à beira do rio."
-    },
-    "4": {
-      "título": "",
-      "texto": "A irmã do menino ficou de longe, para ver o que ia acontecer com ele."
-    },
-    "5": {
-      "título": "",
-      "texto": "A filha de Faraó desceu para se banhar no rio, e as moças que tinham vindo com ela passeavam pela margem. Quando ela viu o cesto no meio dos juncos, mandou que uma das criadas fosse buscá-lo."
-    },
-    "6": {
-      "título": "",
-      "texto": "Abrindo o cesto, viu a criança; e eis que o menino chorava. Ela teve compaixão dele e disse:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Então a irmã do menino perguntou à filha de Faraó:"
-    },
-    "8": {
-      "título": "",
-      "texto": "A filha de Faraó respondeu:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Então a filha de Faraó disse à mulher:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Quando o menino já era grande, ela o levou à filha de Faraó, da qual ele passou a ser filho. Esta lhe deu o nome de Moisés e disse:"
-    },
-    "11": {
-      "título": "Moisés foge do Egito",
-      "texto": "Naqueles dias, sendo Moisés já homem feito, saiu para visitar os seus irmãos e viu o trabalho pesado que faziam. Viu também que certo egípcio espancava um hebreu, um do seu povo."
-    },
-    "12": {
-      "título": "",
-      "texto": "Olhou para todos os lados e, vendo que não havia ali ninguém, matou o egípcio e escondeu o corpo na areia."
-    },
-    "13": {
-      "título": "",
-      "texto": "Moisés saiu no dia seguinte, e eis que dois hebreus estavam brigando. Então perguntou ao culpado:"
-    },
-    "14": {
-      "título": "",
-      "texto": "O homem respondeu:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Informado desse caso, Faraó quis matar Moisés; porém Moisés fugiu da presença de Faraó e foi morar na terra de Midiã."
-    },
-    "16": {
-      "título": "",
-      "texto": "O sacerdote de Midiã tinha sete filhas, as quais vieram tirar água e encheram os bebedouros para dar de beber ao rebanho de seu pai."
-    },
-    "17": {
-      "título": "",
-      "texto": "Então vieram os pastores e as expulsaram dali. Moisés, porém, se levantou, e as defendeu, e deu de beber ao rebanho."
-    },
-    "18": {
-      "título": "",
-      "texto": "Quando elas voltaram para junto de Reuel, seu pai, este lhes perguntou:"
-    },
-    "19": {
-      "título": "",
-      "texto": "Elas responderam:"
-    },
-    "20": {
-      "título": "",
-      "texto": "Então Reuel disse às filhas:"
-    },
-    "21": {
-      "título": "",
-      "texto": "Moisés consentiu em morar com aquele homem; e ele deu a Moisés sua filha Zípora,"
-    },
-    "22": {
-      "título": "",
-      "texto": "a qual deu à luz um filho, a quem Moisés deu o nome de Gérson, porque disse:"
-    },
-    "23": {
-      "título": "O sofrimento do povo",
-      "texto": "Decorridos muitos dias, o rei do Egito morreu. Os filhos de Israel gemiam por causa da sua escravidão. Eles clamaram, e o seu clamor chegou até Deus."
-    },
-    "24": {
-      "título": "",
-      "texto": "Deus ouviu o gemido deles e lembrou-se da sua aliança com Abraão, com Isaque e com Jacó."
-    },
-    "25": {
-      "título": "",
-      "texto": "E Deus viu os filhos de Israel e atentou para a situação deles."
+    "versiculos": {
+        "1": "Um homem da casa de Levi casou com uma mulher da mesma tribo.",
+        "2": "A mulher ficou grávida e deu à luz um filho. Vendo que o menino era bonito, escondeu-o durante três meses.",
+        "3": "Não podendo, porém, escondê-lo por mais tempo, pegou um cesto de junco, tapou os buracos com betume e piche e, pondo nele o menino, largou o cesto no meio dos juncos à beira do rio.",
+        "4": "A irmã do menino ficou de longe, para ver o que ia acontecer com ele.",
+        "5": "A filha de Faraó desceu para se banhar no rio, e as moças que tinham vindo com ela passeavam pela margem. Quando ela viu o cesto no meio dos juncos, mandou que uma das criadas fosse buscá-lo.",
+        "6": "Abrindo o cesto, viu a criança; e eis que o menino chorava. Ela teve compaixão dele e disse:",
+        "7": "Então a irmã do menino perguntou à filha de Faraó:",
+        "8": "A filha de Faraó respondeu:",
+        "9": "Então a filha de Faraó disse à mulher:",
+        "10": "Quando o menino já era grande, ela o levou à filha de Faraó, da qual ele passou a ser filho. Esta lhe deu o nome de Moisés e disse:",
+        "11": "Naqueles dias, sendo Moisés já homem feito, saiu para visitar os seus irmãos e viu o trabalho pesado que faziam. Viu também que certo egípcio espancava um hebreu, um do seu povo.",
+        "12": "Olhou para todos os lados e, vendo que não havia ali ninguém, matou o egípcio e escondeu o corpo na areia.",
+        "13": "Moisés saiu no dia seguinte, e eis que dois hebreus estavam brigando. Então perguntou ao culpado:",
+        "14": "O homem respondeu:",
+        "15": "Informado desse caso, Faraó quis matar Moisés; porém Moisés fugiu da presença de Faraó e foi morar na terra de Midiã.",
+        "16": "O sacerdote de Midiã tinha sete filhas, as quais vieram tirar água e encheram os bebedouros para dar de beber ao rebanho de seu pai.",
+        "17": "Então vieram os pastores e as expulsaram dali. Moisés, porém, se levantou, e as defendeu, e deu de beber ao rebanho.",
+        "18": "Quando elas voltaram para junto de Reuel, seu pai, este lhes perguntou:",
+        "19": "Elas responderam:",
+        "20": "Então Reuel disse às filhas:",
+        "21": "Moisés consentiu em morar com aquele homem; e ele deu a Moisés sua filha Zípora,",
+        "22": "a qual deu à luz um filho, a quem Moisés deu o nome de Gérson, porque disse:",
+        "23": "Decorridos muitos dias, o rei do Egito morreu. Os filhos de Israel gemiam por causa da sua escravidão. Eles clamaram, e o seu clamor chegou até Deus.",
+        "24": "Deus ouviu o gemido deles e lembrou-se da sua aliança com Abraão, com Isaque e com Jacó.",
+        "25": "E Deus viu os filhos de Israel e atentou para a situação deles."
     }
-  }
 }

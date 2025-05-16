@@ -1,62 +1,24 @@
 {
-  "livro": "Ezequiel",
-  "capítulo": 19,
-  "versículos": {
-    "1": {
-      "título": "A parábola do leão enjaulado",
-      "texto": "— Quanto a você, faça uma lamentação sobre os príncipes de Israel."
+    "livro": "Ezequiel",
+    "capitulo": 19,
+    "titulos": {
+        "1": "A parábola do leão enjaulado",
+        "10": "A parábola da videira arruinada"
     },
-    "2": {
-      "título": "",
-      "texto": "Diga:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Criou um dos seus filhotinhos, que,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Quando as nações"
-    },
-    "5": {
-      "título": "",
-      "texto": "Vendo frustrada"
-    },
-    "6": {
-      "título": "",
-      "texto": "Este, andando entre os leões,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Destruiu palácios"
-    },
-    "8": {
-      "título": "",
-      "texto": "Então se ajuntaram contra ele"
-    },
-    "9": {
-      "título": "",
-      "texto": "Com ganchos, meteram-no"
-    },
-    "10": {
-      "título": "A parábola da videira arruinada",
-      "texto": "“Sua mãe era como uma videira"
-    },
-    "11": {
-      "título": "",
-      "texto": "Os galhos fortes se tornaram"
-    },
-    "12": {
-      "título": "",
-      "texto": "Mas ela foi arrancada com furor"
-    },
-    "13": {
-      "título": "",
-      "texto": "Agora, a videira está plantada"
-    },
-    "14": {
-      "título": "",
-      "texto": "Do ramo principal saiu fogo"
+    "versiculos": {
+        "1": "— Quanto a você, faça uma lamentação sobre os príncipes de Israel.",
+        "2": "Diga:",
+        "3": "Criou um dos seus filhotinhos, que,",
+        "4": "Quando as nações",
+        "5": "Vendo frustrada",
+        "6": "Este, andando entre os leões,",
+        "7": "Destruiu palácios",
+        "8": "Então se ajuntaram contra ele",
+        "9": "Com ganchos, meteram-no",
+        "10": "“Sua mãe era como uma videira",
+        "11": "Os galhos fortes se tornaram",
+        "12": "Mas ela foi arrancada com furor",
+        "13": "Agora, a videira está plantada",
+        "14": "Do ramo principal saiu fogo"
     }
-  }
 }

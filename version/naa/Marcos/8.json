@@ -1,158 +1,53 @@
 {
-  "livro": "Marcos",
-  "capítulo": 8,
-  "versículos": {
-    "1": {
-      "título": "A segunda multiplicação de pães e peixes",
-      "texto": "Naqueles dias, quando outra vez se reuniu grande multidão, e não tendo o que comer, Jesus chamou os discípulos e lhes disse:"
+    "livro": "Marcos",
+    "capitulo": 8,
+    "titulos": {
+        "1": "A segunda multiplicação de pães e peixes",
+        "11": "O pedido por um sinal",
+        "14": "O fermento dos fariseus e o fermento de Herodes",
+        "22": "A cura de um cego em Betsaida",
+        "27": "A confissão de Pedro",
+        "31": "Jesus prediz a sua morte e ressurreição",
+        "34": "Tome a sua cruz"
     },
-    "2": {
-      "título": "",
-      "texto": "— Tenho compaixão desta gente, porque já faz três dias que eles estão comigo e não têm o que comer."
-    },
-    "3": {
-      "título": "",
-      "texto": "Se eu os mandar para casa em jejum, desfalecerão pelo caminho; e alguns deles vieram de longe."
-    },
-    "4": {
-      "título": "",
-      "texto": "Mas os discípulos lhe responderam:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Então Jesus perguntou:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Então mandou o povo assentar-se no chão. E, pegando os sete pães, partiu-os, após ter dado graças, e os deu aos seus discípulos, para que estes os distribuíssem, repartindo entre o povo."
-    },
-    "7": {
-      "título": "",
-      "texto": "Tinham também alguns peixinhos. E, abençoando-os, mandou que estes igualmente fossem distribuídos."
-    },
-    "8": {
-      "título": "",
-      "texto": "Comeram e se fartaram; e dos pedaços restantes recolheram sete cestos."
-    },
-    "9": {
-      "título": "",
-      "texto": "Eram cerca de quatro mil homens. Então Jesus os despediu."
-    },
-    "10": {
-      "título": "",
-      "texto": "Logo a seguir, tendo entrado no barco juntamente com os seus discípulos, foi para a região de Dalmanuta."
-    },
-    "11": {
-      "título": "O pedido por um sinal",
-      "texto": "Os fariseus chegaram e começaram a discutir com Jesus. E, tentando-o, pediram-lhe um sinal vindo do céu."
-    },
-    "12": {
-      "título": "",
-      "texto": "Jesus, porém, arrancou do íntimo do seu espírito um gemido e disse:"
-    },
-    "13": {
-      "título": "",
-      "texto": "E, deixando-os, tornou a embarcar e foi para o outro lado."
-    },
-    "14": {
-      "título": "O fermento dos fariseus e o fermento de Herodes",
-      "texto": "Ora, os discípulos se esqueceram de levar pão e, no barco, não tinham consigo senão um só."
-    },
-    "15": {
-      "título": "",
-      "texto": "Jesus os preveniu, dizendo:"
-    },
-    "16": {
-      "título": "",
-      "texto": "E eles começaram a discutir entre si, dizendo:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Jesus percebeu isso e perguntou:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Tendo olhos, não veem? E, tendo ouvidos, não ouvem? Não se lembram"
-    },
-    "19": {
-      "título": "",
-      "texto": "de quando parti os cinco pães para os cinco mil, quantos cestos cheios de pedaços vocês recolheram?"
-    },
-    "20": {
-      "título": "",
-      "texto": "— E de quando parti os sete pães para os quatro mil, quantos cestos cheios de pedaços vocês recolheram?"
-    },
-    "21": {
-      "título": "",
-      "texto": "Ao que Jesus lhes disse:"
-    },
-    "22": {
-      "título": "A cura de um cego em Betsaida",
-      "texto": "Então chegaram a Betsaida. E lhe trouxeram um cego e pediram a Jesus que tocasse nele."
-    },
-    "23": {
-      "título": "",
-      "texto": "Jesus, tomando o cego pela mão, levou-o para fora da aldeia. Então cuspiu nos olhos do homem e, impondo-lhe as mãos, perguntou:"
-    },
-    "24": {
-      "título": "",
-      "texto": "O homem, recuperando a visão, respondeu:"
-    },
-    "25": {
-      "título": "",
-      "texto": "Então Jesus novamente pôs as mãos sobre os olhos dele. E o homem, passando a ver claramente, ficou restabelecido; e distinguia tudo de modo perfeito."
-    },
-    "26": {
-      "título": "",
-      "texto": "E Jesus o mandou para casa, recomendando-lhe:"
-    },
-    "27": {
-      "título": "A confissão de Pedro",
-      "texto": "Então Jesus e os seus discípulos foram para as aldeias de Cesareia de Filipe. No caminho, perguntou-lhes:"
-    },
-    "28": {
-      "título": "",
-      "texto": "Os discípulos responderam:"
-    },
-    "29": {
-      "título": "",
-      "texto": "Então Jesus perguntou:"
-    },
-    "30": {
-      "título": "",
-      "texto": "Então Jesus os advertiu de que a ninguém dissessem tal coisa a seu respeito."
-    },
-    "31": {
-      "título": "Jesus prediz a sua morte e ressurreição",
-      "texto": "Então Jesus começou a ensinar-lhes que era necessário que o Filho do Homem sofresse muitas coisas, fosse rejeitado pelos anciãos, pelos principais sacerdotes e pelos escribas, fosse morto e que, depois de três dias, ressuscitasse."
-    },
-    "32": {
-      "título": "",
-      "texto": "E isto ele expunha claramente. Então Pedro, chamando-o à parte, começou a repreendê-lo."
-    },
-    "33": {
-      "título": "",
-      "texto": "Mas Jesus, voltando-se e vendo os seus discípulos, repreendeu Pedro e disse:"
-    },
-    "34": {
-      "título": "Tome a sua cruz",
-      "texto": "Então, convocando a multidão e juntamente os seus discípulos, Jesus lhes disse:"
-    },
-    "35": {
-      "título": "",
-      "texto": "Pois quem quiser salvar a sua vida a perderá; e quem perder a vida por minha causa e por causa do evangelho, esse a salvará."
-    },
-    "36": {
-      "título": "",
-      "texto": "De que adianta uma pessoa ganhar o mundo inteiro e perder a sua alma?"
-    },
-    "37": {
-      "título": "",
-      "texto": "Que daria uma pessoa em troca de sua alma?"
-    },
-    "38": {
-      "título": "",
-      "texto": "Pois quem, nesta geração adúltera e pecadora, se envergonhar de mim e das minhas palavras, também o Filho do Homem se envergonhará dele, quando vier na glória do seu Pai com os santos anjos."
+    "versiculos": {
+        "1": "Naqueles dias, quando outra vez se reuniu grande multidão, e não tendo o que comer, Jesus chamou os discípulos e lhes disse:",
+        "2": "— Tenho compaixão desta gente, porque já faz três dias que eles estão comigo e não têm o que comer.",
+        "3": "Se eu os mandar para casa em jejum, desfalecerão pelo caminho; e alguns deles vieram de longe.",
+        "4": "Mas os discípulos lhe responderam:",
+        "5": "Então Jesus perguntou:",
+        "6": "Então mandou o povo assentar-se no chão. E, pegando os sete pães, partiu-os, após ter dado graças, e os deu aos seus discípulos, para que estes os distribuíssem, repartindo entre o povo.",
+        "7": "Tinham também alguns peixinhos. E, abençoando-os, mandou que estes igualmente fossem distribuídos.",
+        "8": "Comeram e se fartaram; e dos pedaços restantes recolheram sete cestos.",
+        "9": "Eram cerca de quatro mil homens. Então Jesus os despediu.",
+        "10": "Logo a seguir, tendo entrado no barco juntamente com os seus discípulos, foi para a região de Dalmanuta.",
+        "11": "Os fariseus chegaram e começaram a discutir com Jesus. E, tentando-o, pediram-lhe um sinal vindo do céu.",
+        "12": "Jesus, porém, arrancou do íntimo do seu espírito um gemido e disse:",
+        "13": "E, deixando-os, tornou a embarcar e foi para o outro lado.",
+        "14": "Ora, os discípulos se esqueceram de levar pão e, no barco, não tinham consigo senão um só.",
+        "15": "Jesus os preveniu, dizendo:",
+        "16": "E eles começaram a discutir entre si, dizendo:",
+        "17": "Jesus percebeu isso e perguntou:",
+        "18": "Tendo olhos, não veem? E, tendo ouvidos, não ouvem? Não se lembram",
+        "19": "de quando parti os cinco pães para os cinco mil, quantos cestos cheios de pedaços vocês recolheram?",
+        "20": "— E de quando parti os sete pães para os quatro mil, quantos cestos cheios de pedaços vocês recolheram?",
+        "21": "Ao que Jesus lhes disse:",
+        "22": "Então chegaram a Betsaida. E lhe trouxeram um cego e pediram a Jesus que tocasse nele.",
+        "23": "Jesus, tomando o cego pela mão, levou-o para fora da aldeia. Então cuspiu nos olhos do homem e, impondo-lhe as mãos, perguntou:",
+        "24": "O homem, recuperando a visão, respondeu:",
+        "25": "Então Jesus novamente pôs as mãos sobre os olhos dele. E o homem, passando a ver claramente, ficou restabelecido; e distinguia tudo de modo perfeito.",
+        "26": "E Jesus o mandou para casa, recomendando-lhe:",
+        "27": "Então Jesus e os seus discípulos foram para as aldeias de Cesareia de Filipe. No caminho, perguntou-lhes:",
+        "28": "Os discípulos responderam:",
+        "29": "Então Jesus perguntou:",
+        "30": "Então Jesus os advertiu de que a ninguém dissessem tal coisa a seu respeito.",
+        "31": "Então Jesus começou a ensinar-lhes que era necessário que o Filho do Homem sofresse muitas coisas, fosse rejeitado pelos anciãos, pelos principais sacerdotes e pelos escribas, fosse morto e que, depois de três dias, ressuscitasse.",
+        "32": "E isto ele expunha claramente. Então Pedro, chamando-o à parte, começou a repreendê-lo.",
+        "33": "Mas Jesus, voltando-se e vendo os seus discípulos, repreendeu Pedro e disse:",
+        "34": "Então, convocando a multidão e juntamente os seus discípulos, Jesus lhes disse:",
+        "35": "Pois quem quiser salvar a sua vida a perderá; e quem perder a vida por minha causa e por causa do evangelho, esse a salvará.",
+        "36": "De que adianta uma pessoa ganhar o mundo inteiro e perder a sua alma?",
+        "37": "Que daria uma pessoa em troca de sua alma?",
+        "38": "Pois quem, nesta geração adúltera e pecadora, se envergonhar de mim e das minhas palavras, também o Filho do Homem se envergonhará dele, quando vier na glória do seu Pai com os santos anjos."
     }
-  }
 }

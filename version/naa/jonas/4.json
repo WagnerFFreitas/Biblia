@@ -1,50 +1,20 @@
 {
-  "livro": "Jonas",
-  "capítulo": 4,
-  "versículos": {
-    "1": {
-      "título": "A raiva de Jonas e a misericórdia de Deus",
-      "texto": "Mas Jonas ficou muito aborrecido e com raiva."
+    "livro": "Jonas",
+    "capitulo": 4,
+    "titulos": {
+        "1": "A raiva de Jonas e a misericórdia de Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "Ele orou ao Senhor e disse:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Agora, Senhor , peço que me tires a vida, porque para mim é melhor morrer do que viver."
-    },
-    "4": {
-      "título": "",
-      "texto": "E o Senhor disse:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Então Jonas saiu da cidade e sentou-se num lugar a leste da mesma. Ali construiu um abrigo, sentou-se na sombra, para ver o que aconteceria com a cidade."
-    },
-    "6": {
-      "título": "",
-      "texto": "Então o Senhor Deus fez crescer uma planta por cima de Jonas, para que fizesse sombra sobre a sua cabeça, a fim de o livrar do seu desconforto. E Jonas ficou muito contente por causa da planta."
-    },
-    "7": {
-      "título": "",
-      "texto": "Mas no dia seguinte, ao amanhecer, Deus enviou um verme, que atacou a planta, e ela secou."
-    },
-    "8": {
-      "título": "",
-      "texto": "Quando o sol nasceu, Deus fez soprar um vento leste muito quente. O sol bateu na cabeça de Jonas, de maneira que ele quase desmaiou. Então pediu para morrer, dizendo:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Então Deus perguntou a Jonas:"
-    },
-    "10": {
-      "título": "",
-      "texto": "E o Senhor disse:"
-    },
-    "11": {
-      "título": "",
-      "texto": "E você não acha que eu deveria ter muito mais compaixão da grande cidade de Nínive, em que há mais de cento e vinte mil pessoas, que não sabem distinguir entre a mão direita e a mão esquerda, e também muitos animais?"
+    "versiculos": {
+        "1": "Mas Jonas ficou muito aborrecido e com raiva.",
+        "2": "Ele orou ao Senhor e disse:",
+        "3": "Agora, Senhor , peço que me tires a vida, porque para mim é melhor morrer do que viver.",
+        "4": "E o Senhor disse:",
+        "5": "Então Jonas saiu da cidade e sentou-se num lugar a leste da mesma. Ali construiu um abrigo, sentou-se na sombra, para ver o que aconteceria com a cidade.",
+        "6": "Então o Senhor Deus fez crescer uma planta por cima de Jonas, para que fizesse sombra sobre a sua cabeça, a fim de o livrar do seu desconforto. E Jonas ficou muito contente por causa da planta.",
+        "7": "Mas no dia seguinte, ao amanhecer, Deus enviou um verme, que atacou a planta, e ela secou.",
+        "8": "Quando o sol nasceu, Deus fez soprar um vento leste muito quente. O sol bateu na cabeça de Jonas, de maneira que ele quase desmaiou. Então pediu para morrer, dizendo:",
+        "9": "Então Deus perguntou a Jonas:",
+        "10": "E o Senhor disse:",
+        "11": "E você não acha que eu deveria ter muito mais compaixão da grande cidade de Nínive, em que há mais de cento e vinte mil pessoas, que não sabem distinguir entre a mão direita e a mão esquerda, e também muitos animais?"
     }
-  }
 }

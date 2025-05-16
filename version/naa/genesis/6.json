@@ -1,94 +1,32 @@
 {
-  "livro": "Gênesis",
-  "capítulo": 6,
-  "versículos": {
-    "1": {
-      "título": "A corrupção do gênero humano",
-      "texto": "Quando as pessoas começaram a se multiplicar sobre a face da terra e tiveram filhas,"
+    "livro": "Gênesis",
+    "capitulo": 6,
+    "titulos": {
+        "1": "A corrupção do gênero humano",
+        "9": "A arca de Noé"
     },
-    "2": {
-      "título": "",
-      "texto": "os filhos de Deus viram que as filhas dos homens eram bonitas e tomaram para si mulheres, aquelas que, entre todas, mais lhes agradaram."
-    },
-    "3": {
-      "título": "",
-      "texto": "Então o Senhor disse:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Naquele tempo havia gigantes na terra, e também depois, quando os filhos de Deus possuíram as filhas dos homens, as quais lhes deram filhos. Estes foram valentes, homens de renome, na antiguidade."
-    },
-    "5": {
-      "título": "",
-      "texto": "O Senhor viu que a maldade das pessoas havia se multiplicado na terra e que todo desígnio do coração delas era continuamente mau."
-    },
-    "6": {
-      "título": "",
-      "texto": "Então o Senhor ficou triste por haver feito o ser humano na terra, e isso lhe pesou no coração."
-    },
-    "7": {
-      "título": "",
-      "texto": "O Senhor disse:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Porém Noé encontrou favor aos olhos do Senhor ."
-    },
-    "9": {
-      "título": "A arca de Noé",
-      "texto": "São estas as gerações de Noé."
-    },
-    "10": {
-      "título": "",
-      "texto": "Gerou três filhos: Sem, Cam e Jafé."
-    },
-    "11": {
-      "título": "",
-      "texto": "A terra estava corrompida à vista de Deus e cheia de violência."
-    },
-    "12": {
-      "título": "",
-      "texto": "Deus olhou para a terra, e eis que estava corrompida; porque todos os seres vivos haviam corrompido o seu caminho na terra."
-    },
-    "13": {
-      "título": "",
-      "texto": "Então Deus disse a Noé:"
-    },
-    "14": {
-      "título": "",
-      "texto": "— Faça uma arca de tábuas de cipreste. Nela você fará compartimentos e a revestirá com betume por dentro e por fora."
-    },
-    "15": {
-      "título": "",
-      "texto": "Deste modo você a fará: seu comprimento será de cento e trinta metros, a largura, de vinte e dois; e a altura, de treze."
-    },
-    "16": {
-      "título": "",
-      "texto": "Faça uma cobertura, deixando entre ela e a arca uma abertura de meio metro. Coloque uma porta lateral e faça três andares: um embaixo, um segundo e um terceiro."
-    },
-    "17": {
-      "título": "",
-      "texto": "Porque vou trazer um dilúvio de águas sobre a terra para destruir todo ser em que há fôlego de vida debaixo dos céus; tudo o que há na terra será destruído."
-    },
-    "18": {
-      "título": "",
-      "texto": "Mas com você estabelecerei a minha aliança, e você entrará na arca, você e os seus filhos, a sua mulher, e as mulheres dos seus filhos."
-    },
-    "19": {
-      "título": "",
-      "texto": "De todos os seres vivos, você fará entrar na arca dois de cada espécie, macho e fêmea, para conservá-los vivos com você."
-    },
-    "20": {
-      "título": "",
-      "texto": "Das aves segundo as suas espécies, do gado segundo as suas espécies, de todo animal que rasteja sobre a terra segundo as suas espécies, dois de cada espécie virão a você, para que sejam conservados vivos."
-    },
-    "21": {
-      "título": "",
-      "texto": "Leve com você todo tipo de comida e armazene-a com você; isso será para alimento, a você e a eles."
-    },
-    "22": {
-      "título": "",
-      "texto": "Foi o que Noé fez. Conforme tudo o que Deus lhe havia ordenado, assim ele fez."
+    "versiculos": {
+        "1": "Quando as pessoas começaram a se multiplicar sobre a face da terra e tiveram filhas,",
+        "2": "os filhos de Deus viram que as filhas dos homens eram bonitas e tomaram para si mulheres, aquelas que, entre todas, mais lhes agradaram.",
+        "3": "Então o Senhor disse:",
+        "4": "Naquele tempo havia gigantes na terra, e também depois, quando os filhos de Deus possuíram as filhas dos homens, as quais lhes deram filhos. Estes foram valentes, homens de renome, na antiguidade.",
+        "5": "O Senhor viu que a maldade das pessoas havia se multiplicado na terra e que todo desígnio do coração delas era continuamente mau.",
+        "6": "Então o Senhor ficou triste por haver feito o ser humano na terra, e isso lhe pesou no coração.",
+        "7": "O Senhor disse:",
+        "8": "Porém Noé encontrou favor aos olhos do Senhor .",
+        "9": "São estas as gerações de Noé.",
+        "10": "Gerou três filhos: Sem, Cam e Jafé.",
+        "11": "A terra estava corrompida à vista de Deus e cheia de violência.",
+        "12": "Deus olhou para a terra, e eis que estava corrompida; porque todos os seres vivos haviam corrompido o seu caminho na terra.",
+        "13": "Então Deus disse a Noé:",
+        "14": "— Faça uma arca de tábuas de cipreste. Nela você fará compartimentos e a revestirá com betume por dentro e por fora.",
+        "15": "Deste modo você a fará: seu comprimento será de cento e trinta metros, a largura, de vinte e dois; e a altura, de treze.",
+        "16": "Faça uma cobertura, deixando entre ela e a arca uma abertura de meio metro. Coloque uma porta lateral e faça três andares: um embaixo, um segundo e um terceiro.",
+        "17": "Porque vou trazer um dilúvio de águas sobre a terra para destruir todo ser em que há fôlego de vida debaixo dos céus; tudo o que há na terra será destruído.",
+        "18": "Mas com você estabelecerei a minha aliança, e você entrará na arca, você e os seus filhos, a sua mulher, e as mulheres dos seus filhos.",
+        "19": "De todos os seres vivos, você fará entrar na arca dois de cada espécie, macho e fêmea, para conservá-los vivos com você.",
+        "20": "Das aves segundo as suas espécies, do gado segundo as suas espécies, de todo animal que rasteja sobre a terra segundo as suas espécies, dois de cada espécie virão a você, para que sejam conservados vivos.",
+        "21": "Leve com você todo tipo de comida e armazene-a com você; isso será para alimento, a você e a eles.",
+        "22": "Foi o que Noé fez. Conforme tudo o que Deus lhe havia ordenado, assim ele fez."
     }
-  }
 }

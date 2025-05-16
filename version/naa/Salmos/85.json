@@ -1,58 +1,22 @@
 {
-  "livro": "Salmos",
-  "capítulo": 85,
-  "versículos": {
-    "1": {
-      "título": "Oração pela restauração de Israel",
-      "texto": "Favoreceste a tua terra, Senhor ;"
+    "livro": "Salmos",
+    "capitulo": 85,
+    "titulos": {
+        "1": "Oração pela restauração de Israel"
     },
-    "2": {
-      "título": "",
-      "texto": "Perdoaste a iniquidade"
-    },
-    "3": {
-      "título": "",
-      "texto": "A tua indignação,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Restabelece-nos,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Estarás para sempre irado"
-    },
-    "6": {
-      "título": "",
-      "texto": "Será que não tornarás"
-    },
-    "7": {
-      "título": "",
-      "texto": "Mostra-nos, Senhor ,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Escutarei o que Deus,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Próxima está a salvação"
-    },
-    "10": {
-      "título": "",
-      "texto": "A graça e a verdade"
-    },
-    "11": {
-      "título": "",
-      "texto": "Da terra brota a verdade,"
-    },
-    "12": {
-      "título": "",
-      "texto": "Também o Senhor"
-    },
-    "13": {
-      "título": "",
-      "texto": "A justiça irá adiante do Senhor ,"
+    "versiculos": {
+        "1": "Favoreceste a tua terra, Senhor ;",
+        "2": "Perdoaste a iniquidade",
+        "3": "A tua indignação,",
+        "4": "Restabelece-nos,",
+        "5": "Estarás para sempre irado",
+        "6": "Será que não tornarás",
+        "7": "Mostra-nos, Senhor ,",
+        "8": "Escutarei o que Deus,",
+        "9": "Próxima está a salvação",
+        "10": "A graça e a verdade",
+        "11": "Da terra brota a verdade,",
+        "12": "Também o Senhor",
+        "13": "A justiça irá adiante do Senhor ,"
     }
-  }
 }

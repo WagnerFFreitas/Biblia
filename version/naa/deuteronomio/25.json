@@ -1,82 +1,31 @@
 {
-  "livro": "Deuteronômio",
-  "capítulo": 25,
-  "versículos": {
-    "1": {
-      "título": "A pena de açoites",
-      "texto": "— Quando houver desentendimento entre dois homens, e vierem a juízo, os juízes os julgarão, justificando o inocente e condenando o culpado."
+    "livro": "Deuteronômio",
+    "capitulo": 25,
+    "titulos": {
+        "1": "A pena de açoites",
+        "5": "O levirato",
+        "13": "Pesos e medidas justos",
+        "17": "A ordem para destruir os amalequitas"
     },
-    "2": {
-      "título": "",
-      "texto": "Se o culpado merecer açoites, o juiz mandará que ele se deite no chão e seja açoitado, na sua presença, com o número de açoites que o caso exigir."
-    },
-    "3": {
-      "título": "",
-      "texto": "Poderá ordenar quarenta açoites, não mais; do contrário, se ordenasse mais do que isso, um compatriota seria humilhado aos olhos de vocês."
-    },
-    "4": {
-      "título": "",
-      "texto": "— Não amarrem a boca do boi quando estiver pisando o trigo."
-    },
-    "5": {
-      "título": "O levirato",
-      "texto": "— Se dois irmãos morarem juntos, e um deles morrer sem filhos, a mulher do que morreu não se casará com um estranho, alguém de fora da família; seu cunhado a tomará, a receberá por mulher e exercerá para com ela a obrigação de cunhado."
-    },
-    "6": {
-      "título": "",
-      "texto": "O primogênito que ela lhe der será sucessor do nome do seu irmão falecido, para que o nome deste não se apague em Israel."
-    },
-    "7": {
-      "título": "",
-      "texto": "— Porém, se o homem não quiser se casar com a cunhada, ela irá ao portão da cidade para falar com os anciãos, e dirá: “Meu cunhado se recusa a dar continuidade ao nome de seu irmão em Israel; não quer exercer para comigo a obrigação de cunhado.”"
-    },
-    "8": {
-      "título": "",
-      "texto": "Então os anciãos da cidade devem chamá-lo e falar com ele. Se ele persistir e disser: “Não quero casar com ela”,"
-    },
-    "9": {
-      "título": "",
-      "texto": "então a cunhada chegará perto dele, na presença dos anciãos, e lhe descalçará a sandália do pé, e lhe cuspirá no rosto, e protestará, dizendo: “Assim se fará com o homem que não quer edificar a casa de seu irmão.”"
-    },
-    "10": {
-      "título": "",
-      "texto": "E, em Israel, se dará à casa daquele homem o nome de “A casa do descalçado”."
-    },
-    "11": {
-      "título": "",
-      "texto": "— Quando dois homens estiverem brigando, um contra o outro, e a mulher de um chegar para livrar o marido da mão daquele que o fere, e ela estender a mão, e o pegar pelo órgão genital,"
-    },
-    "12": {
-      "título": "",
-      "texto": "vocês devem cortar a mão dela; não olhem para ela com piedade."
-    },
-    "13": {
-      "título": "Pesos e medidas justos",
-      "texto": "— Não levem na bolsa pesos diferentes, um grande e um pequeno."
-    },
-    "14": {
-      "título": "",
-      "texto": "Não tenham em casa dois tipos de medidas, um grande e um pequeno."
-    },
-    "15": {
-      "título": "",
-      "texto": "Usem um peso integral e justo, e uma medida integral e justa; para que se prolonguem os seus dias na terra que o Senhor , seu Deus, lhes dá."
-    },
-    "16": {
-      "título": "",
-      "texto": "Porque todo aquele que pratica tal injustiça é abominação ao Senhor , o Deus de vocês."
-    },
-    "17": {
-      "título": "A ordem para destruir os amalequitas",
-      "texto": "— Lembrem-se do que os amalequitas fizeram no caminho, quando vocês estavam saindo do Egito."
-    },
-    "18": {
-      "título": "",
-      "texto": "Eles saíram ao encontro de vocês no caminho e, quando vocês estavam abatidos e cansados, atacaram na retaguarda todos os desfalecidos que vinham atrás; e não temeram a Deus."
-    },
-    "19": {
-      "título": "",
-      "texto": "Portanto, quando o Senhor , seu Deus, lhes houver dado sossego de todos os seus inimigos ao redor, na terra que o Senhor , seu Deus, lhes dá por herança, para que dela tomem posse, apaguem a memória dos amalequitas da face da terra; não se esqueçam disto."
+    "versiculos": {
+        "1": "— Quando houver desentendimento entre dois homens, e vierem a juízo, os juízes os julgarão, justificando o inocente e condenando o culpado.",
+        "2": "Se o culpado merecer açoites, o juiz mandará que ele se deite no chão e seja açoitado, na sua presença, com o número de açoites que o caso exigir.",
+        "3": "Poderá ordenar quarenta açoites, não mais; do contrário, se ordenasse mais do que isso, um compatriota seria humilhado aos olhos de vocês.",
+        "4": "— Não amarrem a boca do boi quando estiver pisando o trigo.",
+        "5": "— Se dois irmãos morarem juntos, e um deles morrer sem filhos, a mulher do que morreu não se casará com um estranho, alguém de fora da família; seu cunhado a tomará, a receberá por mulher e exercerá para com ela a obrigação de cunhado.",
+        "6": "O primogênito que ela lhe der será sucessor do nome do seu irmão falecido, para que o nome deste não se apague em Israel.",
+        "7": "— Porém, se o homem não quiser se casar com a cunhada, ela irá ao portão da cidade para falar com os anciãos, e dirá: “Meu cunhado se recusa a dar continuidade ao nome de seu irmão em Israel; não quer exercer para comigo a obrigação de cunhado.”",
+        "8": "Então os anciãos da cidade devem chamá-lo e falar com ele. Se ele persistir e disser: “Não quero casar com ela”,",
+        "9": "então a cunhada chegará perto dele, na presença dos anciãos, e lhe descalçará a sandália do pé, e lhe cuspirá no rosto, e protestará, dizendo: “Assim se fará com o homem que não quer edificar a casa de seu irmão.”",
+        "10": "E, em Israel, se dará à casa daquele homem o nome de “A casa do descalçado”.",
+        "11": "— Quando dois homens estiverem brigando, um contra o outro, e a mulher de um chegar para livrar o marido da mão daquele que o fere, e ela estender a mão, e o pegar pelo órgão genital,",
+        "12": "vocês devem cortar a mão dela; não olhem para ela com piedade.",
+        "13": "— Não levem na bolsa pesos diferentes, um grande e um pequeno.",
+        "14": "Não tenham em casa dois tipos de medidas, um grande e um pequeno.",
+        "15": "Usem um peso integral e justo, e uma medida integral e justa; para que se prolonguem os seus dias na terra que o Senhor , seu Deus, lhes dá.",
+        "16": "Porque todo aquele que pratica tal injustiça é abominação ao Senhor , o Deus de vocês.",
+        "17": "— Lembrem-se do que os amalequitas fizeram no caminho, quando vocês estavam saindo do Egito.",
+        "18": "Eles saíram ao encontro de vocês no caminho e, quando vocês estavam abatidos e cansados, atacaram na retaguarda todos os desfalecidos que vinham atrás; e não temeram a Deus.",
+        "19": "Portanto, quando o Senhor , seu Deus, lhes houver dado sossego de todos os seus inimigos ao redor, na terra que o Senhor , seu Deus, lhes dá por herança, para que dela tomem posse, apaguem a memória dos amalequitas da face da terra; não se esqueçam disto."
     }
-  }
 }

@@ -1,38 +1,17 @@
 {
-  "livro": "Apocalipse",
-  "capítulo": 15,
-  "versículos": {
-    "1": {
-      "título": "Os anjos com os últimos flagelos",
-      "texto": "Vi no céu outro sinal grande e maravilhoso: sete anjos que tinham os sete últimos flagelos, pois com estes se consumou a ira de Deus."
+    "livro": "Apocalipse",
+    "capitulo": 15,
+    "titulos": {
+        "1": "Os anjos com os últimos flagelos"
     },
-    "2": {
-      "título": "",
-      "texto": "Vi como que um mar de vidro, misturado com fogo, e também os que venceram a besta, a sua imagem e o número do seu nome. Eles estavam em pé junto ao mar de vidro, tendo harpas que lhes foram dadas por Deus."
-    },
-    "3": {
-      "título": "",
-      "texto": "E entoavam o cântico de Moisés, servo de Deus, e o cântico do Cordeiro, dizendo:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Quem não temerá"
-    },
-    "5": {
-      "título": "",
-      "texto": "Depois destas coisas, olhei, e abriu-se no céu o santuário do tabernáculo do testemunho."
-    },
-    "6": {
-      "título": "",
-      "texto": "E os sete anjos que tinham os sete flagelos saíram do santuário, vestidos de linho puro e resplandecente e cingidos, à altura do peito, com cintos de ouro."
-    },
-    "7": {
-      "título": "",
-      "texto": "Então um dos quatro seres viventes deu aos sete anjos sete taças de ouro, cheias da ira de Deus, que vive para todo o sempre."
-    },
-    "8": {
-      "título": "",
-      "texto": "O santuário se encheu da fumaça da glória de Deus e do seu poder, e ninguém podia entrar no santuário, enquanto não se cumprissem os sete flagelos dos sete anjos."
+    "versiculos": {
+        "1": "Vi no céu outro sinal grande e maravilhoso: sete anjos que tinham os sete últimos flagelos, pois com estes se consumou a ira de Deus.",
+        "2": "Vi como que um mar de vidro, misturado com fogo, e também os que venceram a besta, a sua imagem e o número do seu nome. Eles estavam em pé junto ao mar de vidro, tendo harpas que lhes foram dadas por Deus.",
+        "3": "E entoavam o cântico de Moisés, servo de Deus, e o cântico do Cordeiro, dizendo:",
+        "4": "Quem não temerá",
+        "5": "Depois destas coisas, olhei, e abriu-se no céu o santuário do tabernáculo do testemunho.",
+        "6": "E os sete anjos que tinham os sete flagelos saíram do santuário, vestidos de linho puro e resplandecente e cingidos, à altura do peito, com cintos de ouro.",
+        "7": "Então um dos quatro seres viventes deu aos sete anjos sete taças de ouro, cheias da ira de Deus, que vive para todo o sempre.",
+        "8": "O santuário se encheu da fumaça da glória de Deus e do seu poder, e ninguém podia entrar no santuário, enquanto não se cumprissem os sete flagelos dos sete anjos."
     }
-  }
 }

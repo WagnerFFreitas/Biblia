@@ -1,154 +1,51 @@
 {
-  "livro": "Marcos",
-  "capítulo": 13,
-  "versículos": {
-    "1": {
-      "título": "A destruição do templo",
-      "texto": "Quando Jesus estava saindo do templo, um dos seus discípulos lhe disse:"
+    "livro": "Marcos",
+    "capitulo": 13,
+    "titulos": {
+        "1": "A destruição do templo",
+        "3": "O princípio das dores",
+        "14": "A grande tribulação",
+        "24": "A vinda do Filho do Homem",
+        "28": "A parábola da figueira",
+        "32": "Exortação à vigilância"
     },
-    "2": {
-      "título": "",
-      "texto": "Mas Jesus respondeu:"
-    },
-    "3": {
-      "título": "O princípio das dores",
-      "texto": "Jesus estava sentado no monte das Oliveiras, diante do templo, quando Pedro, Tiago, João e André lhe perguntaram em particular:"
-    },
-    "4": {
-      "título": "",
-      "texto": "— Diga-nos quando essas coisas vão acontecer e que sinal haverá quando todas elas estiverem para se cumprir."
-    },
-    "5": {
-      "título": "",
-      "texto": "Então Jesus começou a dizer-lhes:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Muitos virão em meu nome, dizendo: “Sou eu”; e enganarão a muitos."
-    },
-    "7": {
-      "título": "",
-      "texto": "Quando vocês ouvirem falar de guerras e rumores de guerras, não se assustem; é necessário que isso aconteça, mas ainda não é o fim."
-    },
-    "8": {
-      "título": "",
-      "texto": "Porque nação se levantará contra nação, e reino, contra reino. Haverá terremotos em vários lugares e também fomes. Essas coisas são o princípio das dores."
-    },
-    "9": {
-      "título": "",
-      "texto": "— Estejam de sobreaviso, porque as pessoas os entregarão aos tribunais e às sinagogas. Vocês serão açoitados e, por minha causa, serão levados à presença de governadores e reis, para lhes servir de testemunho."
-    },
-    "10": {
-      "título": "",
-      "texto": "Mas é necessário que primeiro o evangelho seja pregado a todas as nações."
-    },
-    "11": {
-      "título": "",
-      "texto": "— Quando, pois, levarem vocês para os entregar, não se preocupem com o que irão dizer, mas digam o que lhes for concedido naquela hora. Porque não são vocês que estão falando, mas o Espírito Santo."
-    },
-    "12": {
-      "título": "",
-      "texto": "Um irmão entregará à morte outro irmão, e o pai entregará o filho. Haverá filhos que se levantarão contra os seus pais e os matarão."
-    },
-    "13": {
-      "título": "",
-      "texto": "Todos odiarão vocês por causa do meu nome; aquele, porém, que ficar firme até o fim, esse será salvo."
-    },
-    "14": {
-      "título": "A grande tribulação",
-      "texto": "— Quando, pois, vocês virem o abominável da desolação situado onde não deve estar , então os que estiverem na Judeia fujam para os montes."
-    },
-    "15": {
-      "título": "",
-      "texto": "Quem estiver no terraço não desça nem entre para tirar de casa alguma coisa."
-    },
-    "16": {
-      "título": "",
-      "texto": "E quem estiver no campo não volte atrás para buscar a sua capa."
-    },
-    "17": {
-      "título": "",
-      "texto": "Ai das que estiverem grávidas e das que amamentarem naqueles dias!"
-    },
-    "18": {
-      "título": "",
-      "texto": "Orem para que isso não aconteça no inverno."
-    },
-    "19": {
-      "título": "",
-      "texto": "Porque aqueles dias serão de tamanha tribulação, como nunca houve desde o princípio do mundo criado por Deus até agora e nunca jamais haverá."
-    },
-    "20": {
-      "título": "",
-      "texto": "Se o Senhor não tivesse abreviado aqueles dias, ninguém seria salvo. Mas, por causa dos eleitos que ele escolheu, Deus abreviou tais dias."
-    },
-    "21": {
-      "título": "",
-      "texto": "Então, se alguém disser a vocês: “Olhem! Aqui está o Cristo!” ou: “Olhem! Ali está ele!”, não acreditem."
-    },
-    "22": {
-      "título": "",
-      "texto": "Porque surgirão falsos cristos e falsos profetas, operando sinais e prodígios, para enganar, se possível, os próprios eleitos."
-    },
-    "23": {
-      "título": "",
-      "texto": "Estejam de sobreaviso; tudo isso tenho predito a vocês."
-    },
-    "24": {
-      "título": "A vinda do Filho do Homem",
-      "texto": "— Mas, naqueles dias, após a referida tribulação, o sol escurecerá, a lua não dará a sua claridade,"
-    },
-    "25": {
-      "título": "",
-      "texto": "as estrelas cairão do firmamento e os poderes dos céus serão abalados."
-    },
-    "26": {
-      "título": "",
-      "texto": "Então verão o Filho do Homem vindo nas nuvens, com grande poder e glória."
-    },
-    "27": {
-      "título": "",
-      "texto": "E então ele enviará os anjos e reunirá os seus escolhidos dos quatro ventos, da extremidade da terra até a extremidade do céu."
-    },
-    "28": {
-      "título": "A parábola da figueira",
-      "texto": "— Aprendam, pois, a parábola da figueira: quando já os seus ramos se renovam e as folhas brotam, vocês sabem que o verão está próximo."
-    },
-    "29": {
-      "título": "",
-      "texto": "Assim, também vocês, quando virem acontecer essas coisas, saibam que está próximo, às portas."
-    },
-    "30": {
-      "título": "",
-      "texto": "Em verdade lhes digo que não passará esta geração sem que tudo isto aconteça."
-    },
-    "31": {
-      "título": "",
-      "texto": "Passará o céu e a terra, porém as minhas palavras não passarão."
-    },
-    "32": {
-      "título": "Exortação à vigilância",
-      "texto": "— Mas a respeito daquele dia ou da hora ninguém sabe, nem os anjos no céu, nem o Filho, senão o Pai."
-    },
-    "33": {
-      "título": "",
-      "texto": "— Estejam de sobreaviso e vigiem, porque vocês não sabem quando será o tempo."
-    },
-    "34": {
-      "título": "",
-      "texto": "É como um homem que, ausentando-se do país, deixa a sua casa, dá autoridade aos seus servos, a cada um a sua obrigação, e ao porteiro ordena que vigie."
-    },
-    "35": {
-      "título": "",
-      "texto": "Portanto, vigiem, porque vocês não sabem quando virá o dono da casa: se à tarde, se à meia-noite, se ao cantar do galo, se pela manhã;"
-    },
-    "36": {
-      "título": "",
-      "texto": "para que, vindo ele inesperadamente, não encontre vocês dormindo."
-    },
-    "37": {
-      "título": "",
-      "texto": "O que, porém, digo a vocês, digo a todos: vigiem!"
+    "versiculos": {
+        "1": "Quando Jesus estava saindo do templo, um dos seus discípulos lhe disse:",
+        "2": "Mas Jesus respondeu:",
+        "3": "Jesus estava sentado no monte das Oliveiras, diante do templo, quando Pedro, Tiago, João e André lhe perguntaram em particular:",
+        "4": "— Diga-nos quando essas coisas vão acontecer e que sinal haverá quando todas elas estiverem para se cumprir.",
+        "5": "Então Jesus começou a dizer-lhes:",
+        "6": "Muitos virão em meu nome, dizendo: “Sou eu”; e enganarão a muitos.",
+        "7": "Quando vocês ouvirem falar de guerras e rumores de guerras, não se assustem; é necessário que isso aconteça, mas ainda não é o fim.",
+        "8": "Porque nação se levantará contra nação, e reino, contra reino. Haverá terremotos em vários lugares e também fomes. Essas coisas são o princípio das dores.",
+        "9": "— Estejam de sobreaviso, porque as pessoas os entregarão aos tribunais e às sinagogas. Vocês serão açoitados e, por minha causa, serão levados à presença de governadores e reis, para lhes servir de testemunho.",
+        "10": "Mas é necessário que primeiro o evangelho seja pregado a todas as nações.",
+        "11": "— Quando, pois, levarem vocês para os entregar, não se preocupem com o que irão dizer, mas digam o que lhes for concedido naquela hora. Porque não são vocês que estão falando, mas o Espírito Santo.",
+        "12": "Um irmão entregará à morte outro irmão, e o pai entregará o filho. Haverá filhos que se levantarão contra os seus pais e os matarão.",
+        "13": "Todos odiarão vocês por causa do meu nome; aquele, porém, que ficar firme até o fim, esse será salvo.",
+        "14": "— Quando, pois, vocês virem o abominável da desolação situado onde não deve estar , então os que estiverem na Judeia fujam para os montes.",
+        "15": "Quem estiver no terraço não desça nem entre para tirar de casa alguma coisa.",
+        "16": "E quem estiver no campo não volte atrás para buscar a sua capa.",
+        "17": "Ai das que estiverem grávidas e das que amamentarem naqueles dias!",
+        "18": "Orem para que isso não aconteça no inverno.",
+        "19": "Porque aqueles dias serão de tamanha tribulação, como nunca houve desde o princípio do mundo criado por Deus até agora e nunca jamais haverá.",
+        "20": "Se o Senhor não tivesse abreviado aqueles dias, ninguém seria salvo. Mas, por causa dos eleitos que ele escolheu, Deus abreviou tais dias.",
+        "21": "Então, se alguém disser a vocês: “Olhem! Aqui está o Cristo!” ou: “Olhem! Ali está ele!”, não acreditem.",
+        "22": "Porque surgirão falsos cristos e falsos profetas, operando sinais e prodígios, para enganar, se possível, os próprios eleitos.",
+        "23": "Estejam de sobreaviso; tudo isso tenho predito a vocês.",
+        "24": "— Mas, naqueles dias, após a referida tribulação, o sol escurecerá, a lua não dará a sua claridade,",
+        "25": "as estrelas cairão do firmamento e os poderes dos céus serão abalados.",
+        "26": "Então verão o Filho do Homem vindo nas nuvens, com grande poder e glória.",
+        "27": "E então ele enviará os anjos e reunirá os seus escolhidos dos quatro ventos, da extremidade da terra até a extremidade do céu.",
+        "28": "— Aprendam, pois, a parábola da figueira: quando já os seus ramos se renovam e as folhas brotam, vocês sabem que o verão está próximo.",
+        "29": "Assim, também vocês, quando virem acontecer essas coisas, saibam que está próximo, às portas.",
+        "30": "Em verdade lhes digo que não passará esta geração sem que tudo isto aconteça.",
+        "31": "Passará o céu e a terra, porém as minhas palavras não passarão.",
+        "32": "— Mas a respeito daquele dia ou da hora ninguém sabe, nem os anjos no céu, nem o Filho, senão o Pai.",
+        "33": "— Estejam de sobreaviso e vigiem, porque vocês não sabem quando será o tempo.",
+        "34": "É como um homem que, ausentando-se do país, deixa a sua casa, dá autoridade aos seus servos, a cada um a sua obrigação, e ao porteiro ordena que vigie.",
+        "35": "Portanto, vigiem, porque vocês não sabem quando virá o dono da casa: se à tarde, se à meia-noite, se ao cantar do galo, se pela manhã;",
+        "36": "para que, vindo ele inesperadamente, não encontre vocês dormindo.",
+        "37": "O que, porém, digo a vocês, digo a todos: vigiem!"
     }
-  }
 }

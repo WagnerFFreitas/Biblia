@@ -1,134 +1,41 @@
 {
-  "livro": "Ezequiel",
-  "capítulo": 18,
-  "versículos": {
-    "1": {
-      "título": "A responsabilidade é pessoal",
-      "texto": "A palavra do Senhor veio a mim, dizendo:"
+    "livro": "Ezequiel",
+    "capitulo": 18,
+    "titulos": {
+        "1": "A responsabilidade é pessoal"
     },
-    "2": {
-      "título": "",
-      "texto": "— O que vocês querem dizer, vocês que ficam repetindo este provérbio a respeito da terra de Israel: “Os pais comeram uvas verdes, e os dentes dos filhos é que se embotaram”?"
-    },
-    "3": {
-      "título": "",
-      "texto": "Tão certo como eu vivo, diz o Senhor Deus , vocês nunca mais repetirão esse provérbio em Israel."
-    },
-    "4": {
-      "título": "",
-      "texto": "Eis que todas as pessoas são minhas. Assim como a pessoa do pai, também a pessoa do filho é minha. A pessoa que pecar, essa morrerá."
-    },
-    "5": {
-      "título": "",
-      "texto": "— Se um homem é justo e age com justiça e retidão —"
-    },
-    "6": {
-      "título": "",
-      "texto": "não come carne sacrificada nos altos nem levanta os olhos para os ídolos da casa de Israel; não contamina a mulher do seu próximo nem tem relações com a mulher menstruada;"
-    },
-    "7": {
-      "título": "",
-      "texto": "não oprime ninguém, mas devolve ao devedor a coisa penhorada e não rouba; reparte o seu pão com o faminto e cobre com roupas aquele que está nu;"
-    },
-    "8": {
-      "título": "",
-      "texto": "não empresta para ter lucro e não cobra juros; desvia a sua mão da injustiça e é imparcial ao julgar uma questão entre duas pessoas;"
-    },
-    "9": {
-      "título": "",
-      "texto": "anda nos meus estatutos e guarda os meus juízos, procedendo retamente —, esse tal é justo e certamente viverá, diz o Senhor Deus ."
-    },
-    "10": {
-      "título": "",
-      "texto": "— Se ele gerar um filho ladrão, assassino, que fizer a seu irmão qualquer uma dessas coisas"
-    },
-    "11": {
-      "título": "",
-      "texto": "que o pai nunca cometeu, mas comer carne sacrificada nos altos, contaminar a mulher de seu próximo,"
-    },
-    "12": {
-      "título": "",
-      "texto": "oprimir o pobre e necessitado, praticar roubos, não devolver o penhor, levantar os olhos para os ídolos, cometer abominação,"
-    },
-    "13": {
-      "título": "",
-      "texto": "emprestar para ter lucro e cobrar juros, será que esse viverá? Não viverá. Ele fez todas estas abominações e será morto; é responsável pela própria morte."
-    },
-    "14": {
-      "título": "",
-      "texto": "— E, se esse filho gerar um filho que veja todos os pecados que o pai cometeu, e, vendo-os, não fizer coisas semelhantes,"
-    },
-    "15": {
-      "título": "",
-      "texto": "não comer carne sacrificada nos altos, não levantar os olhos para os ídolos da casa de Israel, não contaminar a mulher de seu próximo,"
-    },
-    "16": {
-      "título": "",
-      "texto": "não oprimir ninguém, não retiver o penhor, não roubar, repartir o seu pão com o faminto, cobrir com roupas aquele que está nu,"
-    },
-    "17": {
-      "título": "",
-      "texto": "desviar a sua mão da injustiça, não emprestar para ter lucro nem cobrar juros, executar os meus juízos e andar nos meus estatutos, esse tal não morrerá por causa da iniquidade de seu pai; certamente viverá."
-    },
-    "18": {
-      "título": "",
-      "texto": "Quanto ao pai dele, porque praticou extorsão, roubou os bens do próximo e fez o que não era bom no meio de seu povo, eis que ele morrerá por causa de sua iniquidade."
-    },
-    "19": {
-      "título": "",
-      "texto": "— Mas vocês perguntam: “Por que o filho não paga pela iniquidade do pai?” Porque o filho fez o que era justo e reto. Ele guardou todos os meus estatutos e os praticou. Por isso, certamente viverá."
-    },
-    "20": {
-      "título": "",
-      "texto": "A pessoa que pecar, essa morrerá. O filho não pagará pela iniquidade do pai, nem o pai pagará pela iniquidade do filho. A justiça do justo ficará sobre ele, e a maldade do ímpio cairá sobre este."
-    },
-    "21": {
-      "título": "",
-      "texto": "— Mas, se o ímpio se converter de todos os pecados que cometeu, e guardar todos os meus estatutos, e fizer o que é justo e reto, certamente viverá; não será morto."
-    },
-    "22": {
-      "título": "",
-      "texto": "De todas as transgressões que cometeu, nenhuma será lembrada contra ele; pela justiça que praticou, viverá."
-    },
-    "23": {
-      "título": "",
-      "texto": "— Vocês pensam que eu tenho prazer na morte do ímpio? — diz o Senhor Deus . Não desejo eu muito mais que ele se converta dos seus caminhos e viva?"
-    },
-    "24": {
-      "título": "",
-      "texto": "Mas, se o justo se desviar da sua justiça e fizer maldade, fazendo as mesmas abominações que o ímpio faz, será que ele viverá? De todos os atos de justiça que praticou, nenhum será lembrado; na sua transgressão com que transgrediu e no seu pecado que cometeu, neles morrerá."
-    },
-    "25": {
-      "título": "",
-      "texto": "— No entanto, vocês dizem: “O caminho do Senhor não é reto.” Então escute, ó casa de Israel: Será que é o meu caminho que não é reto? Não seriam muito mais os caminhos de vocês que são tortuosos?"
-    },
-    "26": {
-      "título": "",
-      "texto": "Se o justo se desviar da sua justiça e fizer maldade, morrerá por causa dela; na iniquidade que cometeu, morrerá."
-    },
-    "27": {
-      "título": "",
-      "texto": "Mas, se o ímpio se converter da maldade que cometeu e praticar o que é justo e reto, ele preservará a sua vida."
-    },
-    "28": {
-      "título": "",
-      "texto": "Pois se ele percebe o que fez e se converte de todas as transgressões que cometeu, certamente viverá; não será morto."
-    },
-    "29": {
-      "título": "",
-      "texto": "No entanto, a casa de Israel diz: “O caminho do Senhor não é reto.” Será que são os meus caminhos que não são retos, ó casa de Israel? Não seriam muito mais os caminhos de vocês que são tortuosos?"
-    },
-    "30": {
-      "título": "",
-      "texto": "— Portanto, eu os julgarei, cada um segundo os seus caminhos, ó casa de Israel, diz o Senhor Deus . Convertam-se e afastem-se de todas as suas transgressões, para que a iniquidade não lhes sirva de tropeço."
-    },
-    "31": {
-      "título": "",
-      "texto": "Livrem-se de todas as transgressões que vocês cometeram e façam para vocês um coração novo e um espírito novo. Por que vocês haveriam de morrer, ó casa de Israel?"
-    },
-    "32": {
-      "título": "",
-      "texto": "Eu não tenho prazer na morte de ninguém, diz o Senhor Deus . Portanto, convertam-se e vivam."
+    "versiculos": {
+        "1": "A palavra do Senhor veio a mim, dizendo:",
+        "2": "— O que vocês querem dizer, vocês que ficam repetindo este provérbio a respeito da terra de Israel: “Os pais comeram uvas verdes, e os dentes dos filhos é que se embotaram”?",
+        "3": "Tão certo como eu vivo, diz o Senhor Deus , vocês nunca mais repetirão esse provérbio em Israel.",
+        "4": "Eis que todas as pessoas são minhas. Assim como a pessoa do pai, também a pessoa do filho é minha. A pessoa que pecar, essa morrerá.",
+        "5": "— Se um homem é justo e age com justiça e retidão —",
+        "6": "não come carne sacrificada nos altos nem levanta os olhos para os ídolos da casa de Israel; não contamina a mulher do seu próximo nem tem relações com a mulher menstruada;",
+        "7": "não oprime ninguém, mas devolve ao devedor a coisa penhorada e não rouba; reparte o seu pão com o faminto e cobre com roupas aquele que está nu;",
+        "8": "não empresta para ter lucro e não cobra juros; desvia a sua mão da injustiça e é imparcial ao julgar uma questão entre duas pessoas;",
+        "9": "anda nos meus estatutos e guarda os meus juízos, procedendo retamente —, esse tal é justo e certamente viverá, diz o Senhor Deus .",
+        "10": "— Se ele gerar um filho ladrão, assassino, que fizer a seu irmão qualquer uma dessas coisas",
+        "11": "que o pai nunca cometeu, mas comer carne sacrificada nos altos, contaminar a mulher de seu próximo,",
+        "12": "oprimir o pobre e necessitado, praticar roubos, não devolver o penhor, levantar os olhos para os ídolos, cometer abominação,",
+        "13": "emprestar para ter lucro e cobrar juros, será que esse viverá? Não viverá. Ele fez todas estas abominações e será morto; é responsável pela própria morte.",
+        "14": "— E, se esse filho gerar um filho que veja todos os pecados que o pai cometeu, e, vendo-os, não fizer coisas semelhantes,",
+        "15": "não comer carne sacrificada nos altos, não levantar os olhos para os ídolos da casa de Israel, não contaminar a mulher de seu próximo,",
+        "16": "não oprimir ninguém, não retiver o penhor, não roubar, repartir o seu pão com o faminto, cobrir com roupas aquele que está nu,",
+        "17": "desviar a sua mão da injustiça, não emprestar para ter lucro nem cobrar juros, executar os meus juízos e andar nos meus estatutos, esse tal não morrerá por causa da iniquidade de seu pai; certamente viverá.",
+        "18": "Quanto ao pai dele, porque praticou extorsão, roubou os bens do próximo e fez o que não era bom no meio de seu povo, eis que ele morrerá por causa de sua iniquidade.",
+        "19": "— Mas vocês perguntam: “Por que o filho não paga pela iniquidade do pai?” Porque o filho fez o que era justo e reto. Ele guardou todos os meus estatutos e os praticou. Por isso, certamente viverá.",
+        "20": "A pessoa que pecar, essa morrerá. O filho não pagará pela iniquidade do pai, nem o pai pagará pela iniquidade do filho. A justiça do justo ficará sobre ele, e a maldade do ímpio cairá sobre este.",
+        "21": "— Mas, se o ímpio se converter de todos os pecados que cometeu, e guardar todos os meus estatutos, e fizer o que é justo e reto, certamente viverá; não será morto.",
+        "22": "De todas as transgressões que cometeu, nenhuma será lembrada contra ele; pela justiça que praticou, viverá.",
+        "23": "— Vocês pensam que eu tenho prazer na morte do ímpio? — diz o Senhor Deus . Não desejo eu muito mais que ele se converta dos seus caminhos e viva?",
+        "24": "Mas, se o justo se desviar da sua justiça e fizer maldade, fazendo as mesmas abominações que o ímpio faz, será que ele viverá? De todos os atos de justiça que praticou, nenhum será lembrado; na sua transgressão com que transgrediu e no seu pecado que cometeu, neles morrerá.",
+        "25": "— No entanto, vocês dizem: “O caminho do Senhor não é reto.” Então escute, ó casa de Israel: Será que é o meu caminho que não é reto? Não seriam muito mais os caminhos de vocês que são tortuosos?",
+        "26": "Se o justo se desviar da sua justiça e fizer maldade, morrerá por causa dela; na iniquidade que cometeu, morrerá.",
+        "27": "Mas, se o ímpio se converter da maldade que cometeu e praticar o que é justo e reto, ele preservará a sua vida.",
+        "28": "Pois se ele percebe o que fez e se converte de todas as transgressões que cometeu, certamente viverá; não será morto.",
+        "29": "No entanto, a casa de Israel diz: “O caminho do Senhor não é reto.” Será que são os meus caminhos que não são retos, ó casa de Israel? Não seriam muito mais os caminhos de vocês que são tortuosos?",
+        "30": "— Portanto, eu os julgarei, cada um segundo os seus caminhos, ó casa de Israel, diz o Senhor Deus . Convertam-se e afastem-se de todas as suas transgressões, para que a iniquidade não lhes sirva de tropeço.",
+        "31": "Livrem-se de todas as transgressões que vocês cometeram e façam para vocês um coração novo e um espírito novo. Por que vocês haveriam de morrer, ó casa de Israel?",
+        "32": "Eu não tenho prazer na morte de ninguém, diz o Senhor Deus . Portanto, convertam-se e vivam."
     }
-  }
 }

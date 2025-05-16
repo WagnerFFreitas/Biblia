@@ -1,222 +1,64 @@
 {
-  "livro": "João",
-  "capítulo": 4,
-  "versículos": {
-    "1": {
-      "título": "Jesus e a mulher samaritana",
-      "texto": "Quando Jesus soube que os fariseus tinham ouvido dizer que ele fazia e batizava mais discípulos do que João"
+    "livro": "João",
+    "capitulo": 4,
+    "titulos": {
+        "1": "Jesus e a mulher samaritana",
+        "43": "A cura do filho de um oficial do rei"
     },
-    "2": {
-      "título": "",
-      "texto": "— se bem que Jesus mesmo não batizava, e sim os seus discípulos —,"
-    },
-    "3": {
-      "título": "",
-      "texto": "deixou a Judeia, retirando-se outra vez para a Galileia."
-    },
-    "4": {
-      "título": "",
-      "texto": "E era-lhe necessário passar pela região da Samaria."
-    },
-    "5": {
-      "título": "",
-      "texto": "Assim, Jesus chegou a uma cidade samaritana, chamada Sicar, perto das terras que Jacó tinha dado a seu filho José."
-    },
-    "6": {
-      "título": "",
-      "texto": "Ali ficava o poço de Jacó. Cansado da viagem, Jesus sentou-se junto ao poço. Era por volta do meio-dia."
-    },
-    "7": {
-      "título": "",
-      "texto": "Nisso veio uma mulher samaritana tirar água. Jesus lhe disse:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Pois os seus discípulos tinham ido à cidade comprar alimentos."
-    },
-    "9": {
-      "título": "",
-      "texto": "Então a mulher samaritana perguntou a Jesus:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Ao que a mulher respondeu:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Por acaso o senhor é maior do que Jacó, o nosso pai, que nos deu o poço, do qual ele mesmo bebeu, assim como os seus filhos e o seu gado?"
-    },
-    "13": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "14": {
-      "título": "",
-      "texto": "mas aquele que beber da água que eu lhe der nunca mais terá sede. Pelo contrário, a água que eu lhe der será nele uma fonte a jorrar para a vida eterna."
-    },
-    "15": {
-      "título": "",
-      "texto": "A mulher lhe disse:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Jesus disse:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Ao que a mulher respondeu:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Porque já teve cinco, e esse que agora tem não é seu marido. O que você disse é verdade."
-    },
-    "19": {
-      "título": "",
-      "texto": "A mulher então lhe disse:"
-    },
-    "20": {
-      "título": "",
-      "texto": "Nossos pais adoravam neste monte, mas vocês dizem que em Jerusalém é o lugar onde se deve adorar."
-    },
-    "21": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "22": {
-      "título": "",
-      "texto": "Vocês adoram o que não conhecem; nós adoramos o que conhecemos, porque a salvação vem dos judeus."
-    },
-    "23": {
-      "título": "",
-      "texto": "Mas vem a hora — e já chegou — em que os verdadeiros adoradores adorarão o Pai em espírito e em verdade. Porque são esses que o Pai procura para seus adoradores."
-    },
-    "24": {
-      "título": "",
-      "texto": "Deus é Espírito, e é necessário que os seus adoradores o adorem em espírito e em verdade."
-    },
-    "25": {
-      "título": "",
-      "texto": "A mulher respondeu:"
-    },
-    "26": {
-      "título": "",
-      "texto": "Então Jesus disse:"
-    },
-    "27": {
-      "título": "",
-      "texto": "Naquele momento, chegaram os discípulos de Jesus e se admiraram ao vê-lo falando com uma mulher. Mas nenhum deles perguntou: “O que você está querendo?” Ou: “Por que o senhor está falando com ela?”"
-    },
-    "28": {
-      "título": "",
-      "texto": "Quanto à mulher, deixou o seu cântaro, foi à cidade e disse ao povo:"
-    },
-    "29": {
-      "título": "",
-      "texto": "— Venham comigo e vejam um homem que me disse tudo o que eu já fiz. Não seria ele, por acaso, o Cristo?"
-    },
-    "30": {
-      "título": "",
-      "texto": "Então saíram da cidade e foram até onde Jesus estava."
-    },
-    "31": {
-      "título": "",
-      "texto": "Enquanto isso, os discípulos pediam a Jesus, dizendo:"
-    },
-    "32": {
-      "título": "",
-      "texto": "Mas ele lhes disse:"
-    },
-    "33": {
-      "título": "",
-      "texto": "Então os discípulos começaram a dizer entre si:"
-    },
-    "34": {
-      "título": "",
-      "texto": "Jesus lhes declarou:"
-    },
-    "35": {
-      "título": "",
-      "texto": "Vocês não dizem que ainda faltam quatro meses até a colheita? Eu, porém, lhes digo: Levantem os olhos e vejam os campos, pois estão maduros para a colheita."
-    },
-    "36": {
-      "título": "",
-      "texto": "Quem colhe recebe desde já a recompensa e ajunta o seu fruto para a vida eterna, para que se alegrem ao mesmo tempo o que semeia e o que colhe."
-    },
-    "37": {
-      "título": "",
-      "texto": "Pois, no caso, é verdadeiro o ditado: “Um é o que semeia, outro é o que colhe.”"
-    },
-    "38": {
-      "título": "",
-      "texto": "Eu os enviei a colher o que vocês não semearam; outros trabalharam, e vocês aproveitaram o trabalho deles."
-    },
-    "39": {
-      "título": "",
-      "texto": "Muitos samaritanos daquela cidade creram em Jesus, por causa do testemunho da mulher, que tinha dito: “Ele me disse tudo o que eu já fiz.”"
-    },
-    "40": {
-      "título": "",
-      "texto": "Quando, pois, os samaritanos foram até Jesus, pediram-lhe que permanecesse com eles; e Jesus ficou ali dois dias."
-    },
-    "41": {
-      "título": "",
-      "texto": "Muitos outros creram nele, por causa da palavra de Jesus."
-    },
-    "42": {
-      "título": "",
-      "texto": "E diziam à mulher:"
-    },
-    "43": {
-      "título": "A cura do filho de um oficial do rei",
-      "texto": "Passados dois dias, Jesus saiu dali e foi para a Galileia."
-    },
-    "44": {
-      "título": "",
-      "texto": "Porque o próprio Jesus testemunhou que um profeta não tem honra na sua própria terra."
-    },
-    "45": {
-      "título": "",
-      "texto": "Assim, quando chegou à Galileia, os galileus o receberam, porque viram todas as coisas que Jesus tinha feito em Jerusalém, por ocasião da festa, à qual eles também tinham comparecido."
-    },
-    "46": {
-      "título": "",
-      "texto": "Jesus foi outra vez a Caná da Galileia, onde tinha transformado água em vinho. E havia ali um oficial do rei, cujo filho estava doente em Cafarnaum."
-    },
-    "47": {
-      "título": "",
-      "texto": "Quando ouviu dizer que Jesus tinha vindo da Judeia para a Galileia, foi até ele e pediu-lhe que fosse curar o seu filho, que estava morrendo."
-    },
-    "48": {
-      "título": "",
-      "texto": "Então Jesus lhe disse:"
-    },
-    "49": {
-      "título": "",
-      "texto": "O oficial pediu mais uma vez:"
-    },
-    "50": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "51": {
-      "título": "",
-      "texto": "Quando já estava a caminho, os seus servos vieram ao encontro dele, anunciando-lhe que o seu filho estava vivo."
-    },
-    "52": {
-      "título": "",
-      "texto": "Então perguntou a que horas o seu filho havia se sentido melhor. Informaram:"
-    },
-    "53": {
-      "título": "",
-      "texto": "Com isso, o pai reconheceu que aquela era precisamente a hora em que Jesus tinha dito a ele: “O seu filho vai viver.” E ele e toda a sua casa creram."
-    },
-    "54": {
-      "título": "",
-      "texto": "Este foi o segundo sinal que Jesus fez, depois de ir da Judeia para a Galileia."
+    "versiculos": {
+        "1": "Quando Jesus soube que os fariseus tinham ouvido dizer que ele fazia e batizava mais discípulos do que João",
+        "2": "— se bem que Jesus mesmo não batizava, e sim os seus discípulos —,",
+        "3": "deixou a Judeia, retirando-se outra vez para a Galileia.",
+        "4": "E era-lhe necessário passar pela região da Samaria.",
+        "5": "Assim, Jesus chegou a uma cidade samaritana, chamada Sicar, perto das terras que Jacó tinha dado a seu filho José.",
+        "6": "Ali ficava o poço de Jacó. Cansado da viagem, Jesus sentou-se junto ao poço. Era por volta do meio-dia.",
+        "7": "Nisso veio uma mulher samaritana tirar água. Jesus lhe disse:",
+        "8": "Pois os seus discípulos tinham ido à cidade comprar alimentos.",
+        "9": "Então a mulher samaritana perguntou a Jesus:",
+        "10": "Jesus respondeu:",
+        "11": "Ao que a mulher respondeu:",
+        "12": "Por acaso o senhor é maior do que Jacó, o nosso pai, que nos deu o poço, do qual ele mesmo bebeu, assim como os seus filhos e o seu gado?",
+        "13": "Jesus respondeu:",
+        "14": "mas aquele que beber da água que eu lhe der nunca mais terá sede. Pelo contrário, a água que eu lhe der será nele uma fonte a jorrar para a vida eterna.",
+        "15": "A mulher lhe disse:",
+        "16": "Jesus disse:",
+        "17": "Ao que a mulher respondeu:",
+        "18": "Porque já teve cinco, e esse que agora tem não é seu marido. O que você disse é verdade.",
+        "19": "A mulher então lhe disse:",
+        "20": "Nossos pais adoravam neste monte, mas vocês dizem que em Jerusalém é o lugar onde se deve adorar.",
+        "21": "Jesus respondeu:",
+        "22": "Vocês adoram o que não conhecem; nós adoramos o que conhecemos, porque a salvação vem dos judeus.",
+        "23": "Mas vem a hora — e já chegou — em que os verdadeiros adoradores adorarão o Pai em espírito e em verdade. Porque são esses que o Pai procura para seus adoradores.",
+        "24": "Deus é Espírito, e é necessário que os seus adoradores o adorem em espírito e em verdade.",
+        "25": "A mulher respondeu:",
+        "26": "Então Jesus disse:",
+        "27": "Naquele momento, chegaram os discípulos de Jesus e se admiraram ao vê-lo falando com uma mulher. Mas nenhum deles perguntou: “O que você está querendo?” Ou: “Por que o senhor está falando com ela?”",
+        "28": "Quanto à mulher, deixou o seu cântaro, foi à cidade e disse ao povo:",
+        "29": "— Venham comigo e vejam um homem que me disse tudo o que eu já fiz. Não seria ele, por acaso, o Cristo?",
+        "30": "Então saíram da cidade e foram até onde Jesus estava.",
+        "31": "Enquanto isso, os discípulos pediam a Jesus, dizendo:",
+        "32": "Mas ele lhes disse:",
+        "33": "Então os discípulos começaram a dizer entre si:",
+        "34": "Jesus lhes declarou:",
+        "35": "Vocês não dizem que ainda faltam quatro meses até a colheita? Eu, porém, lhes digo: Levantem os olhos e vejam os campos, pois estão maduros para a colheita.",
+        "36": "Quem colhe recebe desde já a recompensa e ajunta o seu fruto para a vida eterna, para que se alegrem ao mesmo tempo o que semeia e o que colhe.",
+        "37": "Pois, no caso, é verdadeiro o ditado: “Um é o que semeia, outro é o que colhe.”",
+        "38": "Eu os enviei a colher o que vocês não semearam; outros trabalharam, e vocês aproveitaram o trabalho deles.",
+        "39": "Muitos samaritanos daquela cidade creram em Jesus, por causa do testemunho da mulher, que tinha dito: “Ele me disse tudo o que eu já fiz.”",
+        "40": "Quando, pois, os samaritanos foram até Jesus, pediram-lhe que permanecesse com eles; e Jesus ficou ali dois dias.",
+        "41": "Muitos outros creram nele, por causa da palavra de Jesus.",
+        "42": "E diziam à mulher:",
+        "43": "Passados dois dias, Jesus saiu dali e foi para a Galileia.",
+        "44": "Porque o próprio Jesus testemunhou que um profeta não tem honra na sua própria terra.",
+        "45": "Assim, quando chegou à Galileia, os galileus o receberam, porque viram todas as coisas que Jesus tinha feito em Jerusalém, por ocasião da festa, à qual eles também tinham comparecido.",
+        "46": "Jesus foi outra vez a Caná da Galileia, onde tinha transformado água em vinho. E havia ali um oficial do rei, cujo filho estava doente em Cafarnaum.",
+        "47": "Quando ouviu dizer que Jesus tinha vindo da Judeia para a Galileia, foi até ele e pediu-lhe que fosse curar o seu filho, que estava morrendo.",
+        "48": "Então Jesus lhe disse:",
+        "49": "O oficial pediu mais uma vez:",
+        "50": "Jesus respondeu:",
+        "51": "Quando já estava a caminho, os seus servos vieram ao encontro dele, anunciando-lhe que o seu filho estava vivo.",
+        "52": "Então perguntou a que horas o seu filho havia se sentido melhor. Informaram:",
+        "53": "Com isso, o pai reconheceu que aquela era precisamente a hora em que Jesus tinha dito a ele: “O seu filho vai viver.” E ele e toda a sua casa creram.",
+        "54": "Este foi o segundo sinal que Jesus fez, depois de ir da Judeia para a Galileia."
     }
-  }
 }

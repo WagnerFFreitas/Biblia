@@ -1,58 +1,22 @@
 {
-  "livro": "Daniel",
-  "capítulo": 12,
-  "versículos": {
-    "1": {
-      "título": "O tempo do fim",
-      "texto": "— Nesse tempo, se levantará Miguel, o grande príncipe, o defensor dos filhos do povo de Deus, e haverá tempo de angústia, como nunca houve, desde que existem nações até aquele tempo. Mas, naquele tempo, o povo de Deus será salvo, todo aquele que for achado inscrito no livro."
+    "livro": "Daniel",
+    "capitulo": 12,
+    "titulos": {
+        "1": "O tempo do fim"
     },
-    "2": {
-      "título": "",
-      "texto": "Muitos dos que dormem no pó da terra ressuscitarão, uns para a vida eterna, outros para vergonha e horror eterno."
-    },
-    "3": {
-      "título": "",
-      "texto": "Os que forem sábios resplandecerão como o fulgor do firmamento, e os que conduzirem muitos à justiça brilharão como as estrelas, sempre e eternamente."
-    },
-    "4": {
-      "título": "",
-      "texto": "Quanto a você, Daniel, encerre as palavras e sele o livro, até o tempo do fim. Muitos correrão de um lado para outro, e o saber se multiplicará."
-    },
-    "5": {
-      "título": "",
-      "texto": "Então eu, Daniel, olhei, e eis que outros dois estavam em pé às margens do rio, um de cada lado."
-    },
-    "6": {
-      "título": "",
-      "texto": "Um deles perguntou ao homem vestido de linho, que estava sobre as águas do rio:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Então ouvi o homem vestido de linho, que estava sobre as águas do rio. Ele levantou a mão direita e a esquerda ao céu e jurou por aquele que vive eternamente, dizendo:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Eu ouvi, mas não entendi. Então perguntei:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Ele respondeu:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Muitos serão purificados, limpos e provados, mas os ímpios continuarão na sua impiedade, e nenhum deles entenderá; mas os sábios entenderão."
-    },
-    "11": {
-      "título": "",
-      "texto": "Depois do tempo em que o sacrifício diário for tirado e a abominação desoladora for estabelecida, haverá ainda mil duzentos e noventa dias."
-    },
-    "12": {
-      "título": "",
-      "texto": "Bem-aventurado o que espera e chega até mil trezentos e trinta e cinco dias."
-    },
-    "13": {
-      "título": "",
-      "texto": "— Quanto a você, siga o seu caminho até o fim. Você descansará e, ao fim dos dias, se levantará para receber a sua herança."
+    "versiculos": {
+        "1": "— Nesse tempo, se levantará Miguel, o grande príncipe, o defensor dos filhos do povo de Deus, e haverá tempo de angústia, como nunca houve, desde que existem nações até aquele tempo. Mas, naquele tempo, o povo de Deus será salvo, todo aquele que for achado inscrito no livro.",
+        "2": "Muitos dos que dormem no pó da terra ressuscitarão, uns para a vida eterna, outros para vergonha e horror eterno.",
+        "3": "Os que forem sábios resplandecerão como o fulgor do firmamento, e os que conduzirem muitos à justiça brilharão como as estrelas, sempre e eternamente.",
+        "4": "Quanto a você, Daniel, encerre as palavras e sele o livro, até o tempo do fim. Muitos correrão de um lado para outro, e o saber se multiplicará.",
+        "5": "Então eu, Daniel, olhei, e eis que outros dois estavam em pé às margens do rio, um de cada lado.",
+        "6": "Um deles perguntou ao homem vestido de linho, que estava sobre as águas do rio:",
+        "7": "Então ouvi o homem vestido de linho, que estava sobre as águas do rio. Ele levantou a mão direita e a esquerda ao céu e jurou por aquele que vive eternamente, dizendo:",
+        "8": "Eu ouvi, mas não entendi. Então perguntei:",
+        "9": "Ele respondeu:",
+        "10": "Muitos serão purificados, limpos e provados, mas os ímpios continuarão na sua impiedade, e nenhum deles entenderá; mas os sábios entenderão.",
+        "11": "Depois do tempo em que o sacrifício diário for tirado e a abominação desoladora for estabelecida, haverá ainda mil duzentos e noventa dias.",
+        "12": "Bem-aventurado o que espera e chega até mil trezentos e trinta e cinco dias.",
+        "13": "— Quanto a você, siga o seu caminho até o fim. Você descansará e, ao fim dos dias, se levantará para receber a sua herança."
     }
-  }
 }

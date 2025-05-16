@@ -1,54 +1,21 @@
 {
-  "livro": "1 Samuel",
-  "capítulo": 27,
-  "versículos": {
-    "1": {
-      "título": "Davi, outra vez, com Aquis, rei de Gate",
-      "texto": "Davi disse consigo mesmo:"
+    "livro": "1 Samuel",
+    "capitulo": 27,
+    "titulos": {
+        "1": "Davi, outra vez, com Aquis, rei de Gate"
     },
-    "2": {
-      "título": "",
-      "texto": "Davi se levantou e, com os seiscentos homens que estavam com ele, foi até Aquis, filho de Maoque, rei de Gate."
-    },
-    "3": {
-      "título": "",
-      "texto": "Davi ficou morando com Aquis, na cidade de Gate, ele e os seus homens, cada um com a sua família. Davi foi com as suas duas mulheres: Ainoã, a jezreelita, e Abigail, a viúva de Nabal, o carmelita."
-    },
-    "4": {
-      "título": "",
-      "texto": "Quando Saul foi avisado de que Davi tinha fugido para Gate, desistiu de o perseguir."
-    },
-    "5": {
-      "título": "",
-      "texto": "Davi disse a Aquis:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Então, naquele dia, Aquis deu a Davi a cidade de Ziclague. Por isso, Ziclague pertence aos reis de Judá até o dia de hoje."
-    },
-    "7": {
-      "título": "",
-      "texto": "E todo o tempo que Davi permaneceu na terra dos filisteus foi um ano e quatro meses."
-    },
-    "8": {
-      "título": "",
-      "texto": "Davi ia com os seus homens, e eles atacavam os gesuritas, os gersitas e os amalequitas, porque estes eram os moradores da terra desde Telã, na direção de Sur, até a terra do Egito."
-    },
-    "9": {
-      "título": "",
-      "texto": "Quando Davi atacava aquela terra, não deixava com vida nem homem nem mulher, e tomava as ovelhas, os bois, os jumentos, os camelos e as roupas. Então voltava e vinha para junto de Aquis."
-    },
-    "10": {
-      "título": "",
-      "texto": "Quando Aquis perguntava: “Quem foi que você atacou hoje?”, Davi respondia: “Ataquei o Sul de Judá, o Sul dos jerameelitas, e o Sul dos queneus.”"
-    },
-    "11": {
-      "título": "",
-      "texto": "Davi não deixava com vida nem homem nem mulher, para os trazer a Gate, pois dizia: “Para que não nos denunciem, dizendo: ‘É assim que Davi fazia.’” Este era o seu modo de agir durante todo o tempo em que morou na terra dos filisteus."
-    },
-    "12": {
-      "título": "",
-      "texto": "Aquis confiava em Davi, dizendo:"
+    "versiculos": {
+        "1": "Davi disse consigo mesmo:",
+        "2": "Davi se levantou e, com os seiscentos homens que estavam com ele, foi até Aquis, filho de Maoque, rei de Gate.",
+        "3": "Davi ficou morando com Aquis, na cidade de Gate, ele e os seus homens, cada um com a sua família. Davi foi com as suas duas mulheres: Ainoã, a jezreelita, e Abigail, a viúva de Nabal, o carmelita.",
+        "4": "Quando Saul foi avisado de que Davi tinha fugido para Gate, desistiu de o perseguir.",
+        "5": "Davi disse a Aquis:",
+        "6": "Então, naquele dia, Aquis deu a Davi a cidade de Ziclague. Por isso, Ziclague pertence aos reis de Judá até o dia de hoje.",
+        "7": "E todo o tempo que Davi permaneceu na terra dos filisteus foi um ano e quatro meses.",
+        "8": "Davi ia com os seus homens, e eles atacavam os gesuritas, os gersitas e os amalequitas, porque estes eram os moradores da terra desde Telã, na direção de Sur, até a terra do Egito.",
+        "9": "Quando Davi atacava aquela terra, não deixava com vida nem homem nem mulher, e tomava as ovelhas, os bois, os jumentos, os camelos e as roupas. Então voltava e vinha para junto de Aquis.",
+        "10": "Quando Aquis perguntava: “Quem foi que você atacou hoje?”, Davi respondia: “Ataquei o Sul de Judá, o Sul dos jerameelitas, e o Sul dos queneus.”",
+        "11": "Davi não deixava com vida nem homem nem mulher, para os trazer a Gate, pois dizia: “Para que não nos denunciem, dizendo: ‘É assim que Davi fazia.’” Este era o seu modo de agir durante todo o tempo em que morou na terra dos filisteus.",
+        "12": "Aquis confiava em Davi, dizendo:"
     }
-  }
 }

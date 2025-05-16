@@ -1,150 +1,49 @@
 {
-  "livro": "Juízes",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "Novas conquistas pelas tribos",
-      "texto": "Depois da morte de Josué, os filhos de Israel consultaram o Senhor , dizendo:"
+    "livro": "Juízes",
+    "capitulo": 1,
+    "titulos": {
+        "1": "Novas conquistas pelas tribos",
+        "8": "A conquista de Jerusalém e Hebrom",
+        "11": "Otniel conquista Debir",
+        "16": "Outras conquistas",
+        "27": "Terras não conquistadas pelos israelitas"
     },
-    "2": {
-      "título": "",
-      "texto": "O Senhor respondeu:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Então os filhos de Judá disseram aos seus irmãos da tribo de Simeão:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Os filhos de Judá atacaram, e o Senhor lhes entregou nas mãos os cananeus e os ferezeus; e, em Bezeque, mataram dez mil homens."
-    },
-    "5": {
-      "título": "",
-      "texto": "Em Bezeque, encontraram Adoni-Bezeque e lutaram contra ele; e derrotaram os cananeus e os ferezeus."
-    },
-    "6": {
-      "título": "",
-      "texto": "Adoni-Bezeque fugiu, mas eles o perseguiram e, prendendo-o, lhe cortaram os polegares das mãos e dos pés."
-    },
-    "7": {
-      "título": "",
-      "texto": "Então Adoni-Bezeque disse:"
-    },
-    "8": {
-      "título": "A conquista de Jerusalém e Hebrom",
-      "texto": "Os filhos de Judá atacaram Jerusalém e, tomando-a, mataram os seus moradores e puseram fogo na cidade."
-    },
-    "9": {
-      "título": "",
-      "texto": "Depois, os filhos de Judá foram lutar contra os cananeus que habitavam nas montanhas, no Neguebe e na Sefelá."
-    },
-    "10": {
-      "título": "",
-      "texto": "Também atacaram os cananeus que moravam em Hebrom, cujo nome antes era Quiriate-Arba, e derrotaram Sesai, Aimã e Talmai."
-    },
-    "11": {
-      "título": "Otniel conquista Debir",
-      "texto": "Dali os filhos de Judá marcharam contra os moradores de Debir, que antes era chamada de Quiriate-Sefer."
-    },
-    "12": {
-      "título": "",
-      "texto": "Então Calebe disse:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Quem conquistou a cidade foi Otniel, filho de Quenaz, o irmão de Calebe, mais novo do que ele. E Calebe lhe deu a sua filha Acsa por mulher."
-    },
-    "14": {
-      "título": "",
-      "texto": "Esta, quando foi morar com Otniel, insistiu com ele para que pedisse um campo ao pai dela. Quando ela desceu do jumento, Calebe lhe perguntou:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Ela respondeu:"
-    },
-    "16": {
-      "título": "Outras conquistas",
-      "texto": "Os filhos do queneu, sogro de Moisés, saíram da cidade das palmeiras com os filhos de Judá e foram ao deserto de Judá, que está ao sul de Arade; foram e habitaram com este povo."
-    },
-    "17": {
-      "título": "",
-      "texto": "Os filhos de Judá foram com os seus irmãos da tribo de Simeão e atacaram os cananeus que moravam em Zefate e destruíram totalmente a cidade; por isso, foi chamada de Horma."
-    },
-    "18": {
-      "título": "",
-      "texto": "Também conquistaram Gaza, Asquelom e Ecrom com os seus respectivos territórios."
-    },
-    "19": {
-      "título": "",
-      "texto": "O Senhor esteve com os filhos de Judá, e estes ocuparam a região das montanhas. Porém não expulsaram os moradores do vale, porque estes tinham carros de ferro."
-    },
-    "20": {
-      "título": "",
-      "texto": "E, como Moisés havia prometido, deram Hebrom a Calebe, e este expulsou dali os três filhos de Anaque."
-    },
-    "21": {
-      "título": "",
-      "texto": "Porém os filhos de Benjamim não expulsaram os jebuseus que moravam em Jerusalém. Assim, os jebuseus vivem com os filhos de Benjamim em Jerusalém até o dia de hoje."
-    },
-    "22": {
-      "título": "",
-      "texto": "A casa de José atacou Betel, e o Senhor estava com eles."
-    },
-    "23": {
-      "título": "",
-      "texto": "A casa de José enviou homens a espiar Betel, que antes se chamava Luz."
-    },
-    "24": {
-      "título": "",
-      "texto": "Os espias viram um homem que saía da cidade e lhe disseram:"
-    },
-    "25": {
-      "título": "",
-      "texto": "O homem mostrou a entrada da cidade, e eles mataram os moradores ao fio da espada; mas deixaram ir aquele homem e toda a sua família."
-    },
-    "26": {
-      "título": "",
-      "texto": "Então ele foi para a terra dos heteus, edificou uma cidade, e lhe deu o nome de Luz. E este é o seu nome até o dia de hoje."
-    },
-    "27": {
-      "título": "Terras não conquistadas pelos israelitas",
-      "texto": "A tribo de Manassés não expulsou os moradores de Bete-Seã, nem os de Taanaque, nem os de Dor, nem os de Ibleão, nem os de Megido, todas com as suas respectivas aldeias; os cananeus continuaram a viver naquela terra."
-    },
-    "28": {
-      "título": "",
-      "texto": "Quando, porém, Israel se tornou mais forte, sujeitou os cananeus a trabalhos forçados, mas não os expulsou de todo."
-    },
-    "29": {
-      "título": "",
-      "texto": "A tribo de Efraim não expulsou os cananeus, moradores de Gezer. Assim, continuaram a viver com eles em Gezer."
-    },
-    "30": {
-      "título": "",
-      "texto": "A tribo de Zebulom não expulsou os moradores de Quitrom, nem os de Naalol. Os cananeus continuaram com eles, sujeitos a trabalhos forçados."
-    },
-    "31": {
-      "título": "",
-      "texto": "A tribo de Aser não expulsou os moradores de Aco, nem os de Sidom, os de Alabe, os de Aczibe, os de Helba, os de Afeca e os de Reobe."
-    },
-    "32": {
-      "título": "",
-      "texto": "Os aseritas continuaram no meio dos cananeus que moravam na terra, porque não os expulsaram."
-    },
-    "33": {
-      "título": "",
-      "texto": "A tribo de Naftali não expulsou os moradores de Bete-Semes, nem os de Bete-Anate, mas continuou no meio dos cananeus que moravam na terra. No entanto, os moradores de Bete-Semes e Bete-Anate ficaram sujeitos a trabalhos forçados."
-    },
-    "34": {
-      "título": "",
-      "texto": "Os amorreus levaram os filhos de Dã a se retirar para as montanhas e não os deixavam descer ao vale."
-    },
-    "35": {
-      "título": "",
-      "texto": "Os amorreus conseguiram permanecer nas montanhas de Heres, em Aijalom e em Saalabim; no entanto, a mão da casa de José prevaleceu, e os amorreus foram sujeitos a trabalhos forçados."
-    },
-    "36": {
-      "título": "",
-      "texto": "O território dos amorreus ia desde a subida de Acrabim e desde Sela para cima."
+    "versiculos": {
+        "1": "Depois da morte de Josué, os filhos de Israel consultaram o Senhor , dizendo:",
+        "2": "O Senhor respondeu:",
+        "3": "Então os filhos de Judá disseram aos seus irmãos da tribo de Simeão:",
+        "4": "Os filhos de Judá atacaram, e o Senhor lhes entregou nas mãos os cananeus e os ferezeus; e, em Bezeque, mataram dez mil homens.",
+        "5": "Em Bezeque, encontraram Adoni-Bezeque e lutaram contra ele; e derrotaram os cananeus e os ferezeus.",
+        "6": "Adoni-Bezeque fugiu, mas eles o perseguiram e, prendendo-o, lhe cortaram os polegares das mãos e dos pés.",
+        "7": "Então Adoni-Bezeque disse:",
+        "8": "Os filhos de Judá atacaram Jerusalém e, tomando-a, mataram os seus moradores e puseram fogo na cidade.",
+        "9": "Depois, os filhos de Judá foram lutar contra os cananeus que habitavam nas montanhas, no Neguebe e na Sefelá.",
+        "10": "Também atacaram os cananeus que moravam em Hebrom, cujo nome antes era Quiriate-Arba, e derrotaram Sesai, Aimã e Talmai.",
+        "11": "Dali os filhos de Judá marcharam contra os moradores de Debir, que antes era chamada de Quiriate-Sefer.",
+        "12": "Então Calebe disse:",
+        "13": "Quem conquistou a cidade foi Otniel, filho de Quenaz, o irmão de Calebe, mais novo do que ele. E Calebe lhe deu a sua filha Acsa por mulher.",
+        "14": "Esta, quando foi morar com Otniel, insistiu com ele para que pedisse um campo ao pai dela. Quando ela desceu do jumento, Calebe lhe perguntou:",
+        "15": "Ela respondeu:",
+        "16": "Os filhos do queneu, sogro de Moisés, saíram da cidade das palmeiras com os filhos de Judá e foram ao deserto de Judá, que está ao sul de Arade; foram e habitaram com este povo.",
+        "17": "Os filhos de Judá foram com os seus irmãos da tribo de Simeão e atacaram os cananeus que moravam em Zefate e destruíram totalmente a cidade; por isso, foi chamada de Horma.",
+        "18": "Também conquistaram Gaza, Asquelom e Ecrom com os seus respectivos territórios.",
+        "19": "O Senhor esteve com os filhos de Judá, e estes ocuparam a região das montanhas. Porém não expulsaram os moradores do vale, porque estes tinham carros de ferro.",
+        "20": "E, como Moisés havia prometido, deram Hebrom a Calebe, e este expulsou dali os três filhos de Anaque.",
+        "21": "Porém os filhos de Benjamim não expulsaram os jebuseus que moravam em Jerusalém. Assim, os jebuseus vivem com os filhos de Benjamim em Jerusalém até o dia de hoje.",
+        "22": "A casa de José atacou Betel, e o Senhor estava com eles.",
+        "23": "A casa de José enviou homens a espiar Betel, que antes se chamava Luz.",
+        "24": "Os espias viram um homem que saía da cidade e lhe disseram:",
+        "25": "O homem mostrou a entrada da cidade, e eles mataram os moradores ao fio da espada; mas deixaram ir aquele homem e toda a sua família.",
+        "26": "Então ele foi para a terra dos heteus, edificou uma cidade, e lhe deu o nome de Luz. E este é o seu nome até o dia de hoje.",
+        "27": "A tribo de Manassés não expulsou os moradores de Bete-Seã, nem os de Taanaque, nem os de Dor, nem os de Ibleão, nem os de Megido, todas com as suas respectivas aldeias; os cananeus continuaram a viver naquela terra.",
+        "28": "Quando, porém, Israel se tornou mais forte, sujeitou os cananeus a trabalhos forçados, mas não os expulsou de todo.",
+        "29": "A tribo de Efraim não expulsou os cananeus, moradores de Gezer. Assim, continuaram a viver com eles em Gezer.",
+        "30": "A tribo de Zebulom não expulsou os moradores de Quitrom, nem os de Naalol. Os cananeus continuaram com eles, sujeitos a trabalhos forçados.",
+        "31": "A tribo de Aser não expulsou os moradores de Aco, nem os de Sidom, os de Alabe, os de Aczibe, os de Helba, os de Afeca e os de Reobe.",
+        "32": "Os aseritas continuaram no meio dos cananeus que moravam na terra, porque não os expulsaram.",
+        "33": "A tribo de Naftali não expulsou os moradores de Bete-Semes, nem os de Bete-Anate, mas continuou no meio dos cananeus que moravam na terra. No entanto, os moradores de Bete-Semes e Bete-Anate ficaram sujeitos a trabalhos forçados.",
+        "34": "Os amorreus levaram os filhos de Dã a se retirar para as montanhas e não os deixavam descer ao vale.",
+        "35": "Os amorreus conseguiram permanecer nas montanhas de Heres, em Aijalom e em Saalabim; no entanto, a mão da casa de José prevaleceu, e os amorreus foram sujeitos a trabalhos forçados.",
+        "36": "O território dos amorreus ia desde a subida de Acrabim e desde Sela para cima."
     }
-  }
 }

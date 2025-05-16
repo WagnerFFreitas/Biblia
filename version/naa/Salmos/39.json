@@ -1,58 +1,22 @@
 {
-  "livro": "Salmos",
-  "capítulo": 39,
-  "versículos": {
-    "1": {
-      "título": "A vaidade da vida",
-      "texto": "Eu disse comigo mesmo:"
+    "livro": "Salmos",
+    "capitulo": 39,
+    "titulos": {
+        "1": "A vaidade da vida"
     },
-    "2": {
-      "título": "",
-      "texto": "Emudeci em silêncio,"
-    },
-    "3": {
-      "título": "",
-      "texto": "O coração me ardia no peito;"
-    },
-    "4": {
-      "título": "",
-      "texto": "“ Senhor , dá-me a conhecer"
-    },
-    "5": {
-      "título": "",
-      "texto": "Deste aos meus dias"
-    },
-    "6": {
-      "título": "",
-      "texto": "De fato, o ser humano passa"
-    },
-    "7": {
-      "título": "",
-      "texto": "“E eu, Senhor, que espero?"
-    },
-    "8": {
-      "título": "",
-      "texto": "Livra-me de todas"
-    },
-    "9": {
-      "título": "",
-      "texto": "Emudeço, não abro os lábios"
-    },
-    "10": {
-      "título": "",
-      "texto": "Tira de sobre mim o teu flagelo;"
-    },
-    "11": {
-      "título": "",
-      "texto": "Quando castigas alguém"
-    },
-    "12": {
-      "título": "",
-      "texto": "“Ouve, Senhor , a minha oração,"
-    },
-    "13": {
-      "título": "",
-      "texto": "Desvia de mim o olhar,"
+    "versiculos": {
+        "1": "Eu disse comigo mesmo:",
+        "2": "Emudeci em silêncio,",
+        "3": "O coração me ardia no peito;",
+        "4": "“ Senhor , dá-me a conhecer",
+        "5": "Deste aos meus dias",
+        "6": "De fato, o ser humano passa",
+        "7": "“E eu, Senhor, que espero?",
+        "8": "Livra-me de todas",
+        "9": "Emudeço, não abro os lábios",
+        "10": "Tira de sobre mim o teu flagelo;",
+        "11": "Quando castigas alguém",
+        "12": "“Ouve, Senhor , a minha oração,",
+        "13": "Desvia de mim o olhar,"
     }
-  }
 }

@@ -1,122 +1,41 @@
 {
-  "livro": "Jó",
-  "capítulo": 20,
-  "versículos": {
-    "1": {
-      "título": "Cap.",
-      "texto": "Então Zofar, o naamatita, tomou a palavra e disse:"
+    "livro": "Jó",
+    "capitulo": 20,
+    "titulos": {
+        "1": "Cap.",
+        "4": "O júbilo dos ímpios é breve",
+        "12": "O mal é veneno",
+        "23": "A ira de Deus sobre o ímpio"
     },
-    "2": {
-      "título": "",
-      "texto": "“Visto que os meus pensamentos"
-    },
-    "3": {
-      "título": "",
-      "texto": "Eu ouvi a repreensão,"
-    },
-    "4": {
-      "título": "O júbilo dos ímpios é breve",
-      "texto": "“Será que você não sabe"
-    },
-    "5": {
-      "título": "",
-      "texto": "o júbilo dos ímpios é breve,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Ainda que a sua presunção"
-    },
-    "7": {
-      "título": "",
-      "texto": "como o seu próprio esterco,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Voará como um sonho"
-    },
-    "9": {
-      "título": "",
-      "texto": "Os olhos que o viram"
-    },
-    "10": {
-      "título": "",
-      "texto": "Os seus filhos procurarão"
-    },
-    "11": {
-      "título": "",
-      "texto": "Ainda que os seus ossos"
-    },
-    "12": {
-      "título": "O mal é veneno",
-      "texto": "“Ainda que o mal seja doce"
-    },
-    "13": {
-      "título": "",
-      "texto": "e o saboreie,"
-    },
-    "14": {
-      "título": "",
-      "texto": "o fato é que a sua comida"
-    },
-    "15": {
-      "título": "",
-      "texto": "Engoliu riquezas,"
-    },
-    "16": {
-      "título": "",
-      "texto": "Sugou veneno de cobra;"
-    },
-    "17": {
-      "título": "",
-      "texto": "Não se deliciará"
-    },
-    "18": {
-      "título": "",
-      "texto": "Devolverá o fruto"
-    },
-    "19": {
-      "título": "",
-      "texto": "Porque oprimiu"
-    },
-    "20": {
-      "título": "",
-      "texto": "Por não haver limites"
-    },
-    "21": {
-      "título": "",
-      "texto": "Nada escapou"
-    },
-    "22": {
-      "título": "",
-      "texto": "Na plenitude da sua riqueza,"
-    },
-    "23": {
-      "título": "A ira de Deus sobre o ímpio",
-      "texto": "“Para encher-lhe a barriga,"
-    },
-    "24": {
-      "título": "",
-      "texto": "Se fugir das armas de ferro,"
-    },
-    "25": {
-      "título": "",
-      "texto": "Ele arranca a flecha"
-    },
-    "26": {
-      "título": "",
-      "texto": "Todas as calamidades"
-    },
-    "27": {
-      "título": "",
-      "texto": "“Os céus manifestarão"
-    },
-    "28": {
-      "título": "",
-      "texto": "As riquezas de sua casa"
-    },
-    "29": {
-      "título": "",
-      "texto": "Esta é, da parte de Deus,"
+    "versiculos": {
+        "1": "Então Zofar, o naamatita, tomou a palavra e disse:",
+        "2": "“Visto que os meus pensamentos",
+        "3": "Eu ouvi a repreensão,",
+        "4": "“Será que você não sabe",
+        "5": "o júbilo dos ímpios é breve,",
+        "6": "Ainda que a sua presunção",
+        "7": "como o seu próprio esterco,",
+        "8": "Voará como um sonho",
+        "9": "Os olhos que o viram",
+        "10": "Os seus filhos procurarão",
+        "11": "Ainda que os seus ossos",
+        "12": "“Ainda que o mal seja doce",
+        "13": "e o saboreie,",
+        "14": "o fato é que a sua comida",
+        "15": "Engoliu riquezas,",
+        "16": "Sugou veneno de cobra;",
+        "17": "Não se deliciará",
+        "18": "Devolverá o fruto",
+        "19": "Porque oprimiu",
+        "20": "Por não haver limites",
+        "21": "Nada escapou",
+        "22": "Na plenitude da sua riqueza,",
+        "23": "“Para encher-lhe a barriga,",
+        "24": "Se fugir das armas de ferro,",
+        "25": "Ele arranca a flecha",
+        "26": "Todas as calamidades",
+        "27": "“Os céus manifestarão",
+        "28": "As riquezas de sua casa",
+        "29": "Esta é, da parte de Deus,"
     }
-  }
 }

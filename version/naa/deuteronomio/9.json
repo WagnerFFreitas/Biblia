@@ -1,122 +1,40 @@
 {
-  "livro": "Deuteronômio",
-  "capítulo": 9,
-  "versículos": {
-    "1": {
-      "título": "Moisés lembra aos israelitas o socorro divino",
-      "texto": "— Escute, Israel! Hoje vocês vão passar o Jordão para tomar posse de nações maiores e mais fortes do que vocês, cidades grandes e com muralhas que chegam até os céus,"
+    "livro": "Deuteronômio",
+    "capitulo": 9,
+    "titulos": {
+        "1": "Moisés lembra aos israelitas o socorro divino",
+        "6": "As infidelidades de Israel",
+        "25": "Moisés intercede pelo povo"
     },
-    "2": {
-      "título": "",
-      "texto": "um povo grande e alto, filhos dos anaquins, que vocês conhecem e de quem vocês já ouviram dizer: “Quem poderá resistir aos filhos de Anaque?”"
-    },
-    "3": {
-      "título": "",
-      "texto": "Saibam, pois, hoje que o Senhor , seu Deus, é que vai adiante de vocês. Ele é fogo que consome; ele os destruirá e os subjugará diante de vocês. Assim, vocês os expulsarão e, depressa, os farão desaparecer, como o Senhor prometeu a vocês."
-    },
-    "4": {
-      "título": "",
-      "texto": "— Quando, pois, o Senhor , seu Deus, tiver expulsado essas nações de diante de vocês, não fiquem pensando: “É por causa da nossa justiça que o Senhor nos trouxe a esta terra para que tomemos posse dela.” Pelo contrário, é por causa da maldade dessas nações que o Senhor irá expulsá-las de diante de vocês."
-    },
-    "5": {
-      "título": "",
-      "texto": "Não é por causa da justiça de vocês, nem por causa da retidão do seu coração que vocês entrarão para possuir a terra dessas nações, mas o Senhor , o seu Deus, as expulsará de diante de vocês por causa da maldade delas e também para confirmar a palavra que o Senhor , o seu Deus, jurou aos seus pais, Abraão, Isaque e Jacó."
-    },
-    "6": {
-      "título": "As infidelidades de Israel",
-      "texto": "— Saibam, pois, que não é por causa da justiça de vocês que o Senhor , seu Deus, lhes dá esta boa terra para que tomem posse dela, pois vocês são um povo teimoso."
-    },
-    "7": {
-      "título": "",
-      "texto": "Lembrem-se e não se esqueçam de como no deserto vocês provocaram o Senhor à ira. Desde o dia em que saíram do Egito até que chegaram a este lugar, vocês foram rebeldes contra o Senhor ."
-    },
-    "8": {
-      "título": "",
-      "texto": "Em Horebe, vocês tanto provocaram o Senhor à ira, que o Senhor ficou irado com vocês, ao ponto de querer destruí-los."
-    },
-    "9": {
-      "título": "",
-      "texto": "Quando eu subi o monte para receber as tábuas de pedra, as tábuas da aliança que o Senhor havia feito com vocês, fiquei no monte quarenta dias e quarenta noites; não comi pão, nem bebi água."
-    },
-    "10": {
-      "título": "",
-      "texto": "O Senhor me deu as duas tábuas de pedra, escritas com o dedo de Deus. Nelas estavam todas as palavras que o Senhor havia falado com vocês no monte, do meio do fogo, quando todo o povo estava reunido."
-    },
-    "11": {
-      "título": "",
-      "texto": "No fim dos quarenta dias e quarenta noites, o Senhor me deu as duas tábuas de pedra, as tábuas da aliança."
-    },
-    "12": {
-      "título": "",
-      "texto": "E o Senhor me disse: “Levante-se, desça depressa, porque o seu povo, que você tirou do Egito, já se corrompeu. Bem depressa se desviaram do caminho que lhes ordenei; fizeram uma imagem fundida para si.”"
-    },
-    "13": {
-      "título": "",
-      "texto": "— E o Senhor continuou, dizendo: “Tenho observado este povo, e eis que ele é povo teimoso."
-    },
-    "14": {
-      "título": "",
-      "texto": "Deixe que eu os destrua e apague o nome deles da face da terra; e farei de você uma nação mais forte e mais numerosa do que esta.”"
-    },
-    "15": {
-      "título": "",
-      "texto": "— Então me virei e desci do monte, que estava em chamas. As duas tábuas da aliança estavam em minhas mãos."
-    },
-    "16": {
-      "título": "",
-      "texto": "Olhei, e eis que vocês haviam pecado contra o Senhor , seu Deus: tinham feito para si um bezerro de metal fundido. Bem depressa vocês se desviaram do caminho que o Senhor lhes havia ordenado."
-    },
-    "17": {
-      "título": "",
-      "texto": "Então peguei as duas tábuas e as joguei no chão, quebrando-as diante dos olhos de vocês."
-    },
-    "18": {
-      "título": "",
-      "texto": "Depois, como havia feito na ocasião anterior, fiquei prostrado diante do Senhor durante quarenta dias e quarenta noites. Não comi pão e não bebi água, por causa de todo o pecado que vocês haviam cometido, fazendo o que é mau aos olhos do Senhor , para o provocar à ira."
-    },
-    "19": {
-      "título": "",
-      "texto": "Porque eu estava com medo por causa da ira e do furor com que o Senhor tanto estava irado contra vocês, ao ponto de querer destruí-los. Porém mais uma vez o Senhor me ouviu."
-    },
-    "20": {
-      "título": "",
-      "texto": "O Senhor estava muito irado com Arão e queria destruí-lo; mas também orei por Arão ao mesmo tempo."
-    },
-    "21": {
-      "título": "",
-      "texto": "Depois peguei o pecado de vocês, aquele bezerro que vocês tinham feito, o queimei e o esmaguei, moendo-o bem, até que se desfez em pó; e o pó eu joguei no ribeiro que descia do monte."
-    },
-    "22": {
-      "título": "",
-      "texto": "— Também em Taberá, em Massá e em Quibrote-Hataavá vocês provocaram muito a ira do Senhor ."
-    },
-    "23": {
-      "título": "",
-      "texto": "Também quando o Senhor os enviou de Cades-Barneia, dizendo: “Vão e tomem posse da terra que lhes dei”, vocês se rebelaram contra o mandado do Senhor , seu Deus, e não creram nem obedeceram à sua voz."
-    },
-    "24": {
-      "título": "",
-      "texto": "Vocês têm sido rebeldes contra o Senhor , desde o dia em que os conheci."
-    },
-    "25": {
-      "título": "Moisés intercede pelo povo",
-      "texto": "— Assim, fiquei prostrado diante do Senhor . Durante quarenta dias e quarenta noites, estive prostrado, porque o Senhor tinha dito que queria destruir vocês."
-    },
-    "26": {
-      "título": "",
-      "texto": "Orei ao Senhor , dizendo: “Ó Senhor Deus ! Não destruas o teu povo e a tua herança, que resgataste com a tua grandeza, que tiraste do Egito com mão poderosa."
-    },
-    "27": {
-      "título": "",
-      "texto": "Lembra-te dos teus servos Abraão, Isaque e Jacó. Não atentes para a dureza deste povo, nem para a sua maldade, nem para o seu pecado,"
-    },
-    "28": {
-      "título": "",
-      "texto": "para que o povo da terra da qual nos tiraste não diga: ‘O Senhor não conseguiu levá-los para a terra que lhes havia prometido. E, por odiá-los, tirou-os daqui para matá-los no deserto.’"
-    },
-    "29": {
-      "título": "",
-      "texto": "Mas eles são o teu povo e a tua herança, que tiraste com o teu grande poder e com o braço estendido.”"
+    "versiculos": {
+        "1": "— Escute, Israel! Hoje vocês vão passar o Jordão para tomar posse de nações maiores e mais fortes do que vocês, cidades grandes e com muralhas que chegam até os céus,",
+        "2": "um povo grande e alto, filhos dos anaquins, que vocês conhecem e de quem vocês já ouviram dizer: “Quem poderá resistir aos filhos de Anaque?”",
+        "3": "Saibam, pois, hoje que o Senhor , seu Deus, é que vai adiante de vocês. Ele é fogo que consome; ele os destruirá e os subjugará diante de vocês. Assim, vocês os expulsarão e, depressa, os farão desaparecer, como o Senhor prometeu a vocês.",
+        "4": "— Quando, pois, o Senhor , seu Deus, tiver expulsado essas nações de diante de vocês, não fiquem pensando: “É por causa da nossa justiça que o Senhor nos trouxe a esta terra para que tomemos posse dela.” Pelo contrário, é por causa da maldade dessas nações que o Senhor irá expulsá-las de diante de vocês.",
+        "5": "Não é por causa da justiça de vocês, nem por causa da retidão do seu coração que vocês entrarão para possuir a terra dessas nações, mas o Senhor , o seu Deus, as expulsará de diante de vocês por causa da maldade delas e também para confirmar a palavra que o Senhor , o seu Deus, jurou aos seus pais, Abraão, Isaque e Jacó.",
+        "6": "— Saibam, pois, que não é por causa da justiça de vocês que o Senhor , seu Deus, lhes dá esta boa terra para que tomem posse dela, pois vocês são um povo teimoso.",
+        "7": "Lembrem-se e não se esqueçam de como no deserto vocês provocaram o Senhor à ira. Desde o dia em que saíram do Egito até que chegaram a este lugar, vocês foram rebeldes contra o Senhor .",
+        "8": "Em Horebe, vocês tanto provocaram o Senhor à ira, que o Senhor ficou irado com vocês, ao ponto de querer destruí-los.",
+        "9": "Quando eu subi o monte para receber as tábuas de pedra, as tábuas da aliança que o Senhor havia feito com vocês, fiquei no monte quarenta dias e quarenta noites; não comi pão, nem bebi água.",
+        "10": "O Senhor me deu as duas tábuas de pedra, escritas com o dedo de Deus. Nelas estavam todas as palavras que o Senhor havia falado com vocês no monte, do meio do fogo, quando todo o povo estava reunido.",
+        "11": "No fim dos quarenta dias e quarenta noites, o Senhor me deu as duas tábuas de pedra, as tábuas da aliança.",
+        "12": "E o Senhor me disse: “Levante-se, desça depressa, porque o seu povo, que você tirou do Egito, já se corrompeu. Bem depressa se desviaram do caminho que lhes ordenei; fizeram uma imagem fundida para si.”",
+        "13": "— E o Senhor continuou, dizendo: “Tenho observado este povo, e eis que ele é povo teimoso.",
+        "14": "Deixe que eu os destrua e apague o nome deles da face da terra; e farei de você uma nação mais forte e mais numerosa do que esta.”",
+        "15": "— Então me virei e desci do monte, que estava em chamas. As duas tábuas da aliança estavam em minhas mãos.",
+        "16": "Olhei, e eis que vocês haviam pecado contra o Senhor , seu Deus: tinham feito para si um bezerro de metal fundido. Bem depressa vocês se desviaram do caminho que o Senhor lhes havia ordenado.",
+        "17": "Então peguei as duas tábuas e as joguei no chão, quebrando-as diante dos olhos de vocês.",
+        "18": "Depois, como havia feito na ocasião anterior, fiquei prostrado diante do Senhor durante quarenta dias e quarenta noites. Não comi pão e não bebi água, por causa de todo o pecado que vocês haviam cometido, fazendo o que é mau aos olhos do Senhor , para o provocar à ira.",
+        "19": "Porque eu estava com medo por causa da ira e do furor com que o Senhor tanto estava irado contra vocês, ao ponto de querer destruí-los. Porém mais uma vez o Senhor me ouviu.",
+        "20": "O Senhor estava muito irado com Arão e queria destruí-lo; mas também orei por Arão ao mesmo tempo.",
+        "21": "Depois peguei o pecado de vocês, aquele bezerro que vocês tinham feito, o queimei e o esmaguei, moendo-o bem, até que se desfez em pó; e o pó eu joguei no ribeiro que descia do monte.",
+        "22": "— Também em Taberá, em Massá e em Quibrote-Hataavá vocês provocaram muito a ira do Senhor .",
+        "23": "Também quando o Senhor os enviou de Cades-Barneia, dizendo: “Vão e tomem posse da terra que lhes dei”, vocês se rebelaram contra o mandado do Senhor , seu Deus, e não creram nem obedeceram à sua voz.",
+        "24": "Vocês têm sido rebeldes contra o Senhor , desde o dia em que os conheci.",
+        "25": "— Assim, fiquei prostrado diante do Senhor . Durante quarenta dias e quarenta noites, estive prostrado, porque o Senhor tinha dito que queria destruir vocês.",
+        "26": "Orei ao Senhor , dizendo: “Ó Senhor Deus ! Não destruas o teu povo e a tua herança, que resgataste com a tua grandeza, que tiraste do Egito com mão poderosa.",
+        "27": "Lembra-te dos teus servos Abraão, Isaque e Jacó. Não atentes para a dureza deste povo, nem para a sua maldade, nem para o seu pecado,",
+        "28": "para que o povo da terra da qual nos tiraste não diga: ‘O Senhor não conseguiu levá-los para a terra que lhes havia prometido. E, por odiá-los, tirou-os daqui para matá-los no deserto.’",
+        "29": "Mas eles são o teu povo e a tua herança, que tiraste com o teu grande poder e com o braço estendido.”"
     }
-  }
 }

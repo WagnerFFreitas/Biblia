@@ -1,106 +1,39 @@
 {
-  "livro": "Hebreus",
-  "capítulo": 13,
-  "versículos": {
-    "1": {
-      "título": "Os deveres sociais",
-      "texto": "Seja constante o amor fraternal."
+    "livro": "Hebreus",
+    "capitulo": 13,
+    "titulos": {
+        "1": "Os deveres sociais",
+        "7": "Os deveres espirituais",
+        "18": "Recomendações pessoais",
+        "20": "Doxologia",
+        "22": "Saudações",
+        "25": "Bênção"
     },
-    "2": {
-      "título": "",
-      "texto": "Não se esqueçam da hospitalidade, pois alguns, praticando-a, sem o saber acolheram anjos."
-    },
-    "3": {
-      "título": "",
-      "texto": "Lembrem-se dos presos, como se estivessem na cadeia com eles; dos que sofrem maus-tratos, como se vocês mesmos fossem os maltratados."
-    },
-    "4": {
-      "título": "",
-      "texto": "Digno de honra entre todos seja o matrimônio, bem como o leito conjugal sem mácula; porque Deus julgará os impuros e os adúlteros."
-    },
-    "5": {
-      "título": "",
-      "texto": "Que a vida de vocês seja isenta de avareza. Contentem-se com as coisas que vocês têm, porque Deus disse: “De maneira alguma deixarei você, nunca jamais o abandonarei.”"
-    },
-    "6": {
-      "título": "",
-      "texto": "Assim, afirmemos confiantemente:"
-    },
-    "7": {
-      "título": "Os deveres espirituais",
-      "texto": "Lembrem-se dos seus líderes, os quais pregaram a palavra de Deus a vocês; e, considerando atentamente o fim da vida deles, imitem a fé que tiveram."
-    },
-    "8": {
-      "título": "",
-      "texto": "Jesus Cristo é o mesmo ontem, hoje e para sempre."
-    },
-    "9": {
-      "título": "",
-      "texto": "Não se deixem levar por doutrinas diferentes e estranhas, porque o que vale é ter o coração confirmado com graça e não com alimentos, que nunca trouxeram proveito aos que se preocupam com isso."
-    },
-    "10": {
-      "título": "",
-      "texto": "Temos um altar do qual os que ministram no tabernáculo não têm o direito de comer."
-    },
-    "11": {
-      "título": "",
-      "texto": "Pois aqueles animais cujo sangue é trazido pelo sumo sacerdote para dentro do Santo dos Santos, como sacrifício pelo pecado, têm o corpo queimado fora do acampamento."
-    },
-    "12": {
-      "título": "",
-      "texto": "Por isso, também Jesus, para santificar o povo, pelo seu próprio sangue, sofreu fora da cidade."
-    },
-    "13": {
-      "título": "",
-      "texto": "Saiamos, pois, a ele, fora do acampamento, levando a mesma desonra que ele suportou."
-    },
-    "14": {
-      "título": "",
-      "texto": "De fato, não temos aqui cidade permanente, mas buscamos a que há de vir."
-    },
-    "15": {
-      "título": "",
-      "texto": "Por meio de Jesus, pois, ofereçamos a Deus, sempre, sacrifício de louvor, que é o fruto de lábios que confessam o seu nome."
-    },
-    "16": {
-      "título": "",
-      "texto": "Não se esqueçam da prática do bem e da mútua cooperação, pois de tais sacrifícios Deus se agrada."
-    },
-    "17": {
-      "título": "",
-      "texto": "Obedeçam aos seus líderes e sejam submissos a eles, pois zelam pela alma de vocês, como quem deve prestar contas. Que eles possam fazer isto com alegria e não gemendo; do contrário, isso não trará proveito nenhum para vocês."
-    },
-    "18": {
-      "título": "Recomendações pessoais",
-      "texto": "Orem por nós, pois estamos certos de que temos a consciência limpa, querendo em todas as circunstâncias fazer o que é correto."
-    },
-    "19": {
-      "título": "",
-      "texto": "Peço, com insistência, que vocês façam isto, para que eu lhes seja restituído o mais depressa possível."
-    },
-    "20": {
-      "título": "Doxologia",
-      "texto": "Ora, o Deus da paz, que tornou a trazer dentre os mortos o nosso Senhor Jesus, o grande Pastor das ovelhas, pelo sangue da eterna aliança,"
-    },
-    "21": {
-      "título": "",
-      "texto": "aperfeiçoe vocês em todo o bem, para que possam fazer a vontade dele. Que ele opere em nós o que é agradável diante dele, por meio de Jesus Cristo, a quem seja a glória para todo o sempre. Amém!"
-    },
-    "22": {
-      "título": "Saudações",
-      "texto": "Irmãos, peço que escutem com paciência esta palavra de exortação, porque, na verdade, escrevi de forma bem resumida."
-    },
-    "23": {
-      "título": "",
-      "texto": "Saibam que o irmão Timóteo foi posto em liberdade. Se ele vier logo, irei vê-los na companhia dele."
-    },
-    "24": {
-      "título": "",
-      "texto": "Saúdem todos os seus líderes, bem como todos os santos. Os da Itália mandam saudações."
-    },
-    "25": {
-      "título": "Bênção",
-      "texto": "A graça esteja com todos vocês."
+    "versiculos": {
+        "1": "Seja constante o amor fraternal.",
+        "2": "Não se esqueçam da hospitalidade, pois alguns, praticando-a, sem o saber acolheram anjos.",
+        "3": "Lembrem-se dos presos, como se estivessem na cadeia com eles; dos que sofrem maus-tratos, como se vocês mesmos fossem os maltratados.",
+        "4": "Digno de honra entre todos seja o matrimônio, bem como o leito conjugal sem mácula; porque Deus julgará os impuros e os adúlteros.",
+        "5": "Que a vida de vocês seja isenta de avareza. Contentem-se com as coisas que vocês têm, porque Deus disse: “De maneira alguma deixarei você, nunca jamais o abandonarei.”",
+        "6": "Assim, afirmemos confiantemente:",
+        "7": "Lembrem-se dos seus líderes, os quais pregaram a palavra de Deus a vocês; e, considerando atentamente o fim da vida deles, imitem a fé que tiveram.",
+        "8": "Jesus Cristo é o mesmo ontem, hoje e para sempre.",
+        "9": "Não se deixem levar por doutrinas diferentes e estranhas, porque o que vale é ter o coração confirmado com graça e não com alimentos, que nunca trouxeram proveito aos que se preocupam com isso.",
+        "10": "Temos um altar do qual os que ministram no tabernáculo não têm o direito de comer.",
+        "11": "Pois aqueles animais cujo sangue é trazido pelo sumo sacerdote para dentro do Santo dos Santos, como sacrifício pelo pecado, têm o corpo queimado fora do acampamento.",
+        "12": "Por isso, também Jesus, para santificar o povo, pelo seu próprio sangue, sofreu fora da cidade.",
+        "13": "Saiamos, pois, a ele, fora do acampamento, levando a mesma desonra que ele suportou.",
+        "14": "De fato, não temos aqui cidade permanente, mas buscamos a que há de vir.",
+        "15": "Por meio de Jesus, pois, ofereçamos a Deus, sempre, sacrifício de louvor, que é o fruto de lábios que confessam o seu nome.",
+        "16": "Não se esqueçam da prática do bem e da mútua cooperação, pois de tais sacrifícios Deus se agrada.",
+        "17": "Obedeçam aos seus líderes e sejam submissos a eles, pois zelam pela alma de vocês, como quem deve prestar contas. Que eles possam fazer isto com alegria e não gemendo; do contrário, isso não trará proveito nenhum para vocês.",
+        "18": "Orem por nós, pois estamos certos de que temos a consciência limpa, querendo em todas as circunstâncias fazer o que é correto.",
+        "19": "Peço, com insistência, que vocês façam isto, para que eu lhes seja restituído o mais depressa possível.",
+        "20": "Ora, o Deus da paz, que tornou a trazer dentre os mortos o nosso Senhor Jesus, o grande Pastor das ovelhas, pelo sangue da eterna aliança,",
+        "21": "aperfeiçoe vocês em todo o bem, para que possam fazer a vontade dele. Que ele opere em nós o que é agradável diante dele, por meio de Jesus Cristo, a quem seja a glória para todo o sempre. Amém!",
+        "22": "Irmãos, peço que escutem com paciência esta palavra de exortação, porque, na verdade, escrevi de forma bem resumida.",
+        "23": "Saibam que o irmão Timóteo foi posto em liberdade. Se ele vier logo, irei vê-los na companhia dele.",
+        "24": "Saúdem todos os seus líderes, bem como todos os santos. Os da Itália mandam saudações.",
+        "25": "A graça esteja com todos vocês."
     }
-  }
 }

@@ -1,30 +1,15 @@
 {
-  "livro": "Salmos",
-  "capítulo": 53,
-  "versículos": {
-    "1": {
-      "título": "A corrupção do pecador e sua redenção",
-      "texto": "Diz o insensato no seu coração:"
+    "livro": "Salmos",
+    "capitulo": 53,
+    "titulos": {
+        "1": "A corrupção do pecador e sua redenção"
     },
-    "2": {
-      "título": "",
-      "texto": "Do céu Deus olha"
-    },
-    "3": {
-      "título": "",
-      "texto": "Todos se desviaram"
-    },
-    "4": {
-      "título": "",
-      "texto": "Será que não entendem nada"
-    },
-    "5": {
-      "título": "",
-      "texto": "Ficam tomados de grande pavor,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Quem dera que de Sião"
+    "versiculos": {
+        "1": "Diz o insensato no seu coração:",
+        "2": "Do céu Deus olha",
+        "3": "Todos se desviaram",
+        "4": "Será que não entendem nada",
+        "5": "Ficam tomados de grande pavor,",
+        "6": "Quem dera que de Sião"
     }
-  }
 }

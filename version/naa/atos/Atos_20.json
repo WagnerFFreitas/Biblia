@@ -1,158 +1,51 @@
 {
-  "livro": "Atos",
-  "capítulo": 20,
-  "versículos": {
-    "1": {
-      "título": "De novo, Paulo visita a Macedônia e a Grécia",
-      "texto": "Cessado o tumulto, Paulo mandou chamar os discípulos e, tendo-os encorajado, despediu-se e foi para a Macedônia."
+    "livro": "Atos",
+    "capitulo": 20,
+    "titulos": {
+        "1": "De novo, Paulo visita a Macedônia e a Grécia",
+        "7": "Paulo em Trôade",
+        "13": "Paulo embarca em Assôs e vai para Mileto",
+        "17": "Em Mileto, Paulo fala aos presbíteros da igreja de Éfeso",
+        "36": "Paulo ora com eles"
     },
-    "2": {
-      "título": "",
-      "texto": "Havendo atravessado aquelas terras, fortalecendo os discípulos com muitas exortações, dirigiu-se para a Grécia,"
-    },
-    "3": {
-      "título": "",
-      "texto": "onde se demorou três meses. Quando estava para embarcar rumo à Síria, houve uma conspiração por parte dos judeus contra ele. Então decidiu voltar pela Macedônia."
-    },
-    "4": {
-      "título": "",
-      "texto": "Acompanharam-no Sópatro, de Bereia, filho de Pirro; Aristarco e Secundo, de Tessalônica; Gaio, de Derbe; Timóteo; e também Tíquico e Trófimo, da província da Ásia."
-    },
-    "5": {
-      "título": "",
-      "texto": "Estes nos precederam, ficando à nossa espera em Trôade."
-    },
-    "6": {
-      "título": "",
-      "texto": "Depois dos dias dos pães sem fermento, navegamos de Filipos e, em cinco dias, nos encontramos com eles em Trôade, onde passamos uma semana."
-    },
-    "7": {
-      "título": "Paulo em Trôade",
-      "texto": "No primeiro dia da semana, nós nos reunimos a fim de partir o pão. Paulo, que pretendia viajar no dia seguinte, falava aos irmãos e prolongou a mensagem até a meia-noite."
-    },
-    "8": {
-      "título": "",
-      "texto": "Havia muitas lâmpadas no cenáculo onde estávamos reunidos."
-    },
-    "9": {
-      "título": "",
-      "texto": "Um jovem, chamado Êutico, que estava sentado numa janela, adormecendo profundamente durante a prolongada mensagem de Paulo, vencido pelo sono, caiu do terceiro andar abaixo. Quando o levantaram, estava morto."
-    },
-    "10": {
-      "título": "",
-      "texto": "Mas Paulo desceu, inclinou-se sobre ele e, abraçando-o, disse:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Subindo de novo, Paulo partiu o pão e comeu. E lhes falou ainda muito tempo até o amanhecer. E, assim, partiu."
-    },
-    "12": {
-      "título": "",
-      "texto": "Então conduziram vivo o rapaz e sentiram-se grandemente confortados."
-    },
-    "13": {
-      "título": "Paulo embarca em Assôs e vai para Mileto",
-      "texto": "Nós, porém, prosseguindo, embarcamos e navegamos para Assôs, onde devíamos receber Paulo, porque assim nos havia sido determinado, devendo ele ir por terra."
-    },
-    "14": {
-      "título": "",
-      "texto": "Quando se reuniu conosco em Assôs, nós o recebemos a bordo e fomos a Mitilene."
-    },
-    "15": {
-      "título": "",
-      "texto": "Dali, navegando, no dia seguinte passamos diante de Quios. Levamos mais um dia até Samos e, um dia depois, chegamos a Mileto."
-    },
-    "16": {
-      "título": "",
-      "texto": "Paulo já tinha resolvido não aportar em Éfeso, pois não queria demorar-se na província da Ásia. Ele tinha pressa, pois queria, caso lhe fosse possível, passar o dia de Pentecostes em Jerusalém."
-    },
-    "17": {
-      "título": "Em Mileto, Paulo fala aos presbíteros da igreja de Éfeso",
-      "texto": "De Mileto, Paulo enviou uma mensagem a Éfeso, pedindo aos presbíteros da igreja que se encontrassem com ele."
-    },
-    "18": {
-      "título": "",
-      "texto": "E, quando chegaram, Paulo lhes disse:"
-    },
-    "19": {
-      "título": "",
-      "texto": "servindo o Senhor com toda a humildade, com lágrimas e com as provações que me sobrevieram pelas ciladas dos judeus."
-    },
-    "20": {
-      "título": "",
-      "texto": "Vocês sabem que jamais deixei de anunciar o que fosse proveitoso e de ensinar isso a vocês publicamente e também de casa em casa,"
-    },
-    "21": {
-      "título": "",
-      "texto": "testemunhando tanto a judeus como a gregos o arrependimento para com Deus e a fé em nosso Senhor Jesus Cristo."
-    },
-    "22": {
-      "título": "",
-      "texto": "E, agora, impelido pelo Espírito, vou para Jerusalém, não sabendo o que ali vai me acontecer,"
-    },
-    "23": {
-      "título": "",
-      "texto": "exceto que o Espírito Santo, de cidade em cidade, me assegura que prisões e sofrimentos estão à minha espera."
-    },
-    "24": {
-      "título": "",
-      "texto": "Porém em nada considero a vida preciosa para mim mesmo, desde que eu complete a minha carreira e o ministério que recebi do Senhor Jesus para testemunhar o evangelho da graça de Deus."
-    },
-    "25": {
-      "título": "",
-      "texto": "— E agora eu sei que todos vocês, em cujo meio passei pregando o Reino, não mais verão o meu rosto."
-    },
-    "26": {
-      "título": "",
-      "texto": "Portanto, no dia de hoje testifico diante de vocês que estou limpo do sangue de todos,"
-    },
-    "27": {
-      "título": "",
-      "texto": "porque jamais deixei de lhes anunciar todo o plano de Deus."
-    },
-    "28": {
-      "título": "",
-      "texto": "Cuidem de vocês mesmos e de todo o rebanho no qual o Espírito Santo os colocou como bispos, para pastorearem a igreja de Deus, a qual ele comprou com o seu próprio sangue."
-    },
-    "29": {
-      "título": "",
-      "texto": "Eu sei que, depois da minha partida, aparecerão no meio de vocês lobos vorazes, que não pouparão o rebanho."
-    },
-    "30": {
-      "título": "",
-      "texto": "E que até mesmo entre vocês se levantarão homens falando coisas pervertidas para arrastar os discípulos atrás de si."
-    },
-    "31": {
-      "título": "",
-      "texto": "Portanto, vigiem, lembrando que, durante três anos, noite e dia, não cessei de admoestar, com lágrimas, cada um de vocês."
-    },
-    "32": {
-      "título": "",
-      "texto": "— Agora, pois, eu os entrego aos cuidados de Deus e à palavra da sua graça, que tem poder para edificá-los e dar herança entre todos os que são santificados."
-    },
-    "33": {
-      "título": "",
-      "texto": "De ninguém cobicei prata, nem ouro, nem roupas;"
-    },
-    "34": {
-      "título": "",
-      "texto": "vocês mesmos sabem que estas minhas mãos serviram para o que era necessário a mim e aos que estavam comigo."
-    },
-    "35": {
-      "título": "",
-      "texto": "Em tudo tenho mostrado a vocês que, trabalhando assim, é preciso socorrer os necessitados e lembrar das palavras do próprio Senhor Jesus: “Mais bem-aventurado é dar do que receber.”"
-    },
-    "36": {
-      "título": "Paulo ora com eles",
-      "texto": "Tendo dito isso, ajoelhando-se, Paulo orou com todos eles."
-    },
-    "37": {
-      "título": "",
-      "texto": "Então houve grande pranto entre todos, e, abraçando Paulo, o beijavam,"
-    },
-    "38": {
-      "título": "",
-      "texto": "entristecidos especialmente pela palavra que ele tinha dito: que não mais veriam o seu rosto. E eles o acompanharam até o navio."
+    "versiculos": {
+        "1": "Cessado o tumulto, Paulo mandou chamar os discípulos e, tendo-os encorajado, despediu-se e foi para a Macedônia.",
+        "2": "Havendo atravessado aquelas terras, fortalecendo os discípulos com muitas exortações, dirigiu-se para a Grécia,",
+        "3": "onde se demorou três meses. Quando estava para embarcar rumo à Síria, houve uma conspiração por parte dos judeus contra ele. Então decidiu voltar pela Macedônia.",
+        "4": "Acompanharam-no Sópatro, de Bereia, filho de Pirro; Aristarco e Secundo, de Tessalônica; Gaio, de Derbe; Timóteo; e também Tíquico e Trófimo, da província da Ásia.",
+        "5": "Estes nos precederam, ficando à nossa espera em Trôade.",
+        "6": "Depois dos dias dos pães sem fermento, navegamos de Filipos e, em cinco dias, nos encontramos com eles em Trôade, onde passamos uma semana.",
+        "7": "No primeiro dia da semana, nós nos reunimos a fim de partir o pão. Paulo, que pretendia viajar no dia seguinte, falava aos irmãos e prolongou a mensagem até a meia-noite.",
+        "8": "Havia muitas lâmpadas no cenáculo onde estávamos reunidos.",
+        "9": "Um jovem, chamado Êutico, que estava sentado numa janela, adormecendo profundamente durante a prolongada mensagem de Paulo, vencido pelo sono, caiu do terceiro andar abaixo. Quando o levantaram, estava morto.",
+        "10": "Mas Paulo desceu, inclinou-se sobre ele e, abraçando-o, disse:",
+        "11": "Subindo de novo, Paulo partiu o pão e comeu. E lhes falou ainda muito tempo até o amanhecer. E, assim, partiu.",
+        "12": "Então conduziram vivo o rapaz e sentiram-se grandemente confortados.",
+        "13": "Nós, porém, prosseguindo, embarcamos e navegamos para Assôs, onde devíamos receber Paulo, porque assim nos havia sido determinado, devendo ele ir por terra.",
+        "14": "Quando se reuniu conosco em Assôs, nós o recebemos a bordo e fomos a Mitilene.",
+        "15": "Dali, navegando, no dia seguinte passamos diante de Quios. Levamos mais um dia até Samos e, um dia depois, chegamos a Mileto.",
+        "16": "Paulo já tinha resolvido não aportar em Éfeso, pois não queria demorar-se na província da Ásia. Ele tinha pressa, pois queria, caso lhe fosse possível, passar o dia de Pentecostes em Jerusalém.",
+        "17": "De Mileto, Paulo enviou uma mensagem a Éfeso, pedindo aos presbíteros da igreja que se encontrassem com ele.",
+        "18": "E, quando chegaram, Paulo lhes disse:",
+        "19": "servindo o Senhor com toda a humildade, com lágrimas e com as provações que me sobrevieram pelas ciladas dos judeus.",
+        "20": "Vocês sabem que jamais deixei de anunciar o que fosse proveitoso e de ensinar isso a vocês publicamente e também de casa em casa,",
+        "21": "testemunhando tanto a judeus como a gregos o arrependimento para com Deus e a fé em nosso Senhor Jesus Cristo.",
+        "22": "E, agora, impelido pelo Espírito, vou para Jerusalém, não sabendo o que ali vai me acontecer,",
+        "23": "exceto que o Espírito Santo, de cidade em cidade, me assegura que prisões e sofrimentos estão à minha espera.",
+        "24": "Porém em nada considero a vida preciosa para mim mesmo, desde que eu complete a minha carreira e o ministério que recebi do Senhor Jesus para testemunhar o evangelho da graça de Deus.",
+        "25": "— E agora eu sei que todos vocês, em cujo meio passei pregando o Reino, não mais verão o meu rosto.",
+        "26": "Portanto, no dia de hoje testifico diante de vocês que estou limpo do sangue de todos,",
+        "27": "porque jamais deixei de lhes anunciar todo o plano de Deus.",
+        "28": "Cuidem de vocês mesmos e de todo o rebanho no qual o Espírito Santo os colocou como bispos, para pastorearem a igreja de Deus, a qual ele comprou com o seu próprio sangue.",
+        "29": "Eu sei que, depois da minha partida, aparecerão no meio de vocês lobos vorazes, que não pouparão o rebanho.",
+        "30": "E que até mesmo entre vocês se levantarão homens falando coisas pervertidas para arrastar os discípulos atrás de si.",
+        "31": "Portanto, vigiem, lembrando que, durante três anos, noite e dia, não cessei de admoestar, com lágrimas, cada um de vocês.",
+        "32": "— Agora, pois, eu os entrego aos cuidados de Deus e à palavra da sua graça, que tem poder para edificá-los e dar herança entre todos os que são santificados.",
+        "33": "De ninguém cobicei prata, nem ouro, nem roupas;",
+        "34": "vocês mesmos sabem que estas minhas mãos serviram para o que era necessário a mim e aos que estavam comigo.",
+        "35": "Em tudo tenho mostrado a vocês que, trabalhando assim, é preciso socorrer os necessitados e lembrar das palavras do próprio Senhor Jesus: “Mais bem-aventurado é dar do que receber.”",
+        "36": "Tendo dito isso, ajoelhando-se, Paulo orou com todos eles.",
+        "37": "Então houve grande pranto entre todos, e, abraçando Paulo, o beijavam,",
+        "38": "entristecidos especialmente pela palavra que ele tinha dito: que não mais veriam o seu rosto. E eles o acompanharam até o navio."
     }
-  }
 }

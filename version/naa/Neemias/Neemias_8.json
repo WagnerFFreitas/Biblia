@@ -1,78 +1,28 @@
 {
-  "livro": "Neemias",
-  "capítulo": 8,
-  "versículos": {
-    "1": {
-      "título": "Esdras lê o Livro da Lei diante do povo",
-      "texto": "Quando chegou o sétimo mês e os filhos de Israel já estavam morando nas suas cidades, todo o povo se reuniu, como um só homem, na praça, diante do Portão das Águas. E pediram a Esdras, o escriba, que trouxesse o Livro da Lei de Moisés, que o Senhor havia ordenado a Israel."
+    "livro": "Neemias",
+    "capitulo": 8,
+    "titulos": {
+        "1": "Esdras lê o Livro da Lei diante do povo",
+        "13": "A Festa dos Tabernáculos"
     },
-    "2": {
-      "título": "",
-      "texto": "Esdras, o sacerdote, trouxe a Lei diante da congregação, composta por homens, mulheres e todos os que eram capazes de entender o que ouviam. Era o primeiro dia do sétimo mês."
-    },
-    "3": {
-      "título": "",
-      "texto": "Esdras leu o livro em voz alta, diante da praça que fica em frente ao Portão das Águas, desde o amanhecer até o meio-dia, na presença dos homens, das mulheres e dos que podiam entender. E todo o povo tinha os ouvidos atentos ao Livro da Lei."
-    },
-    "4": {
-      "título": "",
-      "texto": "Esdras, o escriba, estava num púlpito de madeira, que fizeram para aquele fim. Estavam em pé, ao lado dele, à sua direita, Matitias, Sema, Anaías, Urias, Hilquias e Maaseias; e à sua esquerda estavam Pedaías, Misael, Malquias, Hasum, Hasbadana, Zacarias e Mesulão."
-    },
-    "5": {
-      "título": "",
-      "texto": "Esdras abriu o livro à vista de todo o povo, porque se encontrava num lugar mais elevado do que todo o povo. Quando abriu o livro, todo o povo se pôs em pé."
-    },
-    "6": {
-      "título": "",
-      "texto": "Esdras louvou o Senhor , o grande Deus, e todo o povo, levantando as mãos, respondeu:"
-    },
-    "7": {
-      "título": "",
-      "texto": "E Jesua, Bani, Serebias, Jamim, Acube, Sabetai, Hodias, Maaseias, Quelita, Azarias, Jozabade, Hanã, Pelaías e os levitas ensinavam a Lei ao povo; e o povo permanecia no seu lugar."
-    },
-    "8": {
-      "título": "",
-      "texto": "Eles iam lendo o Livro da Lei de Deus, claramente, dando explicações, de maneira que o povo entendesse o que se lia."
-    },
-    "9": {
-      "título": "",
-      "texto": "Neemias, que era o governador, e Esdras, sacerdote e escriba, e os levitas que ensinavam o povo disseram a todos:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Então lhes disse:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Os levitas tranquilizaram todo o povo, dizendo:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Então todo o povo se foi para comer, beber, mandar porções aos que nada tinham e fazer uma grande festa, porque tinham entendido as palavras que lhes foram explicadas."
-    },
-    "13": {
-      "título": "A Festa dos Tabernáculos",
-      "texto": "No dia seguinte, os chefes das famílias de todo o povo, os sacerdotes e os levitas se reuniram com Esdras, o sacerdote, para estudarem as palavras da Lei."
-    },
-    "14": {
-      "título": "",
-      "texto": "Acharam escrito na Lei que o Senhor havia ordenado por meio de Moisés que os filhos de Israel deveriam morar em cabanas, durante a festa do sétimo mês."
-    },
-    "15": {
-      "título": "",
-      "texto": "Assim, publicaram e anunciaram em todas as suas cidades e em Jerusalém, dizendo:"
-    },
-    "16": {
-      "título": "",
-      "texto": "O povo saiu, e trouxeram os ramos e fizeram para si cabanas, cada um no seu terraço, e nos seus pátios, nos átrios da Casa de Deus, na praça do Portão das Águas e na praça do Portão de Efraim."
-    },
-    "17": {
-      "título": "",
-      "texto": "Toda a congregação dos que tinham voltado do cativeiro fez cabanas e morou nelas. Porque os filhos de Israel nunca haviam feito isto, desde os dias de Josué, filho de Num, até aquele dia. E todos estavam muito alegres."
-    },
-    "18": {
-      "título": "",
-      "texto": "O Livro da Lei de Deus foi lido diariamente, desde o primeiro até o último dia da festa. E celebraram a festa durante sete dias; no oitavo dia, houve uma reunião solene, conforme estava ordenado na Lei."
+    "versiculos": {
+        "1": "Quando chegou o sétimo mês e os filhos de Israel já estavam morando nas suas cidades, todo o povo se reuniu, como um só homem, na praça, diante do Portão das Águas. E pediram a Esdras, o escriba, que trouxesse o Livro da Lei de Moisés, que o Senhor havia ordenado a Israel.",
+        "2": "Esdras, o sacerdote, trouxe a Lei diante da congregação, composta por homens, mulheres e todos os que eram capazes de entender o que ouviam. Era o primeiro dia do sétimo mês.",
+        "3": "Esdras leu o livro em voz alta, diante da praça que fica em frente ao Portão das Águas, desde o amanhecer até o meio-dia, na presença dos homens, das mulheres e dos que podiam entender. E todo o povo tinha os ouvidos atentos ao Livro da Lei.",
+        "4": "Esdras, o escriba, estava num púlpito de madeira, que fizeram para aquele fim. Estavam em pé, ao lado dele, à sua direita, Matitias, Sema, Anaías, Urias, Hilquias e Maaseias; e à sua esquerda estavam Pedaías, Misael, Malquias, Hasum, Hasbadana, Zacarias e Mesulão.",
+        "5": "Esdras abriu o livro à vista de todo o povo, porque se encontrava num lugar mais elevado do que todo o povo. Quando abriu o livro, todo o povo se pôs em pé.",
+        "6": "Esdras louvou o Senhor , o grande Deus, e todo o povo, levantando as mãos, respondeu:",
+        "7": "E Jesua, Bani, Serebias, Jamim, Acube, Sabetai, Hodias, Maaseias, Quelita, Azarias, Jozabade, Hanã, Pelaías e os levitas ensinavam a Lei ao povo; e o povo permanecia no seu lugar.",
+        "8": "Eles iam lendo o Livro da Lei de Deus, claramente, dando explicações, de maneira que o povo entendesse o que se lia.",
+        "9": "Neemias, que era o governador, e Esdras, sacerdote e escriba, e os levitas que ensinavam o povo disseram a todos:",
+        "10": "Então lhes disse:",
+        "11": "Os levitas tranquilizaram todo o povo, dizendo:",
+        "12": "Então todo o povo se foi para comer, beber, mandar porções aos que nada tinham e fazer uma grande festa, porque tinham entendido as palavras que lhes foram explicadas.",
+        "13": "No dia seguinte, os chefes das famílias de todo o povo, os sacerdotes e os levitas se reuniram com Esdras, o sacerdote, para estudarem as palavras da Lei.",
+        "14": "Acharam escrito na Lei que o Senhor havia ordenado por meio de Moisés que os filhos de Israel deveriam morar em cabanas, durante a festa do sétimo mês.",
+        "15": "Assim, publicaram e anunciaram em todas as suas cidades e em Jerusalém, dizendo:",
+        "16": "O povo saiu, e trouxeram os ramos e fizeram para si cabanas, cada um no seu terraço, e nos seus pátios, nos átrios da Casa de Deus, na praça do Portão das Águas e na praça do Portão de Efraim.",
+        "17": "Toda a congregação dos que tinham voltado do cativeiro fez cabanas e morou nelas. Porque os filhos de Israel nunca haviam feito isto, desde os dias de Josué, filho de Num, até aquele dia. E todos estavam muito alegres.",
+        "18": "O Livro da Lei de Deus foi lido diariamente, desde o primeiro até o último dia da festa. E celebraram a festa durante sete dias; no oitavo dia, houve uma reunião solene, conforme estava ordenado na Lei."
     }
-  }
 }

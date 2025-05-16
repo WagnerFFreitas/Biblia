@@ -1,42 +1,18 @@
 {
-  "livro": "Salmos",
-  "capítulo": 20,
-  "versículos": {
-    "1": {
-      "título": "Oração pela vitória",
-      "texto": "Que o Senhor lhe responda"
+    "livro": "Salmos",
+    "capitulo": 20,
+    "titulos": {
+        "1": "Oração pela vitória"
     },
-    "2": {
-      "título": "",
-      "texto": "Que do seu santuário"
-    },
-    "3": {
-      "título": "",
-      "texto": "Que ele se lembre de todas"
-    },
-    "4": {
-      "título": "",
-      "texto": "Que Deus lhe conceda"
-    },
-    "5": {
-      "título": "",
-      "texto": "Celebraremos com júbilo"
-    },
-    "6": {
-      "título": "",
-      "texto": "Agora sei que o Senhor"
-    },
-    "7": {
-      "título": "",
-      "texto": "Uns confiam em carros de guerra,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Eles se prostram e caem;"
-    },
-    "9": {
-      "título": "",
-      "texto": "Ó Senhor , dá vitória ao rei;"
+    "versiculos": {
+        "1": "Que o Senhor lhe responda",
+        "2": "Que do seu santuário",
+        "3": "Que ele se lembre de todas",
+        "4": "Que Deus lhe conceda",
+        "5": "Celebraremos com júbilo",
+        "6": "Agora sei que o Senhor",
+        "7": "Uns confiam em carros de guerra,",
+        "8": "Eles se prostram e caem;",
+        "9": "Ó Senhor , dá vitória ao rei;"
     }
-  }
 }

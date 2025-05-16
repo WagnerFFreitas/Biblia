@@ -1,122 +1,44 @@
 {
-  "livro": "Mateus",
-  "capítulo": 7,
-  "versículos": {
-    "1": {
-      "título": "O hábito de julgar os outros",
-      "texto": "— Não julguem, para que vocês não sejam julgados."
+    "livro": "Mateus",
+    "capitulo": 7,
+    "titulos": {
+        "1": "O hábito de julgar os outros",
+        "7": "Jesus encoraja a oração",
+        "13": "A porta estreita",
+        "15": "Os falsos profetas",
+        "21": "Quem entra no Reino dos Céus",
+        "24": "Os dois fundamentos",
+        "28": "O fim do sermão do monte"
     },
-    "2": {
-      "título": "",
-      "texto": "Pois com o critério com que vocês julgarem vocês serão julgados; e com a medida com que vocês tiverem medido vocês também serão medidos."
-    },
-    "3": {
-      "título": "",
-      "texto": "— Por que você vê o cisco no olho do seu irmão, mas não repara na trave que está no seu próprio?"
-    },
-    "4": {
-      "título": "",
-      "texto": "Ou como você dirá a seu irmão: “Deixe que eu tire o cisco do seu olho”, quando você tem uma trave no seu próprio?"
-    },
-    "5": {
-      "título": "",
-      "texto": "Hipócrita! Tire primeiro a trave do seu olho e então você verá claramente para tirar o cisco do olho do seu irmão."
-    },
-    "6": {
-      "título": "",
-      "texto": "— Não deem aos cães o que é santo, nem joguem as suas pérolas diante dos porcos, para que estes não as pisem com os pés e aqueles, voltando-se, não estraçalhem vocês."
-    },
-    "7": {
-      "título": "Jesus encoraja a oração",
-      "texto": "— Peçam e lhes será dado; busquem e acharão; batam, e a porta será aberta para vocês."
-    },
-    "8": {
-      "título": "",
-      "texto": "Pois todo o que pede recebe; o que busca encontra; e, a quem bate, a porta será aberta."
-    },
-    "9": {
-      "título": "",
-      "texto": "Ou quem de vocês, se o filho pedir pão, lhe dará uma pedra?"
-    },
-    "10": {
-      "título": "",
-      "texto": "Ou, se pedir um peixe, lhe dará uma cobra?"
-    },
-    "11": {
-      "título": "",
-      "texto": "Ora, se vocês, que são maus, sabem dar coisas boas aos seus filhos, quanto mais o Pai de vocês, que está nos céus, dará coisas boas aos que lhe pedirem?"
-    },
-    "12": {
-      "título": "",
-      "texto": "— Portanto, tudo o que vocês querem que os outros façam a vocês, façam também vocês a eles; porque esta é a Lei e os Profetas."
-    },
-    "13": {
-      "título": "A porta estreita",
-      "texto": "— Entrem pela porta estreita! Porque larga é a porta e espaçoso é o caminho que conduz para a perdição, e são muitos os que entram por ela."
-    },
-    "14": {
-      "título": "",
-      "texto": "Estreita é a porta e apertado é o caminho que conduz para a vida, e são poucos os que o encontram."
-    },
-    "15": {
-      "título": "Os falsos profetas",
-      "texto": "— Cuidado com os falsos profetas, que se apresentam a vocês disfarçados de ovelhas, mas por dentro são lobos vorazes."
-    },
-    "16": {
-      "título": "",
-      "texto": "Pelos seus frutos vocês os conhecerão. Por acaso se colhem uvas de espinheiros ou figos de ervas daninhas?"
-    },
-    "17": {
-      "título": "",
-      "texto": "Assim, toda árvore boa produz frutos bons, porém a árvore má produz frutos maus."
-    },
-    "18": {
-      "título": "",
-      "texto": "A árvore boa não pode produzir frutos maus, e a árvore má não pode produzir frutos bons."
-    },
-    "19": {
-      "título": "",
-      "texto": "Toda árvore que não produz bom fruto é cortada e jogada no fogo."
-    },
-    "20": {
-      "título": "",
-      "texto": "Assim, pois, pelos seus frutos vocês os conhecerão."
-    },
-    "21": {
-      "título": "Quem entra no Reino dos Céus",
-      "texto": "— Nem todo o que me diz: “Senhor, Senhor!” entrará no Reino dos Céus, mas aquele que faz a vontade de meu Pai, que está nos céus."
-    },
-    "22": {
-      "título": "",
-      "texto": "Muitos, naquele dia, vão me dizer: “Senhor, Senhor, nós não profetizamos em seu nome? E em seu nome não expulsamos demônios? E em seu nome não fizemos muitos milagres?”"
-    },
-    "23": {
-      "título": "",
-      "texto": "Então lhes direi claramente: “Eu nunca conheci vocês. Afastem-se de mim, vocês que praticam o mal.”"
-    },
-    "24": {
-      "título": "Os dois fundamentos",
-      "texto": "— Todo aquele, pois, que ouve estas minhas palavras e as pratica será comparado a um homem prudente que construiu a sua casa sobre a rocha."
-    },
-    "25": {
-      "título": "",
-      "texto": "Caiu a chuva, transbordaram os rios, sopraram os ventos e bateram com força contra aquela casa, e ela não desabou, porque tinha sido construída sobre a rocha."
-    },
-    "26": {
-      "título": "",
-      "texto": "E todo aquele que ouve estas minhas palavras e não as pratica será comparado a um homem insensato que construiu a sua casa sobre a areia."
-    },
-    "27": {
-      "título": "",
-      "texto": "Caiu a chuva, transbordaram os rios, sopraram os ventos e bateram com força contra aquela casa, e ela desabou, sendo grande a sua ruína."
-    },
-    "28": {
-      "título": "O fim do sermão do monte",
-      "texto": "Quando Jesus acabou de proferir estas palavras, as multidões estavam maravilhadas com a sua doutrina,"
-    },
-    "29": {
-      "título": "",
-      "texto": "porque ele as ensinava como quem tem autoridade, e não como os escribas."
+    "versiculos": {
+        "1": "— Não julguem, para que vocês não sejam julgados.",
+        "2": "Pois com o critério com que vocês julgarem vocês serão julgados; e com a medida com que vocês tiverem medido vocês também serão medidos.",
+        "3": "— Por que você vê o cisco no olho do seu irmão, mas não repara na trave que está no seu próprio?",
+        "4": "Ou como você dirá a seu irmão: “Deixe que eu tire o cisco do seu olho”, quando você tem uma trave no seu próprio?",
+        "5": "Hipócrita! Tire primeiro a trave do seu olho e então você verá claramente para tirar o cisco do olho do seu irmão.",
+        "6": "— Não deem aos cães o que é santo, nem joguem as suas pérolas diante dos porcos, para que estes não as pisem com os pés e aqueles, voltando-se, não estraçalhem vocês.",
+        "7": "— Peçam e lhes será dado; busquem e acharão; batam, e a porta será aberta para vocês.",
+        "8": "Pois todo o que pede recebe; o que busca encontra; e, a quem bate, a porta será aberta.",
+        "9": "Ou quem de vocês, se o filho pedir pão, lhe dará uma pedra?",
+        "10": "Ou, se pedir um peixe, lhe dará uma cobra?",
+        "11": "Ora, se vocês, que são maus, sabem dar coisas boas aos seus filhos, quanto mais o Pai de vocês, que está nos céus, dará coisas boas aos que lhe pedirem?",
+        "12": "— Portanto, tudo o que vocês querem que os outros façam a vocês, façam também vocês a eles; porque esta é a Lei e os Profetas.",
+        "13": "— Entrem pela porta estreita! Porque larga é a porta e espaçoso é o caminho que conduz para a perdição, e são muitos os que entram por ela.",
+        "14": "Estreita é a porta e apertado é o caminho que conduz para a vida, e são poucos os que o encontram.",
+        "15": "— Cuidado com os falsos profetas, que se apresentam a vocês disfarçados de ovelhas, mas por dentro são lobos vorazes.",
+        "16": "Pelos seus frutos vocês os conhecerão. Por acaso se colhem uvas de espinheiros ou figos de ervas daninhas?",
+        "17": "Assim, toda árvore boa produz frutos bons, porém a árvore má produz frutos maus.",
+        "18": "A árvore boa não pode produzir frutos maus, e a árvore má não pode produzir frutos bons.",
+        "19": "Toda árvore que não produz bom fruto é cortada e jogada no fogo.",
+        "20": "Assim, pois, pelos seus frutos vocês os conhecerão.",
+        "21": "— Nem todo o que me diz: “Senhor, Senhor!” entrará no Reino dos Céus, mas aquele que faz a vontade de meu Pai, que está nos céus.",
+        "22": "Muitos, naquele dia, vão me dizer: “Senhor, Senhor, nós não profetizamos em seu nome? E em seu nome não expulsamos demônios? E em seu nome não fizemos muitos milagres?”",
+        "23": "Então lhes direi claramente: “Eu nunca conheci vocês. Afastem-se de mim, vocês que praticam o mal.”",
+        "24": "— Todo aquele, pois, que ouve estas minhas palavras e as pratica será comparado a um homem prudente que construiu a sua casa sobre a rocha.",
+        "25": "Caiu a chuva, transbordaram os rios, sopraram os ventos e bateram com força contra aquela casa, e ela não desabou, porque tinha sido construída sobre a rocha.",
+        "26": "E todo aquele que ouve estas minhas palavras e não as pratica será comparado a um homem insensato que construiu a sua casa sobre a areia.",
+        "27": "Caiu a chuva, transbordaram os rios, sopraram os ventos e bateram com força contra aquela casa, e ela desabou, sendo grande a sua ruína.",
+        "28": "Quando Jesus acabou de proferir estas palavras, as multidões estavam maravilhadas com a sua doutrina,",
+        "29": "porque ele as ensinava como quem tem autoridade, e não como os escribas."
     }
-  }
 }

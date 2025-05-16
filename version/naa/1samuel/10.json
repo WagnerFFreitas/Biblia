@@ -1,114 +1,38 @@
 {
-  "livro": "1 Samuel",
-  "capítulo": 10,
-  "versículos": {
-    "1": {
-      "título": "Samuel unge Saul como rei de Israel",
-      "texto": "Samuel pegou um vaso de azeite e o derramou sobre a cabeça de Saul. Então ele o beijou e disse:"
+    "livro": "1 Samuel",
+    "capitulo": 10,
+    "titulos": {
+        "1": "Samuel unge Saul como rei de Israel",
+        "9": "Saul entre os profetas",
+        "17": "Saul se torna rei"
     },
-    "2": {
-      "título": "",
-      "texto": "Hoje, quando você se afastar de mim, encontrará dois homens junto ao túmulo de Raquel, no território de Benjamim, em Zelza. Eles lhe dirão: “Já foram achadas as jumentas que você foi procurar. E eis que agora o seu pai já não pensa no caso delas e está aflito por causa de vocês, dizendo: ‘Que posso fazer por meu filho?’”"
-    },
-    "3": {
-      "título": "",
-      "texto": "Ao seguir adiante, você chegará ao carvalho de Tabor. Ali virão ao seu encontro três homens, que vão subindo a Deus em Betel. Um estará levando três cabritos; outro, três pães; e o outro, um odre de vinho."
-    },
-    "4": {
-      "título": "",
-      "texto": "Eles irão saudar você e lhe darão dois pães, que você deve aceitar."
-    },
-    "5": {
-      "título": "",
-      "texto": "Então você seguirá para Gibeá-Eloim, onde está a guarnição dos filisteus. Ao entrar na cidade, você encontrará um grupo de profetas que descem do lugar alto. Eles estarão tocando liras, tambores, flautas e harpas. E estarão profetizando."
-    },
-    "6": {
-      "título": "",
-      "texto": "O Espírito do Senhor se apossará de você, e você profetizará com eles e será mudado em outro homem."
-    },
-    "7": {
-      "título": "",
-      "texto": "Quando estes sinais se cumprirem, faça o que a ocasião exigir, porque Deus está com você."
-    },
-    "8": {
-      "título": "",
-      "texto": "Vá na minha frente para Gilgal. Eis que eu descerei para junto de você, a fim de oferecer holocaustos e apresentar ofertas pacíficas. Espere sete dias, até que eu venha para junto de você e diga o que você deve fazer."
-    },
-    "9": {
-      "título": "Saul entre os profetas",
-      "texto": "Aconteceu que, no momento em que Saul se virou para se despedir de Samuel, Deus lhe mudou o coração. E todos esses sinais aconteceram naquele mesmo dia."
-    },
-    "10": {
-      "título": "",
-      "texto": "Quando eles chegaram a Gibeá, eis que um grupo de profetas saiu ao encontro deles. O Espírito de Deus se apossou de Saul, e ele profetizou no meio deles."
-    },
-    "11": {
-      "título": "",
-      "texto": "Todos os que já o conheciam, vendo que ele profetizava com os profetas, perguntavam uns aos outros:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Então um homem do lugar perguntou:"
-    },
-    "13": {
-      "título": "",
-      "texto": "E, depois de profetizar, Saul seguiu para o alto do monte."
-    },
-    "14": {
-      "título": "",
-      "texto": "O tio de Saul perguntou a ele e ao seu servo:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Então o tio de Saul disse:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Saul respondeu:"
-    },
-    "17": {
-      "título": "Saul se torna rei",
-      "texto": "Samuel convocou o povo para comparecer diante do Senhor , em Mispa,"
-    },
-    "18": {
-      "título": "",
-      "texto": "e disse aos filhos de Israel:"
-    },
-    "19": {
-      "título": "",
-      "texto": "Mas hoje vocês rejeitaram o seu Deus, que os livrou de todos os seus males e trabalhos. Vocês lhe disseram: ‘Não! Queremos um rei sobre nós.’ Agora, pois, reúnam-se diante do Senhor , por tribos e grupos de milhares.”"
-    },
-    "20": {
-      "título": "",
-      "texto": "Samuel fez com que todas as tribos se aproximassem, e a tribo sorteada foi a de Benjamim."
-    },
-    "21": {
-      "título": "",
-      "texto": "Então Samuel chamou a tribo de Benjamim pelas suas famílias, e foi indicada a família de Matri. E da família de Matri foi indicado Saul, filho de Quis. Mas, quando o procuraram, não puderam encontrá-lo."
-    },
-    "22": {
-      "título": "",
-      "texto": "Então perguntaram ao Senhor se aquele homem já havia chegado ali. E o Senhor respondeu:"
-    },
-    "23": {
-      "título": "",
-      "texto": "Então correram e o tiraram de lá. Ele ficou em pé no meio do povo, e era o mais alto de todos; dos ombros para cima, ele sobressaía a todo o povo."
-    },
-    "24": {
-      "título": "",
-      "texto": "Então Samuel disse a todo o povo:"
-    },
-    "25": {
-      "título": "",
-      "texto": "Samuel explicou ao povo o direito do reino, escreveu-o num livro e o pôs diante do Senhor . Então Samuel despediu todo o povo, cada um para sua casa."
-    },
-    "26": {
-      "título": "",
-      "texto": "Também Saul foi para a sua casa, em Gibeá. Com ele foi uma tropa de homens cujo coração Deus havia tocado."
-    },
-    "27": {
-      "título": "",
-      "texto": "Mas alguns homens malignos disseram:"
+    "versiculos": {
+        "1": "Samuel pegou um vaso de azeite e o derramou sobre a cabeça de Saul. Então ele o beijou e disse:",
+        "2": "Hoje, quando você se afastar de mim, encontrará dois homens junto ao túmulo de Raquel, no território de Benjamim, em Zelza. Eles lhe dirão: “Já foram achadas as jumentas que você foi procurar. E eis que agora o seu pai já não pensa no caso delas e está aflito por causa de vocês, dizendo: ‘Que posso fazer por meu filho?’”",
+        "3": "Ao seguir adiante, você chegará ao carvalho de Tabor. Ali virão ao seu encontro três homens, que vão subindo a Deus em Betel. Um estará levando três cabritos; outro, três pães; e o outro, um odre de vinho.",
+        "4": "Eles irão saudar você e lhe darão dois pães, que você deve aceitar.",
+        "5": "Então você seguirá para Gibeá-Eloim, onde está a guarnição dos filisteus. Ao entrar na cidade, você encontrará um grupo de profetas que descem do lugar alto. Eles estarão tocando liras, tambores, flautas e harpas. E estarão profetizando.",
+        "6": "O Espírito do Senhor se apossará de você, e você profetizará com eles e será mudado em outro homem.",
+        "7": "Quando estes sinais se cumprirem, faça o que a ocasião exigir, porque Deus está com você.",
+        "8": "Vá na minha frente para Gilgal. Eis que eu descerei para junto de você, a fim de oferecer holocaustos e apresentar ofertas pacíficas. Espere sete dias, até que eu venha para junto de você e diga o que você deve fazer.",
+        "9": "Aconteceu que, no momento em que Saul se virou para se despedir de Samuel, Deus lhe mudou o coração. E todos esses sinais aconteceram naquele mesmo dia.",
+        "10": "Quando eles chegaram a Gibeá, eis que um grupo de profetas saiu ao encontro deles. O Espírito de Deus se apossou de Saul, e ele profetizou no meio deles.",
+        "11": "Todos os que já o conheciam, vendo que ele profetizava com os profetas, perguntavam uns aos outros:",
+        "12": "Então um homem do lugar perguntou:",
+        "13": "E, depois de profetizar, Saul seguiu para o alto do monte.",
+        "14": "O tio de Saul perguntou a ele e ao seu servo:",
+        "15": "Então o tio de Saul disse:",
+        "16": "Saul respondeu:",
+        "17": "Samuel convocou o povo para comparecer diante do Senhor , em Mispa,",
+        "18": "e disse aos filhos de Israel:",
+        "19": "Mas hoje vocês rejeitaram o seu Deus, que os livrou de todos os seus males e trabalhos. Vocês lhe disseram: ‘Não! Queremos um rei sobre nós.’ Agora, pois, reúnam-se diante do Senhor , por tribos e grupos de milhares.”",
+        "20": "Samuel fez com que todas as tribos se aproximassem, e a tribo sorteada foi a de Benjamim.",
+        "21": "Então Samuel chamou a tribo de Benjamim pelas suas famílias, e foi indicada a família de Matri. E da família de Matri foi indicado Saul, filho de Quis. Mas, quando o procuraram, não puderam encontrá-lo.",
+        "22": "Então perguntaram ao Senhor se aquele homem já havia chegado ali. E o Senhor respondeu:",
+        "23": "Então correram e o tiraram de lá. Ele ficou em pé no meio do povo, e era o mais alto de todos; dos ombros para cima, ele sobressaía a todo o povo.",
+        "24": "Então Samuel disse a todo o povo:",
+        "25": "Samuel explicou ao povo o direito do reino, escreveu-o num livro e o pôs diante do Senhor . Então Samuel despediu todo o povo, cada um para sua casa.",
+        "26": "Também Saul foi para a sua casa, em Gibeá. Com ele foi uma tropa de homens cujo coração Deus havia tocado.",
+        "27": "Mas alguns homens malignos disseram:"
     }
-  }
 }

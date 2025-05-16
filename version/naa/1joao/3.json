@@ -1,102 +1,34 @@
 {
-  "livro": "1 João",
-  "capítulo": 3,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Vejam que grande amor o Pai nos tem concedido, a ponto de sermos chamados filhos de Deus; e, de fato, somos filhos de Deus. Por essa razão, o mundo não nos conhece, porque não o conheceu."
+    "livro": "1 João",
+    "capitulo": 3,
+    "titulos": {
+        "7": "Os filhos de Deus e os filhos do diabo",
+        "11": "O amor aos irmãos"
     },
-    "2": {
-      "título": "",
-      "texto": "Amados, agora somos filhos de Deus, mas ainda não se manifestou o que haveremos de ser. Sabemos que, quando ele se manifestar, seremos semelhantes a ele, porque haveremos de vê-lo como ele é."
-    },
-    "3": {
-      "título": "",
-      "texto": "E todo o que tem essa esperança nele purifica a si mesmo, assim como ele é puro."
-    },
-    "4": {
-      "título": "",
-      "texto": "Todo aquele que pratica o pecado também transgride a lei, porque o pecado é a transgressão da lei."
-    },
-    "5": {
-      "título": "",
-      "texto": "E vocês sabem que ele se manifestou para tirar os pecados, e nele não existe pecado."
-    },
-    "6": {
-      "título": "",
-      "texto": "Todo aquele que permanece nele não vive pecando; todo aquele que vive pecando não o viu, nem o conheceu."
-    },
-    "7": {
-      "título": "Os filhos de Deus e os filhos do diabo",
-      "texto": "Filhinhos, não se deixem enganar por ninguém. Aquele que pratica a justiça é justo, assim como ele é justo."
-    },
-    "8": {
-      "título": "",
-      "texto": "Aquele que pratica o pecado procede do diabo, porque o diabo vive pecando desde o princípio. Para isto se manifestou o Filho de Deus: para destruir as obras do diabo."
-    },
-    "9": {
-      "título": "",
-      "texto": "Todo aquele que é nascido de Deus não vive na prática de pecado, porque nele permanece a semente divina; esse não pode viver pecando, porque é nascido de Deus."
-    },
-    "10": {
-      "título": "",
-      "texto": "Nisto são manifestos os filhos de Deus e os filhos do diabo: todo aquele que não pratica a justiça não procede de Deus, e o mesmo vale para aquele que não ama o seu irmão."
-    },
-    "11": {
-      "título": "O amor aos irmãos",
-      "texto": "Porque a mensagem que vocês ouviram desde o princípio é esta: que nos amemos uns aos outros."
-    },
-    "12": {
-      "título": "",
-      "texto": "Não sejamos como Caim, que era do Maligno e matou o seu irmão. E por que o matou? Porque as suas obras eram más, e as de seu irmão eram justas."
-    },
-    "13": {
-      "título": "",
-      "texto": "Irmãos, não se admirem se o mundo odeia vocês."
-    },
-    "14": {
-      "título": "",
-      "texto": "Nós sabemos que já passamos da morte para a vida, porque amamos os irmãos. Quem não ama permanece na morte."
-    },
-    "15": {
-      "título": "",
-      "texto": "Todo aquele que odeia o seu irmão é assassino, e vocês sabem que todo assassino não tem a vida eterna permanente em si."
-    },
-    "16": {
-      "título": "",
-      "texto": "Nisto conhecemos o amor: que Cristo deu a sua vida por nós; portanto, também nós devemos dar a nossa vida pelos irmãos."
-    },
-    "17": {
-      "título": "",
-      "texto": "Ora, se alguém possui recursos deste mundo e vê seu irmão passar necessidade, mas fecha o coração para essa pessoa, como pode permanecer nele o amor de Deus?"
-    },
-    "18": {
-      "título": "",
-      "texto": "Filhinhos, não amemos de palavra, nem da boca para fora, mas de fato e de verdade."
-    },
-    "19": {
-      "título": "",
-      "texto": "E nisto conheceremos que somos da verdade, bem como, diante dele, tranquilizaremos o nosso coração."
-    },
-    "20": {
-      "título": "",
-      "texto": "Pois, se o nosso coração nos acusar, Deus é maior do que o nosso coração e conhece todas as coisas."
-    },
-    "21": {
-      "título": "",
-      "texto": "Amados, se o coração não nos acusar, temos confiança diante de Deus;"
-    },
-    "22": {
-      "título": "",
-      "texto": "e aquilo que pedimos dele recebemos, porque guardamos os seus mandamentos e fazemos diante dele o que lhe é agradável."
-    },
-    "23": {
-      "título": "",
-      "texto": "E o seu mandamento é este: que creiamos no nome de seu Filho, Jesus Cristo, e nos amemos uns aos outros, segundo o mandamento que nos ordenou."
-    },
-    "24": {
-      "título": "",
-      "texto": "Quem guarda os seus mandamentos permanece em Deus, e Deus permanece nele. E nisto conhecemos que ele permanece em nós, pelo Espírito que nos deu."
+    "versiculos": {
+        "1": "Vejam que grande amor o Pai nos tem concedido, a ponto de sermos chamados filhos de Deus; e, de fato, somos filhos de Deus. Por essa razão, o mundo não nos conhece, porque não o conheceu.",
+        "2": "Amados, agora somos filhos de Deus, mas ainda não se manifestou o que haveremos de ser. Sabemos que, quando ele se manifestar, seremos semelhantes a ele, porque haveremos de vê-lo como ele é.",
+        "3": "E todo o que tem essa esperança nele purifica a si mesmo, assim como ele é puro.",
+        "4": "Todo aquele que pratica o pecado também transgride a lei, porque o pecado é a transgressão da lei.",
+        "5": "E vocês sabem que ele se manifestou para tirar os pecados, e nele não existe pecado.",
+        "6": "Todo aquele que permanece nele não vive pecando; todo aquele que vive pecando não o viu, nem o conheceu.",
+        "7": "Filhinhos, não se deixem enganar por ninguém. Aquele que pratica a justiça é justo, assim como ele é justo.",
+        "8": "Aquele que pratica o pecado procede do diabo, porque o diabo vive pecando desde o princípio. Para isto se manifestou o Filho de Deus: para destruir as obras do diabo.",
+        "9": "Todo aquele que é nascido de Deus não vive na prática de pecado, porque nele permanece a semente divina; esse não pode viver pecando, porque é nascido de Deus.",
+        "10": "Nisto são manifestos os filhos de Deus e os filhos do diabo: todo aquele que não pratica a justiça não procede de Deus, e o mesmo vale para aquele que não ama o seu irmão.",
+        "11": "Porque a mensagem que vocês ouviram desde o princípio é esta: que nos amemos uns aos outros.",
+        "12": "Não sejamos como Caim, que era do Maligno e matou o seu irmão. E por que o matou? Porque as suas obras eram más, e as de seu irmão eram justas.",
+        "13": "Irmãos, não se admirem se o mundo odeia vocês.",
+        "14": "Nós sabemos que já passamos da morte para a vida, porque amamos os irmãos. Quem não ama permanece na morte.",
+        "15": "Todo aquele que odeia o seu irmão é assassino, e vocês sabem que todo assassino não tem a vida eterna permanente em si.",
+        "16": "Nisto conhecemos o amor: que Cristo deu a sua vida por nós; portanto, também nós devemos dar a nossa vida pelos irmãos.",
+        "17": "Ora, se alguém possui recursos deste mundo e vê seu irmão passar necessidade, mas fecha o coração para essa pessoa, como pode permanecer nele o amor de Deus?",
+        "18": "Filhinhos, não amemos de palavra, nem da boca para fora, mas de fato e de verdade.",
+        "19": "E nisto conheceremos que somos da verdade, bem como, diante dele, tranquilizaremos o nosso coração.",
+        "20": "Pois, se o nosso coração nos acusar, Deus é maior do que o nosso coração e conhece todas as coisas.",
+        "21": "Amados, se o coração não nos acusar, temos confiança diante de Deus;",
+        "22": "e aquilo que pedimos dele recebemos, porque guardamos os seus mandamentos e fazemos diante dele o que lhe é agradável.",
+        "23": "E o seu mandamento é este: que creiamos no nome de seu Filho, Jesus Cristo, e nos amemos uns aos outros, segundo o mandamento que nos ordenou.",
+        "24": "Quem guarda os seus mandamentos permanece em Deus, e Deus permanece nele. E nisto conhecemos que ele permanece em nós, pelo Espírito que nos deu."
     }
-  }
 }

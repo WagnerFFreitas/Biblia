@@ -1,130 +1,41 @@
 {
-  "livro": "Gênesis",
-  "capítulo": 47,
-  "versículos": {
-    "1": {
-      "título": "Israel é apresentado a Faraó",
-      "texto": "Então José foi e deu a notícia a Faraó:"
+    "livro": "Gênesis",
+    "capitulo": 47,
+    "titulos": {
+        "1": "Israel é apresentado a Faraó",
+        "13": "José compra toda a terra do Egito para Faraó"
     },
-    "2": {
-      "título": "",
-      "texto": "E levou cinco dos seus irmãos e os apresentou a Faraó."
-    },
-    "3": {
-      "título": "",
-      "texto": "Então Faraó perguntou aos irmãos de José:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Disseram mais a Faraó:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Então Faraó disse a José:"
-    },
-    "6": {
-      "título": "",
-      "texto": "A terra do Egito está à sua disposição. Faça com que seu pai e seus irmãos se estabeleçam na melhor região da terra; que morem na terra de Gósen. Se souber que há no meio deles homens capazes, ponha-os por responsáveis pelo gado que me pertence."
-    },
-    "7": {
-      "título": "",
-      "texto": "José levou Jacó, seu pai, e o apresentou a Faraó; e Jacó abençoou Faraó."
-    },
-    "8": {
-      "título": "",
-      "texto": "Então Faraó perguntou a Jacó:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Jacó lhe respondeu:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Depois Jacó abençoou Faraó e saiu de sua presença."
-    },
-    "11": {
-      "título": "",
-      "texto": "Então José estabeleceu seu pai e seus irmãos e lhes deu propriedades na terra do Egito, no melhor da terra, na terra de Ramessés, como Faraó havia ordenado."
-    },
-    "12": {
-      "título": "",
-      "texto": "E José providenciou alimento para seu pai, seus irmãos e toda a casa de seu pai, segundo o número de seus filhos."
-    },
-    "13": {
-      "título": "José compra toda a terra do Egito para Faraó",
-      "texto": "Não havia alimento em toda a terra, porque a fome era muito grande. Assim, o povo do Egito e o povo de Canaã desfaleciam por causa da fome."
-    },
-    "14": {
-      "título": "",
-      "texto": "Então José arrecadou todo o dinheiro que havia na terra do Egito e na terra de Canaã, pelo cereal que compravam, e o recolheu à casa de Faraó."
-    },
-    "15": {
-      "título": "",
-      "texto": "Quando acabou o dinheiro na terra do Egito e na terra de Canaã, todos os egípcios foram a José e disseram:"
-    },
-    "16": {
-      "título": "",
-      "texto": "José respondeu:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Então trouxeram o seu gado a José e ele lhes deu mantimento em troca de cavalos, rebanhos, gado e jumentos. E José os sustentou aquele ano em troca de todo o gado deles."
-    },
-    "18": {
-      "título": "",
-      "texto": "Tendo acabado aquele ano, foram a José no ano seguinte e lhe disseram:"
-    },
-    "19": {
-      "título": "",
-      "texto": "Por que o senhor nos deixaria perecer em sua presença, tanto a nós como à nossa terra? Compre a nós e a nossa terra em troca de mantimento, e nós e a nossa terra seremos escravos de Faraó. Dê-nos semente para que vivamos e não morramos, e a terra não fique deserta."
-    },
-    "20": {
-      "título": "",
-      "texto": "Assim, José comprou toda a terra do Egito para Faraó, porque os egípcios venderam cada um o seu campo, porque a fome era extrema sobre eles. E a terra passou a ser de Faraó."
-    },
-    "21": {
-      "título": "",
-      "texto": "Quanto ao povo, ele o escravizou de uma a outra extremidade da terra do Egito."
-    },
-    "22": {
-      "título": "",
-      "texto": "José só não comprou a terra dos sacerdotes, porque os sacerdotes recebiam uma porção de mantimento de Faraó e viviam dessa porção que Faraó lhes dava; por isso, não venderam a sua terra."
-    },
-    "23": {
-      "título": "",
-      "texto": "Então José disse ao povo:"
-    },
-    "24": {
-      "título": "",
-      "texto": "Das colheitas vocês darão a quinta parte a Faraó. As outras quatro partes serão de vocês, para semear o campo e para servir de alimento a vocês, aos que estão em suas casas, e para alimentar os seus filhos."
-    },
-    "25": {
-      "título": "",
-      "texto": "Eles disseram a José:"
-    },
-    "26": {
-      "título": "",
-      "texto": "E José estabeleceu por lei até o dia de hoje que, na terra do Egito, um quinto pertence a Faraó. Só a terra dos sacerdotes não ficou sendo de Faraó."
-    },
-    "27": {
-      "título": "",
-      "texto": "Assim, Israel habitou na terra do Egito, na terra de Gósen. Nela adquiriram propriedades, e foram fecundos, e muito se multiplicaram."
-    },
-    "28": {
-      "título": "",
-      "texto": "Jacó viveu na terra do Egito dezessete anos. Assim, os dias de Jacó, os anos da sua vida, foram cento e quarenta e sete."
-    },
-    "29": {
-      "título": "",
-      "texto": "Aproximando-se, pois, o tempo da morte de Israel, chamou o seu filho José e lhe disse:"
-    },
-    "30": {
-      "título": "",
-      "texto": "mas que eu possa descansar com os meus pais. Por isso, você me levará do Egito e me colocará na sepultura deles."
-    },
-    "31": {
-      "título": "",
-      "texto": "Então Jacó lhe disse:"
+    "versiculos": {
+        "1": "Então José foi e deu a notícia a Faraó:",
+        "2": "E levou cinco dos seus irmãos e os apresentou a Faraó.",
+        "3": "Então Faraó perguntou aos irmãos de José:",
+        "4": "Disseram mais a Faraó:",
+        "5": "Então Faraó disse a José:",
+        "6": "A terra do Egito está à sua disposição. Faça com que seu pai e seus irmãos se estabeleçam na melhor região da terra; que morem na terra de Gósen. Se souber que há no meio deles homens capazes, ponha-os por responsáveis pelo gado que me pertence.",
+        "7": "José levou Jacó, seu pai, e o apresentou a Faraó; e Jacó abençoou Faraó.",
+        "8": "Então Faraó perguntou a Jacó:",
+        "9": "Jacó lhe respondeu:",
+        "10": "Depois Jacó abençoou Faraó e saiu de sua presença.",
+        "11": "Então José estabeleceu seu pai e seus irmãos e lhes deu propriedades na terra do Egito, no melhor da terra, na terra de Ramessés, como Faraó havia ordenado.",
+        "12": "E José providenciou alimento para seu pai, seus irmãos e toda a casa de seu pai, segundo o número de seus filhos.",
+        "13": "Não havia alimento em toda a terra, porque a fome era muito grande. Assim, o povo do Egito e o povo de Canaã desfaleciam por causa da fome.",
+        "14": "Então José arrecadou todo o dinheiro que havia na terra do Egito e na terra de Canaã, pelo cereal que compravam, e o recolheu à casa de Faraó.",
+        "15": "Quando acabou o dinheiro na terra do Egito e na terra de Canaã, todos os egípcios foram a José e disseram:",
+        "16": "José respondeu:",
+        "17": "Então trouxeram o seu gado a José e ele lhes deu mantimento em troca de cavalos, rebanhos, gado e jumentos. E José os sustentou aquele ano em troca de todo o gado deles.",
+        "18": "Tendo acabado aquele ano, foram a José no ano seguinte e lhe disseram:",
+        "19": "Por que o senhor nos deixaria perecer em sua presença, tanto a nós como à nossa terra? Compre a nós e a nossa terra em troca de mantimento, e nós e a nossa terra seremos escravos de Faraó. Dê-nos semente para que vivamos e não morramos, e a terra não fique deserta.",
+        "20": "Assim, José comprou toda a terra do Egito para Faraó, porque os egípcios venderam cada um o seu campo, porque a fome era extrema sobre eles. E a terra passou a ser de Faraó.",
+        "21": "Quanto ao povo, ele o escravizou de uma a outra extremidade da terra do Egito.",
+        "22": "José só não comprou a terra dos sacerdotes, porque os sacerdotes recebiam uma porção de mantimento de Faraó e viviam dessa porção que Faraó lhes dava; por isso, não venderam a sua terra.",
+        "23": "Então José disse ao povo:",
+        "24": "Das colheitas vocês darão a quinta parte a Faraó. As outras quatro partes serão de vocês, para semear o campo e para servir de alimento a vocês, aos que estão em suas casas, e para alimentar os seus filhos.",
+        "25": "Eles disseram a José:",
+        "26": "E José estabeleceu por lei até o dia de hoje que, na terra do Egito, um quinto pertence a Faraó. Só a terra dos sacerdotes não ficou sendo de Faraó.",
+        "27": "Assim, Israel habitou na terra do Egito, na terra de Gósen. Nela adquiriram propriedades, e foram fecundos, e muito se multiplicaram.",
+        "28": "Jacó viveu na terra do Egito dezessete anos. Assim, os dias de Jacó, os anos da sua vida, foram cento e quarenta e sete.",
+        "29": "Aproximando-se, pois, o tempo da morte de Israel, chamou o seu filho José e lhe disse:",
+        "30": "mas que eu possa descansar com os meus pais. Por isso, você me levará do Egito e me colocará na sepultura deles.",
+        "31": "Então Jacó lhe disse:"
     }
-  }
 }

@@ -1,174 +1,56 @@
 {
-  "livro": "Lucas",
-  "capítulo": 10,
-  "versículos": {
-    "1": {
-      "título": "A missão dos setenta",
-      "texto": "Depois disso, o Senhor escolheu outros setenta e os enviou de dois em dois, para que fossem adiante dele a cada cidade e lugar onde ele haveria de passar."
+    "livro": "Lucas",
+    "capitulo": 10,
+    "titulos": {
+        "1": "A missão dos setenta",
+        "13": "Ai das cidades impenitentes!",
+        "17": "O regresso dos setenta",
+        "21": "Jesus, o Salvador dos humildes",
+        "25": "O bom samaritano",
+        "38": "Marta e Maria"
     },
-    "2": {
-      "título": "",
-      "texto": "E lhes disse:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Vão! Eis que eu os envio como cordeiros para o meio de lobos."
-    },
-    "4": {
-      "título": "",
-      "texto": "Não levem bolsa, nem sacola, nem sandálias; e não saúdem ninguém pelo caminho."
-    },
-    "5": {
-      "título": "",
-      "texto": "Ao entrarem numa casa, digam primeiro: “Paz seja nesta casa!”"
-    },
-    "6": {
-      "título": "",
-      "texto": "Se houver ali uma pessoa que ama a paz, sobre ela repousará a paz de vocês; se não houver, a paz voltará sobre vocês."
-    },
-    "7": {
-      "título": "",
-      "texto": "Fiquem na mesma casa, comendo e bebendo do que eles tiverem; porque o trabalhador é digno do seu salário. Não fiquem mudando de casa em casa."
-    },
-    "8": {
-      "título": "",
-      "texto": "Quando entrarem numa cidade e ali forem bem-recebidos, comam do que lhes for oferecido."
-    },
-    "9": {
-      "título": "",
-      "texto": "Curem os doentes que nela houver e digam ao povo dali: “O Reino de Deus se aproximou de vocês.”"
-    },
-    "10": {
-      "título": "",
-      "texto": "Porém, quando entrarem numa cidade e não forem bem-recebidos, saiam pelas ruas, dizendo:"
-    },
-    "11": {
-      "título": "",
-      "texto": "“Até o pó desta cidade, que grudou nos nossos pés, sacudimos contra vocês! No entanto, saibam que está próximo o Reino de Deus.”"
-    },
-    "12": {
-      "título": "",
-      "texto": "Eu digo a vocês que, naquele dia, haverá menos rigor para Sodoma do que para aquela cidade."
-    },
-    "13": {
-      "título": "Ai das cidades impenitentes!",
-      "texto": "— Ai de você, Corazim! Ai de você, Betsaida! Porque, se em Tiro e em Sidom se tivessem operado os milagres que foram feitos em vocês, há muito que elas teriam se arrependido, assentadas em pano de saco e cinza."
-    },
-    "14": {
-      "título": "",
-      "texto": "Mas, no Juízo, haverá menos rigor para Tiro e Sidom do que para vocês."
-    },
-    "15": {
-      "título": "",
-      "texto": "— E você, Cafarnaum, pensa que será elevada até o céu? Será jogada no inferno!"
-    },
-    "16": {
-      "título": "",
-      "texto": "— Quem ouve vocês ouve a mim; e quem rejeita vocês é a mim que rejeita; quem, porém, me rejeita está rejeitando aquele que me enviou."
-    },
-    "17": {
-      "título": "O regresso dos setenta",
-      "texto": "Então os setenta voltaram, cheios de alegria, dizendo:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Jesus lhes disse:"
-    },
-    "19": {
-      "título": "",
-      "texto": "Eis que eu dei a vocês autoridade para pisarem cobras e escorpiões e sobre todo o poder do inimigo, e nada, absolutamente, lhes causará dano."
-    },
-    "20": {
-      "título": "",
-      "texto": "No entanto, alegrem-se, não porque os espíritos se submetem a vocês, e sim porque o nome de cada um de vocês está registrado no céu."
-    },
-    "21": {
-      "título": "Jesus, o Salvador dos humildes",
-      "texto": "Naquela hora, Jesus exultou no Espírito Santo e exclamou:"
-    },
-    "22": {
-      "título": "",
-      "texto": "— Tudo me foi entregue por meu Pai. Ninguém sabe quem é o Filho, a não ser o Pai; e também ninguém sabe quem é o Pai, a não ser o Filho e aquele a quem o Filho o quiser revelar."
-    },
-    "23": {
-      "título": "",
-      "texto": "E, voltando-se para os seus discípulos, Jesus lhes disse em particular:"
-    },
-    "24": {
-      "título": "",
-      "texto": "Pois eu lhes digo que muitos profetas e reis quiseram ver o que vocês estão vendo, mas não viram; e quiseram ouvir o que vocês estão ouvindo, mas não ouviram."
-    },
-    "25": {
-      "título": "O bom samaritano",
-      "texto": "E eis que certo homem, intérprete da Lei, se levantou com o objetivo de pôr Jesus à prova e lhe perguntou:"
-    },
-    "26": {
-      "título": "",
-      "texto": "Então Jesus lhe perguntou:"
-    },
-    "27": {
-      "título": "",
-      "texto": "A isto ele respondeu:"
-    },
-    "28": {
-      "título": "",
-      "texto": "Então Jesus lhe disse:"
-    },
-    "29": {
-      "título": "",
-      "texto": "Mas ele, querendo justificar-se, perguntou a Jesus:"
-    },
-    "30": {
-      "título": "",
-      "texto": "Jesus prosseguiu, dizendo:"
-    },
-    "31": {
-      "título": "",
-      "texto": "Por casualidade, um sacerdote estava descendo por aquele mesmo caminho e, vendo aquele homem, passou de largo."
-    },
-    "32": {
-      "título": "",
-      "texto": "De igual modo, um levita descia por aquele lugar e, vendo-o, passou de largo."
-    },
-    "33": {
-      "título": "",
-      "texto": "Certo samaritano, que seguia o seu caminho, passou perto do homem e, vendo-o, compadeceu-se dele."
-    },
-    "34": {
-      "título": "",
-      "texto": "E, aproximando-se, fez curativos nos ferimentos dele, aplicando-lhes óleo e vinho. Depois, colocou aquele homem sobre o seu próprio animal, levou-o para uma hospedaria e tratou dele."
-    },
-    "35": {
-      "título": "",
-      "texto": "No dia seguinte, separou dois denários e os entregou ao hospedeiro, dizendo: “Cuide deste homem. E, se você gastar algo a mais, farei o reembolso quando eu voltar.”"
-    },
-    "36": {
-      "título": "",
-      "texto": "Então Jesus perguntou:"
-    },
-    "37": {
-      "título": "",
-      "texto": "O intérprete da Lei respondeu:"
-    },
-    "38": {
-      "título": "Marta e Maria",
-      "texto": "Quando eles seguiam viagem, Jesus entrou numa aldeia. E certa mulher, chamada Marta, hospedou-o na sua casa."
-    },
-    "39": {
-      "título": "",
-      "texto": "Marta tinha uma irmã, chamada Maria, que, assentada aos pés do Senhor, ouvia o seu ensino."
-    },
-    "40": {
-      "título": "",
-      "texto": "Marta agitava-se de um lado para outro, ocupada em muitos serviços. Então se aproximou de Jesus e disse:"
-    },
-    "41": {
-      "título": "",
-      "texto": "Mas o Senhor respondeu:"
-    },
-    "42": {
-      "título": "",
-      "texto": "mas apenas uma é necessária. Maria escolheu a boa parte, e esta não lhe será tirada."
+    "versiculos": {
+        "1": "Depois disso, o Senhor escolheu outros setenta e os enviou de dois em dois, para que fossem adiante dele a cada cidade e lugar onde ele haveria de passar.",
+        "2": "E lhes disse:",
+        "3": "Vão! Eis que eu os envio como cordeiros para o meio de lobos.",
+        "4": "Não levem bolsa, nem sacola, nem sandálias; e não saúdem ninguém pelo caminho.",
+        "5": "Ao entrarem numa casa, digam primeiro: “Paz seja nesta casa!”",
+        "6": "Se houver ali uma pessoa que ama a paz, sobre ela repousará a paz de vocês; se não houver, a paz voltará sobre vocês.",
+        "7": "Fiquem na mesma casa, comendo e bebendo do que eles tiverem; porque o trabalhador é digno do seu salário. Não fiquem mudando de casa em casa.",
+        "8": "Quando entrarem numa cidade e ali forem bem-recebidos, comam do que lhes for oferecido.",
+        "9": "Curem os doentes que nela houver e digam ao povo dali: “O Reino de Deus se aproximou de vocês.”",
+        "10": "Porém, quando entrarem numa cidade e não forem bem-recebidos, saiam pelas ruas, dizendo:",
+        "11": "“Até o pó desta cidade, que grudou nos nossos pés, sacudimos contra vocês! No entanto, saibam que está próximo o Reino de Deus.”",
+        "12": "Eu digo a vocês que, naquele dia, haverá menos rigor para Sodoma do que para aquela cidade.",
+        "13": "— Ai de você, Corazim! Ai de você, Betsaida! Porque, se em Tiro e em Sidom se tivessem operado os milagres que foram feitos em vocês, há muito que elas teriam se arrependido, assentadas em pano de saco e cinza.",
+        "14": "Mas, no Juízo, haverá menos rigor para Tiro e Sidom do que para vocês.",
+        "15": "— E você, Cafarnaum, pensa que será elevada até o céu? Será jogada no inferno!",
+        "16": "— Quem ouve vocês ouve a mim; e quem rejeita vocês é a mim que rejeita; quem, porém, me rejeita está rejeitando aquele que me enviou.",
+        "17": "Então os setenta voltaram, cheios de alegria, dizendo:",
+        "18": "Jesus lhes disse:",
+        "19": "Eis que eu dei a vocês autoridade para pisarem cobras e escorpiões e sobre todo o poder do inimigo, e nada, absolutamente, lhes causará dano.",
+        "20": "No entanto, alegrem-se, não porque os espíritos se submetem a vocês, e sim porque o nome de cada um de vocês está registrado no céu.",
+        "21": "Naquela hora, Jesus exultou no Espírito Santo e exclamou:",
+        "22": "— Tudo me foi entregue por meu Pai. Ninguém sabe quem é o Filho, a não ser o Pai; e também ninguém sabe quem é o Pai, a não ser o Filho e aquele a quem o Filho o quiser revelar.",
+        "23": "E, voltando-se para os seus discípulos, Jesus lhes disse em particular:",
+        "24": "Pois eu lhes digo que muitos profetas e reis quiseram ver o que vocês estão vendo, mas não viram; e quiseram ouvir o que vocês estão ouvindo, mas não ouviram.",
+        "25": "E eis que certo homem, intérprete da Lei, se levantou com o objetivo de pôr Jesus à prova e lhe perguntou:",
+        "26": "Então Jesus lhe perguntou:",
+        "27": "A isto ele respondeu:",
+        "28": "Então Jesus lhe disse:",
+        "29": "Mas ele, querendo justificar-se, perguntou a Jesus:",
+        "30": "Jesus prosseguiu, dizendo:",
+        "31": "Por casualidade, um sacerdote estava descendo por aquele mesmo caminho e, vendo aquele homem, passou de largo.",
+        "32": "De igual modo, um levita descia por aquele lugar e, vendo-o, passou de largo.",
+        "33": "Certo samaritano, que seguia o seu caminho, passou perto do homem e, vendo-o, compadeceu-se dele.",
+        "34": "E, aproximando-se, fez curativos nos ferimentos dele, aplicando-lhes óleo e vinho. Depois, colocou aquele homem sobre o seu próprio animal, levou-o para uma hospedaria e tratou dele.",
+        "35": "No dia seguinte, separou dois denários e os entregou ao hospedeiro, dizendo: “Cuide deste homem. E, se você gastar algo a mais, farei o reembolso quando eu voltar.”",
+        "36": "Então Jesus perguntou:",
+        "37": "O intérprete da Lei respondeu:",
+        "38": "Quando eles seguiam viagem, Jesus entrou numa aldeia. E certa mulher, chamada Marta, hospedou-o na sua casa.",
+        "39": "Marta tinha uma irmã, chamada Maria, que, assentada aos pés do Senhor, ouvia o seu ensino.",
+        "40": "Marta agitava-se de um lado para outro, ocupada em muitos serviços. Então se aproximou de Jesus e disse:",
+        "41": "Mas o Senhor respondeu:",
+        "42": "mas apenas uma é necessária. Maria escolheu a boa parte, e esta não lhe será tirada."
     }
-  }
 }

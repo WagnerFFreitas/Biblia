@@ -1,190 +1,59 @@
 {
-  "livro": "Deuteronômio",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "Moisés conta a história de Israel",
-      "texto": "São estas as palavras que Moisés falou a todo o Israel, a leste do Jordão, no deserto, na Arabá, diante de Sufe, entre Parã, Tofel, Labã, Hazerote e Di-Zaabe."
+    "livro": "Deuteronômio",
+    "capitulo": 1,
+    "titulos": {
+        "1": "Moisés conta a história de Israel",
+        "9": "A nomeação de auxiliares",
+        "19": "Os espias na terra de Canaã",
+        "34": "O castigo de Deus",
+        "41": "O povo é derrotado em Horma"
     },
-    "2": {
-      "título": "",
-      "texto": "É uma jornada de onze dias desde Horebe até Cades-Barneia, pelo caminho dos montes de Seir."
-    },
-    "3": {
-      "título": "",
-      "texto": "Aconteceu que, no quadragésimo ano, no primeiro dia do décimo primeiro mês, Moisés falou aos filhos de Israel, segundo tudo o que o Senhor lhe havia ordenado a respeito deles,"
-    },
-    "4": {
-      "título": "",
-      "texto": "depois que derrotou Seom, rei dos amorreus, que habitava em Hesbom, e Ogue, rei de Basã, que habitava em Astarote, em Edrei."
-    },
-    "5": {
-      "título": "",
-      "texto": "A leste do Jordão, na terra de Moabe, Moisés encarregou-se de explicar esta lei, dizendo:"
-    },
-    "6": {
-      "título": "",
-      "texto": "— O Senhor , nosso Deus, nos falou em Horebe, dizendo: “Vocês já ficaram bastante tempo neste monte."
-    },
-    "7": {
-      "título": "",
-      "texto": "Voltem e sigam viagem. Vão à região montanhosa dos amorreus, a todos os seus vizinhos, na Arabá, à região montanhosa, à Sefelá, ao Neguebe, à costa marítima, terra dos cananeus, e ao Líbano, até o grande rio Eufrates."
-    },
-    "8": {
-      "título": "",
-      "texto": "Eis aqui a terra que eu pus diante de vocês; entrem e tomem posse da terra que o Senhor , com juramento, deu a seus pais, a Abraão, Isaque e Jacó, a eles e à sua descendência depois deles.”"
-    },
-    "9": {
-      "título": "A nomeação de auxiliares",
-      "texto": "— Nesse mesmo tempo, eu disse a vocês: “Sozinho não poderei levá-los."
-    },
-    "10": {
-      "título": "",
-      "texto": "O Senhor , o Deus de vocês, fez com que vocês se multiplicassem e eis que hoje vocês são uma multidão como as estrelas dos céus."
-    },
-    "11": {
-      "título": "",
-      "texto": "O Senhor , Deus dos pais de vocês, faça com que vocês sejam mil vezes mais numerosos do que são agora e os abençoe, como prometeu."
-    },
-    "12": {
-      "título": "",
-      "texto": "Mas como poderia eu sozinho suportar o peso e a carga de vocês, e como poderia eu resolver sozinho todas as questões que surgem no meio de vocês?"
-    },
-    "13": {
-      "título": "",
-      "texto": "Escolham homens sábios, inteligentes e experimentados, segundo as suas tribos, para que eu os ponha por chefes de vocês.”"
-    },
-    "14": {
-      "título": "",
-      "texto": "— Então vocês me responderam que era bom fazer o que eu tinha falado."
-    },
-    "15": {
-      "título": "",
-      "texto": "Assim, peguei os chefes de suas tribos, homens sábios e experimentados, e os fiz chefes sobre vocês, chefes de milhares, chefes de cem, chefes de cinquenta, chefes de dez e oficiais, segundo as suas tribos."
-    },
-    "16": {
-      "título": "",
-      "texto": "Nesse mesmo tempo, ordenei aos juízes, dizendo: “Deem atenção às questões que surgem entre os seus irmãos e julguem com justiça entre um homem e seu irmão ou o estrangeiro que está com ele."
-    },
-    "17": {
-      "título": "",
-      "texto": "Não sejam parciais no julgamento. Ouçam tanto o pequeno como o grande; não tenham medo de ninguém, porque o julgamento é de Deus. Porém, se a questão for demasiadamente difícil para vocês, tragam para mim, e eu a ouvirei.”"
-    },
-    "18": {
-      "título": "",
-      "texto": "— Assim, naquele tempo, eu lhes ordenei todas as coisas que vocês deveriam fazer."
-    },
-    "19": {
-      "título": "Os espias na terra de Canaã",
-      "texto": "— Então partimos de Horebe e caminhamos por todo aquele grande e terrível deserto que vocês viram, pelo caminho da região montanhosa dos amorreus, como o Senhor , nosso Deus, nos havia ordenado; e chegamos a Cades-Barneia."
-    },
-    "20": {
-      "título": "",
-      "texto": "Então eu lhes disse: “Vocês chegaram à região montanhosa dos amorreus, que o Senhor , nosso Deus, nos dá."
-    },
-    "21": {
-      "título": "",
-      "texto": "Eis que o Senhor , seu Deus, colocou esta terra diante de vocês. Vão e tomem posse dessa terra, como o Senhor , o Deus de seus pais, falou. Não tenham medo e não se assustem.”"
-    },
-    "22": {
-      "título": "",
-      "texto": "— Então todos vocês se aproximaram de mim e disseram: “Vamos mandar alguns homens adiante de nós, para que espiem a terra e nos digam por que caminho devemos seguir e a que cidades devemos ir.”"
-    },
-    "23": {
-      "título": "",
-      "texto": "Isto me pareceu uma boa ideia, de maneira que escolhi, do meio de vocês, doze homens, um de cada tribo."
-    },
-    "24": {
-      "título": "",
-      "texto": "Eles saíram e foram à região montanhosa, e, espiando a terra, foram até o vale de Escol."
-    },
-    "25": {
-      "título": "",
-      "texto": "Tomaram do fruto da terra nas mãos e o trouxeram até nós. E nos informaram, dizendo: “É boa esta terra que o Senhor , nosso Deus, nos dá.”"
-    },
-    "26": {
-      "título": "",
-      "texto": "— Porém vocês não quiseram ir, mas foram rebeldes à ordem do Senhor , seu Deus."
-    },
-    "27": {
-      "título": "",
-      "texto": "Ficaram murmurando em suas tendas e disseram: “O Senhor está com ódio de nós e por isso nos tirou da terra do Egito para nos entregar nas mãos dos amorreus e nos destruir."
-    },
-    "28": {
-      "título": "",
-      "texto": "Para onde iremos? Nossos irmãos nos deixaram com medo, dizendo: ‘Aquele povo é maior e mais alto do que nós. As cidades são grandes e fortificadas até o céu. Também vimos ali os filhos dos anaquins.’”"
-    },
-    "29": {
-      "título": "",
-      "texto": "— Então eu lhes disse: “Não fiquem apavorados, nem tenham medo deles."
-    },
-    "30": {
-      "título": "",
-      "texto": "O Senhor , o seu Deus, que vai adiante de vocês, ele lutará por vocês, segundo tudo o que viram que ele fez conosco no Egito,"
-    },
-    "31": {
-      "título": "",
-      "texto": "e também no deserto, onde vocês viram que o Senhor , seu Deus, os levou, como um homem leva o seu filho, por todo o caminho pelo qual vocês andaram, até chegar a este lugar.”"
-    },
-    "32": {
-      "título": "",
-      "texto": "— Mas nem assim vocês creram no Senhor , seu Deus,"
-    },
-    "33": {
-      "título": "",
-      "texto": "que foi adiante de vocês por todo o caminho, para procurar o lugar onde deveriam acampar; de noite, estava no fogo, para mostrar o caminho por onde vocês deveriam andar, e, de dia, estava na nuvem."
-    },
-    "34": {
-      "título": "O castigo de Deus",
-      "texto": "— O Senhor ouviu o que vocês disseram, ficou irado e jurou, dizendo:"
-    },
-    "35": {
-      "título": "",
-      "texto": "“Nenhum dos homens desta geração perversa verá a boa terra que jurei dar aos pais de vocês,"
-    },
-    "36": {
-      "título": "",
-      "texto": "com a exceção de Calebe, filho de Jefoné. Ele verá essa terra e darei a ele e aos filhos dele a terra em que ele pisou, porque perseverou em seguir o Senhor .”"
-    },
-    "37": {
-      "título": "",
-      "texto": "Também contra mim se indignou o Senhor por causa de vocês, dizendo: “Também você não entrará nessa terra."
-    },
-    "38": {
-      "título": "",
-      "texto": "Josué, filho de Num, que está diante de você, ele é quem vai entrar; anime-o, porque ele fará com que Israel a receba por herança."
-    },
-    "39": {
-      "título": "",
-      "texto": "E as crianças de vocês, de quem vocês disseram que seriam presa do inimigo, sim, os filhos de vocês, que hoje nem sabem distinguir entre bem e mal, esses ali entrarão, e a eles darei a terra, e eles a possuirão."
-    },
-    "40": {
-      "título": "",
-      "texto": "Mas vocês voltem e sigam para o deserto, pelo caminho do mar Vermelho.”"
-    },
-    "41": {
-      "título": "O povo é derrotado em Horma",
-      "texto": "— Então vocês responderam: “Pecamos contra o Senhor . Nós iremos e lutaremos, segundo tudo o que o Senhor , nosso Deus, nos ordenou.” Vocês se armaram, cada um com os seus instrumentos de guerra, e pensaram que seria fácil entrar na região montanhosa."
-    },
-    "42": {
-      "título": "",
-      "texto": "Mas o Senhor mandou que eu dissesse a vocês: “Não vão, nem comecem a lutar, pois não estou no meio de vocês, e vocês serão derrotados pelos seus inimigos.”"
-    },
-    "43": {
-      "título": "",
-      "texto": "Isso eu lhes falei, mas vocês não quiseram escutar; pelo contrário, foram rebeldes às ordens do Senhor e, presunçosos, foram na direção das montanhas."
-    },
-    "44": {
-      "título": "",
-      "texto": "Os amorreus que habitavam naquela região montanhosa saíram contra vocês e os perseguiram como fazem as abelhas e os derrotaram desde Seir até Horma."
-    },
-    "45": {
-      "título": "",
-      "texto": "Vocês voltaram e foram se queixar diante do Senhor , porém o Senhor não lhes deu atenção e não inclinou os ouvidos a vocês."
-    },
-    "46": {
-      "título": "",
-      "texto": "Assim, vocês permaneceram muitos dias em Cades."
+    "versiculos": {
+        "1": "São estas as palavras que Moisés falou a todo o Israel, a leste do Jordão, no deserto, na Arabá, diante de Sufe, entre Parã, Tofel, Labã, Hazerote e Di-Zaabe.",
+        "2": "É uma jornada de onze dias desde Horebe até Cades-Barneia, pelo caminho dos montes de Seir.",
+        "3": "Aconteceu que, no quadragésimo ano, no primeiro dia do décimo primeiro mês, Moisés falou aos filhos de Israel, segundo tudo o que o Senhor lhe havia ordenado a respeito deles,",
+        "4": "depois que derrotou Seom, rei dos amorreus, que habitava em Hesbom, e Ogue, rei de Basã, que habitava em Astarote, em Edrei.",
+        "5": "A leste do Jordão, na terra de Moabe, Moisés encarregou-se de explicar esta lei, dizendo:",
+        "6": "— O Senhor , nosso Deus, nos falou em Horebe, dizendo: “Vocês já ficaram bastante tempo neste monte.",
+        "7": "Voltem e sigam viagem. Vão à região montanhosa dos amorreus, a todos os seus vizinhos, na Arabá, à região montanhosa, à Sefelá, ao Neguebe, à costa marítima, terra dos cananeus, e ao Líbano, até o grande rio Eufrates.",
+        "8": "Eis aqui a terra que eu pus diante de vocês; entrem e tomem posse da terra que o Senhor , com juramento, deu a seus pais, a Abraão, Isaque e Jacó, a eles e à sua descendência depois deles.”",
+        "9": "— Nesse mesmo tempo, eu disse a vocês: “Sozinho não poderei levá-los.",
+        "10": "O Senhor , o Deus de vocês, fez com que vocês se multiplicassem e eis que hoje vocês são uma multidão como as estrelas dos céus.",
+        "11": "O Senhor , Deus dos pais de vocês, faça com que vocês sejam mil vezes mais numerosos do que são agora e os abençoe, como prometeu.",
+        "12": "Mas como poderia eu sozinho suportar o peso e a carga de vocês, e como poderia eu resolver sozinho todas as questões que surgem no meio de vocês?",
+        "13": "Escolham homens sábios, inteligentes e experimentados, segundo as suas tribos, para que eu os ponha por chefes de vocês.”",
+        "14": "— Então vocês me responderam que era bom fazer o que eu tinha falado.",
+        "15": "Assim, peguei os chefes de suas tribos, homens sábios e experimentados, e os fiz chefes sobre vocês, chefes de milhares, chefes de cem, chefes de cinquenta, chefes de dez e oficiais, segundo as suas tribos.",
+        "16": "Nesse mesmo tempo, ordenei aos juízes, dizendo: “Deem atenção às questões que surgem entre os seus irmãos e julguem com justiça entre um homem e seu irmão ou o estrangeiro que está com ele.",
+        "17": "Não sejam parciais no julgamento. Ouçam tanto o pequeno como o grande; não tenham medo de ninguém, porque o julgamento é de Deus. Porém, se a questão for demasiadamente difícil para vocês, tragam para mim, e eu a ouvirei.”",
+        "18": "— Assim, naquele tempo, eu lhes ordenei todas as coisas que vocês deveriam fazer.",
+        "19": "— Então partimos de Horebe e caminhamos por todo aquele grande e terrível deserto que vocês viram, pelo caminho da região montanhosa dos amorreus, como o Senhor , nosso Deus, nos havia ordenado; e chegamos a Cades-Barneia.",
+        "20": "Então eu lhes disse: “Vocês chegaram à região montanhosa dos amorreus, que o Senhor , nosso Deus, nos dá.",
+        "21": "Eis que o Senhor , seu Deus, colocou esta terra diante de vocês. Vão e tomem posse dessa terra, como o Senhor , o Deus de seus pais, falou. Não tenham medo e não se assustem.”",
+        "22": "— Então todos vocês se aproximaram de mim e disseram: “Vamos mandar alguns homens adiante de nós, para que espiem a terra e nos digam por que caminho devemos seguir e a que cidades devemos ir.”",
+        "23": "Isto me pareceu uma boa ideia, de maneira que escolhi, do meio de vocês, doze homens, um de cada tribo.",
+        "24": "Eles saíram e foram à região montanhosa, e, espiando a terra, foram até o vale de Escol.",
+        "25": "Tomaram do fruto da terra nas mãos e o trouxeram até nós. E nos informaram, dizendo: “É boa esta terra que o Senhor , nosso Deus, nos dá.”",
+        "26": "— Porém vocês não quiseram ir, mas foram rebeldes à ordem do Senhor , seu Deus.",
+        "27": "Ficaram murmurando em suas tendas e disseram: “O Senhor está com ódio de nós e por isso nos tirou da terra do Egito para nos entregar nas mãos dos amorreus e nos destruir.",
+        "28": "Para onde iremos? Nossos irmãos nos deixaram com medo, dizendo: ‘Aquele povo é maior e mais alto do que nós. As cidades são grandes e fortificadas até o céu. Também vimos ali os filhos dos anaquins.’”",
+        "29": "— Então eu lhes disse: “Não fiquem apavorados, nem tenham medo deles.",
+        "30": "O Senhor , o seu Deus, que vai adiante de vocês, ele lutará por vocês, segundo tudo o que viram que ele fez conosco no Egito,",
+        "31": "e também no deserto, onde vocês viram que o Senhor , seu Deus, os levou, como um homem leva o seu filho, por todo o caminho pelo qual vocês andaram, até chegar a este lugar.”",
+        "32": "— Mas nem assim vocês creram no Senhor , seu Deus,",
+        "33": "que foi adiante de vocês por todo o caminho, para procurar o lugar onde deveriam acampar; de noite, estava no fogo, para mostrar o caminho por onde vocês deveriam andar, e, de dia, estava na nuvem.",
+        "34": "— O Senhor ouviu o que vocês disseram, ficou irado e jurou, dizendo:",
+        "35": "“Nenhum dos homens desta geração perversa verá a boa terra que jurei dar aos pais de vocês,",
+        "36": "com a exceção de Calebe, filho de Jefoné. Ele verá essa terra e darei a ele e aos filhos dele a terra em que ele pisou, porque perseverou em seguir o Senhor .”",
+        "37": "Também contra mim se indignou o Senhor por causa de vocês, dizendo: “Também você não entrará nessa terra.",
+        "38": "Josué, filho de Num, que está diante de você, ele é quem vai entrar; anime-o, porque ele fará com que Israel a receba por herança.",
+        "39": "E as crianças de vocês, de quem vocês disseram que seriam presa do inimigo, sim, os filhos de vocês, que hoje nem sabem distinguir entre bem e mal, esses ali entrarão, e a eles darei a terra, e eles a possuirão.",
+        "40": "Mas vocês voltem e sigam para o deserto, pelo caminho do mar Vermelho.”",
+        "41": "— Então vocês responderam: “Pecamos contra o Senhor . Nós iremos e lutaremos, segundo tudo o que o Senhor , nosso Deus, nos ordenou.” Vocês se armaram, cada um com os seus instrumentos de guerra, e pensaram que seria fácil entrar na região montanhosa.",
+        "42": "Mas o Senhor mandou que eu dissesse a vocês: “Não vão, nem comecem a lutar, pois não estou no meio de vocês, e vocês serão derrotados pelos seus inimigos.”",
+        "43": "Isso eu lhes falei, mas vocês não quiseram escutar; pelo contrário, foram rebeldes às ordens do Senhor e, presunçosos, foram na direção das montanhas.",
+        "44": "Os amorreus que habitavam naquela região montanhosa saíram contra vocês e os perseguiram como fazem as abelhas e os derrotaram desde Seir até Horma.",
+        "45": "Vocês voltaram e foram se queixar diante do Senhor , porém o Senhor não lhes deu atenção e não inclinou os ouvidos a vocês.",
+        "46": "Assim, vocês permaneceram muitos dias em Cades."
     }
-  }
 }

@@ -1,114 +1,38 @@
 {
-  "livro": "Gênesis",
-  "capítulo": 17,
-  "versículos": {
-    "1": {
-      "título": "A aliança e a circuncisão",
-      "texto": "Quando Abrão atingiu a idade de noventa e nove anos, o Senhor apareceu a ele e disse:"
+    "livro": "Gênesis",
+    "capitulo": 17,
+    "titulos": {
+        "1": "A aliança e a circuncisão",
+        "15": "Deus muda o nome de Sarai",
+        "23": "A instituição da circuncisão"
     },
-    "2": {
-      "título": "",
-      "texto": "Farei uma aliança entre mim e você e darei a você uma descendência muito numerosa."
-    },
-    "3": {
-      "título": "",
-      "texto": "Abrão se prostrou com o rosto em terra e Deus lhe falou:"
-    },
-    "4": {
-      "título": "",
-      "texto": "— Quanto a mim, esta é a minha aliança com você: você será pai de muitas nações."
-    },
-    "5": {
-      "título": "",
-      "texto": "O seu nome não será mais Abrão, e sim Abraão, porque eu o constituí pai de muitas nações."
-    },
-    "6": {
-      "título": "",
-      "texto": "Farei com que você seja extraordinariamente fecundo. De você farei surgir nações, e reis procederão de você."
-    },
-    "7": {
-      "título": "",
-      "texto": "Estabelecerei uma aliança entre mim e você e a sua descendência no decurso das suas gerações, aliança perpétua, para ser o seu Deus e o Deus da sua descendência."
-    },
-    "8": {
-      "título": "",
-      "texto": "Darei a você e à sua descendência a terra onde agora você é estrangeiro, toda a terra de Canaã, como propriedade perpétua, e serei o Deus deles."
-    },
-    "9": {
-      "título": "",
-      "texto": "Deus disse ainda a Abraão:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Esta é a aliança que vocês guardarão entre mim e vocês e a sua descendência: todos do sexo masculino que estão no meio de vocês deverão ser circuncidados."
-    },
-    "11": {
-      "título": "",
-      "texto": "Vocês devem circuncidar a carne do prepúcio e isso servirá como sinal de aliança entre mim e vocês."
-    },
-    "12": {
-      "título": "",
-      "texto": "O menino que tem oito dias será circuncidado entre vocês. Todos do sexo masculino nas suas gerações devem ser circuncidados, também o escravo nascido em casa e o comprado de qualquer estrangeiro, que não for da sua linhagem."
-    },
-    "13": {
-      "título": "",
-      "texto": "Deve ser circuncidado o que nasceu em sua casa e o que você comprou com dinheiro. A minha aliança estará na carne de vocês e será aliança perpétua."
-    },
-    "14": {
-      "título": "",
-      "texto": "O incircunciso, que não tiver sido circuncidado na carne do prepúcio, deve ser eliminado do meio do seu povo, pois quebrou a minha aliança."
-    },
-    "15": {
-      "título": "Deus muda o nome de Sarai",
-      "texto": "Deus disse a Abraão:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Eu a abençoarei e darei a você um filho que nascerá dela. Sim, eu a abençoarei, e ela se tornará nações; reis de povos procederão dela."
-    },
-    "17": {
-      "título": "",
-      "texto": "Então Abraão se prostrou com o rosto em terra, e riu, dizendo consigo mesmo: “Pode nascer um filho a um homem de cem anos? E será que Sara, com os seus noventa anos, ainda poderá dar à luz?”"
-    },
-    "18": {
-      "título": "",
-      "texto": "Então Abraão disse para Deus:"
-    },
-    "19": {
-      "título": "",
-      "texto": "Deus lhe respondeu:"
-    },
-    "20": {
-      "título": "",
-      "texto": "Quanto a Ismael, eu ouvi o pedido que você me fez: vou abençoá-lo, farei com que seja fecundo e o multiplicarei extraordinariamente; ele será pai de doze príncipes, e dele farei uma grande nação."
-    },
-    "21": {
-      "título": "",
-      "texto": "Mas a minha aliança eu estabelecerei com Isaque, o filho que Sara dará à luz para você, neste mesmo tempo, daqui a um ano."
-    },
-    "22": {
-      "título": "",
-      "texto": "Quando acabou de falar com Abraão, Deus se retirou dele, elevando-se."
-    },
-    "23": {
-      "título": "A instituição da circuncisão",
-      "texto": "Naquele mesmo dia, Abraão tomou o seu filho Ismael, e todos os escravos nascidos em sua casa, e todos os que ele tinha comprado com o seu dinheiro, todos os do sexo masculino que havia em sua casa, e circuncidou a carne do prepúcio de cada um, como Deus lhe havia ordenado."
-    },
-    "24": {
-      "título": "",
-      "texto": "Abraão tinha noventa e nove anos de idade quando foi circuncidado na carne do seu prepúcio."
-    },
-    "25": {
-      "título": "",
-      "texto": "Ismael, seu filho, tinha treze anos quando foi circuncidado na carne do seu prepúcio."
-    },
-    "26": {
-      "título": "",
-      "texto": "Abraão e seu filho, Ismael, foram circuncidados no mesmo dia."
-    },
-    "27": {
-      "título": "",
-      "texto": "E também foram circuncidados todos os homens de sua casa, tanto os escravos nascidos nela como os comprados de estrangeiros."
+    "versiculos": {
+        "1": "Quando Abrão atingiu a idade de noventa e nove anos, o Senhor apareceu a ele e disse:",
+        "2": "Farei uma aliança entre mim e você e darei a você uma descendência muito numerosa.",
+        "3": "Abrão se prostrou com o rosto em terra e Deus lhe falou:",
+        "4": "— Quanto a mim, esta é a minha aliança com você: você será pai de muitas nações.",
+        "5": "O seu nome não será mais Abrão, e sim Abraão, porque eu o constituí pai de muitas nações.",
+        "6": "Farei com que você seja extraordinariamente fecundo. De você farei surgir nações, e reis procederão de você.",
+        "7": "Estabelecerei uma aliança entre mim e você e a sua descendência no decurso das suas gerações, aliança perpétua, para ser o seu Deus e o Deus da sua descendência.",
+        "8": "Darei a você e à sua descendência a terra onde agora você é estrangeiro, toda a terra de Canaã, como propriedade perpétua, e serei o Deus deles.",
+        "9": "Deus disse ainda a Abraão:",
+        "10": "Esta é a aliança que vocês guardarão entre mim e vocês e a sua descendência: todos do sexo masculino que estão no meio de vocês deverão ser circuncidados.",
+        "11": "Vocês devem circuncidar a carne do prepúcio e isso servirá como sinal de aliança entre mim e vocês.",
+        "12": "O menino que tem oito dias será circuncidado entre vocês. Todos do sexo masculino nas suas gerações devem ser circuncidados, também o escravo nascido em casa e o comprado de qualquer estrangeiro, que não for da sua linhagem.",
+        "13": "Deve ser circuncidado o que nasceu em sua casa e o que você comprou com dinheiro. A minha aliança estará na carne de vocês e será aliança perpétua.",
+        "14": "O incircunciso, que não tiver sido circuncidado na carne do prepúcio, deve ser eliminado do meio do seu povo, pois quebrou a minha aliança.",
+        "15": "Deus disse a Abraão:",
+        "16": "Eu a abençoarei e darei a você um filho que nascerá dela. Sim, eu a abençoarei, e ela se tornará nações; reis de povos procederão dela.",
+        "17": "Então Abraão se prostrou com o rosto em terra, e riu, dizendo consigo mesmo: “Pode nascer um filho a um homem de cem anos? E será que Sara, com os seus noventa anos, ainda poderá dar à luz?”",
+        "18": "Então Abraão disse para Deus:",
+        "19": "Deus lhe respondeu:",
+        "20": "Quanto a Ismael, eu ouvi o pedido que você me fez: vou abençoá-lo, farei com que seja fecundo e o multiplicarei extraordinariamente; ele será pai de doze príncipes, e dele farei uma grande nação.",
+        "21": "Mas a minha aliança eu estabelecerei com Isaque, o filho que Sara dará à luz para você, neste mesmo tempo, daqui a um ano.",
+        "22": "Quando acabou de falar com Abraão, Deus se retirou dele, elevando-se.",
+        "23": "Naquele mesmo dia, Abraão tomou o seu filho Ismael, e todos os escravos nascidos em sua casa, e todos os que ele tinha comprado com o seu dinheiro, todos os do sexo masculino que havia em sua casa, e circuncidou a carne do prepúcio de cada um, como Deus lhe havia ordenado.",
+        "24": "Abraão tinha noventa e nove anos de idade quando foi circuncidado na carne do seu prepúcio.",
+        "25": "Ismael, seu filho, tinha treze anos quando foi circuncidado na carne do seu prepúcio.",
+        "26": "Abraão e seu filho, Ismael, foram circuncidados no mesmo dia.",
+        "27": "E também foram circuncidados todos os homens de sua casa, tanto os escravos nascidos nela como os comprados de estrangeiros."
     }
-  }
 }

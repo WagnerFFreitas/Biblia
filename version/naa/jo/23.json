@@ -1,74 +1,28 @@
 {
-  "livro": "Jó",
-  "capítulo": 23,
-  "versículos": {
-    "1": {
-      "título": "Quem dera eu soubesse onde encontrar Deus!",
-      "texto": "Então Jó respondeu:"
+    "livro": "Jó",
+    "capitulo": 23,
+    "titulos": {
+        "1": "Quem dera eu soubesse onde encontrar Deus!",
+        "8": "Deus sabe o meu caminho",
+        "13": "Deus cumprirá o que está ordenado a meu respeito"
     },
-    "2": {
-      "título": "",
-      "texto": "“Ainda hoje a minha queixa"
-    },
-    "3": {
-      "título": "",
-      "texto": "Quem dera eu soubesse"
-    },
-    "4": {
-      "título": "",
-      "texto": "Exporia diante dele"
-    },
-    "5": {
-      "título": "",
-      "texto": "Saberia com que palavras"
-    },
-    "6": {
-      "título": "",
-      "texto": "Será que ele discutiria comigo,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Ali, o homem reto apresentaria"
-    },
-    "8": {
-      "título": "Deus sabe o meu caminho",
-      "texto": "“Se me adianto, Deus não está ali;"
-    },
-    "9": {
-      "título": "",
-      "texto": "Se ele age à minha esquerda,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Mas ele sabe o meu caminho;"
-    },
-    "11": {
-      "título": "",
-      "texto": "Os meus pés seguiram"
-    },
-    "12": {
-      "título": "",
-      "texto": "Do mandamento dos seus lábios"
-    },
-    "13": {
-      "título": "Deus cumprirá o que está ordenado a meu respeito",
-      "texto": "“Mas, se Deus resolveu"
-    },
-    "14": {
-      "título": "",
-      "texto": "Pois ele cumprirá"
-    },
-    "15": {
-      "título": "",
-      "texto": "Por isso, fico apavorado"
-    },
-    "16": {
-      "título": "",
-      "texto": "Deus é quem fez"
-    },
-    "17": {
-      "título": "",
-      "texto": "Porque não estou desfalecido"
+    "versiculos": {
+        "1": "Então Jó respondeu:",
+        "2": "“Ainda hoje a minha queixa",
+        "3": "Quem dera eu soubesse",
+        "4": "Exporia diante dele",
+        "5": "Saberia com que palavras",
+        "6": "Será que ele discutiria comigo,",
+        "7": "Ali, o homem reto apresentaria",
+        "8": "“Se me adianto, Deus não está ali;",
+        "9": "Se ele age à minha esquerda,",
+        "10": "Mas ele sabe o meu caminho;",
+        "11": "Os meus pés seguiram",
+        "12": "Do mandamento dos seus lábios",
+        "13": "“Mas, se Deus resolveu",
+        "14": "Pois ele cumprirá",
+        "15": "Por isso, fico apavorado",
+        "16": "Deus é quem fez",
+        "17": "Porque não estou desfalecido"
     }
-  }
 }

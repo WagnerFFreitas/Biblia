@@ -1,118 +1,37 @@
 {
-  "livro": "Salmos",
-  "capítulo": 35,
-  "versículos": {
-    "1": {
-      "título": "Oração pedindo a ajuda de Deus",
-      "texto": "Ó Senhor , defende a minha causa"
+    "livro": "Salmos",
+    "capitulo": 35,
+    "titulos": {
+        "1": "Oração pedindo a ajuda de Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "Embraça o escudo e a couraça"
-    },
-    "3": {
-      "título": "",
-      "texto": "Empunha a lança"
-    },
-    "4": {
-      "título": "",
-      "texto": "Sejam confundidos"
-    },
-    "5": {
-      "título": "",
-      "texto": "Sejam como a palha"
-    },
-    "6": {
-      "título": "",
-      "texto": "Que o caminho deles fique escuro"
-    },
-    "7": {
-      "título": "",
-      "texto": "Pois sem razão me armaram"
-    },
-    "8": {
-      "título": "",
-      "texto": "Venha sobre o inimigo"
-    },
-    "9": {
-      "título": "",
-      "texto": "Então a minha alma"
-    },
-    "10": {
-      "título": "",
-      "texto": "Todos os meus ossos dirão:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Falsas testemunhas se levantam"
-    },
-    "12": {
-      "título": "",
-      "texto": "Pagam-me o mal pelo bem,"
-    },
-    "13": {
-      "título": "",
-      "texto": "Quanto a mim, porém,"
-    },
-    "14": {
-      "título": "",
-      "texto": "Portava-me como se eles fossem"
-    },
-    "15": {
-      "título": "",
-      "texto": "Quando, porém, tropecei,"
-    },
-    "16": {
-      "título": "",
-      "texto": "como hipócritas zombadores"
-    },
-    "17": {
-      "título": "",
-      "texto": "Até quando, Senhor,"
-    },
-    "18": {
-      "título": "",
-      "texto": "Renderei graças"
-    },
-    "19": {
-      "título": "",
-      "texto": "Não se alegrem de mim os que,"
-    },
-    "20": {
-      "título": "",
-      "texto": "Não é de paz que eles falam;"
-    },
-    "21": {
-      "título": "",
-      "texto": "Escancaram contra mim a boca"
-    },
-    "22": {
-      "título": "",
-      "texto": "Tu, Senhor , tens visto isso;"
-    },
-    "23": {
-      "título": "",
-      "texto": "Acorda e desperta"
-    },
-    "24": {
-      "título": "",
-      "texto": "Julga-me, Senhor , Deus meu,"
-    },
-    "25": {
-      "título": "",
-      "texto": "Não digam eles lá no seu íntimo:"
-    },
-    "26": {
-      "título": "",
-      "texto": "Envergonhem-se e, juntos,"
-    },
-    "27": {
-      "título": "",
-      "texto": "Cantem de júbilo e se alegrem"
-    },
-    "28": {
-      "título": "",
-      "texto": "E a minha língua"
+    "versiculos": {
+        "1": "Ó Senhor , defende a minha causa",
+        "2": "Embraça o escudo e a couraça",
+        "3": "Empunha a lança",
+        "4": "Sejam confundidos",
+        "5": "Sejam como a palha",
+        "6": "Que o caminho deles fique escuro",
+        "7": "Pois sem razão me armaram",
+        "8": "Venha sobre o inimigo",
+        "9": "Então a minha alma",
+        "10": "Todos os meus ossos dirão:",
+        "11": "Falsas testemunhas se levantam",
+        "12": "Pagam-me o mal pelo bem,",
+        "13": "Quanto a mim, porém,",
+        "14": "Portava-me como se eles fossem",
+        "15": "Quando, porém, tropecei,",
+        "16": "como hipócritas zombadores",
+        "17": "Até quando, Senhor,",
+        "18": "Renderei graças",
+        "19": "Não se alegrem de mim os que,",
+        "20": "Não é de paz que eles falam;",
+        "21": "Escancaram contra mim a boca",
+        "22": "Tu, Senhor , tens visto isso;",
+        "23": "Acorda e desperta",
+        "24": "Julga-me, Senhor , Deus meu,",
+        "25": "Não digam eles lá no seu íntimo:",
+        "26": "Envergonhem-se e, juntos,",
+        "27": "Cantem de júbilo e se alegrem",
+        "28": "E a minha língua"
     }
-  }
 }

@@ -1,54 +1,21 @@
 {
-  "livro": "Salmos",
-  "capítulo": 30,
-  "versículos": {
-    "1": {
-      "título": "Ação de graças pela libertação da morte",
-      "texto": "Eu te exaltarei, Senhor ,"
+    "livro": "Salmos",
+    "capitulo": 30,
+    "titulos": {
+        "1": "Ação de graças pela libertação da morte"
     },
-    "2": {
-      "título": "",
-      "texto": "Senhor , meu Deus,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Senhor , da sepultura"
-    },
-    "4": {
-      "título": "",
-      "texto": "Cantem louvores ao Senhor ,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Porque a sua ira dura"
-    },
-    "6": {
-      "título": "",
-      "texto": "Eu disse na minha prosperidade:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Tu, Senhor , por teu favor"
-    },
-    "8": {
-      "título": "",
-      "texto": "Por ti, Senhor , clamei;"
-    },
-    "9": {
-      "título": "",
-      "texto": "Que proveito obterás"
-    },
-    "10": {
-      "título": "",
-      "texto": "Ouve, Senhor ,"
-    },
-    "11": {
-      "título": "",
-      "texto": "Tornaste o meu pranto"
-    },
-    "12": {
-      "título": "",
-      "texto": "para que o meu espírito"
+    "versiculos": {
+        "1": "Eu te exaltarei, Senhor ,",
+        "2": "Senhor , meu Deus,",
+        "3": "Senhor , da sepultura",
+        "4": "Cantem louvores ao Senhor ,",
+        "5": "Porque a sua ira dura",
+        "6": "Eu disse na minha prosperidade:",
+        "7": "Tu, Senhor , por teu favor",
+        "8": "Por ti, Senhor , clamei;",
+        "9": "Que proveito obterás",
+        "10": "Ouve, Senhor ,",
+        "11": "Tornaste o meu pranto",
+        "12": "para que o meu espírito"
     }
-  }
 }

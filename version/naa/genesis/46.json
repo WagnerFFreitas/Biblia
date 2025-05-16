@@ -1,142 +1,44 @@
 {
-  "livro": "Gênesis",
-  "capítulo": 46,
-  "versículos": {
-    "1": {
-      "título": "Jacó e sua família vão para o Egito",
-      "texto": "Israel partiu com tudo o que possuía. E chegou a Berseba e ofereceu sacrifícios ao Deus de Isaque, seu pai."
+    "livro": "Gênesis",
+    "capitulo": 46,
+    "titulos": {
+        "1": "Jacó e sua família vão para o Egito",
+        "28": "O encontro de José com seu pai"
     },
-    "2": {
-      "título": "",
-      "texto": "Deus falou a Israel em visões, de noite, e disse:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Então disse:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Eu irei com você para o Egito e certamente farei com que você volte de lá. A mão de José fechará os seus olhos."
-    },
-    "5": {
-      "título": "",
-      "texto": "Então Jacó saiu de Berseba. Os filhos de Israel levaram seu pai Jacó, os filhinhos e as mulheres deles nas carretas que Faraó havia mandado para o levar."
-    },
-    "6": {
-      "título": "",
-      "texto": "Levaram o gado e os bens que haviam adquirido na terra de Canaã e foram para o Egito, Jacó e toda a sua descendência."
-    },
-    "7": {
-      "título": "",
-      "texto": "Seus filhos e os filhos de seus filhos, suas filhas e as filhas de seus filhos e toda a sua descendência, levou-os consigo para o Egito."
-    },
-    "8": {
-      "título": "",
-      "texto": "São estes os nomes dos filhos de Israel, Jacó, e seus filhos, que foram para o Egito: Rúben, o primogênito de Jacó."
-    },
-    "9": {
-      "título": "",
-      "texto": "Os filhos de Rúben: Enoque, Palu, Hezrom e Carmi."
-    },
-    "10": {
-      "título": "",
-      "texto": "Os filhos de Simeão: Jemuel, Jamim, Oade, Jaquim, Zoar e Saul, filho de uma mulher cananeia."
-    },
-    "11": {
-      "título": "",
-      "texto": "Os filhos de Levi: Gérson, Coate e Merari."
-    },
-    "12": {
-      "título": "",
-      "texto": "Os filhos de Judá: Er, Onã, Selá, Perez e Zera; Er e Onã, porém, morreram na terra de Canaã. Os filhos de Perez foram Hezrom e Hamul."
-    },
-    "13": {
-      "título": "",
-      "texto": "Os filhos de Issacar: Tola, Puva, Jó e Sinrom."
-    },
-    "14": {
-      "título": "",
-      "texto": "Os filhos de Zebulom: Serede, Elom e Jaleel."
-    },
-    "15": {
-      "título": "",
-      "texto": "São estes os filhos de Lia, que ela teve com Jacó em Padã-Arã, além de Diná, sua filha. Ao todo os seus filhos e as suas filhas eram trinta e três pessoas."
-    },
-    "16": {
-      "título": "",
-      "texto": "Os filhos de Gade: Zifiom, Hagi, Suni, Esbom, Eri, Arodi e Areli."
-    },
-    "17": {
-      "título": "",
-      "texto": "Os filhos de Aser: Imna, Isvá, Isvi, Berias e Sera, irmã deles. Os filhos de Berias foram Héber e Malquiel."
-    },
-    "18": {
-      "título": "",
-      "texto": "São estes os filhos de Zilpa, a qual Labão deu à sua filha Lia; estes ela teve com Jacó, a saber, dezesseis pessoas."
-    },
-    "19": {
-      "título": "",
-      "texto": "Os filhos de Raquel, mulher de Jacó: José e Benjamim."
-    },
-    "20": {
-      "título": "",
-      "texto": "A José, na terra do Egito, nasceram Manassés e Efraim. São os filhos que teve com Asenate, filha de Potífera, sacerdote de Om."
-    },
-    "21": {
-      "título": "",
-      "texto": "Os filhos de Benjamim: Belá, Bequer, Asbel, Gera, Naamã, Eí, Rôs, Mupim, Hupim e Arde."
-    },
-    "22": {
-      "título": "",
-      "texto": "São estes os filhos de Raquel, que nasceram a Jacó, ao todo catorze pessoas."
-    },
-    "23": {
-      "título": "",
-      "texto": "O filho de Dã: Husim."
-    },
-    "24": {
-      "título": "",
-      "texto": "Os filhos de Naftali: Jazeel, Guni, Jezer e Silém."
-    },
-    "25": {
-      "título": "",
-      "texto": "São estes os filhos de Bila, a qual Labão deu à sua filha Raquel; e estes ela teve com Jacó, ao todo sete pessoas."
-    },
-    "26": {
-      "título": "",
-      "texto": "Todos os que foram com Jacó para o Egito, que eram os seus descendentes, fora as mulheres dos filhos de Jacó, eram sessenta e seis pessoas."
-    },
-    "27": {
-      "título": "",
-      "texto": "E os filhos de José, que lhe nasceram no Egito, eram dois. Todas as pessoas da casa de Jacó, que entraram no Egito, foram setenta."
-    },
-    "28": {
-      "título": "O encontro de José com seu pai",
-      "texto": "Jacó enviou Judá adiante de si a José para que soubesse encaminhá-lo a Gósen. E chegaram à terra de Gósen."
-    },
-    "29": {
-      "título": "",
-      "texto": "Então José aprontou a sua carruagem e foi ao encontro de Israel, seu pai, a Gósen. Apresentou-se, lançou-se ao pescoço do pai e chorou assim longo tempo."
-    },
-    "30": {
-      "título": "",
-      "texto": "Israel disse a José:"
-    },
-    "31": {
-      "título": "",
-      "texto": "E José disse a seus irmãos e à casa de seu pai:"
-    },
-    "32": {
-      "título": "",
-      "texto": "Os homens são pastores, criadores de gado, e trouxeram consigo o seu rebanho, o seu gado e tudo o que têm.”"
-    },
-    "33": {
-      "título": "",
-      "texto": "Quando, pois, Faraó mandar chamá-los e perguntar: “Qual é o trabalho de vocês?”,"
-    },
-    "34": {
-      "título": "",
-      "texto": "respondam: “Estes seus servos foram criadores de gado desde a mocidade até agora, tanto nós como os nossos pais.” Assim, vocês poderão morar na terra de Gósen, porque todo pastor de rebanho é abominação para os egípcios."
+    "versiculos": {
+        "1": "Israel partiu com tudo o que possuía. E chegou a Berseba e ofereceu sacrifícios ao Deus de Isaque, seu pai.",
+        "2": "Deus falou a Israel em visões, de noite, e disse:",
+        "3": "Então disse:",
+        "4": "Eu irei com você para o Egito e certamente farei com que você volte de lá. A mão de José fechará os seus olhos.",
+        "5": "Então Jacó saiu de Berseba. Os filhos de Israel levaram seu pai Jacó, os filhinhos e as mulheres deles nas carretas que Faraó havia mandado para o levar.",
+        "6": "Levaram o gado e os bens que haviam adquirido na terra de Canaã e foram para o Egito, Jacó e toda a sua descendência.",
+        "7": "Seus filhos e os filhos de seus filhos, suas filhas e as filhas de seus filhos e toda a sua descendência, levou-os consigo para o Egito.",
+        "8": "São estes os nomes dos filhos de Israel, Jacó, e seus filhos, que foram para o Egito: Rúben, o primogênito de Jacó.",
+        "9": "Os filhos de Rúben: Enoque, Palu, Hezrom e Carmi.",
+        "10": "Os filhos de Simeão: Jemuel, Jamim, Oade, Jaquim, Zoar e Saul, filho de uma mulher cananeia.",
+        "11": "Os filhos de Levi: Gérson, Coate e Merari.",
+        "12": "Os filhos de Judá: Er, Onã, Selá, Perez e Zera; Er e Onã, porém, morreram na terra de Canaã. Os filhos de Perez foram Hezrom e Hamul.",
+        "13": "Os filhos de Issacar: Tola, Puva, Jó e Sinrom.",
+        "14": "Os filhos de Zebulom: Serede, Elom e Jaleel.",
+        "15": "São estes os filhos de Lia, que ela teve com Jacó em Padã-Arã, além de Diná, sua filha. Ao todo os seus filhos e as suas filhas eram trinta e três pessoas.",
+        "16": "Os filhos de Gade: Zifiom, Hagi, Suni, Esbom, Eri, Arodi e Areli.",
+        "17": "Os filhos de Aser: Imna, Isvá, Isvi, Berias e Sera, irmã deles. Os filhos de Berias foram Héber e Malquiel.",
+        "18": "São estes os filhos de Zilpa, a qual Labão deu à sua filha Lia; estes ela teve com Jacó, a saber, dezesseis pessoas.",
+        "19": "Os filhos de Raquel, mulher de Jacó: José e Benjamim.",
+        "20": "A José, na terra do Egito, nasceram Manassés e Efraim. São os filhos que teve com Asenate, filha de Potífera, sacerdote de Om.",
+        "21": "Os filhos de Benjamim: Belá, Bequer, Asbel, Gera, Naamã, Eí, Rôs, Mupim, Hupim e Arde.",
+        "22": "São estes os filhos de Raquel, que nasceram a Jacó, ao todo catorze pessoas.",
+        "23": "O filho de Dã: Husim.",
+        "24": "Os filhos de Naftali: Jazeel, Guni, Jezer e Silém.",
+        "25": "São estes os filhos de Bila, a qual Labão deu à sua filha Raquel; e estes ela teve com Jacó, ao todo sete pessoas.",
+        "26": "Todos os que foram com Jacó para o Egito, que eram os seus descendentes, fora as mulheres dos filhos de Jacó, eram sessenta e seis pessoas.",
+        "27": "E os filhos de José, que lhe nasceram no Egito, eram dois. Todas as pessoas da casa de Jacó, que entraram no Egito, foram setenta.",
+        "28": "Jacó enviou Judá adiante de si a José para que soubesse encaminhá-lo a Gósen. E chegaram à terra de Gósen.",
+        "29": "Então José aprontou a sua carruagem e foi ao encontro de Israel, seu pai, a Gósen. Apresentou-se, lançou-se ao pescoço do pai e chorou assim longo tempo.",
+        "30": "Israel disse a José:",
+        "31": "E José disse a seus irmãos e à casa de seu pai:",
+        "32": "Os homens são pastores, criadores de gado, e trouxeram consigo o seu rebanho, o seu gado e tudo o que têm.”",
+        "33": "Quando, pois, Faraó mandar chamá-los e perguntar: “Qual é o trabalho de vocês?”,",
+        "34": "respondam: “Estes seus servos foram criadores de gado desde a mocidade até agora, tanto nós como os nossos pais.” Assim, vocês poderão morar na terra de Gósen, porque todo pastor de rebanho é abominação para os egípcios."
     }
-  }
 }

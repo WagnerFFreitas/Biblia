@@ -1,82 +1,28 @@
 {
-  "livro": "2 Crônicas",
-  "capítulo": 10,
-  "versículos": {
-    "1": {
-      "título": "A revolta de dez tribos de Israel",
-      "texto": "Roboão foi a Siquém, porque todo o Israel se havia reunido ali, para o fazer rei."
+    "livro": "2 Crônicas",
+    "capitulo": 10,
+    "titulos": {
+        "1": "A revolta de dez tribos de Israel"
     },
-    "2": {
-      "título": "",
-      "texto": "Jeroboão, filho de Nebate, que ainda estava no Egito, para onde havia fugido da presença do rei Salomão, ouviu isso e voltou do Egito."
-    },
-    "3": {
-      "título": "",
-      "texto": "Mandaram chamá-lo, e ele veio com todo o Israel a Roboão, para lhe dizer:"
-    },
-    "4": {
-      "título": "",
-      "texto": "— O seu pai nos impôs um pesado jugo; alivie a dura servidão de seu pai e o pesado jugo que ele nos impôs, e nós o serviremos."
-    },
-    "5": {
-      "título": "",
-      "texto": "Roboão respondeu:"
-    },
-    "6": {
-      "título": "",
-      "texto": "O rei Roboão foi pedir conselho aos anciãos que haviam estado na presença de Salomão, seu pai, quando este ainda vivia, dizendo:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Eles disseram:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Mas Roboão desprezou o conselho que os anciãos lhe tinham dado e foi pedir conselho aos jovens que haviam crescido com ele e o serviam."
-    },
-    "9": {
-      "título": "",
-      "texto": "Ele perguntou:"
-    },
-    "10": {
-      "título": "",
-      "texto": "E os jovens que haviam crescido com ele responderam:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Assim que, se o meu pai lhes impôs um jugo pesado, eu o tornarei ainda mais pesado. Meu pai castigou vocês com açoites; eu vou castigá-los com escorpiões.”"
-    },
-    "12": {
-      "título": "",
-      "texto": "No terceiro dia, Jeroboão e todo o povo foram falar com Roboão, como o rei lhes havia ordenado, dizendo que voltassem em três dias."
-    },
-    "13": {
-      "título": "",
-      "texto": "O rei lhes deu uma resposta dura, porque o rei Roboão havia desprezado o conselho dos anciãos."
-    },
-    "14": {
-      "título": "",
-      "texto": "Preferiu seguir o conselho dos jovens, dizendo:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Assim o rei não deu ouvidos ao povo, porque esta reviravolta vinha de Deus, para que o Senhor confirmasse a palavra que tinha dito a Jeroboão, filho de Nebate, por meio de Aías, o silonita."
-    },
-    "16": {
-      "título": "",
-      "texto": "Quando todo o Israel viu que o rei não lhe dava ouvidos, reagiu, dizendo:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Quanto aos filhos de Israel, porém, que moravam nas cidades de Judá, sobre eles reinou Roboão."
-    },
-    "18": {
-      "título": "",
-      "texto": "Então o rei Roboão enviou Adonirão, superintendente dos que realizavam trabalhos forçados, porém os filhos de Israel o apedrejaram, e ele morreu. Mas o rei Roboão conseguiu subir no seu carro e fugiu para Jerusalém."
-    },
-    "19": {
-      "título": "",
-      "texto": "Assim, Israel se mantém rebelado contra a casa de Davi até o dia de hoje."
+    "versiculos": {
+        "1": "Roboão foi a Siquém, porque todo o Israel se havia reunido ali, para o fazer rei.",
+        "2": "Jeroboão, filho de Nebate, que ainda estava no Egito, para onde havia fugido da presença do rei Salomão, ouviu isso e voltou do Egito.",
+        "3": "Mandaram chamá-lo, e ele veio com todo o Israel a Roboão, para lhe dizer:",
+        "4": "— O seu pai nos impôs um pesado jugo; alivie a dura servidão de seu pai e o pesado jugo que ele nos impôs, e nós o serviremos.",
+        "5": "Roboão respondeu:",
+        "6": "O rei Roboão foi pedir conselho aos anciãos que haviam estado na presença de Salomão, seu pai, quando este ainda vivia, dizendo:",
+        "7": "Eles disseram:",
+        "8": "Mas Roboão desprezou o conselho que os anciãos lhe tinham dado e foi pedir conselho aos jovens que haviam crescido com ele e o serviam.",
+        "9": "Ele perguntou:",
+        "10": "E os jovens que haviam crescido com ele responderam:",
+        "11": "Assim que, se o meu pai lhes impôs um jugo pesado, eu o tornarei ainda mais pesado. Meu pai castigou vocês com açoites; eu vou castigá-los com escorpiões.”",
+        "12": "No terceiro dia, Jeroboão e todo o povo foram falar com Roboão, como o rei lhes havia ordenado, dizendo que voltassem em três dias.",
+        "13": "O rei lhes deu uma resposta dura, porque o rei Roboão havia desprezado o conselho dos anciãos.",
+        "14": "Preferiu seguir o conselho dos jovens, dizendo:",
+        "15": "Assim o rei não deu ouvidos ao povo, porque esta reviravolta vinha de Deus, para que o Senhor confirmasse a palavra que tinha dito a Jeroboão, filho de Nebate, por meio de Aías, o silonita.",
+        "16": "Quando todo o Israel viu que o rei não lhe dava ouvidos, reagiu, dizendo:",
+        "17": "Quanto aos filhos de Israel, porém, que moravam nas cidades de Judá, sobre eles reinou Roboão.",
+        "18": "Então o rei Roboão enviou Adonirão, superintendente dos que realizavam trabalhos forçados, porém os filhos de Israel o apedrejaram, e ele morreu. Mas o rei Roboão conseguiu subir no seu carro e fugiu para Jerusalém.",
+        "19": "Assim, Israel se mantém rebelado contra a casa de Davi até o dia de hoje."
     }
-  }
 }

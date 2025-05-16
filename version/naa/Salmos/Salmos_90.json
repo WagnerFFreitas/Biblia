@@ -1,74 +1,26 @@
 {
-  "livro": "Salmos",
-  "capítulo": 90,
-  "versículos": {
-    "1": {
-      "título": "A eternidade de Deus e a transitoriedade do ser humano",
-      "texto": "Senhor, tu tens sido"
+    "livro": "Salmos",
+    "capitulo": 90,
+    "titulos": {
+        "1": "A eternidade de Deus e a transitoriedade do ser humano"
     },
-    "2": {
-      "título": "",
-      "texto": "Antes que os montes nascessem"
-    },
-    "3": {
-      "título": "",
-      "texto": "Tu reduzes o ser humano ao pó"
-    },
-    "4": {
-      "título": "",
-      "texto": "Pois mil anos, aos teus olhos,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Tu os arrastas na torrente;"
-    },
-    "6": {
-      "título": "",
-      "texto": "de madrugada, viceja e floresce;"
-    },
-    "7": {
-      "título": "",
-      "texto": "Pois somos consumidos"
-    },
-    "8": {
-      "título": "",
-      "texto": "Puseste as nossas iniquidades"
-    },
-    "9": {
-      "título": "",
-      "texto": "Pois todos os nossos dias"
-    },
-    "10": {
-      "título": "",
-      "texto": "Os dias da nossa vida"
-    },
-    "11": {
-      "título": "",
-      "texto": "Quem conhece"
-    },
-    "12": {
-      "título": "",
-      "texto": "Ensina-nos a contar"
-    },
-    "13": {
-      "título": "",
-      "texto": "Volta-te, Senhor !"
-    },
-    "14": {
-      "título": "",
-      "texto": "Sacia-nos de manhã"
-    },
-    "15": {
-      "título": "",
-      "texto": "Alegra-nos por tantos dias"
-    },
-    "16": {
-      "título": "",
-      "texto": "Aos teus servos apareçam"
-    },
-    "17": {
-      "título": "",
-      "texto": "Seja sobre nós a graça do Senhor,"
+    "versiculos": {
+        "1": "Senhor, tu tens sido",
+        "2": "Antes que os montes nascessem",
+        "3": "Tu reduzes o ser humano ao pó",
+        "4": "Pois mil anos, aos teus olhos,",
+        "5": "Tu os arrastas na torrente;",
+        "6": "de madrugada, viceja e floresce;",
+        "7": "Pois somos consumidos",
+        "8": "Puseste as nossas iniquidades",
+        "9": "Pois todos os nossos dias",
+        "10": "Os dias da nossa vida",
+        "11": "Quem conhece",
+        "12": "Ensina-nos a contar",
+        "13": "Volta-te, Senhor !",
+        "14": "Sacia-nos de manhã",
+        "15": "Alegra-nos por tantos dias",
+        "16": "Aos teus servos apareçam",
+        "17": "Seja sobre nós a graça do Senhor,"
     }
-  }
 }

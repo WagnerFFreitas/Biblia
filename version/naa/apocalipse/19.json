@@ -1,90 +1,31 @@
 {
-  "livro": "Apocalipse",
-  "capítulo": 19,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Depois destas coisas, ouvi no céu o que parecia ser a voz forte de uma grande multidão, dizendo:"
+    "livro": "Apocalipse",
+    "capitulo": 19,
+    "titulos": {
+        "5": "As bodas do Cordeiro",
+        "11": "Cristo, o vencedor da besta e do falso profeta"
     },
-    "2": {
-      "título": "",
-      "texto": "porque verdadeiros e justos"
-    },
-    "3": {
-      "título": "",
-      "texto": "E disseram pela segunda vez:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Os vinte e quatro anciãos e os quatro seres viventes se prostraram e adoraram a Deus, que está sentado no trono, dizendo:"
-    },
-    "5": {
-      "título": "As bodas do Cordeiro",
-      "texto": "E do trono saiu uma voz, que dizia:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Então ouvi o que parecia ser a voz de uma grande multidão, uma voz como de muitas águas e como de fortes trovões, dizendo:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Alegremo-nos, exultemos"
-    },
-    "8": {
-      "título": "",
-      "texto": "A ela foi permitido vestir-se"
-    },
-    "9": {
-      "título": "",
-      "texto": "Então o anjo me disse:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Prostrei-me diante dos seus pés para adorá-lo. O anjo, porém, me disse:"
-    },
-    "11": {
-      "título": "Cristo, o vencedor da besta e do falso profeta",
-      "texto": "Vi o céu aberto, e eis um cavalo branco. O seu cavaleiro se chama Fiel e Verdadeiro e julga e combate com justiça."
-    },
-    "12": {
-      "título": "",
-      "texto": "Os seus olhos são como chama de fogo; na cabeça dele há muitos diademas; tem um nome escrito que ninguém conhece, a não ser ele mesmo."
-    },
-    "13": {
-      "título": "",
-      "texto": "Está vestido com um manto encharcado de sangue, e o seu nome é “Verbo de Deus”."
-    },
-    "14": {
-      "título": "",
-      "texto": "Os exércitos do céu o seguiam, montados em cavalos brancos e vestidos de linho finíssimo, branco e puro."
-    },
-    "15": {
-      "título": "",
-      "texto": "Da sua boca sai uma espada afiada, para com ela ferir as nações. Ele mesmo as regerá com cetro de ferro e ele mesmo é o que pisa o lagar do vinho do furor da ira do Deus Todo-Poderoso."
-    },
-    "16": {
-      "título": "",
-      "texto": "No seu manto e na sua coxa está escrito um nome: “ Rei dos reis e Senhor dos senhores ”."
-    },
-    "17": {
-      "título": "",
-      "texto": "Então vi um anjo posto em pé no sol. Ele gritou com voz forte, dizendo a todas as aves que voam pelo meio do céu:"
-    },
-    "18": {
-      "título": "",
-      "texto": "para comer carne de reis, carne de comandantes, carne de poderosos, carne de cavalos e seus cavaleiros, carne de todos, quer livres, quer escravos, tanto pequenos como grandes."
-    },
-    "19": {
-      "título": "",
-      "texto": "E vi a besta e os reis da terra, com os seus exércitos, reunidos para fazer guerra contra aquele que estava montado no cavalo e contra o seu exército."
-    },
-    "20": {
-      "título": "",
-      "texto": "Mas a besta foi presa, e com ela foi preso o falso profeta que, com os sinais feitos diante da besta, seduziu aqueles que receberam a marca da besta e eram os adoradores da sua imagem. Os dois foram lançados vivos dentro do lago de fogo que queima com enxofre."
-    },
-    "21": {
-      "título": "",
-      "texto": "Os outros foram mortos com a espada que saía da boca daquele que estava montado no cavalo. E todas as aves se fartaram das suas carnes."
+    "versiculos": {
+        "1": "Depois destas coisas, ouvi no céu o que parecia ser a voz forte de uma grande multidão, dizendo:",
+        "2": "porque verdadeiros e justos",
+        "3": "E disseram pela segunda vez:",
+        "4": "Os vinte e quatro anciãos e os quatro seres viventes se prostraram e adoraram a Deus, que está sentado no trono, dizendo:",
+        "5": "E do trono saiu uma voz, que dizia:",
+        "6": "Então ouvi o que parecia ser a voz de uma grande multidão, uma voz como de muitas águas e como de fortes trovões, dizendo:",
+        "7": "Alegremo-nos, exultemos",
+        "8": "A ela foi permitido vestir-se",
+        "9": "Então o anjo me disse:",
+        "10": "Prostrei-me diante dos seus pés para adorá-lo. O anjo, porém, me disse:",
+        "11": "Vi o céu aberto, e eis um cavalo branco. O seu cavaleiro se chama Fiel e Verdadeiro e julga e combate com justiça.",
+        "12": "Os seus olhos são como chama de fogo; na cabeça dele há muitos diademas; tem um nome escrito que ninguém conhece, a não ser ele mesmo.",
+        "13": "Está vestido com um manto encharcado de sangue, e o seu nome é “Verbo de Deus”.",
+        "14": "Os exércitos do céu o seguiam, montados em cavalos brancos e vestidos de linho finíssimo, branco e puro.",
+        "15": "Da sua boca sai uma espada afiada, para com ela ferir as nações. Ele mesmo as regerá com cetro de ferro e ele mesmo é o que pisa o lagar do vinho do furor da ira do Deus Todo-Poderoso.",
+        "16": "No seu manto e na sua coxa está escrito um nome: “ Rei dos reis e Senhor dos senhores ”.",
+        "17": "Então vi um anjo posto em pé no sol. Ele gritou com voz forte, dizendo a todas as aves que voam pelo meio do céu:",
+        "18": "para comer carne de reis, carne de comandantes, carne de poderosos, carne de cavalos e seus cavaleiros, carne de todos, quer livres, quer escravos, tanto pequenos como grandes.",
+        "19": "E vi a besta e os reis da terra, com os seus exércitos, reunidos para fazer guerra contra aquele que estava montado no cavalo e contra o seu exército.",
+        "20": "Mas a besta foi presa, e com ela foi preso o falso profeta que, com os sinais feitos diante da besta, seduziu aqueles que receberam a marca da besta e eram os adoradores da sua imagem. Os dois foram lançados vivos dentro do lago de fogo que queima com enxofre.",
+        "21": "Os outros foram mortos com a espada que saía da boca daquele que estava montado no cavalo. E todas as aves se fartaram das suas carnes."
     }
-  }
 }

@@ -1,94 +1,33 @@
 {
-  "livro": "Ezequiel",
-  "capítulo": 10,
-  "versículos": {
-    "1": {
-      "título": "A visão das brasas de fogo",
-      "texto": "Olhei, e eis que, no firmamento que estava por cima da cabeça dos querubins, havia algo como uma pedra de safira e que parecia ser um trono."
+    "livro": "Ezequiel",
+    "capitulo": 10,
+    "titulos": {
+        "1": "A visão das brasas de fogo",
+        "9": "A visão das quatro rodas",
+        "18": "A glória de Deus abandona o templo"
     },
-    "2": {
-      "título": "",
-      "texto": "E falou ao homem vestido de linho:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Os querubins estavam no lado sul do templo, quando o homem entrou; e uma nuvem encheu o átrio interior."
-    },
-    "4": {
-      "título": "",
-      "texto": "Então a glória do Senhor se levantou de sobre o querubim e foi para a entrada do templo. O templo se encheu da nuvem, e o átrio ficou cheio do brilho da glória do Senhor ."
-    },
-    "5": {
-      "título": "",
-      "texto": "O ruído das asas dos querubins se ouviu até o átrio exterior, como a voz do Deus Todo-Poderoso, quando fala."
-    },
-    "6": {
-      "título": "",
-      "texto": "Quando o Senhor ordenou ao homem vestido de linho que fosse tirar fogo do meio das rodas, do meio dos querubins, ele entrou e se pôs junto às rodas."
-    },
-    "7": {
-      "título": "",
-      "texto": "Então um dos querubins estendeu a mão para o fogo que estava entre eles, pegou algumas brasas e as pôs nas mãos do homem que estava vestido de linho, o qual as pegou e saiu."
-    },
-    "8": {
-      "título": "",
-      "texto": "Os querubins tinham debaixo das suas asas o que parecia ser mão humana."
-    },
-    "9": {
-      "título": "A visão das quatro rodas",
-      "texto": "Olhei, e eis quatro rodas junto aos querubins, uma roda junto a cada querubim; o aspecto das rodas era brilhante como pedra de berilo."
-    },
-    "10": {
-      "título": "",
-      "texto": "Quanto ao seu aspecto, as quatro rodas tinham a mesma aparência; eram como se uma roda estivesse dentro da outra."
-    },
-    "11": {
-      "título": "",
-      "texto": "Quando elas andavam, podiam ir em quatro direções e não se viravam quando se moviam. Para onde a primeira roda ia, as outras seguiam; e elas não se viravam quando se moviam."
-    },
-    "12": {
-      "título": "",
-      "texto": "Todo o corpo dos querubins, suas costas, as mãos, as asas e também as rodas estavam cheias de olhos ao redor."
-    },
-    "13": {
-      "título": "",
-      "texto": "Quanto às rodas, pude ouvir que foram chamadas de “giratórias”."
-    },
-    "14": {
-      "título": "",
-      "texto": "Cada um dos seres viventes tinha quatro rostos: o primeiro era rosto de querubim, o segundo, rosto humano, o terceiro, rosto de leão, e o quarto, rosto de águia."
-    },
-    "15": {
-      "título": "",
-      "texto": "Os querubins se elevaram. Estes eram os mesmos seres viventes que vi junto ao rio Quebar."
-    },
-    "16": {
-      "título": "",
-      "texto": "Quando os querubins se moviam, as rodas se moviam ao lado deles; quando os querubins levantavam as suas asas, para se elevarem da terra, as rodas não se separavam deles."
-    },
-    "17": {
-      "título": "",
-      "texto": "Quando eles paravam, as rodas paravam; e, quando eles se elevavam, as rodas também se elevavam; porque o espírito dos seres viventes estava nelas."
-    },
-    "18": {
-      "título": "A glória de Deus abandona o templo",
-      "texto": "Então a glória do Senhor saiu da entrada do templo e parou sobre os querubins."
-    },
-    "19": {
-      "título": "",
-      "texto": "Os querubins levantaram as suas asas e se elevaram da terra à minha vista, quando saíram acompanhados pelas rodas. Pararam à entrada do portão leste da Casa do Senhor , e a glória do Deus de Israel estava no alto, sobre eles."
-    },
-    "20": {
-      "título": "",
-      "texto": "Estes eram os mesmos seres viventes que vi debaixo do Deus de Israel, junto ao rio Quebar, e fiquei sabendo que eram querubins."
-    },
-    "21": {
-      "título": "",
-      "texto": "Cada um tinha quatro rostos e quatro asas e, debaixo das asas, o que parecia mãos humanas."
-    },
-    "22": {
-      "título": "",
-      "texto": "A aparência dos seus rostos era como a dos rostos que eu tinha visto junto ao rio Quebar; tinham o mesmo aspecto, eram os mesmos seres. Cada um andava para a sua frente."
+    "versiculos": {
+        "1": "Olhei, e eis que, no firmamento que estava por cima da cabeça dos querubins, havia algo como uma pedra de safira e que parecia ser um trono.",
+        "2": "E falou ao homem vestido de linho:",
+        "3": "Os querubins estavam no lado sul do templo, quando o homem entrou; e uma nuvem encheu o átrio interior.",
+        "4": "Então a glória do Senhor se levantou de sobre o querubim e foi para a entrada do templo. O templo se encheu da nuvem, e o átrio ficou cheio do brilho da glória do Senhor .",
+        "5": "O ruído das asas dos querubins se ouviu até o átrio exterior, como a voz do Deus Todo-Poderoso, quando fala.",
+        "6": "Quando o Senhor ordenou ao homem vestido de linho que fosse tirar fogo do meio das rodas, do meio dos querubins, ele entrou e se pôs junto às rodas.",
+        "7": "Então um dos querubins estendeu a mão para o fogo que estava entre eles, pegou algumas brasas e as pôs nas mãos do homem que estava vestido de linho, o qual as pegou e saiu.",
+        "8": "Os querubins tinham debaixo das suas asas o que parecia ser mão humana.",
+        "9": "Olhei, e eis quatro rodas junto aos querubins, uma roda junto a cada querubim; o aspecto das rodas era brilhante como pedra de berilo.",
+        "10": "Quanto ao seu aspecto, as quatro rodas tinham a mesma aparência; eram como se uma roda estivesse dentro da outra.",
+        "11": "Quando elas andavam, podiam ir em quatro direções e não se viravam quando se moviam. Para onde a primeira roda ia, as outras seguiam; e elas não se viravam quando se moviam.",
+        "12": "Todo o corpo dos querubins, suas costas, as mãos, as asas e também as rodas estavam cheias de olhos ao redor.",
+        "13": "Quanto às rodas, pude ouvir que foram chamadas de “giratórias”.",
+        "14": "Cada um dos seres viventes tinha quatro rostos: o primeiro era rosto de querubim, o segundo, rosto humano, o terceiro, rosto de leão, e o quarto, rosto de águia.",
+        "15": "Os querubins se elevaram. Estes eram os mesmos seres viventes que vi junto ao rio Quebar.",
+        "16": "Quando os querubins se moviam, as rodas se moviam ao lado deles; quando os querubins levantavam as suas asas, para se elevarem da terra, as rodas não se separavam deles.",
+        "17": "Quando eles paravam, as rodas paravam; e, quando eles se elevavam, as rodas também se elevavam; porque o espírito dos seres viventes estava nelas.",
+        "18": "Então a glória do Senhor saiu da entrada do templo e parou sobre os querubins.",
+        "19": "Os querubins levantaram as suas asas e se elevaram da terra à minha vista, quando saíram acompanhados pelas rodas. Pararam à entrada do portão leste da Casa do Senhor , e a glória do Deus de Israel estava no alto, sobre eles.",
+        "20": "Estes eram os mesmos seres viventes que vi debaixo do Deus de Israel, junto ao rio Quebar, e fiquei sabendo que eram querubins.",
+        "21": "Cada um tinha quatro rostos e quatro asas e, debaixo das asas, o que parecia mãos humanas.",
+        "22": "A aparência dos seus rostos era como a dos rostos que eu tinha visto junto ao rio Quebar; tinham o mesmo aspecto, eram os mesmos seres. Cada um andava para a sua frente."
     }
-  }
 }

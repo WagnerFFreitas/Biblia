@@ -1,90 +1,31 @@
 {
-  "livro": "Isaías",
-  "capítulo": 57,
-  "versículos": {
-    "1": {
-      "título": "A idolatria de Israel é condenada",
-      "texto": "“Os justos perecem,"
+    "livro": "Isaías",
+    "capitulo": 57,
+    "titulos": {
+        "1": "A idolatria de Israel é condenada",
+        "14": "Mensagem de paz para os arrependidos"
     },
-    "2": {
-      "título": "",
-      "texto": "e entra na paz;"
-    },
-    "3": {
-      "título": "",
-      "texto": "“Mas vocês, filhos de feiticeira,"
-    },
-    "4": {
-      "título": "",
-      "texto": "De quem vocês estão zombando?"
-    },
-    "5": {
-      "título": "",
-      "texto": "vocês que se inflamam"
-    },
-    "6": {
-      "título": "",
-      "texto": "Entre as pedras lisas dos ribeiros"
-    },
-    "7": {
-      "título": "",
-      "texto": "Sobre um monte alto e elevado"
-    },
-    "8": {
-      "título": "",
-      "texto": "Atrás das portas e das ombreiras"
-    },
-    "9": {
-      "título": "",
-      "texto": "“Você vai ao rei com óleo"
-    },
-    "10": {
-      "título": "",
-      "texto": "Nessa longa viagem"
-    },
-    "11": {
-      "título": "",
-      "texto": "“Mas de quem você"
-    },
-    "12": {
-      "título": "",
-      "texto": "Eu publicarei essa sua justiça"
-    },
-    "13": {
-      "título": "",
-      "texto": "Quando você clamar por ajuda,"
-    },
-    "14": {
-      "título": "Mensagem de paz para os arrependidos",
-      "texto": "Então se dirá:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Porque assim diz o Alto,"
-    },
-    "16": {
-      "título": "",
-      "texto": "Pois não farei litígio"
-    },
-    "17": {
-      "título": "",
-      "texto": "Por causa da maldade"
-    },
-    "18": {
-      "título": "",
-      "texto": "“Tenho visto os caminhos"
-    },
-    "19": {
-      "título": "",
-      "texto": "Como fruto dos seus lábios"
-    },
-    "20": {
-      "título": "",
-      "texto": "Mas os ímpios são"
-    },
-    "21": {
-      "título": "",
-      "texto": "Para os ímpios”, diz o meu Deus,"
+    "versiculos": {
+        "1": "“Os justos perecem,",
+        "2": "e entra na paz;",
+        "3": "“Mas vocês, filhos de feiticeira,",
+        "4": "De quem vocês estão zombando?",
+        "5": "vocês que se inflamam",
+        "6": "Entre as pedras lisas dos ribeiros",
+        "7": "Sobre um monte alto e elevado",
+        "8": "Atrás das portas e das ombreiras",
+        "9": "“Você vai ao rei com óleo",
+        "10": "Nessa longa viagem",
+        "11": "“Mas de quem você",
+        "12": "Eu publicarei essa sua justiça",
+        "13": "Quando você clamar por ajuda,",
+        "14": "Então se dirá:",
+        "15": "Porque assim diz o Alto,",
+        "16": "Pois não farei litígio",
+        "17": "Por causa da maldade",
+        "18": "“Tenho visto os caminhos",
+        "19": "Como fruto dos seus lábios",
+        "20": "Mas os ímpios são",
+        "21": "Para os ímpios”, diz o meu Deus,"
     }
-  }
 }

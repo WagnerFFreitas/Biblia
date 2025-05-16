@@ -1,74 +1,26 @@
 {
-  "livro": "Isaías",
-  "capítulo": 54,
-  "versículos": {
-    "1": {
-      "título": "O futuro glorioso de Sião",
-      "texto": "“Cante, ó estéril,"
+    "livro": "Isaías",
+    "capitulo": 54,
+    "titulos": {
+        "1": "O futuro glorioso de Sião"
     },
-    "2": {
-      "título": "",
-      "texto": "“Alargue o espaço de sua tenda"
-    },
-    "3": {
-      "título": "",
-      "texto": "Porque você se expandirá"
-    },
-    "4": {
-      "título": "",
-      "texto": "“Não tenha medo,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Porque o seu Criador"
-    },
-    "6": {
-      "título": "",
-      "texto": "“Porque o Senhor chamou você"
-    },
-    "7": {
-      "título": "",
-      "texto": "“Por um breve momento"
-    },
-    "8": {
-      "título": "",
-      "texto": "Num ímpeto de indignação,"
-    },
-    "9": {
-      "título": "",
-      "texto": "“Porque isto é para mim"
-    },
-    "10": {
-      "título": "",
-      "texto": "Mesmo que os montes"
-    },
-    "11": {
-      "título": "",
-      "texto": "“Ó cidade aflita,"
-    },
-    "12": {
-      "título": "",
-      "texto": "As suas torres serão de rubis,"
-    },
-    "13": {
-      "título": "",
-      "texto": "Todos os seus filhos"
-    },
-    "14": {
-      "título": "",
-      "texto": "Você será estabelecida"
-    },
-    "15": {
-      "título": "",
-      "texto": "Se alguém a atacar,"
-    },
-    "16": {
-      "título": "",
-      "texto": "“Eis que eu criei o ferreiro,"
-    },
-    "17": {
-      "título": "",
-      "texto": "Nenhuma arma forjada"
+    "versiculos": {
+        "1": "“Cante, ó estéril,",
+        "2": "“Alargue o espaço de sua tenda",
+        "3": "Porque você se expandirá",
+        "4": "“Não tenha medo,",
+        "5": "Porque o seu Criador",
+        "6": "“Porque o Senhor chamou você",
+        "7": "“Por um breve momento",
+        "8": "Num ímpeto de indignação,",
+        "9": "“Porque isto é para mim",
+        "10": "Mesmo que os montes",
+        "11": "“Ó cidade aflita,",
+        "12": "As suas torres serão de rubis,",
+        "13": "Todos os seus filhos",
+        "14": "Você será estabelecida",
+        "15": "Se alguém a atacar,",
+        "16": "“Eis que eu criei o ferreiro,",
+        "17": "Nenhuma arma forjada"
     }
-  }
 }

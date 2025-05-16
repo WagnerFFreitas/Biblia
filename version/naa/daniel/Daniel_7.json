@@ -1,118 +1,38 @@
 {
-  "livro": "Daniel",
-  "capítulo": 7,
-  "versículos": {
-    "1": {
-      "título": "O sonho sobre os quatro animais",
-      "texto": "No primeiro ano do reinado de Belsazar, rei da Babilônia, Daniel teve um sonho, e visões passaram diante de seus olhos, quando ele estava deitado em sua cama. Logo depois ele escreveu o sonho, fazendo um resumo de todas as coisas."
+    "livro": "Daniel",
+    "capitulo": 7,
+    "titulos": {
+        "1": "O sonho sobre os quatro animais",
+        "9": "A visão de Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "Daniel disse:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Quatro animais, grandes, diferentes uns dos outros, subiam do mar."
-    },
-    "4": {
-      "título": "",
-      "texto": "— O primeiro era como um leão e tinha asas de águia. Enquanto eu olhava, as suas asas foram arrancadas, ele foi levantado da terra e posto em pé, para que andasse como homem; e foi dada a ele uma mente humana."
-    },
-    "5": {
-      "título": "",
-      "texto": "— A seguir, apareceu o segundo animal, semelhante a um urso, o qual se levantou sobre um dos seus lados. Na boca, entre os dentes, trazia três costelas. E lhe diziam: “Levante-se e devore muita carne.”"
-    },
-    "6": {
-      "título": "",
-      "texto": "— Depois disto, continuei olhando, e eis que apareceu outro animal, semelhante a um leopardo. Tinha nas costas quatro asas de ave. Este animal tinha também quatro cabeças, e foi-lhe dado domínio."
-    },
-    "7": {
-      "título": "",
-      "texto": "— Depois disto, eu continuava olhando nas visões da noite, e apareceu o quarto animal, terrível, espantoso e muito forte. Tinha grandes dentes de ferro. Ele devorava, fazia em pedaços e pisava com os pés o que sobrava. Era diferente de todos os animais que apareceram antes dele e tinha dez chifres."
-    },
-    "8": {
-      "título": "",
-      "texto": "— Enquanto eu observava os chifres, eis que entre eles subiu outro chifre, pequeno, diante do qual três dos primeiros chifres foram arrancados. E eis que neste chifre havia olhos, como olhos de ser humano, e uma boca que falava com arrogância."
-    },
-    "9": {
-      "título": "A visão de Deus",
-      "texto": "“Continuei olhando,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Um rio de fogo manava"
-    },
-    "11": {
-      "título": "",
-      "texto": "— Continuei olhando, por causa do som das palavras arrogantes que o chifre proferia. Fiquei olhando e vi que o animal foi morto, e o seu corpo foi destruído e entregue para ser queimado."
-    },
-    "12": {
-      "título": "",
-      "texto": "Quanto aos outros animais, foi-lhes tirado o domínio, mas foi-lhes dada prolongação de vida por um prazo e um tempo."
-    },
-    "13": {
-      "título": "",
-      "texto": "“Eu estava olhando"
-    },
-    "14": {
-      "título": "",
-      "texto": "Foi-lhe dado o domínio,"
-    },
-    "15": {
-      "título": "",
-      "texto": "— Eu, Daniel, fiquei alarmado, e as visões que passaram diante dos meus olhos me perturbaram."
-    },
-    "16": {
-      "título": "",
-      "texto": "Então me dirigi a um dos que estavam ali perto e lhe pedi a verdade a respeito de tudo isso. Ele falou comigo e me fez saber a interpretação das coisas:"
-    },
-    "17": {
-      "título": "",
-      "texto": "“Estes grandes animais, que são quatro, são quatro reis que se levantarão da terra."
-    },
-    "18": {
-      "título": "",
-      "texto": "Mas os santos do Altíssimo receberão o reino e o possuirão para todo o sempre, de eternidade a eternidade.”"
-    },
-    "19": {
-      "título": "",
-      "texto": "— Então tive desejo de conhecer a verdade a respeito do quarto animal, que era diferente de todos os outros, muito terrível, cujos dentes eram de ferro, cujas garras eram de bronze, que devorava, fazia em pedaços e pisava com os pés o que sobrava."
-    },
-    "20": {
-      "título": "",
-      "texto": "Também quis saber a respeito dos dez chifres que ele tinha na cabeça e do outro chifre que subiu, diante do qual caíram três chifres, ou seja, aquele chifre que tinha olhos e uma boca que falava com arrogância e que parecia mais forte do que os outros chifres."
-    },
-    "21": {
-      "título": "",
-      "texto": "Enquanto eu olhava, eis que esse chifre fazia guerra contra os santos e estava vencendo."
-    },
-    "22": {
-      "título": "",
-      "texto": "Até que veio o Ancião de Dias e fez justiça aos santos do Altíssimo. E veio o tempo em que os santos possuíram o reino."
-    },
-    "23": {
-      "título": "",
-      "texto": "— Então ele disse:"
-    },
-    "24": {
-      "título": "",
-      "texto": "Os dez chifres correspondem"
-    },
-    "25": {
-      "título": "",
-      "texto": "Ele falará contra o Altíssimo,"
-    },
-    "26": {
-      "título": "",
-      "texto": "Mas, depois, será instalada"
-    },
-    "27": {
-      "título": "",
-      "texto": "O reino, o domínio"
-    },
-    "28": {
-      "título": "",
-      "texto": "— Aqui termina a explicação. Quanto a mim, Daniel, os meus pensamentos muito me perturbaram, e o meu rosto se empalideceu. Mas guardei estas coisas em meu coração."
+    "versiculos": {
+        "1": "No primeiro ano do reinado de Belsazar, rei da Babilônia, Daniel teve um sonho, e visões passaram diante de seus olhos, quando ele estava deitado em sua cama. Logo depois ele escreveu o sonho, fazendo um resumo de todas as coisas.",
+        "2": "Daniel disse:",
+        "3": "Quatro animais, grandes, diferentes uns dos outros, subiam do mar.",
+        "4": "— O primeiro era como um leão e tinha asas de águia. Enquanto eu olhava, as suas asas foram arrancadas, ele foi levantado da terra e posto em pé, para que andasse como homem; e foi dada a ele uma mente humana.",
+        "5": "— A seguir, apareceu o segundo animal, semelhante a um urso, o qual se levantou sobre um dos seus lados. Na boca, entre os dentes, trazia três costelas. E lhe diziam: “Levante-se e devore muita carne.”",
+        "6": "— Depois disto, continuei olhando, e eis que apareceu outro animal, semelhante a um leopardo. Tinha nas costas quatro asas de ave. Este animal tinha também quatro cabeças, e foi-lhe dado domínio.",
+        "7": "— Depois disto, eu continuava olhando nas visões da noite, e apareceu o quarto animal, terrível, espantoso e muito forte. Tinha grandes dentes de ferro. Ele devorava, fazia em pedaços e pisava com os pés o que sobrava. Era diferente de todos os animais que apareceram antes dele e tinha dez chifres.",
+        "8": "— Enquanto eu observava os chifres, eis que entre eles subiu outro chifre, pequeno, diante do qual três dos primeiros chifres foram arrancados. E eis que neste chifre havia olhos, como olhos de ser humano, e uma boca que falava com arrogância.",
+        "9": "“Continuei olhando,",
+        "10": "Um rio de fogo manava",
+        "11": "— Continuei olhando, por causa do som das palavras arrogantes que o chifre proferia. Fiquei olhando e vi que o animal foi morto, e o seu corpo foi destruído e entregue para ser queimado.",
+        "12": "Quanto aos outros animais, foi-lhes tirado o domínio, mas foi-lhes dada prolongação de vida por um prazo e um tempo.",
+        "13": "“Eu estava olhando",
+        "14": "Foi-lhe dado o domínio,",
+        "15": "— Eu, Daniel, fiquei alarmado, e as visões que passaram diante dos meus olhos me perturbaram.",
+        "16": "Então me dirigi a um dos que estavam ali perto e lhe pedi a verdade a respeito de tudo isso. Ele falou comigo e me fez saber a interpretação das coisas:",
+        "17": "“Estes grandes animais, que são quatro, são quatro reis que se levantarão da terra.",
+        "18": "Mas os santos do Altíssimo receberão o reino e o possuirão para todo o sempre, de eternidade a eternidade.”",
+        "19": "— Então tive desejo de conhecer a verdade a respeito do quarto animal, que era diferente de todos os outros, muito terrível, cujos dentes eram de ferro, cujas garras eram de bronze, que devorava, fazia em pedaços e pisava com os pés o que sobrava.",
+        "20": "Também quis saber a respeito dos dez chifres que ele tinha na cabeça e do outro chifre que subiu, diante do qual caíram três chifres, ou seja, aquele chifre que tinha olhos e uma boca que falava com arrogância e que parecia mais forte do que os outros chifres.",
+        "21": "Enquanto eu olhava, eis que esse chifre fazia guerra contra os santos e estava vencendo.",
+        "22": "Até que veio o Ancião de Dias e fez justiça aos santos do Altíssimo. E veio o tempo em que os santos possuíram o reino.",
+        "23": "— Então ele disse:",
+        "24": "Os dez chifres correspondem",
+        "25": "Ele falará contra o Altíssimo,",
+        "26": "Mas, depois, será instalada",
+        "27": "O reino, o domínio",
+        "28": "— Aqui termina a explicação. Quanto a mim, Daniel, os meus pensamentos muito me perturbaram, e o meu rosto se empalideceu. Mas guardei estas coisas em meu coração."
     }
-  }
 }

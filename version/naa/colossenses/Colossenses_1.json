@@ -1,122 +1,42 @@
 {
-  "livro": "Colossenses",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "Prefácio e saudação",
-      "texto": "Paulo, apóstolo de Cristo Jesus, pela vontade de Deus, e o irmão Timóteo,"
+    "livro": "Colossenses",
+    "capitulo": 1,
+    "titulos": {
+        "1": "Prefácio e saudação",
+        "3": "Ação de graças",
+        "9": "Paulo ora pelos colossenses",
+        "13": "A excelência da pessoa e da obra de Cristo",
+        "24": "A missão de Paulo. O mistério do evangelho"
     },
-    "2": {
-      "título": "",
-      "texto": "aos santos e fiéis irmãos em Cristo que estão em Colossos."
-    },
-    "3": {
-      "título": "Ação de graças",
-      "texto": "Damos sempre graças a Deus, Pai de nosso Senhor Jesus Cristo, quando oramos por vocês,"
-    },
-    "4": {
-      "título": "",
-      "texto": "desde que ouvimos da fé que vocês têm em Cristo Jesus e do amor que vocês têm por todos os santos,"
-    },
-    "5": {
-      "título": "",
-      "texto": "por causa da esperança que está guardada para vocês nos céus. Desta esperança vocês ouviram falar anteriormente por meio da palavra da verdade do evangelho,"
-    },
-    "6": {
-      "título": "",
-      "texto": "que chegou até vocês. Esse evangelho está produzindo fruto e crescendo em todo o mundo, assim como acontece entre vocês, desde o dia em que ouviram e entenderam a graça de Deus na verdade."
-    },
-    "7": {
-      "título": "",
-      "texto": "Isso vocês aprenderam de Epafras, nosso amado conservo e, em relação a vocês, fiel ministro de Cristo,"
-    },
-    "8": {
-      "título": "",
-      "texto": "o qual também nos contou do amor que vocês têm no Espírito."
-    },
-    "9": {
-      "título": "Paulo ora pelos colossenses",
-      "texto": "Por esta razão, também nós, desde o dia em que soubemos disso, não deixamos de orar por vocês e de pedir que transbordem do pleno conhecimento da vontade de Deus, em toda a sabedoria e entendimento espiritual."
-    },
-    "10": {
-      "título": "",
-      "texto": "Dessa maneira, poderão viver de modo digno do Senhor, para o seu inteiro agrado, frutificando em toda boa obra e crescendo no conhecimento de Deus."
-    },
-    "11": {
-      "título": "",
-      "texto": "Assim, vocês serão fortalecidos com todo o poder, segundo a força da sua glória, em toda a perseverança e paciência, com alegria,"
-    },
-    "12": {
-      "título": "",
-      "texto": "dando graças ao Pai, que os capacitou a participar da herança dos santos na luz."
-    },
-    "13": {
-      "título": "A excelência da pessoa e da obra de Cristo",
-      "texto": "Ele nos libertou do poder das trevas e nos transportou para o Reino do seu Filho amado,"
-    },
-    "14": {
-      "título": "",
-      "texto": "em quem temos a redenção, a remissão dos pecados."
-    },
-    "15": {
-      "título": "",
-      "texto": "Ele é a imagem do Deus invisível, o primogênito de toda a criação."
-    },
-    "16": {
-      "título": "",
-      "texto": "Pois nele foram criadas todas as coisas, nos céus e sobre a terra, as visíveis e as invisíveis, sejam tronos, sejam soberanias, quer principados, quer potestades. Tudo foi criado por meio dele e para ele."
-    },
-    "17": {
-      "título": "",
-      "texto": "Ele é antes de todas as coisas. Nele tudo subsiste."
-    },
-    "18": {
-      "título": "",
-      "texto": "Ele é a cabeça do corpo, que é a igreja. Ele é o princípio, o primogênito dentre os mortos, para ter a primazia em todas as coisas."
-    },
-    "19": {
-      "título": "",
-      "texto": "Porque Deus achou por bem que, nele, residisse toda a plenitude"
-    },
-    "20": {
-      "título": "",
-      "texto": "e que, havendo feito a paz pelo sangue da sua cruz, por meio dele, reconciliasse consigo mesmo todas as coisas, quer sobre a terra, quer nos céus."
-    },
-    "21": {
-      "título": "",
-      "texto": "E vocês que, no passado, eram estranhos e inimigos no entendimento pelas obras más que praticavam,"
-    },
-    "22": {
-      "título": "",
-      "texto": "agora, porém, ele os reconciliou no corpo da sua carne, mediante a sua morte, para apresentá-los diante dele santos, inculpáveis e irrepreensíveis,"
-    },
-    "23": {
-      "título": "",
-      "texto": "se é que vocês permanecem na fé, alicerçados e firmes, não se deixando afastar da esperança do evangelho que vocês ouviram e que foi pregado a toda criatura debaixo do céu, e do qual eu, Paulo, me tornei ministro."
-    },
-    "24": {
-      "título": "A missão de Paulo. O mistério do evangelho",
-      "texto": "Agora me alegro nos meus sofrimentos por vocês e preencho o que resta das aflições de Cristo, na minha carne, a favor do seu corpo, que é a igreja,"
-    },
-    "25": {
-      "título": "",
-      "texto": "da qual me tornei ministro de acordo com a dispensação da parte de Deus, que me foi confiada em favor de vocês, para dar pleno cumprimento à palavra de Deus:"
-    },
-    "26": {
-      "título": "",
-      "texto": "o mistério que esteve escondido durante séculos e gerações, mas que agora foi manifestado aos seus santos."
-    },
-    "27": {
-      "título": "",
-      "texto": "A estes Deus quis dar a conhecer a riqueza da glória deste mistério entre os gentios, que é Cristo em vocês, a esperança da glória."
-    },
-    "28": {
-      "título": "",
-      "texto": "Este Cristo nós anunciamos, advertindo a todos e ensinando a cada um em toda a sabedoria, a fim de que apresentemos cada pessoa perfeita em Cristo."
-    },
-    "29": {
-      "título": "",
-      "texto": "É para esse fim que eu me empenho, esforçando-me o mais possível, segundo o poder de Cristo que opera poderosamente em mim."
+    "versiculos": {
+        "1": "Paulo, apóstolo de Cristo Jesus, pela vontade de Deus, e o irmão Timóteo,",
+        "2": "aos santos e fiéis irmãos em Cristo que estão em Colossos.",
+        "3": "Damos sempre graças a Deus, Pai de nosso Senhor Jesus Cristo, quando oramos por vocês,",
+        "4": "desde que ouvimos da fé que vocês têm em Cristo Jesus e do amor que vocês têm por todos os santos,",
+        "5": "por causa da esperança que está guardada para vocês nos céus. Desta esperança vocês ouviram falar anteriormente por meio da palavra da verdade do evangelho,",
+        "6": "que chegou até vocês. Esse evangelho está produzindo fruto e crescendo em todo o mundo, assim como acontece entre vocês, desde o dia em que ouviram e entenderam a graça de Deus na verdade.",
+        "7": "Isso vocês aprenderam de Epafras, nosso amado conservo e, em relação a vocês, fiel ministro de Cristo,",
+        "8": "o qual também nos contou do amor que vocês têm no Espírito.",
+        "9": "Por esta razão, também nós, desde o dia em que soubemos disso, não deixamos de orar por vocês e de pedir que transbordem do pleno conhecimento da vontade de Deus, em toda a sabedoria e entendimento espiritual.",
+        "10": "Dessa maneira, poderão viver de modo digno do Senhor, para o seu inteiro agrado, frutificando em toda boa obra e crescendo no conhecimento de Deus.",
+        "11": "Assim, vocês serão fortalecidos com todo o poder, segundo a força da sua glória, em toda a perseverança e paciência, com alegria,",
+        "12": "dando graças ao Pai, que os capacitou a participar da herança dos santos na luz.",
+        "13": "Ele nos libertou do poder das trevas e nos transportou para o Reino do seu Filho amado,",
+        "14": "em quem temos a redenção, a remissão dos pecados.",
+        "15": "Ele é a imagem do Deus invisível, o primogênito de toda a criação.",
+        "16": "Pois nele foram criadas todas as coisas, nos céus e sobre a terra, as visíveis e as invisíveis, sejam tronos, sejam soberanias, quer principados, quer potestades. Tudo foi criado por meio dele e para ele.",
+        "17": "Ele é antes de todas as coisas. Nele tudo subsiste.",
+        "18": "Ele é a cabeça do corpo, que é a igreja. Ele é o princípio, o primogênito dentre os mortos, para ter a primazia em todas as coisas.",
+        "19": "Porque Deus achou por bem que, nele, residisse toda a plenitude",
+        "20": "e que, havendo feito a paz pelo sangue da sua cruz, por meio dele, reconciliasse consigo mesmo todas as coisas, quer sobre a terra, quer nos céus.",
+        "21": "E vocês que, no passado, eram estranhos e inimigos no entendimento pelas obras más que praticavam,",
+        "22": "agora, porém, ele os reconciliou no corpo da sua carne, mediante a sua morte, para apresentá-los diante dele santos, inculpáveis e irrepreensíveis,",
+        "23": "se é que vocês permanecem na fé, alicerçados e firmes, não se deixando afastar da esperança do evangelho que vocês ouviram e que foi pregado a toda criatura debaixo do céu, e do qual eu, Paulo, me tornei ministro.",
+        "24": "Agora me alegro nos meus sofrimentos por vocês e preencho o que resta das aflições de Cristo, na minha carne, a favor do seu corpo, que é a igreja,",
+        "25": "da qual me tornei ministro de acordo com a dispensação da parte de Deus, que me foi confiada em favor de vocês, para dar pleno cumprimento à palavra de Deus:",
+        "26": "o mistério que esteve escondido durante séculos e gerações, mas que agora foi manifestado aos seus santos.",
+        "27": "A estes Deus quis dar a conhecer a riqueza da glória deste mistério entre os gentios, que é Cristo em vocês, a esperança da glória.",
+        "28": "Este Cristo nós anunciamos, advertindo a todos e ensinando a cada um em toda a sabedoria, a fim de que apresentemos cada pessoa perfeita em Cristo.",
+        "29": "É para esse fim que eu me empenho, esforçando-me o mais possível, segundo o poder de Cristo que opera poderosamente em mim."
     }
-  }
 }

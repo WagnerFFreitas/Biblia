@@ -1,98 +1,34 @@
 {
-  "livro": "Números",
-  "capítulo": 27,
-  "versículos": {
-    "1": {
-      "título": "As filhas de Zelofeade",
-      "texto": "Então vieram as filhas de Zelofeade, filho de Héfer, filho de Gileade, filho de Maquir, filho de Manassés, entre as famílias de Manassés, filho de José. E são estes os nomes delas: Macla, Noa, Hogla, Milca e Tirza."
+    "livro": "Números",
+    "capitulo": 27,
+    "titulos": {
+        "1": "As filhas de Zelofeade",
+        "12": "Deus anuncia a morte de Moisés",
+        "18": "Josué designado sucessor de Moisés"
     },
-    "2": {
-      "título": "",
-      "texto": "Elas se apresentaram diante de Moisés, diante do sacerdote Eleazar, diante dos chefes e diante de todo o povo, à porta da tenda do encontro, dizendo:"
-    },
-    "3": {
-      "título": "",
-      "texto": "— Nosso pai morreu no deserto e não estava entre os que se ajuntaram contra o Senhor no grupo de Corá; mas morreu por causa do seu próprio pecado e não teve nenhum filho homem."
-    },
-    "4": {
-      "título": "",
-      "texto": "Por que se tiraria o nome de nosso pai do meio da sua família, só porque não teve filhos? Dê-nos uma herança entre os parentes de nosso pai."
-    },
-    "5": {
-      "título": "",
-      "texto": "Moisés apresentou a causa delas ao Senhor ."
-    },
-    "6": {
-      "título": "",
-      "texto": "E o Senhor disse a Moisés:"
-    },
-    "7": {
-      "título": "",
-      "texto": "— As filhas de Zelofeade estão pedindo o que é justo. Certamente você deve dar-lhes propriedade como herança entre os parentes do pai delas e deverá transferir a elas a herança do pai."
-    },
-    "8": {
-      "título": "",
-      "texto": "E diga aos filhos de Israel: Se alguém morrer e não tiver filho, passem a herança dele para a sua filha."
-    },
-    "9": {
-      "título": "",
-      "texto": "E, se não tiver filha, deem a herança aos irmãos dele."
-    },
-    "10": {
-      "título": "",
-      "texto": "Porém, se não tiver irmãos, deem a herança aos irmãos do pai dele."
-    },
-    "11": {
-      "título": "",
-      "texto": "Se também o pai não tiver irmãos, deem a herança ao parente mais chegado de sua família, para que tome posse dela. Isto será prescrição de direito aos filhos de Israel, como o Senhor ordenou a Moisés."
-    },
-    "12": {
-      "título": "Deus anuncia a morte de Moisés",
-      "texto": "Depois, o Senhor disse a Moisés:"
-    },
-    "13": {
-      "título": "",
-      "texto": "E, depois de a ter visto, você também será reunido ao seu povo, assim como já aconteceu com o seu irmão Arão."
-    },
-    "14": {
-      "título": "",
-      "texto": "Porque, no deserto de Zim, quando a congregação discutia comigo, vocês foram rebeldes ao meu mandado de me santificar nas águas diante dos olhos do povo. São estas as águas de Meribá de Cades, no deserto de Zim."
-    },
-    "15": {
-      "título": "",
-      "texto": "Então Moisés disse ao Senhor :"
-    },
-    "16": {
-      "título": "",
-      "texto": "— Que o Senhor , autor e conservador de toda vida, ponha um homem sobre esta congregação"
-    },
-    "17": {
-      "título": "",
-      "texto": "que saia adiante deles, que entre adiante deles, que os faça sair e que os faça entrar, para que a congregação do Senhor não seja como ovelhas que não têm pastor."
-    },
-    "18": {
-      "título": "Josué designado sucessor de Moisés",
-      "texto": "O Senhor disse a Moisés:"
-    },
-    "19": {
-      "título": "",
-      "texto": "Apresente-o ao sacerdote Eleazar e a toda a congregação, e, à vista de todos, transmita-lhe as suas ordens."
-    },
-    "20": {
-      "título": "",
-      "texto": "Ponha sobre ele uma parte da sua autoridade, para que toda a congregação dos filhos de Israel obedeça a ele."
-    },
-    "21": {
-      "título": "",
-      "texto": "Josué deverá se apresentar diante de Eleazar, o sacerdote, o qual por ele consultará o Senhor , de acordo com o juízo do Urim. Segundo a palavra do sacerdote, sairão e, segundo a sua palavra, entrarão, ele, e todos os filhos de Israel com ele, e toda a congregação."
-    },
-    "22": {
-      "título": "",
-      "texto": "Moisés fez como o Senhor lhe havia ordenado: chamou Josué e o apresentou ao sacerdote Eleazar e a toda a congregação;"
-    },
-    "23": {
-      "título": "",
-      "texto": "impôs as mãos sobre ele e lhe deu as suas ordens, como o Senhor havia falado por meio de Moisés."
+    "versiculos": {
+        "1": "Então vieram as filhas de Zelofeade, filho de Héfer, filho de Gileade, filho de Maquir, filho de Manassés, entre as famílias de Manassés, filho de José. E são estes os nomes delas: Macla, Noa, Hogla, Milca e Tirza.",
+        "2": "Elas se apresentaram diante de Moisés, diante do sacerdote Eleazar, diante dos chefes e diante de todo o povo, à porta da tenda do encontro, dizendo:",
+        "3": "— Nosso pai morreu no deserto e não estava entre os que se ajuntaram contra o Senhor no grupo de Corá; mas morreu por causa do seu próprio pecado e não teve nenhum filho homem.",
+        "4": "Por que se tiraria o nome de nosso pai do meio da sua família, só porque não teve filhos? Dê-nos uma herança entre os parentes de nosso pai.",
+        "5": "Moisés apresentou a causa delas ao Senhor .",
+        "6": "E o Senhor disse a Moisés:",
+        "7": "— As filhas de Zelofeade estão pedindo o que é justo. Certamente você deve dar-lhes propriedade como herança entre os parentes do pai delas e deverá transferir a elas a herança do pai.",
+        "8": "E diga aos filhos de Israel: Se alguém morrer e não tiver filho, passem a herança dele para a sua filha.",
+        "9": "E, se não tiver filha, deem a herança aos irmãos dele.",
+        "10": "Porém, se não tiver irmãos, deem a herança aos irmãos do pai dele.",
+        "11": "Se também o pai não tiver irmãos, deem a herança ao parente mais chegado de sua família, para que tome posse dela. Isto será prescrição de direito aos filhos de Israel, como o Senhor ordenou a Moisés.",
+        "12": "Depois, o Senhor disse a Moisés:",
+        "13": "E, depois de a ter visto, você também será reunido ao seu povo, assim como já aconteceu com o seu irmão Arão.",
+        "14": "Porque, no deserto de Zim, quando a congregação discutia comigo, vocês foram rebeldes ao meu mandado de me santificar nas águas diante dos olhos do povo. São estas as águas de Meribá de Cades, no deserto de Zim.",
+        "15": "Então Moisés disse ao Senhor :",
+        "16": "— Que o Senhor , autor e conservador de toda vida, ponha um homem sobre esta congregação",
+        "17": "que saia adiante deles, que entre adiante deles, que os faça sair e que os faça entrar, para que a congregação do Senhor não seja como ovelhas que não têm pastor.",
+        "18": "O Senhor disse a Moisés:",
+        "19": "Apresente-o ao sacerdote Eleazar e a toda a congregação, e, à vista de todos, transmita-lhe as suas ordens.",
+        "20": "Ponha sobre ele uma parte da sua autoridade, para que toda a congregação dos filhos de Israel obedeça a ele.",
+        "21": "Josué deverá se apresentar diante de Eleazar, o sacerdote, o qual por ele consultará o Senhor , de acordo com o juízo do Urim. Segundo a palavra do sacerdote, sairão e, segundo a sua palavra, entrarão, ele, e todos os filhos de Israel com ele, e toda a congregação.",
+        "22": "Moisés fez como o Senhor lhe havia ordenado: chamou Josué e o apresentou ao sacerdote Eleazar e a toda a congregação;",
+        "23": "impôs as mãos sobre ele e lhe deu as suas ordens, como o Senhor havia falado por meio de Moisés."
     }
-  }
 }

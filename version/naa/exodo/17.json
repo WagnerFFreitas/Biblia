@@ -1,70 +1,26 @@
 {
-  "livro": "Êxodo",
-  "capítulo": 17,
-  "versículos": {
-    "1": {
-      "título": "A água da rocha em Refidim",
-      "texto": "Toda a congregação dos filhos de Israel partiu do deserto de Sim, fazendo suas paradas, segundo o mandamento do Senhor , e acamparam em Refidim; mas ali não havia água para o povo beber."
+    "livro": "Êxodo",
+    "capitulo": 17,
+    "titulos": {
+        "1": "A água da rocha em Refidim",
+        "8": "Os amalequitas atacam Israel"
     },
-    "2": {
-      "título": "",
-      "texto": "Então o povo discutiu com Moisés e disse:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Mas ali o povo estava com sede de água e murmurou contra Moisés, dizendo:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Então Moisés clamou ao Senhor :"
-    },
-    "5": {
-      "título": "",
-      "texto": "O Senhor respondeu:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Eis que estarei ali diante de você sobre a rocha em Horebe. Bata na rocha, e dela sairá água; e o povo beberá."
-    },
-    "7": {
-      "título": "",
-      "texto": "E chamou o nome daquele lugar Massá e Meribá, por causa da discussão dos filhos de Israel e porque tentaram o Senhor , dizendo:"
-    },
-    "8": {
-      "título": "Os amalequitas atacam Israel",
-      "texto": "Então vieram os amalequitas e atacaram Israel em Refidim."
-    },
-    "9": {
-      "título": "",
-      "texto": "Com isso, Moisés ordenou a Josué:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Josué fez como Moisés lhe havia ordenado e lutou contra os amalequitas. Porém Moisés, Arão e Hur subiram para o alto do monte."
-    },
-    "11": {
-      "título": "",
-      "texto": "Quando Moisés levantava a mão, Israel vencia; quando, porém, ele abaixava a mão, os amalequitas venciam."
-    },
-    "12": {
-      "título": "",
-      "texto": "Quando as mãos de Moisés ficaram pesadas, pegaram uma pedra e a puseram por baixo dele, para que Moisés se sentasse. Arão e Hur sustentavam as mãos de Moisés, um, de um lado, e o outro, do outro; assim as mãos dele ficaram firmes até o pôr do sol."
-    },
-    "13": {
-      "título": "",
-      "texto": "E Josué destruiu os amalequitas a fio de espada."
-    },
-    "14": {
-      "título": "",
-      "texto": "Então o Senhor disse a Moisés:"
-    },
-    "15": {
-      "título": "",
-      "texto": "E Moisés edificou um altar e lhe deu o nome de O Senhor É Minha Bandeira."
-    },
-    "16": {
-      "título": "",
-      "texto": "E disse:"
+    "versiculos": {
+        "1": "Toda a congregação dos filhos de Israel partiu do deserto de Sim, fazendo suas paradas, segundo o mandamento do Senhor , e acamparam em Refidim; mas ali não havia água para o povo beber.",
+        "2": "Então o povo discutiu com Moisés e disse:",
+        "3": "Mas ali o povo estava com sede de água e murmurou contra Moisés, dizendo:",
+        "4": "Então Moisés clamou ao Senhor :",
+        "5": "O Senhor respondeu:",
+        "6": "Eis que estarei ali diante de você sobre a rocha em Horebe. Bata na rocha, e dela sairá água; e o povo beberá.",
+        "7": "E chamou o nome daquele lugar Massá e Meribá, por causa da discussão dos filhos de Israel e porque tentaram o Senhor , dizendo:",
+        "8": "Então vieram os amalequitas e atacaram Israel em Refidim.",
+        "9": "Com isso, Moisés ordenou a Josué:",
+        "10": "Josué fez como Moisés lhe havia ordenado e lutou contra os amalequitas. Porém Moisés, Arão e Hur subiram para o alto do monte.",
+        "11": "Quando Moisés levantava a mão, Israel vencia; quando, porém, ele abaixava a mão, os amalequitas venciam.",
+        "12": "Quando as mãos de Moisés ficaram pesadas, pegaram uma pedra e a puseram por baixo dele, para que Moisés se sentasse. Arão e Hur sustentavam as mãos de Moisés, um, de um lado, e o outro, do outro; assim as mãos dele ficaram firmes até o pôr do sol.",
+        "13": "E Josué destruiu os amalequitas a fio de espada.",
+        "14": "Então o Senhor disse a Moisés:",
+        "15": "E Moisés edificou um altar e lhe deu o nome de O Senhor É Minha Bandeira.",
+        "16": "E disse:"
     }
-  }
 }

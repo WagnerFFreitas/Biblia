@@ -1,94 +1,31 @@
 {
-  "livro": "Salmos",
-  "capítulo": 25,
-  "versículos": {
-    "1": {
-      "título": "Oração por auxílio divino",
-      "texto": "A ti, Senhor , elevo a minha alma."
+    "livro": "Salmos",
+    "capitulo": 25,
+    "titulos": {
+        "1": "Oração por auxílio divino"
     },
-    "2": {
-      "título": "",
-      "texto": "Deus meu, em ti confio."
-    },
-    "3": {
-      "título": "",
-      "texto": "Na verdade,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Faze-me conhecer"
-    },
-    "5": {
-      "título": "",
-      "texto": "Guia-me na tua verdade"
-    },
-    "6": {
-      "título": "",
-      "texto": "Lembra-te, Senhor ,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Não te lembres dos meus"
-    },
-    "8": {
-      "título": "",
-      "texto": "Bom e reto é o Senhor ,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Guia os humildes na justiça"
-    },
-    "10": {
-      "título": "",
-      "texto": "Todas as veredas do Senhor"
-    },
-    "11": {
-      "título": "",
-      "texto": "Por causa do teu nome, Senhor ,"
-    },
-    "12": {
-      "título": "",
-      "texto": "Àquele que teme o Senhor ,"
-    },
-    "13": {
-      "título": "",
-      "texto": "Na prosperidade"
-    },
-    "14": {
-      "título": "",
-      "texto": "O Senhor confia o seu segredo"
-    },
-    "15": {
-      "título": "",
-      "texto": "Os meus olhos se elevam"
-    },
-    "16": {
-      "título": "",
-      "texto": "Volta-te para mim"
-    },
-    "17": {
-      "título": "",
-      "texto": "Alivia-me as tribulações"
-    },
-    "18": {
-      "título": "",
-      "texto": "Considera as minhas aflições"
-    },
-    "19": {
-      "título": "",
-      "texto": "Considera os meus inimigos,"
-    },
-    "20": {
-      "título": "",
-      "texto": "Guarda a minha alma e livra-me;"
-    },
-    "21": {
-      "título": "",
-      "texto": "Que a sinceridade"
-    },
-    "22": {
-      "título": "",
-      "texto": "Ó Deus, redime Israel"
+    "versiculos": {
+        "1": "A ti, Senhor , elevo a minha alma.",
+        "2": "Deus meu, em ti confio.",
+        "3": "Na verdade,",
+        "4": "Faze-me conhecer",
+        "5": "Guia-me na tua verdade",
+        "6": "Lembra-te, Senhor ,",
+        "7": "Não te lembres dos meus",
+        "8": "Bom e reto é o Senhor ,",
+        "9": "Guia os humildes na justiça",
+        "10": "Todas as veredas do Senhor",
+        "11": "Por causa do teu nome, Senhor ,",
+        "12": "Àquele que teme o Senhor ,",
+        "13": "Na prosperidade",
+        "14": "O Senhor confia o seu segredo",
+        "15": "Os meus olhos se elevam",
+        "16": "Volta-te para mim",
+        "17": "Alivia-me as tribulações",
+        "18": "Considera as minhas aflições",
+        "19": "Considera os meus inimigos,",
+        "20": "Guarda a minha alma e livra-me;",
+        "21": "Que a sinceridade",
+        "22": "Ó Deus, redime Israel"
     }
-  }
 }

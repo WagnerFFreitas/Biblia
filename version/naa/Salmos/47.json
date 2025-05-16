@@ -1,42 +1,18 @@
 {
-  "livro": "Salmos",
-  "capítulo": 47,
-  "versículos": {
-    "1": {
-      "título": "Deus, o rei de toda a terra",
-      "texto": "Batam palmas, todos os povos;"
+    "livro": "Salmos",
+    "capitulo": 47,
+    "titulos": {
+        "1": "Deus, o rei de toda a terra"
     },
-    "2": {
-      "título": "",
-      "texto": "Pois o Senhor Altíssimo"
-    },
-    "3": {
-      "título": "",
-      "texto": "Ele nos submeteu os povos"
-    },
-    "4": {
-      "título": "",
-      "texto": "Escolheu para nós"
-    },
-    "5": {
-      "título": "",
-      "texto": "Deus subiu em meio a aclamações,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Cantem louvores a Deus,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Deus é o Rei de toda a terra;"
-    },
-    "8": {
-      "título": "",
-      "texto": "Deus reina sobre as nações;"
-    },
-    "9": {
-      "título": "",
-      "texto": "Os príncipes dos povos"
+    "versiculos": {
+        "1": "Batam palmas, todos os povos;",
+        "2": "Pois o Senhor Altíssimo",
+        "3": "Ele nos submeteu os povos",
+        "4": "Escolheu para nós",
+        "5": "Deus subiu em meio a aclamações,",
+        "6": "Cantem louvores a Deus,",
+        "7": "Deus é o Rei de toda a terra;",
+        "8": "Deus reina sobre as nações;",
+        "9": "Os príncipes dos povos"
     }
-  }
 }

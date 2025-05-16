@@ -1,34 +1,16 @@
 {
-  "livro": "Salmos",
-  "capítulo": 87,
-  "versículos": {
-    "1": {
-      "título": "Jerusalém, a cidade de Deus",
-      "texto": "Fundada por ele"
+    "livro": "Salmos",
+    "capitulo": 87,
+    "titulos": {
+        "1": "Jerusalém, a cidade de Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "o Senhor ama as portas de Sião"
-    },
-    "3": {
-      "título": "",
-      "texto": "Coisas gloriosas são ditas"
-    },
-    "4": {
-      "título": "",
-      "texto": "“Dentre os que me conhecem,"
-    },
-    "5": {
-      "título": "",
-      "texto": "E a respeito de Sião se dirá:"
-    },
-    "6": {
-      "título": "",
-      "texto": "O Senhor , ao registrar"
-    },
-    "7": {
-      "título": "",
-      "texto": "Todos os cantores,"
+    "versiculos": {
+        "1": "Fundada por ele",
+        "2": "o Senhor ama as portas de Sião",
+        "3": "Coisas gloriosas são ditas",
+        "4": "“Dentre os que me conhecem,",
+        "5": "E a respeito de Sião se dirá:",
+        "6": "O Senhor , ao registrar",
+        "7": "Todos os cantores,"
     }
-  }
 }

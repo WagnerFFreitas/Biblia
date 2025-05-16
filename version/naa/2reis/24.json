@@ -1,86 +1,32 @@
 {
-  "livro": "2 Reis",
-  "capítulo": 24,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Foi durante o reinado de Jeoaquim que Nabucodonosor, rei da Babilônia, veio contra Judá. Durante três anos, Jeoaquim foi servo de Nabucodonosor, mas depois se revoltou contra ele."
+    "livro": "2 Reis",
+    "capitulo": 24,
+    "titulos": {
+        "8": "O reinado de Joaquim, de Judá",
+        "10": "Nabucodonosor leva cativa a nobreza de Jerusalém",
+        "18": "O reinado de Zedequias, de Judá",
+        "20": "A queda de Jerusalém"
     },
-    "2": {
-      "título": "",
-      "texto": "O Senhor enviou contra Jeoaquim bandos de caldeus, sírios, moabitas e amonitas. Ele os enviou contra Judá para destruir o povo, conforme a palavra que o Senhor tinha falado por meio dos seus servos, os profetas."
-    },
-    "3": {
-      "título": "",
-      "texto": "Na verdade, isto aconteceu com Judá por ordem do Senhor , que removeu o povo da sua presença, por causa de todos os pecados cometidos por Manassés"
-    },
-    "4": {
-      "título": "",
-      "texto": "e também por causa do sangue inocente que ele derramou, com o qual encheu a cidade de Jerusalém; por isso, o Senhor não quis perdoar."
-    },
-    "5": {
-      "título": "",
-      "texto": "Quanto aos demais atos de Jeoaquim e a tudo o que fez, não está tudo escrito no Livro da História dos Reis de Judá?"
-    },
-    "6": {
-      "título": "",
-      "texto": "Jeoaquim morreu, e Joaquim, seu filho, reinou em seu lugar."
-    },
-    "7": {
-      "título": "",
-      "texto": "O rei do Egito nunca mais saiu da sua terra, porque o rei da Babilônia tomou tudo o que era dele, desde o ribeiro do Egito até o rio Eufrates."
-    },
-    "8": {
-      "título": "O reinado de Joaquim, de Judá",
-      "texto": "Joaquim tinha dezoito anos de idade quando começou a reinar e reinou três meses em Jerusalém. A mãe dele se chamava Neústa e era filha de Elnatã, de Jerusalém."
-    },
-    "9": {
-      "título": "",
-      "texto": "Joaquim fez o que era mau aos olhos do Senhor , como o seu pai havia feito antes dele."
-    },
-    "10": {
-      "título": "Nabucodonosor leva cativa a nobreza de Jerusalém",
-      "texto": "Naquele tempo, os servos de Nabucodonosor, rei da Babilônia, subiram a Jerusalém, e a cidade foi cercada."
-    },
-    "11": {
-      "título": "",
-      "texto": "Nabucodonosor, rei da Babilônia, veio à cidade, quando os seus servos a sitiavam."
-    },
-    "12": {
-      "título": "",
-      "texto": "Então Joaquim, rei de Judá, acompanhado de sua mãe, seus servos, seus príncipes e seus oficiais, se entregou ao rei da Babilônia; e o rei da Babilônia, no oitavo ano do seu reinado, o levou cativo."
-    },
-    "13": {
-      "título": "",
-      "texto": "Levou dali todos os tesouros da Casa do Senhor e os tesouros do palácio real. E, conforme o Senhor tinha dito, cortou em pedaços todos os utensílios de ouro que Salomão, rei de Israel, tinha feito para o templo do Senhor ."
-    },
-    "14": {
-      "título": "",
-      "texto": "Nabucodonosor levou cativa toda Jerusalém, bem como todos os príncipes, todos os homens valentes, todos os artífices e ferreiros, ao todo dez mil; ninguém ficou, a não ser o povo pobre da terra."
-    },
-    "15": {
-      "título": "",
-      "texto": "Levou cativos de Jerusalém para a Babilônia o rei Joaquim, a mãe do rei, as mulheres deste, seus oficiais e os homens principais da terra."
-    },
-    "16": {
-      "título": "",
-      "texto": "O rei da Babilônia levou cativos para a Babilônia todos os homens valentes, em número de sete mil, e ainda mil artífices e ferreiros, todos eles treinados para a guerra."
-    },
-    "17": {
-      "título": "",
-      "texto": "O rei da Babilônia constituiu rei, em lugar de Joaquim, o tio paterno deste, Matanias, e mudou o nome dele para Zedequias."
-    },
-    "18": {
-      "título": "O reinado de Zedequias, de Judá",
-      "texto": "Zedequias tinha vinte e um anos de idade quando começou a reinar e reinou onze anos em Jerusalém. A mãe dele se chamava Hamutal e era filha de Jeremias, de Libna."
-    },
-    "19": {
-      "título": "",
-      "texto": "Zedequias fez o que era mau aos olhos do Senhor , segundo tudo o que Joaquim havia feito."
-    },
-    "20": {
-      "título": "A queda de Jerusalém",
-      "texto": "Foi por causa da ira do Senhor contra Jerusalém e contra Judá que isto aconteceu, a ponto de os rejeitar de sua presença. Zedequias rebelou-se contra o rei da Babilônia."
+    "versiculos": {
+        "1": "Foi durante o reinado de Jeoaquim que Nabucodonosor, rei da Babilônia, veio contra Judá. Durante três anos, Jeoaquim foi servo de Nabucodonosor, mas depois se revoltou contra ele.",
+        "2": "O Senhor enviou contra Jeoaquim bandos de caldeus, sírios, moabitas e amonitas. Ele os enviou contra Judá para destruir o povo, conforme a palavra que o Senhor tinha falado por meio dos seus servos, os profetas.",
+        "3": "Na verdade, isto aconteceu com Judá por ordem do Senhor , que removeu o povo da sua presença, por causa de todos os pecados cometidos por Manassés",
+        "4": "e também por causa do sangue inocente que ele derramou, com o qual encheu a cidade de Jerusalém; por isso, o Senhor não quis perdoar.",
+        "5": "Quanto aos demais atos de Jeoaquim e a tudo o que fez, não está tudo escrito no Livro da História dos Reis de Judá?",
+        "6": "Jeoaquim morreu, e Joaquim, seu filho, reinou em seu lugar.",
+        "7": "O rei do Egito nunca mais saiu da sua terra, porque o rei da Babilônia tomou tudo o que era dele, desde o ribeiro do Egito até o rio Eufrates.",
+        "8": "Joaquim tinha dezoito anos de idade quando começou a reinar e reinou três meses em Jerusalém. A mãe dele se chamava Neústa e era filha de Elnatã, de Jerusalém.",
+        "9": "Joaquim fez o que era mau aos olhos do Senhor , como o seu pai havia feito antes dele.",
+        "10": "Naquele tempo, os servos de Nabucodonosor, rei da Babilônia, subiram a Jerusalém, e a cidade foi cercada.",
+        "11": "Nabucodonosor, rei da Babilônia, veio à cidade, quando os seus servos a sitiavam.",
+        "12": "Então Joaquim, rei de Judá, acompanhado de sua mãe, seus servos, seus príncipes e seus oficiais, se entregou ao rei da Babilônia; e o rei da Babilônia, no oitavo ano do seu reinado, o levou cativo.",
+        "13": "Levou dali todos os tesouros da Casa do Senhor e os tesouros do palácio real. E, conforme o Senhor tinha dito, cortou em pedaços todos os utensílios de ouro que Salomão, rei de Israel, tinha feito para o templo do Senhor .",
+        "14": "Nabucodonosor levou cativa toda Jerusalém, bem como todos os príncipes, todos os homens valentes, todos os artífices e ferreiros, ao todo dez mil; ninguém ficou, a não ser o povo pobre da terra.",
+        "15": "Levou cativos de Jerusalém para a Babilônia o rei Joaquim, a mãe do rei, as mulheres deste, seus oficiais e os homens principais da terra.",
+        "16": "O rei da Babilônia levou cativos para a Babilônia todos os homens valentes, em número de sete mil, e ainda mil artífices e ferreiros, todos eles treinados para a guerra.",
+        "17": "O rei da Babilônia constituiu rei, em lugar de Joaquim, o tio paterno deste, Matanias, e mudou o nome dele para Zedequias.",
+        "18": "Zedequias tinha vinte e um anos de idade quando começou a reinar e reinou onze anos em Jerusalém. A mãe dele se chamava Hamutal e era filha de Jeremias, de Libna.",
+        "19": "Zedequias fez o que era mau aos olhos do Senhor , segundo tudo o que Joaquim havia feito.",
+        "20": "Foi por causa da ira do Senhor contra Jerusalém e contra Judá que isto aconteceu, a ponto de os rejeitar de sua presença. Zedequias rebelou-se contra o rei da Babilônia."
     }
-  }
 }

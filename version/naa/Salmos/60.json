@@ -1,54 +1,21 @@
 {
-  "livro": "Salmos",
-  "capítulo": 60,
-  "versículos": {
-    "1": {
-      "título": "Oração em tempos de guerra",
-      "texto": "Ó Deus, tu nos rejeitaste"
+    "livro": "Salmos",
+    "capitulo": 60,
+    "titulos": {
+        "1": "Oração em tempos de guerra"
     },
-    "2": {
-      "título": "",
-      "texto": "Abalaste a terra e a fendeste;"
-    },
-    "3": {
-      "título": "",
-      "texto": "Fizeste o teu povo"
-    },
-    "4": {
-      "título": "",
-      "texto": "Deste um estandarte"
-    },
-    "5": {
-      "título": "",
-      "texto": "Para que os teus amados"
-    },
-    "6": {
-      "título": "",
-      "texto": "Deus falou na sua santidade:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Gileade é meu"
-    },
-    "8": {
-      "título": "",
-      "texto": "Moabe, porém,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Quem me conduzirá"
-    },
-    "10": {
-      "título": "",
-      "texto": "Não nos rejeitaste, ó Deus?"
-    },
-    "11": {
-      "título": "",
-      "texto": "Presta-nos auxílio na angústia,"
-    },
-    "12": {
-      "título": "",
-      "texto": "Em Deus faremos proezas,"
+    "versiculos": {
+        "1": "Ó Deus, tu nos rejeitaste",
+        "2": "Abalaste a terra e a fendeste;",
+        "3": "Fizeste o teu povo",
+        "4": "Deste um estandarte",
+        "5": "Para que os teus amados",
+        "6": "Deus falou na sua santidade:",
+        "7": "Gileade é meu",
+        "8": "Moabe, porém,",
+        "9": "Quem me conduzirá",
+        "10": "Não nos rejeitaste, ó Deus?",
+        "11": "Presta-nos auxílio na angústia,",
+        "12": "Em Deus faremos proezas,"
     }
-  }
 }

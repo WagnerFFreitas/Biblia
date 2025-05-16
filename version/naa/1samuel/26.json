@@ -1,106 +1,35 @@
 {
-  "livro": "1 Samuel",
-  "capítulo": 26,
-  "versículos": {
-    "1": {
-      "título": "Outra vez Davi poupa a vida de Saul",
-      "texto": "Os zifeus foram falar com Saul, em Gibeá, e disseram:"
+    "livro": "1 Samuel",
+    "capitulo": 26,
+    "titulos": {
+        "1": "Outra vez Davi poupa a vida de Saul",
+        "17": "Saul, outra vez, se reconcilia com Davi"
     },
-    "2": {
-      "título": "",
-      "texto": "Então Saul se levantou e foi ao deserto de Zife, em busca de Davi, levando consigo três mil homens escolhidos de Israel."
-    },
-    "3": {
-      "título": "",
-      "texto": "Saul acampou no monte Haquila, em frente de Jesimom, junto ao caminho, porém Davi ficou no deserto. Quando ouviu dizer que Saul vinha à sua procura no deserto,"
-    },
-    "4": {
-      "título": "",
-      "texto": "enviou espias e soube que Saul, de fato, tinha chegado."
-    },
-    "5": {
-      "título": "",
-      "texto": "Davi se levantou e foi ao lugar onde Saul estava acampado. Viu o lugar onde dormiam Saul e Abner, filho de Ner, comandante do seu exército. Saul dormia dentro do acampamento, e o povo estava acampado ao redor dele."
-    },
-    "6": {
-      "título": "",
-      "texto": "Davi perguntou a Aimeleque, o heteu, e a Abisai, filho de Zeruia, irmão de Joabe:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Assim, Davi e Abisai foram, de noite, ao acampamento. E eis que Saul estava deitado, dormindo. A lança dele estava fincada na terra, perto da sua cabeça. Abner e o povo estavam deitados ao redor dele."
-    },
-    "8": {
-      "título": "",
-      "texto": "Então Abisai disse a Davi:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Davi, porém, respondeu a Abisai:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Davi continuou:"
-    },
-    "11": {
-      "título": "",
-      "texto": "O Senhor me livre de estender a mão contra o seu ungido! Agora, porém, pegue a lança que está perto da cabeça dele e o jarro de água, e vamos embora."
-    },
-    "12": {
-      "título": "",
-      "texto": "Então Davi pegou a lança e o jarro de água que estavam perto da cabeça de Saul, e eles foram embora. Ninguém viu, nem ficou sabendo, nem acordou. Todos dormiam, porque havia caído sobre eles um profundo sono, vindo da parte do Senhor ."
-    },
-    "13": {
-      "título": "",
-      "texto": "Quando Davi tinha passado para o outro lado, pôs-se no alto do monte ao longe, de maneira que havia uma grande distância entre eles."
-    },
-    "14": {
-      "título": "",
-      "texto": "Então gritou para o povo e para Abner, filho de Ner, dizendo:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Davi respondeu:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Não é bom isso que você fez! Tão certo como vive o Senhor Deus, vocês merecem morrer, vocês que não protegeram seu senhor, o ungido do Senhor Deus. Agora vejam onde está a lança do rei e o jarro de água que estava perto da cabeça dele."
-    },
-    "17": {
-      "título": "Saul, outra vez, se reconcilia com Davi",
-      "texto": "Então Saul reconheceu a voz de Davi e disse:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Disse mais:"
-    },
-    "19": {
-      "título": "",
-      "texto": "E agora, ó rei, meu senhor, por favor escute as palavras deste seu servo. Se é o Senhor Deus que o está incitando contra mim, que ele aceite uma oferta. Mas, se são os filhos dos homens, que sejam malditos diante do Senhor ! Porque eles me expulsaram hoje, para que eu não tenha parte na herança do Senhor , como que dizendo: “Vá e sirva outros deuses.”"
-    },
-    "20": {
-      "título": "",
-      "texto": "Agora, que o meu sangue não seja derramado longe desta terra do Senhor . Porque o rei de Israel saiu em busca de uma pulga, como quem persegue uma perdiz nos montes."
-    },
-    "21": {
-      "título": "",
-      "texto": "Então Saul disse:"
-    },
-    "22": {
-      "título": "",
-      "texto": "Davi respondeu:"
-    },
-    "23": {
-      "título": "",
-      "texto": "E que o Senhor Deus recompense cada um pela sua justiça e lealdade. Porque hoje o Senhor Deus o havia entregado nas minhas mãos, porém eu não quis estendê-las contra o ungido do Senhor ."
-    },
-    "24": {
-      "título": "",
-      "texto": "Assim como hoje a sua vida foi de grande valor aos meus olhos, assim também seja a minha vida aos olhos do Senhor Deus, e que ele me livre de toda a angústia."
-    },
-    "25": {
-      "título": "",
-      "texto": "Então Saul disse a Davi:"
+    "versiculos": {
+        "1": "Os zifeus foram falar com Saul, em Gibeá, e disseram:",
+        "2": "Então Saul se levantou e foi ao deserto de Zife, em busca de Davi, levando consigo três mil homens escolhidos de Israel.",
+        "3": "Saul acampou no monte Haquila, em frente de Jesimom, junto ao caminho, porém Davi ficou no deserto. Quando ouviu dizer que Saul vinha à sua procura no deserto,",
+        "4": "enviou espias e soube que Saul, de fato, tinha chegado.",
+        "5": "Davi se levantou e foi ao lugar onde Saul estava acampado. Viu o lugar onde dormiam Saul e Abner, filho de Ner, comandante do seu exército. Saul dormia dentro do acampamento, e o povo estava acampado ao redor dele.",
+        "6": "Davi perguntou a Aimeleque, o heteu, e a Abisai, filho de Zeruia, irmão de Joabe:",
+        "7": "Assim, Davi e Abisai foram, de noite, ao acampamento. E eis que Saul estava deitado, dormindo. A lança dele estava fincada na terra, perto da sua cabeça. Abner e o povo estavam deitados ao redor dele.",
+        "8": "Então Abisai disse a Davi:",
+        "9": "Davi, porém, respondeu a Abisai:",
+        "10": "Davi continuou:",
+        "11": "O Senhor me livre de estender a mão contra o seu ungido! Agora, porém, pegue a lança que está perto da cabeça dele e o jarro de água, e vamos embora.",
+        "12": "Então Davi pegou a lança e o jarro de água que estavam perto da cabeça de Saul, e eles foram embora. Ninguém viu, nem ficou sabendo, nem acordou. Todos dormiam, porque havia caído sobre eles um profundo sono, vindo da parte do Senhor .",
+        "13": "Quando Davi tinha passado para o outro lado, pôs-se no alto do monte ao longe, de maneira que havia uma grande distância entre eles.",
+        "14": "Então gritou para o povo e para Abner, filho de Ner, dizendo:",
+        "15": "Davi respondeu:",
+        "16": "Não é bom isso que você fez! Tão certo como vive o Senhor Deus, vocês merecem morrer, vocês que não protegeram seu senhor, o ungido do Senhor Deus. Agora vejam onde está a lança do rei e o jarro de água que estava perto da cabeça dele.",
+        "17": "Então Saul reconheceu a voz de Davi e disse:",
+        "18": "Disse mais:",
+        "19": "E agora, ó rei, meu senhor, por favor escute as palavras deste seu servo. Se é o Senhor Deus que o está incitando contra mim, que ele aceite uma oferta. Mas, se são os filhos dos homens, que sejam malditos diante do Senhor ! Porque eles me expulsaram hoje, para que eu não tenha parte na herança do Senhor , como que dizendo: “Vá e sirva outros deuses.”",
+        "20": "Agora, que o meu sangue não seja derramado longe desta terra do Senhor . Porque o rei de Israel saiu em busca de uma pulga, como quem persegue uma perdiz nos montes.",
+        "21": "Então Saul disse:",
+        "22": "Davi respondeu:",
+        "23": "E que o Senhor Deus recompense cada um pela sua justiça e lealdade. Porque hoje o Senhor Deus o havia entregado nas minhas mãos, porém eu não quis estendê-las contra o ungido do Senhor .",
+        "24": "Assim como hoje a sua vida foi de grande valor aos meus olhos, assim também seja a minha vida aos olhos do Senhor Deus, e que ele me livre de toda a angústia.",
+        "25": "Então Saul disse a Davi:"
     }
-  }
 }

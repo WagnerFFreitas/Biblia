@@ -1,38 +1,17 @@
 {
-  "livro": "Salmos",
-  "capítulo": 4,
-  "versículos": {
-    "1": {
-      "título": "Confiança em Deus na angústia",
-      "texto": "Responde-me quando clamo,"
+    "livro": "Salmos",
+    "capitulo": 4,
+    "titulos": {
+        "1": "Confiança em Deus na angústia"
     },
-    "2": {
-      "título": "",
-      "texto": "Filhos dos homens, até quando"
-    },
-    "3": {
-      "título": "",
-      "texto": "Saibam, porém, que o Senhor"
-    },
-    "4": {
-      "título": "",
-      "texto": "Tremam de medo e não pequem;"
-    },
-    "5": {
-      "título": "",
-      "texto": "Ofereçam sacrifícios de justiça"
-    },
-    "6": {
-      "título": "",
-      "texto": "Há muitos que dizem:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Mais alegria me puseste"
-    },
-    "8": {
-      "título": "",
-      "texto": "Em paz me deito"
+    "versiculos": {
+        "1": "Responde-me quando clamo,",
+        "2": "Filhos dos homens, até quando",
+        "3": "Saibam, porém, que o Senhor",
+        "4": "Tremam de medo e não pequem;",
+        "5": "Ofereçam sacrifícios de justiça",
+        "6": "Há muitos que dizem:",
+        "7": "Mais alegria me puseste",
+        "8": "Em paz me deito"
     }
-  }
 }

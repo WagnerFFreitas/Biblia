@@ -1,222 +1,64 @@
 {
-  "livro": "Números",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "Deus manda Moisés levantar o censo de Israel",
-      "texto": "No segundo ano após a saída dos filhos de Israel do Egito, no primeiro dia do segundo mês, o Senhor falou a Moisés, no deserto do Sinai, na tenda do encontro, dizendo:"
+    "livro": "Números",
+    "capitulo": 1,
+    "titulos": {
+        "1": "Deus manda Moisés levantar o censo de Israel",
+        "47": "Os levitas não são contados"
     },
-    "2": {
-      "título": "",
-      "texto": "— Levantem o censo de toda a congregação dos filhos de Israel, segundo as suas famílias, segundo a casa de seus pais, contando todos os homens, nominalmente, cabeça por cabeça."
-    },
-    "3": {
-      "título": "",
-      "texto": "Da idade de vinte anos para cima, todos os capazes de sair à guerra em Israel, a esses você e Arão devem contar segundo os seus exércitos."
-    },
-    "4": {
-      "título": "",
-      "texto": "De cada tribo vocês terão a ajuda de um homem que seja chefe da casa de seus pais."
-    },
-    "5": {
-      "título": "",
-      "texto": "— Estes, pois, são os nomes dos homens que ajudarão vocês: de Rúben, Elizur, filho de Sedeur;"
-    },
-    "6": {
-      "título": "",
-      "texto": "de Simeão, Selumiel, filho de Zurisadai;"
-    },
-    "7": {
-      "título": "",
-      "texto": "de Judá, Naassom, filho de Aminadabe;"
-    },
-    "8": {
-      "título": "",
-      "texto": "de Issacar, Natanael, filho de Zuar;"
-    },
-    "9": {
-      "título": "",
-      "texto": "de Zebulom, Eliabe, filho de Helom;"
-    },
-    "10": {
-      "título": "",
-      "texto": "dos filhos de José: de Efraim, Elisama, filho de Amiúde; de Manassés, Gamaliel, filho de Pedazur;"
-    },
-    "11": {
-      "título": "",
-      "texto": "de Benjamim, Abidã, filho de Gideoni;"
-    },
-    "12": {
-      "título": "",
-      "texto": "de Dã, Aiezer, filho de Amisadai;"
-    },
-    "13": {
-      "título": "",
-      "texto": "de Aser, Pagiel, filho de Ocrã;"
-    },
-    "14": {
-      "título": "",
-      "texto": "de Gade, Eliasafe, filho de Deuel;"
-    },
-    "15": {
-      "título": "",
-      "texto": "de Naftali, Aira, filho de Enã."
-    },
-    "16": {
-      "título": "",
-      "texto": "Estes foram os escolhidos da congregação, os chefes das tribos de seus pais, os cabeças dos milhares de Israel."
-    },
-    "17": {
-      "título": "",
-      "texto": "Então Moisés e Arão reuniram estes homens, que foram designados pelos seus nomes."
-    },
-    "18": {
-      "título": "",
-      "texto": "E, tendo ajuntado toda a congregação no primeiro dia do segundo mês, declararam a descendência deles, segundo as suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, cabeça por cabeça."
-    },
-    "19": {
-      "título": "",
-      "texto": "Como o Senhor havia ordenado a Moisés, assim os contou no deserto do Sinai."
-    },
-    "20": {
-      "título": "",
-      "texto": "Dos filhos de Rúben, o primogênito de Israel, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, cabeça por cabeça, todos os homens de vinte anos para cima, todos os capazes de sair à guerra,"
-    },
-    "21": {
-      "título": "",
-      "texto": "foram contados deles, da tribo de Rúben, quarenta e seis mil e quinhentos."
-    },
-    "22": {
-      "título": "",
-      "texto": "Dos filhos de Simeão, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, cabeça por cabeça, todos os homens de vinte anos para cima, todos os capazes de sair à guerra,"
-    },
-    "23": {
-      "título": "",
-      "texto": "foram contados deles, da tribo de Simeão, cinquenta e nove mil e trezentos."
-    },
-    "24": {
-      "título": "",
-      "texto": "Dos filhos de Gade, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, todos os capazes de sair à guerra,"
-    },
-    "25": {
-      "título": "",
-      "texto": "foram contados deles, da tribo de Gade, quarenta e cinco mil seiscentos e cinquenta."
-    },
-    "26": {
-      "título": "",
-      "texto": "Dos filhos de Judá, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, todos os capazes de sair à guerra,"
-    },
-    "27": {
-      "título": "",
-      "texto": "foram contados deles, da tribo de Judá, setenta e quatro mil e seiscentos."
-    },
-    "28": {
-      "título": "",
-      "texto": "Dos filhos de Issacar, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, todos os capazes de sair à guerra,"
-    },
-    "29": {
-      "título": "",
-      "texto": "foram contados deles, da tribo de Issacar, cinquenta e quatro mil e quatrocentos."
-    },
-    "30": {
-      "título": "",
-      "texto": "Dos filhos de Zebulom, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, todos os capazes de sair à guerra,"
-    },
-    "31": {
-      "título": "",
-      "texto": "foram contados deles, da tribo de Zebulom, cinquenta e sete mil e quatrocentos."
-    },
-    "32": {
-      "título": "",
-      "texto": "Dos filhos de José, dos filhos de Efraim, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, todos os capazes de sair à guerra,"
-    },
-    "33": {
-      "título": "",
-      "texto": "foram contados deles, da tribo de Efraim, quarenta mil e quinhentos."
-    },
-    "34": {
-      "título": "",
-      "texto": "Dos filhos de Manassés, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, todos os capazes de sair à guerra,"
-    },
-    "35": {
-      "título": "",
-      "texto": "foram contados deles, da tribo de Manassés, trinta e dois mil e duzentos."
-    },
-    "36": {
-      "título": "",
-      "texto": "Dos filhos de Benjamim, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, todos os capazes de sair à guerra,"
-    },
-    "37": {
-      "título": "",
-      "texto": "foram contados deles, da tribo de Benjamim, trinta e cinco mil e quatrocentos."
-    },
-    "38": {
-      "título": "",
-      "texto": "Dos filhos de Dã, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, todos os capazes de sair à guerra,"
-    },
-    "39": {
-      "título": "",
-      "texto": "foram contados deles, da tribo de Dã, sessenta e dois mil e setecentos."
-    },
-    "40": {
-      "título": "",
-      "texto": "Dos filhos de Aser, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, todos os capazes de sair à guerra,"
-    },
-    "41": {
-      "título": "",
-      "texto": "foram contados deles, da tribo de Aser, quarenta e um mil e quinhentos."
-    },
-    "42": {
-      "título": "",
-      "texto": "Dos filhos de Naftali, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, todos os capazes de sair à guerra,"
-    },
-    "43": {
-      "título": "",
-      "texto": "foram contados deles, da tribo de Naftali, cinquenta e três mil e quatrocentos."
-    },
-    "44": {
-      "título": "",
-      "texto": "Estes foram os homens contados, os quais Moisés e Arão contaram com os chefes de Israel, que eram doze homens, cada um representando a casa de seus pais."
-    },
-    "45": {
-      "título": "",
-      "texto": "Assim, pois, todos os contados dos filhos de Israel, segundo a casa de seus pais, de vinte anos para cima, todos os capazes de sair à guerra,"
-    },
-    "46": {
-      "título": "",
-      "texto": "todos os contados foram seiscentos e três mil quinhentos e cinquenta."
-    },
-    "47": {
-      "título": "Os levitas não são contados",
-      "texto": "Mas os levitas, segundo a tribo de seus pais, não foram contados entre eles,"
-    },
-    "48": {
-      "título": "",
-      "texto": "porque o Senhor havia falado a Moisés, dizendo:"
-    },
-    "49": {
-      "título": "",
-      "texto": "“Somente não faça a contagem da tribo de Levi, nem levante o censo deles entre os filhos de Israel."
-    },
-    "50": {
-      "título": "",
-      "texto": "Mas encarregue os levitas de cuidarem do tabernáculo do testemunho, de todos os seus utensílios e de tudo o que nele se encontra. Eles levarão o tabernáculo e todos os seus utensílios; eles ministrarão no tabernáculo e acamparão ao redor dele."
-    },
-    "51": {
-      "título": "",
-      "texto": "Quando o tabernáculo partir, os levitas o desarmarão; e, quando o tabernáculo for armado outra vez, os levitas o farão; o estranho que se aproximar será morto."
-    },
-    "52": {
-      "título": "",
-      "texto": "Os filhos de Israel acamparão, cada um no seu arraial e cada um junto ao seu estandarte, segundo as suas turmas."
-    },
-    "53": {
-      "título": "",
-      "texto": "Mas os levitas acamparão ao redor do tabernáculo do testemunho, para que não haja ira sobre a congregação dos filhos de Israel. Os levitas assumirão a tarefa de cuidar do tabernáculo do testemunho.”"
-    },
-    "54": {
-      "título": "",
-      "texto": "Assim fizeram os filhos de Israel. Segundo tudo o que o Senhor havia ordenado a Moisés, assim o fizeram."
+    "versiculos": {
+        "1": "No segundo ano após a saída dos filhos de Israel do Egito, no primeiro dia do segundo mês, o Senhor falou a Moisés, no deserto do Sinai, na tenda do encontro, dizendo:",
+        "2": "— Levantem o censo de toda a congregação dos filhos de Israel, segundo as suas famílias, segundo a casa de seus pais, contando todos os homens, nominalmente, cabeça por cabeça.",
+        "3": "Da idade de vinte anos para cima, todos os capazes de sair à guerra em Israel, a esses você e Arão devem contar segundo os seus exércitos.",
+        "4": "De cada tribo vocês terão a ajuda de um homem que seja chefe da casa de seus pais.",
+        "5": "— Estes, pois, são os nomes dos homens que ajudarão vocês: de Rúben, Elizur, filho de Sedeur;",
+        "6": "de Simeão, Selumiel, filho de Zurisadai;",
+        "7": "de Judá, Naassom, filho de Aminadabe;",
+        "8": "de Issacar, Natanael, filho de Zuar;",
+        "9": "de Zebulom, Eliabe, filho de Helom;",
+        "10": "dos filhos de José: de Efraim, Elisama, filho de Amiúde; de Manassés, Gamaliel, filho de Pedazur;",
+        "11": "de Benjamim, Abidã, filho de Gideoni;",
+        "12": "de Dã, Aiezer, filho de Amisadai;",
+        "13": "de Aser, Pagiel, filho de Ocrã;",
+        "14": "de Gade, Eliasafe, filho de Deuel;",
+        "15": "de Naftali, Aira, filho de Enã.",
+        "16": "Estes foram os escolhidos da congregação, os chefes das tribos de seus pais, os cabeças dos milhares de Israel.",
+        "17": "Então Moisés e Arão reuniram estes homens, que foram designados pelos seus nomes.",
+        "18": "E, tendo ajuntado toda a congregação no primeiro dia do segundo mês, declararam a descendência deles, segundo as suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, cabeça por cabeça.",
+        "19": "Como o Senhor havia ordenado a Moisés, assim os contou no deserto do Sinai.",
+        "20": "Dos filhos de Rúben, o primogênito de Israel, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, cabeça por cabeça, todos os homens de vinte anos para cima, todos os capazes de sair à guerra,",
+        "21": "foram contados deles, da tribo de Rúben, quarenta e seis mil e quinhentos.",
+        "22": "Dos filhos de Simeão, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, cabeça por cabeça, todos os homens de vinte anos para cima, todos os capazes de sair à guerra,",
+        "23": "foram contados deles, da tribo de Simeão, cinquenta e nove mil e trezentos.",
+        "24": "Dos filhos de Gade, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, todos os capazes de sair à guerra,",
+        "25": "foram contados deles, da tribo de Gade, quarenta e cinco mil seiscentos e cinquenta.",
+        "26": "Dos filhos de Judá, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, todos os capazes de sair à guerra,",
+        "27": "foram contados deles, da tribo de Judá, setenta e quatro mil e seiscentos.",
+        "28": "Dos filhos de Issacar, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, todos os capazes de sair à guerra,",
+        "29": "foram contados deles, da tribo de Issacar, cinquenta e quatro mil e quatrocentos.",
+        "30": "Dos filhos de Zebulom, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, todos os capazes de sair à guerra,",
+        "31": "foram contados deles, da tribo de Zebulom, cinquenta e sete mil e quatrocentos.",
+        "32": "Dos filhos de José, dos filhos de Efraim, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, todos os capazes de sair à guerra,",
+        "33": "foram contados deles, da tribo de Efraim, quarenta mil e quinhentos.",
+        "34": "Dos filhos de Manassés, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, todos os capazes de sair à guerra,",
+        "35": "foram contados deles, da tribo de Manassés, trinta e dois mil e duzentos.",
+        "36": "Dos filhos de Benjamim, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, todos os capazes de sair à guerra,",
+        "37": "foram contados deles, da tribo de Benjamim, trinta e cinco mil e quatrocentos.",
+        "38": "Dos filhos de Dã, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, todos os capazes de sair à guerra,",
+        "39": "foram contados deles, da tribo de Dã, sessenta e dois mil e setecentos.",
+        "40": "Dos filhos de Aser, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, todos os capazes de sair à guerra,",
+        "41": "foram contados deles, da tribo de Aser, quarenta e um mil e quinhentos.",
+        "42": "Dos filhos de Naftali, as suas gerações, pelas suas famílias, segundo a casa de seus pais, contados nominalmente, de vinte anos para cima, todos os capazes de sair à guerra,",
+        "43": "foram contados deles, da tribo de Naftali, cinquenta e três mil e quatrocentos.",
+        "44": "Estes foram os homens contados, os quais Moisés e Arão contaram com os chefes de Israel, que eram doze homens, cada um representando a casa de seus pais.",
+        "45": "Assim, pois, todos os contados dos filhos de Israel, segundo a casa de seus pais, de vinte anos para cima, todos os capazes de sair à guerra,",
+        "46": "todos os contados foram seiscentos e três mil quinhentos e cinquenta.",
+        "47": "Mas os levitas, segundo a tribo de seus pais, não foram contados entre eles,",
+        "48": "porque o Senhor havia falado a Moisés, dizendo:",
+        "49": "“Somente não faça a contagem da tribo de Levi, nem levante o censo deles entre os filhos de Israel.",
+        "50": "Mas encarregue os levitas de cuidarem do tabernáculo do testemunho, de todos os seus utensílios e de tudo o que nele se encontra. Eles levarão o tabernáculo e todos os seus utensílios; eles ministrarão no tabernáculo e acamparão ao redor dele.",
+        "51": "Quando o tabernáculo partir, os levitas o desarmarão; e, quando o tabernáculo for armado outra vez, os levitas o farão; o estranho que se aproximar será morto.",
+        "52": "Os filhos de Israel acamparão, cada um no seu arraial e cada um junto ao seu estandarte, segundo as suas turmas.",
+        "53": "Mas os levitas acamparão ao redor do tabernáculo do testemunho, para que não haja ira sobre a congregação dos filhos de Israel. Os levitas assumirão a tarefa de cuidar do tabernáculo do testemunho.”",
+        "54": "Assim fizeram os filhos de Israel. Segundo tudo o que o Senhor havia ordenado a Moisés, assim o fizeram."
     }
-  }
 }

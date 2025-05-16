@@ -1,158 +1,48 @@
 {
-  "livro": "Jeremias",
-  "capítulo": 25,
-  "versículos": {
-    "1": {
-      "título": "Setenta anos de cativeiro",
-      "texto": "Palavra que veio a Jeremias a respeito de todo o povo de Judá, no quarto ano do reinado de Jeoaquim, filho de Josias, rei de Judá, que era o primeiro ano do reinado de Nabucodonosor, rei da Babilônia."
+    "livro": "Jeremias",
+    "capitulo": 25,
+    "titulos": {
+        "1": "Setenta anos de cativeiro",
+        "15": "O castigo das nações"
     },
-    "2": {
-      "título": "",
-      "texto": "O profeta Jeremias anunciou a todo o povo de Judá e a todos os moradores de Jerusalém, dizendo:"
-    },
-    "3": {
-      "título": "",
-      "texto": "— Durante vinte e três anos, desde o décimo terceiro ano do reinado de Josias, filho de Amom, rei de Judá, até hoje, a palavra do Senhor tem vindo a mim, e sempre de novo eu a tenho anunciado a vocês, mas vocês não escutaram."
-    },
-    "4": {
-      "título": "",
-      "texto": "Também sempre de novo o Senhor enviou os seus servos, os profetas, mas vocês não escutaram nem inclinaram os ouvidos para ouvir,"
-    },
-    "5": {
-      "título": "",
-      "texto": "quando eles diziam: “Convertam-se agora, cada um de vocês, do seu mau caminho e da maldade das suas ações, e vocês habitarão na terra que o Senhor deu a vocês e aos seus pais, desde os tempos antigos e para sempre."
-    },
-    "6": {
-      "título": "",
-      "texto": "Não sigam outros deuses para os servir e adorar, nem me provoquem à ira com as obras de suas mãos. E então não lhes farei mal algum."
-    },
-    "7": {
-      "título": "",
-      "texto": "Mas vocês não me deram ouvidos, diz o Senhor . Pelo contrário, me provocaram à ira com as obras de suas mãos, para o próprio mal de vocês.”"
-    },
-    "8": {
-      "título": "",
-      "texto": "— Portanto, assim diz o Senhor dos Exércitos: Visto que vocês não escutaram as minhas palavras,"
-    },
-    "9": {
-      "título": "",
-      "texto": "eis que mandarei buscar todas as tribos do Norte, diz o Senhor , e também Nabucodonosor, rei da Babilônia, meu servo, e os trarei contra esta terra, contra os seus moradores e contra todas estas nações ao redor, e os destruirei totalmente. Farei deles um objeto de horror e de vaias, ruínas perpétuas."
-    },
-    "10": {
-      "título": "",
-      "texto": "Farei cessar entre eles o som das festas e da alegria, a voz do noivo e a voz da noiva, o ruído das pedras do moinho e a luz das lamparinas."
-    },
-    "11": {
-      "título": "",
-      "texto": "Toda esta terra virá a ser uma ruína, objeto de horror, e estas nações servirão o rei da Babilônia durante setenta anos."
-    },
-    "12": {
-      "título": "",
-      "texto": "Acontecerá, porém, que, quando se cumprirem os setenta anos, castigarei o rei da Babilônia e aquela nação, a terra dos caldeus, por causa de sua iniquidade, diz o Senhor ; farei deles ruínas perpétuas."
-    },
-    "13": {
-      "título": "",
-      "texto": "Farei com que se cumpram sobre aquela terra todas as minhas ameaças que proferi contra ela, tudo o que está escrito neste livro e que Jeremias profetizou contra todas as nações."
-    },
-    "14": {
-      "título": "",
-      "texto": "Porque também eles serão escravos de muitas nações e de grandes reis, e assim lhes retribuirei segundo os seus feitos e segundo as obras das suas mãos."
-    },
-    "15": {
-      "título": "O castigo das nações",
-      "texto": "Porque assim me disse o Senhor , o Deus de Israel:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Elas beberão, ficarão tremendo e enlouquecerão, por causa da espada que eu enviarei para o meio delas."
-    },
-    "17": {
-      "título": "",
-      "texto": "Peguei o cálice da mão do Senhor e dei de beber a todas as nações às quais o Senhor tinha me enviado:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Jerusalém, as cidades de Judá, os seus reis e as suas autoridades, para fazer deles uma ruína, objeto de horror, de vaias e de maldição, como hoje se vê;"
-    },
-    "19": {
-      "título": "",
-      "texto": "Faraó, rei do Egito, os seus servos, as suas autoridades e todo o seu povo;"
-    },
-    "20": {
-      "título": "",
-      "texto": "todo misto de gente, todos os reis da terra de Uz, todos os reis da terra dos filisteus: Asquelom, Gaza, Ecrom e o que resta de Asdode;"
-    },
-    "21": {
-      "título": "",
-      "texto": "Edom, Moabe e os filhos de Amom;"
-    },
-    "22": {
-      "título": "",
-      "texto": "todos os reis de Tiro, todos os reis de Sidom e os reis das terras dalém do mar;"
-    },
-    "23": {
-      "título": "",
-      "texto": "Dedã, Tema, Buz e todos os que cortam os cabelos nas têmporas;"
-    },
-    "24": {
-      "título": "",
-      "texto": "todos os reis da Arábia e todos os reis do misto de gente que habita no deserto;"
-    },
-    "25": {
-      "título": "",
-      "texto": "todos os reis de Zinri, todos os reis de Elão e todos os reis da Média;"
-    },
-    "26": {
-      "título": "",
-      "texto": "todos os reis do Norte, os de perto e os de longe, um após outro, e todos os reinos do mundo sobre a face da terra; e, depois de todos eles, o rei da Babilônia."
-    },
-    "27": {
-      "título": "",
-      "texto": "— Então você lhes dirá: Assim diz o Senhor dos Exércitos, o Deus de Israel: “Bebam, fiquem bêbados e vomitem; caiam e não mais se levantem, por causa da espada que estou enviando para o meio de vocês.”"
-    },
-    "28": {
-      "título": "",
-      "texto": "Se recusarem pegar o cálice que está em sua mão, Jeremias, e não quiserem beber, então diga-lhes: Assim diz o Senhor dos Exércitos: “Vocês terão de bebê-lo!"
-    },
-    "29": {
-      "título": "",
-      "texto": "Pois eis que eu começo a castigar na cidade que se chama pelo meu nome; portanto, como vocês podem pensar que ficarão impunes? Não, não ficarão impunes, porque eu chamo a espada sobre todos os moradores da terra”, diz o Senhor dos Exércitos."
-    },
-    "30": {
-      "título": "",
-      "texto": "— Você, Jeremias, profetize contra eles todas estas palavras e diga-lhes:"
-    },
-    "31": {
-      "título": "",
-      "texto": "O estrondo chegará"
-    },
-    "32": {
-      "título": "",
-      "texto": "Assim diz o Senhor"
-    },
-    "33": {
-      "título": "",
-      "texto": "— Os que o Senhor entregar à morte naquele dia se estenderão de uma a outra extremidade da terra. Não serão pranteados, nem recolhidos, nem sepultados; serão como esterco sobre a face da terra."
-    },
-    "34": {
-      "título": "",
-      "texto": "“Lamentem, pastores, e gritem!"
-    },
-    "35": {
-      "título": "",
-      "texto": "Não haverá refúgio"
-    },
-    "36": {
-      "título": "",
-      "texto": "Vozes! É o grito dos pastores"
-    },
-    "37": {
-      "título": "",
-      "texto": "Porque as pastagens tranquilas"
-    },
-    "38": {
-      "título": "",
-      "texto": "Saiu da sua morada"
+    "versiculos": {
+        "1": "Palavra que veio a Jeremias a respeito de todo o povo de Judá, no quarto ano do reinado de Jeoaquim, filho de Josias, rei de Judá, que era o primeiro ano do reinado de Nabucodonosor, rei da Babilônia.",
+        "2": "O profeta Jeremias anunciou a todo o povo de Judá e a todos os moradores de Jerusalém, dizendo:",
+        "3": "— Durante vinte e três anos, desde o décimo terceiro ano do reinado de Josias, filho de Amom, rei de Judá, até hoje, a palavra do Senhor tem vindo a mim, e sempre de novo eu a tenho anunciado a vocês, mas vocês não escutaram.",
+        "4": "Também sempre de novo o Senhor enviou os seus servos, os profetas, mas vocês não escutaram nem inclinaram os ouvidos para ouvir,",
+        "5": "quando eles diziam: “Convertam-se agora, cada um de vocês, do seu mau caminho e da maldade das suas ações, e vocês habitarão na terra que o Senhor deu a vocês e aos seus pais, desde os tempos antigos e para sempre.",
+        "6": "Não sigam outros deuses para os servir e adorar, nem me provoquem à ira com as obras de suas mãos. E então não lhes farei mal algum.",
+        "7": "Mas vocês não me deram ouvidos, diz o Senhor . Pelo contrário, me provocaram à ira com as obras de suas mãos, para o próprio mal de vocês.”",
+        "8": "— Portanto, assim diz o Senhor dos Exércitos: Visto que vocês não escutaram as minhas palavras,",
+        "9": "eis que mandarei buscar todas as tribos do Norte, diz o Senhor , e também Nabucodonosor, rei da Babilônia, meu servo, e os trarei contra esta terra, contra os seus moradores e contra todas estas nações ao redor, e os destruirei totalmente. Farei deles um objeto de horror e de vaias, ruínas perpétuas.",
+        "10": "Farei cessar entre eles o som das festas e da alegria, a voz do noivo e a voz da noiva, o ruído das pedras do moinho e a luz das lamparinas.",
+        "11": "Toda esta terra virá a ser uma ruína, objeto de horror, e estas nações servirão o rei da Babilônia durante setenta anos.",
+        "12": "Acontecerá, porém, que, quando se cumprirem os setenta anos, castigarei o rei da Babilônia e aquela nação, a terra dos caldeus, por causa de sua iniquidade, diz o Senhor ; farei deles ruínas perpétuas.",
+        "13": "Farei com que se cumpram sobre aquela terra todas as minhas ameaças que proferi contra ela, tudo o que está escrito neste livro e que Jeremias profetizou contra todas as nações.",
+        "14": "Porque também eles serão escravos de muitas nações e de grandes reis, e assim lhes retribuirei segundo os seus feitos e segundo as obras das suas mãos.",
+        "15": "Porque assim me disse o Senhor , o Deus de Israel:",
+        "16": "Elas beberão, ficarão tremendo e enlouquecerão, por causa da espada que eu enviarei para o meio delas.",
+        "17": "Peguei o cálice da mão do Senhor e dei de beber a todas as nações às quais o Senhor tinha me enviado:",
+        "18": "Jerusalém, as cidades de Judá, os seus reis e as suas autoridades, para fazer deles uma ruína, objeto de horror, de vaias e de maldição, como hoje se vê;",
+        "19": "Faraó, rei do Egito, os seus servos, as suas autoridades e todo o seu povo;",
+        "20": "todo misto de gente, todos os reis da terra de Uz, todos os reis da terra dos filisteus: Asquelom, Gaza, Ecrom e o que resta de Asdode;",
+        "21": "Edom, Moabe e os filhos de Amom;",
+        "22": "todos os reis de Tiro, todos os reis de Sidom e os reis das terras dalém do mar;",
+        "23": "Dedã, Tema, Buz e todos os que cortam os cabelos nas têmporas;",
+        "24": "todos os reis da Arábia e todos os reis do misto de gente que habita no deserto;",
+        "25": "todos os reis de Zinri, todos os reis de Elão e todos os reis da Média;",
+        "26": "todos os reis do Norte, os de perto e os de longe, um após outro, e todos os reinos do mundo sobre a face da terra; e, depois de todos eles, o rei da Babilônia.",
+        "27": "— Então você lhes dirá: Assim diz o Senhor dos Exércitos, o Deus de Israel: “Bebam, fiquem bêbados e vomitem; caiam e não mais se levantem, por causa da espada que estou enviando para o meio de vocês.”",
+        "28": "Se recusarem pegar o cálice que está em sua mão, Jeremias, e não quiserem beber, então diga-lhes: Assim diz o Senhor dos Exércitos: “Vocês terão de bebê-lo!",
+        "29": "Pois eis que eu começo a castigar na cidade que se chama pelo meu nome; portanto, como vocês podem pensar que ficarão impunes? Não, não ficarão impunes, porque eu chamo a espada sobre todos os moradores da terra”, diz o Senhor dos Exércitos.",
+        "30": "— Você, Jeremias, profetize contra eles todas estas palavras e diga-lhes:",
+        "31": "O estrondo chegará",
+        "32": "Assim diz o Senhor",
+        "33": "— Os que o Senhor entregar à morte naquele dia se estenderão de uma a outra extremidade da terra. Não serão pranteados, nem recolhidos, nem sepultados; serão como esterco sobre a face da terra.",
+        "34": "“Lamentem, pastores, e gritem!",
+        "35": "Não haverá refúgio",
+        "36": "Vozes! É o grito dos pastores",
+        "37": "Porque as pastagens tranquilas",
+        "38": "Saiu da sua morada"
     }
-  }
 }

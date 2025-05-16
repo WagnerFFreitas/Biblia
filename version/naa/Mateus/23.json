@@ -1,162 +1,48 @@
 {
-  "livro": "Mateus",
-  "capítulo": 23,
-  "versículos": {
-    "1": {
-      "título": "Jesus censura os escribas e os fariseus",
-      "texto": "Então Jesus falou às multidões e aos seus discípulos:"
+    "livro": "Mateus",
+    "capitulo": 23,
+    "titulos": {
+        "1": "Jesus censura os escribas e os fariseus",
+        "37": "O lamento sobre Jerusalém"
     },
-    "2": {
-      "título": "",
-      "texto": "— Na cadeira de Moisés se assentaram os escribas e os fariseus."
-    },
-    "3": {
-      "título": "",
-      "texto": "Portanto, façam e observem tudo o que eles disserem a vocês, mas não os imitem em suas obras; porque dizem e não fazem."
-    },
-    "4": {
-      "título": "",
-      "texto": "Atam fardos pesados, difíceis de carregar, e os põem sobre os ombros dos outros, mas eles mesmos nem com o dedo querem movê-los."
-    },
-    "5": {
-      "título": "",
-      "texto": "Praticam todas as suas obras a fim de serem vistos pelos outros; pois alargam os seus filactérios e alongam as franjas de suas capas."
-    },
-    "6": {
-      "título": "",
-      "texto": "Gostam do primeiro lugar nos banquetes e das primeiras cadeiras nas sinagogas,"
-    },
-    "7": {
-      "título": "",
-      "texto": "das saudações nas praças e de serem chamados de “mestre”."
-    },
-    "8": {
-      "título": "",
-      "texto": "Mas vocês não serão chamados de “mestre”, porque um só é Mestre de vocês, e todos vocês são irmãos."
-    },
-    "9": {
-      "título": "",
-      "texto": "Aqui na terra, não chamem ninguém de “pai”, porque só um é o Pai de vocês, aquele que está nos céus."
-    },
-    "10": {
-      "título": "",
-      "texto": "Nem queiram ser chamados de “guias”, porque um só é o Guia de vocês, o Cristo."
-    },
-    "11": {
-      "título": "",
-      "texto": "Mas o maior entre vocês será o servo de vocês."
-    },
-    "12": {
-      "título": "",
-      "texto": "Quem se exaltar será humilhado; e quem se humilhar será exaltado."
-    },
-    "13": {
-      "título": "",
-      "texto": "— Ai de vocês, escribas e fariseus, hipócritas, porque vocês fecham o Reino dos Céus diante das pessoas; pois vocês mesmos não entram, nem deixam entrar os que estão entrando!"
-    },
-    "14": {
-      "título": "",
-      "texto": ""
-    },
-    "15": {
-      "título": "",
-      "texto": "— Ai de vocês, escribas e fariseus, hipócritas, porque vocês percorrem o mar e a terra para fazer um prosélito; e, uma vez feito, o tornam filho do inferno duas vezes mais do que vocês!"
-    },
-    "16": {
-      "título": "",
-      "texto": "— Ai de vocês, guias cegos, que dizem: “Se alguém jurar pelo santuário, isso não tem importância; mas, se alguém jurar pelo ouro do santuário, fica obrigado pelo que jurou!”"
-    },
-    "17": {
-      "título": "",
-      "texto": "Seus tolos e cegos! Qual é mais importante: o ouro ou o santuário que santifica o ouro?"
-    },
-    "18": {
-      "título": "",
-      "texto": "E vocês dizem: “Se alguém jurar pelo altar, isso não tem importância; mas, se alguém jurar pela oferta que está sobre o altar, fica obrigado pelo que jurou.”"
-    },
-    "19": {
-      "título": "",
-      "texto": "Cegos! Qual é mais importante: a oferta ou o altar que santifica a oferta?"
-    },
-    "20": {
-      "título": "",
-      "texto": "Portanto, quem jurar pelo altar jura por ele e por tudo o que está sobre ele."
-    },
-    "21": {
-      "título": "",
-      "texto": "Quem jurar pelo santuário jura por ele e por aquele que nele habita;"
-    },
-    "22": {
-      "título": "",
-      "texto": "e quem jurar pelo céu jura pelo trono de Deus e por aquele que está sentado no trono."
-    },
-    "23": {
-      "título": "",
-      "texto": "— Ai de vocês, escribas e fariseus, hipócritas, porque vocês dão o dízimo da hortelã, do endro e do cominho e desprezam os preceitos mais importantes da Lei: a justiça, a misericórdia e a fé. Mas vocês deviam fazer estas coisas, sem omitir aquelas!"
-    },
-    "24": {
-      "título": "",
-      "texto": "Guias cegos! Coam um mosquito, mas engolem um camelo!"
-    },
-    "25": {
-      "título": "",
-      "texto": "— Ai de vocês, escribas e fariseus, hipócritas, porque vocês limpam o exterior do copo e do prato, mas estes, por dentro, estão cheios de roubo e de glutonaria!"
-    },
-    "26": {
-      "título": "",
-      "texto": "Fariseu cego! Limpe primeiro o interior do copo, para que também o seu exterior fique limpo!"
-    },
-    "27": {
-      "título": "",
-      "texto": "— Ai de vocês, escribas e fariseus, hipócritas, porque vocês são semelhantes aos sepulcros pintados de branco, que, por fora, se mostram belos, mas interiormente estão cheios de ossos de mortos e de toda podridão!"
-    },
-    "28": {
-      "título": "",
-      "texto": "Assim também vocês, por fora, parecem justos aos olhos dos outros, mas, por dentro, estão cheios de hipocrisia e de maldade."
-    },
-    "29": {
-      "título": "",
-      "texto": "— Ai de vocês, escribas e fariseus, hipócritas, porque vocês edificam os sepulcros dos profetas, enfeitam os túmulos dos justos"
-    },
-    "30": {
-      "título": "",
-      "texto": "e dizem: “Se nós tivéssemos vivido nos dias de nossos pais, não teríamos sido seus cúmplices, quando mataram os profetas!”"
-    },
-    "31": {
-      "título": "",
-      "texto": "Assim, vocês dão testemunho contra si mesmos de que são filhos dos que mataram os profetas."
-    },
-    "32": {
-      "título": "",
-      "texto": "Portanto, tratem de terminar aquilo que os pais de vocês começaram."
-    },
-    "33": {
-      "título": "",
-      "texto": "— Serpentes, raça de víboras! Como esperam escapar da condenação do inferno?"
-    },
-    "34": {
-      "título": "",
-      "texto": "Por isso, eis que eu lhes envio profetas, sábios e escribas. A uns vocês matarão e a outros crucificarão; a outros ainda vocês açoitarão nas sinagogas e perseguirão de cidade em cidade;"
-    },
-    "35": {
-      "título": "",
-      "texto": "para que recaia sobre vocês todo o sangue justo derramado sobre a terra, desde o sangue do justo Abel até o sangue de Zacarias, filho de Baraquias, a quem vocês mataram entre o santuário e o altar."
-    },
-    "36": {
-      "título": "",
-      "texto": "Em verdade lhes digo que todas estas coisas hão de vir sobre a presente geração."
-    },
-    "37": {
-      "título": "O lamento sobre Jerusalém",
-      "texto": "— Jerusalém, Jerusalém! Você mata os profetas e apedreja os que lhe são enviados! Quantas vezes eu quis reunir os seus filhos, como a galinha ajunta os seus pintinhos debaixo das asas, mas vocês não quiseram!"
-    },
-    "38": {
-      "título": "",
-      "texto": "Eis que a casa de vocês ficará deserta."
-    },
-    "39": {
-      "título": "",
-      "texto": "Pois eu lhes afirmo que, desde agora, não me verão mais, até que venham a dizer: “Bendito o que vem em nome do Senhor!”"
+    "versiculos": {
+        "1": "Então Jesus falou às multidões e aos seus discípulos:",
+        "2": "— Na cadeira de Moisés se assentaram os escribas e os fariseus.",
+        "3": "Portanto, façam e observem tudo o que eles disserem a vocês, mas não os imitem em suas obras; porque dizem e não fazem.",
+        "4": "Atam fardos pesados, difíceis de carregar, e os põem sobre os ombros dos outros, mas eles mesmos nem com o dedo querem movê-los.",
+        "5": "Praticam todas as suas obras a fim de serem vistos pelos outros; pois alargam os seus filactérios e alongam as franjas de suas capas.",
+        "6": "Gostam do primeiro lugar nos banquetes e das primeiras cadeiras nas sinagogas,",
+        "7": "das saudações nas praças e de serem chamados de “mestre”.",
+        "8": "Mas vocês não serão chamados de “mestre”, porque um só é Mestre de vocês, e todos vocês são irmãos.",
+        "9": "Aqui na terra, não chamem ninguém de “pai”, porque só um é o Pai de vocês, aquele que está nos céus.",
+        "10": "Nem queiram ser chamados de “guias”, porque um só é o Guia de vocês, o Cristo.",
+        "11": "Mas o maior entre vocês será o servo de vocês.",
+        "12": "Quem se exaltar será humilhado; e quem se humilhar será exaltado.",
+        "13": "— Ai de vocês, escribas e fariseus, hipócritas, porque vocês fecham o Reino dos Céus diante das pessoas; pois vocês mesmos não entram, nem deixam entrar os que estão entrando!",
+        "15": "— Ai de vocês, escribas e fariseus, hipócritas, porque vocês percorrem o mar e a terra para fazer um prosélito; e, uma vez feito, o tornam filho do inferno duas vezes mais do que vocês!",
+        "16": "— Ai de vocês, guias cegos, que dizem: “Se alguém jurar pelo santuário, isso não tem importância; mas, se alguém jurar pelo ouro do santuário, fica obrigado pelo que jurou!”",
+        "17": "Seus tolos e cegos! Qual é mais importante: o ouro ou o santuário que santifica o ouro?",
+        "18": "E vocês dizem: “Se alguém jurar pelo altar, isso não tem importância; mas, se alguém jurar pela oferta que está sobre o altar, fica obrigado pelo que jurou.”",
+        "19": "Cegos! Qual é mais importante: a oferta ou o altar que santifica a oferta?",
+        "20": "Portanto, quem jurar pelo altar jura por ele e por tudo o que está sobre ele.",
+        "21": "Quem jurar pelo santuário jura por ele e por aquele que nele habita;",
+        "22": "e quem jurar pelo céu jura pelo trono de Deus e por aquele que está sentado no trono.",
+        "23": "— Ai de vocês, escribas e fariseus, hipócritas, porque vocês dão o dízimo da hortelã, do endro e do cominho e desprezam os preceitos mais importantes da Lei: a justiça, a misericórdia e a fé. Mas vocês deviam fazer estas coisas, sem omitir aquelas!",
+        "24": "Guias cegos! Coam um mosquito, mas engolem um camelo!",
+        "25": "— Ai de vocês, escribas e fariseus, hipócritas, porque vocês limpam o exterior do copo e do prato, mas estes, por dentro, estão cheios de roubo e de glutonaria!",
+        "26": "Fariseu cego! Limpe primeiro o interior do copo, para que também o seu exterior fique limpo!",
+        "27": "— Ai de vocês, escribas e fariseus, hipócritas, porque vocês são semelhantes aos sepulcros pintados de branco, que, por fora, se mostram belos, mas interiormente estão cheios de ossos de mortos e de toda podridão!",
+        "28": "Assim também vocês, por fora, parecem justos aos olhos dos outros, mas, por dentro, estão cheios de hipocrisia e de maldade.",
+        "29": "— Ai de vocês, escribas e fariseus, hipócritas, porque vocês edificam os sepulcros dos profetas, enfeitam os túmulos dos justos",
+        "30": "e dizem: “Se nós tivéssemos vivido nos dias de nossos pais, não teríamos sido seus cúmplices, quando mataram os profetas!”",
+        "31": "Assim, vocês dão testemunho contra si mesmos de que são filhos dos que mataram os profetas.",
+        "32": "Portanto, tratem de terminar aquilo que os pais de vocês começaram.",
+        "33": "— Serpentes, raça de víboras! Como esperam escapar da condenação do inferno?",
+        "34": "Por isso, eis que eu lhes envio profetas, sábios e escribas. A uns vocês matarão e a outros crucificarão; a outros ainda vocês açoitarão nas sinagogas e perseguirão de cidade em cidade;",
+        "35": "para que recaia sobre vocês todo o sangue justo derramado sobre a terra, desde o sangue do justo Abel até o sangue de Zacarias, filho de Baraquias, a quem vocês mataram entre o santuário e o altar.",
+        "36": "Em verdade lhes digo que todas estas coisas hão de vir sobre a presente geração.",
+        "37": "— Jerusalém, Jerusalém! Você mata os profetas e apedreja os que lhe são enviados! Quantas vezes eu quis reunir os seus filhos, como a galinha ajunta os seus pintinhos debaixo das asas, mas vocês não quiseram!",
+        "38": "Eis que a casa de vocês ficará deserta.",
+        "39": "Pois eu lhes afirmo que, desde agora, não me verão mais, até que venham a dizer: “Bendito o que vem em nome do Senhor!”"
     }
-  }
 }

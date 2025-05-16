@@ -1,90 +1,31 @@
 {
-  "livro": "Joel",
-  "capítulo": 3,
-  "versículos": {
-    "1": {
-      "título": "Os juízos de Deus sobre as nações inimigas",
-      "texto": "— Eis que, naqueles dias e naquele tempo, em que mudarei a sorte de Judá e de Jerusalém,"
+    "livro": "Joel",
+    "capitulo": 3,
+    "titulos": {
+        "1": "Os juízos de Deus sobre as nações inimigas",
+        "17": "A restauração de Israel"
     },
-    "2": {
-      "título": "",
-      "texto": "congregarei todas as nações e as farei descer ao vale de Josafá. E ali entrarei em juízo contra elas por causa do meu povo e da minha herança, Israel, a quem elas espalharam entre os povos, repartindo a minha terra entre si."
-    },
-    "3": {
-      "título": "",
-      "texto": "Lançaram sortes sobre o meu povo, e deram meninos em troca de prostitutas, e venderam meninas por vinho, que beberam."
-    },
-    "4": {
-      "título": "",
-      "texto": "O que vocês têm contra mim, Tiro, Sidom, e todas as regiões da Filístia? Estão querendo se vingar de mim? Se é isso que vocês querem, sem demora farei com que essa vingança caia sobre a cabeça de vocês."
-    },
-    "5": {
-      "título": "",
-      "texto": "Visto que vocês levaram a minha prata e o meu ouro, e puseram as minhas joias preciosas nos seus templos,"
-    },
-    "6": {
-      "título": "",
-      "texto": "e venderam os filhos de Judá e os filhos de Jerusalém aos filhos dos gregos, para afastá-los da sua terra,"
-    },
-    "7": {
-      "título": "",
-      "texto": "eis que eu os trarei desse lugar para onde vocês os venderam e farei com que a vingança caia sobre a própria cabeça de vocês."
-    },
-    "8": {
-      "título": "",
-      "texto": "Venderei os filhos e as filhas de vocês aos filhos de Judá, e estes os venderão aos sabeus, que são uma nação distante, porque o Senhor o disse."
-    },
-    "9": {
-      "título": "",
-      "texto": "— Proclamem isto"
-    },
-    "10": {
-      "título": "",
-      "texto": "Transformem as suas lâminas"
-    },
-    "11": {
-      "título": "",
-      "texto": "“Todos vocês, povos vizinhos,"
-    },
-    "12": {
-      "título": "",
-      "texto": "“Que todas as nações"
-    },
-    "13": {
-      "título": "",
-      "texto": "Peguem a foice"
-    },
-    "14": {
-      "título": "",
-      "texto": "“Multidões, multidões"
-    },
-    "15": {
-      "título": "",
-      "texto": "O sol e a lua se escurecem,"
-    },
-    "16": {
-      "título": "",
-      "texto": "O Senhor rugirá de Sião"
-    },
-    "17": {
-      "título": "A restauração de Israel",
-      "texto": "“Assim vocês saberão"
-    },
-    "18": {
-      "título": "",
-      "texto": "E acontecerá que, naquele dia,"
-    },
-    "19": {
-      "título": "",
-      "texto": "O Egito se tornará"
-    },
-    "20": {
-      "título": "",
-      "texto": "Judá, porém, será habitada"
-    },
-    "21": {
-      "título": "",
-      "texto": "Eu vingarei o sangue deles,"
+    "versiculos": {
+        "1": "— Eis que, naqueles dias e naquele tempo, em que mudarei a sorte de Judá e de Jerusalém,",
+        "2": "congregarei todas as nações e as farei descer ao vale de Josafá. E ali entrarei em juízo contra elas por causa do meu povo e da minha herança, Israel, a quem elas espalharam entre os povos, repartindo a minha terra entre si.",
+        "3": "Lançaram sortes sobre o meu povo, e deram meninos em troca de prostitutas, e venderam meninas por vinho, que beberam.",
+        "4": "O que vocês têm contra mim, Tiro, Sidom, e todas as regiões da Filístia? Estão querendo se vingar de mim? Se é isso que vocês querem, sem demora farei com que essa vingança caia sobre a cabeça de vocês.",
+        "5": "Visto que vocês levaram a minha prata e o meu ouro, e puseram as minhas joias preciosas nos seus templos,",
+        "6": "e venderam os filhos de Judá e os filhos de Jerusalém aos filhos dos gregos, para afastá-los da sua terra,",
+        "7": "eis que eu os trarei desse lugar para onde vocês os venderam e farei com que a vingança caia sobre a própria cabeça de vocês.",
+        "8": "Venderei os filhos e as filhas de vocês aos filhos de Judá, e estes os venderão aos sabeus, que são uma nação distante, porque o Senhor o disse.",
+        "9": "— Proclamem isto",
+        "10": "Transformem as suas lâminas",
+        "11": "“Todos vocês, povos vizinhos,",
+        "12": "“Que todas as nações",
+        "13": "Peguem a foice",
+        "14": "“Multidões, multidões",
+        "15": "O sol e a lua se escurecem,",
+        "16": "O Senhor rugirá de Sião",
+        "17": "“Assim vocês saberão",
+        "18": "E acontecerá que, naquele dia,",
+        "19": "O Egito se tornará",
+        "20": "Judá, porém, será habitada",
+        "21": "Eu vingarei o sangue deles,"
     }
-  }
 }

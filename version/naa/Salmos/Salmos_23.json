@@ -1,30 +1,15 @@
 {
-  "livro": "Salmos",
-  "capítulo": 23,
-  "versículos": {
-    "1": {
-      "título": "Deus, o nosso pastor",
-      "texto": "O Senhor é o meu pastor;"
+    "livro": "Salmos",
+    "capitulo": 23,
+    "titulos": {
+        "1": "Deus, o nosso pastor"
     },
-    "2": {
-      "título": "",
-      "texto": "Ele me faz repousar"
-    },
-    "3": {
-      "título": "",
-      "texto": "refrigera-me a alma."
-    },
-    "4": {
-      "título": "",
-      "texto": "Ainda que eu ande"
-    },
-    "5": {
-      "título": "",
-      "texto": "Preparas-me uma mesa"
-    },
-    "6": {
-      "título": "",
-      "texto": "Bondade e misericórdia"
+    "versiculos": {
+        "1": "O Senhor é o meu pastor;",
+        "2": "Ele me faz repousar",
+        "3": "refrigera-me a alma.",
+        "4": "Ainda que eu ande",
+        "5": "Preparas-me uma mesa",
+        "6": "Bondade e misericórdia"
     }
-  }
 }

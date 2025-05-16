@@ -1,102 +1,33 @@
 {
-  "livro": "Salmos",
-  "capítulo": 139,
-  "versículos": {
-    "1": {
-      "título": "Deus onisciente e onipotente",
-      "texto": "Senhor , tu me sondas"
+    "livro": "Salmos",
+    "capitulo": 139,
+    "titulos": {
+        "1": "Deus onisciente e onipotente"
     },
-    "2": {
-      "título": "",
-      "texto": "Sabes quando me sento"
-    },
-    "3": {
-      "título": "",
-      "texto": "Observas o meu andar"
-    },
-    "4": {
-      "título": "",
-      "texto": "A palavra ainda nem chegou"
-    },
-    "5": {
-      "título": "",
-      "texto": "Tu me cercas por todos os lados"
-    },
-    "6": {
-      "título": "",
-      "texto": "Tal conhecimento é maravilhoso"
-    },
-    "7": {
-      "título": "",
-      "texto": "Para onde me ausentarei"
-    },
-    "8": {
-      "título": "",
-      "texto": "Se subo aos céus, lá estás;"
-    },
-    "9": {
-      "título": "",
-      "texto": "se tomo as asas da alvorada"
-    },
-    "10": {
-      "título": "",
-      "texto": "ainda ali a tua mão"
-    },
-    "11": {
-      "título": "",
-      "texto": "Se eu digo: “As trevas,"
-    },
-    "12": {
-      "título": "",
-      "texto": "até as próprias trevas"
-    },
-    "13": {
-      "título": "",
-      "texto": "Pois tu formaste o meu interior,"
-    },
-    "14": {
-      "título": "",
-      "texto": "Graças te dou, visto que de modo"
-    },
-    "15": {
-      "título": "",
-      "texto": "Os meus ossos"
-    },
-    "16": {
-      "título": "",
-      "texto": "Os teus olhos viram"
-    },
-    "17": {
-      "título": "",
-      "texto": "Que preciosos para mim, ó Deus,"
-    },
-    "18": {
-      "título": "",
-      "texto": "Se os contasse, seriam mais"
-    },
-    "19": {
-      "título": "",
-      "texto": "Como eu gostaria, ó Deus,"
-    },
-    "20": {
-      "título": "",
-      "texto": "Eles se rebelam contra ti"
-    },
-    "21": {
-      "título": "",
-      "texto": "Acaso não odeio"
-    },
-    "22": {
-      "título": "",
-      "texto": "Eu os detesto"
-    },
-    "23": {
-      "título": "",
-      "texto": "Sonda-me, ó Deus,"
-    },
-    "24": {
-      "título": "",
-      "texto": "vê se há em mim"
+    "versiculos": {
+        "1": "Senhor , tu me sondas",
+        "2": "Sabes quando me sento",
+        "3": "Observas o meu andar",
+        "4": "A palavra ainda nem chegou",
+        "5": "Tu me cercas por todos os lados",
+        "6": "Tal conhecimento é maravilhoso",
+        "7": "Para onde me ausentarei",
+        "8": "Se subo aos céus, lá estás;",
+        "9": "se tomo as asas da alvorada",
+        "10": "ainda ali a tua mão",
+        "11": "Se eu digo: “As trevas,",
+        "12": "até as próprias trevas",
+        "13": "Pois tu formaste o meu interior,",
+        "14": "Graças te dou, visto que de modo",
+        "15": "Os meus ossos",
+        "16": "Os teus olhos viram",
+        "17": "Que preciosos para mim, ó Deus,",
+        "18": "Se os contasse, seriam mais",
+        "19": "Como eu gostaria, ó Deus,",
+        "20": "Eles se rebelam contra ti",
+        "21": "Acaso não odeio",
+        "22": "Eu os detesto",
+        "23": "Sonda-me, ó Deus,",
+        "24": "vê se há em mim"
     }
-  }
 }

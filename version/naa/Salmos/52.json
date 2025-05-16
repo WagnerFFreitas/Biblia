@@ -1,42 +1,18 @@
 {
-  "livro": "Salmos",
-  "capítulo": 52,
-  "versículos": {
-    "1": {
-      "título": "A justiça e a bondade de Deus",
-      "texto": "Por que você se gloria"
+    "livro": "Salmos",
+    "capitulo": 52,
+    "titulos": {
+        "1": "A justiça e a bondade de Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "Com a língua você trama"
-    },
-    "3": {
-      "título": "",
-      "texto": "Você ama o mal"
-    },
-    "4": {
-      "título": "",
-      "texto": "Você ama todas as palavras"
-    },
-    "5": {
-      "título": "",
-      "texto": "Também Deus o destruirá"
-    },
-    "6": {
-      "título": "",
-      "texto": "Os justos verão tudo isso,"
-    },
-    "7": {
-      "título": "",
-      "texto": "“Eis o homem"
-    },
-    "8": {
-      "título": "",
-      "texto": "Quanto a mim, porém,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Sempre te louvarei,"
+    "versiculos": {
+        "1": "Por que você se gloria",
+        "2": "Com a língua você trama",
+        "3": "Você ama o mal",
+        "4": "Você ama todas as palavras",
+        "5": "Também Deus o destruirá",
+        "6": "Os justos verão tudo isso,",
+        "7": "“Eis o homem",
+        "8": "Quanto a mim, porém,",
+        "9": "Sempre te louvarei,"
     }
-  }
 }

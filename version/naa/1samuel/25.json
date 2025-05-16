@@ -1,182 +1,57 @@
 {
-  "livro": "1 Samuel",
-  "capítulo": 25,
-  "versículos": {
-    "1": {
-      "título": "A morte de Samuel",
-      "texto": "Samuel morreu, e todos os filhos de Israel se juntaram e o prantearam. E o sepultaram na sua casa, em Ramá. Davi se levantou e foi ao deserto de Parã."
+    "livro": "1 Samuel",
+    "capitulo": 25,
+    "titulos": {
+        "1": "A morte de Samuel",
+        "2": "Davi e Nabal",
+        "18": "Abigail apazigua Davi",
+        "36": "A morte de Nabal",
+        "39": "Davi casa com Abigail"
     },
-    "2": {
-      "título": "Davi e Nabal",
-      "texto": "Havia um homem, em Maom, que tinha as suas propriedades no Carmelo. Era um homem muito rico: tinha três mil ovelhas e mil cabras. E ele estava tosquiando as suas ovelhas no Carmelo."
-    },
-    "3": {
-      "título": "",
-      "texto": "O nome desse homem era Nabal, e a mulher dele se chamava Abigail. Ela era inteligente e bonita, porém Nabal era grosseiro e mau em tudo o que fazia. Era descendente de Calebe."
-    },
-    "4": {
-      "título": "",
-      "texto": "Quando Davi, no deserto, ouviu dizer que Nabal tosquiava as suas ovelhas,"
-    },
-    "5": {
-      "título": "",
-      "texto": "enviou dez rapazes e lhes disse:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Digam àquele afortunado: “Paz para você, paz para a sua casa e paz para tudo o que é seu!"
-    },
-    "7": {
-      "título": "",
-      "texto": "Soube que você está fazendo a tosquia das suas ovelhas. Os seus pastores estiveram conosco e nós não os maltratamos e nada lhes faltou durante todo o tempo em que estiveram no Carmelo."
-    },
-    "8": {
-      "título": "",
-      "texto": "Pergunte aos seus moços, e eles lhe dirão. Portanto, que os meus rapazes encontrem favor em sua presença, porque chegamos em boa hora. Por favor, dê a estes seus servos e a Davi, seu filho, qualquer coisa que você tiver à mão.”"
-    },
-    "9": {
-      "título": "",
-      "texto": "Os rapazes de Davi foram e falaram a Nabal todas essas palavras em nome de Davi. Depois, ficaram esperando."
-    },
-    "10": {
-      "título": "",
-      "texto": "E Nabal deu a seguinte resposta aos servos de Davi:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Vocês acham que eu vou pegar o meu pão, a minha água e a carne dos animais que abati para os meus tosquiadores e dar a homens que eu não sei de onde vêm?"
-    },
-    "12": {
-      "título": "",
-      "texto": "Então os rapazes de Davi se puseram a caminho e voltaram. Ao chegarem, disseram a Davi tudo o que Nabal havia falado."
-    },
-    "13": {
-      "título": "",
-      "texto": "Então Davi disse aos seus homens:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Nesse meio-tempo, um dos moços de Nabal foi falar com Abigail, a mulher de Nabal, dizendo:"
-    },
-    "15": {
-      "título": "",
-      "texto": "No entanto, aqueles homens nos têm sido muito bons, e nunca fomos maltratados por eles e de nenhuma coisa sentimos falta em todos os dias de nosso trato com eles, quando estávamos no campo."
-    },
-    "16": {
-      "título": "",
-      "texto": "Eles eram como um muro ao nosso redor, tanto de dia como de noite, todos os dias que estivemos com eles apascentando as ovelhas."
-    },
-    "17": {
-      "título": "",
-      "texto": "E agora pense bem e veja o que pode fazer, porque o mal já está determinado contra o nosso senhor e contra toda a sua casa; ele é homem maligno, e não há quem consiga falar com ele."
-    },
-    "18": {
-      "título": "Abigail apazigua Davi",
-      "texto": "Então Abigail pegou, a toda pressa, duzentos pães, dois odres de vinho, cinco ovelhas preparadas, cinco medidas de trigo tostado, cem cachos de passas e duzentas pastas de figos, e pôs tudo sobre jumentos."
-    },
-    "19": {
-      "título": "",
-      "texto": "Então disse aos seus servos:"
-    },
-    "20": {
-      "título": "",
-      "texto": "Enquanto ela, cavalgando um jumento, descia, encoberta pelo monte, Davi e seus homens também desciam, e ela se encontrou com eles."
-    },
-    "21": {
-      "título": "",
-      "texto": "Ora, Davi tinha dito:"
-    },
-    "22": {
-      "título": "",
-      "texto": "Que Deus me castigue, se, até o amanhecer, eu não matar todos os do sexo masculino que estão com ele."
-    },
-    "23": {
-      "título": "",
-      "texto": "Quando Abigail viu Davi, desceu depressa do jumento e prostrou-se sobre o rosto diante de Davi, inclinando-se até o chão."
-    },
-    "24": {
-      "título": "",
-      "texto": "Lançou-se aos pés de Davi e disse:"
-    },
-    "25": {
-      "título": "",
-      "texto": "Que o meu senhor não se importe com aquele homem maligno, a saber, com Nabal, porque ele é o que significa o seu nome. Nabal é o seu nome, e a tolice o acompanha. Eu, porém, esta sua serva, não vi os rapazes que o meu senhor mandou."
-    },
-    "26": {
-      "título": "",
-      "texto": "Agora, meu senhor, tão certo como vive o Senhor Deus e tão certo como vive a sua alma, foi o Senhor Deus quem o impediu de derramar sangue e de fazer justiça com as próprias mãos. Que os seus inimigos e os que procuram fazer mal ao meu senhor sejam como Nabal."
-    },
-    "27": {
-      "título": "",
-      "texto": "Este é o presente que esta sua serva trouxe ao meu senhor; que ele seja dado aos rapazes que seguem o meu senhor."
-    },
-    "28": {
-      "título": "",
-      "texto": "Perdoe a transgressão desta sua serva. Pois o Senhor Deus certamente firmará a casa de meu senhor, porque ele está travando as batalhas do Senhor Deus. E que não se ache mal em meu senhor durante toda a sua vida."
-    },
-    "29": {
-      "título": "",
-      "texto": "E, se algum homem se levantar para o perseguir e tirar-lhe a vida, a vida de meu senhor será atada no feixe dos que vivem com o Senhor , seu Deus. Porém a vida de seus inimigos, este a lançará fora como se a atirasse da cavidade de uma funda."
-    },
-    "30": {
-      "título": "",
-      "texto": "E, quando o Senhor Deus tiver feito a meu senhor todo o bem que falou a seu respeito e o tiver colocado como príncipe sobre Israel,"
-    },
-    "31": {
-      "título": "",
-      "texto": "então meu senhor não terá motivo de pesar ou de remorso por ter derramado sangue inocente e por ter se vingado com as próprias mãos. E, quando o Senhor Deus tiver feito o bem a meu senhor, então lembre-se desta sua serva."
-    },
-    "32": {
-      "título": "",
-      "texto": "Então Davi disse a Abigail:"
-    },
-    "33": {
-      "título": "",
-      "texto": "Bendita seja a sua prudência, e bendita seja você mesma, que hoje me impediu de derramar sangue e de me vingar com as minhas próprias mãos."
-    },
-    "34": {
-      "título": "",
-      "texto": "Porque, tão certo como vive o Senhor , Deus de Israel, que me impediu de fazer mal a você, se você não tivesse se apressado e não tivesse vindo ao meu encontro, não teria ficado a Nabal, até o amanhecer, nem um sequer do sexo masculino."
-    },
-    "35": {
-      "título": "",
-      "texto": "Então Davi recebeu da mão de Abigail o que esta lhe havia trazido e lhe disse:"
-    },
-    "36": {
-      "título": "A morte de Nabal",
-      "texto": "Abigail voltou para junto de Nabal. Eis que ele fazia em casa um banquete, como banquete de rei. O seu coração estava alegre, e ele, bastante embriagado. Por isso ela não lhe contou absolutamente nada, até o amanhecer."
-    },
-    "37": {
-      "título": "",
-      "texto": "Pela manhã, quando Nabal já estava livre do vinho, sua mulher lhe contou tudo. Então o coração dele amorteceu dentro do peito, e ele ficou como uma pedra."
-    },
-    "38": {
-      "título": "",
-      "texto": "Passados uns dez dias, o Senhor feriu Nabal, e ele morreu."
-    },
-    "39": {
-      "título": "Davi casa com Abigail",
-      "texto": "Quando Davi soube que Nabal havia morrido, disse:"
-    },
-    "40": {
-      "título": "",
-      "texto": "Os servos de Davi foram até Abigail, no Carmelo, e lhe disseram:"
-    },
-    "41": {
-      "título": "",
-      "texto": "Então ela se levantou, se inclinou com o rosto em terra e disse:"
-    },
-    "42": {
-      "título": "",
-      "texto": "Abigail se dispôs imediatamente e montou o seu jumento. E ela, acompanhada pelas cinco moças que a serviam, seguiu os mensageiros de Davi, que a recebeu por mulher."
-    },
-    "43": {
-      "título": "",
-      "texto": "Davi também havia tomado por mulher Ainoã de Jezreel, e ambas foram suas mulheres."
-    },
-    "44": {
-      "título": "",
-      "texto": "Saul tinha dado sua filha Mical, mulher de Davi, a Palti, filho de Laís, que era de Galim."
+    "versiculos": {
+        "1": "Samuel morreu, e todos os filhos de Israel se juntaram e o prantearam. E o sepultaram na sua casa, em Ramá. Davi se levantou e foi ao deserto de Parã.",
+        "2": "Havia um homem, em Maom, que tinha as suas propriedades no Carmelo. Era um homem muito rico: tinha três mil ovelhas e mil cabras. E ele estava tosquiando as suas ovelhas no Carmelo.",
+        "3": "O nome desse homem era Nabal, e a mulher dele se chamava Abigail. Ela era inteligente e bonita, porém Nabal era grosseiro e mau em tudo o que fazia. Era descendente de Calebe.",
+        "4": "Quando Davi, no deserto, ouviu dizer que Nabal tosquiava as suas ovelhas,",
+        "5": "enviou dez rapazes e lhes disse:",
+        "6": "Digam àquele afortunado: “Paz para você, paz para a sua casa e paz para tudo o que é seu!",
+        "7": "Soube que você está fazendo a tosquia das suas ovelhas. Os seus pastores estiveram conosco e nós não os maltratamos e nada lhes faltou durante todo o tempo em que estiveram no Carmelo.",
+        "8": "Pergunte aos seus moços, e eles lhe dirão. Portanto, que os meus rapazes encontrem favor em sua presença, porque chegamos em boa hora. Por favor, dê a estes seus servos e a Davi, seu filho, qualquer coisa que você tiver à mão.”",
+        "9": "Os rapazes de Davi foram e falaram a Nabal todas essas palavras em nome de Davi. Depois, ficaram esperando.",
+        "10": "E Nabal deu a seguinte resposta aos servos de Davi:",
+        "11": "Vocês acham que eu vou pegar o meu pão, a minha água e a carne dos animais que abati para os meus tosquiadores e dar a homens que eu não sei de onde vêm?",
+        "12": "Então os rapazes de Davi se puseram a caminho e voltaram. Ao chegarem, disseram a Davi tudo o que Nabal havia falado.",
+        "13": "Então Davi disse aos seus homens:",
+        "14": "Nesse meio-tempo, um dos moços de Nabal foi falar com Abigail, a mulher de Nabal, dizendo:",
+        "15": "No entanto, aqueles homens nos têm sido muito bons, e nunca fomos maltratados por eles e de nenhuma coisa sentimos falta em todos os dias de nosso trato com eles, quando estávamos no campo.",
+        "16": "Eles eram como um muro ao nosso redor, tanto de dia como de noite, todos os dias que estivemos com eles apascentando as ovelhas.",
+        "17": "E agora pense bem e veja o que pode fazer, porque o mal já está determinado contra o nosso senhor e contra toda a sua casa; ele é homem maligno, e não há quem consiga falar com ele.",
+        "18": "Então Abigail pegou, a toda pressa, duzentos pães, dois odres de vinho, cinco ovelhas preparadas, cinco medidas de trigo tostado, cem cachos de passas e duzentas pastas de figos, e pôs tudo sobre jumentos.",
+        "19": "Então disse aos seus servos:",
+        "20": "Enquanto ela, cavalgando um jumento, descia, encoberta pelo monte, Davi e seus homens também desciam, e ela se encontrou com eles.",
+        "21": "Ora, Davi tinha dito:",
+        "22": "Que Deus me castigue, se, até o amanhecer, eu não matar todos os do sexo masculino que estão com ele.",
+        "23": "Quando Abigail viu Davi, desceu depressa do jumento e prostrou-se sobre o rosto diante de Davi, inclinando-se até o chão.",
+        "24": "Lançou-se aos pés de Davi e disse:",
+        "25": "Que o meu senhor não se importe com aquele homem maligno, a saber, com Nabal, porque ele é o que significa o seu nome. Nabal é o seu nome, e a tolice o acompanha. Eu, porém, esta sua serva, não vi os rapazes que o meu senhor mandou.",
+        "26": "Agora, meu senhor, tão certo como vive o Senhor Deus e tão certo como vive a sua alma, foi o Senhor Deus quem o impediu de derramar sangue e de fazer justiça com as próprias mãos. Que os seus inimigos e os que procuram fazer mal ao meu senhor sejam como Nabal.",
+        "27": "Este é o presente que esta sua serva trouxe ao meu senhor; que ele seja dado aos rapazes que seguem o meu senhor.",
+        "28": "Perdoe a transgressão desta sua serva. Pois o Senhor Deus certamente firmará a casa de meu senhor, porque ele está travando as batalhas do Senhor Deus. E que não se ache mal em meu senhor durante toda a sua vida.",
+        "29": "E, se algum homem se levantar para o perseguir e tirar-lhe a vida, a vida de meu senhor será atada no feixe dos que vivem com o Senhor , seu Deus. Porém a vida de seus inimigos, este a lançará fora como se a atirasse da cavidade de uma funda.",
+        "30": "E, quando o Senhor Deus tiver feito a meu senhor todo o bem que falou a seu respeito e o tiver colocado como príncipe sobre Israel,",
+        "31": "então meu senhor não terá motivo de pesar ou de remorso por ter derramado sangue inocente e por ter se vingado com as próprias mãos. E, quando o Senhor Deus tiver feito o bem a meu senhor, então lembre-se desta sua serva.",
+        "32": "Então Davi disse a Abigail:",
+        "33": "Bendita seja a sua prudência, e bendita seja você mesma, que hoje me impediu de derramar sangue e de me vingar com as minhas próprias mãos.",
+        "34": "Porque, tão certo como vive o Senhor , Deus de Israel, que me impediu de fazer mal a você, se você não tivesse se apressado e não tivesse vindo ao meu encontro, não teria ficado a Nabal, até o amanhecer, nem um sequer do sexo masculino.",
+        "35": "Então Davi recebeu da mão de Abigail o que esta lhe havia trazido e lhe disse:",
+        "36": "Abigail voltou para junto de Nabal. Eis que ele fazia em casa um banquete, como banquete de rei. O seu coração estava alegre, e ele, bastante embriagado. Por isso ela não lhe contou absolutamente nada, até o amanhecer.",
+        "37": "Pela manhã, quando Nabal já estava livre do vinho, sua mulher lhe contou tudo. Então o coração dele amorteceu dentro do peito, e ele ficou como uma pedra.",
+        "38": "Passados uns dez dias, o Senhor feriu Nabal, e ele morreu.",
+        "39": "Quando Davi soube que Nabal havia morrido, disse:",
+        "40": "Os servos de Davi foram até Abigail, no Carmelo, e lhe disseram:",
+        "41": "Então ela se levantou, se inclinou com o rosto em terra e disse:",
+        "42": "Abigail se dispôs imediatamente e montou o seu jumento. E ela, acompanhada pelas cinco moças que a serviam, seguiu os mensageiros de Davi, que a recebeu por mulher.",
+        "43": "Davi também havia tomado por mulher Ainoã de Jezreel, e ambas foram suas mulheres.",
+        "44": "Saul tinha dado sua filha Mical, mulher de Davi, a Palti, filho de Laís, que era de Galim."
     }
-  }
 }

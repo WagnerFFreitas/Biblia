@@ -1,142 +1,43 @@
 {
-  "livro": "Gênesis",
-  "capítulo": 44,
-  "versículos": {
-    "1": {
-      "título": "O copo de José",
-      "texto": "José deu esta ordem ao administrador da sua casa:"
+    "livro": "Gênesis",
+    "capitulo": 44,
+    "titulos": {
+        "1": "O copo de José"
     },
-    "2": {
-      "título": "",
-      "texto": "E coloque o meu copo de prata na boca do saco de mantimento do mais novo, junto com o dinheiro do seu cereal."
-    },
-    "3": {
-      "título": "",
-      "texto": "De manhã, quando já estava claro, os homens partiram, eles com os seus jumentos."
-    },
-    "4": {
-      "título": "",
-      "texto": "Saíram da cidade e, antes que pudessem ter se distanciado, José disse ao administrador de sua casa:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Não é este o copo em que bebe o meu senhor e que ele usa para fazer as suas adivinhações? Vocês fizeram algo muito errado.”"
-    },
-    "6": {
-      "título": "",
-      "texto": "O administrador os alcançou e lhes falou essas palavras."
-    },
-    "7": {
-      "título": "",
-      "texto": "Então eles responderam:"
-    },
-    "8": {
-      "título": "",
-      "texto": "O dinheiro que achamos na boca dos sacos de mantimento nós trouxemos de volta da terra de Canaã; como, então, iríamos roubar prata ou ouro da casa do seu senhor?"
-    },
-    "9": {
-      "título": "",
-      "texto": "Se algum de nós tiver esse copo, será morto; e nós ainda seremos escravos do meu senhor."
-    },
-    "10": {
-      "título": "",
-      "texto": "O administrador respondeu:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Eles se apressaram; cada um colocou o seu saco de mantimento no chão e o abriu."
-    },
-    "12": {
-      "título": "",
-      "texto": "O administrador os examinou, começando do mais velho e acabando no mais novo; e o copo foi encontrado no saco de mantimento de Benjamim."
-    },
-    "13": {
-      "título": "",
-      "texto": "Então eles rasgaram as suas roupas; cada um carregou de novo o seu jumento, e eles voltaram para a cidade."
-    },
-    "14": {
-      "título": "",
-      "texto": "Quando Judá e seus irmãos chegaram à casa de José, este ainda estava ali. E prostraram-se em terra diante dele."
-    },
-    "15": {
-      "título": "",
-      "texto": "José lhes perguntou:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Então Judá respondeu:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Mas José disse:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Então Judá se aproximou dele e disse:"
-    },
-    "19": {
-      "título": "",
-      "texto": "Meu senhor perguntou a seus servos: “Vocês têm pai ou mais algum irmão?”"
-    },
-    "20": {
-      "título": "",
-      "texto": "E respondemos a meu senhor: “Temos um pai já velho e um filho da sua velhice, o mais novo, cujo irmão é morto; e só ele ficou de sua mãe, e seu pai o ama.”"
-    },
-    "21": {
-      "título": "",
-      "texto": "Então o senhor disse a estes seus servos: “Tragam o jovem, para que eu o veja.”"
-    },
-    "22": {
-      "título": "",
-      "texto": "Respondemos ao meu senhor: “O jovem não pode deixar o pai; se deixar o pai, este morrerá.”"
-    },
-    "23": {
-      "título": "",
-      "texto": "Então meu senhor disse a estes seus servos: “Se o irmão mais novo não vier com vocês, nunca mais vocês verão o meu rosto.”"
-    },
-    "24": {
-      "título": "",
-      "texto": "— Quando voltamos à casa de meu pai, que é seu servo, e repetimos a ele as palavras de meu senhor,"
-    },
-    "25": {
-      "título": "",
-      "texto": "nosso pai disse: “Voltem e comprem um pouco de mantimento.”"
-    },
-    "26": {
-      "título": "",
-      "texto": "Nós respondemos: “Não podemos ir para lá. Mas, se o nosso irmão mais moço for conosco, iremos. Porque não podemos ver a face do homem, se este nosso irmão mais moço não estiver conosco.”"
-    },
-    "27": {
-      "título": "",
-      "texto": "Então nos disse o seu servo, nosso pai: “Vocês sabem que a minha mulher me deu dois filhos."
-    },
-    "28": {
-      "título": "",
-      "texto": "Um se ausentou de mim, e eu disse: ‘Certamente foi despedaçado, e até agora não mais o vi.’"
-    },
-    "29": {
-      "título": "",
-      "texto": "Se agora vocês me tirarem também este da minha presença, e lhe acontecer algum desastre, farão descer os meus cabelos brancos com tristeza à sepultura.”"
-    },
-    "30": {
-      "título": "",
-      "texto": "— Agora, pois, se eu voltar para junto de meu pai, seu servo, sem que o jovem vá conosco, visto que a alma de meu pai está ligada com a alma dele,"
-    },
-    "31": {
-      "título": "",
-      "texto": "vendo ele que o jovem não está conosco, morrerá; e estes seus servos farão descer os cabelos brancos de nosso pai, seu servo, com tristeza à sepultura."
-    },
-    "32": {
-      "título": "",
-      "texto": "Porque este seu servo ficou responsável por este jovem diante de meu pai, dizendo: “Se eu não o trouxer de volta, serei culpado para com o meu pai pelo resto da minha vida.”"
-    },
-    "33": {
-      "título": "",
-      "texto": "Agora, pois, que este seu servo fique em lugar do jovem como escravo de meu senhor, e que o jovem volte com os seus irmãos."
-    },
-    "34": {
-      "título": "",
-      "texto": "Porque como poderei voltar a meu pai, se o jovem não for comigo? Eu não poderia ver esse mal se abatendo sobre o meu pai."
+    "versiculos": {
+        "1": "José deu esta ordem ao administrador da sua casa:",
+        "2": "E coloque o meu copo de prata na boca do saco de mantimento do mais novo, junto com o dinheiro do seu cereal.",
+        "3": "De manhã, quando já estava claro, os homens partiram, eles com os seus jumentos.",
+        "4": "Saíram da cidade e, antes que pudessem ter se distanciado, José disse ao administrador de sua casa:",
+        "5": "Não é este o copo em que bebe o meu senhor e que ele usa para fazer as suas adivinhações? Vocês fizeram algo muito errado.”",
+        "6": "O administrador os alcançou e lhes falou essas palavras.",
+        "7": "Então eles responderam:",
+        "8": "O dinheiro que achamos na boca dos sacos de mantimento nós trouxemos de volta da terra de Canaã; como, então, iríamos roubar prata ou ouro da casa do seu senhor?",
+        "9": "Se algum de nós tiver esse copo, será morto; e nós ainda seremos escravos do meu senhor.",
+        "10": "O administrador respondeu:",
+        "11": "Eles se apressaram; cada um colocou o seu saco de mantimento no chão e o abriu.",
+        "12": "O administrador os examinou, começando do mais velho e acabando no mais novo; e o copo foi encontrado no saco de mantimento de Benjamim.",
+        "13": "Então eles rasgaram as suas roupas; cada um carregou de novo o seu jumento, e eles voltaram para a cidade.",
+        "14": "Quando Judá e seus irmãos chegaram à casa de José, este ainda estava ali. E prostraram-se em terra diante dele.",
+        "15": "José lhes perguntou:",
+        "16": "Então Judá respondeu:",
+        "17": "Mas José disse:",
+        "18": "Então Judá se aproximou dele e disse:",
+        "19": "Meu senhor perguntou a seus servos: “Vocês têm pai ou mais algum irmão?”",
+        "20": "E respondemos a meu senhor: “Temos um pai já velho e um filho da sua velhice, o mais novo, cujo irmão é morto; e só ele ficou de sua mãe, e seu pai o ama.”",
+        "21": "Então o senhor disse a estes seus servos: “Tragam o jovem, para que eu o veja.”",
+        "22": "Respondemos ao meu senhor: “O jovem não pode deixar o pai; se deixar o pai, este morrerá.”",
+        "23": "Então meu senhor disse a estes seus servos: “Se o irmão mais novo não vier com vocês, nunca mais vocês verão o meu rosto.”",
+        "24": "— Quando voltamos à casa de meu pai, que é seu servo, e repetimos a ele as palavras de meu senhor,",
+        "25": "nosso pai disse: “Voltem e comprem um pouco de mantimento.”",
+        "26": "Nós respondemos: “Não podemos ir para lá. Mas, se o nosso irmão mais moço for conosco, iremos. Porque não podemos ver a face do homem, se este nosso irmão mais moço não estiver conosco.”",
+        "27": "Então nos disse o seu servo, nosso pai: “Vocês sabem que a minha mulher me deu dois filhos.",
+        "28": "Um se ausentou de mim, e eu disse: ‘Certamente foi despedaçado, e até agora não mais o vi.’",
+        "29": "Se agora vocês me tirarem também este da minha presença, e lhe acontecer algum desastre, farão descer os meus cabelos brancos com tristeza à sepultura.”",
+        "30": "— Agora, pois, se eu voltar para junto de meu pai, seu servo, sem que o jovem vá conosco, visto que a alma de meu pai está ligada com a alma dele,",
+        "31": "vendo ele que o jovem não está conosco, morrerá; e estes seus servos farão descer os cabelos brancos de nosso pai, seu servo, com tristeza à sepultura.",
+        "32": "Porque este seu servo ficou responsável por este jovem diante de meu pai, dizendo: “Se eu não o trouxer de volta, serei culpado para com o meu pai pelo resto da minha vida.”",
+        "33": "Agora, pois, que este seu servo fique em lugar do jovem como escravo de meu senhor, e que o jovem volte com os seus irmãos.",
+        "34": "Porque como poderei voltar a meu pai, se o jovem não for comigo? Eu não poderia ver esse mal se abatendo sobre o meu pai."
     }
-  }
 }

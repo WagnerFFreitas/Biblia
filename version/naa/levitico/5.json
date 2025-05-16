@@ -1,82 +1,30 @@
 {
-  "livro": "Levítico",
-  "capítulo": 5,
-  "versículos": {
-    "1": {
-      "título": "Casos em que é preciso oferecer sacrifício",
-      "texto": "— Se alguém pecar porque, sendo testemunha de um fato que viu ou ficou sabendo, não o quis revelar, mesmo sob ameaça de maldição, essa pessoa levará a sua iniquidade."
+    "livro": "Levítico",
+    "capitulo": 5,
+    "titulos": {
+        "1": "Casos em que é preciso oferecer sacrifício",
+        "14": "O sacrifício pelo sacrilégio",
+        "17": "O sacrifício pelos pecados involuntários"
     },
-    "2": {
-      "título": "",
-      "texto": "Se alguém tocar em alguma coisa impura, como o cadáver de um animal impuro, seja de um animal selvagem, de um animal doméstico ou de um animal que rasteja pelo chão, ainda que não se dê conta disso, e se tornar impuro, então será culpado."
-    },
-    "3": {
-      "título": "",
-      "texto": "Se tocar a impureza de uma pessoa, seja qual for a impureza com que se faça impuro, e não se der conta disso, mas ficar sabendo depois, será culpado."
-    },
-    "4": {
-      "título": "",
-      "texto": "Se alguém jurar de forma precipitada, dizendo que vai fazer alguma coisa má ou boa, seja o que for que alguém pronuncie de forma precipitada com juramento, e ele não se der conta disso, mas ficar sabendo depois, culpado será numa destas coisas."
-    },
-    "5": {
-      "título": "",
-      "texto": "Quem for culpado numa destas coisas, confessará aquilo em que pecou."
-    },
-    "6": {
-      "título": "",
-      "texto": "Como sua oferta pela culpa, pelo pecado que cometeu, essa pessoa trará ao Senhor , do gado miúdo, uma cordeira ou uma cabrita como oferta pelo pecado; assim, o sacerdote, por essa pessoa, fará expiação do seu pecado."
-    },
-    "7": {
-      "título": "",
-      "texto": "— Se as suas posses não lhe permitirem trazer uma cordeira, trará ao Senhor , como oferta pela culpa, pelo pecado que cometeu, duas rolinhas ou dois pombinhos: um como oferta pelo pecado, e o outro como holocausto."
-    },
-    "8": {
-      "título": "",
-      "texto": "Entregará as duas aves ao sacerdote, que primeiro oferecerá a ave que é oferta pelo pecado. O sacerdote destroncará a cabeça da ave, sem a separar do pescoço."
-    },
-    "9": {
-      "título": "",
-      "texto": "Do sangue da oferta pelo pecado aspergirá sobre a parede do altar, e o restante do sangue fará correr na base do altar; é oferta pelo pecado."
-    },
-    "10": {
-      "título": "",
-      "texto": "E da outra ave fará um holocausto, conforme o estabelecido. Assim, o sacerdote, por essa pessoa, fará oferta pelo pecado que ela cometeu, e o pecado lhe será perdoado."
-    },
-    "11": {
-      "título": "",
-      "texto": "— Porém, se as suas posses não lhe permitirem trazer duas rolinhas ou dois pombinhos, então essa pessoa que pecou trará, por sua oferta, dois litros da melhor farinha como oferta pelo pecado; não derramará azeite sobre a farinha, nem lhe porá em cima incenso, pois é oferta pelo pecado."
-    },
-    "12": {
-      "título": "",
-      "texto": "Entregará a oferta ao sacerdote, e o sacerdote pegará um punhado da farinha como porção memorial e a queimará sobre o altar, em cima das ofertas queimadas ao Senhor ; é oferta pelo pecado."
-    },
-    "13": {
-      "título": "",
-      "texto": "Assim, o sacerdote, por essa pessoa, fará oferta pelo pecado que cometeu em alguma destas coisas, e o pecado lhe será perdoado. O restante da farinha será do sacerdote, como no caso da oferta de cereais."
-    },
-    "14": {
-      "título": "O sacrifício pelo sacrilégio",
-      "texto": "O Senhor disse a Moisés:"
-    },
-    "15": {
-      "título": "",
-      "texto": "— Se alguém cometer ofensa e pecar de forma involuntária nas coisas sagradas do Senhor , trará ao Senhor , por oferta, do rebanho, um carneiro sem defeito, conforme avaliação em prata, segundo o peso padrão do santuário, como oferta pela culpa."
-    },
-    "16": {
-      "título": "",
-      "texto": "Assim, restituirá o que tirou das coisas sagradas, e ainda acrescentará o seu quinto, e o dará ao sacerdote; assim, o sacerdote, com o carneiro da oferta pela culpa, fará expiação por essa pessoa, e o pecado lhe será perdoado."
-    },
-    "17": {
-      "título": "O sacrifício pelos pecados involuntários",
-      "texto": "— Se alguma pessoa pecar e fizer contra algum dos mandamentos do Senhor aquilo que não se deve fazer, ainda que não tenha se dado conta disso, será culpada mesmo assim e levará a sua iniquidade."
-    },
-    "18": {
-      "título": "",
-      "texto": "E do rebanho trará ao sacerdote um carneiro sem defeito, conforme avaliação feita, para oferta pela culpa, e o sacerdote, por essa pessoa, fará expiação no que se refere ao erro que, de forma involuntária, cometeu, e lhe será perdoado."
-    },
-    "19": {
-      "título": "",
-      "texto": "É oferta pela culpa, pois certamente se tornou culpada diante do Senhor ."
+    "versiculos": {
+        "1": "— Se alguém pecar porque, sendo testemunha de um fato que viu ou ficou sabendo, não o quis revelar, mesmo sob ameaça de maldição, essa pessoa levará a sua iniquidade.",
+        "2": "Se alguém tocar em alguma coisa impura, como o cadáver de um animal impuro, seja de um animal selvagem, de um animal doméstico ou de um animal que rasteja pelo chão, ainda que não se dê conta disso, e se tornar impuro, então será culpado.",
+        "3": "Se tocar a impureza de uma pessoa, seja qual for a impureza com que se faça impuro, e não se der conta disso, mas ficar sabendo depois, será culpado.",
+        "4": "Se alguém jurar de forma precipitada, dizendo que vai fazer alguma coisa má ou boa, seja o que for que alguém pronuncie de forma precipitada com juramento, e ele não se der conta disso, mas ficar sabendo depois, culpado será numa destas coisas.",
+        "5": "Quem for culpado numa destas coisas, confessará aquilo em que pecou.",
+        "6": "Como sua oferta pela culpa, pelo pecado que cometeu, essa pessoa trará ao Senhor , do gado miúdo, uma cordeira ou uma cabrita como oferta pelo pecado; assim, o sacerdote, por essa pessoa, fará expiação do seu pecado.",
+        "7": "— Se as suas posses não lhe permitirem trazer uma cordeira, trará ao Senhor , como oferta pela culpa, pelo pecado que cometeu, duas rolinhas ou dois pombinhos: um como oferta pelo pecado, e o outro como holocausto.",
+        "8": "Entregará as duas aves ao sacerdote, que primeiro oferecerá a ave que é oferta pelo pecado. O sacerdote destroncará a cabeça da ave, sem a separar do pescoço.",
+        "9": "Do sangue da oferta pelo pecado aspergirá sobre a parede do altar, e o restante do sangue fará correr na base do altar; é oferta pelo pecado.",
+        "10": "E da outra ave fará um holocausto, conforme o estabelecido. Assim, o sacerdote, por essa pessoa, fará oferta pelo pecado que ela cometeu, e o pecado lhe será perdoado.",
+        "11": "— Porém, se as suas posses não lhe permitirem trazer duas rolinhas ou dois pombinhos, então essa pessoa que pecou trará, por sua oferta, dois litros da melhor farinha como oferta pelo pecado; não derramará azeite sobre a farinha, nem lhe porá em cima incenso, pois é oferta pelo pecado.",
+        "12": "Entregará a oferta ao sacerdote, e o sacerdote pegará um punhado da farinha como porção memorial e a queimará sobre o altar, em cima das ofertas queimadas ao Senhor ; é oferta pelo pecado.",
+        "13": "Assim, o sacerdote, por essa pessoa, fará oferta pelo pecado que cometeu em alguma destas coisas, e o pecado lhe será perdoado. O restante da farinha será do sacerdote, como no caso da oferta de cereais.",
+        "14": "O Senhor disse a Moisés:",
+        "15": "— Se alguém cometer ofensa e pecar de forma involuntária nas coisas sagradas do Senhor , trará ao Senhor , por oferta, do rebanho, um carneiro sem defeito, conforme avaliação em prata, segundo o peso padrão do santuário, como oferta pela culpa.",
+        "16": "Assim, restituirá o que tirou das coisas sagradas, e ainda acrescentará o seu quinto, e o dará ao sacerdote; assim, o sacerdote, com o carneiro da oferta pela culpa, fará expiação por essa pessoa, e o pecado lhe será perdoado.",
+        "17": "— Se alguma pessoa pecar e fizer contra algum dos mandamentos do Senhor aquilo que não se deve fazer, ainda que não tenha se dado conta disso, será culpada mesmo assim e levará a sua iniquidade.",
+        "18": "E do rebanho trará ao sacerdote um carneiro sem defeito, conforme avaliação feita, para oferta pela culpa, e o sacerdote, por essa pessoa, fará expiação no que se refere ao erro que, de forma involuntária, cometeu, e lhe será perdoado.",
+        "19": "É oferta pela culpa, pois certamente se tornou culpada diante do Senhor ."
     }
-  }
 }

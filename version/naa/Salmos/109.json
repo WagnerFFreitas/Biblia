@@ -1,130 +1,40 @@
 {
-  "livro": "Salmos",
-  "capítulo": 109,
-  "versículos": {
-    "1": {
-      "título": "Oração de um homem perseguido",
-      "texto": "Ó Deus do meu louvor,"
+    "livro": "Salmos",
+    "capitulo": 109,
+    "titulos": {
+        "1": "Oração de um homem perseguido"
     },
-    "2": {
-      "título": "",
-      "texto": "Pois contra mim se abriram"
-    },
-    "3": {
-      "título": "",
-      "texto": "Cercam-me com palavras odiosas"
-    },
-    "4": {
-      "título": "",
-      "texto": "Em paga do meu amor,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Pagaram-me o bem com o mal;"
-    },
-    "6": {
-      "título": "",
-      "texto": "Suscita contra ele um ímpio,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Quando o julgarem,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Sejam poucos os seus dias,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Fiquem órfãos os seus filhos,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Andem errantes os seus filhos"
-    },
-    "11": {
-      "título": "",
-      "texto": "Que um credor se aposse de tudo"
-    },
-    "12": {
-      "título": "",
-      "texto": "Ninguém tenha"
-    },
-    "13": {
-      "título": "",
-      "texto": "Desapareça a sua posteridade,"
-    },
-    "14": {
-      "título": "",
-      "texto": "Que a iniquidade"
-    },
-    "15": {
-      "título": "",
-      "texto": "Permaneçam"
-    },
-    "16": {
-      "título": "",
-      "texto": "Porque ele não se lembrou"
-    },
-    "17": {
-      "título": "",
-      "texto": "Amou a maldição:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Vestiu-se de maldição"
-    },
-    "19": {
-      "título": "",
-      "texto": "Seja para ele"
-    },
-    "20": {
-      "título": "",
-      "texto": "Que esta seja,"
-    },
-    "21": {
-      "título": "",
-      "texto": "Mas tu, ó Deus , meu Senhor,"
-    },
-    "22": {
-      "título": "",
-      "texto": "Porque sou pobre e necessitado"
-    },
-    "23": {
-      "título": "",
-      "texto": "Vou passando,"
-    },
-    "24": {
-      "título": "",
-      "texto": "De tanto jejuar,"
-    },
-    "25": {
-      "título": "",
-      "texto": "Tornei-me para eles"
-    },
-    "26": {
-      "título": "",
-      "texto": "Socorre-me, Senhor , meu Deus!"
-    },
-    "27": {
-      "título": "",
-      "texto": "Para que saibam que isso vem"
-    },
-    "28": {
-      "título": "",
-      "texto": "Amaldiçoem eles,"
-    },
-    "29": {
-      "título": "",
-      "texto": "Cubram-se de vexame"
-    },
-    "30": {
-      "título": "",
-      "texto": "Muitas graças darei ao Senhor"
-    },
-    "31": {
-      "título": "",
-      "texto": "porque ele se põe"
+    "versiculos": {
+        "1": "Ó Deus do meu louvor,",
+        "2": "Pois contra mim se abriram",
+        "3": "Cercam-me com palavras odiosas",
+        "4": "Em paga do meu amor,",
+        "5": "Pagaram-me o bem com o mal;",
+        "6": "Suscita contra ele um ímpio,",
+        "7": "Quando o julgarem,",
+        "8": "Sejam poucos os seus dias,",
+        "9": "Fiquem órfãos os seus filhos,",
+        "10": "Andem errantes os seus filhos",
+        "11": "Que um credor se aposse de tudo",
+        "12": "Ninguém tenha",
+        "13": "Desapareça a sua posteridade,",
+        "14": "Que a iniquidade",
+        "15": "Permaneçam",
+        "16": "Porque ele não se lembrou",
+        "17": "Amou a maldição:",
+        "18": "Vestiu-se de maldição",
+        "19": "Seja para ele",
+        "20": "Que esta seja,",
+        "21": "Mas tu, ó Deus , meu Senhor,",
+        "22": "Porque sou pobre e necessitado",
+        "23": "Vou passando,",
+        "24": "De tanto jejuar,",
+        "25": "Tornei-me para eles",
+        "26": "Socorre-me, Senhor , meu Deus!",
+        "27": "Para que saibam que isso vem",
+        "28": "Amaldiçoem eles,",
+        "29": "Cubram-se de vexame",
+        "30": "Muitas graças darei ao Senhor",
+        "31": "porque ele se põe"
     }
-  }
 }

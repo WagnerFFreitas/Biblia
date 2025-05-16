@@ -1,90 +1,36 @@
 {
-  "livro": "Apocalipse",
-  "capítulo": 16,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Ouvi uma voz forte, vinda do santuário, dizendo aos sete anjos:"
+    "livro": "Apocalipse",
+    "capitulo": 16,
+    "titulos": {
+        "2": "O primeiro flagelo",
+        "3": "O segundo flagelo",
+        "4": "O terceiro flagelo",
+        "8": "O quarto flagelo",
+        "10": "O quinto flagelo",
+        "12": "O sexto flagelo",
+        "17": "O sétimo flagelo"
     },
-    "2": {
-      "título": "O primeiro flagelo",
-      "texto": "O primeiro anjo foi e derramou a sua taça sobre a terra, e apareceram úlceras malignas e dolorosas nas pessoas que tinham a marca da besta e que adoravam a sua imagem."
-    },
-    "3": {
-      "título": "O segundo flagelo",
-      "texto": "O segundo anjo derramou a sua taça no mar, e o mar se transformou em sangue, como de um morto, e morreu todo ser vivo que havia no mar."
-    },
-    "4": {
-      "título": "O terceiro flagelo",
-      "texto": "O terceiro anjo derramou a sua taça nos rios e nas fontes de água, e eles se transformaram em sangue."
-    },
-    "5": {
-      "título": "",
-      "texto": "Então ouvi o anjo das águas dizendo:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Porque derramaram sangue"
-    },
-    "7": {
-      "título": "",
-      "texto": "Ouvi uma voz do altar, que dizia:"
-    },
-    "8": {
-      "título": "O quarto flagelo",
-      "texto": "O quarto anjo derramou a sua taça sobre o sol, e lhe foi dado queimar a humanidade com fogo."
-    },
-    "9": {
-      "título": "",
-      "texto": "As pessoas se queimaram com o intenso calor e blasfemaram contra o nome de Deus, que tem autoridade sobre estes flagelos. Porém, não se arrependeram para darem glória a Deus."
-    },
-    "10": {
-      "título": "O quinto flagelo",
-      "texto": "O quinto anjo derramou a sua taça sobre o trono da besta. O reino da besta ficou em trevas, e as pessoas mordiam a língua por causa da dor que sentiam"
-    },
-    "11": {
-      "título": "",
-      "texto": "e blasfemavam contra o Deus do céu por causa das angústias e das úlceras que sofriam. Porém, não se arrependeram de suas obras."
-    },
-    "12": {
-      "título": "O sexto flagelo",
-      "texto": "O sexto anjo derramou a sua taça sobre o grande rio Eufrates. As águas do rio secaram, para que se preparasse o caminho dos reis que vêm do Oriente."
-    },
-    "13": {
-      "título": "",
-      "texto": "Então vi sair da boca do dragão, da boca da besta e da boca do falso profeta três espíritos imundos semelhantes a rãs."
-    },
-    "14": {
-      "título": "",
-      "texto": "São espíritos de demônios, operadores de sinais, e se dirigem aos reis do mundo inteiro a fim de ajuntá-los para a batalha do grande Dia do Deus Todo-Poderoso."
-    },
-    "15": {
-      "título": "",
-      "texto": "“Eis que venho como vem o ladrão. Bem-aventurado aquele que vigia e guarda as suas vestes, para que não ande nu, e não se veja a sua vergonha.”"
-    },
-    "16": {
-      "título": "",
-      "texto": "Então ajuntaram os reis no lugar que em hebraico se chama Armagedom."
-    },
-    "17": {
-      "título": "O sétimo flagelo",
-      "texto": "Então o sétimo anjo derramou a sua taça pelo ar. E uma voz forte saiu do santuário, do lado do trono, dizendo:"
-    },
-    "18": {
-      "título": "",
-      "texto": "E sobrevieram relâmpagos, vozes e trovões, e ocorreu um grande terremoto, como nunca houve igual desde que há gente sobre a terra, tal foi o terremoto, forte e grande."
-    },
-    "19": {
-      "título": "",
-      "texto": "E a grande cidade se dividiu em três partes, e caíram as cidades das nações. E Deus se lembrou da grande Babilônia para dar-lhe o cálice do vinho do furor da sua ira."
-    },
-    "20": {
-      "título": "",
-      "texto": "Todas as ilhas fugiram, e os montes não foram achados."
-    },
-    "21": {
-      "título": "",
-      "texto": "Também desabou do céu sobre as pessoas uma grande chuva de granizo, com pedras que pesavam mais de trinta quilos. E, por causa do flagelo da chuva de pedras, as pessoas blasfemaram contra Deus, porque esse flagelo do granizo era terrível."
+    "versiculos": {
+        "1": "Ouvi uma voz forte, vinda do santuário, dizendo aos sete anjos:",
+        "2": "O primeiro anjo foi e derramou a sua taça sobre a terra, e apareceram úlceras malignas e dolorosas nas pessoas que tinham a marca da besta e que adoravam a sua imagem.",
+        "3": "O segundo anjo derramou a sua taça no mar, e o mar se transformou em sangue, como de um morto, e morreu todo ser vivo que havia no mar.",
+        "4": "O terceiro anjo derramou a sua taça nos rios e nas fontes de água, e eles se transformaram em sangue.",
+        "5": "Então ouvi o anjo das águas dizendo:",
+        "6": "Porque derramaram sangue",
+        "7": "Ouvi uma voz do altar, que dizia:",
+        "8": "O quarto anjo derramou a sua taça sobre o sol, e lhe foi dado queimar a humanidade com fogo.",
+        "9": "As pessoas se queimaram com o intenso calor e blasfemaram contra o nome de Deus, que tem autoridade sobre estes flagelos. Porém, não se arrependeram para darem glória a Deus.",
+        "10": "O quinto anjo derramou a sua taça sobre o trono da besta. O reino da besta ficou em trevas, e as pessoas mordiam a língua por causa da dor que sentiam",
+        "11": "e blasfemavam contra o Deus do céu por causa das angústias e das úlceras que sofriam. Porém, não se arrependeram de suas obras.",
+        "12": "O sexto anjo derramou a sua taça sobre o grande rio Eufrates. As águas do rio secaram, para que se preparasse o caminho dos reis que vêm do Oriente.",
+        "13": "Então vi sair da boca do dragão, da boca da besta e da boca do falso profeta três espíritos imundos semelhantes a rãs.",
+        "14": "São espíritos de demônios, operadores de sinais, e se dirigem aos reis do mundo inteiro a fim de ajuntá-los para a batalha do grande Dia do Deus Todo-Poderoso.",
+        "15": "“Eis que venho como vem o ladrão. Bem-aventurado aquele que vigia e guarda as suas vestes, para que não ande nu, e não se veja a sua vergonha.”",
+        "16": "Então ajuntaram os reis no lugar que em hebraico se chama Armagedom.",
+        "17": "Então o sétimo anjo derramou a sua taça pelo ar. E uma voz forte saiu do santuário, do lado do trono, dizendo:",
+        "18": "E sobrevieram relâmpagos, vozes e trovões, e ocorreu um grande terremoto, como nunca houve igual desde que há gente sobre a terra, tal foi o terremoto, forte e grande.",
+        "19": "E a grande cidade se dividiu em três partes, e caíram as cidades das nações. E Deus se lembrou da grande Babilônia para dar-lhe o cálice do vinho do furor da sua ira.",
+        "20": "Todas as ilhas fugiram, e os montes não foram achados.",
+        "21": "Também desabou do céu sobre as pessoas uma grande chuva de granizo, com pedras que pesavam mais de trinta quilos. E, por causa do flagelo da chuva de pedras, as pessoas blasfemaram contra Deus, porque esse flagelo do granizo era terrível."
     }
-  }
 }

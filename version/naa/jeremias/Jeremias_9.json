@@ -1,110 +1,36 @@
 {
-  "livro": "Jeremias",
-  "capítulo": 9,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Quem dera a minha cabeça"
+    "livro": "Jeremias",
+    "capitulo": 9,
+    "titulos": {
+        "7": "Ameaças de ruína e exílio",
+        "23": "Gloriar-se no Senhor"
     },
-    "2": {
-      "título": "",
-      "texto": "Quem me dera eu tivesse"
-    },
-    "3": {
-      "título": "",
-      "texto": "Curvam a língua,"
-    },
-    "4": {
-      "título": "",
-      "texto": "“Que cada um de vocês"
-    },
-    "5": {
-      "título": "",
-      "texto": "Cada um zomba do seu próximo,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Vivem no meio da falsidade;"
-    },
-    "7": {
-      "título": "Ameaças de ruína e exílio",
-      "texto": "Portanto, assim diz"
-    },
-    "8": {
-      "título": "",
-      "texto": "A língua deles é flecha mortífera;"
-    },
-    "9": {
-      "título": "",
-      "texto": "Deixaria eu de castigá-los"
-    },
-    "10": {
-      "título": "",
-      "texto": "“Pelos montes,"
-    },
-    "11": {
-      "título": "",
-      "texto": "Farei de Jerusalém"
-    },
-    "12": {
-      "título": "",
-      "texto": "— Quem é o homem sábio, que entenda isto? E a quem falou a boca do Senhor , para que possa explicá-lo? Por que a terra foi destruída e se queimou como deserto pelo qual não passa ninguém?"
-    },
-    "13": {
-      "título": "",
-      "texto": "O Senhor respondeu:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Pelo contrário, andaram na dureza do seu coração e seguiram os baalins, como os pais deles lhes ensinaram."
-    },
-    "15": {
-      "título": "",
-      "texto": "Portanto, assim diz o Senhor dos Exércitos, Deus de Israel: Eis que alimentarei este povo com absinto e lhe darei de beber água envenenada."
-    },
-    "16": {
-      "título": "",
-      "texto": "Eu os espalharei entre nações que nem eles nem os seus pais conheceram; e enviarei a espada após eles, até que eu os tenha destruído."
-    },
-    "17": {
-      "título": "",
-      "texto": "Assim diz o Senhor dos Exércitos:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Que elas se apressem"
-    },
-    "19": {
-      "título": "",
-      "texto": "Porque uma voz de pranto"
-    },
-    "20": {
-      "título": "",
-      "texto": "Portanto, mulheres,"
-    },
-    "21": {
-      "título": "",
-      "texto": "Porque a morte subiu"
-    },
-    "22": {
-      "título": "",
-      "texto": "Fale: “Assim diz o Senhor :"
-    },
-    "23": {
-      "título": "Gloriar-se no Senhor",
-      "texto": "— Assim diz o Senhor : Não se glorie o sábio na sua sabedoria, nem o forte, na sua força, nem o rico, nas suas riquezas."
-    },
-    "24": {
-      "título": "",
-      "texto": "Mas aquele que se gloria, glorie-se nisto: em me conhecer e saber que eu sou o Senhor e faço misericórdia, juízo e justiça na terra; porque destas coisas me agrado, diz o Senhor ."
-    },
-    "25": {
-      "título": "",
-      "texto": "— Eis que vêm dias, diz o Senhor , em que castigarei todos os que são circuncidados apenas na carne:"
-    },
-    "26": {
-      "título": "",
-      "texto": "o povo do Egito, de Judá, de Edom, os filhos de Amom, de Moabe, e todos os que cortam o cabelo nas têmporas e vivem no deserto. Porque todas essas nações e toda a casa de Israel são incircuncisos de coração."
+    "versiculos": {
+        "1": "Quem dera a minha cabeça",
+        "2": "Quem me dera eu tivesse",
+        "3": "Curvam a língua,",
+        "4": "“Que cada um de vocês",
+        "5": "Cada um zomba do seu próximo,",
+        "6": "Vivem no meio da falsidade;",
+        "7": "Portanto, assim diz",
+        "8": "A língua deles é flecha mortífera;",
+        "9": "Deixaria eu de castigá-los",
+        "10": "“Pelos montes,",
+        "11": "Farei de Jerusalém",
+        "12": "— Quem é o homem sábio, que entenda isto? E a quem falou a boca do Senhor , para que possa explicá-lo? Por que a terra foi destruída e se queimou como deserto pelo qual não passa ninguém?",
+        "13": "O Senhor respondeu:",
+        "14": "Pelo contrário, andaram na dureza do seu coração e seguiram os baalins, como os pais deles lhes ensinaram.",
+        "15": "Portanto, assim diz o Senhor dos Exércitos, Deus de Israel: Eis que alimentarei este povo com absinto e lhe darei de beber água envenenada.",
+        "16": "Eu os espalharei entre nações que nem eles nem os seus pais conheceram; e enviarei a espada após eles, até que eu os tenha destruído.",
+        "17": "Assim diz o Senhor dos Exércitos:",
+        "18": "Que elas se apressem",
+        "19": "Porque uma voz de pranto",
+        "20": "Portanto, mulheres,",
+        "21": "Porque a morte subiu",
+        "22": "Fale: “Assim diz o Senhor :",
+        "23": "— Assim diz o Senhor : Não se glorie o sábio na sua sabedoria, nem o forte, na sua força, nem o rico, nas suas riquezas.",
+        "24": "Mas aquele que se gloria, glorie-se nisto: em me conhecer e saber que eu sou o Senhor e faço misericórdia, juízo e justiça na terra; porque destas coisas me agrado, diz o Senhor .",
+        "25": "— Eis que vêm dias, diz o Senhor , em que castigarei todos os que são circuncidados apenas na carne:",
+        "26": "o povo do Egito, de Judá, de Edom, os filhos de Amom, de Moabe, e todos os que cortam o cabelo nas têmporas e vivem no deserto. Porque todas essas nações e toda a casa de Israel são incircuncisos de coração."
     }
-  }
 }

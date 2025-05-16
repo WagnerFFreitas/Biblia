@@ -1,58 +1,22 @@
 {
-  "livro": "Salmos",
-  "capítulo": 108,
-  "versículos": {
-    "1": {
-      "título": "Deus concede vitória ao seu povo",
-      "texto": "Firme está o meu coração, ó Deus!"
+    "livro": "Salmos",
+    "capitulo": 108,
+    "titulos": {
+        "1": "Deus concede vitória ao seu povo"
     },
-    "2": {
-      "título": "",
-      "texto": "Acordem, lira e harpa!"
-    },
-    "3": {
-      "título": "",
-      "texto": "Eu te darei graças entre os povos,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Porque a tua misericórdia"
-    },
-    "5": {
-      "título": "",
-      "texto": "Sê exaltado, ó Deus,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Para que os teus amados"
-    },
-    "7": {
-      "título": "",
-      "texto": "Deus falou na sua santidade:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Gileade é meu"
-    },
-    "9": {
-      "título": "",
-      "texto": "Moabe, porém,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Quem me conduzirá"
-    },
-    "11": {
-      "título": "",
-      "texto": "Não nos rejeitaste, ó Deus?"
-    },
-    "12": {
-      "título": "",
-      "texto": "Presta-nos auxílio na angústia,"
-    },
-    "13": {
-      "título": "",
-      "texto": "Em Deus faremos proezas,"
+    "versiculos": {
+        "1": "Firme está o meu coração, ó Deus!",
+        "2": "Acordem, lira e harpa!",
+        "3": "Eu te darei graças entre os povos,",
+        "4": "Porque a tua misericórdia",
+        "5": "Sê exaltado, ó Deus,",
+        "6": "Para que os teus amados",
+        "7": "Deus falou na sua santidade:",
+        "8": "Gileade é meu",
+        "9": "Moabe, porém,",
+        "10": "Quem me conduzirá",
+        "11": "Não nos rejeitaste, ó Deus?",
+        "12": "Presta-nos auxílio na angústia,",
+        "13": "Em Deus faremos proezas,"
     }
-  }
 }

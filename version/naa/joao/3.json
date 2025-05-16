@@ -1,150 +1,48 @@
 {
-  "livro": "João",
-  "capítulo": 3,
-  "versículos": {
-    "1": {
-      "título": "Nicodemos visita Jesus",
-      "texto": "Havia entre os fariseus um homem chamado Nicodemos, um dos principais dos judeus."
+    "livro": "João",
+    "capitulo": 3,
+    "titulos": {
+        "1": "Nicodemos visita Jesus",
+        "16": "A missão do Filho",
+        "22": "Jesus e João Batista",
+        "31": "Aquele que vem do céu"
     },
-    "2": {
-      "título": "",
-      "texto": "Este, de noite, foi até Jesus e lhe disse:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Nicodemos perguntou:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "6": {
-      "título": "",
-      "texto": "O que é nascido da carne é carne, e o que é nascido do Espírito é espírito."
-    },
-    "7": {
-      "título": "",
-      "texto": "Não fique admirado por eu dizer: “Vocês precisam nascer de novo.”"
-    },
-    "8": {
-      "título": "",
-      "texto": "O vento sopra onde quer, você ouve o barulho que ele faz, mas não sabe de onde ele vem, nem para onde vai; assim é todo o que é nascido do Espírito."
-    },
-    "9": {
-      "título": "",
-      "texto": "Então Nicodemos perguntou:"
-    },
-    "10": {
-      "título": "",
-      "texto": "— Você é mestre em Israel e não compreende estas coisas?"
-    },
-    "11": {
-      "título": "",
-      "texto": "Em verdade, em verdade lhe digo que nós falamos do que sabemos e damos testemunho do que vimos, mas vocês não aceitam o nosso testemunho."
-    },
-    "12": {
-      "título": "",
-      "texto": "Se vocês não creem quando falo sobre coisas terrenas, como crerão se eu lhes falar sobre as celestiais?"
-    },
-    "13": {
-      "título": "",
-      "texto": "Ora, ninguém subiu ao céu, a não ser aquele que de lá desceu, o Filho do Homem."
-    },
-    "14": {
-      "título": "",
-      "texto": "— E assim como Moisés levantou a serpente no deserto, assim também é necessário que o Filho do Homem seja levantado,"
-    },
-    "15": {
-      "título": "",
-      "texto": "para que todo o que nele crê tenha a vida eterna."
-    },
-    "16": {
-      "título": "A missão do Filho",
-      "texto": "— Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo o que nele crê não pereça, mas tenha a vida eterna."
-    },
-    "17": {
-      "título": "",
-      "texto": "Porque Deus enviou o seu Filho ao mundo, não para que condenasse o mundo, mas para que o mundo fosse salvo por ele."
-    },
-    "18": {
-      "título": "",
-      "texto": "Quem nele crê não é condenado; mas o que não crê já está condenado, porque não crê no nome do unigênito Filho de Deus."
-    },
-    "19": {
-      "título": "",
-      "texto": "A condenação é esta: a luz veio ao mundo, mas os homens amaram mais as trevas do que a luz, porque as suas obras eram más."
-    },
-    "20": {
-      "título": "",
-      "texto": "Pois todo aquele que pratica o mal detesta a luz e não se aproxima da luz, para que as suas obras não sejam reprovadas."
-    },
-    "21": {
-      "título": "",
-      "texto": "Quem pratica a verdade se aproxima da luz, para que as suas obras sejam manifestas, porque são feitas em Deus."
-    },
-    "22": {
-      "título": "Jesus e João Batista",
-      "texto": "Depois disso, Jesus foi com os seus discípulos para a terra da Judeia; ali permaneceu com eles e batizava."
-    },
-    "23": {
-      "título": "",
-      "texto": "Ora, João também estava batizando em Enom, perto de Salim, porque ali havia muitas águas, e o povo se dirigia para lá e era batizado."
-    },
-    "24": {
-      "título": "",
-      "texto": "Pois João ainda não havia sido preso."
-    },
-    "25": {
-      "título": "",
-      "texto": "Então surgiu uma discussão entre os discípulos de João e um judeu a respeito da purificação."
-    },
-    "26": {
-      "título": "",
-      "texto": "E foram até João e lhe disseram:"
-    },
-    "27": {
-      "título": "",
-      "texto": "João respondeu:"
-    },
-    "28": {
-      "título": "",
-      "texto": "Vocês mesmos são testemunhas de que eu disse: “Eu não sou o Cristo, mas fui enviado como o seu precursor.”"
-    },
-    "29": {
-      "título": "",
-      "texto": "O que tem a noiva é o noivo; o amigo do noivo que está presente e o escuta se alegra muito por causa da voz do noivo. Pois essa alegria já se cumpriu em mim."
-    },
-    "30": {
-      "título": "",
-      "texto": "Convém que ele cresça e que eu diminua."
-    },
-    "31": {
-      "título": "Aquele que vem do céu",
-      "texto": "Quem vem das alturas certamente está acima de todos; quem vem da terra é terreno e fala da terra. Quem veio do céu está acima de todos"
-    },
-    "32": {
-      "título": "",
-      "texto": "e dá testemunho daquilo que viu e ouviu, mas ninguém aceita o seu testemunho."
-    },
-    "33": {
-      "título": "",
-      "texto": "Quem, porém, aceita o testemunho que ele dá certifica que Deus é verdadeiro."
-    },
-    "34": {
-      "título": "",
-      "texto": "Pois aquele que Deus enviou fala as palavras de Deus, porque Deus não dá o Espírito por medida."
-    },
-    "35": {
-      "título": "",
-      "texto": "O Pai ama o Filho e entregou todas as coisas nas mãos dele."
-    },
-    "36": {
-      "título": "",
-      "texto": "Por isso, quem crê no Filho tem a vida eterna; quem se mantém rebelde contra o Filho não verá a vida, mas sobre ele permanece a ira de Deus."
+    "versiculos": {
+        "1": "Havia entre os fariseus um homem chamado Nicodemos, um dos principais dos judeus.",
+        "2": "Este, de noite, foi até Jesus e lhe disse:",
+        "3": "Jesus respondeu:",
+        "4": "Nicodemos perguntou:",
+        "5": "Jesus respondeu:",
+        "6": "O que é nascido da carne é carne, e o que é nascido do Espírito é espírito.",
+        "7": "Não fique admirado por eu dizer: “Vocês precisam nascer de novo.”",
+        "8": "O vento sopra onde quer, você ouve o barulho que ele faz, mas não sabe de onde ele vem, nem para onde vai; assim é todo o que é nascido do Espírito.",
+        "9": "Então Nicodemos perguntou:",
+        "10": "— Você é mestre em Israel e não compreende estas coisas?",
+        "11": "Em verdade, em verdade lhe digo que nós falamos do que sabemos e damos testemunho do que vimos, mas vocês não aceitam o nosso testemunho.",
+        "12": "Se vocês não creem quando falo sobre coisas terrenas, como crerão se eu lhes falar sobre as celestiais?",
+        "13": "Ora, ninguém subiu ao céu, a não ser aquele que de lá desceu, o Filho do Homem.",
+        "14": "— E assim como Moisés levantou a serpente no deserto, assim também é necessário que o Filho do Homem seja levantado,",
+        "15": "para que todo o que nele crê tenha a vida eterna.",
+        "16": "— Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo o que nele crê não pereça, mas tenha a vida eterna.",
+        "17": "Porque Deus enviou o seu Filho ao mundo, não para que condenasse o mundo, mas para que o mundo fosse salvo por ele.",
+        "18": "Quem nele crê não é condenado; mas o que não crê já está condenado, porque não crê no nome do unigênito Filho de Deus.",
+        "19": "A condenação é esta: a luz veio ao mundo, mas os homens amaram mais as trevas do que a luz, porque as suas obras eram más.",
+        "20": "Pois todo aquele que pratica o mal detesta a luz e não se aproxima da luz, para que as suas obras não sejam reprovadas.",
+        "21": "Quem pratica a verdade se aproxima da luz, para que as suas obras sejam manifestas, porque são feitas em Deus.",
+        "22": "Depois disso, Jesus foi com os seus discípulos para a terra da Judeia; ali permaneceu com eles e batizava.",
+        "23": "Ora, João também estava batizando em Enom, perto de Salim, porque ali havia muitas águas, e o povo se dirigia para lá e era batizado.",
+        "24": "Pois João ainda não havia sido preso.",
+        "25": "Então surgiu uma discussão entre os discípulos de João e um judeu a respeito da purificação.",
+        "26": "E foram até João e lhe disseram:",
+        "27": "João respondeu:",
+        "28": "Vocês mesmos são testemunhas de que eu disse: “Eu não sou o Cristo, mas fui enviado como o seu precursor.”",
+        "29": "O que tem a noiva é o noivo; o amigo do noivo que está presente e o escuta se alegra muito por causa da voz do noivo. Pois essa alegria já se cumpriu em mim.",
+        "30": "Convém que ele cresça e que eu diminua.",
+        "31": "Quem vem das alturas certamente está acima de todos; quem vem da terra é terreno e fala da terra. Quem veio do céu está acima de todos",
+        "32": "e dá testemunho daquilo que viu e ouviu, mas ninguém aceita o seu testemunho.",
+        "33": "Quem, porém, aceita o testemunho que ele dá certifica que Deus é verdadeiro.",
+        "34": "Pois aquele que Deus enviou fala as palavras de Deus, porque Deus não dá o Espírito por medida.",
+        "35": "O Pai ama o Filho e entregou todas as coisas nas mãos dele.",
+        "36": "Por isso, quem crê no Filho tem a vida eterna; quem se mantém rebelde contra o Filho não verá a vida, mas sobre ele permanece a ira de Deus."
     }
-  }
 }

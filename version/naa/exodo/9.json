@@ -1,146 +1,46 @@
 {
-  "livro": "Êxodo",
-  "capítulo": 9,
-  "versículos": {
-    "1": {
-      "título": "Quinta praga: peste nos animais",
-      "texto": "O Senhor disse a Moisés:"
+    "livro": "Êxodo",
+    "capitulo": 9,
+    "titulos": {
+        "1": "Quinta praga: peste nos animais",
+        "8": "Sexta praga: úlceras",
+        "13": "Sétima praga: chuva de pedras"
     },
-    "2": {
-      "título": "",
-      "texto": "Porque, se você se recusar a deixá-los ir e ainda por força quiser detê-los,"
-    },
-    "3": {
-      "título": "",
-      "texto": "eis que a mão do Senhor trará uma terrível peste sobre o seu rebanho, que está no campo, sobre os cavalos, sobre os jumentos, sobre os camelos, sobre o gado e sobre as ovelhas."
-    },
-    "4": {
-      "título": "",
-      "texto": "E o Senhor fará distinção entre os rebanhos de Israel e o rebanho do Egito, para que nada morra de tudo o que pertence aos filhos de Israel."
-    },
-    "5": {
-      "título": "",
-      "texto": "O Senhor designou certo tempo, dizendo: ‘Amanhã o Senhor fará isto na terra.’”"
-    },
-    "6": {
-      "título": "",
-      "texto": "E o Senhor o fez no dia seguinte, e todo o rebanho dos egípcios morreu; porém, do rebanho dos israelitas, não morreu um único animal."
-    },
-    "7": {
-      "título": "",
-      "texto": "Faraó mandou verificar, e eis que do rebanho de Israel não havia morrido nem um sequer. Mas o coração de Faraó se endureceu, e ele não deixou o povo ir."
-    },
-    "8": {
-      "título": "Sexta praga: úlceras",
-      "texto": "Então o Senhor disse a Moisés e a Arão:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Ela se transformará em pó fino sobre toda a terra do Egito e em tumores que se arrebentem em úlceras nas pessoas e nos animais, por toda a terra do Egito."
-    },
-    "10": {
-      "título": "",
-      "texto": "Eles pegaram cinza de um forno e se apresentaram a Faraó. Moisés atirou a cinza para o ar, e ela se transformou em tumores que se arrebentavam em úlceras nas pessoas e nos animais."
-    },
-    "11": {
-      "título": "",
-      "texto": "Os magos não puderam permanecer diante de Moisés, por causa dos tumores, porque havia tumores nos magos e em todos os egípcios."
-    },
-    "12": {
-      "título": "",
-      "texto": "Porém o Senhor endureceu o coração de Faraó, e este não os ouviu, como o Senhor tinha dito a Moisés."
-    },
-    "13": {
-      "título": "Sétima praga: chuva de pedras",
-      "texto": "O Senhor disse a Moisés:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Pois desta vez enviarei todas as minhas pragas sobre o seu coração, sobre os seus oficiais e sobre o seu povo, para que você saiba que em toda a terra não há ninguém que seja semelhante a mim."
-    },
-    "15": {
-      "título": "",
-      "texto": "Pois eu já poderia ter estendido a mão para ferir você e o seu povo com peste, e você teria sido cortado da terra."
-    },
-    "16": {
-      "título": "",
-      "texto": "Mas, em verdade, foi para isso que eu o mantive: para mostrar a você o meu poder, e para que o meu nome seja anunciado em toda a terra."
-    },
-    "17": {
-      "título": "",
-      "texto": "Você ainda vai se levantar contra o meu povo, para não deixá-lo ir?"
-    },
-    "18": {
-      "título": "",
-      "texto": "Eis que amanhã, por este tempo, farei cair uma forte chuva de pedras, como nunca houve no Egito, desde o dia em que foi fundado até hoje."
-    },
-    "19": {
-      "título": "",
-      "texto": "Agora, pois, mande recolher o seu gado e tudo o que você tem no campo. Todas as pessoas e os animais que estiverem no campo e não forem levados para casa morrerão ao cair sobre eles a chuva de pedras.”"
-    },
-    "20": {
-      "título": "",
-      "texto": "Aqueles oficiais de Faraó que temiam a palavra do Senhor fizeram com que os seus servos e o seu gado fugissem para as casas;"
-    },
-    "21": {
-      "título": "",
-      "texto": "aqueles, porém, que não se importavam com a palavra do Senhor deixaram que os seus servos e o seu gado ficassem no campo."
-    },
-    "22": {
-      "título": "",
-      "texto": "Então o Senhor disse a Moisés:"
-    },
-    "23": {
-      "título": "",
-      "texto": "E Moisés estendeu o seu bordão para o céu e o Senhor deu trovões e chuva de pedras, e fogo desceu sobre a terra. E o Senhor fez cair chuva de pedras sobre a terra do Egito."
-    },
-    "24": {
-      "título": "",
-      "texto": "De maneira que havia chuva de pedras e fogo misturado com a chuva de pedras tão grave, como nunca houve em toda a terra do Egito, desde que veio a ser uma nação."
-    },
-    "25": {
-      "título": "",
-      "texto": "Por toda a terra do Egito a chuva de pedras destruiu tudo o que havia no campo, tanto pessoas como animais. A chuva de pedras destruiu também todas as plantas do campo e quebrou todas as árvores do campo."
-    },
-    "26": {
-      "título": "",
-      "texto": "Somente na terra de Gósen, onde estavam os filhos de Israel, não houve chuva de pedras."
-    },
-    "27": {
-      "título": "",
-      "texto": "Então Faraó mandou chamar Moisés e Arão e lhes disse:"
-    },
-    "28": {
-      "título": "",
-      "texto": "Orem ao Senhor , pois já bastam estes grandes trovões e a chuva de pedras. Eu os deixarei ir, e vocês não ficarão mais aqui."
-    },
-    "29": {
-      "título": "",
-      "texto": "Moisés respondeu:"
-    },
-    "30": {
-      "título": "",
-      "texto": "Mas quanto a você e aos seus oficiais, eu sei que ainda não temem o Senhor Deus."
-    },
-    "31": {
-      "título": "",
-      "texto": "O linho e a cevada foram destruídos, pois a cevada já estava na espiga e o linho estava em flor."
-    },
-    "32": {
-      "título": "",
-      "texto": "Porém o trigo e o centeio não sofreram dano, porque ainda não haviam nascido."
-    },
-    "33": {
-      "título": "",
-      "texto": "Moisés saiu da presença de Faraó e da cidade e estendeu as mãos ao Senhor . Cessaram os trovões e a chuva de pedras, e não caiu mais chuva sobre a terra."
-    },
-    "34": {
-      "título": "",
-      "texto": "Quando Faraó viu que cessaram as chuvas, as pedras e os trovões, tornou a pecar e endureceu o coração, ele e os seus oficiais."
-    },
-    "35": {
-      "título": "",
-      "texto": "E assim Faraó, de coração endurecido, não deixou ir os filhos de Israel, como o Senhor tinha dito a Moisés."
+    "versiculos": {
+        "1": "O Senhor disse a Moisés:",
+        "2": "Porque, se você se recusar a deixá-los ir e ainda por força quiser detê-los,",
+        "3": "eis que a mão do Senhor trará uma terrível peste sobre o seu rebanho, que está no campo, sobre os cavalos, sobre os jumentos, sobre os camelos, sobre o gado e sobre as ovelhas.",
+        "4": "E o Senhor fará distinção entre os rebanhos de Israel e o rebanho do Egito, para que nada morra de tudo o que pertence aos filhos de Israel.",
+        "5": "O Senhor designou certo tempo, dizendo: ‘Amanhã o Senhor fará isto na terra.’”",
+        "6": "E o Senhor o fez no dia seguinte, e todo o rebanho dos egípcios morreu; porém, do rebanho dos israelitas, não morreu um único animal.",
+        "7": "Faraó mandou verificar, e eis que do rebanho de Israel não havia morrido nem um sequer. Mas o coração de Faraó se endureceu, e ele não deixou o povo ir.",
+        "8": "Então o Senhor disse a Moisés e a Arão:",
+        "9": "Ela se transformará em pó fino sobre toda a terra do Egito e em tumores que se arrebentem em úlceras nas pessoas e nos animais, por toda a terra do Egito.",
+        "10": "Eles pegaram cinza de um forno e se apresentaram a Faraó. Moisés atirou a cinza para o ar, e ela se transformou em tumores que se arrebentavam em úlceras nas pessoas e nos animais.",
+        "11": "Os magos não puderam permanecer diante de Moisés, por causa dos tumores, porque havia tumores nos magos e em todos os egípcios.",
+        "12": "Porém o Senhor endureceu o coração de Faraó, e este não os ouviu, como o Senhor tinha dito a Moisés.",
+        "13": "O Senhor disse a Moisés:",
+        "14": "Pois desta vez enviarei todas as minhas pragas sobre o seu coração, sobre os seus oficiais e sobre o seu povo, para que você saiba que em toda a terra não há ninguém que seja semelhante a mim.",
+        "15": "Pois eu já poderia ter estendido a mão para ferir você e o seu povo com peste, e você teria sido cortado da terra.",
+        "16": "Mas, em verdade, foi para isso que eu o mantive: para mostrar a você o meu poder, e para que o meu nome seja anunciado em toda a terra.",
+        "17": "Você ainda vai se levantar contra o meu povo, para não deixá-lo ir?",
+        "18": "Eis que amanhã, por este tempo, farei cair uma forte chuva de pedras, como nunca houve no Egito, desde o dia em que foi fundado até hoje.",
+        "19": "Agora, pois, mande recolher o seu gado e tudo o que você tem no campo. Todas as pessoas e os animais que estiverem no campo e não forem levados para casa morrerão ao cair sobre eles a chuva de pedras.”",
+        "20": "Aqueles oficiais de Faraó que temiam a palavra do Senhor fizeram com que os seus servos e o seu gado fugissem para as casas;",
+        "21": "aqueles, porém, que não se importavam com a palavra do Senhor deixaram que os seus servos e o seu gado ficassem no campo.",
+        "22": "Então o Senhor disse a Moisés:",
+        "23": "E Moisés estendeu o seu bordão para o céu e o Senhor deu trovões e chuva de pedras, e fogo desceu sobre a terra. E o Senhor fez cair chuva de pedras sobre a terra do Egito.",
+        "24": "De maneira que havia chuva de pedras e fogo misturado com a chuva de pedras tão grave, como nunca houve em toda a terra do Egito, desde que veio a ser uma nação.",
+        "25": "Por toda a terra do Egito a chuva de pedras destruiu tudo o que havia no campo, tanto pessoas como animais. A chuva de pedras destruiu também todas as plantas do campo e quebrou todas as árvores do campo.",
+        "26": "Somente na terra de Gósen, onde estavam os filhos de Israel, não houve chuva de pedras.",
+        "27": "Então Faraó mandou chamar Moisés e Arão e lhes disse:",
+        "28": "Orem ao Senhor , pois já bastam estes grandes trovões e a chuva de pedras. Eu os deixarei ir, e vocês não ficarão mais aqui.",
+        "29": "Moisés respondeu:",
+        "30": "Mas quanto a você e aos seus oficiais, eu sei que ainda não temem o Senhor Deus.",
+        "31": "O linho e a cevada foram destruídos, pois a cevada já estava na espiga e o linho estava em flor.",
+        "32": "Porém o trigo e o centeio não sofreram dano, porque ainda não haviam nascido.",
+        "33": "Moisés saiu da presença de Faraó e da cidade e estendeu as mãos ao Senhor . Cessaram os trovões e a chuva de pedras, e não caiu mais chuva sobre a terra.",
+        "34": "Quando Faraó viu que cessaram as chuvas, as pedras e os trovões, tornou a pecar e endureceu o coração, ele e os seus oficiais.",
+        "35": "E assim Faraó, de coração endurecido, não deixou ir os filhos de Israel, como o Senhor tinha dito a Moisés."
     }
-  }
 }

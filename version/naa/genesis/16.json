@@ -1,70 +1,26 @@
 {
-  "livro": "Gênesis",
-  "capítulo": 16,
-  "versículos": {
-    "1": {
-      "título": "Sarai e Agar",
-      "texto": "Ora, Sarai, mulher de Abrão, não lhe dava filhos. Mas tinha uma serva egípcia, chamada Agar."
+    "livro": "Gênesis",
+    "capitulo": 16,
+    "titulos": {
+        "1": "Sarai e Agar",
+        "15": "O nascimento de Ismael"
     },
-    "2": {
-      "título": "",
-      "texto": "Então Sarai disse a Abrão:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Então Sarai, mulher de Abrão, tomou Agar, sua serva egípcia, e a deu por mulher a Abrão, seu marido, depois que ele já estava morando durante dez anos na terra de Canaã."
-    },
-    "4": {
-      "título": "",
-      "texto": "Ele teve relações com Agar, e ela ficou grávida. Ao saber que estava grávida, Agar começou a olhar com desprezo para a sua senhora."
-    },
-    "5": {
-      "título": "",
-      "texto": "Então Sarai disse a Abrão:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Abrão respondeu a Sarai:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Quando o Anjo do Senhor a encontrou junto a uma fonte de água no deserto, junto à fonte no caminho de Sur,"
-    },
-    "8": {
-      "título": "",
-      "texto": "perguntou-lhe:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Então o Anjo do Senhor lhe disse:"
-    },
-    "10": {
-      "título": "",
-      "texto": "E o Anjo do Senhor disse também:"
-    },
-    "11": {
-      "título": "",
-      "texto": "E o Anjo do Senhor continuou:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Ele será, entre os homens, como um jumento selvagem; a sua mão será contra todos, e a mão de todos será contra ele; e habitará diante de todos os seus irmãos."
-    },
-    "13": {
-      "título": "",
-      "texto": "Então Agar deu ao Senhor , que havia falado com ela, o nome de “Tu és o Deus que vê”. Porque ela dizia: “Neste lugar eu olhei para Aquele que me vê!”"
-    },
-    "14": {
-      "título": "",
-      "texto": "Por isso, aquele poço se chama Beer-Laai-Roi. Fica entre Cades e Berede."
-    },
-    "15": {
-      "título": "O nascimento de Ismael",
-      "texto": "Agar deu à luz um filho a Abrão; e Abrão chamou de Ismael o filho que Agar lhe deu."
-    },
-    "16": {
-      "título": "",
-      "texto": "Abrão tinha oitenta e seis anos, quando Agar lhe deu à luz Ismael."
+    "versiculos": {
+        "1": "Ora, Sarai, mulher de Abrão, não lhe dava filhos. Mas tinha uma serva egípcia, chamada Agar.",
+        "2": "Então Sarai disse a Abrão:",
+        "3": "Então Sarai, mulher de Abrão, tomou Agar, sua serva egípcia, e a deu por mulher a Abrão, seu marido, depois que ele já estava morando durante dez anos na terra de Canaã.",
+        "4": "Ele teve relações com Agar, e ela ficou grávida. Ao saber que estava grávida, Agar começou a olhar com desprezo para a sua senhora.",
+        "5": "Então Sarai disse a Abrão:",
+        "6": "Abrão respondeu a Sarai:",
+        "7": "Quando o Anjo do Senhor a encontrou junto a uma fonte de água no deserto, junto à fonte no caminho de Sur,",
+        "8": "perguntou-lhe:",
+        "9": "Então o Anjo do Senhor lhe disse:",
+        "10": "E o Anjo do Senhor disse também:",
+        "11": "E o Anjo do Senhor continuou:",
+        "12": "Ele será, entre os homens, como um jumento selvagem; a sua mão será contra todos, e a mão de todos será contra ele; e habitará diante de todos os seus irmãos.",
+        "13": "Então Agar deu ao Senhor , que havia falado com ela, o nome de “Tu és o Deus que vê”. Porque ela dizia: “Neste lugar eu olhei para Aquele que me vê!”",
+        "14": "Por isso, aquele poço se chama Beer-Laai-Roi. Fica entre Cades e Berede.",
+        "15": "Agar deu à luz um filho a Abrão; e Abrão chamou de Ismael o filho que Agar lhe deu.",
+        "16": "Abrão tinha oitenta e seis anos, quando Agar lhe deu à luz Ismael."
     }
-  }
 }

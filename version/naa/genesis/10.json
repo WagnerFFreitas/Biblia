@@ -1,134 +1,41 @@
 {
-  "livro": "Gênesis",
-  "capítulo": 10,
-  "versículos": {
-    "1": {
-      "título": "Descendentes dos filhos de Noé",
-      "texto": "São estas as gerações de Sem, Cam e Jafé, os filhos de Noé. A eles nasceram filhos depois do dilúvio."
+    "livro": "Gênesis",
+    "capitulo": 10,
+    "titulos": {
+        "1": "Descendentes dos filhos de Noé"
     },
-    "2": {
-      "título": "",
-      "texto": "Os filhos de Jafé foram: Gômer, Magogue, Madai, Javã, Tubal, Meseque e Tiras."
-    },
-    "3": {
-      "título": "",
-      "texto": "Os filhos de Gômer foram: Asquenaz, Rifate e Togarma."
-    },
-    "4": {
-      "título": "",
-      "texto": "Os filhos de Javã foram: Elisá, Társis, Quitim e Dodanim."
-    },
-    "5": {
-      "título": "",
-      "texto": "Estes repartiram entre si as ilhas das nações nas suas terras, cada qual segundo a sua língua, segundo as suas famílias, em suas nações."
-    },
-    "6": {
-      "título": "",
-      "texto": "Os filhos de Cam foram: Cuxe, Mizraim, Pute e Canaã."
-    },
-    "7": {
-      "título": "",
-      "texto": "Os filhos de Cuxe foram: Sebá, Havilá, Sabtá, Raamá e Sabtecá; e os filhos de Raamá: Sabá e Dedã."
-    },
-    "8": {
-      "título": "",
-      "texto": "Cuxe gerou Ninrode, que começou a ser poderoso na terra."
-    },
-    "9": {
-      "título": "",
-      "texto": "Foi valente caçador diante do Senhor . Daí dizer-se: “Como Ninrode, poderoso caçador diante do Senhor .”"
-    },
-    "10": {
-      "título": "",
-      "texto": "O princípio do seu reino foi Babel, Ereque, Acade e Calné, na terra de Sinar."
-    },
-    "11": {
-      "título": "",
-      "texto": "Daquela terra ele foi para a Assíria e edificou Nínive, Reobote-Ir e Calá."
-    },
-    "12": {
-      "título": "",
-      "texto": "E, entre Nínive e Calá, a grande cidade de Resém."
-    },
-    "13": {
-      "título": "",
-      "texto": "Mizraim gerou Ludim, Anamim, Leabim, Naftuim,"
-    },
-    "14": {
-      "título": "",
-      "texto": "Patrusim, Casluim e Caftorim."
-    },
-    "15": {
-      "título": "",
-      "texto": "Canaã gerou Sidom, seu primogênito, e Hete,"
-    },
-    "16": {
-      "título": "",
-      "texto": "e também os jebuseus, os amorreus, os girgaseus,"
-    },
-    "17": {
-      "título": "",
-      "texto": "os heveus, os arqueus, os sineus,"
-    },
-    "18": {
-      "título": "",
-      "texto": "os arvadeus, os zemareus e os hamateus. Depois as famílias dos cananeus se espalharam."
-    },
-    "19": {
-      "título": "",
-      "texto": "E a fronteira dos cananeus foi desde Sidom, indo para Gerar, até Gaza, indo para Sodoma, Gomorra, Admá e Zeboim, até Lasa."
-    },
-    "20": {
-      "título": "",
-      "texto": "São estes os filhos de Cam, segundo as suas famílias, segundo as suas línguas, em suas terras, em suas nações."
-    },
-    "21": {
-      "título": "",
-      "texto": "A Sem, que foi pai de todos os filhos de Héber e irmão mais velho de Jafé, também nasceram filhos."
-    },
-    "22": {
-      "título": "",
-      "texto": "Os filhos de Sem foram: Elão, Assur, Arfaxade, Lude e Arã."
-    },
-    "23": {
-      "título": "",
-      "texto": "Os filhos de Arã foram: Uz, Hul, Geter e Más."
-    },
-    "24": {
-      "título": "",
-      "texto": "Arfaxade gerou Salá, e Salá gerou Héber."
-    },
-    "25": {
-      "título": "",
-      "texto": "A Héber nasceram dois filhos: o nome de um foi Pelegue, porque em seus dias se repartiu a terra; e o nome de seu irmão foi Joctã."
-    },
-    "26": {
-      "título": "",
-      "texto": "Joctã gerou Almodá, Selefe, Hazar-Mavé, Jerá,"
-    },
-    "27": {
-      "título": "",
-      "texto": "Hadorão, Uzal, Dicla,"
-    },
-    "28": {
-      "título": "",
-      "texto": "Obal, Abimael, Sabá,"
-    },
-    "29": {
-      "título": "",
-      "texto": "Ofir, Havilá e Jobabe. Todos estes foram filhos de Joctã."
-    },
-    "30": {
-      "título": "",
-      "texto": "E habitaram desde Messa, indo para Sefar, montanha do Oriente."
-    },
-    "31": {
-      "título": "",
-      "texto": "São estes os filhos de Sem, segundo as suas famílias, segundo as suas línguas, em suas terras, em suas nações."
-    },
-    "32": {
-      "título": "",
-      "texto": "São estas as famílias dos filhos de Noé, segundo as suas gerações, nas suas nações; e destes foram disseminadas as nações na terra, depois do dilúvio."
+    "versiculos": {
+        "1": "São estas as gerações de Sem, Cam e Jafé, os filhos de Noé. A eles nasceram filhos depois do dilúvio.",
+        "2": "Os filhos de Jafé foram: Gômer, Magogue, Madai, Javã, Tubal, Meseque e Tiras.",
+        "3": "Os filhos de Gômer foram: Asquenaz, Rifate e Togarma.",
+        "4": "Os filhos de Javã foram: Elisá, Társis, Quitim e Dodanim.",
+        "5": "Estes repartiram entre si as ilhas das nações nas suas terras, cada qual segundo a sua língua, segundo as suas famílias, em suas nações.",
+        "6": "Os filhos de Cam foram: Cuxe, Mizraim, Pute e Canaã.",
+        "7": "Os filhos de Cuxe foram: Sebá, Havilá, Sabtá, Raamá e Sabtecá; e os filhos de Raamá: Sabá e Dedã.",
+        "8": "Cuxe gerou Ninrode, que começou a ser poderoso na terra.",
+        "9": "Foi valente caçador diante do Senhor . Daí dizer-se: “Como Ninrode, poderoso caçador diante do Senhor .”",
+        "10": "O princípio do seu reino foi Babel, Ereque, Acade e Calné, na terra de Sinar.",
+        "11": "Daquela terra ele foi para a Assíria e edificou Nínive, Reobote-Ir e Calá.",
+        "12": "E, entre Nínive e Calá, a grande cidade de Resém.",
+        "13": "Mizraim gerou Ludim, Anamim, Leabim, Naftuim,",
+        "14": "Patrusim, Casluim e Caftorim.",
+        "15": "Canaã gerou Sidom, seu primogênito, e Hete,",
+        "16": "e também os jebuseus, os amorreus, os girgaseus,",
+        "17": "os heveus, os arqueus, os sineus,",
+        "18": "os arvadeus, os zemareus e os hamateus. Depois as famílias dos cananeus se espalharam.",
+        "19": "E a fronteira dos cananeus foi desde Sidom, indo para Gerar, até Gaza, indo para Sodoma, Gomorra, Admá e Zeboim, até Lasa.",
+        "20": "São estes os filhos de Cam, segundo as suas famílias, segundo as suas línguas, em suas terras, em suas nações.",
+        "21": "A Sem, que foi pai de todos os filhos de Héber e irmão mais velho de Jafé, também nasceram filhos.",
+        "22": "Os filhos de Sem foram: Elão, Assur, Arfaxade, Lude e Arã.",
+        "23": "Os filhos de Arã foram: Uz, Hul, Geter e Más.",
+        "24": "Arfaxade gerou Salá, e Salá gerou Héber.",
+        "25": "A Héber nasceram dois filhos: o nome de um foi Pelegue, porque em seus dias se repartiu a terra; e o nome de seu irmão foi Joctã.",
+        "26": "Joctã gerou Almodá, Selefe, Hazar-Mavé, Jerá,",
+        "27": "Hadorão, Uzal, Dicla,",
+        "28": "Obal, Abimael, Sabá,",
+        "29": "Ofir, Havilá e Jobabe. Todos estes foram filhos de Joctã.",
+        "30": "E habitaram desde Messa, indo para Sefar, montanha do Oriente.",
+        "31": "São estes os filhos de Sem, segundo as suas famílias, segundo as suas línguas, em suas terras, em suas nações.",
+        "32": "São estas as famílias dos filhos de Noé, segundo as suas gerações, nas suas nações; e destes foram disseminadas as nações na terra, depois do dilúvio."
     }
-  }
 }

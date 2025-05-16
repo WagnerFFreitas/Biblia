@@ -1,86 +1,32 @@
 {
-  "livro": "Apocalipse",
-  "capítulo": 14,
-  "versículos": {
-    "1": {
-      "título": "O cântico dos cento e quarenta e quatro mil",
-      "texto": "Olhei, e eis que o Cordeiro estava em pé sobre o monte Sião. Com ele estavam cento e quarenta e quatro mil, que tinham escrito na testa o nome do Cordeiro e o nome de seu Pai."
+    "livro": "Apocalipse",
+    "capitulo": 14,
+    "titulos": {
+        "1": "O cântico dos cento e quarenta e quatro mil",
+        "6": "As mensagens dos três anjos",
+        "13": "Uma voz do céu",
+        "14": "A colheita do fim dos tempos"
     },
-    "2": {
-      "título": "",
-      "texto": "Ouvi uma voz do céu como som de muitas águas, como som de um forte trovão. A voz que ouvi era como de harpistas quando tocam as suas harpas."
-    },
-    "3": {
-      "título": "",
-      "texto": "Entoavam um cântico novo diante do trono, diante dos quatro seres viventes e dos anciãos. E ninguém podia aprender o cântico, senão os cento e quarenta e quatro mil que foram comprados da terra."
-    },
-    "4": {
-      "título": "",
-      "texto": "Estes são os que não se macularam com mulheres, porque são virgens. Eles seguem o Cordeiro por onde quer que ele vá. São os que foram comprados dentre todos os seres humanos, primícias para Deus e para o Cordeiro;"
-    },
-    "5": {
-      "título": "",
-      "texto": "e não se achou mentira na sua boca; não têm mácula."
-    },
-    "6": {
-      "título": "As mensagens dos três anjos",
-      "texto": "Vi outro anjo voando pelo meio do céu, tendo um evangelho eterno para pregar aos que habitam na terra, e a cada nação, tribo, língua e povo,"
-    },
-    "7": {
-      "título": "",
-      "texto": "dizendo com voz forte:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Seguiu-se outro anjo, o segundo, dizendo:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Seguiu-se a estes outro anjo, o terceiro, dizendo com voz forte:"
-    },
-    "10": {
-      "título": "",
-      "texto": "também esse beberá do vinho do furor de Deus, preparado, sem mistura, no cálice da sua ira, e será atormentado com fogo e enxofre, diante dos santos anjos e na presença do Cordeiro."
-    },
-    "11": {
-      "título": "",
-      "texto": "A fumaça do seu tormento sobe para todo o sempre. E os adoradores da besta e da sua imagem e quem quer que receba a marca do nome da besta não têm descanso algum, nem de dia nem de noite."
-    },
-    "12": {
-      "título": "",
-      "texto": "Aqui está a perseverança dos santos, os que guardam os mandamentos de Deus e a fé em Jesus."
-    },
-    "13": {
-      "título": "Uma voz do céu",
-      "texto": "Então ouvi uma voz do céu, dizendo:"
-    },
-    "14": {
-      "título": "A colheita do fim dos tempos",
-      "texto": "Olhei, e eis uma nuvem branca, e sentado sobre a nuvem um semelhante a filho de homem, tendo na cabeça uma coroa de ouro e na mão uma foice afiada."
-    },
-    "15": {
-      "título": "",
-      "texto": "Outro anjo saiu do santuário, gritando com voz forte para aquele que estava sentado sobre a nuvem:"
-    },
-    "16": {
-      "título": "",
-      "texto": "E aquele que estava sentado sobre a nuvem passou a sua foice sobre a terra e fez a colheita."
-    },
-    "17": {
-      "título": "",
-      "texto": "Então outro anjo saiu do santuário que se encontra no céu, tendo também ele uma foice afiada."
-    },
-    "18": {
-      "título": "",
-      "texto": "Ainda outro anjo saiu do altar, o anjo que tem autoridade sobre o fogo, e clamou com voz forte ao que tinha a foice afiada, dizendo:"
-    },
-    "19": {
-      "título": "",
-      "texto": "Então o anjo passou a sua foice na terra, ajuntou os cachos da videira da terra e os lançou no grande lagar da ira de Deus."
-    },
-    "20": {
-      "título": "",
-      "texto": "O lagar foi pisado fora da cidade. E correu sangue do lagar, chegando até a altura dos freios dos cavalos, numa extensão de cerca de trezentos quilômetros."
+    "versiculos": {
+        "1": "Olhei, e eis que o Cordeiro estava em pé sobre o monte Sião. Com ele estavam cento e quarenta e quatro mil, que tinham escrito na testa o nome do Cordeiro e o nome de seu Pai.",
+        "2": "Ouvi uma voz do céu como som de muitas águas, como som de um forte trovão. A voz que ouvi era como de harpistas quando tocam as suas harpas.",
+        "3": "Entoavam um cântico novo diante do trono, diante dos quatro seres viventes e dos anciãos. E ninguém podia aprender o cântico, senão os cento e quarenta e quatro mil que foram comprados da terra.",
+        "4": "Estes são os que não se macularam com mulheres, porque são virgens. Eles seguem o Cordeiro por onde quer que ele vá. São os que foram comprados dentre todos os seres humanos, primícias para Deus e para o Cordeiro;",
+        "5": "e não se achou mentira na sua boca; não têm mácula.",
+        "6": "Vi outro anjo voando pelo meio do céu, tendo um evangelho eterno para pregar aos que habitam na terra, e a cada nação, tribo, língua e povo,",
+        "7": "dizendo com voz forte:",
+        "8": "Seguiu-se outro anjo, o segundo, dizendo:",
+        "9": "Seguiu-se a estes outro anjo, o terceiro, dizendo com voz forte:",
+        "10": "também esse beberá do vinho do furor de Deus, preparado, sem mistura, no cálice da sua ira, e será atormentado com fogo e enxofre, diante dos santos anjos e na presença do Cordeiro.",
+        "11": "A fumaça do seu tormento sobe para todo o sempre. E os adoradores da besta e da sua imagem e quem quer que receba a marca do nome da besta não têm descanso algum, nem de dia nem de noite.",
+        "12": "Aqui está a perseverança dos santos, os que guardam os mandamentos de Deus e a fé em Jesus.",
+        "13": "Então ouvi uma voz do céu, dizendo:",
+        "14": "Olhei, e eis uma nuvem branca, e sentado sobre a nuvem um semelhante a filho de homem, tendo na cabeça uma coroa de ouro e na mão uma foice afiada.",
+        "15": "Outro anjo saiu do santuário, gritando com voz forte para aquele que estava sentado sobre a nuvem:",
+        "16": "E aquele que estava sentado sobre a nuvem passou a sua foice sobre a terra e fez a colheita.",
+        "17": "Então outro anjo saiu do santuário que se encontra no céu, tendo também ele uma foice afiada.",
+        "18": "Ainda outro anjo saiu do altar, o anjo que tem autoridade sobre o fogo, e clamou com voz forte ao que tinha a foice afiada, dizendo:",
+        "19": "Então o anjo passou a sua foice na terra, ajuntou os cachos da videira da terra e os lançou no grande lagar da ira de Deus.",
+        "20": "O lagar foi pisado fora da cidade. E correu sangue do lagar, chegando até a altura dos freios dos cavalos, numa extensão de cerca de trezentos quilômetros."
     }
-  }
 }

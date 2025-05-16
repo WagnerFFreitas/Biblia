@@ -1,54 +1,21 @@
 {
-  "livro": "Deuteronômio",
-  "capítulo": 34,
-  "versículos": {
-    "1": {
-      "título": "A morte de Moisés",
-      "texto": "Então Moisés subiu das campinas de Moabe ao monte Nebo, ao alto do monte Pisga, que está em frente de Jericó. E o Senhor lhe mostrou toda a terra de Gileade até Dã;"
+    "livro": "Deuteronômio",
+    "capitulo": 34,
+    "titulos": {
+        "1": "A morte de Moisés"
     },
-    "2": {
-      "título": "",
-      "texto": "e todo o Naftali, e a terra de Efraim e Manassés; e toda a terra de Judá até o mar ocidental;"
-    },
-    "3": {
-      "título": "",
-      "texto": "e o Neguebe e a campina do vale de Jericó, a cidade das palmeiras, até a região de Zoar."
-    },
-    "4": {
-      "título": "",
-      "texto": "E o Senhor disse a Moisés:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Assim Moisés, servo do Senhor , morreu ali, na terra de Moabe, segundo a palavra do Senhor ."
-    },
-    "6": {
-      "título": "",
-      "texto": "Este o sepultou num vale, na terra de Moabe, diante de Bete-Peor, mas até hoje ninguém sabe o lugar da sua sepultura."
-    },
-    "7": {
-      "título": "",
-      "texto": "Moisés tinha cento e vinte anos quando morreu, mas os seus olhos não se haviam enfraquecido, e ele não havia perdido o vigor."
-    },
-    "8": {
-      "título": "",
-      "texto": "Os filhos de Israel prantearam Moisés durante trinta dias, nas campinas de Moabe; então se cumpriram os dias do pranto do luto por Moisés."
-    },
-    "9": {
-      "título": "",
-      "texto": "Josué, filho de Num, estava cheio do espírito de sabedoria, porque Moisés havia imposto as mãos sobre ele. Assim, os filhos de Israel lhe deram ouvidos e fizeram como o Senhor havia ordenado a Moisés."
-    },
-    "10": {
-      "título": "",
-      "texto": "Nunca mais se levantou em Israel um profeta como Moisés, com quem o Senhor tratava face a face."
-    },
-    "11": {
-      "título": "",
-      "texto": "Nunca houve ninguém que fizesse todos os sinais e maravilhas que, por ordem do Senhor , ele fez na terra do Egito, a Faraó, a todos os seus oficiais e a toda a sua terra."
-    },
-    "12": {
-      "título": "",
-      "texto": "Nunca houve quem tivesse tanto poder e fizesse os grandes e terríveis feitos que Moisés realizou à vista de todo o Israel."
+    "versiculos": {
+        "1": "Então Moisés subiu das campinas de Moabe ao monte Nebo, ao alto do monte Pisga, que está em frente de Jericó. E o Senhor lhe mostrou toda a terra de Gileade até Dã;",
+        "2": "e todo o Naftali, e a terra de Efraim e Manassés; e toda a terra de Judá até o mar ocidental;",
+        "3": "e o Neguebe e a campina do vale de Jericó, a cidade das palmeiras, até a região de Zoar.",
+        "4": "E o Senhor disse a Moisés:",
+        "5": "Assim Moisés, servo do Senhor , morreu ali, na terra de Moabe, segundo a palavra do Senhor .",
+        "6": "Este o sepultou num vale, na terra de Moabe, diante de Bete-Peor, mas até hoje ninguém sabe o lugar da sua sepultura.",
+        "7": "Moisés tinha cento e vinte anos quando morreu, mas os seus olhos não se haviam enfraquecido, e ele não havia perdido o vigor.",
+        "8": "Os filhos de Israel prantearam Moisés durante trinta dias, nas campinas de Moabe; então se cumpriram os dias do pranto do luto por Moisés.",
+        "9": "Josué, filho de Num, estava cheio do espírito de sabedoria, porque Moisés havia imposto as mãos sobre ele. Assim, os filhos de Israel lhe deram ouvidos e fizeram como o Senhor havia ordenado a Moisés.",
+        "10": "Nunca mais se levantou em Israel um profeta como Moisés, com quem o Senhor tratava face a face.",
+        "11": "Nunca houve ninguém que fizesse todos os sinais e maravilhas que, por ordem do Senhor , ele fez na terra do Egito, a Faraó, a todos os seus oficiais e a toda a sua terra.",
+        "12": "Nunca houve quem tivesse tanto poder e fizesse os grandes e terríveis feitos que Moisés realizou à vista de todo o Israel."
     }
-  }
 }

@@ -1,42 +1,18 @@
 {
-  "livro": "Isaías",
-  "capítulo": 15,
-  "versículos": {
-    "1": {
-      "título": "Profecia contra Moabe",
-      "texto": "Sentença contra Moabe."
+    "livro": "Isaías",
+    "capitulo": 15,
+    "titulos": {
+        "1": "Profecia contra Moabe"
     },
-    "2": {
-      "título": "",
-      "texto": "Sobe-se ao templo e a Dibom,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Nas ruas andam vestidos"
-    },
-    "4": {
-      "título": "",
-      "texto": "Tanto Hesbom como Eleale"
-    },
-    "5": {
-      "título": "",
-      "texto": "O meu coração clama"
-    },
-    "6": {
-      "título": "",
-      "texto": "Porque as águas de Ninrim"
-    },
-    "7": {
-      "título": "",
-      "texto": "Por isso, eles mesmos levam"
-    },
-    "8": {
-      "título": "",
-      "texto": "Porque o pranto se espalha"
-    },
-    "9": {
-      "título": "",
-      "texto": "As águas de Dimom"
+    "versiculos": {
+        "1": "Sentença contra Moabe.",
+        "2": "Sobe-se ao templo e a Dibom,",
+        "3": "Nas ruas andam vestidos",
+        "4": "Tanto Hesbom como Eleale",
+        "5": "O meu coração clama",
+        "6": "Porque as águas de Ninrim",
+        "7": "Por isso, eles mesmos levam",
+        "8": "Porque o pranto se espalha",
+        "9": "As águas de Dimom"
     }
-  }
 }

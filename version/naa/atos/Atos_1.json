@@ -1,110 +1,37 @@
 {
-  "livro": "Atos",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "A promessa do Espírito Santo",
-      "texto": "Escrevi o primeiro livro, ó Teófilo, relatando todas as coisas que Jesus começou a fazer e a ensinar"
+    "livro": "Atos",
+    "capitulo": 1,
+    "titulos": {
+        "1": "A promessa do Espírito Santo",
+        "6": "A ascensão de Jesus",
+        "12": "A escolha de Matias"
     },
-    "2": {
-      "título": "",
-      "texto": "até o dia em que foi elevado às alturas, depois de haver dado mandamentos por meio do Espírito Santo aos apóstolos que tinha escolhido."
-    },
-    "3": {
-      "título": "",
-      "texto": "Depois de ter padecido, Jesus se apresentou vivo a seus apóstolos, com muitas provas incontestáveis, aparecendo-lhes durante quarenta dias e falando das coisas relacionadas com o Reino de Deus."
-    },
-    "4": {
-      "título": "",
-      "texto": "E, comendo com eles, deu-lhes esta ordem:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Porque João, na verdade, batizou com água, mas vocês serão batizados com o Espírito Santo, dentro de poucos dias."
-    },
-    "6": {
-      "título": "A ascensão de Jesus",
-      "texto": "Então os que estavam reunidos com Jesus lhe perguntaram:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Mas vocês receberão poder, ao descer sobre vocês o Espírito Santo, e serão minhas testemunhas tanto em Jerusalém como em toda a Judeia e Samaria e até os confins da terra."
-    },
-    "9": {
-      "título": "",
-      "texto": "Depois de ter dito isso, Jesus foi elevado às alturas, à vista deles, e uma nuvem o encobriu dos seus olhos."
-    },
-    "10": {
-      "título": "",
-      "texto": "E, estando eles com os olhos fixos no céu, enquanto Jesus subia, eis que dois homens vestidos de branco se puseram ao lado deles"
-    },
-    "11": {
-      "título": "",
-      "texto": "e lhes disseram:"
-    },
-    "12": {
-      "título": "A escolha de Matias",
-      "texto": "Então os apóstolos voltaram do monte das Oliveiras para Jerusalém. A distância até a cidade é de cerca de um quilômetro."
-    },
-    "13": {
-      "título": "",
-      "texto": "Quando entraram na cidade, subiram para o cenáculo onde se reuniam Pedro, João, Tiago, André, Filipe, Tomé, Bartolomeu, Mateus, Tiago, filho de Alfeu, Simão, o Zelote, e Judas, filho de Tiago."
-    },
-    "14": {
-      "título": "",
-      "texto": "Todos estes perseveravam unânimes em oração, com as mulheres, com Maria, mãe de Jesus, e com os irmãos dele."
-    },
-    "15": {
-      "título": "",
-      "texto": "Naqueles dias, Pedro se levantou no meio dos irmãos, que formavam um grupo de mais ou menos cento e vinte pessoas, e disse:"
-    },
-    "16": {
-      "título": "",
-      "texto": "— Irmãos, era necessário que se cumprisse a Escritura que o Espírito Santo predisse pela boca de Davi, a respeito de Judas, que foi o guia daqueles que prenderam Jesus."
-    },
-    "17": {
-      "título": "",
-      "texto": "Ele era um dos nossos e teve parte neste ministério."
-    },
-    "18": {
-      "título": "",
-      "texto": "Ora, este homem adquiriu um campo com o preço da iniquidade e, caindo de cabeça, rompeu-se pelo meio, e todos os seus intestinos se derramaram."
-    },
-    "19": {
-      "título": "",
-      "texto": "Isto chegou ao conhecimento de todos os moradores de Jerusalém, de maneira que em sua própria língua esse campo era chamado Aceldama, isto é, Campo de Sangue."
-    },
-    "20": {
-      "título": "",
-      "texto": "— Porque está escrito no Livro dos Salmos:"
-    },
-    "21": {
-      "título": "",
-      "texto": "— Portanto, é necessário que, dos homens que nos acompanharam todo o tempo em que o Senhor Jesus andou entre nós,"
-    },
-    "22": {
-      "título": "",
-      "texto": "começando no batismo de João, até o dia em que foi tirado do nosso meio e levado às alturas, um destes se torne testemunha conosco da sua ressurreição."
-    },
-    "23": {
-      "título": "",
-      "texto": "Então propuseram dois: José, chamado Barsabás, também conhecido como Justo, e Matias."
-    },
-    "24": {
-      "título": "",
-      "texto": "E, orando, disseram:"
-    },
-    "25": {
-      "título": "",
-      "texto": "para preencher a vaga neste ministério e apostolado, do qual Judas se desviou, indo para o seu próprio lugar."
-    },
-    "26": {
-      "título": "",
-      "texto": "Depois fizeram um sorteio, e a sorte caiu sobre Matias, que foi acrescentado ao grupo dos onze apóstolos."
+    "versiculos": {
+        "1": "Escrevi o primeiro livro, ó Teófilo, relatando todas as coisas que Jesus começou a fazer e a ensinar",
+        "2": "até o dia em que foi elevado às alturas, depois de haver dado mandamentos por meio do Espírito Santo aos apóstolos que tinha escolhido.",
+        "3": "Depois de ter padecido, Jesus se apresentou vivo a seus apóstolos, com muitas provas incontestáveis, aparecendo-lhes durante quarenta dias e falando das coisas relacionadas com o Reino de Deus.",
+        "4": "E, comendo com eles, deu-lhes esta ordem:",
+        "5": "Porque João, na verdade, batizou com água, mas vocês serão batizados com o Espírito Santo, dentro de poucos dias.",
+        "6": "Então os que estavam reunidos com Jesus lhe perguntaram:",
+        "7": "Jesus respondeu:",
+        "8": "Mas vocês receberão poder, ao descer sobre vocês o Espírito Santo, e serão minhas testemunhas tanto em Jerusalém como em toda a Judeia e Samaria e até os confins da terra.",
+        "9": "Depois de ter dito isso, Jesus foi elevado às alturas, à vista deles, e uma nuvem o encobriu dos seus olhos.",
+        "10": "E, estando eles com os olhos fixos no céu, enquanto Jesus subia, eis que dois homens vestidos de branco se puseram ao lado deles",
+        "11": "e lhes disseram:",
+        "12": "Então os apóstolos voltaram do monte das Oliveiras para Jerusalém. A distância até a cidade é de cerca de um quilômetro.",
+        "13": "Quando entraram na cidade, subiram para o cenáculo onde se reuniam Pedro, João, Tiago, André, Filipe, Tomé, Bartolomeu, Mateus, Tiago, filho de Alfeu, Simão, o Zelote, e Judas, filho de Tiago.",
+        "14": "Todos estes perseveravam unânimes em oração, com as mulheres, com Maria, mãe de Jesus, e com os irmãos dele.",
+        "15": "Naqueles dias, Pedro se levantou no meio dos irmãos, que formavam um grupo de mais ou menos cento e vinte pessoas, e disse:",
+        "16": "— Irmãos, era necessário que se cumprisse a Escritura que o Espírito Santo predisse pela boca de Davi, a respeito de Judas, que foi o guia daqueles que prenderam Jesus.",
+        "17": "Ele era um dos nossos e teve parte neste ministério.",
+        "18": "Ora, este homem adquiriu um campo com o preço da iniquidade e, caindo de cabeça, rompeu-se pelo meio, e todos os seus intestinos se derramaram.",
+        "19": "Isto chegou ao conhecimento de todos os moradores de Jerusalém, de maneira que em sua própria língua esse campo era chamado Aceldama, isto é, Campo de Sangue.",
+        "20": "— Porque está escrito no Livro dos Salmos:",
+        "21": "— Portanto, é necessário que, dos homens que nos acompanharam todo o tempo em que o Senhor Jesus andou entre nós,",
+        "22": "começando no batismo de João, até o dia em que foi tirado do nosso meio e levado às alturas, um destes se torne testemunha conosco da sua ressurreição.",
+        "23": "Então propuseram dois: José, chamado Barsabás, também conhecido como Justo, e Matias.",
+        "24": "E, orando, disseram:",
+        "25": "para preencher a vaga neste ministério e apostolado, do qual Judas se desviou, indo para o seu próprio lugar.",
+        "26": "Depois fizeram um sorteio, e a sorte caiu sobre Matias, que foi acrescentado ao grupo dos onze apóstolos."
     }
-  }
 }

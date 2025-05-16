@@ -1,94 +1,31 @@
 {
-  "livro": "2 Crônicas",
-  "capítulo": 13,
-  "versículos": {
-    "1": {
-      "título": "O reinado de Abias, de Judá",
-      "texto": "No décimo oitavo ano do reinado de Jeroboão, Abias começou a reinar sobre Judá. Ele reinou três anos em Jerusalém."
+    "livro": "2 Crônicas",
+    "capitulo": 13,
+    "titulos": {
+        "1": "O reinado de Abias, de Judá"
     },
-    "2": {
-      "título": "",
-      "texto": "A mãe dele se chamava Micaía e era filha de Uriel, de Gibeá. Também houve guerra entre Abias e Jeroboão."
-    },
-    "3": {
-      "título": "",
-      "texto": "Abias começou a guerra com um exército de valentes guerreiros, de quatrocentos mil homens escolhidos, e Jeroboão pôs em ordem de batalha contra ele um exército de oitocentos mil homens escolhidos, todos valentes guerreiros."
-    },
-    "4": {
-      "título": "",
-      "texto": "Abias pôs-se em pé no alto do monte Zemaraim, que está na região montanhosa de Efraim, e gritou:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Será que vocês não sabem que o Senhor , o Deus de Israel, deu para sempre a Davi a soberania de Israel, a ele e aos seus filhos, por uma aliança perpétua?"
-    },
-    "6": {
-      "título": "",
-      "texto": "Contudo, Jeroboão, filho de Nebate, servo de Salomão, filho de Davi, se levantou e se rebelou contra o seu senhor."
-    },
-    "7": {
-      "título": "",
-      "texto": "Juntaram-se a ele uns homens vadios e malignos, que desafiaram Roboão, filho de Salomão. Como Roboão era ainda jovem e indeciso, não lhes pôde resistir."
-    },
-    "8": {
-      "título": "",
-      "texto": "Agora vocês pensam que podem resistir ao reino do Senhor , que está nas mãos dos filhos de Davi. Vocês são uma grande multidão e estão trazendo com vocês os bezerros de ouro que Jeroboão fez para serem os seus deuses."
-    },
-    "9": {
-      "título": "",
-      "texto": "Não é verdade que vocês expulsaram os sacerdotes do Senhor , os filhos de Arão e os levitas, e escolheram para si outros sacerdotes, como fazem os povos das outras terras? Qualquer um que vem para consagrar-se com um novilho e sete carneiros logo se torna sacerdote daqueles que não são deuses."
-    },
-    "10": {
-      "título": "",
-      "texto": "— Quanto a nós, o Senhor é o nosso Deus, e nunca o abandonamos. Temos sacerdotes, que ministram ao Senhor , a saber, os filhos de Arão e os levitas na sua obra."
-    },
-    "11": {
-      "título": "",
-      "texto": "Cada dia, de manhã e à tarde, oferecem holocaustos e queimam incenso aromático, colocando em ordem os pães da proposição sobre a mesa puríssima e o candelabro de ouro e as suas lâmpadas para se acenderem cada tarde, porque nós guardamos o preceito do Senhor , nosso Deus, ao passo que vocês o abandonaram."
-    },
-    "12": {
-      "título": "",
-      "texto": "Eis que Deus está conosco, à nossa frente, e também os seus sacerdotes, tocando com as trombetas, para darem o grito de guerra contra vocês, ó filhos de Israel. Não lutem contra o Senhor , o Deus de seus pais, porque vocês não serão bem-sucedidos."
-    },
-    "13": {
-      "título": "",
-      "texto": "Mas Jeroboão ordenou aos que estavam de emboscada que fizessem uma volta e atacassem o exército de Abias pela retaguarda, de maneira que o seu exército estava em frente dos homens de Judá, e a emboscada vinha por detrás deles."
-    },
-    "14": {
-      "título": "",
-      "texto": "Quando os homens de Judá olharam, viram que a batalha estava por diante e por detrás. Então clamaram ao Senhor , e os sacerdotes tocaram as trombetas."
-    },
-    "15": {
-      "título": "",
-      "texto": "Os homens de Judá gritaram. Quando gritavam, Deus derrotou Jeroboão e todo o Israel diante de Abias e de Judá."
-    },
-    "16": {
-      "título": "",
-      "texto": "Os filhos de Israel fugiram de diante de Judá, e Deus os entregou nas suas mãos."
-    },
-    "17": {
-      "título": "",
-      "texto": "Abias e o seu povo fizeram grande matança entre eles, de maneira que morreram quinhentos mil homens escolhidos de Israel."
-    },
-    "18": {
-      "título": "",
-      "texto": "Assim, os filhos de Israel foram humilhados naquele tempo, e os filhos de Judá prevaleceram, porque confiaram no Senhor , Deus de seus pais."
-    },
-    "19": {
-      "título": "",
-      "texto": "Abias perseguiu Jeroboão e lhe tomou as cidades de Betel, Jesana e Efrom, com as suas respectivas vilas."
-    },
-    "20": {
-      "título": "",
-      "texto": "Jeroboão não restaurou mais o seu poder no tempo de Abias. O Senhor feriu Jeroboão, e ele morreu."
-    },
-    "21": {
-      "título": "",
-      "texto": "Abias, porém, se fortificou. Tomou para si catorze mulheres, e gerou vinte e dois filhos e dezesseis filhas."
-    },
-    "22": {
-      "título": "",
-      "texto": "Quanto aos demais atos de Abias, tanto o que fez como o que disse, está tudo escrito no Livro da História do Profeta Ido."
+    "versiculos": {
+        "1": "No décimo oitavo ano do reinado de Jeroboão, Abias começou a reinar sobre Judá. Ele reinou três anos em Jerusalém.",
+        "2": "A mãe dele se chamava Micaía e era filha de Uriel, de Gibeá. Também houve guerra entre Abias e Jeroboão.",
+        "3": "Abias começou a guerra com um exército de valentes guerreiros, de quatrocentos mil homens escolhidos, e Jeroboão pôs em ordem de batalha contra ele um exército de oitocentos mil homens escolhidos, todos valentes guerreiros.",
+        "4": "Abias pôs-se em pé no alto do monte Zemaraim, que está na região montanhosa de Efraim, e gritou:",
+        "5": "Será que vocês não sabem que o Senhor , o Deus de Israel, deu para sempre a Davi a soberania de Israel, a ele e aos seus filhos, por uma aliança perpétua?",
+        "6": "Contudo, Jeroboão, filho de Nebate, servo de Salomão, filho de Davi, se levantou e se rebelou contra o seu senhor.",
+        "7": "Juntaram-se a ele uns homens vadios e malignos, que desafiaram Roboão, filho de Salomão. Como Roboão era ainda jovem e indeciso, não lhes pôde resistir.",
+        "8": "Agora vocês pensam que podem resistir ao reino do Senhor , que está nas mãos dos filhos de Davi. Vocês são uma grande multidão e estão trazendo com vocês os bezerros de ouro que Jeroboão fez para serem os seus deuses.",
+        "9": "Não é verdade que vocês expulsaram os sacerdotes do Senhor , os filhos de Arão e os levitas, e escolheram para si outros sacerdotes, como fazem os povos das outras terras? Qualquer um que vem para consagrar-se com um novilho e sete carneiros logo se torna sacerdote daqueles que não são deuses.",
+        "10": "— Quanto a nós, o Senhor é o nosso Deus, e nunca o abandonamos. Temos sacerdotes, que ministram ao Senhor , a saber, os filhos de Arão e os levitas na sua obra.",
+        "11": "Cada dia, de manhã e à tarde, oferecem holocaustos e queimam incenso aromático, colocando em ordem os pães da proposição sobre a mesa puríssima e o candelabro de ouro e as suas lâmpadas para se acenderem cada tarde, porque nós guardamos o preceito do Senhor , nosso Deus, ao passo que vocês o abandonaram.",
+        "12": "Eis que Deus está conosco, à nossa frente, e também os seus sacerdotes, tocando com as trombetas, para darem o grito de guerra contra vocês, ó filhos de Israel. Não lutem contra o Senhor , o Deus de seus pais, porque vocês não serão bem-sucedidos.",
+        "13": "Mas Jeroboão ordenou aos que estavam de emboscada que fizessem uma volta e atacassem o exército de Abias pela retaguarda, de maneira que o seu exército estava em frente dos homens de Judá, e a emboscada vinha por detrás deles.",
+        "14": "Quando os homens de Judá olharam, viram que a batalha estava por diante e por detrás. Então clamaram ao Senhor , e os sacerdotes tocaram as trombetas.",
+        "15": "Os homens de Judá gritaram. Quando gritavam, Deus derrotou Jeroboão e todo o Israel diante de Abias e de Judá.",
+        "16": "Os filhos de Israel fugiram de diante de Judá, e Deus os entregou nas suas mãos.",
+        "17": "Abias e o seu povo fizeram grande matança entre eles, de maneira que morreram quinhentos mil homens escolhidos de Israel.",
+        "18": "Assim, os filhos de Israel foram humilhados naquele tempo, e os filhos de Judá prevaleceram, porque confiaram no Senhor , Deus de seus pais.",
+        "19": "Abias perseguiu Jeroboão e lhe tomou as cidades de Betel, Jesana e Efrom, com as suas respectivas vilas.",
+        "20": "Jeroboão não restaurou mais o seu poder no tempo de Abias. O Senhor feriu Jeroboão, e ele morreu.",
+        "21": "Abias, porém, se fortificou. Tomou para si catorze mulheres, e gerou vinte e dois filhos e dezesseis filhas.",
+        "22": "Quanto aos demais atos de Abias, tanto o que fez como o que disse, está tudo escrito no Livro da História do Profeta Ido."
     }
-  }
 }

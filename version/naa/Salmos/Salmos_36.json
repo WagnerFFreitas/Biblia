@@ -1,54 +1,21 @@
 {
-  "livro": "Salmos",
-  "capítulo": 36,
-  "versículos": {
-    "1": {
-      "título": "A maldade humana e a bondade de Deus",
-      "texto": "Há no coração do ímpio"
+    "livro": "Salmos",
+    "capitulo": 36,
+    "titulos": {
+        "1": "A maldade humana e a bondade de Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "Porque a transgressão"
-    },
-    "3": {
-      "título": "",
-      "texto": "As palavras de sua boca"
-    },
-    "4": {
-      "título": "",
-      "texto": "No seu leito, planeja maldades,"
-    },
-    "5": {
-      "título": "",
-      "texto": "A tua misericórdia, Senhor ,"
-    },
-    "6": {
-      "título": "",
-      "texto": "A tua justiça é como"
-    },
-    "7": {
-      "título": "",
-      "texto": "Como é preciosa, ó Deus,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Fartam-se da abundância"
-    },
-    "9": {
-      "título": "",
-      "texto": "Pois em ti está a fonte da vida;"
-    },
-    "10": {
-      "título": "",
-      "texto": "Estende a tua misericórdia"
-    },
-    "11": {
-      "título": "",
-      "texto": "Não deixes que"
-    },
-    "12": {
-      "título": "",
-      "texto": "Tombaram os que praticam"
+    "versiculos": {
+        "1": "Há no coração do ímpio",
+        "2": "Porque a transgressão",
+        "3": "As palavras de sua boca",
+        "4": "No seu leito, planeja maldades,",
+        "5": "A tua misericórdia, Senhor ,",
+        "6": "A tua justiça é como",
+        "7": "Como é preciosa, ó Deus,",
+        "8": "Fartam-se da abundância",
+        "9": "Pois em ti está a fonte da vida;",
+        "10": "Estende a tua misericórdia",
+        "11": "Não deixes que",
+        "12": "Tombaram os que praticam"
     }
-  }
 }

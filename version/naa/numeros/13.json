@@ -1,138 +1,43 @@
 {
-  "livro": "Números",
-  "capítulo": 13,
-  "versículos": {
-    "1": {
-      "título": "Os espias",
-      "texto": "O Senhor disse a Moisés:"
+    "livro": "Números",
+    "capitulo": 13,
+    "titulos": {
+        "1": "Os espias",
+        "25": "O relatório dos espias"
     },
-    "2": {
-      "título": "",
-      "texto": "— Envie alguns homens que espiem a terra de Canaã, que eu vou dar aos filhos de Israel. Enviem um homem de cada tribo de seus pais, sendo cada qual chefe entre eles."
-    },
-    "3": {
-      "título": "",
-      "texto": "Moisés os enviou do deserto de Parã, segundo o mandado do Senhor . Todos aqueles homens eram chefes dos filhos de Israel."
-    },
-    "4": {
-      "título": "",
-      "texto": "São estes os seus nomes: da tribo de Rúben, Samua, filho de Zacur;"
-    },
-    "5": {
-      "título": "",
-      "texto": "da tribo de Simeão, Safate, filho de Hori;"
-    },
-    "6": {
-      "título": "",
-      "texto": "da tribo de Judá, Calebe, filho de Jefoné;"
-    },
-    "7": {
-      "título": "",
-      "texto": "da tribo de Issacar, Jigeal, filho de José;"
-    },
-    "8": {
-      "título": "",
-      "texto": "da tribo de Efraim, Oseias, filho de Num;"
-    },
-    "9": {
-      "título": "",
-      "texto": "da tribo de Benjamim, Palti, filho de Rafu;"
-    },
-    "10": {
-      "título": "",
-      "texto": "da tribo de Zebulom, Gadiel, filho de Sodi;"
-    },
-    "11": {
-      "título": "",
-      "texto": "da tribo de José, pela tribo de Manassés, Gadi, filho de Susi;"
-    },
-    "12": {
-      "título": "",
-      "texto": "da tribo de Dã, Amiel, filho de Gemali;"
-    },
-    "13": {
-      "título": "",
-      "texto": "da tribo de Aser, Setur, filho de Micael;"
-    },
-    "14": {
-      "título": "",
-      "texto": "da tribo de Naftali, Nabi, filho de Vofsi;"
-    },
-    "15": {
-      "título": "",
-      "texto": "da tribo de Gade, Geuel, filho de Maqui."
-    },
-    "16": {
-      "título": "",
-      "texto": "São estes os nomes dos homens que Moisés enviou a espiar aquela terra. E a Oseias, filho de Num, Moisés deu o nome de Josué."
-    },
-    "17": {
-      "título": "",
-      "texto": "Moisés os enviou a espiar a terra de Canaã e disse-lhes:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Vejam a terra, como ela é, e o povo que nela habita, se é forte ou fraco, se são poucos ou muitos."
-    },
-    "19": {
-      "título": "",
-      "texto": "Vejam também como é a terra em que esse povo habita, se é boa ou má, e como são as cidades em que habita, se são arraiais ou fortalezas."
-    },
-    "20": {
-      "título": "",
-      "texto": "Também como é o solo, se é fértil ou estéril, se nele há matas ou não. Tenham coragem e tragam dos frutos da terra."
-    },
-    "21": {
-      "título": "",
-      "texto": "Assim, foram e espiaram a terra desde o deserto de Zim até Reobe, à entrada de Hamate."
-    },
-    "22": {
-      "título": "",
-      "texto": "E subiram pelo Neguebe e foram até Hebrom. Ali viviam Aimã, Sesai e Talmai, filhos de Anaque."
-    },
-    "23": {
-      "título": "",
-      "texto": "Depois, foram até o vale de Escol e ali cortaram um ramo de videira com um cacho de uvas, o qual foi trazido por dois homens numa vara. Trouxeram também romãs e figos."
-    },
-    "24": {
-      "título": "",
-      "texto": "Esse lugar foi chamado de vale de Escol, por causa do cacho de uvas que os filhos de Israel cortaram ali."
-    },
-    "25": {
-      "título": "O relatório dos espias",
-      "texto": "Depois de quarenta dias, voltaram de espiar a terra."
-    },
-    "26": {
-      "título": "",
-      "texto": "Vieram a Moisés, a Arão e a toda a congregação dos filhos de Israel em Cades, no deserto de Parã. Fizeram um relato do que tinham visto, a eles e a toda a congregação, e mostraram-lhes os frutos da terra."
-    },
-    "27": {
-      "título": "",
-      "texto": "Relataram a Moisés e disseram:"
-    },
-    "28": {
-      "título": "",
-      "texto": "Mas o povo que habita nessa terra é poderoso, e as cidades são muito grandes e fortificadas. Também vimos ali os filhos de Anaque."
-    },
-    "29": {
-      "título": "",
-      "texto": "Os amalequitas habitam na terra do Neguebe. Os heteus, os jebuseus e os amorreus habitam nas montanhas. Os cananeus habitam perto do mar e na beira do Jordão."
-    },
-    "30": {
-      "título": "",
-      "texto": "Então Calebe fez calar o povo diante de Moisés e disse:"
-    },
-    "31": {
-      "título": "",
-      "texto": "Porém os homens que tinham ido com ele disseram:"
-    },
-    "32": {
-      "título": "",
-      "texto": "E, diante dos filhos de Israel, falaram mal da terra que haviam espiado, dizendo:"
-    },
-    "33": {
-      "título": "",
-      "texto": "Também vimos ali gigantes , e éramos, aos nossos próprios olhos, como gafanhotos e assim também éramos aos olhos deles."
+    "versiculos": {
+        "1": "O Senhor disse a Moisés:",
+        "2": "— Envie alguns homens que espiem a terra de Canaã, que eu vou dar aos filhos de Israel. Enviem um homem de cada tribo de seus pais, sendo cada qual chefe entre eles.",
+        "3": "Moisés os enviou do deserto de Parã, segundo o mandado do Senhor . Todos aqueles homens eram chefes dos filhos de Israel.",
+        "4": "São estes os seus nomes: da tribo de Rúben, Samua, filho de Zacur;",
+        "5": "da tribo de Simeão, Safate, filho de Hori;",
+        "6": "da tribo de Judá, Calebe, filho de Jefoné;",
+        "7": "da tribo de Issacar, Jigeal, filho de José;",
+        "8": "da tribo de Efraim, Oseias, filho de Num;",
+        "9": "da tribo de Benjamim, Palti, filho de Rafu;",
+        "10": "da tribo de Zebulom, Gadiel, filho de Sodi;",
+        "11": "da tribo de José, pela tribo de Manassés, Gadi, filho de Susi;",
+        "12": "da tribo de Dã, Amiel, filho de Gemali;",
+        "13": "da tribo de Aser, Setur, filho de Micael;",
+        "14": "da tribo de Naftali, Nabi, filho de Vofsi;",
+        "15": "da tribo de Gade, Geuel, filho de Maqui.",
+        "16": "São estes os nomes dos homens que Moisés enviou a espiar aquela terra. E a Oseias, filho de Num, Moisés deu o nome de Josué.",
+        "17": "Moisés os enviou a espiar a terra de Canaã e disse-lhes:",
+        "18": "Vejam a terra, como ela é, e o povo que nela habita, se é forte ou fraco, se são poucos ou muitos.",
+        "19": "Vejam também como é a terra em que esse povo habita, se é boa ou má, e como são as cidades em que habita, se são arraiais ou fortalezas.",
+        "20": "Também como é o solo, se é fértil ou estéril, se nele há matas ou não. Tenham coragem e tragam dos frutos da terra.",
+        "21": "Assim, foram e espiaram a terra desde o deserto de Zim até Reobe, à entrada de Hamate.",
+        "22": "E subiram pelo Neguebe e foram até Hebrom. Ali viviam Aimã, Sesai e Talmai, filhos de Anaque.",
+        "23": "Depois, foram até o vale de Escol e ali cortaram um ramo de videira com um cacho de uvas, o qual foi trazido por dois homens numa vara. Trouxeram também romãs e figos.",
+        "24": "Esse lugar foi chamado de vale de Escol, por causa do cacho de uvas que os filhos de Israel cortaram ali.",
+        "25": "Depois de quarenta dias, voltaram de espiar a terra.",
+        "26": "Vieram a Moisés, a Arão e a toda a congregação dos filhos de Israel em Cades, no deserto de Parã. Fizeram um relato do que tinham visto, a eles e a toda a congregação, e mostraram-lhes os frutos da terra.",
+        "27": "Relataram a Moisés e disseram:",
+        "28": "Mas o povo que habita nessa terra é poderoso, e as cidades são muito grandes e fortificadas. Também vimos ali os filhos de Anaque.",
+        "29": "Os amalequitas habitam na terra do Neguebe. Os heteus, os jebuseus e os amorreus habitam nas montanhas. Os cananeus habitam perto do mar e na beira do Jordão.",
+        "30": "Então Calebe fez calar o povo diante de Moisés e disse:",
+        "31": "Porém os homens que tinham ido com ele disseram:",
+        "32": "E, diante dos filhos de Israel, falaram mal da terra que haviam espiado, dizendo:",
+        "33": "Também vimos ali gigantes , e éramos, aos nossos próprios olhos, como gafanhotos e assim também éramos aos olhos deles."
     }
-  }
 }

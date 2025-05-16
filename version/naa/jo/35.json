@@ -1,70 +1,27 @@
 {
-  "livro": "Jó",
-  "capítulo": 35,
-  "versículos": {
-    "1": {
-      "título": "Cap.",
-      "texto": "Eliú disse ainda:"
+    "livro": "Jó",
+    "capitulo": 35,
+    "titulos": {
+        "1": "Cap.",
+        "6": "A sua impiedade só pode fazer mal ao homem",
+        "14": "Você abre a boca com palavras vazias"
     },
-    "2": {
-      "título": "",
-      "texto": "“Você acha que é justo dizer:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Porque você diz:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Eu darei a resposta a você"
-    },
-    "5": {
-      "título": "",
-      "texto": "Olhe para o céu e veja;"
-    },
-    "6": {
-      "título": "A sua impiedade só pode fazer mal ao homem",
-      "texto": "“Se você peca,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Se você é justo,"
-    },
-    "8": {
-      "título": "",
-      "texto": "A sua impiedade só pode"
-    },
-    "9": {
-      "título": "",
-      "texto": "“Por causa das muitas opressões,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Mas ninguém diz:"
-    },
-    "11": {
-      "título": "",
-      "texto": "que nos ensina mais do que"
-    },
-    "12": {
-      "título": "",
-      "texto": "Clamam,"
-    },
-    "13": {
-      "título": "",
-      "texto": "Só gritos vazios Deus não ouvirá;"
-    },
-    "14": {
-      "título": "Você abre a boca com palavras vazias",
-      "texto": "“Jó, ainda que você diga"
-    },
-    "15": {
-      "título": "",
-      "texto": "Mas agora, porque Deus"
-    },
-    "16": {
-      "título": "",
-      "texto": "você abre a sua boca"
+    "versiculos": {
+        "1": "Eliú disse ainda:",
+        "2": "“Você acha que é justo dizer:",
+        "3": "Porque você diz:",
+        "4": "Eu darei a resposta a você",
+        "5": "Olhe para o céu e veja;",
+        "6": "“Se você peca,",
+        "7": "Se você é justo,",
+        "8": "A sua impiedade só pode",
+        "9": "“Por causa das muitas opressões,",
+        "10": "Mas ninguém diz:",
+        "11": "que nos ensina mais do que",
+        "12": "Clamam,",
+        "13": "Só gritos vazios Deus não ouvirá;",
+        "14": "“Jó, ainda que você diga",
+        "15": "Mas agora, porque Deus",
+        "16": "você abre a sua boca"
     }
-  }
 }

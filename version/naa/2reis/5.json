@@ -1,114 +1,37 @@
 {
-  "livro": "2 Reis",
-  "capítulo": 5,
-  "versículos": {
-    "1": {
-      "título": "Naamã é curado de lepra",
-      "texto": "Naamã, comandante do exército do rei da Síria, era grande homem diante do seu senhor e de muito conceito, porque por meio dele o Senhor tinha dado a vitória à Síria. Ele era herói de guerra, porém sofria de lepra."
+    "livro": "2 Reis",
+    "capitulo": 5,
+    "titulos": {
+        "1": "Naamã é curado de lepra",
+        "20": "Geazi é atacado de lepra"
     },
-    "2": {
-      "título": "",
-      "texto": "Tropas saíram da Síria, e da terra de Israel levaram cativa uma menina, que ficou ao serviço da mulher de Naamã."
-    },
-    "3": {
-      "título": "",
-      "texto": "Um dia a menina disse à sua senhora:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Então Naamã foi contar isso ao seu senhor, dizendo:"
-    },
-    "5": {
-      "título": "",
-      "texto": "O rei da Síria respondeu:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Levou também ao rei de Israel a carta, que dizia: “Tão logo esta carta chegar a você, saiba que eu lhe enviei Naamã, meu servo, para que você o cure da sua lepra.”"
-    },
-    "7": {
-      "título": "",
-      "texto": "Quando o rei de Israel acabou de ler a carta, rasgou as suas roupas em sinal de medo e disse:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Mas, quando Eliseu, homem de Deus, ouviu que o rei de Israel havia rasgado as suas roupas, mandou dizer ao rei:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Então Naamã foi com os seus cavalos e os seus carros e parou à porta da casa de Eliseu."
-    },
-    "10": {
-      "título": "",
-      "texto": "Eliseu lhe mandou um mensageiro, dizendo:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Mas Naamã ficou indignado e se foi, dizendo:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Por acaso não são Abana e Farfar, rios de Damasco, melhores do que todas as águas de Israel? Será que eu não poderia me lavar neles e ficar limpo?"
-    },
-    "13": {
-      "título": "",
-      "texto": "Então os seus oficiais se aproximaram e lhe disseram:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Então Naamã desceu e mergulhou no Jordão sete vezes, conforme a palavra do homem de Deus; e a sua pele se tornou como a pele de uma criança, e ficou limpo."
-    },
-    "15": {
-      "título": "",
-      "texto": "Depois ele voltou ao homem de Deus, ele e toda a sua comitiva. Veio, pôs-se diante dele e disse:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Porém ele respondeu:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Então Naamã disse:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Mas que o Senhor Deus perdoe o seu servo uma coisa: quando meu senhor, o rei, entrar no templo de Rimom para ali adorar, e ele se encostar no meu braço, e eu também tiver de me encurvar no templo de Rimom, quando assim me prostrar no templo de Rimom, que o Senhor Deus perdoe este seu servo por isso."
-    },
-    "19": {
-      "título": "",
-      "texto": "Eliseu lhe disse:"
-    },
-    "20": {
-      "título": "Geazi é atacado de lepra",
-      "texto": "Geazi, o servo de Eliseu, homem de Deus, disse consigo:"
-    },
-    "21": {
-      "título": "",
-      "texto": "Então Geazi correu atrás de Naamã. Quando Naamã viu que alguém vinha correndo atrás dele, saltou da carruagem para ir ao encontro dele. Então perguntou:"
-    },
-    "22": {
-      "título": "",
-      "texto": "Ele respondeu:"
-    },
-    "23": {
-      "título": "",
-      "texto": "Naamã disse:"
-    },
-    "24": {
-      "título": "",
-      "texto": "Quando ele chegou à colina, pegou os sacos que os servos traziam e os depositou na casa. Então despediu aqueles homens, que se foram."
-    },
-    "25": {
-      "título": "",
-      "texto": "Ele, porém, entrou e se pôs diante de seu senhor. Eliseu perguntou:"
-    },
-    "26": {
-      "título": "",
-      "texto": "Porém Eliseu disse:"
-    },
-    "27": {
-      "título": "",
-      "texto": "Portanto, a lepra de Naamã se pegará a você e à sua descendência para sempre."
+    "versiculos": {
+        "1": "Naamã, comandante do exército do rei da Síria, era grande homem diante do seu senhor e de muito conceito, porque por meio dele o Senhor tinha dado a vitória à Síria. Ele era herói de guerra, porém sofria de lepra.",
+        "2": "Tropas saíram da Síria, e da terra de Israel levaram cativa uma menina, que ficou ao serviço da mulher de Naamã.",
+        "3": "Um dia a menina disse à sua senhora:",
+        "4": "Então Naamã foi contar isso ao seu senhor, dizendo:",
+        "5": "O rei da Síria respondeu:",
+        "6": "Levou também ao rei de Israel a carta, que dizia: “Tão logo esta carta chegar a você, saiba que eu lhe enviei Naamã, meu servo, para que você o cure da sua lepra.”",
+        "7": "Quando o rei de Israel acabou de ler a carta, rasgou as suas roupas em sinal de medo e disse:",
+        "8": "Mas, quando Eliseu, homem de Deus, ouviu que o rei de Israel havia rasgado as suas roupas, mandou dizer ao rei:",
+        "9": "Então Naamã foi com os seus cavalos e os seus carros e parou à porta da casa de Eliseu.",
+        "10": "Eliseu lhe mandou um mensageiro, dizendo:",
+        "11": "Mas Naamã ficou indignado e se foi, dizendo:",
+        "12": "Por acaso não são Abana e Farfar, rios de Damasco, melhores do que todas as águas de Israel? Será que eu não poderia me lavar neles e ficar limpo?",
+        "13": "Então os seus oficiais se aproximaram e lhe disseram:",
+        "14": "Então Naamã desceu e mergulhou no Jordão sete vezes, conforme a palavra do homem de Deus; e a sua pele se tornou como a pele de uma criança, e ficou limpo.",
+        "15": "Depois ele voltou ao homem de Deus, ele e toda a sua comitiva. Veio, pôs-se diante dele e disse:",
+        "16": "Porém ele respondeu:",
+        "17": "Então Naamã disse:",
+        "18": "Mas que o Senhor Deus perdoe o seu servo uma coisa: quando meu senhor, o rei, entrar no templo de Rimom para ali adorar, e ele se encostar no meu braço, e eu também tiver de me encurvar no templo de Rimom, quando assim me prostrar no templo de Rimom, que o Senhor Deus perdoe este seu servo por isso.",
+        "19": "Eliseu lhe disse:",
+        "20": "Geazi, o servo de Eliseu, homem de Deus, disse consigo:",
+        "21": "Então Geazi correu atrás de Naamã. Quando Naamã viu que alguém vinha correndo atrás dele, saltou da carruagem para ir ao encontro dele. Então perguntou:",
+        "22": "Ele respondeu:",
+        "23": "Naamã disse:",
+        "24": "Quando ele chegou à colina, pegou os sacos que os servos traziam e os depositou na casa. Então despediu aqueles homens, que se foram.",
+        "25": "Ele, porém, entrou e se pôs diante de seu senhor. Eliseu perguntou:",
+        "26": "Porém Eliseu disse:",
+        "27": "Portanto, a lepra de Naamã se pegará a você e à sua descendência para sempre."
     }
-  }
 }

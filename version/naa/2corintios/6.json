@@ -1,78 +1,27 @@
 {
-  "livro": "2 Coríntios",
-  "capítulo": 6,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "E nós, na qualidade de cooperadores com ele, também exortamos a que vocês não recebam em vão a graça de Deus."
+    "livro": "2 Coríntios",
+    "capitulo": 6,
+    "titulos": {
+        "14": "Nenhuma comunhão com os descrentes"
     },
-    "2": {
-      "título": "",
-      "texto": "Porque ele diz:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Não queremos dar nenhum motivo de escândalo em coisa alguma, para que o ministério não seja censurado."
-    },
-    "4": {
-      "título": "",
-      "texto": "Pelo contrário, em tudo nos recomendamos como ministros de Deus: na muita paciência, nas aflições, nas privações, nas angústias,"
-    },
-    "5": {
-      "título": "",
-      "texto": "nos açoites, nas prisões, nos tumultos, nos trabalhos, nas vigílias, nos jejuns,"
-    },
-    "6": {
-      "título": "",
-      "texto": "na pureza, no saber, na paciência, na bondade, no Espírito Santo, no amor não fingido,"
-    },
-    "7": {
-      "título": "",
-      "texto": "na palavra da verdade, no poder de Deus; pelas armas da justiça, tanto para atacar como para defender;"
-    },
-    "8": {
-      "título": "",
-      "texto": "por honra e por desonra, por infâmia e por boa fama; como enganadores e sendo verdadeiros;"
-    },
-    "9": {
-      "título": "",
-      "texto": "como desconhecidos, mas sendo bem-conhecidos; como se estivéssemos morrendo, mas eis que vivemos; como castigados, porém não mortos;"
-    },
-    "10": {
-      "título": "",
-      "texto": "como entristecidos, mas sempre alegres; como pobres, mas enriquecendo a muitos; como nada tendo, mas possuindo tudo."
-    },
-    "11": {
-      "título": "",
-      "texto": "Ó coríntios, temos falado com toda a franqueza e estamos de coração aberto para vocês."
-    },
-    "12": {
-      "título": "",
-      "texto": "Nosso afeto por vocês não tem limites; vocês é que estão limitados em seu afeto por nós."
-    },
-    "13": {
-      "título": "",
-      "texto": "Ora, como justa retribuição — e falo a vocês como a filhos — peço que também vocês abram o seu coração para nós."
-    },
-    "14": {
-      "título": "Nenhuma comunhão com os descrentes",
-      "texto": "Não se ponham em jugo desigual com os descrentes. Pois que sociedade pode haver entre a justiça e a iniquidade? Ou que comunhão existe entre a luz e as trevas?"
-    },
-    "15": {
-      "título": "",
-      "texto": "Que harmonia pode haver entre Cristo e o Maligno? Ou que união existe entre o crente e o descrente?"
-    },
-    "16": {
-      "título": "",
-      "texto": "Que ligação há entre o santuário de Deus e os ídolos? Porque nós somos santuário do Deus vivo, como ele próprio disse:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Por isso, o Senhor diz:"
-    },
-    "18": {
-      "título": "",
-      "texto": "“Serei o Pai de vocês,"
+    "versiculos": {
+        "1": "E nós, na qualidade de cooperadores com ele, também exortamos a que vocês não recebam em vão a graça de Deus.",
+        "2": "Porque ele diz:",
+        "3": "Não queremos dar nenhum motivo de escândalo em coisa alguma, para que o ministério não seja censurado.",
+        "4": "Pelo contrário, em tudo nos recomendamos como ministros de Deus: na muita paciência, nas aflições, nas privações, nas angústias,",
+        "5": "nos açoites, nas prisões, nos tumultos, nos trabalhos, nas vigílias, nos jejuns,",
+        "6": "na pureza, no saber, na paciência, na bondade, no Espírito Santo, no amor não fingido,",
+        "7": "na palavra da verdade, no poder de Deus; pelas armas da justiça, tanto para atacar como para defender;",
+        "8": "por honra e por desonra, por infâmia e por boa fama; como enganadores e sendo verdadeiros;",
+        "9": "como desconhecidos, mas sendo bem-conhecidos; como se estivéssemos morrendo, mas eis que vivemos; como castigados, porém não mortos;",
+        "10": "como entristecidos, mas sempre alegres; como pobres, mas enriquecendo a muitos; como nada tendo, mas possuindo tudo.",
+        "11": "Ó coríntios, temos falado com toda a franqueza e estamos de coração aberto para vocês.",
+        "12": "Nosso afeto por vocês não tem limites; vocês é que estão limitados em seu afeto por nós.",
+        "13": "Ora, como justa retribuição — e falo a vocês como a filhos — peço que também vocês abram o seu coração para nós.",
+        "14": "Não se ponham em jugo desigual com os descrentes. Pois que sociedade pode haver entre a justiça e a iniquidade? Ou que comunhão existe entre a luz e as trevas?",
+        "15": "Que harmonia pode haver entre Cristo e o Maligno? Ou que união existe entre o crente e o descrente?",
+        "16": "Que ligação há entre o santuário de Deus e os ídolos? Porque nós somos santuário do Deus vivo, como ele próprio disse:",
+        "17": "Por isso, o Senhor diz:",
+        "18": "“Serei o Pai de vocês,"
     }
-  }
 }

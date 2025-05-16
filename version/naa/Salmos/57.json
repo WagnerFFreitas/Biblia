@@ -1,50 +1,20 @@
 {
-  "livro": "Salmos",
-  "capítulo": 57,
-  "versículos": {
-    "1": {
-      "título": "Louvor pela bondade de Deus",
-      "texto": "Tem misericórdia de mim, ó Deus,"
+    "livro": "Salmos",
+    "capitulo": 57,
+    "titulos": {
+        "1": "Louvor pela bondade de Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "Clamarei ao Deus Altíssimo,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Dos céus ele me envia"
-    },
-    "4": {
-      "título": "",
-      "texto": "A minha alma está"
-    },
-    "5": {
-      "título": "",
-      "texto": "Sê exaltado, ó Deus,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Armaram uma rede"
-    },
-    "7": {
-      "título": "",
-      "texto": "Firme está o meu coração,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Acorde, ó minha alma!"
-    },
-    "9": {
-      "título": "",
-      "texto": "Eu te darei graças"
-    },
-    "10": {
-      "título": "",
-      "texto": "Pois a tua misericórdia"
-    },
-    "11": {
-      "título": "",
-      "texto": "Sê exaltado, ó Deus,"
+    "versiculos": {
+        "1": "Tem misericórdia de mim, ó Deus,",
+        "2": "Clamarei ao Deus Altíssimo,",
+        "3": "Dos céus ele me envia",
+        "4": "A minha alma está",
+        "5": "Sê exaltado, ó Deus,",
+        "6": "Armaram uma rede",
+        "7": "Firme está o meu coração,",
+        "8": "Acorde, ó minha alma!",
+        "9": "Eu te darei graças",
+        "10": "Pois a tua misericórdia",
+        "11": "Sê exaltado, ó Deus,"
     }
-  }
 }

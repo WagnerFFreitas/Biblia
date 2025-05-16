@@ -1,50 +1,20 @@
 {
-  "livro": "Isaías",
-  "capítulo": 50,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Assim diz o Senhor :"
+    "livro": "Isaías",
+    "capitulo": 50,
+    "titulos": {
+        "4": "O sofrimento e a fidelidade do Servo do Senhor"
     },
-    "2": {
-      "título": "",
-      "texto": "Por que razão, quando eu vim,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Posso vestir os céus de escuridão"
-    },
-    "4": {
-      "título": "O sofrimento e a fidelidade do Servo do Senhor",
-      "texto": "O Senhor Deus me deu"
-    },
-    "5": {
-      "título": "",
-      "texto": "O Senhor Deus"
-    },
-    "6": {
-      "título": "",
-      "texto": "Ofereci as costas"
-    },
-    "7": {
-      "título": "",
-      "texto": "Porque o Senhor Deus me ajuda."
-    },
-    "8": {
-      "título": "",
-      "texto": "Perto está o que me justifica."
-    },
-    "9": {
-      "título": "",
-      "texto": "Eis que o Senhor Deus me ajuda."
-    },
-    "10": {
-      "título": "",
-      "texto": "Quem de vocês teme o Senhor"
-    },
-    "11": {
-      "título": "",
-      "texto": "Todos vocês que acendem fogo"
+    "versiculos": {
+        "1": "Assim diz o Senhor :",
+        "2": "Por que razão, quando eu vim,",
+        "3": "Posso vestir os céus de escuridão",
+        "4": "O Senhor Deus me deu",
+        "5": "O Senhor Deus",
+        "6": "Ofereci as costas",
+        "7": "Porque o Senhor Deus me ajuda.",
+        "8": "Perto está o que me justifica.",
+        "9": "Eis que o Senhor Deus me ajuda.",
+        "10": "Quem de vocês teme o Senhor",
+        "11": "Todos vocês que acendem fogo"
     }
-  }
 }

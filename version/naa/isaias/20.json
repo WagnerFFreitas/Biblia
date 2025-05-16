@@ -1,30 +1,15 @@
 {
-  "livro": "Isaías",
-  "capítulo": 20,
-  "versículos": {
-    "1": {
-      "título": "Profecia do cativeiro dos egípcios e dos etíopes",
-      "texto": "No ano em que Tartã, enviado por Sargão, rei da Assíria, veio a Asdode, atacou a cidade e a conquistou,"
+    "livro": "Isaías",
+    "capitulo": 20,
+    "titulos": {
+        "1": "Profecia do cativeiro dos egípcios e dos etíopes"
     },
-    "2": {
-      "título": "",
-      "texto": "nesse mesmo tempo o Senhor falou por meio de Isaías, filho de Amoz, dizendo:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Então o Senhor disse:"
-    },
-    "4": {
-      "título": "",
-      "texto": "assim o rei da Assíria levará os presos do Egito e os exilados da Etiópia, tanto moços como velhos, despidos e descalços e com as nádegas descobertas, para vergonha do Egito."
-    },
-    "5": {
-      "título": "",
-      "texto": "Então os israelitas ficarão apavorados e envergonhados por causa dos etíopes, sua esperança, e dos egípcios, sua glória."
-    },
-    "6": {
-      "título": "",
-      "texto": "Os moradores desta região dirão naquele dia: “Vejam o que aconteceu com aqueles em quem esperávamos e a quem recorremos para nos livrar do rei da Assíria! E, agora, como nós vamos escapar?”"
+    "versiculos": {
+        "1": "No ano em que Tartã, enviado por Sargão, rei da Assíria, veio a Asdode, atacou a cidade e a conquistou,",
+        "2": "nesse mesmo tempo o Senhor falou por meio de Isaías, filho de Amoz, dizendo:",
+        "3": "Então o Senhor disse:",
+        "4": "assim o rei da Assíria levará os presos do Egito e os exilados da Etiópia, tanto moços como velhos, despidos e descalços e com as nádegas descobertas, para vergonha do Egito.",
+        "5": "Então os israelitas ficarão apavorados e envergonhados por causa dos etíopes, sua esperança, e dos egípcios, sua glória.",
+        "6": "Os moradores desta região dirão naquele dia: “Vejam o que aconteceu com aqueles em quem esperávamos e a quem recorremos para nos livrar do rei da Assíria! E, agora, como nós vamos escapar?”"
     }
-  }
 }

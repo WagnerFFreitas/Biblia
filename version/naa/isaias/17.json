@@ -1,62 +1,23 @@
 {
-  "livro": "Isaías",
-  "capítulo": 17,
-  "versículos": {
-    "1": {
-      "título": "Profecia contra Damasco e Efraim",
-      "texto": "Sentença contra Damasco."
+    "livro": "Isaías",
+    "capitulo": 17,
+    "titulos": {
+        "1": "Profecia contra Damasco e Efraim"
     },
-    "2": {
-      "título": "",
-      "texto": "As cidades de Aroer"
-    },
-    "3": {
-      "título": "",
-      "texto": "A fortaleza de Efraim desaparecerá,"
-    },
-    "4": {
-      "título": "",
-      "texto": "“Naquele dia, a glória de Jacó"
-    },
-    "5": {
-      "título": "",
-      "texto": "Será como quando"
-    },
-    "6": {
-      "título": "",
-      "texto": "Mas ainda ficarão algumas espigas,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Naquele dia, as pessoas olharão para o seu Criador, e os seus olhos estarão voltados para o Santo de Israel."
-    },
-    "8": {
-      "título": "",
-      "texto": "Eles não olharão para os altares, obra de suas mãos, nem voltarão os olhos para o que os seus dedos fizeram, nem para os postes da deusa Aserá, nem para os altares do incenso."
-    },
-    "9": {
-      "título": "",
-      "texto": "Naquele dia, as cidades que eles fortificaram ficarão como os lugares abandonados no bosque ou no alto das montanhas, os quais no passado foram abandonados diante da chegada dos filhos de Israel, e haverá desolação."
-    },
-    "10": {
-      "título": "",
-      "texto": "Porque você se esqueceu"
-    },
-    "11": {
-      "título": "",
-      "texto": "e, no dia em que você as plantar,"
-    },
-    "12": {
-      "título": "",
-      "texto": "Ai do bramido dos grandes povos"
-    },
-    "13": {
-      "título": "",
-      "texto": "As nações rugem"
-    },
-    "14": {
-      "título": "",
-      "texto": "Ao anoitecer, eis que há pavor,"
+    "versiculos": {
+        "1": "Sentença contra Damasco.",
+        "2": "As cidades de Aroer",
+        "3": "A fortaleza de Efraim desaparecerá,",
+        "4": "“Naquele dia, a glória de Jacó",
+        "5": "Será como quando",
+        "6": "Mas ainda ficarão algumas espigas,",
+        "7": "Naquele dia, as pessoas olharão para o seu Criador, e os seus olhos estarão voltados para o Santo de Israel.",
+        "8": "Eles não olharão para os altares, obra de suas mãos, nem voltarão os olhos para o que os seus dedos fizeram, nem para os postes da deusa Aserá, nem para os altares do incenso.",
+        "9": "Naquele dia, as cidades que eles fortificaram ficarão como os lugares abandonados no bosque ou no alto das montanhas, os quais no passado foram abandonados diante da chegada dos filhos de Israel, e haverá desolação.",
+        "10": "Porque você se esqueceu",
+        "11": "e, no dia em que você as plantar,",
+        "12": "Ai do bramido dos grandes povos",
+        "13": "As nações rugem",
+        "14": "Ao anoitecer, eis que há pavor,"
     }
-  }
 }

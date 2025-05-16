@@ -1,86 +1,30 @@
 {
-  "livro": "Miquéias",
-  "capítulo": 7,
-  "versículos": {
-    "1": {
-      "título": "A corrupção moral de Israel",
-      "texto": "Ai de mim!"
+    "livro": "Miquéias",
+    "capitulo": 7,
+    "titulos": {
+        "1": "A corrupção moral de Israel",
+        "8": "Deus se compadece de Israel"
     },
-    "2": {
-      "título": "",
-      "texto": "Desapareceram da terra"
-    },
-    "3": {
-      "título": "",
-      "texto": "As suas mãos são hábeis"
-    },
-    "4": {
-      "título": "",
-      "texto": "O melhor deles"
-    },
-    "5": {
-      "título": "",
-      "texto": "Não acredite em seu amigo,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Porque o filho despreza o pai,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Eu, porém, olharei para o Senhor"
-    },
-    "8": {
-      "título": "Deus se compadece de Israel",
-      "texto": "Minha inimiga, não se alegre"
-    },
-    "9": {
-      "título": "",
-      "texto": "Sofrerei a ira do Senhor ,"
-    },
-    "10": {
-      "título": "",
-      "texto": "A minha inimiga verá isso;"
-    },
-    "11": {
-      "título": "",
-      "texto": "No dia da reedificação"
-    },
-    "12": {
-      "título": "",
-      "texto": "Nesse dia, virão a você"
-    },
-    "13": {
-      "título": "",
-      "texto": "Mas a terra se tornará em desolação,"
-    },
-    "14": {
-      "título": "",
-      "texto": "Ó Senhor , apascenta o teu povo"
-    },
-    "15": {
-      "título": "",
-      "texto": "Eu lhe mostrarei maravilhas,"
-    },
-    "16": {
-      "título": "",
-      "texto": "As nações verão isso"
-    },
-    "17": {
-      "título": "",
-      "texto": "Lamberão o pó como serpentes;"
-    },
-    "18": {
-      "título": "",
-      "texto": "Quem é semelhante a ti, ó Deus,"
-    },
-    "19": {
-      "título": "",
-      "texto": "Ele voltará a ter"
-    },
-    "20": {
-      "título": "",
-      "texto": "Mostrarás a Jacó a fidelidade"
+    "versiculos": {
+        "1": "Ai de mim!",
+        "2": "Desapareceram da terra",
+        "3": "As suas mãos são hábeis",
+        "4": "O melhor deles",
+        "5": "Não acredite em seu amigo,",
+        "6": "Porque o filho despreza o pai,",
+        "7": "Eu, porém, olharei para o Senhor",
+        "8": "Minha inimiga, não se alegre",
+        "9": "Sofrerei a ira do Senhor ,",
+        "10": "A minha inimiga verá isso;",
+        "11": "No dia da reedificação",
+        "12": "Nesse dia, virão a você",
+        "13": "Mas a terra se tornará em desolação,",
+        "14": "Ó Senhor , apascenta o teu povo",
+        "15": "Eu lhe mostrarei maravilhas,",
+        "16": "As nações verão isso",
+        "17": "Lamberão o pó como serpentes;",
+        "18": "Quem é semelhante a ti, ó Deus,",
+        "19": "Ele voltará a ter",
+        "20": "Mostrarás a Jacó a fidelidade"
     }
-  }
 }

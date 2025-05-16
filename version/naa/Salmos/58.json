@@ -1,50 +1,20 @@
 {
-  "livro": "Salmos",
-  "capítulo": 58,
-  "versículos": {
-    "1": {
-      "título": "O castigo dos ímpios",
-      "texto": "Será que vocês, juízes,"
+    "livro": "Salmos",
+    "capitulo": 58,
+    "titulos": {
+        "1": "O castigo dos ímpios"
     },
-    "2": {
-      "título": "",
-      "texto": "Longe disso!"
-    },
-    "3": {
-      "título": "",
-      "texto": "Os ímpios se desviam"
-    },
-    "4": {
-      "título": "",
-      "texto": "Têm veneno semelhante"
-    },
-    "5": {
-      "título": "",
-      "texto": "para não ouvir"
-    },
-    "6": {
-      "título": "",
-      "texto": "Ó Deus, quebra-lhes"
-    },
-    "7": {
-      "título": "",
-      "texto": "Que eles desapareçam"
-    },
-    "8": {
-      "título": "",
-      "texto": "Sejam como a lesma,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Como espinheiros,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Os justos se alegrarão"
-    },
-    "11": {
-      "título": "",
-      "texto": "Então se dirá: “Na verdade,"
+    "versiculos": {
+        "1": "Será que vocês, juízes,",
+        "2": "Longe disso!",
+        "3": "Os ímpios se desviam",
+        "4": "Têm veneno semelhante",
+        "5": "para não ouvir",
+        "6": "Ó Deus, quebra-lhes",
+        "7": "Que eles desapareçam",
+        "8": "Sejam como a lesma,",
+        "9": "Como espinheiros,",
+        "10": "Os justos se alegrarão",
+        "11": "Então se dirá: “Na verdade,"
     }
-  }
 }

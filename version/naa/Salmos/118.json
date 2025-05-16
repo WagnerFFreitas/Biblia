@@ -1,122 +1,38 @@
 {
-  "livro": "Salmos",
-  "capítulo": 118,
-  "versículos": {
-    "1": {
-      "título": "A alegria dos justos pela salvação",
-      "texto": "Deem graças ao Senhor ,"
+    "livro": "Salmos",
+    "capitulo": 118,
+    "titulos": {
+        "1": "A alegria dos justos pela salvação"
     },
-    "2": {
-      "título": "",
-      "texto": "Diga, pois, Israel:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Diga, pois, a casa de Arão:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Digam, pois, os que temem"
-    },
-    "5": {
-      "título": "",
-      "texto": "Na angústia, invoquei o Senhor ;"
-    },
-    "6": {
-      "título": "",
-      "texto": "O Senhor está comigo;"
-    },
-    "7": {
-      "título": "",
-      "texto": "O Senhor está comigo,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Melhor é buscar refúgio"
-    },
-    "9": {
-      "título": "",
-      "texto": "Melhor é buscar refúgio"
-    },
-    "10": {
-      "título": "",
-      "texto": "Todas as nações me cercaram,"
-    },
-    "11": {
-      "título": "",
-      "texto": "Elas me cercaram, sim,"
-    },
-    "12": {
-      "título": "",
-      "texto": "Como abelhas me cercaram,"
-    },
-    "13": {
-      "título": "",
-      "texto": "Empurraram-me violentamente"
-    },
-    "14": {
-      "título": "",
-      "texto": "O Senhor é a minha força"
-    },
-    "15": {
-      "título": "",
-      "texto": "Nas tendas dos justos"
-    },
-    "16": {
-      "título": "",
-      "texto": "A mão do Senhor se eleva,"
-    },
-    "17": {
-      "título": "",
-      "texto": "Não morrerei;"
-    },
-    "18": {
-      "título": "",
-      "texto": "O Senhor me castigou"
-    },
-    "19": {
-      "título": "",
-      "texto": "Abram as portas"
-    },
-    "20": {
-      "título": "",
-      "texto": "Esta é a porta do Senhor ;"
-    },
-    "21": {
-      "título": "",
-      "texto": "Graças te dou"
-    },
-    "22": {
-      "título": "",
-      "texto": "A pedra que os construtores"
-    },
-    "23": {
-      "título": "",
-      "texto": "Isto procede do Senhor"
-    },
-    "24": {
-      "título": "",
-      "texto": "Este é o dia que o Senhor fez;"
-    },
-    "25": {
-      "título": "",
-      "texto": "Oh! Salva-nos, Senhor ,"
-    },
-    "26": {
-      "título": "",
-      "texto": "Bendito o que vem"
-    },
-    "27": {
-      "título": "",
-      "texto": "O Senhor é Deus,"
-    },
-    "28": {
-      "título": "",
-      "texto": "Tu és o meu Deus,"
-    },
-    "29": {
-      "título": "",
-      "texto": "Deem graças ao Senhor ,"
+    "versiculos": {
+        "1": "Deem graças ao Senhor ,",
+        "2": "Diga, pois, Israel:",
+        "3": "Diga, pois, a casa de Arão:",
+        "4": "Digam, pois, os que temem",
+        "5": "Na angústia, invoquei o Senhor ;",
+        "6": "O Senhor está comigo;",
+        "7": "O Senhor está comigo,",
+        "8": "Melhor é buscar refúgio",
+        "9": "Melhor é buscar refúgio",
+        "10": "Todas as nações me cercaram,",
+        "11": "Elas me cercaram, sim,",
+        "12": "Como abelhas me cercaram,",
+        "13": "Empurraram-me violentamente",
+        "14": "O Senhor é a minha força",
+        "15": "Nas tendas dos justos",
+        "16": "A mão do Senhor se eleva,",
+        "17": "Não morrerei;",
+        "18": "O Senhor me castigou",
+        "19": "Abram as portas",
+        "20": "Esta é a porta do Senhor ;",
+        "21": "Graças te dou",
+        "22": "A pedra que os construtores",
+        "23": "Isto procede do Senhor",
+        "24": "Este é o dia que o Senhor fez;",
+        "25": "Oh! Salva-nos, Senhor ,",
+        "26": "Bendito o que vem",
+        "27": "O Senhor é Deus,",
+        "28": "Tu és o meu Deus,",
+        "29": "Deem graças ao Senhor ,"
     }
-  }
 }

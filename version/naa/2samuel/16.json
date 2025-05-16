@@ -1,98 +1,34 @@
 {
-  "livro": "2 Samuel",
-  "capítulo": 16,
-  "versículos": {
-    "1": {
-      "título": "Davi e Ziba",
-      "texto": "Davi tinha acabado de passar o alto do monte das Oliveiras quando Ziba, servo de Mefibosete, veio ao encontro dele com dois jumentos encilhados, trazendo duzentos pães, cem cachos de passas, cem frutas de verão e um odre de vinho."
+    "livro": "2 Samuel",
+    "capitulo": 16,
+    "titulos": {
+        "1": "Davi e Ziba",
+        "5": "Davi amaldiçoado por Simei",
+        "15": "Absalão em Jerusalém"
     },
-    "2": {
-      "título": "",
-      "texto": "O rei perguntou a Ziba:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Então o rei perguntou:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Então o rei disse a Ziba:"
-    },
-    "5": {
-      "título": "Davi amaldiçoado por Simei",
-      "texto": "Quando o rei Davi chegou a Baurim, eis que dali saiu um homem da família da casa de Saul, cujo nome era Simei, filho de Gera; saiu e ia amaldiçoando."
-    },
-    "6": {
-      "título": "",
-      "texto": "Atirava pedras contra Davi e contra todos os seus servos, embora todo o povo e todos os valentes estivessem à direita e à esquerda do rei."
-    },
-    "7": {
-      "título": "",
-      "texto": "Enquanto amaldiçoava, Simei dizia:"
-    },
-    "8": {
-      "título": "",
-      "texto": "O Senhor Deus o está castigando por todo o sangue derramado na casa de Saul, cujo reino você usurpou. O Senhor já entregou o reino nas mãos de seu filho Absalão. Agora você caiu em desgraça, porque é um assassino!"
-    },
-    "9": {
-      "título": "",
-      "texto": "Então Abisai, filho de Zeruia, disse ao rei:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Mas o rei disse:"
-    },
-    "11": {
-      "título": "",
-      "texto": "E Davi disse a Abisai e a todos os seus servos:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Talvez o Senhor olhe para a minha aflição e o Senhor reverta em bênção a maldição que ele está proferindo no dia de hoje."
-    },
-    "13": {
-      "título": "",
-      "texto": "E assim Davi e os seus homens prosseguiam o seu caminho. Também Simei ia pela encosta do monte, ao lado dele, caminhando e amaldiçoando, e atirava pedras e terra contra ele."
-    },
-    "14": {
-      "título": "",
-      "texto": "O rei e todo o povo que ia com ele chegaram exaustos ao Jordão e ali descansaram."
-    },
-    "15": {
-      "título": "Absalão em Jerusalém",
-      "texto": "Absalão e todo o povo, homens de Israel, entraram em Jerusalém, e Aitofel estava com ele."
-    },
-    "16": {
-      "título": "",
-      "texto": "Quando Husai, o arquita, amigo de Davi, se apresentou a Absalão, disse a ele:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Porém Absalão disse a Husai:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Husai respondeu a Absalão:"
-    },
-    "19": {
-      "título": "",
-      "texto": "Além disso, a quem serviria eu? Será que não seria ao filho do rei? Como servi ao seu pai, assim servirei a você."
-    },
-    "20": {
-      "título": "",
-      "texto": "Então Absalão perguntou a Aitofel:"
-    },
-    "21": {
-      "título": "",
-      "texto": "Aitofel respondeu a Absalão:"
-    },
-    "22": {
-      "título": "",
-      "texto": "Então armaram uma tenda para Absalão no terraço, e ali, à vista de todo o Israel, ele teve relações com as concubinas de seu pai."
-    },
-    "23": {
-      "título": "",
-      "texto": "O conselho que Aitofel dava, naqueles dias, era como resposta de Deus a uma consulta; tanto Davi como Absalão seguiam os conselhos de Aitofel."
+    "versiculos": {
+        "1": "Davi tinha acabado de passar o alto do monte das Oliveiras quando Ziba, servo de Mefibosete, veio ao encontro dele com dois jumentos encilhados, trazendo duzentos pães, cem cachos de passas, cem frutas de verão e um odre de vinho.",
+        "2": "O rei perguntou a Ziba:",
+        "3": "Então o rei perguntou:",
+        "4": "Então o rei disse a Ziba:",
+        "5": "Quando o rei Davi chegou a Baurim, eis que dali saiu um homem da família da casa de Saul, cujo nome era Simei, filho de Gera; saiu e ia amaldiçoando.",
+        "6": "Atirava pedras contra Davi e contra todos os seus servos, embora todo o povo e todos os valentes estivessem à direita e à esquerda do rei.",
+        "7": "Enquanto amaldiçoava, Simei dizia:",
+        "8": "O Senhor Deus o está castigando por todo o sangue derramado na casa de Saul, cujo reino você usurpou. O Senhor já entregou o reino nas mãos de seu filho Absalão. Agora você caiu em desgraça, porque é um assassino!",
+        "9": "Então Abisai, filho de Zeruia, disse ao rei:",
+        "10": "Mas o rei disse:",
+        "11": "E Davi disse a Abisai e a todos os seus servos:",
+        "12": "Talvez o Senhor olhe para a minha aflição e o Senhor reverta em bênção a maldição que ele está proferindo no dia de hoje.",
+        "13": "E assim Davi e os seus homens prosseguiam o seu caminho. Também Simei ia pela encosta do monte, ao lado dele, caminhando e amaldiçoando, e atirava pedras e terra contra ele.",
+        "14": "O rei e todo o povo que ia com ele chegaram exaustos ao Jordão e ali descansaram.",
+        "15": "Absalão e todo o povo, homens de Israel, entraram em Jerusalém, e Aitofel estava com ele.",
+        "16": "Quando Husai, o arquita, amigo de Davi, se apresentou a Absalão, disse a ele:",
+        "17": "Porém Absalão disse a Husai:",
+        "18": "Husai respondeu a Absalão:",
+        "19": "Além disso, a quem serviria eu? Será que não seria ao filho do rei? Como servi ao seu pai, assim servirei a você.",
+        "20": "Então Absalão perguntou a Aitofel:",
+        "21": "Aitofel respondeu a Absalão:",
+        "22": "Então armaram uma tenda para Absalão no terraço, e ali, à vista de todo o Israel, ele teve relações com as concubinas de seu pai.",
+        "23": "O conselho que Aitofel dava, naqueles dias, era como resposta de Deus a uma consulta; tanto Davi como Absalão seguiam os conselhos de Aitofel."
     }
-  }
 }

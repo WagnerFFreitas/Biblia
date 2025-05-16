@@ -1,98 +1,32 @@
 {
-  "livro": "Isaías",
-  "capítulo": 51,
-  "versículos": {
-    "1": {
-      "título": "Palavra de conforto para Sião",
-      "texto": "“Escutem, vocês que procuram"
+    "livro": "Isaías",
+    "capitulo": 51,
+    "titulos": {
+        "1": "Palavra de conforto para Sião"
     },
-    "2": {
-      "título": "",
-      "texto": "Olhem para Abraão, seu pai,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Porque o Senhor terá piedade"
-    },
-    "4": {
-      "título": "",
-      "texto": "“Preste atenção, meu povo,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Perto está a minha justiça,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Levantem os olhos para os céus"
-    },
-    "7": {
-      "título": "",
-      "texto": "“Escutem, vocês que conhecem"
-    },
-    "8": {
-      "título": "",
-      "texto": "Porque as traças os roerão"
-    },
-    "9": {
-      "título": "",
-      "texto": "Desperta! Desperta,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Não és tu aquele"
-    },
-    "11": {
-      "título": "",
-      "texto": "Os resgatados do Senhor"
-    },
-    "12": {
-      "título": "",
-      "texto": "“Eu, eu sou aquele"
-    },
-    "13": {
-      "título": "",
-      "texto": "Por que você se esquece"
-    },
-    "14": {
-      "título": "",
-      "texto": "O exilado cativo depressa"
-    },
-    "15": {
-      "título": "",
-      "texto": "“Pois eu sou o Senhor , seu Deus,"
-    },
-    "16": {
-      "título": "",
-      "texto": "Confio a você as minhas palavras"
-    },
-    "17": {
-      "título": "",
-      "texto": "Acorde! Acorde e levante-se,"
-    },
-    "18": {
-      "título": "",
-      "texto": "De todos os filhos que ela teve"
-    },
-    "19": {
-      "título": "",
-      "texto": "Estas duas coisas"
-    },
-    "20": {
-      "título": "",
-      "texto": "Os seus filhos desmaiaram,"
-    },
-    "21": {
-      "título": "",
-      "texto": "Por isso, agora escute isto,"
-    },
-    "22": {
-      "título": "",
-      "texto": "Assim diz o seu Senhor,"
-    },
-    "23": {
-      "título": "",
-      "texto": "Eu o porei nas mãos"
+    "versiculos": {
+        "1": "“Escutem, vocês que procuram",
+        "2": "Olhem para Abraão, seu pai,",
+        "3": "Porque o Senhor terá piedade",
+        "4": "“Preste atenção, meu povo,",
+        "5": "Perto está a minha justiça,",
+        "6": "Levantem os olhos para os céus",
+        "7": "“Escutem, vocês que conhecem",
+        "8": "Porque as traças os roerão",
+        "9": "Desperta! Desperta,",
+        "10": "Não és tu aquele",
+        "11": "Os resgatados do Senhor",
+        "12": "“Eu, eu sou aquele",
+        "13": "Por que você se esquece",
+        "14": "O exilado cativo depressa",
+        "15": "“Pois eu sou o Senhor , seu Deus,",
+        "16": "Confio a você as minhas palavras",
+        "17": "Acorde! Acorde e levante-se,",
+        "18": "De todos os filhos que ela teve",
+        "19": "Estas duas coisas",
+        "20": "Os seus filhos desmaiaram,",
+        "21": "Por isso, agora escute isto,",
+        "22": "Assim diz o seu Senhor,",
+        "23": "Eu o porei nas mãos"
     }
-  }
 }

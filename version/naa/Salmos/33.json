@@ -1,94 +1,31 @@
 {
-  "livro": "Salmos",
-  "capítulo": 33,
-  "versículos": {
-    "1": {
-      "título": "Louvor ao Criador e Senhor",
-      "texto": "Exultem no Senhor , ó justos!"
+    "livro": "Salmos",
+    "capitulo": 33,
+    "titulos": {
+        "1": "Louvor ao Criador e Senhor"
     },
-    "2": {
-      "título": "",
-      "texto": "Louvem o Senhor com harpa,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Cantem-lhe um cântico novo,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Porque a palavra do Senhor"
-    },
-    "5": {
-      "título": "",
-      "texto": "Ele ama a justiça e o direito;"
-    },
-    "6": {
-      "título": "",
-      "texto": "Os céus por sua palavra"
-    },
-    "7": {
-      "título": "",
-      "texto": "Ele ajunta em montão"
-    },
-    "8": {
-      "título": "",
-      "texto": "Que toda a terra tema o Senhor ,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Pois ele falou, e tudo se fez;"
-    },
-    "10": {
-      "título": "",
-      "texto": "O Senhor frustra"
-    },
-    "11": {
-      "título": "",
-      "texto": "O plano do Senhor"
-    },
-    "12": {
-      "título": "",
-      "texto": "Feliz a nação"
-    },
-    "13": {
-      "título": "",
-      "texto": "O Senhor olha dos céus"
-    },
-    "14": {
-      "título": "",
-      "texto": "do lugar de sua morada, observa"
-    },
-    "15": {
-      "título": "",
-      "texto": "ele, que forma o coração"
-    },
-    "16": {
-      "título": "",
-      "texto": "Não há rei que se salve"
-    },
-    "17": {
-      "título": "",
-      "texto": "O cavalo não garante a vitória;"
-    },
-    "18": {
-      "título": "",
-      "texto": "Eis que os olhos do Senhor"
-    },
-    "19": {
-      "título": "",
-      "texto": "para livrar a alma deles"
-    },
-    "20": {
-      "título": "",
-      "texto": "Nossa alma espera no Senhor ,"
-    },
-    "21": {
-      "título": "",
-      "texto": "Nele, o nosso coração se alegra,"
-    },
-    "22": {
-      "título": "",
-      "texto": "Seja sobre nós, Senhor ,"
+    "versiculos": {
+        "1": "Exultem no Senhor , ó justos!",
+        "2": "Louvem o Senhor com harpa,",
+        "3": "Cantem-lhe um cântico novo,",
+        "4": "Porque a palavra do Senhor",
+        "5": "Ele ama a justiça e o direito;",
+        "6": "Os céus por sua palavra",
+        "7": "Ele ajunta em montão",
+        "8": "Que toda a terra tema o Senhor ,",
+        "9": "Pois ele falou, e tudo se fez;",
+        "10": "O Senhor frustra",
+        "11": "O plano do Senhor",
+        "12": "Feliz a nação",
+        "13": "O Senhor olha dos céus",
+        "14": "do lugar de sua morada, observa",
+        "15": "ele, que forma o coração",
+        "16": "Não há rei que se salve",
+        "17": "O cavalo não garante a vitória;",
+        "18": "Eis que os olhos do Senhor",
+        "19": "para livrar a alma deles",
+        "20": "Nossa alma espera no Senhor ,",
+        "21": "Nele, o nosso coração se alegra,",
+        "22": "Seja sobre nós, Senhor ,"
     }
-  }
 }

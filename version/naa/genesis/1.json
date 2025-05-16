@@ -1,130 +1,40 @@
 {
-  "livro": "Gênesis",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "A criação do Universo",
-      "texto": "No princípio, Deus criou os céus e a terra."
+    "livro": "Gênesis",
+    "capitulo": 1,
+    "titulos": {
+        "1": "A criação do Universo"
     },
-    "2": {
-      "título": "",
-      "texto": "A terra era sem forma e vazia; havia trevas sobre a face do abismo, e o Espírito de Deus se movia sobre as águas."
-    },
-    "3": {
-      "título": "",
-      "texto": "Então Deus disse:"
-    },
-    "4": {
-      "título": "",
-      "texto": "E Deus viu que a luz era boa e fez separação entre a luz e as trevas."
-    },
-    "5": {
-      "título": "",
-      "texto": "Deus chamou à luz “dia” e chamou às trevas “noite”. Houve tarde e manhã, o primeiro dia."
-    },
-    "6": {
-      "título": "",
-      "texto": "E Deus disse:"
-    },
-    "7": {
-      "título": "",
-      "texto": "E Deus fez o firmamento e a separação entre as águas debaixo do firmamento e as águas acima do firmamento. E assim aconteceu."
-    },
-    "8": {
-      "título": "",
-      "texto": "E Deus chamou ao firmamento “céus”. Houve tarde e manhã, o segundo dia."
-    },
-    "9": {
-      "título": "",
-      "texto": "E Deus disse:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Deus chamou à porção seca “terra” e ao ajuntamento de águas chamou “mares”. E Deus viu que isso era bom."
-    },
-    "11": {
-      "título": "",
-      "texto": "E Deus disse:"
-    },
-    "12": {
-      "título": "",
-      "texto": "E a terra produziu relva, ervas que davam semente segundo a sua espécie e árvores que davam fruto, cuja semente estava nele, conforme a sua espécie. E Deus viu que isso era bom."
-    },
-    "13": {
-      "título": "",
-      "texto": "Houve tarde e manhã, o terceiro dia."
-    },
-    "14": {
-      "título": "",
-      "texto": "E Deus disse:"
-    },
-    "15": {
-      "título": "",
-      "texto": "E sirvam de luzeiros no firmamento dos céus, para iluminar a terra."
-    },
-    "16": {
-      "título": "",
-      "texto": "Deus fez os dois grandes luzeiros: o maior para governar o dia, e o menor para governar a noite; e fez também as estrelas."
-    },
-    "17": {
-      "título": "",
-      "texto": "E os colocou no firmamento dos céus para iluminarem a terra,"
-    },
-    "18": {
-      "título": "",
-      "texto": "para governarem o dia e a noite e fazerem separação entre a luz e as trevas. E Deus viu que isso era bom."
-    },
-    "19": {
-      "título": "",
-      "texto": "Houve tarde e manhã, o quarto dia."
-    },
-    "20": {
-      "título": "",
-      "texto": "E Deus disse:"
-    },
-    "21": {
-      "título": "",
-      "texto": "Assim Deus criou as grandes criaturas marinhas e todos os seres vivos que se movem, os quais povoam as águas, segundo as suas espécies; e todas as aves, segundo as suas espécies. E Deus viu que isso era bom."
-    },
-    "22": {
-      "título": "",
-      "texto": "E Deus os abençoou, dizendo:"
-    },
-    "23": {
-      "título": "",
-      "texto": "Houve tarde e manhã, o quinto dia."
-    },
-    "24": {
-      "título": "",
-      "texto": "E Deus disse:"
-    },
-    "25": {
-      "título": "",
-      "texto": "E Deus fez os animais selvagens, segundo a sua espécie, e os animais domésticos, conforme a sua espécie, e todos os animais que rastejam sobre a terra, segundo a sua espécie. E Deus viu que isso era bom."
-    },
-    "26": {
-      "título": "",
-      "texto": "E Deus disse:"
-    },
-    "27": {
-      "título": "",
-      "texto": "Assim Deus criou o ser humano à sua imagem, à imagem de Deus o criou; homem e mulher os criou."
-    },
-    "28": {
-      "título": "",
-      "texto": "E Deus os abençoou e lhes disse:"
-    },
-    "29": {
-      "título": "",
-      "texto": "E Deus disse ainda:"
-    },
-    "30": {
-      "título": "",
-      "texto": "E para todos os animais da terra, todas as aves dos céus e todos os animais que rastejam sobre a terra, em que há fôlego de vida, toda erva verde lhes servirá de alimento."
-    },
-    "31": {
-      "título": "",
-      "texto": "Deus viu tudo o que havia feito, e eis que era muito bom. Houve tarde e manhã, o sexto dia."
+    "versiculos": {
+        "1": "No princípio, Deus criou os céus e a terra.",
+        "2": "A terra era sem forma e vazia; havia trevas sobre a face do abismo, e o Espírito de Deus se movia sobre as águas.",
+        "3": "Então Deus disse:",
+        "4": "E Deus viu que a luz era boa e fez separação entre a luz e as trevas.",
+        "5": "Deus chamou à luz “dia” e chamou às trevas “noite”. Houve tarde e manhã, o primeiro dia.",
+        "6": "E Deus disse:",
+        "7": "E Deus fez o firmamento e a separação entre as águas debaixo do firmamento e as águas acima do firmamento. E assim aconteceu.",
+        "8": "E Deus chamou ao firmamento “céus”. Houve tarde e manhã, o segundo dia.",
+        "9": "E Deus disse:",
+        "10": "Deus chamou à porção seca “terra” e ao ajuntamento de águas chamou “mares”. E Deus viu que isso era bom.",
+        "11": "E Deus disse:",
+        "12": "E a terra produziu relva, ervas que davam semente segundo a sua espécie e árvores que davam fruto, cuja semente estava nele, conforme a sua espécie. E Deus viu que isso era bom.",
+        "13": "Houve tarde e manhã, o terceiro dia.",
+        "14": "E Deus disse:",
+        "15": "E sirvam de luzeiros no firmamento dos céus, para iluminar a terra.",
+        "16": "Deus fez os dois grandes luzeiros: o maior para governar o dia, e o menor para governar a noite; e fez também as estrelas.",
+        "17": "E os colocou no firmamento dos céus para iluminarem a terra,",
+        "18": "para governarem o dia e a noite e fazerem separação entre a luz e as trevas. E Deus viu que isso era bom.",
+        "19": "Houve tarde e manhã, o quarto dia.",
+        "20": "E Deus disse:",
+        "21": "Assim Deus criou as grandes criaturas marinhas e todos os seres vivos que se movem, os quais povoam as águas, segundo as suas espécies; e todas as aves, segundo as suas espécies. E Deus viu que isso era bom.",
+        "22": "E Deus os abençoou, dizendo:",
+        "23": "Houve tarde e manhã, o quinto dia.",
+        "24": "E Deus disse:",
+        "25": "E Deus fez os animais selvagens, segundo a sua espécie, e os animais domésticos, conforme a sua espécie, e todos os animais que rastejam sobre a terra, segundo a sua espécie. E Deus viu que isso era bom.",
+        "26": "E Deus disse:",
+        "27": "Assim Deus criou o ser humano à sua imagem, à imagem de Deus o criou; homem e mulher os criou.",
+        "28": "E Deus os abençoou e lhes disse:",
+        "29": "E Deus disse ainda:",
+        "30": "E para todos os animais da terra, todas as aves dos céus e todos os animais que rastejam sobre a terra, em que há fôlego de vida, toda erva verde lhes servirá de alimento.",
+        "31": "Deus viu tudo o que havia feito, e eis que era muito bom. Houve tarde e manhã, o sexto dia."
     }
-  }
 }

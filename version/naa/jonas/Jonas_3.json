@@ -1,46 +1,20 @@
 {
-  "livro": "Jonas",
-  "capítulo": 3,
-  "versículos": {
-    "1": {
-      "título": "Jonas prega em Nínive",
-      "texto": "A palavra do Senhor veio a Jonas pela segunda vez, dizendo:"
+    "livro": "Jonas",
+    "capitulo": 3,
+    "titulos": {
+        "1": "Jonas prega em Nínive",
+        "5": "O arrependimento dos ninivitas"
     },
-    "2": {
-      "título": "",
-      "texto": "— Levante-se, vá à grande cidade de Nínive e pregue contra ela a mensagem que eu lhe darei."
-    },
-    "3": {
-      "título": "",
-      "texto": "Jonas se levantou e foi a Nínive, segundo a palavra do Senhor . Ora, Nínive era uma cidade muito importante diante de Deus; eram necessários três dias para percorrê-la."
-    },
-    "4": {
-      "título": "",
-      "texto": "Jonas começou a percorrer a cidade caminho de um dia, e pregava, dizendo:"
-    },
-    "5": {
-      "título": "O arrependimento dos ninivitas",
-      "texto": "Os ninivitas creram em Deus. Proclamaram um jejum e vestiram roupa feita de pano de saco, desde o maior até o menor."
-    },
-    "6": {
-      "título": "",
-      "texto": "Quando esta notícia chegou ao rei de Nínive, ele se levantou do seu trono, tirou os trajes reais, cobriu-se de pano de saco e sentou-se sobre cinzas."
-    },
-    "7": {
-      "título": "",
-      "texto": "E mandou proclamar e divulgar em Nínive o seguinte:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Todos devem ser cobertos de pano de saco, tanto as pessoas como os animais. Então clamarão fortemente a Deus e se converterão, cada um do seu mau caminho e da violência que há nas suas mãos."
-    },
-    "9": {
-      "título": "",
-      "texto": "Quem sabe? Talvez Deus se volte e mude de ideia, e então se afaste do furor da sua ira, para que não pereçamos."
-    },
-    "10": {
-      "título": "",
-      "texto": "Deus viu o que fizeram, como se converteram do seu mau caminho; e Deus mudou de ideia quanto ao mal que tinha dito que lhes faria e não o fez."
+    "versiculos": {
+        "1": "A palavra do Senhor veio a Jonas pela segunda vez, dizendo:",
+        "2": "— Levante-se, vá à grande cidade de Nínive e pregue contra ela a mensagem que eu lhe darei.",
+        "3": "Jonas se levantou e foi a Nínive, segundo a palavra do Senhor . Ora, Nínive era uma cidade muito importante diante de Deus; eram necessários três dias para percorrê-la.",
+        "4": "Jonas começou a percorrer a cidade caminho de um dia, e pregava, dizendo:",
+        "5": "Os ninivitas creram em Deus. Proclamaram um jejum e vestiram roupa feita de pano de saco, desde o maior até o menor.",
+        "6": "Quando esta notícia chegou ao rei de Nínive, ele se levantou do seu trono, tirou os trajes reais, cobriu-se de pano de saco e sentou-se sobre cinzas.",
+        "7": "E mandou proclamar e divulgar em Nínive o seguinte:",
+        "8": "Todos devem ser cobertos de pano de saco, tanto as pessoas como os animais. Então clamarão fortemente a Deus e se converterão, cada um do seu mau caminho e da violência que há nas suas mãos.",
+        "9": "Quem sabe? Talvez Deus se volte e mude de ideia, e então se afaste do furor da sua ira, para que não pereçamos.",
+        "10": "Deus viu o que fizeram, como se converteram do seu mau caminho; e Deus mudou de ideia quanto ao mal que tinha dito que lhes faria e não o fez."
     }
-  }
 }

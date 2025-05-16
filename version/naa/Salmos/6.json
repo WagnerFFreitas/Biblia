@@ -1,46 +1,19 @@
 {
-  "livro": "Salmos",
-  "capítulo": 6,
-  "versículos": {
-    "1": {
-      "título": "Oração em tempo de angústia",
-      "texto": "Senhor , não me repreendas"
+    "livro": "Salmos",
+    "capitulo": 6,
+    "titulos": {
+        "1": "Oração em tempo de angústia"
     },
-    "2": {
-      "título": "",
-      "texto": "Tem compaixão de mim, Senhor ,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Também a minha alma está"
-    },
-    "4": {
-      "título": "",
-      "texto": "Volta-te, Senhor , e socorre-me;"
-    },
-    "5": {
-      "título": "",
-      "texto": "Pois, na morte,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Estou cansado de tanto gemer;"
-    },
-    "7": {
-      "título": "",
-      "texto": "De tristeza os meus olhos"
-    },
-    "8": {
-      "título": "",
-      "texto": "Afastem-se de mim, todos vocês"
-    },
-    "9": {
-      "título": "",
-      "texto": "o Senhor ouviu a minha súplica;"
-    },
-    "10": {
-      "título": "",
-      "texto": "Sejam envergonhados e fiquem"
+    "versiculos": {
+        "1": "Senhor , não me repreendas",
+        "2": "Tem compaixão de mim, Senhor ,",
+        "3": "Também a minha alma está",
+        "4": "Volta-te, Senhor , e socorre-me;",
+        "5": "Pois, na morte,",
+        "6": "Estou cansado de tanto gemer;",
+        "7": "De tristeza os meus olhos",
+        "8": "Afastem-se de mim, todos vocês",
+        "9": "o Senhor ouviu a minha súplica;",
+        "10": "Sejam envergonhados e fiquem"
     }
-  }
 }

@@ -1,146 +1,47 @@
 {
-  "livro": "Provérbios",
-  "capítulo": 6,
-  "versículos": {
-    "1": {
-      "título": "Advertência contra o servir de fiador",
-      "texto": "Meu filho, se você ficou"
+    "livro": "Provérbios",
+    "capitulo": 6,
+    "titulos": {
+        "1": "Advertência contra o servir de fiador",
+        "6": "Advertência contra a preguiça",
+        "12": "Advertência contra a maldade",
+        "20": "Advertência contra o adultério"
     },
-    "2": {
-      "título": "",
-      "texto": "está enredado com as palavras"
-    },
-    "3": {
-      "título": "",
-      "texto": "Agora, meu filho, faça o seguinte"
-    },
-    "4": {
-      "título": "",
-      "texto": "Não se deite para dormir,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Livre-se, como a gazela,"
-    },
-    "6": {
-      "título": "Advertência contra a preguiça",
-      "texto": "Vá ter com a formiga,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Não tendo ela chefe,"
-    },
-    "8": {
-      "título": "",
-      "texto": "no verão prepara a sua comida,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Ó preguiçoso, até quando"
-    },
-    "10": {
-      "título": "",
-      "texto": "Um pouco de sono,"
-    },
-    "11": {
-      "título": "",
-      "texto": "e a sua pobreza virá"
-    },
-    "12": {
-      "título": "Advertência contra a maldade",
-      "texto": "Perverso e vil"
-    },
-    "13": {
-      "título": "",
-      "texto": "pisca os olhos, arrasta os pés"
-    },
-    "14": {
-      "título": "",
-      "texto": "No seu coração há perversidade;"
-    },
-    "15": {
-      "título": "",
-      "texto": "Por isso a sua destruição"
-    },
-    "16": {
-      "título": "",
-      "texto": "Seis coisas o Senhor Deus odeia,"
-    },
-    "17": {
-      "título": "",
-      "texto": "olhos cheios de orgulho,"
-    },
-    "18": {
-      "título": "",
-      "texto": "coração que faz"
-    },
-    "19": {
-      "título": "",
-      "texto": "testemunha falsa"
-    },
-    "20": {
-      "título": "Advertência contra o adultério",
-      "texto": "Meu filho, guarde"
-    },
-    "21": {
-      "título": "",
-      "texto": "Tenha-os sempre"
-    },
-    "22": {
-      "título": "",
-      "texto": "Quando você andar,"
-    },
-    "23": {
-      "título": "",
-      "texto": "Porque o mandamento"
-    },
-    "24": {
-      "título": "",
-      "texto": "Eles o protegerão"
-    },
-    "25": {
-      "título": "",
-      "texto": "Não cobice no coração"
-    },
-    "26": {
-      "título": "",
-      "texto": "O máximo que se paga"
-    },
-    "27": {
-      "título": "",
-      "texto": "Poderá alguém carregar"
-    },
-    "28": {
-      "título": "",
-      "texto": "Ou andará alguém sobre brasas,"
-    },
-    "29": {
-      "título": "",
-      "texto": "Assim será com"
-    },
-    "30": {
-      "título": "",
-      "texto": "Não se despreza o ladrão"
-    },
-    "31": {
-      "título": "",
-      "texto": "Pois este, ao ser apanhado,"
-    },
-    "32": {
-      "título": "",
-      "texto": "Quem comete adultério"
-    },
-    "33": {
-      "título": "",
-      "texto": "Achará açoites e desonra,"
-    },
-    "34": {
-      "título": "",
-      "texto": "Porque o ciúme desperta"
-    },
-    "35": {
-      "título": "",
-      "texto": "Não se contentará"
+    "versiculos": {
+        "1": "Meu filho, se você ficou",
+        "2": "está enredado com as palavras",
+        "3": "Agora, meu filho, faça o seguinte",
+        "4": "Não se deite para dormir,",
+        "5": "Livre-se, como a gazela,",
+        "6": "Vá ter com a formiga,",
+        "7": "Não tendo ela chefe,",
+        "8": "no verão prepara a sua comida,",
+        "9": "Ó preguiçoso, até quando",
+        "10": "Um pouco de sono,",
+        "11": "e a sua pobreza virá",
+        "12": "Perverso e vil",
+        "13": "pisca os olhos, arrasta os pés",
+        "14": "No seu coração há perversidade;",
+        "15": "Por isso a sua destruição",
+        "16": "Seis coisas o Senhor Deus odeia,",
+        "17": "olhos cheios de orgulho,",
+        "18": "coração que faz",
+        "19": "testemunha falsa",
+        "20": "Meu filho, guarde",
+        "21": "Tenha-os sempre",
+        "22": "Quando você andar,",
+        "23": "Porque o mandamento",
+        "24": "Eles o protegerão",
+        "25": "Não cobice no coração",
+        "26": "O máximo que se paga",
+        "27": "Poderá alguém carregar",
+        "28": "Ou andará alguém sobre brasas,",
+        "29": "Assim será com",
+        "30": "Não se despreza o ladrão",
+        "31": "Pois este, ao ser apanhado,",
+        "32": "Quem comete adultério",
+        "33": "Achará açoites e desonra,",
+        "34": "Porque o ciúme desperta",
+        "35": "Não se contentará"
     }
-  }
 }

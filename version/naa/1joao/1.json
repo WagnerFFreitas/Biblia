@@ -1,46 +1,21 @@
 {
-  "livro": "1 João",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "Prólogo. O Verbo da vida e a comunhão com Deus",
-      "texto": "O que era desde o princípio, o que ouvimos, o que vimos com os nossos próprios olhos, o que contemplamos e as nossas mãos apalparam, a respeito do Verbo da vida"
+    "livro": "1 João",
+    "capitulo": 1,
+    "titulos": {
+        "1": "Prólogo. O Verbo da vida e a comunhão com Deus",
+        "5": "Deus é luz",
+        "8": "O pecado, a confissão, o perdão"
     },
-    "2": {
-      "título": "",
-      "texto": "— e a vida se manifestou, e nós a vimos e dela damos testemunho, e anunciamos a vocês a vida eterna, que estava com o Pai e nos foi manifestada —,"
-    },
-    "3": {
-      "título": "",
-      "texto": "o que vimos e ouvimos anunciamos também a vocês, para que também vocês tenham comunhão conosco. Ora, a nossa comunhão é com o Pai e com o seu Filho, Jesus Cristo."
-    },
-    "4": {
-      "título": "",
-      "texto": "E escrevemos estas coisas para que a nossa alegria seja completa."
-    },
-    "5": {
-      "título": "Deus é luz",
-      "texto": "A mensagem que dele ouvimos e que anunciamos a vocês é esta: Deus é luz, e não há nele treva nenhuma."
-    },
-    "6": {
-      "título": "",
-      "texto": "Se dissermos que mantemos comunhão com ele e andarmos nas trevas, mentimos e não praticamos a verdade."
-    },
-    "7": {
-      "título": "",
-      "texto": "Se andarmos na luz, como ele está na luz, mantemos comunhão uns com os outros, e o sangue de Jesus, seu Filho, nos purifica de todo pecado."
-    },
-    "8": {
-      "título": "O pecado, a confissão, o perdão",
-      "texto": "Se dissermos que não temos pecado nenhum, a nós mesmos enganamos, e a verdade não está em nós."
-    },
-    "9": {
-      "título": "",
-      "texto": "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça."
-    },
-    "10": {
-      "título": "",
-      "texto": "Se dissermos que não cometemos pecado, fazemos dele um mentiroso, e a sua palavra não está em nós."
+    "versiculos": {
+        "1": "O que era desde o princípio, o que ouvimos, o que vimos com os nossos próprios olhos, o que contemplamos e as nossas mãos apalparam, a respeito do Verbo da vida",
+        "2": "— e a vida se manifestou, e nós a vimos e dela damos testemunho, e anunciamos a vocês a vida eterna, que estava com o Pai e nos foi manifestada —,",
+        "3": "o que vimos e ouvimos anunciamos também a vocês, para que também vocês tenham comunhão conosco. Ora, a nossa comunhão é com o Pai e com o seu Filho, Jesus Cristo.",
+        "4": "E escrevemos estas coisas para que a nossa alegria seja completa.",
+        "5": "A mensagem que dele ouvimos e que anunciamos a vocês é esta: Deus é luz, e não há nele treva nenhuma.",
+        "6": "Se dissermos que mantemos comunhão com ele e andarmos nas trevas, mentimos e não praticamos a verdade.",
+        "7": "Se andarmos na luz, como ele está na luz, mantemos comunhão uns com os outros, e o sangue de Jesus, seu Filho, nos purifica de todo pecado.",
+        "8": "Se dissermos que não temos pecado nenhum, a nós mesmos enganamos, e a verdade não está em nós.",
+        "9": "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça.",
+        "10": "Se dissermos que não cometemos pecado, fazemos dele um mentiroso, e a sua palavra não está em nós."
     }
-  }
 }

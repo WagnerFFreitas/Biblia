@@ -1,74 +1,27 @@
 {
-  "livro": "Amós",
-  "capítulo": 7,
-  "versículos": {
-    "1": {
-      "título": "A visão do gafanhoto, do fogo e do prumo",
-      "texto": "O Senhor Deus me mostrou o seguinte: eis que ele formava uma nuvem de gafanhotos no momento em que começavam a brotar as plantas da entressafra, ou seja, a cultura tardia que vinha depois de concluída a colheita reservada ao rei."
+    "livro": "Amós",
+    "capitulo": 7,
+    "titulos": {
+        "1": "A visão do gafanhoto, do fogo e do prumo",
+        "10": "Amós e o sacerdote Amazias"
     },
-    "2": {
-      "título": "",
-      "texto": "Quando tinham acabado de comer toda a plantação, eu disse:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Então o Senhor mudou de ideia em relação a isso e falou:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Depois, o Senhor Deus me mostrou o seguinte: eis que o Senhor Deus chamou o fogo para exercer a sua justiça. Este fogo consumiu o grande abismo e começava a devorar a terra."
-    },
-    "5": {
-      "título": "",
-      "texto": "Então eu disse:"
-    },
-    "6": {
-      "título": "",
-      "texto": "E o Senhor mudou de ideia em relação a isso e falou:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Mostrou-me também isto: eis que o Senhor estava sobre um muro levantado a prumo, e tinha um prumo na mão."
-    },
-    "8": {
-      "título": "",
-      "texto": "O Senhor me perguntou:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Os lugares altos de Isaque serão assolados, e os santuários de Israel serão destruídos. E eu me levantarei com a espada contra a casa de Jeroboão."
-    },
-    "10": {
-      "título": "Amós e o sacerdote Amazias",
-      "texto": "Então Amazias, o sacerdote de Betel, mandou dizer a Jeroboão, rei de Israel:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Porque assim diz Amós: “Jeroboão morrerá à espada, e Israel certamente será levado para fora de sua terra, em cativeiro.”"
-    },
-    "12": {
-      "título": "",
-      "texto": "Depois Amazias disse a Amós:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Mas em Betel, daqui em diante, você não poderá profetizar, porque este é o santuário do rei e o templo do reino."
-    },
-    "14": {
-      "título": "",
-      "texto": "Amós respondeu e disse a Amazias:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Mas o Senhor me tirou do trabalho de andar atrás do gado e me disse: “Vá e profetize ao meu povo de Israel.”"
-    },
-    "16": {
-      "título": "",
-      "texto": "Portanto, agora ouça a palavra do Senhor . Você diz: “Não profetize contra Israel nem fale contra a casa de Isaque.”"
-    },
-    "17": {
-      "título": "",
-      "texto": "Pois bem, assim diz o Senhor :"
+    "versiculos": {
+        "1": "O Senhor Deus me mostrou o seguinte: eis que ele formava uma nuvem de gafanhotos no momento em que começavam a brotar as plantas da entressafra, ou seja, a cultura tardia que vinha depois de concluída a colheita reservada ao rei.",
+        "2": "Quando tinham acabado de comer toda a plantação, eu disse:",
+        "3": "Então o Senhor mudou de ideia em relação a isso e falou:",
+        "4": "Depois, o Senhor Deus me mostrou o seguinte: eis que o Senhor Deus chamou o fogo para exercer a sua justiça. Este fogo consumiu o grande abismo e começava a devorar a terra.",
+        "5": "Então eu disse:",
+        "6": "E o Senhor mudou de ideia em relação a isso e falou:",
+        "7": "Mostrou-me também isto: eis que o Senhor estava sobre um muro levantado a prumo, e tinha um prumo na mão.",
+        "8": "O Senhor me perguntou:",
+        "9": "Os lugares altos de Isaque serão assolados, e os santuários de Israel serão destruídos. E eu me levantarei com a espada contra a casa de Jeroboão.",
+        "10": "Então Amazias, o sacerdote de Betel, mandou dizer a Jeroboão, rei de Israel:",
+        "11": "Porque assim diz Amós: “Jeroboão morrerá à espada, e Israel certamente será levado para fora de sua terra, em cativeiro.”",
+        "12": "Depois Amazias disse a Amós:",
+        "13": "Mas em Betel, daqui em diante, você não poderá profetizar, porque este é o santuário do rei e o templo do reino.",
+        "14": "Amós respondeu e disse a Amazias:",
+        "15": "Mas o Senhor me tirou do trabalho de andar atrás do gado e me disse: “Vá e profetize ao meu povo de Israel.”",
+        "16": "Portanto, agora ouça a palavra do Senhor . Você diz: “Não profetize contra Israel nem fale contra a casa de Isaque.”",
+        "17": "Pois bem, assim diz o Senhor :"
     }
-  }
 }

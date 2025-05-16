@@ -1,146 +1,47 @@
 {
-  "livro": "Êxodo",
-  "capítulo": 32,
-  "versículos": {
-    "1": {
-      "título": "O bezerro de ouro",
-      "texto": "O povo viu que Moisés demorava para descer do monte. Então reuniu-se em volta de Arão e lhe disse:"
+    "livro": "Êxodo",
+    "capitulo": 32,
+    "titulos": {
+        "1": "O bezerro de ouro",
+        "11": "Moisés intercede pelo povo",
+        "25": "Moisés manda matar os idólatras",
+        "30": "Moisés intercede pelo povo"
     },
-    "2": {
-      "título": "",
-      "texto": "Arão respondeu:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Então todo o povo tirou das orelhas as argolas e as trouxe a Arão."
-    },
-    "4": {
-      "título": "",
-      "texto": "Este, recebendo-as das mãos deles, trabalhou o ouro com buril e fez dele um bezerro de metal fundido. Então disseram:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Arão, vendo isso, edificou um altar diante do bezerro e fez a seguinte proclamação:"
-    },
-    "6": {
-      "título": "",
-      "texto": "No dia seguinte, madrugaram, ofereceram holocaustos e trouxeram ofertas pacíficas. E o povo sentou-se para comer e beber e levantou-se para se divertir."
-    },
-    "7": {
-      "título": "",
-      "texto": "Então o Senhor disse a Moisés:"
-    },
-    "8": {
-      "título": "",
-      "texto": "e depressa se desviou do caminho que eu lhe havia ordenado; fez para si um bezerro de metal fundido, o adorou e lhe ofereceu sacrifícios, dizendo: “São estes, ó Israel, os seus deuses, que tiraram você da terra do Egito.”"
-    },
-    "9": {
-      "título": "",
-      "texto": "O Senhor disse ainda a Moisés:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Agora, pois, deixe-me, para que se acenda contra eles o meu furor, e eu os consuma; e de você farei uma grande nação."
-    },
-    "11": {
-      "título": "Moisés intercede pelo povo",
-      "texto": "Porém Moisés suplicou ao Senhor , seu Deus, dizendo:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Por que deixar que os egípcios digam: “Ele os tirou de lá com más intenções, para matá-los nos montes e para eliminá-los da face da terra”? Deixa de lado o furor da tua ira e muda de ideia quanto a este mal contra o teu povo."
-    },
-    "13": {
-      "título": "",
-      "texto": "Lembra-te de Abraão, de Isaque e de Israel, teus servos, aos quais por ti mesmo juraste, dizendo: “Multiplicarei a descendência de vocês como as estrelas do céu, e toda esta terra de que tenho falado, eu a darei à sua descendência, para que a possuam por herança eternamente.”"
-    },
-    "14": {
-      "título": "",
-      "texto": "Então o Senhor mudou de ideia quanto ao mal que ele tinha dito que traria sobre o povo."
-    },
-    "15": {
-      "título": "",
-      "texto": "Moisés voltou-se e desceu do monte com as duas tábuas do testemunho nas mãos, tábuas escritas de ambos os lados; de um e de outro lado estavam escritas."
-    },
-    "16": {
-      "título": "",
-      "texto": "As tábuas eram obra de Deus; também o que estava escrito tinha sido escrito pelo próprio Deus, esculpido nas tábuas."
-    },
-    "17": {
-      "título": "",
-      "texto": "Quando Josué ouviu a voz do povo que gritava, disse a Moisés:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Moisés respondeu:"
-    },
-    "19": {
-      "título": "",
-      "texto": "Logo que se aproximou do arraial e viu o bezerro e as danças, Moisés ficou muito irado. Arremessou as tábuas de pedra das suas mãos e quebrou-as ao pé do monte."
-    },
-    "20": {
-      "título": "",
-      "texto": "E, pegando o bezerro que tinham feito, queimou-o e o reduziu a pó, que espalhou sobre a água, e deu de beber aos filhos de Israel."
-    },
-    "21": {
-      "título": "",
-      "texto": "Depois, Moisés perguntou a Arão:"
-    },
-    "22": {
-      "título": "",
-      "texto": "Arão respondeu:"
-    },
-    "23": {
-      "título": "",
-      "texto": "Pois me disseram: “Faça para nós deuses que vão adiante de nós; pois, quanto a este Moisés, o homem que nos tirou da terra do Egito, não sabemos o que lhe aconteceu.”"
-    },
-    "24": {
-      "título": "",
-      "texto": "Então eu lhes disse: “Quem tem ouro, tire-o.” Eles o deram para mim, eu o lancei no fogo, e saiu este bezerro."
-    },
-    "25": {
-      "título": "Moisés manda matar os idólatras",
-      "texto": "Quando Moisés viu que o povo estava sem controle, pois Arão o tinha deixado à solta para vergonha no meio dos seus inimigos,"
-    },
-    "26": {
-      "título": "",
-      "texto": "pôs-se em pé à entrada do arraial e disse:"
-    },
-    "27": {
-      "título": "",
-      "texto": "aos quais ele disse:"
-    },
-    "28": {
-      "título": "",
-      "texto": "E os filhos de Levi fizeram segundo a palavra de Moisés e, naquele dia, morreram uns três mil homens."
-    },
-    "29": {
-      "título": "",
-      "texto": "Pois Moisés tinha dito: “Consagrem-se hoje ao Senhor , cada um contra o seu filho e contra o seu irmão, para que hoje Deus lhes conceda uma bênção.”"
-    },
-    "30": {
-      "título": "Moisés intercede pelo povo",
-      "texto": "No dia seguinte, Moisés disse ao povo:"
-    },
-    "31": {
-      "título": "",
-      "texto": "Moisés voltou ao Senhor e disse:"
-    },
-    "32": {
-      "título": "",
-      "texto": "Agora, pois, perdoa-lhe o pecado; ou, se não, peço-te que me risques do livro que escreveste."
-    },
-    "33": {
-      "título": "",
-      "texto": "Então o Senhor disse a Moisés:"
-    },
-    "34": {
-      "título": "",
-      "texto": "Vá, pois, agora, e conduza o povo para o lugar do qual falei a você. Eis que o meu Anjo irá adiante de você. Porém, no dia da minha visitação, eu os castigarei pelo pecado que cometeram."
-    },
-    "35": {
-      "título": "",
-      "texto": "Assim, o Senhor feriu o povo, porque fizeram o bezerro — aquele que Arão tinha feito."
+    "versiculos": {
+        "1": "O povo viu que Moisés demorava para descer do monte. Então reuniu-se em volta de Arão e lhe disse:",
+        "2": "Arão respondeu:",
+        "3": "Então todo o povo tirou das orelhas as argolas e as trouxe a Arão.",
+        "4": "Este, recebendo-as das mãos deles, trabalhou o ouro com buril e fez dele um bezerro de metal fundido. Então disseram:",
+        "5": "Arão, vendo isso, edificou um altar diante do bezerro e fez a seguinte proclamação:",
+        "6": "No dia seguinte, madrugaram, ofereceram holocaustos e trouxeram ofertas pacíficas. E o povo sentou-se para comer e beber e levantou-se para se divertir.",
+        "7": "Então o Senhor disse a Moisés:",
+        "8": "e depressa se desviou do caminho que eu lhe havia ordenado; fez para si um bezerro de metal fundido, o adorou e lhe ofereceu sacrifícios, dizendo: “São estes, ó Israel, os seus deuses, que tiraram você da terra do Egito.”",
+        "9": "O Senhor disse ainda a Moisés:",
+        "10": "Agora, pois, deixe-me, para que se acenda contra eles o meu furor, e eu os consuma; e de você farei uma grande nação.",
+        "11": "Porém Moisés suplicou ao Senhor , seu Deus, dizendo:",
+        "12": "Por que deixar que os egípcios digam: “Ele os tirou de lá com más intenções, para matá-los nos montes e para eliminá-los da face da terra”? Deixa de lado o furor da tua ira e muda de ideia quanto a este mal contra o teu povo.",
+        "13": "Lembra-te de Abraão, de Isaque e de Israel, teus servos, aos quais por ti mesmo juraste, dizendo: “Multiplicarei a descendência de vocês como as estrelas do céu, e toda esta terra de que tenho falado, eu a darei à sua descendência, para que a possuam por herança eternamente.”",
+        "14": "Então o Senhor mudou de ideia quanto ao mal que ele tinha dito que traria sobre o povo.",
+        "15": "Moisés voltou-se e desceu do monte com as duas tábuas do testemunho nas mãos, tábuas escritas de ambos os lados; de um e de outro lado estavam escritas.",
+        "16": "As tábuas eram obra de Deus; também o que estava escrito tinha sido escrito pelo próprio Deus, esculpido nas tábuas.",
+        "17": "Quando Josué ouviu a voz do povo que gritava, disse a Moisés:",
+        "18": "Moisés respondeu:",
+        "19": "Logo que se aproximou do arraial e viu o bezerro e as danças, Moisés ficou muito irado. Arremessou as tábuas de pedra das suas mãos e quebrou-as ao pé do monte.",
+        "20": "E, pegando o bezerro que tinham feito, queimou-o e o reduziu a pó, que espalhou sobre a água, e deu de beber aos filhos de Israel.",
+        "21": "Depois, Moisés perguntou a Arão:",
+        "22": "Arão respondeu:",
+        "23": "Pois me disseram: “Faça para nós deuses que vão adiante de nós; pois, quanto a este Moisés, o homem que nos tirou da terra do Egito, não sabemos o que lhe aconteceu.”",
+        "24": "Então eu lhes disse: “Quem tem ouro, tire-o.” Eles o deram para mim, eu o lancei no fogo, e saiu este bezerro.",
+        "25": "Quando Moisés viu que o povo estava sem controle, pois Arão o tinha deixado à solta para vergonha no meio dos seus inimigos,",
+        "26": "pôs-se em pé à entrada do arraial e disse:",
+        "27": "aos quais ele disse:",
+        "28": "E os filhos de Levi fizeram segundo a palavra de Moisés e, naquele dia, morreram uns três mil homens.",
+        "29": "Pois Moisés tinha dito: “Consagrem-se hoje ao Senhor , cada um contra o seu filho e contra o seu irmão, para que hoje Deus lhes conceda uma bênção.”",
+        "30": "No dia seguinte, Moisés disse ao povo:",
+        "31": "Moisés voltou ao Senhor e disse:",
+        "32": "Agora, pois, perdoa-lhe o pecado; ou, se não, peço-te que me risques do livro que escreveste.",
+        "33": "Então o Senhor disse a Moisés:",
+        "34": "Vá, pois, agora, e conduza o povo para o lugar do qual falei a você. Eis que o meu Anjo irá adiante de você. Porém, no dia da minha visitação, eu os castigarei pelo pecado que cometeram.",
+        "35": "Assim, o Senhor feriu o povo, porque fizeram o bezerro — aquele que Arão tinha feito."
     }
-  }
 }

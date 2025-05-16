@@ -1,38 +1,17 @@
 {
-  "livro": "Salmos",
-  "capítulo": 138,
-  "versículos": {
-    "1": {
-      "título": "Gratidão a Deus por sua fidelidade",
-      "texto": "Eu te darei graças, Senhor ,"
+    "livro": "Salmos",
+    "capitulo": 138,
+    "titulos": {
+        "1": "Gratidão a Deus por sua fidelidade"
     },
-    "2": {
-      "título": "",
-      "texto": "Voltado para o teu santo templo,"
-    },
-    "3": {
-      "título": "",
-      "texto": "No dia em que eu clamei,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Todos os reis da terra"
-    },
-    "5": {
-      "título": "",
-      "texto": "e cantarão"
-    },
-    "6": {
-      "título": "",
-      "texto": "O Senhor é excelso, contudo,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Se ando em meio à angústia,"
-    },
-    "8": {
-      "título": "",
-      "texto": "O que diz respeito a mim"
+    "versiculos": {
+        "1": "Eu te darei graças, Senhor ,",
+        "2": "Voltado para o teu santo templo,",
+        "3": "No dia em que eu clamei,",
+        "4": "Todos os reis da terra",
+        "5": "e cantarão",
+        "6": "O Senhor é excelso, contudo,",
+        "7": "Se ando em meio à angústia,",
+        "8": "O que diz respeito a mim"
     }
-  }
 }

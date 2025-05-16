@@ -1,62 +1,23 @@
 {
-  "livro": "Ester",
-  "capítulo": 5,
-  "versículos": {
-    "1": {
-      "título": "Ester convida o rei e Hamã para um banquete",
-      "texto": "No terceiro dia, Ester se aprontou com os seus trajes reais e se pôs no pátio interior do palácio real, em frente à residência do rei. O rei estava sentado no seu trono real, voltado para a porta da residência."
+    "livro": "Ester",
+    "capitulo": 5,
+    "titulos": {
+        "1": "Ester convida o rei e Hamã para um banquete"
     },
-    "2": {
-      "título": "",
-      "texto": "Quando o rei viu a rainha Ester parada no pátio, ela alcançou favor diante dele, e o rei estendeu-lhe o cetro de ouro que tinha na mão. Ester se aproximou e tocou na ponta do cetro."
-    },
-    "3": {
-      "título": "",
-      "texto": "Então o rei perguntou:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Ester respondeu:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Então o rei disse:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Enquanto bebiam vinho, o rei disse a Ester:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Ester respondeu:"
-    },
-    "8": {
-      "título": "",
-      "texto": "se achei favor diante do rei, e se for do agrado do rei conceder o meu pedido e cumprir o meu desejo, então que o rei venha com Hamã ao banquete que vou preparar para eles amanhã. Então farei o pedido que o rei me concede."
-    },
-    "9": {
-      "título": "",
-      "texto": "Naquele dia, Hamã saiu alegre e animado. Mas ficou furioso ao encontrar Mordecai junto à porta do rei e ver que ele não se levantava nem tremia diante dele."
-    },
-    "10": {
-      "título": "",
-      "texto": "Porém Hamã se conteve e foi para casa. Depois mandou vir os seus amigos e Zeres, sua mulher."
-    },
-    "11": {
-      "título": "",
-      "texto": "Hamã falou sobre a glória das suas riquezas, a multidão de seus filhos, tudo em que o rei o tinha engrandecido e como o tinha exaltado sobre os oficiais e servos do rei."
-    },
-    "12": {
-      "título": "",
-      "texto": "E Hamã acrescentou:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Porém tudo isto não me satisfaz, enquanto eu vir o judeu Mordecai sentado junto à porta do rei."
-    },
-    "14": {
-      "título": "",
-      "texto": "Então Zeres, a mulher de Hamã, e todos os amigos dele disseram:"
+    "versiculos": {
+        "1": "No terceiro dia, Ester se aprontou com os seus trajes reais e se pôs no pátio interior do palácio real, em frente à residência do rei. O rei estava sentado no seu trono real, voltado para a porta da residência.",
+        "2": "Quando o rei viu a rainha Ester parada no pátio, ela alcançou favor diante dele, e o rei estendeu-lhe o cetro de ouro que tinha na mão. Ester se aproximou e tocou na ponta do cetro.",
+        "3": "Então o rei perguntou:",
+        "4": "Ester respondeu:",
+        "5": "Então o rei disse:",
+        "6": "Enquanto bebiam vinho, o rei disse a Ester:",
+        "7": "Ester respondeu:",
+        "8": "se achei favor diante do rei, e se for do agrado do rei conceder o meu pedido e cumprir o meu desejo, então que o rei venha com Hamã ao banquete que vou preparar para eles amanhã. Então farei o pedido que o rei me concede.",
+        "9": "Naquele dia, Hamã saiu alegre e animado. Mas ficou furioso ao encontrar Mordecai junto à porta do rei e ver que ele não se levantava nem tremia diante dele.",
+        "10": "Porém Hamã se conteve e foi para casa. Depois mandou vir os seus amigos e Zeres, sua mulher.",
+        "11": "Hamã falou sobre a glória das suas riquezas, a multidão de seus filhos, tudo em que o rei o tinha engrandecido e como o tinha exaltado sobre os oficiais e servos do rei.",
+        "12": "E Hamã acrescentou:",
+        "13": "Porém tudo isto não me satisfaz, enquanto eu vir o judeu Mordecai sentado junto à porta do rei.",
+        "14": "Então Zeres, a mulher de Hamã, e todos os amigos dele disseram:"
     }
-  }
 }

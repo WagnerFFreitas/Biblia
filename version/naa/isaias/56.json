@@ -1,54 +1,22 @@
 {
-  "livro": "Isaías",
-  "capítulo": 56,
-  "versículos": {
-    "1": {
-      "título": "Salvação para os gentios",
-      "texto": "Assim diz o Senhor :"
+    "livro": "Isaías",
+    "capitulo": 56,
+    "titulos": {
+        "1": "Salvação para os gentios",
+        "9": "Ai dos atalaias de Israel!"
     },
-    "2": {
-      "título": "",
-      "texto": "Bem-aventurado quem faz isto,"
-    },
-    "3": {
-      "título": "",
-      "texto": "O estrangeiro que tiver se unido"
-    },
-    "4": {
-      "título": "",
-      "texto": "Porque assim diz o Senhor :"
-    },
-    "5": {
-      "título": "",
-      "texto": "darei no meu templo"
-    },
-    "6": {
-      "título": "",
-      "texto": "Aos estrangeiros"
-    },
-    "7": {
-      "título": "",
-      "texto": "também os levarei"
-    },
-    "8": {
-      "título": "",
-      "texto": "Assim diz o Senhor Deus ,"
-    },
-    "9": {
-      "título": "Ai dos atalaias de Israel!",
-      "texto": "“Vocês, todos os animais"
-    },
-    "10": {
-      "título": "",
-      "texto": "Os atalaias de Israel são cegos,"
-    },
-    "11": {
-      "título": "",
-      "texto": "Tais cães são gulosos,"
-    },
-    "12": {
-      "título": "",
-      "texto": "Eles dizem: ‘Venham!"
+    "versiculos": {
+        "1": "Assim diz o Senhor :",
+        "2": "Bem-aventurado quem faz isto,",
+        "3": "O estrangeiro que tiver se unido",
+        "4": "Porque assim diz o Senhor :",
+        "5": "darei no meu templo",
+        "6": "Aos estrangeiros",
+        "7": "também os levarei",
+        "8": "Assim diz o Senhor Deus ,",
+        "9": "“Vocês, todos os animais",
+        "10": "Os atalaias de Israel são cegos,",
+        "11": "Tais cães são gulosos,",
+        "12": "Eles dizem: ‘Venham!"
     }
-  }
 }

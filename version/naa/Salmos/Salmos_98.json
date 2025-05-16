@@ -1,42 +1,18 @@
 {
-  "livro": "Salmos",
-  "capítulo": 98,
-  "versículos": {
-    "1": {
-      "título": "A justiça de Deus",
-      "texto": "Cantem ao Senhor"
+    "livro": "Salmos",
+    "capitulo": 98,
+    "titulos": {
+        "1": "A justiça de Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "O Senhor fez notória"
-    },
-    "3": {
-      "título": "",
-      "texto": "Lembrou-se da sua misericórdia"
-    },
-    "4": {
-      "título": "",
-      "texto": "Celebrem com júbilo ao Senhor ,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Cantem com harpa"
-    },
-    "6": {
-      "título": "",
-      "texto": "com trombetas"
-    },
-    "7": {
-      "título": "",
-      "texto": "Ruja o mar e a sua plenitude,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Os rios batam palmas,"
-    },
-    "9": {
-      "título": "",
-      "texto": "na presença do Senhor ,"
+    "versiculos": {
+        "1": "Cantem ao Senhor",
+        "2": "O Senhor fez notória",
+        "3": "Lembrou-se da sua misericórdia",
+        "4": "Celebrem com júbilo ao Senhor ,",
+        "5": "Cantem com harpa",
+        "6": "com trombetas",
+        "7": "Ruja o mar e a sua plenitude,",
+        "8": "Os rios batam palmas,",
+        "9": "na presença do Senhor ,"
     }
-  }
 }

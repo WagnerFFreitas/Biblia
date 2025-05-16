@@ -1,66 +1,25 @@
 {
-  "livro": "Ageu",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "Ageu exorta o povo a reconstruir o templo",
-      "texto": "No segundo ano do reinado de Dario, no sexto mês, no primeiro dia do mês, por meio do profeta Ageu, a palavra do Senhor veio a Zorobabel, filho de Salatiel, governador de Judá, e a Josué, filho de Jozadaque, o sumo sacerdote, dizendo:"
+    "livro": "Ageu",
+    "capitulo": 1,
+    "titulos": {
+        "1": "Ageu exorta o povo a reconstruir o templo",
+        "12": "O povo atende ao Senhor"
     },
-    "2": {
-      "título": "",
-      "texto": "— Assim diz o Senhor dos Exércitos: Este povo diz: “Ainda não chegou o tempo, o tempo em que a Casa do Senhor deve ser reconstruída.”"
-    },
-    "3": {
-      "título": "",
-      "texto": "Por isso, a palavra do Senhor veio por meio do profeta Ageu, dizendo:"
-    },
-    "4": {
-      "título": "",
-      "texto": "— Acaso é tempo de vocês morarem em casas luxuosas, enquanto este templo permanece em ruínas?"
-    },
-    "5": {
-      "título": "",
-      "texto": "Portanto, assim diz o Senhor dos Exércitos: Considerem o que tem acontecido com vocês."
-    },
-    "6": {
-      "título": "",
-      "texto": "Vocês semearam muito e colheram pouco; comem, mas isso não chega para matar a fome; bebem, mas isso não dá para ficarem satisfeitos; põem roupa, mas ninguém se aquece; e o que recebe salário, recebe-o para colocá-lo numa sacola furada."
-    },
-    "7": {
-      "título": "",
-      "texto": "— Assim diz o Senhor dos Exércitos: Considerem o que tem acontecido com vocês."
-    },
-    "8": {
-      "título": "",
-      "texto": "Vão até o monte, tragam madeira e reconstruam o templo. Dele me agradarei e serei glorificado, diz o Senhor ."
-    },
-    "9": {
-      "título": "",
-      "texto": "Vocês esperavam que fosse muito, mas o que veio foi pouco, e esse pouco, quando o levaram para casa, eu o dissipei com um sopro. E por quê? — pergunta o Senhor dos Exércitos. Porque o meu templo permanece em ruínas, enquanto cada um de vocês corre por causa de sua própria casa."
-    },
-    "10": {
-      "título": "",
-      "texto": "Por isso, os céus retêm o seu orvalho, e a terra não produz os seus frutos."
-    },
-    "11": {
-      "título": "",
-      "texto": "Fiz vir a seca sobre a terra e sobre os montes, sobre o cereal, sobre o vinho, sobre o azeite, sobre o que o solo produz, sobre as pessoas, sobre os animais e sobre todo trabalho das mãos."
-    },
-    "12": {
-      "título": "O povo atende ao Senhor",
-      "texto": "Então Zorobabel, filho de Salatiel, e Josué, filho de Jozadaque, o sumo sacerdote, e todo o remanescente do povo atenderam à voz do Senhor , seu Deus, e às palavras do profeta Ageu, as quais o Senhor , seu Deus, havia ordenado que ele dissesse. E o povo temeu diante do Senhor ."
-    },
-    "13": {
-      "título": "",
-      "texto": "Então Ageu, o enviado do Senhor , falou ao povo, segundo a mensagem do Senhor , dizendo:"
-    },
-    "14": {
-      "título": "",
-      "texto": "O Senhor despertou o espírito de Zorobabel, filho de Salatiel, governador de Judá, e o espírito de Josué, filho de Jozadaque, o sumo sacerdote, e o espírito de todo o remanescente do povo; eles vieram e começaram a trabalhar no templo do Senhor dos Exércitos, seu Deus."
-    },
-    "15": {
-      "título": "",
-      "texto": "Era o vigésimo quarto dia do sexto mês do segundo ano do reinado de Dario."
+    "versiculos": {
+        "1": "No segundo ano do reinado de Dario, no sexto mês, no primeiro dia do mês, por meio do profeta Ageu, a palavra do Senhor veio a Zorobabel, filho de Salatiel, governador de Judá, e a Josué, filho de Jozadaque, o sumo sacerdote, dizendo:",
+        "2": "— Assim diz o Senhor dos Exércitos: Este povo diz: “Ainda não chegou o tempo, o tempo em que a Casa do Senhor deve ser reconstruída.”",
+        "3": "Por isso, a palavra do Senhor veio por meio do profeta Ageu, dizendo:",
+        "4": "— Acaso é tempo de vocês morarem em casas luxuosas, enquanto este templo permanece em ruínas?",
+        "5": "Portanto, assim diz o Senhor dos Exércitos: Considerem o que tem acontecido com vocês.",
+        "6": "Vocês semearam muito e colheram pouco; comem, mas isso não chega para matar a fome; bebem, mas isso não dá para ficarem satisfeitos; põem roupa, mas ninguém se aquece; e o que recebe salário, recebe-o para colocá-lo numa sacola furada.",
+        "7": "— Assim diz o Senhor dos Exércitos: Considerem o que tem acontecido com vocês.",
+        "8": "Vão até o monte, tragam madeira e reconstruam o templo. Dele me agradarei e serei glorificado, diz o Senhor .",
+        "9": "Vocês esperavam que fosse muito, mas o que veio foi pouco, e esse pouco, quando o levaram para casa, eu o dissipei com um sopro. E por quê? — pergunta o Senhor dos Exércitos. Porque o meu templo permanece em ruínas, enquanto cada um de vocês corre por causa de sua própria casa.",
+        "10": "Por isso, os céus retêm o seu orvalho, e a terra não produz os seus frutos.",
+        "11": "Fiz vir a seca sobre a terra e sobre os montes, sobre o cereal, sobre o vinho, sobre o azeite, sobre o que o solo produz, sobre as pessoas, sobre os animais e sobre todo trabalho das mãos.",
+        "12": "Então Zorobabel, filho de Salatiel, e Josué, filho de Jozadaque, o sumo sacerdote, e todo o remanescente do povo atenderam à voz do Senhor , seu Deus, e às palavras do profeta Ageu, as quais o Senhor , seu Deus, havia ordenado que ele dissesse. E o povo temeu diante do Senhor .",
+        "13": "Então Ageu, o enviado do Senhor , falou ao povo, segundo a mensagem do Senhor , dizendo:",
+        "14": "O Senhor despertou o espírito de Zorobabel, filho de Salatiel, governador de Judá, e o espírito de Josué, filho de Jozadaque, o sumo sacerdote, e o espírito de todo o remanescente do povo; eles vieram e começaram a trabalhar no templo do Senhor dos Exércitos, seu Deus.",
+        "15": "Era o vigésimo quarto dia do sexto mês do segundo ano do reinado de Dario."
     }
-  }
 }

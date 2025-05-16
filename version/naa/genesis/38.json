@@ -1,126 +1,39 @@
 {
-  "livro": "Gênesis",
-  "capítulo": 38,
-  "versículos": {
-    "1": {
-      "título": "Judá e Tamar",
-      "texto": "Aconteceu, por esse tempo, que Judá se afastou de seus irmãos e se hospedou na casa de um adulamita, chamado Hira."
+    "livro": "Gênesis",
+    "capitulo": 38,
+    "titulos": {
+        "1": "Judá e Tamar"
     },
-    "2": {
-      "título": "",
-      "texto": "Ali Judá viu a filha de um cananeu, chamado Sua; ele a tomou por mulher e teve relações com ela."
-    },
-    "3": {
-      "título": "",
-      "texto": "A mulher ficou grávida e deu à luz um filho, e Judá lhe deu o nome de Er."
-    },
-    "4": {
-      "título": "",
-      "texto": "Ela ficou grávida outra vez e deu à luz um filho, a quem ela deu o nome de Onã."
-    },
-    "5": {
-      "título": "",
-      "texto": "Mais uma vez ela ficou grávida e deu à luz outro filho, a quem ela chamou de Selá. Ela estava em Quezibe quando o teve."
-    },
-    "6": {
-      "título": "",
-      "texto": "Judá tomou uma esposa para Er, o seu primogênito; o nome dela era Tamar."
-    },
-    "7": {
-      "título": "",
-      "texto": "No entanto, Er, o primogênito de Judá, era mau aos olhos do Senhor , e por isso o Senhor fez com que ele morresse."
-    },
-    "8": {
-      "título": "",
-      "texto": "Então Judá disse a Onã:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Mas Onã sabia que o filho não seria considerado seu. Por isso, todas as vezes que tinha relações com a mulher de seu irmão deixava o sêmen cair na terra, para não dar descendência a seu irmão."
-    },
-    "10": {
-      "título": "",
-      "texto": "Isso, porém, que fazia, era mau aos olhos do Senhor , e por isso fez com que também este morresse."
-    },
-    "11": {
-      "título": "",
-      "texto": "Então Judá disse a Tamar, sua nora:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Algum tempo depois morreu a mulher de Judá, que era filha de Sua. Quando terminou o período de luto, Judá foi até onde estavam os tosquiadores de suas ovelhas, em Timna, ele e seu amigo Hira, o adulamita."
-    },
-    "13": {
-      "título": "",
-      "texto": "E alguém foi dizer a Tamar:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Então ela tirou as suas roupas de viúva, e, cobrindo-se com um véu, se disfarçou e se sentou à entrada de Enaim, no caminho de Timna. Porque ela sabia que Selá já era homem, e ela não lhe havia sido dada por mulher."
-    },
-    "15": {
-      "título": "",
-      "texto": "Quando Judá a viu, pensou que se tratava de uma prostituta, pois ela havia coberto o rosto."
-    },
-    "16": {
-      "título": "",
-      "texto": "Então se dirigiu a ela no caminho e lhe disse:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Ele respondeu:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Ele respondeu:"
-    },
-    "19": {
-      "título": "",
-      "texto": "Tamar se levantou e foi embora. Tirou o véu e pôs outra vez as suas roupas de viúva."
-    },
-    "20": {
-      "título": "",
-      "texto": "Judá enviou o cabrito, por meio do adulamita, seu amigo, para reaver a garantia que tinha deixado com a mulher, mas ele não a encontrou."
-    },
-    "21": {
-      "título": "",
-      "texto": "Então o amigo de Judá perguntou aos homens daquele lugar:"
-    },
-    "22": {
-      "título": "",
-      "texto": "Ele voltou a Judá e disse:"
-    },
-    "23": {
-      "título": "",
-      "texto": "Judá respondeu:"
-    },
-    "24": {
-      "título": "",
-      "texto": "Passados quase três meses, foram dizer a Judá:"
-    },
-    "25": {
-      "título": "",
-      "texto": "Quando a estavam trazendo para fora, ela mandou dizer ao sogro:"
-    },
-    "26": {
-      "título": "",
-      "texto": "Judá os reconheceu e disse:"
-    },
-    "27": {
-      "título": "",
-      "texto": "E aconteceu que, estando ela para dar à luz, havia gêmeos no seu ventre."
-    },
-    "28": {
-      "título": "",
-      "texto": "Ao nascerem, um pôs a mão para fora, e a parteira, tomando-a, amarrou nela um fio vermelho, dizendo:"
-    },
-    "29": {
-      "título": "",
-      "texto": "Mas, recolhendo ele a mão, o outro nasceu primeiro. E a parteira disse:"
-    },
-    "30": {
-      "título": "",
-      "texto": "Depois nasceu o irmão, em cuja mão estava o fio vermelho. E lhe deram o nome de Zera."
+    "versiculos": {
+        "1": "Aconteceu, por esse tempo, que Judá se afastou de seus irmãos e se hospedou na casa de um adulamita, chamado Hira.",
+        "2": "Ali Judá viu a filha de um cananeu, chamado Sua; ele a tomou por mulher e teve relações com ela.",
+        "3": "A mulher ficou grávida e deu à luz um filho, e Judá lhe deu o nome de Er.",
+        "4": "Ela ficou grávida outra vez e deu à luz um filho, a quem ela deu o nome de Onã.",
+        "5": "Mais uma vez ela ficou grávida e deu à luz outro filho, a quem ela chamou de Selá. Ela estava em Quezibe quando o teve.",
+        "6": "Judá tomou uma esposa para Er, o seu primogênito; o nome dela era Tamar.",
+        "7": "No entanto, Er, o primogênito de Judá, era mau aos olhos do Senhor , e por isso o Senhor fez com que ele morresse.",
+        "8": "Então Judá disse a Onã:",
+        "9": "Mas Onã sabia que o filho não seria considerado seu. Por isso, todas as vezes que tinha relações com a mulher de seu irmão deixava o sêmen cair na terra, para não dar descendência a seu irmão.",
+        "10": "Isso, porém, que fazia, era mau aos olhos do Senhor , e por isso fez com que também este morresse.",
+        "11": "Então Judá disse a Tamar, sua nora:",
+        "12": "Algum tempo depois morreu a mulher de Judá, que era filha de Sua. Quando terminou o período de luto, Judá foi até onde estavam os tosquiadores de suas ovelhas, em Timna, ele e seu amigo Hira, o adulamita.",
+        "13": "E alguém foi dizer a Tamar:",
+        "14": "Então ela tirou as suas roupas de viúva, e, cobrindo-se com um véu, se disfarçou e se sentou à entrada de Enaim, no caminho de Timna. Porque ela sabia que Selá já era homem, e ela não lhe havia sido dada por mulher.",
+        "15": "Quando Judá a viu, pensou que se tratava de uma prostituta, pois ela havia coberto o rosto.",
+        "16": "Então se dirigiu a ela no caminho e lhe disse:",
+        "17": "Ele respondeu:",
+        "18": "Ele respondeu:",
+        "19": "Tamar se levantou e foi embora. Tirou o véu e pôs outra vez as suas roupas de viúva.",
+        "20": "Judá enviou o cabrito, por meio do adulamita, seu amigo, para reaver a garantia que tinha deixado com a mulher, mas ele não a encontrou.",
+        "21": "Então o amigo de Judá perguntou aos homens daquele lugar:",
+        "22": "Ele voltou a Judá e disse:",
+        "23": "Judá respondeu:",
+        "24": "Passados quase três meses, foram dizer a Judá:",
+        "25": "Quando a estavam trazendo para fora, ela mandou dizer ao sogro:",
+        "26": "Judá os reconheceu e disse:",
+        "27": "E aconteceu que, estando ela para dar à luz, havia gêmeos no seu ventre.",
+        "28": "Ao nascerem, um pôs a mão para fora, e a parteira, tomando-a, amarrou nela um fio vermelho, dizendo:",
+        "29": "Mas, recolhendo ele a mão, o outro nasceu primeiro. E a parteira disse:",
+        "30": "Depois nasceu o irmão, em cuja mão estava o fio vermelho. E lhe deram o nome de Zera."
     }
-  }
 }

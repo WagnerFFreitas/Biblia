@@ -1,78 +1,27 @@
 {
-  "livro": "Rute",
-  "capítulo": 3,
-  "versículos": {
-    "1": {
-      "título": "Rute e Boaz na eira",
-      "texto": "Noemi, a sogra de Rute, disse:"
+    "livro": "Rute",
+    "capitulo": 3,
+    "titulos": {
+        "1": "Rute e Boaz na eira"
     },
-    "2": {
-      "título": "",
-      "texto": "E esse Boaz, na companhia de cujas servas você esteve, não é um dos nossos parentes? Eis que esta noite ele estará limpando cevada na eira."
-    },
-    "3": {
-      "título": "",
-      "texto": "Lave-se, ponha perfume, vista a sua melhor roupa e vá até a eira. Mas não deixe que ele perceba que você está ali, até que ele tenha acabado de comer e beber."
-    },
-    "4": {
-      "título": "",
-      "texto": "Quando ele for dormir, repare bem o lugar onde ele vai se deitar. Então vá, descubra os pés dele e deite-se ali. Ele lhe dirá o que você deve fazer."
-    },
-    "5": {
-      "título": "",
-      "texto": "Rute respondeu:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Então Rute foi para a eira e fez conforme tudo o que a sua sogra lhe havia ordenado."
-    },
-    "7": {
-      "título": "",
-      "texto": "Quando Boaz terminou de comer e beber e estava já de coração um tanto alegre, foi deitar-se ao pé de um monte de cereais. Então Rute chegou de mansinho, descobriu os pés dele, e se deitou."
-    },
-    "8": {
-      "título": "",
-      "texto": "Aconteceu que, no meio da noite, o homem se assustou e sentou-se; e eis que uma mulher estava deitada a seus pés."
-    },
-    "9": {
-      "título": "",
-      "texto": "Boaz perguntou:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Boaz respondeu:"
-    },
-    "11": {
-      "título": "",
-      "texto": "E agora, minha filha, não tenha medo. Tudo o que você falou eu vou fazer, porque todo o povo da cidade sabe que você é uma mulher virtuosa."
-    },
-    "12": {
-      "título": "",
-      "texto": "Sim, é verdade que eu sou resgatador, mas há ainda outro resgatador que é parente mais chegado do que eu."
-    },
-    "13": {
-      "título": "",
-      "texto": "Fique aqui esta noite. Pela manhã, se ele quiser resgatar você, muito bem; ele que o faça. Mas, se ele não quiser, eu o farei, tão certo como vive o Senhor . Deite-se aqui até de manhã."
-    },
-    "14": {
-      "título": "",
-      "texto": "Rute ficou deitada aos pés dele até de manhã, mas levantou-se enquanto ainda estava escuro. Porque Boaz disse:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Disse mais:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Quando chegou à casa de sua sogra, esta lhe perguntou:"
-    },
-    "17": {
-      "título": "",
-      "texto": "E disse ainda:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Então Noemi disse:"
+    "versiculos": {
+        "1": "Noemi, a sogra de Rute, disse:",
+        "2": "E esse Boaz, na companhia de cujas servas você esteve, não é um dos nossos parentes? Eis que esta noite ele estará limpando cevada na eira.",
+        "3": "Lave-se, ponha perfume, vista a sua melhor roupa e vá até a eira. Mas não deixe que ele perceba que você está ali, até que ele tenha acabado de comer e beber.",
+        "4": "Quando ele for dormir, repare bem o lugar onde ele vai se deitar. Então vá, descubra os pés dele e deite-se ali. Ele lhe dirá o que você deve fazer.",
+        "5": "Rute respondeu:",
+        "6": "Então Rute foi para a eira e fez conforme tudo o que a sua sogra lhe havia ordenado.",
+        "7": "Quando Boaz terminou de comer e beber e estava já de coração um tanto alegre, foi deitar-se ao pé de um monte de cereais. Então Rute chegou de mansinho, descobriu os pés dele, e se deitou.",
+        "8": "Aconteceu que, no meio da noite, o homem se assustou e sentou-se; e eis que uma mulher estava deitada a seus pés.",
+        "9": "Boaz perguntou:",
+        "10": "Boaz respondeu:",
+        "11": "E agora, minha filha, não tenha medo. Tudo o que você falou eu vou fazer, porque todo o povo da cidade sabe que você é uma mulher virtuosa.",
+        "12": "Sim, é verdade que eu sou resgatador, mas há ainda outro resgatador que é parente mais chegado do que eu.",
+        "13": "Fique aqui esta noite. Pela manhã, se ele quiser resgatar você, muito bem; ele que o faça. Mas, se ele não quiser, eu o farei, tão certo como vive o Senhor . Deite-se aqui até de manhã.",
+        "14": "Rute ficou deitada aos pés dele até de manhã, mas levantou-se enquanto ainda estava escuro. Porque Boaz disse:",
+        "15": "Disse mais:",
+        "16": "Quando chegou à casa de sua sogra, esta lhe perguntou:",
+        "17": "E disse ainda:",
+        "18": "Então Noemi disse:"
     }
-  }
 }

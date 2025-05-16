@@ -1,114 +1,38 @@
 {
-  "livro": "Amós",
-  "capítulo": 5,
-  "versículos": {
-    "1": {
-      "título": "Busquem o Senhor e vocês viverão",
-      "texto": "Ouçam esta palavra que falo contra vocês, ó casa de Israel. É uma lamentação."
+    "livro": "Amós",
+    "capitulo": 5,
+    "titulos": {
+        "1": "Busquem o Senhor e vocês viverão",
+        "18": "O Dia do Senhor",
+        "21": "Deus exige justiça e não sacrifícios"
     },
-    "2": {
-      "título": "",
-      "texto": "“Caiu a virgem de Israel,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Porque assim diz o Senhor Deus :"
-    },
-    "4": {
-      "título": "",
-      "texto": "Pois assim diz o Senhor à casa de Israel:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Porém não busquem Betel,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Busquem o Senhor"
-    },
-    "7": {
-      "título": "",
-      "texto": "Vocês que transformam"
-    },
-    "8": {
-      "título": "",
-      "texto": "busquem aquele que fez"
-    },
-    "9": {
-      "título": "",
-      "texto": "É ele que faz vir"
-    },
-    "10": {
-      "título": "",
-      "texto": "“Vocês odeiam"
-    },
-    "11": {
-      "título": "",
-      "texto": "Portanto, visto que pisam"
-    },
-    "12": {
-      "título": "",
-      "texto": "Porque sei que são muitas"
-    },
-    "13": {
-      "título": "",
-      "texto": "Por isso, numa época"
-    },
-    "14": {
-      "título": "",
-      "texto": "“Busquem o bem e não o mal,"
-    },
-    "15": {
-      "título": "",
-      "texto": "Odeiem o mal e amem o bem."
-    },
-    "16": {
-      "título": "",
-      "texto": "Portanto, assim diz o Senhor, o Senhor , Deus dos Exércitos:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Em todas as vinhas"
-    },
-    "18": {
-      "título": "O Dia do Senhor",
-      "texto": "“Ai dos que desejam"
-    },
-    "19": {
-      "título": "",
-      "texto": "Será como se um homem"
-    },
-    "20": {
-      "título": "",
-      "texto": "O dia do Senhor será"
-    },
-    "21": {
-      "título": "Deus exige justiça e não sacrifícios",
-      "texto": "“Eu odeio e desprezo"
-    },
-    "22": {
-      "título": "",
-      "texto": "Mesmo que vocês me ofereçam"
-    },
-    "23": {
-      "título": "",
-      "texto": "Afastem de mim"
-    },
-    "24": {
-      "título": "",
-      "texto": "Em vez disso,"
-    },
-    "25": {
-      "título": "",
-      "texto": "— Casa de Israel, por acaso vocês me apresentaram sacrifícios e ofertas de cereais durante os quarenta anos no deserto?"
-    },
-    "26": {
-      "título": "",
-      "texto": "Pelo contrário, levaram o seu rei Sicute e Quium, o seu deus-estrela, imagens que vocês fizeram para si mesmos."
-    },
-    "27": {
-      "título": "",
-      "texto": "Por isso, vou mandar vocês ao exílio para além de Damasco, diz o Senhor , cujo nome é Deus dos Exércitos."
+    "versiculos": {
+        "1": "Ouçam esta palavra que falo contra vocês, ó casa de Israel. É uma lamentação.",
+        "2": "“Caiu a virgem de Israel,",
+        "3": "Porque assim diz o Senhor Deus :",
+        "4": "Pois assim diz o Senhor à casa de Israel:",
+        "5": "Porém não busquem Betel,",
+        "6": "Busquem o Senhor",
+        "7": "Vocês que transformam",
+        "8": "busquem aquele que fez",
+        "9": "É ele que faz vir",
+        "10": "“Vocês odeiam",
+        "11": "Portanto, visto que pisam",
+        "12": "Porque sei que são muitas",
+        "13": "Por isso, numa época",
+        "14": "“Busquem o bem e não o mal,",
+        "15": "Odeiem o mal e amem o bem.",
+        "16": "Portanto, assim diz o Senhor, o Senhor , Deus dos Exércitos:",
+        "17": "Em todas as vinhas",
+        "18": "“Ai dos que desejam",
+        "19": "Será como se um homem",
+        "20": "O dia do Senhor será",
+        "21": "“Eu odeio e desprezo",
+        "22": "Mesmo que vocês me ofereçam",
+        "23": "Afastem de mim",
+        "24": "Em vez disso,",
+        "25": "— Casa de Israel, por acaso vocês me apresentaram sacrifícios e ofertas de cereais durante os quarenta anos no deserto?",
+        "26": "Pelo contrário, levaram o seu rei Sicute e Quium, o seu deus-estrela, imagens que vocês fizeram para si mesmos.",
+        "27": "Por isso, vou mandar vocês ao exílio para além de Damasco, diz o Senhor , cujo nome é Deus dos Exércitos."
     }
-  }
 }

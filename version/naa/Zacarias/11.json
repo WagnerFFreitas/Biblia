@@ -1,74 +1,27 @@
 {
-  "livro": "Zacarias",
-  "capítulo": 11,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Abra as suas portas, ó Líbano,"
+    "livro": "Zacarias",
+    "capitulo": 11,
+    "titulos": {
+        "4": "A parábola do bom pastor",
+        "15": "A parábola do pastor insensato"
     },
-    "2": {
-      "título": "",
-      "texto": "Chorem, ciprestes,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Eis a voz de choro dos pastores,"
-    },
-    "4": {
-      "título": "A parábola do bom pastor",
-      "texto": "— Assim diz o Senhor , meu Deus: Apascente as ovelhas destinadas para o matadouro."
-    },
-    "5": {
-      "título": "",
-      "texto": "Aqueles que as compram matam-nas e não são punidos; os que as vendem dizem: “Louvado seja o Senhor ! Ficamos ricos!” E os pastores das ovelhas não se compadecem delas."
-    },
-    "6": {
-      "título": "",
-      "texto": "Certamente não terei mais compaixão dos moradores desta terra, diz o Senhor . Eis que eu entregarei cada um nas mãos do seu próximo e nas mãos do seu rei. Eles destruirão o país, e eu não os livrarei das mãos deles."
-    },
-    "7": {
-      "título": "",
-      "texto": "Apascentei as ovelhas destinadas para o matadouro pelos negociantes das ovelhas. Peguei dois cajados: a um chamei “Graça”, e a outro, “União”. E apascentei as ovelhas."
-    },
-    "8": {
-      "título": "",
-      "texto": "Em um mês destruí três pastores. Perdi a paciência com eles, e também eles se cansaram de mim."
-    },
-    "9": {
-      "título": "",
-      "texto": "Então eu disse:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Peguei o cajado chamado Graça e o quebrei, para anular a minha aliança, que eu havia feito com todos os povos."
-    },
-    "11": {
-      "título": "",
-      "texto": "Portanto, a aliança foi anulada naquele dia. E os negociantes de ovelhas, que estavam me observando, reconheceram que isto era palavra do Senhor ."
-    },
-    "12": {
-      "título": "",
-      "texto": "Eu lhes disse:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Então o Senhor me disse:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Depois, quebrei o segundo cajado, chamado União, para romper a irmandade entre Judá e Israel."
-    },
-    "15": {
-      "título": "A parábola do pastor insensato",
-      "texto": "O Senhor me disse:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Porque eis que eu levantarei na terra um pastor que não cuidará das ovelhas que estão perecendo, não buscará a desgarrada, não curará a que foi ferida, nem apascentará a sã, mas comerá a carne das ovelhas gordas e arrancará até os cascos delas."
-    },
-    "17": {
-      "título": "",
-      "texto": "Ai do pastor inútil,"
+    "versiculos": {
+        "1": "Abra as suas portas, ó Líbano,",
+        "2": "Chorem, ciprestes,",
+        "3": "Eis a voz de choro dos pastores,",
+        "4": "— Assim diz o Senhor , meu Deus: Apascente as ovelhas destinadas para o matadouro.",
+        "5": "Aqueles que as compram matam-nas e não são punidos; os que as vendem dizem: “Louvado seja o Senhor ! Ficamos ricos!” E os pastores das ovelhas não se compadecem delas.",
+        "6": "Certamente não terei mais compaixão dos moradores desta terra, diz o Senhor . Eis que eu entregarei cada um nas mãos do seu próximo e nas mãos do seu rei. Eles destruirão o país, e eu não os livrarei das mãos deles.",
+        "7": "Apascentei as ovelhas destinadas para o matadouro pelos negociantes das ovelhas. Peguei dois cajados: a um chamei “Graça”, e a outro, “União”. E apascentei as ovelhas.",
+        "8": "Em um mês destruí três pastores. Perdi a paciência com eles, e também eles se cansaram de mim.",
+        "9": "Então eu disse:",
+        "10": "Peguei o cajado chamado Graça e o quebrei, para anular a minha aliança, que eu havia feito com todos os povos.",
+        "11": "Portanto, a aliança foi anulada naquele dia. E os negociantes de ovelhas, que estavam me observando, reconheceram que isto era palavra do Senhor .",
+        "12": "Eu lhes disse:",
+        "13": "Então o Senhor me disse:",
+        "14": "Depois, quebrei o segundo cajado, chamado União, para romper a irmandade entre Judá e Israel.",
+        "15": "O Senhor me disse:",
+        "16": "Porque eis que eu levantarei na terra um pastor que não cuidará das ovelhas que estão perecendo, não buscará a desgarrada, não curará a que foi ferida, nem apascentará a sã, mas comerá a carne das ovelhas gordas e arrancará até os cascos delas.",
+        "17": "Ai do pastor inútil,"
     }
-  }
 }

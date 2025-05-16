@@ -1,70 +1,25 @@
 {
-  "livro": "Salmos",
-  "capítulo": 91,
-  "versículos": {
-    "1": {
-      "título": "Sob a sombra do Altíssimo",
-      "texto": "Aquele que habita"
+    "livro": "Salmos",
+    "capitulo": 91,
+    "titulos": {
+        "1": "Sob a sombra do Altíssimo"
     },
-    "2": {
-      "título": "",
-      "texto": "diz ao Senhor :"
-    },
-    "3": {
-      "título": "",
-      "texto": "Pois ele livrará você"
-    },
-    "4": {
-      "título": "",
-      "texto": "Ele o cobrirá com as suas penas,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Você não terá medo"
-    },
-    "6": {
-      "título": "",
-      "texto": "nem da peste"
-    },
-    "7": {
-      "título": "",
-      "texto": "Caiam mil ao seu lado,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Somente com os seus olhos"
-    },
-    "9": {
-      "título": "",
-      "texto": "Você disse:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Nenhum mal lhe sucederá,"
-    },
-    "11": {
-      "título": "",
-      "texto": "Porque aos seus anjos"
-    },
-    "12": {
-      "título": "",
-      "texto": "Eles o sustentarão"
-    },
-    "13": {
-      "título": "",
-      "texto": "Você pisará o leão e a cobra;"
-    },
-    "14": {
-      "título": "",
-      "texto": "Deus diz: “Porque a mim"
-    },
-    "15": {
-      "título": "",
-      "texto": "Ele me invocará,"
-    },
-    "16": {
-      "título": "",
-      "texto": "Vou saciá-lo com longevidade"
+    "versiculos": {
+        "1": "Aquele que habita",
+        "2": "diz ao Senhor :",
+        "3": "Pois ele livrará você",
+        "4": "Ele o cobrirá com as suas penas,",
+        "5": "Você não terá medo",
+        "6": "nem da peste",
+        "7": "Caiam mil ao seu lado,",
+        "8": "Somente com os seus olhos",
+        "9": "Você disse:",
+        "10": "Nenhum mal lhe sucederá,",
+        "11": "Porque aos seus anjos",
+        "12": "Eles o sustentarão",
+        "13": "Você pisará o leão e a cobra;",
+        "14": "Deus diz: “Porque a mim",
+        "15": "Ele me invocará,",
+        "16": "Vou saciá-lo com longevidade"
     }
-  }
 }

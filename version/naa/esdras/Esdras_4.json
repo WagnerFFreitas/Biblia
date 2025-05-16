@@ -1,102 +1,33 @@
 {
-  "livro": "Esdras",
-  "capítulo": 4,
-  "versículos": {
-    "1": {
-      "título": "Os inimigos fazem parar as obras",
-      "texto": "Quando os adversários de Judá e Benjamim ouviram que os que haviam voltado do cativeiro estavam reconstruindo o templo ao Senhor , Deus de Israel,"
+    "livro": "Esdras",
+    "capitulo": 4,
+    "titulos": {
+        "1": "Os inimigos fazem parar as obras"
     },
-    "2": {
-      "título": "",
-      "texto": "aproximaram-se de Zorobabel e dos chefes de famílias e lhes disseram:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Porém Zorobabel, Jesua e os outros chefes de famílias de Israel responderam:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Então o povo da terra começou a desanimar o povo de Judá, perturbando-o no trabalho de construção."
-    },
-    "5": {
-      "título": "",
-      "texto": "Contrataram conselheiros para frustrar o plano deles. Fizeram isso durante todo o reinado de Ciro, rei da Pérsia, até o reinado de Dario, rei da Pérsia."
-    },
-    "6": {
-      "título": "",
-      "texto": "No começo do reinado de Assuero, escreveram uma acusação contra os habitantes de Judá e de Jerusalém."
-    },
-    "7": {
-      "título": "",
-      "texto": "E, nos dias de Artaxerxes, rei da Pérsia, Bislão, Mitredate, Tabeel e os outros companheiros escreveram uma carta a Artaxerxes. A carta foi escrita em aramaico e traduzida."
-    },
-    "8": {
-      "título": "",
-      "texto": "Reum, o comandante, e Sinsai, o escrivão, escreveram uma carta ao rei Artaxerxes contra Jerusalém."
-    },
-    "9": {
-      "título": "",
-      "texto": "Os que escreveram foram Reum, o comandante, Sinsai, o escrivão, e os outros companheiros: dinaítas, afarsaquitas, tarpelitas, afarsitas, arquevitas, babilônios, susanquitas, deavitas, elamitas"
-    },
-    "10": {
-      "título": "",
-      "texto": "e outros povos, que o grande e afamado Osnapar deportou e fez habitar na cidade de Samaria e em outros lugares deste lado do Eufrates."
-    },
-    "11": {
-      "título": "",
-      "texto": "Eis o teor da carta endereçada ao rei Artaxerxes:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Seja do conhecimento do rei que os judeus que saíram daí vieram a Jerusalém. Eles estão reconstruindo aquela cidade rebelde e má. Estão restaurando as muralhas e reparando os seus fundamentos."
-    },
-    "13": {
-      "título": "",
-      "texto": "Saiba ainda o rei que, se aquela cidade for reconstruída e as muralhas forem restauradas, eles não pagarão os direitos, os impostos e os pedágios e assim causarão prejuízos ao rei."
-    },
-    "14": {
-      "título": "",
-      "texto": "Agora, como somos assalariados do rei e não queremos ver a desonra dele, por isso mandamos este aviso ao rei,"
-    },
-    "15": {
-      "título": "",
-      "texto": "para que faça uma investigação no Livro das Crônicas de seus pais, e nele o rei descobrirá e saberá que aquela cidade foi rebelde e danosa aos reis e às províncias e que nela tem havido rebeliões, desde os tempos antigos; por isso a cidade foi destruída."
-    },
-    "16": {
-      "título": "",
-      "texto": "Portanto, informamos ao rei que, se essa cidade for reconstruída e as suas muralhas forem restauradas, o rei não terá mais a posse das terras deste lado do Eufrates.”"
-    },
-    "17": {
-      "título": "",
-      "texto": "O rei mandou a seguinte resposta:"
-    },
-    "18": {
-      "título": "",
-      "texto": "A carta que vocês nos mandaram foi lida com clareza na minha presença."
-    },
-    "19": {
-      "título": "",
-      "texto": "Por ordem minha, fizeram uma investigação e descobriram que, desde tempos antigos, aquela cidade tem se levantado contra os reis, e nela ocorreram rebeliões e tumultos."
-    },
-    "20": {
-      "título": "",
-      "texto": "Também houve reis poderosos sobre Jerusalém, que dominaram toda a região além do Eufrates, aos quais foram pagos direitos, impostos e pedágios."
-    },
-    "21": {
-      "título": "",
-      "texto": "Agora, deem uma ordem para que aqueles homens parem o trabalho e aquela cidade não seja reconstruída, a não ser com autorização minha."
-    },
-    "22": {
-      "título": "",
-      "texto": "Tenham cuidado e não sejam negligentes nestas coisas. Por que aumentaria o dano, em prejuízo dos reis?”"
-    },
-    "23": {
-      "título": "",
-      "texto": "Depois que a cópia da carta do rei Artaxerxes foi lida diante de Reum, de Sinsai, o escrivão, e dos seus companheiros, eles foram depressa a Jerusalém, aos judeus, e, de mão armada, os forçaram a parar a obra."
-    },
-    "24": {
-      "título": "",
-      "texto": "Assim, a obra da Casa de Deus, em Jerusalém, foi interrompida; e isso até o segundo ano do reinado de Dario, rei da Pérsia."
+    "versiculos": {
+        "1": "Quando os adversários de Judá e Benjamim ouviram que os que haviam voltado do cativeiro estavam reconstruindo o templo ao Senhor , Deus de Israel,",
+        "2": "aproximaram-se de Zorobabel e dos chefes de famílias e lhes disseram:",
+        "3": "Porém Zorobabel, Jesua e os outros chefes de famílias de Israel responderam:",
+        "4": "Então o povo da terra começou a desanimar o povo de Judá, perturbando-o no trabalho de construção.",
+        "5": "Contrataram conselheiros para frustrar o plano deles. Fizeram isso durante todo o reinado de Ciro, rei da Pérsia, até o reinado de Dario, rei da Pérsia.",
+        "6": "No começo do reinado de Assuero, escreveram uma acusação contra os habitantes de Judá e de Jerusalém.",
+        "7": "E, nos dias de Artaxerxes, rei da Pérsia, Bislão, Mitredate, Tabeel e os outros companheiros escreveram uma carta a Artaxerxes. A carta foi escrita em aramaico e traduzida.",
+        "8": "Reum, o comandante, e Sinsai, o escrivão, escreveram uma carta ao rei Artaxerxes contra Jerusalém.",
+        "9": "Os que escreveram foram Reum, o comandante, Sinsai, o escrivão, e os outros companheiros: dinaítas, afarsaquitas, tarpelitas, afarsitas, arquevitas, babilônios, susanquitas, deavitas, elamitas",
+        "10": "e outros povos, que o grande e afamado Osnapar deportou e fez habitar na cidade de Samaria e em outros lugares deste lado do Eufrates.",
+        "11": "Eis o teor da carta endereçada ao rei Artaxerxes:",
+        "12": "Seja do conhecimento do rei que os judeus que saíram daí vieram a Jerusalém. Eles estão reconstruindo aquela cidade rebelde e má. Estão restaurando as muralhas e reparando os seus fundamentos.",
+        "13": "Saiba ainda o rei que, se aquela cidade for reconstruída e as muralhas forem restauradas, eles não pagarão os direitos, os impostos e os pedágios e assim causarão prejuízos ao rei.",
+        "14": "Agora, como somos assalariados do rei e não queremos ver a desonra dele, por isso mandamos este aviso ao rei,",
+        "15": "para que faça uma investigação no Livro das Crônicas de seus pais, e nele o rei descobrirá e saberá que aquela cidade foi rebelde e danosa aos reis e às províncias e que nela tem havido rebeliões, desde os tempos antigos; por isso a cidade foi destruída.",
+        "16": "Portanto, informamos ao rei que, se essa cidade for reconstruída e as suas muralhas forem restauradas, o rei não terá mais a posse das terras deste lado do Eufrates.”",
+        "17": "O rei mandou a seguinte resposta:",
+        "18": "A carta que vocês nos mandaram foi lida com clareza na minha presença.",
+        "19": "Por ordem minha, fizeram uma investigação e descobriram que, desde tempos antigos, aquela cidade tem se levantado contra os reis, e nela ocorreram rebeliões e tumultos.",
+        "20": "Também houve reis poderosos sobre Jerusalém, que dominaram toda a região além do Eufrates, aos quais foram pagos direitos, impostos e pedágios.",
+        "21": "Agora, deem uma ordem para que aqueles homens parem o trabalho e aquela cidade não seja reconstruída, a não ser com autorização minha.",
+        "22": "Tenham cuidado e não sejam negligentes nestas coisas. Por que aumentaria o dano, em prejuízo dos reis?”",
+        "23": "Depois que a cópia da carta do rei Artaxerxes foi lida diante de Reum, de Sinsai, o escrivão, e dos seus companheiros, eles foram depressa a Jerusalém, aos judeus, e, de mão armada, os forçaram a parar a obra.",
+        "24": "Assim, a obra da Casa de Deus, em Jerusalém, foi interrompida; e isso até o segundo ano do reinado de Dario, rei da Pérsia."
     }
-  }
 }

@@ -1,130 +1,40 @@
 {
-  "livro": "Salmos",
-  "capítulo": 22,
-  "versículos": {
-    "1": {
-      "título": "Um grito de angústia e um salmo de louvor",
-      "texto": "Deus meu, Deus meu,"
+    "livro": "Salmos",
+    "capitulo": 22,
+    "titulos": {
+        "1": "Um grito de angústia e um salmo de louvor"
     },
-    "2": {
-      "título": "",
-      "texto": "Deus meu, clamo de dia,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Contudo, tu és santo,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Nossos pais confiaram em ti;"
-    },
-    "5": {
-      "título": "",
-      "texto": "A ti clamaram e escaparam;"
-    },
-    "6": {
-      "título": "",
-      "texto": "Mas eu sou verme"
-    },
-    "7": {
-      "título": "",
-      "texto": "Todos os que me veem"
-    },
-    "8": {
-      "título": "",
-      "texto": "“Confiou no Senhor !"
-    },
-    "9": {
-      "título": "",
-      "texto": "Contudo, tu és quem"
-    },
-    "10": {
-      "título": "",
-      "texto": "A ti me entreguei"
-    },
-    "11": {
-      "título": "",
-      "texto": "Não te distancies de mim,"
-    },
-    "12": {
-      "título": "",
-      "texto": "Muitos touros me cercam,"
-    },
-    "13": {
-      "título": "",
-      "texto": "Contra mim abrem a boca,"
-    },
-    "14": {
-      "título": "",
-      "texto": "Derramei-me como água,"
-    },
-    "15": {
-      "título": "",
-      "texto": "Secou-se o meu vigor,"
-    },
-    "16": {
-      "título": "",
-      "texto": "Cães me cercam;"
-    },
-    "17": {
-      "título": "",
-      "texto": "Posso contar"
-    },
-    "18": {
-      "título": "",
-      "texto": "Repartem entre si"
-    },
-    "19": {
-      "título": "",
-      "texto": "Tu, porém, Senhor ,"
-    },
-    "20": {
-      "título": "",
-      "texto": "Livra a minha alma da espada,"
-    },
-    "21": {
-      "título": "",
-      "texto": "Salva-me da boca do leão"
-    },
-    "22": {
-      "título": "",
-      "texto": "A meus irmãos declararei"
-    },
-    "23": {
-      "título": "",
-      "texto": "Louvem o Senhor ,"
-    },
-    "24": {
-      "título": "",
-      "texto": "Porque não desprezou"
-    },
-    "25": {
-      "título": "",
-      "texto": "De ti vem o meu louvor"
-    },
-    "26": {
-      "título": "",
-      "texto": "Os sofredores hão de comer"
-    },
-    "27": {
-      "título": "",
-      "texto": "Os confins da terra"
-    },
-    "28": {
-      "título": "",
-      "texto": "Pois do Senhor é o reino,"
-    },
-    "29": {
-      "título": "",
-      "texto": "Todos os ricos da terra"
-    },
-    "30": {
-      "título": "",
-      "texto": "A posteridade o servirá,"
-    },
-    "31": {
-      "título": "",
-      "texto": "Virão e anunciarão a justiça dele;"
+    "versiculos": {
+        "1": "Deus meu, Deus meu,",
+        "2": "Deus meu, clamo de dia,",
+        "3": "Contudo, tu és santo,",
+        "4": "Nossos pais confiaram em ti;",
+        "5": "A ti clamaram e escaparam;",
+        "6": "Mas eu sou verme",
+        "7": "Todos os que me veem",
+        "8": "“Confiou no Senhor !",
+        "9": "Contudo, tu és quem",
+        "10": "A ti me entreguei",
+        "11": "Não te distancies de mim,",
+        "12": "Muitos touros me cercam,",
+        "13": "Contra mim abrem a boca,",
+        "14": "Derramei-me como água,",
+        "15": "Secou-se o meu vigor,",
+        "16": "Cães me cercam;",
+        "17": "Posso contar",
+        "18": "Repartem entre si",
+        "19": "Tu, porém, Senhor ,",
+        "20": "Livra a minha alma da espada,",
+        "21": "Salva-me da boca do leão",
+        "22": "A meus irmãos declararei",
+        "23": "Louvem o Senhor ,",
+        "24": "Porque não desprezou",
+        "25": "De ti vem o meu louvor",
+        "26": "Os sofredores hão de comer",
+        "27": "Os confins da terra",
+        "28": "Pois do Senhor é o reino,",
+        "29": "Todos os ricos da terra",
+        "30": "A posteridade o servirá,",
+        "31": "Virão e anunciarão a justiça dele;"
     }
-  }
 }

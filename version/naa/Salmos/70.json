@@ -1,26 +1,14 @@
 {
-  "livro": "Salmos",
-  "capítulo": 70,
-  "versículos": {
-    "1": {
-      "título": "Oração pedindo ajuda",
-      "texto": "Agrada-te, ó Deus,"
+    "livro": "Salmos",
+    "capitulo": 70,
+    "titulos": {
+        "1": "Oração pedindo ajuda"
     },
-    "2": {
-      "título": "",
-      "texto": "Que sejam envergonhados"
-    },
-    "3": {
-      "título": "",
-      "texto": "Retrocedam por causa"
-    },
-    "4": {
-      "título": "",
-      "texto": "Exultem e em ti se alegrem"
-    },
-    "5": {
-      "título": "",
-      "texto": "Eu sou pobre e necessitado;"
+    "versiculos": {
+        "1": "Agrada-te, ó Deus,",
+        "2": "Que sejam envergonhados",
+        "3": "Retrocedam por causa",
+        "4": "Exultem e em ti se alegrem",
+        "5": "Eu sou pobre e necessitado;"
     }
-  }
 }

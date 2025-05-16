@@ -1,150 +1,45 @@
 {
-  "livro": "Levítico",
-  "capítulo": 8,
-  "versículos": {
-    "1": {
-      "título": "A consagração de Arão e de seus filhos",
-      "texto": "O Senhor disse a Moisés:"
+    "livro": "Levítico",
+    "capitulo": 8,
+    "titulos": {
+        "1": "A consagração de Arão e de seus filhos"
     },
-    "2": {
-      "título": "",
-      "texto": "— Leve Arão e os filhos dele, as vestes, o óleo da unção, o novilho da oferta pelo pecado, os dois carneiros e o cesto dos pães sem fermento"
-    },
-    "3": {
-      "título": "",
-      "texto": "e reúna toda a congregação à porta da tenda do encontro."
-    },
-    "4": {
-      "título": "",
-      "texto": "Moisés fez como o Senhor lhe havia ordenado, e a congregação se reuniu à porta da tenda do encontro."
-    },
-    "5": {
-      "título": "",
-      "texto": "Então Moisés disse à congregação:"
-    },
-    "6": {
-      "título": "",
-      "texto": "E fez com que Arão e os filhos dele se aproximassem e mandou que se lavassem com água."
-    },
-    "7": {
-      "título": "",
-      "texto": "Vestiu Arão com a túnica, cingiu-o com o cinto e pôs sobre ele a sobrepeliz. Também pôs sobre ele a estola sacerdotal, cingiu-o com o cinto de obra esmerada da estola sacerdotal e o ajustou com esse cinto."
-    },
-    "8": {
-      "título": "",
-      "texto": "Depois, colocou-lhe o peitoral, pondo no peitoral o Urim e o Tumim;"
-    },
-    "9": {
-      "título": "",
-      "texto": "e lhe pôs a mitra na cabeça e, na mitra, na sua parte dianteira, pôs a lâmina de ouro, a coroa sagrada, como o Senhor havia ordenado a Moisés."
-    },
-    "10": {
-      "título": "",
-      "texto": "Então Moisés pegou o óleo da unção, ungiu o tabernáculo e tudo o que havia nele e o consagrou."
-    },
-    "11": {
-      "título": "",
-      "texto": "Sete vezes ele aspergiu do óleo sobre o altar e ungiu o altar e todos os seus utensílios, bem como a bacia e o seu suporte, para os consagrar."
-    },
-    "12": {
-      "título": "",
-      "texto": "Depois, derramou do óleo da unção sobre a cabeça de Arão e ungiu-o, para consagrá-lo."
-    },
-    "13": {
-      "título": "",
-      "texto": "Também Moisés fez chegar os filhos de Arão, vestiu-lhes as túnicas, cingiu-os com o cinto e atou-lhes os turbantes, como o Senhor lhe havia ordenado."
-    },
-    "14": {
-      "título": "",
-      "texto": "Então fez chegar o novilho da oferta pelo pecado; e Arão e os seus filhos puseram as mãos sobre a cabeça do novilho da oferta pelo pecado."
-    },
-    "15": {
-      "título": "",
-      "texto": "Moisés matou o novilho, pegou um pouco do sangue, pôs isso, com o dedo, sobre os chifres do altar ao redor e purificou o altar. Depois, derramou o resto do sangue na base do altar e o consagrou, para fazer expiação por ele."
-    },
-    "16": {
-      "título": "",
-      "texto": "Depois, pegou toda a gordura que está sobre as entranhas, a membrana do fígado, os dois rins e sua gordura; e Moisés os queimou sobre o altar."
-    },
-    "17": {
-      "título": "",
-      "texto": "Mas queimou o novilho com o seu couro, a sua carne e o seu excremento fora do arraial, como o Senhor havia ordenado a Moisés."
-    },
-    "18": {
-      "título": "",
-      "texto": "Depois, fez chegar o carneiro do holocausto; e Arão e seus filhos puseram as mãos sobre a cabeça do carneiro."
-    },
-    "19": {
-      "título": "",
-      "texto": "Moisés matou o carneiro e aspergiu o sangue sobre o altar, ao redor."
-    },
-    "20": {
-      "título": "",
-      "texto": "Cortou também o carneiro em pedaços; e Moisés queimou a cabeça, os pedaços e a gordura."
-    },
-    "21": {
-      "título": "",
-      "texto": "Porém as entranhas e as pernas lavou com água; e Moisés queimou todo o carneiro sobre o altar; era holocausto de aroma agradável, oferta queimada ao Senhor , como o Senhor havia ordenado a Moisés."
-    },
-    "22": {
-      "título": "",
-      "texto": "Então fez chegar o outro carneiro, o carneiro da consagração; e Arão e seus filhos puseram as mãos sobre a cabeça do carneiro."
-    },
-    "23": {
-      "título": "",
-      "texto": "Moisés matou o carneiro, pegou um pouco do sangue e o pôs sobre a ponta da orelha direita de Arão, sobre o polegar da sua mão direita e sobre o polegar do seu pé direito."
-    },
-    "24": {
-      "título": "",
-      "texto": "Também fez chegar os filhos de Arão; pôs daquele sangue sobre a ponta da orelha direita deles, sobre o polegar da mão direita e sobre o polegar do pé direito; e Moisés aspergiu o resto do sangue sobre o altar, ao redor."
-    },
-    "25": {
-      "título": "",
-      "texto": "Pegou a gordura, a cauda, toda a gordura que está nas entranhas, a membrana do fígado, ambos os rins, a sua gordura e a coxa direita."
-    },
-    "26": {
-      "título": "",
-      "texto": "Também do cesto dos pães sem fermento, que estava diante do Senhor , pegou um bolo sem fermento, um bolo de pão azeitado e um pãozinho achatado e os pôs sobre a gordura e sobre a coxa direita."
-    },
-    "27": {
-      "título": "",
-      "texto": "E tudo isso pôs nas mãos de Arão e de seus filhos e o moveu por oferta movida diante do Senhor ."
-    },
-    "28": {
-      "título": "",
-      "texto": "Depois, Moisés o tomou das mãos deles e o queimou no altar sobre o holocausto; era uma oferta da consagração, por aroma agradável, oferta queimada ao Senhor ."
-    },
-    "29": {
-      "título": "",
-      "texto": "Moisés pegou o peito e moveu-o por oferta movida diante do Senhor ; era a porção que cabia a Moisés, do carneiro da consagração, como o Senhor lhe havia ordenado."
-    },
-    "30": {
-      "título": "",
-      "texto": "Moisés pegou também um pouco do óleo da unção e um pouco do sangue que estava sobre o altar e aspergiu sobre Arão e as suas vestes, bem como sobre os filhos de Arão e as suas vestes; e consagrou Arão e as vestes dele bem como os filhos de Arão e as vestes deles."
-    },
-    "31": {
-      "título": "",
-      "texto": "Moisés disse a Arão e aos seus filhos:"
-    },
-    "32": {
-      "título": "",
-      "texto": "Mas o que restar da carne e do pão vocês devem queimar.”"
-    },
-    "33": {
-      "título": "",
-      "texto": "Não se afastem da porta da tenda do encontro por sete dias, até o dia em que se cumprirem os dias da consagração de vocês; porque o Senhor consagrará vocês durante sete dias."
-    },
-    "34": {
-      "título": "",
-      "texto": "Como se fez neste dia, assim o Senhor ordenou que se fizesse, em expiação por vocês."
-    },
-    "35": {
-      "título": "",
-      "texto": "Fiquem, pois, à porta da tenda do encontro dia e noite, por sete dias, e observem as prescrições do Senhor , para que não morram; porque assim me foi ordenado."
-    },
-    "36": {
-      "título": "",
-      "texto": "E Arão e seus filhos fizeram todas as coisas que o Senhor havia ordenado por meio de Moisés."
+    "versiculos": {
+        "1": "O Senhor disse a Moisés:",
+        "2": "— Leve Arão e os filhos dele, as vestes, o óleo da unção, o novilho da oferta pelo pecado, os dois carneiros e o cesto dos pães sem fermento",
+        "3": "e reúna toda a congregação à porta da tenda do encontro.",
+        "4": "Moisés fez como o Senhor lhe havia ordenado, e a congregação se reuniu à porta da tenda do encontro.",
+        "5": "Então Moisés disse à congregação:",
+        "6": "E fez com que Arão e os filhos dele se aproximassem e mandou que se lavassem com água.",
+        "7": "Vestiu Arão com a túnica, cingiu-o com o cinto e pôs sobre ele a sobrepeliz. Também pôs sobre ele a estola sacerdotal, cingiu-o com o cinto de obra esmerada da estola sacerdotal e o ajustou com esse cinto.",
+        "8": "Depois, colocou-lhe o peitoral, pondo no peitoral o Urim e o Tumim;",
+        "9": "e lhe pôs a mitra na cabeça e, na mitra, na sua parte dianteira, pôs a lâmina de ouro, a coroa sagrada, como o Senhor havia ordenado a Moisés.",
+        "10": "Então Moisés pegou o óleo da unção, ungiu o tabernáculo e tudo o que havia nele e o consagrou.",
+        "11": "Sete vezes ele aspergiu do óleo sobre o altar e ungiu o altar e todos os seus utensílios, bem como a bacia e o seu suporte, para os consagrar.",
+        "12": "Depois, derramou do óleo da unção sobre a cabeça de Arão e ungiu-o, para consagrá-lo.",
+        "13": "Também Moisés fez chegar os filhos de Arão, vestiu-lhes as túnicas, cingiu-os com o cinto e atou-lhes os turbantes, como o Senhor lhe havia ordenado.",
+        "14": "Então fez chegar o novilho da oferta pelo pecado; e Arão e os seus filhos puseram as mãos sobre a cabeça do novilho da oferta pelo pecado.",
+        "15": "Moisés matou o novilho, pegou um pouco do sangue, pôs isso, com o dedo, sobre os chifres do altar ao redor e purificou o altar. Depois, derramou o resto do sangue na base do altar e o consagrou, para fazer expiação por ele.",
+        "16": "Depois, pegou toda a gordura que está sobre as entranhas, a membrana do fígado, os dois rins e sua gordura; e Moisés os queimou sobre o altar.",
+        "17": "Mas queimou o novilho com o seu couro, a sua carne e o seu excremento fora do arraial, como o Senhor havia ordenado a Moisés.",
+        "18": "Depois, fez chegar o carneiro do holocausto; e Arão e seus filhos puseram as mãos sobre a cabeça do carneiro.",
+        "19": "Moisés matou o carneiro e aspergiu o sangue sobre o altar, ao redor.",
+        "20": "Cortou também o carneiro em pedaços; e Moisés queimou a cabeça, os pedaços e a gordura.",
+        "21": "Porém as entranhas e as pernas lavou com água; e Moisés queimou todo o carneiro sobre o altar; era holocausto de aroma agradável, oferta queimada ao Senhor , como o Senhor havia ordenado a Moisés.",
+        "22": "Então fez chegar o outro carneiro, o carneiro da consagração; e Arão e seus filhos puseram as mãos sobre a cabeça do carneiro.",
+        "23": "Moisés matou o carneiro, pegou um pouco do sangue e o pôs sobre a ponta da orelha direita de Arão, sobre o polegar da sua mão direita e sobre o polegar do seu pé direito.",
+        "24": "Também fez chegar os filhos de Arão; pôs daquele sangue sobre a ponta da orelha direita deles, sobre o polegar da mão direita e sobre o polegar do pé direito; e Moisés aspergiu o resto do sangue sobre o altar, ao redor.",
+        "25": "Pegou a gordura, a cauda, toda a gordura que está nas entranhas, a membrana do fígado, ambos os rins, a sua gordura e a coxa direita.",
+        "26": "Também do cesto dos pães sem fermento, que estava diante do Senhor , pegou um bolo sem fermento, um bolo de pão azeitado e um pãozinho achatado e os pôs sobre a gordura e sobre a coxa direita.",
+        "27": "E tudo isso pôs nas mãos de Arão e de seus filhos e o moveu por oferta movida diante do Senhor .",
+        "28": "Depois, Moisés o tomou das mãos deles e o queimou no altar sobre o holocausto; era uma oferta da consagração, por aroma agradável, oferta queimada ao Senhor .",
+        "29": "Moisés pegou o peito e moveu-o por oferta movida diante do Senhor ; era a porção que cabia a Moisés, do carneiro da consagração, como o Senhor lhe havia ordenado.",
+        "30": "Moisés pegou também um pouco do óleo da unção e um pouco do sangue que estava sobre o altar e aspergiu sobre Arão e as suas vestes, bem como sobre os filhos de Arão e as suas vestes; e consagrou Arão e as vestes dele bem como os filhos de Arão e as vestes deles.",
+        "31": "Moisés disse a Arão e aos seus filhos:",
+        "32": "Mas o que restar da carne e do pão vocês devem queimar.”",
+        "33": "Não se afastem da porta da tenda do encontro por sete dias, até o dia em que se cumprirem os dias da consagração de vocês; porque o Senhor consagrará vocês durante sete dias.",
+        "34": "Como se fez neste dia, assim o Senhor ordenou que se fizesse, em expiação por vocês.",
+        "35": "Fiquem, pois, à porta da tenda do encontro dia e noite, por sete dias, e observem as prescrições do Senhor , para que não morram; porque assim me foi ordenado.",
+        "36": "E Arão e seus filhos fizeram todas as coisas que o Senhor havia ordenado por meio de Moisés."
     }
-  }
 }

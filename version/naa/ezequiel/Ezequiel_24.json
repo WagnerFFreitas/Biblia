@@ -1,114 +1,37 @@
 {
-  "livro": "Ezequiel",
-  "capítulo": 24,
-  "versículos": {
-    "1": {
-      "título": "A parábola da panela",
-      "texto": "A palavra do Senhor veio a mim, no nono ano, no décimo mês, aos dez dias do mês, dizendo:"
+    "livro": "Ezequiel",
+    "capitulo": 24,
+    "titulos": {
+        "1": "A parábola da panela",
+        "15": "A viuvez de Ezequiel"
     },
-    "2": {
-      "título": "",
-      "texto": "— Filho do homem, anote o dia de hoje, sim, o dia de hoje, porque o rei da Babilônia começa o cerco de Jerusalém neste dia."
-    },
-    "3": {
-      "título": "",
-      "texto": "Conte uma parábola à casa rebelde e diga: Assim diz o Senhor Deus :"
-    },
-    "4": {
-      "título": "",
-      "texto": "acrescente pedaços de carne,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Pegue isso dos melhores"
-    },
-    "6": {
-      "título": "",
-      "texto": "— Portanto, assim diz o Senhor Deus : Ai da cidade sanguinária, da panela cheia de ferrugem, ferrugem que não foi tirada dela! Tire de dentro a carne, pedaço por pedaço, sem escolha."
-    },
-    "7": {
-      "título": "",
-      "texto": "Porque a culpa de sangue está no meio dela. O sangue foi derramado sobre a rocha escalvada e não sobre a terra, para o cobrir com o pó."
-    },
-    "8": {
-      "título": "",
-      "texto": "Para fazer subir a indignação, para tomar vingança, eu pus o seu sangue numa rocha escalvada, para que não fosse coberto."
-    },
-    "9": {
-      "título": "",
-      "texto": "— Portanto, assim diz o Senhor Deus : Ai da cidade sanguinária! Eu mesmo aumentarei a pilha de lenha."
-    },
-    "10": {
-      "título": "",
-      "texto": "Amontoe muita lenha, acenda o fogo, cozinhe a carne, engrosse o caldo, deixe que os ossos fiquem torrados."
-    },
-    "11": {
-      "título": "",
-      "texto": "Ponha a panela vazia sobre as brasas, para que ela aqueça, o seu cobre se torne candente, a impureza que está dentro dela se derreta e a sua ferrugem se consuma."
-    },
-    "12": {
-      "título": "",
-      "texto": "Trabalho inútil! A sua muita ferrugem não sai, nem pelo fogo."
-    },
-    "13": {
-      "título": "",
-      "texto": "Jerusalém, por causa de sua impureza e perversidade, e porque eu quis purificá-la, mas você não ficou pura, você não ficará pura de novo até que eu tenha satisfeito o meu furor contra você."
-    },
-    "14": {
-      "título": "",
-      "texto": "Eu, o Senhor , falei; será assim; eu o farei. Não voltarei atrás e não pouparei, nem mudarei de ideia. Você será julgada segundo os seus caminhos e segundo os seus atos, diz o Senhor Deus ."
-    },
-    "15": {
-      "título": "A viuvez de Ezequiel",
-      "texto": "A palavra do Senhor veio a mim, dizendo:"
-    },
-    "16": {
-      "título": "",
-      "texto": "— Filho do homem, eis que, com um só golpe, tirarei aquela que é a delícia dos seus olhos. Você não deve lamentar, nem chorar, nem derramar lágrimas."
-    },
-    "17": {
-      "título": "",
-      "texto": "Sofra em silêncio; não faça lamentação pelos mortos. Prenda o seu turbante; ponha as sandálias nos pés; não cubra o bigode, e não coma o pão que lhe mandarem."
-    },
-    "18": {
-      "título": "",
-      "texto": "Falei ao povo pela manhã, e à tarde a minha mulher morreu. Na manhã seguinte, fiz como me havia sido ordenado."
-    },
-    "19": {
-      "título": "",
-      "texto": "Então o povo me perguntou:"
-    },
-    "20": {
-      "título": "",
-      "texto": "Eu respondi:"
-    },
-    "21": {
-      "título": "",
-      "texto": "Diga à casa de Israel: Assim diz o Senhor Deus : “Eis que profanarei o meu santuário, do qual vocês tanto se orgulham, que é a delícia dos seus olhos e o desejo do seu coração. Os filhos e as filhas que vocês deixaram para trás cairão à espada."
-    },
-    "22": {
-      "título": "",
-      "texto": "Vocês farão o que eu fiz: não cobrirão o bigode, nem comerão o pão que lhes mandarem."
-    },
-    "23": {
-      "título": "",
-      "texto": "Manterão o turbante na cabeça e as sandálias nos pés. Não irão lamentar nem chorar, mas serão consumidos nas suas maldades e gemerão uns pelos outros."
-    },
-    "24": {
-      "título": "",
-      "texto": "Assim, Ezequiel será um sinal para vocês: tudo o que ele fez vocês também farão. Quando isso acontecer, vocês saberão que eu sou o Senhor Deus .”"
-    },
-    "25": {
-      "título": "",
-      "texto": "— Filho do homem, no dia em que eu lhes tirar o objeto do seu orgulho, a sua alegria e a sua glória, a delícia dos seus olhos e o desejo de seu coração — bem como os seus filhos e as suas filhas —,"
-    },
-    "26": {
-      "título": "",
-      "texto": "nesse dia um sobrevivente virá falar com você, para lhe dar a notícia."
-    },
-    "27": {
-      "título": "",
-      "texto": "Nesse dia, você poderá abrir a sua boca para falar com aquele sobrevivente; você falará e não mais ficará mudo. Assim, você será um sinal para eles, e eles saberão que eu sou o Senhor ."
+    "versiculos": {
+        "1": "A palavra do Senhor veio a mim, no nono ano, no décimo mês, aos dez dias do mês, dizendo:",
+        "2": "— Filho do homem, anote o dia de hoje, sim, o dia de hoje, porque o rei da Babilônia começa o cerco de Jerusalém neste dia.",
+        "3": "Conte uma parábola à casa rebelde e diga: Assim diz o Senhor Deus :",
+        "4": "acrescente pedaços de carne,",
+        "5": "Pegue isso dos melhores",
+        "6": "— Portanto, assim diz o Senhor Deus : Ai da cidade sanguinária, da panela cheia de ferrugem, ferrugem que não foi tirada dela! Tire de dentro a carne, pedaço por pedaço, sem escolha.",
+        "7": "Porque a culpa de sangue está no meio dela. O sangue foi derramado sobre a rocha escalvada e não sobre a terra, para o cobrir com o pó.",
+        "8": "Para fazer subir a indignação, para tomar vingança, eu pus o seu sangue numa rocha escalvada, para que não fosse coberto.",
+        "9": "— Portanto, assim diz o Senhor Deus : Ai da cidade sanguinária! Eu mesmo aumentarei a pilha de lenha.",
+        "10": "Amontoe muita lenha, acenda o fogo, cozinhe a carne, engrosse o caldo, deixe que os ossos fiquem torrados.",
+        "11": "Ponha a panela vazia sobre as brasas, para que ela aqueça, o seu cobre se torne candente, a impureza que está dentro dela se derreta e a sua ferrugem se consuma.",
+        "12": "Trabalho inútil! A sua muita ferrugem não sai, nem pelo fogo.",
+        "13": "Jerusalém, por causa de sua impureza e perversidade, e porque eu quis purificá-la, mas você não ficou pura, você não ficará pura de novo até que eu tenha satisfeito o meu furor contra você.",
+        "14": "Eu, o Senhor , falei; será assim; eu o farei. Não voltarei atrás e não pouparei, nem mudarei de ideia. Você será julgada segundo os seus caminhos e segundo os seus atos, diz o Senhor Deus .",
+        "15": "A palavra do Senhor veio a mim, dizendo:",
+        "16": "— Filho do homem, eis que, com um só golpe, tirarei aquela que é a delícia dos seus olhos. Você não deve lamentar, nem chorar, nem derramar lágrimas.",
+        "17": "Sofra em silêncio; não faça lamentação pelos mortos. Prenda o seu turbante; ponha as sandálias nos pés; não cubra o bigode, e não coma o pão que lhe mandarem.",
+        "18": "Falei ao povo pela manhã, e à tarde a minha mulher morreu. Na manhã seguinte, fiz como me havia sido ordenado.",
+        "19": "Então o povo me perguntou:",
+        "20": "Eu respondi:",
+        "21": "Diga à casa de Israel: Assim diz o Senhor Deus : “Eis que profanarei o meu santuário, do qual vocês tanto se orgulham, que é a delícia dos seus olhos e o desejo do seu coração. Os filhos e as filhas que vocês deixaram para trás cairão à espada.",
+        "22": "Vocês farão o que eu fiz: não cobrirão o bigode, nem comerão o pão que lhes mandarem.",
+        "23": "Manterão o turbante na cabeça e as sandálias nos pés. Não irão lamentar nem chorar, mas serão consumidos nas suas maldades e gemerão uns pelos outros.",
+        "24": "Assim, Ezequiel será um sinal para vocês: tudo o que ele fez vocês também farão. Quando isso acontecer, vocês saberão que eu sou o Senhor Deus .”",
+        "25": "— Filho do homem, no dia em que eu lhes tirar o objeto do seu orgulho, a sua alegria e a sua glória, a delícia dos seus olhos e o desejo de seu coração — bem como os seus filhos e as suas filhas —,",
+        "26": "nesse dia um sobrevivente virá falar com você, para lhe dar a notícia.",
+        "27": "Nesse dia, você poderá abrir a sua boca para falar com aquele sobrevivente; você falará e não mais ficará mudo. Assim, você será um sinal para eles, e eles saberão que eu sou o Senhor ."
     }
-  }
 }

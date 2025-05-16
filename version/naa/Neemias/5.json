@@ -1,82 +1,29 @@
 {
-  "livro": "Neemias",
-  "capítulo": 5,
-  "versículos": {
-    "1": {
-      "título": "Medidas contra a exploração",
-      "texto": "Então se levantou grande clamor do povo e de suas mulheres contra os judeus, seus irmãos."
+    "livro": "Neemias",
+    "capitulo": 5,
+    "titulos": {
+        "1": "Medidas contra a exploração",
+        "14": "O bom exemplo de Neemias"
     },
-    "2": {
-      "título": "",
-      "texto": "Porque havia os que diziam:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Também houve os que diziam:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Houve ainda os que diziam:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Nós somos da mesma carne que os nossos compatriotas, e os nossos filhos são tão bons como os deles. No entanto, eis que sujeitamos os nossos filhos e as nossas filhas para serem escravos. Algumas de nossas filhas já estão reduzidas à escravidão. Não podemos fazer nada para evitar isso, pois os nossos campos e as nossas vinhas já são de outros."
-    },
-    "6": {
-      "título": "",
-      "texto": "Fiquei muito irritado ao ouvir estas palavras e o clamor deles."
-    },
-    "7": {
-      "título": "",
-      "texto": "Depois de ter pensado bem a respeito disso, repreendi os nobres e magistrados e lhes disse:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Disse-lhes:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Disse mais:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Também eu, os meus companheiros e os meus servos lhes demos dinheiro emprestado e trigo. Mas, por favor, vamos parar com esta exploração."
-    },
-    "11": {
-      "título": "",
-      "texto": "Peço que hoje mesmo vocês lhes restituam as suas terras, as suas vinhas, os seus olivais e as suas casas, bem como a porcentagem do dinheiro, do trigo, do vinho e do azeite, que vocês exigiram deles."
-    },
-    "12": {
-      "título": "",
-      "texto": "Eles responderam:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Também sacudi o meu manto e disse:"
-    },
-    "14": {
-      "título": "O bom exemplo de Neemias",
-      "texto": "Também desde o dia em que fui nomeado governador na terra de Judá, desde o vigésimo ano até o trigésimo segundo ano do reinado de Artaxerxes, doze anos, nem eu nem os meus companheiros comemos o pão que me cabia como governador."
-    },
-    "15": {
-      "título": "",
-      "texto": "Mas os primeiros governadores, que estiveram antes de mim, oprimiram o povo e tomaram dele pão e vinho, além de quarenta moedas de prata. Até os seus servos dominavam sobre o povo. Eu, porém, não fiz assim, por causa do temor de Deus."
-    },
-    "16": {
-      "título": "",
-      "texto": "Pelo contrário, também trabalhei na reconstrução da muralha, sem comprar nenhuma terra. E todos os meus servos se ajuntaram ali para a obra."
-    },
-    "17": {
-      "título": "",
-      "texto": "Também hospedei cento e cinquenta homens dos judeus e dos magistrados, além daqueles das nações vizinhas que vinham até nós."
-    },
-    "18": {
-      "título": "",
-      "texto": "O que se preparava para cada dia era um boi e seis ovelhas escolhidas. Também à minha custa eram preparadas aves e, de dez em dez dias, muito vinho de todos os tipos. Nem por isso exigi o pão devido ao governador, porque a servidão deste povo era grande."
-    },
-    "19": {
-      "título": "",
-      "texto": "“Lembra-te de mim para meu bem, ó meu Deus, e de tudo o que fiz por este povo.”"
+    "versiculos": {
+        "1": "Então se levantou grande clamor do povo e de suas mulheres contra os judeus, seus irmãos.",
+        "2": "Porque havia os que diziam:",
+        "3": "Também houve os que diziam:",
+        "4": "Houve ainda os que diziam:",
+        "5": "Nós somos da mesma carne que os nossos compatriotas, e os nossos filhos são tão bons como os deles. No entanto, eis que sujeitamos os nossos filhos e as nossas filhas para serem escravos. Algumas de nossas filhas já estão reduzidas à escravidão. Não podemos fazer nada para evitar isso, pois os nossos campos e as nossas vinhas já são de outros.",
+        "6": "Fiquei muito irritado ao ouvir estas palavras e o clamor deles.",
+        "7": "Depois de ter pensado bem a respeito disso, repreendi os nobres e magistrados e lhes disse:",
+        "8": "Disse-lhes:",
+        "9": "Disse mais:",
+        "10": "Também eu, os meus companheiros e os meus servos lhes demos dinheiro emprestado e trigo. Mas, por favor, vamos parar com esta exploração.",
+        "11": "Peço que hoje mesmo vocês lhes restituam as suas terras, as suas vinhas, os seus olivais e as suas casas, bem como a porcentagem do dinheiro, do trigo, do vinho e do azeite, que vocês exigiram deles.",
+        "12": "Eles responderam:",
+        "13": "Também sacudi o meu manto e disse:",
+        "14": "Também desde o dia em que fui nomeado governador na terra de Judá, desde o vigésimo ano até o trigésimo segundo ano do reinado de Artaxerxes, doze anos, nem eu nem os meus companheiros comemos o pão que me cabia como governador.",
+        "15": "Mas os primeiros governadores, que estiveram antes de mim, oprimiram o povo e tomaram dele pão e vinho, além de quarenta moedas de prata. Até os seus servos dominavam sobre o povo. Eu, porém, não fiz assim, por causa do temor de Deus.",
+        "16": "Pelo contrário, também trabalhei na reconstrução da muralha, sem comprar nenhuma terra. E todos os meus servos se ajuntaram ali para a obra.",
+        "17": "Também hospedei cento e cinquenta homens dos judeus e dos magistrados, além daqueles das nações vizinhas que vinham até nós.",
+        "18": "O que se preparava para cada dia era um boi e seis ovelhas escolhidas. Também à minha custa eram preparadas aves e, de dez em dez dias, muito vinho de todos os tipos. Nem por isso exigi o pão devido ao governador, porque a servidão deste povo era grande.",
+        "19": "“Lembra-te de mim para meu bem, ó meu Deus, e de tudo o que fiz por este povo.”"
     }
-  }
 }

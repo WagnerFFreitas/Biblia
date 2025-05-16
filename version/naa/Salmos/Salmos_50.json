@@ -1,98 +1,32 @@
 {
-  "livro": "Salmos",
-  "capítulo": 50,
-  "versículos": {
-    "1": {
-      "título": "A verdadeira adoração",
-      "texto": "Fala o Poderoso, o Senhor Deus,"
+    "livro": "Salmos",
+    "capitulo": 50,
+    "titulos": {
+        "1": "A verdadeira adoração"
     },
-    "2": {
-      "título": "",
-      "texto": "Desde Sião,"
-    },
-    "3": {
-      "título": "",
-      "texto": "O nosso Deus vem"
-    },
-    "4": {
-      "título": "",
-      "texto": "Ele intima os céus lá em cima"
-    },
-    "5": {
-      "título": "",
-      "texto": "Ele diz: “Congreguem"
-    },
-    "6": {
-      "título": "",
-      "texto": "Os céus anunciam a sua justiça,"
-    },
-    "7": {
-      "título": "",
-      "texto": "“Escute, meu povo, e eu falarei;"
-    },
-    "8": {
-      "título": "",
-      "texto": "Não o repreendo"
-    },
-    "9": {
-      "título": "",
-      "texto": "Não aceitarei novilhos"
-    },
-    "10": {
-      "título": "",
-      "texto": "Pois são meus"
-    },
-    "11": {
-      "título": "",
-      "texto": "Conheço todas as aves"
-    },
-    "12": {
-      "título": "",
-      "texto": "“Se eu tivesse fome,"
-    },
-    "13": {
-      "título": "",
-      "texto": "Acaso como eu carne de touros?"
-    },
-    "14": {
-      "título": "",
-      "texto": "Ofereça a Deus"
-    },
-    "15": {
-      "título": "",
-      "texto": "Invoque-me no dia da angústia;"
-    },
-    "16": {
-      "título": "",
-      "texto": "Mas ao ímpio Deus diz:"
-    },
-    "17": {
-      "título": "",
-      "texto": "se você odeia a disciplina"
-    },
-    "18": {
-      "título": "",
-      "texto": "Se vê um ladrão,"
-    },
-    "19": {
-      "título": "",
-      "texto": "Abre a boca para o mal,"
-    },
-    "20": {
-      "título": "",
-      "texto": "Senta-se para falar"
-    },
-    "21": {
-      "título": "",
-      "texto": "Você tem feito essas coisas,"
-    },
-    "22": {
-      "título": "",
-      "texto": "“Considerem, pois, nisto,"
-    },
-    "23": {
-      "título": "",
-      "texto": "Aquele que me oferece sacrifício"
+    "versiculos": {
+        "1": "Fala o Poderoso, o Senhor Deus,",
+        "2": "Desde Sião,",
+        "3": "O nosso Deus vem",
+        "4": "Ele intima os céus lá em cima",
+        "5": "Ele diz: “Congreguem",
+        "6": "Os céus anunciam a sua justiça,",
+        "7": "“Escute, meu povo, e eu falarei;",
+        "8": "Não o repreendo",
+        "9": "Não aceitarei novilhos",
+        "10": "Pois são meus",
+        "11": "Conheço todas as aves",
+        "12": "“Se eu tivesse fome,",
+        "13": "Acaso como eu carne de touros?",
+        "14": "Ofereça a Deus",
+        "15": "Invoque-me no dia da angústia;",
+        "16": "Mas ao ímpio Deus diz:",
+        "17": "se você odeia a disciplina",
+        "18": "Se vê um ladrão,",
+        "19": "Abre a boca para o mal,",
+        "20": "Senta-se para falar",
+        "21": "Você tem feito essas coisas,",
+        "22": "“Considerem, pois, nisto,",
+        "23": "Aquele que me oferece sacrifício"
     }
-  }
 }

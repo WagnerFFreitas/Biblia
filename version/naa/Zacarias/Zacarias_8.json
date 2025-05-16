@@ -1,98 +1,32 @@
 {
-  "livro": "Zacarias",
-  "capítulo": 8,
-  "versículos": {
-    "1": {
-      "título": "Sião restaurada",
-      "texto": "A palavra do Senhor dos Exércitos veio a mim, dizendo:"
+    "livro": "Zacarias",
+    "capitulo": 8,
+    "titulos": {
+        "1": "Sião restaurada"
     },
-    "2": {
-      "título": "",
-      "texto": "— Assim diz o Senhor dos Exércitos: Tenho grande amor por Sião. É um amor tão grande que me leva à indignação contra os seus inimigos."
-    },
-    "3": {
-      "título": "",
-      "texto": "— Assim diz o Senhor : Voltarei para Sião e habitarei no meio de Jerusalém. E Jerusalém será chamada de “Cidade Fiel”, e o monte do Senhor dos Exércitos será chamado de “Monte Santo”."
-    },
-    "4": {
-      "título": "",
-      "texto": "— Assim diz o Senhor dos Exércitos: Os velhos e as velhas voltarão a sentar-se nas praças de Jerusalém, levando cada um na mão a sua bengala, por causa da sua muita idade."
-    },
-    "5": {
-      "título": "",
-      "texto": "As praças da cidade se encherão de meninos e meninas, que nelas brincarão."
-    },
-    "6": {
-      "título": "",
-      "texto": "— Assim diz o Senhor dos Exércitos: Isso pode parecer impossível aos olhos do remanescente deste povo naqueles dias, mas não será impossível para mim, diz o Senhor dos Exércitos."
-    },
-    "7": {
-      "título": "",
-      "texto": "— Assim diz o Senhor dos Exércitos: Eis que salvarei o meu povo, tirando-o da terra do Oriente e da terra do Ocidente."
-    },
-    "8": {
-      "título": "",
-      "texto": "Eu os trarei, e habitarão em Jerusalém. Eles serão o meu povo, e eu serei o seu Deus, em verdade e em justiça."
-    },
-    "9": {
-      "título": "",
-      "texto": "— Assim diz o Senhor dos Exércitos: Sejam fortes, todos vocês que nestes dias estão ouvindo estas palavras da boca dos profetas, a saber, nos dias em que foram lançados os alicerces da Casa do Senhor dos Exércitos, para que o templo fosse construído."
-    },
-    "10": {
-      "título": "",
-      "texto": "Porque, antes daqueles dias, não havia salário para os trabalhadores, nem pagamento pelo trabalho dos animais. Não havia paz para o que entrava, nem para o que saía, por causa dos inimigos, porque eu incitei cada um contra o seu próximo."
-    },
-    "11": {
-      "título": "",
-      "texto": "Mas, agora, não tratarei o remanescente deste povo como tratei o povo no passado, diz o Senhor dos Exércitos."
-    },
-    "12": {
-      "título": "",
-      "texto": "Porque haverá semeadura em paz, as videiras darão o seu fruto, a terra, as suas colheitas, e os céus, o seu orvalho. E farei com que o remanescente deste povo herde tudo isso."
-    },
-    "13": {
-      "título": "",
-      "texto": "Casa de Judá e casa de Israel, assim como vocês foram uma maldição entre as nações, assim agora eu os salvarei, e vocês serão uma bênção. Não tenham medo! Pelo contrário, sejam fortes!"
-    },
-    "14": {
-      "título": "",
-      "texto": "— Porque assim diz o Senhor dos Exércitos: Assim como eu havia decidido castigar vocês, quando os seus pais me provocaram à ira, diz o Senhor dos Exércitos, e não mudei de ideia,"
-    },
-    "15": {
-      "título": "",
-      "texto": "também decidi agora fazer bem a Jerusalém e à casa de Judá nestes dias. Não tenham medo!"
-    },
-    "16": {
-      "título": "",
-      "texto": "Eis as coisas que vocês devem fazer: Que cada um fale a verdade com o seu próximo. Nos tribunais, julguem com justiça, segundo a verdade, em favor da paz."
-    },
-    "17": {
-      "título": "",
-      "texto": "Que ninguém faça planos para prejudicar o seu próximo, nem ame o juramento falso, porque eu odeio todas estas coisas, diz o Senhor ."
-    },
-    "18": {
-      "título": "",
-      "texto": "A palavra do Senhor dos Exércitos veio a mim, dizendo:"
-    },
-    "19": {
-      "título": "",
-      "texto": "— Assim diz o Senhor dos Exércitos: O jejum do quarto mês, o do quinto, o do sétimo e o do décimo serão para a casa de Judá um dia de júbilo, alegria e festividades solenes. Portanto, amem a verdade e a paz."
-    },
-    "20": {
-      "título": "",
-      "texto": "— Assim diz o Senhor dos Exércitos: Ainda virão povos e moradores de muitas cidades,"
-    },
-    "21": {
-      "título": "",
-      "texto": "e os moradores de uma cidade irão à outra, dizendo: “Vamos depressa suplicar o favor do Senhor e buscar o Senhor dos Exércitos; eu também irei.”"
-    },
-    "22": {
-      "título": "",
-      "texto": "Muitos povos e nações poderosas virão a Jerusalém buscar o Senhor dos Exércitos e suplicar o favor do Senhor ."
-    },
-    "23": {
-      "título": "",
-      "texto": "— Assim diz o Senhor dos Exércitos: Naqueles dias, dez homens, de todas as línguas das nações, pegarão, sim, pegarão na borda da roupa de um judeu e lhe dirão: “Queremos ir com vocês, porque ouvimos que Deus está com vocês.”"
+    "versiculos": {
+        "1": "A palavra do Senhor dos Exércitos veio a mim, dizendo:",
+        "2": "— Assim diz o Senhor dos Exércitos: Tenho grande amor por Sião. É um amor tão grande que me leva à indignação contra os seus inimigos.",
+        "3": "— Assim diz o Senhor : Voltarei para Sião e habitarei no meio de Jerusalém. E Jerusalém será chamada de “Cidade Fiel”, e o monte do Senhor dos Exércitos será chamado de “Monte Santo”.",
+        "4": "— Assim diz o Senhor dos Exércitos: Os velhos e as velhas voltarão a sentar-se nas praças de Jerusalém, levando cada um na mão a sua bengala, por causa da sua muita idade.",
+        "5": "As praças da cidade se encherão de meninos e meninas, que nelas brincarão.",
+        "6": "— Assim diz o Senhor dos Exércitos: Isso pode parecer impossível aos olhos do remanescente deste povo naqueles dias, mas não será impossível para mim, diz o Senhor dos Exércitos.",
+        "7": "— Assim diz o Senhor dos Exércitos: Eis que salvarei o meu povo, tirando-o da terra do Oriente e da terra do Ocidente.",
+        "8": "Eu os trarei, e habitarão em Jerusalém. Eles serão o meu povo, e eu serei o seu Deus, em verdade e em justiça.",
+        "9": "— Assim diz o Senhor dos Exércitos: Sejam fortes, todos vocês que nestes dias estão ouvindo estas palavras da boca dos profetas, a saber, nos dias em que foram lançados os alicerces da Casa do Senhor dos Exércitos, para que o templo fosse construído.",
+        "10": "Porque, antes daqueles dias, não havia salário para os trabalhadores, nem pagamento pelo trabalho dos animais. Não havia paz para o que entrava, nem para o que saía, por causa dos inimigos, porque eu incitei cada um contra o seu próximo.",
+        "11": "Mas, agora, não tratarei o remanescente deste povo como tratei o povo no passado, diz o Senhor dos Exércitos.",
+        "12": "Porque haverá semeadura em paz, as videiras darão o seu fruto, a terra, as suas colheitas, e os céus, o seu orvalho. E farei com que o remanescente deste povo herde tudo isso.",
+        "13": "Casa de Judá e casa de Israel, assim como vocês foram uma maldição entre as nações, assim agora eu os salvarei, e vocês serão uma bênção. Não tenham medo! Pelo contrário, sejam fortes!",
+        "14": "— Porque assim diz o Senhor dos Exércitos: Assim como eu havia decidido castigar vocês, quando os seus pais me provocaram à ira, diz o Senhor dos Exércitos, e não mudei de ideia,",
+        "15": "também decidi agora fazer bem a Jerusalém e à casa de Judá nestes dias. Não tenham medo!",
+        "16": "Eis as coisas que vocês devem fazer: Que cada um fale a verdade com o seu próximo. Nos tribunais, julguem com justiça, segundo a verdade, em favor da paz.",
+        "17": "Que ninguém faça planos para prejudicar o seu próximo, nem ame o juramento falso, porque eu odeio todas estas coisas, diz o Senhor .",
+        "18": "A palavra do Senhor dos Exércitos veio a mim, dizendo:",
+        "19": "— Assim diz o Senhor dos Exércitos: O jejum do quarto mês, o do quinto, o do sétimo e o do décimo serão para a casa de Judá um dia de júbilo, alegria e festividades solenes. Portanto, amem a verdade e a paz.",
+        "20": "— Assim diz o Senhor dos Exércitos: Ainda virão povos e moradores de muitas cidades,",
+        "21": "e os moradores de uma cidade irão à outra, dizendo: “Vamos depressa suplicar o favor do Senhor e buscar o Senhor dos Exércitos; eu também irei.”",
+        "22": "Muitos povos e nações poderosas virão a Jerusalém buscar o Senhor dos Exércitos e suplicar o favor do Senhor .",
+        "23": "— Assim diz o Senhor dos Exércitos: Naqueles dias, dez homens, de todas as línguas das nações, pegarão, sim, pegarão na borda da roupa de um judeu e lhe dirão: “Queremos ir com vocês, porque ouvimos que Deus está com vocês.”"
     }
-  }
 }

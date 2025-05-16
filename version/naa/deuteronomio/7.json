@@ -1,110 +1,36 @@
 {
-  "livro": "Deuteronômio",
-  "capítulo": 7,
-  "versículos": {
-    "1": {
-      "título": "Admoestações contra a infidelidade",
-      "texto": "— Quando o Senhor , seu Deus, os levar para a terra que vocês vão possuir, e tiver expulsado muitas nações de diante de vocês: os heteus, os girgaseus, os amorreus, os cananeus, os ferezeus, os heveus e os jebuseus — sete nações mais numerosas e mais poderosas do que vocês;"
+    "livro": "Deuteronômio",
+    "capitulo": 7,
+    "titulos": {
+        "1": "Admoestações contra a infidelidade",
+        "12": "Bênçãos decorrentes da obediência"
     },
-    "2": {
-      "título": "",
-      "texto": "e, quando o Senhor , seu Deus, as tiver entregue nas mãos de vocês, para que as ataquem, vocês devem destruí-las totalmente. Não façam aliança com essas nações, nem tenham piedade delas."
-    },
-    "3": {
-      "título": "",
-      "texto": "Não casem com pessoas dessas nações; não deem as suas filhas aos filhos dessa gente, nem tomem as filhas deles para os filhos de vocês,"
-    },
-    "4": {
-      "título": "",
-      "texto": "pois elas levariam os filhos de vocês a se desviar de mim, para que servissem outros deuses. Assim, a ira do Senhor se acenderia contra vocês e depressa ele os destruiria."
-    },
-    "5": {
-      "título": "",
-      "texto": "Mas o que vocês devem fazer é derrubar os altares dessas nações, quebrar as suas colunas sagradas, cortar os postes da deusa Aserá e queimar as suas imagens de escultura."
-    },
-    "6": {
-      "título": "",
-      "texto": "— Porque vocês são povo santo para o Senhor , seu Deus. O Senhor , seu Deus, os escolheu, para que, de todos os povos que há sobre a terra, vocês fossem o seu povo próprio."
-    },
-    "7": {
-      "título": "",
-      "texto": "O Senhor os amou e os escolheu, não porque vocês eram mais numerosos do que outros povos, pois vocês eram o menor de todos os povos."
-    },
-    "8": {
-      "título": "",
-      "texto": "Mas porque o Senhor os amava e, para cumprir o juramento que tinha feito aos pais de vocês, o Senhor os tirou com mão poderosa e os resgatou da casa da servidão, do poder de Faraó, rei do Egito."
-    },
-    "9": {
-      "título": "",
-      "texto": "Portanto, saibam que o Senhor , seu Deus, é Deus; ele é o Deus fiel, que guarda a aliança e a misericórdia até mil gerações aos que o amam e cumprem os seus mandamentos."
-    },
-    "10": {
-      "título": "",
-      "texto": "Porém ele retribui diretamente aos que o odeiam, fazendo-os perecer. Ele não demora em castigar aqueles que o odeiam; prontamente lhes retribuirá."
-    },
-    "11": {
-      "título": "",
-      "texto": "Portanto, guardem os mandamentos, os estatutos e os juízos que hoje lhes mando cumprir."
-    },
-    "12": {
-      "título": "Bênçãos decorrentes da obediência",
-      "texto": "— Portanto, se vocês derem ouvidos a estes juízos, e os guardarem e cumprirem, o Senhor , seu Deus, guardará a aliança e a misericórdia prometida sob juramento aos seus pais."
-    },
-    "13": {
-      "título": "",
-      "texto": "Ele os amará, os abençoará e fará com que vocês se multipliquem. Também abençoará os filhos de vocês, o fruto da terra, o cereal, o vinho, o azeite e as crias das vacas e das ovelhas, na terra que prometeu dar a vocês, conforme o juramento que fez aos seus pais."
-    },
-    "14": {
-      "título": "",
-      "texto": "Vocês serão mais abençoados do que todos os povos. Não haverá no meio de vocês nenhum homem ou mulher que seja estéril, nem entre os seus animais."
-    },
-    "15": {
-      "título": "",
-      "texto": "O Senhor afastará de vocês toda enfermidade; não porá sobre vocês nenhuma das terríveis doenças dos egípcios, que vocês conheceram tão bem; pelo contrário, ele as porá sobre todos os que os odeiam."
-    },
-    "16": {
-      "título": "",
-      "texto": "Vocês devem destruir todos os povos que o Senhor , seu Deus, entregar nas mãos de vocês. Não tenham piedade deles, nem adorem os seus deuses, pois isso seria uma armadilha para vocês."
-    },
-    "17": {
-      "título": "",
-      "texto": "— Não fiquem pensando: “Estas nações são mais numerosas do que nós; como poderemos expulsá-las de lá?”"
-    },
-    "18": {
-      "título": "",
-      "texto": "Não tenham medo delas; lembrem-se do que o Senhor , seu Deus, fez a Faraó e a todo o Egito."
-    },
-    "19": {
-      "título": "",
-      "texto": "Lembrem-se das grandes provas que vocês viram com os seus próprios olhos, dos sinais, das maravilhas, da mão poderosa e do braço estendido, com que o Senhor , seu Deus, os tirou do Egito; assim o Senhor , seu Deus, fará com todos os povos, dos quais vocês estão com medo."
-    },
-    "20": {
-      "título": "",
-      "texto": "Além disso, o Senhor , seu Deus, mandará vespões para o meio deles, até que pereçam os que ficarem e se esconderem de vocês."
-    },
-    "21": {
-      "título": "",
-      "texto": "— Não fiquem apavorados diante deles, porque o Senhor , seu Deus, está no meio de vocês, Deus grande e temível."
-    },
-    "22": {
-      "título": "",
-      "texto": "O Senhor , seu Deus, expulsará estas nações, pouco a pouco, de diante de vocês. Vocês não poderão destruí-las todas de uma só vez, para que as feras do campo não se multipliquem contra vocês."
-    },
-    "23": {
-      "título": "",
-      "texto": "Mas o Senhor , seu Deus, as entregará nas mãos de vocês e causará grande confusão entre elas, até que sejam destruídas."
-    },
-    "24": {
-      "título": "",
-      "texto": "Entregará também nas mãos de vocês os reis dessas nações, para que vocês apaguem o nome deles da face da terra; ninguém poderá resistir a vocês, até que os destruam."
-    },
-    "25": {
-      "título": "",
-      "texto": "Queimem as imagens de escultura dos deuses desses povos. Não cobicem a prata e o ouro que estão sobre essas imagens, nem fiquem com isso para vocês, para que não sejam uma armadilha para vocês; pois são abominação ao Senhor , seu Deus."
-    },
-    "26": {
-      "título": "",
-      "texto": "Não levem nenhuma coisa abominável para casa, para que vocês não sejam amaldiçoados juntamente com ela; pelo contrário, devem, de todo, detestar e abominar essa coisa, pois é amaldiçoada."
+    "versiculos": {
+        "1": "— Quando o Senhor , seu Deus, os levar para a terra que vocês vão possuir, e tiver expulsado muitas nações de diante de vocês: os heteus, os girgaseus, os amorreus, os cananeus, os ferezeus, os heveus e os jebuseus — sete nações mais numerosas e mais poderosas do que vocês;",
+        "2": "e, quando o Senhor , seu Deus, as tiver entregue nas mãos de vocês, para que as ataquem, vocês devem destruí-las totalmente. Não façam aliança com essas nações, nem tenham piedade delas.",
+        "3": "Não casem com pessoas dessas nações; não deem as suas filhas aos filhos dessa gente, nem tomem as filhas deles para os filhos de vocês,",
+        "4": "pois elas levariam os filhos de vocês a se desviar de mim, para que servissem outros deuses. Assim, a ira do Senhor se acenderia contra vocês e depressa ele os destruiria.",
+        "5": "Mas o que vocês devem fazer é derrubar os altares dessas nações, quebrar as suas colunas sagradas, cortar os postes da deusa Aserá e queimar as suas imagens de escultura.",
+        "6": "— Porque vocês são povo santo para o Senhor , seu Deus. O Senhor , seu Deus, os escolheu, para que, de todos os povos que há sobre a terra, vocês fossem o seu povo próprio.",
+        "7": "O Senhor os amou e os escolheu, não porque vocês eram mais numerosos do que outros povos, pois vocês eram o menor de todos os povos.",
+        "8": "Mas porque o Senhor os amava e, para cumprir o juramento que tinha feito aos pais de vocês, o Senhor os tirou com mão poderosa e os resgatou da casa da servidão, do poder de Faraó, rei do Egito.",
+        "9": "Portanto, saibam que o Senhor , seu Deus, é Deus; ele é o Deus fiel, que guarda a aliança e a misericórdia até mil gerações aos que o amam e cumprem os seus mandamentos.",
+        "10": "Porém ele retribui diretamente aos que o odeiam, fazendo-os perecer. Ele não demora em castigar aqueles que o odeiam; prontamente lhes retribuirá.",
+        "11": "Portanto, guardem os mandamentos, os estatutos e os juízos que hoje lhes mando cumprir.",
+        "12": "— Portanto, se vocês derem ouvidos a estes juízos, e os guardarem e cumprirem, o Senhor , seu Deus, guardará a aliança e a misericórdia prometida sob juramento aos seus pais.",
+        "13": "Ele os amará, os abençoará e fará com que vocês se multipliquem. Também abençoará os filhos de vocês, o fruto da terra, o cereal, o vinho, o azeite e as crias das vacas e das ovelhas, na terra que prometeu dar a vocês, conforme o juramento que fez aos seus pais.",
+        "14": "Vocês serão mais abençoados do que todos os povos. Não haverá no meio de vocês nenhum homem ou mulher que seja estéril, nem entre os seus animais.",
+        "15": "O Senhor afastará de vocês toda enfermidade; não porá sobre vocês nenhuma das terríveis doenças dos egípcios, que vocês conheceram tão bem; pelo contrário, ele as porá sobre todos os que os odeiam.",
+        "16": "Vocês devem destruir todos os povos que o Senhor , seu Deus, entregar nas mãos de vocês. Não tenham piedade deles, nem adorem os seus deuses, pois isso seria uma armadilha para vocês.",
+        "17": "— Não fiquem pensando: “Estas nações são mais numerosas do que nós; como poderemos expulsá-las de lá?”",
+        "18": "Não tenham medo delas; lembrem-se do que o Senhor , seu Deus, fez a Faraó e a todo o Egito.",
+        "19": "Lembrem-se das grandes provas que vocês viram com os seus próprios olhos, dos sinais, das maravilhas, da mão poderosa e do braço estendido, com que o Senhor , seu Deus, os tirou do Egito; assim o Senhor , seu Deus, fará com todos os povos, dos quais vocês estão com medo.",
+        "20": "Além disso, o Senhor , seu Deus, mandará vespões para o meio deles, até que pereçam os que ficarem e se esconderem de vocês.",
+        "21": "— Não fiquem apavorados diante deles, porque o Senhor , seu Deus, está no meio de vocês, Deus grande e temível.",
+        "22": "O Senhor , seu Deus, expulsará estas nações, pouco a pouco, de diante de vocês. Vocês não poderão destruí-las todas de uma só vez, para que as feras do campo não se multipliquem contra vocês.",
+        "23": "Mas o Senhor , seu Deus, as entregará nas mãos de vocês e causará grande confusão entre elas, até que sejam destruídas.",
+        "24": "Entregará também nas mãos de vocês os reis dessas nações, para que vocês apaguem o nome deles da face da terra; ninguém poderá resistir a vocês, até que os destruam.",
+        "25": "Queimem as imagens de escultura dos deuses desses povos. Não cobicem a prata e o ouro que estão sobre essas imagens, nem fiquem com isso para vocês, para que não sejam uma armadilha para vocês; pois são abominação ao Senhor , seu Deus.",
+        "26": "Não levem nenhuma coisa abominável para casa, para que vocês não sejam amaldiçoados juntamente com ela; pelo contrário, devem, de todo, detestar e abominar essa coisa, pois é amaldiçoada."
     }
-  }
 }

@@ -1,114 +1,39 @@
 {
-  "livro": "Jeremias",
-  "capítulo": 17,
-  "versículos": {
-    "1": {
-      "título": "O pecado engana e destrói",
-      "texto": "— O pecado de Judá está escrito com um ponteiro de ferro e com ponta de diamante, gravado na tábua do seu coração e nas pontas dos seus altares."
+    "livro": "Jeremias",
+    "capitulo": 17,
+    "titulos": {
+        "1": "O pecado engana e destrói",
+        "5": "Pensamentos de sabedoria",
+        "14": "Quarto lamento de Jeremias",
+        "19": "O sábado"
     },
-    "2": {
-      "título": "",
-      "texto": "Os seus filhos se lembram dos seus altares e dos postes da deusa Aserá junto às árvores frondosas, sobre as colinas elevadas"
-    },
-    "3": {
-      "título": "",
-      "texto": "e nos montes do campo. Darei os seus bens e todos os seus tesouros como despojo, e farei o mesmo com os seus lugares altos por causa do pecado, em todos os seus territórios!"
-    },
-    "4": {
-      "título": "",
-      "texto": "Você terá de abandonar a herança que lhe dei. Farei com que você sirva os seus inimigos numa terra que você não conhece. Porque o fogo que você acendeu na minha ira queimará para sempre."
-    },
-    "5": {
-      "título": "Pensamentos de sabedoria",
-      "texto": "Assim diz o Senhor :"
-    },
-    "6": {
-      "título": "",
-      "texto": "Porque ele será como um arbusto"
-    },
-    "7": {
-      "título": "",
-      "texto": "“Bendito aquele"
-    },
-    "8": {
-      "título": "",
-      "texto": "Porque ele é como a árvore"
-    },
-    "9": {
-      "título": "",
-      "texto": "“Enganoso é o coração,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Eu, o Senhor , sondo o coração."
-    },
-    "11": {
-      "título": "",
-      "texto": "Como a perdiz que choca ovos"
-    },
-    "12": {
-      "título": "",
-      "texto": "Um trono de glória enaltecido"
-    },
-    "13": {
-      "título": "",
-      "texto": "Ó Senhor , Esperança de Israel!"
-    },
-    "14": {
-      "título": "Quarto lamento de Jeremias",
-      "texto": "Cura-me, Senhor , e serei curado;"
-    },
-    "15": {
-      "título": "",
-      "texto": "Eis que eles me dizem:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Mas eu não me recusei"
-    },
-    "17": {
-      "título": "",
-      "texto": "Não sejas para mim"
-    },
-    "18": {
-      "título": "",
-      "texto": "Que sejam envergonhados"
-    },
-    "19": {
-      "título": "O sábado",
-      "texto": "Assim me disse o Senhor :"
-    },
-    "20": {
-      "título": "",
-      "texto": "e diga a todos: “Escutem a palavra do Senhor , vocês, reis de Judá, e todo o Judá, e todos os moradores de Jerusalém que entram por estes portões."
-    },
-    "21": {
-      "título": "",
-      "texto": "Assim diz o Senhor : Para o próprio bem de vocês, tenham o cuidado de não levar cargas no dia de sábado, nem de introduzi-las em Jerusalém pelos portões."
-    },
-    "22": {
-      "título": "",
-      "texto": "Não saiam de casa carregando objetos no dia do sábado, nem façam trabalho algum. Pelo contrário, santifiquem o dia de sábado, como ordenei aos seus pais."
-    },
-    "23": {
-      "título": "",
-      "texto": "Mas eles não me deram ouvidos, nem atenderam; pelo contrário, foram teimosos, e não quiseram ouvir nem aceitar a disciplina."
-    },
-    "24": {
-      "título": "",
-      "texto": "— Se de fato me ouvirem, diz o Senhor , não introduzindo cargas pelos portões desta cidade no dia de sábado; se santificarem o dia de sábado, não fazendo nele trabalho algum,"
-    },
-    "25": {
-      "título": "",
-      "texto": "então pelos portões desta cidade entrarão reis e príncipes, que se assentarão no trono de Davi, andando em carros e montados em cavalos, eles e os seus príncipes, o povo de Judá e os moradores de Jerusalém; e esta cidade será para sempre habitada."
-    },
-    "26": {
-      "título": "",
-      "texto": "Virão das cidades de Judá e dos arredores de Jerusalém, da terra de Benjamim, da Sefelá, das montanhas e do Sul, trazendo holocaustos, sacrifícios, ofertas de cereais e incenso, oferecendo igualmente sacrifícios de ações de graças na Casa do Senhor ."
-    },
-    "27": {
-      "título": "",
-      "texto": "Mas, se não me ouvirem, e, por isso, não santificarem o dia de sábado, e carregarem alguma carga, quando entrarem pelos portões de Jerusalém no dia de sábado, então porei fogo nesses portões. O fogo queimará os palácios de Jerusalém e não se apagará.”"
+    "versiculos": {
+        "1": "— O pecado de Judá está escrito com um ponteiro de ferro e com ponta de diamante, gravado na tábua do seu coração e nas pontas dos seus altares.",
+        "2": "Os seus filhos se lembram dos seus altares e dos postes da deusa Aserá junto às árvores frondosas, sobre as colinas elevadas",
+        "3": "e nos montes do campo. Darei os seus bens e todos os seus tesouros como despojo, e farei o mesmo com os seus lugares altos por causa do pecado, em todos os seus territórios!",
+        "4": "Você terá de abandonar a herança que lhe dei. Farei com que você sirva os seus inimigos numa terra que você não conhece. Porque o fogo que você acendeu na minha ira queimará para sempre.",
+        "5": "Assim diz o Senhor :",
+        "6": "Porque ele será como um arbusto",
+        "7": "“Bendito aquele",
+        "8": "Porque ele é como a árvore",
+        "9": "“Enganoso é o coração,",
+        "10": "Eu, o Senhor , sondo o coração.",
+        "11": "Como a perdiz que choca ovos",
+        "12": "Um trono de glória enaltecido",
+        "13": "Ó Senhor , Esperança de Israel!",
+        "14": "Cura-me, Senhor , e serei curado;",
+        "15": "Eis que eles me dizem:",
+        "16": "Mas eu não me recusei",
+        "17": "Não sejas para mim",
+        "18": "Que sejam envergonhados",
+        "19": "Assim me disse o Senhor :",
+        "20": "e diga a todos: “Escutem a palavra do Senhor , vocês, reis de Judá, e todo o Judá, e todos os moradores de Jerusalém que entram por estes portões.",
+        "21": "Assim diz o Senhor : Para o próprio bem de vocês, tenham o cuidado de não levar cargas no dia de sábado, nem de introduzi-las em Jerusalém pelos portões.",
+        "22": "Não saiam de casa carregando objetos no dia do sábado, nem façam trabalho algum. Pelo contrário, santifiquem o dia de sábado, como ordenei aos seus pais.",
+        "23": "Mas eles não me deram ouvidos, nem atenderam; pelo contrário, foram teimosos, e não quiseram ouvir nem aceitar a disciplina.",
+        "24": "— Se de fato me ouvirem, diz o Senhor , não introduzindo cargas pelos portões desta cidade no dia de sábado; se santificarem o dia de sábado, não fazendo nele trabalho algum,",
+        "25": "então pelos portões desta cidade entrarão reis e príncipes, que se assentarão no trono de Davi, andando em carros e montados em cavalos, eles e os seus príncipes, o povo de Judá e os moradores de Jerusalém; e esta cidade será para sempre habitada.",
+        "26": "Virão das cidades de Judá e dos arredores de Jerusalém, da terra de Benjamim, da Sefelá, das montanhas e do Sul, trazendo holocaustos, sacrifícios, ofertas de cereais e incenso, oferecendo igualmente sacrifícios de ações de graças na Casa do Senhor .",
+        "27": "Mas, se não me ouvirem, e, por isso, não santificarem o dia de sábado, e carregarem alguma carga, quando entrarem pelos portões de Jerusalém no dia de sábado, então porei fogo nesses portões. O fogo queimará os palácios de Jerusalém e não se apagará.”"
     }
-  }
 }

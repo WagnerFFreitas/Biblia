@@ -1,78 +1,28 @@
 {
-  "livro": "Jeremias",
-  "capítulo": 20,
-  "versículos": {
-    "1": {
-      "título": "Jeremias e o sacerdote Pasur",
-      "texto": "Pasur, filho do sacerdote Imer, que era superintendente da Casa do Senhor , ouviu Jeremias profetizando estas coisas"
+    "livro": "Jeremias",
+    "capitulo": 20,
+    "titulos": {
+        "1": "Jeremias e o sacerdote Pasur",
+        "7": "Sexto lamento de Jeremias"
     },
-    "2": {
-      "título": "",
-      "texto": "e por isso mandou que o profeta fosse açoitado e preso no tronco que ficava junto ao portão superior de Benjamim, na Casa do Senhor . No dia seguinte, Pasur mandou que Jeremias fosse tirado do tronco."
-    },
-    "3": {
-      "título": "",
-      "texto": "Então Jeremias lhe disse:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Pois assim diz o Senhor : “Eis que farei de você um terror para você mesmo e para todos os seus amigos. Eles serão mortos à espada pelos seus inimigos, e você verá isso. Entregarei todo o povo de Judá nas mãos do rei da Babilônia, que os levará presos à Babilônia e os matará à espada."
-    },
-    "5": {
-      "título": "",
-      "texto": "Também entregarei toda a riqueza desta cidade, todo o fruto do seu trabalho e todas as suas coisas preciosas; sim, entregarei todos os tesouros dos reis de Judá nas mãos de seus inimigos, os quais hão de saquear, pegar e levar tudo para a Babilônia."
-    },
-    "6": {
-      "título": "",
-      "texto": "E você, Pasur, e todos os moradores da sua casa serão levados para o cativeiro. Você irá à Babilônia, onde morrerá e será sepultado, você e todos os seus amigos, aos quais você profetizou falsamente.”"
-    },
-    "7": {
-      "título": "Sexto lamento de Jeremias",
-      "texto": "Tu me persuadiste, Senhor ,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Porque, sempre que falo,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Quando pensei:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Porque ouvi a murmuração"
-    },
-    "11": {
-      "título": "",
-      "texto": "Mas o Senhor está comigo"
-    },
-    "12": {
-      "título": "",
-      "texto": "Ó Senhor dos Exércitos,"
-    },
-    "13": {
-      "título": "",
-      "texto": "Cantem ao Senhor !"
-    },
-    "14": {
-      "título": "",
-      "texto": "Maldito o dia em que eu nasci!"
-    },
-    "15": {
-      "título": "",
-      "texto": "Maldito o homem"
-    },
-    "16": {
-      "título": "",
-      "texto": "Que esse homem"
-    },
-    "17": {
-      "título": "",
-      "texto": "porque não me matou"
-    },
-    "18": {
-      "título": "",
-      "texto": "Por que saí do ventre materno"
+    "versiculos": {
+        "1": "Pasur, filho do sacerdote Imer, que era superintendente da Casa do Senhor , ouviu Jeremias profetizando estas coisas",
+        "2": "e por isso mandou que o profeta fosse açoitado e preso no tronco que ficava junto ao portão superior de Benjamim, na Casa do Senhor . No dia seguinte, Pasur mandou que Jeremias fosse tirado do tronco.",
+        "3": "Então Jeremias lhe disse:",
+        "4": "Pois assim diz o Senhor : “Eis que farei de você um terror para você mesmo e para todos os seus amigos. Eles serão mortos à espada pelos seus inimigos, e você verá isso. Entregarei todo o povo de Judá nas mãos do rei da Babilônia, que os levará presos à Babilônia e os matará à espada.",
+        "5": "Também entregarei toda a riqueza desta cidade, todo o fruto do seu trabalho e todas as suas coisas preciosas; sim, entregarei todos os tesouros dos reis de Judá nas mãos de seus inimigos, os quais hão de saquear, pegar e levar tudo para a Babilônia.",
+        "6": "E você, Pasur, e todos os moradores da sua casa serão levados para o cativeiro. Você irá à Babilônia, onde morrerá e será sepultado, você e todos os seus amigos, aos quais você profetizou falsamente.”",
+        "7": "Tu me persuadiste, Senhor ,",
+        "8": "Porque, sempre que falo,",
+        "9": "Quando pensei:",
+        "10": "Porque ouvi a murmuração",
+        "11": "Mas o Senhor está comigo",
+        "12": "Ó Senhor dos Exércitos,",
+        "13": "Cantem ao Senhor !",
+        "14": "Maldito o dia em que eu nasci!",
+        "15": "Maldito o homem",
+        "16": "Que esse homem",
+        "17": "porque não me matou",
+        "18": "Por que saí do ventre materno"
     }
-  }
 }

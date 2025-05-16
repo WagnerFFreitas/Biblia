@@ -1,110 +1,36 @@
 {
-  "livro": "Gênesis",
-  "capítulo": 50,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Então José se lançou sobre o rosto de seu pai, chorou sobre ele e o beijou."
+    "livro": "Gênesis",
+    "capitulo": 50,
+    "titulos": {
+        "15": "José consola seus irmãos",
+        "22": "A morte de José"
     },
-    "2": {
-      "título": "",
-      "texto": "José ordenou a seus servos, aos que eram médicos, que embalsamassem o corpo de seu pai. E os médicos embalsamaram Israel,"
-    },
-    "3": {
-      "título": "",
-      "texto": "gastando nisso quarenta dias, pois assim se cumprem os dias do embalsamamento; e os egípcios ficaram de luto setenta dias."
-    },
-    "4": {
-      "título": "",
-      "texto": "Passados os dias de luto, José falou à casa de Faraó:"
-    },
-    "5": {
-      "título": "",
-      "texto": "“Meu pai me fez jurar, declarando: ‘Eis que estou morrendo; sepulte-me no túmulo que abri para mim na terra de Canaã.’ Agora, quero ir e sepultar meu pai; depois voltarei.”"
-    },
-    "6": {
-      "título": "",
-      "texto": "Faraó respondeu:"
-    },
-    "7": {
-      "título": "",
-      "texto": "José partiu para sepultar o seu pai. Com ele foram todos os oficiais de Faraó, os principais da sua casa e todos os principais da terra do Egito,"
-    },
-    "8": {
-      "título": "",
-      "texto": "bem como toda a casa de José, e seus irmãos, e a casa de seu pai. Deixaram na terra de Gósen somente as crianças, os rebanhos e o gado."
-    },
-    "9": {
-      "título": "",
-      "texto": "E foram também com ele tanto carruagens como cavaleiros; e o cortejo foi muito grande."
-    },
-    "10": {
-      "título": "",
-      "texto": "Quando eles chegaram à eira de Atade, que fica do outro lado do Jordão, fizeram ali grande e intensa lamentação; e José pranteou seu pai durante sete dias."
-    },
-    "11": {
-      "título": "",
-      "texto": "Quando os moradores da terra, os cananeus, viram o luto na eira de Atade, disseram:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Os filhos de Jacó fizeram como ele lhes havia ordenado:"
-    },
-    "13": {
-      "título": "",
-      "texto": "levaram-no para a terra de Canaã e o sepultaram na caverna do campo de Macpela, que, juntamente com o campo, Abraão havia comprado de Efrom, o heteu, para ser lugar de sepultura. Esse lugar fica em frente a Manre."
-    },
-    "14": {
-      "título": "",
-      "texto": "Depois disso, José voltou para o Egito, ele, os seus irmãos e todos os que o haviam acompanhado para sepultar o seu pai."
-    },
-    "15": {
-      "título": "José consola seus irmãos",
-      "texto": "Vendo os irmãos de José que seu pai já era morto, disseram:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Por isso, mandaram dizer a José:"
-    },
-    "17": {
-      "título": "",
-      "texto": "“É isto que vocês dirão a José: ‘Perdoe, por favor, a transgressão dos seus irmãos e o pecado que cometeram, porque eles lhe fizeram mal.’” Agora pedimos que perdoe a transgressão dos servos do Deus de seu pai."
-    },
-    "18": {
-      "título": "",
-      "texto": "Depois, vieram também os seus irmãos, prostraram-se diante dele e disseram:"
-    },
-    "19": {
-      "título": "",
-      "texto": "Mas José respondeu:"
-    },
-    "20": {
-      "título": "",
-      "texto": "Vocês, na verdade, planejaram o mal contra mim; porém Deus o tornou em bem, para fazer, como estão vendo agora, que se conserve a vida de muita gente."
-    },
-    "21": {
-      "título": "",
-      "texto": "Portanto, não tenham medo; eu sustentarei vocês e os seus filhos."
-    },
-    "22": {
-      "título": "A morte de José",
-      "texto": "José ficou morando no Egito, ele e a casa de seu pai. Viveu cento e dez anos."
-    },
-    "23": {
-      "título": "",
-      "texto": "José viu os filhos de Efraim até a terceira geração; também os filhos de Maquir, filho de Manassés, os quais José tomou sobre os seus joelhos."
-    },
-    "24": {
-      "título": "",
-      "texto": "José disse a seus irmãos:"
-    },
-    "25": {
-      "título": "",
-      "texto": "José pediu aos filhos de Israel que fizessem um juramento, dizendo:"
-    },
-    "26": {
-      "título": "",
-      "texto": "José morreu com a idade de cento e dez anos. Eles embalsamaram o seu corpo e o puseram num caixão, no Egito."
+    "versiculos": {
+        "1": "Então José se lançou sobre o rosto de seu pai, chorou sobre ele e o beijou.",
+        "2": "José ordenou a seus servos, aos que eram médicos, que embalsamassem o corpo de seu pai. E os médicos embalsamaram Israel,",
+        "3": "gastando nisso quarenta dias, pois assim se cumprem os dias do embalsamamento; e os egípcios ficaram de luto setenta dias.",
+        "4": "Passados os dias de luto, José falou à casa de Faraó:",
+        "5": "“Meu pai me fez jurar, declarando: ‘Eis que estou morrendo; sepulte-me no túmulo que abri para mim na terra de Canaã.’ Agora, quero ir e sepultar meu pai; depois voltarei.”",
+        "6": "Faraó respondeu:",
+        "7": "José partiu para sepultar o seu pai. Com ele foram todos os oficiais de Faraó, os principais da sua casa e todos os principais da terra do Egito,",
+        "8": "bem como toda a casa de José, e seus irmãos, e a casa de seu pai. Deixaram na terra de Gósen somente as crianças, os rebanhos e o gado.",
+        "9": "E foram também com ele tanto carruagens como cavaleiros; e o cortejo foi muito grande.",
+        "10": "Quando eles chegaram à eira de Atade, que fica do outro lado do Jordão, fizeram ali grande e intensa lamentação; e José pranteou seu pai durante sete dias.",
+        "11": "Quando os moradores da terra, os cananeus, viram o luto na eira de Atade, disseram:",
+        "12": "Os filhos de Jacó fizeram como ele lhes havia ordenado:",
+        "13": "levaram-no para a terra de Canaã e o sepultaram na caverna do campo de Macpela, que, juntamente com o campo, Abraão havia comprado de Efrom, o heteu, para ser lugar de sepultura. Esse lugar fica em frente a Manre.",
+        "14": "Depois disso, José voltou para o Egito, ele, os seus irmãos e todos os que o haviam acompanhado para sepultar o seu pai.",
+        "15": "Vendo os irmãos de José que seu pai já era morto, disseram:",
+        "16": "Por isso, mandaram dizer a José:",
+        "17": "“É isto que vocês dirão a José: ‘Perdoe, por favor, a transgressão dos seus irmãos e o pecado que cometeram, porque eles lhe fizeram mal.’” Agora pedimos que perdoe a transgressão dos servos do Deus de seu pai.",
+        "18": "Depois, vieram também os seus irmãos, prostraram-se diante dele e disseram:",
+        "19": "Mas José respondeu:",
+        "20": "Vocês, na verdade, planejaram o mal contra mim; porém Deus o tornou em bem, para fazer, como estão vendo agora, que se conserve a vida de muita gente.",
+        "21": "Portanto, não tenham medo; eu sustentarei vocês e os seus filhos.",
+        "22": "José ficou morando no Egito, ele e a casa de seu pai. Viveu cento e dez anos.",
+        "23": "José viu os filhos de Efraim até a terceira geração; também os filhos de Maquir, filho de Manassés, os quais José tomou sobre os seus joelhos.",
+        "24": "José disse a seus irmãos:",
+        "25": "José pediu aos filhos de Israel que fizessem um juramento, dizendo:",
+        "26": "José morreu com a idade de cento e dez anos. Eles embalsamaram o seu corpo e o puseram num caixão, no Egito."
     }
-  }
 }

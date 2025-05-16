@@ -1,122 +1,41 @@
 {
-  "livro": "Jó",
-  "capítulo": 19,
-  "versículos": {
-    "1": {
-      "título": "Vocês me insultaram",
-      "texto": "Então Jó respondeu:"
+    "livro": "Jó",
+    "capitulo": 19,
+    "titulos": {
+        "1": "Vocês me insultaram",
+        "7": "Deus me arruinou",
+        "13": "Todos me abandonaram",
+        "23": "Eu sei que o meu Redentor vive"
     },
-    "2": {
-      "título": "",
-      "texto": "“Até quando vocês vão"
-    },
-    "3": {
-      "título": "",
-      "texto": "Já dez vezes vocês"
-    },
-    "4": {
-      "título": "",
-      "texto": "Se eu tivesse realmente"
-    },
-    "5": {
-      "título": "",
-      "texto": "Se vocês querem se engrandecer"
-    },
-    "6": {
-      "título": "",
-      "texto": "então saibam que Deus"
-    },
-    "7": {
-      "título": "Deus me arruinou",
-      "texto": "“Eis que clamo: ‘Violência!’,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Deus fechou o meu caminho,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Despojou-me da minha honra"
-    },
-    "10": {
-      "título": "",
-      "texto": "Arruinou-me de todos os lados,"
-    },
-    "11": {
-      "título": "",
-      "texto": "Acendeu contra mim a sua ira"
-    },
-    "12": {
-      "título": "",
-      "texto": "Juntas vieram as suas tropas;"
-    },
-    "13": {
-      "título": "Todos me abandonaram",
-      "texto": "“Deus levou os meus irmãos"
-    },
-    "14": {
-      "título": "",
-      "texto": "Os meus parentes"
-    },
-    "15": {
-      "título": "",
-      "texto": "Os que se abrigam"
-    },
-    "16": {
-      "título": "",
-      "texto": "Chamo o meu servo,"
-    },
-    "17": {
-      "título": "",
-      "texto": "O meu hálito é intolerável"
-    },
-    "18": {
-      "título": "",
-      "texto": "Até as crianças me desprezam,"
-    },
-    "19": {
-      "título": "",
-      "texto": "Todos os meus amigos íntimos"
-    },
-    "20": {
-      "título": "",
-      "texto": "Os meus ossos se apegam"
-    },
-    "21": {
-      "título": "",
-      "texto": "Tenham pena de mim,"
-    },
-    "22": {
-      "título": "",
-      "texto": "Por que vocês me perseguem"
-    },
-    "23": {
-      "título": "Eu sei que o meu Redentor vive",
-      "texto": "“Quem dera fossem agora"
-    },
-    "24": {
-      "título": "",
-      "texto": "Que, com pena de ferro"
-    },
-    "25": {
-      "título": "",
-      "texto": "Porque eu sei"
-    },
-    "26": {
-      "título": "",
-      "texto": "Depois, revestido"
-    },
-    "27": {
-      "título": "",
-      "texto": "Eu o verei por mim mesmo,"
-    },
-    "28": {
-      "título": "",
-      "texto": "“Se vocês disserem:"
-    },
-    "29": {
-      "título": "",
-      "texto": "então tenham medo da espada,"
+    "versiculos": {
+        "1": "Então Jó respondeu:",
+        "2": "“Até quando vocês vão",
+        "3": "Já dez vezes vocês",
+        "4": "Se eu tivesse realmente",
+        "5": "Se vocês querem se engrandecer",
+        "6": "então saibam que Deus",
+        "7": "“Eis que clamo: ‘Violência!’,",
+        "8": "Deus fechou o meu caminho,",
+        "9": "Despojou-me da minha honra",
+        "10": "Arruinou-me de todos os lados,",
+        "11": "Acendeu contra mim a sua ira",
+        "12": "Juntas vieram as suas tropas;",
+        "13": "“Deus levou os meus irmãos",
+        "14": "Os meus parentes",
+        "15": "Os que se abrigam",
+        "16": "Chamo o meu servo,",
+        "17": "O meu hálito é intolerável",
+        "18": "Até as crianças me desprezam,",
+        "19": "Todos os meus amigos íntimos",
+        "20": "Os meus ossos se apegam",
+        "21": "Tenham pena de mim,",
+        "22": "Por que vocês me perseguem",
+        "23": "“Quem dera fossem agora",
+        "24": "Que, com pena de ferro",
+        "25": "Porque eu sei",
+        "26": "Depois, revestido",
+        "27": "Eu o verei por mim mesmo,",
+        "28": "“Se vocês disserem:",
+        "29": "então tenham medo da espada,"
     }
-  }
 }

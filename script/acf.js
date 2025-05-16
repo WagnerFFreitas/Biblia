@@ -1,12 +1,13 @@
-// --- START OF FILE script/ACF.js ---
+// --- START OF FILE script/acf.js ---
 
-window.BIBLE_VERSION = 'ACF';
-console.log(`[${window.BIBLE_VERSION}.js] Script carregado. Definindo funções específicas para ACF.`);
+window.BIBLE_VERSION = 'acf';
+window.BIBLE_VERSION_FULL_NAME = 'Almeida Corrigida e Fiel'; // LINHA ADICIONADA
+console.log(`[${window.BIBLE_VERSION}.js] Script carregado. Definindo funções específicas para ACF. Nome completo: ${window.BIBLE_VERSION_FULL_NAME}`);
 
 // --- Dados Específicos de Contagem de Versículos (ACF) ---
 // Esta função será chamada por biblia-navegacao.js
 window.getSpecificVerseCount = function(livro, capitulo) {
-    // ***** COLE AQUI O OBJETO versiculosPorCapitulo COMPLETO E CORRETO DA ACF *****
+    // ***** ATENÇÃO: VERIFIQUE E ATUALIZE ESTE OBJETO COM OS DADOS CORRETOS DE CONTAGEM DE VERSÍCULOS PARA A VERSÃO ACF *****
     const versiculosPorCapitulo = {
         "genesis": { 1: 31, 2: 25, 3: 24, 4: 26, 5: 32, 6: 22, 7: 24, 8: 22, 9: 29, 10: 32, 11: 32, 12: 20, 13: 18, 14: 24, 15: 21, 16: 16, 17: 27, 18: 33, 19: 38, 20: 18, 21: 34, 22: 24, 23: 20, 24: 67, 25: 34, 26: 35, 27: 46, 28: 22, 29: 35, 30: 43, 31: 55, 32: 32, 33: 20, 34: 31, 35: 29, 36: 43, 37: 36, 38: 30, 39: 23, 40: 23, 41: 57, 42: 38, 43: 34, 44: 34, 45: 28, 46: 34, 47: 31, 48: 22, 49: 33, 50: 26 },
         "exodo": { 1: 22, 2: 25, 3: 22, 4: 31, 5: 23, 6: 30, 7: 25, 8: 32, 9: 35, 10: 29, 11: 10, 12: 37, 13: 22, 14: 31, 15: 27, 16: 36, 17: 16, 18: 27, 19: 29, 20: 26, 21: 36, 22: 31, 23: 33, 24: 18 },
@@ -43,7 +44,7 @@ window.getSpecificVerseCount = function(livro, capitulo) {
         "sofonias": { 1: 18, 2: 15, 3: 20 },
         "ageu": { 1: 15, 2: 23 },
         "zacarias": { 1: 21, 2: 13, 3: 10, 4: 14, 5: 11, 6: 15, 7: 14, 8: 23, 9: 17, 10: 12, 11: 17, 12: 13, 13: 9, 14: 21 },
-        "malaquias": { 1: 14, 2: 17, 3: 24, 4: 6 },
+        "malaquias": { 1: 14, 2: 17, 3: 24, 4: 6 }, // ACF geralmente tem 3 capítulos em Malaquias, o 4º é uma divisão comum em algumas versões. Ajustar se necessário.
         "mateus": { 1: 25, 2: 23, 3: 17, 4: 25, 5: 48, 6: 34, 7: 29, 8: 34, 9: 38, 10: 42, 11: 30, 12: 50, 13: 53, 14: 36, 15: 39, 16: 28, 17: 27, 18: 35, 19: 30, 20: 34, 21: 46, 22: 46, 23: 39, 24: 51, 25: 46, 26: 75, 27: 66, 28: 20 },
         "marcos": { 1: 45, 2: 28, 3: 35, 4: 41, 5: 43, 6: 56, 7: 37, 8: 38, 9: 50, 10: 52, 11: 33, 12: 44, 13: 37, 14: 72, 15: 47, 16: 20 },
         "lucas": { 1: 80, 2: 52, 3: 38, 4: 44, 5: 39, 6: 49, 7: 50, 8: 56, 9: 62, 10: 42, 11: 54, 12: 59, 13: 35, 14: 35, 15: 32, 16: 31, 17: 37, 18: 43, 19: 48, 20: 47, 21: 38, 22: 71, 23: 56, 24: 53 },
@@ -59,7 +60,7 @@ window.getSpecificVerseCount = function(livro, capitulo) {
         "1tessalonicenses": { 1: 10, 2: 20, 3: 13, 4: 18, 5: 28 },
         "2tessalonicenses": { 1: 12, 2: 17, 3: 18 },
         "1timoteo": { 1: 20, 2: 15, 3: 16, 4: 16, 5: 25, 6: 21 },
-        "2timoteo": { 1: 18, 2: 26, 3: 17 },
+        "2timoteo": { 1: 18, 2: 26, 3: 17 }, // ACF geralmente tem 4 capítulos. Ajustar se necessário.
         "tito": { 1: 16, 2: 15, 3: 15 },
         "filemom": { 1: 25 },
         "hebreus": { 1: 14, 2: 18, 3: 19, 4: 16, 5: 14, 6: 20, 7: 28, 8: 13, 9: 28, 10: 39, 11: 40, 12: 29, 13: 25 },
@@ -68,11 +69,11 @@ window.getSpecificVerseCount = function(livro, capitulo) {
         "2pedro": { 1: 21, 2: 22, 3: 18 },
         "1joao": { 1: 10, 2: 29, 3: 24, 4: 21, 5: 21 },
         "2joao": { 1: 13 },
-        "3joao": { 1: 14 },
+        "3joao": { 1: 14 }, // ACF tem 15 versículos em 3 João. Ajustar se necessário.
         "judas": { 1: 25 },
         "apocalipse": { 1: 20, 2: 29, 3: 22, 4: 11, 5: 14, 6: 17, 7: 17, 8: 13, 9: 21, 10: 11, 11: 19, 12: 17, 13: 18, 14: 20, 15: 8, 16: 21, 17: 18, 18: 24, 19: 21, 20: 15, 21: 27, 22: 21 }
         };
-    // ***** FIM DOS DADOS ACF *****
+    // ***** FIM DOS DADOS ACF (VERIFICAR E ATUALIZAR SE NECESSÁRIO) *****
 
     const contagem = versiculosPorCapitulo[livro]?.[capitulo];
     if (typeof contagem === 'undefined') {
@@ -87,7 +88,7 @@ window.getSpecificVerseCount = function(livro, capitulo) {
 window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
     console.log(`[ACF] Carregando: ${livro} ${capitulo}:${versiculo}`);
     const content = document.querySelector('.content');
-    let tituloH2 = document.querySelector('.content h2'); // Pega o elemento H2 do título principal
+    // let tituloH2 = document.querySelector('.content h2'); // Pega o elemento H2 do título principal - Esta linha não é usada, window.titulo é usado abaixo.
     if (!content) {
         console.error("[ACF] Elemento .content não encontrado.");
         return;
@@ -100,39 +101,46 @@ window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
 
     const versiculoElementDiv = document.createElement('div'); // DIV PAI para título e texto
     versiculoElementDiv.classList.add('versiculo', 'versiculo-texto');
+    
+    if (document.body.classList.contains('module-leitura')) { // Adiciona classe modo-leitura se aplicável
+        versiculoElementDiv.classList.add('modo-leitura');
+    }
 
     try {
         // Caminho específico para ACF JSON
-        const response = await fetch(`../version/ACF/${livro}/${capitulo}.json`);
+        const response = await fetch(`../version/acf/${livro}/${capitulo}.json`);
         if (!response.ok) {
-            throw new Error(`HTTP ${response.status} ao buscar JSON para ${livro} ${capitulo}`);
+            throw new Error(`HTTP ${response.status} ao buscar JSON para ${livro} ${capitulo} (ACF)`);
         }
         const data = await response.json();
 
-        if (data.versiculos && data.versiculos[versiculo]) {
-            // Adiciona título do versículo (se houver) como H3
-            if (data.titulos && data.titulos[versiculo]) {
-                const tituloInternoH3 = document.createElement('h3');
-                tituloInternoH3.classList.add('titulo-versiculo-interno'); // Classe para estilização CSS
-                tituloInternoH3.textContent = data.titulos[versiculo];
-                versiculoElementDiv.appendChild(tituloInternoH3);
-            }
-            // Adiciona o texto do versículo em um parágrafo
-            const textoP = document.createElement('p');
-            textoP.id = `versiculo-${versiculo}`; // ID para referência interna (opcional)
-            textoP.textContent = data.versiculos[versiculo];
-            versiculoElementDiv.appendChild(textoP);
-
-        } else {
-            const textoP = document.createElement('p');
-            textoP.textContent = `Versículo ${versiculo} não encontrado nos dados.`;
-            versiculoElementDiv.appendChild(textoP);
-            console.warn(`[ACF] Versículo ${versiculo} não encontrado nos dados de ${livro} ${capitulo}.json`);
+        // Verifica se o campo 'versiculos' existe e se o versículo específico é uma string.
+        if (!data.versiculos || typeof data.versiculos[versiculo] === 'undefined') {
+            throw new Error(`Texto do versículo ${versiculo} não encontrado no campo 'versiculos' do JSON (ACF).`);
         }
+        if (typeof data.versiculos[versiculo] !== 'string') {
+             throw new Error(`O conteúdo do versículo ${versiculo} (em 'versiculos.${versiculo}') não é uma string, conforme esperado (ACF).`);
+        }
+        
+        const versiculoTexto = data.versiculos[versiculo];
+
+        // Adiciona título do versículo (se houver no campo 'titulos') como H3
+        if (data.titulos && data.titulos[versiculo] && typeof data.titulos[versiculo] === 'string' && data.titulos[versiculo].trim() !== '') {
+            const tituloInternoH3 = document.createElement('h3');
+            tituloInternoH3.classList.add('titulo-versiculo-interno'); // Classe para estilização CSS
+            tituloInternoH3.textContent = data.titulos[versiculo];
+            versiculoElementDiv.appendChild(tituloInternoH3);
+        }
+        // Adiciona o texto do versículo em um parágrafo
+        const textoP = document.createElement('p');
+        textoP.id = `versiculo-${versiculo}`; // ID para referência interna (opcional)
+        textoP.textContent = versiculoTexto;
+        versiculoElementDiv.appendChild(textoP);
+
     } catch (error) {
         console.error(`[ACF] Erro ao carregar versículo ${livro} ${capitulo}:${versiculo}:`, error);
         const textoP = document.createElement('p');
-        textoP.textContent = `Erro ao carregar versículo ${versiculo}.`;
+        textoP.textContent = `ERRO ACF: ${error.message}`; // Adicionado ACF ao erro
         textoP.style.color = "red";
         versiculoElementDiv.appendChild(textoP);
     }
@@ -141,11 +149,36 @@ window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
 
     // Atualiza o título principal da página
     // Acessa window.titulo que é gerenciado por biblia-navegacao.js
-    if (window.titulo) {
-        window.titulo.textContent = `${livro.toUpperCase()} - CAPÍTULO ${capitulo} - VERSÍCULO ${versiculo}`;
-    } else {
-        console.warn(`[ACF] Elemento H2 principal (window.titulo) não encontrado para atualizar.`);
+    // Esta lógica agora pode ser centralizada em biblia-navegacao.js ou no script inline de versoes.html
+    // se o objetivo é que o H1 mostre "Livro - Capítulo - Versículo (VERSAO)"
+    // e o <p> (subtítulo) mostre "Nome Completo da Versão".
+    // A função setPageTitle no script inline de versoes.html cuidará do H1 e do subtítulo.
+    // Se você tiver uma função como window.updateChapterTitle em biblia-navegacao.js
+    // que também mexe no H1, ela pode ser chamada aqui ou após esta função.
+
+    // Exemplo de como o título principal (H1) e o H2 (título do capítulo/versículo) são atualizados
+    // em biblia-navegacao.js ou no script inline:
+    const h1Principal = document.getElementById('titulo-principal-versao');
+    const h2Conteudo = document.querySelector('.content h2');
+
+    if (h1Principal) {
+        // O h1Principal já foi atualizado por setPageTitle ao carregar a versão.
+        // Se precisar mudar para "Livro - Cap - Ver (ACF)" quando um versículo é carregado,
+        // essa lógica estaria em biblia-navegacao.js ou aqui.
+        // Por ora, vamos assumir que setPageTitle no onload cuida do H1 principal.
     }
+
+    if (h2Conteudo) { // Este é o H2 que mostra "LIVRO - CAPÍTULO X" ou "LIVRO - CAPÍTULO X - VERSÍCULO Y"
+        h2Conteudo.textContent = `${livro.toUpperCase()} - CAPÍTULO ${capitulo} - VERSÍCULO ${versiculo}`;
+    }
+
 };
 
-// --- FIM DO SCRIPT ACF.js ---
+// A função getSpecificChapterTitle não estava presente no arquivo original 'ara.js' fornecido.
+// Se for necessária uma função separada para obter apenas o título,
+// ela pode ser modelada como a de 'naa.js', acessando data.titulos[versiculo].
+// Por ora, a lógica de título está embutida em loadSpecificVerse.
+
+window.isReadingModeEnabled = false; // Adicionado, caso seja usado como em naa.js
+
+// --- FIM DO SCRIPT acf.js ---

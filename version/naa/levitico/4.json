@@ -1,146 +1,47 @@
 {
-  "livro": "Levítico",
-  "capítulo": 4,
-  "versículos": {
-    "1": {
-      "título": "O sacrifício pelos pecados dos sacerdotes",
-      "texto": "O Senhor disse a Moisés:"
+    "livro": "Levítico",
+    "capitulo": 4,
+    "titulos": {
+        "1": "O sacrifício pelos pecados dos sacerdotes",
+        "13": "Os sacrifícios pelos pecados de toda a congregação",
+        "22": "Os sacrifícios pelos pecados de um chefe",
+        "27": "Os sacrifícios pelos pecados de qualquer pessoa"
     },
-    "2": {
-      "título": "",
-      "texto": "— Fale aos filhos de Israel, dizendo: Quando alguém cometer pecado involuntário contra qualquer dos mandamentos do Senhor , por fazer contra algum deles o que não se deve fazer,"
-    },
-    "3": {
-      "título": "",
-      "texto": "se o sacerdote ungido pecar, de tal maneira que o povo se torne culpado, oferecerá ao Senhor , como oferta pelo pecado, um novilho sem defeito."
-    },
-    "4": {
-      "título": "",
-      "texto": "Trará o novilho à porta da tenda do encontro, diante do Senhor , porá a mão sobre a cabeça do novilho e o matará diante do Senhor ."
-    },
-    "5": {
-      "título": "",
-      "texto": "Então o sacerdote ungido pegará um pouco do sangue do novilho e o trará à tenda do encontro;"
-    },
-    "6": {
-      "título": "",
-      "texto": "e, molhando o dedo no sangue, o aspergirá sete vezes diante do Senhor , diante do véu do santuário."
-    },
-    "7": {
-      "título": "",
-      "texto": "O sacerdote também porá um pouco daquele sangue sobre os chifres do altar do incenso aromático, diante do Senhor , altar que está na tenda do encontro. Todo o restante do sangue do novilho ele derramará na base do altar do holocausto, que está à porta da tenda do encontro."
-    },
-    "8": {
-      "título": "",
-      "texto": "O sacerdote tirará toda a gordura do novilho da expiação: a gordura que cobre as entranhas e toda a gordura que está no meio das entranhas,"
-    },
-    "9": {
-      "título": "",
-      "texto": "os dois rins, a gordura que está sobre eles e junto aos lombos, e a membrana sobre o fígado, que tirará junto com os rins,"
-    },
-    "10": {
-      "título": "",
-      "texto": "assim como se tira isso do novilho do sacrifício pacífico. E o sacerdote queimará essas partes sobre o altar do holocausto."
-    },
-    "11": {
-      "título": "",
-      "texto": "Mas o couro do novilho, toda a sua carne, a cabeça, as pernas, as entranhas e o excremento,"
-    },
-    "12": {
-      "título": "",
-      "texto": "a saber, o novilho todo, levará para fora do arraial, a um lugar puro, onde se lança a cinza, e o queimará sobre a lenha; será queimado onde se lança a cinza."
-    },
-    "13": {
-      "título": "Os sacrifícios pelos pecados de toda a congregação",
-      "texto": "— Mas, se toda a congregação de Israel cometer pecado involuntário, e isso for oculto aos olhos da coletividade, e se fizerem, contra algum dos mandamentos do Senhor , aquilo que não se deve fazer, e forem culpados,"
-    },
-    "14": {
-      "título": "",
-      "texto": "e o pecado que cometeram for notório, então a coletividade trará um novilho como oferta pelo pecado e o apresentará diante da tenda do encontro."
-    },
-    "15": {
-      "título": "",
-      "texto": "Os anciãos da congregação porão as mãos sobre a cabeça do novilho diante do Senhor ; e o novilho será morto diante do Senhor ."
-    },
-    "16": {
-      "título": "",
-      "texto": "Então o sacerdote ungido levará uma parte do sangue do novilho à tenda do encontro;"
-    },
-    "17": {
-      "título": "",
-      "texto": "molhará o dedo no sangue e o aspergirá sete vezes diante do Senhor , diante do véu."
-    },
-    "18": {
-      "título": "",
-      "texto": "Depois, porá um pouco daquele sangue sobre os chifres do altar que está diante do Senhor , na tenda do encontro. Todo o restante do sangue ele derramará na base do altar do holocausto, que está à porta da tenda do encontro."
-    },
-    "19": {
-      "título": "",
-      "texto": "Tirará do novilho toda a gordura e a queimará sobre o altar,"
-    },
-    "20": {
-      "título": "",
-      "texto": "e fará com este novilho como fez com o novilho da oferta pelo pecado. Assim, o sacerdote fará expiação por eles, e eles serão perdoados."
-    },
-    "21": {
-      "título": "",
-      "texto": "Depois, levará o novilho para fora do arraial e o queimará como queimou o primeiro novilho; é oferta pelo pecado da coletividade."
-    },
-    "22": {
-      "título": "Os sacrifícios pelos pecados de um chefe",
-      "texto": "— Quando um chefe pecar, fazendo de forma involuntária alguma das coisas que o Senhor , seu Deus, ordenou que não se fizessem, e se tornar culpado;"
-    },
-    "23": {
-      "título": "",
-      "texto": "ou se o pecado em que ele caiu lhe for notificado, trará por sua oferta um bode sem defeito."
-    },
-    "24": {
-      "título": "",
-      "texto": "Porá a mão sobre a cabeça do bode e o matará no lugar onde são mortos os animais oferecidos em holocausto, diante do Senhor ; é oferta pelo pecado."
-    },
-    "25": {
-      "título": "",
-      "texto": "Então o sacerdote, com o dedo, pegará um pouco do sangue da oferta pelo pecado e o porá sobre os chifres do altar do holocausto. Todo o restante do sangue derramará na base do altar do holocausto."
-    },
-    "26": {
-      "título": "",
-      "texto": "Como no caso do sacrifício pacífico, queimará toda a gordura sobre o altar. Assim, o sacerdote fará expiação por ele, no que se refere ao pecado, e este lhe será perdoado."
-    },
-    "27": {
-      "título": "Os sacrifícios pelos pecados de qualquer pessoa",
-      "texto": "— Se qualquer pessoa do povo da terra cometer pecado involuntário, por fazer alguma das coisas que o Senhor ordenou que não se fizessem, e se tornar culpada;"
-    },
-    "28": {
-      "título": "",
-      "texto": "ou se o pecado em que ela caiu lhe for notificado, trará por sua oferta uma cabra sem defeito, pelo pecado que cometeu."
-    },
-    "29": {
-      "título": "",
-      "texto": "Porá a mão sobre a cabeça da oferta pelo pecado e matará o animal no lugar do holocausto."
-    },
-    "30": {
-      "título": "",
-      "texto": "Então o sacerdote, com o dedo, pegará um pouco do sangue da oferta e o porá sobre os chifres do altar do holocausto. Todo o restante do sangue derramará na base do altar."
-    },
-    "31": {
-      "título": "",
-      "texto": "Tirará toda a gordura, como se tira a gordura do sacrifício pacífico; o sacerdote a queimará sobre o altar como aroma agradável ao Senhor . Assim, o sacerdote fará expiação pela pessoa, e o pecado lhe será perdoado."
-    },
-    "32": {
-      "título": "",
-      "texto": "— Mas, se trouxer uma cordeira como oferta pelo pecado, deverá trazer uma fêmea sem defeito."
-    },
-    "33": {
-      "título": "",
-      "texto": "Porá a mão sobre a cabeça da oferta pelo pecado e matará o animal como oferta pelo pecado, no lugar onde são mortos os animais oferecidos em holocausto."
-    },
-    "34": {
-      "título": "",
-      "texto": "Então o sacerdote, com o dedo, pegará um pouco do sangue da oferta pelo pecado e o porá sobre os chifres do altar do holocausto. Todo o restante do sangue derramará na base do altar."
-    },
-    "35": {
-      "título": "",
-      "texto": "O sacerdote tirará toda a gordura, como se tira a gordura do cordeiro do sacrifício pacífico, e a queimará sobre o altar, em cima das ofertas queimadas do Senhor . Assim, o sacerdote, por essa pessoa, fará expiação do pecado que ela cometeu, e o pecado lhe será perdoado."
+    "versiculos": {
+        "1": "O Senhor disse a Moisés:",
+        "2": "— Fale aos filhos de Israel, dizendo: Quando alguém cometer pecado involuntário contra qualquer dos mandamentos do Senhor , por fazer contra algum deles o que não se deve fazer,",
+        "3": "se o sacerdote ungido pecar, de tal maneira que o povo se torne culpado, oferecerá ao Senhor , como oferta pelo pecado, um novilho sem defeito.",
+        "4": "Trará o novilho à porta da tenda do encontro, diante do Senhor , porá a mão sobre a cabeça do novilho e o matará diante do Senhor .",
+        "5": "Então o sacerdote ungido pegará um pouco do sangue do novilho e o trará à tenda do encontro;",
+        "6": "e, molhando o dedo no sangue, o aspergirá sete vezes diante do Senhor , diante do véu do santuário.",
+        "7": "O sacerdote também porá um pouco daquele sangue sobre os chifres do altar do incenso aromático, diante do Senhor , altar que está na tenda do encontro. Todo o restante do sangue do novilho ele derramará na base do altar do holocausto, que está à porta da tenda do encontro.",
+        "8": "O sacerdote tirará toda a gordura do novilho da expiação: a gordura que cobre as entranhas e toda a gordura que está no meio das entranhas,",
+        "9": "os dois rins, a gordura que está sobre eles e junto aos lombos, e a membrana sobre o fígado, que tirará junto com os rins,",
+        "10": "assim como se tira isso do novilho do sacrifício pacífico. E o sacerdote queimará essas partes sobre o altar do holocausto.",
+        "11": "Mas o couro do novilho, toda a sua carne, a cabeça, as pernas, as entranhas e o excremento,",
+        "12": "a saber, o novilho todo, levará para fora do arraial, a um lugar puro, onde se lança a cinza, e o queimará sobre a lenha; será queimado onde se lança a cinza.",
+        "13": "— Mas, se toda a congregação de Israel cometer pecado involuntário, e isso for oculto aos olhos da coletividade, e se fizerem, contra algum dos mandamentos do Senhor , aquilo que não se deve fazer, e forem culpados,",
+        "14": "e o pecado que cometeram for notório, então a coletividade trará um novilho como oferta pelo pecado e o apresentará diante da tenda do encontro.",
+        "15": "Os anciãos da congregação porão as mãos sobre a cabeça do novilho diante do Senhor ; e o novilho será morto diante do Senhor .",
+        "16": "Então o sacerdote ungido levará uma parte do sangue do novilho à tenda do encontro;",
+        "17": "molhará o dedo no sangue e o aspergirá sete vezes diante do Senhor , diante do véu.",
+        "18": "Depois, porá um pouco daquele sangue sobre os chifres do altar que está diante do Senhor , na tenda do encontro. Todo o restante do sangue ele derramará na base do altar do holocausto, que está à porta da tenda do encontro.",
+        "19": "Tirará do novilho toda a gordura e a queimará sobre o altar,",
+        "20": "e fará com este novilho como fez com o novilho da oferta pelo pecado. Assim, o sacerdote fará expiação por eles, e eles serão perdoados.",
+        "21": "Depois, levará o novilho para fora do arraial e o queimará como queimou o primeiro novilho; é oferta pelo pecado da coletividade.",
+        "22": "— Quando um chefe pecar, fazendo de forma involuntária alguma das coisas que o Senhor , seu Deus, ordenou que não se fizessem, e se tornar culpado;",
+        "23": "ou se o pecado em que ele caiu lhe for notificado, trará por sua oferta um bode sem defeito.",
+        "24": "Porá a mão sobre a cabeça do bode e o matará no lugar onde são mortos os animais oferecidos em holocausto, diante do Senhor ; é oferta pelo pecado.",
+        "25": "Então o sacerdote, com o dedo, pegará um pouco do sangue da oferta pelo pecado e o porá sobre os chifres do altar do holocausto. Todo o restante do sangue derramará na base do altar do holocausto.",
+        "26": "Como no caso do sacrifício pacífico, queimará toda a gordura sobre o altar. Assim, o sacerdote fará expiação por ele, no que se refere ao pecado, e este lhe será perdoado.",
+        "27": "— Se qualquer pessoa do povo da terra cometer pecado involuntário, por fazer alguma das coisas que o Senhor ordenou que não se fizessem, e se tornar culpada;",
+        "28": "ou se o pecado em que ela caiu lhe for notificado, trará por sua oferta uma cabra sem defeito, pelo pecado que cometeu.",
+        "29": "Porá a mão sobre a cabeça da oferta pelo pecado e matará o animal no lugar do holocausto.",
+        "30": "Então o sacerdote, com o dedo, pegará um pouco do sangue da oferta e o porá sobre os chifres do altar do holocausto. Todo o restante do sangue derramará na base do altar.",
+        "31": "Tirará toda a gordura, como se tira a gordura do sacrifício pacífico; o sacerdote a queimará sobre o altar como aroma agradável ao Senhor . Assim, o sacerdote fará expiação pela pessoa, e o pecado lhe será perdoado.",
+        "32": "— Mas, se trouxer uma cordeira como oferta pelo pecado, deverá trazer uma fêmea sem defeito.",
+        "33": "Porá a mão sobre a cabeça da oferta pelo pecado e matará o animal como oferta pelo pecado, no lugar onde são mortos os animais oferecidos em holocausto.",
+        "34": "Então o sacerdote, com o dedo, pegará um pouco do sangue da oferta pelo pecado e o porá sobre os chifres do altar do holocausto. Todo o restante do sangue derramará na base do altar.",
+        "35": "O sacerdote tirará toda a gordura, como se tira a gordura do cordeiro do sacrifício pacífico, e a queimará sobre o altar, em cima das ofertas queimadas do Senhor . Assim, o sacerdote, por essa pessoa, fará expiação do pecado que ela cometeu, e o pecado lhe será perdoado."
     }
-  }
 }

@@ -1,94 +1,34 @@
 {
-  "livro": "Jó",
-  "capítulo": 32,
-  "versículos": {
-    "1": {
-      "título": "Caps.",
-      "texto": "Aqueles três homens pararam de responder a Jó, porque ele se considerava justo."
+    "livro": "Jó",
+    "capitulo": 32,
+    "titulos": {
+        "1": "Caps.",
+        "6": "O sopro de Deus dá entendimento",
+        "11": "Deus pode vencê-lo, e não o homem",
+        "15": "Darei a minha opinião"
     },
-    "2": {
-      "título": "",
-      "texto": "Então se acendeu a ira de Eliú, filho de Baraquel, o buzita, da família de Rão. Ele ficou indignado contra Jó, porque este pretendia ser mais justo do que Deus."
-    },
-    "3": {
-      "título": "",
-      "texto": "Eliú também ficou irado com os três amigos de Jó, porque, mesmo não tendo o que responder, eles o condenavam."
-    },
-    "4": {
-      "título": "",
-      "texto": "Eliú, porém, havia esperado para falar a Jó, pois os outros eram mais velhos do que ele."
-    },
-    "5": {
-      "título": "",
-      "texto": "Quando Eliú viu que aqueles três homens já não tinham o que responder, ficou irado."
-    },
-    "6": {
-      "título": "O sopro de Deus dá entendimento",
-      "texto": "Então Eliú, filho de Baraquel, o buzita, tomou a palavra e disse:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Pensei assim: ‘Que falem"
-    },
-    "8": {
-      "título": "",
-      "texto": "Na verdade,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Os de mais idade"
-    },
-    "10": {
-      "título": "",
-      "texto": "Por isso digo:"
-    },
-    "11": {
-      "título": "Deus pode vencê-lo, e não o homem",
-      "texto": "“Eis que esperei"
-    },
-    "12": {
-      "título": "",
-      "texto": "Dei atenção ao que diziam,"
-    },
-    "13": {
-      "título": "",
-      "texto": "Portanto, não me venham"
-    },
-    "14": {
-      "título": "",
-      "texto": "Ora, ele não me dirigiu"
-    },
-    "15": {
-      "título": "Darei a minha opinião",
-      "texto": "“Jó, os três estão pasmados,"
-    },
-    "16": {
-      "título": "",
-      "texto": "Será que devo esperar,"
-    },
-    "17": {
-      "título": "",
-      "texto": "Também eu de minha parte"
-    },
-    "18": {
-      "título": "",
-      "texto": "Porque tenho muito que falar,"
-    },
-    "19": {
-      "título": "",
-      "texto": "Eis que dentro de mim"
-    },
-    "20": {
-      "título": "",
-      "texto": "Permitam, pois, que eu fale"
-    },
-    "21": {
-      "título": "",
-      "texto": "Não tratarei nenhum de vocês"
-    },
-    "22": {
-      "título": "",
-      "texto": "Porque não sei lisonjear;"
+    "versiculos": {
+        "1": "Aqueles três homens pararam de responder a Jó, porque ele se considerava justo.",
+        "2": "Então se acendeu a ira de Eliú, filho de Baraquel, o buzita, da família de Rão. Ele ficou indignado contra Jó, porque este pretendia ser mais justo do que Deus.",
+        "3": "Eliú também ficou irado com os três amigos de Jó, porque, mesmo não tendo o que responder, eles o condenavam.",
+        "4": "Eliú, porém, havia esperado para falar a Jó, pois os outros eram mais velhos do que ele.",
+        "5": "Quando Eliú viu que aqueles três homens já não tinham o que responder, ficou irado.",
+        "6": "Então Eliú, filho de Baraquel, o buzita, tomou a palavra e disse:",
+        "7": "Pensei assim: ‘Que falem",
+        "8": "Na verdade,",
+        "9": "Os de mais idade",
+        "10": "Por isso digo:",
+        "11": "“Eis que esperei",
+        "12": "Dei atenção ao que diziam,",
+        "13": "Portanto, não me venham",
+        "14": "Ora, ele não me dirigiu",
+        "15": "“Jó, os três estão pasmados,",
+        "16": "Será que devo esperar,",
+        "17": "Também eu de minha parte",
+        "18": "Porque tenho muito que falar,",
+        "19": "Eis que dentro de mim",
+        "20": "Permitam, pois, que eu fale",
+        "21": "Não tratarei nenhum de vocês",
+        "22": "Porque não sei lisonjear;"
     }
-  }
 }

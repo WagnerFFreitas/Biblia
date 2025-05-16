@@ -1,102 +1,34 @@
 {
-  "livro": "Gênesis",
-  "capítulo": 22,
-  "versículos": {
-    "1": {
-      "título": "Deus põe Abraão à prova",
-      "texto": "Depois dessas coisas, Deus pôs Abraão à prova e lhe disse:"
+    "livro": "Gênesis",
+    "capitulo": 22,
+    "titulos": {
+        "1": "Deus põe Abraão à prova",
+        "20": "Descendência de Naor"
     },
-    "2": {
-      "título": "",
-      "texto": "Deus continuou:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Na manhã seguinte, Abraão levantou-se de madrugada e, tendo preparado o seu jumento, levou consigo dois dos seus servos e Isaque, seu filho. Rachou lenha para o holocausto e foi para o lugar que Deus lhe havia indicado."
-    },
-    "4": {
-      "título": "",
-      "texto": "No terceiro dia, Abraão ergueu os olhos e viu o lugar de longe."
-    },
-    "5": {
-      "título": "",
-      "texto": "Então disse aos servos:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Abraão pegou a lenha do holocausto e a colocou sobre Isaque, seu filho. Ele, por sua vez, levava nas mãos o fogo e a faca. Assim, os dois caminhavam juntos."
-    },
-    "7": {
-      "título": "",
-      "texto": "Isaque rompeu o silêncio e disse a Abraão, seu pai:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Abraão respondeu:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Chegaram ao lugar que Deus lhe havia indicado. Ali Abraão edificou um altar, arrumou a lenha sobre ele, amarrou Isaque, seu filho, e o deitou no altar, em cima da lenha."
-    },
-    "10": {
-      "título": "",
-      "texto": "E, estendendo a mão, pegou a faca para sacrificar o seu filho."
-    },
-    "11": {
-      "título": "",
-      "texto": "Mas do céu o Anjo do Senhor o chamou:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Então lhe disse:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Abraão ergueu os olhos e viu atrás de si um carneiro preso pelos chifres entre os arbustos. Abraão pegou o carneiro e o ofereceu em holocausto, em lugar de seu filho."
-    },
-    "14": {
-      "título": "",
-      "texto": "E Abraão deu àquele lugar o nome de “O Senhor Proverá”. Daí dizer-se até o dia de hoje: “No monte do Senhor se proverá.”"
-    },
-    "15": {
-      "título": "",
-      "texto": "Então do céu pela segunda vez o Anjo do Senhor chamou Abraão"
-    },
-    "16": {
-      "título": "",
-      "texto": "e disse:"
-    },
-    "17": {
-      "título": "",
-      "texto": "que certamente o abençoarei e multiplicarei a sua descendência como as estrelas dos céus e como a areia que está na praia do mar. Sua descendência tomará posse das cidades dos seus inimigos."
-    },
-    "18": {
-      "título": "",
-      "texto": "Na sua descendência serão benditas todas as nações da terra, porque você obedeceu à minha voz."
-    },
-    "19": {
-      "título": "",
-      "texto": "Então Abraão voltou para onde estavam os seus servos, e, juntos, foram para Berseba, onde fixou residência."
-    },
-    "20": {
-      "título": "Descendência de Naor",
-      "texto": "Passadas essas coisas, foram dizer a Abraão que Milca também tinha dado à luz filhos a Naor, irmão de Abraão:"
-    },
-    "21": {
-      "título": "",
-      "texto": "Uz, o primogênito, Buz, seu irmão, Quemuel, pai de Arã,"
-    },
-    "22": {
-      "título": "",
-      "texto": "Quésede, Hazo, Pildas, Jidlafe e Betuel."
-    },
-    "23": {
-      "título": "",
-      "texto": "Betuel gerou Rebeca. Milca deu esses oito filhos a Naor, irmão de Abraão."
-    },
-    "24": {
-      "título": "",
-      "texto": "A concubina de Naor, cujo nome era Reumá, lhe deu também à luz filhos: Teba, Gaã, Taás e Maaca."
+    "versiculos": {
+        "1": "Depois dessas coisas, Deus pôs Abraão à prova e lhe disse:",
+        "2": "Deus continuou:",
+        "3": "Na manhã seguinte, Abraão levantou-se de madrugada e, tendo preparado o seu jumento, levou consigo dois dos seus servos e Isaque, seu filho. Rachou lenha para o holocausto e foi para o lugar que Deus lhe havia indicado.",
+        "4": "No terceiro dia, Abraão ergueu os olhos e viu o lugar de longe.",
+        "5": "Então disse aos servos:",
+        "6": "Abraão pegou a lenha do holocausto e a colocou sobre Isaque, seu filho. Ele, por sua vez, levava nas mãos o fogo e a faca. Assim, os dois caminhavam juntos.",
+        "7": "Isaque rompeu o silêncio e disse a Abraão, seu pai:",
+        "8": "Abraão respondeu:",
+        "9": "Chegaram ao lugar que Deus lhe havia indicado. Ali Abraão edificou um altar, arrumou a lenha sobre ele, amarrou Isaque, seu filho, e o deitou no altar, em cima da lenha.",
+        "10": "E, estendendo a mão, pegou a faca para sacrificar o seu filho.",
+        "11": "Mas do céu o Anjo do Senhor o chamou:",
+        "12": "Então lhe disse:",
+        "13": "Abraão ergueu os olhos e viu atrás de si um carneiro preso pelos chifres entre os arbustos. Abraão pegou o carneiro e o ofereceu em holocausto, em lugar de seu filho.",
+        "14": "E Abraão deu àquele lugar o nome de “O Senhor Proverá”. Daí dizer-se até o dia de hoje: “No monte do Senhor se proverá.”",
+        "15": "Então do céu pela segunda vez o Anjo do Senhor chamou Abraão",
+        "16": "e disse:",
+        "17": "que certamente o abençoarei e multiplicarei a sua descendência como as estrelas dos céus e como a areia que está na praia do mar. Sua descendência tomará posse das cidades dos seus inimigos.",
+        "18": "Na sua descendência serão benditas todas as nações da terra, porque você obedeceu à minha voz.",
+        "19": "Então Abraão voltou para onde estavam os seus servos, e, juntos, foram para Berseba, onde fixou residência.",
+        "20": "Passadas essas coisas, foram dizer a Abraão que Milca também tinha dado à luz filhos a Naor, irmão de Abraão:",
+        "21": "Uz, o primogênito, Buz, seu irmão, Quemuel, pai de Arã,",
+        "22": "Quésede, Hazo, Pildas, Jidlafe e Betuel.",
+        "23": "Betuel gerou Rebeca. Milca deu esses oito filhos a Naor, irmão de Abraão.",
+        "24": "A concubina de Naor, cujo nome era Reumá, lhe deu também à luz filhos: Teba, Gaã, Taás e Maaca."
     }
-  }
 }

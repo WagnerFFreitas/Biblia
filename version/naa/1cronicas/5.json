@@ -1,110 +1,37 @@
 {
-  "livro": "1 Crônicas",
-  "capítulo": 5,
-  "versículos": {
-    "1": {
-      "título": "Descendentes de Rúben",
-      "texto": "Quanto aos filhos de Rúben, o primogênito de Israel… Pois Rúben era o primogênito, mas, por ter profanado o leito de seu pai, o seu direito de primogenitura foi dado aos filhos de José, filho de Israel, de modo que, na genealogia, Rúben não foi contado como primogênito."
+    "livro": "1 Crônicas",
+    "capitulo": 5,
+    "titulos": {
+        "1": "Descendentes de Rúben",
+        "11": "Descendentes de Gade",
+        "18": "A história das tribos do Leste"
     },
-    "2": {
-      "título": "",
-      "texto": "Judá, na verdade, foi poderoso entre seus irmãos, e dele veio o príncipe, mas o direito da primogenitura foi de José."
-    },
-    "3": {
-      "título": "",
-      "texto": "Os filhos de Rúben, o primogênito de Israel, foram estes: Enoque, Palu, Hezrom e Carmi."
-    },
-    "4": {
-      "título": "",
-      "texto": "O filho de Joel foi Semaías, de quem foi filho Gogue, de quem foi filho Simei,"
-    },
-    "5": {
-      "título": "",
-      "texto": "de quem foi filho Mica, de quem foi filho Reaías, de quem foi filho Baal,"
-    },
-    "6": {
-      "título": "",
-      "texto": "de quem foi filho Beera, o qual Tiglate-Pileser, rei da Assíria, levou cativo; ele foi chefe dos rubenitas."
-    },
-    "7": {
-      "título": "",
-      "texto": "Quanto a seus irmãos, pelas suas famílias, quando foram inscritos nas genealogias segundo as suas descendências, tinham por chefes Jeiel, Zacarias,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Bela, filho de Azaz, filho de Sema, filho de Joel, que habitaram em Aroer, até Nebo e Baal-Meom."
-    },
-    "9": {
-      "título": "",
-      "texto": "Também habitaram do lado leste, até a entrada do deserto, o qual se estende até o rio Eufrates, porque o seu gado se tinha multiplicado na terra de Gileade."
-    },
-    "10": {
-      "título": "",
-      "texto": "Nos dias de Saul, fizeram guerra aos hagarenos, que caíram pelo poder de sua mão, e habitaram nas tendas deles, em toda a terra fronteira de Gileade, do lado leste."
-    },
-    "11": {
-      "título": "Descendentes de Gade",
-      "texto": "Os filhos de Gade habitaram em frente deles, na terra de Basã, até Salca."
-    },
-    "12": {
-      "título": "",
-      "texto": "Joel foi o cabeça, e Safã, o segundo; também Janai e Safate estavam em Basã."
-    },
-    "13": {
-      "título": "",
-      "texto": "Seus irmãos, segundo as suas casas paternas, foram: Micael, Mesulão, Seba, Jorai, Jacã, Zia e Héber, sete ao todo;"
-    },
-    "14": {
-      "título": "",
-      "texto": "estes foram os filhos de Abiail, filho de Huri, filho de Jaroa, filho de Gileade, filho de Micael, filho de Jesisai, filho de Jado, filho de Buz."
-    },
-    "15": {
-      "título": "",
-      "texto": "Aí, filho de Abdiel, filho de Guni, foi o chefe da sua família."
-    },
-    "16": {
-      "título": "",
-      "texto": "Habitaram em Gileade, em Basã e suas aldeias, bem como até os limites de todos os arredores de Sarom."
-    },
-    "17": {
-      "título": "",
-      "texto": "Todos estes foram inscritos na genealogia, nos dias de Jotão, rei de Judá, e nos dias de Jeroboão, rei de Israel."
-    },
-    "18": {
-      "título": "A história das tribos do Leste",
-      "texto": "Dos filhos de Rúben, dos gaditas e da meia tribo de Manassés, homens valentes, que traziam escudo e espada, entesavam o arco e eram treinados para a guerra, houve quarenta e quatro mil setecentos e sessenta, capazes de sair à batalha."
-    },
-    "19": {
-      "título": "",
-      "texto": "Fizeram guerra aos hagarenos, a Jetur, a Nafis e a Nodabe."
-    },
-    "20": {
-      "título": "",
-      "texto": "Foram ajudados contra eles, e os hagarenos e todos os que estavam com eles foram entregues nas suas mãos; porque, na batalha, clamaram a Deus, que lhes deu ouvidos, porque confiaram nele."
-    },
-    "21": {
-      "título": "",
-      "texto": "Levaram o gado dos hagarenos: cinquenta mil camelos, duzentas e cinquenta mil ovelhas, dois mil jumentos; e cem mil pessoas."
-    },
-    "22": {
-      "título": "",
-      "texto": "Porque muitos caíram feridos à espada, pois a batalha era de Deus. E eles habitaram no lugar deles até o exílio."
-    },
-    "23": {
-      "título": "",
-      "texto": "Os filhos da meia tribo de Manassés habitaram naquela terra de Basã até Baal-Hermom, e Senir, e o monte Hermom; e eram numerosos."
-    },
-    "24": {
-      "título": "",
-      "texto": "Estes foram chefes de suas famílias, a saber: Éfer, Isi, Eliel, Azriel, Jeremias, Hodavias e Jadiel, guerreiros valentes, homens famosos, chefes de suas famílias."
-    },
-    "25": {
-      "título": "",
-      "texto": "Porém foram infiéis ao Deus de seus pais e se prostituíram, seguindo os deuses dos povos da terra que Deus tinha destruído diante deles."
-    },
-    "26": {
-      "título": "",
-      "texto": "Por isso o Deus de Israel despertou o espírito de Pul, rei da Assíria, ou seja, o espírito de Tiglate-Pileser, rei da Assíria, que levou cativos os rubenitas, os gaditas e a meia tribo de Manassés, e os fez morar em Hala, Habor e Hara e nas proximidades do rio Gozã, onde permanecem até o dia de hoje."
+    "versiculos": {
+        "1": "Quanto aos filhos de Rúben, o primogênito de Israel… Pois Rúben era o primogênito, mas, por ter profanado o leito de seu pai, o seu direito de primogenitura foi dado aos filhos de José, filho de Israel, de modo que, na genealogia, Rúben não foi contado como primogênito.",
+        "2": "Judá, na verdade, foi poderoso entre seus irmãos, e dele veio o príncipe, mas o direito da primogenitura foi de José.",
+        "3": "Os filhos de Rúben, o primogênito de Israel, foram estes: Enoque, Palu, Hezrom e Carmi.",
+        "4": "O filho de Joel foi Semaías, de quem foi filho Gogue, de quem foi filho Simei,",
+        "5": "de quem foi filho Mica, de quem foi filho Reaías, de quem foi filho Baal,",
+        "6": "de quem foi filho Beera, o qual Tiglate-Pileser, rei da Assíria, levou cativo; ele foi chefe dos rubenitas.",
+        "7": "Quanto a seus irmãos, pelas suas famílias, quando foram inscritos nas genealogias segundo as suas descendências, tinham por chefes Jeiel, Zacarias,",
+        "8": "Bela, filho de Azaz, filho de Sema, filho de Joel, que habitaram em Aroer, até Nebo e Baal-Meom.",
+        "9": "Também habitaram do lado leste, até a entrada do deserto, o qual se estende até o rio Eufrates, porque o seu gado se tinha multiplicado na terra de Gileade.",
+        "10": "Nos dias de Saul, fizeram guerra aos hagarenos, que caíram pelo poder de sua mão, e habitaram nas tendas deles, em toda a terra fronteira de Gileade, do lado leste.",
+        "11": "Os filhos de Gade habitaram em frente deles, na terra de Basã, até Salca.",
+        "12": "Joel foi o cabeça, e Safã, o segundo; também Janai e Safate estavam em Basã.",
+        "13": "Seus irmãos, segundo as suas casas paternas, foram: Micael, Mesulão, Seba, Jorai, Jacã, Zia e Héber, sete ao todo;",
+        "14": "estes foram os filhos de Abiail, filho de Huri, filho de Jaroa, filho de Gileade, filho de Micael, filho de Jesisai, filho de Jado, filho de Buz.",
+        "15": "Aí, filho de Abdiel, filho de Guni, foi o chefe da sua família.",
+        "16": "Habitaram em Gileade, em Basã e suas aldeias, bem como até os limites de todos os arredores de Sarom.",
+        "17": "Todos estes foram inscritos na genealogia, nos dias de Jotão, rei de Judá, e nos dias de Jeroboão, rei de Israel.",
+        "18": "Dos filhos de Rúben, dos gaditas e da meia tribo de Manassés, homens valentes, que traziam escudo e espada, entesavam o arco e eram treinados para a guerra, houve quarenta e quatro mil setecentos e sessenta, capazes de sair à batalha.",
+        "19": "Fizeram guerra aos hagarenos, a Jetur, a Nafis e a Nodabe.",
+        "20": "Foram ajudados contra eles, e os hagarenos e todos os que estavam com eles foram entregues nas suas mãos; porque, na batalha, clamaram a Deus, que lhes deu ouvidos, porque confiaram nele.",
+        "21": "Levaram o gado dos hagarenos: cinquenta mil camelos, duzentas e cinquenta mil ovelhas, dois mil jumentos; e cem mil pessoas.",
+        "22": "Porque muitos caíram feridos à espada, pois a batalha era de Deus. E eles habitaram no lugar deles até o exílio.",
+        "23": "Os filhos da meia tribo de Manassés habitaram naquela terra de Basã até Baal-Hermom, e Senir, e o monte Hermom; e eram numerosos.",
+        "24": "Estes foram chefes de suas famílias, a saber: Éfer, Isi, Eliel, Azriel, Jeremias, Hodavias e Jadiel, guerreiros valentes, homens famosos, chefes de suas famílias.",
+        "25": "Porém foram infiéis ao Deus de seus pais e se prostituíram, seguindo os deuses dos povos da terra que Deus tinha destruído diante deles.",
+        "26": "Por isso o Deus de Israel despertou o espírito de Pul, rei da Assíria, ou seja, o espírito de Tiglate-Pileser, rei da Assíria, que levou cativos os rubenitas, os gaditas e a meia tribo de Manassés, e os fez morar em Hala, Habor e Hara e nas proximidades do rio Gozã, onde permanecem até o dia de hoje."
     }
-  }
 }

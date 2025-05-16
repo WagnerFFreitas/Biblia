@@ -1,114 +1,36 @@
 {
-  "livro": "Josué",
-  "capítulo": 9,
-  "versículos": {
-    "1": {
-      "título": "A aliança com os gibeonitas",
-      "texto": "Todos os reis que estavam do lado oeste do Jordão, nas montanhas e nas campinas, em toda a costa do mar Grande até o Líbano ficaram sabendo disso. Eram os reis dos heteus, dos amorreus, dos cananeus, dos ferezeus, dos heveus e dos jebuseus."
+    "livro": "Josué",
+    "capitulo": 9,
+    "titulos": {
+        "1": "A aliança com os gibeonitas"
     },
-    "2": {
-      "título": "",
-      "texto": "Então eles se ajuntaram de comum acordo, para guerrear contra Josué e contra Israel."
-    },
-    "3": {
-      "título": "",
-      "texto": "Mas os moradores de Gibeão, ouvindo o que Josué tinha feito com Jericó e com Ai,"
-    },
-    "4": {
-      "título": "",
-      "texto": "usaram de astúcia: foram e se fingiram de embaixadores, levando sacos velhos sobre os seus jumentos e odres de vinho, velhos, rasgados e cheios de remendos,"
-    },
-    "5": {
-      "título": "",
-      "texto": "calçando sandálias velhas e remendadas e vestindo roupas velhas. E todo o pão que traziam para comer era seco e bolorento."
-    },
-    "6": {
-      "título": "",
-      "texto": "Foram a Josué, no arraial, em Gilgal, e lhe disseram, a ele e aos homens de Israel:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Mas os homens de Israel responderam aos heveus:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Então disseram a Josué:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Eles responderam:"
-    },
-    "10": {
-      "título": "",
-      "texto": "e tudo o que fez com os dois reis dos amorreus que estavam do outro lado do Jordão, a saber, Seom, rei de Hesbom, e Ogue, rei de Basã, que estava em Astarote."
-    },
-    "11": {
-      "título": "",
-      "texto": "Por isso os nossos anciãos e todos os moradores da nossa terra nos disseram: “Levem com vocês alimentos para a viagem e vão ao encontro deles, dizendo: ‘Somos seus servos; façam uma aliança conosco.’"
-    },
-    "12": {
-      "título": "",
-      "texto": "Este nosso pão nós pegamos em nossas casas quando ainda estava quente, no dia em que saímos para vir falar com vocês, e agora aqui está ele, já seco e bolorento."
-    },
-    "13": {
-      "título": "",
-      "texto": "Estes odres eram novos quando os enchemos de vinho, mas agora já estão rasgados. E estas nossas roupas e estas nossas sandálias já envelheceram, por causa da longa viagem.”"
-    },
-    "14": {
-      "título": "",
-      "texto": "Então os israelitas aceitaram os alimentos deles e não pediram conselho ao Senhor ."
-    },
-    "15": {
-      "título": "",
-      "texto": "Josué concedeu-lhes paz e fez com eles a aliança de lhes poupar a vida; e os chefes da congregação confirmaram isso com juramento."
-    },
-    "16": {
-      "título": "",
-      "texto": "Ao fim de três dias, depois de terem feito a aliança com eles, souberam que eram seus vizinhos e que moravam perto deles."
-    },
-    "17": {
-      "título": "",
-      "texto": "Pois, partindo os filhos de Israel, chegaram às cidades deles ao terceiro dia. E as cidades deles eram Gibeão, Cefira, Beerote e Quiriate-Jearim."
-    },
-    "18": {
-      "título": "",
-      "texto": "Os filhos de Israel não os atacaram, porque os chefes da congregação lhes haviam jurado pelo Senhor , Deus de Israel. Por isso toda a congregação murmurou contra os chefes."
-    },
-    "19": {
-      "título": "",
-      "texto": "Então todos os chefes disseram a toda a congregação:"
-    },
-    "20": {
-      "título": "",
-      "texto": "Isto, porém, lhes faremos: vamos deixá-los viver, para que não venha grande ira sobre nós, por causa do juramento que lhes fizemos."
-    },
-    "21": {
-      "título": "",
-      "texto": "E os chefes acrescentaram:"
-    },
-    "22": {
-      "título": "",
-      "texto": "Josué chamou os gibeonitas e lhes disse:"
-    },
-    "23": {
-      "título": "",
-      "texto": "Agora vocês estão sob maldição e entre vocês nunca deixará de haver escravos, rachadores de lenha e tiradores de água para a casa do meu Deus."
-    },
-    "24": {
-      "título": "",
-      "texto": "Então eles responderam a Josué:"
-    },
-    "25": {
-      "título": "",
-      "texto": "Eis que estamos nas suas mãos; trate-nos segundo lhe parecer bom e reto."
-    },
-    "26": {
-      "título": "",
-      "texto": "Josué fez como tinha dito e livrou-os das mãos dos filhos de Israel; e não os mataram."
-    },
-    "27": {
-      "título": "",
-      "texto": "Naquele dia, Josué os fez rachadores de lenha e tiradores de água para a congregação e para o altar do Senhor , até o dia de hoje, no lugar que Deus escolhesse."
+    "versiculos": {
+        "1": "Todos os reis que estavam do lado oeste do Jordão, nas montanhas e nas campinas, em toda a costa do mar Grande até o Líbano ficaram sabendo disso. Eram os reis dos heteus, dos amorreus, dos cananeus, dos ferezeus, dos heveus e dos jebuseus.",
+        "2": "Então eles se ajuntaram de comum acordo, para guerrear contra Josué e contra Israel.",
+        "3": "Mas os moradores de Gibeão, ouvindo o que Josué tinha feito com Jericó e com Ai,",
+        "4": "usaram de astúcia: foram e se fingiram de embaixadores, levando sacos velhos sobre os seus jumentos e odres de vinho, velhos, rasgados e cheios de remendos,",
+        "5": "calçando sandálias velhas e remendadas e vestindo roupas velhas. E todo o pão que traziam para comer era seco e bolorento.",
+        "6": "Foram a Josué, no arraial, em Gilgal, e lhe disseram, a ele e aos homens de Israel:",
+        "7": "Mas os homens de Israel responderam aos heveus:",
+        "8": "Então disseram a Josué:",
+        "9": "Eles responderam:",
+        "10": "e tudo o que fez com os dois reis dos amorreus que estavam do outro lado do Jordão, a saber, Seom, rei de Hesbom, e Ogue, rei de Basã, que estava em Astarote.",
+        "11": "Por isso os nossos anciãos e todos os moradores da nossa terra nos disseram: “Levem com vocês alimentos para a viagem e vão ao encontro deles, dizendo: ‘Somos seus servos; façam uma aliança conosco.’",
+        "12": "Este nosso pão nós pegamos em nossas casas quando ainda estava quente, no dia em que saímos para vir falar com vocês, e agora aqui está ele, já seco e bolorento.",
+        "13": "Estes odres eram novos quando os enchemos de vinho, mas agora já estão rasgados. E estas nossas roupas e estas nossas sandálias já envelheceram, por causa da longa viagem.”",
+        "14": "Então os israelitas aceitaram os alimentos deles e não pediram conselho ao Senhor .",
+        "15": "Josué concedeu-lhes paz e fez com eles a aliança de lhes poupar a vida; e os chefes da congregação confirmaram isso com juramento.",
+        "16": "Ao fim de três dias, depois de terem feito a aliança com eles, souberam que eram seus vizinhos e que moravam perto deles.",
+        "17": "Pois, partindo os filhos de Israel, chegaram às cidades deles ao terceiro dia. E as cidades deles eram Gibeão, Cefira, Beerote e Quiriate-Jearim.",
+        "18": "Os filhos de Israel não os atacaram, porque os chefes da congregação lhes haviam jurado pelo Senhor , Deus de Israel. Por isso toda a congregação murmurou contra os chefes.",
+        "19": "Então todos os chefes disseram a toda a congregação:",
+        "20": "Isto, porém, lhes faremos: vamos deixá-los viver, para que não venha grande ira sobre nós, por causa do juramento que lhes fizemos.",
+        "21": "E os chefes acrescentaram:",
+        "22": "Josué chamou os gibeonitas e lhes disse:",
+        "23": "Agora vocês estão sob maldição e entre vocês nunca deixará de haver escravos, rachadores de lenha e tiradores de água para a casa do meu Deus.",
+        "24": "Então eles responderam a Josué:",
+        "25": "Eis que estamos nas suas mãos; trate-nos segundo lhe parecer bom e reto.",
+        "26": "Josué fez como tinha dito e livrou-os das mãos dos filhos de Israel; e não os mataram.",
+        "27": "Naquele dia, Josué os fez rachadores de lenha e tiradores de água para a congregação e para o altar do Senhor , até o dia de hoje, no lugar que Deus escolhesse."
     }
-  }
 }

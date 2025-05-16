@@ -1,138 +1,47 @@
 {
-  "livro": "2 Crônicas",
-  "capítulo": 34,
-  "versículos": {
-    "1": {
-      "título": "O reinado de Josias, de Judá",
-      "texto": "Josias tinha oito anos de idade quando começou a reinar e reinou trinta e um anos em Jerusalém."
+    "livro": "2 Crônicas",
+    "capitulo": 34,
+    "titulos": {
+        "1": "O reinado de Josias, de Judá",
+        "3": "A reforma religiosa feita por Josias",
+        "8": "O rei repara o templo",
+        "14": "Hilquias acha o Livro da Lei",
+        "19": "Josias manda consultar a profetisa Hulda",
+        "29": "Josias renova a aliança"
     },
-    "2": {
-      "título": "",
-      "texto": "Josias fez o que era reto aos olhos do Senhor , andou nos caminhos de Davi, seu pai, e não se desviou nem para a direita nem para a esquerda."
-    },
-    "3": {
-      "título": "A reforma religiosa feita por Josias",
-      "texto": "No oitavo ano de seu reinado, sendo ainda moço, Josias começou a buscar o Deus de Davi, seu pai. E, no décimo segundo ano, começou a purificar Judá e Jerusalém dos lugares altos, dos postes da deusa Aserá e das imagens de escultura e de fundição."
-    },
-    "4": {
-      "título": "",
-      "texto": "Na presença dele, derrubaram os altares dos baalins. Ele despedaçou os altares do incenso que estavam acima deles. Quebrou os postes da deusa Aserá e as imagens de escultura e de fundição, reduziu-os a pó e o espalhou sobre as sepulturas dos que tinham oferecido sacrifícios a esses ídolos."
-    },
-    "5": {
-      "título": "",
-      "texto": "Queimou os ossos dos sacerdotes pagãos sobre os altares deles e purificou Judá e Jerusalém."
-    },
-    "6": {
-      "título": "",
-      "texto": "Fez o mesmo nas cidades de Manassés, de Efraim e de Simeão, até Naftali, por todos os lados no meio das suas ruínas."
-    },
-    "7": {
-      "título": "",
-      "texto": "Depois de derrubar os altares, os postes da deusa Aserá e as imagens de escultura, até reduzi-los a pó, e depois de despedaçar todos os altares de incenso em toda a terra de Israel, Josias voltou para Jerusalém."
-    },
-    "8": {
-      "título": "O rei repara o templo",
-      "texto": "No décimo oitavo ano do seu reinado, havendo já purificado a terra e o templo, Josias ordenou que Safã, filho de Azalias, Maaseias, governador da cidade, e Joá, filho de Joacaz, cronista, reparassem a Casa do Senhor , seu Deus."
-    },
-    "9": {
-      "título": "",
-      "texto": "Foram até o sumo sacerdote Hilquias e entregaram o dinheiro que tinha sido trazido à Casa de Deus e que os levitas, guardas da porta, tinham ajuntado, dinheiro provindo das mãos de Manassés, de Efraim e de todo o resto de Israel, bem como de todo o Judá e Benjamim e dos moradores de Jerusalém."
-    },
-    "10": {
-      "título": "",
-      "texto": "Eles o entregaram aos que dirigiam a obra e tinham a seu encargo a Casa do Senhor , para que pagassem àqueles que faziam a obra, trabalhadores na Casa do Senhor , para repararem e restaurarem o templo."
-    },
-    "11": {
-      "título": "",
-      "texto": "Deram o dinheiro aos carpinteiros e aos construtores, para comprarem pedras lavradas e madeiras para as junções e para servirem de vigas para as casas que os reis de Judá deixaram cair em ruína."
-    },
-    "12": {
-      "título": "",
-      "texto": "Esses homens trabalharam fielmente na obra. Os superintendentes deles eram Jaate e Obadias, levitas, dos filhos de Merari, bem como Zacarias e Mesulão, dos filhos dos coatitas, para supervisionar a obra."
-    },
-    "13": {
-      "título": "",
-      "texto": "Todos os levitas peritos em instrumentos musicais eram superintendentes dos carregadores e dirigiam todos os que faziam a obra, em qualquer tipo de trabalho. Outros levitas eram escrivães, oficiais e porteiros."
-    },
-    "14": {
-      "título": "Hilquias acha o Livro da Lei",
-      "texto": "Enquanto se tirava o dinheiro que havia sido trazido à Casa do Senhor , Hilquias, o sacerdote, achou o Livro da Lei do Senhor , dada por meio de Moisés."
-    },
-    "15": {
-      "título": "",
-      "texto": "Então Hilquias disse ao escrivão Safã:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Hilquias entregou o livro a Safã. Então Safã levou o livro ao rei e lhe deu relatório, dizendo:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Contaram o dinheiro que estava na Casa do Senhor e o entregaram nas mãos dos que dirigem a obra e dos que a executam."
-    },
-    "18": {
-      "título": "",
-      "texto": "E o escrivão Safã acrescentou:"
-    },
-    "19": {
-      "título": "Josias manda consultar a profetisa Hulda",
-      "texto": "Quando o rei Josias ouviu as palavras da Lei, rasgou as suas roupas."
-    },
-    "20": {
-      "título": "",
-      "texto": "Então deu ordens a Hilquias, a Aicão, filho de Safã, a Abdom, filho de Mica, a Safã, o escrivão, e a Asaías, servo do rei, dizendo:"
-    },
-    "21": {
-      "título": "",
-      "texto": "— Vão consultar o Senhor por mim e pelos que restaram em Israel e Judá, a respeito das palavras deste livro que foi encontrado. Porque é grande o furor do Senhor , que se derramou sobre nós, porque os nossos pais não guardaram a palavra do Senhor , para fazerem segundo tudo o que está escrito neste livro."
-    },
-    "22": {
-      "título": "",
-      "texto": "Então Hilquias e os enviados pelo rei foram falar com a profetisa Hulda, esposa de Salum, encarregado das vestimentas da Casa do Senhor, filho de Tocate, filho de Harás. Hulda morava na parte nova da cidade, em Jerusalém. Eles lhe contaram o que havia acontecido,"
-    },
-    "23": {
-      "título": "",
-      "texto": "e ela lhes disse:"
-    },
-    "24": {
-      "título": "",
-      "texto": "‘Assim diz o Senhor : Eis que trarei desgraça sobre este lugar e sobre os seus moradores, a saber, todas as maldições escritas no livro que leram diante do rei de Judá."
-    },
-    "25": {
-      "título": "",
-      "texto": "Por terem me abandonado e queimado incenso a outros deuses, para me provocarem à ira com todas as obras das suas mãos, o meu furor se derramou sobre este lugar e não se apagará.’"
-    },
-    "26": {
-      "título": "",
-      "texto": "Mas ao rei de Judá, que os enviou para consultar o Senhor , digam o seguinte: ‘Assim diz o Senhor , o Deus de Israel, a respeito das palavras que você ouviu:"
-    },
-    "27": {
-      "título": "",
-      "texto": "Visto que o seu coração se enterneceu e você se humilhou diante de Deus, quando ouviu as ameaças que ele fez contra este lugar e contra os seus moradores, e se humilhou diante de mim, rasgou as suas roupas e chorou diante de mim, também eu ouvi a sua oração, diz o Senhor ."
-    },
-    "28": {
-      "título": "",
-      "texto": "Deixarei que você morra e seja sepultado em paz, e os seus olhos não verão todo o mal que trarei sobre este lugar e sobre os seus moradores.’”"
-    },
-    "29": {
-      "título": "Josias renova a aliança",
-      "texto": "Então o rei deu ordem, e todos os anciãos de Judá e de Jerusalém se ajuntaram."
-    },
-    "30": {
-      "título": "",
-      "texto": "O rei subiu à Casa do Senhor , e com ele foram todos os homens de Judá, os moradores de Jerusalém, os sacerdotes, os levitas e todo o povo, desde o maior até o menor. E o rei leu diante deles todas as palavras do Livro da Aliança que havia sido encontrado na Casa do Senhor ."
-    },
-    "31": {
-      "título": "",
-      "texto": "O rei se pôs em pé no seu lugar e fez aliança diante do Senhor , para o seguir, guardar os seus mandamentos, os seus testemunhos e os seus estatutos, de todo o seu coração e de toda a sua alma, cumprindo as palavras da aliança, que estavam escritas naquele livro."
-    },
-    "32": {
-      "título": "",
-      "texto": "Todos os que se encontravam em Jerusalém e em Benjamim concordaram com esta aliança; e os moradores de Jerusalém fizeram segundo a aliança de Deus, o Deus dos seus pais."
-    },
-    "33": {
-      "título": "",
-      "texto": "Josias tirou todas as abominações de todas as terras que eram dos filhos de Israel e obrigou todos os que estavam em Israel a servir o Senhor , seu Deus. Enquanto Josias viveu, não deixaram de seguir o Senhor , Deus de seus pais."
+    "versiculos": {
+        "1": "Josias tinha oito anos de idade quando começou a reinar e reinou trinta e um anos em Jerusalém.",
+        "2": "Josias fez o que era reto aos olhos do Senhor , andou nos caminhos de Davi, seu pai, e não se desviou nem para a direita nem para a esquerda.",
+        "3": "No oitavo ano de seu reinado, sendo ainda moço, Josias começou a buscar o Deus de Davi, seu pai. E, no décimo segundo ano, começou a purificar Judá e Jerusalém dos lugares altos, dos postes da deusa Aserá e das imagens de escultura e de fundição.",
+        "4": "Na presença dele, derrubaram os altares dos baalins. Ele despedaçou os altares do incenso que estavam acima deles. Quebrou os postes da deusa Aserá e as imagens de escultura e de fundição, reduziu-os a pó e o espalhou sobre as sepulturas dos que tinham oferecido sacrifícios a esses ídolos.",
+        "5": "Queimou os ossos dos sacerdotes pagãos sobre os altares deles e purificou Judá e Jerusalém.",
+        "6": "Fez o mesmo nas cidades de Manassés, de Efraim e de Simeão, até Naftali, por todos os lados no meio das suas ruínas.",
+        "7": "Depois de derrubar os altares, os postes da deusa Aserá e as imagens de escultura, até reduzi-los a pó, e depois de despedaçar todos os altares de incenso em toda a terra de Israel, Josias voltou para Jerusalém.",
+        "8": "No décimo oitavo ano do seu reinado, havendo já purificado a terra e o templo, Josias ordenou que Safã, filho de Azalias, Maaseias, governador da cidade, e Joá, filho de Joacaz, cronista, reparassem a Casa do Senhor , seu Deus.",
+        "9": "Foram até o sumo sacerdote Hilquias e entregaram o dinheiro que tinha sido trazido à Casa de Deus e que os levitas, guardas da porta, tinham ajuntado, dinheiro provindo das mãos de Manassés, de Efraim e de todo o resto de Israel, bem como de todo o Judá e Benjamim e dos moradores de Jerusalém.",
+        "10": "Eles o entregaram aos que dirigiam a obra e tinham a seu encargo a Casa do Senhor , para que pagassem àqueles que faziam a obra, trabalhadores na Casa do Senhor , para repararem e restaurarem o templo.",
+        "11": "Deram o dinheiro aos carpinteiros e aos construtores, para comprarem pedras lavradas e madeiras para as junções e para servirem de vigas para as casas que os reis de Judá deixaram cair em ruína.",
+        "12": "Esses homens trabalharam fielmente na obra. Os superintendentes deles eram Jaate e Obadias, levitas, dos filhos de Merari, bem como Zacarias e Mesulão, dos filhos dos coatitas, para supervisionar a obra.",
+        "13": "Todos os levitas peritos em instrumentos musicais eram superintendentes dos carregadores e dirigiam todos os que faziam a obra, em qualquer tipo de trabalho. Outros levitas eram escrivães, oficiais e porteiros.",
+        "14": "Enquanto se tirava o dinheiro que havia sido trazido à Casa do Senhor , Hilquias, o sacerdote, achou o Livro da Lei do Senhor , dada por meio de Moisés.",
+        "15": "Então Hilquias disse ao escrivão Safã:",
+        "16": "Hilquias entregou o livro a Safã. Então Safã levou o livro ao rei e lhe deu relatório, dizendo:",
+        "17": "Contaram o dinheiro que estava na Casa do Senhor e o entregaram nas mãos dos que dirigem a obra e dos que a executam.",
+        "18": "E o escrivão Safã acrescentou:",
+        "19": "Quando o rei Josias ouviu as palavras da Lei, rasgou as suas roupas.",
+        "20": "Então deu ordens a Hilquias, a Aicão, filho de Safã, a Abdom, filho de Mica, a Safã, o escrivão, e a Asaías, servo do rei, dizendo:",
+        "21": "— Vão consultar o Senhor por mim e pelos que restaram em Israel e Judá, a respeito das palavras deste livro que foi encontrado. Porque é grande o furor do Senhor , que se derramou sobre nós, porque os nossos pais não guardaram a palavra do Senhor , para fazerem segundo tudo o que está escrito neste livro.",
+        "22": "Então Hilquias e os enviados pelo rei foram falar com a profetisa Hulda, esposa de Salum, encarregado das vestimentas da Casa do Senhor, filho de Tocate, filho de Harás. Hulda morava na parte nova da cidade, em Jerusalém. Eles lhe contaram o que havia acontecido,",
+        "23": "e ela lhes disse:",
+        "24": "‘Assim diz o Senhor : Eis que trarei desgraça sobre este lugar e sobre os seus moradores, a saber, todas as maldições escritas no livro que leram diante do rei de Judá.",
+        "25": "Por terem me abandonado e queimado incenso a outros deuses, para me provocarem à ira com todas as obras das suas mãos, o meu furor se derramou sobre este lugar e não se apagará.’",
+        "26": "Mas ao rei de Judá, que os enviou para consultar o Senhor , digam o seguinte: ‘Assim diz o Senhor , o Deus de Israel, a respeito das palavras que você ouviu:",
+        "27": "Visto que o seu coração se enterneceu e você se humilhou diante de Deus, quando ouviu as ameaças que ele fez contra este lugar e contra os seus moradores, e se humilhou diante de mim, rasgou as suas roupas e chorou diante de mim, também eu ouvi a sua oração, diz o Senhor .",
+        "28": "Deixarei que você morra e seja sepultado em paz, e os seus olhos não verão todo o mal que trarei sobre este lugar e sobre os seus moradores.’”",
+        "29": "Então o rei deu ordem, e todos os anciãos de Judá e de Jerusalém se ajuntaram.",
+        "30": "O rei subiu à Casa do Senhor , e com ele foram todos os homens de Judá, os moradores de Jerusalém, os sacerdotes, os levitas e todo o povo, desde o maior até o menor. E o rei leu diante deles todas as palavras do Livro da Aliança que havia sido encontrado na Casa do Senhor .",
+        "31": "O rei se pôs em pé no seu lugar e fez aliança diante do Senhor , para o seguir, guardar os seus mandamentos, os seus testemunhos e os seus estatutos, de todo o seu coração e de toda a sua alma, cumprindo as palavras da aliança, que estavam escritas naquele livro.",
+        "32": "Todos os que se encontravam em Jerusalém e em Benjamim concordaram com esta aliança; e os moradores de Jerusalém fizeram segundo a aliança de Deus, o Deus dos seus pais.",
+        "33": "Josias tirou todas as abominações de todas as terras que eram dos filhos de Israel e obrigou todos os que estavam em Israel a servir o Senhor , seu Deus. Enquanto Josias viveu, não deixaram de seguir o Senhor , Deus de seus pais."
     }
-  }
 }

@@ -1,54 +1,19 @@
 {
-  "livro": "Eclesiastes",
-  "capítulo": 6,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Há um mal que vi debaixo do sol e que pesa sobre a humanidade:"
-    },
-    "2": {
-      "título": "",
-      "texto": "aquele a quem Deus conferiu riquezas, bens e honra, e nada lhe falta de tudo o que a sua alma deseja, mas Deus não lhe concede que desfrute disso; ficará para um estranho. Também isto é vaidade e grande mal."
-    },
-    "3": {
-      "título": "",
-      "texto": "Se alguém gerar cem filhos e viver muitos anos, até uma idade avançada, e se a sua alma não se fartar do bem, e além disso não tiver sepultura, digo que um aborto é mais feliz do que ele."
-    },
-    "4": {
-      "título": "",
-      "texto": "Pois o aborto vem ao mundo para nada e desaparece na calada da noite, e as trevas encobrem o seu nome."
-    },
-    "5": {
-      "título": "",
-      "texto": "Não viu o sol, nada conhece, porém tem mais descanso do que o outro,"
-    },
-    "6": {
-      "título": "",
-      "texto": "ainda que aquele vivesse duas vezes mil anos, mas não desfrutasse do bem. Por acaso, não vão todos para o mesmo lugar?"
-    },
-    "7": {
-      "título": "",
-      "texto": "Todo trabalho do ser humano é para a sua boca; contudo, o seu apetite nunca se satisfaz."
-    },
-    "8": {
-      "título": "",
-      "texto": "Pois que vantagem tem o sábio sobre o tolo? Ou o pobre que sabe como sobreviver?"
-    },
-    "9": {
-      "título": "",
-      "texto": "Melhor é o que os olhos veem do que aquilo que a alma deseja. Também isto é vaidade e correr atrás do vento."
-    },
-    "10": {
-      "título": "",
-      "texto": "Tudo o que agora existe já recebeu um nome há muito tempo. E sabe-se o que é o ser humano, e que não pode enfrentar quem é mais forte do que ele."
-    },
-    "11": {
-      "título": "",
-      "texto": "Quando aumentam as palavras, aumenta a vaidade. Qual o proveito que se tem disso?"
-    },
-    "12": {
-      "título": "",
-      "texto": "Pois quem sabe o que é bom para uma pessoa durante os poucos dias da sua vida de vaidade, os quais ela gasta como sombra? Quem poderá lhe dizer o que vai acontecer debaixo do sol depois que ela morrer?"
+    "livro": "Eclesiastes",
+    "capitulo": 6,
+    "titulos": {},
+    "versiculos": {
+        "1": "Há um mal que vi debaixo do sol e que pesa sobre a humanidade:",
+        "2": "aquele a quem Deus conferiu riquezas, bens e honra, e nada lhe falta de tudo o que a sua alma deseja, mas Deus não lhe concede que desfrute disso; ficará para um estranho. Também isto é vaidade e grande mal.",
+        "3": "Se alguém gerar cem filhos e viver muitos anos, até uma idade avançada, e se a sua alma não se fartar do bem, e além disso não tiver sepultura, digo que um aborto é mais feliz do que ele.",
+        "4": "Pois o aborto vem ao mundo para nada e desaparece na calada da noite, e as trevas encobrem o seu nome.",
+        "5": "Não viu o sol, nada conhece, porém tem mais descanso do que o outro,",
+        "6": "ainda que aquele vivesse duas vezes mil anos, mas não desfrutasse do bem. Por acaso, não vão todos para o mesmo lugar?",
+        "7": "Todo trabalho do ser humano é para a sua boca; contudo, o seu apetite nunca se satisfaz.",
+        "8": "Pois que vantagem tem o sábio sobre o tolo? Ou o pobre que sabe como sobreviver?",
+        "9": "Melhor é o que os olhos veem do que aquilo que a alma deseja. Também isto é vaidade e correr atrás do vento.",
+        "10": "Tudo o que agora existe já recebeu um nome há muito tempo. E sabe-se o que é o ser humano, e que não pode enfrentar quem é mais forte do que ele.",
+        "11": "Quando aumentam as palavras, aumenta a vaidade. Qual o proveito que se tem disso?",
+        "12": "Pois quem sabe o que é bom para uma pessoa durante os poucos dias da sua vida de vaidade, os quais ela gasta como sombra? Quem poderá lhe dizer o que vai acontecer debaixo do sol depois que ela morrer?"
     }
-  }
 }

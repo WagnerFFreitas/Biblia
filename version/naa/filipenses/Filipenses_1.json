@@ -1,126 +1,42 @@
 {
-  "livro": "Filipenses",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "Prefácio e saudação",
-      "texto": "Paulo e Timóteo, servos de Cristo Jesus, a todos os santos em Cristo Jesus, inclusive bispos e diáconos que vivem em Filipos."
+    "livro": "Filipenses",
+    "capitulo": 1,
+    "titulos": {
+        "1": "Prefácio e saudação",
+        "3": "Oração de Paulo pelos filipenses",
+        "12": "A situação do apóstolo e o progresso do evangelho",
+        "27": "A unidade cristã na luta pela fé do evangelho"
     },
-    "2": {
-      "título": "",
-      "texto": "Que a graça e a paz de Deus, nosso Pai, e do Senhor Jesus Cristo estejam com vocês."
-    },
-    "3": {
-      "título": "Oração de Paulo pelos filipenses",
-      "texto": "Dou graças ao meu Deus por tudo o que lembro de vocês,"
-    },
-    "4": {
-      "título": "",
-      "texto": "fazendo sempre, com alegria, súplicas por todos vocês, em todas as minhas orações."
-    },
-    "5": {
-      "título": "",
-      "texto": "Dou graças pela maneira como vocês têm participado na proclamação do evangelho, desde o primeiro dia até agora."
-    },
-    "6": {
-      "título": "",
-      "texto": "Estou certo de que aquele que começou boa obra em vocês há de completá-la até o Dia de Cristo Jesus."
-    },
-    "7": {
-      "título": "",
-      "texto": "Aliás, é justo que eu assim pense de todos vocês, porque os trago no coração, seja nas minhas algemas, seja na defesa e confirmação do evangelho, pois todos vocês são participantes da graça comigo."
-    },
-    "8": {
-      "título": "",
-      "texto": "Pois Deus é testemunha da saudade que tenho de todos vocês, no profundo afeto de Cristo Jesus."
-    },
-    "9": {
-      "título": "",
-      "texto": "E também faço esta oração: que o amor de vocês aumente mais e mais em conhecimento e toda a percepção,"
-    },
-    "10": {
-      "título": "",
-      "texto": "para que vocês aprovem as coisas excelentes e sejam sinceros e inculpáveis para o Dia de Cristo,"
-    },
-    "11": {
-      "título": "",
-      "texto": "cheios do fruto de justiça que vem por meio de Jesus Cristo, para glória e louvor de Deus."
-    },
-    "12": {
-      "título": "A situação do apóstolo e o progresso do evangelho",
-      "texto": "Quero ainda, irmãos, que saibam que as coisas que me aconteceram têm até contribuído para o progresso do evangelho,"
-    },
-    "13": {
-      "título": "",
-      "texto": "de maneira que toda a guarda pretoriana e todos os demais sabem que estou preso por causa de Cristo."
-    },
-    "14": {
-      "título": "",
-      "texto": "E os irmãos, em sua maioria, estimulados no Senhor por minhas algemas, ousam falar a palavra com mais coragem."
-    },
-    "15": {
-      "título": "",
-      "texto": "É verdade que alguns proclamam Cristo por inveja e rivalidade, mas outros o fazem de boa vontade."
-    },
-    "16": {
-      "título": "",
-      "texto": "Estes o fazem por amor, sabendo que estou incumbido da defesa do evangelho;"
-    },
-    "17": {
-      "título": "",
-      "texto": "aqueles, porém, pregam Cristo por interesse pessoal, não de forma sincera, pensando que assim podem aumentar meu sofrimento na prisão."
-    },
-    "18": {
-      "título": "",
-      "texto": "Mas que importa? Uma vez que, de uma forma ou de outra, Cristo está sendo pregado, seja com fingimento, seja com sinceridade, também com isto me alegro; sim, sempre me alegrarei."
-    },
-    "19": {
-      "título": "",
-      "texto": "Porque estou certo de que, pela súplica de vocês e com a ajuda do Espírito de Jesus Cristo, isso resultará em minha libertação."
-    },
-    "20": {
-      "título": "",
-      "texto": "Minha ardente expectativa e esperança é que em nada serei envergonhado, mas que, com toda a ousadia, como sempre, também agora, Cristo será engrandecido no meu corpo, quer pela vida, quer pela morte."
-    },
-    "21": {
-      "título": "",
-      "texto": "Porque para mim o viver é Cristo, e o morrer é lucro."
-    },
-    "22": {
-      "título": "",
-      "texto": "Entretanto, se eu continuar vivendo, poderei ainda fazer algum trabalho frutífero. Assim, não sei o que devo escolher."
-    },
-    "23": {
-      "título": "",
-      "texto": "Estou cercado pelos dois lados, tendo o desejo de partir e estar com Cristo, o que é incomparavelmente melhor."
-    },
-    "24": {
-      "título": "",
-      "texto": "Mas, por causa de vocês, é mais necessário que eu continue a viver."
-    },
-    "25": {
-      "título": "",
-      "texto": "E, convencido disto, estou certo de que ficarei e permanecerei com todos vocês, para que progridam e tenham alegria na fé."
-    },
-    "26": {
-      "título": "",
-      "texto": "Desse modo, vocês terão mais motivo para se gloriarem em Cristo Jesus por minha causa, pela minha presença, de novo, no meio de vocês."
-    },
-    "27": {
-      "título": "A unidade cristã na luta pela fé do evangelho",
-      "texto": "Acima de tudo, vivam de modo digno do evangelho de Cristo, para que, ou indo até aí para vê-los ou estando ausente, eu ouça a respeito de vocês que estão firmes em um só espírito, como uma só alma, lutando juntos pela fé do evangelho;"
-    },
-    "28": {
-      "título": "",
-      "texto": "e que em nada se sentem intimidados pelos adversários. Pois o que para eles é prova evidente de perdição para vocês é sinal de salvação, e isto da parte de Deus."
-    },
-    "29": {
-      "título": "",
-      "texto": "Porque vocês receberam a graça de sofrer por Cristo, e não somente de crer nele,"
-    },
-    "30": {
-      "título": "",
-      "texto": "pois vocês têm o mesmo combate que viram em mim e que agora estão ouvindo que continuo a ter."
+    "versiculos": {
+        "1": "Paulo e Timóteo, servos de Cristo Jesus, a todos os santos em Cristo Jesus, inclusive bispos e diáconos que vivem em Filipos.",
+        "2": "Que a graça e a paz de Deus, nosso Pai, e do Senhor Jesus Cristo estejam com vocês.",
+        "3": "Dou graças ao meu Deus por tudo o que lembro de vocês,",
+        "4": "fazendo sempre, com alegria, súplicas por todos vocês, em todas as minhas orações.",
+        "5": "Dou graças pela maneira como vocês têm participado na proclamação do evangelho, desde o primeiro dia até agora.",
+        "6": "Estou certo de que aquele que começou boa obra em vocês há de completá-la até o Dia de Cristo Jesus.",
+        "7": "Aliás, é justo que eu assim pense de todos vocês, porque os trago no coração, seja nas minhas algemas, seja na defesa e confirmação do evangelho, pois todos vocês são participantes da graça comigo.",
+        "8": "Pois Deus é testemunha da saudade que tenho de todos vocês, no profundo afeto de Cristo Jesus.",
+        "9": "E também faço esta oração: que o amor de vocês aumente mais e mais em conhecimento e toda a percepção,",
+        "10": "para que vocês aprovem as coisas excelentes e sejam sinceros e inculpáveis para o Dia de Cristo,",
+        "11": "cheios do fruto de justiça que vem por meio de Jesus Cristo, para glória e louvor de Deus.",
+        "12": "Quero ainda, irmãos, que saibam que as coisas que me aconteceram têm até contribuído para o progresso do evangelho,",
+        "13": "de maneira que toda a guarda pretoriana e todos os demais sabem que estou preso por causa de Cristo.",
+        "14": "E os irmãos, em sua maioria, estimulados no Senhor por minhas algemas, ousam falar a palavra com mais coragem.",
+        "15": "É verdade que alguns proclamam Cristo por inveja e rivalidade, mas outros o fazem de boa vontade.",
+        "16": "Estes o fazem por amor, sabendo que estou incumbido da defesa do evangelho;",
+        "17": "aqueles, porém, pregam Cristo por interesse pessoal, não de forma sincera, pensando que assim podem aumentar meu sofrimento na prisão.",
+        "18": "Mas que importa? Uma vez que, de uma forma ou de outra, Cristo está sendo pregado, seja com fingimento, seja com sinceridade, também com isto me alegro; sim, sempre me alegrarei.",
+        "19": "Porque estou certo de que, pela súplica de vocês e com a ajuda do Espírito de Jesus Cristo, isso resultará em minha libertação.",
+        "20": "Minha ardente expectativa e esperança é que em nada serei envergonhado, mas que, com toda a ousadia, como sempre, também agora, Cristo será engrandecido no meu corpo, quer pela vida, quer pela morte.",
+        "21": "Porque para mim o viver é Cristo, e o morrer é lucro.",
+        "22": "Entretanto, se eu continuar vivendo, poderei ainda fazer algum trabalho frutífero. Assim, não sei o que devo escolher.",
+        "23": "Estou cercado pelos dois lados, tendo o desejo de partir e estar com Cristo, o que é incomparavelmente melhor.",
+        "24": "Mas, por causa de vocês, é mais necessário que eu continue a viver.",
+        "25": "E, convencido disto, estou certo de que ficarei e permanecerei com todos vocês, para que progridam e tenham alegria na fé.",
+        "26": "Desse modo, vocês terão mais motivo para se gloriarem em Cristo Jesus por minha causa, pela minha presença, de novo, no meio de vocês.",
+        "27": "Acima de tudo, vivam de modo digno do evangelho de Cristo, para que, ou indo até aí para vê-los ou estando ausente, eu ouça a respeito de vocês que estão firmes em um só espírito, como uma só alma, lutando juntos pela fé do evangelho;",
+        "28": "e que em nada se sentem intimidados pelos adversários. Pois o que para eles é prova evidente de perdição para vocês é sinal de salvação, e isto da parte de Deus.",
+        "29": "Porque vocês receberam a graça de sofrer por Cristo, e não somente de crer nele,",
+        "30": "pois vocês têm o mesmo combate que viram em mim e que agora estão ouvindo que continuo a ter."
     }
-  }
 }

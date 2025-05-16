@@ -1,190 +1,57 @@
 {
-  "livro": "Jeremias",
-  "capítulo": 50,
-  "versículos": {
-    "1": {
-      "título": "Profecia a respeito da Babilônia",
-      "texto": "Palavra que o Senhor falou contra a Babilônia e contra a terra dos caldeus, por meio do profeta Jeremias."
+    "livro": "Jeremias",
+    "capitulo": 50,
+    "titulos": {
+        "1": "Profecia a respeito da Babilônia",
+        "17": "A volta de Israel",
+        "21": "A condenação da Babilônia"
     },
-    "2": {
-      "título": "",
-      "texto": "“Anunciem entre as nações,"
-    },
-    "3": {
-      "título": "",
-      "texto": "— Porque do Norte veio contra ela uma nação que tornará deserta a sua terra, e não haverá quem nela habite; tanto as pessoas como os animais fugiram e se foram."
-    },
-    "4": {
-      "título": "",
-      "texto": "Naqueles dias, naquele tempo, diz o Senhor , os filhos de Israel voltarão, eles e os filhos de Judá juntamente; andando e chorando, virão e buscarão o Senhor , seu Deus."
-    },
-    "5": {
-      "título": "",
-      "texto": "Perguntarão pelo caminho que leva a Sião, com o rosto voltado para lá, e dirão: “Venham, vamos nos unir ao Senhor em aliança eterna que jamais será esquecida.”"
-    },
-    "6": {
-      "título": "",
-      "texto": "O meu povo tem sido um rebanho de ovelhas perdidas. Os seus pastores as fizeram andar errantes e deixaram que elas se desviassem para os montes. Andaram de monte em monte e se esqueceram do seu aprisco."
-    },
-    "7": {
-      "título": "",
-      "texto": "Todos os que as acharam as devoraram. Os seus adversários diziam: “Não é culpa nossa!” Porque eles pecaram contra o Senhor , a morada da justiça, e contra a esperança de seus pais, o Senhor ."
-    },
-    "8": {
-      "título": "",
-      "texto": "— Fujam da Babilônia! Saiam da terra dos caldeus! Sejam como os bodes que vão adiante do rebanho!"
-    },
-    "9": {
-      "título": "",
-      "texto": "Porque eis que eu suscitarei e farei vir contra a Babilônia um conjunto de grandes nações da terra do Norte, e se porão em ordem de batalha contra ela; assim ela será tomada. As flechas deles serão como guerreiros bem treinados que nunca voltam de mãos vazias."
-    },
-    "10": {
-      "título": "",
-      "texto": "— A Caldeia servirá de presa; todos os que a saquearem se fartarão, diz o Senhor ."
-    },
-    "11": {
-      "título": "",
-      "texto": "“Ainda que se alegrem e exultem,"
-    },
-    "12": {
-      "título": "",
-      "texto": "a mãe de vocês ficará"
-    },
-    "13": {
-      "título": "",
-      "texto": "Por causa da indignação"
-    },
-    "14": {
-      "título": "",
-      "texto": "Ponham-se em ordem de batalha"
-    },
-    "15": {
-      "título": "",
-      "texto": "Gritem contra ela, rodeando-a!"
-    },
-    "16": {
-      "título": "",
-      "texto": "Eliminem da Babilônia"
-    },
-    "17": {
-      "título": "A volta de Israel",
-      "texto": "— Israel é cordeiro desgarrado, que os leões afugentaram. Primeiro, o rei da Assíria o devorou, e, por fim, Nabucodonosor lhe quebrou os ossos."
-    },
-    "18": {
-      "título": "",
-      "texto": "Portanto, assim diz o Senhor dos Exércitos, o Deus de Israel: Eis que castigarei o rei da Babilônia e a sua terra, como castiguei o rei da Assíria."
-    },
-    "19": {
-      "título": "",
-      "texto": "Farei Israel voltar para a sua morada, e pastará no Carmelo e em Basã; matará a sua fome na região montanhosa de Efraim e em Gileade."
-    },
-    "20": {
-      "título": "",
-      "texto": "Naqueles dias e naquele tempo, diz o Senhor , se sairá em busca da iniquidade de Israel, mas ela já não existirá; procurarão os pecados de Judá, mas eles não serão encontrados, porque perdoarei aqueles que eu deixar como remanescente."
-    },
-    "21": {
-      "título": "A condenação da Babilônia",
-      "texto": "“Ataque a terra de Merataim"
-    },
-    "22": {
-      "título": "",
-      "texto": "Há na terra estrondo de batalha"
-    },
-    "23": {
-      "título": "",
-      "texto": "Como está quebrado,"
-    },
-    "24": {
-      "título": "",
-      "texto": "Preparei uma armadilha,"
-    },
-    "25": {
-      "título": "",
-      "texto": "O Senhor abriu o seu arsenal"
-    },
-    "26": {
-      "título": "",
-      "texto": "Venham contra ela"
-    },
-    "27": {
-      "título": "",
-      "texto": "Matem à espada"
-    },
-    "28": {
-      "título": "",
-      "texto": "— Ouve-se a voz dos que fugiram e escaparam da terra da Babilônia, para anunciarem em Sião a vingança do Senhor , nosso Deus, a vingança pelo que fizeram contra o seu templo."
-    },
-    "29": {
-      "título": "",
-      "texto": "— Convoquem uma multidão de flecheiros para que ataquem a Babilônia. Acampem-se ao redor dela e não deixem ninguém escapar. Retribuam-lhe segundo a sua obra; façam com ela o que ela fez com os outros. Porque ela procedeu com arrogância contra o Senhor , contra o Santo de Israel."
-    },
-    "30": {
-      "título": "",
-      "texto": "Portanto, os seus jovens cairão nas suas praças, e todos os seus homens de guerra serão reduzidos a silêncio naquele dia, diz o Senhor ."
-    },
-    "31": {
-      "título": "",
-      "texto": "“Eis que eu sou contra você,"
-    },
-    "32": {
-      "título": "",
-      "texto": "Então o orgulhoso tropeçará"
-    },
-    "33": {
-      "título": "",
-      "texto": "— Assim diz o Senhor dos Exércitos: “Os filhos de Israel e os filhos de Judá sofrem opressão juntamente. Todos aqueles que os levaram cativos os retêm e não querem deixá-los ir embora."
-    },
-    "34": {
-      "título": "",
-      "texto": "Mas o Redentor deles é forte; Senhor dos Exércitos é o seu nome. Certamente defenderá a causa deles, para aquietar a terra e inquietar os moradores da Babilônia.”"
-    },
-    "35": {
-      "título": "",
-      "texto": "Diz o Senhor :"
-    },
-    "36": {
-      "título": "",
-      "texto": "A espada virá sobre os adivinhos,"
-    },
-    "37": {
-      "título": "",
-      "texto": "A espada virá"
-    },
-    "38": {
-      "título": "",
-      "texto": "A espada virá"
-    },
-    "39": {
-      "título": "",
-      "texto": "— Por isso, as feras do deserto com os chacais habitarão na Babilônia; também os avestruzes habitarão nela. Nunca mais será povoada, nem habitada de geração em geração."
-    },
-    "40": {
-      "título": "",
-      "texto": "Como quando Deus destruiu Sodoma e Gomorra e as suas cidades vizinhas, diz o Senhor , assim não habitará ninguém ali, nem morará nela homem algum."
-    },
-    "41": {
-      "título": "",
-      "texto": "“Eis que um povo vem do Norte;"
-    },
-    "42": {
-      "título": "",
-      "texto": "Armam-se de arco e de lança;"
-    },
-    "43": {
-      "título": "",
-      "texto": "O rei da Babilônia"
-    },
-    "44": {
-      "título": "",
-      "texto": "— Eis que, como o leão sobe da floresta do Jordão contra o rebanho em pasto verde, assim, num momento, farei com que ela fuja dali. E estabelecerei sobre ela a quem eu escolher. Pois quem é semelhante a mim? Quem me pedirá contas? E quem é o pastor que me poderá resistir?"
-    },
-    "45": {
-      "título": "",
-      "texto": "Portanto, ouçam a decisão que o Senhor tomou contra a Babilônia, e os planos que ele fez contra a terra dos caldeus. Certamente até os menores do rebanho serão arrastados. Certamente as suas moradas serão destruídas por causa deles."
-    },
-    "46": {
-      "título": "",
-      "texto": "A terra tremerá com o estrondo da tomada da Babilônia; e o seu grito será ouvido entre as nações."
+    "versiculos": {
+        "1": "Palavra que o Senhor falou contra a Babilônia e contra a terra dos caldeus, por meio do profeta Jeremias.",
+        "2": "“Anunciem entre as nações,",
+        "3": "— Porque do Norte veio contra ela uma nação que tornará deserta a sua terra, e não haverá quem nela habite; tanto as pessoas como os animais fugiram e se foram.",
+        "4": "Naqueles dias, naquele tempo, diz o Senhor , os filhos de Israel voltarão, eles e os filhos de Judá juntamente; andando e chorando, virão e buscarão o Senhor , seu Deus.",
+        "5": "Perguntarão pelo caminho que leva a Sião, com o rosto voltado para lá, e dirão: “Venham, vamos nos unir ao Senhor em aliança eterna que jamais será esquecida.”",
+        "6": "O meu povo tem sido um rebanho de ovelhas perdidas. Os seus pastores as fizeram andar errantes e deixaram que elas se desviassem para os montes. Andaram de monte em monte e se esqueceram do seu aprisco.",
+        "7": "Todos os que as acharam as devoraram. Os seus adversários diziam: “Não é culpa nossa!” Porque eles pecaram contra o Senhor , a morada da justiça, e contra a esperança de seus pais, o Senhor .",
+        "8": "— Fujam da Babilônia! Saiam da terra dos caldeus! Sejam como os bodes que vão adiante do rebanho!",
+        "9": "Porque eis que eu suscitarei e farei vir contra a Babilônia um conjunto de grandes nações da terra do Norte, e se porão em ordem de batalha contra ela; assim ela será tomada. As flechas deles serão como guerreiros bem treinados que nunca voltam de mãos vazias.",
+        "10": "— A Caldeia servirá de presa; todos os que a saquearem se fartarão, diz o Senhor .",
+        "11": "“Ainda que se alegrem e exultem,",
+        "12": "a mãe de vocês ficará",
+        "13": "Por causa da indignação",
+        "14": "Ponham-se em ordem de batalha",
+        "15": "Gritem contra ela, rodeando-a!",
+        "16": "Eliminem da Babilônia",
+        "17": "— Israel é cordeiro desgarrado, que os leões afugentaram. Primeiro, o rei da Assíria o devorou, e, por fim, Nabucodonosor lhe quebrou os ossos.",
+        "18": "Portanto, assim diz o Senhor dos Exércitos, o Deus de Israel: Eis que castigarei o rei da Babilônia e a sua terra, como castiguei o rei da Assíria.",
+        "19": "Farei Israel voltar para a sua morada, e pastará no Carmelo e em Basã; matará a sua fome na região montanhosa de Efraim e em Gileade.",
+        "20": "Naqueles dias e naquele tempo, diz o Senhor , se sairá em busca da iniquidade de Israel, mas ela já não existirá; procurarão os pecados de Judá, mas eles não serão encontrados, porque perdoarei aqueles que eu deixar como remanescente.",
+        "21": "“Ataque a terra de Merataim",
+        "22": "Há na terra estrondo de batalha",
+        "23": "Como está quebrado,",
+        "24": "Preparei uma armadilha,",
+        "25": "O Senhor abriu o seu arsenal",
+        "26": "Venham contra ela",
+        "27": "Matem à espada",
+        "28": "— Ouve-se a voz dos que fugiram e escaparam da terra da Babilônia, para anunciarem em Sião a vingança do Senhor , nosso Deus, a vingança pelo que fizeram contra o seu templo.",
+        "29": "— Convoquem uma multidão de flecheiros para que ataquem a Babilônia. Acampem-se ao redor dela e não deixem ninguém escapar. Retribuam-lhe segundo a sua obra; façam com ela o que ela fez com os outros. Porque ela procedeu com arrogância contra o Senhor , contra o Santo de Israel.",
+        "30": "Portanto, os seus jovens cairão nas suas praças, e todos os seus homens de guerra serão reduzidos a silêncio naquele dia, diz o Senhor .",
+        "31": "“Eis que eu sou contra você,",
+        "32": "Então o orgulhoso tropeçará",
+        "33": "— Assim diz o Senhor dos Exércitos: “Os filhos de Israel e os filhos de Judá sofrem opressão juntamente. Todos aqueles que os levaram cativos os retêm e não querem deixá-los ir embora.",
+        "34": "Mas o Redentor deles é forte; Senhor dos Exércitos é o seu nome. Certamente defenderá a causa deles, para aquietar a terra e inquietar os moradores da Babilônia.”",
+        "35": "Diz o Senhor :",
+        "36": "A espada virá sobre os adivinhos,",
+        "37": "A espada virá",
+        "38": "A espada virá",
+        "39": "— Por isso, as feras do deserto com os chacais habitarão na Babilônia; também os avestruzes habitarão nela. Nunca mais será povoada, nem habitada de geração em geração.",
+        "40": "Como quando Deus destruiu Sodoma e Gomorra e as suas cidades vizinhas, diz o Senhor , assim não habitará ninguém ali, nem morará nela homem algum.",
+        "41": "“Eis que um povo vem do Norte;",
+        "42": "Armam-se de arco e de lança;",
+        "43": "O rei da Babilônia",
+        "44": "— Eis que, como o leão sobe da floresta do Jordão contra o rebanho em pasto verde, assim, num momento, farei com que ela fuja dali. E estabelecerei sobre ela a quem eu escolher. Pois quem é semelhante a mim? Quem me pedirá contas? E quem é o pastor que me poderá resistir?",
+        "45": "Portanto, ouçam a decisão que o Senhor tomou contra a Babilônia, e os planos que ele fez contra a terra dos caldeus. Certamente até os menores do rebanho serão arrastados. Certamente as suas moradas serão destruídas por causa deles.",
+        "46": "A terra tremerá com o estrondo da tomada da Babilônia; e o seu grito será ouvido entre as nações."
     }
-  }
 }

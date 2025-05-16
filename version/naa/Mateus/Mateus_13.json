@@ -1,238 +1,79 @@
 {
-  "livro": "Mateus",
-  "capítulo": 13,
-  "versículos": {
-    "1": {
-      "título": "A parábola do semeador",
-      "texto": "Naquele mesmo dia, Jesus saiu de casa e se assentou à beira-mar."
+    "livro": "Mateus",
+    "capitulo": 13,
+    "titulos": {
+        "1": "A parábola do semeador",
+        "10": "Por que Jesus usava parábolas",
+        "18": "A explicação da parábola",
+        "24": "A parábola do joio",
+        "31": "A parábola do grão de mostarda",
+        "33": "A parábola do fermento",
+        "34": "O uso das parábolas",
+        "36": "A explicação da parábola do joio",
+        "44": "A parábola do tesouro escondido",
+        "45": "A parábola da pérola",
+        "47": "A parábola da rede",
+        "51": "Coisas novas e velhas",
+        "53": "Jesus é rejeitado em Nazaré"
     },
-    "2": {
-      "título": "",
-      "texto": "E grandes multidões se reuniram em volta dele, de modo que entrou num barco e se assentou. E toda a multidão estava em pé na praia."
-    },
-    "3": {
-      "título": "",
-      "texto": "E de muitas coisas lhes falou por parábolas, dizendo:"
-    },
-    "4": {
-      "título": "",
-      "texto": "E, ao semear, uma parte caiu à beira do caminho, e, vindo as aves, a comeram."
-    },
-    "5": {
-      "título": "",
-      "texto": "Outra parte caiu em solo rochoso, onde a terra era pouca, e logo nasceu, visto não ser profunda a terra."
-    },
-    "6": {
-      "título": "",
-      "texto": "Saindo, porém, o sol, a queimou; e, porque não tinha raiz, secou-se."
-    },
-    "7": {
-      "título": "",
-      "texto": "Outra parte caiu entre os espinhos; e os espinhos cresceram e a sufocaram."
-    },
-    "8": {
-      "título": "",
-      "texto": "Outra, enfim, caiu em boa terra e deu fruto: a cem, a sessenta e a trinta por um."
-    },
-    "9": {
-      "título": "",
-      "texto": "Quem tem ouvidos para ouvir, ouça."
-    },
-    "10": {
-      "título": "Por que Jesus usava parábolas",
-      "texto": "Então os discípulos se aproximaram de Jesus e lhe perguntaram:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Ao que Jesus respondeu:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Pois ao que tem, mais será dado, e terá em abundância; mas, ao que não tem, até o que tem lhe será tirado."
-    },
-    "13": {
-      "título": "",
-      "texto": "Por isso, falo com eles por meio de parábolas: porque, vendo, não veem; e, ouvindo, não ouvem, nem entendem."
-    },
-    "14": {
-      "título": "",
-      "texto": "Assim, neles se cumpre a profecia de Isaías:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Porque o coração deste povo"
-    },
-    "16": {
-      "título": "",
-      "texto": "— Bem-aventurados, porém, são os olhos de vocês, porque veem; e bem-aventurados são os ouvidos de vocês, porque ouvem."
-    },
-    "17": {
-      "título": "",
-      "texto": "Pois em verdade lhes digo que muitos profetas e justos desejaram ver o que vocês estão vendo, mas não viram; e quiseram ouvir o que vocês estão ouvindo, mas não ouviram."
-    },
-    "18": {
-      "título": "A explicação da parábola",
-      "texto": "— Ouçam, portanto, o que significa a parábola do semeador."
-    },
-    "19": {
-      "título": "",
-      "texto": "A todos os que ouvem a palavra do Reino e não a compreendem, vem o Maligno e arrebata o que lhes foi semeado no coração. Este é o que foi semeado à beira do caminho."
-    },
-    "20": {
-      "título": "",
-      "texto": "O que foi semeado em solo rochoso, esse é o que ouve a palavra e logo a recebe com alegria."
-    },
-    "21": {
-      "título": "",
-      "texto": "Mas ele não tem raiz em si mesmo, sendo de pouca duração. Quando chega a angústia ou a perseguição por causa da palavra, logo se escandaliza."
-    },
-    "22": {
-      "título": "",
-      "texto": "O que foi semeado entre os espinhos é o que ouve a palavra, porém as preocupações deste mundo e a fascinação das riquezas sufocam a palavra, e ela fica infrutífera."
-    },
-    "23": {
-      "título": "",
-      "texto": "Mas o que foi semeado em boa terra é o que ouve a palavra e a compreende; este frutifica e produz a cem, a sessenta e a trinta por um."
-    },
-    "24": {
-      "título": "A parábola do joio",
-      "texto": "Jesus lhes propôs outra parábola, dizendo:"
-    },
-    "25": {
-      "título": "",
-      "texto": "Mas, enquanto todos estavam dormindo, veio o inimigo dele, semeou o joio no meio do trigo e foi embora."
-    },
-    "26": {
-      "título": "",
-      "texto": "E, quando as plantas cresceram e produziram fruto, apareceu também o joio."
-    },
-    "27": {
-      "título": "",
-      "texto": "Então os servos do dono da casa chegaram e disseram: “Patrão, o senhor não semeou boa semente no seu campo? De onde, então, vem o joio?”"
-    },
-    "28": {
-      "título": "",
-      "texto": "Ele, porém, lhes respondeu: “Um inimigo fez isso.” Mas os servos lhe perguntaram: “O senhor quer que a gente vá e arranque o joio?”"
-    },
-    "29": {
-      "título": "",
-      "texto": "O dono da casa respondeu: “Não! Porque, ao separar o joio, vocês poderão arrancar também com ele o trigo."
-    },
-    "30": {
-      "título": "",
-      "texto": "Deixem que cresçam juntos até a colheita. E, no tempo da colheita, direi aos ceifeiros: ‘Ajuntem primeiro o joio e amarrem-no em feixes para ser queimado; mas recolham o trigo no meu celeiro.’”"
-    },
-    "31": {
-      "título": "A parábola do grão de mostarda",
-      "texto": "Jesus lhes propôs outra parábola, dizendo:"
-    },
-    "32": {
-      "título": "",
-      "texto": "Esse grão é, na verdade, a menor de todas as sementes, mas, quando cresce, é maior do que as hortaliças, e chega a ser uma árvore, de modo que as aves do céu vêm se aninhar nos seus ramos."
-    },
-    "33": {
-      "título": "A parábola do fermento",
-      "texto": "Jesus lhes contou ainda outra parábola:"
-    },
-    "34": {
-      "título": "O uso das parábolas",
-      "texto": "Jesus disse todas estas coisas às multidões por parábolas e sem parábolas nada lhes dizia."
-    },
-    "35": {
-      "título": "",
-      "texto": "Isso aconteceu para se cumprir o que foi dito por meio do profeta:"
-    },
-    "36": {
-      "título": "A explicação da parábola do joio",
-      "texto": "Então, despedindo as multidões, Jesus foi para casa. E, aproximando-se dele os seus discípulos, disseram:"
-    },
-    "37": {
-      "título": "",
-      "texto": "E Jesus respondeu:"
-    },
-    "38": {
-      "título": "",
-      "texto": "O campo é o mundo. A boa semente são os filhos do Reino; o joio são os filhos do Maligno."
-    },
-    "39": {
-      "título": "",
-      "texto": "O inimigo que o semeou é o diabo. A colheita é o fim dos tempos, e os ceifeiros são os anjos."
-    },
-    "40": {
-      "título": "",
-      "texto": "Pois, assim como o joio é colhido e jogado no fogo, assim será no fim dos tempos."
-    },
-    "41": {
-      "título": "",
-      "texto": "O Filho do Homem mandará os seus anjos, que ajuntarão do seu Reino todos os que servem de pedra de tropeço e os que praticam o mal"
-    },
-    "42": {
-      "título": "",
-      "texto": "e os lançarão na fornalha acesa; ali haverá choro e ranger de dentes."
-    },
-    "43": {
-      "título": "",
-      "texto": "Então os justos resplandecerão como o sol, no Reino de seu Pai. Quem tem ouvidos para ouvir, ouça."
-    },
-    "44": {
-      "título": "A parábola do tesouro escondido",
-      "texto": "— O Reino dos Céus é semelhante a um tesouro escondido no campo, que um homem achou e escondeu. Então, transbordante de alegria, vai, vende tudo o que tem e compra aquele campo."
-    },
-    "45": {
-      "título": "A parábola da pérola",
-      "texto": "— O Reino dos Céus é também semelhante a um homem que negocia e procura boas pérolas."
-    },
-    "46": {
-      "título": "",
-      "texto": "Quando encontrou uma pérola de grande valor, ele foi, vendeu tudo o que tinha e comprou a pérola."
-    },
-    "47": {
-      "título": "A parábola da rede",
-      "texto": "— O Reino dos Céus é ainda semelhante a uma rede que foi lançada ao mar e apanhou peixes de toda espécie."
-    },
-    "48": {
-      "título": "",
-      "texto": "E, quando já estava cheia, os pescadores a arrastaram para a praia e, assentados, escolheram os bons para os cestos e jogaram fora os ruins."
-    },
-    "49": {
-      "título": "",
-      "texto": "Assim será no fim dos tempos: os anjos sairão, separarão os maus dentre os justos"
-    },
-    "50": {
-      "título": "",
-      "texto": "e os lançarão na fornalha acesa; ali haverá choro e ranger de dentes."
-    },
-    "51": {
-      "título": "Coisas novas e velhas",
-      "texto": "Então Jesus perguntou:"
-    },
-    "52": {
-      "título": "",
-      "texto": "Então Jesus lhes disse:"
-    },
-    "53": {
-      "título": "Jesus é rejeitado em Nazaré",
-      "texto": "Quando Jesus acabou de contar essas parábolas, retirou-se dali."
-    },
-    "54": {
-      "título": "",
-      "texto": "E, chegando à sua terra, ensinava-os na sinagoga, de modo que se maravilhavam e diziam:"
-    },
-    "55": {
-      "título": "",
-      "texto": "Não é este o filho do carpinteiro? A sua mãe não se chama Maria, e seus irmãos não são Tiago, José, Simão e Judas?"
-    },
-    "56": {
-      "título": "",
-      "texto": "Todas as suas irmãs não vivem entre nós? Então, de onde lhe vem tudo isto?"
-    },
-    "57": {
-      "título": "",
-      "texto": "E escandalizavam-se por causa dele. Jesus, porém, lhes disse:"
-    },
-    "58": {
-      "título": "",
-      "texto": "E não fez ali muitos milagres, por causa da incredulidade deles."
+    "versiculos": {
+        "1": "Naquele mesmo dia, Jesus saiu de casa e se assentou à beira-mar.",
+        "2": "E grandes multidões se reuniram em volta dele, de modo que entrou num barco e se assentou. E toda a multidão estava em pé na praia.",
+        "3": "E de muitas coisas lhes falou por parábolas, dizendo:",
+        "4": "E, ao semear, uma parte caiu à beira do caminho, e, vindo as aves, a comeram.",
+        "5": "Outra parte caiu em solo rochoso, onde a terra era pouca, e logo nasceu, visto não ser profunda a terra.",
+        "6": "Saindo, porém, o sol, a queimou; e, porque não tinha raiz, secou-se.",
+        "7": "Outra parte caiu entre os espinhos; e os espinhos cresceram e a sufocaram.",
+        "8": "Outra, enfim, caiu em boa terra e deu fruto: a cem, a sessenta e a trinta por um.",
+        "9": "Quem tem ouvidos para ouvir, ouça.",
+        "10": "Então os discípulos se aproximaram de Jesus e lhe perguntaram:",
+        "11": "Ao que Jesus respondeu:",
+        "12": "Pois ao que tem, mais será dado, e terá em abundância; mas, ao que não tem, até o que tem lhe será tirado.",
+        "13": "Por isso, falo com eles por meio de parábolas: porque, vendo, não veem; e, ouvindo, não ouvem, nem entendem.",
+        "14": "Assim, neles se cumpre a profecia de Isaías:",
+        "15": "Porque o coração deste povo",
+        "16": "— Bem-aventurados, porém, são os olhos de vocês, porque veem; e bem-aventurados são os ouvidos de vocês, porque ouvem.",
+        "17": "Pois em verdade lhes digo que muitos profetas e justos desejaram ver o que vocês estão vendo, mas não viram; e quiseram ouvir o que vocês estão ouvindo, mas não ouviram.",
+        "18": "— Ouçam, portanto, o que significa a parábola do semeador.",
+        "19": "A todos os que ouvem a palavra do Reino e não a compreendem, vem o Maligno e arrebata o que lhes foi semeado no coração. Este é o que foi semeado à beira do caminho.",
+        "20": "O que foi semeado em solo rochoso, esse é o que ouve a palavra e logo a recebe com alegria.",
+        "21": "Mas ele não tem raiz em si mesmo, sendo de pouca duração. Quando chega a angústia ou a perseguição por causa da palavra, logo se escandaliza.",
+        "22": "O que foi semeado entre os espinhos é o que ouve a palavra, porém as preocupações deste mundo e a fascinação das riquezas sufocam a palavra, e ela fica infrutífera.",
+        "23": "Mas o que foi semeado em boa terra é o que ouve a palavra e a compreende; este frutifica e produz a cem, a sessenta e a trinta por um.",
+        "24": "Jesus lhes propôs outra parábola, dizendo:",
+        "25": "Mas, enquanto todos estavam dormindo, veio o inimigo dele, semeou o joio no meio do trigo e foi embora.",
+        "26": "E, quando as plantas cresceram e produziram fruto, apareceu também o joio.",
+        "27": "Então os servos do dono da casa chegaram e disseram: “Patrão, o senhor não semeou boa semente no seu campo? De onde, então, vem o joio?”",
+        "28": "Ele, porém, lhes respondeu: “Um inimigo fez isso.” Mas os servos lhe perguntaram: “O senhor quer que a gente vá e arranque o joio?”",
+        "29": "O dono da casa respondeu: “Não! Porque, ao separar o joio, vocês poderão arrancar também com ele o trigo.",
+        "30": "Deixem que cresçam juntos até a colheita. E, no tempo da colheita, direi aos ceifeiros: ‘Ajuntem primeiro o joio e amarrem-no em feixes para ser queimado; mas recolham o trigo no meu celeiro.’”",
+        "31": "Jesus lhes propôs outra parábola, dizendo:",
+        "32": "Esse grão é, na verdade, a menor de todas as sementes, mas, quando cresce, é maior do que as hortaliças, e chega a ser uma árvore, de modo que as aves do céu vêm se aninhar nos seus ramos.",
+        "33": "Jesus lhes contou ainda outra parábola:",
+        "34": "Jesus disse todas estas coisas às multidões por parábolas e sem parábolas nada lhes dizia.",
+        "35": "Isso aconteceu para se cumprir o que foi dito por meio do profeta:",
+        "36": "Então, despedindo as multidões, Jesus foi para casa. E, aproximando-se dele os seus discípulos, disseram:",
+        "37": "E Jesus respondeu:",
+        "38": "O campo é o mundo. A boa semente são os filhos do Reino; o joio são os filhos do Maligno.",
+        "39": "O inimigo que o semeou é o diabo. A colheita é o fim dos tempos, e os ceifeiros são os anjos.",
+        "40": "Pois, assim como o joio é colhido e jogado no fogo, assim será no fim dos tempos.",
+        "41": "O Filho do Homem mandará os seus anjos, que ajuntarão do seu Reino todos os que servem de pedra de tropeço e os que praticam o mal",
+        "42": "e os lançarão na fornalha acesa; ali haverá choro e ranger de dentes.",
+        "43": "Então os justos resplandecerão como o sol, no Reino de seu Pai. Quem tem ouvidos para ouvir, ouça.",
+        "44": "— O Reino dos Céus é semelhante a um tesouro escondido no campo, que um homem achou e escondeu. Então, transbordante de alegria, vai, vende tudo o que tem e compra aquele campo.",
+        "45": "— O Reino dos Céus é também semelhante a um homem que negocia e procura boas pérolas.",
+        "46": "Quando encontrou uma pérola de grande valor, ele foi, vendeu tudo o que tinha e comprou a pérola.",
+        "47": "— O Reino dos Céus é ainda semelhante a uma rede que foi lançada ao mar e apanhou peixes de toda espécie.",
+        "48": "E, quando já estava cheia, os pescadores a arrastaram para a praia e, assentados, escolheram os bons para os cestos e jogaram fora os ruins.",
+        "49": "Assim será no fim dos tempos: os anjos sairão, separarão os maus dentre os justos",
+        "50": "e os lançarão na fornalha acesa; ali haverá choro e ranger de dentes.",
+        "51": "Então Jesus perguntou:",
+        "52": "Então Jesus lhes disse:",
+        "53": "Quando Jesus acabou de contar essas parábolas, retirou-se dali.",
+        "54": "E, chegando à sua terra, ensinava-os na sinagoga, de modo que se maravilhavam e diziam:",
+        "55": "Não é este o filho do carpinteiro? A sua mãe não se chama Maria, e seus irmãos não são Tiago, José, Simão e Judas?",
+        "56": "Todas as suas irmãs não vivem entre nós? Então, de onde lhe vem tudo isto?",
+        "57": "E escandalizavam-se por causa dele. Jesus, porém, lhes disse:",
+        "58": "E não fez ali muitos milagres, por causa da incredulidade deles."
     }
-  }
 }

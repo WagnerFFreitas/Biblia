@@ -1,70 +1,26 @@
 {
-  "livro": "Hebreus",
-  "capítulo": 4,
-  "versículos": {
-    "1": {
-      "título": "A entrada no descanso de Deus pela fé",
-      "texto": "Portanto, visto que nos foi deixada a promessa de entrar no descanso de Deus, tenhamos cuidado para não parecer que algum de vocês deixou de alcançá-la."
+    "livro": "Hebreus",
+    "capitulo": 4,
+    "titulos": {
+        "1": "A entrada no descanso de Deus pela fé",
+        "14": "Jesus, o sumo sacerdote eterno"
     },
-    "2": {
-      "título": "",
-      "texto": "Porque também a nós foram anunciadas as boas-novas, exatamente como aconteceu com eles. Mas a palavra que eles ouviram não lhes trouxe proveito, porque não foram unidos por meio da fé com aqueles que a ouviram."
-    },
-    "3": {
-      "título": "",
-      "texto": "Nós, porém, que cremos, entramos no descanso, conforme Deus disse:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Porque, em certo lugar, assim disse a respeito do sétimo dia: “No sétimo dia, Deus descansou de todas as obras que tinha feito.”"
-    },
-    "5": {
-      "título": "",
-      "texto": "E, novamente, no mesmo lugar: “Não entrarão no meu descanso.”"
-    },
-    "6": {
-      "título": "",
-      "texto": "Visto, portanto, que resta entrarem alguns naquele descanso e que, por causa da desobediência, não entraram aqueles aos quais anteriormente foram anunciadas as boas-novas,"
-    },
-    "7": {
-      "título": "",
-      "texto": "de novo, determina certo dia, “hoje”, falando por Davi, muito tempo depois, segundo antes tinha sido declarado:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Ora, se Josué lhes tivesse dado descanso, não falaria, posteriormente, a respeito de outro dia."
-    },
-    "9": {
-      "título": "",
-      "texto": "Portanto, resta um repouso sabático para o povo de Deus."
-    },
-    "10": {
-      "título": "",
-      "texto": "Porque aquele que entrou no descanso de Deus, também ele mesmo descansou de suas obras, como Deus descansou das suas."
-    },
-    "11": {
-      "título": "",
-      "texto": "Portanto, esforcemo-nos por entrar naquele descanso, a fim de que ninguém caia, segundo aquele exemplo de desobediência."
-    },
-    "12": {
-      "título": "",
-      "texto": "Porque a palavra de Deus é viva e eficaz, e mais cortante do que qualquer espada de dois gumes, e penetra até o ponto de dividir alma e espírito, juntas e medulas, e é apta para julgar os pensamentos e propósitos do coração."
-    },
-    "13": {
-      "título": "",
-      "texto": "E não há criatura que não seja manifesta na sua presença; pelo contrário, todas as coisas estão descobertas e expostas aos olhos daquele a quem temos de prestar contas."
-    },
-    "14": {
-      "título": "Jesus, o sumo sacerdote eterno",
-      "texto": "Tendo, pois, Jesus, o Filho de Deus, como grande sumo sacerdote que adentrou os céus, conservemos firmes a nossa confissão."
-    },
-    "15": {
-      "título": "",
-      "texto": "Porque não temos sumo sacerdote que não possa se compadecer das nossas fraquezas; pelo contrário, ele foi tentado em todas as coisas, à nossa semelhança, mas sem pecado."
-    },
-    "16": {
-      "título": "",
-      "texto": "Portanto, aproximemo-nos do trono da graça com confiança, a fim de recebermos misericórdia e encontrarmos graça para ajuda em momento oportuno."
+    "versiculos": {
+        "1": "Portanto, visto que nos foi deixada a promessa de entrar no descanso de Deus, tenhamos cuidado para não parecer que algum de vocês deixou de alcançá-la.",
+        "2": "Porque também a nós foram anunciadas as boas-novas, exatamente como aconteceu com eles. Mas a palavra que eles ouviram não lhes trouxe proveito, porque não foram unidos por meio da fé com aqueles que a ouviram.",
+        "3": "Nós, porém, que cremos, entramos no descanso, conforme Deus disse:",
+        "4": "Porque, em certo lugar, assim disse a respeito do sétimo dia: “No sétimo dia, Deus descansou de todas as obras que tinha feito.”",
+        "5": "E, novamente, no mesmo lugar: “Não entrarão no meu descanso.”",
+        "6": "Visto, portanto, que resta entrarem alguns naquele descanso e que, por causa da desobediência, não entraram aqueles aos quais anteriormente foram anunciadas as boas-novas,",
+        "7": "de novo, determina certo dia, “hoje”, falando por Davi, muito tempo depois, segundo antes tinha sido declarado:",
+        "8": "Ora, se Josué lhes tivesse dado descanso, não falaria, posteriormente, a respeito de outro dia.",
+        "9": "Portanto, resta um repouso sabático para o povo de Deus.",
+        "10": "Porque aquele que entrou no descanso de Deus, também ele mesmo descansou de suas obras, como Deus descansou das suas.",
+        "11": "Portanto, esforcemo-nos por entrar naquele descanso, a fim de que ninguém caia, segundo aquele exemplo de desobediência.",
+        "12": "Porque a palavra de Deus é viva e eficaz, e mais cortante do que qualquer espada de dois gumes, e penetra até o ponto de dividir alma e espírito, juntas e medulas, e é apta para julgar os pensamentos e propósitos do coração.",
+        "13": "E não há criatura que não seja manifesta na sua presença; pelo contrário, todas as coisas estão descobertas e expostas aos olhos daquele a quem temos de prestar contas.",
+        "14": "Tendo, pois, Jesus, o Filho de Deus, como grande sumo sacerdote que adentrou os céus, conservemos firmes a nossa confissão.",
+        "15": "Porque não temos sumo sacerdote que não possa se compadecer das nossas fraquezas; pelo contrário, ele foi tentado em todas as coisas, à nossa semelhança, mas sem pecado.",
+        "16": "Portanto, aproximemo-nos do trono da graça com confiança, a fim de recebermos misericórdia e encontrarmos graça para ajuda em momento oportuno."
     }
-  }
 }

@@ -1,130 +1,41 @@
 {
-  "livro": "1 Coríntios",
-  "capítulo": 12,
-  "versículos": {
-    "1": {
-      "título": "Sobre os dons espirituais",
-      "texto": "Irmãos, não quero que vocês estejam desinformados a respeito dos dons espirituais."
+    "livro": "1 Coríntios",
+    "capitulo": 12,
+    "titulos": {
+        "1": "Sobre os dons espirituais",
+        "12": "A unidade da igreja"
     },
-    "2": {
-      "título": "",
-      "texto": "Vocês sabem que, quando eram gentios, se deixavam conduzir aos ídolos mudos, conforme vocês eram guiados."
-    },
-    "3": {
-      "título": "",
-      "texto": "Por isso, quero que entendam que ninguém que fala pelo Espírito de Deus afirma: “Anátema, Jesus!” Por outro lado, ninguém pode dizer: “Senhor Jesus!”, senão pelo Espírito Santo."
-    },
-    "4": {
-      "título": "",
-      "texto": "Ora, os dons são diversos, mas o Espírito é o mesmo."
-    },
-    "5": {
-      "título": "",
-      "texto": "E também há diversidade nos serviços, mas o Senhor é o mesmo."
-    },
-    "6": {
-      "título": "",
-      "texto": "E há diversidade nas realizações, mas o mesmo Deus é quem opera tudo em todos."
-    },
-    "7": {
-      "título": "",
-      "texto": "A manifestação do Espírito é concedida a cada um visando um fim proveitoso."
-    },
-    "8": {
-      "título": "",
-      "texto": "Porque a um é dada, mediante o Espírito, a palavra da sabedoria; a outro, segundo o mesmo Espírito, a palavra do conhecimento."
-    },
-    "9": {
-      "título": "",
-      "texto": "A um é dada, no mesmo Espírito, a fé; a outro, no mesmo Espírito, dons de curar;"
-    },
-    "10": {
-      "título": "",
-      "texto": "a outro, operações de milagres; a outro, profecia; a outro, discernimento de espíritos. A um é dada a variedade de línguas e a outro, capacidade para interpretá-las."
-    },
-    "11": {
-      "título": "",
-      "texto": "Mas um só e o mesmo Espírito realiza todas essas coisas, distribuindo-as a cada um, individualmente, conforme ele quer."
-    },
-    "12": {
-      "título": "A unidade da igreja",
-      "texto": "Porque, assim como o corpo é um e tem muitos membros, e todos os membros, mesmo sendo muitos, constituem um só corpo, assim também é com respeito a Cristo."
-    },
-    "13": {
-      "título": "",
-      "texto": "Pois, em um só Espírito, todos nós fomos batizados em um só corpo, quer judeus, quer gregos, quer escravos, quer livres. E a todos nós foi dado beber de um só Espírito."
-    },
-    "14": {
-      "título": "",
-      "texto": "Porque também o corpo não é um só membro, mas muitos."
-    },
-    "15": {
-      "título": "",
-      "texto": "Se o pé disser: “Porque não sou mão, não sou do corpo”, nem por isso deixa de ser do corpo."
-    },
-    "16": {
-      "título": "",
-      "texto": "Se o ouvido disser: “Porque não sou olho, não sou do corpo”, nem por isso deixa de ser do corpo."
-    },
-    "17": {
-      "título": "",
-      "texto": "Se todo o corpo fosse olho, onde estaria o ouvido? Se todo ele fosse ouvido, onde estaria o olfato?"
-    },
-    "18": {
-      "título": "",
-      "texto": "Mas Deus dispôs os membros, colocando cada um deles no corpo, como ele quis."
-    },
-    "19": {
-      "título": "",
-      "texto": "Se todos, porém, fossem um só membro, onde estaria o corpo?"
-    },
-    "20": {
-      "título": "",
-      "texto": "O certo é que há muitos membros, mas um só corpo."
-    },
-    "21": {
-      "título": "",
-      "texto": "Os olhos não podem dizer à mão: “Não precisamos de você.” E a cabeça não pode dizer aos pés: “Não preciso de vocês.”"
-    },
-    "22": {
-      "título": "",
-      "texto": "Pelo contrário, os membros do corpo que parecem ser mais fracos são necessários,"
-    },
-    "23": {
-      "título": "",
-      "texto": "e os que nos parecem menos dignos no corpo, a estes damos muito maior honra. Também os que em nós não são decorosos revestimos de especial honra,"
-    },
-    "24": {
-      "título": "",
-      "texto": "ao passo que os nossos membros nobres não têm necessidade disso. Contudo, Deus coordenou o corpo, concedendo muito mais honra àquilo que menos tinha,"
-    },
-    "25": {
-      "título": "",
-      "texto": "para que não haja divisão no corpo, mas para que os membros cooperem, com igual cuidado, em favor uns dos outros."
-    },
-    "26": {
-      "título": "",
-      "texto": "De maneira que, se um membro sofre, todos sofrem com ele; e, se um deles é honrado, todos os outros se alegram com ele."
-    },
-    "27": {
-      "título": "",
-      "texto": "Ora, vocês são o corpo de Cristo e, individualmente, membros desse corpo."
-    },
-    "28": {
-      "título": "",
-      "texto": "A uns Deus estabeleceu na igreja, primeiramente, apóstolos; em segundo lugar, profetas; em terceiro lugar, mestres; depois, operadores de milagres; depois, os que têm dons de curar, ou de ajudar, ou de administrar, ou de falar em variedade de línguas."
-    },
-    "29": {
-      "título": "",
-      "texto": "Será que são todos apóstolos? Será que são todos profetas? Será que são todos mestres? São todos operadores de milagres?"
-    },
-    "30": {
-      "título": "",
-      "texto": "Todos têm dons de curar? Todos falam em línguas? Todos têm o dom de interpretar essas línguas?"
-    },
-    "31": {
-      "título": "",
-      "texto": "Entretanto, procurem, com zelo, os melhores dons."
+    "versiculos": {
+        "1": "Irmãos, não quero que vocês estejam desinformados a respeito dos dons espirituais.",
+        "2": "Vocês sabem que, quando eram gentios, se deixavam conduzir aos ídolos mudos, conforme vocês eram guiados.",
+        "3": "Por isso, quero que entendam que ninguém que fala pelo Espírito de Deus afirma: “Anátema, Jesus!” Por outro lado, ninguém pode dizer: “Senhor Jesus!”, senão pelo Espírito Santo.",
+        "4": "Ora, os dons são diversos, mas o Espírito é o mesmo.",
+        "5": "E também há diversidade nos serviços, mas o Senhor é o mesmo.",
+        "6": "E há diversidade nas realizações, mas o mesmo Deus é quem opera tudo em todos.",
+        "7": "A manifestação do Espírito é concedida a cada um visando um fim proveitoso.",
+        "8": "Porque a um é dada, mediante o Espírito, a palavra da sabedoria; a outro, segundo o mesmo Espírito, a palavra do conhecimento.",
+        "9": "A um é dada, no mesmo Espírito, a fé; a outro, no mesmo Espírito, dons de curar;",
+        "10": "a outro, operações de milagres; a outro, profecia; a outro, discernimento de espíritos. A um é dada a variedade de línguas e a outro, capacidade para interpretá-las.",
+        "11": "Mas um só e o mesmo Espírito realiza todas essas coisas, distribuindo-as a cada um, individualmente, conforme ele quer.",
+        "12": "Porque, assim como o corpo é um e tem muitos membros, e todos os membros, mesmo sendo muitos, constituem um só corpo, assim também é com respeito a Cristo.",
+        "13": "Pois, em um só Espírito, todos nós fomos batizados em um só corpo, quer judeus, quer gregos, quer escravos, quer livres. E a todos nós foi dado beber de um só Espírito.",
+        "14": "Porque também o corpo não é um só membro, mas muitos.",
+        "15": "Se o pé disser: “Porque não sou mão, não sou do corpo”, nem por isso deixa de ser do corpo.",
+        "16": "Se o ouvido disser: “Porque não sou olho, não sou do corpo”, nem por isso deixa de ser do corpo.",
+        "17": "Se todo o corpo fosse olho, onde estaria o ouvido? Se todo ele fosse ouvido, onde estaria o olfato?",
+        "18": "Mas Deus dispôs os membros, colocando cada um deles no corpo, como ele quis.",
+        "19": "Se todos, porém, fossem um só membro, onde estaria o corpo?",
+        "20": "O certo é que há muitos membros, mas um só corpo.",
+        "21": "Os olhos não podem dizer à mão: “Não precisamos de você.” E a cabeça não pode dizer aos pés: “Não preciso de vocês.”",
+        "22": "Pelo contrário, os membros do corpo que parecem ser mais fracos são necessários,",
+        "23": "e os que nos parecem menos dignos no corpo, a estes damos muito maior honra. Também os que em nós não são decorosos revestimos de especial honra,",
+        "24": "ao passo que os nossos membros nobres não têm necessidade disso. Contudo, Deus coordenou o corpo, concedendo muito mais honra àquilo que menos tinha,",
+        "25": "para que não haja divisão no corpo, mas para que os membros cooperem, com igual cuidado, em favor uns dos outros.",
+        "26": "De maneira que, se um membro sofre, todos sofrem com ele; e, se um deles é honrado, todos os outros se alegram com ele.",
+        "27": "Ora, vocês são o corpo de Cristo e, individualmente, membros desse corpo.",
+        "28": "A uns Deus estabeleceu na igreja, primeiramente, apóstolos; em segundo lugar, profetas; em terceiro lugar, mestres; depois, operadores de milagres; depois, os que têm dons de curar, ou de ajudar, ou de administrar, ou de falar em variedade de línguas.",
+        "29": "Será que são todos apóstolos? Será que são todos profetas? Será que são todos mestres? São todos operadores de milagres?",
+        "30": "Todos têm dons de curar? Todos falam em línguas? Todos têm o dom de interpretar essas línguas?",
+        "31": "Entretanto, procurem, com zelo, os melhores dons."
     }
-  }
 }

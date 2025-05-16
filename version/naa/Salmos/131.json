@@ -1,18 +1,12 @@
 {
-  "livro": "Salmos",
-  "capítulo": 131,
-  "versículos": {
-    "1": {
-      "título": "Humildade e confiança em Deus",
-      "texto": "Senhor , não é orgulhoso"
+    "livro": "Salmos",
+    "capitulo": 131,
+    "titulos": {
+        "1": "Humildade e confiança em Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "Pelo contrário, fiz calar"
-    },
-    "3": {
-      "título": "",
-      "texto": "Espere, ó Israel, no Senhor ,"
+    "versiculos": {
+        "1": "Senhor , não é orgulhoso",
+        "2": "Pelo contrário, fiz calar",
+        "3": "Espere, ó Israel, no Senhor ,"
     }
-  }
 }

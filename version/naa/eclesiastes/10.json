@@ -1,86 +1,29 @@
 {
-  "livro": "Eclesiastes",
-  "capítulo": 10,
-  "versículos": {
-    "1": {
-      "título": "A excelência da sabedoria",
-      "texto": "Assim como a mosca morta"
+    "livro": "Eclesiastes",
+    "capitulo": 10,
+    "titulos": {
+        "1": "A excelência da sabedoria"
     },
-    "2": {
-      "título": "",
-      "texto": "O coração do sábio"
-    },
-    "3": {
-      "título": "",
-      "texto": "Quando o tolo vai pelo caminho,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Se aquele que governa"
-    },
-    "5": {
-      "título": "",
-      "texto": "Ainda há um mal que vi debaixo do sol, um erro cometido pelos que governam:"
-    },
-    "6": {
-      "título": "",
-      "texto": "os tolos colocados em muitos postos elevados, enquanto os ricos ocupam os postos inferiores."
-    },
-    "7": {
-      "título": "",
-      "texto": "Vi servos andando a cavalo e príncipes andando a pé como se fossem servos."
-    },
-    "8": {
-      "título": "",
-      "texto": "Quem abre uma cova"
-    },
-    "9": {
-      "título": "",
-      "texto": "Quem arranca pedras"
-    },
-    "10": {
-      "título": "",
-      "texto": "Se o machado está embotado"
-    },
-    "11": {
-      "título": "",
-      "texto": "Se a cobra morder"
-    },
-    "12": {
-      "título": "",
-      "texto": "As palavras do sábio"
-    },
-    "13": {
-      "título": "",
-      "texto": "as primeiras palavras"
-    },
-    "14": {
-      "título": "",
-      "texto": "O tolo multiplica as palavras,"
-    },
-    "15": {
-      "título": "",
-      "texto": "O trabalho do tolo o fatiga,"
-    },
-    "16": {
-      "título": "",
-      "texto": "Ai de você, ó terra"
-    },
-    "17": {
-      "título": "",
-      "texto": "Feliz é você, ó terra"
-    },
-    "18": {
-      "título": "",
-      "texto": "Por causa da preguiça"
-    },
-    "19": {
-      "título": "",
-      "texto": "As festas são feitas para rir,"
-    },
-    "20": {
-      "título": "",
-      "texto": "Nem em pensamento"
+    "versiculos": {
+        "1": "Assim como a mosca morta",
+        "2": "O coração do sábio",
+        "3": "Quando o tolo vai pelo caminho,",
+        "4": "Se aquele que governa",
+        "5": "Ainda há um mal que vi debaixo do sol, um erro cometido pelos que governam:",
+        "6": "os tolos colocados em muitos postos elevados, enquanto os ricos ocupam os postos inferiores.",
+        "7": "Vi servos andando a cavalo e príncipes andando a pé como se fossem servos.",
+        "8": "Quem abre uma cova",
+        "9": "Quem arranca pedras",
+        "10": "Se o machado está embotado",
+        "11": "Se a cobra morder",
+        "12": "As palavras do sábio",
+        "13": "as primeiras palavras",
+        "14": "O tolo multiplica as palavras,",
+        "15": "O trabalho do tolo o fatiga,",
+        "16": "Ai de você, ó terra",
+        "17": "Feliz é você, ó terra",
+        "18": "Por causa da preguiça",
+        "19": "As festas são feitas para rir,",
+        "20": "Nem em pensamento"
     }
-  }
 }

@@ -1,182 +1,56 @@
 {
-  "livro": "2 Reis",
-  "capítulo": 4,
-  "versículos": {
-    "1": {
-      "título": "Eliseu aumenta o azeite da viúva",
-      "texto": "Certa mulher, viúva de um dos discípulos dos profetas, clamou a Eliseu, dizendo:"
+    "livro": "2 Reis",
+    "capitulo": 4,
+    "titulos": {
+        "1": "Eliseu aumenta o azeite da viúva",
+        "8": "Eliseu e a sunamita",
+        "38": "A morte que havia na panela é tirada",
+        "42": "Vinte pães satisfazem cem homens"
     },
-    "2": {
-      "título": "",
-      "texto": "Eliseu perguntou à mulher:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Então Eliseu disse:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Depois entre em casa, feche a porta atrás de você e dos seus filhos, e derrame o azeite em todas aquelas vasilhas. Ponha à parte as que forem ficando cheias."
-    },
-    "5": {
-      "título": "",
-      "texto": "A mulher foi embora dali e fechou a porta atrás de si e dos seus filhos. Estes lhe passavam as vasilhas, e ela as enchia."
-    },
-    "6": {
-      "título": "",
-      "texto": "Quando todas estavam cheias, ela disse a um dos filhos:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Então ela foi e contou ao homem de Deus. Ele disse:"
-    },
-    "8": {
-      "título": "Eliseu e a sunamita",
-      "texto": "Certo dia, Eliseu passou por Suném, onde morava uma mulher rica, que insistiu para que ele ficasse para uma refeição. Assim, todas as vezes que passava por lá, entrava para fazer uma refeição."
-    },
-    "9": {
-      "título": "",
-      "texto": "Ela disse ao seu marido:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Vamos fazer um quarto pequeno no terraço da casa e colocar nele uma cama, uma mesa, uma cadeira e uma lamparina; assim, quando ele vier à nossa casa, poderá ficar ali."
-    },
-    "11": {
-      "título": "",
-      "texto": "Um dia, vindo o profeta para ali, retirou-se para o quarto e se deitou."
-    },
-    "12": {
-      "título": "",
-      "texto": "Então disse ao seu servo Geazi:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Este tinha dito a Geazi que dissesse a ela:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Então o profeta perguntou a Geazi:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Eliseu disse:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Então o profeta disse à mulher:"
-    },
-    "17": {
-      "título": "",
-      "texto": "A mulher engravidou e, no ano seguinte, no tempo determinado, deu à luz um filho, como Eliseu tinha dito."
-    },
-    "18": {
-      "título": "",
-      "texto": "O menino cresceu e, certo dia, foi encontrar-se com o seu pai, que estava no campo com os ceifeiros."
-    },
-    "19": {
-      "título": "",
-      "texto": "De repente ele disse a seu pai:"
-    },
-    "20": {
-      "título": "",
-      "texto": "Ele o tomou e o levou para a mãe. O menino ficou sentado no colo dela até o meio-dia, e então morreu."
-    },
-    "21": {
-      "título": "",
-      "texto": "Ela subiu e o deitou sobre a cama do homem de Deus; fechou a porta e saiu."
-    },
-    "22": {
-      "título": "",
-      "texto": "Chamou o marido e lhe disse:"
-    },
-    "23": {
-      "título": "",
-      "texto": "O marido perguntou:"
-    },
-    "24": {
-      "título": "",
-      "texto": "Então ela mandou preparar a jumenta e disse ao servo:"
-    },
-    "25": {
-      "título": "",
-      "texto": "E assim ela partiu e foi falar com o homem de Deus, no monte Carmelo. Ao vê-la de longe, o homem de Deus disse a Geazi, seu servo:"
-    },
-    "26": {
-      "título": "",
-      "texto": "Corra ao seu encontro e pergunte a ela: “Vai tudo bem com você, com o seu marido, com o menino?”"
-    },
-    "27": {
-      "título": "",
-      "texto": "Quando ela chegou ao homem de Deus, no monte, agarrou-se aos pés dele. Geazi se aproximou para arrancá-la, mas o homem de Deus lhe disse:"
-    },
-    "28": {
-      "título": "",
-      "texto": "Então a mulher disse:"
-    },
-    "29": {
-      "título": "",
-      "texto": "Então o profeta disse a Geazi:"
-    },
-    "30": {
-      "título": "",
-      "texto": "Porém a mãe do menino disse:"
-    },
-    "31": {
-      "título": "",
-      "texto": "Geazi foi adiante deles e pôs o bordão sobre o rosto do menino. Porém não houve nele voz nem sinal de vida. Então voltou para encontrar-se com Eliseu e lhe disse:"
-    },
-    "32": {
-      "título": "",
-      "texto": "Quando o profeta chegou à casa, eis que o menino estava morto sobre a cama."
-    },
-    "33": {
-      "título": "",
-      "texto": "Então ele entrou, fechou a porta e orou ao Senhor ."
-    },
-    "34": {
-      "título": "",
-      "texto": "Subiu à cama, deitou-se sobre o menino e, pondo a sua boca sobre a boca dele, os seus olhos sobre os olhos dele e as suas mãos sobre as mãos dele, se estendeu sobre ele; e o corpo do menino aqueceu."
-    },
-    "35": {
-      "título": "",
-      "texto": "Eliseu se levantou e andou no quarto de um lado para outro. Tornou a subir à cama, e se estendeu sobre o menino; este espirrou sete vezes e abriu os olhos."
-    },
-    "36": {
-      "título": "",
-      "texto": "Então Eliseu chamou Geazi e disse:"
-    },
-    "37": {
-      "título": "",
-      "texto": "Ela entrou, lançou-se aos pés de Eliseu e prostrou-se em terra; pegou o seu filho e saiu."
-    },
-    "38": {
-      "título": "A morte que havia na panela é tirada",
-      "texto": "Eliseu voltou para Gilgal. Havia fome naquela terra. Quando os discípulos dos profetas estavam sentados diante dele, Eliseu disse ao seu servo:"
-    },
-    "39": {
-      "título": "",
-      "texto": "Então um deles saiu para o campo a fim de apanhar ervas. Ele achou uma trepadeira silvestre e, colhendo os frutos, encheu a sua capa com eles. Voltou para casa, cortou os frutos em pedaços e os pôs na panela, mesmo sem saber o que eram."
-    },
-    "40": {
-      "título": "",
-      "texto": "Depois, deram de comer aos homens. Enquanto comiam do cozido, gritaram:"
-    },
-    "41": {
-      "título": "",
-      "texto": "Mas Eliseu disse:"
-    },
-    "42": {
-      "título": "Vinte pães satisfazem cem homens",
-      "texto": "Um homem veio de Baal-Salisa e trouxe ao homem de Deus pães das primícias, vinte pães de cevada, e espigas verdes numa sacola. Eliseu disse:"
-    },
-    "43": {
-      "título": "",
-      "texto": "Porém o seu servo lhe disse:"
-    },
-    "44": {
-      "título": "",
-      "texto": "Então o servo pôs a comida diante deles; comeram, e ainda sobrou, conforme a palavra do Senhor ."
+    "versiculos": {
+        "1": "Certa mulher, viúva de um dos discípulos dos profetas, clamou a Eliseu, dizendo:",
+        "2": "Eliseu perguntou à mulher:",
+        "3": "Então Eliseu disse:",
+        "4": "Depois entre em casa, feche a porta atrás de você e dos seus filhos, e derrame o azeite em todas aquelas vasilhas. Ponha à parte as que forem ficando cheias.",
+        "5": "A mulher foi embora dali e fechou a porta atrás de si e dos seus filhos. Estes lhe passavam as vasilhas, e ela as enchia.",
+        "6": "Quando todas estavam cheias, ela disse a um dos filhos:",
+        "7": "Então ela foi e contou ao homem de Deus. Ele disse:",
+        "8": "Certo dia, Eliseu passou por Suném, onde morava uma mulher rica, que insistiu para que ele ficasse para uma refeição. Assim, todas as vezes que passava por lá, entrava para fazer uma refeição.",
+        "9": "Ela disse ao seu marido:",
+        "10": "Vamos fazer um quarto pequeno no terraço da casa e colocar nele uma cama, uma mesa, uma cadeira e uma lamparina; assim, quando ele vier à nossa casa, poderá ficar ali.",
+        "11": "Um dia, vindo o profeta para ali, retirou-se para o quarto e se deitou.",
+        "12": "Então disse ao seu servo Geazi:",
+        "13": "Este tinha dito a Geazi que dissesse a ela:",
+        "14": "Então o profeta perguntou a Geazi:",
+        "15": "Eliseu disse:",
+        "16": "Então o profeta disse à mulher:",
+        "17": "A mulher engravidou e, no ano seguinte, no tempo determinado, deu à luz um filho, como Eliseu tinha dito.",
+        "18": "O menino cresceu e, certo dia, foi encontrar-se com o seu pai, que estava no campo com os ceifeiros.",
+        "19": "De repente ele disse a seu pai:",
+        "20": "Ele o tomou e o levou para a mãe. O menino ficou sentado no colo dela até o meio-dia, e então morreu.",
+        "21": "Ela subiu e o deitou sobre a cama do homem de Deus; fechou a porta e saiu.",
+        "22": "Chamou o marido e lhe disse:",
+        "23": "O marido perguntou:",
+        "24": "Então ela mandou preparar a jumenta e disse ao servo:",
+        "25": "E assim ela partiu e foi falar com o homem de Deus, no monte Carmelo. Ao vê-la de longe, o homem de Deus disse a Geazi, seu servo:",
+        "26": "Corra ao seu encontro e pergunte a ela: “Vai tudo bem com você, com o seu marido, com o menino?”",
+        "27": "Quando ela chegou ao homem de Deus, no monte, agarrou-se aos pés dele. Geazi se aproximou para arrancá-la, mas o homem de Deus lhe disse:",
+        "28": "Então a mulher disse:",
+        "29": "Então o profeta disse a Geazi:",
+        "30": "Porém a mãe do menino disse:",
+        "31": "Geazi foi adiante deles e pôs o bordão sobre o rosto do menino. Porém não houve nele voz nem sinal de vida. Então voltou para encontrar-se com Eliseu e lhe disse:",
+        "32": "Quando o profeta chegou à casa, eis que o menino estava morto sobre a cama.",
+        "33": "Então ele entrou, fechou a porta e orou ao Senhor .",
+        "34": "Subiu à cama, deitou-se sobre o menino e, pondo a sua boca sobre a boca dele, os seus olhos sobre os olhos dele e as suas mãos sobre as mãos dele, se estendeu sobre ele; e o corpo do menino aqueceu.",
+        "35": "Eliseu se levantou e andou no quarto de um lado para outro. Tornou a subir à cama, e se estendeu sobre o menino; este espirrou sete vezes e abriu os olhos.",
+        "36": "Então Eliseu chamou Geazi e disse:",
+        "37": "Ela entrou, lançou-se aos pés de Eliseu e prostrou-se em terra; pegou o seu filho e saiu.",
+        "38": "Eliseu voltou para Gilgal. Havia fome naquela terra. Quando os discípulos dos profetas estavam sentados diante dele, Eliseu disse ao seu servo:",
+        "39": "Então um deles saiu para o campo a fim de apanhar ervas. Ele achou uma trepadeira silvestre e, colhendo os frutos, encheu a sua capa com eles. Voltou para casa, cortou os frutos em pedaços e os pôs na panela, mesmo sem saber o que eram.",
+        "40": "Depois, deram de comer aos homens. Enquanto comiam do cozido, gritaram:",
+        "41": "Mas Eliseu disse:",
+        "42": "Um homem veio de Baal-Salisa e trouxe ao homem de Deus pães das primícias, vinte pães de cevada, e espigas verdes numa sacola. Eliseu disse:",
+        "43": "Porém o seu servo lhe disse:",
+        "44": "Então o servo pôs a comida diante deles; comeram, e ainda sobrou, conforme a palavra do Senhor ."
     }
-  }
 }

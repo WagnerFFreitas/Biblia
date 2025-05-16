@@ -1,42 +1,18 @@
 {
-  "livro": "Salmos",
-  "capítulo": 8,
-  "versículos": {
-    "1": {
-      "título": "A glória divina e a dignidade do filho do homem",
-      "texto": "Ó Senhor , Senhor nosso,"
+    "livro": "Salmos",
+    "capitulo": 8,
+    "titulos": {
+        "1": "A glória divina e a dignidade do filho do homem"
     },
-    "2": {
-      "título": "",
-      "texto": "Da boca de pequeninos"
-    },
-    "3": {
-      "título": "",
-      "texto": "Quando contemplo os teus céus,"
-    },
-    "4": {
-      "título": "",
-      "texto": "que é o homem,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Fizeste-o, no entanto,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Deste-lhe domínio"
-    },
-    "7": {
-      "título": "",
-      "texto": "ovelhas e bois, todos,"
-    },
-    "8": {
-      "título": "",
-      "texto": "as aves do céu,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Ó Senhor , Senhor nosso,"
+    "versiculos": {
+        "1": "Ó Senhor , Senhor nosso,",
+        "2": "Da boca de pequeninos",
+        "3": "Quando contemplo os teus céus,",
+        "4": "que é o homem,",
+        "5": "Fizeste-o, no entanto,",
+        "6": "Deste-lhe domínio",
+        "7": "ovelhas e bois, todos,",
+        "8": "as aves do céu,",
+        "9": "Ó Senhor , Senhor nosso,"
     }
-  }
 }

@@ -1,118 +1,38 @@
 {
-  "livro": "Jeremias",
-  "capítulo": 38,
-  "versículos": {
-    "1": {
-      "título": "Jeremias na cisterna",
-      "texto": "Sefatias, filho de Matã, Gedalias, filho de Pasur, Jucal, filho de Selemias, e Pasur, filho de Malquias, ouviram as palavras que Jeremias anunciava a todo o povo, dizendo:"
+    "livro": "Jeremias",
+    "capitulo": 38,
+    "titulos": {
+        "1": "Jeremias na cisterna",
+        "14": "Zedequias consulta o profeta"
     },
-    "2": {
-      "título": "",
-      "texto": "— Assim diz o Senhor : “Quem ficar nesta cidade morrerá à espada, de fome e de peste; mas aquele que sair e se render aos caldeus viverá; porque a vida lhe será por despojo, e viverá.”"
-    },
-    "3": {
-      "título": "",
-      "texto": "Assim diz o Senhor : “Esta cidade infalivelmente será entregue nas mãos do exército do rei da Babilônia, e este a tomará.”"
-    },
-    "4": {
-      "título": "",
-      "texto": "Então as autoridades disseram ao rei:"
-    },
-    "5": {
-      "título": "",
-      "texto": "O rei Zedequias respondeu:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Então eles pegaram Jeremias e o lançaram na cisterna de Malquias, filho do rei, que ficava no pátio da guarda. Desceram Jeremias com cordas. Na cisterna não havia água, apenas lama; e Jeremias se atolou na lama."
-    },
-    "7": {
-      "título": "",
-      "texto": "Ebede-Meleque, o etíope, eunuco que estava na casa do rei, ouviu que tinham colocado Jeremias na cisterna. Quando o rei estava sentado junto ao Portão de Benjamim,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Ebede-Meleque saiu da casa do rei e lhe falou:"
-    },
-    "9": {
-      "título": "",
-      "texto": "— Ó rei, meu senhor, aqueles homens agiram mal em tudo o que fizeram ao profeta Jeremias, que eles lançaram na cisterna. No lugar onde ele está, morrerá de fome, pois já não há mais pão na cidade."
-    },
-    "10": {
-      "título": "",
-      "texto": "Então o rei deu ordem a Ebede-Meleque, o etíope, dizendo:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Ebede-Meleque levou os homens consigo e foi à casa do rei, a um lugar debaixo da tesouraria, e pegou algumas roupas usadas e trapos, e os desceu a Jeremias na cisterna, por meio de cordas."
-    },
-    "12": {
-      "título": "",
-      "texto": "Ebede-Meleque, o etíope, disse a Jeremias:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Puxaram Jeremias com as cordas e o tiraram da cisterna; e Jeremias ficou no pátio da guarda."
-    },
-    "14": {
-      "título": "Zedequias consulta o profeta",
-      "texto": "Então o rei Zedequias mandou trazer o profeta Jeremias à sua presença, à terceira entrada na Casa do Senhor , e lhe disse:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Jeremias disse a Zedequias:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Então Zedequias jurou secretamente a Jeremias, dizendo:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Então Jeremias disse a Zedequias:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Mas, se você não se render aos oficiais do rei da Babilônia, então esta cidade será entregue nas mãos dos caldeus, eles a queimarão, e você não escapará das mãos deles.”"
-    },
-    "19": {
-      "título": "",
-      "texto": "O rei Zedequias disse a Jeremias:"
-    },
-    "20": {
-      "título": "",
-      "texto": "Mas Jeremias respondeu:"
-    },
-    "21": {
-      "título": "",
-      "texto": "Mas, se o senhor, ó rei, não quiser se render, isto é o que o Senhor Deus me mostrou:"
-    },
-    "22": {
-      "título": "",
-      "texto": "Todas as mulheres que ficaram na casa do rei de Judá serão levadas aos oficiais do rei da Babilônia e dirão:"
-    },
-    "23": {
-      "título": "",
-      "texto": "— Assim, todas as suas mulheres e os seus filhos serão levados aos caldeus. O senhor, ó rei, não escapará das mãos deles, mas será prisioneiro na mão do rei da Babilônia, e esta cidade será queimada."
-    },
-    "24": {
-      "título": "",
-      "texto": "Então Zedequias disse a Jeremias:"
-    },
-    "25": {
-      "título": "",
-      "texto": "Se as autoridades souberem que falei com você, vierem procurá-lo e lhe disserem: “Conte-nos o que foi que você disse ao rei e o que ele disse a você; não esconda nada de nós, e nós não mataremos você”,"
-    },
-    "26": {
-      "título": "",
-      "texto": "diga: “Apresentei a minha humilde súplica diante do rei para que não me mandasse de volta à casa de Jônatas, para que eu não venha a morrer ali.”"
-    },
-    "27": {
-      "título": "",
-      "texto": "Quando todas as autoridades se dirigiram a Jeremias e o interrogaram, ele lhes falou como o rei havia ordenado. Então o deixaram em paz, porque ninguém mais ficou sabendo o que foi conversado."
-    },
-    "28": {
-      "título": "",
-      "texto": "Jeremias ficou no pátio da guarda, até o dia em que Jerusalém foi tomada."
+    "versiculos": {
+        "1": "Sefatias, filho de Matã, Gedalias, filho de Pasur, Jucal, filho de Selemias, e Pasur, filho de Malquias, ouviram as palavras que Jeremias anunciava a todo o povo, dizendo:",
+        "2": "— Assim diz o Senhor : “Quem ficar nesta cidade morrerá à espada, de fome e de peste; mas aquele que sair e se render aos caldeus viverá; porque a vida lhe será por despojo, e viverá.”",
+        "3": "Assim diz o Senhor : “Esta cidade infalivelmente será entregue nas mãos do exército do rei da Babilônia, e este a tomará.”",
+        "4": "Então as autoridades disseram ao rei:",
+        "5": "O rei Zedequias respondeu:",
+        "6": "Então eles pegaram Jeremias e o lançaram na cisterna de Malquias, filho do rei, que ficava no pátio da guarda. Desceram Jeremias com cordas. Na cisterna não havia água, apenas lama; e Jeremias se atolou na lama.",
+        "7": "Ebede-Meleque, o etíope, eunuco que estava na casa do rei, ouviu que tinham colocado Jeremias na cisterna. Quando o rei estava sentado junto ao Portão de Benjamim,",
+        "8": "Ebede-Meleque saiu da casa do rei e lhe falou:",
+        "9": "— Ó rei, meu senhor, aqueles homens agiram mal em tudo o que fizeram ao profeta Jeremias, que eles lançaram na cisterna. No lugar onde ele está, morrerá de fome, pois já não há mais pão na cidade.",
+        "10": "Então o rei deu ordem a Ebede-Meleque, o etíope, dizendo:",
+        "11": "Ebede-Meleque levou os homens consigo e foi à casa do rei, a um lugar debaixo da tesouraria, e pegou algumas roupas usadas e trapos, e os desceu a Jeremias na cisterna, por meio de cordas.",
+        "12": "Ebede-Meleque, o etíope, disse a Jeremias:",
+        "13": "Puxaram Jeremias com as cordas e o tiraram da cisterna; e Jeremias ficou no pátio da guarda.",
+        "14": "Então o rei Zedequias mandou trazer o profeta Jeremias à sua presença, à terceira entrada na Casa do Senhor , e lhe disse:",
+        "15": "Jeremias disse a Zedequias:",
+        "16": "Então Zedequias jurou secretamente a Jeremias, dizendo:",
+        "17": "Então Jeremias disse a Zedequias:",
+        "18": "Mas, se você não se render aos oficiais do rei da Babilônia, então esta cidade será entregue nas mãos dos caldeus, eles a queimarão, e você não escapará das mãos deles.”",
+        "19": "O rei Zedequias disse a Jeremias:",
+        "20": "Mas Jeremias respondeu:",
+        "21": "Mas, se o senhor, ó rei, não quiser se render, isto é o que o Senhor Deus me mostrou:",
+        "22": "Todas as mulheres que ficaram na casa do rei de Judá serão levadas aos oficiais do rei da Babilônia e dirão:",
+        "23": "— Assim, todas as suas mulheres e os seus filhos serão levados aos caldeus. O senhor, ó rei, não escapará das mãos deles, mas será prisioneiro na mão do rei da Babilônia, e esta cidade será queimada.",
+        "24": "Então Zedequias disse a Jeremias:",
+        "25": "Se as autoridades souberem que falei com você, vierem procurá-lo e lhe disserem: “Conte-nos o que foi que você disse ao rei e o que ele disse a você; não esconda nada de nós, e nós não mataremos você”,",
+        "26": "diga: “Apresentei a minha humilde súplica diante do rei para que não me mandasse de volta à casa de Jônatas, para que eu não venha a morrer ali.”",
+        "27": "Quando todas as autoridades se dirigiram a Jeremias e o interrogaram, ele lhes falou como o rei havia ordenado. Então o deixaram em paz, porque ninguém mais ficou sabendo o que foi conversado.",
+        "28": "Jeremias ficou no pátio da guarda, até o dia em que Jerusalém foi tomada."
     }
-  }
 }

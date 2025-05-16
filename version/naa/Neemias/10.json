@@ -1,162 +1,46 @@
 {
-  "livro": "Neemias",
-  "capítulo": 10,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Os que colocaram o seu selo foram: Neemias, o governador, filho de Hacalias, e Zedequias,"
-    },
-    "2": {
-      "título": "",
-      "texto": "Seraías, Azarias, Jeremias,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Pasur, Amarias, Malquias,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Hatus, Sebanias, Maluque,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Harim, Meremote, Obadias,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Daniel, Ginetom, Baruque,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Mesulão, Abias, Miamim,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Maazias, Bilgai, Semaías. Estes eram os sacerdotes."
-    },
-    "9": {
-      "título": "",
-      "texto": "E os levitas: Jesua, filho de Azanias, Binui, dos filhos de Henadade, Cadmiel"
-    },
-    "10": {
-      "título": "",
-      "texto": "e os irmãos deles: Sebanias, Hodias, Quelita, Pelaías, Hanã,"
-    },
-    "11": {
-      "título": "",
-      "texto": "Mica, Reobe, Hasabias,"
-    },
-    "12": {
-      "título": "",
-      "texto": "Zacur, Serebias, Sebanias,"
-    },
-    "13": {
-      "título": "",
-      "texto": "Hodias, Bani e Beninu."
-    },
-    "14": {
-      "título": "",
-      "texto": "Os chefes do povo: Parós, Paate-Moabe, Elão, Zatu, Bani,"
-    },
-    "15": {
-      "título": "",
-      "texto": "Buni, Azgade, Bebai,"
-    },
-    "16": {
-      "título": "",
-      "texto": "Adonias, Bigvai, Adim,"
-    },
-    "17": {
-      "título": "",
-      "texto": "Ater, Ezequias, Azur,"
-    },
-    "18": {
-      "título": "",
-      "texto": "Hodias, Hasum, Besai,"
-    },
-    "19": {
-      "título": "",
-      "texto": "Harife, Anatote, Nebai,"
-    },
-    "20": {
-      "título": "",
-      "texto": "Magpias, Mesulão, Hezir,"
-    },
-    "21": {
-      "título": "",
-      "texto": "Mesezabel, Zadoque, Jadua,"
-    },
-    "22": {
-      "título": "",
-      "texto": "Pelatias, Hanã, Anaías,"
-    },
-    "23": {
-      "título": "",
-      "texto": "Oseias, Hananias, Hassube,"
-    },
-    "24": {
-      "título": "",
-      "texto": "Haloés, Pilha, Sobeque,"
-    },
-    "25": {
-      "título": "",
-      "texto": "Reum, Hasabna, Maaseias,"
-    },
-    "26": {
-      "título": "",
-      "texto": "Aías, Hanã, Anã,"
-    },
-    "27": {
-      "título": "",
-      "texto": "Maluque, Harim e Baaná."
-    },
-    "28": {
-      "título": "",
-      "texto": "O resto do povo, os sacerdotes, os levitas, os porteiros, os cantores, os servidores do templo e todos os que tinham se separado dos povos de outras terras para seguirem a Lei de Deus, com as suas mulheres, os seus filhos e as suas filhas, todos os que tinham saber e entendimento,"
-    },
-    "29": {
-      "título": "",
-      "texto": "firmemente aderiram aos seus compatriotas, os nobres, e prometeram, com juramento e sob pena de maldição, que andariam na Lei de Deus, que foi dada por meio de Moisés, servo de Deus; que guardariam e cumpririam todos os mandamentos do Senhor , nosso Deus, e os seus juízos e os seus estatutos;"
-    },
-    "30": {
-      "título": "",
-      "texto": "que não dariam as suas filhas em casamento aos povos da terra, nem escolheriam as filhas deles para casar com os seus filhos;"
-    },
-    "31": {
-      "título": "",
-      "texto": "que, se os povos da terra trouxessem qualquer mercadoria ou qualquer cereal para vender no dia de sábado, nada comprariam deles no sábado nem em dias santificados; e que, no sétimo ano, abririam mão da colheita e de toda e qualquer cobrança."
-    },
-    "32": {
-      "título": "",
-      "texto": "Também assumimos a obrigação de contribuir anualmente com quatro gramas de prata para o serviço do templo do nosso Deus,"
-    },
-    "33": {
-      "título": "",
-      "texto": "para os pães da proposição, para a oferta contínua de cereais, para o holocausto contínuo dos sábados e das Festas da Lua Nova, para as festas fixas, para as coisas sagradas, para as ofertas pelo pecado, para fazer expiação por Israel e para toda a obra do templo do nosso Deus."
-    },
-    "34": {
-      "título": "",
-      "texto": "Nós, os sacerdotes, os levitas e o povo lançamos sortes a respeito da oferta da lenha que se havia de trazer ao templo do nosso Deus, segundo as nossas famílias, em tempos determinados, de ano em ano, para queimar sobre o altar do Senhor , nosso Deus, como está escrito na Lei."
-    },
-    "35": {
-      "título": "",
-      "texto": "Também nos comprometemos a trazer anualmente à Casa do Senhor as primícias da nossa terra e todas as primícias de todas as árvores frutíferas,"
-    },
-    "36": {
-      "título": "",
-      "texto": "bem como os primogênitos dos nossos filhos e os do nosso gado, como está escrito na Lei."
-    },
-    "37": {
-      "título": "",
-      "texto": "e de trazer aos sacerdotes, aos depósitos do templo do nosso Deus, as primícias da nossa massa, as nossas ofertas, o fruto de toda árvore, o vinho e o azeite."
-    },
-    "38": {
-      "título": "",
-      "texto": "O sacerdote, filho de Arão, estaria com os levitas quando estes recebessem os dízimos, e os levitas trariam os dízimos dos dízimos ao templo do nosso Deus, aos depósitos da casa do tesouro."
-    },
-    "39": {
-      "título": "",
-      "texto": "Porque os filhos de Israel e os filhos de Levi devem trazer as ofertas do cereal, do vinho e do azeite para aqueles depósitos, porque ali estão os utensílios do santuário, bem como os sacerdotes que ministram, e também os porteiros e os cantores."
+    "livro": "Neemias",
+    "capitulo": 10,
+    "titulos": {},
+    "versiculos": {
+        "1": "Os que colocaram o seu selo foram: Neemias, o governador, filho de Hacalias, e Zedequias,",
+        "2": "Seraías, Azarias, Jeremias,",
+        "3": "Pasur, Amarias, Malquias,",
+        "4": "Hatus, Sebanias, Maluque,",
+        "5": "Harim, Meremote, Obadias,",
+        "6": "Daniel, Ginetom, Baruque,",
+        "7": "Mesulão, Abias, Miamim,",
+        "8": "Maazias, Bilgai, Semaías. Estes eram os sacerdotes.",
+        "9": "E os levitas: Jesua, filho de Azanias, Binui, dos filhos de Henadade, Cadmiel",
+        "10": "e os irmãos deles: Sebanias, Hodias, Quelita, Pelaías, Hanã,",
+        "11": "Mica, Reobe, Hasabias,",
+        "12": "Zacur, Serebias, Sebanias,",
+        "13": "Hodias, Bani e Beninu.",
+        "14": "Os chefes do povo: Parós, Paate-Moabe, Elão, Zatu, Bani,",
+        "15": "Buni, Azgade, Bebai,",
+        "16": "Adonias, Bigvai, Adim,",
+        "17": "Ater, Ezequias, Azur,",
+        "18": "Hodias, Hasum, Besai,",
+        "19": "Harife, Anatote, Nebai,",
+        "20": "Magpias, Mesulão, Hezir,",
+        "21": "Mesezabel, Zadoque, Jadua,",
+        "22": "Pelatias, Hanã, Anaías,",
+        "23": "Oseias, Hananias, Hassube,",
+        "24": "Haloés, Pilha, Sobeque,",
+        "25": "Reum, Hasabna, Maaseias,",
+        "26": "Aías, Hanã, Anã,",
+        "27": "Maluque, Harim e Baaná.",
+        "28": "O resto do povo, os sacerdotes, os levitas, os porteiros, os cantores, os servidores do templo e todos os que tinham se separado dos povos de outras terras para seguirem a Lei de Deus, com as suas mulheres, os seus filhos e as suas filhas, todos os que tinham saber e entendimento,",
+        "29": "firmemente aderiram aos seus compatriotas, os nobres, e prometeram, com juramento e sob pena de maldição, que andariam na Lei de Deus, que foi dada por meio de Moisés, servo de Deus; que guardariam e cumpririam todos os mandamentos do Senhor , nosso Deus, e os seus juízos e os seus estatutos;",
+        "30": "que não dariam as suas filhas em casamento aos povos da terra, nem escolheriam as filhas deles para casar com os seus filhos;",
+        "31": "que, se os povos da terra trouxessem qualquer mercadoria ou qualquer cereal para vender no dia de sábado, nada comprariam deles no sábado nem em dias santificados; e que, no sétimo ano, abririam mão da colheita e de toda e qualquer cobrança.",
+        "32": "Também assumimos a obrigação de contribuir anualmente com quatro gramas de prata para o serviço do templo do nosso Deus,",
+        "33": "para os pães da proposição, para a oferta contínua de cereais, para o holocausto contínuo dos sábados e das Festas da Lua Nova, para as festas fixas, para as coisas sagradas, para as ofertas pelo pecado, para fazer expiação por Israel e para toda a obra do templo do nosso Deus.",
+        "34": "Nós, os sacerdotes, os levitas e o povo lançamos sortes a respeito da oferta da lenha que se havia de trazer ao templo do nosso Deus, segundo as nossas famílias, em tempos determinados, de ano em ano, para queimar sobre o altar do Senhor , nosso Deus, como está escrito na Lei.",
+        "35": "Também nos comprometemos a trazer anualmente à Casa do Senhor as primícias da nossa terra e todas as primícias de todas as árvores frutíferas,",
+        "36": "bem como os primogênitos dos nossos filhos e os do nosso gado, como está escrito na Lei.",
+        "37": "e de trazer aos sacerdotes, aos depósitos do templo do nosso Deus, as primícias da nossa massa, as nossas ofertas, o fruto de toda árvore, o vinho e o azeite.",
+        "38": "O sacerdote, filho de Arão, estaria com os levitas quando estes recebessem os dízimos, e os levitas trariam os dízimos dos dízimos ao templo do nosso Deus, aos depósitos da casa do tesouro.",
+        "39": "Porque os filhos de Israel e os filhos de Levi devem trazer as ofertas do cereal, do vinho e do azeite para aqueles depósitos, porque ali estão os utensílios do santuário, bem como os sacerdotes que ministram, e também os porteiros e os cantores."
     }
-  }
 }

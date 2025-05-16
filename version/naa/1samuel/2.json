@@ -1,150 +1,49 @@
 {
-  "livro": "1 Samuel",
-  "capítulo": 2,
-  "versículos": {
-    "1": {
-      "título": "O cântico de Ana",
-      "texto": "Então Ana orou assim:"
+    "livro": "1 Samuel",
+    "capitulo": 2,
+    "titulos": {
+        "1": "O cântico de Ana",
+        "12": "Os filhos de Eli",
+        "18": "Samuel em Siló",
+        "22": "Eli repreende os seus filhos",
+        "27": "Profecia contra a casa de Eli"
     },
-    "2": {
-      "título": "",
-      "texto": "Ninguém é santo como o Senhor ,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Não multipliquem"
-    },
-    "4": {
-      "título": "",
-      "texto": "O arco dos fortes é quebrado,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Os que antes estavam fartos"
-    },
-    "6": {
-      "título": "",
-      "texto": "“O Senhor é quem tira a vida"
-    },
-    "7": {
-      "título": "",
-      "texto": "O Senhor empobrece"
-    },
-    "8": {
-      "título": "",
-      "texto": "Levanta o pobre do pó"
-    },
-    "9": {
-      "título": "",
-      "texto": "“Ele guarda os pés"
-    },
-    "10": {
-      "título": "",
-      "texto": "O Senhor destrói"
-    },
-    "11": {
-      "título": "",
-      "texto": "Então Elcana voltou para a sua casa, em Ramá. Mas o menino ficou servindo o Senhor , diante do sacerdote Eli."
-    },
-    "12": {
-      "título": "Os filhos de Eli",
-      "texto": "Os filhos de Eli eram homens malignos e não se importavam com o Senhor ."
-    },
-    "13": {
-      "título": "",
-      "texto": "O costume desses sacerdotes com o povo era este: quando alguém oferecia um sacrifício, o servo do sacerdote vinha com um garfo de três dentes na mão e, enquanto a carne estava cozinhando,"
-    },
-    "14": {
-      "título": "",
-      "texto": "enfiava o garfo na caldeira, na panela, no caldeirão ou na marmita, e tudo o que o garfo tirava o sacerdote pegava para si. Assim se fazia a todo o Israel que ia ali, a Siló."
-    },
-    "15": {
-      "título": "",
-      "texto": "Também antes de se queimar a gordura, o servo do sacerdote vinha e dizia ao homem que estava oferecendo o sacrifício: “Dê um pedaço desta carne para o sacerdote assar. Ele não aceitará de você carne cozida, mas apenas crua.”"
-    },
-    "16": {
-      "título": "",
-      "texto": "Se o ofertante lhe respondia: “Deixe que primeiro queime a gordura, depois você pode pegar o quanto quiser”, o servo do sacerdote dizia: “Não. Você tem de entregar essa carne agora. Se não, eu a pegarei à força.”"
-    },
-    "17": {
-      "título": "",
-      "texto": "Era, pois, muito grave o pecado desses moços diante do Senhor , porque eles desprezavam a oferta do Senhor ."
-    },
-    "18": {
-      "título": "Samuel em Siló",
-      "texto": "Samuel ministrava diante do Senhor , sendo ainda menino, vestido de uma estola sacerdotal de linho."
-    },
-    "19": {
-      "título": "",
-      "texto": "Sua mãe lhe fazia uma túnica pequena e, de ano em ano, a levava para ele quando ia com o seu marido oferecer o sacrifício anual."
-    },
-    "20": {
-      "título": "",
-      "texto": "Eli abençoava Elcana e a sua mulher e dizia:"
-    },
-    "21": {
-      "título": "",
-      "texto": "Assim, o Senhor abençoou Ana e ela engravidava. Teve mais três filhos e duas filhas. E o menino Samuel crescia diante do Senhor ."
-    },
-    "22": {
-      "título": "Eli repreende os seus filhos",
-      "texto": "Eli já era muito velho e ouvia tudo o que os seus filhos faziam a todo o Israel e de como se deitavam com as mulheres que serviam à porta da tenda do encontro."
-    },
-    "23": {
-      "título": "",
-      "texto": "E disse-lhes:"
-    },
-    "24": {
-      "título": "",
-      "texto": "Não, meus filhos, porque não é boa fama esta que ouço. Vocês estão levando o povo do Senhor a transgredir."
-    },
-    "25": {
-      "título": "",
-      "texto": "Se um homem pecar contra o seu próximo, Deus será o árbitro. Mas, se ele pecar contra o Senhor , quem intercederá por ele?"
-    },
-    "26": {
-      "título": "",
-      "texto": "E o jovem Samuel crescia em estatura e no favor do Senhor e dos homens."
-    },
-    "27": {
-      "título": "Profecia contra a casa de Eli",
-      "texto": "Um homem de Deus veio a Eli e disse:"
-    },
-    "28": {
-      "título": "",
-      "texto": "Eu o escolhi dentre todas as tribos de Israel para ser o meu sacerdote, para subir ao meu altar, para queimar o incenso e para usar a estola sacerdotal diante de mim. E dei à casa de seu pai todas as ofertas queimadas dos filhos de Israel."
-    },
-    "29": {
-      "título": "",
-      "texto": "Por que tratam com desprezo os meus sacrifícios e as minhas ofertas de cereais, que ordenei que se fizessem na minha morada? E, você, por que honra os seus filhos mais do que a mim, para que você e eles engordem com as melhores partes de todas as ofertas do meu povo de Israel?”"
-    },
-    "30": {
-      "título": "",
-      "texto": "— Portanto, o Senhor , o Deus de Israel, diz: “Na verdade, eu prometi que a sua casa e a casa de seu pai andariam diante de mim para sempre. Mas agora o Senhor diz: Longe de mim tal coisa, porque honrarei aqueles que me honram, porém desprezarei os que me desprezam."
-    },
-    "31": {
-      "título": "",
-      "texto": "Eis que vêm dias em que acabarei com o seu poder e com o poder da casa de seu pai, para que ninguém em sua casa chegue a ficar velho."
-    },
-    "32": {
-      "título": "",
-      "texto": "E você verá a aflição da morada de Deus, juntamente com o bem que farei a Israel. Mas ninguém da sua casa chegará à velhice."
-    },
-    "33": {
-      "título": "",
-      "texto": "O homem, porém, da sua linhagem a quem eu não afastar do meu altar será poupado apenas para lhe consumir os olhos e lhe entristecer a alma. E todos os descendentes da sua casa morrerão na flor da idade."
-    },
-    "34": {
-      "título": "",
-      "texto": "E o que vier a acontecer com os seus dois filhos, Hofni e Fineias, será um sinal para você: ambos morrerão no mesmo dia."
-    },
-    "35": {
-      "título": "",
-      "texto": "Então suscitarei para mim um sacerdote fiel, que fará segundo o que tenho no coração e na mente. Eu lhe edificarei uma casa estável, e ele andará diante do meu ungido para sempre."
-    },
-    "36": {
-      "título": "",
-      "texto": "E todo aquele que restar da sua casa virá a inclinar-se diante dele, para obter uma moeda de prata e um bocado de pão. E dirá: ‘Peço que você me dê um dos cargos sacerdotais, para que eu tenha um pedaço de pão para comer.’”"
+    "versiculos": {
+        "1": "Então Ana orou assim:",
+        "2": "Ninguém é santo como o Senhor ,",
+        "3": "Não multipliquem",
+        "4": "O arco dos fortes é quebrado,",
+        "5": "Os que antes estavam fartos",
+        "6": "“O Senhor é quem tira a vida",
+        "7": "O Senhor empobrece",
+        "8": "Levanta o pobre do pó",
+        "9": "“Ele guarda os pés",
+        "10": "O Senhor destrói",
+        "11": "Então Elcana voltou para a sua casa, em Ramá. Mas o menino ficou servindo o Senhor , diante do sacerdote Eli.",
+        "12": "Os filhos de Eli eram homens malignos e não se importavam com o Senhor .",
+        "13": "O costume desses sacerdotes com o povo era este: quando alguém oferecia um sacrifício, o servo do sacerdote vinha com um garfo de três dentes na mão e, enquanto a carne estava cozinhando,",
+        "14": "enfiava o garfo na caldeira, na panela, no caldeirão ou na marmita, e tudo o que o garfo tirava o sacerdote pegava para si. Assim se fazia a todo o Israel que ia ali, a Siló.",
+        "15": "Também antes de se queimar a gordura, o servo do sacerdote vinha e dizia ao homem que estava oferecendo o sacrifício: “Dê um pedaço desta carne para o sacerdote assar. Ele não aceitará de você carne cozida, mas apenas crua.”",
+        "16": "Se o ofertante lhe respondia: “Deixe que primeiro queime a gordura, depois você pode pegar o quanto quiser”, o servo do sacerdote dizia: “Não. Você tem de entregar essa carne agora. Se não, eu a pegarei à força.”",
+        "17": "Era, pois, muito grave o pecado desses moços diante do Senhor , porque eles desprezavam a oferta do Senhor .",
+        "18": "Samuel ministrava diante do Senhor , sendo ainda menino, vestido de uma estola sacerdotal de linho.",
+        "19": "Sua mãe lhe fazia uma túnica pequena e, de ano em ano, a levava para ele quando ia com o seu marido oferecer o sacrifício anual.",
+        "20": "Eli abençoava Elcana e a sua mulher e dizia:",
+        "21": "Assim, o Senhor abençoou Ana e ela engravidava. Teve mais três filhos e duas filhas. E o menino Samuel crescia diante do Senhor .",
+        "22": "Eli já era muito velho e ouvia tudo o que os seus filhos faziam a todo o Israel e de como se deitavam com as mulheres que serviam à porta da tenda do encontro.",
+        "23": "E disse-lhes:",
+        "24": "Não, meus filhos, porque não é boa fama esta que ouço. Vocês estão levando o povo do Senhor a transgredir.",
+        "25": "Se um homem pecar contra o seu próximo, Deus será o árbitro. Mas, se ele pecar contra o Senhor , quem intercederá por ele?",
+        "26": "E o jovem Samuel crescia em estatura e no favor do Senhor e dos homens.",
+        "27": "Um homem de Deus veio a Eli e disse:",
+        "28": "Eu o escolhi dentre todas as tribos de Israel para ser o meu sacerdote, para subir ao meu altar, para queimar o incenso e para usar a estola sacerdotal diante de mim. E dei à casa de seu pai todas as ofertas queimadas dos filhos de Israel.",
+        "29": "Por que tratam com desprezo os meus sacrifícios e as minhas ofertas de cereais, que ordenei que se fizessem na minha morada? E, você, por que honra os seus filhos mais do que a mim, para que você e eles engordem com as melhores partes de todas as ofertas do meu povo de Israel?”",
+        "30": "— Portanto, o Senhor , o Deus de Israel, diz: “Na verdade, eu prometi que a sua casa e a casa de seu pai andariam diante de mim para sempre. Mas agora o Senhor diz: Longe de mim tal coisa, porque honrarei aqueles que me honram, porém desprezarei os que me desprezam.",
+        "31": "Eis que vêm dias em que acabarei com o seu poder e com o poder da casa de seu pai, para que ninguém em sua casa chegue a ficar velho.",
+        "32": "E você verá a aflição da morada de Deus, juntamente com o bem que farei a Israel. Mas ninguém da sua casa chegará à velhice.",
+        "33": "O homem, porém, da sua linhagem a quem eu não afastar do meu altar será poupado apenas para lhe consumir os olhos e lhe entristecer a alma. E todos os descendentes da sua casa morrerão na flor da idade.",
+        "34": "E o que vier a acontecer com os seus dois filhos, Hofni e Fineias, será um sinal para você: ambos morrerão no mesmo dia.",
+        "35": "Então suscitarei para mim um sacerdote fiel, que fará segundo o que tenho no coração e na mente. Eu lhe edificarei uma casa estável, e ele andará diante do meu ungido para sempre.",
+        "36": "E todo aquele que restar da sua casa virá a inclinar-se diante dele, para obter uma moeda de prata e um bocado de pão. E dirá: ‘Peço que você me dê um dos cargos sacerdotais, para que eu tenha um pedaço de pão para comer.’”"
     }
-  }
 }

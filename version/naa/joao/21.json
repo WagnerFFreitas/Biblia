@@ -1,106 +1,37 @@
 {
-  "livro": "João",
-  "capítulo": 21,
-  "versículos": {
-    "1": {
-      "título": "Jesus aparece a sete discípulos",
-      "texto": "Depois disso, Jesus se manifestou outra vez aos discípulos junto ao mar de Tiberíades. Foi assim que ele se manifestou:"
+    "livro": "João",
+    "capitulo": 21,
+    "titulos": {
+        "1": "Jesus aparece a sete discípulos",
+        "15": "Jesus e Pedro",
+        "20": "Jesus e o outro discípulo",
+        "24": "O testemunho de João"
     },
-    "2": {
-      "título": "",
-      "texto": "Estavam juntos Simão Pedro, Tomé, chamado Dídimo, Natanael, que era de Caná da Galileia, os filhos de Zebedeu e mais dois discípulos de Jesus."
-    },
-    "3": {
-      "título": "",
-      "texto": "Simão Pedro disse aos outros:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Ao romper o dia, Jesus estava na praia, mas os discípulos não reconheceram que era ele."
-    },
-    "5": {
-      "título": "",
-      "texto": "Jesus lhes perguntou:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Então Jesus disse:"
-    },
-    "7": {
-      "título": "",
-      "texto": "E o discípulo a quem Jesus amava disse a Pedro:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Os outros discípulos vieram no barquinho puxando a rede com os peixes, porque estavam somente a uns noventa metros da margem."
-    },
-    "9": {
-      "título": "",
-      "texto": "Ao saltarem em terra, viram ali umas brasas com peixe por cima; e também havia pão."
-    },
-    "10": {
-      "título": "",
-      "texto": "Jesus lhes disse:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Simão Pedro entrou no barco e arrastou a rede para a terra. A rede estava cheia, com cento e cinquenta e três grandes peixes. E, mesmo sendo tantos peixes, a rede não se rompeu."
-    },
-    "12": {
-      "título": "",
-      "texto": "Jesus disse a eles:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Jesus veio, pegou o pão e deu a eles. Depois fez a mesma coisa com o peixe."
-    },
-    "14": {
-      "título": "",
-      "texto": "E esta já era a terceira vez que Jesus se manifestava aos seus discípulos depois de ressuscitado dentre os mortos."
-    },
-    "15": {
-      "título": "Jesus e Pedro",
-      "texto": "Depois de terem comido, Jesus perguntou a Simão Pedro:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Jesus perguntou pela segunda vez:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Pela terceira vez Jesus lhe perguntou:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Em verdade, em verdade lhe digo que, quando era mais moço, você se cingia e andava por onde queria. Mas, quando você for velho, estenderá as mãos, e outro o cingirá e o levará para onde você não quer ir."
-    },
-    "19": {
-      "título": "",
-      "texto": "Jesus disse isso para significar com que tipo de morte Pedro havia de glorificar a Deus. Depois de falar assim, Jesus acrescentou:"
-    },
-    "20": {
-      "título": "Jesus e o outro discípulo",
-      "texto": "Então Pedro, voltando-se, viu que o discípulo a quem Jesus amava vinha seguindo; era o mesmo que na ceia havia se reclinado sobre o peito de Jesus para perguntar: “Senhor, quem é o traidor?”"
-    },
-    "21": {
-      "título": "",
-      "texto": "Ao vê-lo, Pedro perguntou a Jesus:"
-    },
-    "22": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "23": {
-      "título": "",
-      "texto": "Então se espalhou entre os irmãos a notícia de que aquele discípulo não morreria. Ora, Jesus não tinha dito que tal discípulo não morreria, mas: “Se eu quero que ele permaneça até que eu venha, o que você tem com isso?”"
-    },
-    "24": {
-      "título": "O testemunho de João",
-      "texto": "Este é o discípulo que dá testemunho a respeito destas coisas e que as escreveu; e sabemos que o seu testemunho é verdadeiro."
-    },
-    "25": {
-      "título": "",
-      "texto": "Há, porém, ainda muitas outras coisas que Jesus fez. Se todas elas fossem relatadas uma por uma, penso que nem no mundo inteiro caberiam os livros que seriam escritos."
+    "versiculos": {
+        "1": "Depois disso, Jesus se manifestou outra vez aos discípulos junto ao mar de Tiberíades. Foi assim que ele se manifestou:",
+        "2": "Estavam juntos Simão Pedro, Tomé, chamado Dídimo, Natanael, que era de Caná da Galileia, os filhos de Zebedeu e mais dois discípulos de Jesus.",
+        "3": "Simão Pedro disse aos outros:",
+        "4": "Ao romper o dia, Jesus estava na praia, mas os discípulos não reconheceram que era ele.",
+        "5": "Jesus lhes perguntou:",
+        "6": "Então Jesus disse:",
+        "7": "E o discípulo a quem Jesus amava disse a Pedro:",
+        "8": "Os outros discípulos vieram no barquinho puxando a rede com os peixes, porque estavam somente a uns noventa metros da margem.",
+        "9": "Ao saltarem em terra, viram ali umas brasas com peixe por cima; e também havia pão.",
+        "10": "Jesus lhes disse:",
+        "11": "Simão Pedro entrou no barco e arrastou a rede para a terra. A rede estava cheia, com cento e cinquenta e três grandes peixes. E, mesmo sendo tantos peixes, a rede não se rompeu.",
+        "12": "Jesus disse a eles:",
+        "13": "Jesus veio, pegou o pão e deu a eles. Depois fez a mesma coisa com o peixe.",
+        "14": "E esta já era a terceira vez que Jesus se manifestava aos seus discípulos depois de ressuscitado dentre os mortos.",
+        "15": "Depois de terem comido, Jesus perguntou a Simão Pedro:",
+        "16": "Jesus perguntou pela segunda vez:",
+        "17": "Pela terceira vez Jesus lhe perguntou:",
+        "18": "Em verdade, em verdade lhe digo que, quando era mais moço, você se cingia e andava por onde queria. Mas, quando você for velho, estenderá as mãos, e outro o cingirá e o levará para onde você não quer ir.",
+        "19": "Jesus disse isso para significar com que tipo de morte Pedro havia de glorificar a Deus. Depois de falar assim, Jesus acrescentou:",
+        "20": "Então Pedro, voltando-se, viu que o discípulo a quem Jesus amava vinha seguindo; era o mesmo que na ceia havia se reclinado sobre o peito de Jesus para perguntar: “Senhor, quem é o traidor?”",
+        "21": "Ao vê-lo, Pedro perguntou a Jesus:",
+        "22": "Jesus respondeu:",
+        "23": "Então se espalhou entre os irmãos a notícia de que aquele discípulo não morreria. Ora, Jesus não tinha dito que tal discípulo não morreria, mas: “Se eu quero que ele permaneça até que eu venha, o que você tem com isso?”",
+        "24": "Este é o discípulo que dá testemunho a respeito destas coisas e que as escreveu; e sabemos que o seu testemunho é verdadeiro.",
+        "25": "Há, porém, ainda muitas outras coisas que Jesus fez. Se todas elas fossem relatadas uma por uma, penso que nem no mundo inteiro caberiam os livros que seriam escritos."
     }
-  }
 }

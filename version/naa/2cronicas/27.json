@@ -1,42 +1,18 @@
 {
-  "livro": "2 Crônicas",
-  "capítulo": 27,
-  "versículos": {
-    "1": {
-      "título": "O reinado de Jotão, de Judá",
-      "texto": "Jotão tinha vinte e cinco anos de idade quando começou a reinar e reinou dezesseis anos em Jerusalém. A mãe dele se chamava Jerusa e era filha de Zadoque."
+    "livro": "2 Crônicas",
+    "capitulo": 27,
+    "titulos": {
+        "1": "O reinado de Jotão, de Judá"
     },
-    "2": {
-      "título": "",
-      "texto": "Fez o que era reto aos olhos do Senhor , segundo tudo o que Uzias, seu pai, havia feito, exceto que não entrou no templo do Senhor . E o povo continuava na prática do mal."
-    },
-    "3": {
-      "título": "",
-      "texto": "Ele edificou o Portão de Cima da Casa do Senhor e também edificou muitas obras sobre a Muralha de Ofel."
-    },
-    "4": {
-      "título": "",
-      "texto": "Também construiu cidades na região montanhosa de Judá e castelos e torres nos bosques."
-    },
-    "5": {
-      "título": "",
-      "texto": "Ele também guerreou contra o rei dos filhos de Amom e o derrotou, de modo que os filhos de Amom, naquele ano, lhe deram três mil e quatrocentos quilos de prata, mil toneladas de trigo e mil toneladas de cevada. E eles lhe trouxeram isto também no segundo e no terceiro ano."
-    },
-    "6": {
-      "título": "",
-      "texto": "Assim, Jotão se tornou cada vez mais poderoso, porque dirigia os seus caminhos segundo a vontade do Senhor , seu Deus."
-    },
-    "7": {
-      "título": "",
-      "texto": "Quanto aos demais atos de Jotão, todas as suas guerras e empreendimentos, eis que está tudo escrito no Livro da História dos Reis de Israel e de Judá."
-    },
-    "8": {
-      "título": "",
-      "texto": "Tinha vinte e cinco anos de idade quando começou a reinar e reinou dezesseis anos em Jerusalém."
-    },
-    "9": {
-      "título": "",
-      "texto": "Jotão morreu e foi sepultado na Cidade de Davi. E Acaz, seu filho, reinou em seu lugar."
+    "versiculos": {
+        "1": "Jotão tinha vinte e cinco anos de idade quando começou a reinar e reinou dezesseis anos em Jerusalém. A mãe dele se chamava Jerusa e era filha de Zadoque.",
+        "2": "Fez o que era reto aos olhos do Senhor , segundo tudo o que Uzias, seu pai, havia feito, exceto que não entrou no templo do Senhor . E o povo continuava na prática do mal.",
+        "3": "Ele edificou o Portão de Cima da Casa do Senhor e também edificou muitas obras sobre a Muralha de Ofel.",
+        "4": "Também construiu cidades na região montanhosa de Judá e castelos e torres nos bosques.",
+        "5": "Ele também guerreou contra o rei dos filhos de Amom e o derrotou, de modo que os filhos de Amom, naquele ano, lhe deram três mil e quatrocentos quilos de prata, mil toneladas de trigo e mil toneladas de cevada. E eles lhe trouxeram isto também no segundo e no terceiro ano.",
+        "6": "Assim, Jotão se tornou cada vez mais poderoso, porque dirigia os seus caminhos segundo a vontade do Senhor , seu Deus.",
+        "7": "Quanto aos demais atos de Jotão, todas as suas guerras e empreendimentos, eis que está tudo escrito no Livro da História dos Reis de Israel e de Judá.",
+        "8": "Tinha vinte e cinco anos de idade quando começou a reinar e reinou dezesseis anos em Jerusalém.",
+        "9": "Jotão morreu e foi sepultado na Cidade de Davi. E Acaz, seu filho, reinou em seu lugar."
     }
-  }
 }

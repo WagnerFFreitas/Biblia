@@ -1,62 +1,24 @@
 {
-  "livro": "Zacarias",
-  "capítulo": 12,
-  "versículos": {
-    "1": {
-      "título": "A salvação de Jerusalém",
-      "texto": "Sentença pronunciada pelo Senhor a respeito de Israel. O Senhor , que estendeu o céu, fundou a terra e formou o espírito do ser humano dentro dele, diz:"
+    "livro": "Zacarias",
+    "capitulo": 12,
+    "titulos": {
+        "1": "A salvação de Jerusalém",
+        "10": "O arrependimento dos habitantes de Jerusalém"
     },
-    "2": {
-      "título": "",
-      "texto": "— Eis que eu farei de Jerusalém um cálice de atordoamento para todos os povos vizinhos e também para Judá, durante o sítio contra Jerusalém."
-    },
-    "3": {
-      "título": "",
-      "texto": "Naquele dia, farei de Jerusalém uma pedra pesada para todos os povos. Todos os que tentarem erguê-la ficarão gravemente feridos. E todas as nações da terra se ajuntarão contra ela."
-    },
-    "4": {
-      "título": "",
-      "texto": "Naquele dia, diz o Senhor , farei com que todos os cavalos fiquem espantados e os seus cavaleiros fiquem loucos. Manterei os meus olhos abertos sobre a casa de Judá e farei com que todos os cavalos dos povos fiquem cegos."
-    },
-    "5": {
-      "título": "",
-      "texto": "Então os chefes de Judá pensarão assim: “Os moradores de Jerusalém têm a força do Senhor dos Exércitos, seu Deus.”"
-    },
-    "6": {
-      "título": "",
-      "texto": "Naquele dia, porei os chefes de Judá como um braseiro aceso debaixo da lenha e como uma tocha acesa entre os feixes de trigo. Eles destruirão à direita e à esquerda todos os povos ao redor, e Jerusalém será habitada outra vez no seu lugar, na própria Jerusalém."
-    },
-    "7": {
-      "título": "",
-      "texto": "O Senhor salvará primeiramente as tendas de Judá, para que a glória da casa de Davi e a glória dos moradores de Jerusalém não sejam exaltadas acima de Judá."
-    },
-    "8": {
-      "título": "",
-      "texto": "Naquele dia, o Senhor protegerá os moradores de Jerusalém. O mais fraco dentre eles, naquele dia, será como Davi, e a casa de Davi será como Deus, como o Anjo do Senhor diante deles."
-    },
-    "9": {
-      "título": "",
-      "texto": "Naquele dia, procurarei destruir todas as nações que vierem contra Jerusalém."
-    },
-    "10": {
-      "título": "O arrependimento dos habitantes de Jerusalém",
-      "texto": "— E sobre a casa de Davi e sobre os moradores de Jerusalém derramarei o espírito da graça e de súplicas. Olharão para aquele a quem traspassaram. Prantearão por ele como quem pranteia por um filho único e chorarão por ele como se chora amargamente pelo primogênito."
-    },
-    "11": {
-      "título": "",
-      "texto": "Naquele dia, o pranto em Jerusalém será tão grande como o pranto de Hadade-Rimom, no vale de Megido."
-    },
-    "12": {
-      "título": "",
-      "texto": "A terra pranteará, cada família à parte: a família da casa de Davi à parte, e suas mulheres à parte; a família da casa de Natã à parte, e suas mulheres à parte;"
-    },
-    "13": {
-      "título": "",
-      "texto": "a família da casa de Levi à parte, e suas mulheres à parte; a família dos simeítas à parte, e suas mulheres à parte."
-    },
-    "14": {
-      "título": "",
-      "texto": "Todas as outras famílias prantearão, cada família à parte, e suas mulheres à parte."
+    "versiculos": {
+        "1": "Sentença pronunciada pelo Senhor a respeito de Israel. O Senhor , que estendeu o céu, fundou a terra e formou o espírito do ser humano dentro dele, diz:",
+        "2": "— Eis que eu farei de Jerusalém um cálice de atordoamento para todos os povos vizinhos e também para Judá, durante o sítio contra Jerusalém.",
+        "3": "Naquele dia, farei de Jerusalém uma pedra pesada para todos os povos. Todos os que tentarem erguê-la ficarão gravemente feridos. E todas as nações da terra se ajuntarão contra ela.",
+        "4": "Naquele dia, diz o Senhor , farei com que todos os cavalos fiquem espantados e os seus cavaleiros fiquem loucos. Manterei os meus olhos abertos sobre a casa de Judá e farei com que todos os cavalos dos povos fiquem cegos.",
+        "5": "Então os chefes de Judá pensarão assim: “Os moradores de Jerusalém têm a força do Senhor dos Exércitos, seu Deus.”",
+        "6": "Naquele dia, porei os chefes de Judá como um braseiro aceso debaixo da lenha e como uma tocha acesa entre os feixes de trigo. Eles destruirão à direita e à esquerda todos os povos ao redor, e Jerusalém será habitada outra vez no seu lugar, na própria Jerusalém.",
+        "7": "O Senhor salvará primeiramente as tendas de Judá, para que a glória da casa de Davi e a glória dos moradores de Jerusalém não sejam exaltadas acima de Judá.",
+        "8": "Naquele dia, o Senhor protegerá os moradores de Jerusalém. O mais fraco dentre eles, naquele dia, será como Davi, e a casa de Davi será como Deus, como o Anjo do Senhor diante deles.",
+        "9": "Naquele dia, procurarei destruir todas as nações que vierem contra Jerusalém.",
+        "10": "— E sobre a casa de Davi e sobre os moradores de Jerusalém derramarei o espírito da graça e de súplicas. Olharão para aquele a quem traspassaram. Prantearão por ele como quem pranteia por um filho único e chorarão por ele como se chora amargamente pelo primogênito.",
+        "11": "Naquele dia, o pranto em Jerusalém será tão grande como o pranto de Hadade-Rimom, no vale de Megido.",
+        "12": "A terra pranteará, cada família à parte: a família da casa de Davi à parte, e suas mulheres à parte; a família da casa de Natã à parte, e suas mulheres à parte;",
+        "13": "a família da casa de Levi à parte, e suas mulheres à parte; a família dos simeítas à parte, e suas mulheres à parte.",
+        "14": "Todas as outras famílias prantearão, cada família à parte, e suas mulheres à parte."
     }
-  }
 }

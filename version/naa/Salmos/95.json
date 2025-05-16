@@ -1,50 +1,20 @@
 {
-  "livro": "Salmos",
-  "capítulo": 95,
-  "versículos": {
-    "1": {
-      "título": "Convite a louvar a Deus",
-      "texto": "Venham, cantemos"
+    "livro": "Salmos",
+    "capitulo": 95,
+    "titulos": {
+        "1": "Convite a louvar a Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "Saiamos ao seu encontro"
-    },
-    "3": {
-      "título": "",
-      "texto": "Porque o Senhor"
-    },
-    "4": {
-      "título": "",
-      "texto": "Nas suas mãos estão"
-    },
-    "5": {
-      "título": "",
-      "texto": "Dele é o mar, pois ele o fez;"
-    },
-    "6": {
-      "título": "",
-      "texto": "Venham, adoremos"
-    },
-    "7": {
-      "título": "",
-      "texto": "Ele é o nosso Deus,"
-    },
-    "8": {
-      "título": "",
-      "texto": "não endureçam o coração,"
-    },
-    "9": {
-      "título": "",
-      "texto": "quando os pais de vocês"
-    },
-    "10": {
-      "título": "",
-      "texto": "Durante quarenta anos,"
-    },
-    "11": {
-      "título": "",
-      "texto": "Por isso, jurei na minha ira:"
+    "versiculos": {
+        "1": "Venham, cantemos",
+        "2": "Saiamos ao seu encontro",
+        "3": "Porque o Senhor",
+        "4": "Nas suas mãos estão",
+        "5": "Dele é o mar, pois ele o fez;",
+        "6": "Venham, adoremos",
+        "7": "Ele é o nosso Deus,",
+        "8": "não endureçam o coração,",
+        "9": "quando os pais de vocês",
+        "10": "Durante quarenta anos,",
+        "11": "Por isso, jurei na minha ira:"
     }
-  }
 }

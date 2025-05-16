@@ -1,62 +1,23 @@
 {
-  "livro": "Isaías",
-  "capítulo": 16,
-  "versículos": {
-    "1": {
-      "título": "O desespero dos moabitas",
-      "texto": "Enviem cordeiros"
+    "livro": "Isaías",
+    "capitulo": 16,
+    "titulos": {
+        "1": "O desespero dos moabitas"
     },
-    "2": {
-      "título": "",
-      "texto": "Como pássaro espantado,"
-    },
-    "3": {
-      "título": "",
-      "texto": "“Dê-nos um conselho,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Que os desterrados de Moabe"
-    },
-    "5": {
-      "título": "",
-      "texto": "então um trono será estabelecido"
-    },
-    "6": {
-      "título": "",
-      "texto": "Ouvimos falar da soberba de Moabe,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Por isso, Moabe pranteará"
-    },
-    "8": {
-      "título": "",
-      "texto": "Porque os campos de Hesbom"
-    },
-    "9": {
-      "título": "",
-      "texto": "Por isso, prantearei,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Fugiu a alegria"
-    },
-    "11": {
-      "título": "",
-      "texto": "Por isso, o meu íntimo"
-    },
-    "12": {
-      "título": "",
-      "texto": "Quando Moabe se apresentar e se cansar nos lugares altos, quando entrar no seu santuário para orar, nada alcançará."
-    },
-    "13": {
-      "título": "",
-      "texto": "Esta é a palavra que o Senhor há muito pronunciou contra Moabe."
-    },
-    "14": {
-      "título": "",
-      "texto": "Agora, porém, o Senhor diz:"
+    "versiculos": {
+        "1": "Enviem cordeiros",
+        "2": "Como pássaro espantado,",
+        "3": "“Dê-nos um conselho,",
+        "4": "Que os desterrados de Moabe",
+        "5": "então um trono será estabelecido",
+        "6": "Ouvimos falar da soberba de Moabe,",
+        "7": "Por isso, Moabe pranteará",
+        "8": "Porque os campos de Hesbom",
+        "9": "Por isso, prantearei,",
+        "10": "Fugiu a alegria",
+        "11": "Por isso, o meu íntimo",
+        "12": "Quando Moabe se apresentar e se cansar nos lugares altos, quando entrar no seu santuário para orar, nada alcançará.",
+        "13": "Esta é a palavra que o Senhor há muito pronunciou contra Moabe.",
+        "14": "Agora, porém, o Senhor diz:"
     }
-  }
 }

@@ -1,74 +1,27 @@
 {
-  "livro": "Esdras",
-  "capítulo": 5,
-  "versículos": {
-    "1": {
-      "título": "As exortações de Ageu e Zacarias",
-      "texto": "O profeta Ageu e o profeta Zacarias, filho de Ido, profetizaram aos judeus que estavam em Judá e em Jerusalém, em nome do Deus de Israel, que estava sobre eles."
+    "livro": "Esdras",
+    "capitulo": 5,
+    "titulos": {
+        "1": "As exortações de Ageu e Zacarias",
+        "6": "Os adversários consultam Dario"
     },
-    "2": {
-      "título": "",
-      "texto": "Então Zorobabel, filho de Sealtiel, e Jesua, filho de Jozadaque, começaram a reconstruir a Casa de Deus, em Jerusalém. Os referidos profetas de Deus estavam com eles e os ajudavam."
-    },
-    "3": {
-      "título": "",
-      "texto": "Nesse tempo, Tatenai, governador da região deste lado do Eufrates, e Setar-Bozenai e os seus companheiros vieram até eles e assim lhes perguntaram:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Perguntaram mais:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Porém os olhos de Deus estavam sobre os anciãos dos judeus, de maneira que não foram obrigados a parar, até que o assunto chegasse a Dario, e viesse resposta por carta sobre isso."
-    },
-    "6": {
-      "título": "Os adversários consultam Dario",
-      "texto": "Eis a cópia da carta que Tatenai, o governador da região deste lado do Eufrates, com Setar-Bozenai e os seus companheiros, os afarsaquitas, que estavam deste lado do rio, enviaram ao rei Dario,"
-    },
-    "7": {
-      "título": "",
-      "texto": "na qual lhe deram um relatório nos seguintes termos:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Saiba o rei que nós fomos à província de Judá, ao templo do grande Deus, que está sendo construído com grandes pedras. A madeira está sendo colocada nas paredes, e a obra está sendo feita com diligência e avançando nas mãos deles."
-    },
-    "9": {
-      "título": "",
-      "texto": "Perguntamos aos anciãos e assim lhes dissemos: ‘Quem deu ordem para vocês reconstruírem este templo e restaurarem esta muralha?’"
-    },
-    "10": {
-      "título": "",
-      "texto": "Além disto, perguntamos também pelos nomes deles, para informar ao senhor, para que pudéssemos enviar por escrito ao rei os nomes dos homens que são os chefes deles."
-    },
-    "11": {
-      "título": "",
-      "texto": "Esta foi a resposta que nos deram: ‘Nós somos servos do Deus dos céus e da terra e estamos reconstruindo o templo que há muitos anos tinha sido construído, o qual um grande rei de Israel construiu e terminou."
-    },
-    "12": {
-      "título": "",
-      "texto": "Mas, depois que os nossos pais provocaram o Deus dos céus à ira, ele os entregou nas mãos de Nabucodonosor, rei da Babilônia, o caldeu, o qual destruiu este templo e transportou o povo para a Babilônia."
-    },
-    "13": {
-      "título": "",
-      "texto": "Porém Ciro, rei da Babilônia, no primeiro ano do seu reinado, deu ordem para que esta Casa de Deus fosse reconstruída."
-    },
-    "14": {
-      "título": "",
-      "texto": "Também os utensílios de ouro e de prata, da Casa de Deus, que Nabucodonosor tinha levado do templo de Jerusalém e colocado no templo da Babilônia, o rei Ciro os tirou de lá, e foram dados a um homem cujo nome era Sesbazar, a quem tinha nomeado governador"
-    },
-    "15": {
-      "título": "",
-      "texto": "e a quem disse: “Pegue estes utensílios, vá e leve-os ao templo de Jerusalém, e que a Casa de Deus seja reconstruída no seu antigo lugar.”"
-    },
-    "16": {
-      "título": "",
-      "texto": "Então veio o dito Sesbazar e lançou os fundamentos da Casa de Deus, em Jerusalém; e, daí para cá, o templo tem estado em construção, mas ainda não está acabado.’"
-    },
-    "17": {
-      "título": "",
-      "texto": "Agora, se parecer bem ao rei, que se busque nos arquivos reais, na Babilônia, se é verdade que há uma ordem do rei Ciro para reconstruir esta Casa de Deus, em Jerusalém. E que o rei nos faça saber a sua vontade quanto a isto.”"
+    "versiculos": {
+        "1": "O profeta Ageu e o profeta Zacarias, filho de Ido, profetizaram aos judeus que estavam em Judá e em Jerusalém, em nome do Deus de Israel, que estava sobre eles.",
+        "2": "Então Zorobabel, filho de Sealtiel, e Jesua, filho de Jozadaque, começaram a reconstruir a Casa de Deus, em Jerusalém. Os referidos profetas de Deus estavam com eles e os ajudavam.",
+        "3": "Nesse tempo, Tatenai, governador da região deste lado do Eufrates, e Setar-Bozenai e os seus companheiros vieram até eles e assim lhes perguntaram:",
+        "4": "Perguntaram mais:",
+        "5": "Porém os olhos de Deus estavam sobre os anciãos dos judeus, de maneira que não foram obrigados a parar, até que o assunto chegasse a Dario, e viesse resposta por carta sobre isso.",
+        "6": "Eis a cópia da carta que Tatenai, o governador da região deste lado do Eufrates, com Setar-Bozenai e os seus companheiros, os afarsaquitas, que estavam deste lado do rio, enviaram ao rei Dario,",
+        "7": "na qual lhe deram um relatório nos seguintes termos:",
+        "8": "Saiba o rei que nós fomos à província de Judá, ao templo do grande Deus, que está sendo construído com grandes pedras. A madeira está sendo colocada nas paredes, e a obra está sendo feita com diligência e avançando nas mãos deles.",
+        "9": "Perguntamos aos anciãos e assim lhes dissemos: ‘Quem deu ordem para vocês reconstruírem este templo e restaurarem esta muralha?’",
+        "10": "Além disto, perguntamos também pelos nomes deles, para informar ao senhor, para que pudéssemos enviar por escrito ao rei os nomes dos homens que são os chefes deles.",
+        "11": "Esta foi a resposta que nos deram: ‘Nós somos servos do Deus dos céus e da terra e estamos reconstruindo o templo que há muitos anos tinha sido construído, o qual um grande rei de Israel construiu e terminou.",
+        "12": "Mas, depois que os nossos pais provocaram o Deus dos céus à ira, ele os entregou nas mãos de Nabucodonosor, rei da Babilônia, o caldeu, o qual destruiu este templo e transportou o povo para a Babilônia.",
+        "13": "Porém Ciro, rei da Babilônia, no primeiro ano do seu reinado, deu ordem para que esta Casa de Deus fosse reconstruída.",
+        "14": "Também os utensílios de ouro e de prata, da Casa de Deus, que Nabucodonosor tinha levado do templo de Jerusalém e colocado no templo da Babilônia, o rei Ciro os tirou de lá, e foram dados a um homem cujo nome era Sesbazar, a quem tinha nomeado governador",
+        "15": "e a quem disse: “Pegue estes utensílios, vá e leve-os ao templo de Jerusalém, e que a Casa de Deus seja reconstruída no seu antigo lugar.”",
+        "16": "Então veio o dito Sesbazar e lançou os fundamentos da Casa de Deus, em Jerusalém; e, daí para cá, o templo tem estado em construção, mas ainda não está acabado.’",
+        "17": "Agora, se parecer bem ao rei, que se busque nos arquivos reais, na Babilônia, se é verdade que há uma ordem do rei Ciro para reconstruir esta Casa de Deus, em Jerusalém. E que o rei nos faça saber a sua vontade quanto a isto.”"
     }
-  }
 }

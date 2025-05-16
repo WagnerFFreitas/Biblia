@@ -1,98 +1,35 @@
 {
-  "livro": "Mateus",
-  "capítulo": 2,
-  "versículos": {
-    "1": {
-      "título": "A visita dos magos",
-      "texto": "Tendo Jesus nascido em Belém da Judeia, nos dias do rei Herodes, eis que vieram uns magos do Oriente a Jerusalém."
+    "livro": "Mateus",
+    "capitulo": 2,
+    "titulos": {
+        "1": "A visita dos magos",
+        "13": "A fuga para o Egito",
+        "16": "A matança dos meninos de Belém",
+        "19": "A volta do Egito"
     },
-    "2": {
-      "título": "",
-      "texto": "E perguntavam:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Ao ouvir isso, o rei Herodes ficou alarmado, e, com ele, toda a Jerusalém."
-    },
-    "4": {
-      "título": "",
-      "texto": "Então Herodes convocou todos os principais sacerdotes e escribas do povo e lhes perguntou onde o Cristo deveria nascer."
-    },
-    "5": {
-      "título": "",
-      "texto": "Eles responderam:"
-    },
-    "6": {
-      "título": "",
-      "texto": "“E você, Belém, terra de Judá,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Com isto, Herodes, tendo chamado os magos para uma reunião secreta, perguntou-lhes sobre o tempo exato em que a estrela havia aparecido."
-    },
-    "8": {
-      "título": "",
-      "texto": "E, enviando-os a Belém, disse-lhes:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Depois de ouvirem o rei, os magos partiram; e eis que a estrela que viram no Oriente ia adiante deles, até que, chegando, parou sobre onde o menino estava."
-    },
-    "10": {
-      "título": "",
-      "texto": "E, vendo eles a estrela, alegraram-se com grande e intenso júbilo."
-    },
-    "11": {
-      "título": "",
-      "texto": "Entrando na casa, viram o menino com Maria, sua mãe. Prostrando-se, o adoraram; e, abrindo os seus tesouros, entregaram-lhe suas ofertas: ouro, incenso e mirra."
-    },
-    "12": {
-      "título": "",
-      "texto": "E, tendo sido avisados por Deus em sonho para não voltarem à presença de Herodes, os magos seguiram por outro caminho para a sua terra."
-    },
-    "13": {
-      "título": "A fuga para o Egito",
-      "texto": "Depois que os magos foram embora, um anjo do Senhor apareceu em sonho a José e disse:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Levantando-se José, tomou de noite o menino e a sua mãe e partiu para o Egito,"
-    },
-    "15": {
-      "título": "",
-      "texto": "onde ficou até a morte de Herodes. Isso aconteceu para se cumprir o que foi dito pelo Senhor, por meio do profeta: “Do Egito chamei o meu Filho.”"
-    },
-    "16": {
-      "título": "A matança dos meninos de Belém",
-      "texto": "Vendo-se iludido pelos magos, Herodes ficou muito furioso e mandou matar todos os meninos de Belém e de todos os seus arredores, de dois anos para baixo, conforme as informações que havia recebido dos magos a respeito do tempo em que a estrela havia aparecido."
-    },
-    "17": {
-      "título": "",
-      "texto": "Então se cumpriu o que foi dito por meio do profeta Jeremias:"
-    },
-    "18": {
-      "título": "",
-      "texto": "“Ouviu-se um clamor em Ramá,"
-    },
-    "19": {
-      "título": "A volta do Egito",
-      "texto": "Depois da morte de Herodes, um anjo do Senhor apareceu em sonho a José, no Egito, e lhe disse:"
-    },
-    "20": {
-      "título": "",
-      "texto": "— Levante-se, tome o menino e a sua mãe e vá para a terra de Israel, porque os que queriam matar o menino já morreram."
-    },
-    "21": {
-      "título": "",
-      "texto": "Levantando-se José, tomou o menino e a sua mãe e voltou para a terra de Israel."
-    },
-    "22": {
-      "título": "",
-      "texto": "Porém, ouvindo que Arquelau reinava na Judeia em lugar de seu pai Herodes, teve medo de ir para lá. E, tendo sido avisado por Deus em sonho, José foi para a região da Galileia."
-    },
-    "23": {
-      "título": "",
-      "texto": "E foi morar numa cidade chamada Nazaré, para se cumprir o que foi dito por meio dos profetas: “Ele será chamado Nazareno.”"
+    "versiculos": {
+        "1": "Tendo Jesus nascido em Belém da Judeia, nos dias do rei Herodes, eis que vieram uns magos do Oriente a Jerusalém.",
+        "2": "E perguntavam:",
+        "3": "Ao ouvir isso, o rei Herodes ficou alarmado, e, com ele, toda a Jerusalém.",
+        "4": "Então Herodes convocou todos os principais sacerdotes e escribas do povo e lhes perguntou onde o Cristo deveria nascer.",
+        "5": "Eles responderam:",
+        "6": "“E você, Belém, terra de Judá,",
+        "7": "Com isto, Herodes, tendo chamado os magos para uma reunião secreta, perguntou-lhes sobre o tempo exato em que a estrela havia aparecido.",
+        "8": "E, enviando-os a Belém, disse-lhes:",
+        "9": "Depois de ouvirem o rei, os magos partiram; e eis que a estrela que viram no Oriente ia adiante deles, até que, chegando, parou sobre onde o menino estava.",
+        "10": "E, vendo eles a estrela, alegraram-se com grande e intenso júbilo.",
+        "11": "Entrando na casa, viram o menino com Maria, sua mãe. Prostrando-se, o adoraram; e, abrindo os seus tesouros, entregaram-lhe suas ofertas: ouro, incenso e mirra.",
+        "12": "E, tendo sido avisados por Deus em sonho para não voltarem à presença de Herodes, os magos seguiram por outro caminho para a sua terra.",
+        "13": "Depois que os magos foram embora, um anjo do Senhor apareceu em sonho a José e disse:",
+        "14": "Levantando-se José, tomou de noite o menino e a sua mãe e partiu para o Egito,",
+        "15": "onde ficou até a morte de Herodes. Isso aconteceu para se cumprir o que foi dito pelo Senhor, por meio do profeta: “Do Egito chamei o meu Filho.”",
+        "16": "Vendo-se iludido pelos magos, Herodes ficou muito furioso e mandou matar todos os meninos de Belém e de todos os seus arredores, de dois anos para baixo, conforme as informações que havia recebido dos magos a respeito do tempo em que a estrela havia aparecido.",
+        "17": "Então se cumpriu o que foi dito por meio do profeta Jeremias:",
+        "18": "“Ouviu-se um clamor em Ramá,",
+        "19": "Depois da morte de Herodes, um anjo do Senhor apareceu em sonho a José, no Egito, e lhe disse:",
+        "20": "— Levante-se, tome o menino e a sua mãe e vá para a terra de Israel, porque os que queriam matar o menino já morreram.",
+        "21": "Levantando-se José, tomou o menino e a sua mãe e voltou para a terra de Israel.",
+        "22": "Porém, ouvindo que Arquelau reinava na Judeia em lugar de seu pai Herodes, teve medo de ir para lá. E, tendo sido avisado por Deus em sonho, José foi para a região da Galileia.",
+        "23": "E foi morar numa cidade chamada Nazaré, para se cumprir o que foi dito por meio dos profetas: “Ele será chamado Nazareno.”"
     }
-  }
 }

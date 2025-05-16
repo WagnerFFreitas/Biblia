@@ -1,66 +1,25 @@
 {
-  "livro": "Tito",
-  "capítulo": 2,
-  "versículos": {
-    "1": {
-      "título": "Instruções para várias classes de pessoas crentes",
-      "texto": "Mas você ensine o que está de acordo com a sã doutrina."
+    "livro": "Tito",
+    "capitulo": 2,
+    "titulos": {
+        "1": "Instruções para várias classes de pessoas crentes",
+        "11": "A graça salvadora de Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "Quanto aos homens idosos, que sejam moderados, respeitáveis, sensatos, sadios na fé, no amor e na perseverança."
-    },
-    "3": {
-      "título": "",
-      "texto": "Do mesmo modo, quanto às mulheres idosas, que tenham conduta reverente, não sejam caluniadoras, nem escravizadas a muito vinho. Que sejam mestras do bem,"
-    },
-    "4": {
-      "título": "",
-      "texto": "a fim de instruírem as jovens recém-casadas a amar o marido e os filhos,"
-    },
-    "5": {
-      "título": "",
-      "texto": "a serem sensatas, puras, boas donas de casa, bondosas, sujeitas ao marido, para que a palavra de Deus não seja difamada."
-    },
-    "6": {
-      "título": "",
-      "texto": "Do mesmo modo, quanto aos mais jovens, exorte-os para que, em todas as coisas, sejam moderados."
-    },
-    "7": {
-      "título": "",
-      "texto": "Seja você mesmo um exemplo de boas obras. No ensino, mostre integridade, reverência,"
-    },
-    "8": {
-      "título": "",
-      "texto": "linguagem sadia e irrepreensível, para que o adversário seja envergonhado, não tendo nada de mau a dizer a nosso respeito."
-    },
-    "9": {
-      "título": "",
-      "texto": "Quanto aos servos, que sejam, em tudo, obedientes ao seu senhor, dando-lhe motivo de satisfação. Que não sejam respondões,"
-    },
-    "10": {
-      "título": "",
-      "texto": "nem furtem, mas que deem prova de toda a fidelidade, a fim de que, em todas as coisas, manifestem a beleza da doutrina de Deus, nosso Salvador."
-    },
-    "11": {
-      "título": "A graça salvadora de Deus",
-      "texto": "Porque a graça de Deus se manifestou, trazendo salvação a todos."
-    },
-    "12": {
-      "título": "",
-      "texto": "Ela nos educa para que, renegadas a impiedade e as paixões mundanas, vivamos neste mundo de forma sensata, justa e piedosa,"
-    },
-    "13": {
-      "título": "",
-      "texto": "aguardando a bendita esperança e a manifestação da glória do nosso grande Deus e Salvador Jesus Cristo."
-    },
-    "14": {
-      "título": "",
-      "texto": "Ele deu a si mesmo por nós, a fim de nos remir de toda iniquidade e purificar, para si mesmo, um povo exclusivamente seu, dedicado à prática de boas obras."
-    },
-    "15": {
-      "título": "",
-      "texto": "Ensine estas coisas. Também exorte e repreenda com toda a autoridade. Que ninguém despreze você."
+    "versiculos": {
+        "1": "Mas você ensine o que está de acordo com a sã doutrina.",
+        "2": "Quanto aos homens idosos, que sejam moderados, respeitáveis, sensatos, sadios na fé, no amor e na perseverança.",
+        "3": "Do mesmo modo, quanto às mulheres idosas, que tenham conduta reverente, não sejam caluniadoras, nem escravizadas a muito vinho. Que sejam mestras do bem,",
+        "4": "a fim de instruírem as jovens recém-casadas a amar o marido e os filhos,",
+        "5": "a serem sensatas, puras, boas donas de casa, bondosas, sujeitas ao marido, para que a palavra de Deus não seja difamada.",
+        "6": "Do mesmo modo, quanto aos mais jovens, exorte-os para que, em todas as coisas, sejam moderados.",
+        "7": "Seja você mesmo um exemplo de boas obras. No ensino, mostre integridade, reverência,",
+        "8": "linguagem sadia e irrepreensível, para que o adversário seja envergonhado, não tendo nada de mau a dizer a nosso respeito.",
+        "9": "Quanto aos servos, que sejam, em tudo, obedientes ao seu senhor, dando-lhe motivo de satisfação. Que não sejam respondões,",
+        "10": "nem furtem, mas que deem prova de toda a fidelidade, a fim de que, em todas as coisas, manifestem a beleza da doutrina de Deus, nosso Salvador.",
+        "11": "Porque a graça de Deus se manifestou, trazendo salvação a todos.",
+        "12": "Ela nos educa para que, renegadas a impiedade e as paixões mundanas, vivamos neste mundo de forma sensata, justa e piedosa,",
+        "13": "aguardando a bendita esperança e a manifestação da glória do nosso grande Deus e Salvador Jesus Cristo.",
+        "14": "Ele deu a si mesmo por nós, a fim de nos remir de toda iniquidade e purificar, para si mesmo, um povo exclusivamente seu, dedicado à prática de boas obras.",
+        "15": "Ensine estas coisas. Também exorte e repreenda com toda a autoridade. Que ninguém despreze você."
     }
-  }
 }

@@ -1,90 +1,32 @@
 {
-  "livro": "Obadias",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Visão de Obadias."
+    "livro": "Obadias",
+    "capitulo": 1,
+    "titulos": {
+        "2": "Deus castigará Edom",
+        "10": "A violência de Edom contra Jacó",
+        "15": "A restauração e a felicidade de Israel"
     },
-    "2": {
-      "título": "Deus castigará Edom",
-      "texto": "Eis que fiz de você uma nação"
-    },
-    "3": {
-      "título": "",
-      "texto": "O orgulho do seu coração"
-    },
-    "4": {
-      "título": "",
-      "texto": "Ainda que você suba"
-    },
-    "5": {
-      "título": "",
-      "texto": "“Se ladrões o atacassem"
-    },
-    "6": {
-      "título": "",
-      "texto": "Como foram saqueados"
-    },
-    "7": {
-      "título": "",
-      "texto": "Todos os seus aliados, ó Edom,"
-    },
-    "8": {
-      "título": "",
-      "texto": "“Naquele dia”,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Os seus valentes, ó Temã,"
-    },
-    "10": {
-      "título": "A violência de Edom contra Jacó",
-      "texto": "“Por causa da violência feita"
-    },
-    "11": {
-      "título": "",
-      "texto": "No dia em que estranhos"
-    },
-    "12": {
-      "título": "",
-      "texto": "Você não devia ter olhado"
-    },
-    "13": {
-      "título": "",
-      "texto": "Você não devia ter entrado"
-    },
-    "14": {
-      "título": "",
-      "texto": "Você não devia ter parado"
-    },
-    "15": {
-      "título": "A restauração e a felicidade de Israel",
-      "texto": "“Porque o Dia do Senhor"
-    },
-    "16": {
-      "título": "",
-      "texto": "Porque, assim como vocês"
-    },
-    "17": {
-      "título": "",
-      "texto": "“Mas, no monte Sião,"
-    },
-    "18": {
-      "título": "",
-      "texto": "A casa de Jacó será fogo"
-    },
-    "19": {
-      "título": "",
-      "texto": "“Os de Neguebe tomarão posse"
-    },
-    "20": {
-      "título": "",
-      "texto": "Os cativos do exército"
-    },
-    "21": {
-      "título": "",
-      "texto": "Salvadores hão de subir"
+    "versiculos": {
+        "1": "Visão de Obadias.",
+        "2": "Eis que fiz de você uma nação",
+        "3": "O orgulho do seu coração",
+        "4": "Ainda que você suba",
+        "5": "“Se ladrões o atacassem",
+        "6": "Como foram saqueados",
+        "7": "Todos os seus aliados, ó Edom,",
+        "8": "“Naquele dia”,",
+        "9": "Os seus valentes, ó Temã,",
+        "10": "“Por causa da violência feita",
+        "11": "No dia em que estranhos",
+        "12": "Você não devia ter olhado",
+        "13": "Você não devia ter entrado",
+        "14": "Você não devia ter parado",
+        "15": "“Porque o Dia do Senhor",
+        "16": "Porque, assim como vocês",
+        "17": "“Mas, no monte Sião,",
+        "18": "A casa de Jacó será fogo",
+        "19": "“Os de Neguebe tomarão posse",
+        "20": "Os cativos do exército",
+        "21": "Salvadores hão de subir"
     }
-  }
 }

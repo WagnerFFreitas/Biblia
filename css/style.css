@@ -2,65 +2,150 @@
 body {
   background-color: #181818;
   color: #fff;
-  font-family: sans-serif;
+  /*font-family: sans-serif;*/
   margin: 0;
   width: 100%;
   overflow-x: hidden;
 }
 
-/* Estilo do título principal */
-h1 {
-  margin: 20px 0 0 30px;
-  font-size: 2.5em; 
-  font-weight: bold;
-  font-style: italic;
+/* Container para centralizar o título principal e o subtítulo (agora alinhado à esquerda) */
+.titulo-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* ALTERADO de 'center' para 'flex-start' para alinhar conteúdo à esquerda */
+  /* flex-grow: 1; */ /* COMENTADO/REMOVIDO - Impedia o alinhamento à esquerda ao tentar preencher espaço */
 }
+
+
+/* Estilo do título principal */
+h1#titulo-principal-versao { /* Mais específico para evitar conflitos */
+  margin: 20px 0 0 0; /* Margem esquerda 0 */
+  font-size: 2.5em; 
+  /*font-weight: bold;*/
+  font-style: italic;
+  text-align: left; /* ALTERADO de 'center' para 'left' */
+}
+
+/* Estilo para o subtítulo da versão por extenso */
+.nome-extenso-versao {
+  font-size: 1.5em; 
+  color: #dddddd; 
+  /*text-align: center; /* ALTERADO de 'center' para 'left' */
+  /*margin: -15px 0 15px 0; /* Margem esquerda 0 */
+  margin-left: 250px; /* Ajuste para alinhar à esquerda */
+  margin-top: -2px;
+  margin-bottom: 1.5px;   /* Margem inferior */
+  
+  font-weight: normal; 
+  font-style: normal; 
+}
+
 
 /* Barra de navegação */
 nav {
   background: linear-gradient(to right, #333, #555, #777);
   width: 100%;
-  padding: 10px 0;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  height: 40px; /* Altura fixa para o nav */
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* <<< ADICIONADO: Para separar os dois ULs */
+  padding: 2px 20px; /* ajuste do espaçamento horizontal (mantém o padding geral da nav) */
+   font-family: Arial, sans-serif; /* Fonte mais simples */
+  font-style: normal; /* Remove itálico */
+ 
 }
 
 nav ul {
   display: flex;
-  justify-content: center;
+  align-items: center;
   list-style: none;
   margin: 0;
   padding: 0;
-  margin-right: -140px;
+  height: 100%; /* Ocupa toda a altura do nav */
 }
 
+/* Ajuste específico para o UL que contém apenas "LIVROS" para garantir que ele não tenha padding desnecessário se houver */
+nav ul:first-child {
+    padding-left: 0; /* Ou um valor pequeno se necessário, ex: 10px */
+}
+
+/* Ajuste para o UL das opções do menu para que tenha um padding à direita se necessário */
+/*nav ul.menu-opcoes {
+    /*padding-right: 0; /* Ou um valor pequeno *
+    margin-left: 0;
+}*/
+
+
 nav ul li {
-  margin: 0 5px;
+  margin: 0 3px; /* Espaçamento entre os itens do menu (ex: Menu, Modo Leitura, etc.) */
+  display: flex;
+  align-items: center;
+  height: 100%; /* Ocupa toda a altura do nav */
 }
 
 nav ul li a {
   text-decoration: none;
   color: white;
-  font-weight: bold;
-  padding: 8px 15px;
+  /*font-weight: bold;*/
+  padding: 0 11px; /* Reduzido padding horizontal para os links para diminuir o espaço */
   border-radius: 5px;
   transition: background 0.3s ease;
+  line-height: 40px; /* Mesma altura do nav */
+  white-space: nowrap; /* Impede quebra de linha */
+  padding: 0 5px;
 }
 
 nav ul li a:hover {
   background: rgba(255, 255, 255, 0.1);
 }
 
+nav ul.menu-opcoes li:first-child {
+  margin-left: 0; /* Remove margem do primeiro item após "LIVROS" */
+}
+
+/* Ajusta o espaçamento entre os itens do menu */
+nav ul.menu-opcoes li {
+    margin: 0 -10px; /* Reduz o espaço vertical entre os itens */
+    /*padding-left: 150px; /* Recuo à esquerda para alinhar com "LIVROS" */
+    /*padding-right: 10px; /* Recuo à direita para alinhar com "LIVROS" */
+    font-size: 1.1em; /* Aumenta um pouco o tamanho da fonte */
+   /* font-weight: bold; /* Deixa o texto em negrito */
+    color: #f5f5f5; /* Cor do texto */
+    text-decoration: none; /* Remove sublinhado */
+    border-radius: 5px; /* Bordas arredondadas */
+    transition: background-color 0.3s ease; /* Transição suave para a cor de fundo */
+  }
+
+/* Opcional: Diminui o padding interno dos links para compactar mais */
+nav ul.menu-opcoes li a {
+    padding: 3px 6px; /* Reduz o espaço interno (vertical, horizontal) */
+    /*font-size: 0.95em; /* Opcional: Reduz um pouco o tamanho da fonte */
+}
+
+/* Ajusta o alinhamento dos itens do menu */
+/* Ajustes nas listas do menu */
+nav ul.menu-opcoes {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  margin: -40px;
+  padding:0px; /* Ajusta o padding para centralizar os itens */
+  height: 100%;
+  width: calc(100% - 190px); /* Ajusta largura considerando espaço do título */
+}
+
 /* Menu lateral de livros */
 .menu-livros {
   flex: 1;
   margin-right: 20px;
-  height: calc(100vh - 205px);
+  height: calc(100vh - 25px);
   overflow-y: auto;
   background-color: #181818;
   color: #fff;
   padding: 20px;
   position: fixed;
-  top: 135px;
+  top: 151px;
   left: 0;
   width: 164px;
   bottom: 0;
@@ -69,7 +154,7 @@ nav ul li a:hover {
 
 /* Barra de rolagem do menu lateral */
 .menu-livros::-webkit-scrollbar {
-  width: 12px;
+  width: 15px;
 }
 
 .menu-livros::-webkit-scrollbar-track {
@@ -99,6 +184,19 @@ nav ul li a:hover {
 
 .menu-livros a:hover {
   text-decoration: underline;
+}
+
+/* Título do menu "LIVROS" na barra de navegação */
+.menu-title {
+  color: white;
+  /*font-weight: bold;*/
+  /* padding: 0 15px; Removido para não adicionar espaço extra ao redor de LIVROS */
+  display: inline-flex;
+  align-items: center;
+  height: 100%;
+  font-size: 1.4rem;
+  margin-left: 10px; /*Removido ou ajustado, pois o padding da nav já cuida disso */
+  
 }
 
 /* Área de conteúdo principal */
@@ -134,9 +232,9 @@ nav ul li a:hover {
 .search-bar {
   display: flex;
   align-items: center;
-  flex-shrink: 0;
-  margin-right: 60px;
-  margin-top: 20px;
+  flex-shrink: 0; /* Para não encolher demais */
+  margin-right: 20px; /* Ajustado para não sobrepor demais */
+  margin-top: 20px; /* Mantido */
 }
 
 .search-bar select {
@@ -175,26 +273,36 @@ nav ul li a:hover {
 }
 
 /* Cabeçalho fixo */
-.header {
-  position: fixed;
-}
+/* .header { */ 
+  /* position: fixed; */ 
+/* } */
 
 .header-top {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-between; 
+  align-items: flex-start; 
+  padding: 0 20px; 
 }
 
 .header-bottom {
-  margin-top: 28px;
+  margin-top: 10px; 
 }
 
+/* Removendo a margem específica que causava o grande espaçamento */
+ 
+.header-bottom nav ul li:not(:first-child) {
+    margin-left: 28px; 
+}
+
+
 .header-bottom ul {
-  margin-left: 30px;
+  margin-left: 0; 
 }
 
 .header-bottom ul li {
   font-style: italic;
 }
+
 
 /* Botões de capítulos */
 .capitulos {
@@ -228,20 +336,21 @@ nav ul li a:hover {
 
 /* Títulos que fica acima dos botões */
 h2 {
-  font-weight: bold;
+  /*font-weight: bold;*/
   color: #f5f1f1;
   font-style: italic;
   font-size: 2.5vw;
   text-align: center;
-  margin-top: 30px;
-  margin-left: 150px;
+  margin-top: 15px;
+  margin-left: 200px;
+  margin-bottom: 45px;
   max-width: calc(100% - 80px);
 }
 
 h3 {
-  font-weight: bold;
+  /*font-weight: bold;*/
   color: #f5f1f1;
-  font-size: 1.5em; 
+  font-size: 1em; 
   font-style: italic;
   margin-left: 14px;
   margin-top: -5px;
@@ -277,7 +386,7 @@ h3 {
   color: #f8f8f8;
   font-family: "Arial Black", Gadget, sans-serif;
   font-style: italic;
-  font-weight: bold;
+  /*font-weight: bold;*/
   margin: 10px 30px 20px 220px;
   line-height: 1.2;
   text-align: center;
@@ -494,6 +603,33 @@ footer p {
   .sobre-content p {
     font-size: 1.2em;
   }
+  nav {
+    padding: 2px 10px; /* Reduzir padding da nav em telas menores */
+  }
+  nav ul li a {
+    padding: 0 8px; /* Reduzir padding dos links */
+  }
+  .menu-title {
+    font-size: 1.2rem;
+  }
+  .header-top {
+    flex-direction: column; /* Empilha título e busca em telas menores */
+    align-items: center; /* Centraliza os itens empilhados */
+  }
+  .titulo-container {
+    width: 100%; /* Faz o container do título ocupar toda a largura */
+    margin-bottom: 10px; /* Espaço entre título e barra de busca */
+    align-items: center; /* Centraliza o H1 e P dentro do container em telas menores */
+  }
+  h1#titulo-principal-versao,
+  .nome-extenso-versao {
+      text-align: center; /* Garante centralização em telas menores */
+  }
+  .search-bar {
+    margin-right: 0; /* Remove margem da barra de busca quando empilhada */
+    width: 90%; /* Ajusta largura da barra de busca */
+    justify-content: center; /* Centraliza itens da barra de busca */
+  }
 }
 
 @media (max-width: 480px) {
@@ -506,6 +642,30 @@ footer p {
   .sobre-content p {
     font-size: 1em;
   }
+  nav ul {
+    /* Se necessário, permitir que os itens do menu quebrem em telas muito pequenas */
+    /* flex-wrap: wrap; */ 
+  }
+  nav ul li {
+    margin: 0 3px;
+  }
+  nav ul li a {
+    padding: 0 5px;
+    font-size: 0.9em;
+  }
+  .menu-title {
+    font-size: 1rem;
+  }
+  .search-bar input[type="text"], .search-bar select, .search-bar button {
+    font-size: 14px; /* Reduz fonte dos elementos da busca */
+    padding: 6px;
+  }
+  h1#titulo-principal-versao {
+      font-size: 2em; /* Reduz tamanho do título principal */
+  }
+  .nome-extenso-versao {
+      font-size: 0.9em; /* Reduz tamanho do subtítulo */
+  }
 }
 
 /* Botão ativo do modo leitura */
@@ -514,17 +674,14 @@ footer p {
   color: white;
 }
 
-/* --- INÍCIO DO TRECHO MODIFICADO/ADICIONADO --- */
 /* Navegação do Modo Leitura (Cap. Anterior / Próximo Cap.) */
 .reading-mode-navigation {
   display: flex;
-  justify-content: flex-start; /* ESTA LINHA ALINHA OS BOTÕES À DIREITA */
-  margin-bottom: 15px; /* Espaço entre os botões e o texto do capítulo abaixo */
+  justify-content: flex-start; 
+  margin-bottom: 15px; 
   padding-bottom: 10px; 
-  /* border-bottom: 1px solid #444; Opcional: linha separadora */
 }
 
-/* Estilos para os botões dentro deste container */
 .reading-mode-navigation button {
   padding: 6px 12px; 
   font-size: 0.85em; 
@@ -548,4 +705,3 @@ footer p {
   background-color: #5a5a5a;
   border-color: #777;
 }
-/* --- FIM DO TRECHO MODIFICADO/ADICIONADO --- */

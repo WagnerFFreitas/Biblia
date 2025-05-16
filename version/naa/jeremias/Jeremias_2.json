@@ -1,154 +1,48 @@
 {
-  "livro": "Jeremias",
-  "capítulo": 2,
-  "versículos": {
-    "1": {
-      "título": "O amor de Deus e a rebeldia do povo",
-      "texto": "A palavra do Senhor veio a mim, dizendo:"
+    "livro": "Jeremias",
+    "capitulo": 2,
+    "titulos": {
+        "1": "O amor de Deus e a rebeldia do povo",
+        "9": "Infidelidade sem igual",
+        "20": "Israel adorou Baal"
     },
-    "2": {
-      "título": "",
-      "texto": "— Vá e proclame diante do povo de Jerusalém:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Israel era consagrado ao Senhor"
-    },
-    "4": {
-      "título": "",
-      "texto": "Escutem a palavra do Senhor , ó casa de Jacó e todas as famílias da casa de Israel."
-    },
-    "5": {
-      "título": "",
-      "texto": "Assim diz o Senhor :"
-    },
-    "6": {
-      "título": "",
-      "texto": "Eles não perguntaram:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Eu os trouxe para uma terra fértil,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Os sacerdotes não perguntaram:"
-    },
-    "9": {
-      "título": "Infidelidade sem igual",
-      "texto": "“Portanto, ainda entrarei"
-    },
-    "10": {
-      "título": "",
-      "texto": "Vão até as terras"
-    },
-    "11": {
-      "título": "",
-      "texto": "Houve alguma nação"
-    },
-    "12": {
-      "título": "",
-      "texto": "Fiquem espantados com isto,"
-    },
-    "13": {
-      "título": "",
-      "texto": "“Porque o meu povo"
-    },
-    "14": {
-      "título": "",
-      "texto": "“Por acaso Israel é escravo"
-    },
-    "15": {
-      "título": "",
-      "texto": "Os leões novos rugiram"
-    },
-    "16": {
-      "título": "",
-      "texto": "Até os moradores de Mênfis"
-    },
-    "17": {
-      "título": "",
-      "texto": "Por acaso isso não aconteceu"
-    },
-    "18": {
-      "título": "",
-      "texto": "E, agora, que lucro você terá"
-    },
-    "19": {
-      "título": "",
-      "texto": "A sua própria maldade"
-    },
-    "20": {
-      "título": "Israel adorou Baal",
-      "texto": "“Porque há muito tempo"
-    },
-    "21": {
-      "título": "",
-      "texto": "Eu mesmo a plantei"
-    },
-    "22": {
-      "título": "",
-      "texto": "Mesmo que você se lave"
-    },
-    "23": {
-      "título": "",
-      "texto": "“Como é que você pode dizer:"
-    },
-    "24": {
-      "título": "",
-      "texto": "Você é como"
-    },
-    "25": {
-      "título": "",
-      "texto": "Evite andar por aí"
-    },
-    "26": {
-      "título": "",
-      "texto": "“Como um ladrão se envergonha"
-    },
-    "27": {
-      "título": "",
-      "texto": "Eles dizem a um pedaço"
-    },
-    "28": {
-      "título": "",
-      "texto": "Onde estão os deuses"
-    },
-    "29": {
-      "título": "",
-      "texto": "“Por que vocês querem"
-    },
-    "30": {
-      "título": "",
-      "texto": "“Em vão castiguei"
-    },
-    "31": {
-      "título": "",
-      "texto": "Vocês, desta geração, considerem"
-    },
-    "32": {
-      "título": "",
-      "texto": "Por acaso, uma virgem"
-    },
-    "33": {
-      "título": "",
-      "texto": "“Como você sabe dispor bem"
-    },
-    "34": {
-      "título": "",
-      "texto": "Nas bordas das suas roupas"
-    },
-    "35": {
-      "título": "",
-      "texto": "você ainda diz: ‘Estou inocente."
-    },
-    "36": {
-      "título": "",
-      "texto": "Por que você é tão leviana"
-    },
-    "37": {
-      "título": "",
-      "texto": "Também do Egito você sairá"
+    "versiculos": {
+        "1": "A palavra do Senhor veio a mim, dizendo:",
+        "2": "— Vá e proclame diante do povo de Jerusalém:",
+        "3": "Israel era consagrado ao Senhor",
+        "4": "Escutem a palavra do Senhor , ó casa de Jacó e todas as famílias da casa de Israel.",
+        "5": "Assim diz o Senhor :",
+        "6": "Eles não perguntaram:",
+        "7": "Eu os trouxe para uma terra fértil,",
+        "8": "Os sacerdotes não perguntaram:",
+        "9": "“Portanto, ainda entrarei",
+        "10": "Vão até as terras",
+        "11": "Houve alguma nação",
+        "12": "Fiquem espantados com isto,",
+        "13": "“Porque o meu povo",
+        "14": "“Por acaso Israel é escravo",
+        "15": "Os leões novos rugiram",
+        "16": "Até os moradores de Mênfis",
+        "17": "Por acaso isso não aconteceu",
+        "18": "E, agora, que lucro você terá",
+        "19": "A sua própria maldade",
+        "20": "“Porque há muito tempo",
+        "21": "Eu mesmo a plantei",
+        "22": "Mesmo que você se lave",
+        "23": "“Como é que você pode dizer:",
+        "24": "Você é como",
+        "25": "Evite andar por aí",
+        "26": "“Como um ladrão se envergonha",
+        "27": "Eles dizem a um pedaço",
+        "28": "Onde estão os deuses",
+        "29": "“Por que vocês querem",
+        "30": "“Em vão castiguei",
+        "31": "Vocês, desta geração, considerem",
+        "32": "Por acaso, uma virgem",
+        "33": "“Como você sabe dispor bem",
+        "34": "Nas bordas das suas roupas",
+        "35": "você ainda diz: ‘Estou inocente.",
+        "36": "Por que você é tão leviana",
+        "37": "Também do Egito você sairá"
     }
-  }
 }

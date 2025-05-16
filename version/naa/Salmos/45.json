@@ -1,74 +1,26 @@
 {
-  "livro": "Salmos",
-  "capítulo": 45,
-  "versículos": {
-    "1": {
-      "título": "O Ungido de Deus e a sua noiva",
-      "texto": "O meu coração transborda"
+    "livro": "Salmos",
+    "capitulo": 45,
+    "titulos": {
+        "1": "O Ungido de Deus e a sua noiva"
     },
-    "2": {
-      "título": "",
-      "texto": "O senhor, ó rei, é o mais formoso"
-    },
-    "3": {
-      "título": "",
-      "texto": "Cinja a espada no seu flanco,"
-    },
-    "4": {
-      "título": "",
-      "texto": "E nessa majestade"
-    },
-    "5": {
-      "título": "",
-      "texto": "As suas flechas são afiadas"
-    },
-    "6": {
-      "título": "",
-      "texto": "O teu trono, ó Deus,"
-    },
-    "7": {
-      "título": "",
-      "texto": "O senhor, ó rei, ama a justiça"
-    },
-    "8": {
-      "título": "",
-      "texto": "Todas as suas roupas cheiram"
-    },
-    "9": {
-      "título": "",
-      "texto": "Filhas de reis se encontram"
-    },
-    "10": {
-      "título": "",
-      "texto": "Ouça, filha,"
-    },
-    "11": {
-      "título": "",
-      "texto": "Então o rei ficará encantado"
-    },
-    "12": {
-      "título": "",
-      "texto": "A filha de Tiro virá"
-    },
-    "13": {
-      "título": "",
-      "texto": "A filha do rei é toda formosura"
-    },
-    "14": {
-      "título": "",
-      "texto": "Em roupas bordadas"
-    },
-    "15": {
-      "título": "",
-      "texto": "Serão conduzidas"
-    },
-    "16": {
-      "título": "",
-      "texto": "Em lugar de seus pais,"
-    },
-    "17": {
-      "título": "",
-      "texto": "Farei com que o seu nome"
+    "versiculos": {
+        "1": "O meu coração transborda",
+        "2": "O senhor, ó rei, é o mais formoso",
+        "3": "Cinja a espada no seu flanco,",
+        "4": "E nessa majestade",
+        "5": "As suas flechas são afiadas",
+        "6": "O teu trono, ó Deus,",
+        "7": "O senhor, ó rei, ama a justiça",
+        "8": "Todas as suas roupas cheiram",
+        "9": "Filhas de reis se encontram",
+        "10": "Ouça, filha,",
+        "11": "Então o rei ficará encantado",
+        "12": "A filha de Tiro virá",
+        "13": "A filha do rei é toda formosura",
+        "14": "Em roupas bordadas",
+        "15": "Serão conduzidas",
+        "16": "Em lugar de seus pais,",
+        "17": "Farei com que o seu nome"
     }
-  }
 }

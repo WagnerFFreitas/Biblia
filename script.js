@@ -4,54 +4,51 @@
 var bibleVersions = []; // Usar 'let' ou 'const' é mais moderno que 'var'
 
 // Adicionando versões padrões à lista
-bibleVersions.push({ titleAnime: 'Bíblia ARC', img: './img/arc.png' });
-bibleVersions.push({ titleAnime: 'Bíblia ARA', img: './img/ara.png' });
+// A ordem aqui define a ordem inicial de exibição, se não houver busca.
+// Para consistência com a lógica de clique, você pode querer reordenar aqui também.
 bibleVersions.push({ titleAnime: 'Bíblia ACF', img: './img/acf.png' });
+bibleVersions.push({ titleAnime: 'Bíblia ARA', img: './img/ara.png' });
+bibleVersions.push({ titleAnime: 'Bíblia ARC', img: './img/arc.png' });
+bibleVersions.push({ titleAnime: 'Bíblia KJV', img: './img/kjv.png' });
 bibleVersions.push({ titleAnime: 'Bíblia NAA', img: './img/naa.png' });
-bibleVersions.push({ titleAnime: 'Bíblia NVI', img: './img/nvi.png' });
 bibleVersions.push({ titleAnime: 'Bíblia NTLH', img: './img/ntlh.png' });
-bibleVersions.push({ titleAnime: 'Bíblia BKJ', img: './img/bkj.png' }); // BKJ ou KJV? Certifique-se da consistência
+bibleVersions.push({ titleAnime: 'Bíblia NVI', img: './img/nvi.png' });
+bibleVersions.push({ titleAnime: 'Bíblia NVT', img: './img/nvt.png' });
 bibleVersions.push({ titleAnime: 'Bíblia Original', img: './img/original.png' });
 // Adicione mais versões aqui se necessário
 
 // Input da barra de busca
-// Garanta que o elemento com id 'inputUser' existe no seu index.html
 const inputUserFilter = document.getElementById('inputUser');
-// Adiciona um listener para filtrar enquanto digita (opcional, mas melhora a experiência)
 if (inputUserFilter) {
-    inputUserFilter.addEventListener('input', searchBar); // Chama searchBar a cada tecla digitada
+    inputUserFilter.addEventListener('input', searchBar);
 } else {
     console.warn("Elemento com id 'inputUser' não encontrado no index.html");
 }
 
 // Função que filtra as versões da Bíblia com base no texto digitado na barra de busca
 function searchBar() {
-    const list = document.getElementById('List'); // Garanta que <ul id='List'> existe no index.html
+    const list = document.getElementById('List');
     if (!list) {
         console.error("Elemento <ul id='List'> não encontrado no index.html");
         return;
     }
-    list.innerHTML = ''; // Limpa a lista atual antes de adicionar os itens filtrados
+    list.innerHTML = '';
 
-    const searchTerm = inputUserFilter ? inputUserFilter.value.toLowerCase() : ''; // Pega o termo de busca em minúsculas
+    const searchTerm = inputUserFilter ? inputUserFilter.value.toLowerCase() : '';
     const filteredVersions = [];
 
-    // Itera sobre a lista completa de versões da Bíblia
     for (let i = 0; i < bibleVersions.length; i++) {
-        const versionNameLower = bibleVersions[i].titleAnime.toLowerCase(); // Pega o nome da versão em minúsculas
-        // Verifica se o nome da versão inclui o termo de busca (case-insensitive)
+        const versionNameLower = bibleVersions[i].titleAnime.toLowerCase();
         if (versionNameLower.includes(searchTerm)) {
-            filteredVersions.push(bibleVersions[i]); // Adiciona à lista filtrada se corresponder
+            filteredVersions.push(bibleVersions[i]);
         }
     }
 
-    // Adiciona as Bíblias filtradas na lista <ul> do HTML
     if (filteredVersions.length > 0) {
         for (let i = 0; i < filteredVersions.length; i++) {
             list.appendChild(createElementAnime(filteredVersions[i]));
         }
     } else {
-        // Opcional: Mostrar uma mensagem se nenhuma versão for encontrada
         list.innerHTML = '<p style="color: white; text-align: center; width: 100%; padding: 20px;">Nenhuma versão encontrada.</p>';
     }
 }
@@ -62,24 +59,25 @@ function createElementAnime(anime) {
     const img = document.createElement('img');
     const name = document.createElement('h2');
 
-    img.src = anime.img; // Define o src da imagem
-    img.alt = anime.titleAnime; // Adiciona texto alternativo para acessibilidade
-    name.innerHTML = anime.titleAnime; // Define o texto do título
+    img.src = anime.img;
+    img.alt = anime.titleAnime;
+    name.innerHTML = anime.titleAnime;
 
-    // Adiciona listener de clique para redirecionar para a página da versão com parâmetro
     listItem.addEventListener('click', () => {
-        let versaoCod = null; // Variável para armazenar o código da versão ('arc', 'ara', etc.)
-        const titleLower = anime.titleAnime.toLowerCase(); // Converte o título para minúsculas para comparação
+        let versaoCod = null;
+        const titleLower = anime.titleAnime.toLowerCase();
 
-        // Mapeia o título para o código da versão
-        if (titleLower.includes('arc')) versaoCod = 'arc';
+        // Ordem ajustada para corresponder à estrutura de pastas e preferência lógica
+        if (titleLower.includes('acf')) versaoCod = 'acf';
         else if (titleLower.includes('ara')) versaoCod = 'ara';
-        else if (titleLower.includes('acf')) versaoCod = 'acf';
+        else if (titleLower.includes('arc')) versaoCod = 'arc';
+        else if (titleLower.includes('kjv')) versaoCod = 'kjv';
         else if (titleLower.includes('naa')) versaoCod = 'naa';
-        else if (titleLower.includes('nvi')) versaoCod = 'nvi';
         else if (titleLower.includes('ntlh')) versaoCod = 'ntlh';
-        else if (titleLower.includes('bkj')) versaoCod = 'bkj';
+        else if (titleLower.includes('nvi')) versaoCod = 'nvi';
+        else if (titleLower.includes('nvt')) versaoCod = 'nvt';
         else if (titleLower.includes('original')) versaoCod = 'original';
+        // Adicione outras versões aqui se necessário, mantendo a ordem desejada
 
         if (versaoCod) {
             const urlDestino = `html/versoes.html?version=${versaoCod}`;
@@ -148,7 +146,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const saveButton = document.querySelector('.saveStyle');
     if (!saveButton) console.warn("Botão '.saveStyle' não encontrado.");
 
-    searchBar();
+    searchBar(); // Chama para popular a lista inicialmente
 });
 
 // Exibe o pop-up de adição de nova versão da Bíblia

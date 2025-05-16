@@ -1,122 +1,36 @@
 {
-  "livro": "Provérbios",
-  "capítulo": 19,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Melhor é o pobre que anda"
-    },
-    "2": {
-      "título": "",
-      "texto": "Não é bom agir sem pensar;"
-    },
-    "3": {
-      "título": "",
-      "texto": "A tolice de uma pessoa"
-    },
-    "4": {
-      "título": "",
-      "texto": "Na riqueza,"
-    },
-    "5": {
-      "título": "",
-      "texto": "A falsa testemunha"
-    },
-    "6": {
-      "título": "",
-      "texto": "Ao generoso, muitos o adulam,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Se os irmãos do pobre"
-    },
-    "8": {
-      "título": "",
-      "texto": "Quem adquire sabedoria"
-    },
-    "9": {
-      "título": "",
-      "texto": "A falsa testemunha"
-    },
-    "10": {
-      "título": "",
-      "texto": "Ao tolo não fica bem"
-    },
-    "11": {
-      "título": "",
-      "texto": "O bom senso leva a pessoa"
-    },
-    "12": {
-      "título": "",
-      "texto": "A indignação do rei"
-    },
-    "13": {
-      "título": "",
-      "texto": "Um filho tolo"
-    },
-    "14": {
-      "título": "",
-      "texto": "A casa e os bens vêm"
-    },
-    "15": {
-      "título": "",
-      "texto": "A preguiça faz cair"
-    },
-    "16": {
-      "título": "",
-      "texto": "Quem guarda o mandamento"
-    },
-    "17": {
-      "título": "",
-      "texto": "Quem se compadece do pobre"
-    },
-    "18": {
-      "título": "",
-      "texto": "Corrija o seu filho,"
-    },
-    "19": {
-      "título": "",
-      "texto": "Aquele que se deixa levar pela ira"
-    },
-    "20": {
-      "título": "",
-      "texto": "Ouça os conselhos"
-    },
-    "21": {
-      "título": "",
-      "texto": "Há muitos planos"
-    },
-    "22": {
-      "título": "",
-      "texto": "O que torna alguém agradável"
-    },
-    "23": {
-      "título": "",
-      "texto": "O temor do Senhor"
-    },
-    "24": {
-      "título": "",
-      "texto": "O preguiçoso põe a mão"
-    },
-    "25": {
-      "título": "",
-      "texto": "Castigue o zombador,"
-    },
-    "26": {
-      "título": "",
-      "texto": "Quem maltrata o seu pai"
-    },
-    "27": {
-      "título": "",
-      "texto": "Meu filho, se deixar de ouvir"
-    },
-    "28": {
-      "título": "",
-      "texto": "A testemunha depravada"
-    },
-    "29": {
-      "título": "",
-      "texto": "Preparados estão os juízos"
+    "livro": "Provérbios",
+    "capitulo": 19,
+    "titulos": {},
+    "versiculos": {
+        "1": "Melhor é o pobre que anda",
+        "2": "Não é bom agir sem pensar;",
+        "3": "A tolice de uma pessoa",
+        "4": "Na riqueza,",
+        "5": "A falsa testemunha",
+        "6": "Ao generoso, muitos o adulam,",
+        "7": "Se os irmãos do pobre",
+        "8": "Quem adquire sabedoria",
+        "9": "A falsa testemunha",
+        "10": "Ao tolo não fica bem",
+        "11": "O bom senso leva a pessoa",
+        "12": "A indignação do rei",
+        "13": "Um filho tolo",
+        "14": "A casa e os bens vêm",
+        "15": "A preguiça faz cair",
+        "16": "Quem guarda o mandamento",
+        "17": "Quem se compadece do pobre",
+        "18": "Corrija o seu filho,",
+        "19": "Aquele que se deixa levar pela ira",
+        "20": "Ouça os conselhos",
+        "21": "Há muitos planos",
+        "22": "O que torna alguém agradável",
+        "23": "O temor do Senhor",
+        "24": "O preguiçoso põe a mão",
+        "25": "Castigue o zombador,",
+        "26": "Quem maltrata o seu pai",
+        "27": "Meu filho, se deixar de ouvir",
+        "28": "A testemunha depravada",
+        "29": "Preparados estão os juízos"
     }
-  }
 }

@@ -1,50 +1,21 @@
 {
-  "livro": "Zacarias",
-  "capítulo": 5,
-  "versículos": {
-    "1": {
-      "título": "A sexta visão: o rolo que voava",
-      "texto": "Tornei a levantar os olhos e vi, e eis um livro em forma de rolo que voava."
+    "livro": "Zacarias",
+    "capitulo": 5,
+    "titulos": {
+        "1": "A sexta visão: o rolo que voava",
+        "5": "A sétima visão: a mulher e o cesto"
     },
-    "2": {
-      "título": "",
-      "texto": "O anjo me perguntou:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Então ele me disse:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Enviarei essa maldição, diz o Senhor dos Exércitos, e a farei entrar na casa do ladrão e na casa do que jurar falsamente pelo meu nome; ela ficará nessas casas e consumirá a sua madeira e as suas pedras."
-    },
-    "5": {
-      "título": "A sétima visão: a mulher e o cesto",
-      "texto": "O anjo que falava comigo saiu e me disse:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Eu perguntei:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Então foi levantada a tampa de chumbo que cobria o cesto, e eis que uma mulher estava sentada dentro do cesto."
-    },
-    "8": {
-      "título": "",
-      "texto": "O anjo explicou:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Levantei os olhos e vi, e eis que saíram duas mulheres. Havia vento em suas asas, que eram como de cegonha; e levantaram o cesto entre a terra e o céu."
-    },
-    "10": {
-      "título": "",
-      "texto": "Então perguntei ao anjo que falava comigo:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Ele respondeu:"
+    "versiculos": {
+        "1": "Tornei a levantar os olhos e vi, e eis um livro em forma de rolo que voava.",
+        "2": "O anjo me perguntou:",
+        "3": "Então ele me disse:",
+        "4": "Enviarei essa maldição, diz o Senhor dos Exércitos, e a farei entrar na casa do ladrão e na casa do que jurar falsamente pelo meu nome; ela ficará nessas casas e consumirá a sua madeira e as suas pedras.",
+        "5": "O anjo que falava comigo saiu e me disse:",
+        "6": "Eu perguntei:",
+        "7": "Então foi levantada a tampa de chumbo que cobria o cesto, e eis que uma mulher estava sentada dentro do cesto.",
+        "8": "O anjo explicou:",
+        "9": "Levantei os olhos e vi, e eis que saíram duas mulheres. Havia vento em suas asas, que eram como de cegonha; e levantaram o cesto entre a terra e o céu.",
+        "10": "Então perguntei ao anjo que falava comigo:",
+        "11": "Ele respondeu:"
     }
-  }
 }

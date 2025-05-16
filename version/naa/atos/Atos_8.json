@@ -1,166 +1,53 @@
 {
-  "livro": "Atos",
-  "capítulo": 8,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "E Saulo consentia na morte de Estêvão."
+    "livro": "Atos",
+    "capitulo": 8,
+    "titulos": {
+        "2": "Saulo persegue a igreja",
+        "4": "Filipe prega em Samaria",
+        "9": "Simão, o mago",
+        "14": "Pedro e João em Samaria",
+        "26": "Filipe e o eunuco"
     },
-    "2": {
-      "título": "Saulo persegue a igreja",
-      "texto": "Alguns homens piedosos sepultaram Estêvão e fizeram grande lamentação por ele."
-    },
-    "3": {
-      "título": "",
-      "texto": "Saulo, porém, queria destruir a igreja. Indo de casa em casa, arrastava homens e mulheres, lançando-os na prisão."
-    },
-    "4": {
-      "título": "Filipe prega em Samaria",
-      "texto": "Enquanto isso, os que foram dispersos iam por toda parte pregando a palavra."
-    },
-    "5": {
-      "título": "",
-      "texto": "Filipe foi à cidade de Samaria e anunciava Cristo ao povo dali."
-    },
-    "6": {
-      "título": "",
-      "texto": "As multidões, unânimes, davam atenção às coisas que Filipe dizia, ouvindo-as e vendo os sinais que ele fazia."
-    },
-    "7": {
-      "título": "",
-      "texto": "Pois os espíritos imundos, gritando em alta voz, saíam de muitos que estavam possuídos por eles; e muitos paralíticos e coxos foram curados."
-    },
-    "8": {
-      "título": "",
-      "texto": "E houve grande alegria naquela cidade."
-    },
-    "9": {
-      "título": "Simão, o mago",
-      "texto": "Havia naquela cidade um homem chamado Simão, que praticava artes mágicas e deixava o povo de Samaria admirado. Dizia ser alguém muito importante,"
-    },
-    "10": {
-      "título": "",
-      "texto": "e todos lhe davam ouvidos, do menor ao maior, dizendo:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Davam atenção a ele porque durante muito tempo os havia impressionado com as suas artes mágicas."
-    },
-    "12": {
-      "título": "",
-      "texto": "Quando, porém, deram crédito a Filipe, que os evangelizava a respeito do Reino de Deus e do nome de Jesus Cristo, iam sendo batizados, tanto homens como mulheres."
-    },
-    "13": {
-      "título": "",
-      "texto": "O próprio Simão abraçou a fé e, tendo sido batizado, acompanhava Filipe de perto, observando extasiado os sinais e grandes milagres praticados."
-    },
-    "14": {
-      "título": "Pedro e João em Samaria",
-      "texto": "Quando os apóstolos, que estavam em Jerusalém, ouviram que o povo de Samaria tinha recebido a palavra de Deus, enviaram-lhes Pedro e João."
-    },
-    "15": {
-      "título": "",
-      "texto": "Chegando ali, oraram por eles para que recebessem o Espírito Santo,"
-    },
-    "16": {
-      "título": "",
-      "texto": "pois o Espírito ainda não havia descido sobre nenhum deles. Tinham apenas sido batizados em nome do Senhor Jesus."
-    },
-    "17": {
-      "título": "",
-      "texto": "Então lhes impuseram as mãos, e eles receberam o Espírito Santo."
-    },
-    "18": {
-      "título": "",
-      "texto": "Quando Simão viu que, pelo fato de os apóstolos imporem as mãos, era concedido o Espírito Santo, ofereceu-lhes dinheiro,"
-    },
-    "19": {
-      "título": "",
-      "texto": "dizendo:"
-    },
-    "20": {
-      "título": "",
-      "texto": "Mas Pedro respondeu:"
-    },
-    "21": {
-      "título": "",
-      "texto": "Não existe porção nem parte para você neste ministério, porque o seu coração não é reto diante de Deus."
-    },
-    "22": {
-      "título": "",
-      "texto": "Portanto, arrependa-se desse mal e ore ao Senhor. Talvez ele o perdoe por esse intento do seu coração."
-    },
-    "23": {
-      "título": "",
-      "texto": "Pois vejo que você está cheio de inveja e preso em sua maldade."
-    },
-    "24": {
-      "título": "",
-      "texto": "Simão disse aos apóstolos:"
-    },
-    "25": {
-      "título": "",
-      "texto": "Eles, porém, tendo dado o seu testemunho e pregado a palavra do Senhor, voltaram para Jerusalém e evangelizavam muitas aldeias dos samaritanos."
-    },
-    "26": {
-      "título": "Filipe e o eunuco",
-      "texto": "Um anjo do Senhor disse a Filipe:"
-    },
-    "27": {
-      "título": "",
-      "texto": "Filipe se levantou e foi."
-    },
-    "28": {
-      "título": "",
-      "texto": "e estava regressando ao seu país. E, assentado na sua carruagem, vinha lendo o profeta Isaías."
-    },
-    "29": {
-      "título": "",
-      "texto": "Então o Espírito disse a Filipe:"
-    },
-    "30": {
-      "título": "",
-      "texto": "Correndo para lá, Filipe ouviu que o homem estava lendo o profeta Isaías. Então perguntou:"
-    },
-    "31": {
-      "título": "",
-      "texto": "Ele respondeu:"
-    },
-    "32": {
-      "título": "",
-      "texto": "Ora, a passagem da Escritura que ele estava lendo era esta:"
-    },
-    "33": {
-      "título": "",
-      "texto": "Na sua humilhação,"
-    },
-    "34": {
-      "título": "",
-      "texto": "Então o eunuco disse a Filipe:"
-    },
-    "35": {
-      "título": "",
-      "texto": "Então Filipe explicou. E, começando com esta passagem da Escritura, anunciou-lhe a mensagem de Jesus."
-    },
-    "36": {
-      "título": "",
-      "texto": "Seguindo pelo caminho, chegaram a certo lugar onde havia água. Então o eunuco disse:"
-    },
-    "37": {
-      "título": "",
-      "texto": "[Filipe respondeu:"
-    },
-    "38": {
-      "título": "",
-      "texto": "Então mandou parar a carruagem, ambos desceram à água, e Filipe batizou o eunuco."
-    },
-    "39": {
-      "título": "",
-      "texto": "Quando saíram da água, o Espírito do Senhor arrebatou Filipe, e o eunuco não o viu mais; e este foi seguindo o seu caminho, cheio de alegria."
-    },
-    "40": {
-      "título": "",
-      "texto": "Mas Filipe foi visto outra vez em Azoto; e, seguindo viagem, evangelizava todas as cidades até chegar a Cesareia."
+    "versiculos": {
+        "1": "E Saulo consentia na morte de Estêvão.",
+        "2": "Alguns homens piedosos sepultaram Estêvão e fizeram grande lamentação por ele.",
+        "3": "Saulo, porém, queria destruir a igreja. Indo de casa em casa, arrastava homens e mulheres, lançando-os na prisão.",
+        "4": "Enquanto isso, os que foram dispersos iam por toda parte pregando a palavra.",
+        "5": "Filipe foi à cidade de Samaria e anunciava Cristo ao povo dali.",
+        "6": "As multidões, unânimes, davam atenção às coisas que Filipe dizia, ouvindo-as e vendo os sinais que ele fazia.",
+        "7": "Pois os espíritos imundos, gritando em alta voz, saíam de muitos que estavam possuídos por eles; e muitos paralíticos e coxos foram curados.",
+        "8": "E houve grande alegria naquela cidade.",
+        "9": "Havia naquela cidade um homem chamado Simão, que praticava artes mágicas e deixava o povo de Samaria admirado. Dizia ser alguém muito importante,",
+        "10": "e todos lhe davam ouvidos, do menor ao maior, dizendo:",
+        "11": "Davam atenção a ele porque durante muito tempo os havia impressionado com as suas artes mágicas.",
+        "12": "Quando, porém, deram crédito a Filipe, que os evangelizava a respeito do Reino de Deus e do nome de Jesus Cristo, iam sendo batizados, tanto homens como mulheres.",
+        "13": "O próprio Simão abraçou a fé e, tendo sido batizado, acompanhava Filipe de perto, observando extasiado os sinais e grandes milagres praticados.",
+        "14": "Quando os apóstolos, que estavam em Jerusalém, ouviram que o povo de Samaria tinha recebido a palavra de Deus, enviaram-lhes Pedro e João.",
+        "15": "Chegando ali, oraram por eles para que recebessem o Espírito Santo,",
+        "16": "pois o Espírito ainda não havia descido sobre nenhum deles. Tinham apenas sido batizados em nome do Senhor Jesus.",
+        "17": "Então lhes impuseram as mãos, e eles receberam o Espírito Santo.",
+        "18": "Quando Simão viu que, pelo fato de os apóstolos imporem as mãos, era concedido o Espírito Santo, ofereceu-lhes dinheiro,",
+        "19": "dizendo:",
+        "20": "Mas Pedro respondeu:",
+        "21": "Não existe porção nem parte para você neste ministério, porque o seu coração não é reto diante de Deus.",
+        "22": "Portanto, arrependa-se desse mal e ore ao Senhor. Talvez ele o perdoe por esse intento do seu coração.",
+        "23": "Pois vejo que você está cheio de inveja e preso em sua maldade.",
+        "24": "Simão disse aos apóstolos:",
+        "25": "Eles, porém, tendo dado o seu testemunho e pregado a palavra do Senhor, voltaram para Jerusalém e evangelizavam muitas aldeias dos samaritanos.",
+        "26": "Um anjo do Senhor disse a Filipe:",
+        "27": "Filipe se levantou e foi.",
+        "28": "e estava regressando ao seu país. E, assentado na sua carruagem, vinha lendo o profeta Isaías.",
+        "29": "Então o Espírito disse a Filipe:",
+        "30": "Correndo para lá, Filipe ouviu que o homem estava lendo o profeta Isaías. Então perguntou:",
+        "31": "Ele respondeu:",
+        "32": "Ora, a passagem da Escritura que ele estava lendo era esta:",
+        "33": "Na sua humilhação,",
+        "34": "Então o eunuco disse a Filipe:",
+        "35": "Então Filipe explicou. E, começando com esta passagem da Escritura, anunciou-lhe a mensagem de Jesus.",
+        "36": "Seguindo pelo caminho, chegaram a certo lugar onde havia água. Então o eunuco disse:",
+        "37": "[Filipe respondeu:",
+        "38": "Então mandou parar a carruagem, ambos desceram à água, e Filipe batizou o eunuco.",
+        "39": "Quando saíram da água, o Espírito do Senhor arrebatou Filipe, e o eunuco não o viu mais; e este foi seguindo o seu caminho, cheio de alegria.",
+        "40": "Mas Filipe foi visto outra vez em Azoto; e, seguindo viagem, evangelizava todas as cidades até chegar a Cesareia."
     }
-  }
 }

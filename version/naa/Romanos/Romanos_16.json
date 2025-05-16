@@ -1,114 +1,38 @@
 {
-  "livro": "Romanos",
-  "capítulo": 16,
-  "versículos": {
-    "1": {
-      "título": "Paulo recomenda Febe",
-      "texto": "Recomendo-lhes a nossa irmã Febe, que está servindo na igreja de Cencreia,"
+    "livro": "Romanos",
+    "capitulo": 16,
+    "titulos": {
+        "1": "Paulo recomenda Febe",
+        "3": "Saudações pessoais",
+        "17": "Conselhos finais",
+        "25": "Doxologia"
     },
-    "2": {
-      "título": "",
-      "texto": "para que vocês a recebam no Senhor como convém aos santos e a ajudem em tudo o que de vocês vier a precisar; porque ela tem sido protetora de muitos, inclusive de mim."
-    },
-    "3": {
-      "título": "Saudações pessoais",
-      "texto": "Saúdem Priscila e Áquila, meus cooperadores em Cristo Jesus,"
-    },
-    "4": {
-      "título": "",
-      "texto": "os quais pela minha vida arriscaram a sua própria cabeça; e isto lhes agradeço, não somente eu, mas também todas as igrejas dos gentios."
-    },
-    "5": {
-      "título": "",
-      "texto": "Saúdem igualmente a igreja que se reúne na casa deles. Saúdem meu querido Epêneto, primeiro fruto da fé em Cristo na província da Ásia."
-    },
-    "6": {
-      "título": "",
-      "texto": "Saúdem Maria, que muito trabalhou por vocês."
-    },
-    "7": {
-      "título": "",
-      "texto": "Saúdem Andrônico e Júnias, meus parentes e companheiros de prisão, os quais são bem conhecidos entre os apóstolos e estavam em Cristo antes de mim."
-    },
-    "8": {
-      "título": "",
-      "texto": "Saúdem Amplíato, meu querido amigo no Senhor."
-    },
-    "9": {
-      "título": "",
-      "texto": "Saúdem Urbano, que é nosso cooperador em Cristo, e também meu amado Estáquis."
-    },
-    "10": {
-      "título": "",
-      "texto": "Saúdem Apeles, aprovado em Cristo. Saúdem os da casa de Aristóbulo."
-    },
-    "11": {
-      "título": "",
-      "texto": "Saúdem meu parente Herodião. Saúdem os da casa de Narciso, que estão no Senhor."
-    },
-    "12": {
-      "título": "",
-      "texto": "Saúdem Trifena e Trifosa, as quais trabalham no Senhor. Saúdem a querida Pérside, que também muito trabalhou no Senhor."
-    },
-    "13": {
-      "título": "",
-      "texto": "Saúdem Rufo, eleito no Senhor, e igualmente a mãe dele, que também tem sido mãe para mim."
-    },
-    "14": {
-      "título": "",
-      "texto": "Saúdem Asíncrito, Flegonte, Hermes, Pátrobas, Hermas e os irmãos que se reúnem com eles."
-    },
-    "15": {
-      "título": "",
-      "texto": "Saúdem Filólogo, Júlia, Nereu e sua irmã, e também Olimpas e todos os santos que se reúnem com eles."
-    },
-    "16": {
-      "título": "",
-      "texto": "Saúdem uns aos outros com um beijo santo. Todas as igrejas de Cristo mandam saudações."
-    },
-    "17": {
-      "título": "Conselhos finais",
-      "texto": "Irmãos, peço que notem bem aqueles que provocam divisões e escândalos, em desacordo com a doutrina que vocês aprenderam. Afastem-se deles,"
-    },
-    "18": {
-      "título": "",
-      "texto": "porque esses tais não servem a Cristo, nosso Senhor, e sim a seu próprio ventre. Com suaves palavras e lisonjas, enganam o coração das pessoas simples."
-    },
-    "19": {
-      "título": "",
-      "texto": "Pois a obediência de vocês é conhecida por todos; por isso, me alegro por causa de vocês. Quero que sejam sábios no que diz respeito ao bem e simples no que diz respeito ao mal."
-    },
-    "20": {
-      "título": "",
-      "texto": "E o Deus da paz, em breve, esmagará Satanás debaixo dos pés de vocês. A graça de nosso Senhor Jesus esteja com vocês."
-    },
-    "21": {
-      "título": "",
-      "texto": "Timóteo, meu cooperador, manda saudações, assim como Lúcio, Jasom e Sosípatro, meus parentes."
-    },
-    "22": {
-      "título": "",
-      "texto": "Eu, Tércio, que escrevi esta carta, mando saudações no Senhor."
-    },
-    "23": {
-      "título": "",
-      "texto": "Gaio, meu hospedeiro e de toda a igreja, manda saudações. Também mandam saudações Erasto, tesoureiro da cidade, e o irmão Quarto."
-    },
-    "24": {
-      "título": "",
-      "texto": ""
-    },
-    "25": {
-      "título": "Doxologia",
-      "texto": "Ora, ao Deus que é poderoso para confirmar vocês segundo o meu evangelho e a pregação de Jesus Cristo, conforme a revelação do mistério guardado em silêncio desde os tempos eternos,"
-    },
-    "26": {
-      "título": "",
-      "texto": "e que, agora, tornou-se manifesto e foi dado a conhecer por meio das Escrituras proféticas, segundo o mandamento do Deus eterno, para a obediência da fé, entre todas as nações,"
-    },
-    "27": {
-      "título": "",
-      "texto": "a este Deus único e sábio seja dada glória, por meio de Jesus Cristo, para sempre. Amém!"
+    "versiculos": {
+        "1": "Recomendo-lhes a nossa irmã Febe, que está servindo na igreja de Cencreia,",
+        "2": "para que vocês a recebam no Senhor como convém aos santos e a ajudem em tudo o que de vocês vier a precisar; porque ela tem sido protetora de muitos, inclusive de mim.",
+        "3": "Saúdem Priscila e Áquila, meus cooperadores em Cristo Jesus,",
+        "4": "os quais pela minha vida arriscaram a sua própria cabeça; e isto lhes agradeço, não somente eu, mas também todas as igrejas dos gentios.",
+        "5": "Saúdem igualmente a igreja que se reúne na casa deles. Saúdem meu querido Epêneto, primeiro fruto da fé em Cristo na província da Ásia.",
+        "6": "Saúdem Maria, que muito trabalhou por vocês.",
+        "7": "Saúdem Andrônico e Júnias, meus parentes e companheiros de prisão, os quais são bem conhecidos entre os apóstolos e estavam em Cristo antes de mim.",
+        "8": "Saúdem Amplíato, meu querido amigo no Senhor.",
+        "9": "Saúdem Urbano, que é nosso cooperador em Cristo, e também meu amado Estáquis.",
+        "10": "Saúdem Apeles, aprovado em Cristo. Saúdem os da casa de Aristóbulo.",
+        "11": "Saúdem meu parente Herodião. Saúdem os da casa de Narciso, que estão no Senhor.",
+        "12": "Saúdem Trifena e Trifosa, as quais trabalham no Senhor. Saúdem a querida Pérside, que também muito trabalhou no Senhor.",
+        "13": "Saúdem Rufo, eleito no Senhor, e igualmente a mãe dele, que também tem sido mãe para mim.",
+        "14": "Saúdem Asíncrito, Flegonte, Hermes, Pátrobas, Hermas e os irmãos que se reúnem com eles.",
+        "15": "Saúdem Filólogo, Júlia, Nereu e sua irmã, e também Olimpas e todos os santos que se reúnem com eles.",
+        "16": "Saúdem uns aos outros com um beijo santo. Todas as igrejas de Cristo mandam saudações.",
+        "17": "Irmãos, peço que notem bem aqueles que provocam divisões e escândalos, em desacordo com a doutrina que vocês aprenderam. Afastem-se deles,",
+        "18": "porque esses tais não servem a Cristo, nosso Senhor, e sim a seu próprio ventre. Com suaves palavras e lisonjas, enganam o coração das pessoas simples.",
+        "19": "Pois a obediência de vocês é conhecida por todos; por isso, me alegro por causa de vocês. Quero que sejam sábios no que diz respeito ao bem e simples no que diz respeito ao mal.",
+        "20": "E o Deus da paz, em breve, esmagará Satanás debaixo dos pés de vocês. A graça de nosso Senhor Jesus esteja com vocês.",
+        "21": "Timóteo, meu cooperador, manda saudações, assim como Lúcio, Jasom e Sosípatro, meus parentes.",
+        "22": "Eu, Tércio, que escrevi esta carta, mando saudações no Senhor.",
+        "23": "Gaio, meu hospedeiro e de toda a igreja, manda saudações. Também mandam saudações Erasto, tesoureiro da cidade, e o irmão Quarto.",
+        "25": "Ora, ao Deus que é poderoso para confirmar vocês segundo o meu evangelho e a pregação de Jesus Cristo, conforme a revelação do mistério guardado em silêncio desde os tempos eternos,",
+        "26": "e que, agora, tornou-se manifesto e foi dado a conhecer por meio das Escrituras proféticas, segundo o mandamento do Deus eterno, para a obediência da fé, entre todas as nações,",
+        "27": "a este Deus único e sábio seja dada glória, por meio de Jesus Cristo, para sempre. Amém!"
     }
-  }
 }

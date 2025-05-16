@@ -1,106 +1,36 @@
 {
-  "livro": "Jó",
-  "capítulo": 29,
-  "versículos": {
-    "1": {
-      "título": "Deus cuidava de mim",
-      "texto": "Jó continuou em sua fala, dizendo:"
+    "livro": "Jó",
+    "capitulo": 29,
+    "titulos": {
+        "1": "Deus cuidava de mim",
+        "11": "Eu era pai dos necessitados",
+        "18": "Todos esperavam o meu conselho"
     },
-    "2": {
-      "título": "",
-      "texto": "“Ah! Quem me dera ser"
-    },
-    "3": {
-      "título": "",
-      "texto": "Quando Deus fazia resplandecer"
-    },
-    "4": {
-      "título": "",
-      "texto": "Quem me dera ser como fui"
-    },
-    "5": {
-      "título": "",
-      "texto": "quando o Todo-Poderoso"
-    },
-    "6": {
-      "título": "",
-      "texto": "quando eu lavava"
-    },
-    "7": {
-      "título": "",
-      "texto": "Quando eu me dirigia"
-    },
-    "8": {
-      "título": "",
-      "texto": "os moços me viam"
-    },
-    "9": {
-      "título": "",
-      "texto": "Os príncipes reprimiam"
-    },
-    "10": {
-      "título": "",
-      "texto": "A voz dos nobres emudecia,"
-    },
-    "11": {
-      "título": "Eu era pai dos necessitados",
-      "texto": "“O ouvido que me ouvia"
-    },
-    "12": {
-      "título": "",
-      "texto": "porque eu livrava os pobres"
-    },
-    "13": {
-      "título": "",
-      "texto": "A bênção do que estava"
-    },
-    "14": {
-      "título": "",
-      "texto": "Eu me cobria de retidão,"
-    },
-    "15": {
-      "título": "",
-      "texto": "Eu era os olhos do cego"
-    },
-    "16": {
-      "título": "",
-      "texto": "Era pai dos necessitados"
-    },
-    "17": {
-      "título": "",
-      "texto": "Eu quebrava os queixos"
-    },
-    "18": {
-      "título": "Todos esperavam o meu conselho",
-      "texto": "“Eu dizia: ‘Vou morrer"
-    },
-    "19": {
-      "título": "",
-      "texto": "As minhas raízes se estenderão"
-    },
-    "20": {
-      "título": "",
-      "texto": "A minha honra"
-    },
-    "21": {
-      "título": "",
-      "texto": "“Os que me ouviam"
-    },
-    "22": {
-      "título": "",
-      "texto": "Depois que eu falava,"
-    },
-    "23": {
-      "título": "",
-      "texto": "Esperavam-me"
-    },
-    "24": {
-      "título": "",
-      "texto": "Quando eu sorria para eles,"
-    },
-    "25": {
-      "título": "",
-      "texto": "Eu escolhia o caminho para eles,"
+    "versiculos": {
+        "1": "Jó continuou em sua fala, dizendo:",
+        "2": "“Ah! Quem me dera ser",
+        "3": "Quando Deus fazia resplandecer",
+        "4": "Quem me dera ser como fui",
+        "5": "quando o Todo-Poderoso",
+        "6": "quando eu lavava",
+        "7": "Quando eu me dirigia",
+        "8": "os moços me viam",
+        "9": "Os príncipes reprimiam",
+        "10": "A voz dos nobres emudecia,",
+        "11": "“O ouvido que me ouvia",
+        "12": "porque eu livrava os pobres",
+        "13": "A bênção do que estava",
+        "14": "Eu me cobria de retidão,",
+        "15": "Eu era os olhos do cego",
+        "16": "Era pai dos necessitados",
+        "17": "Eu quebrava os queixos",
+        "18": "“Eu dizia: ‘Vou morrer",
+        "19": "As minhas raízes se estenderão",
+        "20": "A minha honra",
+        "21": "“Os que me ouviam",
+        "22": "Depois que eu falava,",
+        "23": "Esperavam-me",
+        "24": "Quando eu sorria para eles,",
+        "25": "Eu escolhia o caminho para eles,"
     }
-  }
 }

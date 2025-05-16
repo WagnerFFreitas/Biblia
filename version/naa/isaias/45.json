@@ -1,106 +1,36 @@
 {
-  "livro": "Isaías",
-  "capítulo": 45,
-  "versículos": {
-    "1": {
-      "título": "Ciro, o libertador de Israel",
-      "texto": "Assim diz o Senhor ao seu ungido,"
+    "livro": "Isaías",
+    "capitulo": 45,
+    "titulos": {
+        "1": "Ciro, o libertador de Israel",
+        "9": "O Senhor é o Criador",
+        "20": "O Senhor e os ídolos"
     },
-    "2": {
-      "título": "",
-      "texto": "“Eu irei adiante de você,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Darei a você"
-    },
-    "4": {
-      "título": "",
-      "texto": "Por amor do meu servo Jacó"
-    },
-    "5": {
-      "título": "",
-      "texto": "“Eu sou o Senhor , e não há outro;"
-    },
-    "6": {
-      "título": "",
-      "texto": "Para que se saiba,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Eu formo a luz e crio as trevas;"
-    },
-    "8": {
-      "título": "",
-      "texto": "“Que os céus gotejem lá do alto,"
-    },
-    "9": {
-      "título": "O Senhor é o Criador",
-      "texto": "Ai daquele que discute"
-    },
-    "10": {
-      "título": "",
-      "texto": "Ai daquele que diz ao seu pai:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Assim diz o Senhor ,"
-    },
-    "12": {
-      "título": "",
-      "texto": "Eu fiz a terra e criei nela"
-    },
-    "13": {
-      "título": "",
-      "texto": "Eu, na minha justiça,"
-    },
-    "14": {
-      "título": "",
-      "texto": "Assim diz o Senhor :"
-    },
-    "15": {
-      "título": "",
-      "texto": "Verdadeiramente tu és"
-    },
-    "16": {
-      "título": "",
-      "texto": "Ficarão envergonhados"
-    },
-    "17": {
-      "título": "",
-      "texto": "Israel, porém, será salvo"
-    },
-    "18": {
-      "título": "",
-      "texto": "Porque assim diz o Senhor ,"
-    },
-    "19": {
-      "título": "",
-      "texto": "Não falei em segredo,"
-    },
-    "20": {
-      "título": "O Senhor e os ídolos",
-      "texto": "“Reúnam-se e venham;"
-    },
-    "21": {
-      "título": "",
-      "texto": "Declarem e apresentem"
-    },
-    "22": {
-      "título": "",
-      "texto": "“Voltem-se para mim"
-    },
-    "23": {
-      "título": "",
-      "texto": "Por mim mesmo tenho jurado;"
-    },
-    "24": {
-      "título": "",
-      "texto": "De mim se dirá:"
-    },
-    "25": {
-      "título": "",
-      "texto": "Mas no Senhor será justificada"
+    "versiculos": {
+        "1": "Assim diz o Senhor ao seu ungido,",
+        "2": "“Eu irei adiante de você,",
+        "3": "Darei a você",
+        "4": "Por amor do meu servo Jacó",
+        "5": "“Eu sou o Senhor , e não há outro;",
+        "6": "Para que se saiba,",
+        "7": "Eu formo a luz e crio as trevas;",
+        "8": "“Que os céus gotejem lá do alto,",
+        "9": "Ai daquele que discute",
+        "10": "Ai daquele que diz ao seu pai:",
+        "11": "Assim diz o Senhor ,",
+        "12": "Eu fiz a terra e criei nela",
+        "13": "Eu, na minha justiça,",
+        "14": "Assim diz o Senhor :",
+        "15": "Verdadeiramente tu és",
+        "16": "Ficarão envergonhados",
+        "17": "Israel, porém, será salvo",
+        "18": "Porque assim diz o Senhor ,",
+        "19": "Não falei em segredo,",
+        "20": "“Reúnam-se e venham;",
+        "21": "Declarem e apresentem",
+        "22": "“Voltem-se para mim",
+        "23": "Por mim mesmo tenho jurado;",
+        "24": "De mim se dirá:",
+        "25": "Mas no Senhor será justificada"
     }
-  }
 }

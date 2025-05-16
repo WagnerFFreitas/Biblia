@@ -1,70 +1,26 @@
 {
-  "livro": "1 Timóteo",
-  "capítulo": 3,
-  "versículos": {
-    "1": {
-      "título": "As qualificações dos bispos e dos diáconos",
-      "texto": "Fiel é a palavra: se alguém deseja o episcopado, excelente obra almeja."
+    "livro": "1 Timóteo",
+    "capitulo": 3,
+    "titulos": {
+        "1": "As qualificações dos bispos e dos diáconos",
+        "14": "A igreja de Deus e o mistério da piedade"
     },
-    "2": {
-      "título": "",
-      "texto": "É necessário, pois, que o bispo seja irrepreensível, esposo de uma só mulher, moderado, sensato, modesto, hospitaleiro, apto para ensinar;"
-    },
-    "3": {
-      "título": "",
-      "texto": "não dado ao vinho, nem violento, porém cordial, inimigo de conflitos, não avarento;"
-    },
-    "4": {
-      "título": "",
-      "texto": "e que governe bem a própria casa, criando os filhos sob disciplina, com todo o respeito."
-    },
-    "5": {
-      "título": "",
-      "texto": "Pois, se alguém não sabe governar a própria casa, como cuidará da igreja de Deus?"
-    },
-    "6": {
-      "título": "",
-      "texto": "Que o bispo não seja recém-convertido, para não acontecer que fique cheio de orgulho e incorra na condenação do diabo."
-    },
-    "7": {
-      "título": "",
-      "texto": "É necessário, também, que ele tenha bom testemunho dos de fora, a fim de não cair na desonra e no laço do diabo."
-    },
-    "8": {
-      "título": "",
-      "texto": "Do mesmo modo, quanto a diáconos, é necessário que sejam respeitáveis, de uma só palavra, não inclinados a muito vinho, não gananciosos,"
-    },
-    "9": {
-      "título": "",
-      "texto": "conservando o mistério da fé com a consciência limpa."
-    },
-    "10": {
-      "título": "",
-      "texto": "Também estes devem ser primeiramente experimentados; e, caso se mostrem irrepreensíveis, que exerçam o diaconato."
-    },
-    "11": {
-      "título": "",
-      "texto": "Do mesmo modo, quanto a mulheres, é necessário que elas sejam respeitáveis, não maldizentes, moderadas e fiéis em tudo."
-    },
-    "12": {
-      "título": "",
-      "texto": "O diácono seja marido de uma só mulher e governe bem os seus filhos e a própria casa."
-    },
-    "13": {
-      "título": "",
-      "texto": "Pois os que desempenharem bem o diaconato alcançarão para si mesmos uma posição de honra e muita ousadia na fé em Cristo Jesus."
-    },
-    "14": {
-      "título": "A igreja de Deus e o mistério da piedade",
-      "texto": "Escrevo estas coisas a você, esperando ir vê-lo em breve."
-    },
-    "15": {
-      "título": "",
-      "texto": "Mas, se eu demorar, você saberá como se deve proceder na casa de Deus, que é a igreja do Deus vivo, coluna e fundamento da verdade."
-    },
-    "16": {
-      "título": "",
-      "texto": "Sem dúvida, grande é o mistério da piedade:"
+    "versiculos": {
+        "1": "Fiel é a palavra: se alguém deseja o episcopado, excelente obra almeja.",
+        "2": "É necessário, pois, que o bispo seja irrepreensível, esposo de uma só mulher, moderado, sensato, modesto, hospitaleiro, apto para ensinar;",
+        "3": "não dado ao vinho, nem violento, porém cordial, inimigo de conflitos, não avarento;",
+        "4": "e que governe bem a própria casa, criando os filhos sob disciplina, com todo o respeito.",
+        "5": "Pois, se alguém não sabe governar a própria casa, como cuidará da igreja de Deus?",
+        "6": "Que o bispo não seja recém-convertido, para não acontecer que fique cheio de orgulho e incorra na condenação do diabo.",
+        "7": "É necessário, também, que ele tenha bom testemunho dos de fora, a fim de não cair na desonra e no laço do diabo.",
+        "8": "Do mesmo modo, quanto a diáconos, é necessário que sejam respeitáveis, de uma só palavra, não inclinados a muito vinho, não gananciosos,",
+        "9": "conservando o mistério da fé com a consciência limpa.",
+        "10": "Também estes devem ser primeiramente experimentados; e, caso se mostrem irrepreensíveis, que exerçam o diaconato.",
+        "11": "Do mesmo modo, quanto a mulheres, é necessário que elas sejam respeitáveis, não maldizentes, moderadas e fiéis em tudo.",
+        "12": "O diácono seja marido de uma só mulher e governe bem os seus filhos e a própria casa.",
+        "13": "Pois os que desempenharem bem o diaconato alcançarão para si mesmos uma posição de honra e muita ousadia na fé em Cristo Jesus.",
+        "14": "Escrevo estas coisas a você, esperando ir vê-lo em breve.",
+        "15": "Mas, se eu demorar, você saberá como se deve proceder na casa de Deus, que é a igreja do Deus vivo, coluna e fundamento da verdade.",
+        "16": "Sem dúvida, grande é o mistério da piedade:"
     }
-  }
 }

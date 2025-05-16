@@ -1,70 +1,23 @@
 {
-  "livro": "Oséias",
-  "capítulo": 7,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Quando tento sarar Israel,"
-    },
-    "2": {
-      "título": "",
-      "texto": "Não se dão conta de que"
-    },
-    "3": {
-      "título": "",
-      "texto": "Alegram o rei"
-    },
-    "4": {
-      "título": "",
-      "texto": "Todos eles são adúlteros."
-    },
-    "5": {
-      "título": "",
-      "texto": "No dia da festa do nosso rei,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Enquanto estão à espreita,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Todos eles são quentes"
-    },
-    "8": {
-      "título": "",
-      "texto": "“Efraim se mistura com os povos"
-    },
-    "9": {
-      "título": "",
-      "texto": "Estrangeiros sugam"
-    },
-    "10": {
-      "título": "",
-      "texto": "A arrogância de Israel"
-    },
-    "11": {
-      "título": "",
-      "texto": "“Porque Efraim é como"
-    },
-    "12": {
-      "título": "",
-      "texto": "Quando forem,"
-    },
-    "13": {
-      "título": "",
-      "texto": "— Ai deles!"
-    },
-    "14": {
-      "título": "",
-      "texto": "“Não clamam a mim de coração,"
-    },
-    "15": {
-      "título": "",
-      "texto": "Eu treinei e fortaleci"
-    },
-    "16": {
-      "título": "",
-      "texto": "Eles voltam,"
+    "livro": "Oséias",
+    "capitulo": 7,
+    "titulos": {},
+    "versiculos": {
+        "1": "Quando tento sarar Israel,",
+        "2": "Não se dão conta de que",
+        "3": "Alegram o rei",
+        "4": "Todos eles são adúlteros.",
+        "5": "No dia da festa do nosso rei,",
+        "6": "Enquanto estão à espreita,",
+        "7": "Todos eles são quentes",
+        "8": "“Efraim se mistura com os povos",
+        "9": "Estrangeiros sugam",
+        "10": "A arrogância de Israel",
+        "11": "“Porque Efraim é como",
+        "12": "Quando forem,",
+        "13": "— Ai deles!",
+        "14": "“Não clamam a mim de coração,",
+        "15": "Eu treinei e fortaleci",
+        "16": "Eles voltam,"
     }
-  }
 }

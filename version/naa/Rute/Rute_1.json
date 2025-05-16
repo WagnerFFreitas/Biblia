@@ -1,94 +1,32 @@
 {
-  "livro": "Rute",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "Elimeleque e a sua família em Moabe",
-      "texto": "Nos dias em que os juízes julgavam, houve fome na terra de Israel. E um homem de Belém de Judá foi morar por algum tempo na terra de Moabe, com a sua mulher e os seus dois filhos."
+    "livro": "Rute",
+    "capitulo": 1,
+    "titulos": {
+        "1": "Elimeleque e a sua família em Moabe",
+        "6": "Noemi e Rute vão para Belém"
     },
-    "2": {
-      "título": "",
-      "texto": "Este homem se chamava Elimeleque, e sua mulher se chamava Noemi. Os filhos se chamavam Malom e Quiliom. Eram efrateus, de Belém de Judá. Foram à terra de Moabe e ficaram ali."
-    },
-    "3": {
-      "título": "",
-      "texto": "Algum tempo depois, Elimeleque, o marido de Noemi, morreu, e ela ficou sozinha com os dois filhos."
-    },
-    "4": {
-      "título": "",
-      "texto": "Estes casaram com mulheres moabitas. O nome de uma delas era Orfa, e o nome da outra era Rute. E ficaram ali quase dez anos."
-    },
-    "5": {
-      "título": "",
-      "texto": "Depois morreram também Malom e Quiliom, os dois filhos de Noemi. E assim ela ficou sozinha, sem os dois filhos e sem o marido."
-    },
-    "6": {
-      "título": "Noemi e Rute vão para Belém",
-      "texto": "Então Noemi voltou da terra de Moabe com as suas noras, porque ainda em Moabe ouviu que o Senhor havia se lembrado do seu povo, dando-lhe alimento."
-    },
-    "7": {
-      "título": "",
-      "texto": "Assim, ela saiu do lugar onde havia morado, e as duas noras estavam com ela. Enquanto caminhavam, voltando para a terra de Judá,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Noemi disse às suas noras:"
-    },
-    "9": {
-      "título": "",
-      "texto": "O Senhor faça com que vocês sejam felizes, cada uma na casa de seu novo marido."
-    },
-    "10": {
-      "título": "",
-      "texto": "e lhe disseram:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Mas Noemi disse:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Voltem, minhas filhas! Vão embora, porque sou velha demais para ter marido. E ainda que eu dissesse: “Tenho esperança”, ou ainda que casasse esta noite e tivesse filhos,"
-    },
-    "13": {
-      "título": "",
-      "texto": "será que vocês iriam esperar até que eles viessem a crescer? Ficariam tanto tempo sem casar? Não, minhas filhas! A minha amargura é maior do que a de vocês, porque o Senhor descarregou a sua mão contra mim."
-    },
-    "14": {
-      "título": "",
-      "texto": "Então, de novo, choraram em alta voz. Orfa, com um beijo, se despediu de sua sogra, porém Rute se apegou a ela."
-    },
-    "15": {
-      "título": "",
-      "texto": "Então Noemi disse:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Porém Rute respondeu:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Onde quer que você morrer, morrerei eu e aí serei sepultada. Que o Senhor me castigue, se outra coisa que não seja a morte me separar de você."
-    },
-    "18": {
-      "título": "",
-      "texto": "Quando Noemi viu que Rute estava mesmo decidida a acompanhá-la, deixou de insistir com ela."
-    },
-    "19": {
-      "título": "",
-      "texto": "Então ambas se foram, até que chegaram a Belém. E aconteceu que, ao chegarem ali, toda a cidade se comoveu por causa delas. E as mulheres perguntavam:"
-    },
-    "20": {
-      "título": "",
-      "texto": "Porém ela lhes dizia:"
-    },
-    "21": {
-      "título": "",
-      "texto": "Quando saí daqui, eu era plena, mas o Senhor me fez voltar vazia. Por que, então, querem me chamar de Noemi, se o Senhor deu testemunho contra mim e o Todo-Poderoso me afligiu?"
-    },
-    "22": {
-      "título": "",
-      "texto": "Foi assim que Noemi voltou da terra de Moabe, com Rute, sua nora, a moabita. E chegaram a Belém no começo da colheita da cevada."
+    "versiculos": {
+        "1": "Nos dias em que os juízes julgavam, houve fome na terra de Israel. E um homem de Belém de Judá foi morar por algum tempo na terra de Moabe, com a sua mulher e os seus dois filhos.",
+        "2": "Este homem se chamava Elimeleque, e sua mulher se chamava Noemi. Os filhos se chamavam Malom e Quiliom. Eram efrateus, de Belém de Judá. Foram à terra de Moabe e ficaram ali.",
+        "3": "Algum tempo depois, Elimeleque, o marido de Noemi, morreu, e ela ficou sozinha com os dois filhos.",
+        "4": "Estes casaram com mulheres moabitas. O nome de uma delas era Orfa, e o nome da outra era Rute. E ficaram ali quase dez anos.",
+        "5": "Depois morreram também Malom e Quiliom, os dois filhos de Noemi. E assim ela ficou sozinha, sem os dois filhos e sem o marido.",
+        "6": "Então Noemi voltou da terra de Moabe com as suas noras, porque ainda em Moabe ouviu que o Senhor havia se lembrado do seu povo, dando-lhe alimento.",
+        "7": "Assim, ela saiu do lugar onde havia morado, e as duas noras estavam com ela. Enquanto caminhavam, voltando para a terra de Judá,",
+        "8": "Noemi disse às suas noras:",
+        "9": "O Senhor faça com que vocês sejam felizes, cada uma na casa de seu novo marido.",
+        "10": "e lhe disseram:",
+        "11": "Mas Noemi disse:",
+        "12": "Voltem, minhas filhas! Vão embora, porque sou velha demais para ter marido. E ainda que eu dissesse: “Tenho esperança”, ou ainda que casasse esta noite e tivesse filhos,",
+        "13": "será que vocês iriam esperar até que eles viessem a crescer? Ficariam tanto tempo sem casar? Não, minhas filhas! A minha amargura é maior do que a de vocês, porque o Senhor descarregou a sua mão contra mim.",
+        "14": "Então, de novo, choraram em alta voz. Orfa, com um beijo, se despediu de sua sogra, porém Rute se apegou a ela.",
+        "15": "Então Noemi disse:",
+        "16": "Porém Rute respondeu:",
+        "17": "Onde quer que você morrer, morrerei eu e aí serei sepultada. Que o Senhor me castigue, se outra coisa que não seja a morte me separar de você.",
+        "18": "Quando Noemi viu que Rute estava mesmo decidida a acompanhá-la, deixou de insistir com ela.",
+        "19": "Então ambas se foram, até que chegaram a Belém. E aconteceu que, ao chegarem ali, toda a cidade se comoveu por causa delas. E as mulheres perguntavam:",
+        "20": "Porém ela lhes dizia:",
+        "21": "Quando saí daqui, eu era plena, mas o Senhor me fez voltar vazia. Por que, então, querem me chamar de Noemi, se o Senhor deu testemunho contra mim e o Todo-Poderoso me afligiu?",
+        "22": "Foi assim que Noemi voltou da terra de Moabe, com Rute, sua nora, a moabita. E chegaram a Belém no começo da colheita da cevada."
     }
-  }
 }

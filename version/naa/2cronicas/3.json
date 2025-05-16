@@ -1,74 +1,28 @@
 {
-  "livro": "2 Crônicas",
-  "capítulo": 3,
-  "versículos": {
-    "1": {
-      "título": "Salomão edifica o templo",
-      "texto": "Salomão começou a edificar a Casa do Senhor em Jerusalém, no monte Moriá, onde o Senhor havia aparecido a Davi, seu pai, lugar que Davi tinha designado na eira de Ornã, o jebuseu."
+    "livro": "2 Crônicas",
+    "capitulo": 3,
+    "titulos": {
+        "1": "Salomão edifica o templo",
+        "10": "Os dois querubins",
+        "15": "As duas colunas"
     },
-    "2": {
-      "título": "",
-      "texto": "Começou a edificar no segundo dia do segundo mês, no quarto ano do seu reinado."
-    },
-    "3": {
-      "título": "",
-      "texto": "Foram estas as medidas dos alicerces que Salomão lançou para edificar a Casa de Deus: vinte e sete metros de comprimento por nove de largura, segundo o padrão antigo."
-    },
-    "4": {
-      "título": "",
-      "texto": "O pórtico diante da casa tinha nove metros no sentido da largura do Lugar Santo, e a altura era de cinquenta e quatro metros. Salomão revestiu o interior do pórtico de ouro puro."
-    },
-    "5": {
-      "título": "",
-      "texto": "Também fez forrar de madeira de cipreste a sala grande, revestiu-a de ouro puro e gravou nela palmeiras e correntes."
-    },
-    "6": {
-      "título": "",
-      "texto": "Também enfeitou a sala com pedras preciosas; e o ouro era de Parvaim."
-    },
-    "7": {
-      "título": "",
-      "texto": "Revestiu de ouro a sala, as vigas, os umbrais, as paredes e as portas; e esculpiu querubins nas paredes."
-    },
-    "8": {
-      "título": "",
-      "texto": "Fez o Santo dos Santos, cujo comprimento era de nove metros, segundo a largura da sala grande, e a largura também era de nove metros. Revestiu o seu interior com vinte toneladas de ouro puro."
-    },
-    "9": {
-      "título": "",
-      "texto": "O peso dos pregos era de seiscentos gramas de ouro. Também revestiu de ouro os cenáculos."
-    },
-    "10": {
-      "título": "Os dois querubins",
-      "texto": "No Santo dos Santos, Salomão fez dois querubins de madeira e os revestiu de ouro."
-    },
-    "11": {
-      "título": "",
-      "texto": "As asas estendidas dos querubins mediam, juntas, quatro metros e meio; a asa de um deles, de dois metros e vinte e cinco, tocava na parede do templo; e a outra asa, igualmente de dois metros e vinte e cinco, tocava na asa do outro querubim."
-    },
-    "12": {
-      "título": "",
-      "texto": "Também a asa do outro querubim era de dois metros e vinte e cinco e tocava na outra parede; e a outra asa, igualmente de dois metros e vinte e cinco, estava unida à asa do outro querubim. As asas destes querubins se estendiam por nove metros."
-    },
-    "13": {
-      "título": "",
-      "texto": "Eles estavam em pé, com o rosto voltado para o Santo Lugar."
-    },
-    "14": {
-      "título": "",
-      "texto": "Salomão também fez o véu de pano azul, púrpura, carmesim e linho fino; e mandou bordar nele figuras de querubins."
-    },
-    "15": {
-      "título": "As duas colunas",
-      "texto": "Salomão fez também diante da sala duas colunas de quinze metros e meio de altura, com um capitel de dois metros e vinte sobre cada uma delas."
-    },
-    "16": {
-      "título": "",
-      "texto": "Também fez correntes, como as do Santo dos Santos, e as pôs no alto das colunas; fez também cem romãs, as quais pôs nas correntes."
-    },
-    "17": {
-      "título": "",
-      "texto": "Levantou as colunas diante do templo, uma à direita e outra à esquerda. À coluna da direita deu o nome de Jaquim, e à coluna da esquerda deu o nome de Boaz."
+    "versiculos": {
+        "1": "Salomão começou a edificar a Casa do Senhor em Jerusalém, no monte Moriá, onde o Senhor havia aparecido a Davi, seu pai, lugar que Davi tinha designado na eira de Ornã, o jebuseu.",
+        "2": "Começou a edificar no segundo dia do segundo mês, no quarto ano do seu reinado.",
+        "3": "Foram estas as medidas dos alicerces que Salomão lançou para edificar a Casa de Deus: vinte e sete metros de comprimento por nove de largura, segundo o padrão antigo.",
+        "4": "O pórtico diante da casa tinha nove metros no sentido da largura do Lugar Santo, e a altura era de cinquenta e quatro metros. Salomão revestiu o interior do pórtico de ouro puro.",
+        "5": "Também fez forrar de madeira de cipreste a sala grande, revestiu-a de ouro puro e gravou nela palmeiras e correntes.",
+        "6": "Também enfeitou a sala com pedras preciosas; e o ouro era de Parvaim.",
+        "7": "Revestiu de ouro a sala, as vigas, os umbrais, as paredes e as portas; e esculpiu querubins nas paredes.",
+        "8": "Fez o Santo dos Santos, cujo comprimento era de nove metros, segundo a largura da sala grande, e a largura também era de nove metros. Revestiu o seu interior com vinte toneladas de ouro puro.",
+        "9": "O peso dos pregos era de seiscentos gramas de ouro. Também revestiu de ouro os cenáculos.",
+        "10": "No Santo dos Santos, Salomão fez dois querubins de madeira e os revestiu de ouro.",
+        "11": "As asas estendidas dos querubins mediam, juntas, quatro metros e meio; a asa de um deles, de dois metros e vinte e cinco, tocava na parede do templo; e a outra asa, igualmente de dois metros e vinte e cinco, tocava na asa do outro querubim.",
+        "12": "Também a asa do outro querubim era de dois metros e vinte e cinco e tocava na outra parede; e a outra asa, igualmente de dois metros e vinte e cinco, estava unida à asa do outro querubim. As asas destes querubins se estendiam por nove metros.",
+        "13": "Eles estavam em pé, com o rosto voltado para o Santo Lugar.",
+        "14": "Salomão também fez o véu de pano azul, púrpura, carmesim e linho fino; e mandou bordar nele figuras de querubins.",
+        "15": "Salomão fez também diante da sala duas colunas de quinze metros e meio de altura, com um capitel de dois metros e vinte sobre cada uma delas.",
+        "16": "Também fez correntes, como as do Santo dos Santos, e as pôs no alto das colunas; fez também cem romãs, as quais pôs nas correntes.",
+        "17": "Levantou as colunas diante do templo, uma à direita e outra à esquerda. À coluna da direita deu o nome de Jaquim, e à coluna da esquerda deu o nome de Boaz."
     }
-  }
 }

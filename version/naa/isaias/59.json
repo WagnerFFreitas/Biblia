@@ -1,90 +1,30 @@
 {
-  "livro": "Isaías",
-  "capítulo": 59,
-  "versículos": {
-    "1": {
-      "título": "Confissão da maldade nacional",
-      "texto": "Eis que a mão do Senhor"
+    "livro": "Isaías",
+    "capitulo": 59,
+    "titulos": {
+        "1": "Confissão da maldade nacional"
     },
-    "2": {
-      "título": "",
-      "texto": "Mas as iniquidades de vocês"
-    },
-    "3": {
-      "título": "",
-      "texto": "Porque as mãos de vocês"
-    },
-    "4": {
-      "título": "",
-      "texto": "Não há ninguém que clame"
-    },
-    "5": {
-      "título": "",
-      "texto": "Chocam ovos de cobra"
-    },
-    "6": {
-      "título": "",
-      "texto": "As suas teias não servem"
-    },
-    "7": {
-      "título": "",
-      "texto": "Os pés deles correm para o mal,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Não conhecem o caminho da paz,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Por isso, o juízo"
-    },
-    "10": {
-      "título": "",
-      "texto": "Apalpamos as paredes"
-    },
-    "11": {
-      "título": "",
-      "texto": "Todos nós bramamos como ursos"
-    },
-    "12": {
-      "título": "",
-      "texto": "Porque as nossas transgressões"
-    },
-    "13": {
-      "título": "",
-      "texto": "Temos sido infiéis"
-    },
-    "14": {
-      "título": "",
-      "texto": "Por isso, o direito se retirou,"
-    },
-    "15": {
-      "título": "",
-      "texto": "Sim, a verdade sumiu,"
-    },
-    "16": {
-      "título": "",
-      "texto": "Viu que não havia ninguém"
-    },
-    "17": {
-      "título": "",
-      "texto": "Vestiu-se de justiça,"
-    },
-    "18": {
-      "título": "",
-      "texto": "Segundo as obras deles,"
-    },
-    "19": {
-      "título": "",
-      "texto": "Assim, temerão"
-    },
-    "20": {
-      "título": "",
-      "texto": "“O Redentor virá a Sião"
-    },
-    "21": {
-      "título": "",
-      "texto": "— Quanto a mim, esta é a minha aliança com eles, diz o Senhor : o meu Espírito, que está sobre você, e as minhas palavras, que pus na sua boca, não se desviarão dela, nem da boca de seus filhos, nem da boca dos filhos de seus filhos, desde agora e para todo o sempre, diz o Senhor ."
+    "versiculos": {
+        "1": "Eis que a mão do Senhor",
+        "2": "Mas as iniquidades de vocês",
+        "3": "Porque as mãos de vocês",
+        "4": "Não há ninguém que clame",
+        "5": "Chocam ovos de cobra",
+        "6": "As suas teias não servem",
+        "7": "Os pés deles correm para o mal,",
+        "8": "Não conhecem o caminho da paz,",
+        "9": "Por isso, o juízo",
+        "10": "Apalpamos as paredes",
+        "11": "Todos nós bramamos como ursos",
+        "12": "Porque as nossas transgressões",
+        "13": "Temos sido infiéis",
+        "14": "Por isso, o direito se retirou,",
+        "15": "Sim, a verdade sumiu,",
+        "16": "Viu que não havia ninguém",
+        "17": "Vestiu-se de justiça,",
+        "18": "Segundo as obras deles,",
+        "19": "Assim, temerão",
+        "20": "“O Redentor virá a Sião",
+        "21": "— Quanto a mim, esta é a minha aliança com eles, diz o Senhor : o meu Espírito, que está sobre você, e as minhas palavras, que pus na sua boca, não se desviarão dela, nem da boca de seus filhos, nem da boca dos filhos de seus filhos, desde agora e para todo o sempre, diz o Senhor ."
     }
-  }
 }

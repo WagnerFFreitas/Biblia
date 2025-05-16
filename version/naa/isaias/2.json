@@ -1,94 +1,32 @@
 {
-  "livro": "Isaías",
-  "capítulo": 2,
-  "versículos": {
-    "1": {
-      "título": "O monte do Senhor",
-      "texto": "Palavra que, em visão, veio a Isaías, filho de Amoz, a respeito de Judá e Jerusalém."
+    "livro": "Isaías",
+    "capitulo": 2,
+    "titulos": {
+        "1": "O monte do Senhor",
+        "6": "O Dia do Senhor"
     },
-    "2": {
-      "título": "",
-      "texto": "Nos últimos dias,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Muitos povos virão e dirão:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Ele julgará entre as nações"
-    },
-    "5": {
-      "título": "",
-      "texto": "Venham, ó casa de Jacó,"
-    },
-    "6": {
-      "título": "O Dia do Senhor",
-      "texto": "Pois, tu, Senhor , abandonaste"
-    },
-    "7": {
-      "título": "",
-      "texto": "A terra de Israel está cheia"
-    },
-    "8": {
-      "título": "",
-      "texto": "A terra de Israel também"
-    },
-    "9": {
-      "título": "",
-      "texto": "Com isso, o povo se abate"
-    },
-    "10": {
-      "título": "",
-      "texto": "Entre no meio das rochas"
-    },
-    "11": {
-      "título": "",
-      "texto": "Os olhos arrogantes"
-    },
-    "12": {
-      "título": "",
-      "texto": "Porque o Dia do Senhor"
-    },
-    "13": {
-      "título": "",
-      "texto": "contra todos os cedros do Líbano,"
-    },
-    "14": {
-      "título": "",
-      "texto": "contra todos os montes altos"
-    },
-    "15": {
-      "título": "",
-      "texto": "contra toda torre alta"
-    },
-    "16": {
-      "título": "",
-      "texto": "contra todos os navios de Társis"
-    },
-    "17": {
-      "título": "",
-      "texto": "A arrogância das pessoas"
-    },
-    "18": {
-      "título": "",
-      "texto": "Os ídolos serão"
-    },
-    "19": {
-      "título": "",
-      "texto": "Então as pessoas se meterão"
-    },
-    "20": {
-      "título": "",
-      "texto": "Naquele dia, as pessoas"
-    },
-    "21": {
-      "título": "",
-      "texto": "e entrarão nas fendas das rochas"
-    },
-    "22": {
-      "título": "",
-      "texto": "Afastem-se, pois, do ser humano,"
+    "versiculos": {
+        "1": "Palavra que, em visão, veio a Isaías, filho de Amoz, a respeito de Judá e Jerusalém.",
+        "2": "Nos últimos dias,",
+        "3": "Muitos povos virão e dirão:",
+        "4": "Ele julgará entre as nações",
+        "5": "Venham, ó casa de Jacó,",
+        "6": "Pois, tu, Senhor , abandonaste",
+        "7": "A terra de Israel está cheia",
+        "8": "A terra de Israel também",
+        "9": "Com isso, o povo se abate",
+        "10": "Entre no meio das rochas",
+        "11": "Os olhos arrogantes",
+        "12": "Porque o Dia do Senhor",
+        "13": "contra todos os cedros do Líbano,",
+        "14": "contra todos os montes altos",
+        "15": "contra toda torre alta",
+        "16": "contra todos os navios de Társis",
+        "17": "A arrogância das pessoas",
+        "18": "Os ídolos serão",
+        "19": "Então as pessoas se meterão",
+        "20": "Naquele dia, as pessoas",
+        "21": "e entrarão nas fendas das rochas",
+        "22": "Afastem-se, pois, do ser humano,"
     }
-  }
 }

@@ -1,102 +1,34 @@
 {
-  "livro": "Josué",
-  "capítulo": 12,
-  "versículos": {
-    "1": {
-      "título": "Os reis vencidos por Moisés",
-      "texto": "Estes são os reis da terra que os filhos de Israel derrotaram e de cujas terras se apossaram do outro lado do Jordão, na direção do leste, desde o ribeiro de Arnom até o monte Hermom e toda a planície do leste:"
+    "livro": "Josué",
+    "capitulo": 12,
+    "titulos": {
+        "1": "Os reis vencidos por Moisés",
+        "7": "Os reis vencidos por Josué"
     },
-    "2": {
-      "título": "",
-      "texto": "Seom, rei dos amorreus, que habitava em Hesbom e dominava desde Aroer, que está à beira do vale de Arnom, e desde o meio do vale e a metade de Gileade até o ribeiro de Jaboque, limite dos filhos de Amom;"
-    },
-    "3": {
-      "título": "",
-      "texto": "desde a campina até o mar de Quinerete, para o leste, e até o mar da Campina, o mar Salgado, para o leste, pelo caminho de Bete-Jesimote; e desde o sul abaixo das encostas do monte Pisga."
-    },
-    "4": {
-      "título": "",
-      "texto": "Também derrotaram Ogue, rei de Basã, um dos remanescentes dos refains que morava em Astarote e em Edrei."
-    },
-    "5": {
-      "título": "",
-      "texto": "Ele dominava no monte Hermom, em Salca e em toda a Basã, até a fronteira dos gesuritas e dos maacatitas, e metade de Gileade, até a fronteira de Seom, rei de Hesbom."
-    },
-    "6": {
-      "título": "",
-      "texto": "Moisés, servo do Senhor , e os filhos de Israel os derrotaram. E Moisés, servo do Senhor , deu esta terra como propriedade aos rubenitas, aos gaditas e à meia tribo de Manassés."
-    },
-    "7": {
-      "título": "Os reis vencidos por Josué",
-      "texto": "Estes são os reis da terra que Josué e os filhos de Israel derrotaram deste lado do Jordão, na direção do oeste, desde Baal-Gade, no vale do Líbano, até o monte Halaque, que sobe a Seir, e cuja terra Josué deu como propriedade às tribos de Israel, segundo as suas divisões,"
-    },
-    "8": {
-      "título": "",
-      "texto": "a saber, o que havia na região montanhosa, na Sefelá, na Arabá, nas descidas das águas, no deserto e no Neguebe, onde estava o heteu, o amorreu, o cananeu, o ferezeu, o heveu e o jebuseu:"
-    },
-    "9": {
-      "título": "",
-      "texto": "o rei de Jericó; o rei de Ai, que está ao lado de Betel;"
-    },
-    "10": {
-      "título": "",
-      "texto": "o rei de Jerusalém; o rei de Hebrom;"
-    },
-    "11": {
-      "título": "",
-      "texto": "o rei de Jarmute; o rei de Laquis;"
-    },
-    "12": {
-      "título": "",
-      "texto": "o rei de Eglom; o rei de Gezer;"
-    },
-    "13": {
-      "título": "",
-      "texto": "o rei de Debir; o rei de Geder;"
-    },
-    "14": {
-      "título": "",
-      "texto": "o rei de Horma; o rei de Arade;"
-    },
-    "15": {
-      "título": "",
-      "texto": "o rei de Libna; o rei de Adulão;"
-    },
-    "16": {
-      "título": "",
-      "texto": "o rei de Maquedá; o rei de Betel;"
-    },
-    "17": {
-      "título": "",
-      "texto": "o rei de Tapua; o rei de Héfer;"
-    },
-    "18": {
-      "título": "",
-      "texto": "o rei de Afeca; o rei de Lasarom;"
-    },
-    "19": {
-      "título": "",
-      "texto": "o rei de Madom; o rei de Hazor;"
-    },
-    "20": {
-      "título": "",
-      "texto": "o rei de Sinrom-Merom; o rei de Acsafe;"
-    },
-    "21": {
-      "título": "",
-      "texto": "o rei de Taanaque; o rei de Megido;"
-    },
-    "22": {
-      "título": "",
-      "texto": "o rei de Quedes; o rei de Jocneão do Carmelo;"
-    },
-    "23": {
-      "título": "",
-      "texto": "o rei de Dor, em Nafate-Dor; o rei de Goim, em Gilgal;"
-    },
-    "24": {
-      "título": "",
-      "texto": "e o rei de Tirza. Ao todo, trinta e um reis."
+    "versiculos": {
+        "1": "Estes são os reis da terra que os filhos de Israel derrotaram e de cujas terras se apossaram do outro lado do Jordão, na direção do leste, desde o ribeiro de Arnom até o monte Hermom e toda a planície do leste:",
+        "2": "Seom, rei dos amorreus, que habitava em Hesbom e dominava desde Aroer, que está à beira do vale de Arnom, e desde o meio do vale e a metade de Gileade até o ribeiro de Jaboque, limite dos filhos de Amom;",
+        "3": "desde a campina até o mar de Quinerete, para o leste, e até o mar da Campina, o mar Salgado, para o leste, pelo caminho de Bete-Jesimote; e desde o sul abaixo das encostas do monte Pisga.",
+        "4": "Também derrotaram Ogue, rei de Basã, um dos remanescentes dos refains que morava em Astarote e em Edrei.",
+        "5": "Ele dominava no monte Hermom, em Salca e em toda a Basã, até a fronteira dos gesuritas e dos maacatitas, e metade de Gileade, até a fronteira de Seom, rei de Hesbom.",
+        "6": "Moisés, servo do Senhor , e os filhos de Israel os derrotaram. E Moisés, servo do Senhor , deu esta terra como propriedade aos rubenitas, aos gaditas e à meia tribo de Manassés.",
+        "7": "Estes são os reis da terra que Josué e os filhos de Israel derrotaram deste lado do Jordão, na direção do oeste, desde Baal-Gade, no vale do Líbano, até o monte Halaque, que sobe a Seir, e cuja terra Josué deu como propriedade às tribos de Israel, segundo as suas divisões,",
+        "8": "a saber, o que havia na região montanhosa, na Sefelá, na Arabá, nas descidas das águas, no deserto e no Neguebe, onde estava o heteu, o amorreu, o cananeu, o ferezeu, o heveu e o jebuseu:",
+        "9": "o rei de Jericó; o rei de Ai, que está ao lado de Betel;",
+        "10": "o rei de Jerusalém; o rei de Hebrom;",
+        "11": "o rei de Jarmute; o rei de Laquis;",
+        "12": "o rei de Eglom; o rei de Gezer;",
+        "13": "o rei de Debir; o rei de Geder;",
+        "14": "o rei de Horma; o rei de Arade;",
+        "15": "o rei de Libna; o rei de Adulão;",
+        "16": "o rei de Maquedá; o rei de Betel;",
+        "17": "o rei de Tapua; o rei de Héfer;",
+        "18": "o rei de Afeca; o rei de Lasarom;",
+        "19": "o rei de Madom; o rei de Hazor;",
+        "20": "o rei de Sinrom-Merom; o rei de Acsafe;",
+        "21": "o rei de Taanaque; o rei de Megido;",
+        "22": "o rei de Quedes; o rei de Jocneão do Carmelo;",
+        "23": "o rei de Dor, em Nafate-Dor; o rei de Goim, em Gilgal;",
+        "24": "e o rei de Tirza. Ao todo, trinta e um reis."
     }
-  }
 }

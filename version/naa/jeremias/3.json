@@ -1,106 +1,36 @@
 {
-  "livro": "Jeremias",
-  "capítulo": 3,
-  "versículos": {
-    "1": {
-      "título": "A infidelidade do povo",
-      "texto": "“Se um homem repudiar"
+    "livro": "Jeremias",
+    "capitulo": 3,
+    "titulos": {
+        "1": "A infidelidade do povo",
+        "6": "A necessidade do arrependimento",
+        "19": "Convite ao arrependimento"
     },
-    "2": {
-      "título": "",
-      "texto": "“Levante os olhos"
-    },
-    "3": {
-      "título": "",
-      "texto": "É por isso que não tem chovido,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Não é fato que agora mesmo"
-    },
-    "5": {
-      "título": "",
-      "texto": "Conservarás para sempre"
-    },
-    "6": {
-      "título": "A necessidade do arrependimento",
-      "texto": "Nos dias do rei Josias, o Senhor me disse:"
-    },
-    "7": {
-      "título": "",
-      "texto": "E, depois de ela ter feito tudo isso, eu pensei que ela voltaria para mim, mas não voltou. E a sua traiçoeira irmã Judá viu isso."
-    },
-    "8": {
-      "título": "",
-      "texto": "Quando, por causa de tudo isso, por ter ela cometido adultério, eu despedi a rebelde Israel e lhe dei carta de divórcio, vi que a irmã dela, a traiçoeira Judá, não ficou com medo, mas também ela foi e se entregou à prostituição."
-    },
-    "9": {
-      "título": "",
-      "texto": "E aconteceu que, pela facilidade com que se entregou à prostituição, ela contaminou a terra; porque adulterou, adorando pedras e árvores."
-    },
-    "10": {
-      "título": "",
-      "texto": "Apesar de tudo isso, a irmã dela, a traiçoeira Judá, não voltou para mim de todo o coração, mas fingidamente, diz o Senhor ."
-    },
-    "11": {
-      "título": "",
-      "texto": "O Senhor me disse:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Vá, pois, e proclame estas palavras para o lado do Norte, dizendo:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Tão somente reconheça"
-    },
-    "14": {
-      "título": "",
-      "texto": "“Voltem para mim,"
-    },
-    "15": {
-      "título": "",
-      "texto": "— Darei a vocês pastores segundo o meu coração, que os apascentem com conhecimento e com inteligência."
-    },
-    "16": {
-      "título": "",
-      "texto": "E, quando vocês se multiplicarem e se tornarem fecundos na terra, então, diz o Senhor , nunca mais se exclamará: “A arca da aliança do Senhor !” Ela não lhes virá à mente, não se lembrarão dela nem dela sentirão falta; e não se fará outra."
-    },
-    "17": {
-      "título": "",
-      "texto": "Naquele tempo, chamarão Jerusalém de “Trono do Senhor ”. Nela se reunirão todas as nações em nome do Senhor e já não andarão segundo a dureza do seu coração maligno."
-    },
-    "18": {
-      "título": "",
-      "texto": "Naqueles dias, a casa de Judá andará com a casa de Israel, e elas virão juntas da terra do Norte para a terra que dei em herança aos pais de vocês."
-    },
-    "19": {
-      "título": "Convite ao arrependimento",
-      "texto": "“Eu disse a mim mesmo:"
-    },
-    "20": {
-      "título": "",
-      "texto": "Mas, assim como a mulher que,"
-    },
-    "21": {
-      "título": "",
-      "texto": "“Nos lugares altos,"
-    },
-    "22": {
-      "título": "",
-      "texto": "Voltem, filhos rebeldes!"
-    },
-    "23": {
-      "título": "",
-      "texto": "Na verdade, não passa de ilusão"
-    },
-    "24": {
-      "título": "",
-      "texto": "— Mas, desde a nossa juventude, a coisa vergonhosa devorou o trabalho de nossos pais: as suas ovelhas e o seu gado, os seus filhos e as suas filhas."
-    },
-    "25": {
-      "título": "",
-      "texto": "Devíamos nos prostrar em nossa vergonha, e deixar que a nossa desonra nos cubra, porque temos pecado contra o Senhor , nosso Deus, nós e nossos pais, desde a nossa mocidade até o dia de hoje; e não demos ouvidos à voz do Senhor , nosso Deus."
+    "versiculos": {
+        "1": "“Se um homem repudiar",
+        "2": "“Levante os olhos",
+        "3": "É por isso que não tem chovido,",
+        "4": "Não é fato que agora mesmo",
+        "5": "Conservarás para sempre",
+        "6": "Nos dias do rei Josias, o Senhor me disse:",
+        "7": "E, depois de ela ter feito tudo isso, eu pensei que ela voltaria para mim, mas não voltou. E a sua traiçoeira irmã Judá viu isso.",
+        "8": "Quando, por causa de tudo isso, por ter ela cometido adultério, eu despedi a rebelde Israel e lhe dei carta de divórcio, vi que a irmã dela, a traiçoeira Judá, não ficou com medo, mas também ela foi e se entregou à prostituição.",
+        "9": "E aconteceu que, pela facilidade com que se entregou à prostituição, ela contaminou a terra; porque adulterou, adorando pedras e árvores.",
+        "10": "Apesar de tudo isso, a irmã dela, a traiçoeira Judá, não voltou para mim de todo o coração, mas fingidamente, diz o Senhor .",
+        "11": "O Senhor me disse:",
+        "12": "Vá, pois, e proclame estas palavras para o lado do Norte, dizendo:",
+        "13": "Tão somente reconheça",
+        "14": "“Voltem para mim,",
+        "15": "— Darei a vocês pastores segundo o meu coração, que os apascentem com conhecimento e com inteligência.",
+        "16": "E, quando vocês se multiplicarem e se tornarem fecundos na terra, então, diz o Senhor , nunca mais se exclamará: “A arca da aliança do Senhor !” Ela não lhes virá à mente, não se lembrarão dela nem dela sentirão falta; e não se fará outra.",
+        "17": "Naquele tempo, chamarão Jerusalém de “Trono do Senhor ”. Nela se reunirão todas as nações em nome do Senhor e já não andarão segundo a dureza do seu coração maligno.",
+        "18": "Naqueles dias, a casa de Judá andará com a casa de Israel, e elas virão juntas da terra do Norte para a terra que dei em herança aos pais de vocês.",
+        "19": "“Eu disse a mim mesmo:",
+        "20": "Mas, assim como a mulher que,",
+        "21": "“Nos lugares altos,",
+        "22": "Voltem, filhos rebeldes!",
+        "23": "Na verdade, não passa de ilusão",
+        "24": "— Mas, desde a nossa juventude, a coisa vergonhosa devorou o trabalho de nossos pais: as suas ovelhas e o seu gado, os seus filhos e as suas filhas.",
+        "25": "Devíamos nos prostrar em nossa vergonha, e deixar que a nossa desonra nos cubra, porque temos pecado contra o Senhor , nosso Deus, nós e nossos pais, desde a nossa mocidade até o dia de hoje; e não demos ouvidos à voz do Senhor , nosso Deus."
     }
-  }
 }

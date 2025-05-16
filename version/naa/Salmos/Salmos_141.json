@@ -1,46 +1,19 @@
 {
-  "livro": "Salmos",
-  "capítulo": 141,
-  "versículos": {
-    "1": {
-      "título": "Oração vespertina",
-      "texto": "Senhor , eu clamo a ti;"
+    "livro": "Salmos",
+    "capitulo": 141,
+    "titulos": {
+        "1": "Oração vespertina"
     },
-    "2": {
-      "título": "",
-      "texto": "Suba à tua presença"
-    },
-    "3": {
-      "título": "",
-      "texto": "Põe guarda à minha boca, Senhor ;"
-    },
-    "4": {
-      "título": "",
-      "texto": "Não permitas que o meu coração"
-    },
-    "5": {
-      "título": "",
-      "texto": "Fira-me o justo,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Quando os seus juízes"
-    },
-    "7": {
-      "título": "",
-      "texto": "Como quando se lavra"
-    },
-    "8": {
-      "título": "",
-      "texto": "Pois em ti, ó Deus , meu Senhor,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Guarda-me dos laços"
-    },
-    "10": {
-      "título": "",
-      "texto": "Que os ímpios caiam"
+    "versiculos": {
+        "1": "Senhor , eu clamo a ti;",
+        "2": "Suba à tua presença",
+        "3": "Põe guarda à minha boca, Senhor ;",
+        "4": "Não permitas que o meu coração",
+        "5": "Fira-me o justo,",
+        "6": "Quando os seus juízes",
+        "7": "Como quando se lavra",
+        "8": "Pois em ti, ó Deus , meu Senhor,",
+        "9": "Guarda-me dos laços",
+        "10": "Que os ímpios caiam"
     }
-  }
 }

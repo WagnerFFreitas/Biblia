@@ -1,58 +1,22 @@
 {
-  "livro": "2 Samuel",
-  "capítulo": 9,
-  "versículos": {
-    "1": {
-      "título": "Davi e o filho de Jônatas",
-      "texto": "Um dia Davi perguntou:"
+    "livro": "2 Samuel",
+    "capitulo": 9,
+    "titulos": {
+        "1": "Davi e o filho de Jônatas"
     },
-    "2": {
-      "título": "",
-      "texto": "Havia um servo na casa de Saul cujo nome era Ziba. Chamaram-no, pedindo que viesse falar com Davi. O rei perguntou:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Então Davi perguntou:"
-    },
-    "4": {
-      "título": "",
-      "texto": "— E onde está ele?"
-    },
-    "5": {
-      "título": "",
-      "texto": "Então o rei Davi mandou trazê-lo de Lo-Debar, da casa de Maquir, filho de Amiel."
-    },
-    "6": {
-      "título": "",
-      "texto": "Quando Mefibosete, filho de Jônatas, filho de Saul, chegou diante de Davi, inclinou-se, prostrando-se com o rosto em terra. Davi disse:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Então Davi lhe disse:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Então Mefibosete se inclinou e disse:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Então Davi chamou Ziba, servo de Saul, e lhe disse:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Você, os seus filhos e os seus servos cultivarão a terra para ele e recolherão os frutos, para que a casa de seu senhor tenha o que comer. Porém Mefibosete, neto de seu senhor, sentará sempre à minha mesa para comer."
-    },
-    "11": {
-      "título": "",
-      "texto": "Ziba disse ao rei:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Mefibosete tinha um filho pequeno chamado Mica. Todos os que moravam na casa de Ziba eram servos de Mefibosete."
-    },
-    "13": {
-      "título": "",
-      "texto": "Mefibosete morava em Jerusalém, porque fazia as refeições sempre à mesa do rei. Ele era coxo de ambos os pés."
+    "versiculos": {
+        "1": "Um dia Davi perguntou:",
+        "2": "Havia um servo na casa de Saul cujo nome era Ziba. Chamaram-no, pedindo que viesse falar com Davi. O rei perguntou:",
+        "3": "Então Davi perguntou:",
+        "4": "— E onde está ele?",
+        "5": "Então o rei Davi mandou trazê-lo de Lo-Debar, da casa de Maquir, filho de Amiel.",
+        "6": "Quando Mefibosete, filho de Jônatas, filho de Saul, chegou diante de Davi, inclinou-se, prostrando-se com o rosto em terra. Davi disse:",
+        "7": "Então Davi lhe disse:",
+        "8": "Então Mefibosete se inclinou e disse:",
+        "9": "Então Davi chamou Ziba, servo de Saul, e lhe disse:",
+        "10": "Você, os seus filhos e os seus servos cultivarão a terra para ele e recolherão os frutos, para que a casa de seu senhor tenha o que comer. Porém Mefibosete, neto de seu senhor, sentará sempre à minha mesa para comer.",
+        "11": "Ziba disse ao rei:",
+        "12": "Mefibosete tinha um filho pequeno chamado Mica. Todos os que moravam na casa de Ziba eram servos de Mefibosete.",
+        "13": "Mefibosete morava em Jerusalém, porque fazia as refeições sempre à mesa do rei. Ele era coxo de ambos os pés."
     }
-  }
 }

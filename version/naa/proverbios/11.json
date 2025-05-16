@@ -1,130 +1,38 @@
 {
-  "livro": "Provérbios",
-  "capítulo": 11,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "O Senhor detesta"
-    },
-    "2": {
-      "título": "",
-      "texto": "Quando vem a soberba,"
-    },
-    "3": {
-      "título": "",
-      "texto": "A integridade dos retos os guia,"
-    },
-    "4": {
-      "título": "",
-      "texto": "As riquezas não servem para nada"
-    },
-    "5": {
-      "título": "",
-      "texto": "A justiça do íntegro"
-    },
-    "6": {
-      "título": "",
-      "texto": "A justiça dos retos os livrará,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Quando morre o ímpio,"
-    },
-    "8": {
-      "título": "",
-      "texto": "O justo é libertado da angústia,"
-    },
-    "9": {
-      "título": "",
-      "texto": "O ímpio destrói o próximo"
-    },
-    "10": {
-      "título": "",
-      "texto": "A cidade se alegra"
-    },
-    "11": {
-      "título": "",
-      "texto": "Pela bênção dos retos"
-    },
-    "12": {
-      "título": "",
-      "texto": "Quem fala mal do seu próximo"
-    },
-    "13": {
-      "título": "",
-      "texto": "O mexeriqueiro"
-    },
-    "14": {
-      "título": "",
-      "texto": "Não havendo direção sábia,"
-    },
-    "15": {
-      "título": "",
-      "texto": "Quem fica por fiador"
-    },
-    "16": {
-      "título": "",
-      "texto": "A mulher bondosa"
-    },
-    "17": {
-      "título": "",
-      "texto": "O homem bondoso"
-    },
-    "18": {
-      "título": "",
-      "texto": "O ímpio recebe"
-    },
-    "19": {
-      "título": "",
-      "texto": "Tão certo como a justiça"
-    },
-    "20": {
-      "título": "",
-      "texto": "O Senhor detesta"
-    },
-    "21": {
-      "título": "",
-      "texto": "É evidente que os maus"
-    },
-    "22": {
-      "título": "",
-      "texto": "Como joia de ouro"
-    },
-    "23": {
-      "título": "",
-      "texto": "O desejo dos justos tende"
-    },
-    "24": {
-      "título": "",
-      "texto": "Uns dão com generosidade"
-    },
-    "25": {
-      "título": "",
-      "texto": "A pessoa generosa prosperará,"
-    },
-    "26": {
-      "título": "",
-      "texto": "O povo amaldiçoa"
-    },
-    "27": {
-      "título": "",
-      "texto": "Quem procura o bem"
-    },
-    "28": {
-      "título": "",
-      "texto": "Quem confia"
-    },
-    "29": {
-      "título": "",
-      "texto": "Aquele que perturba a sua casa"
-    },
-    "30": {
-      "título": "",
-      "texto": "O fruto do justo é árvore de vida,"
-    },
-    "31": {
-      "título": "",
-      "texto": "Se o justo é punido na terra,"
+    "livro": "Provérbios",
+    "capitulo": 11,
+    "titulos": {},
+    "versiculos": {
+        "1": "O Senhor detesta",
+        "2": "Quando vem a soberba,",
+        "3": "A integridade dos retos os guia,",
+        "4": "As riquezas não servem para nada",
+        "5": "A justiça do íntegro",
+        "6": "A justiça dos retos os livrará,",
+        "7": "Quando morre o ímpio,",
+        "8": "O justo é libertado da angústia,",
+        "9": "O ímpio destrói o próximo",
+        "10": "A cidade se alegra",
+        "11": "Pela bênção dos retos",
+        "12": "Quem fala mal do seu próximo",
+        "13": "O mexeriqueiro",
+        "14": "Não havendo direção sábia,",
+        "15": "Quem fica por fiador",
+        "16": "A mulher bondosa",
+        "17": "O homem bondoso",
+        "18": "O ímpio recebe",
+        "19": "Tão certo como a justiça",
+        "20": "O Senhor detesta",
+        "21": "É evidente que os maus",
+        "22": "Como joia de ouro",
+        "23": "O desejo dos justos tende",
+        "24": "Uns dão com generosidade",
+        "25": "A pessoa generosa prosperará,",
+        "26": "O povo amaldiçoa",
+        "27": "Quem procura o bem",
+        "28": "Quem confia",
+        "29": "Aquele que perturba a sua casa",
+        "30": "O fruto do justo é árvore de vida,",
+        "31": "Se o justo é punido na terra,"
     }
-  }
 }

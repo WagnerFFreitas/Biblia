@@ -1,110 +1,36 @@
 {
-  "livro": "Tiago",
-  "capítulo": 2,
-  "versículos": {
-    "1": {
-      "título": "Não deve haver parcialidade",
-      "texto": "Meus irmãos, vocês não podem ter fé em nosso Senhor Jesus Cristo, o Senhor da glória, e ao mesmo tempo tratar as pessoas com parcialidade."
+    "livro": "Tiago",
+    "capitulo": 2,
+    "titulos": {
+        "1": "Não deve haver parcialidade",
+        "14": "A fé sem obras é morta"
     },
-    "2": {
-      "título": "",
-      "texto": "Porque, se entrar na sinagoga de vocês um homem com anéis de ouro nos dedos, vestindo roupa luxuosa, e entrar também um pobre muito malvestido,"
-    },
-    "3": {
-      "título": "",
-      "texto": "e vocês derem um tratamento especial ao que está vestido com a roupa luxuosa, dizendo: “Você, sente-se aqui no lugar de honra”, e disserem ao pobre: “Você, fique em pé” ou “Sente-se ali, abaixo do estrado dos meus pés”,"
-    },
-    "4": {
-      "título": "",
-      "texto": "será que vocês não estarão fazendo distinção entre vocês mesmos e julgando as pessoas com critérios errados?"
-    },
-    "5": {
-      "título": "",
-      "texto": "Escutem, meus amados irmãos. Por acaso Deus não escolheu os que para o mundo são pobres para serem ricos em fé e herdeiros do Reino que ele prometeu aos que o amam?"
-    },
-    "6": {
-      "título": "",
-      "texto": "No entanto, vocês desprezam os pobres. Por acaso não são os ricos que oprimem vocês e não são eles que os arrastam para os tribunais?"
-    },
-    "7": {
-      "título": "",
-      "texto": "Não são eles os que blasfemam o bom nome que foi invocado sobre vocês?"
-    },
-    "8": {
-      "título": "",
-      "texto": "Se vocês, de fato, observam a lei do Reino, conforme está na Escritura: “Ame o seu próximo como a si mesmo”, fazem bem."
-    },
-    "9": {
-      "título": "",
-      "texto": "Se, no entanto, vocês tratam as pessoas com parcialidade, cometem pecado, sendo condenados pela lei como transgressores."
-    },
-    "10": {
-      "título": "",
-      "texto": "Pois quem guarda toda a lei, mas tropeça em um só ponto, se torna culpado de todos."
-    },
-    "11": {
-      "título": "",
-      "texto": "Porque, aquele que disse: “Não cometa adultério”, também ordenou: “Não mate.” Ora, se você não comete adultério, porém mata, acaba sendo transgressor da lei."
-    },
-    "12": {
-      "título": "",
-      "texto": "Assim, falem e vivam como pessoas que serão julgadas pela lei da liberdade."
-    },
-    "13": {
-      "título": "",
-      "texto": "Porque o juízo é sem misericórdia sobre quem não usou de misericórdia. A misericórdia triunfa sobre o juízo."
-    },
-    "14": {
-      "título": "A fé sem obras é morta",
-      "texto": "Meus irmãos, qual é o proveito, se alguém disser que tem fé, mas não tiver obras? Será que essa fé pode salvá-lo?"
-    },
-    "15": {
-      "título": "",
-      "texto": "Se um irmão ou uma irmã estiverem com falta de roupa e necessitando do alimento diário,"
-    },
-    "16": {
-      "título": "",
-      "texto": "e um de vocês lhes disser: “Vão em paz! Tratem de se aquecer e de se alimentar bem”, mas não lhes dão o necessário para o corpo, qual é o proveito disso?"
-    },
-    "17": {
-      "título": "",
-      "texto": "Assim, também a fé, se não tiver obras, por si só está morta."
-    },
-    "18": {
-      "título": "",
-      "texto": "Mas alguém dirá: “Você tem fé, e eu tenho obras.” Mostre-me essa sua fé sem as obras, e eu, com as obras, lhe mostrarei a minha fé."
-    },
-    "19": {
-      "título": "",
-      "texto": "Você crê que Deus é um só? Faz muito bem! Até os demônios creem e tremem."
-    },
-    "20": {
-      "título": "",
-      "texto": "Seu tolo, você quer ter certeza de que a fé sem as obras é inútil?"
-    },
-    "21": {
-      "título": "",
-      "texto": "Por acaso não foi pelas obras que Abraão, o nosso pai, foi justificado, quando ofereceu o seu filho Isaque sobre o altar?"
-    },
-    "22": {
-      "título": "",
-      "texto": "Você percebe que a fé operava juntamente com as suas obras e que foi pelas obras que a fé se consumou."
-    },
-    "23": {
-      "título": "",
-      "texto": "E se cumpriu a Escritura, que diz: “Abraão creu em Deus, e isso lhe foi atribuído para justiça”, e ele foi chamado amigo de Deus."
-    },
-    "24": {
-      "título": "",
-      "texto": "Assim, vocês percebem que uma pessoa é justificada pelas obras e não somente pela fé."
-    },
-    "25": {
-      "título": "",
-      "texto": "De igual modo, será que não foi também pelas obras que a prostituta Raabe foi justificada, quando acolheu os emissários e os fez partir por outro caminho?"
-    },
-    "26": {
-      "título": "",
-      "texto": "Porque, assim como o corpo sem espírito é morto, assim também a fé sem obras é morta."
+    "versiculos": {
+        "1": "Meus irmãos, vocês não podem ter fé em nosso Senhor Jesus Cristo, o Senhor da glória, e ao mesmo tempo tratar as pessoas com parcialidade.",
+        "2": "Porque, se entrar na sinagoga de vocês um homem com anéis de ouro nos dedos, vestindo roupa luxuosa, e entrar também um pobre muito malvestido,",
+        "3": "e vocês derem um tratamento especial ao que está vestido com a roupa luxuosa, dizendo: “Você, sente-se aqui no lugar de honra”, e disserem ao pobre: “Você, fique em pé” ou “Sente-se ali, abaixo do estrado dos meus pés”,",
+        "4": "será que vocês não estarão fazendo distinção entre vocês mesmos e julgando as pessoas com critérios errados?",
+        "5": "Escutem, meus amados irmãos. Por acaso Deus não escolheu os que para o mundo são pobres para serem ricos em fé e herdeiros do Reino que ele prometeu aos que o amam?",
+        "6": "No entanto, vocês desprezam os pobres. Por acaso não são os ricos que oprimem vocês e não são eles que os arrastam para os tribunais?",
+        "7": "Não são eles os que blasfemam o bom nome que foi invocado sobre vocês?",
+        "8": "Se vocês, de fato, observam a lei do Reino, conforme está na Escritura: “Ame o seu próximo como a si mesmo”, fazem bem.",
+        "9": "Se, no entanto, vocês tratam as pessoas com parcialidade, cometem pecado, sendo condenados pela lei como transgressores.",
+        "10": "Pois quem guarda toda a lei, mas tropeça em um só ponto, se torna culpado de todos.",
+        "11": "Porque, aquele que disse: “Não cometa adultério”, também ordenou: “Não mate.” Ora, se você não comete adultério, porém mata, acaba sendo transgressor da lei.",
+        "12": "Assim, falem e vivam como pessoas que serão julgadas pela lei da liberdade.",
+        "13": "Porque o juízo é sem misericórdia sobre quem não usou de misericórdia. A misericórdia triunfa sobre o juízo.",
+        "14": "Meus irmãos, qual é o proveito, se alguém disser que tem fé, mas não tiver obras? Será que essa fé pode salvá-lo?",
+        "15": "Se um irmão ou uma irmã estiverem com falta de roupa e necessitando do alimento diário,",
+        "16": "e um de vocês lhes disser: “Vão em paz! Tratem de se aquecer e de se alimentar bem”, mas não lhes dão o necessário para o corpo, qual é o proveito disso?",
+        "17": "Assim, também a fé, se não tiver obras, por si só está morta.",
+        "18": "Mas alguém dirá: “Você tem fé, e eu tenho obras.” Mostre-me essa sua fé sem as obras, e eu, com as obras, lhe mostrarei a minha fé.",
+        "19": "Você crê que Deus é um só? Faz muito bem! Até os demônios creem e tremem.",
+        "20": "Seu tolo, você quer ter certeza de que a fé sem as obras é inútil?",
+        "21": "Por acaso não foi pelas obras que Abraão, o nosso pai, foi justificado, quando ofereceu o seu filho Isaque sobre o altar?",
+        "22": "Você percebe que a fé operava juntamente com as suas obras e que foi pelas obras que a fé se consumou.",
+        "23": "E se cumpriu a Escritura, que diz: “Abraão creu em Deus, e isso lhe foi atribuído para justiça”, e ele foi chamado amigo de Deus.",
+        "24": "Assim, vocês percebem que uma pessoa é justificada pelas obras e não somente pela fé.",
+        "25": "De igual modo, será que não foi também pelas obras que a prostituta Raabe foi justificada, quando acolheu os emissários e os fez partir por outro caminho?",
+        "26": "Porque, assim como o corpo sem espírito é morto, assim também a fé sem obras é morta."
     }
-  }
 }

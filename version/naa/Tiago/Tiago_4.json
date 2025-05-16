@@ -1,74 +1,28 @@
 {
-  "livro": "Tiago",
-  "capítulo": 4,
-  "versículos": {
-    "1": {
-      "título": "Amizade com o mundo",
-      "texto": "De onde procedem as guerras e brigas que há entre vocês? De onde, senão dos prazeres que estão em conflito dentro de vocês?"
+    "livro": "Tiago",
+    "capitulo": 4,
+    "titulos": {
+        "1": "Amizade com o mundo",
+        "11": "Não julguem os outros",
+        "13": "A incerteza da vida"
     },
-    "2": {
-      "título": "",
-      "texto": "Vocês cobiçam e nada têm; matam e sentem inveja, mas nada podem obter; vivem a lutar e a fazer guerras. Nada têm, porque não pedem;"
-    },
-    "3": {
-      "título": "",
-      "texto": "pedem e não recebem, porque pedem mal, para esbanjarem em seus prazeres."
-    },
-    "4": {
-      "título": "",
-      "texto": "Gente infiel! Vocês não sabem que a amizade do mundo é inimizade contra Deus? Aquele, pois, que quiser ser amigo do mundo se torna inimigo de Deus."
-    },
-    "5": {
-      "título": "",
-      "texto": "Ou vocês pensam que é em vão que a Escritura diz: “É com ciúme que por nós anseia o Espírito, que ele fez habitar em nós?”"
-    },
-    "6": {
-      "título": "",
-      "texto": "Mas ele nos dá cada vez mais graça. Por isso diz: “Deus resiste aos soberbos, mas dá graça aos humildes.”"
-    },
-    "7": {
-      "título": "",
-      "texto": "Portanto, sujeitem-se a Deus, mas resistam ao diabo, e ele fugirá de vocês."
-    },
-    "8": {
-      "título": "",
-      "texto": "Cheguem perto de Deus, e ele se chegará a vocês. Limpem as mãos, pecadores! E vocês que são indecisos, purifiquem o coração."
-    },
-    "9": {
-      "título": "",
-      "texto": "Reconheçam a sua miséria, lamentem e chorem. Que o riso de vocês se transforme em pranto, e que a alegria de vocês se transforme em tristeza."
-    },
-    "10": {
-      "título": "",
-      "texto": "Humilhem-se diante do Senhor, e ele os exaltará."
-    },
-    "11": {
-      "título": "Não julguem os outros",
-      "texto": "Irmãos, não falem mal uns dos outros. Aquele que fala mal do irmão ou julga o seu irmão fala mal da lei e julga a lei; ora, se você julga a lei, não é observador da lei, mas juiz."
-    },
-    "12": {
-      "título": "",
-      "texto": "Um só é Legislador e Juiz, aquele que pode salvar e fazer perecer. Mas quem é você para julgar o seu próximo?"
-    },
-    "13": {
-      "título": "A incerteza da vida",
-      "texto": "Escutem, agora, vocês que dizem: “Hoje ou amanhã, iremos para a cidade tal, e lá passaremos um ano, e faremos negócios, e teremos lucros.”"
-    },
-    "14": {
-      "título": "",
-      "texto": "Vocês não sabem o que acontecerá amanhã. O que é a vida de vocês? Vocês não passam de neblina que aparece por um instante e logo se dissipa."
-    },
-    "15": {
-      "título": "",
-      "texto": "Em vez disso, deveriam dizer: “Se Deus quiser, não só viveremos, como também faremos isto ou aquilo.”"
-    },
-    "16": {
-      "título": "",
-      "texto": "Agora, entretanto, vocês se orgulham das suas arrogantes pretensões. Todo orgulho semelhante a esse é mau."
-    },
-    "17": {
-      "título": "",
-      "texto": "Portanto, aquele que sabe que deve fazer o bem e não o faz, nisso está pecando."
+    "versiculos": {
+        "1": "De onde procedem as guerras e brigas que há entre vocês? De onde, senão dos prazeres que estão em conflito dentro de vocês?",
+        "2": "Vocês cobiçam e nada têm; matam e sentem inveja, mas nada podem obter; vivem a lutar e a fazer guerras. Nada têm, porque não pedem;",
+        "3": "pedem e não recebem, porque pedem mal, para esbanjarem em seus prazeres.",
+        "4": "Gente infiel! Vocês não sabem que a amizade do mundo é inimizade contra Deus? Aquele, pois, que quiser ser amigo do mundo se torna inimigo de Deus.",
+        "5": "Ou vocês pensam que é em vão que a Escritura diz: “É com ciúme que por nós anseia o Espírito, que ele fez habitar em nós?”",
+        "6": "Mas ele nos dá cada vez mais graça. Por isso diz: “Deus resiste aos soberbos, mas dá graça aos humildes.”",
+        "7": "Portanto, sujeitem-se a Deus, mas resistam ao diabo, e ele fugirá de vocês.",
+        "8": "Cheguem perto de Deus, e ele se chegará a vocês. Limpem as mãos, pecadores! E vocês que são indecisos, purifiquem o coração.",
+        "9": "Reconheçam a sua miséria, lamentem e chorem. Que o riso de vocês se transforme em pranto, e que a alegria de vocês se transforme em tristeza.",
+        "10": "Humilhem-se diante do Senhor, e ele os exaltará.",
+        "11": "Irmãos, não falem mal uns dos outros. Aquele que fala mal do irmão ou julga o seu irmão fala mal da lei e julga a lei; ora, se você julga a lei, não é observador da lei, mas juiz.",
+        "12": "Um só é Legislador e Juiz, aquele que pode salvar e fazer perecer. Mas quem é você para julgar o seu próximo?",
+        "13": "Escutem, agora, vocês que dizem: “Hoje ou amanhã, iremos para a cidade tal, e lá passaremos um ano, e faremos negócios, e teremos lucros.”",
+        "14": "Vocês não sabem o que acontecerá amanhã. O que é a vida de vocês? Vocês não passam de neblina que aparece por um instante e logo se dissipa.",
+        "15": "Em vez disso, deveriam dizer: “Se Deus quiser, não só viveremos, como também faremos isto ou aquilo.”",
+        "16": "Agora, entretanto, vocês se orgulham das suas arrogantes pretensões. Todo orgulho semelhante a esse é mau.",
+        "17": "Portanto, aquele que sabe que deve fazer o bem e não o faz, nisso está pecando."
     }
-  }
 }

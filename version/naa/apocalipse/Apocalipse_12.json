@@ -1,78 +1,27 @@
 {
-  "livro": "Apocalipse",
-  "capítulo": 12,
-  "versículos": {
-    "1": {
-      "título": "A mulher e o dragão",
-      "texto": "Viu-se grande sinal no céu: uma mulher vestida do sol com a lua debaixo dos pés e uma coroa de doze estrelas na cabeça."
+    "livro": "Apocalipse",
+    "capitulo": 12,
+    "titulos": {
+        "1": "A mulher e o dragão"
     },
-    "2": {
-      "título": "",
-      "texto": "A mulher estava grávida e gritava com dores de parto, sofrendo tormentos para dar à luz."
-    },
-    "3": {
-      "título": "",
-      "texto": "Viu-se, também, outro sinal no céu, e eis um dragão, grande, vermelho, com sete cabeças e dez chifres, e, nas cabeças, sete diademas."
-    },
-    "4": {
-      "título": "",
-      "texto": "A sua cauda arrastou a terça parte das estrelas do céu, as quais lançou para a terra. E o dragão se deteve diante da mulher que estava para dar à luz, a fim de devorar o filho dela quando nascesse."
-    },
-    "5": {
-      "título": "",
-      "texto": "Ela deu à luz um filho homem, que há de governar todas as nações com cetro de ferro. E o filho da mulher foi arrebatado para junto de Deus e do seu trono."
-    },
-    "6": {
-      "título": "",
-      "texto": "A mulher, porém, fugiu para o deserto, onde Deus lhe havia preparado um lugar, para que nele a sustentem durante mil duzentos e sessenta dias."
-    },
-    "7": {
-      "título": "",
-      "texto": "Então estourou a guerra no céu. Miguel e os seus anjos lutaram contra o dragão. Também o dragão e os seus anjos lutaram,"
-    },
-    "8": {
-      "título": "",
-      "texto": "mas não conseguiram sair vitoriosos e não havia mais lugar para eles no céu."
-    },
-    "9": {
-      "título": "",
-      "texto": "E foi expulso o grande dragão, a antiga serpente, que se chama diabo e Satanás, o sedutor de todo o mundo. Ele foi atirado para a terra, e, com ele, os seus anjos."
-    },
-    "10": {
-      "título": "",
-      "texto": "Então ouvi uma voz forte no céu, proclamando:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Eles o venceram"
-    },
-    "12": {
-      "título": "",
-      "texto": "Por isso, alegrem-se, ó céus,"
-    },
-    "13": {
-      "título": "",
-      "texto": "Quando o dragão viu que tinha sido atirado para a terra, perseguiu a mulher que tinha dado à luz o filho homem."
-    },
-    "14": {
-      "título": "",
-      "texto": "Mas foram dadas à mulher as duas asas da grande águia, para que voasse para o deserto, para o seu lugar, aí onde é sustentada durante um tempo, tempos e metade de um tempo, fora do alcance da serpente."
-    },
-    "15": {
-      "título": "",
-      "texto": "Então, a serpente lançou da boca água como um rio atrás da mulher, a fim de fazer com que ela fosse arrastada pelas águas."
-    },
-    "16": {
-      "título": "",
-      "texto": "A terra, porém, socorreu a mulher: abriu a sua boca e engoliu o rio que o dragão tinha lançado de sua boca."
-    },
-    "17": {
-      "título": "",
-      "texto": "O dragão ficou irado com a mulher e foi travar guerra com o restante da descendência dela, ou seja, os que guardam os mandamentos de Deus e têm o testemunho de Jesus."
-    },
-    "18": {
-      "título": "",
-      "texto": "E o dragão se pôs em pé sobre a areia do mar."
+    "versiculos": {
+        "1": "Viu-se grande sinal no céu: uma mulher vestida do sol com a lua debaixo dos pés e uma coroa de doze estrelas na cabeça.",
+        "2": "A mulher estava grávida e gritava com dores de parto, sofrendo tormentos para dar à luz.",
+        "3": "Viu-se, também, outro sinal no céu, e eis um dragão, grande, vermelho, com sete cabeças e dez chifres, e, nas cabeças, sete diademas.",
+        "4": "A sua cauda arrastou a terça parte das estrelas do céu, as quais lançou para a terra. E o dragão se deteve diante da mulher que estava para dar à luz, a fim de devorar o filho dela quando nascesse.",
+        "5": "Ela deu à luz um filho homem, que há de governar todas as nações com cetro de ferro. E o filho da mulher foi arrebatado para junto de Deus e do seu trono.",
+        "6": "A mulher, porém, fugiu para o deserto, onde Deus lhe havia preparado um lugar, para que nele a sustentem durante mil duzentos e sessenta dias.",
+        "7": "Então estourou a guerra no céu. Miguel e os seus anjos lutaram contra o dragão. Também o dragão e os seus anjos lutaram,",
+        "8": "mas não conseguiram sair vitoriosos e não havia mais lugar para eles no céu.",
+        "9": "E foi expulso o grande dragão, a antiga serpente, que se chama diabo e Satanás, o sedutor de todo o mundo. Ele foi atirado para a terra, e, com ele, os seus anjos.",
+        "10": "Então ouvi uma voz forte no céu, proclamando:",
+        "11": "Eles o venceram",
+        "12": "Por isso, alegrem-se, ó céus,",
+        "13": "Quando o dragão viu que tinha sido atirado para a terra, perseguiu a mulher que tinha dado à luz o filho homem.",
+        "14": "Mas foram dadas à mulher as duas asas da grande águia, para que voasse para o deserto, para o seu lugar, aí onde é sustentada durante um tempo, tempos e metade de um tempo, fora do alcance da serpente.",
+        "15": "Então, a serpente lançou da boca água como um rio atrás da mulher, a fim de fazer com que ela fosse arrastada pelas águas.",
+        "16": "A terra, porém, socorreu a mulher: abriu a sua boca e engoliu o rio que o dragão tinha lançado de sua boca.",
+        "17": "O dragão ficou irado com a mulher e foi travar guerra com o restante da descendência dela, ou seja, os que guardam os mandamentos de Deus e têm o testemunho de Jesus.",
+        "18": "E o dragão se pôs em pé sobre a areia do mar."
     }
-  }
 }

@@ -1,82 +1,30 @@
 {
-  "livro": "Isaías",
-  "capítulo": 63,
-  "versículos": {
-    "1": {
-      "título": "Deus vinga o seu povo",
-      "texto": "“Quem é este que vem de Edom,"
+    "livro": "Isaías",
+    "capitulo": 63,
+    "titulos": {
+        "1": "Deus vinga o seu povo",
+        "7": "A bondade de Deus para com Israel",
+        "15": "Oração pedindo a ajuda de Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "“Por que as suas roupas"
-    },
-    "3": {
-      "título": "",
-      "texto": "“O lagar, eu o pisei sozinho."
-    },
-    "4": {
-      "título": "",
-      "texto": "Porque o dia da vingança"
-    },
-    "5": {
-      "título": "",
-      "texto": "Olhei, e não havia"
-    },
-    "6": {
-      "título": "",
-      "texto": "Na minha ira, pisei os povos,"
-    },
-    "7": {
-      "título": "A bondade de Deus para com Israel",
-      "texto": "Celebrarei as misericórdias"
-    },
-    "8": {
-      "título": "",
-      "texto": "Porque ele dizia:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Em toda a angústia deles,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Mas eles foram rebeldes"
-    },
-    "11": {
-      "título": "",
-      "texto": "Então o povo se lembrou"
-    },
-    "12": {
-      "título": "",
-      "texto": "aquele que fez com que"
-    },
-    "13": {
-      "título": "",
-      "texto": "Aquele que os guiou"
-    },
-    "14": {
-      "título": "",
-      "texto": "Como o gado que desce"
-    },
-    "15": {
-      "título": "Oração pedindo a ajuda de Deus",
-      "texto": "Olha para nós lá do céu,"
-    },
-    "16": {
-      "título": "",
-      "texto": "Mas tu és o nosso Pai."
-    },
-    "17": {
-      "título": "",
-      "texto": "Ó Senhor , por que fazes"
-    },
-    "18": {
-      "título": "",
-      "texto": "Só por breve tempo"
-    },
-    "19": {
-      "título": "",
-      "texto": "Tornamo-nos como aqueles"
+    "versiculos": {
+        "1": "“Quem é este que vem de Edom,",
+        "2": "“Por que as suas roupas",
+        "3": "“O lagar, eu o pisei sozinho.",
+        "4": "Porque o dia da vingança",
+        "5": "Olhei, e não havia",
+        "6": "Na minha ira, pisei os povos,",
+        "7": "Celebrarei as misericórdias",
+        "8": "Porque ele dizia:",
+        "9": "Em toda a angústia deles,",
+        "10": "Mas eles foram rebeldes",
+        "11": "Então o povo se lembrou",
+        "12": "aquele que fez com que",
+        "13": "Aquele que os guiou",
+        "14": "Como o gado que desce",
+        "15": "Olha para nós lá do céu,",
+        "16": "Mas tu és o nosso Pai.",
+        "17": "Ó Senhor , por que fazes",
+        "18": "Só por breve tempo",
+        "19": "Tornamo-nos como aqueles"
     }
-  }
 }

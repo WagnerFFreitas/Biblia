@@ -1,122 +1,39 @@
 {
-  "livro": "Romanos",
-  "capítulo": 2,
-  "versículos": {
-    "1": {
-      "título": "O justo juízo de Deus",
-      "texto": "Por isso, você é indesculpável quando julga os outros, não importando quem você é. Pois, naquilo que julga o outro, você está condenando a si mesmo, porque pratica as mesmas coisas que condena."
+    "livro": "Romanos",
+    "capitulo": 2,
+    "titulos": {
+        "1": "O justo juízo de Deus",
+        "17": "Os judeus e a lei"
     },
-    "2": {
-      "título": "",
-      "texto": "Bem sabemos que o juízo de Deus é segundo a verdade contra os que praticam tais coisas."
-    },
-    "3": {
-      "título": "",
-      "texto": "E você, que condena os que praticam tais coisas, mas faz o mesmo que eles fazem, pensa que conseguirá se livrar do juízo de Deus?"
-    },
-    "4": {
-      "título": "",
-      "texto": "Ou será que você despreza a riqueza da bondade, da tolerância e da paciência de Deus, ignorando que a bondade de Deus é que leva você ao arrependimento?"
-    },
-    "5": {
-      "título": "",
-      "texto": "Mas, por ser teimoso e ter um coração impenitente, você acumula contra si mesmo ira para o dia da ira e da revelação do justo juízo de Deus,"
-    },
-    "6": {
-      "título": "",
-      "texto": "que retribuirá a cada um segundo as suas obras:"
-    },
-    "7": {
-      "título": "",
-      "texto": "a vida eterna aos que, perseverando em fazer o bem, procuram glória, honra e incorruptibilidade;"
-    },
-    "8": {
-      "título": "",
-      "texto": "mas ira e indignação para os egoístas, que desobedecem à verdade e obedecem à injustiça."
-    },
-    "9": {
-      "título": "",
-      "texto": "Tribulação e angústia virão sobre todo aquele que faz o mal, ao judeu primeiro e também ao grego;"
-    },
-    "10": {
-      "título": "",
-      "texto": "mas haverá glória, honra e paz a todo aquele que pratica o bem, ao judeu primeiro e também ao grego."
-    },
-    "11": {
-      "título": "",
-      "texto": "Porque Deus não trata as pessoas com parcialidade."
-    },
-    "12": {
-      "título": "",
-      "texto": "Assim, todos os que pecaram sem lei também sem lei perecerão; e todos os que pecaram sob a lei serão julgados pela lei."
-    },
-    "13": {
-      "título": "",
-      "texto": "Porque justos diante de Deus não são aqueles que somente ouvem a lei, mas os que praticam a lei é que serão justificados."
-    },
-    "14": {
-      "título": "",
-      "texto": "Quando, pois, os gentios, que não têm a lei, fazem, por natureza, o que a lei ordena, eles se tornam lei para si mesmos, embora não tenham a lei."
-    },
-    "15": {
-      "título": "",
-      "texto": "Estes mostram a obra da lei gravada no seu coração, o que é confirmado pela consciência deles e pelos seus pensamentos conflitantes, que às vezes os acusam e às vezes os defendem,"
-    },
-    "16": {
-      "título": "",
-      "texto": "no dia em que Deus, por meio de Cristo Jesus, julgar os segredos das pessoas, de acordo com o meu evangelho."
-    },
-    "17": {
-      "título": "Os judeus e a lei",
-      "texto": "Mas, se você diz que é judeu, confia na lei e se gloria em Deus;"
-    },
-    "18": {
-      "título": "",
-      "texto": "se você conhece a vontade de Deus e aprova as coisas excelentes, sendo instruído na lei;"
-    },
-    "19": {
-      "título": "",
-      "texto": "se você está convencido de que é guia dos cegos, luz dos que se encontram em trevas,"
-    },
-    "20": {
-      "título": "",
-      "texto": "instrutor de insensatos, mestre de crianças, tendo na lei a forma da sabedoria e da verdade —"
-    },
-    "21": {
-      "título": "",
-      "texto": "você, pois, que ensina os outros, não ensina a si mesmo? Você, que prega que não se deve roubar, rouba?"
-    },
-    "22": {
-      "título": "",
-      "texto": "Você, que diz que não se deve cometer adultério, adultera? Você, que detesta ídolos, rouba os templos?"
-    },
-    "23": {
-      "título": "",
-      "texto": "Você, que se gloria na lei, desonra a Deus pela transgressão da lei?"
-    },
-    "24": {
-      "título": "",
-      "texto": "Pois, como está escrito: “O nome de Deus é blasfemado entre os gentios por causa de vocês.”"
-    },
-    "25": {
-      "título": "",
-      "texto": "A circuncisão tem valor se você pratica a lei; mas, se você é transgressor da lei, a sua circuncisão já se tornou incircuncisão."
-    },
-    "26": {
-      "título": "",
-      "texto": "Portanto, se a incircuncisão observa os preceitos da lei, não será essa incircuncisão considerada como circuncisão?"
-    },
-    "27": {
-      "título": "",
-      "texto": "E, se aquele que é incircunciso por natureza cumpre a lei, certamente ele julgará você, que, embora tenha a letra da lei e a circuncisão, é transgressor da lei."
-    },
-    "28": {
-      "título": "",
-      "texto": "Porque não é judeu quem o é apenas exteriormente, nem é circuncisão a que é somente na carne."
-    },
-    "29": {
-      "título": "",
-      "texto": "Porém judeu é aquele que o é interiormente, e circuncisão é a do coração, pelo Espírito, não segundo a letra, e cujo louvor não procede de seres humanos, mas de Deus."
+    "versiculos": {
+        "1": "Por isso, você é indesculpável quando julga os outros, não importando quem você é. Pois, naquilo que julga o outro, você está condenando a si mesmo, porque pratica as mesmas coisas que condena.",
+        "2": "Bem sabemos que o juízo de Deus é segundo a verdade contra os que praticam tais coisas.",
+        "3": "E você, que condena os que praticam tais coisas, mas faz o mesmo que eles fazem, pensa que conseguirá se livrar do juízo de Deus?",
+        "4": "Ou será que você despreza a riqueza da bondade, da tolerância e da paciência de Deus, ignorando que a bondade de Deus é que leva você ao arrependimento?",
+        "5": "Mas, por ser teimoso e ter um coração impenitente, você acumula contra si mesmo ira para o dia da ira e da revelação do justo juízo de Deus,",
+        "6": "que retribuirá a cada um segundo as suas obras:",
+        "7": "a vida eterna aos que, perseverando em fazer o bem, procuram glória, honra e incorruptibilidade;",
+        "8": "mas ira e indignação para os egoístas, que desobedecem à verdade e obedecem à injustiça.",
+        "9": "Tribulação e angústia virão sobre todo aquele que faz o mal, ao judeu primeiro e também ao grego;",
+        "10": "mas haverá glória, honra e paz a todo aquele que pratica o bem, ao judeu primeiro e também ao grego.",
+        "11": "Porque Deus não trata as pessoas com parcialidade.",
+        "12": "Assim, todos os que pecaram sem lei também sem lei perecerão; e todos os que pecaram sob a lei serão julgados pela lei.",
+        "13": "Porque justos diante de Deus não são aqueles que somente ouvem a lei, mas os que praticam a lei é que serão justificados.",
+        "14": "Quando, pois, os gentios, que não têm a lei, fazem, por natureza, o que a lei ordena, eles se tornam lei para si mesmos, embora não tenham a lei.",
+        "15": "Estes mostram a obra da lei gravada no seu coração, o que é confirmado pela consciência deles e pelos seus pensamentos conflitantes, que às vezes os acusam e às vezes os defendem,",
+        "16": "no dia em que Deus, por meio de Cristo Jesus, julgar os segredos das pessoas, de acordo com o meu evangelho.",
+        "17": "Mas, se você diz que é judeu, confia na lei e se gloria em Deus;",
+        "18": "se você conhece a vontade de Deus e aprova as coisas excelentes, sendo instruído na lei;",
+        "19": "se você está convencido de que é guia dos cegos, luz dos que se encontram em trevas,",
+        "20": "instrutor de insensatos, mestre de crianças, tendo na lei a forma da sabedoria e da verdade —",
+        "21": "você, pois, que ensina os outros, não ensina a si mesmo? Você, que prega que não se deve roubar, rouba?",
+        "22": "Você, que diz que não se deve cometer adultério, adultera? Você, que detesta ídolos, rouba os templos?",
+        "23": "Você, que se gloria na lei, desonra a Deus pela transgressão da lei?",
+        "24": "Pois, como está escrito: “O nome de Deus é blasfemado entre os gentios por causa de vocês.”",
+        "25": "A circuncisão tem valor se você pratica a lei; mas, se você é transgressor da lei, a sua circuncisão já se tornou incircuncisão.",
+        "26": "Portanto, se a incircuncisão observa os preceitos da lei, não será essa incircuncisão considerada como circuncisão?",
+        "27": "E, se aquele que é incircunciso por natureza cumpre a lei, certamente ele julgará você, que, embora tenha a letra da lei e a circuncisão, é transgressor da lei.",
+        "28": "Porque não é judeu quem o é apenas exteriormente, nem é circuncisão a que é somente na carne.",
+        "29": "Porém judeu é aquele que o é interiormente, e circuncisão é a do coração, pelo Espírito, não segundo a letra, e cujo louvor não procede de seres humanos, mas de Deus."
     }
-  }
 }

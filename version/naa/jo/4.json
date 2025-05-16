@@ -1,90 +1,31 @@
 {
-  "livro": "Jó",
-  "capítulo": 4,
-  "versículos": {
-    "1": {
-      "título": "Chegou a sua vez de sofrer",
-      "texto": "Então Elifaz, o temanita, tomou a palavra e disse:"
+    "livro": "Jó",
+    "capitulo": 4,
+    "titulos": {
+        "1": "Chegou a sua vez de sofrer",
+        "12": "Pode um mortal ser justo diante de Deus?"
     },
-    "2": {
-      "título": "",
-      "texto": "“Se alguém tentar falar,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Veja bem! Você ensinou a muitos"
-    },
-    "4": {
-      "título": "",
-      "texto": "As suas palavras sustentaram"
-    },
-    "5": {
-      "título": "",
-      "texto": "Mas agora,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Você não tem confiança"
-    },
-    "7": {
-      "título": "",
-      "texto": "Pense bem: será que algum"
-    },
-    "8": {
-      "título": "",
-      "texto": "Segundo eu tenho visto,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Com o hálito de Deus perecem;"
-    },
-    "10": {
-      "título": "",
-      "texto": "Cessa o bramido do leão"
-    },
-    "11": {
-      "título": "",
-      "texto": "O leão morre,"
-    },
-    "12": {
-      "título": "Pode um mortal ser justo diante de Deus?",
-      "texto": "“Uma palavra me foi trazida"
-    },
-    "13": {
-      "título": "",
-      "texto": "Entre pensamentos"
-    },
-    "14": {
-      "título": "",
-      "texto": "sobrevieram-me"
-    },
-    "15": {
-      "título": "",
-      "texto": "Então um espírito passou"
-    },
-    "16": {
-      "título": "",
-      "texto": "Ele parou, mas não reconheci"
-    },
-    "17": {
-      "título": "",
-      "texto": "‘Pode um mortal ser justo"
-    },
-    "18": {
-      "título": "",
-      "texto": "Eis que Deus não confia"
-    },
-    "19": {
-      "título": "",
-      "texto": "quanto mais àqueles"
-    },
-    "20": {
-      "título": "",
-      "texto": "Nascem de manhã"
-    },
-    "21": {
-      "título": "",
-      "texto": "Se o fio da vida lhes é cortado,"
+    "versiculos": {
+        "1": "Então Elifaz, o temanita, tomou a palavra e disse:",
+        "2": "“Se alguém tentar falar,",
+        "3": "Veja bem! Você ensinou a muitos",
+        "4": "As suas palavras sustentaram",
+        "5": "Mas agora,",
+        "6": "Você não tem confiança",
+        "7": "Pense bem: será que algum",
+        "8": "Segundo eu tenho visto,",
+        "9": "Com o hálito de Deus perecem;",
+        "10": "Cessa o bramido do leão",
+        "11": "O leão morre,",
+        "12": "“Uma palavra me foi trazida",
+        "13": "Entre pensamentos",
+        "14": "sobrevieram-me",
+        "15": "Então um espírito passou",
+        "16": "Ele parou, mas não reconheci",
+        "17": "‘Pode um mortal ser justo",
+        "18": "Eis que Deus não confia",
+        "19": "quanto mais àqueles",
+        "20": "Nascem de manhã",
+        "21": "Se o fio da vida lhes é cortado,"
     }
-  }
 }

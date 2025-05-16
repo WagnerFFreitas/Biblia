@@ -1,58 +1,22 @@
 {
-  "livro": "Salmos",
-  "capítulo": 21,
-  "versículos": {
-    "1": {
-      "título": "Gratidão pela vitória",
-      "texto": "Na tua força, Senhor ,"
+    "livro": "Salmos",
+    "capitulo": 21,
+    "titulos": {
+        "1": "Gratidão pela vitória"
     },
-    "2": {
-      "título": "",
-      "texto": "Tu lhe satisfizeste"
-    },
-    "3": {
-      "título": "",
-      "texto": "Pois o supres"
-    },
-    "4": {
-      "título": "",
-      "texto": "Ele te pediu vida,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Grande é a glória dele"
-    },
-    "6": {
-      "título": "",
-      "texto": "Pois o puseste por bênção"
-    },
-    "7": {
-      "título": "",
-      "texto": "O rei confia no Senhor"
-    },
-    "8": {
-      "título": "",
-      "texto": "A mão dele alcançará"
-    },
-    "9": {
-      "título": "",
-      "texto": "Tu os farás"
-    },
-    "10": {
-      "título": "",
-      "texto": "Destruirás da terra"
-    },
-    "11": {
-      "título": "",
-      "texto": "Se contra ti planejarem o mal"
-    },
-    "12": {
-      "título": "",
-      "texto": "porque tu os porás em fuga"
-    },
-    "13": {
-      "título": "",
-      "texto": "Exalta-te, Senhor , na tua força!"
+    "versiculos": {
+        "1": "Na tua força, Senhor ,",
+        "2": "Tu lhe satisfizeste",
+        "3": "Pois o supres",
+        "4": "Ele te pediu vida,",
+        "5": "Grande é a glória dele",
+        "6": "Pois o puseste por bênção",
+        "7": "O rei confia no Senhor",
+        "8": "A mão dele alcançará",
+        "9": "Tu os farás",
+        "10": "Destruirás da terra",
+        "11": "Se contra ti planejarem o mal",
+        "12": "porque tu os porás em fuga",
+        "13": "Exalta-te, Senhor , na tua força!"
     }
-  }
 }

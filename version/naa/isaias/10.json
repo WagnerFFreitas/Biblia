@@ -1,142 +1,44 @@
 {
-  "livro": "Isaías",
-  "capítulo": 10,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Ai dos que decretam leis injustas,"
+    "livro": "Isaías",
+    "capitulo": 10,
+    "titulos": {
+        "5": "Profecia contra a Assíria",
+        "20": "Um resto voltará"
     },
-    "2": {
-      "título": "",
-      "texto": "para negarem justiça aos pobres,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Mas o que vocês vão fazer"
-    },
-    "4": {
-      "título": "",
-      "texto": "Nada mais lhes resta a fazer,"
-    },
-    "5": {
-      "título": "Profecia contra a Assíria",
-      "texto": "“Ai da Assíria, cetro da minha ira!"
-    },
-    "6": {
-      "título": "",
-      "texto": "Eu a envio contra uma nação ímpia,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Ela, porém, assim não pensa,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Porque diz: ‘Não são"
-    },
-    "9": {
-      "título": "",
-      "texto": "Não é Calno como Carquemis?"
-    },
-    "10": {
-      "título": "",
-      "texto": "O meu poder atingiu"
-    },
-    "11": {
-      "título": "",
-      "texto": "Será que não posso fazer"
-    },
-    "12": {
-      "título": "",
-      "texto": "Por isso, quando o Senhor tiver acabado toda a sua obra no monte Sião e em Jerusalém, então castigará a arrogância do coração do rei da Assíria e o excessivo orgulho dos seus olhos."
-    },
-    "13": {
-      "título": "",
-      "texto": "Porque o rei disse:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Meti a mão nas riquezas"
-    },
-    "15": {
-      "título": "",
-      "texto": "Será que o machado"
-    },
-    "16": {
-      "título": "",
-      "texto": "Por isso, o Senhor, o Senhor"
-    },
-    "17": {
-      "título": "",
-      "texto": "Porque a Luz de Israel"
-    },
-    "18": {
-      "título": "",
-      "texto": "Também destruirá totalmente"
-    },
-    "19": {
-      "título": "",
-      "texto": "As árvores que restarem"
-    },
-    "20": {
-      "título": "Um resto voltará",
-      "texto": "Naquele dia, os restantes de Israel e os da casa de Jacó que tiverem escapado nunca mais se apoiarão naquele que os feriu, mas se apoiarão no Senhor , o Santo de Israel."
-    },
-    "21": {
-      "título": "",
-      "texto": "Um resto voltará; sim, um resto de Jacó voltará para o Deus Forte."
-    },
-    "22": {
-      "título": "",
-      "texto": "Porque ainda que o seu povo, ó Israel, seja como a areia do mar, apenas um resto voltará. Uma destruição está determinada, transbordante de justiça."
-    },
-    "23": {
-      "título": "",
-      "texto": "Porque essa destruição, já determinada, o Senhor, o Senhor dos Exércitos, a executará no meio de toda esta terra."
-    },
-    "24": {
-      "título": "",
-      "texto": "Por isso, assim diz o Senhor, o Senhor dos Exércitos:"
-    },
-    "25": {
-      "título": "",
-      "texto": "Pois daqui a bem pouco se cumprirá a minha indignação e a minha ira, para a consumir."
-    },
-    "26": {
-      "título": "",
-      "texto": "Porque o Senhor dos Exércitos suscitará contra ela um flagelo, como a matança de Midiã junto ao rochedo de Orebe. O seu bordão estará sobre o mar, e ele o levantará como fez no Egito."
-    },
-    "27": {
-      "título": "",
-      "texto": "Naquele dia, o peso deles será tirado dos ombros de vocês, e o jugo deles será removido do pescoço de vocês, jugo que será despedaçado por causa da gordura."
-    },
-    "28": {
-      "título": "",
-      "texto": "A Assíria vem a Aiate,"
-    },
-    "29": {
-      "título": "",
-      "texto": "Passa o desfiladeiro,"
-    },
-    "30": {
-      "título": "",
-      "texto": "Grite bem alto, ó filha de Galim!"
-    },
-    "31": {
-      "título": "",
-      "texto": "Madmena se dispersa;"
-    },
-    "32": {
-      "título": "",
-      "texto": "Nesse mesmo dia,"
-    },
-    "33": {
-      "título": "",
-      "texto": "Mas eis que o Senhor,"
-    },
-    "34": {
-      "título": "",
-      "texto": "Cortará com o machado"
+    "versiculos": {
+        "1": "Ai dos que decretam leis injustas,",
+        "2": "para negarem justiça aos pobres,",
+        "3": "Mas o que vocês vão fazer",
+        "4": "Nada mais lhes resta a fazer,",
+        "5": "“Ai da Assíria, cetro da minha ira!",
+        "6": "Eu a envio contra uma nação ímpia,",
+        "7": "Ela, porém, assim não pensa,",
+        "8": "Porque diz: ‘Não são",
+        "9": "Não é Calno como Carquemis?",
+        "10": "O meu poder atingiu",
+        "11": "Será que não posso fazer",
+        "12": "Por isso, quando o Senhor tiver acabado toda a sua obra no monte Sião e em Jerusalém, então castigará a arrogância do coração do rei da Assíria e o excessivo orgulho dos seus olhos.",
+        "13": "Porque o rei disse:",
+        "14": "Meti a mão nas riquezas",
+        "15": "Será que o machado",
+        "16": "Por isso, o Senhor, o Senhor",
+        "17": "Porque a Luz de Israel",
+        "18": "Também destruirá totalmente",
+        "19": "As árvores que restarem",
+        "20": "Naquele dia, os restantes de Israel e os da casa de Jacó que tiverem escapado nunca mais se apoiarão naquele que os feriu, mas se apoiarão no Senhor , o Santo de Israel.",
+        "21": "Um resto voltará; sim, um resto de Jacó voltará para o Deus Forte.",
+        "22": "Porque ainda que o seu povo, ó Israel, seja como a areia do mar, apenas um resto voltará. Uma destruição está determinada, transbordante de justiça.",
+        "23": "Porque essa destruição, já determinada, o Senhor, o Senhor dos Exércitos, a executará no meio de toda esta terra.",
+        "24": "Por isso, assim diz o Senhor, o Senhor dos Exércitos:",
+        "25": "Pois daqui a bem pouco se cumprirá a minha indignação e a minha ira, para a consumir.",
+        "26": "Porque o Senhor dos Exércitos suscitará contra ela um flagelo, como a matança de Midiã junto ao rochedo de Orebe. O seu bordão estará sobre o mar, e ele o levantará como fez no Egito.",
+        "27": "Naquele dia, o peso deles será tirado dos ombros de vocês, e o jugo deles será removido do pescoço de vocês, jugo que será despedaçado por causa da gordura.",
+        "28": "A Assíria vem a Aiate,",
+        "29": "Passa o desfiladeiro,",
+        "30": "Grite bem alto, ó filha de Galim!",
+        "31": "Madmena se dispersa;",
+        "32": "Nesse mesmo dia,",
+        "33": "Mas eis que o Senhor,",
+        "34": "Cortará com o machado"
     }
-  }
 }

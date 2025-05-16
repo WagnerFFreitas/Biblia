@@ -1,98 +1,32 @@
 {
-  "livro": "Neemias",
-  "capítulo": 4,
-  "versículos": {
-    "1": {
-      "título": "A defesa contra os adversários",
-      "texto": "Quando Sambalate ouviu que nós estávamos reconstruindo a muralha, ficou irado e indignado, e começou a zombar dos judeus."
+    "livro": "Neemias",
+    "capitulo": 4,
+    "titulos": {
+        "1": "A defesa contra os adversários"
     },
-    "2": {
-      "título": "",
-      "texto": "Na presença de seus irmãos e do exército de Samaria ele disse:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Tobias, o amonita, estava com Sambalate e disse:"
-    },
-    "4": {
-      "título": "",
-      "texto": "“Ouve, ó nosso Deus, pois estamos sendo desprezados. Faze com que o seu desprezo recaia sobre a cabeça deles, e faze com que sejam despojo numa terra de cativeiro."
-    },
-    "5": {
-      "título": "",
-      "texto": "Não encubras a sua iniquidade, e que o pecado deles não seja apagado diante de ti, pois te provocaram à ira na presença dos construtores.”"
-    },
-    "6": {
-      "título": "",
-      "texto": "Assim, reconstruímos a muralha. E toda a muralha foi acabada até a metade da sua altura, porque o povo tinha ânimo para trabalhar."
-    },
-    "7": {
-      "título": "",
-      "texto": "Mas, quando Sambalate, Tobias, os árabes, os amonitas e os asdoditas ouviram que a reparação das muralhas de Jerusalém ia adiante e que já se começavam a fechar-lhe as brechas, ficaram muito irados."
-    },
-    "8": {
-      "título": "",
-      "texto": "Todos se ajuntaram de comum acordo para virem atacar Jerusalém e criar confusão ali."
-    },
-    "9": {
-      "título": "",
-      "texto": "Porém nós oramos ao nosso Deus e, como proteção, pusemos guarda contra eles, de dia e de noite."
-    },
-    "10": {
-      "título": "",
-      "texto": "Então os que estavam em Judá disseram:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Os nossos inimigos diziam entre si: “Eles não ficarão sabendo nem verão nada, até que entremos no meio deles e os matemos. E assim vamos fazer com que a obra pare.”"
-    },
-    "12": {
-      "título": "",
-      "texto": "Os judeus que habitavam na vizinhança deles nos disseram dez vezes: “De todos os lugares onde moram, eles nos atacarão.”"
-    },
-    "13": {
-      "título": "",
-      "texto": "Então pus o povo, por famílias, nos lugares baixos e abertos, por detrás da muralha, com as suas espadas, as suas lanças e os seus arcos."
-    },
-    "14": {
-      "título": "",
-      "texto": "Depois de fazer uma inspeção, levantei-me e disse aos nobres, aos magistrados e ao resto do povo:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Quando os nossos inimigos ouviram que nós já sabíamos disso e que Deus tinha frustrado o plano deles, voltamos todos nós para a muralha, cada um à sua obra."
-    },
-    "16": {
-      "título": "",
-      "texto": "Daquele dia em diante, metade dos meus homens trabalhava na obra, e a outra metade empunhava lanças, escudos, arcos e couraças; e os chefes estavam por trás de toda a casa de Judá"
-    },
-    "17": {
-      "título": "",
-      "texto": "que reconstruía a muralha. Os carregadores, que por si mesmos tomavam as cargas, cada um com uma das mãos fazia a obra e com a outra segurava a arma."
-    },
-    "18": {
-      "título": "",
-      "texto": "Os construtores, cada um trazia a sua espada na cintura, enquanto construíam. O que tocava a trombeta estava ao meu lado."
-    },
-    "19": {
-      "título": "",
-      "texto": "Eu disse aos nobres, aos magistrados e ao resto do povo:"
-    },
-    "20": {
-      "título": "",
-      "texto": "No lugar em que ouvirem o som da trombeta, ali reúnam-se em volta de nós. O nosso Deus lutará por nós."
-    },
-    "21": {
-      "título": "",
-      "texto": "Assim trabalhávamos na obra; e metade empunhava as lanças desde o raiar do dia até o anoitecer."
-    },
-    "22": {
-      "título": "",
-      "texto": "Também nesse mesmo tempo eu disse ao povo:"
-    },
-    "23": {
-      "título": "",
-      "texto": "Nem eu, nem os meus irmãos, nem os meus servos, nem os homens da guarda que me seguiam tirávamos as nossas roupas, nem mesmo para dormir; cada um se deitava com as armas à sua direita."
+    "versiculos": {
+        "1": "Quando Sambalate ouviu que nós estávamos reconstruindo a muralha, ficou irado e indignado, e começou a zombar dos judeus.",
+        "2": "Na presença de seus irmãos e do exército de Samaria ele disse:",
+        "3": "Tobias, o amonita, estava com Sambalate e disse:",
+        "4": "“Ouve, ó nosso Deus, pois estamos sendo desprezados. Faze com que o seu desprezo recaia sobre a cabeça deles, e faze com que sejam despojo numa terra de cativeiro.",
+        "5": "Não encubras a sua iniquidade, e que o pecado deles não seja apagado diante de ti, pois te provocaram à ira na presença dos construtores.”",
+        "6": "Assim, reconstruímos a muralha. E toda a muralha foi acabada até a metade da sua altura, porque o povo tinha ânimo para trabalhar.",
+        "7": "Mas, quando Sambalate, Tobias, os árabes, os amonitas e os asdoditas ouviram que a reparação das muralhas de Jerusalém ia adiante e que já se começavam a fechar-lhe as brechas, ficaram muito irados.",
+        "8": "Todos se ajuntaram de comum acordo para virem atacar Jerusalém e criar confusão ali.",
+        "9": "Porém nós oramos ao nosso Deus e, como proteção, pusemos guarda contra eles, de dia e de noite.",
+        "10": "Então os que estavam em Judá disseram:",
+        "11": "Os nossos inimigos diziam entre si: “Eles não ficarão sabendo nem verão nada, até que entremos no meio deles e os matemos. E assim vamos fazer com que a obra pare.”",
+        "12": "Os judeus que habitavam na vizinhança deles nos disseram dez vezes: “De todos os lugares onde moram, eles nos atacarão.”",
+        "13": "Então pus o povo, por famílias, nos lugares baixos e abertos, por detrás da muralha, com as suas espadas, as suas lanças e os seus arcos.",
+        "14": "Depois de fazer uma inspeção, levantei-me e disse aos nobres, aos magistrados e ao resto do povo:",
+        "15": "Quando os nossos inimigos ouviram que nós já sabíamos disso e que Deus tinha frustrado o plano deles, voltamos todos nós para a muralha, cada um à sua obra.",
+        "16": "Daquele dia em diante, metade dos meus homens trabalhava na obra, e a outra metade empunhava lanças, escudos, arcos e couraças; e os chefes estavam por trás de toda a casa de Judá",
+        "17": "que reconstruía a muralha. Os carregadores, que por si mesmos tomavam as cargas, cada um com uma das mãos fazia a obra e com a outra segurava a arma.",
+        "18": "Os construtores, cada um trazia a sua espada na cintura, enquanto construíam. O que tocava a trombeta estava ao meu lado.",
+        "19": "Eu disse aos nobres, aos magistrados e ao resto do povo:",
+        "20": "No lugar em que ouvirem o som da trombeta, ali reúnam-se em volta de nós. O nosso Deus lutará por nós.",
+        "21": "Assim trabalhávamos na obra; e metade empunhava as lanças desde o raiar do dia até o anoitecer.",
+        "22": "Também nesse mesmo tempo eu disse ao povo:",
+        "23": "Nem eu, nem os meus irmãos, nem os meus servos, nem os homens da guarda que me seguiam tirávamos as nossas roupas, nem mesmo para dormir; cada um se deitava com as armas à sua direita."
     }
-  }
 }

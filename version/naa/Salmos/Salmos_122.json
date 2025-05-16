@@ -1,42 +1,18 @@
 {
-  "livro": "Salmos",
-  "capítulo": 122,
-  "versículos": {
-    "1": {
-      "título": "Oração pela paz de Jerusalém",
-      "texto": "Alegrei-me quando me disseram:"
+    "livro": "Salmos",
+    "capitulo": 122,
+    "titulos": {
+        "1": "Oração pela paz de Jerusalém"
     },
-    "2": {
-      "título": "",
-      "texto": "Pararam os nossos pés"
-    },
-    "3": {
-      "título": "",
-      "texto": "Jerusalém,"
-    },
-    "4": {
-      "título": "",
-      "texto": "para onde sobem as tribos,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Lá estão os tronos de justiça,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Orem pela paz de Jerusalém!"
-    },
-    "7": {
-      "título": "",
-      "texto": "Reine paz em seu meio"
-    },
-    "8": {
-      "título": "",
-      "texto": "Por amor dos meus irmãos"
-    },
-    "9": {
-      "título": "",
-      "texto": "Por amor da Casa do Senhor ,"
+    "versiculos": {
+        "1": "Alegrei-me quando me disseram:",
+        "2": "Pararam os nossos pés",
+        "3": "Jerusalém,",
+        "4": "para onde sobem as tribos,",
+        "5": "Lá estão os tronos de justiça,",
+        "6": "Orem pela paz de Jerusalém!",
+        "7": "Reine paz em seu meio",
+        "8": "Por amor dos meus irmãos",
+        "9": "Por amor da Casa do Senhor ,"
     }
-  }
 }

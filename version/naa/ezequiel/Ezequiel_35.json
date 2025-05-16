@@ -1,66 +1,24 @@
 {
-  "livro": "Ezequiel",
-  "capítulo": 35,
-  "versículos": {
-    "1": {
-      "título": "Profecia contra o monte Seir",
-      "texto": "A palavra do Senhor veio a mim, dizendo:"
+    "livro": "Ezequiel",
+    "capitulo": 35,
+    "titulos": {
+        "1": "Profecia contra o monte Seir"
     },
-    "2": {
-      "título": "",
-      "texto": "— Filho do homem, vire o seu rosto contra o monte Seir e profetize contra ele."
-    },
-    "3": {
-      "título": "",
-      "texto": "Diga-lhe: Assim diz o Senhor Deus : “Eis que estou contra você, monte Seir. Estenderei a minha mão contra você e o tornarei em desolação e espanto."
-    },
-    "4": {
-      "título": "",
-      "texto": "Deixarei desertas as suas cidades, e você será desolado. Então saberá que eu sou o Senhor ."
-    },
-    "5": {
-      "título": "",
-      "texto": "Pois você guardou uma inimizade sem fim e deixou os filhos de Israel entregues ao poder da espada, no tempo da calamidade e do castigo final."
-    },
-    "6": {
-      "título": "",
-      "texto": "Por isso, tão certo como eu vivo, diz o Senhor Deus , farei você sangrar, e o derramamento de sangue o perseguirá. Visto que você não odiou o derramamento de sangue, este o perseguirá."
-    },
-    "7": {
-      "título": "",
-      "texto": "Farei do monte Seir extrema desolação e eliminarei dele os que por ali passam e os que por ali voltam."
-    },
-    "8": {
-      "título": "",
-      "texto": "Encherei os seus montes de cadáveres; os mortos à espada ficarão caídos nas suas colinas, nos seus vales e em todas as suas correntes de água."
-    },
-    "9": {
-      "título": "",
-      "texto": "Farei de você uma desolação perpétua, e as suas cidades não voltarão a ser habitadas. Assim vocês saberão que eu sou o Senhor .”"
-    },
-    "10": {
-      "título": "",
-      "texto": "— “Porque você disse: ‘Esses dois povos são meus e eu vou tomar posse dessas duas terras’, sendo que o Senhor estava ali."
-    },
-    "11": {
-      "título": "",
-      "texto": "Por isso, tão certo como eu vivo, diz o Senhor Deus , procederei segundo a sua ira e segundo a sua inveja, com que, no seu ódio, você os tratou. E eu me farei conhecido entre eles, quando castigar você."
-    },
-    "12": {
-      "título": "",
-      "texto": "Você saberá que eu, o Senhor , ouvi todas as blasfêmias que você falou contra os montes de Israel, dizendo: ‘Já estão arrasados e nos foram entregues por pasto.’"
-    },
-    "13": {
-      "título": "",
-      "texto": "Vocês se exaltaram contra mim com aquilo que falaram e não pouparam palavras contra mim. Eu ouvi isso muito bem.”"
-    },
-    "14": {
-      "título": "",
-      "texto": "— Assim diz o Senhor Deus : “Enquanto toda a terra se alegra, farei de você uma desolação."
-    },
-    "15": {
-      "título": "",
-      "texto": "Assim como você se alegrou quando a herança da casa de Israel foi arrasada, assim também farei com você. Você será arrasado, ó monte Seir e todo o Edom, sim, todo ele. Então saberão que eu sou o Senhor .”"
+    "versiculos": {
+        "1": "A palavra do Senhor veio a mim, dizendo:",
+        "2": "— Filho do homem, vire o seu rosto contra o monte Seir e profetize contra ele.",
+        "3": "Diga-lhe: Assim diz o Senhor Deus : “Eis que estou contra você, monte Seir. Estenderei a minha mão contra você e o tornarei em desolação e espanto.",
+        "4": "Deixarei desertas as suas cidades, e você será desolado. Então saberá que eu sou o Senhor .",
+        "5": "Pois você guardou uma inimizade sem fim e deixou os filhos de Israel entregues ao poder da espada, no tempo da calamidade e do castigo final.",
+        "6": "Por isso, tão certo como eu vivo, diz o Senhor Deus , farei você sangrar, e o derramamento de sangue o perseguirá. Visto que você não odiou o derramamento de sangue, este o perseguirá.",
+        "7": "Farei do monte Seir extrema desolação e eliminarei dele os que por ali passam e os que por ali voltam.",
+        "8": "Encherei os seus montes de cadáveres; os mortos à espada ficarão caídos nas suas colinas, nos seus vales e em todas as suas correntes de água.",
+        "9": "Farei de você uma desolação perpétua, e as suas cidades não voltarão a ser habitadas. Assim vocês saberão que eu sou o Senhor .”",
+        "10": "— “Porque você disse: ‘Esses dois povos são meus e eu vou tomar posse dessas duas terras’, sendo que o Senhor estava ali.",
+        "11": "Por isso, tão certo como eu vivo, diz o Senhor Deus , procederei segundo a sua ira e segundo a sua inveja, com que, no seu ódio, você os tratou. E eu me farei conhecido entre eles, quando castigar você.",
+        "12": "Você saberá que eu, o Senhor , ouvi todas as blasfêmias que você falou contra os montes de Israel, dizendo: ‘Já estão arrasados e nos foram entregues por pasto.’",
+        "13": "Vocês se exaltaram contra mim com aquilo que falaram e não pouparam palavras contra mim. Eu ouvi isso muito bem.”",
+        "14": "— Assim diz o Senhor Deus : “Enquanto toda a terra se alegra, farei de você uma desolação.",
+        "15": "Assim como você se alegrou quando a herança da casa de Israel foi arrasada, assim também farei com você. Você será arrasado, ó monte Seir e todo o Edom, sim, todo ele. Então saberão que eu sou o Senhor .”"
     }
-  }
 }

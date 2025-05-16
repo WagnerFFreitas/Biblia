@@ -1,166 +1,53 @@
 {
-  "livro": "Êxodo",
-  "capítulo": 25,
-  "versículos": {
-    "1": {
-      "título": "Deus manda trazer ofertas para o tabernáculo",
-      "texto": "O Senhor disse a Moisés:"
+    "livro": "Êxodo",
+    "capitulo": 25,
+    "titulos": {
+        "1": "Deus manda trazer ofertas para o tabernáculo",
+        "10": "A arca da aliança",
+        "17": "O propiciatório",
+        "23": "A mesa dos pães da proposição",
+        "31": "O candelabro"
     },
-    "2": {
-      "título": "",
-      "texto": "— Diga aos filhos de Israel que me tragam uma oferta. De todo homem cujo coração o mover para isso, dele vocês receberão a minha oferta."
-    },
-    "3": {
-      "título": "",
-      "texto": "Esta é a oferta que dele vocês receberão: ouro, prata e bronze;"
-    },
-    "4": {
-      "título": "",
-      "texto": "pano azul, púrpura e carmesim; linho fino; pelos de cabra;"
-    },
-    "5": {
-      "título": "",
-      "texto": "peles de carneiro tingidas de vermelho e peles finas; madeira de acácia;"
-    },
-    "6": {
-      "título": "",
-      "texto": "azeite para a iluminação; especiarias para o óleo da unção e para o incenso aromático;"
-    },
-    "7": {
-      "título": "",
-      "texto": "pedras de ônix e pedras de engaste, para a estola sacerdotal e para o peitoral."
-    },
-    "8": {
-      "título": "",
-      "texto": "E farão para mim um santuário, para que eu possa habitar no meio deles."
-    },
-    "9": {
-      "título": "",
-      "texto": "Segundo tudo o que eu mostrar a você como modelo do tabernáculo e como modelo de todos os seus móveis, assim mesmo vocês o farão."
-    },
-    "10": {
-      "título": "A arca da aliança",
-      "texto": "— Também farão uma arca de madeira de acácia, de um metro e dez de comprimento, sessenta e seis centímetros de largura, e sessenta e seis centímetros de altura."
-    },
-    "11": {
-      "título": "",
-      "texto": "Revista a arca de ouro puro. Coloque esse revestimento por dentro e por fora, e ponha um remate de ouro ao redor da arca."
-    },
-    "12": {
-      "título": "",
-      "texto": "Mande fundir quatro argolas de ouro e fixe-as nos quatro cantos da arca: duas argolas num lado dela e duas argolas no outro lado."
-    },
-    "13": {
-      "título": "",
-      "texto": "Faça também cabos grossos de madeira de acácia e revista-os de ouro."
-    },
-    "14": {
-      "título": "",
-      "texto": "Passe os cabos pelas argolas nos lados da arca, para que ela possa ser carregada por meio deles."
-    },
-    "15": {
-      "título": "",
-      "texto": "Os cabos ficarão nas argolas da arca e não serão tirados dela."
-    },
-    "16": {
-      "título": "",
-      "texto": "E você porá na arca o testemunho, que eu lhe darei."
-    },
-    "17": {
-      "título": "O propiciatório",
-      "texto": "— Faça também um propiciatório de ouro puro, de um metro e dez de comprimento e sessenta e seis centímetros de largura."
-    },
-    "18": {
-      "título": "",
-      "texto": "Faça dois querubins de ouro batido, nas duas extremidades do propiciatório."
-    },
-    "19": {
-      "título": "",
-      "texto": "Um querubim deve ficar numa extremidade, e o outro, na outra extremidade. Faça os querubins nas duas extremidades de modo que formem uma só peça com o propiciatório."
-    },
-    "20": {
-      "título": "",
-      "texto": "Os querubins estenderão as asas por cima, cobrindo com elas o propiciatório. Eles estarão de frente um para o outro, olhando para o propiciatório."
-    },
-    "21": {
-      "título": "",
-      "texto": "Ponha o propiciatório em cima da arca; e dentro dela coloque o testemunho, que eu lhe darei."
-    },
-    "22": {
-      "título": "",
-      "texto": "Ali eu me encontrarei com você e, de cima do propiciatório, do meio dos dois querubins que estão sobre a arca do testemunho, falarei com você a respeito de tudo o que eu lhe ordenar para os filhos de Israel."
-    },
-    "23": {
-      "título": "A mesa dos pães da proposição",
-      "texto": "— Faça também uma mesa de madeira de acácia. Terá o comprimento de oitenta e oito centímetros, a largura de quarenta e quatro e a altura de sessenta e seis."
-    },
-    "24": {
-      "título": "",
-      "texto": "Faça um revestimento de ouro puro e ponha um remate de ouro ao redor."
-    },
-    "25": {
-      "título": "",
-      "texto": "Faça também uma borda ao redor, da largura de quatro dedos, e ponha um remate de ouro ao redor da borda."
-    },
-    "26": {
-      "título": "",
-      "texto": "Faça também quatro argolas de ouro e fixe-as nos quatro cantos que estão nos quatro pés da mesa."
-    },
-    "27": {
-      "título": "",
-      "texto": "As argolas devem estar perto da borda, como lugares para os cabos, para que se possa carregar a mesa."
-    },
-    "28": {
-      "título": "",
-      "texto": "Faça estes cabos de madeira de acácia e revista-os de ouro, para que a mesa possa ser carregada por meio deles."
-    },
-    "29": {
-      "título": "",
-      "texto": "Faça também os seus pratos, os seus recipientes para incenso, as suas jarras e as suas taças em que serão oferecidas as libações; faça tudo isso de ouro puro."
-    },
-    "30": {
-      "título": "",
-      "texto": "Ponha sobre a mesa os pães da proposição diante de mim perpetuamente."
-    },
-    "31": {
-      "título": "O candelabro",
-      "texto": "— Faça também um candelabro de ouro puro; de ouro batido deverá ser feito este candelabro. O seu pedestal, a sua haste, os seus cálices, as suas maçanetas e as suas flores formarão com ele uma só peça."
-    },
-    "32": {
-      "título": "",
-      "texto": "Seis hastes sairão dos lados do candelabro: três de um lado e três do outro."
-    },
-    "33": {
-      "título": "",
-      "texto": "Numa haste haverá três cálices com formato de amêndoas, uma maçaneta e uma flor; na outra haste haverá três cálices com formato de amêndoas, uma maçaneta e uma flor; e assim serão as seis hastes que saem do candelabro."
-    },
-    "34": {
-      "título": "",
-      "texto": "— Mas no candelabro mesmo haverá quatro cálices com formato de amêndoas, com suas maçanetas e com suas flores."
-    },
-    "35": {
-      "título": "",
-      "texto": "Haverá uma maçaneta sob duas hastes que saem dele; e ainda uma maçaneta sob duas outras hastes que saem dele; e ainda mais uma maçaneta sob duas outras hastes que saem dele; assim se fará com as seis hastes que saem do candelabro."
-    },
-    "36": {
-      "título": "",
-      "texto": "As maçanetas e as hastes do candelabro formarão uma só peça com o mesmo; tudo será de uma só peça, obra batida de ouro puro."
-    },
-    "37": {
-      "título": "",
-      "texto": "— Faça também as sete lâmpadas do candelabro, as quais se acenderão para iluminar o espaço diante dele."
-    },
-    "38": {
-      "título": "",
-      "texto": "As suas tesouras de cortar pavios e os seus apagadores serão de ouro puro."
-    },
-    "39": {
-      "título": "",
-      "texto": "Com trinta e quatro quilos de ouro puro se fará o candelabro com todos estes utensílios."
-    },
-    "40": {
-      "título": "",
-      "texto": "Tenha o cuidado de fazer tudo segundo o modelo que foi mostrado a você no monte."
+    "versiculos": {
+        "1": "O Senhor disse a Moisés:",
+        "2": "— Diga aos filhos de Israel que me tragam uma oferta. De todo homem cujo coração o mover para isso, dele vocês receberão a minha oferta.",
+        "3": "Esta é a oferta que dele vocês receberão: ouro, prata e bronze;",
+        "4": "pano azul, púrpura e carmesim; linho fino; pelos de cabra;",
+        "5": "peles de carneiro tingidas de vermelho e peles finas; madeira de acácia;",
+        "6": "azeite para a iluminação; especiarias para o óleo da unção e para o incenso aromático;",
+        "7": "pedras de ônix e pedras de engaste, para a estola sacerdotal e para o peitoral.",
+        "8": "E farão para mim um santuário, para que eu possa habitar no meio deles.",
+        "9": "Segundo tudo o que eu mostrar a você como modelo do tabernáculo e como modelo de todos os seus móveis, assim mesmo vocês o farão.",
+        "10": "— Também farão uma arca de madeira de acácia, de um metro e dez de comprimento, sessenta e seis centímetros de largura, e sessenta e seis centímetros de altura.",
+        "11": "Revista a arca de ouro puro. Coloque esse revestimento por dentro e por fora, e ponha um remate de ouro ao redor da arca.",
+        "12": "Mande fundir quatro argolas de ouro e fixe-as nos quatro cantos da arca: duas argolas num lado dela e duas argolas no outro lado.",
+        "13": "Faça também cabos grossos de madeira de acácia e revista-os de ouro.",
+        "14": "Passe os cabos pelas argolas nos lados da arca, para que ela possa ser carregada por meio deles.",
+        "15": "Os cabos ficarão nas argolas da arca e não serão tirados dela.",
+        "16": "E você porá na arca o testemunho, que eu lhe darei.",
+        "17": "— Faça também um propiciatório de ouro puro, de um metro e dez de comprimento e sessenta e seis centímetros de largura.",
+        "18": "Faça dois querubins de ouro batido, nas duas extremidades do propiciatório.",
+        "19": "Um querubim deve ficar numa extremidade, e o outro, na outra extremidade. Faça os querubins nas duas extremidades de modo que formem uma só peça com o propiciatório.",
+        "20": "Os querubins estenderão as asas por cima, cobrindo com elas o propiciatório. Eles estarão de frente um para o outro, olhando para o propiciatório.",
+        "21": "Ponha o propiciatório em cima da arca; e dentro dela coloque o testemunho, que eu lhe darei.",
+        "22": "Ali eu me encontrarei com você e, de cima do propiciatório, do meio dos dois querubins que estão sobre a arca do testemunho, falarei com você a respeito de tudo o que eu lhe ordenar para os filhos de Israel.",
+        "23": "— Faça também uma mesa de madeira de acácia. Terá o comprimento de oitenta e oito centímetros, a largura de quarenta e quatro e a altura de sessenta e seis.",
+        "24": "Faça um revestimento de ouro puro e ponha um remate de ouro ao redor.",
+        "25": "Faça também uma borda ao redor, da largura de quatro dedos, e ponha um remate de ouro ao redor da borda.",
+        "26": "Faça também quatro argolas de ouro e fixe-as nos quatro cantos que estão nos quatro pés da mesa.",
+        "27": "As argolas devem estar perto da borda, como lugares para os cabos, para que se possa carregar a mesa.",
+        "28": "Faça estes cabos de madeira de acácia e revista-os de ouro, para que a mesa possa ser carregada por meio deles.",
+        "29": "Faça também os seus pratos, os seus recipientes para incenso, as suas jarras e as suas taças em que serão oferecidas as libações; faça tudo isso de ouro puro.",
+        "30": "Ponha sobre a mesa os pães da proposição diante de mim perpetuamente.",
+        "31": "— Faça também um candelabro de ouro puro; de ouro batido deverá ser feito este candelabro. O seu pedestal, a sua haste, os seus cálices, as suas maçanetas e as suas flores formarão com ele uma só peça.",
+        "32": "Seis hastes sairão dos lados do candelabro: três de um lado e três do outro.",
+        "33": "Numa haste haverá três cálices com formato de amêndoas, uma maçaneta e uma flor; na outra haste haverá três cálices com formato de amêndoas, uma maçaneta e uma flor; e assim serão as seis hastes que saem do candelabro.",
+        "34": "— Mas no candelabro mesmo haverá quatro cálices com formato de amêndoas, com suas maçanetas e com suas flores.",
+        "35": "Haverá uma maçaneta sob duas hastes que saem dele; e ainda uma maçaneta sob duas outras hastes que saem dele; e ainda mais uma maçaneta sob duas outras hastes que saem dele; assim se fará com as seis hastes que saem do candelabro.",
+        "36": "As maçanetas e as hastes do candelabro formarão uma só peça com o mesmo; tudo será de uma só peça, obra batida de ouro puro.",
+        "37": "— Faça também as sete lâmpadas do candelabro, as quais se acenderão para iluminar o espaço diante dele.",
+        "38": "As suas tesouras de cortar pavios e os seus apagadores serão de ouro puro.",
+        "39": "Com trinta e quatro quilos de ouro puro se fará o candelabro com todos estes utensílios.",
+        "40": "Tenha o cuidado de fazer tudo segundo o modelo que foi mostrado a você no monte."
     }
-  }
 }

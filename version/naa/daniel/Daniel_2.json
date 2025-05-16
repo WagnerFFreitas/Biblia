@@ -1,202 +1,58 @@
 {
-  "livro": "Daniel",
-  "capítulo": 2,
-  "versículos": {
-    "1": {
-      "título": "Daniel interpreta o sonho de Nabucodonosor",
-      "texto": "No segundo ano do seu reinado, Nabucodonosor teve uns sonhos que o deixaram perturbado e sem poder dormir."
+    "livro": "Daniel",
+    "capitulo": 2,
+    "titulos": {
+        "1": "Daniel interpreta o sonho de Nabucodonosor"
     },
-    "2": {
-      "título": "",
-      "texto": "Então o rei mandou chamar os magos, os encantadores, os feiticeiros e os caldeus, para que lhe dissessem o que ele havia sonhado. Eles vieram e se apresentaram diante do rei."
-    },
-    "3": {
-      "título": "",
-      "texto": "Ele lhes disse:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Os caldeus disseram ao rei em aramaico:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Mas o rei respondeu aos caldeus:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Mas, se me contarem o sonho e a sua interpretação, vocês receberão de mim dádivas, prêmios e grandes honras. Portanto, contem-me o sonho e a sua interpretação."
-    },
-    "7": {
-      "título": "",
-      "texto": "Os caldeus responderam pela segunda vez:"
-    },
-    "8": {
-      "título": "",
-      "texto": "O rei respondeu:"
-    },
-    "9": {
-      "título": "",
-      "texto": "isto é, se não me contarem o sonho, todos vocês receberão a mesma sentença. Vocês combinaram dizer palavras mentirosas e perversas na minha presença, esperando que a situação mude. Portanto, contem-me o sonho, e saberei que vocês podem me dar a interpretação."
-    },
-    "10": {
-      "título": "",
-      "texto": "Os caldeus responderam na presença do rei:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Isso que o rei exige é difícil, e não há ninguém que o possa revelar diante do rei, a não ser os deuses, e estes não moram entre os mortais."
-    },
-    "12": {
-      "título": "",
-      "texto": "Ao ouvir isto, o rei ficou tão irado e furioso, que mandou matar todos os sábios da Babilônia."
-    },
-    "13": {
-      "título": "",
-      "texto": "Saiu o decreto, segundo o qual os sábios deviam ser mortos. Foram buscar também Daniel e os seus companheiros, para que fossem mortos."
-    },
-    "14": {
-      "título": "",
-      "texto": "Então Daniel, com cautela e prudência, foi falar com Arioque, chefe da guarda do rei, que tinha saído para matar os sábios da Babilônia."
-    },
-    "15": {
-      "título": "",
-      "texto": "Daniel perguntou a Arioque, encarregado do rei:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Daniel foi falar com o rei, para pedir que lhe desse tempo, e ele revelaria ao rei a interpretação."
-    },
-    "17": {
-      "título": "",
-      "texto": "Então Daniel foi para casa e explicou a situação a Hananias, Misael e Azarias, seus companheiros,"
-    },
-    "18": {
-      "título": "",
-      "texto": "para que pedissem misericórdia ao Deus do céu sobre este mistério, a fim de que Daniel e os seus companheiros não fossem mortos com o resto dos sábios da Babilônia."
-    },
-    "19": {
-      "título": "",
-      "texto": "Então o mistério foi revelado a Daniel numa visão de noite. Daniel bendisse o Deus do céu,"
-    },
-    "20": {
-      "título": "",
-      "texto": "dizendo:"
-    },
-    "21": {
-      "título": "",
-      "texto": "É ele quem muda o tempo"
-    },
-    "22": {
-      "título": "",
-      "texto": "Ele revela o profundo"
-    },
-    "23": {
-      "título": "",
-      "texto": "Ó Deus de meus pais,"
-    },
-    "24": {
-      "título": "",
-      "texto": "Por isso, Daniel foi falar com Arioque, a quem o rei tinha encarregado de exterminar os sábios da Babilônia. Daniel entrou e lhe disse:"
-    },
-    "25": {
-      "título": "",
-      "texto": "Então Arioque depressa levou Daniel à presença do rei e lhe disse:"
-    },
-    "26": {
-      "título": "",
-      "texto": "O rei perguntou a Daniel, cujo nome era Beltessazar:"
-    },
-    "27": {
-      "título": "",
-      "texto": "Daniel respondeu na presença do rei:"
-    },
-    "28": {
-      "título": "",
-      "texto": "Mas há um Deus no céu, que revela os mistérios, pois fez saber ao rei Nabucodonosor o que vai acontecer nos últimos dias. O sonho e as visões que o senhor teve, quando estava em sua cama, são estes:"
-    },
-    "29": {
-      "título": "",
-      "texto": "— Quando o senhor, ó rei, estava na sua cama, surgiram em sua mente pensamentos a respeito do que vai acontecer no futuro. Deus, que revela os mistérios, revelou ao senhor o que vai acontecer."
-    },
-    "30": {
-      "título": "",
-      "texto": "Quanto a mim, este mistério me foi revelado, não porque exista em mim mais sabedoria do que em todos os outros homens, mas para que a interpretação fosse revelada ao rei, e para que ele entenda o que passou pela sua mente."
-    },
-    "31": {
-      "título": "",
-      "texto": "— O senhor, ó rei, estava olhando e viu uma grande estátua. Esta, que era imensa e de extraordinário esplendor, estava em pé, bem na sua frente; e a aparência dela era terrível."
-    },
-    "32": {
-      "título": "",
-      "texto": "A cabeça era de ouro puro, o peito e os braços eram de prata, o ventre e os quadris eram de bronze;"
-    },
-    "33": {
-      "título": "",
-      "texto": "as pernas eram de ferro, e os pés eram em parte de ferro e em parte de barro."
-    },
-    "34": {
-      "título": "",
-      "texto": "Enquanto o senhor estava olhando, uma pedra foi cortada sem auxílio de mãos humanas, atingiu a estátua nos pés de ferro e de barro e os despedaçou."
-    },
-    "35": {
-      "título": "",
-      "texto": "O ferro, o barro, o bronze, a prata e o ouro foram despedaçados no mesmo instante, e se fizeram como a palha das eiras no verão. O vento os levou, e deles não se viu mais nenhum vestígio. Mas a pedra que atingiu a estátua se tornou uma grande montanha, que encheu toda a terra."
-    },
-    "36": {
-      "título": "",
-      "texto": "— Este é o sonho; e também a sua interpretação diremos ao rei."
-    },
-    "37": {
-      "título": "",
-      "texto": "O senhor, ó rei, que é rei de reis, a quem o Deus do céu conferiu o reino, o poder, a força e a glória;"
-    },
-    "38": {
-      "título": "",
-      "texto": "em cujas mãos foram entregues os filhos dos homens, onde quer que eles habitem, e os animais do campo e as aves do céu, para que dominasse sobre todos eles, o senhor, ó rei, é a cabeça de ouro."
-    },
-    "39": {
-      "título": "",
-      "texto": "— Depois do senhor, se levantará outro reino, inferior ao seu; e um terceiro reino, de bronze, que terá domínio sobre toda a terra."
-    },
-    "40": {
-      "título": "",
-      "texto": "O quarto reino será forte como o ferro; pois o ferro quebra e despedaça tudo; como o ferro quebra todas as coisas, assim esse reino fará em pedaços e destruirá todos os outros."
-    },
-    "41": {
-      "título": "",
-      "texto": "— Quanto aos pés e aos dedos dos pés que o senhor viu, que eram em parte de barro de oleiro e em parte de ferro, isto significa que esse será um reino dividido. Contudo, haverá nele alguma coisa da firmeza do ferro, porque o senhor viu o ferro misturado com barro."
-    },
-    "42": {
-      "título": "",
-      "texto": "Como os dedos dos pés eram em parte de ferro e em parte de barro, assim, por um lado, o reino será forte e, por outro, será frágil."
-    },
-    "43": {
-      "título": "",
-      "texto": "Quanto ao ferro misturado com o barro que o senhor viu, isto significa que procurarão se misturar por meio de casamentos, mas não se ligarão um ao outro, assim como o ferro não se mistura com o barro."
-    },
-    "44": {
-      "título": "",
-      "texto": "Mas, nos dias desses reis, o Deus do céu levantará um reino que jamais será destruído e que não passará a outro povo. Esse reino despedaçará e consumirá todos esses outros reinos, mas ele mesmo subsistirá para sempre,"
-    },
-    "45": {
-      "título": "",
-      "texto": "assim como o rei viu que do monte foi cortada uma pedra, sem auxílio de mãos humanas, e ela despedaçou o ferro, o bronze, o barro, a prata e o ouro. O Grande Deus revelou ao rei o que vai acontecer no futuro. Certo é o sonho, e fiel é a sua interpretação."
-    },
-    "46": {
-      "título": "",
-      "texto": "Então o rei Nabucodonosor se inclinou e se prostrou com rosto em terra diante de Daniel. Ordenou que oferecessem a Daniel uma oferta de cereais e incenso."
-    },
-    "47": {
-      "título": "",
-      "texto": "O rei disse a Daniel:"
-    },
-    "48": {
-      "título": "",
-      "texto": "Então o rei engrandeceu Daniel e lhe deu muitos e grandes presentes. Ele o pôs como governador de toda a província da Babilônia. Também o fez chefe supremo de todos os sábios da Babilônia."
-    },
-    "49": {
-      "título": "",
-      "texto": "A pedido de Daniel, o rei pôs Sadraque, Mesaque e Abede-Nego como administradores da província da Babilônia; mas Daniel permaneceu na corte do rei."
+    "versiculos": {
+        "1": "No segundo ano do seu reinado, Nabucodonosor teve uns sonhos que o deixaram perturbado e sem poder dormir.",
+        "2": "Então o rei mandou chamar os magos, os encantadores, os feiticeiros e os caldeus, para que lhe dissessem o que ele havia sonhado. Eles vieram e se apresentaram diante do rei.",
+        "3": "Ele lhes disse:",
+        "4": "Os caldeus disseram ao rei em aramaico:",
+        "5": "Mas o rei respondeu aos caldeus:",
+        "6": "Mas, se me contarem o sonho e a sua interpretação, vocês receberão de mim dádivas, prêmios e grandes honras. Portanto, contem-me o sonho e a sua interpretação.",
+        "7": "Os caldeus responderam pela segunda vez:",
+        "8": "O rei respondeu:",
+        "9": "isto é, se não me contarem o sonho, todos vocês receberão a mesma sentença. Vocês combinaram dizer palavras mentirosas e perversas na minha presença, esperando que a situação mude. Portanto, contem-me o sonho, e saberei que vocês podem me dar a interpretação.",
+        "10": "Os caldeus responderam na presença do rei:",
+        "11": "Isso que o rei exige é difícil, e não há ninguém que o possa revelar diante do rei, a não ser os deuses, e estes não moram entre os mortais.",
+        "12": "Ao ouvir isto, o rei ficou tão irado e furioso, que mandou matar todos os sábios da Babilônia.",
+        "13": "Saiu o decreto, segundo o qual os sábios deviam ser mortos. Foram buscar também Daniel e os seus companheiros, para que fossem mortos.",
+        "14": "Então Daniel, com cautela e prudência, foi falar com Arioque, chefe da guarda do rei, que tinha saído para matar os sábios da Babilônia.",
+        "15": "Daniel perguntou a Arioque, encarregado do rei:",
+        "16": "Daniel foi falar com o rei, para pedir que lhe desse tempo, e ele revelaria ao rei a interpretação.",
+        "17": "Então Daniel foi para casa e explicou a situação a Hananias, Misael e Azarias, seus companheiros,",
+        "18": "para que pedissem misericórdia ao Deus do céu sobre este mistério, a fim de que Daniel e os seus companheiros não fossem mortos com o resto dos sábios da Babilônia.",
+        "19": "Então o mistério foi revelado a Daniel numa visão de noite. Daniel bendisse o Deus do céu,",
+        "20": "dizendo:",
+        "21": "É ele quem muda o tempo",
+        "22": "Ele revela o profundo",
+        "23": "Ó Deus de meus pais,",
+        "24": "Por isso, Daniel foi falar com Arioque, a quem o rei tinha encarregado de exterminar os sábios da Babilônia. Daniel entrou e lhe disse:",
+        "25": "Então Arioque depressa levou Daniel à presença do rei e lhe disse:",
+        "26": "O rei perguntou a Daniel, cujo nome era Beltessazar:",
+        "27": "Daniel respondeu na presença do rei:",
+        "28": "Mas há um Deus no céu, que revela os mistérios, pois fez saber ao rei Nabucodonosor o que vai acontecer nos últimos dias. O sonho e as visões que o senhor teve, quando estava em sua cama, são estes:",
+        "29": "— Quando o senhor, ó rei, estava na sua cama, surgiram em sua mente pensamentos a respeito do que vai acontecer no futuro. Deus, que revela os mistérios, revelou ao senhor o que vai acontecer.",
+        "30": "Quanto a mim, este mistério me foi revelado, não porque exista em mim mais sabedoria do que em todos os outros homens, mas para que a interpretação fosse revelada ao rei, e para que ele entenda o que passou pela sua mente.",
+        "31": "— O senhor, ó rei, estava olhando e viu uma grande estátua. Esta, que era imensa e de extraordinário esplendor, estava em pé, bem na sua frente; e a aparência dela era terrível.",
+        "32": "A cabeça era de ouro puro, o peito e os braços eram de prata, o ventre e os quadris eram de bronze;",
+        "33": "as pernas eram de ferro, e os pés eram em parte de ferro e em parte de barro.",
+        "34": "Enquanto o senhor estava olhando, uma pedra foi cortada sem auxílio de mãos humanas, atingiu a estátua nos pés de ferro e de barro e os despedaçou.",
+        "35": "O ferro, o barro, o bronze, a prata e o ouro foram despedaçados no mesmo instante, e se fizeram como a palha das eiras no verão. O vento os levou, e deles não se viu mais nenhum vestígio. Mas a pedra que atingiu a estátua se tornou uma grande montanha, que encheu toda a terra.",
+        "36": "— Este é o sonho; e também a sua interpretação diremos ao rei.",
+        "37": "O senhor, ó rei, que é rei de reis, a quem o Deus do céu conferiu o reino, o poder, a força e a glória;",
+        "38": "em cujas mãos foram entregues os filhos dos homens, onde quer que eles habitem, e os animais do campo e as aves do céu, para que dominasse sobre todos eles, o senhor, ó rei, é a cabeça de ouro.",
+        "39": "— Depois do senhor, se levantará outro reino, inferior ao seu; e um terceiro reino, de bronze, que terá domínio sobre toda a terra.",
+        "40": "O quarto reino será forte como o ferro; pois o ferro quebra e despedaça tudo; como o ferro quebra todas as coisas, assim esse reino fará em pedaços e destruirá todos os outros.",
+        "41": "— Quanto aos pés e aos dedos dos pés que o senhor viu, que eram em parte de barro de oleiro e em parte de ferro, isto significa que esse será um reino dividido. Contudo, haverá nele alguma coisa da firmeza do ferro, porque o senhor viu o ferro misturado com barro.",
+        "42": "Como os dedos dos pés eram em parte de ferro e em parte de barro, assim, por um lado, o reino será forte e, por outro, será frágil.",
+        "43": "Quanto ao ferro misturado com o barro que o senhor viu, isto significa que procurarão se misturar por meio de casamentos, mas não se ligarão um ao outro, assim como o ferro não se mistura com o barro.",
+        "44": "Mas, nos dias desses reis, o Deus do céu levantará um reino que jamais será destruído e que não passará a outro povo. Esse reino despedaçará e consumirá todos esses outros reinos, mas ele mesmo subsistirá para sempre,",
+        "45": "assim como o rei viu que do monte foi cortada uma pedra, sem auxílio de mãos humanas, e ela despedaçou o ferro, o bronze, o barro, a prata e o ouro. O Grande Deus revelou ao rei o que vai acontecer no futuro. Certo é o sonho, e fiel é a sua interpretação.",
+        "46": "Então o rei Nabucodonosor se inclinou e se prostrou com rosto em terra diante de Daniel. Ordenou que oferecessem a Daniel uma oferta de cereais e incenso.",
+        "47": "O rei disse a Daniel:",
+        "48": "Então o rei engrandeceu Daniel e lhe deu muitos e grandes presentes. Ele o pôs como governador de toda a província da Babilônia. Também o fez chefe supremo de todos os sábios da Babilônia.",
+        "49": "A pedido de Daniel, o rei pôs Sadraque, Mesaque e Abede-Nego como administradores da província da Babilônia; mas Daniel permaneceu na corte do rei."
     }
-  }
 }

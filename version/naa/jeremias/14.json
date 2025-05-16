@@ -1,94 +1,32 @@
 {
-  "livro": "Jeremias",
-  "capítulo": 14,
-  "versículos": {
-    "1": {
-      "título": "Grande seca em Judá",
-      "texto": "Palavra do Senhor que veio a Jeremias a respeito da seca:"
+    "livro": "Jeremias",
+    "capitulo": 14,
+    "titulos": {
+        "1": "Grande seca em Judá",
+        "19": "O povo confessa o seu pecado"
     },
-    "2": {
-      "título": "",
-      "texto": "“Judá anda chorando,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Os poderosos mandam"
-    },
-    "4": {
-      "título": "",
-      "texto": "Por não ter havido chuva"
-    },
-    "5": {
-      "título": "",
-      "texto": "Até as corças no campo"
-    },
-    "6": {
-      "título": "",
-      "texto": "Os jumentos selvagens"
-    },
-    "7": {
-      "título": "",
-      "texto": "“Ainda que as nossas maldades"
-    },
-    "8": {
-      "título": "",
-      "texto": "Ó Esperança de Israel"
-    },
-    "9": {
-      "título": "",
-      "texto": "Por que serias como homem"
-    },
-    "10": {
-      "título": "",
-      "texto": "Assim diz o Senhor"
-    },
-    "11": {
-      "título": "",
-      "texto": "O Senhor me disse ainda:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Quando jejuarem, não ouvirei o seu clamor e, quando trouxerem holocaustos e ofertas de cereais, não me agradarei deles. Pelo contrário, eu os consumirei pela guerra, pela fome e pela peste."
-    },
-    "13": {
-      "título": "",
-      "texto": "Então eu disse:"
-    },
-    "14": {
-      "título": "",
-      "texto": "E o Senhor respondeu:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Portanto, assim diz o Senhor a respeito dos profetas que, profetizando em meu nome, sem que eu os tenha mandado, dizem que não haverá guerra nem fome nesta terra: Esses profetas serão consumidos pela guerra e pela fome."
-    },
-    "16": {
-      "título": "",
-      "texto": "O povo a quem eles profetizam será lançado nas ruas de Jerusalém, por causa da fome e da guerra. Não haverá quem os sepulte — a eles, a suas mulheres, a seus filhos e a suas filhas. Porque derramarei sobre eles a sua maldade."
-    },
-    "17": {
-      "título": "",
-      "texto": "Portanto, diga-lhes esta palavra:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Se saio ao campo, vejo"
-    },
-    "19": {
-      "título": "O povo confessa o seu pecado",
-      "texto": "Será que de todo rejeitaste Judá?"
-    },
-    "20": {
-      "título": "",
-      "texto": "Conhecemos, ó Senhor ,"
-    },
-    "21": {
-      "título": "",
-      "texto": "Não nos rejeites,"
-    },
-    "22": {
-      "título": "",
-      "texto": "Será que existe"
+    "versiculos": {
+        "1": "Palavra do Senhor que veio a Jeremias a respeito da seca:",
+        "2": "“Judá anda chorando,",
+        "3": "Os poderosos mandam",
+        "4": "Por não ter havido chuva",
+        "5": "Até as corças no campo",
+        "6": "Os jumentos selvagens",
+        "7": "“Ainda que as nossas maldades",
+        "8": "Ó Esperança de Israel",
+        "9": "Por que serias como homem",
+        "10": "Assim diz o Senhor",
+        "11": "O Senhor me disse ainda:",
+        "12": "Quando jejuarem, não ouvirei o seu clamor e, quando trouxerem holocaustos e ofertas de cereais, não me agradarei deles. Pelo contrário, eu os consumirei pela guerra, pela fome e pela peste.",
+        "13": "Então eu disse:",
+        "14": "E o Senhor respondeu:",
+        "15": "Portanto, assim diz o Senhor a respeito dos profetas que, profetizando em meu nome, sem que eu os tenha mandado, dizem que não haverá guerra nem fome nesta terra: Esses profetas serão consumidos pela guerra e pela fome.",
+        "16": "O povo a quem eles profetizam será lançado nas ruas de Jerusalém, por causa da fome e da guerra. Não haverá quem os sepulte — a eles, a suas mulheres, a seus filhos e a suas filhas. Porque derramarei sobre eles a sua maldade.",
+        "17": "Portanto, diga-lhes esta palavra:",
+        "18": "Se saio ao campo, vejo",
+        "19": "Será que de todo rejeitaste Judá?",
+        "20": "Conhecemos, ó Senhor ,",
+        "21": "Não nos rejeites,",
+        "22": "Será que existe"
     }
-  }
 }

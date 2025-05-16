@@ -1,114 +1,39 @@
 {
-  "livro": "2 Crônicas",
-  "capítulo": 24,
-  "versículos": {
-    "1": {
-      "título": "O reinado de Joás, de Judá",
-      "texto": "Joás tinha sete anos de idade quando começou a reinar e reinou quarenta anos em Jerusalém."
+    "livro": "2 Crônicas",
+    "capitulo": 24,
+    "titulos": {
+        "1": "O reinado de Joás, de Judá",
+        "17": "Zacarias é morto pelo rei",
+        "23": "O juízo de Deus sobre Joás",
+        "25": "A conspiração contra o rei Joás"
     },
-    "2": {
-      "título": "",
-      "texto": "A mãe dele se chamava Zíbia e era de Berseba. Joás fez o que era reto aos olhos do Senhor todos os dias do sacerdote Joiada."
-    },
-    "3": {
-      "título": "",
-      "texto": "Joiada lhe deu duas mulheres, e ele gerou filhos e filhas."
-    },
-    "4": {
-      "título": "",
-      "texto": "Depois disto, Joás decidiu restaurar a Casa do Senhor ."
-    },
-    "5": {
-      "título": "",
-      "texto": "Reuniu os sacerdotes e os levitas e lhes disse:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Então o rei mandou chamar o sumo sacerdote Joiada e lhe perguntou:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Porque a perversa Atalia e os seus filhos tinham arruinado a Casa de Deus; e usaram todas as coisas sagradas da Casa do Senhor no culto aos baalins."
-    },
-    "8": {
-      "título": "",
-      "texto": "O rei deu ordem e fizeram um cofre e o puseram do lado de fora, junto ao portão da Casa do Senhor ."
-    },
-    "9": {
-      "título": "",
-      "texto": "Publicou-se, em Judá e em Jerusalém, que trouxessem ao Senhor o imposto que Moisés, servo de Deus, havia colocado sobre Israel, no deserto."
-    },
-    "10": {
-      "título": "",
-      "texto": "Então todos os chefes e todo o povo se alegraram, trouxeram o imposto e o lançaram no cofre, até ficar cheio."
-    },
-    "11": {
-      "título": "",
-      "texto": "Quando o cofre era levado pelos levitas a uma comissão real, vendo-se que havia muito dinheiro, o escrivão do rei e o comissário do sumo sacerdote esvaziavam o cofre e o levavam de novo ao seu lugar. Assim faziam dia após dia e ajuntaram dinheiro em abundância."
-    },
-    "12": {
-      "título": "",
-      "texto": "O rei e Joiada entregavam esse dinheiro aos que dirigiam a obra e tinham a seu encargo a Casa do Senhor , que contrataram pedreiros e carpinteiros, para restaurarem a Casa do Senhor , e também os que trabalhavam em ferro e em bronze, para repararem a Casa do Senhor ."
-    },
-    "13": {
-      "título": "",
-      "texto": "Os que estavam encarregados da obra trabalhavam, e a reparação tinha bom êxito com eles; restauraram a Casa de Deus no seu próprio estado e a consolidaram."
-    },
-    "14": {
-      "título": "",
-      "texto": "Quando acabaram a obra, trouxeram ao rei e a Joiada o resto do dinheiro, de que se fizeram utensílios para a Casa do Senhor , objetos para o culto e para os holocaustos, taças e outros objetos de ouro e de prata. E continuamente ofereceram holocaustos na Casa do Senhor , todos os dias de Joiada."
-    },
-    "15": {
-      "título": "",
-      "texto": "Joiada morreu após uma longa velhice; tinha cento e trinta anos de idade quando morreu."
-    },
-    "16": {
-      "título": "",
-      "texto": "Sepultaram-no na Cidade de Davi com os reis, porque ele tinha feito o bem em Israel e servido a Deus e ao seu templo."
-    },
-    "17": {
-      "título": "Zacarias é morto pelo rei",
-      "texto": "Depois da morte de Joiada, os chefes de Judá foram e se prostraram diante do rei, e o rei os ouviu."
-    },
-    "18": {
-      "título": "",
-      "texto": "Então abandonaram a Casa do Senhor , Deus de seus pais, e serviram os postes da deusa Aserá e aos ídolos. E, por esta sua culpa, veio grande ira sobre Judá e Jerusalém."
-    },
-    "19": {
-      "título": "",
-      "texto": "Mas o Senhor lhes enviou profetas para os reconduzir a si; estes profetas testemunharam contra eles, mas eles não quiseram ouvir."
-    },
-    "20": {
-      "título": "",
-      "texto": "Então o Espírito de Deus se apoderou de Zacarias, filho do sacerdote Joiada. Ele ficou em pé diante do povo e lhes disse:"
-    },
-    "21": {
-      "título": "",
-      "texto": "Conspiraram contra ele e o apedrejaram, por ordem do rei, no pátio da Casa do Senhor ."
-    },
-    "22": {
-      "título": "",
-      "texto": "Assim, o rei Joás não se lembrou de como Joiada, pai de Zacarias, tinha sido bondoso com ele, e acabou matando o filho dele. Ao morrer, Zacarias disse:"
-    },
-    "23": {
-      "título": "O juízo de Deus sobre Joás",
-      "texto": "Antes de se findar o ano, o exército dos sírios atacou Joás. Invadiram Judá e Jerusalém, mataram todos os chefes do povo, e levaram os despojos ao rei de Damasco."
-    },
-    "24": {
-      "título": "",
-      "texto": "Embora o exército dos sírios não fosse grande, o Senhor permitiu que eles vencessem um exército que era muito maior, porque eles tinham abandonado o Senhor , Deus de seus pais. Assim os sírios executaram o juízo de Deus contra Joás."
-    },
-    "25": {
-      "título": "A conspiração contra o rei Joás",
-      "texto": "Quando os sírios foram embora, deixando Joás gravemente ferido, os servos de Joás conspiraram contra ele, por causa do sangue do filho do sacerdote Joiada, e o mataram em sua cama."
-    },
-    "26": {
-      "título": "",
-      "texto": "Ele foi sepultado na Cidade de Davi, mas não nos túmulos dos reis. Os que conspiraram contra Joás foram Zabade, filho de Simeate, a amonita, e Jeozabade, filho de Sinrite, a moabita."
-    },
-    "27": {
-      "título": "",
-      "texto": "Quanto aos filhos de Joás, às numerosas sentenças proferidas contra ele e à restauração da Casa de Deus, está tudo escrito no Livro da História dos Reis. E Amazias, filho de Joás, reinou em seu lugar."
+    "versiculos": {
+        "1": "Joás tinha sete anos de idade quando começou a reinar e reinou quarenta anos em Jerusalém.",
+        "2": "A mãe dele se chamava Zíbia e era de Berseba. Joás fez o que era reto aos olhos do Senhor todos os dias do sacerdote Joiada.",
+        "3": "Joiada lhe deu duas mulheres, e ele gerou filhos e filhas.",
+        "4": "Depois disto, Joás decidiu restaurar a Casa do Senhor .",
+        "5": "Reuniu os sacerdotes e os levitas e lhes disse:",
+        "6": "Então o rei mandou chamar o sumo sacerdote Joiada e lhe perguntou:",
+        "7": "Porque a perversa Atalia e os seus filhos tinham arruinado a Casa de Deus; e usaram todas as coisas sagradas da Casa do Senhor no culto aos baalins.",
+        "8": "O rei deu ordem e fizeram um cofre e o puseram do lado de fora, junto ao portão da Casa do Senhor .",
+        "9": "Publicou-se, em Judá e em Jerusalém, que trouxessem ao Senhor o imposto que Moisés, servo de Deus, havia colocado sobre Israel, no deserto.",
+        "10": "Então todos os chefes e todo o povo se alegraram, trouxeram o imposto e o lançaram no cofre, até ficar cheio.",
+        "11": "Quando o cofre era levado pelos levitas a uma comissão real, vendo-se que havia muito dinheiro, o escrivão do rei e o comissário do sumo sacerdote esvaziavam o cofre e o levavam de novo ao seu lugar. Assim faziam dia após dia e ajuntaram dinheiro em abundância.",
+        "12": "O rei e Joiada entregavam esse dinheiro aos que dirigiam a obra e tinham a seu encargo a Casa do Senhor , que contrataram pedreiros e carpinteiros, para restaurarem a Casa do Senhor , e também os que trabalhavam em ferro e em bronze, para repararem a Casa do Senhor .",
+        "13": "Os que estavam encarregados da obra trabalhavam, e a reparação tinha bom êxito com eles; restauraram a Casa de Deus no seu próprio estado e a consolidaram.",
+        "14": "Quando acabaram a obra, trouxeram ao rei e a Joiada o resto do dinheiro, de que se fizeram utensílios para a Casa do Senhor , objetos para o culto e para os holocaustos, taças e outros objetos de ouro e de prata. E continuamente ofereceram holocaustos na Casa do Senhor , todos os dias de Joiada.",
+        "15": "Joiada morreu após uma longa velhice; tinha cento e trinta anos de idade quando morreu.",
+        "16": "Sepultaram-no na Cidade de Davi com os reis, porque ele tinha feito o bem em Israel e servido a Deus e ao seu templo.",
+        "17": "Depois da morte de Joiada, os chefes de Judá foram e se prostraram diante do rei, e o rei os ouviu.",
+        "18": "Então abandonaram a Casa do Senhor , Deus de seus pais, e serviram os postes da deusa Aserá e aos ídolos. E, por esta sua culpa, veio grande ira sobre Judá e Jerusalém.",
+        "19": "Mas o Senhor lhes enviou profetas para os reconduzir a si; estes profetas testemunharam contra eles, mas eles não quiseram ouvir.",
+        "20": "Então o Espírito de Deus se apoderou de Zacarias, filho do sacerdote Joiada. Ele ficou em pé diante do povo e lhes disse:",
+        "21": "Conspiraram contra ele e o apedrejaram, por ordem do rei, no pátio da Casa do Senhor .",
+        "22": "Assim, o rei Joás não se lembrou de como Joiada, pai de Zacarias, tinha sido bondoso com ele, e acabou matando o filho dele. Ao morrer, Zacarias disse:",
+        "23": "Antes de se findar o ano, o exército dos sírios atacou Joás. Invadiram Judá e Jerusalém, mataram todos os chefes do povo, e levaram os despojos ao rei de Damasco.",
+        "24": "Embora o exército dos sírios não fosse grande, o Senhor permitiu que eles vencessem um exército que era muito maior, porque eles tinham abandonado o Senhor , Deus de seus pais. Assim os sírios executaram o juízo de Deus contra Joás.",
+        "25": "Quando os sírios foram embora, deixando Joás gravemente ferido, os servos de Joás conspiraram contra ele, por causa do sangue do filho do sacerdote Joiada, e o mataram em sua cama.",
+        "26": "Ele foi sepultado na Cidade de Davi, mas não nos túmulos dos reis. Os que conspiraram contra Joás foram Zabade, filho de Simeate, a amonita, e Jeozabade, filho de Sinrite, a moabita.",
+        "27": "Quanto aos filhos de Joás, às numerosas sentenças proferidas contra ele e à restauração da Casa de Deus, está tudo escrito no Livro da História dos Reis. E Amazias, filho de Joás, reinou em seu lugar."
     }
-  }
 }

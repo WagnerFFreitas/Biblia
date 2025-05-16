@@ -1,90 +1,31 @@
 {
-  "livro": "2 Reis",
-  "capítulo": 12,
-  "versículos": {
-    "1": {
-      "título": "O reinado de Joás, de Judá",
-      "texto": "No sétimo ano do reinado de Jeú, Joás começou a reinar. Ele reinou quarenta anos em Jerusalém. A mãe dele se chamava Zíbia e era de Berseba."
+    "livro": "2 Reis",
+    "capitulo": 12,
+    "titulos": {
+        "1": "O reinado de Joás, de Judá",
+        "20": "A conspiração contra o rei Joás"
     },
-    "2": {
-      "título": "",
-      "texto": "Joás fez o que era reto aos olhos do Senhor , todos os dias em que o sacerdote Joiada o dirigia."
-    },
-    "3": {
-      "título": "",
-      "texto": "Apenas os lugares altos não foram tirados, e o povo ainda sacrificava e queimava incenso nesses altos."
-    },
-    "4": {
-      "título": "",
-      "texto": "Joás disse aos sacerdotes:"
-    },
-    "5": {
-      "título": "",
-      "texto": "deverá ser recebido pelos sacerdotes, cada um dos seus conhecidos; e que os sacerdotes reparem os estragos do templo, sempre que houver um reparo a fazer."
-    },
-    "6": {
-      "título": "",
-      "texto": "Mas, no vigésimo terceiro ano do reinado de Joás, os sacerdotes ainda não tinham reparado os estragos do templo."
-    },
-    "7": {
-      "título": "",
-      "texto": "Então o rei Joás chamou o sacerdote Joiada e os outros sacerdotes e lhes disse:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Os sacerdotes concordaram em não mais receber dinheiro do povo e concordaram também que não ficariam encarregados de reparar os estragos do templo."
-    },
-    "9": {
-      "título": "",
-      "texto": "Então o sacerdote Joiada pegou uma caixa, fez um buraco na tampa, e a pôs junto ao altar, à direita de quem entrava na Casa do Senhor . Os sacerdotes que guardavam a entrada da porta depositavam ali todo o dinheiro que era trazido à Casa do Senhor ."
-    },
-    "10": {
-      "título": "",
-      "texto": "Quando viam que já havia muito dinheiro na caixa, o escrivão do rei e o sumo sacerdote vinham, contavam e ensacavam o dinheiro que se achava na Casa do Senhor ."
-    },
-    "11": {
-      "título": "",
-      "texto": "O dinheiro, depois de pesado, era entregue aos que dirigiam a obra e tinham a seu encargo a Casa do Senhor . Estes pagavam aos carpinteiros e aos construtores que reparavam a Casa do Senhor ,"
-    },
-    "12": {
-      "título": "",
-      "texto": "e também aos pedreiros e aos cortadores de pedras. Também compravam madeira e pedras lavradas para repararem os estragos da Casa do Senhor , e custeavam todo o necessário para a conservação da Casa do Senhor ."
-    },
-    "13": {
-      "título": "",
-      "texto": "Mas, do dinheiro que era trazido à Casa do Senhor , não se faziam nem taças de prata, nem apagadores, nem bacias, nem trombetas, nem qualquer outro vaso de ouro ou de prata para a Casa do Senhor ."
-    },
-    "14": {
-      "título": "",
-      "texto": "Porque davam o dinheiro aos que dirigiam a obra e reparavam com ele a Casa do Senhor ."
-    },
-    "15": {
-      "título": "",
-      "texto": "Também não pediam contas aos homens em cujas mãos entregavam aquele dinheiro, para o dar aos que faziam a obra, porque eram honestos."
-    },
-    "16": {
-      "título": "",
-      "texto": "Mas o dinheiro de oferta pela culpa e o dinheiro de oferta pelos pecados não era trazido à Casa do Senhor ; ficava para os sacerdotes."
-    },
-    "17": {
-      "título": "",
-      "texto": "Nessa época Hazael, rei da Síria, atacou e conquistou a cidade de Gate. Depois Hazael resolveu marchar contra Jerusalém."
-    },
-    "18": {
-      "título": "",
-      "texto": "Porém Joás, rei de Judá, pegou todas as coisas santas que Josafá, Jeorão e Acazias, seus pais, reis de Judá, haviam dedicado, bem como todo o ouro que havia nos tesouros da Casa do Senhor e no palácio real e os mandou a Hazael, rei da Síria; e este se retirou de Jerusalém."
-    },
-    "19": {
-      "título": "",
-      "texto": "Quanto aos demais atos de Joás e a tudo o que fez, não está tudo escrito no Livro da História dos Reis de Judá?"
-    },
-    "20": {
-      "título": "A conspiração contra o rei Joás",
-      "texto": "Os servos de Joás se levantaram, fizeram uma conspiração e mataram Joás na casa de Milo, que fica na descida para Sila."
-    },
-    "21": {
-      "título": "",
-      "texto": "Jozacar, filho de Simeate, e Jozabade, filho de Somer, servos de Joás, o atacaram, e ele morreu. Joás foi sepultado no túmulo de seus pais na Cidade de Davi, e Amazias, seu filho, reinou em seu lugar."
+    "versiculos": {
+        "1": "No sétimo ano do reinado de Jeú, Joás começou a reinar. Ele reinou quarenta anos em Jerusalém. A mãe dele se chamava Zíbia e era de Berseba.",
+        "2": "Joás fez o que era reto aos olhos do Senhor , todos os dias em que o sacerdote Joiada o dirigia.",
+        "3": "Apenas os lugares altos não foram tirados, e o povo ainda sacrificava e queimava incenso nesses altos.",
+        "4": "Joás disse aos sacerdotes:",
+        "5": "deverá ser recebido pelos sacerdotes, cada um dos seus conhecidos; e que os sacerdotes reparem os estragos do templo, sempre que houver um reparo a fazer.",
+        "6": "Mas, no vigésimo terceiro ano do reinado de Joás, os sacerdotes ainda não tinham reparado os estragos do templo.",
+        "7": "Então o rei Joás chamou o sacerdote Joiada e os outros sacerdotes e lhes disse:",
+        "8": "Os sacerdotes concordaram em não mais receber dinheiro do povo e concordaram também que não ficariam encarregados de reparar os estragos do templo.",
+        "9": "Então o sacerdote Joiada pegou uma caixa, fez um buraco na tampa, e a pôs junto ao altar, à direita de quem entrava na Casa do Senhor . Os sacerdotes que guardavam a entrada da porta depositavam ali todo o dinheiro que era trazido à Casa do Senhor .",
+        "10": "Quando viam que já havia muito dinheiro na caixa, o escrivão do rei e o sumo sacerdote vinham, contavam e ensacavam o dinheiro que se achava na Casa do Senhor .",
+        "11": "O dinheiro, depois de pesado, era entregue aos que dirigiam a obra e tinham a seu encargo a Casa do Senhor . Estes pagavam aos carpinteiros e aos construtores que reparavam a Casa do Senhor ,",
+        "12": "e também aos pedreiros e aos cortadores de pedras. Também compravam madeira e pedras lavradas para repararem os estragos da Casa do Senhor , e custeavam todo o necessário para a conservação da Casa do Senhor .",
+        "13": "Mas, do dinheiro que era trazido à Casa do Senhor , não se faziam nem taças de prata, nem apagadores, nem bacias, nem trombetas, nem qualquer outro vaso de ouro ou de prata para a Casa do Senhor .",
+        "14": "Porque davam o dinheiro aos que dirigiam a obra e reparavam com ele a Casa do Senhor .",
+        "15": "Também não pediam contas aos homens em cujas mãos entregavam aquele dinheiro, para o dar aos que faziam a obra, porque eram honestos.",
+        "16": "Mas o dinheiro de oferta pela culpa e o dinheiro de oferta pelos pecados não era trazido à Casa do Senhor ; ficava para os sacerdotes.",
+        "17": "Nessa época Hazael, rei da Síria, atacou e conquistou a cidade de Gate. Depois Hazael resolveu marchar contra Jerusalém.",
+        "18": "Porém Joás, rei de Judá, pegou todas as coisas santas que Josafá, Jeorão e Acazias, seus pais, reis de Judá, haviam dedicado, bem como todo o ouro que havia nos tesouros da Casa do Senhor e no palácio real e os mandou a Hazael, rei da Síria; e este se retirou de Jerusalém.",
+        "19": "Quanto aos demais atos de Joás e a tudo o que fez, não está tudo escrito no Livro da História dos Reis de Judá?",
+        "20": "Os servos de Joás se levantaram, fizeram uma conspiração e mataram Joás na casa de Milo, que fica na descida para Sila.",
+        "21": "Jozacar, filho de Simeate, e Jozabade, filho de Somer, servos de Joás, o atacaram, e ele morreu. Joás foi sepultado no túmulo de seus pais na Cidade de Davi, e Amazias, seu filho, reinou em seu lugar."
     }
-  }
 }

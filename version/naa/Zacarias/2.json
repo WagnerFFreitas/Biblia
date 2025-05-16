@@ -1,58 +1,23 @@
 {
-  "livro": "Zacarias",
-  "capítulo": 2,
-  "versículos": {
-    "1": {
-      "título": "A terceira visão: Jerusalém é medida",
-      "texto": "Levantei os olhos e vi, e eis um homem que tinha na mão um cordel de medir."
+    "livro": "Zacarias",
+    "capitulo": 2,
+    "titulos": {
+        "1": "A terceira visão: Jerusalém é medida",
+        "6": "Israel é exortado a voltar para Sião"
     },
-    "2": {
-      "título": "",
-      "texto": "Então perguntei:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Eis que o anjo que falava comigo se afastou, e outro anjo veio se encontrar com ele."
-    },
-    "4": {
-      "título": "",
-      "texto": "E lhe disse:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Pois eu serei uma muralha de fogo ao redor dela, diz o Senhor , eu mesmo serei, no meio dela, a sua glória.”"
-    },
-    "6": {
-      "título": "Israel é exortado a voltar para Sião",
-      "texto": "— Vamos! Vamos! Fujam da terra do Norte, diz o Senhor , porque eu espalhei vocês como os quatro ventos do céu, diz o Senhor ."
-    },
-    "7": {
-      "título": "",
-      "texto": "Vamos! Fuja, Sião, você que habita com a filha da Babilônia."
-    },
-    "8": {
-      "título": "",
-      "texto": "— Pois assim diz o Senhor dos Exércitos: Para obter a glória, ele me enviou às nações que saquearam os bens de vocês. Porque aquele que tocar em vocês toca na menina dos meus olhos."
-    },
-    "9": {
-      "título": "",
-      "texto": "Porque eis que agitarei a mão contra eles, e eles virão a ser a presa daqueles que os serviram. Assim vocês saberão que o Senhor dos Exércitos é quem me enviou."
-    },
-    "10": {
-      "título": "",
-      "texto": "— Alegre-se e cante, ó filha de Sião, porque eis que venho e habitarei no meio de você, diz o Senhor ."
-    },
-    "11": {
-      "título": "",
-      "texto": "Naquele dia, muitas nações se juntarão ao Senhor e serão o meu povo. Habitarei em seu meio, e vocês saberão que o Senhor dos Exércitos é quem me enviou a vocês."
-    },
-    "12": {
-      "título": "",
-      "texto": "Então o Senhor herdará a terra de Judá como a sua porção na terra santa e voltará a escolher Jerusalém."
-    },
-    "13": {
-      "título": "",
-      "texto": "Calem-se todos diante do Senhor , porque ele se levantou da sua santa morada."
+    "versiculos": {
+        "1": "Levantei os olhos e vi, e eis um homem que tinha na mão um cordel de medir.",
+        "2": "Então perguntei:",
+        "3": "Eis que o anjo que falava comigo se afastou, e outro anjo veio se encontrar com ele.",
+        "4": "E lhe disse:",
+        "5": "Pois eu serei uma muralha de fogo ao redor dela, diz o Senhor , eu mesmo serei, no meio dela, a sua glória.”",
+        "6": "— Vamos! Vamos! Fujam da terra do Norte, diz o Senhor , porque eu espalhei vocês como os quatro ventos do céu, diz o Senhor .",
+        "7": "Vamos! Fuja, Sião, você que habita com a filha da Babilônia.",
+        "8": "— Pois assim diz o Senhor dos Exércitos: Para obter a glória, ele me enviou às nações que saquearam os bens de vocês. Porque aquele que tocar em vocês toca na menina dos meus olhos.",
+        "9": "Porque eis que agitarei a mão contra eles, e eles virão a ser a presa daqueles que os serviram. Assim vocês saberão que o Senhor dos Exércitos é quem me enviou.",
+        "10": "— Alegre-se e cante, ó filha de Sião, porque eis que venho e habitarei no meio de você, diz o Senhor .",
+        "11": "Naquele dia, muitas nações se juntarão ao Senhor e serão o meu povo. Habitarei em seu meio, e vocês saberão que o Senhor dos Exércitos é quem me enviou a vocês.",
+        "12": "Então o Senhor herdará a terra de Judá como a sua porção na terra santa e voltará a escolher Jerusalém.",
+        "13": "Calem-se todos diante do Senhor , porque ele se levantou da sua santa morada."
     }
-  }
 }

@@ -1,86 +1,31 @@
 {
-  "livro": "Mateus",
-  "capítulo": 28,
-  "versículos": {
-    "1": {
-      "título": "A ressurreição de Jesus",
-      "texto": "Passado o sábado, no começo do primeiro dia da semana, Maria Madalena e a outra Maria foram ver o túmulo."
+    "livro": "Mateus",
+    "capitulo": 28,
+    "titulos": {
+        "1": "A ressurreição de Jesus",
+        "11": "Os judeus subornam os guardas",
+        "16": "A Grande Comissão"
     },
-    "2": {
-      "título": "",
-      "texto": "E eis que houve um grande terremoto; porque um anjo do Senhor desceu do céu e, aproximando-se, removeu a pedra e sentou sobre ela."
-    },
-    "3": {
-      "título": "",
-      "texto": "O aspecto dele era como um relâmpago, e a sua roupa era branca como a neve."
-    },
-    "4": {
-      "título": "",
-      "texto": "E os guardas, com medo do anjo, tremeram e ficaram como se estivessem mortos."
-    },
-    "5": {
-      "título": "",
-      "texto": "Mas o anjo, dirigindo-se às mulheres, disse:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Ele não está aqui; ressuscitou, como tinha dito. Venham ver onde ele jazia."
-    },
-    "7": {
-      "título": "",
-      "texto": "Agora vão depressa e digam aos seus discípulos que ele ressuscitou dos mortos e vai adiante de vocês para a Galileia; lá vocês o verão. É como acabei de dizer a vocês."
-    },
-    "8": {
-      "título": "",
-      "texto": "E, retirando-se elas apressadamente do sepulcro, tomadas de medo e grande alegria, correram para anunciar isso aos discípulos."
-    },
-    "9": {
-      "título": "",
-      "texto": "E eis que Jesus veio ao encontro delas e disse:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Então Jesus lhes disse:"
-    },
-    "11": {
-      "título": "Os judeus subornam os guardas",
-      "texto": "E, enquanto elas iam, eis que alguns da guarda foram à cidade e contaram aos principais sacerdotes tudo o que havia acontecido."
-    },
-    "12": {
-      "título": "",
-      "texto": "Reunindo-se eles em conselho com os anciãos, deram grande soma de dinheiro aos soldados,"
-    },
-    "13": {
-      "título": "",
-      "texto": "recomendando-lhes:"
-    },
-    "14": {
-      "título": "",
-      "texto": "E, se isto chegar ao conhecimento do governador, nós o convenceremos e faremos com que vocês não tenham maiores preocupações."
-    },
-    "15": {
-      "título": "",
-      "texto": "Os soldados receberam o dinheiro e fizeram como tinham sido instruídos. Esta versão se espalhou entre os judeus até o dia de hoje."
-    },
-    "16": {
-      "título": "A Grande Comissão",
-      "texto": "Os onze discípulos partiram para a Galileia, para o monte que Jesus lhes havia designado."
-    },
-    "17": {
-      "título": "",
-      "texto": "E, quando viram Jesus, o adoraram; mas alguns duvidaram."
-    },
-    "18": {
-      "título": "",
-      "texto": "Jesus, aproximando-se, falou-lhes, dizendo:"
-    },
-    "19": {
-      "título": "",
-      "texto": "Portanto, vão e façam discípulos de todas as nações, batizando-os em nome do Pai, do Filho e do Espírito Santo,"
-    },
-    "20": {
-      "título": "",
-      "texto": "ensinando-os a guardar todas as coisas que tenho ordenado a vocês. E eis que estou com vocês todos os dias até o fim dos tempos."
+    "versiculos": {
+        "1": "Passado o sábado, no começo do primeiro dia da semana, Maria Madalena e a outra Maria foram ver o túmulo.",
+        "2": "E eis que houve um grande terremoto; porque um anjo do Senhor desceu do céu e, aproximando-se, removeu a pedra e sentou sobre ela.",
+        "3": "O aspecto dele era como um relâmpago, e a sua roupa era branca como a neve.",
+        "4": "E os guardas, com medo do anjo, tremeram e ficaram como se estivessem mortos.",
+        "5": "Mas o anjo, dirigindo-se às mulheres, disse:",
+        "6": "Ele não está aqui; ressuscitou, como tinha dito. Venham ver onde ele jazia.",
+        "7": "Agora vão depressa e digam aos seus discípulos que ele ressuscitou dos mortos e vai adiante de vocês para a Galileia; lá vocês o verão. É como acabei de dizer a vocês.",
+        "8": "E, retirando-se elas apressadamente do sepulcro, tomadas de medo e grande alegria, correram para anunciar isso aos discípulos.",
+        "9": "E eis que Jesus veio ao encontro delas e disse:",
+        "10": "Então Jesus lhes disse:",
+        "11": "E, enquanto elas iam, eis que alguns da guarda foram à cidade e contaram aos principais sacerdotes tudo o que havia acontecido.",
+        "12": "Reunindo-se eles em conselho com os anciãos, deram grande soma de dinheiro aos soldados,",
+        "13": "recomendando-lhes:",
+        "14": "E, se isto chegar ao conhecimento do governador, nós o convenceremos e faremos com que vocês não tenham maiores preocupações.",
+        "15": "Os soldados receberam o dinheiro e fizeram como tinham sido instruídos. Esta versão se espalhou entre os judeus até o dia de hoje.",
+        "16": "Os onze discípulos partiram para a Galileia, para o monte que Jesus lhes havia designado.",
+        "17": "E, quando viram Jesus, o adoraram; mas alguns duvidaram.",
+        "18": "Jesus, aproximando-se, falou-lhes, dizendo:",
+        "19": "Portanto, vão e façam discípulos de todas as nações, batizando-os em nome do Pai, do Filho e do Espírito Santo,",
+        "20": "ensinando-os a guardar todas as coisas que tenho ordenado a vocês. E eis que estou com vocês todos os dias até o fim dos tempos."
     }
-  }
 }

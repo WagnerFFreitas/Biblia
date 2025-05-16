@@ -1,170 +1,53 @@
 {
-  "livro": "Atos",
-  "capítulo": 19,
-  "versículos": {
-    "1": {
-      "título": "Paulo em Éfeso",
-      "texto": "Aconteceu que, enquanto Apolo estava em Corinto, Paulo, tendo passado pelas regiões mais altas, chegou a Éfeso. Encontrando ali alguns discípulos,"
+    "livro": "Atos",
+    "capitulo": 19,
+    "titulos": {
+        "1": "Paulo em Éfeso",
+        "11": "Os filhos de Ceva",
+        "21": "Paulo envia Timóteo e Erasto para a Macedônia",
+        "23": "O tumulto em Éfeso"
     },
-    "2": {
-      "título": "",
-      "texto": "perguntou-lhes:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Paulo perguntou:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Paulo explicou:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Eles, tendo ouvido isto, foram batizados no nome do Senhor Jesus."
-    },
-    "6": {
-      "título": "",
-      "texto": "E, quando Paulo lhes impôs as mãos, o Espírito Santo veio sobre eles, e tanto falavam em línguas como profetizavam."
-    },
-    "7": {
-      "título": "",
-      "texto": "Eram, ao todo, uns doze homens."
-    },
-    "8": {
-      "título": "",
-      "texto": "Durante três meses, Paulo frequentou a sinagoga, onde falava ousadamente, discutindo e persuadindo a respeito do Reino de Deus."
-    },
-    "9": {
-      "título": "",
-      "texto": "Mas como alguns deles se mostravam teimosos e descrentes, falando mal do Caminho diante da multidão, Paulo se afastou deles. E, levando consigo os discípulos, passou a falar diariamente na escola de Tirano."
-    },
-    "10": {
-      "título": "",
-      "texto": "Paulo fez isso durante dois anos, de modo que todos os habitantes da província da Ásia ouviram a palavra do Senhor, tanto judeus como gregos."
-    },
-    "11": {
-      "título": "Os filhos de Ceva",
-      "texto": "Deus, pelas mãos de Paulo, fazia milagres extraordinários,"
-    },
-    "12": {
-      "título": "",
-      "texto": "a ponto de levarem aos enfermos lenços e aventais do seu uso pessoal, diante dos quais as enfermidades fugiam das suas vítimas, e os espíritos malignos se retiravam."
-    },
-    "13": {
-      "título": "",
-      "texto": "E alguns judeus, exorcistas ambulantes, tentaram invocar o nome do Senhor Jesus sobre pessoas possuídas de espíritos malignos, dizendo:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Os que faziam isto eram sete filhos de um judeu chamado Ceva, sumo sacerdote."
-    },
-    "15": {
-      "título": "",
-      "texto": "Mas o espírito maligno lhes respondeu:"
-    },
-    "16": {
-      "título": "",
-      "texto": "E o possuído do espírito maligno saltou sobre eles, dominando a todos e, de tal modo prevaleceu contra eles, que, nus e feridos, fugiram daquela casa."
-    },
-    "17": {
-      "título": "",
-      "texto": "Este fato chegou ao conhecimento de todos os moradores de Éfeso, tanto judeus como gregos. Veio temor sobre todos eles, e o nome do Senhor Jesus era engrandecido."
-    },
-    "18": {
-      "título": "",
-      "texto": "Muitos dos que creram vieram confessando e denunciando publicamente as suas próprias obras."
-    },
-    "19": {
-      "título": "",
-      "texto": "Também muitos dos que haviam praticado magia, reunindo os seus livros, os queimaram diante de todos. Calculado o valor dos livros, verificaram que chegava a cinquenta mil denários."
-    },
-    "20": {
-      "título": "",
-      "texto": "Assim, a palavra do Senhor crescia e prevalecia poderosamente."
-    },
-    "21": {
-      "título": "Paulo envia Timóteo e Erasto para a Macedônia",
-      "texto": "Depois destas coisas, Paulo resolveu, no seu espírito, ir a Jerusalém, passando pela Macedônia e Acaia. Ele dizia:"
-    },
-    "22": {
-      "título": "",
-      "texto": "Tendo enviado à Macedônia dois daqueles que o ajudavam, a saber, Timóteo e Erasto, permaneceu algum tempo na província da Ásia."
-    },
-    "23": {
-      "título": "O tumulto em Éfeso",
-      "texto": "Por esse tempo, houve grande tumulto em Éfeso por causa do Caminho."
-    },
-    "24": {
-      "título": "",
-      "texto": "Pois um ourives, chamado Demétrio, que fazia modelos de prata do templo de Diana e que dava muito lucro aos artífices,"
-    },
-    "25": {
-      "título": "",
-      "texto": "convocando-os juntamente com outros do mesmo ofício, disse-lhes:"
-    },
-    "26": {
-      "título": "",
-      "texto": "E agora vocês estão vendo e ouvindo que não só em Éfeso, mas em quase toda a província da Ásia, este Paulo tem persuadido e desencaminhado muita gente, afirmando que os deuses feitos por mãos humanas não são deuses de verdade."
-    },
-    "27": {
-      "título": "",
-      "texto": "Não somente há o perigo de que o nosso negócio caia em descrédito, como também de que o próprio templo da grande deusa Diana seja considerado sem valor, e que até venha a ser destruída a majestade daquela que toda a província da Ásia e o mundo adoram."
-    },
-    "28": {
-      "título": "",
-      "texto": "Ouvindo isto, ficaram furiosos e começaram a gritar:"
-    },
-    "29": {
-      "título": "",
-      "texto": "A confusão se espalhou pela cidade, e todos juntos foram correndo para o teatro, arrastando consigo os macedônios Gaio e Aristarco, companheiros de Paulo."
-    },
-    "30": {
-      "título": "",
-      "texto": "Quando Paulo quis apresentar-se ao povo, os discípulos não o permitiram."
-    },
-    "31": {
-      "título": "",
-      "texto": "Também algumas autoridades da província, que eram amigos de Paulo, mandaram um recado, pedindo que ele não se arriscasse indo ao teatro."
-    },
-    "32": {
-      "título": "",
-      "texto": "Uns, pois, gritavam de uma forma; outros, de outra; porque a assembleia tinha virado uma confusão. E, na sua maior parte, nem sabiam por que motivo estavam reunidos."
-    },
-    "33": {
-      "título": "",
-      "texto": "Então tiraram Alexandre do meio da multidão, e os judeus o empurraram para a frente. Este, acenando com a mão, queria falar ao povo."
-    },
-    "34": {
-      "título": "",
-      "texto": "Quando, porém, reconheceram que ele era judeu, todos, a uma voz, gritaram durante quase duas horas:"
-    },
-    "35": {
-      "título": "",
-      "texto": "O escrivão da cidade, tendo apaziguado o povo, disse:"
-    },
-    "36": {
-      "título": "",
-      "texto": "Ora, não podendo isto ser contestado, convém que vocês se mantenham calmos e não façam nada de forma precipitada;"
-    },
-    "37": {
-      "título": "",
-      "texto": "porque estes homens que vocês trouxeram para cá não profanaram o templo, nem blasfemam contra a nossa deusa."
-    },
-    "38": {
-      "título": "",
-      "texto": "Portanto, se Demétrio e os artífices que o acompanham têm alguma queixa contra alguém, saibam que existem os tribunais e os procônsules; que se acusem uns aos outros ali."
-    },
-    "39": {
-      "título": "",
-      "texto": "Mas, se vocês estão pleiteando alguma outra coisa, isso será decidido em assembleia regular."
-    },
-    "40": {
-      "título": "",
-      "texto": "Porque também corremos o risco de sermos, hoje, acusados de revolta, não havendo motivo algum que possamos alegar para justificar este ajuntamento."
-    },
-    "41": {
-      "título": "",
-      "texto": "E, havendo dito isto, dissolveu a assembleia."
+    "versiculos": {
+        "1": "Aconteceu que, enquanto Apolo estava em Corinto, Paulo, tendo passado pelas regiões mais altas, chegou a Éfeso. Encontrando ali alguns discípulos,",
+        "2": "perguntou-lhes:",
+        "3": "Paulo perguntou:",
+        "4": "Paulo explicou:",
+        "5": "Eles, tendo ouvido isto, foram batizados no nome do Senhor Jesus.",
+        "6": "E, quando Paulo lhes impôs as mãos, o Espírito Santo veio sobre eles, e tanto falavam em línguas como profetizavam.",
+        "7": "Eram, ao todo, uns doze homens.",
+        "8": "Durante três meses, Paulo frequentou a sinagoga, onde falava ousadamente, discutindo e persuadindo a respeito do Reino de Deus.",
+        "9": "Mas como alguns deles se mostravam teimosos e descrentes, falando mal do Caminho diante da multidão, Paulo se afastou deles. E, levando consigo os discípulos, passou a falar diariamente na escola de Tirano.",
+        "10": "Paulo fez isso durante dois anos, de modo que todos os habitantes da província da Ásia ouviram a palavra do Senhor, tanto judeus como gregos.",
+        "11": "Deus, pelas mãos de Paulo, fazia milagres extraordinários,",
+        "12": "a ponto de levarem aos enfermos lenços e aventais do seu uso pessoal, diante dos quais as enfermidades fugiam das suas vítimas, e os espíritos malignos se retiravam.",
+        "13": "E alguns judeus, exorcistas ambulantes, tentaram invocar o nome do Senhor Jesus sobre pessoas possuídas de espíritos malignos, dizendo:",
+        "14": "Os que faziam isto eram sete filhos de um judeu chamado Ceva, sumo sacerdote.",
+        "15": "Mas o espírito maligno lhes respondeu:",
+        "16": "E o possuído do espírito maligno saltou sobre eles, dominando a todos e, de tal modo prevaleceu contra eles, que, nus e feridos, fugiram daquela casa.",
+        "17": "Este fato chegou ao conhecimento de todos os moradores de Éfeso, tanto judeus como gregos. Veio temor sobre todos eles, e o nome do Senhor Jesus era engrandecido.",
+        "18": "Muitos dos que creram vieram confessando e denunciando publicamente as suas próprias obras.",
+        "19": "Também muitos dos que haviam praticado magia, reunindo os seus livros, os queimaram diante de todos. Calculado o valor dos livros, verificaram que chegava a cinquenta mil denários.",
+        "20": "Assim, a palavra do Senhor crescia e prevalecia poderosamente.",
+        "21": "Depois destas coisas, Paulo resolveu, no seu espírito, ir a Jerusalém, passando pela Macedônia e Acaia. Ele dizia:",
+        "22": "Tendo enviado à Macedônia dois daqueles que o ajudavam, a saber, Timóteo e Erasto, permaneceu algum tempo na província da Ásia.",
+        "23": "Por esse tempo, houve grande tumulto em Éfeso por causa do Caminho.",
+        "24": "Pois um ourives, chamado Demétrio, que fazia modelos de prata do templo de Diana e que dava muito lucro aos artífices,",
+        "25": "convocando-os juntamente com outros do mesmo ofício, disse-lhes:",
+        "26": "E agora vocês estão vendo e ouvindo que não só em Éfeso, mas em quase toda a província da Ásia, este Paulo tem persuadido e desencaminhado muita gente, afirmando que os deuses feitos por mãos humanas não são deuses de verdade.",
+        "27": "Não somente há o perigo de que o nosso negócio caia em descrédito, como também de que o próprio templo da grande deusa Diana seja considerado sem valor, e que até venha a ser destruída a majestade daquela que toda a província da Ásia e o mundo adoram.",
+        "28": "Ouvindo isto, ficaram furiosos e começaram a gritar:",
+        "29": "A confusão se espalhou pela cidade, e todos juntos foram correndo para o teatro, arrastando consigo os macedônios Gaio e Aristarco, companheiros de Paulo.",
+        "30": "Quando Paulo quis apresentar-se ao povo, os discípulos não o permitiram.",
+        "31": "Também algumas autoridades da província, que eram amigos de Paulo, mandaram um recado, pedindo que ele não se arriscasse indo ao teatro.",
+        "32": "Uns, pois, gritavam de uma forma; outros, de outra; porque a assembleia tinha virado uma confusão. E, na sua maior parte, nem sabiam por que motivo estavam reunidos.",
+        "33": "Então tiraram Alexandre do meio da multidão, e os judeus o empurraram para a frente. Este, acenando com a mão, queria falar ao povo.",
+        "34": "Quando, porém, reconheceram que ele era judeu, todos, a uma voz, gritaram durante quase duas horas:",
+        "35": "O escrivão da cidade, tendo apaziguado o povo, disse:",
+        "36": "Ora, não podendo isto ser contestado, convém que vocês se mantenham calmos e não façam nada de forma precipitada;",
+        "37": "porque estes homens que vocês trouxeram para cá não profanaram o templo, nem blasfemam contra a nossa deusa.",
+        "38": "Portanto, se Demétrio e os artífices que o acompanham têm alguma queixa contra alguém, saibam que existem os tribunais e os procônsules; que se acusem uns aos outros ali.",
+        "39": "Mas, se vocês estão pleiteando alguma outra coisa, isso será decidido em assembleia regular.",
+        "40": "Porque também corremos o risco de sermos, hoje, acusados de revolta, não havendo motivo algum que possamos alegar para justificar este ajuntamento.",
+        "41": "E, havendo dito isto, dissolveu a assembleia."
     }
-  }
 }

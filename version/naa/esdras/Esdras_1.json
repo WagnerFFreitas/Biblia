@@ -1,50 +1,20 @@
 {
-  "livro": "Esdras",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "O decreto de Ciro",
-      "texto": "No primeiro ano do reinado de Ciro, rei da Pérsia, para que se cumprisse a palavra do Senhor , por boca de Jeremias, o Senhor despertou o espírito de Ciro, rei da Pérsia, que ordenou que se proclamasse em todo o seu reino e que se pusesse por escrito o seguinte:"
+    "livro": "Esdras",
+    "capitulo": 1,
+    "titulos": {
+        "1": "O decreto de Ciro"
     },
-    "2": {
-      "título": "",
-      "texto": "“Assim diz Ciro, rei da Pérsia:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Aquele dentre vocês que for do seu povo, que o seu Deus esteja com ele e que suba para Jerusalém, que fica em Judá, e edifique a Casa do Senhor , Deus de Israel; ele é o Deus que está em Jerusalém."
-    },
-    "4": {
-      "título": "",
-      "texto": "Todo aquele que restar, seja qual for o lugar em que habita, que os homens desse lugar o ajudem com prata, ouro, bens e gado, além das dádivas voluntárias para a Casa de Deus, em Jerusalém.”"
-    },
-    "5": {
-      "título": "",
-      "texto": "Então se levantaram os chefes de famílias de Judá e de Benjamim, os sacerdotes e os levitas e todos aqueles cujo espírito Deus despertou, para subirem a edificar a Casa do Senhor , em Jerusalém."
-    },
-    "6": {
-      "título": "",
-      "texto": "Todos os que moravam nos arredores os ajudaram com objetos de prata e de ouro, bens, gado e coisas preciosas, além de todas as ofertas voluntárias."
-    },
-    "7": {
-      "título": "",
-      "texto": "Também o rei Ciro entregou os utensílios da Casa do Senhor , os quais Nabucodonosor tinha trazido de Jerusalém e colocado na casa de seus deuses."
-    },
-    "8": {
-      "título": "",
-      "texto": "Ciro, rei da Pérsia, tirou esses utensílios sob a direção do tesoureiro Mitredate, que os entregou contados a Sesbazar, príncipe de Judá."
-    },
-    "9": {
-      "título": "",
-      "texto": "Eis o número deles: trinta bacias de ouro, mil bacias de prata, vinte e nove facas,"
-    },
-    "10": {
-      "título": "",
-      "texto": "trinta taças de ouro, quatrocentas e dez taças de prata de menor qualidade e mil outros objetos."
-    },
-    "11": {
-      "título": "",
-      "texto": "Todos os utensílios de ouro e de prata foram cinco mil e quatrocentos. Sesbazar levou todos esses consigo, quando os exilados voltaram da Babilônia para Jerusalém."
+    "versiculos": {
+        "1": "No primeiro ano do reinado de Ciro, rei da Pérsia, para que se cumprisse a palavra do Senhor , por boca de Jeremias, o Senhor despertou o espírito de Ciro, rei da Pérsia, que ordenou que se proclamasse em todo o seu reino e que se pusesse por escrito o seguinte:",
+        "2": "“Assim diz Ciro, rei da Pérsia:",
+        "3": "Aquele dentre vocês que for do seu povo, que o seu Deus esteja com ele e que suba para Jerusalém, que fica em Judá, e edifique a Casa do Senhor , Deus de Israel; ele é o Deus que está em Jerusalém.",
+        "4": "Todo aquele que restar, seja qual for o lugar em que habita, que os homens desse lugar o ajudem com prata, ouro, bens e gado, além das dádivas voluntárias para a Casa de Deus, em Jerusalém.”",
+        "5": "Então se levantaram os chefes de famílias de Judá e de Benjamim, os sacerdotes e os levitas e todos aqueles cujo espírito Deus despertou, para subirem a edificar a Casa do Senhor , em Jerusalém.",
+        "6": "Todos os que moravam nos arredores os ajudaram com objetos de prata e de ouro, bens, gado e coisas preciosas, além de todas as ofertas voluntárias.",
+        "7": "Também o rei Ciro entregou os utensílios da Casa do Senhor , os quais Nabucodonosor tinha trazido de Jerusalém e colocado na casa de seus deuses.",
+        "8": "Ciro, rei da Pérsia, tirou esses utensílios sob a direção do tesoureiro Mitredate, que os entregou contados a Sesbazar, príncipe de Judá.",
+        "9": "Eis o número deles: trinta bacias de ouro, mil bacias de prata, vinte e nove facas,",
+        "10": "trinta taças de ouro, quatrocentas e dez taças de prata de menor qualidade e mil outros objetos.",
+        "11": "Todos os utensílios de ouro e de prata foram cinco mil e quatrocentos. Sesbazar levou todos esses consigo, quando os exilados voltaram da Babilônia para Jerusalém."
     }
-  }
 }

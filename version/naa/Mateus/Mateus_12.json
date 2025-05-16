@@ -1,206 +1,66 @@
 {
-  "livro": "Mateus",
-  "capítulo": 12,
-  "versículos": {
-    "1": {
-      "título": "Jesus é senhor do sábado",
-      "texto": "Por aquele tempo, num sábado, Jesus passou pelas searas. Estando os seus discípulos com fome, começaram a colher espigas e a comer."
+    "livro": "Mateus",
+    "capitulo": 12,
+    "titulos": {
+        "1": "Jesus é senhor do sábado",
+        "9": "O homem da mão ressequida",
+        "15": "O servo escolhido de Deus",
+        "22": "Jesus e Belzebu",
+        "33": "As árvores e os seus frutos",
+        "38": "O sinal de Jonas",
+        "43": "A volta do espírito imundo",
+        "46": "A mãe e os irmãos de Jesus"
     },
-    "2": {
-      "título": "",
-      "texto": "Os fariseus, vendo isso, disseram a Jesus:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Mas Jesus lhes disse:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Como entrou na Casa de Deus, e comeram os pães da proposição, os quais não era lícito comer, nem a ele nem aos que estavam com ele, mas exclusivamente aos sacerdotes?"
-    },
-    "5": {
-      "título": "",
-      "texto": "Ou vocês não leram na Lei que, aos sábados, os sacerdotes no templo profanam o sábado e ficam sem culpa?"
-    },
-    "6": {
-      "título": "",
-      "texto": "Pois eu lhes digo que aqui está quem é maior do que o templo."
-    },
-    "7": {
-      "título": "",
-      "texto": "Mas, se vocês soubessem o que significa: “Quero misericórdia, e não sacrifício”, não teriam condenado inocentes."
-    },
-    "8": {
-      "título": "",
-      "texto": "Porque o Filho do Homem é senhor do sábado."
-    },
-    "9": {
-      "título": "O homem da mão ressequida",
-      "texto": "Tendo Jesus saído dali, entrou na sinagoga deles."
-    },
-    "10": {
-      "título": "",
-      "texto": "Achava-se ali um homem que tinha uma das mãos ressequida. Então, a fim de o acusar, perguntaram a Jesus:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Ao que lhes respondeu:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Ora, quanto mais vale um homem do que uma ovelha! Logo, é lícito nos sábados fazer o bem."
-    },
-    "13": {
-      "título": "",
-      "texto": "Então Jesus disse ao homem:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Mas os fariseus, saindo dali, conspiravam contra ele, procurando ver como o matariam."
-    },
-    "15": {
-      "título": "O servo escolhido de Deus",
-      "texto": "Mas Jesus, sabendo disto, afastou-se dali. Muitos o seguiram, e a todos ele curou,"
-    },
-    "16": {
-      "título": "",
-      "texto": "advertindo-lhes, porém, que não o expusessem à publicidade."
-    },
-    "17": {
-      "título": "",
-      "texto": "Isso aconteceu para se cumprir o que foi dito por meio do profeta Isaías:"
-    },
-    "18": {
-      "título": "",
-      "texto": "“Eis aqui o meu servo,"
-    },
-    "19": {
-      "título": "",
-      "texto": "Não entrará em discussões,"
-    },
-    "20": {
-      "título": "",
-      "texto": "Não esmagará a cana quebrada,"
-    },
-    "21": {
-      "título": "",
-      "texto": "E no seu nome os gentios"
-    },
-    "22": {
-      "título": "Jesus e Belzebu",
-      "texto": "Então trouxeram a Jesus um endemoniado, cego e mudo. Jesus o curou, e o homem passou a falar e a ver."
-    },
-    "23": {
-      "título": "",
-      "texto": "E toda a multidão se admirava e dizia:"
-    },
-    "24": {
-      "título": "",
-      "texto": "Mas os fariseus, ouvindo isto, diziam:"
-    },
-    "25": {
-      "título": "",
-      "texto": "Mas Jesus, sabendo o que eles pensavam, disse-lhes:"
-    },
-    "26": {
-      "título": "",
-      "texto": "Se Satanás expulsa Satanás, está dividido contra si mesmo; como, então, o seu reino subsistirá?"
-    },
-    "27": {
-      "título": "",
-      "texto": "E, se eu expulso os demônios por Belzebu, por quem os filhos de vocês os expulsam? Por isso, eles mesmos serão os juízes de vocês."
-    },
-    "28": {
-      "título": "",
-      "texto": "Se, porém, eu expulso os demônios pelo Espírito de Deus, certamente é chegado o Reino de Deus sobre vocês."
-    },
-    "29": {
-      "título": "",
-      "texto": "Ou como pode alguém entrar na casa do valente e roubar-lhe os bens sem primeiro amarrá-lo? E só então saqueará a casa dele."
-    },
-    "30": {
-      "título": "",
-      "texto": "— Quem não é por mim é contra mim; e quem comigo não ajunta espalha."
-    },
-    "31": {
-      "título": "",
-      "texto": "Por isso, digo a vocês que todo pecado e blasfêmia serão perdoados aos homens; mas a blasfêmia contra o Espírito não será perdoada."
-    },
-    "32": {
-      "título": "",
-      "texto": "Se alguém disser alguma palavra contra o Filho do Homem, isso lhe será perdoado; mas, se alguém falar contra o Espírito Santo, isso não lhe será perdoado, nem neste mundo nem no porvir."
-    },
-    "33": {
-      "título": "As árvores e os seus frutos",
-      "texto": "— Tornem a árvore boa e o seu fruto será bom, ou tornem a árvore má e o seu fruto será mau; porque pelo fruto se conhece a árvore."
-    },
-    "34": {
-      "título": "",
-      "texto": "Raça de víboras! Como vocês podem falar coisas boas, sendo maus? Porque a boca fala do que está cheio o coração."
-    },
-    "35": {
-      "título": "",
-      "texto": "A pessoa boa tira do tesouro bom coisas boas; mas a pessoa má do mau tesouro tira coisas más."
-    },
-    "36": {
-      "título": "",
-      "texto": "— Digo a vocês que, no Dia do Juízo, as pessoas darão conta de toda palavra inútil que proferirem;"
-    },
-    "37": {
-      "título": "",
-      "texto": "porque, pelas suas palavras, você será justificado e, pelas suas palavras, você será condenado."
-    },
-    "38": {
-      "título": "O sinal de Jonas",
-      "texto": "Então alguns escribas e fariseus disseram a Jesus:"
-    },
-    "39": {
-      "título": "",
-      "texto": "Mas ele respondeu:"
-    },
-    "40": {
-      "título": "",
-      "texto": "Porque assim como Jonas esteve três dias e três noites no ventre do grande peixe, assim o Filho do Homem estará três dias e três noites no coração da terra."
-    },
-    "41": {
-      "título": "",
-      "texto": "Ninivitas se levantarão, no Juízo, com esta geração e a condenarão, porque se arrependeram com a pregação de Jonas. E aqui está quem é maior do que Jonas."
-    },
-    "42": {
-      "título": "",
-      "texto": "A rainha do Sul se levantará, no Juízo, com esta geração e a condenará, porque veio dos confins da terra para ouvir a sabedoria de Salomão. E aqui está quem é maior do que Salomão."
-    },
-    "43": {
-      "título": "A volta do espírito imundo",
-      "texto": "— Quando o espírito imundo sai de uma pessoa, anda por lugares áridos procurando repouso, porém não encontra."
-    },
-    "44": {
-      "título": "",
-      "texto": "Por isso, diz: “Voltarei para a minha casa, de onde saí.” E, voltando, ele a encontra vazia, varrida e arrumada."
-    },
-    "45": {
-      "título": "",
-      "texto": "Então vai e leva consigo outros sete espíritos, piores do que ele, e, entrando, habitam ali. E o último estado daquela pessoa se torna pior do que o primeiro. Assim também acontecerá a esta geração perversa."
-    },
-    "46": {
-      "título": "A mãe e os irmãos de Jesus",
-      "texto": "Enquanto Jesus ainda falava ao povo, eis que a mãe e os irmãos dele estavam do lado de fora, procurando falar com ele."
-    },
-    "47": {
-      "título": "",
-      "texto": "E alguém lhe disse:"
-    },
-    "48": {
-      "título": "",
-      "texto": "Porém Jesus respondeu ao que lhe trouxe o aviso:"
-    },
-    "49": {
-      "título": "",
-      "texto": "E, estendendo a mão para os discípulos, disse:"
-    },
-    "50": {
-      "título": "",
-      "texto": "Portanto, aquele que fizer a vontade de meu Pai celeste, esse é meu irmão, minha irmã e minha mãe."
+    "versiculos": {
+        "1": "Por aquele tempo, num sábado, Jesus passou pelas searas. Estando os seus discípulos com fome, começaram a colher espigas e a comer.",
+        "2": "Os fariseus, vendo isso, disseram a Jesus:",
+        "3": "Mas Jesus lhes disse:",
+        "4": "Como entrou na Casa de Deus, e comeram os pães da proposição, os quais não era lícito comer, nem a ele nem aos que estavam com ele, mas exclusivamente aos sacerdotes?",
+        "5": "Ou vocês não leram na Lei que, aos sábados, os sacerdotes no templo profanam o sábado e ficam sem culpa?",
+        "6": "Pois eu lhes digo que aqui está quem é maior do que o templo.",
+        "7": "Mas, se vocês soubessem o que significa: “Quero misericórdia, e não sacrifício”, não teriam condenado inocentes.",
+        "8": "Porque o Filho do Homem é senhor do sábado.",
+        "9": "Tendo Jesus saído dali, entrou na sinagoga deles.",
+        "10": "Achava-se ali um homem que tinha uma das mãos ressequida. Então, a fim de o acusar, perguntaram a Jesus:",
+        "11": "Ao que lhes respondeu:",
+        "12": "Ora, quanto mais vale um homem do que uma ovelha! Logo, é lícito nos sábados fazer o bem.",
+        "13": "Então Jesus disse ao homem:",
+        "14": "Mas os fariseus, saindo dali, conspiravam contra ele, procurando ver como o matariam.",
+        "15": "Mas Jesus, sabendo disto, afastou-se dali. Muitos o seguiram, e a todos ele curou,",
+        "16": "advertindo-lhes, porém, que não o expusessem à publicidade.",
+        "17": "Isso aconteceu para se cumprir o que foi dito por meio do profeta Isaías:",
+        "18": "“Eis aqui o meu servo,",
+        "19": "Não entrará em discussões,",
+        "20": "Não esmagará a cana quebrada,",
+        "21": "E no seu nome os gentios",
+        "22": "Então trouxeram a Jesus um endemoniado, cego e mudo. Jesus o curou, e o homem passou a falar e a ver.",
+        "23": "E toda a multidão se admirava e dizia:",
+        "24": "Mas os fariseus, ouvindo isto, diziam:",
+        "25": "Mas Jesus, sabendo o que eles pensavam, disse-lhes:",
+        "26": "Se Satanás expulsa Satanás, está dividido contra si mesmo; como, então, o seu reino subsistirá?",
+        "27": "E, se eu expulso os demônios por Belzebu, por quem os filhos de vocês os expulsam? Por isso, eles mesmos serão os juízes de vocês.",
+        "28": "Se, porém, eu expulso os demônios pelo Espírito de Deus, certamente é chegado o Reino de Deus sobre vocês.",
+        "29": "Ou como pode alguém entrar na casa do valente e roubar-lhe os bens sem primeiro amarrá-lo? E só então saqueará a casa dele.",
+        "30": "— Quem não é por mim é contra mim; e quem comigo não ajunta espalha.",
+        "31": "Por isso, digo a vocês que todo pecado e blasfêmia serão perdoados aos homens; mas a blasfêmia contra o Espírito não será perdoada.",
+        "32": "Se alguém disser alguma palavra contra o Filho do Homem, isso lhe será perdoado; mas, se alguém falar contra o Espírito Santo, isso não lhe será perdoado, nem neste mundo nem no porvir.",
+        "33": "— Tornem a árvore boa e o seu fruto será bom, ou tornem a árvore má e o seu fruto será mau; porque pelo fruto se conhece a árvore.",
+        "34": "Raça de víboras! Como vocês podem falar coisas boas, sendo maus? Porque a boca fala do que está cheio o coração.",
+        "35": "A pessoa boa tira do tesouro bom coisas boas; mas a pessoa má do mau tesouro tira coisas más.",
+        "36": "— Digo a vocês que, no Dia do Juízo, as pessoas darão conta de toda palavra inútil que proferirem;",
+        "37": "porque, pelas suas palavras, você será justificado e, pelas suas palavras, você será condenado.",
+        "38": "Então alguns escribas e fariseus disseram a Jesus:",
+        "39": "Mas ele respondeu:",
+        "40": "Porque assim como Jonas esteve três dias e três noites no ventre do grande peixe, assim o Filho do Homem estará três dias e três noites no coração da terra.",
+        "41": "Ninivitas se levantarão, no Juízo, com esta geração e a condenarão, porque se arrependeram com a pregação de Jonas. E aqui está quem é maior do que Jonas.",
+        "42": "A rainha do Sul se levantará, no Juízo, com esta geração e a condenará, porque veio dos confins da terra para ouvir a sabedoria de Salomão. E aqui está quem é maior do que Salomão.",
+        "43": "— Quando o espírito imundo sai de uma pessoa, anda por lugares áridos procurando repouso, porém não encontra.",
+        "44": "Por isso, diz: “Voltarei para a minha casa, de onde saí.” E, voltando, ele a encontra vazia, varrida e arrumada.",
+        "45": "Então vai e leva consigo outros sete espíritos, piores do que ele, e, entrando, habitam ali. E o último estado daquela pessoa se torna pior do que o primeiro. Assim também acontecerá a esta geração perversa.",
+        "46": "Enquanto Jesus ainda falava ao povo, eis que a mãe e os irmãos dele estavam do lado de fora, procurando falar com ele.",
+        "47": "E alguém lhe disse:",
+        "48": "Porém Jesus respondeu ao que lhe trouxe o aviso:",
+        "49": "E, estendendo a mão para os discípulos, disse:",
+        "50": "Portanto, aquele que fizer a vontade de meu Pai celeste, esse é meu irmão, minha irmã e minha mãe."
     }
-  }
 }

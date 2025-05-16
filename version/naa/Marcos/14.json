@@ -1,294 +1,92 @@
 {
-  "livro": "Marcos",
-  "capítulo": 14,
-  "versículos": {
-    "1": {
-      "título": "O plano para matar Jesus",
-      "texto": "Dois dias depois seria celebrada a Páscoa e a Festa dos Pães sem Fermento. Os principais sacerdotes e os escribas procuravam uma forma de prender Jesus, à traição, para matá-lo."
-    },
-    "2": {
-      "título": "",
-      "texto": "Pois diziam:"
-    },
-    "3": {
-      "título": "Jesus é ungido em Betânia",
-      "texto": "Quando Jesus estava em Betânia, fazendo uma refeição na casa de Simão, o leproso, veio uma mulher, trazendo um frasco feito de alabastro com um perfume muito valioso, de nardo puro; e, quebrando o frasco, derramou o perfume sobre a cabeça de Jesus."
-    },
-    "4": {
-      "título": "",
-      "texto": "Alguns dos que estavam ali ficaram indignados e diziam entre si:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Este perfume poderia ter sido vendido por mais de trezentos denários, para ser dado aos pobres."
-    },
-    "6": {
-      "título": "",
-      "texto": "Mas Jesus disse:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Porque os pobres estarão sempre com vocês, e, quando quiserem, podem fazer-lhes o bem, mas a mim vocês nem sempre terão."
-    },
-    "8": {
-      "título": "",
-      "texto": "Ela fez o que pôde: ungiu o meu corpo antecipadamente para a sepultura."
-    },
-    "9": {
-      "título": "",
-      "texto": "Em verdade lhes digo que, onde for pregado em todo o mundo o evangelho, também será contado o que ela fez, para memória dela."
-    },
-    "10": {
-      "título": "O pacto da traição",
-      "texto": "E Judas Iscariotes, um dos doze, foi falar com os principais sacerdotes, para lhes entregar Jesus."
-    },
-    "11": {
-      "título": "",
-      "texto": "Eles, ouvindo isto, se alegraram e prometeram dar dinheiro a ele; nesse meio-tempo, Judas buscava uma boa ocasião para entregar Jesus."
-    },
-    "12": {
-      "título": "Os discípulos preparam a Páscoa",
-      "texto": "E, no primeiro dia da Festa dos Pães sem Fermento, quando se fazia o sacrifício do cordeiro pascal, os discípulos de Jesus lhe perguntaram:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Então Jesus enviou dois dos seus discípulos, dizendo-lhes:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Sigam esse homem e digam ao dono da casa em que ele entrar que o Mestre pergunta: “Onde fica o meu aposento no qual comerei a Páscoa com os meus discípulos?”"
-    },
-    "15": {
-      "título": "",
-      "texto": "E ele lhes mostrará um espaçoso cenáculo mobiliado e pronto; ali façam os preparativos."
-    },
-    "16": {
-      "título": "",
-      "texto": "Os discípulos saíram, foram à cidade e, achando tudo como Jesus lhes tinha dito, prepararam a Páscoa."
-    },
-    "17": {
-      "título": "O traidor é indicado",
-      "texto": "Ao cair da tarde, Jesus chegou com os doze."
-    },
-    "18": {
-      "título": "",
-      "texto": "Quando estavam à mesa e comiam, Jesus disse:"
-    },
-    "19": {
-      "título": "",
-      "texto": "E eles começaram a entristecer-se e a perguntar-lhe, um por um:"
-    },
-    "20": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "21": {
-      "título": "",
-      "texto": "Pois o Filho do Homem vai, como está escrito a seu respeito; mas ai daquele por quem o Filho do Homem está sendo traído! Melhor seria para ele se nunca tivesse nascido!"
-    },
-    "22": {
-      "título": "A Ceia do Senhor",
-      "texto": "E, enquanto comiam, Jesus pegou um pão e, abençoando-o, o partiu e lhes deu, dizendo:"
-    },
-    "23": {
-      "título": "",
-      "texto": "A seguir, Jesus pegou um cálice e, tendo dado graças, o deu aos seus discípulos; e todos beberam dele."
-    },
-    "24": {
-      "título": "",
-      "texto": "Então lhes disse:"
-    },
-    "25": {
-      "título": "",
-      "texto": "Em verdade lhes digo que nunca mais beberei do fruto da videira, até aquele dia em que beberei o vinho novo, no Reino de Deus."
-    },
-    "26": {
-      "título": "",
-      "texto": "E, tendo cantado um hino, saíram para o monte das Oliveiras."
-    },
-    "27": {
-      "título": "Pedro é avisado",
-      "texto": "E Jesus disse aos discípulos:"
-    },
-    "28": {
-      "título": "",
-      "texto": "Mas, depois da minha ressurreição, irei adiante de vocês para a Galileia."
-    },
-    "29": {
-      "título": "",
-      "texto": "Então Pedro disse a Jesus:"
-    },
-    "30": {
-      "título": "",
-      "texto": "Mas Jesus lhe disse:"
-    },
-    "31": {
-      "título": "",
-      "texto": "Mas Pedro insistia com mais veemência:"
-    },
-    "32": {
-      "título": "Jesus no Getsêmani",
-      "texto": "Então foram a um lugar chamado Getsêmani. Ali, Jesus disse aos seus discípulos:"
-    },
-    "33": {
-      "título": "",
-      "texto": "E, levando consigo Pedro, Tiago e João, começou a sentir-se tomado de pavor e de angústia."
-    },
-    "34": {
-      "título": "",
-      "texto": "E lhes disse:"
-    },
-    "35": {
-      "título": "",
-      "texto": "E, adiantando-se um pouco, prostrou-se em terra; e orava para que, se possível, lhe fosse poupada aquela hora."
-    },
-    "36": {
-      "título": "",
-      "texto": "E dizia:"
-    },
-    "37": {
-      "título": "",
-      "texto": "E, voltando, achou-os dormindo. E disse a Pedro:"
-    },
-    "38": {
-      "título": "",
-      "texto": "Vigiem e orem, para que não caiam em tentação; o espírito, na verdade, está pronto, mas a carne é fraca."
-    },
-    "39": {
-      "título": "",
-      "texto": "Retirando-se de novo, orou repetindo as mesmas palavras."
-    },
-    "40": {
-      "título": "",
-      "texto": "E voltando, achou-os outra vez dormindo, porque os olhos deles estavam pesados; e não sabiam o que lhe responder."
-    },
-    "41": {
-      "título": "",
-      "texto": "E, quando voltou pela terceira vez, Jesus lhes disse:"
-    },
-    "42": {
-      "título": "",
-      "texto": "Levantem-se, vamos embora! Eis que o traidor se aproxima."
-    },
-    "43": {
-      "título": "Jesus é preso",
-      "texto": "E logo, enquanto Jesus ainda falava, chegou Judas, um dos doze, e, com ele, uma multidão com espadas e porretes, vinda da parte dos principais sacerdotes, escribas e anciãos."
-    },
-    "44": {
-      "título": "",
-      "texto": "Ora, o traidor tinha dado a eles um sinal: “Aquele que eu beijar, é esse; prendam e levem-no com segurança.”"
-    },
-    "45": {
-      "título": "",
-      "texto": "E logo que chegou, aproximando-se de Jesus, Judas disse:"
-    },
-    "46": {
-      "título": "",
-      "texto": "Então eles agarraram Jesus e o prenderam."
-    },
-    "47": {
-      "título": "",
-      "texto": "Nisto, um dos que estavam ali, sacando da espada, feriu o servo do sumo sacerdote e cortou-lhe a orelha."
-    },
-    "48": {
-      "título": "",
-      "texto": "Jesus lhes disse:"
-    },
-    "49": {
-      "título": "",
-      "texto": "Todos os dias eu estava com vocês no templo, ensinando, e vocês não me prenderam; mas isto é para que se cumprissem as Escrituras."
-    },
-    "50": {
-      "título": "",
-      "texto": "Então todos o deixaram e fugiram."
-    },
-    "51": {
-      "título": "Jesus seguido por um jovem",
-      "texto": "Um jovem, coberto unicamente com um lençol, seguia Jesus. Eles o agarraram,"
-    },
-    "52": {
-      "título": "",
-      "texto": "mas ele largou o lençol e fugiu nu."
-    },
-    "53": {
-      "título": "Jesus diante do Sinédrio",
-      "texto": "E levaram Jesus ao sumo sacerdote, e então se reuniram todos os principais sacerdotes, os anciãos e os escribas."
-    },
-    "54": {
-      "título": "",
-      "texto": "Pedro seguiu Jesus de longe até o interior do pátio do sumo sacerdote e estava assentado entre os servos, aquentando-se ao fogo."
-    },
-    "55": {
-      "título": "",
-      "texto": "E os principais sacerdotes e todo o Sinédrio procuravam algum testemunho contra Jesus para o condenar à morte, mas não achavam nada."
-    },
-    "56": {
-      "título": "",
-      "texto": "Pois muitos testemunhavam falsamente contra Jesus, mas os depoimentos não eram coerentes."
-    },
-    "57": {
-      "título": "",
-      "texto": "E, levantando-se alguns, testemunhavam falsamente, dizendo:"
-    },
-    "58": {
-      "título": "",
-      "texto": "— Nós o ouvimos declarar: “Eu destruirei este santuário edificado por mãos humanas e, em três dias, construirei outro, não por mãos humanas.”"
-    },
-    "59": {
-      "título": "",
-      "texto": "Nem assim o testemunho deles era coerente."
-    },
-    "60": {
-      "título": "",
-      "texto": "E, levantando-se o sumo sacerdote, no meio, perguntou a Jesus:"
-    },
-    "61": {
-      "título": "",
-      "texto": "Jesus, porém, guardou silêncio e nada respondeu. O sumo sacerdote tornou a interrogá-lo:"
-    },
-    "62": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "63": {
-      "título": "",
-      "texto": "O sumo sacerdote, rasgando as suas vestes, disse:"
-    },
-    "64": {
-      "título": "",
-      "texto": "Vocês ouviram a blasfêmia. Qual é o parecer de vocês?"
-    },
-    "65": {
-      "título": "",
-      "texto": "Alguns começaram a cuspir nele, a cobrir-lhe o rosto, a bater nele e a dizer-lhe:"
-    },
-    "66": {
-      "título": "Pedro nega Jesus",
-      "texto": "Estando Pedro embaixo no pátio, veio uma das empregadas do sumo sacerdote"
-    },
-    "67": {
-      "título": "",
-      "texto": "e, vendo Pedro, que se aquecia, fixou os olhos nele e disse:"
-    },
-    "68": {
-      "título": "",
-      "texto": "Mas ele negou, dizendo:"
-    },
-    "69": {
-      "título": "",
-      "texto": "E a empregada, vendo-o, tornou a dizer aos que estavam ali:"
-    },
-    "70": {
-      "título": "",
-      "texto": "Mas ele negou outra vez. E, pouco depois, os que estavam ali disseram outra vez a Pedro:"
-    },
-    "71": {
-      "título": "",
-      "texto": "Ele, porém, começou a praguejar e a jurar:"
-    },
-    "72": {
-      "título": "",
-      "texto": "E no mesmo instante o galo cantou pela segunda vez. Então Pedro se lembrou da palavra que Jesus lhe tinha dito: “Antes que o galo cante duas vezes, você me negará três vezes.” E, caindo em si, começou a chorar."
+    "livro": "Marcos",
+    "capitulo": 14,
+    "titulos": {
+        "1": "O plano para matar Jesus",
+        "3": "Jesus é ungido em Betânia",
+        "10": "O pacto da traição",
+        "12": "Os discípulos preparam a Páscoa",
+        "17": "O traidor é indicado",
+        "22": "A Ceia do Senhor",
+        "27": "Pedro é avisado",
+        "32": "Jesus no Getsêmani",
+        "43": "Jesus é preso",
+        "51": "Jesus seguido por um jovem",
+        "53": "Jesus diante do Sinédrio",
+        "66": "Pedro nega Jesus"
+    },
+    "versiculos": {
+        "1": "Dois dias depois seria celebrada a Páscoa e a Festa dos Pães sem Fermento. Os principais sacerdotes e os escribas procuravam uma forma de prender Jesus, à traição, para matá-lo.",
+        "2": "Pois diziam:",
+        "3": "Quando Jesus estava em Betânia, fazendo uma refeição na casa de Simão, o leproso, veio uma mulher, trazendo um frasco feito de alabastro com um perfume muito valioso, de nardo puro; e, quebrando o frasco, derramou o perfume sobre a cabeça de Jesus.",
+        "4": "Alguns dos que estavam ali ficaram indignados e diziam entre si:",
+        "5": "Este perfume poderia ter sido vendido por mais de trezentos denários, para ser dado aos pobres.",
+        "6": "Mas Jesus disse:",
+        "7": "Porque os pobres estarão sempre com vocês, e, quando quiserem, podem fazer-lhes o bem, mas a mim vocês nem sempre terão.",
+        "8": "Ela fez o que pôde: ungiu o meu corpo antecipadamente para a sepultura.",
+        "9": "Em verdade lhes digo que, onde for pregado em todo o mundo o evangelho, também será contado o que ela fez, para memória dela.",
+        "10": "E Judas Iscariotes, um dos doze, foi falar com os principais sacerdotes, para lhes entregar Jesus.",
+        "11": "Eles, ouvindo isto, se alegraram e prometeram dar dinheiro a ele; nesse meio-tempo, Judas buscava uma boa ocasião para entregar Jesus.",
+        "12": "E, no primeiro dia da Festa dos Pães sem Fermento, quando se fazia o sacrifício do cordeiro pascal, os discípulos de Jesus lhe perguntaram:",
+        "13": "Então Jesus enviou dois dos seus discípulos, dizendo-lhes:",
+        "14": "Sigam esse homem e digam ao dono da casa em que ele entrar que o Mestre pergunta: “Onde fica o meu aposento no qual comerei a Páscoa com os meus discípulos?”",
+        "15": "E ele lhes mostrará um espaçoso cenáculo mobiliado e pronto; ali façam os preparativos.",
+        "16": "Os discípulos saíram, foram à cidade e, achando tudo como Jesus lhes tinha dito, prepararam a Páscoa.",
+        "17": "Ao cair da tarde, Jesus chegou com os doze.",
+        "18": "Quando estavam à mesa e comiam, Jesus disse:",
+        "19": "E eles começaram a entristecer-se e a perguntar-lhe, um por um:",
+        "20": "Jesus respondeu:",
+        "21": "Pois o Filho do Homem vai, como está escrito a seu respeito; mas ai daquele por quem o Filho do Homem está sendo traído! Melhor seria para ele se nunca tivesse nascido!",
+        "22": "E, enquanto comiam, Jesus pegou um pão e, abençoando-o, o partiu e lhes deu, dizendo:",
+        "23": "A seguir, Jesus pegou um cálice e, tendo dado graças, o deu aos seus discípulos; e todos beberam dele.",
+        "24": "Então lhes disse:",
+        "25": "Em verdade lhes digo que nunca mais beberei do fruto da videira, até aquele dia em que beberei o vinho novo, no Reino de Deus.",
+        "26": "E, tendo cantado um hino, saíram para o monte das Oliveiras.",
+        "27": "E Jesus disse aos discípulos:",
+        "28": "Mas, depois da minha ressurreição, irei adiante de vocês para a Galileia.",
+        "29": "Então Pedro disse a Jesus:",
+        "30": "Mas Jesus lhe disse:",
+        "31": "Mas Pedro insistia com mais veemência:",
+        "32": "Então foram a um lugar chamado Getsêmani. Ali, Jesus disse aos seus discípulos:",
+        "33": "E, levando consigo Pedro, Tiago e João, começou a sentir-se tomado de pavor e de angústia.",
+        "34": "E lhes disse:",
+        "35": "E, adiantando-se um pouco, prostrou-se em terra; e orava para que, se possível, lhe fosse poupada aquela hora.",
+        "36": "E dizia:",
+        "37": "E, voltando, achou-os dormindo. E disse a Pedro:",
+        "38": "Vigiem e orem, para que não caiam em tentação; o espírito, na verdade, está pronto, mas a carne é fraca.",
+        "39": "Retirando-se de novo, orou repetindo as mesmas palavras.",
+        "40": "E voltando, achou-os outra vez dormindo, porque os olhos deles estavam pesados; e não sabiam o que lhe responder.",
+        "41": "E, quando voltou pela terceira vez, Jesus lhes disse:",
+        "42": "Levantem-se, vamos embora! Eis que o traidor se aproxima.",
+        "43": "E logo, enquanto Jesus ainda falava, chegou Judas, um dos doze, e, com ele, uma multidão com espadas e porretes, vinda da parte dos principais sacerdotes, escribas e anciãos.",
+        "44": "Ora, o traidor tinha dado a eles um sinal: “Aquele que eu beijar, é esse; prendam e levem-no com segurança.”",
+        "45": "E logo que chegou, aproximando-se de Jesus, Judas disse:",
+        "46": "Então eles agarraram Jesus e o prenderam.",
+        "47": "Nisto, um dos que estavam ali, sacando da espada, feriu o servo do sumo sacerdote e cortou-lhe a orelha.",
+        "48": "Jesus lhes disse:",
+        "49": "Todos os dias eu estava com vocês no templo, ensinando, e vocês não me prenderam; mas isto é para que se cumprissem as Escrituras.",
+        "50": "Então todos o deixaram e fugiram.",
+        "51": "Um jovem, coberto unicamente com um lençol, seguia Jesus. Eles o agarraram,",
+        "52": "mas ele largou o lençol e fugiu nu.",
+        "53": "E levaram Jesus ao sumo sacerdote, e então se reuniram todos os principais sacerdotes, os anciãos e os escribas.",
+        "54": "Pedro seguiu Jesus de longe até o interior do pátio do sumo sacerdote e estava assentado entre os servos, aquentando-se ao fogo.",
+        "55": "E os principais sacerdotes e todo o Sinédrio procuravam algum testemunho contra Jesus para o condenar à morte, mas não achavam nada.",
+        "56": "Pois muitos testemunhavam falsamente contra Jesus, mas os depoimentos não eram coerentes.",
+        "57": "E, levantando-se alguns, testemunhavam falsamente, dizendo:",
+        "58": "— Nós o ouvimos declarar: “Eu destruirei este santuário edificado por mãos humanas e, em três dias, construirei outro, não por mãos humanas.”",
+        "59": "Nem assim o testemunho deles era coerente.",
+        "60": "E, levantando-se o sumo sacerdote, no meio, perguntou a Jesus:",
+        "61": "Jesus, porém, guardou silêncio e nada respondeu. O sumo sacerdote tornou a interrogá-lo:",
+        "62": "Jesus respondeu:",
+        "63": "O sumo sacerdote, rasgando as suas vestes, disse:",
+        "64": "Vocês ouviram a blasfêmia. Qual é o parecer de vocês?",
+        "65": "Alguns começaram a cuspir nele, a cobrir-lhe o rosto, a bater nele e a dizer-lhe:",
+        "66": "Estando Pedro embaixo no pátio, veio uma das empregadas do sumo sacerdote",
+        "67": "e, vendo Pedro, que se aquecia, fixou os olhos nele e disse:",
+        "68": "Mas ele negou, dizendo:",
+        "69": "E a empregada, vendo-o, tornou a dizer aos que estavam ali:",
+        "70": "Mas ele negou outra vez. E, pouco depois, os que estavam ali disseram outra vez a Pedro:",
+        "71": "Ele, porém, começou a praguejar e a jurar:",
+        "72": "E no mesmo instante o galo cantou pela segunda vez. Então Pedro se lembrou da palavra que Jesus lhe tinha dito: “Antes que o galo cante duas vezes, você me negará três vezes.” E, caindo em si, começou a chorar."
     }
-  }
 }

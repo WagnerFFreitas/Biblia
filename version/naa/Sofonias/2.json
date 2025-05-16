@@ -1,66 +1,27 @@
 {
-  "livro": "Sofonias",
-  "capítulo": 2,
-  "versículos": {
-    "1": {
-      "título": "Convite ao arrependimento",
-      "texto": "Reúna-se e concentre-se,"
+    "livro": "Sofonias",
+    "capitulo": 2,
+    "titulos": {
+        "1": "Convite ao arrependimento",
+        "4": "Ameaças contra os filisteus",
+        "8": "Ameaças contra Moabe e Amom",
+        "12": "Ameaças contra a Etiópia e a Assíria"
     },
-    "2": {
-      "título": "",
-      "texto": "antes que saia o decreto"
-    },
-    "3": {
-      "título": "",
-      "texto": "Busquem o Senhor ,"
-    },
-    "4": {
-      "título": "Ameaças contra os filisteus",
-      "texto": "Porque Gaza será abandonada,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Ai dos que habitam no litoral,"
-    },
-    "6": {
-      "título": "",
-      "texto": "O litoral será de pastagens,"
-    },
-    "7": {
-      "título": "",
-      "texto": "O litoral pertencerá"
-    },
-    "8": {
-      "título": "Ameaças contra Moabe e Amom",
-      "texto": "“Ouvi a zombaria de Moabe"
-    },
-    "9": {
-      "título": "",
-      "texto": "Portanto, tão certo como eu vivo”,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Isso lhes sobrevirá"
-    },
-    "11": {
-      "título": "",
-      "texto": "O Senhor será terrível"
-    },
-    "12": {
-      "título": "Ameaças contra a Etiópia e a Assíria",
-      "texto": "Também vocês, ó etíopes,"
-    },
-    "13": {
-      "título": "",
-      "texto": "Ele estenderá também"
-    },
-    "14": {
-      "título": "",
-      "texto": "No meio dessa cidade,"
-    },
-    "15": {
-      "título": "",
-      "texto": "Esta é a cidade"
+    "versiculos": {
+        "1": "Reúna-se e concentre-se,",
+        "2": "antes que saia o decreto",
+        "3": "Busquem o Senhor ,",
+        "4": "Porque Gaza será abandonada,",
+        "5": "Ai dos que habitam no litoral,",
+        "6": "O litoral será de pastagens,",
+        "7": "O litoral pertencerá",
+        "8": "“Ouvi a zombaria de Moabe",
+        "9": "Portanto, tão certo como eu vivo”,",
+        "10": "Isso lhes sobrevirá",
+        "11": "O Senhor será terrível",
+        "12": "Também vocês, ó etíopes,",
+        "13": "Ele estenderá também",
+        "14": "No meio dessa cidade,",
+        "15": "Esta é a cidade"
     }
-  }
 }

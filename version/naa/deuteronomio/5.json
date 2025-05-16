@@ -1,138 +1,43 @@
 {
-  "livro": "Deuteronômio",
-  "capítulo": 5,
-  "versículos": {
-    "1": {
-      "título": "Os dez mandamentos",
-      "texto": "Moisés chamou todo o Israel e lhe disse:"
+    "livro": "Deuteronômio",
+    "capitulo": 5,
+    "titulos": {
+        "1": "Os dez mandamentos",
+        "22": "Moisés, mediador entre Deus e o povo"
     },
-    "2": {
-      "título": "",
-      "texto": "O Senhor , nosso Deus, fez aliança conosco em Horebe."
-    },
-    "3": {
-      "título": "",
-      "texto": "Não foi com nossos pais que o Senhor fez esta aliança, e sim conosco, todos os que hoje aqui estamos vivos."
-    },
-    "4": {
-      "título": "",
-      "texto": "Face a face o Senhor falou conosco, no monte, do meio do fogo."
-    },
-    "5": {
-      "título": "",
-      "texto": "Naquela ocasião, eu me coloquei entre o Senhor e vocês, para lhes anunciar a palavra do Senhor , porque vocês ficaram com medo do fogo e não subiram o monte. E o Senhor disse:"
-    },
-    "6": {
-      "título": "",
-      "texto": "— “Eu sou o Senhor , seu Deus, que o tirei da terra do Egito, da casa da servidão.”"
-    },
-    "7": {
-      "título": "",
-      "texto": "— “Não tenha outros deuses diante de mim.”"
-    },
-    "8": {
-      "título": "",
-      "texto": "— “Não faça para você imagem de escultura, nem semelhança alguma do que há em cima no céu, nem embaixo na terra, nem nas águas debaixo da terra."
-    },
-    "9": {
-      "título": "",
-      "texto": "Não adore essas coisas, nem preste culto a elas, porque eu, o Senhor , seu Deus, sou Deus zeloso, que visito a iniquidade dos pais nos filhos até a terceira e quarta geração daqueles que me odeiam,"
-    },
-    "10": {
-      "título": "",
-      "texto": "mas faço misericórdia até mil gerações daqueles que me amam e guardam os meus mandamentos.”"
-    },
-    "11": {
-      "título": "",
-      "texto": "— “Não tome o nome do Senhor , seu Deus, em vão, porque o Senhor não terá por inocente o que tomar o seu nome em vão.”"
-    },
-    "12": {
-      "título": "",
-      "texto": "— “Guarde o dia de sábado, para o santificar, como o Senhor , seu Deus, lhe ordenou."
-    },
-    "13": {
-      "título": "",
-      "texto": "Seis dias você trabalhará e fará toda a sua obra,"
-    },
-    "14": {
-      "título": "",
-      "texto": "mas o sétimo dia é o sábado dedicado ao Senhor , seu Deus; não faça nenhum trabalho nesse dia, nem você, nem o seu filho, nem a sua filha, nem o seu servo, nem a sua serva, nem o seu boi, nem o seu jumento ou qualquer outro dos seus animais, nem o estrangeiro das suas portas para dentro, para que o seu servo e a sua serva descansem como você."
-    },
-    "15": {
-      "título": "",
-      "texto": "Lembre-se de que você foi escravo na terra do Egito e que o Senhor , seu Deus, o tirou de lá com mão poderosa e braço estendido. Por isso o Senhor , seu Deus, ordenou que você guardasse o dia de sábado.”"
-    },
-    "16": {
-      "título": "",
-      "texto": "— “Honre o seu pai e a sua mãe, como o Senhor , seu Deus, lhe ordenou, para que você tenha uma longa vida e para que tudo vá bem com você na terra que o Senhor , seu Deus, lhe dá.”"
-    },
-    "17": {
-      "título": "",
-      "texto": "— “Não mate.”"
-    },
-    "18": {
-      "título": "",
-      "texto": "— “Não cometa adultério.”"
-    },
-    "19": {
-      "título": "",
-      "texto": "— “Não furte.”"
-    },
-    "20": {
-      "título": "",
-      "texto": "— “Não dê falso testemunho contra o seu próximo.”"
-    },
-    "21": {
-      "título": "",
-      "texto": "— “Não cobice a mulher do seu próximo. Não deseje a casa do seu próximo, nem o seu campo, nem o seu servo, nem a sua serva, nem o seu boi, nem o seu jumento, nem coisa alguma que pertença ao seu próximo.”"
-    },
-    "22": {
-      "título": "Moisés, mediador entre Deus e o povo",
-      "texto": "— São estas as palavras que o Senhor falou a toda a congregação de vocês, junto ao monte. Ele falou do meio do fogo, da nuvem e da escuridão, com voz forte, e nada acrescentou. Ele escreveu essas palavras em duas tábuas de pedra, e as deu para mim."
-    },
-    "23": {
-      "título": "",
-      "texto": "Quando ouviram a voz que vinha do meio das trevas, enquanto o monte estava em chamas, vocês se aproximaram de mim, todos os chefes das tribos e os anciãos,"
-    },
-    "24": {
-      "título": "",
-      "texto": "e disseram: “Eis que aqui o Senhor , nosso Deus, nos mostrou a sua glória e a sua grandeza, e ouvimos a sua voz do meio do fogo. Hoje vimos que Deus fala com as pessoas e que elas permanecem vivas."
-    },
-    "25": {
-      "título": "",
-      "texto": "Agora, pois, por que morreríamos? Pois este grande fogo nos consumirá! Se continuarmos a ouvir a voz do Senhor , nosso Deus, morreremos."
-    },
-    "26": {
-      "título": "",
-      "texto": "Afinal, de toda a humanidade, quem é que ouviu a voz do Deus vivo falar do meio do fogo, como nós ouvimos, e permaneceu vivo?"
-    },
-    "27": {
-      "título": "",
-      "texto": "Aproxime-se você e ouça tudo o que o Senhor , nosso Deus, disser. Você nos dirá tudo o que o Senhor , nosso Deus, lhe disser. Nós ouviremos e cumpriremos o que for dito.”"
-    },
-    "28": {
-      "título": "",
-      "texto": "— Quando o Senhor ouviu o que vocês disseram, quando falavam comigo, o Senhor me disse: “Eu ouvi as palavras que este povo lhe falou, e em tudo eles falaram muito bem."
-    },
-    "29": {
-      "título": "",
-      "texto": "Quem dera que eles sempre tivessem tal coração, e sempre me temessem e guardassem todos os meus mandamentos! Assim tudo iria bem para eles e para os filhos deles, para sempre!"
-    },
-    "30": {
-      "título": "",
-      "texto": "Vá e diga-lhes que voltem para as suas tendas."
-    },
-    "31": {
-      "título": "",
-      "texto": "Mas você fique aqui comigo, e eu lhe direi todos os mandamentos, estatutos e juízos que você lhes ensinará, para que os cumpram na terra que eu lhes darei para que seja deles.”"
-    },
-    "32": {
-      "título": "",
-      "texto": "— Tenham o cuidado de fazer como o Senhor , seu Deus, lhes ordenou. Não se desviem, nem para a direita nem para a esquerda."
-    },
-    "33": {
-      "título": "",
-      "texto": "Andem em todo o caminho que o Senhor , seu Deus, lhes ordenou, para que vocês vivam, para que tudo lhes vá bem, e para que se prolonguem os seus dias na terra que irão possuir."
+    "versiculos": {
+        "1": "Moisés chamou todo o Israel e lhe disse:",
+        "2": "O Senhor , nosso Deus, fez aliança conosco em Horebe.",
+        "3": "Não foi com nossos pais que o Senhor fez esta aliança, e sim conosco, todos os que hoje aqui estamos vivos.",
+        "4": "Face a face o Senhor falou conosco, no monte, do meio do fogo.",
+        "5": "Naquela ocasião, eu me coloquei entre o Senhor e vocês, para lhes anunciar a palavra do Senhor , porque vocês ficaram com medo do fogo e não subiram o monte. E o Senhor disse:",
+        "6": "— “Eu sou o Senhor , seu Deus, que o tirei da terra do Egito, da casa da servidão.”",
+        "7": "— “Não tenha outros deuses diante de mim.”",
+        "8": "— “Não faça para você imagem de escultura, nem semelhança alguma do que há em cima no céu, nem embaixo na terra, nem nas águas debaixo da terra.",
+        "9": "Não adore essas coisas, nem preste culto a elas, porque eu, o Senhor , seu Deus, sou Deus zeloso, que visito a iniquidade dos pais nos filhos até a terceira e quarta geração daqueles que me odeiam,",
+        "10": "mas faço misericórdia até mil gerações daqueles que me amam e guardam os meus mandamentos.”",
+        "11": "— “Não tome o nome do Senhor , seu Deus, em vão, porque o Senhor não terá por inocente o que tomar o seu nome em vão.”",
+        "12": "— “Guarde o dia de sábado, para o santificar, como o Senhor , seu Deus, lhe ordenou.",
+        "13": "Seis dias você trabalhará e fará toda a sua obra,",
+        "14": "mas o sétimo dia é o sábado dedicado ao Senhor , seu Deus; não faça nenhum trabalho nesse dia, nem você, nem o seu filho, nem a sua filha, nem o seu servo, nem a sua serva, nem o seu boi, nem o seu jumento ou qualquer outro dos seus animais, nem o estrangeiro das suas portas para dentro, para que o seu servo e a sua serva descansem como você.",
+        "15": "Lembre-se de que você foi escravo na terra do Egito e que o Senhor , seu Deus, o tirou de lá com mão poderosa e braço estendido. Por isso o Senhor , seu Deus, ordenou que você guardasse o dia de sábado.”",
+        "16": "— “Honre o seu pai e a sua mãe, como o Senhor , seu Deus, lhe ordenou, para que você tenha uma longa vida e para que tudo vá bem com você na terra que o Senhor , seu Deus, lhe dá.”",
+        "17": "— “Não mate.”",
+        "18": "— “Não cometa adultério.”",
+        "19": "— “Não furte.”",
+        "20": "— “Não dê falso testemunho contra o seu próximo.”",
+        "21": "— “Não cobice a mulher do seu próximo. Não deseje a casa do seu próximo, nem o seu campo, nem o seu servo, nem a sua serva, nem o seu boi, nem o seu jumento, nem coisa alguma que pertença ao seu próximo.”",
+        "22": "— São estas as palavras que o Senhor falou a toda a congregação de vocês, junto ao monte. Ele falou do meio do fogo, da nuvem e da escuridão, com voz forte, e nada acrescentou. Ele escreveu essas palavras em duas tábuas de pedra, e as deu para mim.",
+        "23": "Quando ouviram a voz que vinha do meio das trevas, enquanto o monte estava em chamas, vocês se aproximaram de mim, todos os chefes das tribos e os anciãos,",
+        "24": "e disseram: “Eis que aqui o Senhor , nosso Deus, nos mostrou a sua glória e a sua grandeza, e ouvimos a sua voz do meio do fogo. Hoje vimos que Deus fala com as pessoas e que elas permanecem vivas.",
+        "25": "Agora, pois, por que morreríamos? Pois este grande fogo nos consumirá! Se continuarmos a ouvir a voz do Senhor , nosso Deus, morreremos.",
+        "26": "Afinal, de toda a humanidade, quem é que ouviu a voz do Deus vivo falar do meio do fogo, como nós ouvimos, e permaneceu vivo?",
+        "27": "Aproxime-se você e ouça tudo o que o Senhor , nosso Deus, disser. Você nos dirá tudo o que o Senhor , nosso Deus, lhe disser. Nós ouviremos e cumpriremos o que for dito.”",
+        "28": "— Quando o Senhor ouviu o que vocês disseram, quando falavam comigo, o Senhor me disse: “Eu ouvi as palavras que este povo lhe falou, e em tudo eles falaram muito bem.",
+        "29": "Quem dera que eles sempre tivessem tal coração, e sempre me temessem e guardassem todos os meus mandamentos! Assim tudo iria bem para eles e para os filhos deles, para sempre!",
+        "30": "Vá e diga-lhes que voltem para as suas tendas.",
+        "31": "Mas você fique aqui comigo, e eu lhe direi todos os mandamentos, estatutos e juízos que você lhes ensinará, para que os cumpram na terra que eu lhes darei para que seja deles.”",
+        "32": "— Tenham o cuidado de fazer como o Senhor , seu Deus, lhes ordenou. Não se desviem, nem para a direita nem para a esquerda.",
+        "33": "Andem em todo o caminho que o Senhor , seu Deus, lhes ordenou, para que vocês vivam, para que tudo lhes vá bem, e para que se prolonguem os seus dias na terra que irão possuir."
     }
-  }
 }

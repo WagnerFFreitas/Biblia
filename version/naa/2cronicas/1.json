@@ -1,74 +1,28 @@
 {
-  "livro": "2 Crônicas",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "Salomão oferece sacrifícios em Gibeão",
-      "texto": "Salomão, filho de Davi, fortaleceu-se no seu reino, e o Senhor , seu Deus, estava com ele e muito o engrandeceu."
+    "livro": "2 Crônicas",
+    "capitulo": 1,
+    "titulos": {
+        "1": "Salomão oferece sacrifícios em Gibeão",
+        "7": "Salomão pede a Deus sabedoria",
+        "14": "As riquezas de Salomão"
     },
-    "2": {
-      "título": "",
-      "texto": "Salomão falou a todo o Israel, aos capitães de mil e aos de cem, aos juízes e a todos os chefes em todo o Israel, cabeças de famílias."
-    },
-    "3": {
-      "título": "",
-      "texto": "E foi com toda a congregação ao lugar alto que estava em Gibeão, porque ali estava a tenda do encontro de Deus, que Moisés, servo do Senhor , tinha feito no deserto."
-    },
-    "4": {
-      "título": "",
-      "texto": "Quanto à arca de Deus, Davi a tinha trazido de Quiriate-Jearim para o lugar que lhe havia preparado, porque tinha armado uma tenda para a arca em Jerusalém."
-    },
-    "5": {
-      "título": "",
-      "texto": "Mas o altar de bronze que havia sido feito por Bezalel, filho de Uri, filho de Hur, estava ali diante do tabernáculo do Senhor ; e Salomão e a congregação consultaram o Senhor ."
-    },
-    "6": {
-      "título": "",
-      "texto": "Salomão ofereceu ali sacrifícios diante do Senhor , sobre o altar de bronze que estava na tenda do encontro; e ofereceu sobre ele mil holocaustos."
-    },
-    "7": {
-      "título": "Salomão pede a Deus sabedoria",
-      "texto": "Naquela mesma noite, Deus apareceu a Salomão e lhe disse:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Salomão respondeu:"
-    },
-    "9": {
-      "título": "",
-      "texto": "E agora, ó Senhor Deus, cumpra-se a tua promessa feita a Davi, meu pai; porque tu me constituíste rei sobre um povo numeroso como o pó da terra."
-    },
-    "10": {
-      "título": "",
-      "texto": "Dá-me, agora, sabedoria e conhecimento, para que eu saiba conduzir-me à frente deste povo; pois quem seria capaz de governar este grande povo?"
-    },
-    "11": {
-      "título": "",
-      "texto": "Deus disse a Salomão:"
-    },
-    "12": {
-      "título": "",
-      "texto": "sabedoria e conhecimento lhe serão dados. E lhe darei também riquezas, bens e honras, como nenhum rei antes de você teve, nem nenhum rei depois de você terá."
-    },
-    "13": {
-      "título": "",
-      "texto": "Salomão voltou para Jerusalém, da sua ida ao lugar alto que ficava em Gibeão, de diante da tenda do encontro; e reinou sobre Israel."
-    },
-    "14": {
-      "título": "As riquezas de Salomão",
-      "texto": "Salomão ajuntou carros de guerra e cavaleiros. Tinha mil e quatrocentos carros de guerra e doze mil cavaleiros, que colocou nas cidades onde mantinha os carros, deixando uma parte junto ao rei, em Jerusalém."
-    },
-    "15": {
-      "título": "",
-      "texto": "O rei fez com que, em Jerusalém, a prata e o ouro fossem tão comuns como as pedras, e os cedros fossem tão numerosos como os sicômoros que estão na Sefelá."
-    },
-    "16": {
-      "título": "",
-      "texto": "Os cavalos de Salomão vinham do Egito e da Cilícia, e comerciantes do rei os importavam da Cilícia por certo preço."
-    },
-    "17": {
-      "título": "",
-      "texto": "Importava-se do Egito um carro de guerra por seiscentas moedas de prata e um cavalo, por cento e cinquenta; nas mesmas condições, as caravanas os traziam e os exportavam para todos os reis dos heteus e para os reis da Síria."
+    "versiculos": {
+        "1": "Salomão, filho de Davi, fortaleceu-se no seu reino, e o Senhor , seu Deus, estava com ele e muito o engrandeceu.",
+        "2": "Salomão falou a todo o Israel, aos capitães de mil e aos de cem, aos juízes e a todos os chefes em todo o Israel, cabeças de famílias.",
+        "3": "E foi com toda a congregação ao lugar alto que estava em Gibeão, porque ali estava a tenda do encontro de Deus, que Moisés, servo do Senhor , tinha feito no deserto.",
+        "4": "Quanto à arca de Deus, Davi a tinha trazido de Quiriate-Jearim para o lugar que lhe havia preparado, porque tinha armado uma tenda para a arca em Jerusalém.",
+        "5": "Mas o altar de bronze que havia sido feito por Bezalel, filho de Uri, filho de Hur, estava ali diante do tabernáculo do Senhor ; e Salomão e a congregação consultaram o Senhor .",
+        "6": "Salomão ofereceu ali sacrifícios diante do Senhor , sobre o altar de bronze que estava na tenda do encontro; e ofereceu sobre ele mil holocaustos.",
+        "7": "Naquela mesma noite, Deus apareceu a Salomão e lhe disse:",
+        "8": "Salomão respondeu:",
+        "9": "E agora, ó Senhor Deus, cumpra-se a tua promessa feita a Davi, meu pai; porque tu me constituíste rei sobre um povo numeroso como o pó da terra.",
+        "10": "Dá-me, agora, sabedoria e conhecimento, para que eu saiba conduzir-me à frente deste povo; pois quem seria capaz de governar este grande povo?",
+        "11": "Deus disse a Salomão:",
+        "12": "sabedoria e conhecimento lhe serão dados. E lhe darei também riquezas, bens e honras, como nenhum rei antes de você teve, nem nenhum rei depois de você terá.",
+        "13": "Salomão voltou para Jerusalém, da sua ida ao lugar alto que ficava em Gibeão, de diante da tenda do encontro; e reinou sobre Israel.",
+        "14": "Salomão ajuntou carros de guerra e cavaleiros. Tinha mil e quatrocentos carros de guerra e doze mil cavaleiros, que colocou nas cidades onde mantinha os carros, deixando uma parte junto ao rei, em Jerusalém.",
+        "15": "O rei fez com que, em Jerusalém, a prata e o ouro fossem tão comuns como as pedras, e os cedros fossem tão numerosos como os sicômoros que estão na Sefelá.",
+        "16": "Os cavalos de Salomão vinham do Egito e da Cilícia, e comerciantes do rei os importavam da Cilícia por certo preço.",
+        "17": "Importava-se do Egito um carro de guerra por seiscentas moedas de prata e um cavalo, por cento e cinquenta; nas mesmas condições, as caravanas os traziam e os exportavam para todos os reis dos heteus e para os reis da Síria."
     }
-  }
 }

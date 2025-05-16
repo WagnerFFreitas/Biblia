@@ -1,126 +1,43 @@
 {
-  "livro": "Deuteronômio",
-  "capítulo": 31,
-  "versículos": {
-    "1": {
-      "título": "Josué, sucessor de Moisés",
-      "texto": "Moisés foi e falou estas palavras a todo o Israel."
+    "livro": "Deuteronômio",
+    "capitulo": 31,
+    "titulos": {
+        "1": "Josué, sucessor de Moisés",
+        "9": "A leitura da Lei",
+        "14": "A futura rebeldia de Israel",
+        "24": "O Livro da Lei é posto ao lado da arca",
+        "30": "O cântico de Moisés"
     },
-    "2": {
-      "título": "",
-      "texto": "Ele disse:"
-    },
-    "3": {
-      "título": "",
-      "texto": "O Senhor , o Deus de vocês, passará adiante de vocês. Ele destruirá as nações que estão diante de vocês, e vocês tomarão posse delas. Josué passará adiante de vocês, como o Senhor falou."
-    },
-    "4": {
-      "título": "",
-      "texto": "O Senhor fará com essas nações o que fez com Seom e Ogue, reis dos amorreus, e com a terra deles, que ele destruiu."
-    },
-    "5": {
-      "título": "",
-      "texto": "Quando, pois, o Senhor entregar nas suas mãos esses povos que estão diante de vocês, façam com eles segundo todo o mandamento que ordenei a vocês."
-    },
-    "6": {
-      "título": "",
-      "texto": "Sejam fortes e corajosos, não tenham medo, nem fiquem apavorados diante deles, porque o Senhor , seu Deus, é quem vai com vocês; ele não os deixará, nem os abandonará."
-    },
-    "7": {
-      "título": "",
-      "texto": "Moisés chamou Josué e lhe disse na presença de todo o Israel:"
-    },
-    "8": {
-      "título": "",
-      "texto": "O Senhor é quem irá à sua frente. Ele estará com você, não o deixará, nem o abandonará. Não tenha medo, nem fique assustado."
-    },
-    "9": {
-      "título": "A leitura da Lei",
-      "texto": "Moisés escreveu esta Lei e a entregou aos sacerdotes, filhos de Levi, que levavam a arca da aliança do Senhor , e a todos os anciãos de Israel."
-    },
-    "10": {
-      "título": "",
-      "texto": "Moisés lhes deu a seguinte ordem:"
-    },
-    "11": {
-      "título": "",
-      "texto": "quando todo o Israel se apresentar diante do Senhor , seu Deus, no lugar que este escolher, vocês devem ler esta Lei diante de todo o Israel."
-    },
-    "12": {
-      "título": "",
-      "texto": "Reúnam o povo, os homens, as mulheres, as crianças e os estrangeiros que se encontram nas cidades onde vocês moram, para que ouçam, aprendam e temam o Senhor , o Deus de vocês, e cuidem de cumprir todas as palavras desta Lei,"
-    },
-    "13": {
-      "título": "",
-      "texto": "e para que os seus filhos que não a souberem ouçam e aprendam a temer o Senhor , seu Deus, todos os dias que viverem na terra em que, passando o Jordão, vocês vão entrar e da qual tomarão posse."
-    },
-    "14": {
-      "título": "A futura rebeldia de Israel",
-      "texto": "O Senhor disse a Moisés:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Então o Senhor apareceu, ali, na coluna de nuvem, a qual se deteve sobre a porta da tenda."
-    },
-    "16": {
-      "título": "",
-      "texto": "O Senhor disse a Moisés:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Nesse dia, a minha ira se acenderá contra eles; eu os abandonarei e deles esconderei o rosto, para que sejam destruídos. E tantos males e angústias os alcançarão, que naquele dia dirão: “Não é verdade que estes males nos alcançaram porque o nosso Deus não está entre nós?”"
-    },
-    "18": {
-      "título": "",
-      "texto": "Certamente esconderei o rosto naquele dia, por todo o mal que tiverem feito, por terem se voltado para outros deuses."
-    },
-    "19": {
-      "título": "",
-      "texto": "— Escrevam para vocês este cântico e tratem de ensiná-lo aos filhos de Israel. Ponham este cântico na boca de cada um deles, para que me seja por testemunha contra os filhos de Israel."
-    },
-    "20": {
-      "título": "",
-      "texto": "Quando eu tiver introduzido o meu povo na terra que mana leite e mel, a qual, sob juramento, prometi aos pais deles, e eles tiverem comido, se fartado e engordado, então eles se voltarão para outros deuses, os servirão e me desprezarão, anulando a minha aliança."
-    },
-    "21": {
-      "título": "",
-      "texto": "E, quando muitos males e angústias os tiverem alcançado, este cântico será minha testemunha contra eles, pois os descendentes deles sempre o trarão na boca. Porque conheço os desígnios que hoje estão formulando, antes que os leve para a terra que, sob juramento, prometi."
-    },
-    "22": {
-      "título": "",
-      "texto": "Assim, naquele mesmo dia, Moisés escreveu este cântico e o ensinou aos filhos de Israel."
-    },
-    "23": {
-      "título": "",
-      "texto": "O Senhor deu esta ordem a Josué, filho de Num:"
-    },
-    "24": {
-      "título": "O Livro da Lei é posto ao lado da arca",
-      "texto": "Tendo Moisés acabado de escrever, integralmente, as palavras desta Lei num livro,"
-    },
-    "25": {
-      "título": "",
-      "texto": "deu ordem aos levitas que levavam a arca da aliança do Senhor , dizendo:"
-    },
-    "26": {
-      "título": "",
-      "texto": "— Peguem este Livro da Lei e coloquem-no ao lado da arca da aliança do Senhor , seu Deus, para que fique ali como testemunha contra vocês."
-    },
-    "27": {
-      "título": "",
-      "texto": "Porque conheço a rebeldia e teimosia de vocês. Porque se hoje, durante a minha vida, enquanto ainda estou aqui, vocês já são rebeldes contra o Senhor , o que vai acontecer depois da minha morte?"
-    },
-    "28": {
-      "título": "",
-      "texto": "Reúnam diante de mim todos os anciãos das tribos e os oficiais, para que eu fale aos seus ouvidos estas palavras e tome o céu e a terra por testemunhas contra eles."
-    },
-    "29": {
-      "título": "",
-      "texto": "Porque sei que, depois da minha morte, vocês certamente se deixarão corromper e se desviarão do caminho que lhes tenho ordenado. Então, nos últimos dias, este mal os alcançará, porque vocês farão o que é mau aos olhos do Senhor , provocando-o à ira com as obras das suas mãos."
-    },
-    "30": {
-      "título": "O cântico de Moisés",
-      "texto": "Então Moisés pronunciou, integralmente, as palavras deste cântico aos ouvidos de toda a congregação de Israel:"
+    "versiculos": {
+        "1": "Moisés foi e falou estas palavras a todo o Israel.",
+        "2": "Ele disse:",
+        "3": "O Senhor , o Deus de vocês, passará adiante de vocês. Ele destruirá as nações que estão diante de vocês, e vocês tomarão posse delas. Josué passará adiante de vocês, como o Senhor falou.",
+        "4": "O Senhor fará com essas nações o que fez com Seom e Ogue, reis dos amorreus, e com a terra deles, que ele destruiu.",
+        "5": "Quando, pois, o Senhor entregar nas suas mãos esses povos que estão diante de vocês, façam com eles segundo todo o mandamento que ordenei a vocês.",
+        "6": "Sejam fortes e corajosos, não tenham medo, nem fiquem apavorados diante deles, porque o Senhor , seu Deus, é quem vai com vocês; ele não os deixará, nem os abandonará.",
+        "7": "Moisés chamou Josué e lhe disse na presença de todo o Israel:",
+        "8": "O Senhor é quem irá à sua frente. Ele estará com você, não o deixará, nem o abandonará. Não tenha medo, nem fique assustado.",
+        "9": "Moisés escreveu esta Lei e a entregou aos sacerdotes, filhos de Levi, que levavam a arca da aliança do Senhor , e a todos os anciãos de Israel.",
+        "10": "Moisés lhes deu a seguinte ordem:",
+        "11": "quando todo o Israel se apresentar diante do Senhor , seu Deus, no lugar que este escolher, vocês devem ler esta Lei diante de todo o Israel.",
+        "12": "Reúnam o povo, os homens, as mulheres, as crianças e os estrangeiros que se encontram nas cidades onde vocês moram, para que ouçam, aprendam e temam o Senhor , o Deus de vocês, e cuidem de cumprir todas as palavras desta Lei,",
+        "13": "e para que os seus filhos que não a souberem ouçam e aprendam a temer o Senhor , seu Deus, todos os dias que viverem na terra em que, passando o Jordão, vocês vão entrar e da qual tomarão posse.",
+        "14": "O Senhor disse a Moisés:",
+        "15": "Então o Senhor apareceu, ali, na coluna de nuvem, a qual se deteve sobre a porta da tenda.",
+        "16": "O Senhor disse a Moisés:",
+        "17": "Nesse dia, a minha ira se acenderá contra eles; eu os abandonarei e deles esconderei o rosto, para que sejam destruídos. E tantos males e angústias os alcançarão, que naquele dia dirão: “Não é verdade que estes males nos alcançaram porque o nosso Deus não está entre nós?”",
+        "18": "Certamente esconderei o rosto naquele dia, por todo o mal que tiverem feito, por terem se voltado para outros deuses.",
+        "19": "— Escrevam para vocês este cântico e tratem de ensiná-lo aos filhos de Israel. Ponham este cântico na boca de cada um deles, para que me seja por testemunha contra os filhos de Israel.",
+        "20": "Quando eu tiver introduzido o meu povo na terra que mana leite e mel, a qual, sob juramento, prometi aos pais deles, e eles tiverem comido, se fartado e engordado, então eles se voltarão para outros deuses, os servirão e me desprezarão, anulando a minha aliança.",
+        "21": "E, quando muitos males e angústias os tiverem alcançado, este cântico será minha testemunha contra eles, pois os descendentes deles sempre o trarão na boca. Porque conheço os desígnios que hoje estão formulando, antes que os leve para a terra que, sob juramento, prometi.",
+        "22": "Assim, naquele mesmo dia, Moisés escreveu este cântico e o ensinou aos filhos de Israel.",
+        "23": "O Senhor deu esta ordem a Josué, filho de Num:",
+        "24": "Tendo Moisés acabado de escrever, integralmente, as palavras desta Lei num livro,",
+        "25": "deu ordem aos levitas que levavam a arca da aliança do Senhor , dizendo:",
+        "26": "— Peguem este Livro da Lei e coloquem-no ao lado da arca da aliança do Senhor , seu Deus, para que fique ali como testemunha contra vocês.",
+        "27": "Porque conheço a rebeldia e teimosia de vocês. Porque se hoje, durante a minha vida, enquanto ainda estou aqui, vocês já são rebeldes contra o Senhor , o que vai acontecer depois da minha morte?",
+        "28": "Reúnam diante de mim todos os anciãos das tribos e os oficiais, para que eu fale aos seus ouvidos estas palavras e tome o céu e a terra por testemunhas contra eles.",
+        "29": "Porque sei que, depois da minha morte, vocês certamente se deixarão corromper e se desviarão do caminho que lhes tenho ordenado. Então, nos últimos dias, este mal os alcançará, porque vocês farão o que é mau aos olhos do Senhor , provocando-o à ira com as obras das suas mãos.",
+        "30": "Então Moisés pronunciou, integralmente, as palavras deste cântico aos ouvidos de toda a congregação de Israel:"
     }
-  }
 }

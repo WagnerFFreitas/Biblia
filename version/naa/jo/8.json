@@ -1,94 +1,32 @@
 {
-  "livro": "Jó",
-  "capítulo": 8,
-  "versículos": {
-    "1": {
-      "título": "Busque a Deus",
-      "texto": "Então Bildade, o suíta, tomou a palavra e disse:"
+    "livro": "Jó",
+    "capitulo": 8,
+    "titulos": {
+        "1": "Busque a Deus",
+        "8": "A esperança dos ímpios perecerá"
     },
-    "2": {
-      "título": "",
-      "texto": "“Até quando você falará"
-    },
-    "3": {
-      "título": "",
-      "texto": "Será que Deus"
-    },
-    "4": {
-      "título": "",
-      "texto": "Se os seus filhos"
-    },
-    "5": {
-      "título": "",
-      "texto": "Mas, se você buscar a Deus"
-    },
-    "6": {
-      "título": "",
-      "texto": "se você for puro e reto,"
-    },
-    "7": {
-      "título": "",
-      "texto": "O seu primeiro estado"
-    },
-    "8": {
-      "título": "A esperança dos ímpios perecerá",
-      "texto": "“Por favor, pergunte agora"
-    },
-    "9": {
-      "título": "",
-      "texto": "Porque nós somos de ontem"
-    },
-    "10": {
-      "título": "",
-      "texto": "Será que os pais"
-    },
-    "11": {
-      "título": "",
-      "texto": "‘Pode o papiro crescer"
-    },
-    "12": {
-      "título": "",
-      "texto": "Quando estão verdes,"
-    },
-    "13": {
-      "título": "",
-      "texto": "São assim as veredas de todos"
-    },
-    "14": {
-      "título": "",
-      "texto": "A sua firmeza será frustrada,"
-    },
-    "15": {
-      "título": "",
-      "texto": "Ele se encosta em sua casa,"
-    },
-    "16": {
-      "título": "",
-      "texto": "“Ele é viçoso diante do sol,"
-    },
-    "17": {
-      "título": "",
-      "texto": "as suas raízes se entrelaçam"
-    },
-    "18": {
-      "título": "",
-      "texto": "Mas, se o arrancam do seu lugar,"
-    },
-    "19": {
-      "título": "",
-      "texto": "Eis no que deu a sua vida!"
-    },
-    "20": {
-      "título": "",
-      "texto": "“Eis que Deus não"
-    },
-    "21": {
-      "título": "",
-      "texto": "Ele encherá a sua boca de riso"
-    },
-    "22": {
-      "título": "",
-      "texto": "Os que o odeiam"
+    "versiculos": {
+        "1": "Então Bildade, o suíta, tomou a palavra e disse:",
+        "2": "“Até quando você falará",
+        "3": "Será que Deus",
+        "4": "Se os seus filhos",
+        "5": "Mas, se você buscar a Deus",
+        "6": "se você for puro e reto,",
+        "7": "O seu primeiro estado",
+        "8": "“Por favor, pergunte agora",
+        "9": "Porque nós somos de ontem",
+        "10": "Será que os pais",
+        "11": "‘Pode o papiro crescer",
+        "12": "Quando estão verdes,",
+        "13": "São assim as veredas de todos",
+        "14": "A sua firmeza será frustrada,",
+        "15": "Ele se encosta em sua casa,",
+        "16": "“Ele é viçoso diante do sol,",
+        "17": "as suas raízes se entrelaçam",
+        "18": "Mas, se o arrancam do seu lugar,",
+        "19": "Eis no que deu a sua vida!",
+        "20": "“Eis que Deus não",
+        "21": "Ele encherá a sua boca de riso",
+        "22": "Os que o odeiam"
     }
-  }
 }

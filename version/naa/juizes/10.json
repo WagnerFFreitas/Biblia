@@ -1,78 +1,28 @@
 {
-  "livro": "Juízes",
-  "capítulo": 10,
-  "versículos": {
-    "1": {
-      "título": "Tola e Jair",
-      "texto": "Depois de Abimeleque, Tola, filho de Puá, filho de Dodô, homem de Issacar, se levantou para livrar Israel. Ele morava em Samir, na região montanhosa de Efraim."
+    "livro": "Juízes",
+    "capitulo": 10,
+    "titulos": {
+        "1": "Tola e Jair",
+        "6": "Servidão sob os filisteus e os amonitas"
     },
-    "2": {
-      "título": "",
-      "texto": "Julgou Israel durante vinte e três anos. Depois morreu e foi sepultado em Samir."
-    },
-    "3": {
-      "título": "",
-      "texto": "Depois dele se levantou Jair, gileadita, que julgou Israel durante vinte e dois anos."
-    },
-    "4": {
-      "título": "",
-      "texto": "Ele tinha trinta filhos, que cavalgavam trinta jumentos. E eles tinham trinta cidades, a que chamavam Havote-Jair, até o dia de hoje, as quais estão na terra de Gileade."
-    },
-    "5": {
-      "título": "",
-      "texto": "Jair morreu e foi sepultado em Camom."
-    },
-    "6": {
-      "título": "Servidão sob os filisteus e os amonitas",
-      "texto": "Os filhos de Israel tornaram a fazer o que era mau aos olhos do Senhor e adoraram os baalins, Astarote, os deuses da Síria e os de Sidom, de Moabe, dos filhos de Amom e dos filisteus. Eles abandonaram o Senhor e deixaram de adorá-lo."
-    },
-    "7": {
-      "título": "",
-      "texto": "Então a ira do Senhor se acendeu contra Israel, e ele os entregou nas mãos dos filisteus e nas mãos dos filhos de Amom,"
-    },
-    "8": {
-      "título": "",
-      "texto": "os quais, nesse mesmo ano, esmagaram e oprimiram os filhos de Israel. Durante dezoito anos, oprimiram todos os filhos de Israel que estavam do outro lado do Jordão, na terra dos amorreus, que está em Gileade."
-    },
-    "9": {
-      "título": "",
-      "texto": "Os filhos de Amom passaram o Jordão para lutar também contra Judá, contra Benjamim e contra a casa de Efraim, de maneira que Israel se viu muito angustiado."
-    },
-    "10": {
-      "título": "",
-      "texto": "Então os filhos de Israel clamaram ao Senhor , dizendo:"
-    },
-    "11": {
-      "título": "",
-      "texto": "E o Senhor respondeu aos filhos de Israel:"
-    },
-    "12": {
-      "título": "",
-      "texto": "os sidônios, os amalequitas e os maonitas oprimiam vocês, e vocês clamavam a mim, não é verdade que eu os livrei das mãos deles?"
-    },
-    "13": {
-      "título": "",
-      "texto": "Mas vocês me abandonaram e serviram outros deuses. Por isso não os livrarei mais."
-    },
-    "14": {
-      "título": "",
-      "texto": "Vão e clamem aos deuses que vocês escolheram. Que eles os livrem no tempo do aperto."
-    },
-    "15": {
-      "título": "",
-      "texto": "Mas os filhos de Israel disseram ao Senhor :"
-    },
-    "16": {
-      "título": "",
-      "texto": "E tiraram os deuses estranhos do meio de si e adoraram o Senhor . E ele já não pôde reter a sua compaixão diante da desgraça de Israel."
-    },
-    "17": {
-      "título": "",
-      "texto": "Os filhos de Amom foram convocados e acamparam em Gileade. Os filhos de Israel, por sua vez, se reuniram e acamparam em Mispa."
-    },
-    "18": {
-      "título": "",
-      "texto": "Então o povo, aliás, os chefes de Gileade, disseram uns aos outros:"
+    "versiculos": {
+        "1": "Depois de Abimeleque, Tola, filho de Puá, filho de Dodô, homem de Issacar, se levantou para livrar Israel. Ele morava em Samir, na região montanhosa de Efraim.",
+        "2": "Julgou Israel durante vinte e três anos. Depois morreu e foi sepultado em Samir.",
+        "3": "Depois dele se levantou Jair, gileadita, que julgou Israel durante vinte e dois anos.",
+        "4": "Ele tinha trinta filhos, que cavalgavam trinta jumentos. E eles tinham trinta cidades, a que chamavam Havote-Jair, até o dia de hoje, as quais estão na terra de Gileade.",
+        "5": "Jair morreu e foi sepultado em Camom.",
+        "6": "Os filhos de Israel tornaram a fazer o que era mau aos olhos do Senhor e adoraram os baalins, Astarote, os deuses da Síria e os de Sidom, de Moabe, dos filhos de Amom e dos filisteus. Eles abandonaram o Senhor e deixaram de adorá-lo.",
+        "7": "Então a ira do Senhor se acendeu contra Israel, e ele os entregou nas mãos dos filisteus e nas mãos dos filhos de Amom,",
+        "8": "os quais, nesse mesmo ano, esmagaram e oprimiram os filhos de Israel. Durante dezoito anos, oprimiram todos os filhos de Israel que estavam do outro lado do Jordão, na terra dos amorreus, que está em Gileade.",
+        "9": "Os filhos de Amom passaram o Jordão para lutar também contra Judá, contra Benjamim e contra a casa de Efraim, de maneira que Israel se viu muito angustiado.",
+        "10": "Então os filhos de Israel clamaram ao Senhor , dizendo:",
+        "11": "E o Senhor respondeu aos filhos de Israel:",
+        "12": "os sidônios, os amalequitas e os maonitas oprimiam vocês, e vocês clamavam a mim, não é verdade que eu os livrei das mãos deles?",
+        "13": "Mas vocês me abandonaram e serviram outros deuses. Por isso não os livrarei mais.",
+        "14": "Vão e clamem aos deuses que vocês escolheram. Que eles os livrem no tempo do aperto.",
+        "15": "Mas os filhos de Israel disseram ao Senhor :",
+        "16": "E tiraram os deuses estranhos do meio de si e adoraram o Senhor . E ele já não pôde reter a sua compaixão diante da desgraça de Israel.",
+        "17": "Os filhos de Amom foram convocados e acamparam em Gileade. Os filhos de Israel, por sua vez, se reuniram e acamparam em Mispa.",
+        "18": "Então o povo, aliás, os chefes de Gileade, disseram uns aos outros:"
     }
-  }
 }

@@ -1,58 +1,22 @@
 {
-  "livro": "Isaías",
-  "capítulo": 55,
-  "versículos": {
-    "1": {
-      "título": "O convite gracioso de Deus",
-      "texto": "“Ah! Todos vocês que têm sede,"
+    "livro": "Isaías",
+    "capitulo": 55,
+    "titulos": {
+        "1": "O convite gracioso de Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "Por que vocês gastam o dinheiro"
-    },
-    "3": {
-      "título": "",
-      "texto": "Deem ouvidos e venham a mim;"
-    },
-    "4": {
-      "título": "",
-      "texto": "Eis que eu fiz dele"
-    },
-    "5": {
-      "título": "",
-      "texto": "Eis que você chamará uma nação"
-    },
-    "6": {
-      "título": "",
-      "texto": "Busquem o Senhor"
-    },
-    "7": {
-      "título": "",
-      "texto": "Que o ímpio abandone"
-    },
-    "8": {
-      "título": "",
-      "texto": "“Porque os meus pensamentos"
-    },
-    "9": {
-      "título": "",
-      "texto": "“Porque, assim como os céus"
-    },
-    "10": {
-      "título": "",
-      "texto": "Porque, assim como a chuva"
-    },
-    "11": {
-      "título": "",
-      "texto": "assim será a palavra"
-    },
-    "12": {
-      "título": "",
-      "texto": "“Vocês sairão com alegria"
-    },
-    "13": {
-      "título": "",
-      "texto": "Em lugar do espinheiro,"
+    "versiculos": {
+        "1": "“Ah! Todos vocês que têm sede,",
+        "2": "Por que vocês gastam o dinheiro",
+        "3": "Deem ouvidos e venham a mim;",
+        "4": "Eis que eu fiz dele",
+        "5": "Eis que você chamará uma nação",
+        "6": "Busquem o Senhor",
+        "7": "Que o ímpio abandone",
+        "8": "“Porque os meus pensamentos",
+        "9": "“Porque, assim como os céus",
+        "10": "Porque, assim como a chuva",
+        "11": "assim será a palavra",
+        "12": "“Vocês sairão com alegria",
+        "13": "Em lugar do espinheiro,"
     }
-  }
 }

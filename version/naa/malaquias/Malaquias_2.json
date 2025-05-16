@@ -1,74 +1,28 @@
 {
-  "livro": "Malaquias",
-  "capítulo": 2,
-  "versículos": {
-    "1": {
-      "título": "O castigo dos sacerdotes",
-      "texto": "— E agora, sacerdotes, este mandamento é para vocês."
+    "livro": "Malaquias",
+    "capitulo": 2,
+    "titulos": {
+        "1": "O castigo dos sacerdotes",
+        "10": "Advertência contra a infidelidade conjugal",
+        "17": "O mensageiro do Senhor"
     },
-    "2": {
-      "título": "",
-      "texto": "Se não ouvirem e não se importarem com a necessidade de honrar o meu nome, diz o Senhor dos Exércitos, enviarei sobre vocês a maldição e amaldiçoarei as suas bênçãos. Aliás, já as amaldiçoei, porque vocês não se importaram com a honra devida ao meu nome."
-    },
-    "3": {
-      "título": "",
-      "texto": "Eis que reprovarei a sua descendência, passarei no rosto de vocês o esterco dos animais sacrificados nas suas festas, e vocês serão levados embora com esse esterco."
-    },
-    "4": {
-      "título": "",
-      "texto": "Então vocês saberão que eu lhes enviei este mandamento, para que se mantenha a minha aliança com Levi, diz o Senhor dos Exércitos."
-    },
-    "5": {
-      "título": "",
-      "texto": "— Minha aliança com ele foi de vida e de paz, e foi isso que eu lhe dei, para que me temesse; e, de fato, ele me temeu e tremeu por causa do meu nome."
-    },
-    "6": {
-      "título": "",
-      "texto": "A verdadeira instrução esteve na sua boca, e nenhuma injustiça se achou em seus lábios. Ele andou comigo em paz e em retidão, e afastou muitos da iniquidade."
-    },
-    "7": {
-      "título": "",
-      "texto": "Porque os lábios do sacerdote devem guardar o conhecimento, e da sua boca todos devem buscar a instrução, porque ele é mensageiro do Senhor dos Exércitos."
-    },
-    "8": {
-      "título": "",
-      "texto": "— Mas vocês se desviaram do caminho e, por meio de sua instrução, levaram muitos a tropeçar; vocês violaram a aliança de Levi, diz o Senhor dos Exércitos."
-    },
-    "9": {
-      "título": "",
-      "texto": "Por isso, também eu os fiz desprezíveis e indignos diante de todo o povo, na medida em que vocês não guardaram os meus caminhos e se mostraram parciais na aplicação da lei."
-    },
-    "10": {
-      "título": "Advertência contra a infidelidade conjugal",
-      "texto": "Não temos nós todos o mesmo Pai? Não nos criou o mesmo Deus? Por que, então, seremos desleais uns para com os outros, profanando a aliança de nossos pais?"
-    },
-    "11": {
-      "título": "",
-      "texto": "Judá tem sido infiel, e abominação foi cometida em Israel e em Jerusalém. Porque Judá profanou o santuário do Senhor , o qual ele ama, e se casou com a adoradora de deus estranho."
-    },
-    "12": {
-      "título": "",
-      "texto": "O Senhor eliminará das tendas de Jacó aquele que fizer isso, seja ele quem for, mesmo que apresente ofertas ao Senhor dos Exércitos."
-    },
-    "13": {
-      "título": "",
-      "texto": "Há outra coisa que vocês fazem: cobrem de lágrimas o altar do Senhor , com choro e gemidos, porque ele já não olha para a oferta nem a aceita com prazer."
-    },
-    "14": {
-      "título": "",
-      "texto": "E vocês perguntam: “Por quê?” Porque o Senhor foi testemunha da aliança entre você e a mulher da sua mocidade, a quem você foi infiel, sendo ela a sua companheira e a mulher da sua aliança."
-    },
-    "15": {
-      "título": "",
-      "texto": "Não fez o Senhor somente um, mesmo que lhe sobrasse o espírito? E por que somente um? Porque buscava uma descendência piedosa. Portanto, tenham cuidado para que ninguém seja infiel para com a mulher da sua mocidade."
-    },
-    "16": {
-      "título": "",
-      "texto": "Porque o Senhor , o Deus de Israel, diz que odeia o divórcio e também aquele que cobre de violência as suas roupas, diz o Senhor dos Exércitos. Portanto, tenham cuidado e não sejam infiéis."
-    },
-    "17": {
-      "título": "O mensageiro do Senhor",
-      "texto": "Vocês estão cansando o Senhor com as suas palavras, e ainda perguntam: “Em que nós o cansamos?” Nisso de dizerem: “Aqueles que fazem o mal passam por bons aos olhos do Senhor , e é desses que ele se agrada.” Ou: “Onde está o Deus da justiça?”"
+    "versiculos": {
+        "1": "— E agora, sacerdotes, este mandamento é para vocês.",
+        "2": "Se não ouvirem e não se importarem com a necessidade de honrar o meu nome, diz o Senhor dos Exércitos, enviarei sobre vocês a maldição e amaldiçoarei as suas bênçãos. Aliás, já as amaldiçoei, porque vocês não se importaram com a honra devida ao meu nome.",
+        "3": "Eis que reprovarei a sua descendência, passarei no rosto de vocês o esterco dos animais sacrificados nas suas festas, e vocês serão levados embora com esse esterco.",
+        "4": "Então vocês saberão que eu lhes enviei este mandamento, para que se mantenha a minha aliança com Levi, diz o Senhor dos Exércitos.",
+        "5": "— Minha aliança com ele foi de vida e de paz, e foi isso que eu lhe dei, para que me temesse; e, de fato, ele me temeu e tremeu por causa do meu nome.",
+        "6": "A verdadeira instrução esteve na sua boca, e nenhuma injustiça se achou em seus lábios. Ele andou comigo em paz e em retidão, e afastou muitos da iniquidade.",
+        "7": "Porque os lábios do sacerdote devem guardar o conhecimento, e da sua boca todos devem buscar a instrução, porque ele é mensageiro do Senhor dos Exércitos.",
+        "8": "— Mas vocês se desviaram do caminho e, por meio de sua instrução, levaram muitos a tropeçar; vocês violaram a aliança de Levi, diz o Senhor dos Exércitos.",
+        "9": "Por isso, também eu os fiz desprezíveis e indignos diante de todo o povo, na medida em que vocês não guardaram os meus caminhos e se mostraram parciais na aplicação da lei.",
+        "10": "Não temos nós todos o mesmo Pai? Não nos criou o mesmo Deus? Por que, então, seremos desleais uns para com os outros, profanando a aliança de nossos pais?",
+        "11": "Judá tem sido infiel, e abominação foi cometida em Israel e em Jerusalém. Porque Judá profanou o santuário do Senhor , o qual ele ama, e se casou com a adoradora de deus estranho.",
+        "12": "O Senhor eliminará das tendas de Jacó aquele que fizer isso, seja ele quem for, mesmo que apresente ofertas ao Senhor dos Exércitos.",
+        "13": "Há outra coisa que vocês fazem: cobrem de lágrimas o altar do Senhor , com choro e gemidos, porque ele já não olha para a oferta nem a aceita com prazer.",
+        "14": "E vocês perguntam: “Por quê?” Porque o Senhor foi testemunha da aliança entre você e a mulher da sua mocidade, a quem você foi infiel, sendo ela a sua companheira e a mulher da sua aliança.",
+        "15": "Não fez o Senhor somente um, mesmo que lhe sobrasse o espírito? E por que somente um? Porque buscava uma descendência piedosa. Portanto, tenham cuidado para que ninguém seja infiel para com a mulher da sua mocidade.",
+        "16": "Porque o Senhor , o Deus de Israel, diz que odeia o divórcio e também aquele que cobre de violência as suas roupas, diz o Senhor dos Exércitos. Portanto, tenham cuidado e não sejam infiéis.",
+        "17": "Vocês estão cansando o Senhor com as suas palavras, e ainda perguntam: “Em que nós o cansamos?” Nisso de dizerem: “Aqueles que fazem o mal passam por bons aos olhos do Senhor , e é desses que ele se agrada.” Ou: “Onde está o Deus da justiça?”"
     }
-  }
 }

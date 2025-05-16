@@ -1,54 +1,21 @@
 {
-  "livro": "Salmos",
-  "capítulo": 84,
-  "versículos": {
-    "1": {
-      "título": "Saudades do templo",
-      "texto": "Quão amáveis são"
+    "livro": "Salmos",
+    "capitulo": 84,
+    "titulos": {
+        "1": "Saudades do templo"
     },
-    "2": {
-      "título": "",
-      "texto": "A minha alma suspira e desfalece"
-    },
-    "3": {
-      "título": "",
-      "texto": "O pardal encontrou casa,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Bem-aventurados"
-    },
-    "5": {
-      "título": "",
-      "texto": "Bem-aventurado é aquele"
-    },
-    "6": {
-      "título": "",
-      "texto": "Quando passa pelo vale árido,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Vão indo de força em força;"
-    },
-    "8": {
-      "título": "",
-      "texto": "Senhor , Deus dos Exércitos,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Olha, ó Deus, escudo nosso,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Pois um dia nos teus átrios"
-    },
-    "11": {
-      "título": "",
-      "texto": "Porque o Senhor Deus"
-    },
-    "12": {
-      "título": "",
-      "texto": "Ó Senhor dos Exércitos,"
+    "versiculos": {
+        "1": "Quão amáveis são",
+        "2": "A minha alma suspira e desfalece",
+        "3": "O pardal encontrou casa,",
+        "4": "Bem-aventurados",
+        "5": "Bem-aventurado é aquele",
+        "6": "Quando passa pelo vale árido,",
+        "7": "Vão indo de força em força;",
+        "8": "Senhor , Deus dos Exércitos,",
+        "9": "Olha, ó Deus, escudo nosso,",
+        "10": "Pois um dia nos teus átrios",
+        "11": "Porque o Senhor Deus",
+        "12": "Ó Senhor dos Exércitos,"
     }
-  }
 }

@@ -1,130 +1,41 @@
 {
-  "livro": "Ezequiel",
-  "capítulo": 34,
-  "versículos": {
-    "1": {
-      "título": "Profecia contra os pastores infiéis de Israel",
-      "texto": "A palavra do Senhor veio a mim, dizendo:"
+    "livro": "Ezequiel",
+    "capitulo": 34,
+    "titulos": {
+        "1": "Profecia contra os pastores infiéis de Israel",
+        "11": "O cuidado de Deus pelo seu rebanho"
     },
-    "2": {
-      "título": "",
-      "texto": "— Filho do homem, profetize contra os pastores de Israel; profetize e diga-lhes: Assim diz o Senhor Deus : “Ai dos pastores de Israel que apascentam a si mesmos! Será que os pastores não deveriam apascentar as ovelhas?"
-    },
-    "3": {
-      "título": "",
-      "texto": "Vocês comem a gordura, vestem-se da lã e matam as melhores ovelhas para comer, mas não apascentam o rebanho."
-    },
-    "4": {
-      "título": "",
-      "texto": "Vocês não fortaleceram as fracas, não curaram as doentes, não enfaixaram as quebradas, não trouxeram de volta as desgarradas e não buscaram as perdidas, mas dominam sobre elas com força e tirania."
-    },
-    "5": {
-      "título": "",
-      "texto": "Assim, elas se espalharam, por não haver pastor, e se tornaram pasto para todos os animais selvagens."
-    },
-    "6": {
-      "título": "",
-      "texto": "As minhas ovelhas andam desgarradas por todos os montes e por todas as colinas. As minhas ovelhas andam espalhadas por toda a terra, sem haver quem as procure ou quem as busque.”"
-    },
-    "7": {
-      "título": "",
-      "texto": "— Por isso, pastores, ouçam a palavra do Senhor :"
-    },
-    "8": {
-      "título": "",
-      "texto": "“Tão certo como eu vivo, diz o Senhor Deus , visto que as minhas ovelhas foram entregues à rapina e se tornaram pasto para todos os animais selvagens, por não haver pastor, e que os meus pastores não procuram as minhas ovelhas, pois apascentam a si mesmos e não apascentam as minhas ovelhas,"
-    },
-    "9": {
-      "título": "",
-      "texto": "por isso, pastores, ouçam a palavra do Senhor :"
-    },
-    "10": {
-      "título": "",
-      "texto": "Assim diz o Senhor Deus : Eis que estou contra os pastores e lhes pedirei contas das minhas ovelhas. Farei com que deixem de apascentar ovelhas, e não apascentarão mais a si mesmos. Livrarei as minhas ovelhas da sua boca, para que já não lhes sirvam de comida.”"
-    },
-    "11": {
-      "título": "O cuidado de Deus pelo seu rebanho",
-      "texto": "— Porque assim diz o Senhor Deus : “Eis que eu mesmo procurarei as minhas ovelhas e as buscarei."
-    },
-    "12": {
-      "título": "",
-      "texto": "Como o pastor busca o seu rebanho, no dia em que encontra ovelhas dispersas, assim buscarei as minhas ovelhas. Eu as livrarei de todos os lugares por onde foram espalhadas no dia de nuvens e densas trevas."
-    },
-    "13": {
-      "título": "",
-      "texto": "Vou tirá-las do meio dos povos, e as congregarei dos diversos países, e as trarei de volta à sua terra. Vou apascentá-las nos montes de Israel, junto às correntes de água e em todos os lugares habitados da terra."
-    },
-    "14": {
-      "título": "",
-      "texto": "Deixarei que pastem em bons pastos, e nos altos montes de Israel será a sua pastagem. Ali elas se deitarão em boa pastagem e terão pastos bons nos montes de Israel."
-    },
-    "15": {
-      "título": "",
-      "texto": "Eu mesmo apascentarei as minhas ovelhas e as farei repousar, diz o Senhor Deus ."
-    },
-    "16": {
-      "título": "",
-      "texto": "Buscarei as perdidas, trarei de volta as desgarradas, enfaixarei as quebradas e curarei as doentes; mas destruirei as gordas e fortes. Eu as apascentarei com justiça.”"
-    },
-    "17": {
-      "título": "",
-      "texto": "— Quanto a vocês, minhas ovelhas, assim diz o Senhor Deus : “Eis que julgarei entre ovelhas e ovelhas, entre carneiros e bodes."
-    },
-    "18": {
-      "título": "",
-      "texto": "Será que não lhes basta a boa pastagem? Ainda precisam pisar aos pés o resto do seu pasto? E não lhes basta o fato de terem bebido a água limpa? Ainda precisam turvar o resto com os pés?"
-    },
-    "19": {
-      "título": "",
-      "texto": "As minhas ovelhas têm de comer o que vocês pisaram com os pés e beber o que vocês turvaram com os pés.”"
-    },
-    "20": {
-      "título": "",
-      "texto": "— Por isso, assim lhes diz o Senhor Deus : “Eis que eu mesmo julgarei entre ovelhas gordas e ovelhas magras."
-    },
-    "21": {
-      "título": "",
-      "texto": "Visto que, com o lado e com o ombro, vocês dão empurrões e, com os chifres, rechaçam todas as ovelhas fracas até que as tenham espalhado por toda parte,"
-    },
-    "22": {
-      "título": "",
-      "texto": "eu livrarei as minhas ovelhas, para que não mais sirvam de rapina, e julgarei entre ovelhas e ovelhas."
-    },
-    "23": {
-      "título": "",
-      "texto": "Porei sobre elas um só pastor, e ele as apascentará: o meu servo Davi. Ele as apascentará e será o seu pastor."
-    },
-    "24": {
-      "título": "",
-      "texto": "Eu, o Senhor , serei o seu Deus, e o meu servo Davi será príncipe no meio delas. Eu, o Senhor , falei.”"
-    },
-    "25": {
-      "título": "",
-      "texto": "— “Farei uma aliança de paz com as minhas ovelhas. Livrarei a terra de animais selvagens, para que as minhas ovelhas vivam em segurança no deserto e durmam nos bosques."
-    },
-    "26": {
-      "título": "",
-      "texto": "Delas e dos lugares ao redor do meu monte, eu farei uma bênção. Farei descer a chuva a seu tempo; serão chuvas de bênção."
-    },
-    "27": {
-      "título": "",
-      "texto": "As árvores do campo darão o seu fruto, e a terra dará as suas colheitas. As ovelhas estarão seguras na sua terra e saberão que eu sou o Senhor , quando eu quebrar o jugo que pesava sobre elas e as livrar das mãos dos que as escravizavam."
-    },
-    "28": {
-      "título": "",
-      "texto": "Já não servirão de rapina aos gentios, nem serão devoradas por animais selvagens. Viverão em segurança, e não haverá quem as espante."
-    },
-    "29": {
-      "título": "",
-      "texto": "Eu lhes darei plantação memorável, e nunca mais serão vítimas de fome na terra, nem terão de suportar a zombaria das outras nações."
-    },
-    "30": {
-      "título": "",
-      "texto": "Saberão que eu, o Senhor , seu Deus, estou com elas e que elas são o meu povo, a casa de Israel”, diz o Senhor Deus ."
-    },
-    "31": {
-      "título": "",
-      "texto": "— “Vocês são as minhas ovelhas, ovelhas do meu pasto. Vocês são o meu povo, e eu sou o seu Deus”, diz o Senhor Deus ."
+    "versiculos": {
+        "1": "A palavra do Senhor veio a mim, dizendo:",
+        "2": "— Filho do homem, profetize contra os pastores de Israel; profetize e diga-lhes: Assim diz o Senhor Deus : “Ai dos pastores de Israel que apascentam a si mesmos! Será que os pastores não deveriam apascentar as ovelhas?",
+        "3": "Vocês comem a gordura, vestem-se da lã e matam as melhores ovelhas para comer, mas não apascentam o rebanho.",
+        "4": "Vocês não fortaleceram as fracas, não curaram as doentes, não enfaixaram as quebradas, não trouxeram de volta as desgarradas e não buscaram as perdidas, mas dominam sobre elas com força e tirania.",
+        "5": "Assim, elas se espalharam, por não haver pastor, e se tornaram pasto para todos os animais selvagens.",
+        "6": "As minhas ovelhas andam desgarradas por todos os montes e por todas as colinas. As minhas ovelhas andam espalhadas por toda a terra, sem haver quem as procure ou quem as busque.”",
+        "7": "— Por isso, pastores, ouçam a palavra do Senhor :",
+        "8": "“Tão certo como eu vivo, diz o Senhor Deus , visto que as minhas ovelhas foram entregues à rapina e se tornaram pasto para todos os animais selvagens, por não haver pastor, e que os meus pastores não procuram as minhas ovelhas, pois apascentam a si mesmos e não apascentam as minhas ovelhas,",
+        "9": "por isso, pastores, ouçam a palavra do Senhor :",
+        "10": "Assim diz o Senhor Deus : Eis que estou contra os pastores e lhes pedirei contas das minhas ovelhas. Farei com que deixem de apascentar ovelhas, e não apascentarão mais a si mesmos. Livrarei as minhas ovelhas da sua boca, para que já não lhes sirvam de comida.”",
+        "11": "— Porque assim diz o Senhor Deus : “Eis que eu mesmo procurarei as minhas ovelhas e as buscarei.",
+        "12": "Como o pastor busca o seu rebanho, no dia em que encontra ovelhas dispersas, assim buscarei as minhas ovelhas. Eu as livrarei de todos os lugares por onde foram espalhadas no dia de nuvens e densas trevas.",
+        "13": "Vou tirá-las do meio dos povos, e as congregarei dos diversos países, e as trarei de volta à sua terra. Vou apascentá-las nos montes de Israel, junto às correntes de água e em todos os lugares habitados da terra.",
+        "14": "Deixarei que pastem em bons pastos, e nos altos montes de Israel será a sua pastagem. Ali elas se deitarão em boa pastagem e terão pastos bons nos montes de Israel.",
+        "15": "Eu mesmo apascentarei as minhas ovelhas e as farei repousar, diz o Senhor Deus .",
+        "16": "Buscarei as perdidas, trarei de volta as desgarradas, enfaixarei as quebradas e curarei as doentes; mas destruirei as gordas e fortes. Eu as apascentarei com justiça.”",
+        "17": "— Quanto a vocês, minhas ovelhas, assim diz o Senhor Deus : “Eis que julgarei entre ovelhas e ovelhas, entre carneiros e bodes.",
+        "18": "Será que não lhes basta a boa pastagem? Ainda precisam pisar aos pés o resto do seu pasto? E não lhes basta o fato de terem bebido a água limpa? Ainda precisam turvar o resto com os pés?",
+        "19": "As minhas ovelhas têm de comer o que vocês pisaram com os pés e beber o que vocês turvaram com os pés.”",
+        "20": "— Por isso, assim lhes diz o Senhor Deus : “Eis que eu mesmo julgarei entre ovelhas gordas e ovelhas magras.",
+        "21": "Visto que, com o lado e com o ombro, vocês dão empurrões e, com os chifres, rechaçam todas as ovelhas fracas até que as tenham espalhado por toda parte,",
+        "22": "eu livrarei as minhas ovelhas, para que não mais sirvam de rapina, e julgarei entre ovelhas e ovelhas.",
+        "23": "Porei sobre elas um só pastor, e ele as apascentará: o meu servo Davi. Ele as apascentará e será o seu pastor.",
+        "24": "Eu, o Senhor , serei o seu Deus, e o meu servo Davi será príncipe no meio delas. Eu, o Senhor , falei.”",
+        "25": "— “Farei uma aliança de paz com as minhas ovelhas. Livrarei a terra de animais selvagens, para que as minhas ovelhas vivam em segurança no deserto e durmam nos bosques.",
+        "26": "Delas e dos lugares ao redor do meu monte, eu farei uma bênção. Farei descer a chuva a seu tempo; serão chuvas de bênção.",
+        "27": "As árvores do campo darão o seu fruto, e a terra dará as suas colheitas. As ovelhas estarão seguras na sua terra e saberão que eu sou o Senhor , quando eu quebrar o jugo que pesava sobre elas e as livrar das mãos dos que as escravizavam.",
+        "28": "Já não servirão de rapina aos gentios, nem serão devoradas por animais selvagens. Viverão em segurança, e não haverá quem as espante.",
+        "29": "Eu lhes darei plantação memorável, e nunca mais serão vítimas de fome na terra, nem terão de suportar a zombaria das outras nações.",
+        "30": "Saberão que eu, o Senhor , seu Deus, estou com elas e que elas são o meu povo, a casa de Israel”, diz o Senhor Deus .",
+        "31": "— “Vocês são as minhas ovelhas, ovelhas do meu pasto. Vocês são o meu povo, e eu sou o seu Deus”, diz o Senhor Deus ."
     }
-  }
 }

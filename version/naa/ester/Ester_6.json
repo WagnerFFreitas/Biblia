@@ -1,62 +1,23 @@
 {
-  "livro": "Ester",
-  "capítulo": 6,
-  "versículos": {
-    "1": {
-      "título": "Hamã é forçado a honrar Mordecai",
-      "texto": "Naquela noite, o rei não pôde dormir. Então mandou buscar o Livro dos Feitos Memoráveis, que foi lido diante do rei."
+    "livro": "Ester",
+    "capitulo": 6,
+    "titulos": {
+        "1": "Hamã é forçado a honrar Mordecai"
     },
-    "2": {
-      "título": "",
-      "texto": "Achou-se escrito que Mordecai é quem havia denunciado Bigtã e Teres, os dois eunucos do rei, guardas da porta, que tinham planejado matar o rei Assuero."
-    },
-    "3": {
-      "título": "",
-      "texto": "Então o rei perguntou:"
-    },
-    "4": {
-      "título": "",
-      "texto": "O rei perguntou:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Os servos do rei lhe disseram:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Hamã entrou. E o rei lhe perguntou:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Por isso ele respondeu ao rei:"
-    },
-    "8": {
-      "título": "",
-      "texto": "que sejam trazidos os trajes reais, que o rei costuma usar, e o cavalo em que o rei costuma andar montado e sobre cuja cabeça tenha sido colocada uma coroa real."
-    },
-    "9": {
-      "título": "",
-      "texto": "Que os trajes e o cavalo sejam entregues a um dos mais nobres oficiais do rei, para que se encarregue de vestir aquele a quem o rei deseja honrar. Depois, que o leve a cavalo pela praça da cidade, proclamando em voz alta: “É isto que se faz ao homem a quem o rei deseja honrar.”"
-    },
-    "10": {
-      "título": "",
-      "texto": "Então o rei disse a Hamã:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Hamã pegou os trajes e o cavalo, vestiu Mordecai, e o levou a cavalo pela praça da cidade, proclamando em voz alta: “É isto que se faz ao homem a quem o rei deseja honrar.”"
-    },
-    "12": {
-      "título": "",
-      "texto": "Depois disto, Mordecai voltou para a porta do rei, enquanto Hamã foi correndo para casa, angustiado e de cabeça coberta."
-    },
-    "13": {
-      "título": "",
-      "texto": "Hamã contou a Zeres, sua mulher, e a todos os seus amigos tudo o que tinha acontecido com ele. Então os seus amigos, que eram sábios, e Zeres, sua mulher, disseram:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Enquanto estes ainda falavam com ele, os eunucos do rei chegaram e, sem demora, levaram Hamã ao banquete que Ester havia preparado."
+    "versiculos": {
+        "1": "Naquela noite, o rei não pôde dormir. Então mandou buscar o Livro dos Feitos Memoráveis, que foi lido diante do rei.",
+        "2": "Achou-se escrito que Mordecai é quem havia denunciado Bigtã e Teres, os dois eunucos do rei, guardas da porta, que tinham planejado matar o rei Assuero.",
+        "3": "Então o rei perguntou:",
+        "4": "O rei perguntou:",
+        "5": "Os servos do rei lhe disseram:",
+        "6": "Hamã entrou. E o rei lhe perguntou:",
+        "7": "Por isso ele respondeu ao rei:",
+        "8": "que sejam trazidos os trajes reais, que o rei costuma usar, e o cavalo em que o rei costuma andar montado e sobre cuja cabeça tenha sido colocada uma coroa real.",
+        "9": "Que os trajes e o cavalo sejam entregues a um dos mais nobres oficiais do rei, para que se encarregue de vestir aquele a quem o rei deseja honrar. Depois, que o leve a cavalo pela praça da cidade, proclamando em voz alta: “É isto que se faz ao homem a quem o rei deseja honrar.”",
+        "10": "Então o rei disse a Hamã:",
+        "11": "Hamã pegou os trajes e o cavalo, vestiu Mordecai, e o levou a cavalo pela praça da cidade, proclamando em voz alta: “É isto que se faz ao homem a quem o rei deseja honrar.”",
+        "12": "Depois disto, Mordecai voltou para a porta do rei, enquanto Hamã foi correndo para casa, angustiado e de cabeça coberta.",
+        "13": "Hamã contou a Zeres, sua mulher, e a todos os seus amigos tudo o que tinha acontecido com ele. Então os seus amigos, que eram sábios, e Zeres, sua mulher, disseram:",
+        "14": "Enquanto estes ainda falavam com ele, os eunucos do rei chegaram e, sem demora, levaram Hamã ao banquete que Ester havia preparado."
     }
-  }
 }

@@ -1,214 +1,67 @@
 {
-  "livro": "Marcos",
-  "capítulo": 10,
-  "versículos": {
-    "1": {
-      "título": "A respeito do divórcio",
-      "texto": "Saindo dali, Jesus foi para o território da Judeia e para além do Jordão. E outra vez as multidões se reuniram junto a ele, e, de novo, ele as ensinava, segundo o seu costume."
+    "livro": "Marcos",
+    "capitulo": 10,
+    "titulos": {
+        "1": "A respeito do divórcio",
+        "13": "Jesus abençoa as crianças",
+        "17": "O jovem rico",
+        "23": "O perigo das riquezas",
+        "32": "Jesus ainda outra vez prediz sua morte e ressurreição",
+        "35": "O pedido de Tiago e João",
+        "46": "A cura do cego de Jericó"
     },
-    "2": {
-      "título": "",
-      "texto": "E, aproximando-se alguns fariseus, o puseram à prova, perguntando:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Eles disseram:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Mas Jesus lhes disse:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Porém, desde o princípio da criação, Deus os fez homem e mulher."
-    },
-    "7": {
-      "título": "",
-      "texto": "“Por isso o homem deixará o seu pai e a sua mãe e se unirá à sua mulher,"
-    },
-    "8": {
-      "título": "",
-      "texto": "tornando-se os dois uma só carne.” De modo que já não são mais dois, porém uma só carne."
-    },
-    "9": {
-      "título": "",
-      "texto": "Portanto, que ninguém separe o que Deus ajuntou."
-    },
-    "10": {
-      "título": "",
-      "texto": "Em casa, os discípulos voltaram a fazer perguntas sobre esse assunto."
-    },
-    "11": {
-      "título": "",
-      "texto": "E Jesus lhes disse:"
-    },
-    "12": {
-      "título": "",
-      "texto": "E, se ela repudiar o seu marido e casar com outro, comete adultério."
-    },
-    "13": {
-      "título": "Jesus abençoa as crianças",
-      "texto": "Então trouxeram algumas crianças a Jesus para que as abençoasse, mas os discípulos os repreendiam."
-    },
-    "14": {
-      "título": "",
-      "texto": "Jesus, porém, vendo isto, indignou-se e disse-lhes:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Em verdade lhes digo: Quem não receber o Reino de Deus como uma criança de maneira nenhuma entrará nele."
-    },
-    "16": {
-      "título": "",
-      "texto": "Então, tomando as crianças nos braços e impondo-lhes as mãos, as abençoava."
-    },
-    "17": {
-      "título": "O jovem rico",
-      "texto": "Pondo-se Jesus a caminho, um homem correu ao seu encontro e, ajoelhando-se diante dele, perguntou-lhe:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "19": {
-      "título": "",
-      "texto": "Você conhece os mandamentos: “Não mate, não cometa adultério, não furte, não dê falso testemunho, não defraude ninguém, honre o seu pai e a sua mãe.”"
-    },
-    "20": {
-      "título": "",
-      "texto": "Então o homem respondeu:"
-    },
-    "21": {
-      "título": "",
-      "texto": "E Jesus, olhando para ele com amor, disse:"
-    },
-    "22": {
-      "título": "",
-      "texto": "Ele, porém, contrariado com esta palavra, retirou-se triste, porque era dono de muitas propriedades."
-    },
-    "23": {
-      "título": "O perigo das riquezas",
-      "texto": "Então Jesus, olhando ao redor, disse aos seus discípulos:"
-    },
-    "24": {
-      "título": "",
-      "texto": "Os discípulos estranharam estas palavras, mas Jesus insistiu em dizer-lhes:"
-    },
-    "25": {
-      "título": "",
-      "texto": "É mais fácil um camelo passar pelo fundo de uma agulha do que um rico entrar no Reino de Deus."
-    },
-    "26": {
-      "título": "",
-      "texto": "Eles ficaram muito admirados, dizendo entre si:"
-    },
-    "27": {
-      "título": "",
-      "texto": "Jesus, olhando para eles, disse:"
-    },
-    "28": {
-      "título": "",
-      "texto": "Então Pedro começou a dizer-lhe:"
-    },
-    "29": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "30": {
-      "título": "",
-      "texto": "que não receba, já no presente, cem vezes mais casas, irmãos, irmãs, mães, filhos e campos, com perseguições; e, no mundo por vir, receberá a vida eterna."
-    },
-    "31": {
-      "título": "",
-      "texto": "Porém muitos primeiros serão últimos, e os últimos serão primeiros."
-    },
-    "32": {
-      "título": "Jesus ainda outra vez prediz sua morte e ressurreição",
-      "texto": "Estavam a caminho, subindo para Jerusalém, e Jesus ia adiante dos seus discípulos. Estes se admiravam e o seguiam tomados de apreensões. E Jesus, chamando outra vez os doze para um lado, começou a revelar-lhes as coisas que deviam acontecer com ele, dizendo:"
-    },
-    "33": {
-      "título": "",
-      "texto": "— Eis que subimos para Jerusalém, e o Filho do Homem será entregue aos principais sacerdotes e aos escribas. Eles vão condená-lo à morte e entregá-lo aos gentios."
-    },
-    "34": {
-      "título": "",
-      "texto": "Vão zombar dele, cuspir nele, açoitá-lo e matá-lo; mas, depois de três dias, ressuscitará."
-    },
-    "35": {
-      "título": "O pedido de Tiago e João",
-      "texto": "Então se aproximaram dele Tiago e João, filhos de Zebedeu, dizendo:"
-    },
-    "36": {
-      "título": "",
-      "texto": "E Jesus lhes perguntou:"
-    },
-    "37": {
-      "título": "",
-      "texto": "Eles responderam:"
-    },
-    "38": {
-      "título": "",
-      "texto": "Mas Jesus lhes disse:"
-    },
-    "39": {
-      "título": "",
-      "texto": "Eles responderam:"
-    },
-    "40": {
-      "título": "",
-      "texto": "Quanto a sentar à minha direita ou à minha esquerda, não me compete concedê-lo, pois é para aqueles a quem está preparado."
-    },
-    "41": {
-      "título": "",
-      "texto": "Quando os outros dez discípulos ouviram isso, começaram a ficar indignados com Tiago e João."
-    },
-    "42": {
-      "título": "",
-      "texto": "Mas Jesus, chamando todos para junto de si, disse:"
-    },
-    "43": {
-      "título": "",
-      "texto": "Mas entre vocês não é assim; pelo contrário, quem quiser tornar-se grande entre vocês, que se coloque a serviço dos outros;"
-    },
-    "44": {
-      "título": "",
-      "texto": "e quem quiser ser o primeiro entre vocês, que seja servo de todos."
-    },
-    "45": {
-      "título": "",
-      "texto": "Pois o próprio Filho do Homem não veio para ser servido, mas para servir e dar a sua vida em resgate por muitos."
-    },
-    "46": {
-      "título": "A cura do cego de Jericó",
-      "texto": "E foram para Jericó. Quando Jesus saía de Jericó, juntamente com os discípulos e numerosa multidão, Bartimeu, um cego mendigo, filho de Timeu, estava sentado à beira do caminho"
-    },
-    "47": {
-      "título": "",
-      "texto": "e, ouvindo que era Jesus, o Nazareno, começou a gritar:"
-    },
-    "48": {
-      "título": "",
-      "texto": "E muitos o repreendiam para que se calasse, mas ele gritava cada vez mais:"
-    },
-    "49": {
-      "título": "",
-      "texto": "Jesus parou e disse:"
-    },
-    "50": {
-      "título": "",
-      "texto": "Atirando a capa para o lado, o cego levantou-se de um salto e foi até onde estava Jesus,"
-    },
-    "51": {
-      "título": "",
-      "texto": "que lhe perguntou:"
-    },
-    "52": {
-      "título": "",
-      "texto": "Então Jesus lhe disse:"
+    "versiculos": {
+        "1": "Saindo dali, Jesus foi para o território da Judeia e para além do Jordão. E outra vez as multidões se reuniram junto a ele, e, de novo, ele as ensinava, segundo o seu costume.",
+        "2": "E, aproximando-se alguns fariseus, o puseram à prova, perguntando:",
+        "3": "Jesus respondeu:",
+        "4": "Eles disseram:",
+        "5": "Mas Jesus lhes disse:",
+        "6": "Porém, desde o princípio da criação, Deus os fez homem e mulher.",
+        "7": "“Por isso o homem deixará o seu pai e a sua mãe e se unirá à sua mulher,",
+        "8": "tornando-se os dois uma só carne.” De modo que já não são mais dois, porém uma só carne.",
+        "9": "Portanto, que ninguém separe o que Deus ajuntou.",
+        "10": "Em casa, os discípulos voltaram a fazer perguntas sobre esse assunto.",
+        "11": "E Jesus lhes disse:",
+        "12": "E, se ela repudiar o seu marido e casar com outro, comete adultério.",
+        "13": "Então trouxeram algumas crianças a Jesus para que as abençoasse, mas os discípulos os repreendiam.",
+        "14": "Jesus, porém, vendo isto, indignou-se e disse-lhes:",
+        "15": "Em verdade lhes digo: Quem não receber o Reino de Deus como uma criança de maneira nenhuma entrará nele.",
+        "16": "Então, tomando as crianças nos braços e impondo-lhes as mãos, as abençoava.",
+        "17": "Pondo-se Jesus a caminho, um homem correu ao seu encontro e, ajoelhando-se diante dele, perguntou-lhe:",
+        "18": "Jesus respondeu:",
+        "19": "Você conhece os mandamentos: “Não mate, não cometa adultério, não furte, não dê falso testemunho, não defraude ninguém, honre o seu pai e a sua mãe.”",
+        "20": "Então o homem respondeu:",
+        "21": "E Jesus, olhando para ele com amor, disse:",
+        "22": "Ele, porém, contrariado com esta palavra, retirou-se triste, porque era dono de muitas propriedades.",
+        "23": "Então Jesus, olhando ao redor, disse aos seus discípulos:",
+        "24": "Os discípulos estranharam estas palavras, mas Jesus insistiu em dizer-lhes:",
+        "25": "É mais fácil um camelo passar pelo fundo de uma agulha do que um rico entrar no Reino de Deus.",
+        "26": "Eles ficaram muito admirados, dizendo entre si:",
+        "27": "Jesus, olhando para eles, disse:",
+        "28": "Então Pedro começou a dizer-lhe:",
+        "29": "Jesus respondeu:",
+        "30": "que não receba, já no presente, cem vezes mais casas, irmãos, irmãs, mães, filhos e campos, com perseguições; e, no mundo por vir, receberá a vida eterna.",
+        "31": "Porém muitos primeiros serão últimos, e os últimos serão primeiros.",
+        "32": "Estavam a caminho, subindo para Jerusalém, e Jesus ia adiante dos seus discípulos. Estes se admiravam e o seguiam tomados de apreensões. E Jesus, chamando outra vez os doze para um lado, começou a revelar-lhes as coisas que deviam acontecer com ele, dizendo:",
+        "33": "— Eis que subimos para Jerusalém, e o Filho do Homem será entregue aos principais sacerdotes e aos escribas. Eles vão condená-lo à morte e entregá-lo aos gentios.",
+        "34": "Vão zombar dele, cuspir nele, açoitá-lo e matá-lo; mas, depois de três dias, ressuscitará.",
+        "35": "Então se aproximaram dele Tiago e João, filhos de Zebedeu, dizendo:",
+        "36": "E Jesus lhes perguntou:",
+        "37": "Eles responderam:",
+        "38": "Mas Jesus lhes disse:",
+        "39": "Eles responderam:",
+        "40": "Quanto a sentar à minha direita ou à minha esquerda, não me compete concedê-lo, pois é para aqueles a quem está preparado.",
+        "41": "Quando os outros dez discípulos ouviram isso, começaram a ficar indignados com Tiago e João.",
+        "42": "Mas Jesus, chamando todos para junto de si, disse:",
+        "43": "Mas entre vocês não é assim; pelo contrário, quem quiser tornar-se grande entre vocês, que se coloque a serviço dos outros;",
+        "44": "e quem quiser ser o primeiro entre vocês, que seja servo de todos.",
+        "45": "Pois o próprio Filho do Homem não veio para ser servido, mas para servir e dar a sua vida em resgate por muitos.",
+        "46": "E foram para Jericó. Quando Jesus saía de Jericó, juntamente com os discípulos e numerosa multidão, Bartimeu, um cego mendigo, filho de Timeu, estava sentado à beira do caminho",
+        "47": "e, ouvindo que era Jesus, o Nazareno, começou a gritar:",
+        "48": "E muitos o repreendiam para que se calasse, mas ele gritava cada vez mais:",
+        "49": "Jesus parou e disse:",
+        "50": "Atirando a capa para o lado, o cego levantou-se de um salto e foi até onde estava Jesus,",
+        "51": "que lhe perguntou:",
+        "52": "Então Jesus lhe disse:"
     }
-  }
 }

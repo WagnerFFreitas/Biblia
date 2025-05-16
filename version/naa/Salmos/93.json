@@ -1,26 +1,14 @@
 {
-  "livro": "Salmos",
-  "capítulo": 93,
-  "versículos": {
-    "1": {
-      "título": "O poder e a majestade de Deus",
-      "texto": "Reina o Senhor ."
+    "livro": "Salmos",
+    "capitulo": 93,
+    "titulos": {
+        "1": "O poder e a majestade de Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "O teu trono está firme"
-    },
-    "3": {
-      "título": "",
-      "texto": "Levantam os rios, ó Senhor ,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Mas o Senhor nas alturas"
-    },
-    "5": {
-      "título": "",
-      "texto": "Os teus testemunhos"
+    "versiculos": {
+        "1": "Reina o Senhor .",
+        "2": "O teu trono está firme",
+        "3": "Levantam os rios, ó Senhor ,",
+        "4": "Mas o Senhor nas alturas",
+        "5": "Os teus testemunhos"
     }
-  }
 }

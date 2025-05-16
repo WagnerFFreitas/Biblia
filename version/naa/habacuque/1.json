@@ -1,74 +1,28 @@
 {
-  "livro": "Habacuque",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Sentença revelada ao profeta Habacuque."
+    "livro": "Habacuque",
+    "capitulo": 1,
+    "titulos": {
+        "2": "A queixa de Habacuque",
+        "5": "A resposta de Deus",
+        "12": "Habacuque se queixa de novo"
     },
-    "2": {
-      "título": "A queixa de Habacuque",
-      "texto": "Até quando, Senhor ,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Por que me fazes ver"
-    },
-    "4": {
-      "título": "",
-      "texto": "Por isso, a lei se afrouxa"
-    },
-    "5": {
-      "título": "A resposta de Deus",
-      "texto": "“Olhem entre as nações e vejam;"
-    },
-    "6": {
-      "título": "",
-      "texto": "Pois eis que trago os caldeus,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Eles são pavorosos e terríveis;"
-    },
-    "8": {
-      "título": "",
-      "texto": "Os seus cavalos são mais ligeiros"
-    },
-    "9": {
-      "título": "",
-      "texto": "Eles todos vêm"
-    },
-    "10": {
-      "título": "",
-      "texto": "Zombam dos reis;"
-    },
-    "11": {
-      "título": "",
-      "texto": "Então passam"
-    },
-    "12": {
-      "título": "Habacuque se queixa de novo",
-      "texto": "Não és tu desde a eternidade,"
-    },
-    "13": {
-      "título": "",
-      "texto": "Tu és tão puro de olhos,"
-    },
-    "14": {
-      "título": "",
-      "texto": "Por que tratas as pessoas"
-    },
-    "15": {
-      "título": "",
-      "texto": "O inimigo pesca todos"
-    },
-    "16": {
-      "título": "",
-      "texto": "Por isso, ele oferece sacrifício"
-    },
-    "17": {
-      "título": "",
-      "texto": "Mas será que ele continuará"
+    "versiculos": {
+        "1": "Sentença revelada ao profeta Habacuque.",
+        "2": "Até quando, Senhor ,",
+        "3": "Por que me fazes ver",
+        "4": "Por isso, a lei se afrouxa",
+        "5": "“Olhem entre as nações e vejam;",
+        "6": "Pois eis que trago os caldeus,",
+        "7": "Eles são pavorosos e terríveis;",
+        "8": "Os seus cavalos são mais ligeiros",
+        "9": "Eles todos vêm",
+        "10": "Zombam dos reis;",
+        "11": "Então passam",
+        "12": "Não és tu desde a eternidade,",
+        "13": "Tu és tão puro de olhos,",
+        "14": "Por que tratas as pessoas",
+        "15": "O inimigo pesca todos",
+        "16": "Por isso, ele oferece sacrifício",
+        "17": "Mas será que ele continuará"
     }
-  }
 }

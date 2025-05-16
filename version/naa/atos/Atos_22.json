@@ -1,126 +1,41 @@
 {
-  "livro": "Atos",
-  "capítulo": 22,
-  "versículos": {
-    "1": {
-      "título": "Paulo apresenta a sua defesa",
-      "texto": "— Irmãos e pais, escutem agora o que tenho a dizer em minha defesa."
+    "livro": "Atos",
+    "capitulo": 22,
+    "titulos": {
+        "1": "Paulo apresenta a sua defesa",
+        "22": "Paulo livra-se de ser açoitado",
+        "30": "Paulo diante do Sinédrio"
     },
-    "2": {
-      "título": "",
-      "texto": "Quando ouviram que Paulo lhes falava em língua hebraica, fizeram mais silêncio ainda. Paulo continuou:"
-    },
-    "3": {
-      "título": "",
-      "texto": "— Eu sou judeu, nasci em Tarso da Cilícia, mas fui criado nesta cidade e aqui fui instruído aos pés de Gamaliel, segundo o rigor da Lei de nossos antepassados, sendo zeloso para com Deus, assim como todos vocês o são no dia de hoje."
-    },
-    "4": {
-      "título": "",
-      "texto": "Persegui este Caminho até a morte, prendendo homens e mulheres e lançando-os na cadeia."
-    },
-    "5": {
-      "título": "",
-      "texto": "Disto são testemunhas o sumo sacerdote e todos os anciãos. Deles eu recebi cartas para os irmãos judeus de Damasco, e fui até lá para trazer amarrados a Jerusalém os que também lá estivessem, para serem punidos."
-    },
-    "6": {
-      "título": "",
-      "texto": "— Ora, aconteceu que, enquanto eu viajava, já perto de Damasco, quase ao meio-dia, repentinamente, uma grande luz do céu brilhou ao redor de mim."
-    },
-    "7": {
-      "título": "",
-      "texto": "Então caí por terra, ouvindo uma voz que me dizia: “Saulo, Saulo, por que você me persegue?”"
-    },
-    "8": {
-      "título": "",
-      "texto": "Perguntei: “Senhor, quem é você?” Ao que me respondeu: “Eu sou Jesus, o Nazareno, a quem você persegue.”"
-    },
-    "9": {
-      "título": "",
-      "texto": "— Os que estavam comigo viram a luz, sem, contudo, perceber o sentido da voz de quem falava comigo."
-    },
-    "10": {
-      "título": "",
-      "texto": "Então perguntei: “Senhor, o que devo fazer?” E o Senhor me disse: “Levante-se, entre em Damasco, onde lhe dirão tudo o que você precisa fazer.”"
-    },
-    "11": {
-      "título": "",
-      "texto": "Tendo ficado cego por causa da intensidade daquela luz, guiado pela mão dos que estavam comigo, cheguei a Damasco."
-    },
-    "12": {
-      "título": "",
-      "texto": "— Um homem chamado Ananias, piedoso conforme a Lei, tendo bom testemunho de todos os judeus que ali moravam,"
-    },
-    "13": {
-      "título": "",
-      "texto": "veio procurar-me e, chegando perto de mim, disse: “Irmão Saulo, recupere a visão!” Nessa mesma hora, recuperei a visão e olhei para ele."
-    },
-    "14": {
-      "título": "",
-      "texto": "Então ele disse: “O Deus de nossos pais escolheu você de antemão para conhecer a vontade dele, ver o Justo e ouvir a voz dele."
-    },
-    "15": {
-      "título": "",
-      "texto": "Porque você terá de ser testemunha dele diante de todos, anunciando as coisas que você tem visto e ouvido."
-    },
-    "16": {
-      "título": "",
-      "texto": "E agora, o que está esperando? Levante-se, receba o batismo e lave os seus pecados, invocando o nome dele.”"
-    },
-    "17": {
-      "título": "",
-      "texto": "— Quando voltei para Jerusalém, enquanto orava no templo, sobreveio-me um êxtase,"
-    },
-    "18": {
-      "título": "",
-      "texto": "e vi o Senhor. Ele me disse: “Ande logo e saia imediatamente de Jerusalém, porque não aceitarão o seu testemunho a meu respeito.”"
-    },
-    "19": {
-      "título": "",
-      "texto": "Eu respondi: “Senhor, eles bem sabem que eu ia de sinagoga em sinagoga, prendendo e açoitando os que criam em ti."
-    },
-    "20": {
-      "título": "",
-      "texto": "Quando se derramava o sangue de Estêvão, tua testemunha, eu também estava presente, consentia nisso e até guardei as capas dos que o matavam.”"
-    },
-    "21": {
-      "título": "",
-      "texto": "Mas ele me disse: “Vá, porque eu o enviarei para longe, aos gentios.”"
-    },
-    "22": {
-      "título": "Paulo livra-se de ser açoitado",
-      "texto": "Até este ponto a multidão ficou ouvindo. Mas, quando Paulo disse isso, começaram a gritar bem alto:"
-    },
-    "23": {
-      "título": "",
-      "texto": "Enquanto eles gritavam, tiravam as suas capas e jogavam poeira para o ar,"
-    },
-    "24": {
-      "título": "",
-      "texto": "o comandante ordenou que Paulo fosse recolhido à fortaleza e que, sob açoite, fosse interrogado para saber por que motivo estavam gritando assim contra ele."
-    },
-    "25": {
-      "título": "",
-      "texto": "Quando o estavam amarrando com correias, Paulo perguntou ao centurião que ali estava:"
-    },
-    "26": {
-      "título": "",
-      "texto": "Ouvindo isto, o centurião procurou o comandante e lhe disse:"
-    },
-    "27": {
-      "título": "",
-      "texto": "Então o comandante veio e perguntou a Paulo:"
-    },
-    "28": {
-      "título": "",
-      "texto": "E o comandante disse:"
-    },
-    "29": {
-      "título": "",
-      "texto": "Imediatamente se afastaram os que iam interrogá-lo com açoites. O próprio comandante ficou com medo quando soube que Paulo era romano, porque tinha mandado amarrá-lo."
-    },
-    "30": {
-      "título": "Paulo diante do Sinédrio",
-      "texto": "No dia seguinte, querendo certificar-se dos motivos por que Paulo vinha sendo acusado pelos judeus, o comandante o soltou e ordenou que se reunissem os principais sacerdotes e todo o Sinédrio. E, mandando trazer Paulo, apresentou-o diante deles."
+    "versiculos": {
+        "1": "— Irmãos e pais, escutem agora o que tenho a dizer em minha defesa.",
+        "2": "Quando ouviram que Paulo lhes falava em língua hebraica, fizeram mais silêncio ainda. Paulo continuou:",
+        "3": "— Eu sou judeu, nasci em Tarso da Cilícia, mas fui criado nesta cidade e aqui fui instruído aos pés de Gamaliel, segundo o rigor da Lei de nossos antepassados, sendo zeloso para com Deus, assim como todos vocês o são no dia de hoje.",
+        "4": "Persegui este Caminho até a morte, prendendo homens e mulheres e lançando-os na cadeia.",
+        "5": "Disto são testemunhas o sumo sacerdote e todos os anciãos. Deles eu recebi cartas para os irmãos judeus de Damasco, e fui até lá para trazer amarrados a Jerusalém os que também lá estivessem, para serem punidos.",
+        "6": "— Ora, aconteceu que, enquanto eu viajava, já perto de Damasco, quase ao meio-dia, repentinamente, uma grande luz do céu brilhou ao redor de mim.",
+        "7": "Então caí por terra, ouvindo uma voz que me dizia: “Saulo, Saulo, por que você me persegue?”",
+        "8": "Perguntei: “Senhor, quem é você?” Ao que me respondeu: “Eu sou Jesus, o Nazareno, a quem você persegue.”",
+        "9": "— Os que estavam comigo viram a luz, sem, contudo, perceber o sentido da voz de quem falava comigo.",
+        "10": "Então perguntei: “Senhor, o que devo fazer?” E o Senhor me disse: “Levante-se, entre em Damasco, onde lhe dirão tudo o que você precisa fazer.”",
+        "11": "Tendo ficado cego por causa da intensidade daquela luz, guiado pela mão dos que estavam comigo, cheguei a Damasco.",
+        "12": "— Um homem chamado Ananias, piedoso conforme a Lei, tendo bom testemunho de todos os judeus que ali moravam,",
+        "13": "veio procurar-me e, chegando perto de mim, disse: “Irmão Saulo, recupere a visão!” Nessa mesma hora, recuperei a visão e olhei para ele.",
+        "14": "Então ele disse: “O Deus de nossos pais escolheu você de antemão para conhecer a vontade dele, ver o Justo e ouvir a voz dele.",
+        "15": "Porque você terá de ser testemunha dele diante de todos, anunciando as coisas que você tem visto e ouvido.",
+        "16": "E agora, o que está esperando? Levante-se, receba o batismo e lave os seus pecados, invocando o nome dele.”",
+        "17": "— Quando voltei para Jerusalém, enquanto orava no templo, sobreveio-me um êxtase,",
+        "18": "e vi o Senhor. Ele me disse: “Ande logo e saia imediatamente de Jerusalém, porque não aceitarão o seu testemunho a meu respeito.”",
+        "19": "Eu respondi: “Senhor, eles bem sabem que eu ia de sinagoga em sinagoga, prendendo e açoitando os que criam em ti.",
+        "20": "Quando se derramava o sangue de Estêvão, tua testemunha, eu também estava presente, consentia nisso e até guardei as capas dos que o matavam.”",
+        "21": "Mas ele me disse: “Vá, porque eu o enviarei para longe, aos gentios.”",
+        "22": "Até este ponto a multidão ficou ouvindo. Mas, quando Paulo disse isso, começaram a gritar bem alto:",
+        "23": "Enquanto eles gritavam, tiravam as suas capas e jogavam poeira para o ar,",
+        "24": "o comandante ordenou que Paulo fosse recolhido à fortaleza e que, sob açoite, fosse interrogado para saber por que motivo estavam gritando assim contra ele.",
+        "25": "Quando o estavam amarrando com correias, Paulo perguntou ao centurião que ali estava:",
+        "26": "Ouvindo isto, o centurião procurou o comandante e lhe disse:",
+        "27": "Então o comandante veio e perguntou a Paulo:",
+        "28": "E o comandante disse:",
+        "29": "Imediatamente se afastaram os que iam interrogá-lo com açoites. O próprio comandante ficou com medo quando soube que Paulo era romano, porque tinha mandado amarrá-lo.",
+        "30": "No dia seguinte, querendo certificar-se dos motivos por que Paulo vinha sendo acusado pelos judeus, o comandante o soltou e ordenou que se reunissem os principais sacerdotes e todo o Sinédrio. E, mandando trazer Paulo, apresentou-o diante deles."
     }
-  }
 }

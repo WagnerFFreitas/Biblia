@@ -1,270 +1,79 @@
 {
-  "livro": "1 Reis",
-  "capítulo": 8,
-  "versículos": {
-    "1": {
-      "título": "Salomão leva a arca para o templo",
-      "texto": "Então Salomão congregou os anciãos de Israel, todos os chefes das tribos, os príncipes das famílias dos israelitas, diante de si em Jerusalém, para levarem a arca da aliança do Senhor da Cidade de Davi, que é Sião, para o templo."
-    },
-    "2": {
-      "título": "",
-      "texto": "Todos os homens de Israel se congregaram junto ao rei Salomão na ocasião da festa, no mês de etanim, que é o sétimo."
-    },
-    "3": {
-      "título": "",
-      "texto": "Quando todos os anciãos de Israel chegaram, os sacerdotes pegaram a arca do Senhor"
-    },
-    "4": {
-      "título": "",
-      "texto": "e a levaram para cima, com a tenda do encontro e com os utensílios sagrados que nela havia; os sacerdotes e levitas é que levaram tudo isso para o templo."
-    },
-    "5": {
-      "título": "",
-      "texto": "O rei Salomão e toda a congregação de Israel, que se havia reunido diante dele, estavam todos diante da arca, sacrificando ovelhas e bois, que, de tão numerosos, não se podiam contar."
-    },
-    "6": {
-      "título": "",
-      "texto": "Os sacerdotes puseram a arca da aliança do Senhor no seu lugar, no santuário mais interior do templo, que é o Santo dos Santos, debaixo das asas dos querubins."
-    },
-    "7": {
-      "título": "",
-      "texto": "Pois os querubins estendiam as asas sobre o lugar da arca e, do alto, cobriam a arca e os seus cabos."
-    },
-    "8": {
-      "título": "",
-      "texto": "Os cabos sobressaíam tanto, que suas pontas eram vistas do Santo Lugar, diante do Santo dos Santos; porém de fora não podiam ser vistos. E ali estão até o dia de hoje."
-    },
-    "9": {
-      "título": "",
-      "texto": "Nada havia na arca a não ser as duas tábuas de pedra que Moisés havia colocado ali em Horebe, quando o Senhor fez aliança com os filhos de Israel, ao saírem da terra do Egito."
-    },
-    "10": {
-      "título": "",
-      "texto": "Quando os sacerdotes saíram do santuário, uma nuvem encheu a Casa do Senhor ,"
-    },
-    "11": {
-      "título": "",
-      "texto": "de maneira que os sacerdotes não puderam permanecer ali para ministrar, por causa da nuvem, porque a glória do Senhor encheu a Casa do Senhor ."
-    },
-    "12": {
-      "título": "",
-      "texto": "Então Salomão disse:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Na verdade, edifiquei uma casa para tua morada, lugar para a tua eterna habitação."
-    },
-    "14": {
-      "título": "Salomão fala ao povo",
-      "texto": "Depois o rei voltou o rosto e abençoou toda a congregação de Israel, que se mantinha toda em pé."
-    },
-    "15": {
-      "título": "",
-      "texto": "Salomão disse:"
-    },
-    "16": {
-      "título": "",
-      "texto": "“Desde o dia em que tirei o meu povo de Israel do Egito, não escolhi cidade alguma de todas as tribos de Israel para edificar um templo a fim de ali estabelecer o meu nome. Porém escolhi Davi para governar o meu povo de Israel.”"
-    },
-    "17": {
-      "título": "",
-      "texto": "— Também Davi, meu pai, havia proposto em seu coração edificar um templo ao nome do Senhor , o Deus de Israel."
-    },
-    "18": {
-      "título": "",
-      "texto": "Porém o Senhor disse a Davi, meu pai: “Você fez bem quando resolveu em seu coração edificar um templo ao meu nome."
-    },
-    "19": {
-      "título": "",
-      "texto": "Todavia, não será você quem edificará esse templo; o seu filho, que descenderá de você, ele o edificará ao meu nome.”"
-    },
-    "20": {
-      "título": "",
-      "texto": "Assim, o Senhor cumpriu a palavra que tinha dito, pois me levantei em lugar de Davi, meu pai, e me assentei no trono de Israel, como o Senhor havia prometido, e edifiquei o templo ao nome do Senhor , o Deus de Israel."
-    },
-    "21": {
-      "título": "",
-      "texto": "E nele preparei um lugar para a arca, em que estão as tábuas da aliança que o Senhor fez com os nossos pais, quando os tirou da terra do Egito."
-    },
-    "22": {
-      "título": "Salomão ora a Deus",
-      "texto": "Salomão se pôs diante do altar do Senhor , na presença de toda a congregação de Israel, estendeu as mãos para os céus"
-    },
-    "23": {
-      "título": "",
-      "texto": "e disse:"
-    },
-    "24": {
-      "título": "",
-      "texto": "Cumpriste para com o teu servo Davi, meu pai, o que lhe prometeste; pessoalmente o disseste e pelo teu poder o cumpriste, como hoje se vê."
-    },
-    "25": {
-      "título": "",
-      "texto": "Agora, pois, ó Senhor , Deus de Israel, cumpre a outra promessa que fizeste a teu servo Davi, meu pai, quando declaraste, dizendo: “Nunca lhe faltará sucessor diante de mim, que se assente no trono de Israel, contanto que os seus filhos guardem o seu caminho, para andarem diante de mim como você andou.”"
-    },
-    "26": {
-      "título": "",
-      "texto": "Agora também, ó Deus de Israel, que se cumpra a palavra que disseste a teu servo Davi, meu pai."
-    },
-    "27": {
-      "título": "",
-      "texto": "— Mas será que, de fato, Deus poderia habitar na terra? Eis que os céus e até o céu dos céus não te podem conter, muito menos este templo que eu edifiquei."
-    },
-    "28": {
-      "título": "",
-      "texto": "Atenta, pois, para a oração de teu servo e para a sua súplica, ó Senhor , meu Deus, ouvindo o clamor e a oração que faz hoje o teu servo diante de ti."
-    },
-    "29": {
-      "título": "",
-      "texto": "Que os teus olhos estejam abertos noite e dia sobre este templo, sobre este lugar do qual disseste: “O meu nome estará ali”, para ouvires a oração que o teu servo fizer neste lugar."
-    },
-    "30": {
-      "título": "",
-      "texto": "Ouve, pois, a súplica do teu servo e do teu povo de Israel, quando orarem neste lugar. Ouve no céu, lugar da tua habitação; ouve e perdoa."
-    },
-    "31": {
-      "título": "",
-      "texto": "— Se alguém pecar contra o seu próximo, e lhe for exigido que jure, e ele vier jurar diante do teu altar, neste templo,"
-    },
-    "32": {
-      "título": "",
-      "texto": "ouve tu nos céus, age e julga os teus servos, condenando o ímpio, fazendo com que pague por seus atos, e justificando o justo, para lhe retribuíres segundo a sua justiça."
-    },
-    "33": {
-      "título": "",
-      "texto": "— Quando o teu povo de Israel, por ter pecado contra ti, for derrotado por um inimigo, e se converter a ti, confessar o teu nome, orar e suplicar a ti, neste templo,"
-    },
-    "34": {
-      "título": "",
-      "texto": "ouve tu nos céus, perdoa o pecado do teu povo de Israel e faze-o voltar à terra que deste aos seus pais."
-    },
-    "35": {
-      "título": "",
-      "texto": "— Quando o céu se fechar, e não houver chuva, por ter o povo pecado contra ti, e ele orar neste lugar, confessar o teu nome e se converter dos seus pecados, depois de o haveres castigado,"
-    },
-    "36": {
-      "título": "",
-      "texto": "ouve tu nos céus, perdoa o pecado de teus servos e do teu povo de Israel, ensinando-lhes o bom caminho em que devem andar, e envia chuva sobre esta tua terra, que deste em herança ao teu povo."
-    },
-    "37": {
-      "título": "",
-      "texto": "— Quando houver fome na terra ou peste, quando houver crestamento ou ferrugem, gafanhotos e larvas, quando inimigos cercarem as cidades do país ou houver alguma praga ou doença,"
-    },
-    "38": {
-      "título": "",
-      "texto": "toda oração e súplica que qualquer homem ou todo o teu povo de Israel fizer, conhecendo cada um a ferida do seu coração e estendendo as mãos na direção deste templo,"
-    },
-    "39": {
-      "título": "",
-      "texto": "ouve tu nos céus, lugar da tua habitação, perdoa, age e dá a cada um segundo todos os seus caminhos, visto que lhe conheces o coração, porque tu, só tu, és conhecedor do coração de todos os filhos dos homens;"
-    },
-    "40": {
-      "título": "",
-      "texto": "para que te temam todos os dias que viverem na terra que deste aos nossos pais."
-    },
-    "41": {
-      "título": "",
-      "texto": "— Também ao estrangeiro, que não for do teu povo de Israel, porém vier de uma terra distante, por amor do teu nome"
-    },
-    "42": {
-      "título": "",
-      "texto": "— porque ouvirão do teu grande nome, e da tua mão poderosa, e do teu braço estendido —, e orar, voltado para este templo,"
-    },
-    "43": {
-      "título": "",
-      "texto": "ouve tu nos céus, lugar da tua habitação, e faze tudo o que o estrangeiro te pedir, a fim de que todos os povos da terra conheçam o teu nome, para te temerem como o teu povo de Israel e para saberem que este templo, que eu edifiquei, é chamado pelo teu nome."
-    },
-    "44": {
-      "título": "",
-      "texto": "— Quando o teu povo sair à guerra contra o seu inimigo, pelo caminho por onde os enviares, e orarem ao Senhor , voltados para esta cidade, que tu escolheste, e para este templo que edifiquei ao teu nome,"
-    },
-    "45": {
-      "título": "",
-      "texto": "ouve tu nos céus a sua oração e a sua súplica e faze-lhes justiça."
-    },
-    "46": {
-      "título": "",
-      "texto": "— Quando pecarem contra ti — pois não há ninguém que não peque —, e tu te indignares contra eles e os entregares às mãos do inimigo, a fim de que os leve cativos à terra inimiga, longe ou perto daqui;"
-    },
-    "47": {
-      "título": "",
-      "texto": "e se, na terra aonde forem levados cativos, caírem em si e se converterem, e, na terra do seu cativeiro, te suplicarem, dizendo: “Pecamos, procedemos mal e cometemos iniquidade”;"
-    },
-    "48": {
-      "título": "",
-      "texto": "e se eles se converterem a ti de todo o seu coração e de toda a sua alma, na terra de seus inimigos que os levarem cativos, e orarem a ti, voltados para a sua terra, que deste aos seus pais, para esta cidade que escolheste e para o templo que edifiquei ao teu nome,"
-    },
-    "49": {
-      "título": "",
-      "texto": "ouve tu nos céus, lugar da tua habitação, a sua prece e a sua súplica e faze-lhes justiça;"
-    },
-    "50": {
-      "título": "",
-      "texto": "perdoa ao teu povo, que houver pecado contra ti, todas as suas transgressões que houverem cometido contra ti; e move tu à compaixão os que os levaram cativos, para que se compadeçam deles."
-    },
-    "51": {
-      "título": "",
-      "texto": "Porque é o teu povo e a tua herança, que tiraste da terra do Egito, do meio da fornalha de ferro;"
-    },
-    "52": {
-      "título": "",
-      "texto": "para que os teus olhos estejam abertos à súplica do teu servo e à súplica do teu povo de Israel, a fim de os ouvires em tudo o que clamarem a ti."
-    },
-    "53": {
-      "título": "",
-      "texto": "Pois tu, ó Senhor Deus , os separaste dentre todos os povos da terra para serem a tua herança, como falaste por meio do teu servo Moisés, quando tiraste do Egito os nossos pais."
-    },
-    "54": {
-      "título": "Salomão abençoa o povo",
-      "texto": "Quando Salomão acabou de fazer ao Senhor toda esta oração e súplica, ele se levantou de diante do altar do Senhor , onde tinha se ajoelhado com as mãos estendidas para os céus."
-    },
-    "55": {
-      "título": "",
-      "texto": "Ele se pôs em pé e abençoou toda a congregação de Israel em alta voz, dizendo:"
-    },
-    "56": {
-      "título": "",
-      "texto": "— Bendito seja o Senhor , que deu repouso ao seu povo de Israel, segundo tudo o que havia prometido! Nem uma só palavra falhou de todas as boas promessas que fez por meio de Moisés, seu servo."
-    },
-    "57": {
-      "título": "",
-      "texto": "Que o Senhor , nosso Deus, esteja conosco, assim como esteve com os nossos pais. Que ele não nos deixe nem nos abandone!"
-    },
-    "58": {
-      "título": "",
-      "texto": "Que ele faça com que o nosso coração se incline para ele, a fim de andarmos em todos os seus caminhos e guardarmos os seus mandamentos, e os seus estatutos, e os seus juízos, que ordenou aos nossos pais."
-    },
-    "59": {
-      "título": "",
-      "texto": "Que estas minhas palavras, com que supliquei diante do Senhor , estejam presentes, diante do Senhor , nosso Deus, de dia e de noite, para que ele faça justiça ao seu servo e ao seu povo de Israel, segundo cada dia o exigir,"
-    },
-    "60": {
-      "título": "",
-      "texto": "para que todos os povos da terra saibam que o Senhor é Deus e que não há outro."
-    },
-    "61": {
-      "título": "",
-      "texto": "Que o coração de vocês seja fiel para com o Senhor , nosso Deus, para andarem nos seus estatutos e guardarem os seus mandamentos, como vocês estão fazendo hoje."
-    },
-    "62": {
-      "título": "A conclusão da solenidade",
-      "texto": "Então o rei e todo o Israel com ele ofereceram sacrifícios ao Senhor ."
-    },
-    "63": {
-      "título": "",
-      "texto": "Salomão ofereceu em sacrifício pacífico ao Senhor vinte e dois mil bois e cento e vinte mil ovelhas. Assim, o rei e todos os filhos de Israel consagraram a Casa do Senhor ."
-    },
-    "64": {
-      "título": "",
-      "texto": "No mesmo dia, o rei consagrou o meio do átrio que estava diante da Casa do Senhor , pois ali ofereceu os holocaustos e as ofertas com a gordura dos sacrifícios pacíficos. Ele fez isso porque o altar de bronze que estava diante do Senhor era muito pequeno para nele caberem os holocaustos, as ofertas de cereais e a gordura dos sacrifícios pacíficos."
-    },
-    "65": {
-      "título": "",
-      "texto": "Nesse tempo, Salomão celebrou a festa, e todo o Israel com ele, uma grande congregação, desde a entrada de Hamate até o rio do Egito, diante do Senhor , nosso Deus. Celebraram durante sete dias além dos primeiros sete, a saber, catorze dias."
-    },
-    "66": {
-      "título": "",
-      "texto": "No oitavo dia desta festa, Salomão despediu o povo, e eles abençoaram o rei. Então voltaram para as suas tendas, alegres e de coração contente por causa de todo o bem que o Senhor tinha feito a Davi, seu servo, e a Israel, seu povo."
+    "livro": "1 Reis",
+    "capitulo": 8,
+    "titulos": {
+        "1": "Salomão leva a arca para o templo",
+        "14": "Salomão fala ao povo",
+        "22": "Salomão ora a Deus",
+        "54": "Salomão abençoa o povo",
+        "62": "A conclusão da solenidade"
+    },
+    "versiculos": {
+        "1": "Então Salomão congregou os anciãos de Israel, todos os chefes das tribos, os príncipes das famílias dos israelitas, diante de si em Jerusalém, para levarem a arca da aliança do Senhor da Cidade de Davi, que é Sião, para o templo.",
+        "2": "Todos os homens de Israel se congregaram junto ao rei Salomão na ocasião da festa, no mês de etanim, que é o sétimo.",
+        "3": "Quando todos os anciãos de Israel chegaram, os sacerdotes pegaram a arca do Senhor",
+        "4": "e a levaram para cima, com a tenda do encontro e com os utensílios sagrados que nela havia; os sacerdotes e levitas é que levaram tudo isso para o templo.",
+        "5": "O rei Salomão e toda a congregação de Israel, que se havia reunido diante dele, estavam todos diante da arca, sacrificando ovelhas e bois, que, de tão numerosos, não se podiam contar.",
+        "6": "Os sacerdotes puseram a arca da aliança do Senhor no seu lugar, no santuário mais interior do templo, que é o Santo dos Santos, debaixo das asas dos querubins.",
+        "7": "Pois os querubins estendiam as asas sobre o lugar da arca e, do alto, cobriam a arca e os seus cabos.",
+        "8": "Os cabos sobressaíam tanto, que suas pontas eram vistas do Santo Lugar, diante do Santo dos Santos; porém de fora não podiam ser vistos. E ali estão até o dia de hoje.",
+        "9": "Nada havia na arca a não ser as duas tábuas de pedra que Moisés havia colocado ali em Horebe, quando o Senhor fez aliança com os filhos de Israel, ao saírem da terra do Egito.",
+        "10": "Quando os sacerdotes saíram do santuário, uma nuvem encheu a Casa do Senhor ,",
+        "11": "de maneira que os sacerdotes não puderam permanecer ali para ministrar, por causa da nuvem, porque a glória do Senhor encheu a Casa do Senhor .",
+        "12": "Então Salomão disse:",
+        "13": "Na verdade, edifiquei uma casa para tua morada, lugar para a tua eterna habitação.",
+        "14": "Depois o rei voltou o rosto e abençoou toda a congregação de Israel, que se mantinha toda em pé.",
+        "15": "Salomão disse:",
+        "16": "“Desde o dia em que tirei o meu povo de Israel do Egito, não escolhi cidade alguma de todas as tribos de Israel para edificar um templo a fim de ali estabelecer o meu nome. Porém escolhi Davi para governar o meu povo de Israel.”",
+        "17": "— Também Davi, meu pai, havia proposto em seu coração edificar um templo ao nome do Senhor , o Deus de Israel.",
+        "18": "Porém o Senhor disse a Davi, meu pai: “Você fez bem quando resolveu em seu coração edificar um templo ao meu nome.",
+        "19": "Todavia, não será você quem edificará esse templo; o seu filho, que descenderá de você, ele o edificará ao meu nome.”",
+        "20": "Assim, o Senhor cumpriu a palavra que tinha dito, pois me levantei em lugar de Davi, meu pai, e me assentei no trono de Israel, como o Senhor havia prometido, e edifiquei o templo ao nome do Senhor , o Deus de Israel.",
+        "21": "E nele preparei um lugar para a arca, em que estão as tábuas da aliança que o Senhor fez com os nossos pais, quando os tirou da terra do Egito.",
+        "22": "Salomão se pôs diante do altar do Senhor , na presença de toda a congregação de Israel, estendeu as mãos para os céus",
+        "23": "e disse:",
+        "24": "Cumpriste para com o teu servo Davi, meu pai, o que lhe prometeste; pessoalmente o disseste e pelo teu poder o cumpriste, como hoje se vê.",
+        "25": "Agora, pois, ó Senhor , Deus de Israel, cumpre a outra promessa que fizeste a teu servo Davi, meu pai, quando declaraste, dizendo: “Nunca lhe faltará sucessor diante de mim, que se assente no trono de Israel, contanto que os seus filhos guardem o seu caminho, para andarem diante de mim como você andou.”",
+        "26": "Agora também, ó Deus de Israel, que se cumpra a palavra que disseste a teu servo Davi, meu pai.",
+        "27": "— Mas será que, de fato, Deus poderia habitar na terra? Eis que os céus e até o céu dos céus não te podem conter, muito menos este templo que eu edifiquei.",
+        "28": "Atenta, pois, para a oração de teu servo e para a sua súplica, ó Senhor , meu Deus, ouvindo o clamor e a oração que faz hoje o teu servo diante de ti.",
+        "29": "Que os teus olhos estejam abertos noite e dia sobre este templo, sobre este lugar do qual disseste: “O meu nome estará ali”, para ouvires a oração que o teu servo fizer neste lugar.",
+        "30": "Ouve, pois, a súplica do teu servo e do teu povo de Israel, quando orarem neste lugar. Ouve no céu, lugar da tua habitação; ouve e perdoa.",
+        "31": "— Se alguém pecar contra o seu próximo, e lhe for exigido que jure, e ele vier jurar diante do teu altar, neste templo,",
+        "32": "ouve tu nos céus, age e julga os teus servos, condenando o ímpio, fazendo com que pague por seus atos, e justificando o justo, para lhe retribuíres segundo a sua justiça.",
+        "33": "— Quando o teu povo de Israel, por ter pecado contra ti, for derrotado por um inimigo, e se converter a ti, confessar o teu nome, orar e suplicar a ti, neste templo,",
+        "34": "ouve tu nos céus, perdoa o pecado do teu povo de Israel e faze-o voltar à terra que deste aos seus pais.",
+        "35": "— Quando o céu se fechar, e não houver chuva, por ter o povo pecado contra ti, e ele orar neste lugar, confessar o teu nome e se converter dos seus pecados, depois de o haveres castigado,",
+        "36": "ouve tu nos céus, perdoa o pecado de teus servos e do teu povo de Israel, ensinando-lhes o bom caminho em que devem andar, e envia chuva sobre esta tua terra, que deste em herança ao teu povo.",
+        "37": "— Quando houver fome na terra ou peste, quando houver crestamento ou ferrugem, gafanhotos e larvas, quando inimigos cercarem as cidades do país ou houver alguma praga ou doença,",
+        "38": "toda oração e súplica que qualquer homem ou todo o teu povo de Israel fizer, conhecendo cada um a ferida do seu coração e estendendo as mãos na direção deste templo,",
+        "39": "ouve tu nos céus, lugar da tua habitação, perdoa, age e dá a cada um segundo todos os seus caminhos, visto que lhe conheces o coração, porque tu, só tu, és conhecedor do coração de todos os filhos dos homens;",
+        "40": "para que te temam todos os dias que viverem na terra que deste aos nossos pais.",
+        "41": "— Também ao estrangeiro, que não for do teu povo de Israel, porém vier de uma terra distante, por amor do teu nome",
+        "42": "— porque ouvirão do teu grande nome, e da tua mão poderosa, e do teu braço estendido —, e orar, voltado para este templo,",
+        "43": "ouve tu nos céus, lugar da tua habitação, e faze tudo o que o estrangeiro te pedir, a fim de que todos os povos da terra conheçam o teu nome, para te temerem como o teu povo de Israel e para saberem que este templo, que eu edifiquei, é chamado pelo teu nome.",
+        "44": "— Quando o teu povo sair à guerra contra o seu inimigo, pelo caminho por onde os enviares, e orarem ao Senhor , voltados para esta cidade, que tu escolheste, e para este templo que edifiquei ao teu nome,",
+        "45": "ouve tu nos céus a sua oração e a sua súplica e faze-lhes justiça.",
+        "46": "— Quando pecarem contra ti — pois não há ninguém que não peque —, e tu te indignares contra eles e os entregares às mãos do inimigo, a fim de que os leve cativos à terra inimiga, longe ou perto daqui;",
+        "47": "e se, na terra aonde forem levados cativos, caírem em si e se converterem, e, na terra do seu cativeiro, te suplicarem, dizendo: “Pecamos, procedemos mal e cometemos iniquidade”;",
+        "48": "e se eles se converterem a ti de todo o seu coração e de toda a sua alma, na terra de seus inimigos que os levarem cativos, e orarem a ti, voltados para a sua terra, que deste aos seus pais, para esta cidade que escolheste e para o templo que edifiquei ao teu nome,",
+        "49": "ouve tu nos céus, lugar da tua habitação, a sua prece e a sua súplica e faze-lhes justiça;",
+        "50": "perdoa ao teu povo, que houver pecado contra ti, todas as suas transgressões que houverem cometido contra ti; e move tu à compaixão os que os levaram cativos, para que se compadeçam deles.",
+        "51": "Porque é o teu povo e a tua herança, que tiraste da terra do Egito, do meio da fornalha de ferro;",
+        "52": "para que os teus olhos estejam abertos à súplica do teu servo e à súplica do teu povo de Israel, a fim de os ouvires em tudo o que clamarem a ti.",
+        "53": "Pois tu, ó Senhor Deus , os separaste dentre todos os povos da terra para serem a tua herança, como falaste por meio do teu servo Moisés, quando tiraste do Egito os nossos pais.",
+        "54": "Quando Salomão acabou de fazer ao Senhor toda esta oração e súplica, ele se levantou de diante do altar do Senhor , onde tinha se ajoelhado com as mãos estendidas para os céus.",
+        "55": "Ele se pôs em pé e abençoou toda a congregação de Israel em alta voz, dizendo:",
+        "56": "— Bendito seja o Senhor , que deu repouso ao seu povo de Israel, segundo tudo o que havia prometido! Nem uma só palavra falhou de todas as boas promessas que fez por meio de Moisés, seu servo.",
+        "57": "Que o Senhor , nosso Deus, esteja conosco, assim como esteve com os nossos pais. Que ele não nos deixe nem nos abandone!",
+        "58": "Que ele faça com que o nosso coração se incline para ele, a fim de andarmos em todos os seus caminhos e guardarmos os seus mandamentos, e os seus estatutos, e os seus juízos, que ordenou aos nossos pais.",
+        "59": "Que estas minhas palavras, com que supliquei diante do Senhor , estejam presentes, diante do Senhor , nosso Deus, de dia e de noite, para que ele faça justiça ao seu servo e ao seu povo de Israel, segundo cada dia o exigir,",
+        "60": "para que todos os povos da terra saibam que o Senhor é Deus e que não há outro.",
+        "61": "Que o coração de vocês seja fiel para com o Senhor , nosso Deus, para andarem nos seus estatutos e guardarem os seus mandamentos, como vocês estão fazendo hoje.",
+        "62": "Então o rei e todo o Israel com ele ofereceram sacrifícios ao Senhor .",
+        "63": "Salomão ofereceu em sacrifício pacífico ao Senhor vinte e dois mil bois e cento e vinte mil ovelhas. Assim, o rei e todos os filhos de Israel consagraram a Casa do Senhor .",
+        "64": "No mesmo dia, o rei consagrou o meio do átrio que estava diante da Casa do Senhor , pois ali ofereceu os holocaustos e as ofertas com a gordura dos sacrifícios pacíficos. Ele fez isso porque o altar de bronze que estava diante do Senhor era muito pequeno para nele caberem os holocaustos, as ofertas de cereais e a gordura dos sacrifícios pacíficos.",
+        "65": "Nesse tempo, Salomão celebrou a festa, e todo o Israel com ele, uma grande congregação, desde a entrada de Hamate até o rio do Egito, diante do Senhor , nosso Deus. Celebraram durante sete dias além dos primeiros sete, a saber, catorze dias.",
+        "66": "No oitavo dia desta festa, Salomão despediu o povo, e eles abençoaram o rei. Então voltaram para as suas tendas, alegres e de coração contente por causa de todo o bem que o Senhor tinha feito a Davi, seu servo, e a Israel, seu povo."
     }
-  }
 }

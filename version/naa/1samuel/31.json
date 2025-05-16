@@ -1,58 +1,23 @@
 {
-  "livro": "1 Samuel",
-  "capítulo": 31,
-  "versículos": {
-    "1": {
-      "título": "A derrota de Israel e a morte de Saul",
-      "texto": "Os filisteus lutaram contra Israel. E os homens de Israel, fugindo da presença dos filisteus, caíram mortos no monte Gilboa."
+    "livro": "1 Samuel",
+    "capitulo": 31,
+    "titulos": {
+        "1": "A derrota de Israel e a morte de Saul",
+        "8": "O sepultamento de Saul"
     },
-    "2": {
-      "título": "",
-      "texto": "Os filisteus seguiram de perto Saul e seus filhos e mataram Jônatas, Abinadabe e Malquisua, filhos de Saul."
-    },
-    "3": {
-      "título": "",
-      "texto": "A batalha se intensificou contra Saul. Os flecheiros o avistaram e ele foi ferido gravemente."
-    },
-    "4": {
-      "título": "",
-      "texto": "Então Saul disse ao seu escudeiro:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Quando o escudeiro viu que Saul estava morto, também se lançou sobre a sua espada e morreu com ele."
-    },
-    "6": {
-      "título": "",
-      "texto": "E assim morreram juntamente naquele dia Saul, os seus três filhos, o seu escudeiro e todos os seus soldados."
-    },
-    "7": {
-      "título": "",
-      "texto": "Quando os homens de Israel que estavam no outro lado do vale e no outro lado do Jordão viram que o exército de Israel fugiu e que Saul e seus filhos estavam mortos, abandonaram as cidades e fugiram. E vieram os filisteus e habitaram nelas."
-    },
-    "8": {
-      "título": "O sepultamento de Saul",
-      "texto": "E aconteceu que no dia seguinte, quando os filisteus foram tirar os despojos dos mortos, encontraram Saul e os seus três filhos caídos no monte Gilboa."
-    },
-    "9": {
-      "título": "",
-      "texto": "Cortaram a cabeça de Saul e o despojaram das suas armas. Enviaram mensageiros pela terra dos filisteus, ao redor, para levar as boas-novas ao templo dos seus ídolos e ao povo."
-    },
-    "10": {
-      "título": "",
-      "texto": "Puseram as armas de Saul no templo de Astarote, e o seu corpo afixaram na muralha de Bete-Seã."
-    },
-    "11": {
-      "título": "",
-      "texto": "Quando os moradores de Jabes-Gileade ouviram o que os filisteus haviam feito com Saul,"
-    },
-    "12": {
-      "título": "",
-      "texto": "todos os homens valentes se levantaram, caminharam toda a noite, tiraram o corpo de Saul e os corpos de seus filhos da muralha de Bete-Seã e os levaram a Jabes, onde os queimaram."
-    },
-    "13": {
-      "título": "",
-      "texto": "Depois pegaram os ossos deles e os sepultaram debaixo de um arvoredo, em Jabes. E jejuaram sete dias."
+    "versiculos": {
+        "1": "Os filisteus lutaram contra Israel. E os homens de Israel, fugindo da presença dos filisteus, caíram mortos no monte Gilboa.",
+        "2": "Os filisteus seguiram de perto Saul e seus filhos e mataram Jônatas, Abinadabe e Malquisua, filhos de Saul.",
+        "3": "A batalha se intensificou contra Saul. Os flecheiros o avistaram e ele foi ferido gravemente.",
+        "4": "Então Saul disse ao seu escudeiro:",
+        "5": "Quando o escudeiro viu que Saul estava morto, também se lançou sobre a sua espada e morreu com ele.",
+        "6": "E assim morreram juntamente naquele dia Saul, os seus três filhos, o seu escudeiro e todos os seus soldados.",
+        "7": "Quando os homens de Israel que estavam no outro lado do vale e no outro lado do Jordão viram que o exército de Israel fugiu e que Saul e seus filhos estavam mortos, abandonaram as cidades e fugiram. E vieram os filisteus e habitaram nelas.",
+        "8": "E aconteceu que no dia seguinte, quando os filisteus foram tirar os despojos dos mortos, encontraram Saul e os seus três filhos caídos no monte Gilboa.",
+        "9": "Cortaram a cabeça de Saul e o despojaram das suas armas. Enviaram mensageiros pela terra dos filisteus, ao redor, para levar as boas-novas ao templo dos seus ídolos e ao povo.",
+        "10": "Puseram as armas de Saul no templo de Astarote, e o seu corpo afixaram na muralha de Bete-Seã.",
+        "11": "Quando os moradores de Jabes-Gileade ouviram o que os filisteus haviam feito com Saul,",
+        "12": "todos os homens valentes se levantaram, caminharam toda a noite, tiraram o corpo de Saul e os corpos de seus filhos da muralha de Bete-Seã e os levaram a Jabes, onde os queimaram.",
+        "13": "Depois pegaram os ossos deles e os sepultaram debaixo de um arvoredo, em Jabes. E jejuaram sete dias."
     }
-  }
 }

@@ -1,114 +1,38 @@
 {
-  "livro": "2 Samuel",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "Davi recebe a notícia da morte de Saul",
-      "texto": "Depois da morte de Saul, quando Davi tinha voltado de derrotar os amalequitas e já estava dois dias em Ziclague,"
+    "livro": "2 Samuel",
+    "capitulo": 1,
+    "titulos": {
+        "1": "Davi recebe a notícia da morte de Saul",
+        "11": "Davi manda matar o amalequita",
+        "17": "A lamentação de Davi por Saul e Jônatas"
     },
-    "2": {
-      "título": "",
-      "texto": "aconteceu que, no terceiro dia, veio do arraial de Saul um homem com as roupas rasgadas e terra sobre a cabeça. Ao chegar diante de Davi, ele se inclinou, prostrando-se em terra."
-    },
-    "3": {
-      "título": "",
-      "texto": "Davi lhe perguntou:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Então Davi disse:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Davi perguntou ao moço que lhe trazia as notícias:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Então o moço portador das notícias disse:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Olhando ele para trás, me viu e me chamou. Eu disse: “Eis-me aqui.”"
-    },
-    "8": {
-      "título": "",
-      "texto": "Ele me perguntou: “Quem é você?” Eu respondi: “Eu sou amalequita.”"
-    },
-    "9": {
-      "título": "",
-      "texto": "Então ele me disse: “Venha aqui e me mate, pois me sinto vencido de cãibra, embora ainda esteja bem lúcido.”"
-    },
-    "10": {
-      "título": "",
-      "texto": "Então me aproximei dele e o matei, porque eu sabia que ele não viveria depois de ter caído. Peguei a coroa que ele tinha na cabeça e o bracelete e os trouxe aqui ao meu senhor."
-    },
-    "11": {
-      "título": "Davi manda matar o amalequita",
-      "texto": "Então Davi rasgou as suas próprias roupas, e todos os homens que estavam com ele fizeram o mesmo."
-    },
-    "12": {
-      "título": "",
-      "texto": "Prantearam, choraram e jejuaram até a tarde por Saul, por Jônatas, seu filho, pelo povo do Senhor e pela casa de Israel, porque tinham caído à espada."
-    },
-    "13": {
-      "título": "",
-      "texto": "Então Davi perguntou ao moço portador das notícias:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Davi lhe disse:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Então Davi chamou um dos moços e lhe disse:"
-    },
-    "16": {
-      "título": "",
-      "texto": "enquanto Davi dizia:"
-    },
-    "17": {
-      "título": "A lamentação de Davi por Saul e Jônatas",
-      "texto": "Davi pranteou Saul e seu filho Jônatas com esta lamentação."
-    },
-    "18": {
-      "título": "",
-      "texto": "E ele ordenou que se ensinasse aos filhos de Judá o Hino ao Arco, que está escrito no Livro dos Justos."
-    },
-    "19": {
-      "título": "",
-      "texto": "“A sua glória, ó Israel,"
-    },
-    "20": {
-      "título": "",
-      "texto": "Não anunciem isso em Gate,"
-    },
-    "21": {
-      "título": "",
-      "texto": "Montes de Gilboa,"
-    },
-    "22": {
-      "título": "",
-      "texto": "Sem sangue dos feridos,"
-    },
-    "23": {
-      "título": "",
-      "texto": "Saul e Jônatas,"
-    },
-    "24": {
-      "título": "",
-      "texto": "“Filhas de Israel, chorem por Saul!"
-    },
-    "25": {
-      "título": "",
-      "texto": "Como caíram os valentes"
-    },
-    "26": {
-      "título": "",
-      "texto": "Estou angustiado por sua causa,"
-    },
-    "27": {
-      "título": "",
-      "texto": "Como caíram os valentes,"
+    "versiculos": {
+        "1": "Depois da morte de Saul, quando Davi tinha voltado de derrotar os amalequitas e já estava dois dias em Ziclague,",
+        "2": "aconteceu que, no terceiro dia, veio do arraial de Saul um homem com as roupas rasgadas e terra sobre a cabeça. Ao chegar diante de Davi, ele se inclinou, prostrando-se em terra.",
+        "3": "Davi lhe perguntou:",
+        "4": "Então Davi disse:",
+        "5": "Davi perguntou ao moço que lhe trazia as notícias:",
+        "6": "Então o moço portador das notícias disse:",
+        "7": "Olhando ele para trás, me viu e me chamou. Eu disse: “Eis-me aqui.”",
+        "8": "Ele me perguntou: “Quem é você?” Eu respondi: “Eu sou amalequita.”",
+        "9": "Então ele me disse: “Venha aqui e me mate, pois me sinto vencido de cãibra, embora ainda esteja bem lúcido.”",
+        "10": "Então me aproximei dele e o matei, porque eu sabia que ele não viveria depois de ter caído. Peguei a coroa que ele tinha na cabeça e o bracelete e os trouxe aqui ao meu senhor.",
+        "11": "Então Davi rasgou as suas próprias roupas, e todos os homens que estavam com ele fizeram o mesmo.",
+        "12": "Prantearam, choraram e jejuaram até a tarde por Saul, por Jônatas, seu filho, pelo povo do Senhor e pela casa de Israel, porque tinham caído à espada.",
+        "13": "Então Davi perguntou ao moço portador das notícias:",
+        "14": "Davi lhe disse:",
+        "15": "Então Davi chamou um dos moços e lhe disse:",
+        "16": "enquanto Davi dizia:",
+        "17": "Davi pranteou Saul e seu filho Jônatas com esta lamentação.",
+        "18": "E ele ordenou que se ensinasse aos filhos de Judá o Hino ao Arco, que está escrito no Livro dos Justos.",
+        "19": "“A sua glória, ó Israel,",
+        "20": "Não anunciem isso em Gate,",
+        "21": "Montes de Gilboa,",
+        "22": "Sem sangue dos feridos,",
+        "23": "Saul e Jônatas,",
+        "24": "“Filhas de Israel, chorem por Saul!",
+        "25": "Como caíram os valentes",
+        "26": "Estou angustiado por sua causa,",
+        "27": "Como caíram os valentes,"
     }
-  }
 }

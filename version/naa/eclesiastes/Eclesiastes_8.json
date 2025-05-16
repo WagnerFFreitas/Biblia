@@ -1,74 +1,27 @@
 {
-  "livro": "Eclesiastes",
-  "capítulo": 8,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Quem é como o sábio? E quem sabe a interpretação das coisas? A sabedoria faz reluzir o rosto de uma pessoa e muda a dureza do seu semblante."
+    "livro": "Eclesiastes",
+    "capitulo": 8,
+    "titulos": {
+        "2": "A obediência ao rei",
+        "10": "As desigualdades da vida"
     },
-    "2": {
-      "título": "A obediência ao rei",
-      "texto": "Eu digo a você: observe o mandamento do rei, e isso por causa do juramento que você fez diante de Deus."
-    },
-    "3": {
-      "título": "",
-      "texto": "Não tenha pressa em sair da presença dele, nem insista em fazer o que é mau, porque ele faz o que bem entende."
-    },
-    "4": {
-      "título": "",
-      "texto": "Porque a palavra do rei tem autoridade suprema. Quem pode lhe perguntar: “O que você está fazendo?”"
-    },
-    "5": {
-      "título": "",
-      "texto": "Quem guarda o mandamento não experimenta nenhum mal; e o coração do sábio conhece o tempo e o modo certo de agir."
-    },
-    "6": {
-      "título": "",
-      "texto": "Porque há um tempo e um modo para todo propósito; porque é grande o mal que pesa sobre o ser humano."
-    },
-    "7": {
-      "título": "",
-      "texto": "Ninguém sabe o que vai acontecer. Pois quem poderá lhe dizer o que vai acontecer?"
-    },
-    "8": {
-      "título": "",
-      "texto": "Não há ninguém que tenha domínio sobre o espírito para o reter; nem tampouco quem tenha poder sobre o dia da morte. Não há como escapar desse combate, e a maldade não poderá livrar os que a praticam."
-    },
-    "9": {
-      "título": "",
-      "texto": "Tudo isso vi quando comecei a pensar no que se faz debaixo do sol. Há um tempo em que uma pessoa tem domínio sobre outra pessoa, para seu próprio mal."
-    },
-    "10": {
-      "título": "As desigualdades da vida",
-      "texto": "Assim também vi os ímpios serem sepultados com honra, ao passo que os que frequentavam o lugar santo foram esquecidos na cidade onde fizeram o bem. Também isto é vaidade."
-    },
-    "11": {
-      "título": "",
-      "texto": "Como não se executa logo a sentença contra uma obra má, o coração humano está inteiramente disposto a praticar o mal."
-    },
-    "12": {
-      "título": "",
-      "texto": "Ainda que o pecador faça o mal cem vezes, e a vida dele se prolongue, eu sei com certeza que tudo correrá bem para os que temem a Deus."
-    },
-    "13": {
-      "título": "",
-      "texto": "Mas nada correrá bem para o ímpio, e ele não prolongará os seus dias; será como a sombra, visto que não teme a Deus."
-    },
-    "14": {
-      "título": "",
-      "texto": "Ainda há outra vaidade sobre a terra: justos que são tratados segundo as obras dos ímpios, e ímpios que são tratados segundo as obras dos justos. Digo que também isto é vaidade."
-    },
-    "15": {
-      "título": "",
-      "texto": "Por isso exalto a alegria, porque para o ser humano não há nada melhor debaixo do sol do que comer, beber e alegrar-se; pois isso o acompanhará no seu trabalho nos dias da vida que Deus lhe dá debaixo do sol."
-    },
-    "16": {
-      "título": "",
-      "texto": "Quando me dediquei a conhecer a sabedoria e a ver o trabalho que há sobre a terra — pois nem de dia nem de noite se consegue conciliar o sono —,"
-    },
-    "17": {
-      "título": "",
-      "texto": "contemplei toda a obra de Deus e vi que o ser humano não pode compreender a obra que se faz debaixo do sol; por mais que se esforce para a descobrir, não a entenderá; e, ainda que o sábio diga que conseguirá conhecê-la, nem por isso a poderá achar."
+    "versiculos": {
+        "1": "Quem é como o sábio? E quem sabe a interpretação das coisas? A sabedoria faz reluzir o rosto de uma pessoa e muda a dureza do seu semblante.",
+        "2": "Eu digo a você: observe o mandamento do rei, e isso por causa do juramento que você fez diante de Deus.",
+        "3": "Não tenha pressa em sair da presença dele, nem insista em fazer o que é mau, porque ele faz o que bem entende.",
+        "4": "Porque a palavra do rei tem autoridade suprema. Quem pode lhe perguntar: “O que você está fazendo?”",
+        "5": "Quem guarda o mandamento não experimenta nenhum mal; e o coração do sábio conhece o tempo e o modo certo de agir.",
+        "6": "Porque há um tempo e um modo para todo propósito; porque é grande o mal que pesa sobre o ser humano.",
+        "7": "Ninguém sabe o que vai acontecer. Pois quem poderá lhe dizer o que vai acontecer?",
+        "8": "Não há ninguém que tenha domínio sobre o espírito para o reter; nem tampouco quem tenha poder sobre o dia da morte. Não há como escapar desse combate, e a maldade não poderá livrar os que a praticam.",
+        "9": "Tudo isso vi quando comecei a pensar no que se faz debaixo do sol. Há um tempo em que uma pessoa tem domínio sobre outra pessoa, para seu próprio mal.",
+        "10": "Assim também vi os ímpios serem sepultados com honra, ao passo que os que frequentavam o lugar santo foram esquecidos na cidade onde fizeram o bem. Também isto é vaidade.",
+        "11": "Como não se executa logo a sentença contra uma obra má, o coração humano está inteiramente disposto a praticar o mal.",
+        "12": "Ainda que o pecador faça o mal cem vezes, e a vida dele se prolongue, eu sei com certeza que tudo correrá bem para os que temem a Deus.",
+        "13": "Mas nada correrá bem para o ímpio, e ele não prolongará os seus dias; será como a sombra, visto que não teme a Deus.",
+        "14": "Ainda há outra vaidade sobre a terra: justos que são tratados segundo as obras dos ímpios, e ímpios que são tratados segundo as obras dos justos. Digo que também isto é vaidade.",
+        "15": "Por isso exalto a alegria, porque para o ser humano não há nada melhor debaixo do sol do que comer, beber e alegrar-se; pois isso o acompanhará no seu trabalho nos dias da vida que Deus lhe dá debaixo do sol.",
+        "16": "Quando me dediquei a conhecer a sabedoria e a ver o trabalho que há sobre a terra — pois nem de dia nem de noite se consegue conciliar o sono —,",
+        "17": "contemplei toda a obra de Deus e vi que o ser humano não pode compreender a obra que se faz debaixo do sol; por mais que se esforce para a descobrir, não a entenderá; e, ainda que o sábio diga que conseguirá conhecê-la, nem por isso a poderá achar."
     }
-  }
 }

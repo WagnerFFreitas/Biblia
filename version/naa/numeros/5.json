@@ -1,130 +1,42 @@
 {
-  "livro": "Números",
-  "capítulo": 5,
-  "versículos": {
-    "1": {
-      "título": "O leproso e o impuro são lançados fora do arraial",
-      "texto": "O Senhor disse a Moisés:"
+    "livro": "Números",
+    "capitulo": 5,
+    "titulos": {
+        "1": "O leproso e o impuro são lançados fora do arraial",
+        "5": "A lei a respeito da restituição",
+        "11": "A prova da mulher suspeita de adultério"
     },
-    "2": {
-      "título": "",
-      "texto": "— Ordene aos filhos de Israel que expulsem do arraial todo leproso, todo o que tiver um fluxo e todo impuro por ter tocado em algum morto."
-    },
-    "3": {
-      "título": "",
-      "texto": "Tanto homem como mulher devem ser expulsos do arraial, para que não contaminem o arraial, no meio do qual eu habito."
-    },
-    "4": {
-      "título": "",
-      "texto": "Os filhos de Israel fizeram assim e os expulsaram do arraial. Como o Senhor havia falado a Moisés, assim fizeram os filhos de Israel."
-    },
-    "5": {
-      "título": "A lei a respeito da restituição",
-      "texto": "O Senhor disse ainda a Moisés:"
-    },
-    "6": {
-      "título": "",
-      "texto": "— Diga aos filhos de Israel: Quando um homem ou uma mulher cometer algum dos pecados que as pessoas cometem, ofendendo ao Senhor , tal pessoa é culpada."
-    },
-    "7": {
-      "título": "",
-      "texto": "Confessará o pecado que cometer e, pela culpa, fará plena restituição, lhe acrescentará a sua quinta parte, e dará tudo àquele contra quem se fez culpado."
-    },
-    "8": {
-      "título": "",
-      "texto": "Mas, se esse homem não tiver parente chegado, a quem possa fazer restituição pela culpa, então o que se restitui ao Senhor pela culpa será do sacerdote, além do carneiro expiatório com que se fizer expiação pelo culpado."
-    },
-    "9": {
-      "título": "",
-      "texto": "Toda oferta de todas as coisas santas dos filhos de Israel, que trouxerem ao sacerdote, será deste"
-    },
-    "10": {
-      "título": "",
-      "texto": "e também as coisas sagradas de cada um; o que alguém der ao sacerdote será deste."
-    },
-    "11": {
-      "título": "A prova da mulher suspeita de adultério",
-      "texto": "O Senhor disse a Moisés:"
-    },
-    "12": {
-      "título": "",
-      "texto": "— Fale aos filhos de Israel e diga-lhes: Se a mulher de alguém se desviar e lhe for infiel,"
-    },
-    "13": {
-      "título": "",
-      "texto": "de maneira que algum homem tenha tido relações com ela, e for oculto aos olhos de seu marido, e ela o tiver ocultado, havendo-se ela contaminado, e contra ela não houver testemunha, e não for surpreendida em flagrante,"
-    },
-    "14": {
-      "título": "",
-      "texto": "e o espírito de ciúmes vier sobre o marido, e ele tiver ciúmes de sua mulher, por ela se haver contaminado, ou se ele tiver ciúmes, mesmo que ela não tenha se contaminado,"
-    },
-    "15": {
-      "título": "",
-      "texto": "então esse homem levará a sua mulher ao sacerdote, juntamente com a sua oferta por ela: dois litros de farinha de cevada, sobre a qual não derramará azeite, nem sobre ela porá incenso, pois é oferta de cereais por ciúmes, oferta memorativa, que traz a iniquidade à memória."
-    },
-    "16": {
-      "título": "",
-      "texto": "— O sacerdote levará a mulher para a frente e a colocará diante do Senhor ."
-    },
-    "17": {
-      "título": "",
-      "texto": "O sacerdote colocará um pouco de água santa num vaso de barro; também pegará do pó que houver no chão do tabernáculo e o colocará na água."
-    },
-    "18": {
-      "título": "",
-      "texto": "Apresentará a mulher diante do Senhor e soltará a cabeleira dela; e lhe porá nas mãos a oferta memorativa de cereais, que é a oferta de cereais por ciúmes. A água amarga, que traz consigo a maldição, estará na mão do sacerdote."
-    },
-    "19": {
-      "título": "",
-      "texto": "O sacerdote fará com que a mulher jure, dizendo-lhe: “Se ninguém teve relações com você, e se você não se desviou para a impureza, estando sob o domínio de seu marido, você será livre destas águas amargas, que trazem maldição."
-    },
-    "20": {
-      "título": "",
-      "texto": "Mas, se você se desviou, quando sob o domínio de seu marido, e se contaminou, e algum homem, que não é o seu marido, teve relações com você…”"
-    },
-    "21": {
-      "título": "",
-      "texto": "Então o sacerdote fará com que a mulher tome o juramento de maldição e lhe dirá: “O Senhor ponha você por maldição e por praga no meio do seu povo, fazendo com que você fique estéril e inche o seu ventre;"
-    },
-    "22": {
-      "título": "",
-      "texto": "e que esta água amaldiçoante penetre nas suas entranhas, para fazer com que inche o seu ventre e você fique estéril.” Então a mulher dirá: “Amém! Amém!”"
-    },
-    "23": {
-      "título": "",
-      "texto": "— O sacerdote escreverá estas maldições num livro e, com a água amarga, as apagará."
-    },
-    "24": {
-      "título": "",
-      "texto": "E fará com que a mulher beba a água amarga, que traz consigo a maldição; e, sendo bebida, lhe causará amargura."
-    },
-    "25": {
-      "título": "",
-      "texto": "O sacerdote pegará da mão da mulher a oferta de cereais por ciúmes e a moverá diante do Senhor ; e a trará ao altar."
-    },
-    "26": {
-      "título": "",
-      "texto": "Pegará um punhado da oferta de cereais, da oferta memorativa, e o queimará sobre o altar; e depois fará com que a mulher beba a água."
-    },
-    "27": {
-      "título": "",
-      "texto": "E, havendo-lhe dado a beber aquela água, se ela tiver se contaminado, tendo sido infiel a seu marido, a água amaldiçoante entrará nela para amargura, e o seu ventre ficará inchado e o útero secará; a mulher será por maldição no meio do seu povo."
-    },
-    "28": {
-      "título": "",
-      "texto": "Se a mulher não tiver se contaminado, mas estiver pura, então será livre e poderá ter filhos."
-    },
-    "29": {
-      "título": "",
-      "texto": "— Esta é a lei para o caso de ciúmes, quando a mulher, sob o domínio de seu marido, se desviar e for contaminada;"
-    },
-    "30": {
-      "título": "",
-      "texto": "ou quando sobre o homem vier o espírito de ciúmes, e tiver ciúmes de sua mulher, apresente a mulher diante do Senhor , e o sacerdote execute nela toda esta lei."
-    },
-    "31": {
-      "título": "",
-      "texto": "O homem será livre da iniquidade, porém a mulher levará a sua iniquidade."
+    "versiculos": {
+        "1": "O Senhor disse a Moisés:",
+        "2": "— Ordene aos filhos de Israel que expulsem do arraial todo leproso, todo o que tiver um fluxo e todo impuro por ter tocado em algum morto.",
+        "3": "Tanto homem como mulher devem ser expulsos do arraial, para que não contaminem o arraial, no meio do qual eu habito.",
+        "4": "Os filhos de Israel fizeram assim e os expulsaram do arraial. Como o Senhor havia falado a Moisés, assim fizeram os filhos de Israel.",
+        "5": "O Senhor disse ainda a Moisés:",
+        "6": "— Diga aos filhos de Israel: Quando um homem ou uma mulher cometer algum dos pecados que as pessoas cometem, ofendendo ao Senhor , tal pessoa é culpada.",
+        "7": "Confessará o pecado que cometer e, pela culpa, fará plena restituição, lhe acrescentará a sua quinta parte, e dará tudo àquele contra quem se fez culpado.",
+        "8": "Mas, se esse homem não tiver parente chegado, a quem possa fazer restituição pela culpa, então o que se restitui ao Senhor pela culpa será do sacerdote, além do carneiro expiatório com que se fizer expiação pelo culpado.",
+        "9": "Toda oferta de todas as coisas santas dos filhos de Israel, que trouxerem ao sacerdote, será deste",
+        "10": "e também as coisas sagradas de cada um; o que alguém der ao sacerdote será deste.",
+        "11": "O Senhor disse a Moisés:",
+        "12": "— Fale aos filhos de Israel e diga-lhes: Se a mulher de alguém se desviar e lhe for infiel,",
+        "13": "de maneira que algum homem tenha tido relações com ela, e for oculto aos olhos de seu marido, e ela o tiver ocultado, havendo-se ela contaminado, e contra ela não houver testemunha, e não for surpreendida em flagrante,",
+        "14": "e o espírito de ciúmes vier sobre o marido, e ele tiver ciúmes de sua mulher, por ela se haver contaminado, ou se ele tiver ciúmes, mesmo que ela não tenha se contaminado,",
+        "15": "então esse homem levará a sua mulher ao sacerdote, juntamente com a sua oferta por ela: dois litros de farinha de cevada, sobre a qual não derramará azeite, nem sobre ela porá incenso, pois é oferta de cereais por ciúmes, oferta memorativa, que traz a iniquidade à memória.",
+        "16": "— O sacerdote levará a mulher para a frente e a colocará diante do Senhor .",
+        "17": "O sacerdote colocará um pouco de água santa num vaso de barro; também pegará do pó que houver no chão do tabernáculo e o colocará na água.",
+        "18": "Apresentará a mulher diante do Senhor e soltará a cabeleira dela; e lhe porá nas mãos a oferta memorativa de cereais, que é a oferta de cereais por ciúmes. A água amarga, que traz consigo a maldição, estará na mão do sacerdote.",
+        "19": "O sacerdote fará com que a mulher jure, dizendo-lhe: “Se ninguém teve relações com você, e se você não se desviou para a impureza, estando sob o domínio de seu marido, você será livre destas águas amargas, que trazem maldição.",
+        "20": "Mas, se você se desviou, quando sob o domínio de seu marido, e se contaminou, e algum homem, que não é o seu marido, teve relações com você…”",
+        "21": "Então o sacerdote fará com que a mulher tome o juramento de maldição e lhe dirá: “O Senhor ponha você por maldição e por praga no meio do seu povo, fazendo com que você fique estéril e inche o seu ventre;",
+        "22": "e que esta água amaldiçoante penetre nas suas entranhas, para fazer com que inche o seu ventre e você fique estéril.” Então a mulher dirá: “Amém! Amém!”",
+        "23": "— O sacerdote escreverá estas maldições num livro e, com a água amarga, as apagará.",
+        "24": "E fará com que a mulher beba a água amarga, que traz consigo a maldição; e, sendo bebida, lhe causará amargura.",
+        "25": "O sacerdote pegará da mão da mulher a oferta de cereais por ciúmes e a moverá diante do Senhor ; e a trará ao altar.",
+        "26": "Pegará um punhado da oferta de cereais, da oferta memorativa, e o queimará sobre o altar; e depois fará com que a mulher beba a água.",
+        "27": "E, havendo-lhe dado a beber aquela água, se ela tiver se contaminado, tendo sido infiel a seu marido, a água amaldiçoante entrará nela para amargura, e o seu ventre ficará inchado e o útero secará; a mulher será por maldição no meio do seu povo.",
+        "28": "Se a mulher não tiver se contaminado, mas estiver pura, então será livre e poderá ter filhos.",
+        "29": "— Esta é a lei para o caso de ciúmes, quando a mulher, sob o domínio de seu marido, se desviar e for contaminada;",
+        "30": "ou quando sobre o homem vier o espírito de ciúmes, e tiver ciúmes de sua mulher, apresente a mulher diante do Senhor , e o sacerdote execute nela toda esta lei.",
+        "31": "O homem será livre da iniquidade, porém a mulher levará a sua iniquidade."
     }
-  }
 }

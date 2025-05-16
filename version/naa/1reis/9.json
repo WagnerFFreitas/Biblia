@@ -1,118 +1,38 @@
 {
-  "livro": "1 Reis",
-  "capítulo": 9,
-  "versículos": {
-    "1": {
-      "título": "A aliança de Deus com Salomão",
-      "texto": "E aconteceu que, quando Salomão acabou de edificar a Casa do Senhor , o palácio real e tudo o que tinha desejado e decidido fazer,"
+    "livro": "1 Reis",
+    "capitulo": 9,
+    "titulos": {
+        "1": "A aliança de Deus com Salomão",
+        "10": "As demais atividades de Salomão"
     },
-    "2": {
-      "título": "",
-      "texto": "o Senhor tornou a aparecer-lhe, como tinha aparecido em Gibeão."
-    },
-    "3": {
-      "título": "",
-      "texto": "E o Senhor lhe disse:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Se você andar diante de mim como fez o seu pai Davi, com integridade de coração e com sinceridade, fazendo segundo tudo o que lhe ordenei e guardando os meus estatutos e os meus juízos,"
-    },
-    "5": {
-      "título": "",
-      "texto": "também confirmarei o trono de seu reino sobre Israel para sempre, como prometi a Davi, seu pai, dizendo: “Nunca lhe faltará sucessor ao trono de Israel.”"
-    },
-    "6": {
-      "título": "",
-      "texto": "Porém, se vocês ou os seus filhos se afastarem de mim e não guardarem os meus mandamentos e os meus estatutos, que eu lhes prescrevi, e se servirem outros deuses e os adorarem,"
-    },
-    "7": {
-      "título": "",
-      "texto": "então eliminarei Israel da terra que lhe dei, e lançarei para longe da minha presença este templo, que santifiquei ao meu nome. E Israel virá a ser motivo de provérbio e de escárnio entre todos os povos."
-    },
-    "8": {
-      "título": "",
-      "texto": "E todo aquele que passar por este templo, agora tão exaltado, ficará espantado e zombará. E perguntarão: “Por que o Senhor fez isto com esta terra e este templo?”"
-    },
-    "9": {
-      "título": "",
-      "texto": "E a resposta será: “Porque deixaram o Senhor , seu Deus, que tirou da terra do Egito os seus pais, e se apegaram a outros deuses, os adoraram e os serviram. Por isso o Senhor trouxe sobre eles todo este mal.”"
-    },
-    "10": {
-      "título": "As demais atividades de Salomão",
-      "texto": "Ao fim de vinte anos, Salomão havia terminado as duas casas, a Casa do Senhor e o palácio real."
-    },
-    "11": {
-      "título": "",
-      "texto": "Como Hirão, rei de Tiro, havia trazido a Salomão madeira de cedro e de cipreste e ouro, tanto quanto ele precisava, este lhe deu vinte cidades na terra da Galileia."
-    },
-    "12": {
-      "título": "",
-      "texto": "Hirão de Tiro foi ver as cidades que Salomão lhe tinha dado, mas elas não lhe agradaram."
-    },
-    "13": {
-      "título": "",
-      "texto": "Por isso disse a Salomão:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Hirão tinha enviado ao rei quatro toneladas de ouro."
-    },
-    "15": {
-      "título": "",
-      "texto": "A razão por que Salomão impôs o trabalho forçado é esta: construir a Casa do Senhor , o seu próprio palácio, a fortaleza de Milo e a muralha de Jerusalém, bem como Hazor, Megido e Gezer."
-    },
-    "16": {
-      "título": "",
-      "texto": "Porque Faraó, rei do Egito, havia atacado e conquistado Gezer, queimando a cidade e matando os cananeus que moravam nela, entregando-a como dote à sua filha, mulher de Salomão."
-    },
-    "17": {
-      "título": "",
-      "texto": "Assim, Salomão reconstruiu Gezer, Bete-Horom-de-Baixo,"
-    },
-    "18": {
-      "título": "",
-      "texto": "Baalate, Tadmor, no deserto daquela terra,"
-    },
-    "19": {
-      "título": "",
-      "texto": "todas as cidades-armazéns que Salomão tinha, as cidades para os carros de guerra, as cidades para os cavaleiros e o que desejou enfim construir em Jerusalém, no Líbano e em toda a terra do seu domínio."
-    },
-    "20": {
-      "título": "",
-      "texto": "Quanto a todo o povo que restou dos amorreus, heteus, ferezeus, heveus e jebuseus e que não eram dos filhos de Israel,"
-    },
-    "21": {
-      "título": "",
-      "texto": "e aos seus filhos, que restaram depois deles na terra, os quais os filhos de Israel não puderam destruir totalmente, esses Salomão reduziu à condição de trabalhadores forçados, até hoje."
-    },
-    "22": {
-      "título": "",
-      "texto": "Mas Salomão não obrigou nenhum israelita a trabalhar como escravo. Os israelitas eram homens de guerra, seus oficiais, seus comandantes, seus capitães, chefes dos seus carros de guerra e dos seus cavaleiros."
-    },
-    "23": {
-      "título": "",
-      "texto": "Os principais oficiais que estavam encarregados da obra de Salomão eram quinhentos e cinquenta, que tinham a seu encargo o povo que trabalhava na obra."
-    },
-    "24": {
-      "título": "",
-      "texto": "Quando a filha de Faraó se mudou da Cidade de Davi para o palácio que Salomão havia construído para ela, então ele construiu Milo."
-    },
-    "25": {
-      "título": "",
-      "texto": "Três vezes por ano Salomão oferecia holocaustos e sacrifícios pacíficos sobre o altar que havia edificado ao Senhor e queimava incenso sobre o altar diante do Senhor . Assim ele terminou a construção do templo."
-    },
-    "26": {
-      "título": "",
-      "texto": "O rei Salomão também construiu uma frota de navios em Eziom-Geber, que fica perto de Elate, na praia do mar Vermelho, na terra de Edom."
-    },
-    "27": {
-      "título": "",
-      "texto": "Hirão enviou, com aquela frota, os seus servos, marinheiros conhecedores do mar, para acompanharem os servos de Salomão."
-    },
-    "28": {
-      "título": "",
-      "texto": "Chegaram a Ofir e de lá trouxeram para o rei Salomão mais de catorze toneladas de ouro."
+    "versiculos": {
+        "1": "E aconteceu que, quando Salomão acabou de edificar a Casa do Senhor , o palácio real e tudo o que tinha desejado e decidido fazer,",
+        "2": "o Senhor tornou a aparecer-lhe, como tinha aparecido em Gibeão.",
+        "3": "E o Senhor lhe disse:",
+        "4": "Se você andar diante de mim como fez o seu pai Davi, com integridade de coração e com sinceridade, fazendo segundo tudo o que lhe ordenei e guardando os meus estatutos e os meus juízos,",
+        "5": "também confirmarei o trono de seu reino sobre Israel para sempre, como prometi a Davi, seu pai, dizendo: “Nunca lhe faltará sucessor ao trono de Israel.”",
+        "6": "Porém, se vocês ou os seus filhos se afastarem de mim e não guardarem os meus mandamentos e os meus estatutos, que eu lhes prescrevi, e se servirem outros deuses e os adorarem,",
+        "7": "então eliminarei Israel da terra que lhe dei, e lançarei para longe da minha presença este templo, que santifiquei ao meu nome. E Israel virá a ser motivo de provérbio e de escárnio entre todos os povos.",
+        "8": "E todo aquele que passar por este templo, agora tão exaltado, ficará espantado e zombará. E perguntarão: “Por que o Senhor fez isto com esta terra e este templo?”",
+        "9": "E a resposta será: “Porque deixaram o Senhor , seu Deus, que tirou da terra do Egito os seus pais, e se apegaram a outros deuses, os adoraram e os serviram. Por isso o Senhor trouxe sobre eles todo este mal.”",
+        "10": "Ao fim de vinte anos, Salomão havia terminado as duas casas, a Casa do Senhor e o palácio real.",
+        "11": "Como Hirão, rei de Tiro, havia trazido a Salomão madeira de cedro e de cipreste e ouro, tanto quanto ele precisava, este lhe deu vinte cidades na terra da Galileia.",
+        "12": "Hirão de Tiro foi ver as cidades que Salomão lhe tinha dado, mas elas não lhe agradaram.",
+        "13": "Por isso disse a Salomão:",
+        "14": "Hirão tinha enviado ao rei quatro toneladas de ouro.",
+        "15": "A razão por que Salomão impôs o trabalho forçado é esta: construir a Casa do Senhor , o seu próprio palácio, a fortaleza de Milo e a muralha de Jerusalém, bem como Hazor, Megido e Gezer.",
+        "16": "Porque Faraó, rei do Egito, havia atacado e conquistado Gezer, queimando a cidade e matando os cananeus que moravam nela, entregando-a como dote à sua filha, mulher de Salomão.",
+        "17": "Assim, Salomão reconstruiu Gezer, Bete-Horom-de-Baixo,",
+        "18": "Baalate, Tadmor, no deserto daquela terra,",
+        "19": "todas as cidades-armazéns que Salomão tinha, as cidades para os carros de guerra, as cidades para os cavaleiros e o que desejou enfim construir em Jerusalém, no Líbano e em toda a terra do seu domínio.",
+        "20": "Quanto a todo o povo que restou dos amorreus, heteus, ferezeus, heveus e jebuseus e que não eram dos filhos de Israel,",
+        "21": "e aos seus filhos, que restaram depois deles na terra, os quais os filhos de Israel não puderam destruir totalmente, esses Salomão reduziu à condição de trabalhadores forçados, até hoje.",
+        "22": "Mas Salomão não obrigou nenhum israelita a trabalhar como escravo. Os israelitas eram homens de guerra, seus oficiais, seus comandantes, seus capitães, chefes dos seus carros de guerra e dos seus cavaleiros.",
+        "23": "Os principais oficiais que estavam encarregados da obra de Salomão eram quinhentos e cinquenta, que tinham a seu encargo o povo que trabalhava na obra.",
+        "24": "Quando a filha de Faraó se mudou da Cidade de Davi para o palácio que Salomão havia construído para ela, então ele construiu Milo.",
+        "25": "Três vezes por ano Salomão oferecia holocaustos e sacrifícios pacíficos sobre o altar que havia edificado ao Senhor e queimava incenso sobre o altar diante do Senhor . Assim ele terminou a construção do templo.",
+        "26": "O rei Salomão também construiu uma frota de navios em Eziom-Geber, que fica perto de Elate, na praia do mar Vermelho, na terra de Edom.",
+        "27": "Hirão enviou, com aquela frota, os seus servos, marinheiros conhecedores do mar, para acompanharem os servos de Salomão.",
+        "28": "Chegaram a Ofir e de lá trouxeram para o rei Salomão mais de catorze toneladas de ouro."
     }
-  }
 }

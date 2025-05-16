@@ -1,106 +1,34 @@
 {
-  "livro": "Êxodo",
-  "capítulo": 7,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Então o Senhor disse a Moisés:"
+    "livro": "Êxodo",
+    "capitulo": 7,
+    "titulos": {
+        "14": "Primeira praga: águas viram sangue"
     },
-    "2": {
-      "título": "",
-      "texto": "Você falará tudo o que eu lhe ordenar e Arão, seu irmão, falará a Faraó, para que deixe sair da sua terra os filhos de Israel."
-    },
-    "3": {
-      "título": "",
-      "texto": "Eu, porém, endurecerei o coração de Faraó e multiplicarei na terra do Egito os meus sinais e as minhas maravilhas."
-    },
-    "4": {
-      "título": "",
-      "texto": "Faraó não vai ouvir vocês; e eu porei a mão sobre o Egito e farei sair os meus exércitos, o meu povo, os filhos de Israel, da terra do Egito, com grandes manifestações de juízo."
-    },
-    "5": {
-      "título": "",
-      "texto": "Os egípcios saberão que eu sou o Senhor , quando eu estender a mão sobre o Egito e tirar do meio deles os filhos de Israel."
-    },
-    "6": {
-      "título": "",
-      "texto": "Assim fizeram Moisés e Arão; como o Senhor lhes havia ordenado, assim fizeram."
-    },
-    "7": {
-      "título": "",
-      "texto": "Moisés tinha oitenta anos, e Arão, oitenta e três, quando falaram com Faraó."
-    },
-    "8": {
-      "título": "",
-      "texto": "O Senhor falou a Moisés e a Arão:"
-    },
-    "9": {
-      "título": "",
-      "texto": "— Quando Faraó lhes disser: “Façam um milagre”, você, Moisés, dirá a Arão: “Pegue o seu bordão e jogue-o diante de Faraó”; e o bordão virará uma serpente."
-    },
-    "10": {
-      "título": "",
-      "texto": "Então Moisés e Arão foram até Faraó e fizeram como o Senhor lhes havia ordenado. Arão jogou o seu bordão diante de Faraó e diante dos seus oficiais, e ele virou uma serpente."
-    },
-    "11": {
-      "título": "",
-      "texto": "Faraó, porém, mandou vir os sábios e encantadores, e eles, os sábios do Egito, fizeram também o mesmo com as suas ciências ocultas."
-    },
-    "12": {
-      "título": "",
-      "texto": "Pois cada um deles jogou o seu bordão, e eles viraram serpentes; mas o bordão de Arão devorou os bordões deles."
-    },
-    "13": {
-      "título": "",
-      "texto": "No entanto, o coração de Faraó se endureceu, e não os ouviu, como o Senhor tinha dito."
-    },
-    "14": {
-      "título": "Primeira praga: águas viram sangue",
-      "texto": "O Senhor disse a Moisés:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Vá falar com Faraó pela manhã. Ele sairá às águas e você estará à espera dele na beira do rio. Leve o bordão que virou serpente"
-    },
-    "16": {
-      "título": "",
-      "texto": "e diga a Faraó: “O Senhor , o Deus dos hebreus, me enviou para dizer-lhe: ‘Deixe o meu povo ir, para que me adore no deserto.’ Mas até agora você não quis ouvir."
-    },
-    "17": {
-      "título": "",
-      "texto": "Assim diz o Senhor : ‘Nisto você saberá que eu sou o Senhor : com este bordão que tenho na mão ferirei as águas do rio, e elas vão virar sangue."
-    },
-    "18": {
-      "título": "",
-      "texto": "Os peixes que estão no rio vão morrer, o rio vai cheirar mal, e os egípcios terão nojo de beber água do rio.’”"
-    },
-    "19": {
-      "título": "",
-      "texto": "O Senhor disse ainda a Moisés:"
-    },
-    "20": {
-      "título": "",
-      "texto": "Moisés e Arão fizeram como o Senhor lhes havia ordenado: Arão, levantando o bordão, feriu as águas que estavam no rio, à vista de Faraó e seus oficiais; e toda a água do rio virou sangue."
-    },
-    "21": {
-      "título": "",
-      "texto": "Os peixes que estavam no rio morreram, o rio cheirou mal, e os egípcios não podiam beber a água do rio; e houve sangue por toda a terra do Egito."
-    },
-    "22": {
-      "título": "",
-      "texto": "Porém os magos do Egito fizeram o mesmo com as suas ciências ocultas, de maneira que o coração de Faraó se endureceu, e não os ouviu, como o Senhor tinha dito."
-    },
-    "23": {
-      "título": "",
-      "texto": "Faraó virou-se e foi para casa, sem dar atenção ao que havia acontecido."
-    },
-    "24": {
-      "título": "",
-      "texto": "Todos os egípcios cavaram junto ao rio para encontrar água para beber, pois das águas do rio não podiam beber."
-    },
-    "25": {
-      "título": "",
-      "texto": "Assim se passaram sete dias, depois que o Senhor feriu o rio."
+    "versiculos": {
+        "1": "Então o Senhor disse a Moisés:",
+        "2": "Você falará tudo o que eu lhe ordenar e Arão, seu irmão, falará a Faraó, para que deixe sair da sua terra os filhos de Israel.",
+        "3": "Eu, porém, endurecerei o coração de Faraó e multiplicarei na terra do Egito os meus sinais e as minhas maravilhas.",
+        "4": "Faraó não vai ouvir vocês; e eu porei a mão sobre o Egito e farei sair os meus exércitos, o meu povo, os filhos de Israel, da terra do Egito, com grandes manifestações de juízo.",
+        "5": "Os egípcios saberão que eu sou o Senhor , quando eu estender a mão sobre o Egito e tirar do meio deles os filhos de Israel.",
+        "6": "Assim fizeram Moisés e Arão; como o Senhor lhes havia ordenado, assim fizeram.",
+        "7": "Moisés tinha oitenta anos, e Arão, oitenta e três, quando falaram com Faraó.",
+        "8": "O Senhor falou a Moisés e a Arão:",
+        "9": "— Quando Faraó lhes disser: “Façam um milagre”, você, Moisés, dirá a Arão: “Pegue o seu bordão e jogue-o diante de Faraó”; e o bordão virará uma serpente.",
+        "10": "Então Moisés e Arão foram até Faraó e fizeram como o Senhor lhes havia ordenado. Arão jogou o seu bordão diante de Faraó e diante dos seus oficiais, e ele virou uma serpente.",
+        "11": "Faraó, porém, mandou vir os sábios e encantadores, e eles, os sábios do Egito, fizeram também o mesmo com as suas ciências ocultas.",
+        "12": "Pois cada um deles jogou o seu bordão, e eles viraram serpentes; mas o bordão de Arão devorou os bordões deles.",
+        "13": "No entanto, o coração de Faraó se endureceu, e não os ouviu, como o Senhor tinha dito.",
+        "14": "O Senhor disse a Moisés:",
+        "15": "Vá falar com Faraó pela manhã. Ele sairá às águas e você estará à espera dele na beira do rio. Leve o bordão que virou serpente",
+        "16": "e diga a Faraó: “O Senhor , o Deus dos hebreus, me enviou para dizer-lhe: ‘Deixe o meu povo ir, para que me adore no deserto.’ Mas até agora você não quis ouvir.",
+        "17": "Assim diz o Senhor : ‘Nisto você saberá que eu sou o Senhor : com este bordão que tenho na mão ferirei as águas do rio, e elas vão virar sangue.",
+        "18": "Os peixes que estão no rio vão morrer, o rio vai cheirar mal, e os egípcios terão nojo de beber água do rio.’”",
+        "19": "O Senhor disse ainda a Moisés:",
+        "20": "Moisés e Arão fizeram como o Senhor lhes havia ordenado: Arão, levantando o bordão, feriu as águas que estavam no rio, à vista de Faraó e seus oficiais; e toda a água do rio virou sangue.",
+        "21": "Os peixes que estavam no rio morreram, o rio cheirou mal, e os egípcios não podiam beber a água do rio; e houve sangue por toda a terra do Egito.",
+        "22": "Porém os magos do Egito fizeram o mesmo com as suas ciências ocultas, de maneira que o coração de Faraó se endureceu, e não os ouviu, como o Senhor tinha dito.",
+        "23": "Faraó virou-se e foi para casa, sem dar atenção ao que havia acontecido.",
+        "24": "Todos os egípcios cavaram junto ao rio para encontrar água para beber, pois das águas do rio não podiam beber.",
+        "25": "Assim se passaram sete dias, depois que o Senhor feriu o rio."
     }
-  }
 }

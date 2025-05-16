@@ -1,94 +1,33 @@
 {
-  "livro": "Jó",
-  "capítulo": 14,
-  "versículos": {
-    "1": {
-      "título": "A brevidade da vida",
-      "texto": "“O ser humano, nascido de mulher,"
+    "livro": "Jó",
+    "capitulo": 14,
+    "titulos": {
+        "1": "A brevidade da vida",
+        "13": "Eu esperarei a minha mudança",
+        "18": "Tu destróis a esperança humana"
     },
-    "2": {
-      "título": "",
-      "texto": "Nasce como a flor e murcha;"
-    },
-    "3": {
-      "título": "",
-      "texto": "Sobre ele abres os teus olhos?"
-    },
-    "4": {
-      "título": "",
-      "texto": "Quem poderá tirar coisa pura"
-    },
-    "5": {
-      "título": "",
-      "texto": "Visto que os dias do ser humano"
-    },
-    "6": {
-      "título": "",
-      "texto": "Desvia dele o teu olhar,"
-    },
-    "7": {
-      "título": "",
-      "texto": "“Porque há esperança"
-    },
-    "8": {
-      "título": "",
-      "texto": "Se as suas raízes"
-    },
-    "9": {
-      "título": "",
-      "texto": "ao cheiro das águas brotará"
-    },
-    "10": {
-      "título": "",
-      "texto": "Mas, se alguém morre,"
-    },
-    "11": {
-      "título": "",
-      "texto": "“Como as águas do lago"
-    },
-    "12": {
-      "título": "",
-      "texto": "assim o ser humano se deita"
-    },
-    "13": {
-      "título": "Eu esperarei a minha mudança",
-      "texto": "“Quem dera me escondesses"
-    },
-    "14": {
-      "título": "",
-      "texto": "Quando alguém morre,"
-    },
-    "15": {
-      "título": "",
-      "texto": "Tu me chamarias,"
-    },
-    "16": {
-      "título": "",
-      "texto": "e até contarias os meus passos"
-    },
-    "17": {
-      "título": "",
-      "texto": "A minha transgressão"
-    },
-    "18": {
-      "título": "Tu destróis a esperança humana",
-      "texto": "“Mas como o monte"
-    },
-    "19": {
-      "título": "",
-      "texto": "como as águas gastam as pedras,"
-    },
-    "20": {
-      "título": "",
-      "texto": "Tu prevaleces para sempre"
-    },
-    "21": {
-      "título": "",
-      "texto": "Os seus filhos recebem honras,"
-    },
-    "22": {
-      "título": "",
-      "texto": "Ele sente as dores"
+    "versiculos": {
+        "1": "“O ser humano, nascido de mulher,",
+        "2": "Nasce como a flor e murcha;",
+        "3": "Sobre ele abres os teus olhos?",
+        "4": "Quem poderá tirar coisa pura",
+        "5": "Visto que os dias do ser humano",
+        "6": "Desvia dele o teu olhar,",
+        "7": "“Porque há esperança",
+        "8": "Se as suas raízes",
+        "9": "ao cheiro das águas brotará",
+        "10": "Mas, se alguém morre,",
+        "11": "“Como as águas do lago",
+        "12": "assim o ser humano se deita",
+        "13": "“Quem dera me escondesses",
+        "14": "Quando alguém morre,",
+        "15": "Tu me chamarias,",
+        "16": "e até contarias os meus passos",
+        "17": "A minha transgressão",
+        "18": "“Mas como o monte",
+        "19": "como as águas gastam as pedras,",
+        "20": "Tu prevaleces para sempre",
+        "21": "Os seus filhos recebem honras,",
+        "22": "Ele sente as dores"
     }
-  }
 }

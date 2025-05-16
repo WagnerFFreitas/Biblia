@@ -1,82 +1,30 @@
 {
-  "livro": "Jeremias",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "O chamado de Jeremias",
-      "texto": "Palavras de Jeremias, filho de Hilquias, um dos sacerdotes que estavam em Anatote, na terra de Benjamim."
+    "livro": "Jeremias",
+    "capitulo": 1,
+    "titulos": {
+        "1": "O chamado de Jeremias",
+        "11": "A visão do ramo de amendoeira",
+        "13": "A visão da panela"
     },
-    "2": {
-      "título": "",
-      "texto": "A palavra do Senhor veio a ele no décimo terceiro ano do reinado de Josias, filho de Amom e rei de Judá."
-    },
-    "3": {
-      "título": "",
-      "texto": "Veio também nos dias de Jeoaquim, filho de Josias, rei de Judá, até o fim do décimo primeiro ano do reinado de Zedequias, filho de Josias, rei de Judá. No quinto mês desse ano, os moradores de Jerusalém foram levados ao exílio."
-    },
-    "4": {
-      "título": "",
-      "texto": "A palavra do Senhor veio a mim, dizendo:"
-    },
-    "5": {
-      "título": "",
-      "texto": "“Antes de formá-lo"
-    },
-    "6": {
-      "título": "",
-      "texto": "Então eu disse:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Mas o Senhor me disse:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Não tenha medo de ninguém,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Depois, o Senhor estendeu a mão e tocou na minha boca. E o Senhor me disse:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Veja! Hoje eu o constituo"
-    },
-    "11": {
-      "título": "A visão do ramo de amendoeira",
-      "texto": "A palavra do Senhor veio a mim, dizendo:"
-    },
-    "12": {
-      "título": "",
-      "texto": "O Senhor me disse:"
-    },
-    "13": {
-      "título": "A visão da panela",
-      "texto": "Outra vez a palavra do Senhor veio a mim, dizendo:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Então o Senhor disse:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Pois eis que convoco todas as tribos dos reinos do Norte, diz o Senhor ; elas virão, e cada reino porá o seu trono à entrada dos portões de Jerusalém e contra todas as suas muralhas ao redor e contra todas as cidades de Judá."
-    },
-    "16": {
-      "título": "",
-      "texto": "Pronunciarei as minhas sentenças contra os moradores dessas cidades, por causa de toda a maldade deles; pois me abandonaram, queimaram incenso a deuses estranhos e adoraram as obras das suas próprias mãos."
-    },
-    "17": {
-      "título": "",
-      "texto": "Você, Jeremias, prepare-se e vá dizer-lhes tudo o que eu ordenar a você. Não se assuste por causa deles, para que eu não tenha de fazer com que você fique assustado na presença deles."
-    },
-    "18": {
-      "título": "",
-      "texto": "Quanto a mim, eis que hoje ponho você por cidade fortificada, por coluna de ferro e por muralha de bronze, contra todo o país, contra os reis de Judá, contra as suas autoridades, contra os seus sacerdotes e contra o seu povo."
-    },
-    "19": {
-      "título": "",
-      "texto": "Eles lutarão contra você, mas não conseguirão derrotá-lo; porque eu estou com você para livrá-lo, diz o Senhor ."
+    "versiculos": {
+        "1": "Palavras de Jeremias, filho de Hilquias, um dos sacerdotes que estavam em Anatote, na terra de Benjamim.",
+        "2": "A palavra do Senhor veio a ele no décimo terceiro ano do reinado de Josias, filho de Amom e rei de Judá.",
+        "3": "Veio também nos dias de Jeoaquim, filho de Josias, rei de Judá, até o fim do décimo primeiro ano do reinado de Zedequias, filho de Josias, rei de Judá. No quinto mês desse ano, os moradores de Jerusalém foram levados ao exílio.",
+        "4": "A palavra do Senhor veio a mim, dizendo:",
+        "5": "“Antes de formá-lo",
+        "6": "Então eu disse:",
+        "7": "Mas o Senhor me disse:",
+        "8": "Não tenha medo de ninguém,",
+        "9": "Depois, o Senhor estendeu a mão e tocou na minha boca. E o Senhor me disse:",
+        "10": "Veja! Hoje eu o constituo",
+        "11": "A palavra do Senhor veio a mim, dizendo:",
+        "12": "O Senhor me disse:",
+        "13": "Outra vez a palavra do Senhor veio a mim, dizendo:",
+        "14": "Então o Senhor disse:",
+        "15": "Pois eis que convoco todas as tribos dos reinos do Norte, diz o Senhor ; elas virão, e cada reino porá o seu trono à entrada dos portões de Jerusalém e contra todas as suas muralhas ao redor e contra todas as cidades de Judá.",
+        "16": "Pronunciarei as minhas sentenças contra os moradores dessas cidades, por causa de toda a maldade deles; pois me abandonaram, queimaram incenso a deuses estranhos e adoraram as obras das suas próprias mãos.",
+        "17": "Você, Jeremias, prepare-se e vá dizer-lhes tudo o que eu ordenar a você. Não se assuste por causa deles, para que eu não tenha de fazer com que você fique assustado na presença deles.",
+        "18": "Quanto a mim, eis que hoje ponho você por cidade fortificada, por coluna de ferro e por muralha de bronze, contra todo o país, contra os reis de Judá, contra as suas autoridades, contra os seus sacerdotes e contra o seu povo.",
+        "19": "Eles lutarão contra você, mas não conseguirão derrotá-lo; porque eu estou com você para livrá-lo, diz o Senhor ."
     }
-  }
 }

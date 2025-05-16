@@ -1,86 +1,31 @@
 {
-  "livro": "Juízes",
-  "capítulo": 15,
-  "versículos": {
-    "1": {
-      "título": "Sansão põe fogo nos campos dos filisteus",
-      "texto": "Passado algum tempo, nos dias da colheita do trigo, Sansão, levando um cabrito, foi visitar a sua mulher. E dizia:"
+    "livro": "Juízes",
+    "capitulo": 15,
+    "titulos": {
+        "1": "Sansão põe fogo nos campos dos filisteus",
+        "9": "Os homens de Judá amarram Sansão",
+        "14": "Sansão mata mil homens com uma queixada de jumento"
     },
-    "2": {
-      "título": "",
-      "texto": "e lhe disse:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Mas Sansão disse:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Então saiu, apanhou trezentas raposas e pegou um bom número de tochas. Amarrou as raposas duas a duas pela cauda e prendeu uma tocha em cada par."
-    },
-    "5": {
-      "título": "",
-      "texto": "Pôs fogo nas tochas e largou as raposas nas plantações dos filisteus. Assim, incendiou tanto os feixes como o cereal que ainda estava por ser colhido, além das vinhas e dos olivais."
-    },
-    "6": {
-      "título": "",
-      "texto": "Os filisteus perguntaram:"
-    },
-    "7": {
-      "título": "",
-      "texto": "E Sansão disse a eles:"
-    },
-    "8": {
-      "título": "",
-      "texto": "E ele os atacou com fúria, matando muitos deles. Depois desceu e habitou numa caverna da rocha de Etã."
-    },
-    "9": {
-      "título": "Os homens de Judá amarram Sansão",
-      "texto": "Então os filisteus subiram e acamparam em Judá, espalhando-se por Leí."
-    },
-    "10": {
-      "título": "",
-      "texto": "Os homens de Judá perguntaram aos filisteus:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Então três mil homens de Judá foram até a caverna da rocha de Etã e disseram a Sansão:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Os homens de Judá disseram a Sansão:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Eles lhe disseram:"
-    },
-    "14": {
-      "título": "Sansão mata mil homens com uma queixada de jumento",
-      "texto": "Quando Sansão chegou a Leí, os filisteus foram gritando ao encontro dele. Mas o Espírito do Senhor de tal maneira se apossou de Sansão, que as cordas que ele tinha nos braços se tornaram como fios de linho queimados, e as amarras que ele tinha nas mãos se soltaram."
-    },
-    "15": {
-      "título": "",
-      "texto": "Achou uma queixada de jumento, ainda fresca, pegou-a na mão e com ela matou mil homens."
-    },
-    "16": {
-      "título": "",
-      "texto": "E disse:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Quando acabou de falar, jogou fora a queixada. E aquele lugar foi chamado de Ramate-Leí."
-    },
-    "18": {
-      "título": "",
-      "texto": "Sentindo muita sede, Sansão clamou ao Senhor e disse:"
-    },
-    "19": {
-      "título": "",
-      "texto": "Então o Senhor fendeu a cavidade que estava em Leí, e dela saiu água. Sansão bebeu, recobrou alento e reviveu. Por isso aquele lugar se chama En-Hacoré até o dia de hoje."
-    },
-    "20": {
-      "título": "",
-      "texto": "Sansão julgou Israel, nos dias dos filisteus, durante vinte anos."
+    "versiculos": {
+        "1": "Passado algum tempo, nos dias da colheita do trigo, Sansão, levando um cabrito, foi visitar a sua mulher. E dizia:",
+        "2": "e lhe disse:",
+        "3": "Mas Sansão disse:",
+        "4": "Então saiu, apanhou trezentas raposas e pegou um bom número de tochas. Amarrou as raposas duas a duas pela cauda e prendeu uma tocha em cada par.",
+        "5": "Pôs fogo nas tochas e largou as raposas nas plantações dos filisteus. Assim, incendiou tanto os feixes como o cereal que ainda estava por ser colhido, além das vinhas e dos olivais.",
+        "6": "Os filisteus perguntaram:",
+        "7": "E Sansão disse a eles:",
+        "8": "E ele os atacou com fúria, matando muitos deles. Depois desceu e habitou numa caverna da rocha de Etã.",
+        "9": "Então os filisteus subiram e acamparam em Judá, espalhando-se por Leí.",
+        "10": "Os homens de Judá perguntaram aos filisteus:",
+        "11": "Então três mil homens de Judá foram até a caverna da rocha de Etã e disseram a Sansão:",
+        "12": "Os homens de Judá disseram a Sansão:",
+        "13": "Eles lhe disseram:",
+        "14": "Quando Sansão chegou a Leí, os filisteus foram gritando ao encontro dele. Mas o Espírito do Senhor de tal maneira se apossou de Sansão, que as cordas que ele tinha nos braços se tornaram como fios de linho queimados, e as amarras que ele tinha nas mãos se soltaram.",
+        "15": "Achou uma queixada de jumento, ainda fresca, pegou-a na mão e com ela matou mil homens.",
+        "16": "E disse:",
+        "17": "Quando acabou de falar, jogou fora a queixada. E aquele lugar foi chamado de Ramate-Leí.",
+        "18": "Sentindo muita sede, Sansão clamou ao Senhor e disse:",
+        "19": "Então o Senhor fendeu a cavidade que estava em Leí, e dela saiu água. Sansão bebeu, recobrou alento e reviveu. Por isso aquele lugar se chama En-Hacoré até o dia de hoje.",
+        "20": "Sansão julgou Israel, nos dias dos filisteus, durante vinte anos."
     }
-  }
 }

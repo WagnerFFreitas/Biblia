@@ -1,98 +1,33 @@
 {
-  "livro": "1 Samuel",
-  "capítulo": 16,
-  "versículos": {
-    "1": {
-      "título": "Davi é ungido rei",
-      "texto": "O Senhor disse a Samuel:"
+    "livro": "1 Samuel",
+    "capitulo": 16,
+    "titulos": {
+        "1": "Davi é ungido rei",
+        "14": "Davi e Saul"
     },
-    "2": {
-      "título": "",
-      "texto": "Samuel respondeu:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Convide Jessé para o sacrifício. Eu lhe mostrarei o que você deve fazer, e você ungirá para mim aquele que eu indicar."
-    },
-    "4": {
-      "título": "",
-      "texto": "Samuel fez o que o Senhor tinha dito e foi a Belém. Os anciãos da cidade saíram ao encontro dele, tremendo, e perguntaram:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Samuel respondeu:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Aconteceu que, quando eles chegaram, Samuel viu Eliabe e disse consigo:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Porém o Senhor disse a Samuel:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Então Jessé chamou Abinadabe e o fez passar diante de Samuel, que disse:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Então Jessé fez passar Samá. Porém Samuel disse:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Assim Jessé fez passar os seus sete filhos diante de Samuel. Porém Samuel disse a Jessé:"
-    },
-    "11": {
-      "título": "",
-      "texto": "E perguntou a Jessé:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Então mandou chamá-lo e o fez entrar. Davi era ruivo, de belos olhos e boa aparência. E o Senhor disse a Samuel:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Samuel pegou o chifre do azeite e ungiu Davi no meio de seus irmãos. E, daquele dia em diante, o Espírito do Senhor se apossou de Davi. Então Samuel se levantou e foi para Ramá."
-    },
-    "14": {
-      "título": "Davi e Saul",
-      "texto": "Depois que o Espírito do Senhor se retirou de Saul, um espírito mau, vindo da parte do Senhor , o atormentava."
-    },
-    "15": {
-      "título": "",
-      "texto": "Então os servos de Saul lhe disseram:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Por isso, mande que estes seus servos, que estão em sua presença, busquem um homem que saiba tocar harpa. Assim, quando o espírito mau, enviado por Deus, vier sobre o senhor, o homem dedilhará a harpa e o senhor se sentirá melhor."
-    },
-    "17": {
-      "título": "",
-      "texto": "E Saul disse aos seus servos:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Um dos moços disse:"
-    },
-    "19": {
-      "título": "",
-      "texto": "Saul enviou mensageiros a Jessé, dizendo:"
-    },
-    "20": {
-      "título": "",
-      "texto": "Então Jessé pegou um jumento e o carregou de pão, um odre de vinho e um cabrito, e enviou-os a Saul por meio de Davi, seu filho."
-    },
-    "21": {
-      "título": "",
-      "texto": "Assim Davi foi a Saul e esteve diante dele. Saul gostou muito dele e fez dele o seu escudeiro."
-    },
-    "22": {
-      "título": "",
-      "texto": "Saul mandou dizer a Jessé:"
-    },
-    "23": {
-      "título": "",
-      "texto": "E sempre que o espírito mau, enviado por Deus, vinha sobre Saul, Davi pegava a harpa e a dedilhava. Então Saul sentia alívio e se achava melhor, e o espírito mau se retirava dele."
+    "versiculos": {
+        "1": "O Senhor disse a Samuel:",
+        "2": "Samuel respondeu:",
+        "3": "Convide Jessé para o sacrifício. Eu lhe mostrarei o que você deve fazer, e você ungirá para mim aquele que eu indicar.",
+        "4": "Samuel fez o que o Senhor tinha dito e foi a Belém. Os anciãos da cidade saíram ao encontro dele, tremendo, e perguntaram:",
+        "5": "Samuel respondeu:",
+        "6": "Aconteceu que, quando eles chegaram, Samuel viu Eliabe e disse consigo:",
+        "7": "Porém o Senhor disse a Samuel:",
+        "8": "Então Jessé chamou Abinadabe e o fez passar diante de Samuel, que disse:",
+        "9": "Então Jessé fez passar Samá. Porém Samuel disse:",
+        "10": "Assim Jessé fez passar os seus sete filhos diante de Samuel. Porém Samuel disse a Jessé:",
+        "11": "E perguntou a Jessé:",
+        "12": "Então mandou chamá-lo e o fez entrar. Davi era ruivo, de belos olhos e boa aparência. E o Senhor disse a Samuel:",
+        "13": "Samuel pegou o chifre do azeite e ungiu Davi no meio de seus irmãos. E, daquele dia em diante, o Espírito do Senhor se apossou de Davi. Então Samuel se levantou e foi para Ramá.",
+        "14": "Depois que o Espírito do Senhor se retirou de Saul, um espírito mau, vindo da parte do Senhor , o atormentava.",
+        "15": "Então os servos de Saul lhe disseram:",
+        "16": "Por isso, mande que estes seus servos, que estão em sua presença, busquem um homem que saiba tocar harpa. Assim, quando o espírito mau, enviado por Deus, vier sobre o senhor, o homem dedilhará a harpa e o senhor se sentirá melhor.",
+        "17": "E Saul disse aos seus servos:",
+        "18": "Um dos moços disse:",
+        "19": "Saul enviou mensageiros a Jessé, dizendo:",
+        "20": "Então Jessé pegou um jumento e o carregou de pão, um odre de vinho e um cabrito, e enviou-os a Saul por meio de Davi, seu filho.",
+        "21": "Assim Davi foi a Saul e esteve diante dele. Saul gostou muito dele e fez dele o seu escudeiro.",
+        "22": "Saul mandou dizer a Jessé:",
+        "23": "E sempre que o espírito mau, enviado por Deus, vinha sobre Saul, Davi pegava a harpa e a dedilhava. Então Saul sentia alívio e se achava melhor, e o espírito mau se retirava dele."
     }
-  }
 }

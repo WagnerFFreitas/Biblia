@@ -1,122 +1,39 @@
 {
-  "livro": "Isaías",
-  "capítulo": 41,
-  "versículos": {
-    "1": {
-      "título": "Deus promete salvar o povo de Israel",
-      "texto": "“Calem-se diante de mim, ó ilhas!"
+    "livro": "Isaías",
+    "capitulo": 41,
+    "titulos": {
+        "1": "Deus promete salvar o povo de Israel",
+        "21": "O Senhor desafia os deuses"
     },
-    "2": {
-      "título": "",
-      "texto": "“Quem fez surgir no Oriente"
-    },
-    "3": {
-      "título": "",
-      "texto": "Ele os persegue"
-    },
-    "4": {
-      "título": "",
-      "texto": "Quem fez e executou tudo isso?"
-    },
-    "5": {
-      "título": "",
-      "texto": "Os países do mar viram isto"
-    },
-    "6": {
-      "título": "",
-      "texto": "Um ajuda o outro"
-    },
-    "7": {
-      "título": "",
-      "texto": "O artífice anima o ourives,"
-    },
-    "8": {
-      "título": "",
-      "texto": "“Mas você, Israel, meu servo;"
-    },
-    "9": {
-      "título": "",
-      "texto": "você, a quem eu trouxe"
-    },
-    "10": {
-      "título": "",
-      "texto": "não tema,"
-    },
-    "11": {
-      "título": "",
-      "texto": "“Eis que serão envergonhados"
-    },
-    "12": {
-      "título": "",
-      "texto": "Você procurará"
-    },
-    "13": {
-      "título": "",
-      "texto": "Porque eu, o Senhor , seu Deus,"
-    },
-    "14": {
-      "título": "",
-      "texto": "“Não tenha medo,"
-    },
-    "15": {
-      "título": "",
-      "texto": "Eis que farei de você"
-    },
-    "16": {
-      "título": "",
-      "texto": "Você os jogará para cima"
-    },
-    "17": {
-      "título": "",
-      "texto": "“Os pobres e necessitados"
-    },
-    "18": {
-      "título": "",
-      "texto": "Abrirei rios no alto dos montes"
-    },
-    "19": {
-      "título": "",
-      "texto": "Plantarei no deserto o cedro,"
-    },
-    "20": {
-      "título": "",
-      "texto": "para que todos vejam e saibam,"
-    },
-    "21": {
-      "título": "O Senhor desafia os deuses",
-      "texto": "“Exponham a sua causa”,"
-    },
-    "22": {
-      "título": "",
-      "texto": "“Aproximem-se e anunciem-nos"
-    },
-    "23": {
-      "título": "",
-      "texto": "Anunciem-nos as coisas"
-    },
-    "24": {
-      "título": "",
-      "texto": "Eis que vocês"
-    },
-    "25": {
-      "título": "",
-      "texto": "“Do Norte suscitei um homem,"
-    },
-    "26": {
-      "título": "",
-      "texto": "Quem anunciou isso"
-    },
-    "27": {
-      "título": "",
-      "texto": "Eu sou o que primeiro disse"
-    },
-    "28": {
-      "título": "",
-      "texto": "Quando eu olho,"
-    },
-    "29": {
-      "título": "",
-      "texto": "Eis que todos são nada;"
+    "versiculos": {
+        "1": "“Calem-se diante de mim, ó ilhas!",
+        "2": "“Quem fez surgir no Oriente",
+        "3": "Ele os persegue",
+        "4": "Quem fez e executou tudo isso?",
+        "5": "Os países do mar viram isto",
+        "6": "Um ajuda o outro",
+        "7": "O artífice anima o ourives,",
+        "8": "“Mas você, Israel, meu servo;",
+        "9": "você, a quem eu trouxe",
+        "10": "não tema,",
+        "11": "“Eis que serão envergonhados",
+        "12": "Você procurará",
+        "13": "Porque eu, o Senhor , seu Deus,",
+        "14": "“Não tenha medo,",
+        "15": "Eis que farei de você",
+        "16": "Você os jogará para cima",
+        "17": "“Os pobres e necessitados",
+        "18": "Abrirei rios no alto dos montes",
+        "19": "Plantarei no deserto o cedro,",
+        "20": "para que todos vejam e saibam,",
+        "21": "“Exponham a sua causa”,",
+        "22": "“Aproximem-se e anunciem-nos",
+        "23": "Anunciem-nos as coisas",
+        "24": "Eis que vocês",
+        "25": "“Do Norte suscitei um homem,",
+        "26": "Quem anunciou isso",
+        "27": "Eu sou o que primeiro disse",
+        "28": "Quando eu olho,",
+        "29": "Eis que todos são nada;"
     }
-  }
 }

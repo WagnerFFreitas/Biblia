@@ -1,26 +1,14 @@
 {
-  "livro": "Salmos",
-  "capítulo": 15,
-  "versículos": {
-    "1": {
-      "título": "O que Deus espera do seu povo",
-      "texto": "Senhor , quem habitará"
+    "livro": "Salmos",
+    "capitulo": 15,
+    "titulos": {
+        "1": "O que Deus espera do seu povo"
     },
-    "2": {
-      "título": "",
-      "texto": "Aquele que vive com integridade,"
-    },
-    "3": {
-      "título": "",
-      "texto": "aquele que não difama"
-    },
-    "4": {
-      "título": "",
-      "texto": "aquele que, a seus olhos,"
-    },
-    "5": {
-      "título": "",
-      "texto": "aquele que não empresta"
+    "versiculos": {
+        "1": "Senhor , quem habitará",
+        "2": "Aquele que vive com integridade,",
+        "3": "aquele que não difama",
+        "4": "aquele que, a seus olhos,",
+        "5": "aquele que não empresta"
     }
-  }
 }

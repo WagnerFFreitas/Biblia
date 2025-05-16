@@ -1,46 +1,19 @@
 {
-  "livro": "Salmos",
-  "capítulo": 24,
-  "versículos": {
-    "1": {
-      "título": "A vinda do Rei da glória",
-      "texto": "Ao Senhor pertence"
+    "livro": "Salmos",
+    "capitulo": 24,
+    "titulos": {
+        "1": "A vinda do Rei da glória"
     },
-    "2": {
-      "título": "",
-      "texto": "Porque ele fundou-a"
-    },
-    "3": {
-      "título": "",
-      "texto": "Quem subirá"
-    },
-    "4": {
-      "título": "",
-      "texto": "O que é limpo de mãos"
-    },
-    "5": {
-      "título": "",
-      "texto": "Este receberá do Senhor"
-    },
-    "6": {
-      "título": "",
-      "texto": "Esta é a geração"
-    },
-    "7": {
-      "título": "",
-      "texto": "Levantem as suas cabeças,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Quem é o Rei da glória?"
-    },
-    "9": {
-      "título": "",
-      "texto": "Levantem as suas cabeças,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Quem é esse Rei da glória?"
+    "versiculos": {
+        "1": "Ao Senhor pertence",
+        "2": "Porque ele fundou-a",
+        "3": "Quem subirá",
+        "4": "O que é limpo de mãos",
+        "5": "Este receberá do Senhor",
+        "6": "Esta é a geração",
+        "7": "Levantem as suas cabeças,",
+        "8": "Quem é o Rei da glória?",
+        "9": "Levantem as suas cabeças,",
+        "10": "Quem é esse Rei da glória?"
     }
-  }
 }

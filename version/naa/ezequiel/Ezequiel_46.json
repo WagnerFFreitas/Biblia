@@ -1,102 +1,35 @@
 {
-  "livro": "Ezequiel",
-  "capítulo": 46,
-  "versículos": {
-    "1": {
-      "título": "Nos sábados e Festas da Lua Nova",
-      "texto": "— Assim diz o Senhor Deus : O portão do átrio interior, que dá para o leste, estará fechado durante os seis dias de trabalho, mas será aberto no sábado e também na Festa da Lua Nova."
+    "livro": "Ezequiel",
+    "capitulo": 46,
+    "titulos": {
+        "1": "Nos sábados e Festas da Lua Nova",
+        "9": "Instruções referentes às ofertas",
+        "19": "As cozinhas do templo"
     },
-    "2": {
-      "título": "",
-      "texto": "O príncipe entrará de fora pelo vestíbulo do portão e permanecerá junto ao batente do portão. Os sacerdotes prepararão o holocausto dele e os seus sacrifícios pacíficos; ele se prostrará no limiar do portão e sairá. Mas o portão não será fechado até a tarde."
-    },
-    "3": {
-      "título": "",
-      "texto": "O povo da terra adorará na entrada do mesmo portão, nos sábados e nas Festas da Lua Nova, diante do Senhor ."
-    },
-    "4": {
-      "título": "",
-      "texto": "O holocausto que o príncipe oferecer ao Senhor será, no dia de sábado, seis cordeiros sem defeito e um carneiro sem defeito."
-    },
-    "5": {
-      "título": "",
-      "texto": "A oferta de cereais será de dezessete litros e meio para cada carneiro; para cada cordeiro, a oferta de cereais será o que ele puder dar; e, para cada medida de cereais, três litros e meio de azeite."
-    },
-    "6": {
-      "título": "",
-      "texto": "Mas, na Festa da Lua Nova, será um novilho sem defeito e seis cordeiros e um carneiro; eles serão sem defeito."
-    },
-    "7": {
-      "título": "",
-      "texto": "Preparará por oferta de cereais dezessete litros e meio para cada novilho e dezessete litros e meio para cada carneiro, mas, pelos cordeiros, segundo as suas posses; e, para cada medida de cereais, três litros e meio de azeite."
-    },
-    "8": {
-      "título": "",
-      "texto": "Quando o príncipe entrar, entrará pelo vestíbulo do portão e sairá pelo mesmo caminho."
-    },
-    "9": {
-      "título": "Instruções referentes às ofertas",
-      "texto": "— Mas, quando o povo da terra comparecer diante do Senhor , nas festas fixas, aquele que entrar pelo portão do norte, para adorar, sairá pelo portão do sul; e aquele que entrar pelo portão do sul sairá pelo portão do norte. Não sairá pelo mesmo portão pelo qual entrou, mas sairá pelo portão oposto."
-    },
-    "10": {
-      "título": "",
-      "texto": "O príncipe estará no meio deles, quando eles entrarem; quando eles saírem, ele sairá."
-    },
-    "11": {
-      "título": "",
-      "texto": "Nas solenidades e nas festas fixas, a oferta de cereais será de dezessete litros e meio para cada novilho e dezessete litros e meio para cada carneiro; mas, pelos cordeiros, será o que puder dar; e, para cada medida de cereais, três litros e meio de azeite."
-    },
-    "12": {
-      "título": "",
-      "texto": "— Quando o príncipe quiser oferecer um holocausto ou sacrifícios pacíficos, como oferta voluntária ao Senhor , então lhe abrirão o portão que dá para o leste, e ele oferecerá o seu holocausto e os seus sacrifícios pacíficos, como costuma fazer no dia de sábado. Ele sairá, e o portão será fechado depois que ele sair."
-    },
-    "13": {
-      "título": "",
-      "texto": "— Prepare um cordeiro de um ano, sem defeito, em holocausto ao Senhor , cada dia. Esta oferta deverá ser feita todas as manhãs."
-    },
-    "14": {
-      "título": "",
-      "texto": "Juntamente com ele, prepare todas as manhãs uma oferta de cereais para o Senhor : três litros de farinha e, para misturar com ela, um litro de azeite. Isto é estatuto perpétuo e contínuo."
-    },
-    "15": {
-      "título": "",
-      "texto": "Assim prepararão o cordeiro, a oferta de cereais e o azeite todas as manhãs, em holocausto contínuo."
-    },
-    "16": {
-      "título": "",
-      "texto": "— Assim diz o Senhor Deus : Se o príncipe der um presente de sua herança a um dos seus filhos, ele pertencerá aos filhos; será propriedade deles por herança."
-    },
-    "17": {
-      "título": "",
-      "texto": "Mas, se ele der um presente da sua herança a um dos seus servos, isso será dele até o ano da liberdade, quando voltará a ser do príncipe. Porque aos seus filhos, e somente a eles, pertencerá a herança."
-    },
-    "18": {
-      "título": "",
-      "texto": "O príncipe não tomará nada da herança do povo, expulsando-os das suas propriedades. Da sua própria propriedade deixará herança aos seus filhos, para que o meu povo não seja espalhado, cada um para longe da sua propriedade."
-    },
-    "19": {
-      "título": "As cozinhas do templo",
-      "texto": "Depois disto, o homem me levou, pela entrada que estava ao lado do portão, para as câmaras santas dos sacerdotes, as quais davam para o norte; e eis que havia um lugar nos fundos, para o lado oeste."
-    },
-    "20": {
-      "título": "",
-      "texto": "Ele me disse:"
-    },
-    "21": {
-      "título": "",
-      "texto": "Então ele me levou para fora, para o átrio exterior, e me fez passar pelos quatro cantos do átrio; e eis que em cada canto do átrio havia outro átrio."
-    },
-    "22": {
-      "título": "",
-      "texto": "Nos quatro cantos do átrio havia átrios pequenos, menores, de vinte metros de comprimento por quinze de largura. Os quatro tinham as mesmas dimensões."
-    },
-    "23": {
-      "título": "",
-      "texto": "Havia um muro ao redor dos átrios, ao redor dos quatro, e havia lugares para cozinhar ao pé dos muros ao redor."
-    },
-    "24": {
-      "título": "",
-      "texto": "Então ele me disse:"
+    "versiculos": {
+        "1": "— Assim diz o Senhor Deus : O portão do átrio interior, que dá para o leste, estará fechado durante os seis dias de trabalho, mas será aberto no sábado e também na Festa da Lua Nova.",
+        "2": "O príncipe entrará de fora pelo vestíbulo do portão e permanecerá junto ao batente do portão. Os sacerdotes prepararão o holocausto dele e os seus sacrifícios pacíficos; ele se prostrará no limiar do portão e sairá. Mas o portão não será fechado até a tarde.",
+        "3": "O povo da terra adorará na entrada do mesmo portão, nos sábados e nas Festas da Lua Nova, diante do Senhor .",
+        "4": "O holocausto que o príncipe oferecer ao Senhor será, no dia de sábado, seis cordeiros sem defeito e um carneiro sem defeito.",
+        "5": "A oferta de cereais será de dezessete litros e meio para cada carneiro; para cada cordeiro, a oferta de cereais será o que ele puder dar; e, para cada medida de cereais, três litros e meio de azeite.",
+        "6": "Mas, na Festa da Lua Nova, será um novilho sem defeito e seis cordeiros e um carneiro; eles serão sem defeito.",
+        "7": "Preparará por oferta de cereais dezessete litros e meio para cada novilho e dezessete litros e meio para cada carneiro, mas, pelos cordeiros, segundo as suas posses; e, para cada medida de cereais, três litros e meio de azeite.",
+        "8": "Quando o príncipe entrar, entrará pelo vestíbulo do portão e sairá pelo mesmo caminho.",
+        "9": "— Mas, quando o povo da terra comparecer diante do Senhor , nas festas fixas, aquele que entrar pelo portão do norte, para adorar, sairá pelo portão do sul; e aquele que entrar pelo portão do sul sairá pelo portão do norte. Não sairá pelo mesmo portão pelo qual entrou, mas sairá pelo portão oposto.",
+        "10": "O príncipe estará no meio deles, quando eles entrarem; quando eles saírem, ele sairá.",
+        "11": "Nas solenidades e nas festas fixas, a oferta de cereais será de dezessete litros e meio para cada novilho e dezessete litros e meio para cada carneiro; mas, pelos cordeiros, será o que puder dar; e, para cada medida de cereais, três litros e meio de azeite.",
+        "12": "— Quando o príncipe quiser oferecer um holocausto ou sacrifícios pacíficos, como oferta voluntária ao Senhor , então lhe abrirão o portão que dá para o leste, e ele oferecerá o seu holocausto e os seus sacrifícios pacíficos, como costuma fazer no dia de sábado. Ele sairá, e o portão será fechado depois que ele sair.",
+        "13": "— Prepare um cordeiro de um ano, sem defeito, em holocausto ao Senhor , cada dia. Esta oferta deverá ser feita todas as manhãs.",
+        "14": "Juntamente com ele, prepare todas as manhãs uma oferta de cereais para o Senhor : três litros de farinha e, para misturar com ela, um litro de azeite. Isto é estatuto perpétuo e contínuo.",
+        "15": "Assim prepararão o cordeiro, a oferta de cereais e o azeite todas as manhãs, em holocausto contínuo.",
+        "16": "— Assim diz o Senhor Deus : Se o príncipe der um presente de sua herança a um dos seus filhos, ele pertencerá aos filhos; será propriedade deles por herança.",
+        "17": "Mas, se ele der um presente da sua herança a um dos seus servos, isso será dele até o ano da liberdade, quando voltará a ser do príncipe. Porque aos seus filhos, e somente a eles, pertencerá a herança.",
+        "18": "O príncipe não tomará nada da herança do povo, expulsando-os das suas propriedades. Da sua própria propriedade deixará herança aos seus filhos, para que o meu povo não seja espalhado, cada um para longe da sua propriedade.",
+        "19": "Depois disto, o homem me levou, pela entrada que estava ao lado do portão, para as câmaras santas dos sacerdotes, as quais davam para o norte; e eis que havia um lugar nos fundos, para o lado oeste.",
+        "20": "Ele me disse:",
+        "21": "Então ele me levou para fora, para o átrio exterior, e me fez passar pelos quatro cantos do átrio; e eis que em cada canto do átrio havia outro átrio.",
+        "22": "Nos quatro cantos do átrio havia átrios pequenos, menores, de vinte metros de comprimento por quinze de largura. Os quatro tinham as mesmas dimensões.",
+        "23": "Havia um muro ao redor dos átrios, ao redor dos quatro, e havia lugares para cozinhar ao pé dos muros ao redor.",
+        "24": "Então ele me disse:"
     }
-  }
 }

@@ -1,154 +1,47 @@
 {
-  "livro": "Marcos",
-  "capítulo": 7,
-  "versículos": {
-    "1": {
-      "título": "Jesus e a tradição dos anciãos",
-      "texto": "Os fariseus e alguns escribas, vindos de Jerusalém, reuniram-se em volta de Jesus."
+    "livro": "Marcos",
+    "capitulo": 7,
+    "titulos": {
+        "1": "Jesus e a tradição dos anciãos",
+        "24": "A mulher siro-fenícia",
+        "31": "A cura de um surdo e gago"
     },
-    "2": {
-      "título": "",
-      "texto": "Eles viram que alguns dos discípulos de Jesus comiam pão com as mãos impuras, isto é, sem lavar."
-    },
-    "3": {
-      "título": "",
-      "texto": "Porque os fariseus e todos os judeus, observando a tradição dos anciãos, não comem sem lavar cuidadosamente as mãos."
-    },
-    "4": {
-      "título": "",
-      "texto": "Quando voltam da praça, não comem sem se lavar. E há muitas outras coisas que receberam para observar, como a lavagem de copos, jarros e vasos de metal e camas."
-    },
-    "5": {
-      "título": "",
-      "texto": "Os fariseus e os escribas perguntaram a Jesus:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "7": {
-      "título": "",
-      "texto": "E em vão me adoram,"
-    },
-    "8": {
-      "título": "",
-      "texto": "— Rejeitando o mandamento de Deus, vocês guardam a tradição humana."
-    },
-    "9": {
-      "título": "",
-      "texto": "E disse-lhes ainda:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Pois Moisés disse: “Honre o seu pai e a sua mãe.” E: “Quem maldisser o seu pai ou a sua mãe seja punido de morte.”"
-    },
-    "11": {
-      "título": "",
-      "texto": "Vocês, porém, dizem que, se alguém disser ao seu pai ou à sua mãe: “A ajuda que você poderia receber de mim é Corbã, isto é, oferta ao Senhor”,"
-    },
-    "12": {
-      "título": "",
-      "texto": "então vocês o dispensam de fazer qualquer coisa em favor do seu pai ou da sua mãe,"
-    },
-    "13": {
-      "título": "",
-      "texto": "invalidando a palavra de Deus por meio da tradição que vocês mesmos passam de pai para filho. E fazem muitas outras coisas semelhantes."
-    },
-    "14": {
-      "título": "",
-      "texto": "E, convocando outra vez a multidão, Jesus disse:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Não existe nada fora da pessoa que, entrando nela, possa contaminá-la; mas o que sai da pessoa é o que a contamina."
-    },
-    "16": {
-      "título": "",
-      "texto": ""
-    },
-    "17": {
-      "título": "",
-      "texto": "Quando entrou em casa, deixando a multidão, os seus discípulos o interrogaram a respeito da parábola."
-    },
-    "18": {
-      "título": "",
-      "texto": "Jesus lhes disse:"
-    },
-    "19": {
-      "título": "",
-      "texto": "porque não entra no coração dela, mas no estômago, e depois é eliminado?"
-    },
-    "20": {
-      "título": "",
-      "texto": "E dizia:"
-    },
-    "21": {
-      "título": "",
-      "texto": "Porque de dentro, do coração das pessoas, é que procedem os maus pensamentos, as imoralidades sexuais, os furtos, os homicídios,"
-    },
-    "22": {
-      "título": "",
-      "texto": "os adultérios, a avareza, as maldades, o engano, a libertinagem, a inveja, a blasfêmia, o orgulho, a falta de juízo."
-    },
-    "23": {
-      "título": "",
-      "texto": "Todos estes males vêm de dentro e contaminam a pessoa."
-    },
-    "24": {
-      "título": "A mulher siro-fenícia",
-      "texto": "Levantando-se Jesus, saiu dali e foi para as terras de Tiro e Sidom. Tendo entrado numa casa, não queria que ninguém soubesse onde ele estava. No entanto, não pôde ocultar-se,"
-    },
-    "25": {
-      "título": "",
-      "texto": "porque uma mulher, cuja filhinha estava possuída de espírito imundo, logo ouviu falar a respeito de Jesus. Ela veio e se ajoelhou aos pés dele."
-    },
-    "26": {
-      "título": "",
-      "texto": "Essa mulher era estrangeira, de origem siro-fenícia, e pedia a Jesus que expulsasse o demônio da sua filha."
-    },
-    "27": {
-      "título": "",
-      "texto": "Mas Jesus lhe disse:"
-    },
-    "28": {
-      "título": "",
-      "texto": "A mulher respondeu a ele:"
-    },
-    "29": {
-      "título": "",
-      "texto": "Então Jesus disse à mulher:"
-    },
-    "30": {
-      "título": "",
-      "texto": "Quando a mulher voltou para casa, achou a menina sobre a cama, pois o demônio tinha saído dela."
-    },
-    "31": {
-      "título": "A cura de um surdo e gago",
-      "texto": "De novo, Jesus se retirou das terras de Tiro e foi por Sidom até o mar da Galileia, através do território de Decápolis."
-    },
-    "32": {
-      "título": "",
-      "texto": "Então lhe trouxeram um surdo e gago e lhe suplicaram que impusesse as mãos sobre ele."
-    },
-    "33": {
-      "título": "",
-      "texto": "Jesus, tirando-o da multidão, à parte, pôs os dedos nos ouvidos dele; depois, cuspindo, aplicou saliva na língua do homem."
-    },
-    "34": {
-      "título": "",
-      "texto": "Então, erguendo os olhos ao céu, suspirou e disse:"
-    },
-    "35": {
-      "título": "",
-      "texto": "E logo os ouvidos do homem se abriram, e o empecilho da língua se soltou, e ele falava sem dificuldade."
-    },
-    "36": {
-      "título": "",
-      "texto": "Jesus lhes ordenou que não contassem isso a ninguém; porém, quanto mais recomendava, tanto mais eles o divulgavam."
-    },
-    "37": {
-      "título": "",
-      "texto": "Ficavam muito admirados, dizendo:"
+    "versiculos": {
+        "1": "Os fariseus e alguns escribas, vindos de Jerusalém, reuniram-se em volta de Jesus.",
+        "2": "Eles viram que alguns dos discípulos de Jesus comiam pão com as mãos impuras, isto é, sem lavar.",
+        "3": "Porque os fariseus e todos os judeus, observando a tradição dos anciãos, não comem sem lavar cuidadosamente as mãos.",
+        "4": "Quando voltam da praça, não comem sem se lavar. E há muitas outras coisas que receberam para observar, como a lavagem de copos, jarros e vasos de metal e camas.",
+        "5": "Os fariseus e os escribas perguntaram a Jesus:",
+        "6": "Jesus respondeu:",
+        "7": "E em vão me adoram,",
+        "8": "— Rejeitando o mandamento de Deus, vocês guardam a tradição humana.",
+        "9": "E disse-lhes ainda:",
+        "10": "Pois Moisés disse: “Honre o seu pai e a sua mãe.” E: “Quem maldisser o seu pai ou a sua mãe seja punido de morte.”",
+        "11": "Vocês, porém, dizem que, se alguém disser ao seu pai ou à sua mãe: “A ajuda que você poderia receber de mim é Corbã, isto é, oferta ao Senhor”,",
+        "12": "então vocês o dispensam de fazer qualquer coisa em favor do seu pai ou da sua mãe,",
+        "13": "invalidando a palavra de Deus por meio da tradição que vocês mesmos passam de pai para filho. E fazem muitas outras coisas semelhantes.",
+        "14": "E, convocando outra vez a multidão, Jesus disse:",
+        "15": "Não existe nada fora da pessoa que, entrando nela, possa contaminá-la; mas o que sai da pessoa é o que a contamina.",
+        "17": "Quando entrou em casa, deixando a multidão, os seus discípulos o interrogaram a respeito da parábola.",
+        "18": "Jesus lhes disse:",
+        "19": "porque não entra no coração dela, mas no estômago, e depois é eliminado?",
+        "20": "E dizia:",
+        "21": "Porque de dentro, do coração das pessoas, é que procedem os maus pensamentos, as imoralidades sexuais, os furtos, os homicídios,",
+        "22": "os adultérios, a avareza, as maldades, o engano, a libertinagem, a inveja, a blasfêmia, o orgulho, a falta de juízo.",
+        "23": "Todos estes males vêm de dentro e contaminam a pessoa.",
+        "24": "Levantando-se Jesus, saiu dali e foi para as terras de Tiro e Sidom. Tendo entrado numa casa, não queria que ninguém soubesse onde ele estava. No entanto, não pôde ocultar-se,",
+        "25": "porque uma mulher, cuja filhinha estava possuída de espírito imundo, logo ouviu falar a respeito de Jesus. Ela veio e se ajoelhou aos pés dele.",
+        "26": "Essa mulher era estrangeira, de origem siro-fenícia, e pedia a Jesus que expulsasse o demônio da sua filha.",
+        "27": "Mas Jesus lhe disse:",
+        "28": "A mulher respondeu a ele:",
+        "29": "Então Jesus disse à mulher:",
+        "30": "Quando a mulher voltou para casa, achou a menina sobre a cama, pois o demônio tinha saído dela.",
+        "31": "De novo, Jesus se retirou das terras de Tiro e foi por Sidom até o mar da Galileia, através do território de Decápolis.",
+        "32": "Então lhe trouxeram um surdo e gago e lhe suplicaram que impusesse as mãos sobre ele.",
+        "33": "Jesus, tirando-o da multidão, à parte, pôs os dedos nos ouvidos dele; depois, cuspindo, aplicou saliva na língua do homem.",
+        "34": "Então, erguendo os olhos ao céu, suspirou e disse:",
+        "35": "E logo os ouvidos do homem se abriram, e o empecilho da língua se soltou, e ele falava sem dificuldade.",
+        "36": "Jesus lhes ordenou que não contassem isso a ninguém; porém, quanto mais recomendava, tanto mais eles o divulgavam.",
+        "37": "Ficavam muito admirados, dizendo:"
     }
-  }
 }

@@ -1,202 +1,64 @@
 {
-  "livro": "Números",
-  "capítulo": 4,
-  "versículos": {
-    "1": {
-      "título": "Deveres dos coatitas",
-      "texto": "O Senhor disse a Moisés e a Arão:"
+    "livro": "Números",
+    "capitulo": 4,
+    "titulos": {
+        "1": "Deveres dos coatitas",
+        "21": "Deveres dos gersonitas",
+        "29": "Deveres dos filhos meraritas",
+        "34": "Número dos coatitas",
+        "38": "Número dos gersonitas",
+        "42": "Número dos meraritas",
+        "46": "Número de todos os levitas"
     },
-    "2": {
-      "título": "",
-      "texto": "— Levantem o censo dos filhos de Coate, do meio dos filhos de Levi, pelas suas famílias, segundo a casa de seus pais;"
-    },
-    "3": {
-      "título": "",
-      "texto": "da idade de trinta anos para cima até os cinquenta será todo aquele que entrar neste serviço, para exercer algum encargo na tenda do encontro."
-    },
-    "4": {
-      "título": "",
-      "texto": "É este o serviço dos filhos de Coate na tenda do encontro, nas coisas santíssimas."
-    },
-    "5": {
-      "título": "",
-      "texto": "— Quando o arraial partir, Arão e seus filhos virão, tirarão o véu de cobrir, e, com ele, cobrirão a arca do testemunho;"
-    },
-    "6": {
-      "título": "",
-      "texto": "por cima, lhe porão uma cobertura de peles finas e, sobre ela, estenderão um pano, todo azul, e passarão os cabos pelas argolas."
-    },
-    "7": {
-      "título": "",
-      "texto": "Também sobre a mesa da proposição estenderão um pano azul; e, sobre ela, porão os pratos, os recipientes do incenso, as taças e as jarras; também o pão contínuo estará sobre ela."
-    },
-    "8": {
-      "título": "",
-      "texto": "Depois, estenderão, em cima deles, um pano de carmesim, e, com a cobertura de peles finas, o cobrirão, e passarão os cabos pelas argolas."
-    },
-    "9": {
-      "título": "",
-      "texto": "Tomarão um pano azul e cobrirão o candelabro da iluminação, as suas lâmpadas, as suas tesouras de cortar pavios, os seus apagadores e todos os seus vasos de azeite com que o servem."
-    },
-    "10": {
-      "título": "",
-      "texto": "E envolverão a ele e todos os seus utensílios na cobertura de peles finas e o porão sobre os cabos."
-    },
-    "11": {
-      "título": "",
-      "texto": "Sobre o altar de ouro estenderão um pano azul, e, com a cobertura de peles finas, o cobrirão, e passarão os cabos pelas argolas."
-    },
-    "12": {
-      "título": "",
-      "texto": "Pegarão todos os utensílios do serviço com os quais servem no santuário e os envolverão num pano azul; então os cobrirão com uma cobertura de peles finas e os porão sobre os cabos."
-    },
-    "13": {
-      "título": "",
-      "texto": "Do altar tirarão as cinzas e, por cima dele, estenderão um pano de púrpura."
-    },
-    "14": {
-      "título": "",
-      "texto": "Sobre ele porão todos os seus utensílios com que o servem: os braseiros, os garfos, as pás e as bacias, todos os utensílios do altar; e, por cima dele, estenderão uma cobertura de peles finas e passarão os cabos pelas argolas."
-    },
-    "15": {
-      "título": "",
-      "texto": "Quando Arão e seus filhos tiverem acabado de cobrir o santuário e todos os móveis dele, e o arraial estiver pronto para partir, os filhos de Coate virão para levá-lo. Mas não tocarão nas coisas santas, para que não morram. São estas as coisas da tenda do encontro que os filhos de Coate devem levar."
-    },
-    "16": {
-      "título": "",
-      "texto": "— Eleazar, filho de Arão, o sacerdote, terá a seu encargo o azeite da iluminação, o incenso aromático, a oferta contínua de cereais e o óleo da unção; sim, terá a seu encargo todo o tabernáculo e tudo o que nele há, o santuário e os móveis."
-    },
-    "17": {
-      "título": "",
-      "texto": "O Senhor disse a Moisés e a Arão:"
-    },
-    "18": {
-      "título": "",
-      "texto": "— Não deixem que a tribo das famílias dos coatitas seja eliminada do meio dos levitas."
-    },
-    "19": {
-      "título": "",
-      "texto": "Para que eles fiquem vivos e não morram, quando se aproximarem das coisas santíssimas, façam o seguinte: Arão e seus filhos entrarão e lhes designarão a cada um o seu serviço e a sua carga."
-    },
-    "20": {
-      "título": "",
-      "texto": "Porém os coatitas não entrarão, nem por um instante, para ver as coisas santas, para que não morram."
-    },
-    "21": {
-      "título": "Deveres dos gersonitas",
-      "texto": "O Senhor disse ainda a Moisés:"
-    },
-    "22": {
-      "título": "",
-      "texto": "— Levante o censo dos filhos de Gérson, segundo a casa de seus pais, segundo as suas famílias."
-    },
-    "23": {
-      "título": "",
-      "texto": "Da idade de trinta anos para cima até os cinquenta conte todo aquele que entrar neste serviço, para exercer algum encargo na tenda do encontro."
-    },
-    "24": {
-      "título": "",
-      "texto": "É este o serviço das famílias dos gersonitas para servir e levar cargas:"
-    },
-    "25": {
-      "título": "",
-      "texto": "levarão as cortinas do tabernáculo, a tenda do encontro, sua cobertura, a cobertura de peles finas, que está sobre ele, o cortinado da porta da tenda do encontro,"
-    },
-    "26": {
-      "título": "",
-      "texto": "as cortinas do pátio, o cortinado da porta do pátio, que rodeia o tabernáculo e o altar, as suas cordas e todos os objetos do seu serviço; e servirão em tudo o que diz respeito a estas coisas."
-    },
-    "27": {
-      "título": "",
-      "texto": "Todo o serviço dos filhos dos gersonitas, toda a sua carga e tudo o que devem fazer será segundo o mandado de Arão e de seus filhos; e vocês lhes determinarão tudo o que devem carregar."
-    },
-    "28": {
-      "título": "",
-      "texto": "Este é o serviço das famílias dos filhos dos gersonitas na tenda do encontro; o seu cargo estará sob a direção de Itamar, filho de Arão, o sacerdote."
-    },
-    "29": {
-      "título": "Deveres dos filhos meraritas",
-      "texto": "— Quanto aos filhos de Merari, faça a contagem segundo as suas famílias e segundo a casa de seus pais."
-    },
-    "30": {
-      "título": "",
-      "texto": "Da idade de trinta anos para cima até os cinquenta conte todo aquele que entrar neste serviço, para exercer algum encargo na tenda do encontro."
-    },
-    "31": {
-      "título": "",
-      "texto": "Isto é o que eles terão de levar, segundo todo o seu serviço, na tenda do encontro: as tábuas do tabernáculo, os seus cabos, as suas colunas e as suas bases;"
-    },
-    "32": {
-      "título": "",
-      "texto": "as colunas do pátio ao redor, as suas bases, as suas estacas e as suas cordas, com todos os seus utensílios e com tudo o que pertence ao seu serviço; e vocês designarão, nome por nome, os objetos que eles devem levar."
-    },
-    "33": {
-      "título": "",
-      "texto": "Este é o encargo das famílias dos filhos de Merari, segundo todo o seu serviço, na tenda do encontro, sob a direção de Itamar, filho de Arão, o sacerdote."
-    },
-    "34": {
-      "título": "Número dos coatitas",
-      "texto": "Moisés, Arão e os chefes do povo contaram os filhos dos coatitas, segundo as suas famílias e segundo a casa de seus pais,"
-    },
-    "35": {
-      "título": "",
-      "texto": "da idade de trinta anos para cima até os cinquenta, todo aquele que entrou neste serviço, para exercer algum encargo na tenda do encontro."
-    },
-    "36": {
-      "título": "",
-      "texto": "Os que deles foram contados, segundo as suas famílias, foram dois mil setecentos e cinquenta."
-    },
-    "37": {
-      "título": "",
-      "texto": "São estes os que foram contados das famílias dos coatitas, todos os que serviam na tenda do encontro, os quais Moisés e Arão contaram, segundo o mandado do Senhor , por Moisés."
-    },
-    "38": {
-      "título": "Número dos gersonitas",
-      "texto": "Os que foram contados dos filhos de Gérson, segundo as suas famílias e segundo a casa de seus pais,"
-    },
-    "39": {
-      "título": "",
-      "texto": "da idade de trinta anos para cima até os cinquenta, todo aquele que entrou neste serviço, para exercer algum encargo na tenda do encontro,"
-    },
-    "40": {
-      "título": "",
-      "texto": "os que deles foram contados, segundo as suas famílias, segundo a casa de seus pais, foram dois mil seiscentos e trinta."
-    },
-    "41": {
-      "título": "",
-      "texto": "São estes os que foram contados das famílias dos filhos de Gérson, todos os que serviam na tenda do encontro, os quais Moisés e Arão contaram, segundo o mandado do Senhor ."
-    },
-    "42": {
-      "título": "Número dos meraritas",
-      "texto": "Os que foram contados das famílias dos filhos de Merari, segundo as suas famílias e segundo a casa de seus pais,"
-    },
-    "43": {
-      "título": "",
-      "texto": "da idade de trinta anos para cima até os cinquenta, todo aquele que entrou neste serviço, para exercer algum encargo na tenda do encontro,"
-    },
-    "44": {
-      "título": "",
-      "texto": "os que deles foram contados, segundo as suas famílias, foram três mil e duzentos."
-    },
-    "45": {
-      "título": "",
-      "texto": "São estes os que foram contados das famílias dos filhos de Merari, os quais Moisés e Arão contaram, segundo o mandado do Senhor , por Moisés."
-    },
-    "46": {
-      "título": "Número de todos os levitas",
-      "texto": "Todos os que foram contados dos levitas, contados por Moisés, Arão e os chefes de Israel, segundo as suas famílias e segundo a casa de seus pais,"
-    },
-    "47": {
-      "título": "",
-      "texto": "da idade de trinta anos para cima até os cinquenta, todos os que entraram para cumprir a tarefa do serviço e a de levarem cargas na tenda do encontro,"
-    },
-    "48": {
-      "título": "",
-      "texto": "os que deles foram contados foram oito mil quinhentos e oitenta."
-    },
-    "49": {
-      "título": "",
-      "texto": "Segundo o mandado do Senhor , por Moisés, foram designados, cada um para o seu serviço e a sua carga; e deles foram contados, como o Senhor havia ordenado a Moisés."
+    "versiculos": {
+        "1": "O Senhor disse a Moisés e a Arão:",
+        "2": "— Levantem o censo dos filhos de Coate, do meio dos filhos de Levi, pelas suas famílias, segundo a casa de seus pais;",
+        "3": "da idade de trinta anos para cima até os cinquenta será todo aquele que entrar neste serviço, para exercer algum encargo na tenda do encontro.",
+        "4": "É este o serviço dos filhos de Coate na tenda do encontro, nas coisas santíssimas.",
+        "5": "— Quando o arraial partir, Arão e seus filhos virão, tirarão o véu de cobrir, e, com ele, cobrirão a arca do testemunho;",
+        "6": "por cima, lhe porão uma cobertura de peles finas e, sobre ela, estenderão um pano, todo azul, e passarão os cabos pelas argolas.",
+        "7": "Também sobre a mesa da proposição estenderão um pano azul; e, sobre ela, porão os pratos, os recipientes do incenso, as taças e as jarras; também o pão contínuo estará sobre ela.",
+        "8": "Depois, estenderão, em cima deles, um pano de carmesim, e, com a cobertura de peles finas, o cobrirão, e passarão os cabos pelas argolas.",
+        "9": "Tomarão um pano azul e cobrirão o candelabro da iluminação, as suas lâmpadas, as suas tesouras de cortar pavios, os seus apagadores e todos os seus vasos de azeite com que o servem.",
+        "10": "E envolverão a ele e todos os seus utensílios na cobertura de peles finas e o porão sobre os cabos.",
+        "11": "Sobre o altar de ouro estenderão um pano azul, e, com a cobertura de peles finas, o cobrirão, e passarão os cabos pelas argolas.",
+        "12": "Pegarão todos os utensílios do serviço com os quais servem no santuário e os envolverão num pano azul; então os cobrirão com uma cobertura de peles finas e os porão sobre os cabos.",
+        "13": "Do altar tirarão as cinzas e, por cima dele, estenderão um pano de púrpura.",
+        "14": "Sobre ele porão todos os seus utensílios com que o servem: os braseiros, os garfos, as pás e as bacias, todos os utensílios do altar; e, por cima dele, estenderão uma cobertura de peles finas e passarão os cabos pelas argolas.",
+        "15": "Quando Arão e seus filhos tiverem acabado de cobrir o santuário e todos os móveis dele, e o arraial estiver pronto para partir, os filhos de Coate virão para levá-lo. Mas não tocarão nas coisas santas, para que não morram. São estas as coisas da tenda do encontro que os filhos de Coate devem levar.",
+        "16": "— Eleazar, filho de Arão, o sacerdote, terá a seu encargo o azeite da iluminação, o incenso aromático, a oferta contínua de cereais e o óleo da unção; sim, terá a seu encargo todo o tabernáculo e tudo o que nele há, o santuário e os móveis.",
+        "17": "O Senhor disse a Moisés e a Arão:",
+        "18": "— Não deixem que a tribo das famílias dos coatitas seja eliminada do meio dos levitas.",
+        "19": "Para que eles fiquem vivos e não morram, quando se aproximarem das coisas santíssimas, façam o seguinte: Arão e seus filhos entrarão e lhes designarão a cada um o seu serviço e a sua carga.",
+        "20": "Porém os coatitas não entrarão, nem por um instante, para ver as coisas santas, para que não morram.",
+        "21": "O Senhor disse ainda a Moisés:",
+        "22": "— Levante o censo dos filhos de Gérson, segundo a casa de seus pais, segundo as suas famílias.",
+        "23": "Da idade de trinta anos para cima até os cinquenta conte todo aquele que entrar neste serviço, para exercer algum encargo na tenda do encontro.",
+        "24": "É este o serviço das famílias dos gersonitas para servir e levar cargas:",
+        "25": "levarão as cortinas do tabernáculo, a tenda do encontro, sua cobertura, a cobertura de peles finas, que está sobre ele, o cortinado da porta da tenda do encontro,",
+        "26": "as cortinas do pátio, o cortinado da porta do pátio, que rodeia o tabernáculo e o altar, as suas cordas e todos os objetos do seu serviço; e servirão em tudo o que diz respeito a estas coisas.",
+        "27": "Todo o serviço dos filhos dos gersonitas, toda a sua carga e tudo o que devem fazer será segundo o mandado de Arão e de seus filhos; e vocês lhes determinarão tudo o que devem carregar.",
+        "28": "Este é o serviço das famílias dos filhos dos gersonitas na tenda do encontro; o seu cargo estará sob a direção de Itamar, filho de Arão, o sacerdote.",
+        "29": "— Quanto aos filhos de Merari, faça a contagem segundo as suas famílias e segundo a casa de seus pais.",
+        "30": "Da idade de trinta anos para cima até os cinquenta conte todo aquele que entrar neste serviço, para exercer algum encargo na tenda do encontro.",
+        "31": "Isto é o que eles terão de levar, segundo todo o seu serviço, na tenda do encontro: as tábuas do tabernáculo, os seus cabos, as suas colunas e as suas bases;",
+        "32": "as colunas do pátio ao redor, as suas bases, as suas estacas e as suas cordas, com todos os seus utensílios e com tudo o que pertence ao seu serviço; e vocês designarão, nome por nome, os objetos que eles devem levar.",
+        "33": "Este é o encargo das famílias dos filhos de Merari, segundo todo o seu serviço, na tenda do encontro, sob a direção de Itamar, filho de Arão, o sacerdote.",
+        "34": "Moisés, Arão e os chefes do povo contaram os filhos dos coatitas, segundo as suas famílias e segundo a casa de seus pais,",
+        "35": "da idade de trinta anos para cima até os cinquenta, todo aquele que entrou neste serviço, para exercer algum encargo na tenda do encontro.",
+        "36": "Os que deles foram contados, segundo as suas famílias, foram dois mil setecentos e cinquenta.",
+        "37": "São estes os que foram contados das famílias dos coatitas, todos os que serviam na tenda do encontro, os quais Moisés e Arão contaram, segundo o mandado do Senhor , por Moisés.",
+        "38": "Os que foram contados dos filhos de Gérson, segundo as suas famílias e segundo a casa de seus pais,",
+        "39": "da idade de trinta anos para cima até os cinquenta, todo aquele que entrou neste serviço, para exercer algum encargo na tenda do encontro,",
+        "40": "os que deles foram contados, segundo as suas famílias, segundo a casa de seus pais, foram dois mil seiscentos e trinta.",
+        "41": "São estes os que foram contados das famílias dos filhos de Gérson, todos os que serviam na tenda do encontro, os quais Moisés e Arão contaram, segundo o mandado do Senhor .",
+        "42": "Os que foram contados das famílias dos filhos de Merari, segundo as suas famílias e segundo a casa de seus pais,",
+        "43": "da idade de trinta anos para cima até os cinquenta, todo aquele que entrou neste serviço, para exercer algum encargo na tenda do encontro,",
+        "44": "os que deles foram contados, segundo as suas famílias, foram três mil e duzentos.",
+        "45": "São estes os que foram contados das famílias dos filhos de Merari, os quais Moisés e Arão contaram, segundo o mandado do Senhor , por Moisés.",
+        "46": "Todos os que foram contados dos levitas, contados por Moisés, Arão e os chefes de Israel, segundo as suas famílias e segundo a casa de seus pais,",
+        "47": "da idade de trinta anos para cima até os cinquenta, todos os que entraram para cumprir a tarefa do serviço e a de levarem cargas na tenda do encontro,",
+        "48": "os que deles foram contados foram oito mil quinhentos e oitenta.",
+        "49": "Segundo o mandado do Senhor , por Moisés, foram designados, cada um para o seu serviço e a sua carga; e deles foram contados, como o Senhor havia ordenado a Moisés."
     }
-  }
 }

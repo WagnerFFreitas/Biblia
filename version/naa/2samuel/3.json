@@ -1,162 +1,51 @@
 {
-  "livro": "2 Samuel",
-  "capítulo": 3,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Durou muito tempo a guerra entre a casa de Saul e a casa de Davi. Davi se fortalecia cada vez mais, enquanto a casa de Saul se enfraquecia."
+    "livro": "2 Samuel",
+    "capitulo": 3,
+    "titulos": {
+        "2": "Filhos de Davi que nasceram em Hebrom",
+        "6": "Abner faz aliança com Davi",
+        "22": "Joabe mata Abner",
+        "31": "Davi lamenta a morte de Abner"
     },
-    "2": {
-      "título": "Filhos de Davi que nasceram em Hebrom",
-      "texto": "Em Hebrom, nasceram filhos a Davi. O primogênito foi Amnom, de Ainoã, a jezreelita."
-    },
-    "3": {
-      "título": "",
-      "texto": "O segundo foi Quileabe, de Abigail, viúva de Nabal, o carmelita. O terceiro foi Absalão, filho de Maaca, filha de Talmai, rei de Gesur."
-    },
-    "4": {
-      "título": "",
-      "texto": "O quarto foi Adonias, filho de Hagite. O quinto foi Sefatias, filho de Abital."
-    },
-    "5": {
-      "título": "",
-      "texto": "O sexto foi Itreão, de Eglá, mulher de Davi. Estes filhos de Davi nasceram em Hebrom."
-    },
-    "6": {
-      "título": "Abner faz aliança com Davi",
-      "texto": "Enquanto durou a guerra entre a casa de Saul e a casa de Davi, Abner se tornava cada vez mais poderoso na casa de Saul."
-    },
-    "7": {
-      "título": "",
-      "texto": "Saul teve uma concubina chamada Rispa, filha de Aiá. Isbosete perguntou a Abner:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Abner ficou indignado com as palavras de Isbosete e disse:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Que Deus me castigue se eu não fizer por Davi o que o Senhor lhe prometeu,"
-    },
-    "10": {
-      "título": "",
-      "texto": "transferindo o reino da casa de Saul e estabelecendo o trono de Davi sobre Israel e sobre Judá, desde Dã até Berseba."
-    },
-    "11": {
-      "título": "",
-      "texto": "E Isbosete não pôde dizer nada a Abner, porque tinha medo dele."
-    },
-    "12": {
-      "título": "",
-      "texto": "Então Abner enviou mensageiros a Davi, dizendo:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Davi respondeu:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Davi também enviou mensageiros a Isbosete, filho de Saul, dizendo:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Então Isbosete mandou tirá-la do seu marido Paltiel, filho de Laís."
-    },
-    "16": {
-      "título": "",
-      "texto": "Seu marido a acompanhou, caminhando e chorando atrás dela, até Baurim. Então Abner disse a ele:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Abner falou com os anciãos de Israel, dizendo:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Façam isto agora, porque o Senhor falou a Davi, dizendo: “Por meio de Davi, meu servo, livrarei o meu povo das mãos dos filisteus e das mãos de todos os seus inimigos.”"
-    },
-    "19": {
-      "título": "",
-      "texto": "Abner falou também com a tribo de Benjamim. E então ele foi dizer a Davi, em Hebrom, tudo o que agradava a Israel e a toda a casa de Benjamim."
-    },
-    "20": {
-      "título": "",
-      "texto": "Abner foi falar com Davi, em Hebrom, e vinte homens estavam com ele. Davi ofereceu um banquete a Abner e aos homens que tinham vindo com ele."
-    },
-    "21": {
-      "título": "",
-      "texto": "Então Abner disse a Davi:"
-    },
-    "22": {
-      "título": "Joabe mata Abner",
-      "texto": "Eis que os servos de Davi e Joabe vieram de uma investida e traziam consigo grande despojo. Mas Abner já não estava com Davi, em Hebrom, porque este o havia deixado ir embora, e ele tinha ido em paz."
-    },
-    "23": {
-      "título": "",
-      "texto": "Quando Joabe chegou com toda a tropa que estava com ele, disseram-lhe:"
-    },
-    "24": {
-      "título": "",
-      "texto": "Então Joabe foi falar com o rei e lhe disse:"
-    },
-    "25": {
-      "título": "",
-      "texto": "O senhor bem conhece Abner, filho de Ner. Veio para enganá-lo, para observar os seus movimentos e sondar todos os seus planos."
-    },
-    "26": {
-      "título": "",
-      "texto": "Ao sair da presença de Davi, Joabe enviou mensageiros atrás de Abner, e eles o trouxeram de volta desde a cisterna de Sirá, sem que Davi o soubesse."
-    },
-    "27": {
-      "título": "",
-      "texto": "Quando Abner voltou a Hebrom, Joabe o levou para um lado, no interior do portão da cidade, para lhe falar em segredo, e ali o feriu na barriga. E assim Abner morreu, por ter derramado o sangue de Asael, irmão de Joabe."
-    },
-    "28": {
-      "título": "",
-      "texto": "Depois, quando Davi ficou sabendo, disse:"
-    },
-    "29": {
-      "título": "",
-      "texto": "Que este sangue caia sobre a cabeça de Joabe e sobre toda a casa de seu pai! Que nunca falte na casa de Joabe quem tenha fluxo, quem seja leproso, quem se apoie em muleta, quem caia à espada, quem necessite de pão."
-    },
-    "30": {
-      "título": "",
-      "texto": "Assim, Joabe e seu irmão Abisai mataram Abner, porque este tinha matado Asael, o irmão deles, na batalha de Gibeão."
-    },
-    "31": {
-      "título": "Davi lamenta a morte de Abner",
-      "texto": "Então Davi disse a Joabe e a todo o povo que estava com ele:"
-    },
-    "32": {
-      "título": "",
-      "texto": "Sepultaram Abner em Hebrom. O rei levantou a voz e chorou junto à sepultura de Abner. E todo o povo também chorou."
-    },
-    "33": {
-      "título": "",
-      "texto": "E o rei fez a seguinte lamentação por Abner:"
-    },
-    "34": {
-      "título": "",
-      "texto": "As suas mãos"
-    },
-    "35": {
-      "título": "",
-      "texto": "Então todo o povo veio fazer com que Davi comesse pão, sendo ainda dia. Mas Davi fez este juramento:"
-    },
-    "36": {
-      "título": "",
-      "texto": "Todo o povo notou isso e aprovou essa atitude, assim como aprovava tudo o que o rei fazia."
-    },
-    "37": {
-      "título": "",
-      "texto": "Naquele dia, todo o povo e todo o Israel ficaram sabendo que o rei não tinha nada a ver com a morte de Abner, filho de Ner."
-    },
-    "38": {
-      "título": "",
-      "texto": "Então o rei disse aos seus servos:"
-    },
-    "39": {
-      "título": "",
-      "texto": "Hoje sou fraco, embora ungido rei. Esses homens, os filhos de Zeruia, são mais fortes do que eu. Que o Senhor retribua ao que fez esse mal como ele merece."
+    "versiculos": {
+        "1": "Durou muito tempo a guerra entre a casa de Saul e a casa de Davi. Davi se fortalecia cada vez mais, enquanto a casa de Saul se enfraquecia.",
+        "2": "Em Hebrom, nasceram filhos a Davi. O primogênito foi Amnom, de Ainoã, a jezreelita.",
+        "3": "O segundo foi Quileabe, de Abigail, viúva de Nabal, o carmelita. O terceiro foi Absalão, filho de Maaca, filha de Talmai, rei de Gesur.",
+        "4": "O quarto foi Adonias, filho de Hagite. O quinto foi Sefatias, filho de Abital.",
+        "5": "O sexto foi Itreão, de Eglá, mulher de Davi. Estes filhos de Davi nasceram em Hebrom.",
+        "6": "Enquanto durou a guerra entre a casa de Saul e a casa de Davi, Abner se tornava cada vez mais poderoso na casa de Saul.",
+        "7": "Saul teve uma concubina chamada Rispa, filha de Aiá. Isbosete perguntou a Abner:",
+        "8": "Abner ficou indignado com as palavras de Isbosete e disse:",
+        "9": "Que Deus me castigue se eu não fizer por Davi o que o Senhor lhe prometeu,",
+        "10": "transferindo o reino da casa de Saul e estabelecendo o trono de Davi sobre Israel e sobre Judá, desde Dã até Berseba.",
+        "11": "E Isbosete não pôde dizer nada a Abner, porque tinha medo dele.",
+        "12": "Então Abner enviou mensageiros a Davi, dizendo:",
+        "13": "Davi respondeu:",
+        "14": "Davi também enviou mensageiros a Isbosete, filho de Saul, dizendo:",
+        "15": "Então Isbosete mandou tirá-la do seu marido Paltiel, filho de Laís.",
+        "16": "Seu marido a acompanhou, caminhando e chorando atrás dela, até Baurim. Então Abner disse a ele:",
+        "17": "Abner falou com os anciãos de Israel, dizendo:",
+        "18": "Façam isto agora, porque o Senhor falou a Davi, dizendo: “Por meio de Davi, meu servo, livrarei o meu povo das mãos dos filisteus e das mãos de todos os seus inimigos.”",
+        "19": "Abner falou também com a tribo de Benjamim. E então ele foi dizer a Davi, em Hebrom, tudo o que agradava a Israel e a toda a casa de Benjamim.",
+        "20": "Abner foi falar com Davi, em Hebrom, e vinte homens estavam com ele. Davi ofereceu um banquete a Abner e aos homens que tinham vindo com ele.",
+        "21": "Então Abner disse a Davi:",
+        "22": "Eis que os servos de Davi e Joabe vieram de uma investida e traziam consigo grande despojo. Mas Abner já não estava com Davi, em Hebrom, porque este o havia deixado ir embora, e ele tinha ido em paz.",
+        "23": "Quando Joabe chegou com toda a tropa que estava com ele, disseram-lhe:",
+        "24": "Então Joabe foi falar com o rei e lhe disse:",
+        "25": "O senhor bem conhece Abner, filho de Ner. Veio para enganá-lo, para observar os seus movimentos e sondar todos os seus planos.",
+        "26": "Ao sair da presença de Davi, Joabe enviou mensageiros atrás de Abner, e eles o trouxeram de volta desde a cisterna de Sirá, sem que Davi o soubesse.",
+        "27": "Quando Abner voltou a Hebrom, Joabe o levou para um lado, no interior do portão da cidade, para lhe falar em segredo, e ali o feriu na barriga. E assim Abner morreu, por ter derramado o sangue de Asael, irmão de Joabe.",
+        "28": "Depois, quando Davi ficou sabendo, disse:",
+        "29": "Que este sangue caia sobre a cabeça de Joabe e sobre toda a casa de seu pai! Que nunca falte na casa de Joabe quem tenha fluxo, quem seja leproso, quem se apoie em muleta, quem caia à espada, quem necessite de pão.",
+        "30": "Assim, Joabe e seu irmão Abisai mataram Abner, porque este tinha matado Asael, o irmão deles, na batalha de Gibeão.",
+        "31": "Então Davi disse a Joabe e a todo o povo que estava com ele:",
+        "32": "Sepultaram Abner em Hebrom. O rei levantou a voz e chorou junto à sepultura de Abner. E todo o povo também chorou.",
+        "33": "E o rei fez a seguinte lamentação por Abner:",
+        "34": "As suas mãos",
+        "35": "Então todo o povo veio fazer com que Davi comesse pão, sendo ainda dia. Mas Davi fez este juramento:",
+        "36": "Todo o povo notou isso e aprovou essa atitude, assim como aprovava tudo o que o rei fazia.",
+        "37": "Naquele dia, todo o povo e todo o Israel ficaram sabendo que o rei não tinha nada a ver com a morte de Abner, filho de Ner.",
+        "38": "Então o rei disse aos seus servos:",
+        "39": "Hoje sou fraco, embora ungido rei. Esses homens, os filhos de Zeruia, são mais fortes do que eu. Que o Senhor retribua ao que fez esse mal como ele merece."
     }
-  }
 }

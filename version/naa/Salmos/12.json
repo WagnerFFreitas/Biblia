@@ -1,38 +1,17 @@
 {
-  "livro": "Salmos",
-  "capítulo": 12,
-  "versículos": {
-    "1": {
-      "título": "Auxílio contra a falsidade",
-      "texto": "Salva-nos, Senhor !"
+    "livro": "Salmos",
+    "capitulo": 12,
+    "titulos": {
+        "1": "Auxílio contra a falsidade"
     },
-    "2": {
-      "título": "",
-      "texto": "Falam com falsidade"
-    },
-    "3": {
-      "título": "",
-      "texto": "Que o Senhor corte"
-    },
-    "4": {
-      "título": "",
-      "texto": "Pois dizem: “Com a nossa língua"
-    },
-    "5": {
-      "título": "",
-      "texto": "“Por causa da opressão"
-    },
-    "6": {
-      "título": "",
-      "texto": "As palavras do Senhor"
-    },
-    "7": {
-      "título": "",
-      "texto": "Sim, Senhor , tu nos guardarás;"
-    },
-    "8": {
-      "título": "",
-      "texto": "Os perversos andam"
+    "versiculos": {
+        "1": "Salva-nos, Senhor !",
+        "2": "Falam com falsidade",
+        "3": "Que o Senhor corte",
+        "4": "Pois dizem: “Com a nossa língua",
+        "5": "“Por causa da opressão",
+        "6": "As palavras do Senhor",
+        "7": "Sim, Senhor , tu nos guardarás;",
+        "8": "Os perversos andam"
     }
-  }
 }

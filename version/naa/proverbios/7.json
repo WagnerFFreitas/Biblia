@@ -1,114 +1,36 @@
 {
-  "livro": "Provérbios",
-  "capítulo": 7,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Meu filho, guarde"
+    "livro": "Provérbios",
+    "capitulo": 7,
+    "titulos": {
+        "6": "A mulher imoral"
     },
-    "2": {
-      "título": "",
-      "texto": "Observe os meus mandamentos"
-    },
-    "3": {
-      "título": "",
-      "texto": "Amarre-os aos dedos,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Diga à Sabedoria:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Eles o guardarão"
-    },
-    "6": {
-      "título": "A mulher imoral",
-      "texto": "Porque da janela da minha casa,"
-    },
-    "7": {
-      "título": "",
-      "texto": "vi entre os ingênuos,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Ele ia e vinha pela rua"
-    },
-    "9": {
-      "título": "",
-      "texto": "no crepúsculo, ao anoitecer,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Eis que a mulher"
-    },
-    "11": {
-      "título": "",
-      "texto": "É espalhafatosa e inquieta;"
-    },
-    "12": {
-      "título": "",
-      "texto": "Ora está nas ruas,"
-    },
-    "13": {
-      "título": "",
-      "texto": "Ela agarrou o jovem e o beijou;"
-    },
-    "14": {
-      "título": "",
-      "texto": "“Eu tinha de oferecer"
-    },
-    "15": {
-      "título": "",
-      "texto": "Por isso, saí ao seu encontro;"
-    },
-    "16": {
-      "título": "",
-      "texto": "Já cobri de colchas"
-    },
-    "17": {
-      "título": "",
-      "texto": "Já perfumei o meu leito"
-    },
-    "18": {
-      "título": "",
-      "texto": "Venha, vamos nos embriagar"
-    },
-    "19": {
-      "título": "",
-      "texto": "Porque o meu marido"
-    },
-    "20": {
-      "título": "",
-      "texto": "Levou consigo uma bolsa"
-    },
-    "21": {
-      "título": "",
-      "texto": "Ela o seduziu"
-    },
-    "22": {
-      "título": "",
-      "texto": "E, num instante, ele a seguiu,"
-    },
-    "23": {
-      "título": "",
-      "texto": "até que uma flecha"
-    },
-    "24": {
-      "título": "",
-      "texto": "Agora, meu filho,"
-    },
-    "25": {
-      "título": "",
-      "texto": "Não deixe que o seu coração"
-    },
-    "26": {
-      "título": "",
-      "texto": "Porque a muitos"
-    },
-    "27": {
-      "título": "",
-      "texto": "A casa dela é caminho"
+    "versiculos": {
+        "1": "Meu filho, guarde",
+        "2": "Observe os meus mandamentos",
+        "3": "Amarre-os aos dedos,",
+        "4": "Diga à Sabedoria:",
+        "5": "Eles o guardarão",
+        "6": "Porque da janela da minha casa,",
+        "7": "vi entre os ingênuos,",
+        "8": "Ele ia e vinha pela rua",
+        "9": "no crepúsculo, ao anoitecer,",
+        "10": "Eis que a mulher",
+        "11": "É espalhafatosa e inquieta;",
+        "12": "Ora está nas ruas,",
+        "13": "Ela agarrou o jovem e o beijou;",
+        "14": "“Eu tinha de oferecer",
+        "15": "Por isso, saí ao seu encontro;",
+        "16": "Já cobri de colchas",
+        "17": "Já perfumei o meu leito",
+        "18": "Venha, vamos nos embriagar",
+        "19": "Porque o meu marido",
+        "20": "Levou consigo uma bolsa",
+        "21": "Ela o seduziu",
+        "22": "E, num instante, ele a seguiu,",
+        "23": "até que uma flecha",
+        "24": "Agora, meu filho,",
+        "25": "Não deixe que o seu coração",
+        "26": "Porque a muitos",
+        "27": "A casa dela é caminho"
     }
-  }
 }

@@ -1,142 +1,45 @@
 {
-  "livro": "1 Reis",
-  "capítulo": 13,
-  "versículos": {
-    "1": {
-      "título": "Um profeta prediz contra o altar",
-      "texto": "Eis que, por ordem do Senhor , um homem de Deus foi de Judá a Betel; e Jeroboão estava junto ao altar, para queimar incenso."
+    "livro": "1 Reis",
+    "capitulo": 13,
+    "titulos": {
+        "1": "Um profeta prediz contra o altar",
+        "11": "A desobediência e o castigo do profeta",
+        "33": "Jeroboão persiste no pecado"
     },
-    "2": {
-      "título": "",
-      "texto": "Por ordem do Senhor , o profeta clamou contra o altar e disse:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Naquele mesmo dia o profeta deu um sinal, dizendo:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Quando o rei ouviu as palavras que o homem de Deus proferiu contra o altar de Betel, Jeroboão estendeu a mão de sobre o altar, dizendo:"
-    },
-    "5": {
-      "título": "",
-      "texto": "O altar se fendeu, e as cinzas se espalharam pelo chão, conforme o sinal que o homem de Deus tinha dado por ordem do Senhor ."
-    },
-    "6": {
-      "título": "",
-      "texto": "Então o rei disse ao homem de Deus:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Então o rei disse ao homem de Deus:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Porém o homem de Deus disse ao rei:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Porque assim me ordenou o Senhor Deus pela sua palavra, dizendo: “Não coma nem beba nada naquele lugar; e não volte pelo caminho por onde você foi.”"
-    },
-    "10": {
-      "título": "",
-      "texto": "E ele se foi por outro caminho, e não voltou pelo caminho por onde tinha ido a Betel."
-    },
-    "11": {
-      "título": "A desobediência e o castigo do profeta",
-      "texto": "Em Betel morava um velho profeta. Os seus filhos vieram e lhe contaram tudo o que o homem de Deus havia feito naquele dia em Betel. Também lhe contaram as palavras que ele tinha dito ao rei."
-    },
-    "12": {
-      "título": "",
-      "texto": "Então o pai perguntou aos seus filhos:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Então ele disse aos seus filhos:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Então ele foi atrás do homem de Deus e, achando-o sentado debaixo de um carvalho, perguntou-lhe:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Então o velho profeta lhe disse:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Mas o profeta de Judá respondeu:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Porque me foi dito pela palavra do Senhor : “Ali, você não deve comer nem beber nada; também não deve voltar pelo caminho por onde foi.”"
-    },
-    "18": {
-      "título": "",
-      "texto": "O velho profeta respondeu:"
-    },
-    "19": {
-      "título": "",
-      "texto": "Então ele voltou com o velho profeta e comeu e bebeu na casa dele."
-    },
-    "20": {
-      "título": "",
-      "texto": "Estando eles à mesa, a palavra do Senhor veio ao profeta que o tinha feito voltar,"
-    },
-    "21": {
-      "título": "",
-      "texto": "e ele gritou para o homem de Deus que tinha vindo de Judá, dizendo:"
-    },
-    "22": {
-      "título": "",
-      "texto": "Você voltou, comeu e bebeu no lugar onde ele havia ordenado que você não deveria comer nem beber. Por isso, o seu cadáver não será sepultado no sepulcro dos seus pais.”"
-    },
-    "23": {
-      "título": "",
-      "texto": "Depois que ele tinha comido e bebido, o velho profeta pôs a sela no jumento para o homem de Deus a quem ele tinha feito voltar."
-    },
-    "24": {
-      "título": "",
-      "texto": "Ele foi embora e, no caminho, um leão o encontrou e o matou. O cadáver dele ficou estendido no caminho, e o jumento e o leão ficaram parados junto ao cadáver."
-    },
-    "25": {
-      "título": "",
-      "texto": "Eis que alguns homens passaram e viram o corpo jogado no caminho, bem como o leão parado junto ao corpo. Então foram e o disseram na cidade onde o velho profeta morava."
-    },
-    "26": {
-      "título": "",
-      "texto": "Quando o profeta que o tinha feito voltar do caminho ouviu isso, disse:"
-    },
-    "27": {
-      "título": "",
-      "texto": "Então disse aos seus filhos:"
-    },
-    "28": {
-      "título": "",
-      "texto": "Ele foi e encontrou o cadáver estendido no caminho, e o jumento e o leão parados junto ao cadáver. O leão não tinha devorado o corpo, nem despedaçado o jumento."
-    },
-    "29": {
-      "título": "",
-      "texto": "Então o profeta levantou o cadáver do homem de Deus, pôs sobre o jumento e o levou de volta. Assim, o velho profeta entrou na cidade, para o chorar e sepultar."
-    },
-    "30": {
-      "título": "",
-      "texto": "Depositou o cadáver no seu próprio sepulcro. E o prantearam, dizendo:"
-    },
-    "31": {
-      "título": "",
-      "texto": "Depois de o haver sepultado, disse aos seus filhos:"
-    },
-    "32": {
-      "título": "",
-      "texto": "Porque certamente se cumprirá o que por ordem do Senhor ele clamou contra o altar que está em Betel e contra todos os templos que existem nos lugares altos das cidades de Samaria."
-    },
-    "33": {
-      "título": "Jeroboão persiste no pecado",
-      "texto": "Depois destas coisas, Jeroboão ainda persistiu em seu mau caminho; e continuou a constituir pessoas tiradas do meio do povo como sacerdotes para os lugares altos; a quem o desejasse, ele consagrava para sacerdote dos lugares altos."
-    },
-    "34": {
-      "título": "",
-      "texto": "Isso se tornou em pecado à casa de Jeroboão, para destruí-la e extingui-la da face da terra."
+    "versiculos": {
+        "1": "Eis que, por ordem do Senhor , um homem de Deus foi de Judá a Betel; e Jeroboão estava junto ao altar, para queimar incenso.",
+        "2": "Por ordem do Senhor , o profeta clamou contra o altar e disse:",
+        "3": "Naquele mesmo dia o profeta deu um sinal, dizendo:",
+        "4": "Quando o rei ouviu as palavras que o homem de Deus proferiu contra o altar de Betel, Jeroboão estendeu a mão de sobre o altar, dizendo:",
+        "5": "O altar se fendeu, e as cinzas se espalharam pelo chão, conforme o sinal que o homem de Deus tinha dado por ordem do Senhor .",
+        "6": "Então o rei disse ao homem de Deus:",
+        "7": "Então o rei disse ao homem de Deus:",
+        "8": "Porém o homem de Deus disse ao rei:",
+        "9": "Porque assim me ordenou o Senhor Deus pela sua palavra, dizendo: “Não coma nem beba nada naquele lugar; e não volte pelo caminho por onde você foi.”",
+        "10": "E ele se foi por outro caminho, e não voltou pelo caminho por onde tinha ido a Betel.",
+        "11": "Em Betel morava um velho profeta. Os seus filhos vieram e lhe contaram tudo o que o homem de Deus havia feito naquele dia em Betel. Também lhe contaram as palavras que ele tinha dito ao rei.",
+        "12": "Então o pai perguntou aos seus filhos:",
+        "13": "Então ele disse aos seus filhos:",
+        "14": "Então ele foi atrás do homem de Deus e, achando-o sentado debaixo de um carvalho, perguntou-lhe:",
+        "15": "Então o velho profeta lhe disse:",
+        "16": "Mas o profeta de Judá respondeu:",
+        "17": "Porque me foi dito pela palavra do Senhor : “Ali, você não deve comer nem beber nada; também não deve voltar pelo caminho por onde foi.”",
+        "18": "O velho profeta respondeu:",
+        "19": "Então ele voltou com o velho profeta e comeu e bebeu na casa dele.",
+        "20": "Estando eles à mesa, a palavra do Senhor veio ao profeta que o tinha feito voltar,",
+        "21": "e ele gritou para o homem de Deus que tinha vindo de Judá, dizendo:",
+        "22": "Você voltou, comeu e bebeu no lugar onde ele havia ordenado que você não deveria comer nem beber. Por isso, o seu cadáver não será sepultado no sepulcro dos seus pais.”",
+        "23": "Depois que ele tinha comido e bebido, o velho profeta pôs a sela no jumento para o homem de Deus a quem ele tinha feito voltar.",
+        "24": "Ele foi embora e, no caminho, um leão o encontrou e o matou. O cadáver dele ficou estendido no caminho, e o jumento e o leão ficaram parados junto ao cadáver.",
+        "25": "Eis que alguns homens passaram e viram o corpo jogado no caminho, bem como o leão parado junto ao corpo. Então foram e o disseram na cidade onde o velho profeta morava.",
+        "26": "Quando o profeta que o tinha feito voltar do caminho ouviu isso, disse:",
+        "27": "Então disse aos seus filhos:",
+        "28": "Ele foi e encontrou o cadáver estendido no caminho, e o jumento e o leão parados junto ao cadáver. O leão não tinha devorado o corpo, nem despedaçado o jumento.",
+        "29": "Então o profeta levantou o cadáver do homem de Deus, pôs sobre o jumento e o levou de volta. Assim, o velho profeta entrou na cidade, para o chorar e sepultar.",
+        "30": "Depositou o cadáver no seu próprio sepulcro. E o prantearam, dizendo:",
+        "31": "Depois de o haver sepultado, disse aos seus filhos:",
+        "32": "Porque certamente se cumprirá o que por ordem do Senhor ele clamou contra o altar que está em Betel e contra todos os templos que existem nos lugares altos das cidades de Samaria.",
+        "33": "Depois destas coisas, Jeroboão ainda persistiu em seu mau caminho; e continuou a constituir pessoas tiradas do meio do povo como sacerdotes para os lugares altos; a quem o desejasse, ele consagrava para sacerdote dos lugares altos.",
+        "34": "Isso se tornou em pecado à casa de Jeroboão, para destruí-la e extingui-la da face da terra."
     }
-  }
 }

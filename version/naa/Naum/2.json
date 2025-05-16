@@ -1,58 +1,22 @@
 {
-  "livro": "Naum",
-  "capítulo": 2,
-  "versículos": {
-    "1": {
-      "título": "A queda de Nínive",
-      "texto": "O destruidor avança"
+    "livro": "Naum",
+    "capitulo": 2,
+    "titulos": {
+        "1": "A queda de Nínive"
     },
-    "2": {
-      "título": "",
-      "texto": "Porque o Senhor restaurará"
-    },
-    "3": {
-      "título": "",
-      "texto": "Os escudos dos seus heróis"
-    },
-    "4": {
-      "título": "",
-      "texto": "Os carros de guerra passam"
-    },
-    "5": {
-      "título": "",
-      "texto": "Os nobres são chamados,"
-    },
-    "6": {
-      "título": "",
-      "texto": "As comportas dos rios se abrem,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Está decretado:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Nínive, desde que existe,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Saqueiem a prata,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Vazio, desolação, ruína!"
-    },
-    "11": {
-      "título": "",
-      "texto": "Onde está, agora,"
-    },
-    "12": {
-      "título": "",
-      "texto": "O leão arrebatava o bastante"
-    },
-    "13": {
-      "título": "",
-      "texto": "“Eis que eu estou contra você”,"
+    "versiculos": {
+        "1": "O destruidor avança",
+        "2": "Porque o Senhor restaurará",
+        "3": "Os escudos dos seus heróis",
+        "4": "Os carros de guerra passam",
+        "5": "Os nobres são chamados,",
+        "6": "As comportas dos rios se abrem,",
+        "7": "Está decretado:",
+        "8": "Nínive, desde que existe,",
+        "9": "Saqueiem a prata,",
+        "10": "Vazio, desolação, ruína!",
+        "11": "Onde está, agora,",
+        "12": "O leão arrebatava o bastante",
+        "13": "“Eis que eu estou contra você”,"
     }
-  }
 }

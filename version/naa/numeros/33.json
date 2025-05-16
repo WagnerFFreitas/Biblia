@@ -1,230 +1,66 @@
 {
-  "livro": "Números",
-  "capítulo": 33,
-  "versículos": {
-    "1": {
-      "título": "Os acampamentos desde o Egito",
-      "texto": "São estas as caminhadas dos filhos de Israel que saíram da terra do Egito, segundo os seus exércitos, sob as ordens de Moisés e Arão."
+    "livro": "Números",
+    "capitulo": 33,
+    "titulos": {
+        "1": "Os acampamentos desde o Egito",
+        "50": "Deus manda expulsar os moradores de Canaã"
     },
-    "2": {
-      "título": "",
-      "texto": "Moisés escreveu os lugares de que saíram, caminhada após caminhada, conforme o mandado do Senhor . E são estas as suas caminhadas, segundo os lugares de que saíram:"
-    },
-    "3": {
-      "título": "",
-      "texto": "eles partiram de Ramessés no décimo quinto dia do primeiro mês. No dia seguinte ao da Páscoa, os filhos de Israel saíram, corajosamente, aos olhos de todos os egípcios,"
-    },
-    "4": {
-      "título": "",
-      "texto": "enquanto estes sepultavam todos os seus primogênitos, a quem o Senhor havia matado entre eles; também contra os deuses o Senhor executou juízos."
-    },
-    "5": {
-      "título": "",
-      "texto": "Os filhos de Israel partiram de Ramessés e acamparam em Sucote."
-    },
-    "6": {
-      "título": "",
-      "texto": "Partiram de Sucote e acamparam em Etã, que está no fim do deserto."
-    },
-    "7": {
-      "título": "",
-      "texto": "Partiram de Etã e voltaram a Pi-Hairote, que está diante de Baal-Zefom, e acamparam diante de Migdol."
-    },
-    "8": {
-      "título": "",
-      "texto": "Partiram de Pi-Hairote, passaram pelo meio do mar em direção ao deserto e, depois de terem caminhado três dias no deserto de Etã, acamparam em Mara."
-    },
-    "9": {
-      "título": "",
-      "texto": "Partiram de Mara e chegaram a Elim. Em Elim, havia doze fontes de água e setenta palmeiras; e acamparam ali."
-    },
-    "10": {
-      "título": "",
-      "texto": "Partiram de Elim e acamparam junto ao mar Vermelho."
-    },
-    "11": {
-      "título": "",
-      "texto": "Partiram do mar Vermelho e acamparam no deserto de Sim."
-    },
-    "12": {
-      "título": "",
-      "texto": "Partiram do deserto de Sim e acamparam em Dofca."
-    },
-    "13": {
-      "título": "",
-      "texto": "Partiram de Dofca e acamparam em Alus."
-    },
-    "14": {
-      "título": "",
-      "texto": "Partiram de Alus e acamparam em Refidim, porém ali não havia água para o povo beber."
-    },
-    "15": {
-      "título": "",
-      "texto": "Partiram de Refidim e acamparam no deserto do Sinai."
-    },
-    "16": {
-      "título": "",
-      "texto": "Partiram do deserto do Sinai e acamparam em Quibrote-Hataavá."
-    },
-    "17": {
-      "título": "",
-      "texto": "Partiram de Quibrote-Hataavá e acamparam em Hazerote."
-    },
-    "18": {
-      "título": "",
-      "texto": "Partiram de Hazerote e acamparam em Ritma."
-    },
-    "19": {
-      "título": "",
-      "texto": "Partiram de Ritma e acamparam em Rimom-Perez."
-    },
-    "20": {
-      "título": "",
-      "texto": "Partiram de Rimom-Perez e acamparam em Libna."
-    },
-    "21": {
-      "título": "",
-      "texto": "Partiram de Libna e acamparam em Rissa."
-    },
-    "22": {
-      "título": "",
-      "texto": "Partiram de Rissa e acamparam em Queelata."
-    },
-    "23": {
-      "título": "",
-      "texto": "Partiram de Queelata e acamparam no monte Sefer."
-    },
-    "24": {
-      "título": "",
-      "texto": "Partiram do monte Sefer e acamparam em Harada."
-    },
-    "25": {
-      "título": "",
-      "texto": "Partiram de Harada e acamparam em Maquelote."
-    },
-    "26": {
-      "título": "",
-      "texto": "Partiram de Maquelote e acamparam em Taate."
-    },
-    "27": {
-      "título": "",
-      "texto": "Partiram de Taate e acamparam em Tera."
-    },
-    "28": {
-      "título": "",
-      "texto": "Partiram de Tera e acamparam em Mitca."
-    },
-    "29": {
-      "título": "",
-      "texto": "Partiram de Mitca e acamparam em Hasmona."
-    },
-    "30": {
-      "título": "",
-      "texto": "Partiram de Hasmona e acamparam em Moserote."
-    },
-    "31": {
-      "título": "",
-      "texto": "Partiram de Moserote e acamparam em Benê-Jaacã."
-    },
-    "32": {
-      "título": "",
-      "texto": "Partiram de Benê-Jaacã e acamparam em Hor-Hagidgade."
-    },
-    "33": {
-      "título": "",
-      "texto": "Partiram de Hor-Hagidgade e acamparam em Jotbatá."
-    },
-    "34": {
-      "título": "",
-      "texto": "Partiram de Jotbatá e acamparam em Abrona."
-    },
-    "35": {
-      "título": "",
-      "texto": "Partiram de Abrona e acamparam em Eziom-Geber."
-    },
-    "36": {
-      "título": "",
-      "texto": "Partiram de Eziom-Geber e acamparam no deserto de Zim, que é Cades."
-    },
-    "37": {
-      "título": "",
-      "texto": "Partiram de Cades e acamparam no monte Hor, na fronteira da terra de Edom."
-    },
-    "38": {
-      "título": "",
-      "texto": "Então Arão, o sacerdote, subiu o monte Hor, segundo o mandado do Senhor ; e morreu ali, no primeiro dia do quinto mês do quadragésimo ano depois da saída dos filhos de Israel da terra do Egito."
-    },
-    "39": {
-      "título": "",
-      "texto": "Arão tinha cento e vinte e três anos de idade quando morreu no monte Hor."
-    },
-    "40": {
-      "título": "",
-      "texto": "Então o rei cananeu de Arade, que habitava o Sul da terra de Canaã, soube que os filhos de Israel estavam chegando."
-    },
-    "41": {
-      "título": "",
-      "texto": "Eles partiram do monte Hor e acamparam em Zalmona."
-    },
-    "42": {
-      "título": "",
-      "texto": "Partiram de Zalmona e acamparam em Punom."
-    },
-    "43": {
-      "título": "",
-      "texto": "Partiram de Punom e acamparam em Obote."
-    },
-    "44": {
-      "título": "",
-      "texto": "Partiram de Obote e acamparam em Ijé-Abarim, na fronteira de Moabe."
-    },
-    "45": {
-      "título": "",
-      "texto": "Partiram de Ijé-Abarim e acamparam em Dibom-Gade."
-    },
-    "46": {
-      "título": "",
-      "texto": "Partiram de Dibom-Gade e acamparam em Almom-Diblataim."
-    },
-    "47": {
-      "título": "",
-      "texto": "Partiram de Almom-Diblataim e acamparam nos montes de Abarim, diante de Nebo."
-    },
-    "48": {
-      "título": "",
-      "texto": "Partiram dos montes de Abarim e acamparam nas campinas de Moabe, junto ao Jordão, na altura de Jericó."
-    },
-    "49": {
-      "título": "",
-      "texto": "E acamparam junto ao Jordão, desde Bete-Jesimote até Abel-Sitim, nas campinas de Moabe."
-    },
-    "50": {
-      "título": "Deus manda expulsar os moradores de Canaã",
-      "texto": "Nas campinas de Moabe, junto ao Jordão, na altura de Jericó, o Senhor disse a Moisés:"
-    },
-    "51": {
-      "título": "",
-      "texto": "— Fale com os filhos de Israel e diga-lhes: Quando vocês tiverem passado o Jordão para entrar na terra de Canaã,"
-    },
-    "52": {
-      "título": "",
-      "texto": "devem expulsar da frente de vocês todos os moradores da terra, destruir todas as pedras com figura e todas as imagens fundidas. Devem também derrubar todos os santuários nos lugares altos."
-    },
-    "53": {
-      "título": "",
-      "texto": "Tomem posse da terra e morem nela, porque eu lhes dei esta terra, para que vocês tomem posse dela."
-    },
-    "54": {
-      "título": "",
-      "texto": "Vocês herdarão a terra por sorteio, segundo as suas famílias. À tribo mais numerosa deem uma herança maior; à tribo pequena deem uma herança menor. Onde lhe cair a sorte, esse lugar lhe pertencerá; vocês herdarão segundo as tribos de seus pais."
-    },
-    "55": {
-      "título": "",
-      "texto": "Porém, se não expulsarem os moradores da terra, então os que vocês deixarem ficar serão para vocês como espinhos nos olhos e como aguilhões nas costas e eles os perturbarão na terra em que vocês irão morar."
-    },
-    "56": {
-      "título": "",
-      "texto": "E farei com vocês o que pensei fazer com eles."
+    "versiculos": {
+        "1": "São estas as caminhadas dos filhos de Israel que saíram da terra do Egito, segundo os seus exércitos, sob as ordens de Moisés e Arão.",
+        "2": "Moisés escreveu os lugares de que saíram, caminhada após caminhada, conforme o mandado do Senhor . E são estas as suas caminhadas, segundo os lugares de que saíram:",
+        "3": "eles partiram de Ramessés no décimo quinto dia do primeiro mês. No dia seguinte ao da Páscoa, os filhos de Israel saíram, corajosamente, aos olhos de todos os egípcios,",
+        "4": "enquanto estes sepultavam todos os seus primogênitos, a quem o Senhor havia matado entre eles; também contra os deuses o Senhor executou juízos.",
+        "5": "Os filhos de Israel partiram de Ramessés e acamparam em Sucote.",
+        "6": "Partiram de Sucote e acamparam em Etã, que está no fim do deserto.",
+        "7": "Partiram de Etã e voltaram a Pi-Hairote, que está diante de Baal-Zefom, e acamparam diante de Migdol.",
+        "8": "Partiram de Pi-Hairote, passaram pelo meio do mar em direção ao deserto e, depois de terem caminhado três dias no deserto de Etã, acamparam em Mara.",
+        "9": "Partiram de Mara e chegaram a Elim. Em Elim, havia doze fontes de água e setenta palmeiras; e acamparam ali.",
+        "10": "Partiram de Elim e acamparam junto ao mar Vermelho.",
+        "11": "Partiram do mar Vermelho e acamparam no deserto de Sim.",
+        "12": "Partiram do deserto de Sim e acamparam em Dofca.",
+        "13": "Partiram de Dofca e acamparam em Alus.",
+        "14": "Partiram de Alus e acamparam em Refidim, porém ali não havia água para o povo beber.",
+        "15": "Partiram de Refidim e acamparam no deserto do Sinai.",
+        "16": "Partiram do deserto do Sinai e acamparam em Quibrote-Hataavá.",
+        "17": "Partiram de Quibrote-Hataavá e acamparam em Hazerote.",
+        "18": "Partiram de Hazerote e acamparam em Ritma.",
+        "19": "Partiram de Ritma e acamparam em Rimom-Perez.",
+        "20": "Partiram de Rimom-Perez e acamparam em Libna.",
+        "21": "Partiram de Libna e acamparam em Rissa.",
+        "22": "Partiram de Rissa e acamparam em Queelata.",
+        "23": "Partiram de Queelata e acamparam no monte Sefer.",
+        "24": "Partiram do monte Sefer e acamparam em Harada.",
+        "25": "Partiram de Harada e acamparam em Maquelote.",
+        "26": "Partiram de Maquelote e acamparam em Taate.",
+        "27": "Partiram de Taate e acamparam em Tera.",
+        "28": "Partiram de Tera e acamparam em Mitca.",
+        "29": "Partiram de Mitca e acamparam em Hasmona.",
+        "30": "Partiram de Hasmona e acamparam em Moserote.",
+        "31": "Partiram de Moserote e acamparam em Benê-Jaacã.",
+        "32": "Partiram de Benê-Jaacã e acamparam em Hor-Hagidgade.",
+        "33": "Partiram de Hor-Hagidgade e acamparam em Jotbatá.",
+        "34": "Partiram de Jotbatá e acamparam em Abrona.",
+        "35": "Partiram de Abrona e acamparam em Eziom-Geber.",
+        "36": "Partiram de Eziom-Geber e acamparam no deserto de Zim, que é Cades.",
+        "37": "Partiram de Cades e acamparam no monte Hor, na fronteira da terra de Edom.",
+        "38": "Então Arão, o sacerdote, subiu o monte Hor, segundo o mandado do Senhor ; e morreu ali, no primeiro dia do quinto mês do quadragésimo ano depois da saída dos filhos de Israel da terra do Egito.",
+        "39": "Arão tinha cento e vinte e três anos de idade quando morreu no monte Hor.",
+        "40": "Então o rei cananeu de Arade, que habitava o Sul da terra de Canaã, soube que os filhos de Israel estavam chegando.",
+        "41": "Eles partiram do monte Hor e acamparam em Zalmona.",
+        "42": "Partiram de Zalmona e acamparam em Punom.",
+        "43": "Partiram de Punom e acamparam em Obote.",
+        "44": "Partiram de Obote e acamparam em Ijé-Abarim, na fronteira de Moabe.",
+        "45": "Partiram de Ijé-Abarim e acamparam em Dibom-Gade.",
+        "46": "Partiram de Dibom-Gade e acamparam em Almom-Diblataim.",
+        "47": "Partiram de Almom-Diblataim e acamparam nos montes de Abarim, diante de Nebo.",
+        "48": "Partiram dos montes de Abarim e acamparam nas campinas de Moabe, junto ao Jordão, na altura de Jericó.",
+        "49": "E acamparam junto ao Jordão, desde Bete-Jesimote até Abel-Sitim, nas campinas de Moabe.",
+        "50": "Nas campinas de Moabe, junto ao Jordão, na altura de Jericó, o Senhor disse a Moisés:",
+        "51": "— Fale com os filhos de Israel e diga-lhes: Quando vocês tiverem passado o Jordão para entrar na terra de Canaã,",
+        "52": "devem expulsar da frente de vocês todos os moradores da terra, destruir todas as pedras com figura e todas as imagens fundidas. Devem também derrubar todos os santuários nos lugares altos.",
+        "53": "Tomem posse da terra e morem nela, porque eu lhes dei esta terra, para que vocês tomem posse dela.",
+        "54": "Vocês herdarão a terra por sorteio, segundo as suas famílias. À tribo mais numerosa deem uma herança maior; à tribo pequena deem uma herança menor. Onde lhe cair a sorte, esse lugar lhe pertencerá; vocês herdarão segundo as tribos de seus pais.",
+        "55": "Porém, se não expulsarem os moradores da terra, então os que vocês deixarem ficar serão para vocês como espinhos nos olhos e como aguilhões nas costas e eles os perturbarão na terra em que vocês irão morar.",
+        "56": "E farei com vocês o que pensei fazer com eles."
     }
-  }
 }

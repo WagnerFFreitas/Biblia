@@ -1,138 +1,43 @@
 {
-  "livro": "Romanos",
-  "capítulo": 9,
-  "versículos": {
-    "1": {
-      "título": "Deus e o seu povo",
-      "texto": "Digo a verdade em Cristo, não minto, e a minha consciência confirma isso por meio do Espírito Santo:"
+    "livro": "Romanos",
+    "capitulo": 9,
+    "titulos": {
+        "1": "Deus e o seu povo",
+        "19": "A soberania de Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "sinto grande tristeza e tenho incessante dor no coração."
-    },
-    "3": {
-      "título": "",
-      "texto": "Porque eu mesmo desejaria ser amaldiçoado, separado de Cristo, por amor de meus irmãos, meus compatriotas segundo a carne."
-    },
-    "4": {
-      "título": "",
-      "texto": "São israelitas. A eles pertence a adoção, assim como a glória, as alianças, a promulgação da Lei, o culto e as promessas."
-    },
-    "5": {
-      "título": "",
-      "texto": "Deles são os patriarcas, e também deles descende o Cristo, segundo a carne, o qual é sobre todos, Deus bendito para sempre. Amém!"
-    },
-    "6": {
-      "título": "",
-      "texto": "E não pensemos que a palavra de Deus falhou. Porque nem todos os de Israel são, de fato, israelitas,"
-    },
-    "7": {
-      "título": "",
-      "texto": "nem por serem descendentes de Abraão são todos filhos. Pelo contrário: “Por meio de Isaque será chamada a sua descendência.”"
-    },
-    "8": {
-      "título": "",
-      "texto": "Isto é, não são os filhos da carne que são filhos de Deus, mas os filhos da promessa é que são contados como descendência."
-    },
-    "9": {
-      "título": "",
-      "texto": "Porque a palavra da promessa é esta: “Por esse tempo voltarei, e Sara terá um filho.”"
-    },
-    "10": {
-      "título": "",
-      "texto": "E isto não aconteceu somente com ela, mas também com Rebeca, ao conceber de um só, de Isaque, nosso pai."
-    },
-    "11": {
-      "título": "",
-      "texto": "E os gêmeos ainda não eram nascidos, nem tinham feito o bem ou o mal — para que o propósito de Deus, quanto à eleição, prevalecesse, não por obras, mas por aquele que chama —,"
-    },
-    "12": {
-      "título": "",
-      "texto": "quando foi dito a Rebeca: “O mais velho será servo do mais moço.”"
-    },
-    "13": {
-      "título": "",
-      "texto": "Como está escrito:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Que diremos, então? Que Deus é injusto? De modo nenhum!"
-    },
-    "15": {
-      "título": "",
-      "texto": "Pois ele diz a Moisés:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Assim, pois, isto não depende de quem quer ou de quem corre, mas de Deus, que tem misericórdia."
-    },
-    "17": {
-      "título": "",
-      "texto": "Porque a Escritura diz a Faraó: “Foi para isto mesmo que eu o levantei, para mostrar em você o meu poder e para que o meu nome seja anunciado em toda a terra.”"
-    },
-    "18": {
-      "título": "",
-      "texto": "Logo, Deus tem misericórdia de quem quer e também endurece a quem ele quer."
-    },
-    "19": {
-      "título": "A soberania de Deus",
-      "texto": "Mas você vai me dizer: “Por que Deus ainda se queixa? Pois quem pode resistir à sua vontade?”"
-    },
-    "20": {
-      "título": "",
-      "texto": "Mas quem é você, caro amigo, para discutir com Deus? Será que o objeto pode perguntar a quem o fez: “Por que você me fez assim?”"
-    },
-    "21": {
-      "título": "",
-      "texto": "Será que o oleiro não tem direito sobre a massa, para do mesmo barro fazer um vaso para honra e outro para desonra?"
-    },
-    "22": {
-      "título": "",
-      "texto": "Que diremos, se Deus, querendo mostrar a sua ira e dar a conhecer o seu poder, suportou com muita paciência os vasos de ira, preparados para a destruição,"
-    },
-    "23": {
-      "título": "",
-      "texto": "a fim de que também desse a conhecer as riquezas da sua glória nos vasos de misericórdia, que de antemão preparou para glória?"
-    },
-    "24": {
-      "título": "",
-      "texto": "Estes vasos somos nós, a quem também chamou, não só dentre os judeus, mas também dentre os gentios,"
-    },
-    "25": {
-      "título": "",
-      "texto": "como também diz em Oseias:"
-    },
-    "26": {
-      "título": "",
-      "texto": "E no lugar em que lhes foi dito:"
-    },
-    "27": {
-      "título": "",
-      "texto": "Mas Isaías clama a respeito de Israel:"
-    },
-    "28": {
-      "título": "",
-      "texto": "Porque o Senhor cumprirá"
-    },
-    "29": {
-      "título": "",
-      "texto": "Como Isaías já disse:"
-    },
-    "30": {
-      "título": "",
-      "texto": "Que diremos, então? Que os gentios, que não buscavam a justificação, vieram a alcançá-la, a saber, a justificação que decorre da fé,"
-    },
-    "31": {
-      "título": "",
-      "texto": "e que Israel, que buscava a lei de justiça, não chegou a atingir essa lei."
-    },
-    "32": {
-      "título": "",
-      "texto": "Por quê? Porque não a buscou pela fé, mas como que por obras. Tropeçaram na pedra de tropeço,"
-    },
-    "33": {
-      "título": "",
-      "texto": "como está escrito:"
+    "versiculos": {
+        "1": "Digo a verdade em Cristo, não minto, e a minha consciência confirma isso por meio do Espírito Santo:",
+        "2": "sinto grande tristeza e tenho incessante dor no coração.",
+        "3": "Porque eu mesmo desejaria ser amaldiçoado, separado de Cristo, por amor de meus irmãos, meus compatriotas segundo a carne.",
+        "4": "São israelitas. A eles pertence a adoção, assim como a glória, as alianças, a promulgação da Lei, o culto e as promessas.",
+        "5": "Deles são os patriarcas, e também deles descende o Cristo, segundo a carne, o qual é sobre todos, Deus bendito para sempre. Amém!",
+        "6": "E não pensemos que a palavra de Deus falhou. Porque nem todos os de Israel são, de fato, israelitas,",
+        "7": "nem por serem descendentes de Abraão são todos filhos. Pelo contrário: “Por meio de Isaque será chamada a sua descendência.”",
+        "8": "Isto é, não são os filhos da carne que são filhos de Deus, mas os filhos da promessa é que são contados como descendência.",
+        "9": "Porque a palavra da promessa é esta: “Por esse tempo voltarei, e Sara terá um filho.”",
+        "10": "E isto não aconteceu somente com ela, mas também com Rebeca, ao conceber de um só, de Isaque, nosso pai.",
+        "11": "E os gêmeos ainda não eram nascidos, nem tinham feito o bem ou o mal — para que o propósito de Deus, quanto à eleição, prevalecesse, não por obras, mas por aquele que chama —,",
+        "12": "quando foi dito a Rebeca: “O mais velho será servo do mais moço.”",
+        "13": "Como está escrito:",
+        "14": "Que diremos, então? Que Deus é injusto? De modo nenhum!",
+        "15": "Pois ele diz a Moisés:",
+        "16": "Assim, pois, isto não depende de quem quer ou de quem corre, mas de Deus, que tem misericórdia.",
+        "17": "Porque a Escritura diz a Faraó: “Foi para isto mesmo que eu o levantei, para mostrar em você o meu poder e para que o meu nome seja anunciado em toda a terra.”",
+        "18": "Logo, Deus tem misericórdia de quem quer e também endurece a quem ele quer.",
+        "19": "Mas você vai me dizer: “Por que Deus ainda se queixa? Pois quem pode resistir à sua vontade?”",
+        "20": "Mas quem é você, caro amigo, para discutir com Deus? Será que o objeto pode perguntar a quem o fez: “Por que você me fez assim?”",
+        "21": "Será que o oleiro não tem direito sobre a massa, para do mesmo barro fazer um vaso para honra e outro para desonra?",
+        "22": "Que diremos, se Deus, querendo mostrar a sua ira e dar a conhecer o seu poder, suportou com muita paciência os vasos de ira, preparados para a destruição,",
+        "23": "a fim de que também desse a conhecer as riquezas da sua glória nos vasos de misericórdia, que de antemão preparou para glória?",
+        "24": "Estes vasos somos nós, a quem também chamou, não só dentre os judeus, mas também dentre os gentios,",
+        "25": "como também diz em Oseias:",
+        "26": "E no lugar em que lhes foi dito:",
+        "27": "Mas Isaías clama a respeito de Israel:",
+        "28": "Porque o Senhor cumprirá",
+        "29": "Como Isaías já disse:",
+        "30": "Que diremos, então? Que os gentios, que não buscavam a justificação, vieram a alcançá-la, a saber, a justificação que decorre da fé,",
+        "31": "e que Israel, que buscava a lei de justiça, não chegou a atingir essa lei.",
+        "32": "Por quê? Porque não a buscou pela fé, mas como que por obras. Tropeçaram na pedra de tropeço,",
+        "33": "como está escrito:"
     }
-  }
 }

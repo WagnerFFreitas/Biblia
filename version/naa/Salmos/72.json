@@ -1,86 +1,29 @@
 {
-  "livro": "Salmos",
-  "capítulo": 72,
-  "versículos": {
-    "1": {
-      "título": "O rei justo e o seu reinado eterno",
-      "texto": "Concede ao rei, ó Deus,"
+    "livro": "Salmos",
+    "capitulo": 72,
+    "titulos": {
+        "1": "O rei justo e o seu reinado eterno"
     },
-    "2": {
-      "título": "",
-      "texto": "Que ele julgue o teu povo"
-    },
-    "3": {
-      "título": "",
-      "texto": "Os montes trarão paz ao povo;"
-    },
-    "4": {
-      "título": "",
-      "texto": "Que o rei julgue"
-    },
-    "5": {
-      "título": "",
-      "texto": "Ele permanecerá"
-    },
-    "6": {
-      "título": "",
-      "texto": "Seja ele como chuva que desce"
-    },
-    "7": {
-      "título": "",
-      "texto": "Que em seus dias"
-    },
-    "8": {
-      "título": "",
-      "texto": "Domine ele de mar a mar"
-    },
-    "9": {
-      "título": "",
-      "texto": "Curvem-se diante dele"
-    },
-    "10": {
-      "título": "",
-      "texto": "Que os reis de Társis e das ilhas"
-    },
-    "11": {
-      "título": "",
-      "texto": "E todos os reis se prostrem"
-    },
-    "12": {
-      "título": "",
-      "texto": "Porque ele livra os necessitados"
-    },
-    "13": {
-      "título": "",
-      "texto": "Ele se compadece dos fracos"
-    },
-    "14": {
-      "título": "",
-      "texto": "Ele os redime da opressão"
-    },
-    "15": {
-      "título": "",
-      "texto": "Viva o rei! E que lhe deem"
-    },
-    "16": {
-      "título": "",
-      "texto": "Haja na terra"
-    },
-    "17": {
-      "título": "",
-      "texto": "Que o nome do rei permaneça"
-    },
-    "18": {
-      "título": "",
-      "texto": "Bendito seja o Senhor Deus,"
-    },
-    "19": {
-      "título": "",
-      "texto": "Bendito para sempre"
-    },
-    "20": {
-      "título": "",
-      "texto": "Aqui terminam as orações"
+    "versiculos": {
+        "1": "Concede ao rei, ó Deus,",
+        "2": "Que ele julgue o teu povo",
+        "3": "Os montes trarão paz ao povo;",
+        "4": "Que o rei julgue",
+        "5": "Ele permanecerá",
+        "6": "Seja ele como chuva que desce",
+        "7": "Que em seus dias",
+        "8": "Domine ele de mar a mar",
+        "9": "Curvem-se diante dele",
+        "10": "Que os reis de Társis e das ilhas",
+        "11": "E todos os reis se prostrem",
+        "12": "Porque ele livra os necessitados",
+        "13": "Ele se compadece dos fracos",
+        "14": "Ele os redime da opressão",
+        "15": "Viva o rei! E que lhe deem",
+        "16": "Haja na terra",
+        "17": "Que o nome do rei permaneça",
+        "18": "Bendito seja o Senhor Deus,",
+        "19": "Bendito para sempre",
+        "20": "Aqui terminam as orações"
     }
-  }
 }

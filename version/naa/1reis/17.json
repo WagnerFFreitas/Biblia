@@ -1,102 +1,34 @@
 {
-  "livro": "1 Reis",
-  "capítulo": 17,
-  "versículos": {
-    "1": {
-      "título": "Elias prediz grande seca e é sustentado por corvos",
-      "texto": "Então Elias, o tesbita, dos moradores de Gileade, disse a Acabe:"
+    "livro": "1 Reis",
+    "capitulo": 17,
+    "titulos": {
+        "1": "Elias prediz grande seca e é sustentado por corvos",
+        "8": "Elias e a viúva de Sarepta"
     },
-    "2": {
-      "título": "",
-      "texto": "Então a palavra do Senhor veio a Elias, dizendo:"
-    },
-    "3": {
-      "título": "",
-      "texto": "— Saia daqui, vá para o leste e esconda-se junto ao ribeiro de Querite, nas imediações do Jordão."
-    },
-    "4": {
-      "título": "",
-      "texto": "Você beberá a água do ribeiro; e eu ordenei aos corvos que sustentem você naquele lugar."
-    },
-    "5": {
-      "título": "",
-      "texto": "Elias foi e fez segundo a palavra do Senhor . Retirou-se e ficou morando junto ao ribeiro de Querite, nas imediações do Jordão."
-    },
-    "6": {
-      "título": "",
-      "texto": "Os corvos lhe traziam pão e carne pela manhã, bem como pão e carne ao anoitecer; e ele bebia a água do ribeiro."
-    },
-    "7": {
-      "título": "",
-      "texto": "Mas, passados alguns dias, o ribeiro secou, porque não chovia sobre a terra."
-    },
-    "8": {
-      "título": "Elias e a viúva de Sarepta",
-      "texto": "Então a palavra do Senhor veio a Elias, dizendo:"
-    },
-    "9": {
-      "título": "",
-      "texto": "— Levante-se e vá a Sarepta, que pertence a Sidom, e fique por lá. Ali ordenei a uma viúva que dê comida para você."
-    },
-    "10": {
-      "título": "",
-      "texto": "Então ele se levantou e foi a Sarepta. Chegando ao portão da cidade, encontrou uma viúva que estava apanhando lenha. Ele a chamou e lhe disse:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Quando ela já estava indo buscar a água, Elias a chamou e lhe disse:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Porém ela respondeu:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Elias disse a ela:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Porque assim diz o Senhor , Deus de Israel: “A farinha da panela não acabará, e o azeite do jarro não faltará, até o dia em que o Senhor fizer chover sobre a terra.”"
-    },
-    "15": {
-      "título": "",
-      "texto": "A viúva foi e fez segundo a palavra de Elias. Assim, comeram ele, ela e a sua casa durante muitos dias."
-    },
-    "16": {
-      "título": "",
-      "texto": "A farinha da panela não acabou, e o azeite do jarro não faltou, segundo a palavra do Senhor , anunciada por meio de Elias."
-    },
-    "17": {
-      "título": "",
-      "texto": "Depois disto, o filho da mulher, dona da casa, adoeceu. E a doença dele se agravou tanto, que ele morreu."
-    },
-    "18": {
-      "título": "",
-      "texto": "Então a mulher disse a Elias:"
-    },
-    "19": {
-      "título": "",
-      "texto": "Elias respondeu:"
-    },
-    "20": {
-      "título": "",
-      "texto": "Então clamou ao Senhor e disse:"
-    },
-    "21": {
-      "título": "",
-      "texto": "E, estendendo-se três vezes sobre o menino, clamou ao Senhor e disse:"
-    },
-    "22": {
-      "título": "",
-      "texto": "O Senhor atendeu à voz de Elias, a vida foi restituída ao menino, e ele reviveu."
-    },
-    "23": {
-      "título": "",
-      "texto": "Elias tomou o menino e o levou do quarto até a casa; entregou-o à mãe dele e disse:"
-    },
-    "24": {
-      "título": "",
-      "texto": "Então a mulher disse a Elias:"
+    "versiculos": {
+        "1": "Então Elias, o tesbita, dos moradores de Gileade, disse a Acabe:",
+        "2": "Então a palavra do Senhor veio a Elias, dizendo:",
+        "3": "— Saia daqui, vá para o leste e esconda-se junto ao ribeiro de Querite, nas imediações do Jordão.",
+        "4": "Você beberá a água do ribeiro; e eu ordenei aos corvos que sustentem você naquele lugar.",
+        "5": "Elias foi e fez segundo a palavra do Senhor . Retirou-se e ficou morando junto ao ribeiro de Querite, nas imediações do Jordão.",
+        "6": "Os corvos lhe traziam pão e carne pela manhã, bem como pão e carne ao anoitecer; e ele bebia a água do ribeiro.",
+        "7": "Mas, passados alguns dias, o ribeiro secou, porque não chovia sobre a terra.",
+        "8": "Então a palavra do Senhor veio a Elias, dizendo:",
+        "9": "— Levante-se e vá a Sarepta, que pertence a Sidom, e fique por lá. Ali ordenei a uma viúva que dê comida para você.",
+        "10": "Então ele se levantou e foi a Sarepta. Chegando ao portão da cidade, encontrou uma viúva que estava apanhando lenha. Ele a chamou e lhe disse:",
+        "11": "Quando ela já estava indo buscar a água, Elias a chamou e lhe disse:",
+        "12": "Porém ela respondeu:",
+        "13": "Elias disse a ela:",
+        "14": "Porque assim diz o Senhor , Deus de Israel: “A farinha da panela não acabará, e o azeite do jarro não faltará, até o dia em que o Senhor fizer chover sobre a terra.”",
+        "15": "A viúva foi e fez segundo a palavra de Elias. Assim, comeram ele, ela e a sua casa durante muitos dias.",
+        "16": "A farinha da panela não acabou, e o azeite do jarro não faltou, segundo a palavra do Senhor , anunciada por meio de Elias.",
+        "17": "Depois disto, o filho da mulher, dona da casa, adoeceu. E a doença dele se agravou tanto, que ele morreu.",
+        "18": "Então a mulher disse a Elias:",
+        "19": "Elias respondeu:",
+        "20": "Então clamou ao Senhor e disse:",
+        "21": "E, estendendo-se três vezes sobre o menino, clamou ao Senhor e disse:",
+        "22": "O Senhor atendeu à voz de Elias, a vida foi restituída ao menino, e ele reviveu.",
+        "23": "Elias tomou o menino e o levou do quarto até a casa; entregou-o à mãe dele e disse:",
+        "24": "Então a mulher disse a Elias:"
     }
-  }
 }

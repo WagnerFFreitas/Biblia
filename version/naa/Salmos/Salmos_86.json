@@ -1,74 +1,26 @@
 {
-  "livro": "Salmos",
-  "capítulo": 86,
-  "versículos": {
-    "1": {
-      "título": "Súplica e confiança",
-      "texto": "Inclina, Senhor , os teus ouvidos"
+    "livro": "Salmos",
+    "capitulo": 86,
+    "titulos": {
+        "1": "Súplica e confiança"
     },
-    "2": {
-      "título": "",
-      "texto": "Preserva a minha alma,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Compadece-te de mim, ó Senhor,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Alegra a alma do teu servo,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Pois tu, Senhor,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Escuta, Senhor , a minha oração"
-    },
-    "7": {
-      "título": "",
-      "texto": "No dia da minha angústia"
-    },
-    "8": {
-      "título": "",
-      "texto": "Não há entre os deuses"
-    },
-    "9": {
-      "título": "",
-      "texto": "Todas as nações que fizeste"
-    },
-    "10": {
-      "título": "",
-      "texto": "Pois tu és grande"
-    },
-    "11": {
-      "título": "",
-      "texto": "Ensina-me, Senhor ,"
-    },
-    "12": {
-      "título": "",
-      "texto": "Eu te darei graças,"
-    },
-    "13": {
-      "título": "",
-      "texto": "Pois grande é a tua misericórdia"
-    },
-    "14": {
-      "título": "",
-      "texto": "Ó Deus, os soberbos"
-    },
-    "15": {
-      "título": "",
-      "texto": "Mas tu, Senhor,"
-    },
-    "16": {
-      "título": "",
-      "texto": "Volta-te para mim"
-    },
-    "17": {
-      "título": "",
-      "texto": "Mostra-me um sinal do teu favor,"
+    "versiculos": {
+        "1": "Inclina, Senhor , os teus ouvidos",
+        "2": "Preserva a minha alma,",
+        "3": "Compadece-te de mim, ó Senhor,",
+        "4": "Alegra a alma do teu servo,",
+        "5": "Pois tu, Senhor,",
+        "6": "Escuta, Senhor , a minha oração",
+        "7": "No dia da minha angústia",
+        "8": "Não há entre os deuses",
+        "9": "Todas as nações que fizeste",
+        "10": "Pois tu és grande",
+        "11": "Ensina-me, Senhor ,",
+        "12": "Eu te darei graças,",
+        "13": "Pois grande é a tua misericórdia",
+        "14": "Ó Deus, os soberbos",
+        "15": "Mas tu, Senhor,",
+        "16": "Volta-te para mim",
+        "17": "Mostra-me um sinal do teu favor,"
     }
-  }
 }

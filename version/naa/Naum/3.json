@@ -1,82 +1,28 @@
 {
-  "livro": "Naum",
-  "capítulo": 3,
-  "versículos": {
-    "1": {
-      "título": "A ruína completa de Nínive",
-      "texto": "Ai da cidade sanguinária,"
+    "livro": "Naum",
+    "capitulo": 3,
+    "titulos": {
+        "1": "A ruína completa de Nínive"
     },
-    "2": {
-      "título": "",
-      "texto": "Eis o estalo dos açoites,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Os cavaleiros que esporeiam,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Tudo isso por causa"
-    },
-    "5": {
-      "título": "",
-      "texto": "“Eis que eu estou contra você”,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Vou jogar sujeira sobre você,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Todos os que a virem"
-    },
-    "8": {
-      "título": "",
-      "texto": "Será que você é melhor"
-    },
-    "9": {
-      "título": "",
-      "texto": "A Etiópia e o Egito"
-    },
-    "10": {
-      "título": "",
-      "texto": "Todavia, ela foi levada ao exílio,"
-    },
-    "11": {
-      "título": "",
-      "texto": "Também você, Nínive,"
-    },
-    "12": {
-      "título": "",
-      "texto": "Todas as suas fortalezas"
-    },
-    "13": {
-      "título": "",
-      "texto": "Eis que os seus soldados"
-    },
-    "14": {
-      "título": "",
-      "texto": "Tire água para o tempo do cerco,"
-    },
-    "15": {
-      "título": "",
-      "texto": "No entanto, você será"
-    },
-    "16": {
-      "título": "",
-      "texto": "Os seus negociantes eram"
-    },
-    "17": {
-      "título": "",
-      "texto": "Os seus príncipes eram"
-    },
-    "18": {
-      "título": "",
-      "texto": "Os seus pastores dormem,"
-    },
-    "19": {
-      "título": "",
-      "texto": "Não há remédio para o seu mal;"
+    "versiculos": {
+        "1": "Ai da cidade sanguinária,",
+        "2": "Eis o estalo dos açoites,",
+        "3": "Os cavaleiros que esporeiam,",
+        "4": "Tudo isso por causa",
+        "5": "“Eis que eu estou contra você”,",
+        "6": "Vou jogar sujeira sobre você,",
+        "7": "Todos os que a virem",
+        "8": "Será que você é melhor",
+        "9": "A Etiópia e o Egito",
+        "10": "Todavia, ela foi levada ao exílio,",
+        "11": "Também você, Nínive,",
+        "12": "Todas as suas fortalezas",
+        "13": "Eis que os seus soldados",
+        "14": "Tire água para o tempo do cerco,",
+        "15": "No entanto, você será",
+        "16": "Os seus negociantes eram",
+        "17": "Os seus príncipes eram",
+        "18": "Os seus pastores dormem,",
+        "19": "Não há remédio para o seu mal;"
     }
-  }
 }

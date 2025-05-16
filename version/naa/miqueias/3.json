@@ -1,54 +1,21 @@
 {
-  "livro": "Miquéias",
-  "capítulo": 3,
-  "versículos": {
-    "1": {
-      "título": "Ameaças contra os maus governantes e os falsos profetas",
-      "texto": "Eu disse:"
+    "livro": "Miquéias",
+    "capitulo": 3,
+    "titulos": {
+        "1": "Ameaças contra os maus governantes e os falsos profetas"
     },
-    "2": {
-      "título": "",
-      "texto": "Mas vocês odeiam o bem"
-    },
-    "3": {
-      "título": "",
-      "texto": "Vocês comem a carne"
-    },
-    "4": {
-      "título": "",
-      "texto": "Um dia eles hão de invocar"
-    },
-    "5": {
-      "título": "",
-      "texto": "Assim diz o Senhor"
-    },
-    "6": {
-      "título": "",
-      "texto": "“Por isso, vocês terão noites"
-    },
-    "7": {
-      "título": "",
-      "texto": "Os videntes serão envergonhados,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Quanto a mim, estou cheio"
-    },
-    "9": {
-      "título": "",
-      "texto": "Escutem agora isto,"
-    },
-    "10": {
-      "título": "",
-      "texto": "que edificam Sião com sangue"
-    },
-    "11": {
-      "título": "",
-      "texto": "Os seus cabeças dão"
-    },
-    "12": {
-      "título": "",
-      "texto": "Portanto, por causa de vocês,"
+    "versiculos": {
+        "1": "Eu disse:",
+        "2": "Mas vocês odeiam o bem",
+        "3": "Vocês comem a carne",
+        "4": "Um dia eles hão de invocar",
+        "5": "Assim diz o Senhor",
+        "6": "“Por isso, vocês terão noites",
+        "7": "Os videntes serão envergonhados,",
+        "8": "Quanto a mim, estou cheio",
+        "9": "Escutem agora isto,",
+        "10": "que edificam Sião com sangue",
+        "11": "Os seus cabeças dão",
+        "12": "Portanto, por causa de vocês,"
     }
-  }
 }

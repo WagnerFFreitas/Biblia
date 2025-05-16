@@ -1,78 +1,28 @@
 {
-  "livro": "Gênesis",
-  "capítulo": 13,
-  "versículos": {
-    "1": {
-      "título": "Abrão e Ló se separam",
-      "texto": "Abrão saiu do Egito e foi para o Neguebe, ele e a sua mulher e tudo o que tinha. E Ló foi com ele."
+    "livro": "Gênesis",
+    "capitulo": 13,
+    "titulos": {
+        "1": "Abrão e Ló se separam",
+        "14": "Deus promete a Abrão a terra de Canaã"
     },
-    "2": {
-      "título": "",
-      "texto": "Abrão era muito rico; possuía gado, prata e ouro."
-    },
-    "3": {
-      "título": "",
-      "texto": "Fez as suas jornadas do Neguebe até Betel, até o lugar onde primeiro tinha armado a sua tenda, entre Betel e Ai,"
-    },
-    "4": {
-      "título": "",
-      "texto": "até o lugar do altar, que anteriormente tinha feito. E ali Abrão invocou o nome do Senhor ."
-    },
-    "5": {
-      "título": "",
-      "texto": "Ló, que ia com Abrão, também tinha rebanhos, gado e tendas."
-    },
-    "6": {
-      "título": "",
-      "texto": "E a terra não podia sustentá-los, para que morassem juntos, porque eram muitos os seus bens, de maneira que não podiam morar um na companhia do outro."
-    },
-    "7": {
-      "título": "",
-      "texto": "Houve desentendimento entre os pastores do gado de Abrão e os pastores do gado de Ló. Nesse tempo os cananeus e os ferezeus habitavam essa terra."
-    },
-    "8": {
-      "título": "",
-      "texto": "Então Abrão disse a Ló:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Não está toda a terra aí diante de você? Peço que você se afaste de mim. Se você for para a esquerda, irei para a direita; se você for para a direita, irei para a esquerda."
-    },
-    "10": {
-      "título": "",
-      "texto": "Ló ergueu os olhos e viu toda a campina do Jordão, que era toda bem-regada, como o jardim do Senhor , como a terra do Egito, até a região de Zoar. Isto foi antes de haver o Senhor destruído Sodoma e Gomorra."
-    },
-    "11": {
-      "título": "",
-      "texto": "Então Ló escolheu para si toda a campina do Jordão e partiu para o Oriente. E assim separaram-se um do outro."
-    },
-    "12": {
-      "título": "",
-      "texto": "Abrão habitou na terra de Canaã, e Ló foi morar nas cidades da campina. E ia armando as suas tendas até Sodoma."
-    },
-    "13": {
-      "título": "",
-      "texto": "Ora, os moradores de Sodoma eram maus e grandes pecadores contra o Senhor ."
-    },
-    "14": {
-      "título": "Deus promete a Abrão a terra de Canaã",
-      "texto": "O Senhor disse a Abrão, depois que Ló se separou dele:"
-    },
-    "15": {
-      "título": "",
-      "texto": "porque toda essa terra que você está vendo, eu a darei a você e à sua descendência, para sempre."
-    },
-    "16": {
-      "título": "",
-      "texto": "Farei a sua descendência como o pó da terra, de maneira que, se alguém puder contar o pó da terra, então será possível também contar os seus descendentes."
-    },
-    "17": {
-      "título": "",
-      "texto": "Levante-se e percorra essa terra no seu comprimento e na sua largura, porque eu a darei a você."
-    },
-    "18": {
-      "título": "",
-      "texto": "E Abrão, mudando as suas tendas, foi morar nos carvalhais de Manre, que estão junto a Hebrom. E ali edificou um altar ao Senhor ."
+    "versiculos": {
+        "1": "Abrão saiu do Egito e foi para o Neguebe, ele e a sua mulher e tudo o que tinha. E Ló foi com ele.",
+        "2": "Abrão era muito rico; possuía gado, prata e ouro.",
+        "3": "Fez as suas jornadas do Neguebe até Betel, até o lugar onde primeiro tinha armado a sua tenda, entre Betel e Ai,",
+        "4": "até o lugar do altar, que anteriormente tinha feito. E ali Abrão invocou o nome do Senhor .",
+        "5": "Ló, que ia com Abrão, também tinha rebanhos, gado e tendas.",
+        "6": "E a terra não podia sustentá-los, para que morassem juntos, porque eram muitos os seus bens, de maneira que não podiam morar um na companhia do outro.",
+        "7": "Houve desentendimento entre os pastores do gado de Abrão e os pastores do gado de Ló. Nesse tempo os cananeus e os ferezeus habitavam essa terra.",
+        "8": "Então Abrão disse a Ló:",
+        "9": "Não está toda a terra aí diante de você? Peço que você se afaste de mim. Se você for para a esquerda, irei para a direita; se você for para a direita, irei para a esquerda.",
+        "10": "Ló ergueu os olhos e viu toda a campina do Jordão, que era toda bem-regada, como o jardim do Senhor , como a terra do Egito, até a região de Zoar. Isto foi antes de haver o Senhor destruído Sodoma e Gomorra.",
+        "11": "Então Ló escolheu para si toda a campina do Jordão e partiu para o Oriente. E assim separaram-se um do outro.",
+        "12": "Abrão habitou na terra de Canaã, e Ló foi morar nas cidades da campina. E ia armando as suas tendas até Sodoma.",
+        "13": "Ora, os moradores de Sodoma eram maus e grandes pecadores contra o Senhor .",
+        "14": "O Senhor disse a Abrão, depois que Ló se separou dele:",
+        "15": "porque toda essa terra que você está vendo, eu a darei a você e à sua descendência, para sempre.",
+        "16": "Farei a sua descendência como o pó da terra, de maneira que, se alguém puder contar o pó da terra, então será possível também contar os seus descendentes.",
+        "17": "Levante-se e percorra essa terra no seu comprimento e na sua largura, porque eu a darei a você.",
+        "18": "E Abrão, mudando as suas tendas, foi morar nos carvalhais de Manre, que estão junto a Hebrom. E ali edificou um altar ao Senhor ."
     }
-  }
 }

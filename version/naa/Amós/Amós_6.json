@@ -1,62 +1,23 @@
 {
-  "livro": "Amós",
-  "capítulo": 6,
-  "versículos": {
-    "1": {
-      "título": "A corrupção e a destruição de Israel",
-      "texto": "“Ai dos que andam"
+    "livro": "Amós",
+    "capitulo": 6,
+    "titulos": {
+        "1": "A corrupção e a destruição de Israel"
     },
-    "2": {
-      "título": "",
-      "texto": "Vão à cidade de Calné e olhem."
-    },
-    "3": {
-      "título": "",
-      "texto": "Vocês imaginam que o dia mau"
-    },
-    "4": {
-      "título": "",
-      "texto": "Vocês dormem"
-    },
-    "5": {
-      "título": "",
-      "texto": "Ficam cantando à toa"
-    },
-    "6": {
-      "título": "",
-      "texto": "Bebem vinho em taças"
-    },
-    "7": {
-      "título": "",
-      "texto": "Portanto, vocês estarão"
-    },
-    "8": {
-      "título": "",
-      "texto": "O Senhor Deus jurou por si mesmo. O Senhor , o Deus dos Exércitos, diz:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Se numa casa ficarem dez homens, também esses morrerão."
-    },
-    "10": {
-      "título": "",
-      "texto": "E, se um parente chegado, o qual os há de queimar, pega os cadáveres para os levar para fora da casa e pergunta ao que estiver lá dentro: “Há mais alguém com você?” E este responder: “Não, não há”; então lhe dirá: “Cale-se! Não mencione o nome do Senhor .”"
-    },
-    "11": {
-      "título": "",
-      "texto": "Pois eis que o Senhor ordena,"
-    },
-    "12": {
-      "título": "",
-      "texto": "“Será que os cavalos podem"
-    },
-    "13": {
-      "título": "",
-      "texto": "Vocês se alegram por terem"
-    },
-    "14": {
-      "título": "",
-      "texto": "Pois eis que trarei contra vocês,"
+    "versiculos": {
+        "1": "“Ai dos que andam",
+        "2": "Vão à cidade de Calné e olhem.",
+        "3": "Vocês imaginam que o dia mau",
+        "4": "Vocês dormem",
+        "5": "Ficam cantando à toa",
+        "6": "Bebem vinho em taças",
+        "7": "Portanto, vocês estarão",
+        "8": "O Senhor Deus jurou por si mesmo. O Senhor , o Deus dos Exércitos, diz:",
+        "9": "Se numa casa ficarem dez homens, também esses morrerão.",
+        "10": "E, se um parente chegado, o qual os há de queimar, pega os cadáveres para os levar para fora da casa e pergunta ao que estiver lá dentro: “Há mais alguém com você?” E este responder: “Não, não há”; então lhe dirá: “Cale-se! Não mencione o nome do Senhor .”",
+        "11": "Pois eis que o Senhor ordena,",
+        "12": "“Será que os cavalos podem",
+        "13": "Vocês se alegram por terem",
+        "14": "Pois eis que trarei contra vocês,"
     }
-  }
 }

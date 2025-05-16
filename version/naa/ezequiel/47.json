@@ -1,98 +1,33 @@
 {
-  "livro": "Ezequiel",
-  "capítulo": 47,
-  "versículos": {
-    "1": {
-      "título": "As águas que saem do templo",
-      "texto": "Depois disto, o homem me fez voltar à entrada do templo, e eis que água saía de debaixo do limiar do templo e corria na direção do leste. Porque a fachada do templo dava para o leste. A água vinha de debaixo do lado direito do templo, do lado sul do altar."
+    "livro": "Ezequiel",
+    "capitulo": 47,
+    "titulos": {
+        "1": "As águas que saem do templo",
+        "13": "As fronteiras da terra de Israel"
     },
-    "2": {
-      "título": "",
-      "texto": "Ele me fez sair pelo portão do norte, para dar uma volta por fora, até o portão exterior, que dá para o leste; e eis que a água borbulhava do lado direito."
-    },
-    "3": {
-      "título": "",
-      "texto": "O homem saiu para o leste, tendo na mão um cordel de medir. Mediu quinhentos metros e me fez passar pela água, que me dava pelos tornozelos."
-    },
-    "4": {
-      "título": "",
-      "texto": "Mediu mais quinhentos metros e me fez passar pela água, que me dava pelos joelhos. Mediu mais quinhentos metros e me fez passar pela água, que agora me dava pela cintura."
-    },
-    "5": {
-      "título": "",
-      "texto": "Mediu ainda outros quinhentos metros, e era já um rio que eu não podia atravessar, porque as águas tinham crescido. Eram águas em que se podia nadar, um rio pelo qual não se podia passar andando."
-    },
-    "6": {
-      "título": "",
-      "texto": "Então ele me perguntou:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Quando cheguei lá, eis que à margem do rio havia grande abundância de árvores, dos dois lados do rio."
-    },
-    "8": {
-      "título": "",
-      "texto": "Então me disse:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Todos os seres vivos que povoam os lugares por onde este rio passar terão vida. E haverá muitíssimo peixe, porque essas águas chegaram lá. As águas do mar Morto se tornarão saudáveis, e tudo viverá por onde quer que esse rio passar."
-    },
-    "10": {
-      "título": "",
-      "texto": "Junto a ele se acharão pescadores. Desde En-Gedi até En-Eglaim haverá lugar para estender e secar as redes. Os peixes serão de muitas espécies, como os peixes do mar Grande."
-    },
-    "11": {
-      "título": "",
-      "texto": "Mas os seus charcos e os seus pântanos não se tornarão saudáveis; serão deixados para o sal."
-    },
-    "12": {
-      "título": "",
-      "texto": "Nas duas margens do rio nascerá todo tipo de árvore frutífera. As folhas dessas árvores não murcharão, e elas nunca deixarão de dar o seu fruto. Produzirão frutos novos todos os meses, porque são regadas pelas águas que saem do santuário. Os seus frutos servirão de alimento, e as suas folhas, de remédio."
-    },
-    "13": {
-      "título": "As fronteiras da terra de Israel",
-      "texto": "— Assim diz o Senhor Deus : Estas serão as fronteiras pelas quais vocês repartirão a terra como herança para as doze tribos de Israel. José terá duas partes."
-    },
-    "14": {
-      "título": "",
-      "texto": "Repartam a terra em partes iguais, pois jurei dá-la aos pais de vocês. Assim, esta mesma terra lhes será dada como herança."
-    },
-    "15": {
-      "título": "",
-      "texto": "— Este será o limite da terra: do lado norte, desde o mar Grande, pelo caminho de Hetlom, até a entrada de Zedade,"
-    },
-    "16": {
-      "título": "",
-      "texto": "Hamate, Berota, Sibraim, que ficam na fronteira entre Damasco e Hamate, até Hazer-Haticom, que está na fronteira de Haurã."
-    },
-    "17": {
-      "título": "",
-      "texto": "Assim, a fronteira será desde o mar até Hazar-Enom, na fronteira de Damasco, ao norte, que é também a fronteira de Hamate. Esta será a fronteira do lado norte."
-    },
-    "18": {
-      "título": "",
-      "texto": "— No lado leste, a fronteira será entre Haurã e Damasco; entre Gileade e a terra de Israel, será o Jordão; vocês medirão desde o limite do norte até o mar Morto. Esta será a fronteira do lado leste."
-    },
-    "19": {
-      "título": "",
-      "texto": "— No lado sul, a fronteira irá desde Tamar até as águas de Meribá-Cades, e então seguindo o ribeiro do Egito até o mar Grande. Esta será a fronteira do lado sul."
-    },
-    "20": {
-      "título": "",
-      "texto": "— No lado oeste, a fronteira será o mar Grande, subindo até diante da entrada de Hamate. Esta será a fronteira do lado oeste."
-    },
-    "21": {
-      "título": "",
-      "texto": "— Repartam esta terra entre vocês, segundo as tribos de Israel."
-    },
-    "22": {
-      "título": "",
-      "texto": "Vocês devem reparti-la como herança para vocês e para os estrangeiros que moram no meio de vocês, que gerarem filhos no meio de vocês. Eles deverão ser considerados como naturais entre os filhos de Israel; junto com vocês, eles receberão uma herança no meio das tribos de Israel."
-    },
-    "23": {
-      "título": "",
-      "texto": "Na tribo em que o estrangeiro estiver morando, ali vocês lhe darão a sua herança, diz o Senhor Deus ."
+    "versiculos": {
+        "1": "Depois disto, o homem me fez voltar à entrada do templo, e eis que água saía de debaixo do limiar do templo e corria na direção do leste. Porque a fachada do templo dava para o leste. A água vinha de debaixo do lado direito do templo, do lado sul do altar.",
+        "2": "Ele me fez sair pelo portão do norte, para dar uma volta por fora, até o portão exterior, que dá para o leste; e eis que a água borbulhava do lado direito.",
+        "3": "O homem saiu para o leste, tendo na mão um cordel de medir. Mediu quinhentos metros e me fez passar pela água, que me dava pelos tornozelos.",
+        "4": "Mediu mais quinhentos metros e me fez passar pela água, que me dava pelos joelhos. Mediu mais quinhentos metros e me fez passar pela água, que agora me dava pela cintura.",
+        "5": "Mediu ainda outros quinhentos metros, e era já um rio que eu não podia atravessar, porque as águas tinham crescido. Eram águas em que se podia nadar, um rio pelo qual não se podia passar andando.",
+        "6": "Então ele me perguntou:",
+        "7": "Quando cheguei lá, eis que à margem do rio havia grande abundância de árvores, dos dois lados do rio.",
+        "8": "Então me disse:",
+        "9": "Todos os seres vivos que povoam os lugares por onde este rio passar terão vida. E haverá muitíssimo peixe, porque essas águas chegaram lá. As águas do mar Morto se tornarão saudáveis, e tudo viverá por onde quer que esse rio passar.",
+        "10": "Junto a ele se acharão pescadores. Desde En-Gedi até En-Eglaim haverá lugar para estender e secar as redes. Os peixes serão de muitas espécies, como os peixes do mar Grande.",
+        "11": "Mas os seus charcos e os seus pântanos não se tornarão saudáveis; serão deixados para o sal.",
+        "12": "Nas duas margens do rio nascerá todo tipo de árvore frutífera. As folhas dessas árvores não murcharão, e elas nunca deixarão de dar o seu fruto. Produzirão frutos novos todos os meses, porque são regadas pelas águas que saem do santuário. Os seus frutos servirão de alimento, e as suas folhas, de remédio.",
+        "13": "— Assim diz o Senhor Deus : Estas serão as fronteiras pelas quais vocês repartirão a terra como herança para as doze tribos de Israel. José terá duas partes.",
+        "14": "Repartam a terra em partes iguais, pois jurei dá-la aos pais de vocês. Assim, esta mesma terra lhes será dada como herança.",
+        "15": "— Este será o limite da terra: do lado norte, desde o mar Grande, pelo caminho de Hetlom, até a entrada de Zedade,",
+        "16": "Hamate, Berota, Sibraim, que ficam na fronteira entre Damasco e Hamate, até Hazer-Haticom, que está na fronteira de Haurã.",
+        "17": "Assim, a fronteira será desde o mar até Hazar-Enom, na fronteira de Damasco, ao norte, que é também a fronteira de Hamate. Esta será a fronteira do lado norte.",
+        "18": "— No lado leste, a fronteira será entre Haurã e Damasco; entre Gileade e a terra de Israel, será o Jordão; vocês medirão desde o limite do norte até o mar Morto. Esta será a fronteira do lado leste.",
+        "19": "— No lado sul, a fronteira irá desde Tamar até as águas de Meribá-Cades, e então seguindo o ribeiro do Egito até o mar Grande. Esta será a fronteira do lado sul.",
+        "20": "— No lado oeste, a fronteira será o mar Grande, subindo até diante da entrada de Hamate. Esta será a fronteira do lado oeste.",
+        "21": "— Repartam esta terra entre vocês, segundo as tribos de Israel.",
+        "22": "Vocês devem reparti-la como herança para vocês e para os estrangeiros que moram no meio de vocês, que gerarem filhos no meio de vocês. Eles deverão ser considerados como naturais entre os filhos de Israel; junto com vocês, eles receberão uma herança no meio das tribos de Israel.",
+        "23": "Na tribo em que o estrangeiro estiver morando, ali vocês lhe darão a sua herança, diz o Senhor Deus ."
     }
-  }
 }

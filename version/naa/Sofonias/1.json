@@ -1,78 +1,28 @@
 {
-  "livro": "Sofonias",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Palavra do Senhor que veio a Sofonias, filho de Cusi, filho de Gedalias, filho de Amarias, filho de Ezequias, nos dias de Josias, filho de Amom, rei de Judá."
+    "livro": "Sofonias",
+    "capitulo": 1,
+    "titulos": {
+        "2": "Ameaças contra Judá e Jerusalém",
+        "7": "O dia da ira do Senhor"
     },
-    "2": {
-      "título": "Ameaças contra Judá e Jerusalém",
-      "texto": "“Certamente consumirei"
-    },
-    "3": {
-      "título": "",
-      "texto": "“Consumirei as pessoas"
-    },
-    "4": {
-      "título": "",
-      "texto": "“Estenderei a mão contra Judá"
-    },
-    "5": {
-      "título": "",
-      "texto": "Exterminarei os que"
-    },
-    "6": {
-      "título": "",
-      "texto": "Farei desaparecer também"
-    },
-    "7": {
-      "título": "O dia da ira do Senhor",
-      "texto": "“Calem-se diante"
-    },
-    "8": {
-      "título": "",
-      "texto": "No dia do sacrifício do Senhor ,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Castigarei também, naquele dia,"
-    },
-    "10": {
-      "título": "",
-      "texto": "“Naquele dia”,"
-    },
-    "11": {
-      "título": "",
-      "texto": "Lamentem, moradores"
-    },
-    "12": {
-      "título": "",
-      "texto": "Naquele tempo, vasculharei"
-    },
-    "13": {
-      "título": "",
-      "texto": "Por isso, os bens deles"
-    },
-    "14": {
-      "título": "",
-      "texto": "“Está perto"
-    },
-    "15": {
-      "título": "",
-      "texto": "Aquele dia será um dia de ira,"
-    },
-    "16": {
-      "título": "",
-      "texto": "dia de toque de trombeta"
-    },
-    "17": {
-      "título": "",
-      "texto": "Trarei angústia"
-    },
-    "18": {
-      "título": "",
-      "texto": "Nem a prata nem o ouro"
+    "versiculos": {
+        "1": "Palavra do Senhor que veio a Sofonias, filho de Cusi, filho de Gedalias, filho de Amarias, filho de Ezequias, nos dias de Josias, filho de Amom, rei de Judá.",
+        "2": "“Certamente consumirei",
+        "3": "“Consumirei as pessoas",
+        "4": "“Estenderei a mão contra Judá",
+        "5": "Exterminarei os que",
+        "6": "Farei desaparecer também",
+        "7": "“Calem-se diante",
+        "8": "No dia do sacrifício do Senhor ,",
+        "9": "Castigarei também, naquele dia,",
+        "10": "“Naquele dia”,",
+        "11": "Lamentem, moradores",
+        "12": "Naquele tempo, vasculharei",
+        "13": "Por isso, os bens deles",
+        "14": "“Está perto",
+        "15": "Aquele dia será um dia de ira,",
+        "16": "dia de toque de trombeta",
+        "17": "Trarei angústia",
+        "18": "Nem a prata nem o ouro"
     }
-  }
 }

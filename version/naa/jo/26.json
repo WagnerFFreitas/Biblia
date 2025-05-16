@@ -1,62 +1,24 @@
 {
-  "livro": "Jó",
-  "capítulo": 26,
-  "versículos": {
-    "1": {
-      "título": "Jó critica Bildade",
-      "texto": "Então Jó respondeu:"
+    "livro": "Jó",
+    "capitulo": 26,
+    "titulos": {
+        "1": "Jó critica Bildade",
+        "5": "A grandeza do poder de Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "“Como você sabe ajudar"
-    },
-    "3": {
-      "título": "",
-      "texto": "Como você sabe aconselhar"
-    },
-    "4": {
-      "título": "",
-      "texto": "Com a ajuda de quem"
-    },
-    "5": {
-      "título": "A grandeza do poder de Deus",
-      "texto": "“Os mortos tremem"
-    },
-    "6": {
-      "título": "",
-      "texto": "O mundo dos mortos"
-    },
-    "7": {
-      "título": "",
-      "texto": "Ele estende o norte sobre o vazio"
-    },
-    "8": {
-      "título": "",
-      "texto": "Prende as águas"
-    },
-    "9": {
-      "título": "",
-      "texto": "Encobre a face do seu trono"
-    },
-    "10": {
-      "título": "",
-      "texto": "Traçou um círculo"
-    },
-    "11": {
-      "título": "",
-      "texto": "As colunas do céu tremem"
-    },
-    "12": {
-      "título": "",
-      "texto": "Com a sua força dominou o mar"
-    },
-    "13": {
-      "título": "",
-      "texto": "Pelo seu sopro o céu se aclarou,"
-    },
-    "14": {
-      "título": "",
-      "texto": "Eis que isto são apenas"
+    "versiculos": {
+        "1": "Então Jó respondeu:",
+        "2": "“Como você sabe ajudar",
+        "3": "Como você sabe aconselhar",
+        "4": "Com a ajuda de quem",
+        "5": "“Os mortos tremem",
+        "6": "O mundo dos mortos",
+        "7": "Ele estende o norte sobre o vazio",
+        "8": "Prende as águas",
+        "9": "Encobre a face do seu trono",
+        "10": "Traçou um círculo",
+        "11": "As colunas do céu tremem",
+        "12": "Com a sua força dominou o mar",
+        "13": "Pelo seu sopro o céu se aclarou,",
+        "14": "Eis que isto são apenas"
     }
-  }
 }

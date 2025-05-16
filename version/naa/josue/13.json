@@ -1,138 +1,44 @@
 {
-  "livro": "Josué",
-  "capítulo": 13,
-  "versículos": {
-    "1": {
-      "título": "As terras ainda não conquistadas",
-      "texto": "Josué já era bem idoso e o Senhor lhe disse:"
+    "livro": "Josué",
+    "capitulo": 13,
+    "titulos": {
+        "1": "As terras ainda não conquistadas",
+        "8": "As terras das tribos a leste do Jordão",
+        "14": "As heranças distribuídas por Moisés"
     },
-    "2": {
-      "título": "",
-      "texto": "Esta é a terra ainda não conquistada: todas as regiões dos filisteus e toda a Gesur;"
-    },
-    "3": {
-      "título": "",
-      "texto": "desde Sior, que está diante do Egito, até o limite de Ecrom, para o norte, que se considera como dos cananeus; cinco governantes dos filisteus: o de Gaza, o de Asdode, o de Asquelom, o de Gate e o de Ecrom; e os aveus,"
-    },
-    "4": {
-      "título": "",
-      "texto": "ao sul, além de toda a terra dos cananeus e Meara, que é dos sidônios, até Afeca, na fronteira dos amorreus;"
-    },
-    "5": {
-      "título": "",
-      "texto": "e ainda a terra dos gibleus e todo o Líbano, para o leste, desde Baal-Gade, ao pé do monte Hermom, até a entrada de Hamate;"
-    },
-    "6": {
-      "título": "",
-      "texto": "todos os que habitam nas montanhas desde o Líbano até Misrefote-Maim, todos os sidônios. Eu os expulsarei de diante dos filhos de Israel; reparta, pois, a terra por herança a Israel, como ordenei a você."
-    },
-    "7": {
-      "título": "",
-      "texto": "Distribua, agora, a terra por herança às nove tribos e à meia tribo de Manassés."
-    },
-    "8": {
-      "título": "As terras das tribos a leste do Jordão",
-      "texto": "Com a outra meia tribo, os rubenitas e os gaditas já receberam a sua herança do outro lado do Jordão, para o leste, como já lhes tinha dado Moisés, servo do Senhor ."
-    },
-    "9": {
-      "título": "",
-      "texto": "Começando com Aroer, que está à borda do vale de Arnom, mais a cidade que está no meio do vale, todo o planalto de Medeba até Dibom;"
-    },
-    "10": {
-      "título": "",
-      "texto": "e todas as cidades de Seom, rei dos amorreus, que reinou em Hesbom, até a fronteira dos filhos de Amom."
-    },
-    "11": {
-      "título": "",
-      "texto": "E Gileade, o território dos gesuritas, o dos maacatitas, todo o monte Hermom e toda a Basã até Salca;"
-    },
-    "12": {
-      "título": "",
-      "texto": "todo o reino de Ogue, em Basã, que reinou em Astarote e em Edrei, que ficou do resto dos refains, o qual Moisés derrotou e expulsou."
-    },
-    "13": {
-      "título": "",
-      "texto": "Porém os filhos de Israel não expulsaram os gesuritas, nem os maacatitas; pelo contrário, Gesur e Maacate permaneceram no meio de Israel até o dia de hoje."
-    },
-    "14": {
-      "título": "As heranças distribuídas por Moisés",
-      "texto": "Foi somente à tribo de Levi que Moisés não deu herança; as ofertas queimadas do Senhor , Deus de Israel, são a sua herança, como já lhe tinha dito."
-    },
-    "15": {
-      "título": "",
-      "texto": "Moisés deu herança à tribo dos filhos de Rúben, segundo as suas famílias,"
-    },
-    "16": {
-      "título": "",
-      "texto": "começando o seu território com Aroer, que está à borda do vale de Arnom, mais a cidade que está no meio do vale e todo o planalto até Medeba;"
-    },
-    "17": {
-      "título": "",
-      "texto": "Hesbom e todas as suas cidades, que estão no planalto: Dibom, Bamote-Baal e Bete-Baal-Meom,"
-    },
-    "18": {
-      "título": "",
-      "texto": "Jaza, Quedemote, Mefaate;"
-    },
-    "19": {
-      "título": "",
-      "texto": "Quiriataim, Sibma, Zerete-Saar, no monte do vale;"
-    },
-    "20": {
-      "título": "",
-      "texto": "Bete-Peor, as encostas do monte Pisga e Bete-Jesimote;"
-    },
-    "21": {
-      "título": "",
-      "texto": "e todas as cidades do planalto e todo o reino de Seom, rei dos amorreus, que reinou em Hesbom, a quem Moisés derrotou, bem como os príncipes de Midiã, Evi, Requém, Zur, Hur e Reba, príncipes de Seom, moradores da terra."
-    },
-    "22": {
-      "título": "",
-      "texto": "Além de outros que foram mortos, os filhos de Israel também mataram à espada Balaão, filho de Beor, o adivinho."
-    },
-    "23": {
-      "título": "",
-      "texto": "A fronteira dos filhos de Rúben é o Jordão e suas imediações; esta é a herança dos filhos de Rúben, segundo as suas famílias: as cidades com suas aldeias."
-    },
-    "24": {
-      "título": "",
-      "texto": "Moisés deu herança à tribo de Gade, a saber, a seus filhos, segundo as suas famílias."
-    },
-    "25": {
-      "título": "",
-      "texto": "O seu território incluía Jazer, todas as cidades de Gileade e metade da terra dos filhos de Amom, até Aroer, que está diante de Rabá;"
-    },
-    "26": {
-      "título": "",
-      "texto": "desde Hesbom até Ramate-Mispa e Betonim; e desde Maanaim até o limite de Debir;"
-    },
-    "27": {
-      "título": "",
-      "texto": "e, no vale: Bete-Arã, Bete-Ninra, Sucote e Zafom, o resto do reino de Seom, rei de Hesbom, mais o Jordão e suas imediações, até a extremidade do mar de Quinerete, do outro lado do Jordão, na direção do leste."
-    },
-    "28": {
-      "título": "",
-      "texto": "Esta é a herança dos filhos de Gade, segundo as suas famílias: as cidades com as suas aldeias."
-    },
-    "29": {
-      "título": "",
-      "texto": "Moisés também deu herança à meia tribo de Manassés, segundo as suas famílias."
-    },
-    "30": {
-      "título": "",
-      "texto": "O seu território começava com Maanaim e incluía todo o Basã, todo o reino de Ogue, rei de Basã, e todas as aldeias de Jair, que estão em Basã, sessenta cidades;"
-    },
-    "31": {
-      "título": "",
-      "texto": "e metade de Gileade, Astarote e Edrei, cidades do reino de Ogue, em Basã. Estas foram dadas aos filhos de Maquir, filho de Manassés, a saber, à metade dos filhos de Maquir, segundo as suas famílias."
-    },
-    "32": {
-      "título": "",
-      "texto": "São estas as heranças que Moisés repartiu nas campinas de Moabe, do outro lado do Jordão, na altura de Jericó, para o leste."
-    },
-    "33": {
-      "título": "",
-      "texto": "Porém à tribo de Levi Moisés não deu herança; o Senhor , Deus de Israel, é a sua herança, como já lhe tinha dito."
+    "versiculos": {
+        "1": "Josué já era bem idoso e o Senhor lhe disse:",
+        "2": "Esta é a terra ainda não conquistada: todas as regiões dos filisteus e toda a Gesur;",
+        "3": "desde Sior, que está diante do Egito, até o limite de Ecrom, para o norte, que se considera como dos cananeus; cinco governantes dos filisteus: o de Gaza, o de Asdode, o de Asquelom, o de Gate e o de Ecrom; e os aveus,",
+        "4": "ao sul, além de toda a terra dos cananeus e Meara, que é dos sidônios, até Afeca, na fronteira dos amorreus;",
+        "5": "e ainda a terra dos gibleus e todo o Líbano, para o leste, desde Baal-Gade, ao pé do monte Hermom, até a entrada de Hamate;",
+        "6": "todos os que habitam nas montanhas desde o Líbano até Misrefote-Maim, todos os sidônios. Eu os expulsarei de diante dos filhos de Israel; reparta, pois, a terra por herança a Israel, como ordenei a você.",
+        "7": "Distribua, agora, a terra por herança às nove tribos e à meia tribo de Manassés.",
+        "8": "Com a outra meia tribo, os rubenitas e os gaditas já receberam a sua herança do outro lado do Jordão, para o leste, como já lhes tinha dado Moisés, servo do Senhor .",
+        "9": "Começando com Aroer, que está à borda do vale de Arnom, mais a cidade que está no meio do vale, todo o planalto de Medeba até Dibom;",
+        "10": "e todas as cidades de Seom, rei dos amorreus, que reinou em Hesbom, até a fronteira dos filhos de Amom.",
+        "11": "E Gileade, o território dos gesuritas, o dos maacatitas, todo o monte Hermom e toda a Basã até Salca;",
+        "12": "todo o reino de Ogue, em Basã, que reinou em Astarote e em Edrei, que ficou do resto dos refains, o qual Moisés derrotou e expulsou.",
+        "13": "Porém os filhos de Israel não expulsaram os gesuritas, nem os maacatitas; pelo contrário, Gesur e Maacate permaneceram no meio de Israel até o dia de hoje.",
+        "14": "Foi somente à tribo de Levi que Moisés não deu herança; as ofertas queimadas do Senhor , Deus de Israel, são a sua herança, como já lhe tinha dito.",
+        "15": "Moisés deu herança à tribo dos filhos de Rúben, segundo as suas famílias,",
+        "16": "começando o seu território com Aroer, que está à borda do vale de Arnom, mais a cidade que está no meio do vale e todo o planalto até Medeba;",
+        "17": "Hesbom e todas as suas cidades, que estão no planalto: Dibom, Bamote-Baal e Bete-Baal-Meom,",
+        "18": "Jaza, Quedemote, Mefaate;",
+        "19": "Quiriataim, Sibma, Zerete-Saar, no monte do vale;",
+        "20": "Bete-Peor, as encostas do monte Pisga e Bete-Jesimote;",
+        "21": "e todas as cidades do planalto e todo o reino de Seom, rei dos amorreus, que reinou em Hesbom, a quem Moisés derrotou, bem como os príncipes de Midiã, Evi, Requém, Zur, Hur e Reba, príncipes de Seom, moradores da terra.",
+        "22": "Além de outros que foram mortos, os filhos de Israel também mataram à espada Balaão, filho de Beor, o adivinho.",
+        "23": "A fronteira dos filhos de Rúben é o Jordão e suas imediações; esta é a herança dos filhos de Rúben, segundo as suas famílias: as cidades com suas aldeias.",
+        "24": "Moisés deu herança à tribo de Gade, a saber, a seus filhos, segundo as suas famílias.",
+        "25": "O seu território incluía Jazer, todas as cidades de Gileade e metade da terra dos filhos de Amom, até Aroer, que está diante de Rabá;",
+        "26": "desde Hesbom até Ramate-Mispa e Betonim; e desde Maanaim até o limite de Debir;",
+        "27": "e, no vale: Bete-Arã, Bete-Ninra, Sucote e Zafom, o resto do reino de Seom, rei de Hesbom, mais o Jordão e suas imediações, até a extremidade do mar de Quinerete, do outro lado do Jordão, na direção do leste.",
+        "28": "Esta é a herança dos filhos de Gade, segundo as suas famílias: as cidades com as suas aldeias.",
+        "29": "Moisés também deu herança à meia tribo de Manassés, segundo as suas famílias.",
+        "30": "O seu território começava com Maanaim e incluía todo o Basã, todo o reino de Ogue, rei de Basã, e todas as aldeias de Jair, que estão em Basã, sessenta cidades;",
+        "31": "e metade de Gileade, Astarote e Edrei, cidades do reino de Ogue, em Basã. Estas foram dadas aos filhos de Maquir, filho de Manassés, a saber, à metade dos filhos de Maquir, segundo as suas famílias.",
+        "32": "São estas as heranças que Moisés repartiu nas campinas de Moabe, do outro lado do Jordão, na altura de Jericó, para o leste.",
+        "33": "Porém à tribo de Levi Moisés não deu herança; o Senhor , Deus de Israel, é a sua herança, como já lhe tinha dito."
     }
-  }
 }

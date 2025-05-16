@@ -1,38 +1,17 @@
 {
-  "livro": "Salmos",
-  "capítulo": 3,
-  "versículos": {
-    "1": {
-      "título": "Confiança na salvação de Deus",
-      "texto": "Senhor , como tem crescido"
+    "livro": "Salmos",
+    "capitulo": 3,
+    "titulos": {
+        "1": "Confiança na salvação de Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "São muitos os que dizem de mim:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Porém tu, Senhor ,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Com a minha voz"
-    },
-    "5": {
-      "título": "",
-      "texto": "Eu me deito e pego no sono;"
-    },
-    "6": {
-      "título": "",
-      "texto": "Não tenho medo dos milhares"
-    },
-    "7": {
-      "título": "",
-      "texto": "Levanta-te, Senhor !"
-    },
-    "8": {
-      "título": "",
-      "texto": "Do Senhor é a salvação."
+    "versiculos": {
+        "1": "Senhor , como tem crescido",
+        "2": "São muitos os que dizem de mim:",
+        "3": "Porém tu, Senhor ,",
+        "4": "Com a minha voz",
+        "5": "Eu me deito e pego no sono;",
+        "6": "Não tenho medo dos milhares",
+        "7": "Levanta-te, Senhor !",
+        "8": "Do Senhor é a salvação."
     }
-  }
 }

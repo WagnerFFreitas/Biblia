@@ -1,82 +1,28 @@
 {
-  "livro": "2 Crônicas",
-  "capítulo": 17,
-  "versículos": {
-    "1": {
-      "título": "O reinado de Josafá, de Judá",
-      "texto": "Em lugar de Asa, reinou o seu filho Josafá, que se fortificou contra Israel."
+    "livro": "2 Crônicas",
+    "capitulo": 17,
+    "titulos": {
+        "1": "O reinado de Josafá, de Judá"
     },
-    "2": {
-      "título": "",
-      "texto": "Ele pôs tropas em todas as cidades fortificadas de Judá e estabeleceu guarnições na terra de Judá e nas cidades de Efraim, que Asa, seu pai, havia conquistado."
-    },
-    "3": {
-      "título": "",
-      "texto": "O Senhor esteve com Josafá, porque ele andou nos primeiros caminhos de Davi, seu pai, e não buscou os baalins."
-    },
-    "4": {
-      "título": "",
-      "texto": "Pelo contrário, buscou o Deus de seu pai e andou nos seus mandamentos, e não segundo as obras de Israel."
-    },
-    "5": {
-      "título": "",
-      "texto": "O Senhor confirmou o reino nas suas mãos, e todo o Judá deu presentes a Josafá, de modo que ele teve riquezas e glória em abundância."
-    },
-    "6": {
-      "título": "",
-      "texto": "O coração dele se tornou ousado em seguir os caminhos do Senhor , e ainda tirou os lugares altos e os postes da deusa Aserá que havia em Judá."
-    },
-    "7": {
-      "título": "",
-      "texto": "No terceiro ano do seu reinado, Josafá enviou os seus oficiais Ben-Hail, Obadias, Zacarias, Natanael e Micaías, para ensinarem nas cidades de Judá."
-    },
-    "8": {
-      "título": "",
-      "texto": "Com eles enviou os levitas Semaías, Netanias, Zebadias, Asael, Semiramote, Jônatas, Adonias, Tobias e Tobe-Adonias. E, com estes levitas, enviou os sacerdotes Elisama e Jeorão."
-    },
-    "9": {
-      "título": "",
-      "texto": "Eles ensinaram em Judá, tendo consigo o Livro da Lei do Senhor ; percorriam todas as cidades de Judá e ensinavam o povo."
-    },
-    "10": {
-      "título": "",
-      "texto": "O terror do Senhor veio sobre todos os reinos das terras que estavam ao redor de Judá, de maneira que não fizeram guerra contra Josafá."
-    },
-    "11": {
-      "título": "",
-      "texto": "Alguns dos filisteus trouxeram presentes a Josafá e prata como tributo. Também os árabes lhe trouxeram sete mil e setecentos carneiros e sete mil e setecentos bodes."
-    },
-    "12": {
-      "título": "",
-      "texto": "Josafá se tornou cada vez mais poderoso, e construiu fortalezas e cidades-armazéns em Judá."
-    },
-    "13": {
-      "título": "",
-      "texto": "Empreendeu muitas obras nas cidades de Judá e tinha, em Jerusalém, gente de guerra e homens valentes."
-    },
-    "14": {
-      "título": "",
-      "texto": "Este é o número deles segundo as suas famílias: em Judá, eram capitães de mil: o chefe Adna e, com ele, trezentos mil homens valentes;"
-    },
-    "15": {
-      "título": "",
-      "texto": "depois dele, o capitão Joanã e, com ele, duzentos e oitenta mil homens;"
-    },
-    "16": {
-      "título": "",
-      "texto": "e, depois, Amasias, filho de Zicri, que voluntariamente se ofereceu ao serviço do Senhor , e, às suas ordens, duzentos mil homens valentes."
-    },
-    "17": {
-      "título": "",
-      "texto": "De Benjamim, Eliada, homem valente, e, com ele, duzentos mil homens, armados de arco e de escudo;"
-    },
-    "18": {
-      "título": "",
-      "texto": "depois dele, Jozabade, com cento e oitenta mil homens armados para a guerra."
-    },
-    "19": {
-      "título": "",
-      "texto": "Estes estavam a serviço do rei, além dos que o rei tinha posto nas cidades fortificadas por todo o Judá."
+    "versiculos": {
+        "1": "Em lugar de Asa, reinou o seu filho Josafá, que se fortificou contra Israel.",
+        "2": "Ele pôs tropas em todas as cidades fortificadas de Judá e estabeleceu guarnições na terra de Judá e nas cidades de Efraim, que Asa, seu pai, havia conquistado.",
+        "3": "O Senhor esteve com Josafá, porque ele andou nos primeiros caminhos de Davi, seu pai, e não buscou os baalins.",
+        "4": "Pelo contrário, buscou o Deus de seu pai e andou nos seus mandamentos, e não segundo as obras de Israel.",
+        "5": "O Senhor confirmou o reino nas suas mãos, e todo o Judá deu presentes a Josafá, de modo que ele teve riquezas e glória em abundância.",
+        "6": "O coração dele se tornou ousado em seguir os caminhos do Senhor , e ainda tirou os lugares altos e os postes da deusa Aserá que havia em Judá.",
+        "7": "No terceiro ano do seu reinado, Josafá enviou os seus oficiais Ben-Hail, Obadias, Zacarias, Natanael e Micaías, para ensinarem nas cidades de Judá.",
+        "8": "Com eles enviou os levitas Semaías, Netanias, Zebadias, Asael, Semiramote, Jônatas, Adonias, Tobias e Tobe-Adonias. E, com estes levitas, enviou os sacerdotes Elisama e Jeorão.",
+        "9": "Eles ensinaram em Judá, tendo consigo o Livro da Lei do Senhor ; percorriam todas as cidades de Judá e ensinavam o povo.",
+        "10": "O terror do Senhor veio sobre todos os reinos das terras que estavam ao redor de Judá, de maneira que não fizeram guerra contra Josafá.",
+        "11": "Alguns dos filisteus trouxeram presentes a Josafá e prata como tributo. Também os árabes lhe trouxeram sete mil e setecentos carneiros e sete mil e setecentos bodes.",
+        "12": "Josafá se tornou cada vez mais poderoso, e construiu fortalezas e cidades-armazéns em Judá.",
+        "13": "Empreendeu muitas obras nas cidades de Judá e tinha, em Jerusalém, gente de guerra e homens valentes.",
+        "14": "Este é o número deles segundo as suas famílias: em Judá, eram capitães de mil: o chefe Adna e, com ele, trezentos mil homens valentes;",
+        "15": "depois dele, o capitão Joanã e, com ele, duzentos e oitenta mil homens;",
+        "16": "e, depois, Amasias, filho de Zicri, que voluntariamente se ofereceu ao serviço do Senhor , e, às suas ordens, duzentos mil homens valentes.",
+        "17": "De Benjamim, Eliada, homem valente, e, com ele, duzentos mil homens, armados de arco e de escudo;",
+        "18": "depois dele, Jozabade, com cento e oitenta mil homens armados para a guerra.",
+        "19": "Estes estavam a serviço do rei, além dos que o rei tinha posto nas cidades fortificadas por todo o Judá."
     }
-  }
 }

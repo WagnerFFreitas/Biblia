@@ -1,126 +1,37 @@
 {
-  "livro": "Provérbios",
-  "capítulo": 20,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "O vinho é zombador"
-    },
-    "2": {
-      "título": "",
-      "texto": "A fúria do rei"
-    },
-    "3": {
-      "título": "",
-      "texto": "É uma honra para alguém"
-    },
-    "4": {
-      "título": "",
-      "texto": "O preguiçoso não ara as terras"
-    },
-    "5": {
-      "título": "",
-      "texto": "Os propósitos do coração humano"
-    },
-    "6": {
-      "título": "",
-      "texto": "Muitos proclamam"
-    },
-    "7": {
-      "título": "",
-      "texto": "O justo anda na sua integridade;"
-    },
-    "8": {
-      "título": "",
-      "texto": "Quando o rei se assenta"
-    },
-    "9": {
-      "título": "",
-      "texto": "Quem pode dizer:"
-    },
-    "10": {
-      "título": "",
-      "texto": "O Senhor detesta o uso"
-    },
-    "11": {
-      "título": "",
-      "texto": "Até a criança se dá a conhecer"
-    },
-    "12": {
-      "título": "",
-      "texto": "O ouvido que ouve"
-    },
-    "13": {
-      "título": "",
-      "texto": "Não ame o sono,"
-    },
-    "14": {
-      "título": "",
-      "texto": "“Não presta! Não vale tanto!” —"
-    },
-    "15": {
-      "título": "",
-      "texto": "Há ouro e abundância"
-    },
-    "16": {
-      "título": "",
-      "texto": "Que se tome a roupa"
-    },
-    "17": {
-      "título": "",
-      "texto": "O pão que se ganha com fraude"
-    },
-    "18": {
-      "título": "",
-      "texto": "Os planos são estabelecidos"
-    },
-    "19": {
-      "título": "",
-      "texto": "O mexeriqueiro"
-    },
-    "20": {
-      "título": "",
-      "texto": "Se alguém amaldiçoa o seu pai"
-    },
-    "21": {
-      "título": "",
-      "texto": "A posse antecipada"
-    },
-    "22": {
-      "título": "",
-      "texto": "Não diga:"
-    },
-    "23": {
-      "título": "",
-      "texto": "O Senhor detesta"
-    },
-    "24": {
-      "título": "",
-      "texto": "Os passos de cada pessoa"
-    },
-    "25": {
-      "título": "",
-      "texto": "É uma armadilha dizer"
-    },
-    "26": {
-      "título": "",
-      "texto": "O rei sábio peneira os maus"
-    },
-    "27": {
-      "título": "",
-      "texto": "O espírito do ser humano"
-    },
-    "28": {
-      "título": "",
-      "texto": "Bondade e fidelidade"
-    },
-    "29": {
-      "título": "",
-      "texto": "A glória dos jovens é a sua força,"
-    },
-    "30": {
-      "título": "",
-      "texto": "Os vergões das feridas"
+    "livro": "Provérbios",
+    "capitulo": 20,
+    "titulos": {},
+    "versiculos": {
+        "1": "O vinho é zombador",
+        "2": "A fúria do rei",
+        "3": "É uma honra para alguém",
+        "4": "O preguiçoso não ara as terras",
+        "5": "Os propósitos do coração humano",
+        "6": "Muitos proclamam",
+        "7": "O justo anda na sua integridade;",
+        "8": "Quando o rei se assenta",
+        "9": "Quem pode dizer:",
+        "10": "O Senhor detesta o uso",
+        "11": "Até a criança se dá a conhecer",
+        "12": "O ouvido que ouve",
+        "13": "Não ame o sono,",
+        "14": "“Não presta! Não vale tanto!” —",
+        "15": "Há ouro e abundância",
+        "16": "Que se tome a roupa",
+        "17": "O pão que se ganha com fraude",
+        "18": "Os planos são estabelecidos",
+        "19": "O mexeriqueiro",
+        "20": "Se alguém amaldiçoa o seu pai",
+        "21": "A posse antecipada",
+        "22": "Não diga:",
+        "23": "O Senhor detesta",
+        "24": "Os passos de cada pessoa",
+        "25": "É uma armadilha dizer",
+        "26": "O rei sábio peneira os maus",
+        "27": "O espírito do ser humano",
+        "28": "Bondade e fidelidade",
+        "29": "A glória dos jovens é a sua força,",
+        "30": "Os vergões das feridas"
     }
-  }
 }

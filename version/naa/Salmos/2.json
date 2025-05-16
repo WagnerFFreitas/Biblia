@@ -1,54 +1,21 @@
 {
-  "livro": "Salmos",
-  "capítulo": 2,
-  "versículos": {
-    "1": {
-      "título": "O reinado do Ungido de Deus",
-      "texto": "Por que se enfurecem as nações"
+    "livro": "Salmos",
+    "capitulo": 2,
+    "titulos": {
+        "1": "O reinado do Ungido de Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "Os reis da terra se levantam,"
-    },
-    "3": {
-      "título": "",
-      "texto": "“Vamos romper os seus laços"
-    },
-    "4": {
-      "título": "",
-      "texto": "Aquele que habita nos céus"
-    },
-    "5": {
-      "título": "",
-      "texto": "Na sua ira, a seu tempo,"
-    },
-    "6": {
-      "título": "",
-      "texto": "“Eu constituí o meu Rei"
-    },
-    "7": {
-      "título": "",
-      "texto": "O rei diz: “Proclamarei"
-    },
-    "8": {
-      "título": "",
-      "texto": "Peça, e eu lhe darei"
-    },
-    "9": {
-      "título": "",
-      "texto": "Com uma vara de ferro"
-    },
-    "10": {
-      "título": "",
-      "texto": "Agora, pois, ó reis,"
-    },
-    "11": {
-      "título": "",
-      "texto": "Sirvam o Senhor com temor"
-    },
-    "12": {
-      "título": "",
-      "texto": "Beijem o Filho para que"
+    "versiculos": {
+        "1": "Por que se enfurecem as nações",
+        "2": "Os reis da terra se levantam,",
+        "3": "“Vamos romper os seus laços",
+        "4": "Aquele que habita nos céus",
+        "5": "Na sua ira, a seu tempo,",
+        "6": "“Eu constituí o meu Rei",
+        "7": "O rei diz: “Proclamarei",
+        "8": "Peça, e eu lhe darei",
+        "9": "Com uma vara de ferro",
+        "10": "Agora, pois, ó reis,",
+        "11": "Sirvam o Senhor com temor",
+        "12": "Beijem o Filho para que"
     }
-  }
 }

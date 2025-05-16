@@ -1,38 +1,17 @@
 {
-  "livro": "Salmos",
-  "capítulo": 82,
-  "versículos": {
-    "1": {
-      "título": "Deus, o juiz de todos",
-      "texto": "Deus toma o seu lugar"
+    "livro": "Salmos",
+    "capitulo": 82,
+    "titulos": {
+        "1": "Deus, o juiz de todos"
     },
-    "2": {
-      "título": "",
-      "texto": "“Até quando julgarão injustamente"
-    },
-    "3": {
-      "título": "",
-      "texto": "Defendam o direito dos fracos"
-    },
-    "4": {
-      "título": "",
-      "texto": "Socorram os fracos"
-    },
-    "5": {
-      "título": "",
-      "texto": "“Eles nada sabem,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Eu disse: ‘Vocês são deuses;"
-    },
-    "7": {
-      "título": "",
-      "texto": "Mas vocês morrerão"
-    },
-    "8": {
-      "título": "",
-      "texto": "Levanta-te, ó Deus,"
+    "versiculos": {
+        "1": "Deus toma o seu lugar",
+        "2": "“Até quando julgarão injustamente",
+        "3": "Defendam o direito dos fracos",
+        "4": "Socorram os fracos",
+        "5": "“Eles nada sabem,",
+        "6": "Eu disse: ‘Vocês são deuses;",
+        "7": "Mas vocês morrerão",
+        "8": "Levanta-te, ó Deus,"
     }
-  }
 }

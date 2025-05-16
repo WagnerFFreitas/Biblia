@@ -1,86 +1,31 @@
 {
-  "livro": "Tiago",
-  "capítulo": 5,
-  "versículos": {
-    "1": {
-      "título": "Aviso aos ricos",
-      "texto": "Escutem, agora, ricos! Chorem e lamentem, por causa das desgraças que virão sobre vocês."
+    "livro": "Tiago",
+    "capitulo": 5,
+    "titulos": {
+        "1": "Aviso aos ricos",
+        "7": "Exortação à paciência",
+        "12": "Conselhos diversos"
     },
-    "2": {
-      "título": "",
-      "texto": "As suas riquezas apodreceram, e as suas roupas foram comidas pelas traças."
-    },
-    "3": {
-      "título": "",
-      "texto": "O seu ouro e a sua prata estão enferrujados, e essa ferrugem será testemunha contra vocês e há de devorar, como fogo, o corpo de vocês. Nestes tempos do fim, vocês ajuntaram tesouros."
-    },
-    "4": {
-      "título": "",
-      "texto": "Eis que o salário dos trabalhadores que fizeram a colheita nos campos de vocês e que foi retido com fraude está clamando; e o clamor dos que fizeram a colheita chegou aos ouvidos do Senhor dos Exércitos."
-    },
-    "5": {
-      "título": "",
-      "texto": "Vocês têm tido uma vida de luxo e de prazeres sobre a terra; têm engordado em dia de matança."
-    },
-    "6": {
-      "título": "",
-      "texto": "Vocês têm condenado e matado o justo, sem que ele ofereça resistência."
-    },
-    "7": {
-      "título": "Exortação à paciência",
-      "texto": "Portanto, irmãos, sejam pacientes até a vinda do Senhor. Eis que o lavrador aguarda com paciência o precioso fruto da terra, até receber as primeiras e as últimas chuvas."
-    },
-    "8": {
-      "título": "",
-      "texto": "Sejam também vocês pacientes e fortaleçam o seu coração, pois a vinda do Senhor está próxima."
-    },
-    "9": {
-      "título": "",
-      "texto": "Irmãos, não se queixem uns dos outros, para que vocês não sejam julgados. Eis que o juiz está às portas."
-    },
-    "10": {
-      "título": "",
-      "texto": "Irmãos, tomem como exemplo de sofrimento e de paciência os profetas, que falaram em nome do Senhor."
-    },
-    "11": {
-      "título": "",
-      "texto": "Eis que consideramos felizes os que foram perseverantes. Vocês ouviram a respeito da paciência de Jó e sabem como o Senhor fez com que tudo acabasse bem; porque o Senhor é cheio de misericórdia e compaixão."
-    },
-    "12": {
-      "título": "Conselhos diversos",
-      "texto": "Acima de tudo, meus irmãos, não jurem nem pelo céu, nem pela terra, nem por outra coisa qualquer, mas que o “sim” de vocês seja “sim”, e que o “não” de vocês seja “não”, para que vocês não incorram em condenação."
-    },
-    "13": {
-      "título": "",
-      "texto": "Alguém de vocês está sofrendo? Faça oração. Alguém está alegre? Cante louvores."
-    },
-    "14": {
-      "título": "",
-      "texto": "Alguém de vocês está doente? Chame os presbíteros da igreja, e estes façam oração sobre ele, ungindo-o com óleo, em nome do Senhor."
-    },
-    "15": {
-      "título": "",
-      "texto": "E a oração da fé salvará o enfermo, e o Senhor o levantará. E, se houver cometido pecados, estes lhe serão perdoados."
-    },
-    "16": {
-      "título": "",
-      "texto": "Portanto, confessem os seus pecados uns aos outros e orem uns pelos outros, para que vocês sejam curados. Muito pode, por sua eficácia, a súplica do justo."
-    },
-    "17": {
-      "título": "",
-      "texto": "Elias era homem semelhante a nós, sujeito aos mesmos sentimentos, e orou com fervor para que não chovesse sobre a terra, e, por três anos e seis meses, não choveu."
-    },
-    "18": {
-      "título": "",
-      "texto": "Depois, orou de novo, e então o céu deu chuva, e a terra produziu os seus frutos."
-    },
-    "19": {
-      "título": "",
-      "texto": "Meus irmãos, se alguém entre vocês se desviar da verdade, e alguém o converter,"
-    },
-    "20": {
-      "título": "",
-      "texto": "saibam que aquele que converte o pecador do seu caminho errado salvará da morte a alma dele e cobrirá uma multidão de pecados."
+    "versiculos": {
+        "1": "Escutem, agora, ricos! Chorem e lamentem, por causa das desgraças que virão sobre vocês.",
+        "2": "As suas riquezas apodreceram, e as suas roupas foram comidas pelas traças.",
+        "3": "O seu ouro e a sua prata estão enferrujados, e essa ferrugem será testemunha contra vocês e há de devorar, como fogo, o corpo de vocês. Nestes tempos do fim, vocês ajuntaram tesouros.",
+        "4": "Eis que o salário dos trabalhadores que fizeram a colheita nos campos de vocês e que foi retido com fraude está clamando; e o clamor dos que fizeram a colheita chegou aos ouvidos do Senhor dos Exércitos.",
+        "5": "Vocês têm tido uma vida de luxo e de prazeres sobre a terra; têm engordado em dia de matança.",
+        "6": "Vocês têm condenado e matado o justo, sem que ele ofereça resistência.",
+        "7": "Portanto, irmãos, sejam pacientes até a vinda do Senhor. Eis que o lavrador aguarda com paciência o precioso fruto da terra, até receber as primeiras e as últimas chuvas.",
+        "8": "Sejam também vocês pacientes e fortaleçam o seu coração, pois a vinda do Senhor está próxima.",
+        "9": "Irmãos, não se queixem uns dos outros, para que vocês não sejam julgados. Eis que o juiz está às portas.",
+        "10": "Irmãos, tomem como exemplo de sofrimento e de paciência os profetas, que falaram em nome do Senhor.",
+        "11": "Eis que consideramos felizes os que foram perseverantes. Vocês ouviram a respeito da paciência de Jó e sabem como o Senhor fez com que tudo acabasse bem; porque o Senhor é cheio de misericórdia e compaixão.",
+        "12": "Acima de tudo, meus irmãos, não jurem nem pelo céu, nem pela terra, nem por outra coisa qualquer, mas que o “sim” de vocês seja “sim”, e que o “não” de vocês seja “não”, para que vocês não incorram em condenação.",
+        "13": "Alguém de vocês está sofrendo? Faça oração. Alguém está alegre? Cante louvores.",
+        "14": "Alguém de vocês está doente? Chame os presbíteros da igreja, e estes façam oração sobre ele, ungindo-o com óleo, em nome do Senhor.",
+        "15": "E a oração da fé salvará o enfermo, e o Senhor o levantará. E, se houver cometido pecados, estes lhe serão perdoados.",
+        "16": "Portanto, confessem os seus pecados uns aos outros e orem uns pelos outros, para que vocês sejam curados. Muito pode, por sua eficácia, a súplica do justo.",
+        "17": "Elias era homem semelhante a nós, sujeito aos mesmos sentimentos, e orou com fervor para que não chovesse sobre a terra, e, por três anos e seis meses, não choveu.",
+        "18": "Depois, orou de novo, e então o céu deu chuva, e a terra produziu os seus frutos.",
+        "19": "Meus irmãos, se alguém entre vocês se desviar da verdade, e alguém o converter,",
+        "20": "saibam que aquele que converte o pecador do seu caminho errado salvará da morte a alma dele e cobrirá uma multidão de pecados."
     }
-  }
 }

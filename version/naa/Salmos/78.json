@@ -1,294 +1,81 @@
 {
-  "livro": "Salmos",
-  "capítulo": 78,
-  "versículos": {
-    "1": {
-      "título": "Deus e o seu povo",
-      "texto": "Meu povo, escute a minha lei;"
-    },
-    "2": {
-      "título": "",
-      "texto": "Abrirei os meus lábios"
-    },
-    "3": {
-      "título": "",
-      "texto": "O que ouvimos e aprendemos,"
-    },
-    "4": {
-      "título": "",
-      "texto": "não o encobriremos"
-    },
-    "5": {
-      "título": "",
-      "texto": "Ele estabeleceu"
-    },
-    "6": {
-      "título": "",
-      "texto": "a fim de que a nova geração"
-    },
-    "7": {
-      "título": "",
-      "texto": "para que pusessem"
-    },
-    "8": {
-      "título": "",
-      "texto": "e que não fossem,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Os filhos de Efraim,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Não guardaram"
-    },
-    "11": {
-      "título": "",
-      "texto": "esqueceram-se das suas obras"
-    },
-    "12": {
-      "título": "",
-      "texto": "Deus fez prodígios"
-    },
-    "13": {
-      "título": "",
-      "texto": "Dividiu o mar"
-    },
-    "14": {
-      "título": "",
-      "texto": "Durante o dia,"
-    },
-    "15": {
-      "título": "",
-      "texto": "No deserto, fendeu rochas"
-    },
-    "16": {
-      "título": "",
-      "texto": "Da pedra fez brotar torrentes,"
-    },
-    "17": {
-      "título": "",
-      "texto": "Mas, ainda assim, continuaram"
-    },
-    "18": {
-      "título": "",
-      "texto": "Tentaram a Deus no seu coração,"
-    },
-    "19": {
-      "título": "",
-      "texto": "Falaram contra Deus, dizendo:"
-    },
-    "20": {
-      "título": "",
-      "texto": "É verdade que ele feriu a rocha,"
-    },
-    "21": {
-      "título": "",
-      "texto": "Ouvindo isto,"
-    },
-    "22": {
-      "título": "",
-      "texto": "porque não creram em Deus,"
-    },
-    "23": {
-      "título": "",
-      "texto": "Mesmo assim,"
-    },
-    "24": {
-      "título": "",
-      "texto": "fez chover maná sobre eles,"
-    },
-    "25": {
-      "título": "",
-      "texto": "Todos comeram o pão dos anjos;"
-    },
-    "26": {
-      "título": "",
-      "texto": "Fez soprar no céu"
-    },
-    "27": {
-      "título": "",
-      "texto": "Também fez chover sobre eles"
-    },
-    "28": {
-      "título": "",
-      "texto": "Fez com que caíssem"
-    },
-    "29": {
-      "título": "",
-      "texto": "Então comeram"
-    },
-    "30": {
-      "título": "",
-      "texto": "Porém não reprimiram o apetite."
-    },
-    "31": {
-      "título": "",
-      "texto": "quando se elevou contra eles"
-    },
-    "32": {
-      "título": "",
-      "texto": "Apesar de tudo isso,"
-    },
-    "33": {
-      "título": "",
-      "texto": "Por isso, ele fez"
-    },
-    "34": {
-      "título": "",
-      "texto": "Quando os fazia morrer,"
-    },
-    "35": {
-      "título": "",
-      "texto": "Lembravam-se de que Deus"
-    },
-    "36": {
-      "título": "",
-      "texto": "Lisonjeavam-no, porém de boca,"
-    },
-    "37": {
-      "título": "",
-      "texto": "Porque o coração deles"
-    },
-    "38": {
-      "título": "",
-      "texto": "Ele, porém, que é misericordioso,"
-    },
-    "39": {
-      "título": "",
-      "texto": "Lembra-se de que eles são"
-    },
-    "40": {
-      "título": "",
-      "texto": "Quantas vezes se rebelaram"
-    },
-    "41": {
-      "título": "",
-      "texto": "Tornaram a pôr Deus à prova,"
-    },
-    "42": {
-      "título": "",
-      "texto": "Não se lembraram do poder dele,"
-    },
-    "43": {
-      "título": "",
-      "texto": "de como no Egito"
-    },
-    "44": {
-      "título": "",
-      "texto": "e transformou em sangue"
-    },
-    "45": {
-      "título": "",
-      "texto": "Enviou contra eles"
-    },
-    "46": {
-      "título": "",
-      "texto": "Entregou às lagartas"
-    },
-    "47": {
-      "título": "",
-      "texto": "Com chuvas de pedra"
-    },
-    "48": {
-      "título": "",
-      "texto": "Entregou ao granizo o gado deles"
-    },
-    "49": {
-      "título": "",
-      "texto": "Lançou contra eles"
-    },
-    "50": {
-      "título": "",
-      "texto": "Deu livre curso à sua ira;"
-    },
-    "51": {
-      "título": "",
-      "texto": "Matou todos"
-    },
-    "52": {
-      "título": "",
-      "texto": "Fez sair o seu povo como ovelhas"
-    },
-    "53": {
-      "título": "",
-      "texto": "Dirigiu-o com segurança,"
-    },
-    "54": {
-      "título": "",
-      "texto": "Levou-os até a sua terra santa,"
-    },
-    "55": {
-      "título": "",
-      "texto": "Da presença deles"
-    },
-    "56": {
-      "título": "",
-      "texto": "Ainda assim, tentaram"
-    },
-    "57": {
-      "título": "",
-      "texto": "Tornaram atrás e foram infiéis"
-    },
-    "58": {
-      "título": "",
-      "texto": "Pois o provocaram à ira"
-    },
-    "59": {
-      "título": "",
-      "texto": "Deus ouviu isso e se indignou;"
-    },
-    "60": {
-      "título": "",
-      "texto": "Por isso, abandonou"
-    },
-    "61": {
-      "título": "",
-      "texto": "e passou a arca da aliança"
-    },
-    "62": {
-      "título": "",
-      "texto": "Entregou o seu povo à espada"
-    },
-    "63": {
-      "título": "",
-      "texto": "O fogo devorou os jovens deles,"
-    },
-    "64": {
-      "título": "",
-      "texto": "Os seus sacerdotes"
-    },
-    "65": {
-      "título": "",
-      "texto": "Então o Senhor despertou"
-    },
-    "66": {
-      "título": "",
-      "texto": "fez recuar a golpes"
-    },
-    "67": {
-      "título": "",
-      "texto": "Além disso, rejeitou"
-    },
-    "68": {
-      "título": "",
-      "texto": "Pelo contrário,"
-    },
-    "69": {
-      "título": "",
-      "texto": "E construiu o seu santuário"
-    },
-    "70": {
-      "título": "",
-      "texto": "Também escolheu"
-    },
-    "71": {
-      "título": "",
-      "texto": "do cuidado das ovelhas"
-    },
-    "72": {
-      "título": "",
-      "texto": "E ele os apascentou"
+    "livro": "Salmos",
+    "capitulo": 78,
+    "titulos": {
+        "1": "Deus e o seu povo"
+    },
+    "versiculos": {
+        "1": "Meu povo, escute a minha lei;",
+        "2": "Abrirei os meus lábios",
+        "3": "O que ouvimos e aprendemos,",
+        "4": "não o encobriremos",
+        "5": "Ele estabeleceu",
+        "6": "a fim de que a nova geração",
+        "7": "para que pusessem",
+        "8": "e que não fossem,",
+        "9": "Os filhos de Efraim,",
+        "10": "Não guardaram",
+        "11": "esqueceram-se das suas obras",
+        "12": "Deus fez prodígios",
+        "13": "Dividiu o mar",
+        "14": "Durante o dia,",
+        "15": "No deserto, fendeu rochas",
+        "16": "Da pedra fez brotar torrentes,",
+        "17": "Mas, ainda assim, continuaram",
+        "18": "Tentaram a Deus no seu coração,",
+        "19": "Falaram contra Deus, dizendo:",
+        "20": "É verdade que ele feriu a rocha,",
+        "21": "Ouvindo isto,",
+        "22": "porque não creram em Deus,",
+        "23": "Mesmo assim,",
+        "24": "fez chover maná sobre eles,",
+        "25": "Todos comeram o pão dos anjos;",
+        "26": "Fez soprar no céu",
+        "27": "Também fez chover sobre eles",
+        "28": "Fez com que caíssem",
+        "29": "Então comeram",
+        "30": "Porém não reprimiram o apetite.",
+        "31": "quando se elevou contra eles",
+        "32": "Apesar de tudo isso,",
+        "33": "Por isso, ele fez",
+        "34": "Quando os fazia morrer,",
+        "35": "Lembravam-se de que Deus",
+        "36": "Lisonjeavam-no, porém de boca,",
+        "37": "Porque o coração deles",
+        "38": "Ele, porém, que é misericordioso,",
+        "39": "Lembra-se de que eles são",
+        "40": "Quantas vezes se rebelaram",
+        "41": "Tornaram a pôr Deus à prova,",
+        "42": "Não se lembraram do poder dele,",
+        "43": "de como no Egito",
+        "44": "e transformou em sangue",
+        "45": "Enviou contra eles",
+        "46": "Entregou às lagartas",
+        "47": "Com chuvas de pedra",
+        "48": "Entregou ao granizo o gado deles",
+        "49": "Lançou contra eles",
+        "50": "Deu livre curso à sua ira;",
+        "51": "Matou todos",
+        "52": "Fez sair o seu povo como ovelhas",
+        "53": "Dirigiu-o com segurança,",
+        "54": "Levou-os até a sua terra santa,",
+        "55": "Da presença deles",
+        "56": "Ainda assim, tentaram",
+        "57": "Tornaram atrás e foram infiéis",
+        "58": "Pois o provocaram à ira",
+        "59": "Deus ouviu isso e se indignou;",
+        "60": "Por isso, abandonou",
+        "61": "e passou a arca da aliança",
+        "62": "Entregou o seu povo à espada",
+        "63": "O fogo devorou os jovens deles,",
+        "64": "Os seus sacerdotes",
+        "65": "Então o Senhor despertou",
+        "66": "fez recuar a golpes",
+        "67": "Além disso, rejeitou",
+        "68": "Pelo contrário,",
+        "69": "E construiu o seu santuário",
+        "70": "Também escolheu",
+        "71": "do cuidado das ovelhas",
+        "72": "E ele os apascentou"
     }
-  }
 }

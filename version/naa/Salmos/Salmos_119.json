@@ -1,710 +1,206 @@
 {
-  "livro": "Salmos",
-  "capítulo": 119,
-  "versículos": {
-    "1": {
-      "título": "Álefe",
-      "texto": "Bem-aventurados"
-    },
-    "2": {
-      "título": "",
-      "texto": "Bem-aventurados os que guardam"
-    },
-    "3": {
-      "título": "",
-      "texto": "não praticam iniquidade"
-    },
-    "4": {
-      "título": "",
-      "texto": "Tu ordenaste os teus preceitos,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Quem dera fossem firmes"
-    },
-    "6": {
-      "título": "",
-      "texto": "Então não terei"
-    },
-    "7": {
-      "título": "",
-      "texto": "Eu te darei graças"
-    },
-    "8": {
-      "título": "",
-      "texto": "Cumprirei os teus decretos;"
-    },
-    "9": {
-      "título": "Bete",
-      "texto": "De que maneira poderá o jovem"
-    },
-    "10": {
-      "título": "",
-      "texto": "De todo o coração te busquei;"
-    },
-    "11": {
-      "título": "",
-      "texto": "Guardo a tua palavra"
-    },
-    "12": {
-      "título": "",
-      "texto": "Bendito és tu, Senhor ;"
-    },
-    "13": {
-      "título": "",
-      "texto": "Com os lábios tenho narrado"
-    },
-    "14": {
-      "título": "",
-      "texto": "Mais me alegro com o caminho"
-    },
-    "15": {
-      "título": "",
-      "texto": "Meditarei nos teus preceitos"
-    },
-    "16": {
-      "título": "",
-      "texto": "Terei prazer nos teus decretos;"
-    },
-    "17": {
-      "título": "Guímel",
-      "texto": "Sê generoso com o teu servo,"
-    },
-    "18": {
-      "título": "",
-      "texto": "Desvenda os meus olhos,"
-    },
-    "19": {
-      "título": "",
-      "texto": "Sou peregrino na terra;"
-    },
-    "20": {
-      "título": "",
-      "texto": "Consumida está a minha alma"
-    },
-    "21": {
-      "título": "",
-      "texto": "Tu repreendes os soberbos,"
-    },
-    "22": {
-      "título": "",
-      "texto": "Tira de sobre mim"
-    },
-    "23": {
-      "título": "",
-      "texto": "Assentaram-se príncipes"
-    },
-    "24": {
-      "título": "",
-      "texto": "Também os teus testemunhos"
-    },
-    "25": {
-      "título": "Dálete",
-      "texto": "A minha alma"
-    },
-    "26": {
-      "título": "",
-      "texto": "Eu te expus os meus caminhos,"
-    },
-    "27": {
-      "título": "",
-      "texto": "Faze-me compreender o caminho"
-    },
-    "28": {
-      "título": "",
-      "texto": "A minha alma"
-    },
-    "29": {
-      "título": "",
-      "texto": "Afasta de mim"
-    },
-    "30": {
-      "título": "",
-      "texto": "Escolhi o caminho da fidelidade"
-    },
-    "31": {
-      "título": "",
-      "texto": "Aos teus testemunhos me apego;"
-    },
-    "32": {
-      "título": "",
-      "texto": "Percorrerei o caminho"
-    },
-    "33": {
-      "título": "Hê",
-      "texto": "Ensina-me, Senhor ,"
-    },
-    "34": {
-      "título": "",
-      "texto": "Dá-me entendimento,"
-    },
-    "35": {
-      "título": "",
-      "texto": "Guia-me pela vereda"
-    },
-    "36": {
-      "título": "",
-      "texto": "Inclina o meu coração"
-    },
-    "37": {
-      "título": "",
-      "texto": "Desvia os meus olhos,"
-    },
-    "38": {
-      "título": "",
-      "texto": "Confirma ao teu servo"
-    },
-    "39": {
-      "título": "",
-      "texto": "Afasta de mim a afronta,"
-    },
-    "40": {
-      "título": "",
-      "texto": "Eis que tenho suspirado"
-    },
-    "41": {
-      "título": "Vau",
-      "texto": "Venham também sobre mim"
-    },
-    "42": {
-      "título": "",
-      "texto": "Então saberei responder"
-    },
-    "43": {
-      "título": "",
-      "texto": "Não tires jamais de minha boca"
-    },
-    "44": {
-      "título": "",
-      "texto": "Assim, observarei"
-    },
-    "45": {
-      "título": "",
-      "texto": "Andarei em liberdade,"
-    },
-    "46": {
-      "título": "",
-      "texto": "Também falarei"
-    },
-    "47": {
-      "título": "",
-      "texto": "Terei prazer"
-    },
-    "48": {
-      "título": "",
-      "texto": "Para os teus mandamentos,"
-    },
-    "49": {
-      "título": "Zaine",
-      "texto": "Lembra-te da promessa"
-    },
-    "50": {
-      "título": "",
-      "texto": "O que me consola"
-    },
-    "51": {
-      "título": "",
-      "texto": "Os soberbos zombam"
-    },
-    "52": {
-      "título": "",
-      "texto": "Lembro-me dos teus juízos"
-    },
-    "53": {
-      "título": "",
-      "texto": "De mim se apoderou"
-    },
-    "54": {
-      "título": "",
-      "texto": "Os teus decretos são motivo"
-    },
-    "55": {
-      "título": "",
-      "texto": "Lembro-me, Senhor ,"
-    },
-    "56": {
-      "título": "",
-      "texto": "Isto é assim comigo,"
-    },
-    "57": {
-      "título": "Hete",
-      "texto": "O Senhor é a minha porção;"
-    },
-    "58": {
-      "título": "",
-      "texto": "De todo o coração,"
-    },
-    "59": {
-      "título": "",
-      "texto": "Penso nos meus caminhos"
-    },
-    "60": {
-      "título": "",
-      "texto": "Apresso-me, não me demoro"
-    },
-    "61": {
-      "título": "",
-      "texto": "Laços de perversos me cercam,"
-    },
-    "62": {
-      "título": "",
-      "texto": "No meio da noite eu me levanto"
-    },
-    "63": {
-      "título": "",
-      "texto": "Companheiro sou"
-    },
-    "64": {
-      "título": "",
-      "texto": "A terra, Senhor , está cheia"
-    },
-    "65": {
-      "título": "Tete",
-      "texto": "Tens sido bom para o teu servo,"
-    },
-    "66": {
-      "título": "",
-      "texto": "Ensina-me bom juízo"
-    },
-    "67": {
-      "título": "",
-      "texto": "Antes de ser afligido,"
-    },
-    "68": {
-      "título": "",
-      "texto": "Tu és bom e fazes o bem;"
-    },
-    "69": {
-      "título": "",
-      "texto": "Os soberbos têm forjado"
-    },
-    "70": {
-      "título": "",
-      "texto": "O coração deles"
-    },
-    "71": {
-      "título": "",
-      "texto": "Foi bom que eu tivesse"
-    },
-    "72": {
-      "título": "",
-      "texto": "Para mim vale mais a lei"
-    },
-    "73": {
-      "título": "Iode",
-      "texto": "As tuas mãos me fizeram"
-    },
-    "74": {
-      "título": "",
-      "texto": "Aqueles que te temem"
-    },
-    "75": {
-      "título": "",
-      "texto": "Bem sei, ó Senhor ,"
-    },
-    "76": {
-      "título": "",
-      "texto": "Que a tua bondade"
-    },
-    "77": {
-      "título": "",
-      "texto": "Venham sobre mim"
-    },
-    "78": {
-      "título": "",
-      "texto": "Envergonhados sejam"
-    },
-    "79": {
-      "título": "",
-      "texto": "Voltem-se para mim"
-    },
-    "80": {
-      "título": "",
-      "texto": "Seja o meu coração"
-    },
-    "81": {
-      "título": "Cafe",
-      "texto": "A minha alma desfalece,"
-    },
-    "82": {
-      "título": "",
-      "texto": "Os meus olhos esmorecem"
-    },
-    "83": {
-      "título": "",
-      "texto": "Já me assemelho"
-    },
-    "84": {
-      "título": "",
-      "texto": "Quantos vêm a ser"
-    },
-    "85": {
-      "título": "",
-      "texto": "Para mim abriram"
-    },
-    "86": {
-      "título": "",
-      "texto": "Todos os teus mandamentos"
-    },
-    "87": {
-      "título": "",
-      "texto": "Quase acabaram comigo,"
-    },
-    "88": {
-      "título": "",
-      "texto": "Vivifica-me,"
-    },
-    "89": {
-      "título": "Lâmede",
-      "texto": "Para sempre, ó Senhor ,"
-    },
-    "90": {
-      "título": "",
-      "texto": "A tua fidelidade se estende"
-    },
-    "91": {
-      "título": "",
-      "texto": "Conforme os teus juízos,"
-    },
-    "92": {
-      "título": "",
-      "texto": "Se a tua lei não tivesse sido"
-    },
-    "93": {
-      "título": "",
-      "texto": "Nunca me esquecerei"
-    },
-    "94": {
-      "título": "",
-      "texto": "Sou teu; salva-me,"
-    },
-    "95": {
-      "título": "",
-      "texto": "Os ímpios me espreitam"
-    },
-    "96": {
-      "título": "",
-      "texto": "Tenho visto que toda perfeição"
-    },
-    "97": {
-      "título": "Mem",
-      "texto": "Quanto amo a tua lei!"
-    },
-    "98": {
-      "título": "",
-      "texto": "O teu mandamento"
-    },
-    "99": {
-      "título": "",
-      "texto": "Compreendo mais do que"
-    },
-    "100": {
-      "título": "",
-      "texto": "Sou mais entendido"
-    },
-    "101": {
-      "título": "",
-      "texto": "De todo mau caminho"
-    },
-    "102": {
-      "título": "",
-      "texto": "Não me afasto dos teus juízos,"
-    },
-    "103": {
-      "título": "",
-      "texto": "Quão doces são as tuas palavras"
-    },
-    "104": {
-      "título": "",
-      "texto": "Por meio dos teus preceitos,"
-    },
-    "105": {
-      "título": "Num",
-      "texto": "Lâmpada para os meus pés"
-    },
-    "106": {
-      "título": "",
-      "texto": "Jurei e confirmei o juramento"
-    },
-    "107": {
-      "título": "",
-      "texto": "Estou aflitíssimo;"
-    },
-    "108": {
-      "título": "",
-      "texto": "Aceita, Senhor , a espontânea"
-    },
-    "109": {
-      "título": "",
-      "texto": "A minha vida está sempre"
-    },
-    "110": {
-      "título": "",
-      "texto": "Os ímpios armam ciladas"
-    },
-    "111": {
-      "título": "",
-      "texto": "Os teus testemunhos,"
-    },
-    "112": {
-      "título": "",
-      "texto": "Inclino o coração a guardar"
-    },
-    "113": {
-      "título": "Sâmeque",
-      "texto": "Detesto a falsidade,"
-    },
-    "114": {
-      "título": "",
-      "texto": "Tu és o meu refúgio"
-    },
-    "115": {
-      "título": "",
-      "texto": "Afastem-se de mim,"
-    },
-    "116": {
-      "título": "",
-      "texto": "Ampara-me,"
-    },
-    "117": {
-      "título": "",
-      "texto": "Sustenta-me, e serei salvo"
-    },
-    "118": {
-      "título": "",
-      "texto": "Desprezas os que se desviam"
-    },
-    "119": {
-      "título": "",
-      "texto": "Rejeitas, como escória,"
-    },
-    "120": {
-      "título": "",
-      "texto": "Meu corpo treme de medo de ti,"
-    },
-    "121": {
-      "título": "Aim",
-      "texto": "Tenho praticado juízo e justiça;"
-    },
-    "122": {
-      "título": "",
-      "texto": "Sê fiador do teu servo"
-    },
-    "123": {
-      "título": "",
-      "texto": "Os meus olhos desfalecem"
-    },
-    "124": {
-      "título": "",
-      "texto": "Trata o teu servo"
-    },
-    "125": {
-      "título": "",
-      "texto": "Sou teu servo;"
-    },
-    "126": {
-      "título": "",
-      "texto": "Já é tempo de entrar"
-    },
-    "127": {
-      "título": "",
-      "texto": "Amo os teus mandamentos"
-    },
-    "128": {
-      "título": "",
-      "texto": "Por isso, considero, em tudo,"
-    },
-    "129": {
-      "título": "Pê",
-      "texto": "Maravilhosos são"
-    },
-    "130": {
-      "título": "",
-      "texto": "A revelação das tuas palavras"
-    },
-    "131": {
-      "título": "",
-      "texto": "Abro a boca e suspiro,"
-    },
-    "132": {
-      "título": "",
-      "texto": "Volta-te para mim"
-    },
-    "133": {
-      "título": "",
-      "texto": "Firma os meus passos"
-    },
-    "134": {
-      "título": "",
-      "texto": "Livra-me da opressão"
-    },
-    "135": {
-      "título": "",
-      "texto": "Faze resplandecer o teu rosto"
-    },
-    "136": {
-      "título": "",
-      "texto": "Meus olhos vertem"
-    },
-    "137": {
-      "título": "Tsadê",
-      "texto": "Justo és tu, Senhor ,"
-    },
-    "138": {
-      "título": "",
-      "texto": "Os teus testemunhos,"
-    },
-    "139": {
-      "título": "",
-      "texto": "O meu zelo me consome,"
-    },
-    "140": {
-      "título": "",
-      "texto": "Puríssima é a tua palavra;"
-    },
-    "141": {
-      "título": "",
-      "texto": "Sou pequeno e desprezado,"
-    },
-    "142": {
-      "título": "",
-      "texto": "A tua justiça é justiça eterna,"
-    },
-    "143": {
-      "título": "",
-      "texto": "Sobre mim vieram"
-    },
-    "144": {
-      "título": "",
-      "texto": "Eterna é a justiça"
-    },
-    "145": {
-      "título": "Cofe",
-      "texto": "De todo o coração eu te invoco;"
-    },
-    "146": {
-      "título": "",
-      "texto": "Clamo a ti; salva-me,"
-    },
-    "147": {
-      "título": "",
-      "texto": "Levanto-me antes do amanhecer"
-    },
-    "148": {
-      "título": "",
-      "texto": "Fico acordado"
-    },
-    "149": {
-      "título": "",
-      "texto": "Ouve, Senhor , a minha voz,"
-    },
-    "150": {
-      "título": "",
-      "texto": "Aproximam-se de mim os que"
-    },
-    "151": {
-      "título": "",
-      "texto": "Tu estás perto, Senhor ,"
-    },
-    "152": {
-      "título": "",
-      "texto": "Quanto aos teus testemunhos,"
-    },
-    "153": {
-      "título": "Rexe",
-      "texto": "Olha para a minha aflição"
-    },
-    "154": {
-      "título": "",
-      "texto": "Defende a minha causa"
-    },
-    "155": {
-      "título": "",
-      "texto": "A salvação está longe"
-    },
-    "156": {
-      "título": "",
-      "texto": "Muitas, Senhor ,"
-    },
-    "157": {
-      "título": "",
-      "texto": "São muitos"
-    },
-    "158": {
-      "título": "",
-      "texto": "Vi os infiéis e senti desgosto,"
-    },
-    "159": {
-      "título": "",
-      "texto": "Vê como amo os teus preceitos;"
-    },
-    "160": {
-      "título": "",
-      "texto": "As tuas palavras são em tudo"
-    },
-    "161": {
-      "título": "Chim",
-      "texto": "Poderosos me perseguem"
-    },
-    "162": {
-      "título": "",
-      "texto": "Alegro-me nas tuas promessas,"
-    },
-    "163": {
-      "título": "",
-      "texto": "Odeio e detesto a mentira,"
-    },
-    "164": {
-      "título": "",
-      "texto": "Sete vezes por dia, eu te louvo"
-    },
-    "165": {
-      "título": "",
-      "texto": "Grande paz têm"
-    },
-    "166": {
-      "título": "",
-      "texto": "Espero, Senhor , na tua salvação"
-    },
-    "167": {
-      "título": "",
-      "texto": "A minha alma tem observado"
-    },
-    "168": {
-      "título": "",
-      "texto": "Tenho observado"
-    },
-    "169": {
-      "título": "Tau",
-      "texto": "Chegue a ti, Senhor ,"
-    },
-    "170": {
-      "título": "",
-      "texto": "Chegue a minha petição"
-    },
-    "171": {
-      "título": "",
-      "texto": "Que os meus lábios te louvem,"
-    },
-    "172": {
-      "título": "",
-      "texto": "Que a minha língua"
-    },
-    "173": {
-      "título": "",
-      "texto": "Que a tua mão"
-    },
-    "174": {
-      "título": "",
-      "texto": "Anseio pela tua salvação,"
-    },
-    "175": {
-      "título": "",
-      "texto": "Que eu possa viver"
-    },
-    "176": {
-      "título": "",
-      "texto": "Ando errante"
+    "livro": "Salmos",
+    "capitulo": 119,
+    "titulos": {
+        "1": "Álefe",
+        "9": "Bete",
+        "17": "Guímel",
+        "25": "Dálete",
+        "33": "Hê",
+        "41": "Vau",
+        "49": "Zaine",
+        "57": "Hete",
+        "65": "Tete",
+        "73": "Iode",
+        "81": "Cafe",
+        "89": "Lâmede",
+        "97": "Mem",
+        "105": "Num",
+        "113": "Sâmeque",
+        "121": "Aim",
+        "129": "Pê",
+        "137": "Tsadê",
+        "145": "Cofe",
+        "153": "Rexe",
+        "161": "Chim",
+        "169": "Tau"
+    },
+    "versiculos": {
+        "1": "Bem-aventurados",
+        "2": "Bem-aventurados os que guardam",
+        "3": "não praticam iniquidade",
+        "4": "Tu ordenaste os teus preceitos,",
+        "5": "Quem dera fossem firmes",
+        "6": "Então não terei",
+        "7": "Eu te darei graças",
+        "8": "Cumprirei os teus decretos;",
+        "9": "De que maneira poderá o jovem",
+        "10": "De todo o coração te busquei;",
+        "11": "Guardo a tua palavra",
+        "12": "Bendito és tu, Senhor ;",
+        "13": "Com os lábios tenho narrado",
+        "14": "Mais me alegro com o caminho",
+        "15": "Meditarei nos teus preceitos",
+        "16": "Terei prazer nos teus decretos;",
+        "17": "Sê generoso com o teu servo,",
+        "18": "Desvenda os meus olhos,",
+        "19": "Sou peregrino na terra;",
+        "20": "Consumida está a minha alma",
+        "21": "Tu repreendes os soberbos,",
+        "22": "Tira de sobre mim",
+        "23": "Assentaram-se príncipes",
+        "24": "Também os teus testemunhos",
+        "25": "A minha alma",
+        "26": "Eu te expus os meus caminhos,",
+        "27": "Faze-me compreender o caminho",
+        "28": "A minha alma",
+        "29": "Afasta de mim",
+        "30": "Escolhi o caminho da fidelidade",
+        "31": "Aos teus testemunhos me apego;",
+        "32": "Percorrerei o caminho",
+        "33": "Ensina-me, Senhor ,",
+        "34": "Dá-me entendimento,",
+        "35": "Guia-me pela vereda",
+        "36": "Inclina o meu coração",
+        "37": "Desvia os meus olhos,",
+        "38": "Confirma ao teu servo",
+        "39": "Afasta de mim a afronta,",
+        "40": "Eis que tenho suspirado",
+        "41": "Venham também sobre mim",
+        "42": "Então saberei responder",
+        "43": "Não tires jamais de minha boca",
+        "44": "Assim, observarei",
+        "45": "Andarei em liberdade,",
+        "46": "Também falarei",
+        "47": "Terei prazer",
+        "48": "Para os teus mandamentos,",
+        "49": "Lembra-te da promessa",
+        "50": "O que me consola",
+        "51": "Os soberbos zombam",
+        "52": "Lembro-me dos teus juízos",
+        "53": "De mim se apoderou",
+        "54": "Os teus decretos são motivo",
+        "55": "Lembro-me, Senhor ,",
+        "56": "Isto é assim comigo,",
+        "57": "O Senhor é a minha porção;",
+        "58": "De todo o coração,",
+        "59": "Penso nos meus caminhos",
+        "60": "Apresso-me, não me demoro",
+        "61": "Laços de perversos me cercam,",
+        "62": "No meio da noite eu me levanto",
+        "63": "Companheiro sou",
+        "64": "A terra, Senhor , está cheia",
+        "65": "Tens sido bom para o teu servo,",
+        "66": "Ensina-me bom juízo",
+        "67": "Antes de ser afligido,",
+        "68": "Tu és bom e fazes o bem;",
+        "69": "Os soberbos têm forjado",
+        "70": "O coração deles",
+        "71": "Foi bom que eu tivesse",
+        "72": "Para mim vale mais a lei",
+        "73": "As tuas mãos me fizeram",
+        "74": "Aqueles que te temem",
+        "75": "Bem sei, ó Senhor ,",
+        "76": "Que a tua bondade",
+        "77": "Venham sobre mim",
+        "78": "Envergonhados sejam",
+        "79": "Voltem-se para mim",
+        "80": "Seja o meu coração",
+        "81": "A minha alma desfalece,",
+        "82": "Os meus olhos esmorecem",
+        "83": "Já me assemelho",
+        "84": "Quantos vêm a ser",
+        "85": "Para mim abriram",
+        "86": "Todos os teus mandamentos",
+        "87": "Quase acabaram comigo,",
+        "88": "Vivifica-me,",
+        "89": "Para sempre, ó Senhor ,",
+        "90": "A tua fidelidade se estende",
+        "91": "Conforme os teus juízos,",
+        "92": "Se a tua lei não tivesse sido",
+        "93": "Nunca me esquecerei",
+        "94": "Sou teu; salva-me,",
+        "95": "Os ímpios me espreitam",
+        "96": "Tenho visto que toda perfeição",
+        "97": "Quanto amo a tua lei!",
+        "98": "O teu mandamento",
+        "99": "Compreendo mais do que",
+        "100": "Sou mais entendido",
+        "101": "De todo mau caminho",
+        "102": "Não me afasto dos teus juízos,",
+        "103": "Quão doces são as tuas palavras",
+        "104": "Por meio dos teus preceitos,",
+        "105": "Lâmpada para os meus pés",
+        "106": "Jurei e confirmei o juramento",
+        "107": "Estou aflitíssimo;",
+        "108": "Aceita, Senhor , a espontânea",
+        "109": "A minha vida está sempre",
+        "110": "Os ímpios armam ciladas",
+        "111": "Os teus testemunhos,",
+        "112": "Inclino o coração a guardar",
+        "113": "Detesto a falsidade,",
+        "114": "Tu és o meu refúgio",
+        "115": "Afastem-se de mim,",
+        "116": "Ampara-me,",
+        "117": "Sustenta-me, e serei salvo",
+        "118": "Desprezas os que se desviam",
+        "119": "Rejeitas, como escória,",
+        "120": "Meu corpo treme de medo de ti,",
+        "121": "Tenho praticado juízo e justiça;",
+        "122": "Sê fiador do teu servo",
+        "123": "Os meus olhos desfalecem",
+        "124": "Trata o teu servo",
+        "125": "Sou teu servo;",
+        "126": "Já é tempo de entrar",
+        "127": "Amo os teus mandamentos",
+        "128": "Por isso, considero, em tudo,",
+        "129": "Maravilhosos são",
+        "130": "A revelação das tuas palavras",
+        "131": "Abro a boca e suspiro,",
+        "132": "Volta-te para mim",
+        "133": "Firma os meus passos",
+        "134": "Livra-me da opressão",
+        "135": "Faze resplandecer o teu rosto",
+        "136": "Meus olhos vertem",
+        "137": "Justo és tu, Senhor ,",
+        "138": "Os teus testemunhos,",
+        "139": "O meu zelo me consome,",
+        "140": "Puríssima é a tua palavra;",
+        "141": "Sou pequeno e desprezado,",
+        "142": "A tua justiça é justiça eterna,",
+        "143": "Sobre mim vieram",
+        "144": "Eterna é a justiça",
+        "145": "De todo o coração eu te invoco;",
+        "146": "Clamo a ti; salva-me,",
+        "147": "Levanto-me antes do amanhecer",
+        "148": "Fico acordado",
+        "149": "Ouve, Senhor , a minha voz,",
+        "150": "Aproximam-se de mim os que",
+        "151": "Tu estás perto, Senhor ,",
+        "152": "Quanto aos teus testemunhos,",
+        "153": "Olha para a minha aflição",
+        "154": "Defende a minha causa",
+        "155": "A salvação está longe",
+        "156": "Muitas, Senhor ,",
+        "157": "São muitos",
+        "158": "Vi os infiéis e senti desgosto,",
+        "159": "Vê como amo os teus preceitos;",
+        "160": "As tuas palavras são em tudo",
+        "161": "Poderosos me perseguem",
+        "162": "Alegro-me nas tuas promessas,",
+        "163": "Odeio e detesto a mentira,",
+        "164": "Sete vezes por dia, eu te louvo",
+        "165": "Grande paz têm",
+        "166": "Espero, Senhor , na tua salvação",
+        "167": "A minha alma tem observado",
+        "168": "Tenho observado",
+        "169": "Chegue a ti, Senhor ,",
+        "170": "Chegue a minha petição",
+        "171": "Que os meus lábios te louvem,",
+        "172": "Que a minha língua",
+        "173": "Que a tua mão",
+        "174": "Anseio pela tua salvação,",
+        "175": "Que eu possa viver",
+        "176": "Ando errante"
     }
-  }
 }

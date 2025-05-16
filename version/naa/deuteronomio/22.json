@@ -1,126 +1,41 @@
 {
-  "livro": "Deuteronômio",
-  "capítulo": 22,
-  "versículos": {
-    "1": {
-      "título": "A respeito do que se perdeu",
-      "texto": "— Se você notar que um boi ou uma ovelha de seu compatriota se extraviou, não se omita, mas, sem falta, leve os animais de volta ao dono."
+    "livro": "Deuteronômio",
+    "capitulo": 22,
+    "titulos": {
+        "1": "A respeito do que se perdeu",
+        "5": "Diversas leis",
+        "13": "Leis a respeito da castidade e do casamento"
     },
-    "2": {
-      "título": "",
-      "texto": "Se este não for o seu vizinho ou for alguém que você não conhece, leve os animais para casa e fique com eles até que o dono venha buscá-los; então você os entregará a ele."
-    },
-    "3": {
-      "título": "",
-      "texto": "Faça o mesmo com o jumento, com a roupa, ou com qualquer outra coisa que o seu compatriota perder e que você achar; você não pode se omitir."
-    },
-    "4": {
-      "título": "",
-      "texto": "— Se você enxergar o jumento ou o boi que pertence ao seu compatriota caído no caminho, não se omita; sem falta ajude-o a levantar o animal."
-    },
-    "5": {
-      "título": "Diversas leis",
-      "texto": "— A mulher não deve usar roupa de homem, e o homem não deve vestir roupa de mulher, pois quem faz isso é abominável ao Senhor , seu Deus."
-    },
-    "6": {
-      "título": "",
-      "texto": "— Se, no caminho, você encontrar um ninho de ave, em alguma árvore ou no chão, com passarinhos ou ovos, e a mãe sobre os passarinhos ou sobre os ovos, não pegue a mãe com os filhotes."
-    },
-    "7": {
-      "título": "",
-      "texto": "Você pode ficar com os filhotes, mas deixe a mãe ir, livremente, para que tudo vá bem com você, e para que você prolongue os seus dias."
-    },
-    "8": {
-      "título": "",
-      "texto": "— Quando você construir uma casa nova, faça um parapeito no terraço, para que você não traga culpa de sangue sobre a casa, se alguém de algum modo cair do terraço."
-    },
-    "9": {
-      "título": "",
-      "texto": "— Não plante outra semente na sua vinha, para que não se profane toda a produção, tanto da vinha quanto da semente que você plantou."
-    },
-    "10": {
-      "título": "",
-      "texto": "— Não lavre a terra com junta de boi e jumento."
-    },
-    "11": {
-      "título": "",
-      "texto": "— Não vista roupa feita de pano de lã e linho misturados."
-    },
-    "12": {
-      "título": "",
-      "texto": "— Coloque franjas nos quatro cantos do manto que você usa."
-    },
-    "13": {
-      "título": "Leis a respeito da castidade e do casamento",
-      "texto": "— Se um homem casar com uma mulher, e, depois de ter tido relações com ela, passar a odiá-la,"
-    },
-    "14": {
-      "título": "",
-      "texto": "e lhe atribuir atos vergonhosos, e a difamar, dizendo: “Casei com esta mulher e, quando tive relações com ela, descobri que não era virgem”,"
-    },
-    "15": {
-      "título": "",
-      "texto": "então o pai e a mãe da moça levarão as provas da virgindade da moça aos anciãos da cidade, junto ao portão."
-    },
-    "16": {
-      "título": "",
-      "texto": "O pai da moça dirá aos anciãos: “Dei minha filha por mulher a este homem, porém ele passou a odiá-la."
-    },
-    "17": {
-      "título": "",
-      "texto": "Eis que lhe atribuiu atos vergonhosos, dizendo: ‘Descobri que a sua filha não era virgem.’ Mas aqui estão as provas da virgindade de minha filha.” E estenderão a roupa dela diante dos anciãos da cidade,"
-    },
-    "18": {
-      "título": "",
-      "texto": "os quais pegarão o homem, o açoitarão"
-    },
-    "19": {
-      "título": "",
-      "texto": "e o condenarão a pagar cem barras de prata ao pai da moça, porque difamou uma virgem de Israel. Ela ficará sendo mulher dele, e ele não poderá mandá-la embora durante a sua vida."
-    },
-    "20": {
-      "título": "",
-      "texto": "— Porém, se isso for verdade, ou seja, se ficar provado que a moça não era virgem,"
-    },
-    "21": {
-      "título": "",
-      "texto": "então a levarão à porta da casa de seu pai, e os homens de sua cidade a apedrejarão até que morra, pois cometeu um ato infame em Israel, prostituindo-se na casa de seu pai. Assim vocês eliminarão o mal do meio de vocês."
-    },
-    "22": {
-      "título": "",
-      "texto": "— Se um homem for encontrado deitado com uma mulher que tem marido, ambos devem ser mortos, o homem que se deitou com a mulher e a mulher. Assim vocês eliminarão o mal de Israel."
-    },
-    "23": {
-      "título": "",
-      "texto": "— Se uma moça virgem tiver casamento contratado, e outro homem a encontrar na cidade e tiver relações com ela,"
-    },
-    "24": {
-      "título": "",
-      "texto": "vocês devem trazer ambos ao portão daquela cidade e apedrejá-los até que morram; a moça, porque não gritou por socorro, estando na cidade, e o homem, porque humilhou a mulher do seu próximo. Assim vocês eliminarão o mal do meio de vocês."
-    },
-    "25": {
-      "título": "",
-      "texto": "— Porém, se um homem, no campo, encontrar uma moça que tem casamento contratado, e a forçar, e tiver relações com ela, então morrerá só o homem que teve relações com ela;"
-    },
-    "26": {
-      "título": "",
-      "texto": "à moça vocês não devem fazer nada; ela não tem culpa de morte, porque este caso é semelhante ao do homem que se levanta contra o seu próximo e lhe tira a vida."
-    },
-    "27": {
-      "título": "",
-      "texto": "Pois o homem encontrou a moça no campo; a moça que tinha o casamento contratado gritou, e não houve quem a livrasse."
-    },
-    "28": {
-      "título": "",
-      "texto": "— Se um homem encontrar uma moça virgem, que não tem casamento contratado, e a pegar à força, e tiver relações com ela, e eles forem apanhados,"
-    },
-    "29": {
-      "título": "",
-      "texto": "então o homem que teve relações com ela pagará ao pai da moça cinquenta barras de prata; e, uma vez que a humilhou, terá de recebê-la por esposa; não poderá mandá-la embora durante a sua vida."
-    },
-    "30": {
-      "título": "",
-      "texto": "— Nenhum homem terá relações com a sua madrasta e não profanará o leito de seu pai."
+    "versiculos": {
+        "1": "— Se você notar que um boi ou uma ovelha de seu compatriota se extraviou, não se omita, mas, sem falta, leve os animais de volta ao dono.",
+        "2": "Se este não for o seu vizinho ou for alguém que você não conhece, leve os animais para casa e fique com eles até que o dono venha buscá-los; então você os entregará a ele.",
+        "3": "Faça o mesmo com o jumento, com a roupa, ou com qualquer outra coisa que o seu compatriota perder e que você achar; você não pode se omitir.",
+        "4": "— Se você enxergar o jumento ou o boi que pertence ao seu compatriota caído no caminho, não se omita; sem falta ajude-o a levantar o animal.",
+        "5": "— A mulher não deve usar roupa de homem, e o homem não deve vestir roupa de mulher, pois quem faz isso é abominável ao Senhor , seu Deus.",
+        "6": "— Se, no caminho, você encontrar um ninho de ave, em alguma árvore ou no chão, com passarinhos ou ovos, e a mãe sobre os passarinhos ou sobre os ovos, não pegue a mãe com os filhotes.",
+        "7": "Você pode ficar com os filhotes, mas deixe a mãe ir, livremente, para que tudo vá bem com você, e para que você prolongue os seus dias.",
+        "8": "— Quando você construir uma casa nova, faça um parapeito no terraço, para que você não traga culpa de sangue sobre a casa, se alguém de algum modo cair do terraço.",
+        "9": "— Não plante outra semente na sua vinha, para que não se profane toda a produção, tanto da vinha quanto da semente que você plantou.",
+        "10": "— Não lavre a terra com junta de boi e jumento.",
+        "11": "— Não vista roupa feita de pano de lã e linho misturados.",
+        "12": "— Coloque franjas nos quatro cantos do manto que você usa.",
+        "13": "— Se um homem casar com uma mulher, e, depois de ter tido relações com ela, passar a odiá-la,",
+        "14": "e lhe atribuir atos vergonhosos, e a difamar, dizendo: “Casei com esta mulher e, quando tive relações com ela, descobri que não era virgem”,",
+        "15": "então o pai e a mãe da moça levarão as provas da virgindade da moça aos anciãos da cidade, junto ao portão.",
+        "16": "O pai da moça dirá aos anciãos: “Dei minha filha por mulher a este homem, porém ele passou a odiá-la.",
+        "17": "Eis que lhe atribuiu atos vergonhosos, dizendo: ‘Descobri que a sua filha não era virgem.’ Mas aqui estão as provas da virgindade de minha filha.” E estenderão a roupa dela diante dos anciãos da cidade,",
+        "18": "os quais pegarão o homem, o açoitarão",
+        "19": "e o condenarão a pagar cem barras de prata ao pai da moça, porque difamou uma virgem de Israel. Ela ficará sendo mulher dele, e ele não poderá mandá-la embora durante a sua vida.",
+        "20": "— Porém, se isso for verdade, ou seja, se ficar provado que a moça não era virgem,",
+        "21": "então a levarão à porta da casa de seu pai, e os homens de sua cidade a apedrejarão até que morra, pois cometeu um ato infame em Israel, prostituindo-se na casa de seu pai. Assim vocês eliminarão o mal do meio de vocês.",
+        "22": "— Se um homem for encontrado deitado com uma mulher que tem marido, ambos devem ser mortos, o homem que se deitou com a mulher e a mulher. Assim vocês eliminarão o mal de Israel.",
+        "23": "— Se uma moça virgem tiver casamento contratado, e outro homem a encontrar na cidade e tiver relações com ela,",
+        "24": "vocês devem trazer ambos ao portão daquela cidade e apedrejá-los até que morram; a moça, porque não gritou por socorro, estando na cidade, e o homem, porque humilhou a mulher do seu próximo. Assim vocês eliminarão o mal do meio de vocês.",
+        "25": "— Porém, se um homem, no campo, encontrar uma moça que tem casamento contratado, e a forçar, e tiver relações com ela, então morrerá só o homem que teve relações com ela;",
+        "26": "à moça vocês não devem fazer nada; ela não tem culpa de morte, porque este caso é semelhante ao do homem que se levanta contra o seu próximo e lhe tira a vida.",
+        "27": "Pois o homem encontrou a moça no campo; a moça que tinha o casamento contratado gritou, e não houve quem a livrasse.",
+        "28": "— Se um homem encontrar uma moça virgem, que não tem casamento contratado, e a pegar à força, e tiver relações com ela, e eles forem apanhados,",
+        "29": "então o homem que teve relações com ela pagará ao pai da moça cinquenta barras de prata; e, uma vez que a humilhou, terá de recebê-la por esposa; não poderá mandá-la embora durante a sua vida.",
+        "30": "— Nenhum homem terá relações com a sua madrasta e não profanará o leito de seu pai."
     }
-  }
 }

@@ -1,22 +1,13 @@
 {
-  "livro": "Salmos",
-  "capítulo": 123,
-  "versículos": {
-    "1": {
-      "título": "Oração por compaixão",
-      "texto": "A ti, que habitas nos céus,"
+    "livro": "Salmos",
+    "capitulo": 123,
+    "titulos": {
+        "1": "Oração por compaixão"
     },
-    "2": {
-      "título": "",
-      "texto": "Como os olhos dos servos"
-    },
-    "3": {
-      "título": "",
-      "texto": "Tem compaixão de nós, Senhor ,"
-    },
-    "4": {
-      "título": "",
-      "texto": "A nossa alma está saturada"
+    "versiculos": {
+        "1": "A ti, que habitas nos céus,",
+        "2": "Como os olhos dos servos",
+        "3": "Tem compaixão de nós, Senhor ,",
+        "4": "A nossa alma está saturada"
     }
-  }
 }

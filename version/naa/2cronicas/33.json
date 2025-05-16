@@ -1,106 +1,37 @@
 {
-  "livro": "2 Crônicas",
-  "capítulo": 33,
-  "versículos": {
-    "1": {
-      "título": "O reinado de Manassés, de Judá",
-      "texto": "Manassés tinha doze anos de idade quando começou a reinar e reinou cinquenta e cinco anos em Jerusalém."
+    "livro": "2 Crônicas",
+    "capitulo": 33,
+    "titulos": {
+        "1": "O reinado de Manassés, de Judá",
+        "10": "O cativeiro de Manassés e a sua oração",
+        "18": "A morte de Manassés",
+        "21": "O reinado de Amom, de Judá"
     },
-    "2": {
-      "título": "",
-      "texto": "Fez o que era mau aos olhos do Senhor , segundo as coisas abomináveis das nações que o Senhor havia expulsado de diante dos filhos de Israel."
-    },
-    "3": {
-      "título": "",
-      "texto": "Pois reconstruiu os lugares altos que Ezequias, seu pai, havia derrubado, levantou altares aos baalins, fez postes da deusa Aserá, prostrou-se diante de todo o exército dos céus e o serviu."
-    },
-    "4": {
-      "título": "",
-      "texto": "Edificou altares na Casa do Senhor , a respeito da qual o Senhor tinha dito: “Em Jerusalém porei o meu nome para sempre.”"
-    },
-    "5": {
-      "título": "",
-      "texto": "Também edificou altares a todo o exército dos céus nos dois átrios da Casa do Senhor ."
-    },
-    "6": {
-      "título": "",
-      "texto": "Ele queimou os seus filhos em sacrifício no vale de Ben-Hinom, adivinhava pelas nuvens, era agoureiro, praticava feitiçarias e tratava com médiuns e feiticeiros. Fazia continuamente o que era mau aos olhos do Senhor , para o provocar à ira."
-    },
-    "7": {
-      "título": "",
-      "texto": "Também pôs a imagem de escultura do ídolo que tinha feito na Casa de Deus, a respeito da qual Deus tinha dito a Davi e a seu filho Salomão: “Neste templo e em Jerusalém, que escolhi de todas as tribos de Israel, porei o meu nome para sempre."
-    },
-    "8": {
-      "título": "",
-      "texto": "E não removerei mais o pé de Israel da terra que destinei aos seus pais, desde que eles tenham o cuidado de fazer tudo o que lhes tenho mandado, conforme toda a lei, os estatutos e os juízos dados por meio de Moisés.”"
-    },
-    "9": {
-      "título": "",
-      "texto": "Manassés de tal modo levou o povo de Judá e os moradores de Jerusalém a andarem errantes, que fizeram pior do que as nações que o Senhor tinha destruído de diante dos filhos de Israel."
-    },
-    "10": {
-      "título": "O cativeiro de Manassés e a sua oração",
-      "texto": "O Senhor falou a Manassés e ao seu povo, porém não lhe deram ouvidos."
-    },
-    "11": {
-      "título": "",
-      "texto": "Por isso o Senhor trouxe sobre eles os comandantes do exército do rei da Assíria, que prenderam Manassés com ganchos, amarraram-no com correntes e o levaram para a Babilônia."
-    },
-    "12": {
-      "título": "",
-      "texto": "Ele, angustiado, suplicou ao Senhor , seu Deus, e muito se humilhou diante do Deus de seus pais."
-    },
-    "13": {
-      "título": "",
-      "texto": "Orou ao Senhor , e o Senhor se tornou favorável para com ele, atendeu-lhe a súplica e o fez voltar para Jerusalém, ao seu reino. Então Manassés reconheceu que o Senhor é Deus."
-    },
-    "14": {
-      "título": "",
-      "texto": "Depois disto, Manassés construiu a muralha de fora da Cidade de Davi, a oeste de Giom, no vale, e à entrada do Portão dos Peixes, abrangendo Ofel; ele fez uma muralha bem alta. Também pôs chefes militares em todas as cidades fortificadas de Judá."
-    },
-    "15": {
-      "título": "",
-      "texto": "Tirou da Casa do Senhor os deuses estranhos e o ídolo, bem como todos os altares que havia construído no monte da Casa do Senhor e em Jerusalém, e os lançou fora da cidade."
-    },
-    "16": {
-      "título": "",
-      "texto": "Restaurou o altar do Senhor , sacrificou sobre ele ofertas pacíficas e de ação de graças e ordenou a Judá que servisse o Senhor , Deus de Israel."
-    },
-    "17": {
-      "título": "",
-      "texto": "Porém o povo ainda sacrificava nos lugares altos, mas somente ao Senhor , seu Deus."
-    },
-    "18": {
-      "título": "A morte de Manassés",
-      "texto": "Quanto aos demais atos de Manassés, à sua oração ao seu Deus e às palavras dos videntes que lhe falaram em nome do Senhor , Deus de Israel, está tudo escrito na História dos Reis de Israel."
-    },
-    "19": {
-      "título": "",
-      "texto": "A sua oração e como Deus se tornou favorável para com ele, todo o seu pecado, a sua transgressão e os locais onde edificou lugares altos e colocou postes da deusa Aserá e imagens de escultura, antes que se humilhasse, eis que está tudo escrito na História dos Videntes."
-    },
-    "20": {
-      "título": "",
-      "texto": "Manassés morreu e foi sepultado na sua própria casa. E Amom, seu filho, reinou em seu lugar."
-    },
-    "21": {
-      "título": "O reinado de Amom, de Judá",
-      "texto": "Amom tinha vinte e dois anos de idade quando começou a reinar e reinou dois anos em Jerusalém."
-    },
-    "22": {
-      "título": "",
-      "texto": "Fez o que era mau aos olhos do Senhor , como Manassés, seu pai, havia feito. Ofereceu sacrifícios a todas as imagens de escultura que Manassés, seu pai, tinha feito e as serviu."
-    },
-    "23": {
-      "título": "",
-      "texto": "Mas não se humilhou diante do Senhor , como Manassés, seu pai, tinha se humilhado; pelo contrário, Amom se tornou mais e mais culpável."
-    },
-    "24": {
-      "título": "",
-      "texto": "Os seus servos conspiraram contra ele e o mataram em sua própria casa."
-    },
-    "25": {
-      "título": "",
-      "texto": "Porém o povo daquela terra matou todos os que conspiraram contra o rei Amom e proclamou Josias, filho de Amom, rei em seu lugar."
+    "versiculos": {
+        "1": "Manassés tinha doze anos de idade quando começou a reinar e reinou cinquenta e cinco anos em Jerusalém.",
+        "2": "Fez o que era mau aos olhos do Senhor , segundo as coisas abomináveis das nações que o Senhor havia expulsado de diante dos filhos de Israel.",
+        "3": "Pois reconstruiu os lugares altos que Ezequias, seu pai, havia derrubado, levantou altares aos baalins, fez postes da deusa Aserá, prostrou-se diante de todo o exército dos céus e o serviu.",
+        "4": "Edificou altares na Casa do Senhor , a respeito da qual o Senhor tinha dito: “Em Jerusalém porei o meu nome para sempre.”",
+        "5": "Também edificou altares a todo o exército dos céus nos dois átrios da Casa do Senhor .",
+        "6": "Ele queimou os seus filhos em sacrifício no vale de Ben-Hinom, adivinhava pelas nuvens, era agoureiro, praticava feitiçarias e tratava com médiuns e feiticeiros. Fazia continuamente o que era mau aos olhos do Senhor , para o provocar à ira.",
+        "7": "Também pôs a imagem de escultura do ídolo que tinha feito na Casa de Deus, a respeito da qual Deus tinha dito a Davi e a seu filho Salomão: “Neste templo e em Jerusalém, que escolhi de todas as tribos de Israel, porei o meu nome para sempre.",
+        "8": "E não removerei mais o pé de Israel da terra que destinei aos seus pais, desde que eles tenham o cuidado de fazer tudo o que lhes tenho mandado, conforme toda a lei, os estatutos e os juízos dados por meio de Moisés.”",
+        "9": "Manassés de tal modo levou o povo de Judá e os moradores de Jerusalém a andarem errantes, que fizeram pior do que as nações que o Senhor tinha destruído de diante dos filhos de Israel.",
+        "10": "O Senhor falou a Manassés e ao seu povo, porém não lhe deram ouvidos.",
+        "11": "Por isso o Senhor trouxe sobre eles os comandantes do exército do rei da Assíria, que prenderam Manassés com ganchos, amarraram-no com correntes e o levaram para a Babilônia.",
+        "12": "Ele, angustiado, suplicou ao Senhor , seu Deus, e muito se humilhou diante do Deus de seus pais.",
+        "13": "Orou ao Senhor , e o Senhor se tornou favorável para com ele, atendeu-lhe a súplica e o fez voltar para Jerusalém, ao seu reino. Então Manassés reconheceu que o Senhor é Deus.",
+        "14": "Depois disto, Manassés construiu a muralha de fora da Cidade de Davi, a oeste de Giom, no vale, e à entrada do Portão dos Peixes, abrangendo Ofel; ele fez uma muralha bem alta. Também pôs chefes militares em todas as cidades fortificadas de Judá.",
+        "15": "Tirou da Casa do Senhor os deuses estranhos e o ídolo, bem como todos os altares que havia construído no monte da Casa do Senhor e em Jerusalém, e os lançou fora da cidade.",
+        "16": "Restaurou o altar do Senhor , sacrificou sobre ele ofertas pacíficas e de ação de graças e ordenou a Judá que servisse o Senhor , Deus de Israel.",
+        "17": "Porém o povo ainda sacrificava nos lugares altos, mas somente ao Senhor , seu Deus.",
+        "18": "Quanto aos demais atos de Manassés, à sua oração ao seu Deus e às palavras dos videntes que lhe falaram em nome do Senhor , Deus de Israel, está tudo escrito na História dos Reis de Israel.",
+        "19": "A sua oração e como Deus se tornou favorável para com ele, todo o seu pecado, a sua transgressão e os locais onde edificou lugares altos e colocou postes da deusa Aserá e imagens de escultura, antes que se humilhasse, eis que está tudo escrito na História dos Videntes.",
+        "20": "Manassés morreu e foi sepultado na sua própria casa. E Amom, seu filho, reinou em seu lugar.",
+        "21": "Amom tinha vinte e dois anos de idade quando começou a reinar e reinou dois anos em Jerusalém.",
+        "22": "Fez o que era mau aos olhos do Senhor , como Manassés, seu pai, havia feito. Ofereceu sacrifícios a todas as imagens de escultura que Manassés, seu pai, tinha feito e as serviu.",
+        "23": "Mas não se humilhou diante do Senhor , como Manassés, seu pai, tinha se humilhado; pelo contrário, Amom se tornou mais e mais culpável.",
+        "24": "Os seus servos conspiraram contra ele e o mataram em sua própria casa.",
+        "25": "Porém o povo daquela terra matou todos os que conspiraram contra o rei Amom e proclamou Josias, filho de Amom, rei em seu lugar."
     }
-  }
 }

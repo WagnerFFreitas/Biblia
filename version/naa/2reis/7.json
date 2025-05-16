@@ -1,86 +1,29 @@
 {
-  "livro": "2 Reis",
-  "capítulo": 7,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Então Eliseu disse:"
+    "livro": "2 Reis",
+    "capitulo": 7,
+    "titulos": {
+        "3": "O exército dos sírios foge"
     },
-    "2": {
-      "título": "",
-      "texto": "Porém o capitão em cujo braço o rei se apoiava respondeu ao homem de Deus:"
-    },
-    "3": {
-      "título": "O exército dos sírios foge",
-      "texto": "Quatro homens leprosos estavam à entrada do portão da cidade. Eles disseram uns aos outros:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Se decidirmos entrar na cidade, há fome na cidade, e morreremos lá; se ficarmos sentados aqui, também morreremos. Vamos então para o arraial do sírios e nos entreguemos a eles. Se nos deixarem viver, viveremos; se nos matarem, apenas morreremos."
-    },
-    "5": {
-      "título": "",
-      "texto": "Ao anoitecer, eles se levantaram para ir até o arraial dos sírios. Quando chegaram às imediações do arraial, eis que lá não havia ninguém."
-    },
-    "6": {
-      "título": "",
-      "texto": "Porque o Senhor tinha feito com que no arraial dos sírios se ouvisse um ruído de carros de guerra e de cavalos e o ruído de um grande exército, de maneira que disseram uns aos outros:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Por isso, ao anoitecer, eles se levantaram e fugiram, abandonando as suas tendas, os seus cavalos e os seus jumentos, e deixando o arraial como estava. Fugiram para salvar a sua vida."
-    },
-    "8": {
-      "título": "",
-      "texto": "Assim, quando aqueles leprosos chegaram às imediações do arraial, entraram numa tenda, comeram e beberam; depois levaram dali prata, ouro e roupas; então se foram e esconderam tudo. Voltaram, entraram em outra tenda, e dali também levaram o que havia e esconderam."
-    },
-    "9": {
-      "título": "",
-      "texto": "Então disseram uns aos outros:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Assim, eles foram e gritaram para os porteiros da cidade, anunciando o seguinte:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Então os porteiros gritaram e fizeram anunciar a notícia no interior do palácio real."
-    },
-    "12": {
-      "título": "",
-      "texto": "O rei se levantou de noite e disse a seus servos:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Então um dos servos do rei tomou a palavra e disse:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Assim, pegaram dois carros de guerra com cavalos, e o rei enviou os homens atrás do exército dos sírios, dizendo:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Eles foram atrás dos sírios até o Jordão, e eis que todo o caminho estava cheio de roupas e de armas que os sírios, na sua pressa, tinham jogado fora. Os mensageiros voltaram e anunciaram isto ao rei."
-    },
-    "16": {
-      "título": "",
-      "texto": "Então o povo saiu e saqueou o arraial dos sírios. E assim uma medida da melhor farinha era vendida por uma moeda de prata, e duas medidas de cevada, por uma moeda de prata, segundo a palavra do Senhor ."
-    },
-    "17": {
-      "título": "",
-      "texto": "O capitão em cujo braço o rei tinha se apoiado foi encarregado pelo rei de guardar o portão da cidade, mas o povo o atropelou junto ao portão e ele morreu, como o homem de Deus tinha dito quando o rei foi falar com ele."
-    },
-    "18": {
-      "título": "",
-      "texto": "Assim se cumpriu o que o homem de Deus tinha falado ao rei: “Amanhã, a estas horas mais ou menos, junto ao portão de Samaria, duas medidas de cevada serão vendidas por uma moeda de prata, e uma medida da melhor farinha será vendida por uma moeda de prata.”"
-    },
-    "19": {
-      "título": "",
-      "texto": "Aquele capitão havia respondido ao homem de Deus: “Mesmo que o Senhor Deus fizesse janelas no céu, será que isso poderia acontecer, segundo essa palavra?” Ao que o profeta havia respondido: “Eis que você verá isso com os seus próprios olhos, mas não comerá disso.”"
-    },
-    "20": {
-      "título": "",
-      "texto": "E assim aconteceu com ele, porque o povo o atropelou junto ao portão, e ele morreu."
+    "versiculos": {
+        "1": "Então Eliseu disse:",
+        "2": "Porém o capitão em cujo braço o rei se apoiava respondeu ao homem de Deus:",
+        "3": "Quatro homens leprosos estavam à entrada do portão da cidade. Eles disseram uns aos outros:",
+        "4": "Se decidirmos entrar na cidade, há fome na cidade, e morreremos lá; se ficarmos sentados aqui, também morreremos. Vamos então para o arraial do sírios e nos entreguemos a eles. Se nos deixarem viver, viveremos; se nos matarem, apenas morreremos.",
+        "5": "Ao anoitecer, eles se levantaram para ir até o arraial dos sírios. Quando chegaram às imediações do arraial, eis que lá não havia ninguém.",
+        "6": "Porque o Senhor tinha feito com que no arraial dos sírios se ouvisse um ruído de carros de guerra e de cavalos e o ruído de um grande exército, de maneira que disseram uns aos outros:",
+        "7": "Por isso, ao anoitecer, eles se levantaram e fugiram, abandonando as suas tendas, os seus cavalos e os seus jumentos, e deixando o arraial como estava. Fugiram para salvar a sua vida.",
+        "8": "Assim, quando aqueles leprosos chegaram às imediações do arraial, entraram numa tenda, comeram e beberam; depois levaram dali prata, ouro e roupas; então se foram e esconderam tudo. Voltaram, entraram em outra tenda, e dali também levaram o que havia e esconderam.",
+        "9": "Então disseram uns aos outros:",
+        "10": "Assim, eles foram e gritaram para os porteiros da cidade, anunciando o seguinte:",
+        "11": "Então os porteiros gritaram e fizeram anunciar a notícia no interior do palácio real.",
+        "12": "O rei se levantou de noite e disse a seus servos:",
+        "13": "Então um dos servos do rei tomou a palavra e disse:",
+        "14": "Assim, pegaram dois carros de guerra com cavalos, e o rei enviou os homens atrás do exército dos sírios, dizendo:",
+        "15": "Eles foram atrás dos sírios até o Jordão, e eis que todo o caminho estava cheio de roupas e de armas que os sírios, na sua pressa, tinham jogado fora. Os mensageiros voltaram e anunciaram isto ao rei.",
+        "16": "Então o povo saiu e saqueou o arraial dos sírios. E assim uma medida da melhor farinha era vendida por uma moeda de prata, e duas medidas de cevada, por uma moeda de prata, segundo a palavra do Senhor .",
+        "17": "O capitão em cujo braço o rei tinha se apoiado foi encarregado pelo rei de guardar o portão da cidade, mas o povo o atropelou junto ao portão e ele morreu, como o homem de Deus tinha dito quando o rei foi falar com ele.",
+        "18": "Assim se cumpriu o que o homem de Deus tinha falado ao rei: “Amanhã, a estas horas mais ou menos, junto ao portão de Samaria, duas medidas de cevada serão vendidas por uma moeda de prata, e uma medida da melhor farinha será vendida por uma moeda de prata.”",
+        "19": "Aquele capitão havia respondido ao homem de Deus: “Mesmo que o Senhor Deus fizesse janelas no céu, será que isso poderia acontecer, segundo essa palavra?” Ao que o profeta havia respondido: “Eis que você verá isso com os seus próprios olhos, mas não comerá disso.”",
+        "20": "E assim aconteceu com ele, porque o povo o atropelou junto ao portão, e ele morreu."
     }
-  }
 }

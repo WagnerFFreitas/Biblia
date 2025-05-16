@@ -1,58 +1,27 @@
 {
-  "livro": "Apocalipse",
-  "capítulo": 8,
-  "versículos": {
-    "1": {
-      "título": "O sétimo selo e o incensário de ouro",
-      "texto": "Quando o Cordeiro quebrou o sétimo selo, houve silêncio no céu durante quase meia hora."
+    "livro": "Apocalipse",
+    "capitulo": 8,
+    "titulos": {
+        "1": "O sétimo selo e o incensário de ouro",
+        "6": "As sete trombetas",
+        "7": "A primeira trombeta",
+        "8": "A segunda trombeta",
+        "10": "A terceira trombeta",
+        "12": "A quarta trombeta"
     },
-    "2": {
-      "título": "",
-      "texto": "Então vi os sete anjos que estão em pé diante de Deus, e lhes foram dadas sete trombetas."
-    },
-    "3": {
-      "título": "",
-      "texto": "Veio outro anjo e ficou em pé junto ao altar, com um incensário de ouro, e lhe foi dado muito incenso para oferecê-lo com as orações de todos os santos sobre o altar de ouro que está diante do trono."
-    },
-    "4": {
-      "título": "",
-      "texto": "E da mão do anjo subiu à presença de Deus a fumaça do incenso, com as orações dos santos."
-    },
-    "5": {
-      "título": "",
-      "texto": "Então o anjo pegou o incensário, encheu-o do fogo do altar e o atirou à terra. E houve trovões, vozes, relâmpagos e terremoto."
-    },
-    "6": {
-      "título": "As sete trombetas",
-      "texto": "Então os sete anjos que tinham as sete trombetas se prepararam para tocar."
-    },
-    "7": {
-      "título": "A primeira trombeta",
-      "texto": "O primeiro anjo tocou a trombeta, e houve granizo e fogo misturados com sangue, e foram atirados à terra. Então foi queimada a terça parte da terra, foi queimada a terça parte das árvores, e também toda a erva verde foi queimada."
-    },
-    "8": {
-      "título": "A segunda trombeta",
-      "texto": "O segundo anjo tocou a trombeta, e uma espécie de grande montanha em chamas foi atirada ao mar. Uma terça parte do mar se transformou em sangue,"
-    },
-    "9": {
-      "título": "",
-      "texto": "e morreu a terça parte das criaturas do mar, e foi destruída a terça parte das embarcações."
-    },
-    "10": {
-      "título": "A terceira trombeta",
-      "texto": "O terceiro anjo tocou a trombeta, e uma grande estrela, queimando como uma tocha, caiu do céu sobre a terça parte dos rios e sobre as fontes das águas."
-    },
-    "11": {
-      "título": "",
-      "texto": "O nome da estrela é Absinto. E a terça parte das águas se transformou em absinto, e muitas pessoas morreram por causa dessas águas, porque se tornaram amargas."
-    },
-    "12": {
-      "título": "A quarta trombeta",
-      "texto": "O quarto anjo tocou a trombeta, e foi ferida a terça parte do sol, da lua e das estrelas, para que a terça parte deles escurecesse e uma terça parte do dia, e também da noite, ficasse sem luz."
-    },
-    "13": {
-      "título": "",
-      "texto": "Então vi e ouvi uma águia que, voando pelo meio do céu, dizia com voz forte:"
+    "versiculos": {
+        "1": "Quando o Cordeiro quebrou o sétimo selo, houve silêncio no céu durante quase meia hora.",
+        "2": "Então vi os sete anjos que estão em pé diante de Deus, e lhes foram dadas sete trombetas.",
+        "3": "Veio outro anjo e ficou em pé junto ao altar, com um incensário de ouro, e lhe foi dado muito incenso para oferecê-lo com as orações de todos os santos sobre o altar de ouro que está diante do trono.",
+        "4": "E da mão do anjo subiu à presença de Deus a fumaça do incenso, com as orações dos santos.",
+        "5": "Então o anjo pegou o incensário, encheu-o do fogo do altar e o atirou à terra. E houve trovões, vozes, relâmpagos e terremoto.",
+        "6": "Então os sete anjos que tinham as sete trombetas se prepararam para tocar.",
+        "7": "O primeiro anjo tocou a trombeta, e houve granizo e fogo misturados com sangue, e foram atirados à terra. Então foi queimada a terça parte da terra, foi queimada a terça parte das árvores, e também toda a erva verde foi queimada.",
+        "8": "O segundo anjo tocou a trombeta, e uma espécie de grande montanha em chamas foi atirada ao mar. Uma terça parte do mar se transformou em sangue,",
+        "9": "e morreu a terça parte das criaturas do mar, e foi destruída a terça parte das embarcações.",
+        "10": "O terceiro anjo tocou a trombeta, e uma grande estrela, queimando como uma tocha, caiu do céu sobre a terça parte dos rios e sobre as fontes das águas.",
+        "11": "O nome da estrela é Absinto. E a terça parte das águas se transformou em absinto, e muitas pessoas morreram por causa dessas águas, porque se tornaram amargas.",
+        "12": "O quarto anjo tocou a trombeta, e foi ferida a terça parte do sol, da lua e das estrelas, para que a terça parte deles escurecesse e uma terça parte do dia, e também da noite, ficasse sem luz.",
+        "13": "Então vi e ouvi uma águia que, voando pelo meio do céu, dizia com voz forte:"
     }
-  }
 }

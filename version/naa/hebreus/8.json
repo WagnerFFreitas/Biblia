@@ -1,58 +1,22 @@
 {
-  "livro": "Hebreus",
-  "capítulo": 8,
-  "versículos": {
-    "1": {
-      "título": "Jesus, Mediador da nova aliança",
-      "texto": "Ora, o essencial das coisas que estamos dizendo é que temos tal sumo sacerdote, que se assentou à direita do trono da Majestade nos céus,"
+    "livro": "Hebreus",
+    "capitulo": 8,
+    "titulos": {
+        "1": "Jesus, Mediador da nova aliança"
     },
-    "2": {
-      "título": "",
-      "texto": "como ministro do santuário e do verdadeiro tabernáculo que o Senhor erigiu, e não o homem."
-    },
-    "3": {
-      "título": "",
-      "texto": "Pois todo sumo sacerdote é constituído para oferecer dons e sacrifícios; por isso, era necessário que também esse sumo sacerdote tivesse o que oferecer."
-    },
-    "4": {
-      "título": "",
-      "texto": "Se ele estivesse na terra, nem mesmo sacerdote seria, visto existirem aqueles que oferecem os dons segundo a lei."
-    },
-    "5": {
-      "título": "",
-      "texto": "Estes ministram em figura e sombra das coisas celestiais, assim como Moisés foi divinamente instruído, quando estava para construir o tabernáculo. Pois Deus disse: “Tenha cuidado para fazer tudo de acordo com o modelo que foi mostrado a você no monte.”"
-    },
-    "6": {
-      "título": "",
-      "texto": "Mas agora Jesus obteve um ministério tanto mais excelente, quanto é também Mediador de superior aliança instituída com base em superiores promessas."
-    },
-    "7": {
-      "título": "",
-      "texto": "Porque, se aquela primeira aliança tivesse sido sem defeito, de maneira alguma estaria sendo buscado lugar para uma segunda aliança."
-    },
-    "8": {
-      "título": "",
-      "texto": "E, de fato, repreendendo-os, diz:"
-    },
-    "9": {
-      "título": "",
-      "texto": "não segundo a aliança"
-    },
-    "10": {
-      "título": "",
-      "texto": "Porque esta é a aliança que farei"
-    },
-    "11": {
-      "título": "",
-      "texto": "E não ensinará jamais"
-    },
-    "12": {
-      "título": "",
-      "texto": "Pois, para com"
-    },
-    "13": {
-      "título": "",
-      "texto": "Quando ele diz “nova aliança”, torna antiquada a primeira. Ora, aquilo que se torna antiquado e envelhecido está prestes a desaparecer."
+    "versiculos": {
+        "1": "Ora, o essencial das coisas que estamos dizendo é que temos tal sumo sacerdote, que se assentou à direita do trono da Majestade nos céus,",
+        "2": "como ministro do santuário e do verdadeiro tabernáculo que o Senhor erigiu, e não o homem.",
+        "3": "Pois todo sumo sacerdote é constituído para oferecer dons e sacrifícios; por isso, era necessário que também esse sumo sacerdote tivesse o que oferecer.",
+        "4": "Se ele estivesse na terra, nem mesmo sacerdote seria, visto existirem aqueles que oferecem os dons segundo a lei.",
+        "5": "Estes ministram em figura e sombra das coisas celestiais, assim como Moisés foi divinamente instruído, quando estava para construir o tabernáculo. Pois Deus disse: “Tenha cuidado para fazer tudo de acordo com o modelo que foi mostrado a você no monte.”",
+        "6": "Mas agora Jesus obteve um ministério tanto mais excelente, quanto é também Mediador de superior aliança instituída com base em superiores promessas.",
+        "7": "Porque, se aquela primeira aliança tivesse sido sem defeito, de maneira alguma estaria sendo buscado lugar para uma segunda aliança.",
+        "8": "E, de fato, repreendendo-os, diz:",
+        "9": "não segundo a aliança",
+        "10": "Porque esta é a aliança que farei",
+        "11": "E não ensinará jamais",
+        "12": "Pois, para com",
+        "13": "Quando ele diz “nova aliança”, torna antiquada a primeira. Ora, aquilo que se torna antiquado e envelhecido está prestes a desaparecer."
     }
-  }
 }

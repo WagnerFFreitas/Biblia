@@ -1,74 +1,26 @@
 {
-  "livro": "Salmos",
-  "capítulo": 7,
-  "versículos": {
-    "1": {
-      "título": "Oração pedindo justiça",
-      "texto": "Senhor , meu Deus,"
+    "livro": "Salmos",
+    "capitulo": 7,
+    "titulos": {
+        "1": "Oração pedindo justiça"
     },
-    "2": {
-      "título": "",
-      "texto": "para que ninguém, como leão,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Senhor , meu Deus, se eu fiz isso"
-    },
-    "4": {
-      "título": "",
-      "texto": "se paguei com o mal"
-    },
-    "5": {
-      "título": "",
-      "texto": "então que o inimigo me persiga"
-    },
-    "6": {
-      "título": "",
-      "texto": "Levanta-te, Senhor ,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Reúnam-se os povos"
-    },
-    "8": {
-      "título": "",
-      "texto": "O Senhor julga os povos;"
-    },
-    "9": {
-      "título": "",
-      "texto": "Que cesse a maldade dos ímpios."
-    },
-    "10": {
-      "título": "",
-      "texto": "Deus é o meu escudo;"
-    },
-    "11": {
-      "título": "",
-      "texto": "Deus é justo juiz,"
-    },
-    "12": {
-      "título": "",
-      "texto": "Se alguém não se converter,"
-    },
-    "13": {
-      "título": "",
-      "texto": "para ele já preparou"
-    },
-    "14": {
-      "título": "",
-      "texto": "Eis que o ímpio está com dores"
-    },
-    "15": {
-      "título": "",
-      "texto": "Abre e aprofunda uma cova,"
-    },
-    "16": {
-      "título": "",
-      "texto": "A sua maldade recai"
-    },
-    "17": {
-      "título": "",
-      "texto": "Eu, porém, louvarei o Senhor ,"
+    "versiculos": {
+        "1": "Senhor , meu Deus,",
+        "2": "para que ninguém, como leão,",
+        "3": "Senhor , meu Deus, se eu fiz isso",
+        "4": "se paguei com o mal",
+        "5": "então que o inimigo me persiga",
+        "6": "Levanta-te, Senhor ,",
+        "7": "Reúnam-se os povos",
+        "8": "O Senhor julga os povos;",
+        "9": "Que cesse a maldade dos ímpios.",
+        "10": "Deus é o meu escudo;",
+        "11": "Deus é justo juiz,",
+        "12": "Se alguém não se converter,",
+        "13": "para ele já preparou",
+        "14": "Eis que o ímpio está com dores",
+        "15": "Abre e aprofunda uma cova,",
+        "16": "A sua maldade recai",
+        "17": "Eu, porém, louvarei o Senhor ,"
     }
-  }
 }

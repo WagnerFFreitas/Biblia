@@ -1,202 +1,58 @@
 {
-  "livro": "Ezequiel",
-  "capítulo": 23,
-  "versículos": {
-    "1": {
-      "título": "Oolá e Oolibá, as duas prostitutas",
-      "texto": "A palavra do Senhor veio a mim, dizendo:"
+    "livro": "Ezequiel",
+    "capitulo": 23,
+    "titulos": {
+        "1": "Oolá e Oolibá, as duas prostitutas"
     },
-    "2": {
-      "título": "",
-      "texto": "— Filho do homem, houve duas mulheres, filhas da mesma mãe."
-    },
-    "3": {
-      "título": "",
-      "texto": "Elas se prostituíram no Egito; tornaram-se prostitutas quando eram jovens. Ali foram apertados os seus peitos e apalpados os seios da sua virgindade."
-    },
-    "4": {
-      "título": "",
-      "texto": "Os nomes delas eram Oolá, a mais velha, e Oolibá, sua irmã. Elas eram minhas e tiveram filhos e filhas. Quanto aos nomes, Oolá é Samaria e Oolibá é Jerusalém."
-    },
-    "5": {
-      "título": "",
-      "texto": "— Oolá se prostituiu quando era minha. Inflamou-se pelos seus amantes, pelos assírios, seus vizinhos,"
-    },
-    "6": {
-      "título": "",
-      "texto": "que se vestiam de azul, governadores e comandantes, todos jovens atraentes, cavaleiros montados em cavalos."
-    },
-    "7": {
-      "título": "",
-      "texto": "Ela se prostituiu com eles, que eram todos a fina flor dos filhos da Assíria, e com todos aqueles pelos quais se inflamava; com todos os seus ídolos ela se contaminou."
-    },
-    "8": {
-      "título": "",
-      "texto": "Não abandonou a prostituição que havia começado no Egito. Porque, quando era jovem, os homens se deitaram com ela, apalparam os seios da sua virgindade e a trataram como prostituta."
-    },
-    "9": {
-      "título": "",
-      "texto": "Por isso, eu a entreguei nas mãos dos seus amantes, nas mãos dos filhos da Assíria, pelos quais havia se inflamado."
-    },
-    "10": {
-      "título": "",
-      "texto": "Estes descobriram as vergonhas dela, levaram os seus filhos e as suas filhas, e a mataram à espada. Ela se tornou falada entre as mulheres por causa dos juízos que executaram sobre ela."
-    },
-    "11": {
-      "título": "",
-      "texto": "— Apesar de ter visto isso, sua irmã Oolibá se corrompeu mais do que ela em sua paixão, e a sua prostituição foi pior do que a de sua irmã."
-    },
-    "12": {
-      "título": "",
-      "texto": "Inflamou-se pelos filhos da Assíria, governadores e comandantes, seus vizinhos, vestidos com primor, cavaleiros montados em cavalos, todos jovens atraentes."
-    },
-    "13": {
-      "título": "",
-      "texto": "Vi que também ela havia se contaminado; o caminho de ambas era o mesmo."
-    },
-    "14": {
-      "título": "",
-      "texto": "Aumentou a sua prostituição, porque viu figuras de homens gravadas na parede, imagens dos caldeus, pintados de vermelho,"
-    },
-    "15": {
-      "título": "",
-      "texto": "de lombos cingidos e turbantes pendentes da cabeça, todos com aparência de oficiais, semelhantes aos filhos da Babilônia, nascidos na Caldeia."
-    },
-    "16": {
-      "título": "",
-      "texto": "Vendo-os, Oolibá se inflamou por eles e lhes mandou mensageiros à Caldeia."
-    },
-    "17": {
-      "título": "",
-      "texto": "Então os filhos da Babilônia vieram se deitar com ela no leito dos amores e a contaminaram com as suas prostituições. Após contaminar-se com eles, enojada, ela os abandonou."
-    },
-    "18": {
-      "título": "",
-      "texto": "Assim, depois que ela mostrou a sua prostituição e a sua nudez, eu a abandonei, com nojo, assim como havia abandonado a irmã dela."
-    },
-    "19": {
-      "título": "",
-      "texto": "Mas Oolibá multiplicou as suas prostituições, lembrando-se dos dias da sua juventude, quando era prostituta na terra do Egito."
-    },
-    "20": {
-      "título": "",
-      "texto": "Inflamou-se pelos seus amantes, cujos membros eram como o de jumento e cuja ejaculação era como a dos cavalos."
-    },
-    "21": {
-      "título": "",
-      "texto": "Assim, você trouxe à memória a perversidade dos seus tempos de jovem, quando os do Egito apalpavam os seus seios e apertavam os peitos da sua juventude."
-    },
-    "22": {
-      "título": "",
-      "texto": "— Por isso, Oolibá, assim diz o Senhor Deus : “Eis que despertarei contra você os seus amantes, os quais, com nojo, você abandonou, e os trarei contra você de todos os lados:"
-    },
-    "23": {
-      "título": "",
-      "texto": "os filhos da Babilônia e todos os caldeus de Pecode, de Soa, de Coa e todos os filhos da Assíria com eles, jovens atraentes, governadores e comandantes, oficiais e homens de renome, todos montados em cavalos."
-    },
-    "24": {
-      "título": "",
-      "texto": "Virão contra você com armas, carros de guerra e carretas, e com um grande exército. Eles se colocarão contra você com escudos grandes, escudos pequenos e capacetes. Deixarei que a julguem, e eles a julgarão segundo as suas leis."
-    },
-    "25": {
-      "título": "",
-      "texto": "Porei contra você o meu zelo, e eles a tratarão com furor. Cortarão o seu nariz e as suas orelhas, e o que restar cairá à espada; levarão os seus filhos e as suas filhas, e quem ainda lhe restar será consumido pelo fogo."
-    },
-    "26": {
-      "título": "",
-      "texto": "Eles arrancarão as suas roupas e levarão as suas belas joias."
-    },
-    "27": {
-      "título": "",
-      "texto": "Assim, acabarei com a sua perversidade e com a prostituição que você trouxe da terra do Egito. Você não levantará os olhos para eles e não se lembrará mais do Egito.”"
-    },
-    "28": {
-      "título": "",
-      "texto": "— Porque assim diz o Senhor Deus : “Eis que eu a entregarei nas mãos daqueles que você odeia, nas mãos daqueles que, com nojo, você abandonou."
-    },
-    "29": {
-      "título": "",
-      "texto": "Eles a tratarão com ódio, levarão todo o fruto do seu trabalho e a deixarão completamente nua. Ficará exposta a vergonha da sua prostituição, a sua perversidade e as suas devassidões."
-    },
-    "30": {
-      "título": "",
-      "texto": "Isso lhe acontecerá, porque você se prostituiu com os gentios e se contaminou com os seus ídolos."
-    },
-    "31": {
-      "título": "",
-      "texto": "Você andou no caminho de sua irmã; por isso, o copo que era dela eu entregarei a você.”"
-    },
-    "32": {
-      "título": "",
-      "texto": "— Assim diz o Senhor Deus :"
-    },
-    "33": {
-      "título": "",
-      "texto": "Você ficará"
-    },
-    "34": {
-      "título": "",
-      "texto": "Você o beberá até a última gota,"
-    },
-    "35": {
-      "título": "",
-      "texto": "— Portanto, assim diz o Senhor Deus : “Visto que você se esqueceu de mim e me virou as costas, também terá de sofrer as consequências da sua perversidade e das suas prostituições.”"
-    },
-    "36": {
-      "título": "",
-      "texto": "Disse-me ainda o Senhor :"
-    },
-    "37": {
-      "título": "",
-      "texto": "Porque elas cometeram adultério, e nas suas mãos há culpa de sangue. Adulteraram com os seus ídolos, e até os filhos que tiveram comigo elas ofereceram aos ídolos para serem consumidos pelo fogo."
-    },
-    "38": {
-      "título": "",
-      "texto": "E fizeram mais isto: no mesmo dia contaminaram o meu santuário e profanaram os meus sábados."
-    },
-    "39": {
-      "título": "",
-      "texto": "Pois, havendo sacrificado seus filhos aos ídolos, vieram, no mesmo dia, ao meu santuário para o profanarem; foi o que fizeram em meu templo."
-    },
-    "40": {
-      "título": "",
-      "texto": "E mais ainda: mandaram vir uns homens de longe, aos quais tinha sido enviado um mensageiro, e eis que eles vieram. Por amor deles, você se banhou, pintou os olhos e se enfeitou com joias."
-    },
-    "41": {
-      "título": "",
-      "texto": "Você se assentou num suntuoso leito, diante do qual se achava uma mesa preparada, sobre a qual você pôs o meu incenso e o meu óleo."
-    },
-    "42": {
-      "título": "",
-      "texto": "Ouvia-se com ela a voz de uma multidão alegre. Com homens de classe baixa foram trazidos do deserto uns bêbados, que puseram braceletes nas mãos delas e, na cabeça, belas coroas."
-    },
-    "43": {
-      "título": "",
-      "texto": "Então eu disse a respeito da mulher envelhecida em adultérios: “Agora ela vai continuar com as suas prostituições!”"
-    },
-    "44": {
-      "título": "",
-      "texto": "E tiveram relações com ela, como quem tem relações com uma prostituta. Foi assim que tiveram relações com Oolá e Oolibá, essas mulheres depravadas."
-    },
-    "45": {
-      "título": "",
-      "texto": "Mas homens justos as julgarão como se julgam as adúlteras e as assassinas; porque são adúlteras, e, nas suas mãos, há culpa de sangue."
-    },
-    "46": {
-      "título": "",
-      "texto": "— Pois assim diz o Senhor Deus : Trarei contra elas uma grande multidão e as entregarei ao tumulto e ao saque."
-    },
-    "47": {
-      "título": "",
-      "texto": "A multidão as apedrejará e as golpeará com as suas espadas; matarão os seus filhos e as suas filhas e queimarão as suas casas."
-    },
-    "48": {
-      "título": "",
-      "texto": "Assim, acabarei com a perversidade da terra, para que isso sirva de aviso a todas as mulheres e elas não sigam o exemplo da perversidade delas."
-    },
-    "49": {
-      "título": "",
-      "texto": "Vocês serão castigadas por causa da sua perversidade e sofrerão as consequências de seus pecados de idolatria. E saberão que eu sou o Senhor Deus ."
+    "versiculos": {
+        "1": "A palavra do Senhor veio a mim, dizendo:",
+        "2": "— Filho do homem, houve duas mulheres, filhas da mesma mãe.",
+        "3": "Elas se prostituíram no Egito; tornaram-se prostitutas quando eram jovens. Ali foram apertados os seus peitos e apalpados os seios da sua virgindade.",
+        "4": "Os nomes delas eram Oolá, a mais velha, e Oolibá, sua irmã. Elas eram minhas e tiveram filhos e filhas. Quanto aos nomes, Oolá é Samaria e Oolibá é Jerusalém.",
+        "5": "— Oolá se prostituiu quando era minha. Inflamou-se pelos seus amantes, pelos assírios, seus vizinhos,",
+        "6": "que se vestiam de azul, governadores e comandantes, todos jovens atraentes, cavaleiros montados em cavalos.",
+        "7": "Ela se prostituiu com eles, que eram todos a fina flor dos filhos da Assíria, e com todos aqueles pelos quais se inflamava; com todos os seus ídolos ela se contaminou.",
+        "8": "Não abandonou a prostituição que havia começado no Egito. Porque, quando era jovem, os homens se deitaram com ela, apalparam os seios da sua virgindade e a trataram como prostituta.",
+        "9": "Por isso, eu a entreguei nas mãos dos seus amantes, nas mãos dos filhos da Assíria, pelos quais havia se inflamado.",
+        "10": "Estes descobriram as vergonhas dela, levaram os seus filhos e as suas filhas, e a mataram à espada. Ela se tornou falada entre as mulheres por causa dos juízos que executaram sobre ela.",
+        "11": "— Apesar de ter visto isso, sua irmã Oolibá se corrompeu mais do que ela em sua paixão, e a sua prostituição foi pior do que a de sua irmã.",
+        "12": "Inflamou-se pelos filhos da Assíria, governadores e comandantes, seus vizinhos, vestidos com primor, cavaleiros montados em cavalos, todos jovens atraentes.",
+        "13": "Vi que também ela havia se contaminado; o caminho de ambas era o mesmo.",
+        "14": "Aumentou a sua prostituição, porque viu figuras de homens gravadas na parede, imagens dos caldeus, pintados de vermelho,",
+        "15": "de lombos cingidos e turbantes pendentes da cabeça, todos com aparência de oficiais, semelhantes aos filhos da Babilônia, nascidos na Caldeia.",
+        "16": "Vendo-os, Oolibá se inflamou por eles e lhes mandou mensageiros à Caldeia.",
+        "17": "Então os filhos da Babilônia vieram se deitar com ela no leito dos amores e a contaminaram com as suas prostituições. Após contaminar-se com eles, enojada, ela os abandonou.",
+        "18": "Assim, depois que ela mostrou a sua prostituição e a sua nudez, eu a abandonei, com nojo, assim como havia abandonado a irmã dela.",
+        "19": "Mas Oolibá multiplicou as suas prostituições, lembrando-se dos dias da sua juventude, quando era prostituta na terra do Egito.",
+        "20": "Inflamou-se pelos seus amantes, cujos membros eram como o de jumento e cuja ejaculação era como a dos cavalos.",
+        "21": "Assim, você trouxe à memória a perversidade dos seus tempos de jovem, quando os do Egito apalpavam os seus seios e apertavam os peitos da sua juventude.",
+        "22": "— Por isso, Oolibá, assim diz o Senhor Deus : “Eis que despertarei contra você os seus amantes, os quais, com nojo, você abandonou, e os trarei contra você de todos os lados:",
+        "23": "os filhos da Babilônia e todos os caldeus de Pecode, de Soa, de Coa e todos os filhos da Assíria com eles, jovens atraentes, governadores e comandantes, oficiais e homens de renome, todos montados em cavalos.",
+        "24": "Virão contra você com armas, carros de guerra e carretas, e com um grande exército. Eles se colocarão contra você com escudos grandes, escudos pequenos e capacetes. Deixarei que a julguem, e eles a julgarão segundo as suas leis.",
+        "25": "Porei contra você o meu zelo, e eles a tratarão com furor. Cortarão o seu nariz e as suas orelhas, e o que restar cairá à espada; levarão os seus filhos e as suas filhas, e quem ainda lhe restar será consumido pelo fogo.",
+        "26": "Eles arrancarão as suas roupas e levarão as suas belas joias.",
+        "27": "Assim, acabarei com a sua perversidade e com a prostituição que você trouxe da terra do Egito. Você não levantará os olhos para eles e não se lembrará mais do Egito.”",
+        "28": "— Porque assim diz o Senhor Deus : “Eis que eu a entregarei nas mãos daqueles que você odeia, nas mãos daqueles que, com nojo, você abandonou.",
+        "29": "Eles a tratarão com ódio, levarão todo o fruto do seu trabalho e a deixarão completamente nua. Ficará exposta a vergonha da sua prostituição, a sua perversidade e as suas devassidões.",
+        "30": "Isso lhe acontecerá, porque você se prostituiu com os gentios e se contaminou com os seus ídolos.",
+        "31": "Você andou no caminho de sua irmã; por isso, o copo que era dela eu entregarei a você.”",
+        "32": "— Assim diz o Senhor Deus :",
+        "33": "Você ficará",
+        "34": "Você o beberá até a última gota,",
+        "35": "— Portanto, assim diz o Senhor Deus : “Visto que você se esqueceu de mim e me virou as costas, também terá de sofrer as consequências da sua perversidade e das suas prostituições.”",
+        "36": "Disse-me ainda o Senhor :",
+        "37": "Porque elas cometeram adultério, e nas suas mãos há culpa de sangue. Adulteraram com os seus ídolos, e até os filhos que tiveram comigo elas ofereceram aos ídolos para serem consumidos pelo fogo.",
+        "38": "E fizeram mais isto: no mesmo dia contaminaram o meu santuário e profanaram os meus sábados.",
+        "39": "Pois, havendo sacrificado seus filhos aos ídolos, vieram, no mesmo dia, ao meu santuário para o profanarem; foi o que fizeram em meu templo.",
+        "40": "E mais ainda: mandaram vir uns homens de longe, aos quais tinha sido enviado um mensageiro, e eis que eles vieram. Por amor deles, você se banhou, pintou os olhos e se enfeitou com joias.",
+        "41": "Você se assentou num suntuoso leito, diante do qual se achava uma mesa preparada, sobre a qual você pôs o meu incenso e o meu óleo.",
+        "42": "Ouvia-se com ela a voz de uma multidão alegre. Com homens de classe baixa foram trazidos do deserto uns bêbados, que puseram braceletes nas mãos delas e, na cabeça, belas coroas.",
+        "43": "Então eu disse a respeito da mulher envelhecida em adultérios: “Agora ela vai continuar com as suas prostituições!”",
+        "44": "E tiveram relações com ela, como quem tem relações com uma prostituta. Foi assim que tiveram relações com Oolá e Oolibá, essas mulheres depravadas.",
+        "45": "Mas homens justos as julgarão como se julgam as adúlteras e as assassinas; porque são adúlteras, e, nas suas mãos, há culpa de sangue.",
+        "46": "— Pois assim diz o Senhor Deus : Trarei contra elas uma grande multidão e as entregarei ao tumulto e ao saque.",
+        "47": "A multidão as apedrejará e as golpeará com as suas espadas; matarão os seus filhos e as suas filhas e queimarão as suas casas.",
+        "48": "Assim, acabarei com a perversidade da terra, para que isso sirva de aviso a todas as mulheres e elas não sigam o exemplo da perversidade delas.",
+        "49": "Vocês serão castigadas por causa da sua perversidade e sofrerão as consequências de seus pecados de idolatria. E saberão que eu sou o Senhor Deus ."
     }
-  }
 }

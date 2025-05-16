@@ -1,114 +1,38 @@
 {
-  "livro": "2 Reis",
-  "capítulo": 3,
-  "versículos": {
-    "1": {
-      "título": "O reinado de Jorão sobre Israel",
-      "texto": "Jorão, filho de Acabe, começou a reinar sobre Israel, em Samaria, no décimo oitavo ano do reinado de Josafá, rei de Judá; e reinou doze anos."
+    "livro": "2 Reis",
+    "capitulo": 3,
+    "titulos": {
+        "1": "O reinado de Jorão sobre Israel",
+        "4": "Eliseu prediz a vitória sobre Moabe",
+        "21": "A derrota de Moabe"
     },
-    "2": {
-      "título": "",
-      "texto": "Fez o que era mau aos olhos do Senhor , porém não como o seu pai, nem como a sua mãe, porque tirou a coluna de Baal, que o seu pai havia feito."
-    },
-    "3": {
-      "título": "",
-      "texto": "No entanto, aderiu aos pecados de Jeroboão, filho de Nebate, que havia levado Israel a pecar, e não se afastou deles."
-    },
-    "4": {
-      "título": "Eliseu prediz a vitória sobre Moabe",
-      "texto": "Mesa, rei dos moabitas, era criador de gado e pagava o seu tributo ao rei de Israel com cem mil cordeiros e a lã de cem mil carneiros."
-    },
-    "5": {
-      "título": "",
-      "texto": "Mas depois da morte de Acabe, o rei dos moabitas se revoltou contra o rei de Israel."
-    },
-    "6": {
-      "título": "",
-      "texto": "Por isso, naquele instante Jorão saiu de Samaria e reuniu todo o exército de Israel."
-    },
-    "7": {
-      "título": "",
-      "texto": "Mandou dizer a Josafá, rei de Judá:"
-    },
-    "8": {
-      "título": "",
-      "texto": "E Josafá perguntou:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Partiram o rei de Israel, o rei de Judá e o rei de Edom. Após sete dias de marcha, não havia água para o exército e para os animais que os seguiam."
-    },
-    "10": {
-      "título": "",
-      "texto": "Então o rei de Israel disse:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Josafá perguntou:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Josafá disse:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Mas Eliseu disse ao rei de Israel:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Eliseu disse:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Agora me tragam um músico."
-    },
-    "16": {
-      "título": "",
-      "texto": "Este disse:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Porque assim diz o Senhor : Vocês não sentirão vento, nem verão chuva, mas este vale se encherá de água; e vocês beberão, bem como o seu gado e os seus animais.”"
-    },
-    "18": {
-      "título": "",
-      "texto": "Mas isto ainda é pouco aos olhos do Senhor . Ele também entregará Moabe nas suas mãos."
-    },
-    "19": {
-      "título": "",
-      "texto": "Vocês conquistarão todas as cidades fortificadas e todas as cidades principais. Cortarão todas as árvores frutíferas, taparão todas as fontes de água e danificarão com pedras todos os campos de cultivo."
-    },
-    "20": {
-      "título": "",
-      "texto": "E aconteceu que, no dia seguinte, na hora do sacrifício da manhã, eis que água vinha descendo dos lados de Edom; e a terra se encheu de água."
-    },
-    "21": {
-      "título": "A derrota de Moabe",
-      "texto": "Quando todos os moabitas ouviram que os reis tinham vindo para lutar contra eles, convocaram todos os que estavam aptos para a guerra, desde o mais novo até o mais velho, e tomaram posição nas fronteiras."
-    },
-    "22": {
-      "título": "",
-      "texto": "Os moabitas se levantaram de madrugada e, quando o sol raiou sobre as águas, viram que as águas diante deles estavam vermelhas como sangue."
-    },
-    "23": {
-      "título": "",
-      "texto": "E disseram:"
-    },
-    "24": {
-      "título": "",
-      "texto": "Mas, quando eles chegaram ao arraial de Israel, os israelitas se levantaram e atacaram os moabitas, os quais fugiram deles. Os israelitas entraram na terra e também aí mataram os moabitas."
-    },
-    "25": {
-      "título": "",
-      "texto": "Arrasaram as cidades, e cada um lançou uma pedra em todos os campos de cultivo, e os entulharam. Taparam todas as fontes de águas e cortaram todas as árvores frutíferas. Só Quir-Haresete ficou com suas muralhas; mas os que atiravam com fundas a cercaram e atacaram."
-    },
-    "26": {
-      "título": "",
-      "texto": "Quando o rei de Moabe percebeu que estava perdendo a batalha, tomou consigo setecentos homens armados com espada para abrir caminho e chegar até o rei de Edom, porém não puderam."
-    },
-    "27": {
-      "título": "",
-      "texto": "Então pegou o seu filho primogênito, que havia de reinar em seu lugar, e o ofereceu em holocausto sobre a muralha. Houve grande ira contra Israel e, por isso, eles se retiraram dali e voltaram para a sua própria terra."
+    "versiculos": {
+        "1": "Jorão, filho de Acabe, começou a reinar sobre Israel, em Samaria, no décimo oitavo ano do reinado de Josafá, rei de Judá; e reinou doze anos.",
+        "2": "Fez o que era mau aos olhos do Senhor , porém não como o seu pai, nem como a sua mãe, porque tirou a coluna de Baal, que o seu pai havia feito.",
+        "3": "No entanto, aderiu aos pecados de Jeroboão, filho de Nebate, que havia levado Israel a pecar, e não se afastou deles.",
+        "4": "Mesa, rei dos moabitas, era criador de gado e pagava o seu tributo ao rei de Israel com cem mil cordeiros e a lã de cem mil carneiros.",
+        "5": "Mas depois da morte de Acabe, o rei dos moabitas se revoltou contra o rei de Israel.",
+        "6": "Por isso, naquele instante Jorão saiu de Samaria e reuniu todo o exército de Israel.",
+        "7": "Mandou dizer a Josafá, rei de Judá:",
+        "8": "E Josafá perguntou:",
+        "9": "Partiram o rei de Israel, o rei de Judá e o rei de Edom. Após sete dias de marcha, não havia água para o exército e para os animais que os seguiam.",
+        "10": "Então o rei de Israel disse:",
+        "11": "Josafá perguntou:",
+        "12": "Josafá disse:",
+        "13": "Mas Eliseu disse ao rei de Israel:",
+        "14": "Eliseu disse:",
+        "15": "Agora me tragam um músico.",
+        "16": "Este disse:",
+        "17": "Porque assim diz o Senhor : Vocês não sentirão vento, nem verão chuva, mas este vale se encherá de água; e vocês beberão, bem como o seu gado e os seus animais.”",
+        "18": "Mas isto ainda é pouco aos olhos do Senhor . Ele também entregará Moabe nas suas mãos.",
+        "19": "Vocês conquistarão todas as cidades fortificadas e todas as cidades principais. Cortarão todas as árvores frutíferas, taparão todas as fontes de água e danificarão com pedras todos os campos de cultivo.",
+        "20": "E aconteceu que, no dia seguinte, na hora do sacrifício da manhã, eis que água vinha descendo dos lados de Edom; e a terra se encheu de água.",
+        "21": "Quando todos os moabitas ouviram que os reis tinham vindo para lutar contra eles, convocaram todos os que estavam aptos para a guerra, desde o mais novo até o mais velho, e tomaram posição nas fronteiras.",
+        "22": "Os moabitas se levantaram de madrugada e, quando o sol raiou sobre as águas, viram que as águas diante deles estavam vermelhas como sangue.",
+        "23": "E disseram:",
+        "24": "Mas, quando eles chegaram ao arraial de Israel, os israelitas se levantaram e atacaram os moabitas, os quais fugiram deles. Os israelitas entraram na terra e também aí mataram os moabitas.",
+        "25": "Arrasaram as cidades, e cada um lançou uma pedra em todos os campos de cultivo, e os entulharam. Taparam todas as fontes de águas e cortaram todas as árvores frutíferas. Só Quir-Haresete ficou com suas muralhas; mas os que atiravam com fundas a cercaram e atacaram.",
+        "26": "Quando o rei de Moabe percebeu que estava perdendo a batalha, tomou consigo setecentos homens armados com espada para abrir caminho e chegar até o rei de Edom, porém não puderam.",
+        "27": "Então pegou o seu filho primogênito, que havia de reinar em seu lugar, e o ofereceu em holocausto sobre a muralha. Houve grande ira contra Israel e, por isso, eles se retiraram dali e voltaram para a sua própria terra."
     }
-  }
 }

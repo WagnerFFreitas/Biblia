@@ -1,198 +1,57 @@
 {
-  "livro": "Salmos",
-  "capítulo": 106,
-  "versículos": {
-    "1": {
-      "título": "A graça de Deus e a ingratidão de Israel",
-      "texto": "Aleluia!"
+    "livro": "Salmos",
+    "capitulo": 106,
+    "titulos": {
+        "1": "A graça de Deus e a ingratidão de Israel"
     },
-    "2": {
-      "título": "",
-      "texto": "Quem saberá contar"
-    },
-    "3": {
-      "título": "",
-      "texto": "Bem-aventurados"
-    },
-    "4": {
-      "título": "",
-      "texto": "Lembra-te de mim, Senhor ,"
-    },
-    "5": {
-      "título": "",
-      "texto": "para que eu veja a prosperidade"
-    },
-    "6": {
-      "título": "",
-      "texto": "Pecamos, como os nossos pais;"
-    },
-    "7": {
-      "título": "",
-      "texto": "Nossos pais, no Egito,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Mas Deus os salvou por amor"
-    },
-    "9": {
-      "título": "",
-      "texto": "Repreendeu o mar Vermelho,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Salvou-os das mãos"
-    },
-    "11": {
-      "título": "",
-      "texto": "As águas cobriram"
-    },
-    "12": {
-      "título": "",
-      "texto": "Então creram nas suas palavras"
-    },
-    "13": {
-      "título": "",
-      "texto": "Logo, porém, se esqueceram"
-    },
-    "14": {
-      "título": "",
-      "texto": "Entregaram-se à cobiça,"
-    },
-    "15": {
-      "título": "",
-      "texto": "Concedeu-lhes o que pediram,"
-    },
-    "16": {
-      "título": "",
-      "texto": "Tiveram inveja de Moisés,"
-    },
-    "17": {
-      "título": "",
-      "texto": "A terra se abriu, engoliu Datã,"
-    },
-    "18": {
-      "título": "",
-      "texto": "Um fogo se acendeu"
-    },
-    "19": {
-      "título": "",
-      "texto": "Em Horebe, fizeram um bezerro"
-    },
-    "20": {
-      "título": "",
-      "texto": "E, assim, trocaram"
-    },
-    "21": {
-      "título": "",
-      "texto": "Esqueceram-se de Deus,"
-    },
-    "22": {
-      "título": "",
-      "texto": "maravilhas na terra de Cam,"
-    },
-    "23": {
-      "título": "",
-      "texto": "Deus os teria exterminado,"
-    },
-    "24": {
-      "título": "",
-      "texto": "Também desprezaram"
-    },
-    "25": {
-      "título": "",
-      "texto": "pelo contrário, murmuraram"
-    },
-    "26": {
-      "título": "",
-      "texto": "Então lhes jurou, de mão erguida,"
-    },
-    "27": {
-      "título": "",
-      "texto": "e também espalharia"
-    },
-    "28": {
-      "título": "",
-      "texto": "Também se juntaram a Baal-Peor"
-    },
-    "29": {
-      "título": "",
-      "texto": "Assim, com tais ações,"
-    },
-    "30": {
-      "título": "",
-      "texto": "Então se levantou Fineias"
-    },
-    "31": {
-      "título": "",
-      "texto": "Isso lhe foi atribuído"
-    },
-    "32": {
-      "título": "",
-      "texto": "Depois, provocaram Deus"
-    },
-    "33": {
-      "título": "",
-      "texto": "pois foram rebeldes"
-    },
-    "34": {
-      "título": "",
-      "texto": "Não exterminaram os povos,"
-    },
-    "35": {
-      "título": "",
-      "texto": "Em vez disso, se mesclaram"
-    },
-    "36": {
-      "título": "",
-      "texto": "Adoraram os seus ídolos,"
-    },
-    "37": {
-      "título": "",
-      "texto": "Sacrificaram seus filhos"
-    },
-    "38": {
-      "título": "",
-      "texto": "Derramaram sangue inocente,"
-    },
-    "39": {
-      "título": "",
-      "texto": "Assim se contaminaram"
-    },
-    "40": {
-      "título": "",
-      "texto": "Por isso, acendeu-se a ira"
-    },
-    "41": {
-      "título": "",
-      "texto": "e os entregou"
-    },
-    "42": {
-      "título": "",
-      "texto": "Também os oprimiram"
-    },
-    "43": {
-      "título": "",
-      "texto": "Muitas vezes os libertou,"
-    },
-    "44": {
-      "título": "",
-      "texto": "Mas Deus olhou para eles"
-    },
-    "45": {
-      "título": "",
-      "texto": "lembrou-se, a favor deles,"
-    },
-    "46": {
-      "título": "",
-      "texto": "Fez também com que deles"
-    },
-    "47": {
-      "título": "",
-      "texto": "Salva-nos, Senhor , nosso Deus,"
-    },
-    "48": {
-      "título": "",
-      "texto": "Bendito seja o Senhor ,"
+    "versiculos": {
+        "1": "Aleluia!",
+        "2": "Quem saberá contar",
+        "3": "Bem-aventurados",
+        "4": "Lembra-te de mim, Senhor ,",
+        "5": "para que eu veja a prosperidade",
+        "6": "Pecamos, como os nossos pais;",
+        "7": "Nossos pais, no Egito,",
+        "8": "Mas Deus os salvou por amor",
+        "9": "Repreendeu o mar Vermelho,",
+        "10": "Salvou-os das mãos",
+        "11": "As águas cobriram",
+        "12": "Então creram nas suas palavras",
+        "13": "Logo, porém, se esqueceram",
+        "14": "Entregaram-se à cobiça,",
+        "15": "Concedeu-lhes o que pediram,",
+        "16": "Tiveram inveja de Moisés,",
+        "17": "A terra se abriu, engoliu Datã,",
+        "18": "Um fogo se acendeu",
+        "19": "Em Horebe, fizeram um bezerro",
+        "20": "E, assim, trocaram",
+        "21": "Esqueceram-se de Deus,",
+        "22": "maravilhas na terra de Cam,",
+        "23": "Deus os teria exterminado,",
+        "24": "Também desprezaram",
+        "25": "pelo contrário, murmuraram",
+        "26": "Então lhes jurou, de mão erguida,",
+        "27": "e também espalharia",
+        "28": "Também se juntaram a Baal-Peor",
+        "29": "Assim, com tais ações,",
+        "30": "Então se levantou Fineias",
+        "31": "Isso lhe foi atribuído",
+        "32": "Depois, provocaram Deus",
+        "33": "pois foram rebeldes",
+        "34": "Não exterminaram os povos,",
+        "35": "Em vez disso, se mesclaram",
+        "36": "Adoraram os seus ídolos,",
+        "37": "Sacrificaram seus filhos",
+        "38": "Derramaram sangue inocente,",
+        "39": "Assim se contaminaram",
+        "40": "Por isso, acendeu-se a ira",
+        "41": "e os entregou",
+        "42": "Também os oprimiram",
+        "43": "Muitas vezes os libertou,",
+        "44": "Mas Deus olhou para eles",
+        "45": "lembrou-se, a favor deles,",
+        "46": "Fez também com que deles",
+        "47": "Salva-nos, Senhor , nosso Deus,",
+        "48": "Bendito seja o Senhor ,"
     }
-  }
 }

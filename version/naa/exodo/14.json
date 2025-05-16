@@ -1,130 +1,42 @@
 {
-  "livro": "Êxodo",
-  "capítulo": 14,
-  "versículos": {
-    "1": {
-      "título": "A travessia do mar Vermelho",
-      "texto": "O Senhor disse a Moisés:"
+    "livro": "Êxodo",
+    "capitulo": 14,
+    "titulos": {
+        "1": "A travessia do mar Vermelho",
+        "15": "A passagem pelo meio do mar",
+        "26": "Os egípcios morrem no mar"
     },
-    "2": {
-      "título": "",
-      "texto": "— Diga aos filhos de Israel que voltem e se acampem diante de Pi-Hairote, entre Migdol e o mar, diante de Baal-Zefom; em frente desse lugar, junto ao mar, vocês acamparão."
-    },
-    "3": {
-      "título": "",
-      "texto": "Então Faraó dirá a respeito dos filhos de Israel: “Estão desorientados na terra, presos no deserto.”"
-    },
-    "4": {
-      "título": "",
-      "texto": "Eu vou endurecer o coração de Faraó, para que os persiga, e serei glorificado em Faraó e em todo o seu exército. E os egípcios saberão que eu sou o Senhor ."
-    },
-    "5": {
-      "título": "",
-      "texto": "Quando foi anunciado ao rei do Egito que o povo fugia, ele e os seus oficiais mudaram de ideia a respeito do povo. Disseram:"
-    },
-    "6": {
-      "título": "",
-      "texto": "E Faraó aprontou o seu carro de guerra e levou consigo o seu povo."
-    },
-    "7": {
-      "título": "",
-      "texto": "Levou também seiscentos carros de guerra escolhidos e todos os outros carros de guerra do Egito com capitães sobre todos eles."
-    },
-    "8": {
-      "título": "",
-      "texto": "Porque o Senhor endureceu o coração de Faraó, rei do Egito, para que perseguisse os filhos de Israel. Porém os filhos de Israel saíram, marchando corajosamente."
-    },
-    "9": {
-      "título": "",
-      "texto": "Os egípcios os perseguiram, com todos os cavalos e carros de guerra de Faraó, os seus cavaleiros e o seu exército, e os alcançaram acampados junto ao mar, perto de Pi-Hairote, diante de Baal-Zefom."
-    },
-    "10": {
-      "título": "",
-      "texto": "E, chegando Faraó, os filhos de Israel levantaram os olhos e eis que os egípcios vinham atrás deles, e ficaram com muito medo. Então os filhos de Israel clamaram ao Senhor ."
-    },
-    "11": {
-      "título": "",
-      "texto": "Disseram a Moisés:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Não foi isso que dissemos a você no Egito: “Deixe-nos em paz, para que sirvamos os egípcios”? Pois teria sido melhor para nós servir os egípcios do que morrer no deserto."
-    },
-    "13": {
-      "título": "",
-      "texto": "Moisés, porém, respondeu ao povo:"
-    },
-    "14": {
-      "título": "",
-      "texto": "O Senhor lutará por vocês; fiquem calmos."
-    },
-    "15": {
-      "título": "A passagem pelo meio do mar",
-      "texto": "O Senhor disse a Moisés:"
-    },
-    "16": {
-      "título": "",
-      "texto": "E você, levante o seu bordão e estenda a mão sobre o mar. As águas se dividirão, para que os filhos de Israel passem pelo meio do mar em seco."
-    },
-    "17": {
-      "título": "",
-      "texto": "Eis que vou endurecer o coração dos egípcios, para que venham atrás de vocês e entrem no mar. Serei glorificado em Faraó e em todo o seu exército, nos seus carros de guerra e nos seus cavaleiros;"
-    },
-    "18": {
-      "título": "",
-      "texto": "e os egípcios saberão que eu sou o Senhor , quando for glorificado em Faraó, nos seus carros de guerra e nos seus cavaleiros."
-    },
-    "19": {
-      "título": "",
-      "texto": "Então o Anjo de Deus, que ia adiante do exército de Israel, se retirou e passou para trás deles. Também a coluna de nuvem se retirou de diante deles, e se pôs atrás deles,"
-    },
-    "20": {
-      "título": "",
-      "texto": "e ia entre o exército dos egípcios e o exército de Israel. A nuvem era escuridão para os egípcios, mas iluminava a noite para o povo de Israel, assim que, durante toda a noite, os dois exércitos não puderam se aproximar."
-    },
-    "21": {
-      "título": "",
-      "texto": "Então Moisés estendeu a mão sobre o mar, e o Senhor , por um forte vento leste que soprou toda aquela noite, fez com que o mar se retirasse, tornando-se terra seca, e as águas foram divididas."
-    },
-    "22": {
-      "título": "",
-      "texto": "Os filhos de Israel entraram pelo meio do mar em seco, e as águas foram qual muralha à direita e à esquerda deles."
-    },
-    "23": {
-      "título": "",
-      "texto": "Os egípcios que os perseguiam entraram atrás deles, todos os cavalos de Faraó, os seus carros de guerra e os seus cavaleiros, até o meio do mar."
-    },
-    "24": {
-      "título": "",
-      "texto": "Na vigília da manhã, o Senhor , na coluna de fogo e de nuvem, viu o acampamento dos egípcios e criou alvoroço no acampamento dos egípcios;"
-    },
-    "25": {
-      "título": "",
-      "texto": "emperrou as rodas dos carros dos egípcios, fazendo com que andassem com dificuldade. Então os egípcios disseram:"
-    },
-    "26": {
-      "título": "Os egípcios morrem no mar",
-      "texto": "O Senhor disse a Moisés:"
-    },
-    "27": {
-      "título": "",
-      "texto": "Então Moisés estendeu a mão sobre o mar, e o mar, ao romper da manhã, retomou a sua força. Os egípcios fugiram de encontro a ele, e o Senhor jogou os egípcios para dentro do mar."
-    },
-    "28": {
-      "título": "",
-      "texto": "As águas voltaram e cobriram os carros de guerra e os cavaleiros de todo o exército de Faraó, que os haviam seguido no mar; nem ao menos um deles escapou com vida."
-    },
-    "29": {
-      "título": "",
-      "texto": "Mas os filhos de Israel caminhavam a pé enxuto pelo meio do mar; e as águas lhes eram quais muralhas, à sua direita e à sua esquerda."
-    },
-    "30": {
-      "título": "",
-      "texto": "Assim o Senhor livrou Israel, naquele dia, das mãos dos egípcios; e Israel viu os egípcios mortos na praia do mar."
-    },
-    "31": {
-      "título": "",
-      "texto": "E Israel viu o grande poder que o Senhor havia usado contra os egípcios; e o povo temeu o Senhor e confiou no Senhor e em Moisés, seu servo."
+    "versiculos": {
+        "1": "O Senhor disse a Moisés:",
+        "2": "— Diga aos filhos de Israel que voltem e se acampem diante de Pi-Hairote, entre Migdol e o mar, diante de Baal-Zefom; em frente desse lugar, junto ao mar, vocês acamparão.",
+        "3": "Então Faraó dirá a respeito dos filhos de Israel: “Estão desorientados na terra, presos no deserto.”",
+        "4": "Eu vou endurecer o coração de Faraó, para que os persiga, e serei glorificado em Faraó e em todo o seu exército. E os egípcios saberão que eu sou o Senhor .",
+        "5": "Quando foi anunciado ao rei do Egito que o povo fugia, ele e os seus oficiais mudaram de ideia a respeito do povo. Disseram:",
+        "6": "E Faraó aprontou o seu carro de guerra e levou consigo o seu povo.",
+        "7": "Levou também seiscentos carros de guerra escolhidos e todos os outros carros de guerra do Egito com capitães sobre todos eles.",
+        "8": "Porque o Senhor endureceu o coração de Faraó, rei do Egito, para que perseguisse os filhos de Israel. Porém os filhos de Israel saíram, marchando corajosamente.",
+        "9": "Os egípcios os perseguiram, com todos os cavalos e carros de guerra de Faraó, os seus cavaleiros e o seu exército, e os alcançaram acampados junto ao mar, perto de Pi-Hairote, diante de Baal-Zefom.",
+        "10": "E, chegando Faraó, os filhos de Israel levantaram os olhos e eis que os egípcios vinham atrás deles, e ficaram com muito medo. Então os filhos de Israel clamaram ao Senhor .",
+        "11": "Disseram a Moisés:",
+        "12": "Não foi isso que dissemos a você no Egito: “Deixe-nos em paz, para que sirvamos os egípcios”? Pois teria sido melhor para nós servir os egípcios do que morrer no deserto.",
+        "13": "Moisés, porém, respondeu ao povo:",
+        "14": "O Senhor lutará por vocês; fiquem calmos.",
+        "15": "O Senhor disse a Moisés:",
+        "16": "E você, levante o seu bordão e estenda a mão sobre o mar. As águas se dividirão, para que os filhos de Israel passem pelo meio do mar em seco.",
+        "17": "Eis que vou endurecer o coração dos egípcios, para que venham atrás de vocês e entrem no mar. Serei glorificado em Faraó e em todo o seu exército, nos seus carros de guerra e nos seus cavaleiros;",
+        "18": "e os egípcios saberão que eu sou o Senhor , quando for glorificado em Faraó, nos seus carros de guerra e nos seus cavaleiros.",
+        "19": "Então o Anjo de Deus, que ia adiante do exército de Israel, se retirou e passou para trás deles. Também a coluna de nuvem se retirou de diante deles, e se pôs atrás deles,",
+        "20": "e ia entre o exército dos egípcios e o exército de Israel. A nuvem era escuridão para os egípcios, mas iluminava a noite para o povo de Israel, assim que, durante toda a noite, os dois exércitos não puderam se aproximar.",
+        "21": "Então Moisés estendeu a mão sobre o mar, e o Senhor , por um forte vento leste que soprou toda aquela noite, fez com que o mar se retirasse, tornando-se terra seca, e as águas foram divididas.",
+        "22": "Os filhos de Israel entraram pelo meio do mar em seco, e as águas foram qual muralha à direita e à esquerda deles.",
+        "23": "Os egípcios que os perseguiam entraram atrás deles, todos os cavalos de Faraó, os seus carros de guerra e os seus cavaleiros, até o meio do mar.",
+        "24": "Na vigília da manhã, o Senhor , na coluna de fogo e de nuvem, viu o acampamento dos egípcios e criou alvoroço no acampamento dos egípcios;",
+        "25": "emperrou as rodas dos carros dos egípcios, fazendo com que andassem com dificuldade. Então os egípcios disseram:",
+        "26": "O Senhor disse a Moisés:",
+        "27": "Então Moisés estendeu a mão sobre o mar, e o mar, ao romper da manhã, retomou a sua força. Os egípcios fugiram de encontro a ele, e o Senhor jogou os egípcios para dentro do mar.",
+        "28": "As águas voltaram e cobriram os carros de guerra e os cavaleiros de todo o exército de Faraó, que os haviam seguido no mar; nem ao menos um deles escapou com vida.",
+        "29": "Mas os filhos de Israel caminhavam a pé enxuto pelo meio do mar; e as águas lhes eram quais muralhas, à sua direita e à sua esquerda.",
+        "30": "Assim o Senhor livrou Israel, naquele dia, das mãos dos egípcios; e Israel viu os egípcios mortos na praia do mar.",
+        "31": "E Israel viu o grande poder que o Senhor havia usado contra os egípcios; e o povo temeu o Senhor e confiou no Senhor e em Moisés, seu servo."
     }
-  }
 }

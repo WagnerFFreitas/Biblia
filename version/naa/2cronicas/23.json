@@ -1,90 +1,32 @@
 {
-  "livro": "2 Crônicas",
-  "capítulo": 23,
-  "versículos": {
-    "1": {
-      "título": "Joás é ungido rei de Judá",
-      "texto": "No sétimo ano, o sacerdote Joiada se animou e entrou em aliança com os capitães de cem: Azarias, filho de Jeroão, Ismael, filho de Joanã, Azarias, filho de Obede, Maaseias, filho de Adaías, e Elisafate, filho de Zicri."
+    "livro": "2 Crônicas",
+    "capitulo": 23,
+    "titulos": {
+        "1": "Joás é ungido rei de Judá",
+        "12": "A morte de Atalia",
+        "16": "A aliança de Joiada"
     },
-    "2": {
-      "título": "",
-      "texto": "Estes percorreram Judá, congregaram os levitas de todas as cidades de Judá e os chefes das famílias de Israel e vieram para Jerusalém."
-    },
-    "3": {
-      "título": "",
-      "texto": "Toda essa congregação fez aliança com o rei na Casa de Deus. Então Joiada lhes disse:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Isto é o que vocês devem fazer: uma terça parte de vocês, sacerdotes e levitas, que entram de serviço no sábado, servirá de guarda dos portões do templo;"
-    },
-    "5": {
-      "título": "",
-      "texto": "outra terça parte estará no palácio real; e a outra terça parte, no Portão do Fundamento; e todo o povo estará nos pátios da Casa do Senhor ."
-    },
-    "6": {
-      "título": "",
-      "texto": "Que ninguém entre na Casa do Senhor , a não ser os sacerdotes e os levitas que ministram. Estes poderão entrar, porque são santos, mas todo o povo guardará o preceito do Senhor ."
-    },
-    "7": {
-      "título": "",
-      "texto": "Os levitas devem rodear o rei, cada um de armas na mão. E, se alguém quiser entrar no templo, que seja morto. Vocês devem acompanhar o rei aonde quer que ele for."
-    },
-    "8": {
-      "título": "",
-      "texto": "Os levitas e todo o Judá fizeram tudo o que o sacerdote Joiada lhes havia ordenado. Cada um reuniu os seus soldados, tanto os que entravam de serviço no sábado como os que saíam de serviço no sábado, porque o sacerdote Joiada não havia dispensado nenhuma das turmas."
-    },
-    "9": {
-      "título": "",
-      "texto": "O sacerdote Joiada entregou aos capitães de cem as lanças, os escudos e os escudos menores que haviam sido do rei Davi e que estavam na Casa de Deus."
-    },
-    "10": {
-      "título": "",
-      "texto": "Dispôs todo o povo, cada um de armas na mão, desde o lado direito do templo até o seu lado esquerdo, e até o altar, e até o templo, para rodear o rei."
-    },
-    "11": {
-      "título": "",
-      "texto": "Então trouxeram para fora o filho do rei, puseram a coroa na cabeça dele, entregaram-lhe o Livro do Testemunho e o constituíram rei. Joiada e seus filhos o ungiram e gritaram:"
-    },
-    "12": {
-      "título": "A morte de Atalia",
-      "texto": "Quando a rainha Atalia ouviu o barulho do povo que corria e louvava o rei, veio para onde o povo estava, na Casa do Senhor ."
-    },
-    "13": {
-      "título": "",
-      "texto": "Olhou, e eis que o rei estava junto à coluna, à entrada. Os capitães e os tocadores de trombetas estavam ao lado do rei, e todo o povo da terra se alegrava e tocava trombetas. Também os cantores com os instrumentos musicais dirigiam o canto de louvores. Então Atalia rasgou as suas roupas e gritou:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Porém o sacerdote Joiada trouxe para fora os capitães que comandavam as tropas e disse-lhes:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Então eles a prenderam; e ela, pelo caminho da entrada dos cavalos, foi para o palácio real, onde a mataram."
-    },
-    "16": {
-      "título": "A aliança de Joiada",
-      "texto": "Joiada fez uma aliança entre si mesmo, todo o povo e o rei, para serem eles o povo do Senhor ."
-    },
-    "17": {
-      "título": "",
-      "texto": "Então todo o povo entrou no templo de Baal e o derrubaram, despedaçando os altares e as imagens de Baal. Matã, o sacerdote de Baal, foi morto diante dos altares."
-    },
-    "18": {
-      "título": "",
-      "texto": "Joiada entregou a superintendência da Casa do Senhor nas mãos dos sacerdotes levitas, que Davi tinha organizado em grupos para cuidarem da Casa do Senhor , para oferecerem os holocaustos do Senhor , como está escrito na Lei de Moisés, com alegria e com canto, segundo a instituição de Davi."
-    },
-    "19": {
-      "título": "",
-      "texto": "Colocou porteiros junto aos portões da Casa do Senhor , para que nela não entrasse ninguém que de alguma forma fosse impuro."
-    },
-    "20": {
-      "título": "",
-      "texto": "Reuniu os capitães de cem, os nobres, os governadores do povo e todo o povo da terra, e todos estes conduziram o rei da Casa do Senhor até o palácio real, passando pelo portão superior. E assentaram Joás no trono do reino."
-    },
-    "21": {
-      "título": "",
-      "texto": "Todo o povo da terra se alegrou, e a cidade ficou tranquila, depois que mataram Atalia à espada."
+    "versiculos": {
+        "1": "No sétimo ano, o sacerdote Joiada se animou e entrou em aliança com os capitães de cem: Azarias, filho de Jeroão, Ismael, filho de Joanã, Azarias, filho de Obede, Maaseias, filho de Adaías, e Elisafate, filho de Zicri.",
+        "2": "Estes percorreram Judá, congregaram os levitas de todas as cidades de Judá e os chefes das famílias de Israel e vieram para Jerusalém.",
+        "3": "Toda essa congregação fez aliança com o rei na Casa de Deus. Então Joiada lhes disse:",
+        "4": "Isto é o que vocês devem fazer: uma terça parte de vocês, sacerdotes e levitas, que entram de serviço no sábado, servirá de guarda dos portões do templo;",
+        "5": "outra terça parte estará no palácio real; e a outra terça parte, no Portão do Fundamento; e todo o povo estará nos pátios da Casa do Senhor .",
+        "6": "Que ninguém entre na Casa do Senhor , a não ser os sacerdotes e os levitas que ministram. Estes poderão entrar, porque são santos, mas todo o povo guardará o preceito do Senhor .",
+        "7": "Os levitas devem rodear o rei, cada um de armas na mão. E, se alguém quiser entrar no templo, que seja morto. Vocês devem acompanhar o rei aonde quer que ele for.",
+        "8": "Os levitas e todo o Judá fizeram tudo o que o sacerdote Joiada lhes havia ordenado. Cada um reuniu os seus soldados, tanto os que entravam de serviço no sábado como os que saíam de serviço no sábado, porque o sacerdote Joiada não havia dispensado nenhuma das turmas.",
+        "9": "O sacerdote Joiada entregou aos capitães de cem as lanças, os escudos e os escudos menores que haviam sido do rei Davi e que estavam na Casa de Deus.",
+        "10": "Dispôs todo o povo, cada um de armas na mão, desde o lado direito do templo até o seu lado esquerdo, e até o altar, e até o templo, para rodear o rei.",
+        "11": "Então trouxeram para fora o filho do rei, puseram a coroa na cabeça dele, entregaram-lhe o Livro do Testemunho e o constituíram rei. Joiada e seus filhos o ungiram e gritaram:",
+        "12": "Quando a rainha Atalia ouviu o barulho do povo que corria e louvava o rei, veio para onde o povo estava, na Casa do Senhor .",
+        "13": "Olhou, e eis que o rei estava junto à coluna, à entrada. Os capitães e os tocadores de trombetas estavam ao lado do rei, e todo o povo da terra se alegrava e tocava trombetas. Também os cantores com os instrumentos musicais dirigiam o canto de louvores. Então Atalia rasgou as suas roupas e gritou:",
+        "14": "Porém o sacerdote Joiada trouxe para fora os capitães que comandavam as tropas e disse-lhes:",
+        "15": "Então eles a prenderam; e ela, pelo caminho da entrada dos cavalos, foi para o palácio real, onde a mataram.",
+        "16": "Joiada fez uma aliança entre si mesmo, todo o povo e o rei, para serem eles o povo do Senhor .",
+        "17": "Então todo o povo entrou no templo de Baal e o derrubaram, despedaçando os altares e as imagens de Baal. Matã, o sacerdote de Baal, foi morto diante dos altares.",
+        "18": "Joiada entregou a superintendência da Casa do Senhor nas mãos dos sacerdotes levitas, que Davi tinha organizado em grupos para cuidarem da Casa do Senhor , para oferecerem os holocaustos do Senhor , como está escrito na Lei de Moisés, com alegria e com canto, segundo a instituição de Davi.",
+        "19": "Colocou porteiros junto aos portões da Casa do Senhor , para que nela não entrasse ninguém que de alguma forma fosse impuro.",
+        "20": "Reuniu os capitães de cem, os nobres, os governadores do povo e todo o povo da terra, e todos estes conduziram o rei da Casa do Senhor até o palácio real, passando pelo portão superior. E assentaram Joás no trono do reino.",
+        "21": "Todo o povo da terra se alegrou, e a cidade ficou tranquila, depois que mataram Atalia à espada."
     }
-  }
 }

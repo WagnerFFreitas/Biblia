@@ -1,166 +1,49 @@
 {
-  "livro": "Juízes",
-  "capítulo": 6,
-  "versículos": {
-    "1": {
-      "título": "Gideão",
-      "texto": "Os filhos de Israel fizeram o que era mau aos olhos do Senhor e por isso o Senhor os entregou nas mãos dos midianitas durante sete anos."
+    "livro": "Juízes",
+    "capitulo": 6,
+    "titulos": {
+        "1": "Gideão"
     },
-    "2": {
-      "título": "",
-      "texto": "Os midianitas prevaleceram contra Israel. E, por causa dos midianitas, os filhos de Israel fizeram para si as covas que estão nos montes, as cavernas e as fortificações."
-    },
-    "3": {
-      "título": "",
-      "texto": "Porque, cada vez que os israelitas semeavam, os midianitas, os amalequitas e os povos do Oriente os atacavam."
-    },
-    "4": {
-      "título": "",
-      "texto": "Acampavam em Israel, destruindo os produtos da terra até a vizinhança de Gaza, e não deixavam em Israel sustento algum, nem ovelhas, nem bois, nem jumentos."
-    },
-    "5": {
-      "título": "",
-      "texto": "Pois vinham com o seu gado e as suas tendas, como uma nuvem de gafanhotos. Eram tantos, que não se podiam contar, nem a eles nem aos seus camelos; e entravam na terra para a destruir."
-    },
-    "6": {
-      "título": "",
-      "texto": "Assim, Israel ficou muito debilitado com a presença dos midianitas. Então os filhos de Israel clamaram ao Senhor ."
-    },
-    "7": {
-      "título": "",
-      "texto": "Quando os filhos de Israel clamaram ao Senhor por causa dos midianitas,"
-    },
-    "8": {
-      "título": "",
-      "texto": "o Senhor lhes enviou um profeta, que lhes disse:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Eu os livrei das mãos dos egípcios e das mãos de todos os opressores. Eu os expulsei e dei a vocês a terra deles."
-    },
-    "10": {
-      "título": "",
-      "texto": "E disse: ‘Eu sou o Senhor , o Deus de vocês; não adorem os deuses dos amorreus, em cuja terra vocês estão morando.’ Mas vocês não deram ouvidos à minha voz.”"
-    },
-    "11": {
-      "título": "",
-      "texto": "Então o Anjo do Senhor veio e sentou-se debaixo do carvalho que está em Ofra, que pertencia a Joás, da família de Abiezer. Gideão, filho de Joás, estava malhando o trigo no lagar, para o pôr a salvo dos midianitas."
-    },
-    "12": {
-      "título": "",
-      "texto": "Então o Anjo do Senhor lhe apareceu e lhe disse:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Gideão respondeu:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Então o Senhor se virou para Gideão e disse:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Gideão respondeu:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Mas o Senhor disse:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Gideão respondeu:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Peço que não te afastes daqui até que eu volte, traga a minha oferta e a coloque diante de ti."
-    },
-    "19": {
-      "título": "",
-      "texto": "Gideão entrou em casa, preparou um cabrito e fez pães sem fermento com vinte litros de farinha. Pôs a carne num cesto, e o caldo, numa panela. Depois, trouxe tudo até debaixo do carvalho e o entregou ao Anjo."
-    },
-    "20": {
-      "título": "",
-      "texto": "Porém o Anjo de Deus lhe disse:"
-    },
-    "21": {
-      "título": "",
-      "texto": "Então o Anjo do Senhor estendeu a ponta do cajado que trazia na mão e tocou a carne e os pães sem fermento. Saiu fogo da rocha e queimou a carne e os pães. E o Anjo do Senhor desapareceu da presença dele."
-    },
-    "22": {
-      "título": "",
-      "texto": "Quando Gideão viu que era o Anjo do Senhor , disse:"
-    },
-    "23": {
-      "título": "",
-      "texto": "Mas o Senhor lhe disse:"
-    },
-    "24": {
-      "título": "",
-      "texto": "Então Gideão edificou ali um altar ao Senhor e lhe deu o nome de “O Senhor É Paz”. Até o dia de hoje esse altar está em Ofra, que pertence à família de Abiezer."
-    },
-    "25": {
-      "título": "",
-      "texto": "Naquela mesma noite, o Senhor disse a Gideão:"
-    },
-    "26": {
-      "título": "",
-      "texto": "No alto desse lugar fortificado faça para o Senhor , seu Deus, um altar em camadas de pedra. Depois, pegue o segundo touro e ofereça-o em holocausto com a lenha do poste da deusa Aserá que você irá cortar."
-    },
-    "27": {
-      "título": "",
-      "texto": "Então Gideão levou dez homens dos seus servos e fez como o Senhor lhe havia falado. Mas, porque teve medo da casa de seu pai e dos homens daquela cidade, não o fez de dia, mas de noite."
-    },
-    "28": {
-      "título": "",
-      "texto": "De madrugada, quando os homens daquela cidade se levantaram, eis que o altar de Baal estava derrubado, e o poste da deusa Aserá que estava junto dele, cortado; e o referido segundo touro tinha sido oferecido no altar que havia sido edificado."
-    },
-    "29": {
-      "título": "",
-      "texto": "E diziam uns aos outros:"
-    },
-    "30": {
-      "título": "",
-      "texto": "Então os homens daquela cidade disseram a Joás:"
-    },
-    "31": {
-      "título": "",
-      "texto": "Porém Joás disse a todos os que se puseram contra ele:"
-    },
-    "32": {
-      "título": "",
-      "texto": "Naquele dia Gideão passou a ser chamado de Jerubaal, porque foi dito: “Que Baal defenda a sua causa contra ele, pois foi ele quem derrubou o seu altar.”"
-    },
-    "33": {
-      "título": "",
-      "texto": "Todos os midianitas, amalequitas e povos do Oriente se ajuntaram, passaram o Jordão e acamparam no vale de Jezreel."
-    },
-    "34": {
-      "título": "",
-      "texto": "Então o Espírito do Senhor revestiu Gideão, que fez soar o alarme, convocando os homens da família de Abiezer a segui-lo."
-    },
-    "35": {
-      "título": "",
-      "texto": "Enviou mensageiros por toda a tribo de Manassés, que também foi convocada a segui-lo. Enviou ainda mensageiros a Aser, a Zebulom e a Naftali, que foram se encontrar com ele."
-    },
-    "36": {
-      "título": "",
-      "texto": "Então Gideão se dirigiu a Deus, dizendo:"
-    },
-    "37": {
-      "título": "",
-      "texto": "eis que eu porei uma porção de lã na eira. Se o orvalho estiver somente nela, e a terra ao redor estiver seca, então saberei que irás livrar Israel por meio de mim, como disseste."
-    },
-    "38": {
-      "título": "",
-      "texto": "E assim aconteceu. No outro dia, Gideão se levantou de madrugada e, apertando a lã, do orvalho que havia nela espremeu uma taça cheia de água."
-    },
-    "39": {
-      "título": "",
-      "texto": "Gideão se dirigiu a Deus mais uma vez, dizendo:"
-    },
-    "40": {
-      "título": "",
-      "texto": "E Deus assim o fez naquela noite, pois só a lã estava seca, e sobre a terra ao redor dela havia orvalho."
+    "versiculos": {
+        "1": "Os filhos de Israel fizeram o que era mau aos olhos do Senhor e por isso o Senhor os entregou nas mãos dos midianitas durante sete anos.",
+        "2": "Os midianitas prevaleceram contra Israel. E, por causa dos midianitas, os filhos de Israel fizeram para si as covas que estão nos montes, as cavernas e as fortificações.",
+        "3": "Porque, cada vez que os israelitas semeavam, os midianitas, os amalequitas e os povos do Oriente os atacavam.",
+        "4": "Acampavam em Israel, destruindo os produtos da terra até a vizinhança de Gaza, e não deixavam em Israel sustento algum, nem ovelhas, nem bois, nem jumentos.",
+        "5": "Pois vinham com o seu gado e as suas tendas, como uma nuvem de gafanhotos. Eram tantos, que não se podiam contar, nem a eles nem aos seus camelos; e entravam na terra para a destruir.",
+        "6": "Assim, Israel ficou muito debilitado com a presença dos midianitas. Então os filhos de Israel clamaram ao Senhor .",
+        "7": "Quando os filhos de Israel clamaram ao Senhor por causa dos midianitas,",
+        "8": "o Senhor lhes enviou um profeta, que lhes disse:",
+        "9": "Eu os livrei das mãos dos egípcios e das mãos de todos os opressores. Eu os expulsei e dei a vocês a terra deles.",
+        "10": "E disse: ‘Eu sou o Senhor , o Deus de vocês; não adorem os deuses dos amorreus, em cuja terra vocês estão morando.’ Mas vocês não deram ouvidos à minha voz.”",
+        "11": "Então o Anjo do Senhor veio e sentou-se debaixo do carvalho que está em Ofra, que pertencia a Joás, da família de Abiezer. Gideão, filho de Joás, estava malhando o trigo no lagar, para o pôr a salvo dos midianitas.",
+        "12": "Então o Anjo do Senhor lhe apareceu e lhe disse:",
+        "13": "Gideão respondeu:",
+        "14": "Então o Senhor se virou para Gideão e disse:",
+        "15": "Gideão respondeu:",
+        "16": "Mas o Senhor disse:",
+        "17": "Gideão respondeu:",
+        "18": "Peço que não te afastes daqui até que eu volte, traga a minha oferta e a coloque diante de ti.",
+        "19": "Gideão entrou em casa, preparou um cabrito e fez pães sem fermento com vinte litros de farinha. Pôs a carne num cesto, e o caldo, numa panela. Depois, trouxe tudo até debaixo do carvalho e o entregou ao Anjo.",
+        "20": "Porém o Anjo de Deus lhe disse:",
+        "21": "Então o Anjo do Senhor estendeu a ponta do cajado que trazia na mão e tocou a carne e os pães sem fermento. Saiu fogo da rocha e queimou a carne e os pães. E o Anjo do Senhor desapareceu da presença dele.",
+        "22": "Quando Gideão viu que era o Anjo do Senhor , disse:",
+        "23": "Mas o Senhor lhe disse:",
+        "24": "Então Gideão edificou ali um altar ao Senhor e lhe deu o nome de “O Senhor É Paz”. Até o dia de hoje esse altar está em Ofra, que pertence à família de Abiezer.",
+        "25": "Naquela mesma noite, o Senhor disse a Gideão:",
+        "26": "No alto desse lugar fortificado faça para o Senhor , seu Deus, um altar em camadas de pedra. Depois, pegue o segundo touro e ofereça-o em holocausto com a lenha do poste da deusa Aserá que você irá cortar.",
+        "27": "Então Gideão levou dez homens dos seus servos e fez como o Senhor lhe havia falado. Mas, porque teve medo da casa de seu pai e dos homens daquela cidade, não o fez de dia, mas de noite.",
+        "28": "De madrugada, quando os homens daquela cidade se levantaram, eis que o altar de Baal estava derrubado, e o poste da deusa Aserá que estava junto dele, cortado; e o referido segundo touro tinha sido oferecido no altar que havia sido edificado.",
+        "29": "E diziam uns aos outros:",
+        "30": "Então os homens daquela cidade disseram a Joás:",
+        "31": "Porém Joás disse a todos os que se puseram contra ele:",
+        "32": "Naquele dia Gideão passou a ser chamado de Jerubaal, porque foi dito: “Que Baal defenda a sua causa contra ele, pois foi ele quem derrubou o seu altar.”",
+        "33": "Todos os midianitas, amalequitas e povos do Oriente se ajuntaram, passaram o Jordão e acamparam no vale de Jezreel.",
+        "34": "Então o Espírito do Senhor revestiu Gideão, que fez soar o alarme, convocando os homens da família de Abiezer a segui-lo.",
+        "35": "Enviou mensageiros por toda a tribo de Manassés, que também foi convocada a segui-lo. Enviou ainda mensageiros a Aser, a Zebulom e a Naftali, que foram se encontrar com ele.",
+        "36": "Então Gideão se dirigiu a Deus, dizendo:",
+        "37": "eis que eu porei uma porção de lã na eira. Se o orvalho estiver somente nela, e a terra ao redor estiver seca, então saberei que irás livrar Israel por meio de mim, como disseste.",
+        "38": "E assim aconteceu. No outro dia, Gideão se levantou de madrugada e, apertando a lã, do orvalho que havia nela espremeu uma taça cheia de água.",
+        "39": "Gideão se dirigiu a Deus mais uma vez, dizendo:",
+        "40": "E Deus assim o fez naquela noite, pois só a lã estava seca, e sobre a terra ao redor dela havia orvalho."
     }
-  }
 }

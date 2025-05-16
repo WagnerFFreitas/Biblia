@@ -1,210 +1,64 @@
 {
-  "livro": "João",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "A encarnação do Verbo",
-      "texto": "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus."
+    "livro": "João",
+    "capitulo": 1,
+    "titulos": {
+        "1": "A encarnação do Verbo",
+        "19": "O testemunho de João Batista",
+        "29": "O Cordeiro de Deus",
+        "35": "Os primeiros discípulos de Jesus",
+        "43": "Filipe e Natanael"
     },
-    "2": {
-      "título": "",
-      "texto": "Ele estava no princípio com Deus."
-    },
-    "3": {
-      "título": "",
-      "texto": "Todas as coisas foram feitas por ele, e, sem ele, nada do que foi feito se fez."
-    },
-    "4": {
-      "título": "",
-      "texto": "A vida estava nele e a vida era a luz dos homens."
-    },
-    "5": {
-      "título": "",
-      "texto": "A luz resplandece nas trevas, e as trevas não prevaleceram contra ela."
-    },
-    "6": {
-      "título": "",
-      "texto": "Houve um homem enviado por Deus, e o nome dele era João."
-    },
-    "7": {
-      "título": "",
-      "texto": "Este veio como testemunha para testificar a respeito da luz, para que todos viessem a crer por meio dele."
-    },
-    "8": {
-      "título": "",
-      "texto": "Ele não era a luz, mas veio para dar testemunho da luz,"
-    },
-    "9": {
-      "título": "",
-      "texto": "a verdadeira luz, que, vinda ao mundo, ilumina toda a humanidade."
-    },
-    "10": {
-      "título": "",
-      "texto": "O Verbo estava no mundo, o mundo foi feito por meio dele, mas o mundo não o conheceu."
-    },
-    "11": {
-      "título": "",
-      "texto": "Veio para o que era seu, e os seus não o receberam."
-    },
-    "12": {
-      "título": "",
-      "texto": "Mas, a todos quantos o receberam, deu-lhes o poder de serem feitos filhos de Deus, a saber, aos que creem no seu nome,"
-    },
-    "13": {
-      "título": "",
-      "texto": "os quais não nasceram do sangue, nem da vontade da carne, nem da vontade do homem, mas de Deus."
-    },
-    "14": {
-      "título": "",
-      "texto": "E o Verbo se fez carne e habitou entre nós, cheio de graça e de verdade, e vimos a sua glória, glória como do unigênito do Pai."
-    },
-    "15": {
-      "título": "",
-      "texto": "João dá testemunho a respeito dele e exclama:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Porque todos nós temos recebido da sua plenitude e graça sobre graça."
-    },
-    "17": {
-      "título": "",
-      "texto": "Porque a lei foi dada por meio de Moisés; a graça e a verdade vieram por meio de Jesus Cristo."
-    },
-    "18": {
-      "título": "",
-      "texto": "Ninguém jamais viu Deus; o Deus unigênito, que está junto do Pai, é quem o revelou."
-    },
-    "19": {
-      "título": "O testemunho de João Batista",
-      "texto": "Este foi o testemunho de João, quando os judeus lhe enviaram de Jerusalém sacerdotes e levitas para perguntar: “Quem é você?”"
-    },
-    "20": {
-      "título": "",
-      "texto": "Ele confessou e não negou; confessou:"
-    },
-    "21": {
-      "título": "",
-      "texto": "Diante disso, lhe perguntaram:"
-    },
-    "22": {
-      "título": "",
-      "texto": "Disseram-lhe, então:"
-    },
-    "23": {
-      "título": "",
-      "texto": "Então ele respondeu:"
-    },
-    "24": {
-      "título": "",
-      "texto": "Ora, os que haviam sido enviados eram do grupo dos fariseus."
-    },
-    "25": {
-      "título": "",
-      "texto": "E perguntaram a João:"
-    },
-    "26": {
-      "título": "",
-      "texto": "João respondeu:"
-    },
-    "27": {
-      "título": "",
-      "texto": "Ele vem depois de mim, mas não sou digno de desamarrar as correias das suas sandálias."
-    },
-    "28": {
-      "título": "",
-      "texto": "Essas coisas aconteceram em Betânia, do outro lado do Jordão, onde João estava batizando."
-    },
-    "29": {
-      "título": "O Cordeiro de Deus",
-      "texto": "No dia seguinte, vendo que Jesus vinha em sua direção, João disse:"
-    },
-    "30": {
-      "título": "",
-      "texto": "Este é aquele a respeito de quem eu falava, quando disse: “Depois de mim vem um homem que é mais importante do que eu, porque já existia antes de mim.”"
-    },
-    "31": {
-      "título": "",
-      "texto": "Eu mesmo não o conhecia, mas vim batizando com água a fim de que ele fosse manifestado a Israel."
-    },
-    "32": {
-      "título": "",
-      "texto": "E João testemunhou, dizendo:"
-    },
-    "33": {
-      "título": "",
-      "texto": "Eu não o conhecia; aquele, porém, que me enviou a batizar com água me disse: “Aquele sobre quem você vir descer e pousar o Espírito, esse é o que batiza com o Espírito Santo.”"
-    },
-    "34": {
-      "título": "",
-      "texto": "Pois eu mesmo vi e dou testemunho de que ele é o Filho de Deus."
-    },
-    "35": {
-      "título": "Os primeiros discípulos de Jesus",
-      "texto": "No dia seguinte, João estava outra vez na companhia de dois dos seus discípulos"
-    },
-    "36": {
-      "título": "",
-      "texto": "e, vendo Jesus passar, disse:"
-    },
-    "37": {
-      "título": "",
-      "texto": "Os dois discípulos, ouvindo-o dizer isso, seguiram Jesus."
-    },
-    "38": {
-      "título": "",
-      "texto": "E Jesus, voltando-se e vendo que o seguiam, disse-lhes:"
-    },
-    "39": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "40": {
-      "título": "",
-      "texto": "André, o irmão de Simão Pedro, era um dos dois que tinham ouvido o testemunho de João e seguido Jesus."
-    },
-    "41": {
-      "título": "",
-      "texto": "Ele encontrou primeiro o seu próprio irmão, Simão, a quem disse:"
-    },
-    "42": {
-      "título": "",
-      "texto": "E o levou a Jesus. Jesus olhou para ele e disse:"
-    },
-    "43": {
-      "título": "Filipe e Natanael",
-      "texto": "No dia seguinte, Jesus resolveu ir para a Galileia e encontrou Filipe, a quem disse:"
-    },
-    "44": {
-      "título": "",
-      "texto": "Esse Filipe era de Betsaida, cidade de André e de Pedro."
-    },
-    "45": {
-      "título": "",
-      "texto": "Filipe encontrou Natanael e lhe disse:"
-    },
-    "46": {
-      "título": "",
-      "texto": "Então Natanael perguntou:"
-    },
-    "47": {
-      "título": "",
-      "texto": "Jesus viu Natanael se aproximar e disse a respeito dele:"
-    },
-    "48": {
-      "título": "",
-      "texto": "Natanael perguntou a Jesus:"
-    },
-    "49": {
-      "título": "",
-      "texto": "Então Natanael exclamou:"
-    },
-    "50": {
-      "título": "",
-      "texto": "Ao que Jesus lhe respondeu:"
-    },
-    "51": {
-      "título": "",
-      "texto": "E acrescentou:"
+    "versiculos": {
+        "1": "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus.",
+        "2": "Ele estava no princípio com Deus.",
+        "3": "Todas as coisas foram feitas por ele, e, sem ele, nada do que foi feito se fez.",
+        "4": "A vida estava nele e a vida era a luz dos homens.",
+        "5": "A luz resplandece nas trevas, e as trevas não prevaleceram contra ela.",
+        "6": "Houve um homem enviado por Deus, e o nome dele era João.",
+        "7": "Este veio como testemunha para testificar a respeito da luz, para que todos viessem a crer por meio dele.",
+        "8": "Ele não era a luz, mas veio para dar testemunho da luz,",
+        "9": "a verdadeira luz, que, vinda ao mundo, ilumina toda a humanidade.",
+        "10": "O Verbo estava no mundo, o mundo foi feito por meio dele, mas o mundo não o conheceu.",
+        "11": "Veio para o que era seu, e os seus não o receberam.",
+        "12": "Mas, a todos quantos o receberam, deu-lhes o poder de serem feitos filhos de Deus, a saber, aos que creem no seu nome,",
+        "13": "os quais não nasceram do sangue, nem da vontade da carne, nem da vontade do homem, mas de Deus.",
+        "14": "E o Verbo se fez carne e habitou entre nós, cheio de graça e de verdade, e vimos a sua glória, glória como do unigênito do Pai.",
+        "15": "João dá testemunho a respeito dele e exclama:",
+        "16": "Porque todos nós temos recebido da sua plenitude e graça sobre graça.",
+        "17": "Porque a lei foi dada por meio de Moisés; a graça e a verdade vieram por meio de Jesus Cristo.",
+        "18": "Ninguém jamais viu Deus; o Deus unigênito, que está junto do Pai, é quem o revelou.",
+        "19": "Este foi o testemunho de João, quando os judeus lhe enviaram de Jerusalém sacerdotes e levitas para perguntar: “Quem é você?”",
+        "20": "Ele confessou e não negou; confessou:",
+        "21": "Diante disso, lhe perguntaram:",
+        "22": "Disseram-lhe, então:",
+        "23": "Então ele respondeu:",
+        "24": "Ora, os que haviam sido enviados eram do grupo dos fariseus.",
+        "25": "E perguntaram a João:",
+        "26": "João respondeu:",
+        "27": "Ele vem depois de mim, mas não sou digno de desamarrar as correias das suas sandálias.",
+        "28": "Essas coisas aconteceram em Betânia, do outro lado do Jordão, onde João estava batizando.",
+        "29": "No dia seguinte, vendo que Jesus vinha em sua direção, João disse:",
+        "30": "Este é aquele a respeito de quem eu falava, quando disse: “Depois de mim vem um homem que é mais importante do que eu, porque já existia antes de mim.”",
+        "31": "Eu mesmo não o conhecia, mas vim batizando com água a fim de que ele fosse manifestado a Israel.",
+        "32": "E João testemunhou, dizendo:",
+        "33": "Eu não o conhecia; aquele, porém, que me enviou a batizar com água me disse: “Aquele sobre quem você vir descer e pousar o Espírito, esse é o que batiza com o Espírito Santo.”",
+        "34": "Pois eu mesmo vi e dou testemunho de que ele é o Filho de Deus.",
+        "35": "No dia seguinte, João estava outra vez na companhia de dois dos seus discípulos",
+        "36": "e, vendo Jesus passar, disse:",
+        "37": "Os dois discípulos, ouvindo-o dizer isso, seguiram Jesus.",
+        "38": "E Jesus, voltando-se e vendo que o seguiam, disse-lhes:",
+        "39": "Jesus respondeu:",
+        "40": "André, o irmão de Simão Pedro, era um dos dois que tinham ouvido o testemunho de João e seguido Jesus.",
+        "41": "Ele encontrou primeiro o seu próprio irmão, Simão, a quem disse:",
+        "42": "E o levou a Jesus. Jesus olhou para ele e disse:",
+        "43": "No dia seguinte, Jesus resolveu ir para a Galileia e encontrou Filipe, a quem disse:",
+        "44": "Esse Filipe era de Betsaida, cidade de André e de Pedro.",
+        "45": "Filipe encontrou Natanael e lhe disse:",
+        "46": "Então Natanael perguntou:",
+        "47": "Jesus viu Natanael se aproximar e disse a respeito dele:",
+        "48": "Natanael perguntou a Jesus:",
+        "49": "Então Natanael exclamou:",
+        "50": "Ao que Jesus lhe respondeu:",
+        "51": "E acrescentou:"
     }
-  }
 }

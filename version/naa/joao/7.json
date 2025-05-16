@@ -1,218 +1,70 @@
 {
-  "livro": "João",
-  "capítulo": 7,
-  "versículos": {
-    "1": {
-      "título": "A incredulidade dos irmãos de Jesus",
-      "texto": "Passadas essas coisas, Jesus andava pela Galileia, porque não desejava andar pela Judeia, visto que os judeus queriam matá-lo."
+    "livro": "João",
+    "capitulo": 7,
+    "titulos": {
+        "1": "A incredulidade dos irmãos de Jesus",
+        "10": "Jesus na Festa dos Tabernáculos",
+        "14": "A controvérsia entre Jesus e os judeus",
+        "25": "É Jesus o Cristo?",
+        "32": "Os guardas mandados para prender Jesus",
+        "37": "Jesus, a fonte da água viva",
+        "40": "O povo se divide",
+        "45": "As autoridades não creem",
+        "53": "A mulher adúltera"
     },
-    "2": {
-      "título": "",
-      "texto": "E a festa dos judeus, chamada de Festa dos Tabernáculos, estava próxima."
-    },
-    "3": {
-      "título": "",
-      "texto": "Então os irmãos de Jesus se dirigiram a ele e disseram:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Porque, se alguém quer ser conhecido, não pode realizar os seus feitos em segredo. Já que você faz essas coisas, manifeste-se ao mundo."
-    },
-    "5": {
-      "título": "",
-      "texto": "Acontece que nem mesmo os irmãos de Jesus criam nele."
-    },
-    "6": {
-      "título": "",
-      "texto": "Então Jesus lhes disse:"
-    },
-    "7": {
-      "título": "",
-      "texto": "O mundo não pode odiar vocês, mas a mim ele odeia, porque eu dou testemunho a respeito dele, dizendo que as suas obras são más."
-    },
-    "8": {
-      "título": "",
-      "texto": "Vão vocês para a festa. Eu não vou, porque o meu tempo ainda não se cumpriu."
-    },
-    "9": {
-      "título": "",
-      "texto": "Tendo dito isso, Jesus continuou na Galileia."
-    },
-    "10": {
-      "título": "Jesus na Festa dos Tabernáculos",
-      "texto": "Depois que seus irmãos tinham ido à festa, Jesus também foi, não publicamente, mas em segredo."
-    },
-    "11": {
-      "título": "",
-      "texto": "Ora, os judeus o procuravam na festa e perguntavam:"
-    },
-    "12": {
-      "título": "",
-      "texto": "E havia grande murmuração a respeito de Jesus entre as multidões. Uns diziam:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Entretanto, ninguém falava dele abertamente, por ter medo dos judeus."
-    },
-    "14": {
-      "título": "A controvérsia entre Jesus e os judeus",
-      "texto": "Quando a festa já estava na metade, Jesus foi ao templo e começou a ensinar."
-    },
-    "15": {
-      "título": "",
-      "texto": "Então os judeus se maravilhavam e diziam:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Jesus lhes respondeu:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Se alguém quiser fazer a vontade de Deus, conhecerá a respeito da doutrina, se ela é de Deus ou se eu falo por mim mesmo."
-    },
-    "18": {
-      "título": "",
-      "texto": "Quem fala por si mesmo está buscando a sua própria glória; mas o que busca a glória de quem o enviou, esse é verdadeiro, e nele não há falsidade."
-    },
-    "19": {
-      "título": "",
-      "texto": "Não é fato que Moisés deu a Lei para vocês? Contudo, nenhum de vocês a cumpre. Por que estão querendo me matar?"
-    },
-    "20": {
-      "título": "",
-      "texto": "A multidão respondeu:"
-    },
-    "21": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "22": {
-      "título": "",
-      "texto": "Moisés lhes deu a circuncisão — se bem que ela não vem de Moisés, mas dos patriarcas —, e vocês fazem a circuncisão de um menino até mesmo no sábado."
-    },
-    "23": {
-      "título": "",
-      "texto": "E, se um menino pode ser circuncidado em dia de sábado, para que a Lei de Moisés não seja desrespeitada, por que vocês ficam indignados contra mim, pelo fato de eu ter curado por completo um homem num sábado?"
-    },
-    "24": {
-      "título": "",
-      "texto": "Não julguem segundo a aparência, mas julguem pela reta justiça."
-    },
-    "25": {
-      "título": "É Jesus o Cristo?",
-      "texto": "Alguns de Jerusalém diziam:"
-    },
-    "26": {
-      "título": "",
-      "texto": "Eis que ele fala abertamente, e ninguém lhe diz nada. Será que as autoridades reconhecem de fato que este é o Cristo?"
-    },
-    "27": {
-      "título": "",
-      "texto": "Mas nós sabemos de onde este homem vem. Quando, porém, o Cristo vier, ninguém saberá de onde ele é."
-    },
-    "28": {
-      "título": "",
-      "texto": "Enquanto ensinava no templo, Jesus disse em voz alta:"
-    },
-    "29": {
-      "título": "",
-      "texto": "Eu o conheço, porque venho da parte dele e ele me enviou."
-    },
-    "30": {
-      "título": "",
-      "texto": "Então quiseram prendê-lo, mas ninguém lhe pôs as mãos, porque a sua hora ainda não havia chegado."
-    },
-    "31": {
-      "título": "",
-      "texto": "Porém muitos dentre a multidão creram nele e diziam:"
-    },
-    "32": {
-      "título": "Os guardas mandados para prender Jesus",
-      "texto": "Os fariseus, ouvindo a multidão murmurar essas coisas a respeito de Jesus, juntamente com os principais sacerdotes enviaram guardas para o prender."
-    },
-    "33": {
-      "título": "",
-      "texto": "Jesus disse:"
-    },
-    "34": {
-      "título": "",
-      "texto": "Vocês irão me procurar, mas não me acharão; vocês também não podem ir para onde eu estou."
-    },
-    "35": {
-      "título": "",
-      "texto": "Então os judeus disseram uns aos outros:"
-    },
-    "36": {
-      "título": "",
-      "texto": "Que significa isso que ele diz: “Vocês irão me procurar, mas não me acharão; vocês também não podem ir para onde eu estou?”"
-    },
-    "37": {
-      "título": "Jesus, a fonte da água viva",
-      "texto": "No último dia, o grande dia da festa, Jesus se levantou e disse em voz alta:"
-    },
-    "38": {
-      "título": "",
-      "texto": "Quem crer em mim, como diz a Escritura, do seu interior fluirão rios de água viva."
-    },
-    "39": {
-      "título": "",
-      "texto": "Isso ele disse a respeito do Espírito que os que nele cressem haviam de receber; pois o Espírito até aquele momento não tinha sido dado, porque Jesus ainda não havia sido glorificado."
-    },
-    "40": {
-      "título": "O povo se divide",
-      "texto": "Quando ouviram essas palavras, alguns do meio do povo diziam:"
-    },
-    "41": {
-      "título": "",
-      "texto": "Outros diziam:"
-    },
-    "42": {
-      "título": "",
-      "texto": "Não diz a Escritura que o Cristo vem da descendência de Davi e da aldeia de Belém, de onde era Davi?"
-    },
-    "43": {
-      "título": "",
-      "texto": "Assim, houve divisão entre o povo por causa dele."
-    },
-    "44": {
-      "título": "",
-      "texto": "Alguns queriam prendê-lo, mas ninguém lhe pôs as mãos."
-    },
-    "45": {
-      "título": "As autoridades não creem",
-      "texto": "Os guardas voltaram à presença dos principais sacerdotes e fariseus, e estes lhes perguntaram:"
-    },
-    "46": {
-      "título": "",
-      "texto": "Eles responderam:"
-    },
-    "47": {
-      "título": "",
-      "texto": "Os fariseus disseram aos guardas:"
-    },
-    "48": {
-      "título": "",
-      "texto": "Por acaso alguma das autoridades ou algum dos fariseus creu nele?"
-    },
-    "49": {
-      "título": "",
-      "texto": "Mas esse povo que nada sabe da lei é maldito."
-    },
-    "50": {
-      "título": "",
-      "texto": "Nicodemos, um deles, que antes tinha ido conversar com Jesus, perguntou-lhes:"
-    },
-    "51": {
-      "título": "",
-      "texto": "— Será que a nossa lei condena um homem sem primeiro ouvi-lo e saber o que ele fez?"
-    },
-    "52": {
-      "título": "",
-      "texto": "Eles responderam:"
-    },
-    "53": {
-      "título": "A mulher adúltera",
-      "texto": "E cada um foi para a sua casa."
+    "versiculos": {
+        "1": "Passadas essas coisas, Jesus andava pela Galileia, porque não desejava andar pela Judeia, visto que os judeus queriam matá-lo.",
+        "2": "E a festa dos judeus, chamada de Festa dos Tabernáculos, estava próxima.",
+        "3": "Então os irmãos de Jesus se dirigiram a ele e disseram:",
+        "4": "Porque, se alguém quer ser conhecido, não pode realizar os seus feitos em segredo. Já que você faz essas coisas, manifeste-se ao mundo.",
+        "5": "Acontece que nem mesmo os irmãos de Jesus criam nele.",
+        "6": "Então Jesus lhes disse:",
+        "7": "O mundo não pode odiar vocês, mas a mim ele odeia, porque eu dou testemunho a respeito dele, dizendo que as suas obras são más.",
+        "8": "Vão vocês para a festa. Eu não vou, porque o meu tempo ainda não se cumpriu.",
+        "9": "Tendo dito isso, Jesus continuou na Galileia.",
+        "10": "Depois que seus irmãos tinham ido à festa, Jesus também foi, não publicamente, mas em segredo.",
+        "11": "Ora, os judeus o procuravam na festa e perguntavam:",
+        "12": "E havia grande murmuração a respeito de Jesus entre as multidões. Uns diziam:",
+        "13": "Entretanto, ninguém falava dele abertamente, por ter medo dos judeus.",
+        "14": "Quando a festa já estava na metade, Jesus foi ao templo e começou a ensinar.",
+        "15": "Então os judeus se maravilhavam e diziam:",
+        "16": "Jesus lhes respondeu:",
+        "17": "Se alguém quiser fazer a vontade de Deus, conhecerá a respeito da doutrina, se ela é de Deus ou se eu falo por mim mesmo.",
+        "18": "Quem fala por si mesmo está buscando a sua própria glória; mas o que busca a glória de quem o enviou, esse é verdadeiro, e nele não há falsidade.",
+        "19": "Não é fato que Moisés deu a Lei para vocês? Contudo, nenhum de vocês a cumpre. Por que estão querendo me matar?",
+        "20": "A multidão respondeu:",
+        "21": "Jesus respondeu:",
+        "22": "Moisés lhes deu a circuncisão — se bem que ela não vem de Moisés, mas dos patriarcas —, e vocês fazem a circuncisão de um menino até mesmo no sábado.",
+        "23": "E, se um menino pode ser circuncidado em dia de sábado, para que a Lei de Moisés não seja desrespeitada, por que vocês ficam indignados contra mim, pelo fato de eu ter curado por completo um homem num sábado?",
+        "24": "Não julguem segundo a aparência, mas julguem pela reta justiça.",
+        "25": "Alguns de Jerusalém diziam:",
+        "26": "Eis que ele fala abertamente, e ninguém lhe diz nada. Será que as autoridades reconhecem de fato que este é o Cristo?",
+        "27": "Mas nós sabemos de onde este homem vem. Quando, porém, o Cristo vier, ninguém saberá de onde ele é.",
+        "28": "Enquanto ensinava no templo, Jesus disse em voz alta:",
+        "29": "Eu o conheço, porque venho da parte dele e ele me enviou.",
+        "30": "Então quiseram prendê-lo, mas ninguém lhe pôs as mãos, porque a sua hora ainda não havia chegado.",
+        "31": "Porém muitos dentre a multidão creram nele e diziam:",
+        "32": "Os fariseus, ouvindo a multidão murmurar essas coisas a respeito de Jesus, juntamente com os principais sacerdotes enviaram guardas para o prender.",
+        "33": "Jesus disse:",
+        "34": "Vocês irão me procurar, mas não me acharão; vocês também não podem ir para onde eu estou.",
+        "35": "Então os judeus disseram uns aos outros:",
+        "36": "Que significa isso que ele diz: “Vocês irão me procurar, mas não me acharão; vocês também não podem ir para onde eu estou?”",
+        "37": "No último dia, o grande dia da festa, Jesus se levantou e disse em voz alta:",
+        "38": "Quem crer em mim, como diz a Escritura, do seu interior fluirão rios de água viva.",
+        "39": "Isso ele disse a respeito do Espírito que os que nele cressem haviam de receber; pois o Espírito até aquele momento não tinha sido dado, porque Jesus ainda não havia sido glorificado.",
+        "40": "Quando ouviram essas palavras, alguns do meio do povo diziam:",
+        "41": "Outros diziam:",
+        "42": "Não diz a Escritura que o Cristo vem da descendência de Davi e da aldeia de Belém, de onde era Davi?",
+        "43": "Assim, houve divisão entre o povo por causa dele.",
+        "44": "Alguns queriam prendê-lo, mas ninguém lhe pôs as mãos.",
+        "45": "Os guardas voltaram à presença dos principais sacerdotes e fariseus, e estes lhes perguntaram:",
+        "46": "Eles responderam:",
+        "47": "Os fariseus disseram aos guardas:",
+        "48": "Por acaso alguma das autoridades ou algum dos fariseus creu nele?",
+        "49": "Mas esse povo que nada sabe da lei é maldito.",
+        "50": "Nicodemos, um deles, que antes tinha ido conversar com Jesus, perguntou-lhes:",
+        "51": "— Será que a nossa lei condena um homem sem primeiro ouvi-lo e saber o que ele fez?",
+        "52": "Eles responderam:",
+        "53": "E cada um foi para a sua casa."
     }
-  }
 }

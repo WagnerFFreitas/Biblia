@@ -1,142 +1,47 @@
 {
-  "livro": "1 Reis",
-  "capítulo": 16,
-  "versículos": {
-    "1": {
-      "título": "A profecia de Jeú contra Baasa",
-      "texto": "Então a palavra do Senhor veio a Jeú, filho de Hanani, contra Baasa, dizendo:"
+    "livro": "1 Reis",
+    "capitulo": 16,
+    "titulos": {
+        "1": "A profecia de Jeú contra Baasa",
+        "8": "O reinado de Elá, de Israel. A conspiração de Zinri",
+        "15": "O reinado de Zinri, de Israel",
+        "21": "O reinado de Onri, de Israel",
+        "29": "O reinado de Acabe, de Israel. Seu casamento com Jezabel"
     },
-    "2": {
-      "título": "",
-      "texto": "— Eu o levantei do pó e fiz com que você se tornasse chefe sobre o meu povo de Israel, mas você tem andado no caminho de Jeroboão e tem feito o meu povo de Israel pecar, irritando-me com os seus pecados."
-    },
-    "3": {
-      "título": "",
-      "texto": "Por isso, Baasa, vou exterminar você e os seus descendentes e vou fazer com a sua casa o que fiz com a casa de Jeroboão, filho de Nebate."
-    },
-    "4": {
-      "título": "",
-      "texto": "Se alguém da casa de Baasa morrer na cidade, os cães o comerão; e se alguém morrer no campo, as aves do céu o comerão."
-    },
-    "5": {
-      "título": "",
-      "texto": "Quanto aos demais atos de Baasa, ao que fez e ao seu poder, não está tudo escrito no Livro da História dos Reis de Israel?"
-    },
-    "6": {
-      "título": "",
-      "texto": "Baasa morreu e foi sepultado em Tirza. E Elá, seu filho, reinou em seu lugar."
-    },
-    "7": {
-      "título": "",
-      "texto": "Assim, por meio do profeta Jeú, filho de Hanani, a palavra do Senhor veio contra Baasa e contra a sua descendência, por todo o mal que ele havia feito aos olhos do Senhor , irritando-o com as suas obras e fazendo-se igual à casa de Jeroboão, e também porque matou a casa de Jeroboão."
-    },
-    "8": {
-      "título": "O reinado de Elá, de Israel. A conspiração de Zinri",
-      "texto": "No vigésimo sexto ano do reinado de Asa, rei de Judá, Elá, filho de Baasa, começou a reinar sobre Israel em Tirza; e reinou dois anos."
-    },
-    "9": {
-      "título": "",
-      "texto": "Zinri, seu servo, comandante da metade dos carros de guerra, conspirou contra ele. Elá estava em Tirza, bebendo e embriagando-se na casa de Arsa, seu encarregado em Tirza."
-    },
-    "10": {
-      "título": "",
-      "texto": "Zinri entrou na casa, atacou Elá e o matou, no vigésimo sétimo ano do reinado de Asa, rei de Judá. E Zinri reinou em lugar de Elá."
-    },
-    "11": {
-      "título": "",
-      "texto": "Logo que começou a reinar e se assentou no trono, Zinri matou todos os descendentes de Baasa; não lhe deixou nenhum do sexo masculino, nem dos parentes, nem dos seus amigos."
-    },
-    "12": {
-      "título": "",
-      "texto": "Assim, Zinri exterminou todos os descendentes de Baasa, segundo a palavra do Senhor , anunciada por meio do profeta Jeú, contra Baasa,"
-    },
-    "13": {
-      "título": "",
-      "texto": "por todos os pecados que Baasa e o seu filho Elá cometeram, e pelos pecados que fizeram Israel cometer, irritando o Senhor , Deus de Israel, com os seus ídolos."
-    },
-    "14": {
-      "título": "",
-      "texto": "Quanto aos demais atos de Elá e a tudo o que ele fez, não está tudo escrito no Livro da História dos Reis de Israel?"
-    },
-    "15": {
-      "título": "O reinado de Zinri, de Israel",
-      "texto": "No vigésimo sétimo ano do reinado de Asa, rei de Judá, Zinri reinou sete dias em Tirza. O povo estava acampado contra Gibetom, cidade que pertencia aos filisteus."
-    },
-    "16": {
-      "título": "",
-      "texto": "O povo que estava acampado ouviu dizer: “Zinri conspirou contra o rei e o matou.” Por isso, naquele mesmo dia, no arraial, todo o Israel constituiu rei sobre Israel a Onri, comandante do exército."
-    },
-    "17": {
-      "título": "",
-      "texto": "Onri saiu de Gibetom, estando todo o Israel com ele, e sitiou Tirza."
-    },
-    "18": {
-      "título": "",
-      "texto": "Quando Zinri viu que a cidade havia sido tomada, foi para a fortaleza do palácio real, pôs fogo no palácio ao redor de si e ali morreu."
-    },
-    "19": {
-      "título": "",
-      "texto": "Isso aconteceu por causa dos pecados que havia cometido, fazendo o que era mau aos olhos do Senhor , andando no caminho de Jeroboão e no pecado que havia cometido, e fazendo Israel pecar."
-    },
-    "20": {
-      "título": "",
-      "texto": "Quanto aos demais atos de Zinri e à conspiração que fez, não está tudo escrito no Livro da História dos Reis de Israel?"
-    },
-    "21": {
-      "título": "O reinado de Onri, de Israel",
-      "texto": "Então o povo de Israel se dividiu em dois partidos: metade do povo seguia Tibni, filho de Ginate, para o fazer rei, e a outra metade seguia Onri."
-    },
-    "22": {
-      "título": "",
-      "texto": "Mas o povo que seguia Onri prevaleceu contra o que seguia Tibni, filho de Ginate. Tibni morreu, e Onri passou a reinar."
-    },
-    "23": {
-      "título": "",
-      "texto": "No trigésimo primeiro ano do reinado de Asa, rei de Judá, Onri começou a reinar sobre Israel e reinou doze anos. Em Tirza, reinou seis anos."
-    },
-    "24": {
-      "título": "",
-      "texto": "De Semer ele comprou o monte de Samaria por sessenta e oito quilos de prata e o fortificou. E à cidade que edificou sobre o monte chamou de Samaria, nome oriundo de Semer, dono do monte."
-    },
-    "25": {
-      "título": "",
-      "texto": "Onri fez o que era mau aos olhos do Senhor ; fez pior do que todos os reis que vieram antes dele."
-    },
-    "26": {
-      "título": "",
-      "texto": "Andou em todos os caminhos de Jeroboão, filho de Nebate, bem como nos pecados que este levou Israel a cometer, irritando o Senhor , Deus de Israel, com os seus ídolos."
-    },
-    "27": {
-      "título": "",
-      "texto": "Quanto aos demais atos de Onri, ao que fez e ao poder que manifestou, não está tudo escrito no Livro da História dos Reis de Israel?"
-    },
-    "28": {
-      "título": "",
-      "texto": "Onri morreu e foi sepultado em Samaria. E Acabe, seu filho, reinou em seu lugar."
-    },
-    "29": {
-      "título": "O reinado de Acabe, de Israel. Seu casamento com Jezabel",
-      "texto": "Acabe, filho de Onri, começou a reinar sobre Israel no trigésimo oitavo ano do reinado de Asa, rei de Judá. E Acabe, filho de Onri, reinou sobre Israel, em Samaria, vinte e dois anos."
-    },
-    "30": {
-      "título": "",
-      "texto": "Acabe, filho de Onri, fez o que era mau aos olhos do Senhor , mais do que todos os reis que vieram antes dele."
-    },
-    "31": {
-      "título": "",
-      "texto": "Como se fosse pouca coisa andar nos pecados de Jeroboão, filho de Nebate, Acabe foi mais longe e tomou por mulher Jezabel, filha de Etbaal, rei dos sidônios; e foi, serviu Baal e o adorou."
-    },
-    "32": {
-      "título": "",
-      "texto": "Levantou um altar a Baal, no templo de Baal que tinha edificado em Samaria."
-    },
-    "33": {
-      "título": "",
-      "texto": "Acabe fez também um poste da deusa Aserá, de maneira que cometeu mais abominações para irritar o Senhor , Deus de Israel, do que todos os reis de Israel que vieram antes dele."
-    },
-    "34": {
-      "título": "",
-      "texto": "Em seus dias, Hiel, o betelita, edificou Jericó. Quando ele lançou os alicerces da cidade, morreu Abirão, seu filho primogênito; e, quando colocou os portões, morreu Segube, seu filho mais novo, segundo a palavra do Senhor , anunciada por meio de Josué, filho de Num."
+    "versiculos": {
+        "1": "Então a palavra do Senhor veio a Jeú, filho de Hanani, contra Baasa, dizendo:",
+        "2": "— Eu o levantei do pó e fiz com que você se tornasse chefe sobre o meu povo de Israel, mas você tem andado no caminho de Jeroboão e tem feito o meu povo de Israel pecar, irritando-me com os seus pecados.",
+        "3": "Por isso, Baasa, vou exterminar você e os seus descendentes e vou fazer com a sua casa o que fiz com a casa de Jeroboão, filho de Nebate.",
+        "4": "Se alguém da casa de Baasa morrer na cidade, os cães o comerão; e se alguém morrer no campo, as aves do céu o comerão.",
+        "5": "Quanto aos demais atos de Baasa, ao que fez e ao seu poder, não está tudo escrito no Livro da História dos Reis de Israel?",
+        "6": "Baasa morreu e foi sepultado em Tirza. E Elá, seu filho, reinou em seu lugar.",
+        "7": "Assim, por meio do profeta Jeú, filho de Hanani, a palavra do Senhor veio contra Baasa e contra a sua descendência, por todo o mal que ele havia feito aos olhos do Senhor , irritando-o com as suas obras e fazendo-se igual à casa de Jeroboão, e também porque matou a casa de Jeroboão.",
+        "8": "No vigésimo sexto ano do reinado de Asa, rei de Judá, Elá, filho de Baasa, começou a reinar sobre Israel em Tirza; e reinou dois anos.",
+        "9": "Zinri, seu servo, comandante da metade dos carros de guerra, conspirou contra ele. Elá estava em Tirza, bebendo e embriagando-se na casa de Arsa, seu encarregado em Tirza.",
+        "10": "Zinri entrou na casa, atacou Elá e o matou, no vigésimo sétimo ano do reinado de Asa, rei de Judá. E Zinri reinou em lugar de Elá.",
+        "11": "Logo que começou a reinar e se assentou no trono, Zinri matou todos os descendentes de Baasa; não lhe deixou nenhum do sexo masculino, nem dos parentes, nem dos seus amigos.",
+        "12": "Assim, Zinri exterminou todos os descendentes de Baasa, segundo a palavra do Senhor , anunciada por meio do profeta Jeú, contra Baasa,",
+        "13": "por todos os pecados que Baasa e o seu filho Elá cometeram, e pelos pecados que fizeram Israel cometer, irritando o Senhor , Deus de Israel, com os seus ídolos.",
+        "14": "Quanto aos demais atos de Elá e a tudo o que ele fez, não está tudo escrito no Livro da História dos Reis de Israel?",
+        "15": "No vigésimo sétimo ano do reinado de Asa, rei de Judá, Zinri reinou sete dias em Tirza. O povo estava acampado contra Gibetom, cidade que pertencia aos filisteus.",
+        "16": "O povo que estava acampado ouviu dizer: “Zinri conspirou contra o rei e o matou.” Por isso, naquele mesmo dia, no arraial, todo o Israel constituiu rei sobre Israel a Onri, comandante do exército.",
+        "17": "Onri saiu de Gibetom, estando todo o Israel com ele, e sitiou Tirza.",
+        "18": "Quando Zinri viu que a cidade havia sido tomada, foi para a fortaleza do palácio real, pôs fogo no palácio ao redor de si e ali morreu.",
+        "19": "Isso aconteceu por causa dos pecados que havia cometido, fazendo o que era mau aos olhos do Senhor , andando no caminho de Jeroboão e no pecado que havia cometido, e fazendo Israel pecar.",
+        "20": "Quanto aos demais atos de Zinri e à conspiração que fez, não está tudo escrito no Livro da História dos Reis de Israel?",
+        "21": "Então o povo de Israel se dividiu em dois partidos: metade do povo seguia Tibni, filho de Ginate, para o fazer rei, e a outra metade seguia Onri.",
+        "22": "Mas o povo que seguia Onri prevaleceu contra o que seguia Tibni, filho de Ginate. Tibni morreu, e Onri passou a reinar.",
+        "23": "No trigésimo primeiro ano do reinado de Asa, rei de Judá, Onri começou a reinar sobre Israel e reinou doze anos. Em Tirza, reinou seis anos.",
+        "24": "De Semer ele comprou o monte de Samaria por sessenta e oito quilos de prata e o fortificou. E à cidade que edificou sobre o monte chamou de Samaria, nome oriundo de Semer, dono do monte.",
+        "25": "Onri fez o que era mau aos olhos do Senhor ; fez pior do que todos os reis que vieram antes dele.",
+        "26": "Andou em todos os caminhos de Jeroboão, filho de Nebate, bem como nos pecados que este levou Israel a cometer, irritando o Senhor , Deus de Israel, com os seus ídolos.",
+        "27": "Quanto aos demais atos de Onri, ao que fez e ao poder que manifestou, não está tudo escrito no Livro da História dos Reis de Israel?",
+        "28": "Onri morreu e foi sepultado em Samaria. E Acabe, seu filho, reinou em seu lugar.",
+        "29": "Acabe, filho de Onri, começou a reinar sobre Israel no trigésimo oitavo ano do reinado de Asa, rei de Judá. E Acabe, filho de Onri, reinou sobre Israel, em Samaria, vinte e dois anos.",
+        "30": "Acabe, filho de Onri, fez o que era mau aos olhos do Senhor , mais do que todos os reis que vieram antes dele.",
+        "31": "Como se fosse pouca coisa andar nos pecados de Jeroboão, filho de Nebate, Acabe foi mais longe e tomou por mulher Jezabel, filha de Etbaal, rei dos sidônios; e foi, serviu Baal e o adorou.",
+        "32": "Levantou um altar a Baal, no templo de Baal que tinha edificado em Samaria.",
+        "33": "Acabe fez também um poste da deusa Aserá, de maneira que cometeu mais abominações para irritar o Senhor , Deus de Israel, do que todos os reis de Israel que vieram antes dele.",
+        "34": "Em seus dias, Hiel, o betelita, edificou Jericó. Quando ele lançou os alicerces da cidade, morreu Abirão, seu filho primogênito; e, quando colocou os portões, morreu Segube, seu filho mais novo, segundo a palavra do Senhor , anunciada por meio de Josué, filho de Num."
     }
-  }
 }

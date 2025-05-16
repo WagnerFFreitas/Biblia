@@ -1,126 +1,42 @@
 {
-  "livro": "Mateus",
-  "capítulo": 19,
-  "versículos": {
-    "1": {
-      "título": "A questão do divórcio",
-      "texto": "Quando Jesus acabou de proferir estas palavras, deixou a Galileia e foi para o território da Judeia, além do Jordão."
+    "livro": "Mateus",
+    "capitulo": 19,
+    "titulos": {
+        "1": "A questão do divórcio",
+        "13": "Jesus abençoa as crianças",
+        "16": "O jovem rico",
+        "23": "O perigo das riquezas"
     },
-    "2": {
-      "título": "",
-      "texto": "Grandes multidões o seguiram, e ele as curou ali."
-    },
-    "3": {
-      "título": "",
-      "texto": "Alguns fariseus se aproximaram de Jesus e, testando-o, perguntaram:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "5": {
-      "título": "",
-      "texto": "e que disse: “Por isso o homem deixará o seu pai e a sua mãe e se unirá à sua mulher, tornando-se os dois uma só carne”?"
-    },
-    "6": {
-      "título": "",
-      "texto": "De modo que já não são mais dois, porém uma só carne. Portanto, que ninguém separe o que Deus ajuntou."
-    },
-    "7": {
-      "título": "",
-      "texto": "Os fariseus perguntaram:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Eu, porém, lhes digo: quem repudiar a sua mulher, não sendo por causa de relações sexuais ilícitas, e casar com outra comete adultério."
-    },
-    "10": {
-      "título": "",
-      "texto": "Os discípulos de Jesus disseram:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Jesus, porém, lhes respondeu:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Porque há eunucos de nascença; há outros a quem os homens fizeram tais; e há outros que se fizeram eunucos, por causa do Reino dos Céus. Quem é apto para aceitar isto, que aceite."
-    },
-    "13": {
-      "título": "Jesus abençoa as crianças",
-      "texto": "Então trouxeram algumas crianças a Jesus para que ele lhes impusesse as mãos e orasse, mas os discípulos os repreendiam."
-    },
-    "14": {
-      "título": "",
-      "texto": "Jesus, porém, disse:"
-    },
-    "15": {
-      "título": "",
-      "texto": "E, tendo-lhes imposto as mãos, retirou-se dali."
-    },
-    "16": {
-      "título": "O jovem rico",
-      "texto": "E eis que alguém, aproximando-se de Jesus, lhe perguntou:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "18": {
-      "título": "",
-      "texto": "E ele lhe perguntou:"
-    },
-    "19": {
-      "título": "",
-      "texto": "honre o seu pai e a sua mãe e ame o seu próximo como você ama a si mesmo.”"
-    },
-    "20": {
-      "título": "",
-      "texto": "O jovem disse:"
-    },
-    "21": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "22": {
-      "título": "",
-      "texto": "Mas o jovem, ouvindo esta palavra, retirou-se triste, porque era dono de muitas propriedades."
-    },
-    "23": {
-      "título": "O perigo das riquezas",
-      "texto": "Então Jesus disse aos seus discípulos:"
-    },
-    "24": {
-      "título": "",
-      "texto": "E ainda lhes digo que é mais fácil um camelo passar pelo fundo de uma agulha do que um rico entrar no Reino de Deus."
-    },
-    "25": {
-      "título": "",
-      "texto": "Ouvindo isto, os discípulos ficaram muito admirados e perguntaram:"
-    },
-    "26": {
-      "título": "",
-      "texto": "Jesus, olhando para eles, disse:"
-    },
-    "27": {
-      "título": "",
-      "texto": "Então Pedro, tomando a palavra, disse:"
-    },
-    "28": {
-      "título": "",
-      "texto": "Jesus lhes respondeu:"
-    },
-    "29": {
-      "título": "",
-      "texto": "E todo aquele que tiver deixado casas, irmãos, irmãs, pai, mãe, filhos ou campos, por causa do meu nome, receberá muitas vezes mais e herdará a vida eterna."
-    },
-    "30": {
-      "título": "",
-      "texto": "Porém muitos primeiros serão últimos; e os últimos serão primeiros."
+    "versiculos": {
+        "1": "Quando Jesus acabou de proferir estas palavras, deixou a Galileia e foi para o território da Judeia, além do Jordão.",
+        "2": "Grandes multidões o seguiram, e ele as curou ali.",
+        "3": "Alguns fariseus se aproximaram de Jesus e, testando-o, perguntaram:",
+        "4": "Jesus respondeu:",
+        "5": "e que disse: “Por isso o homem deixará o seu pai e a sua mãe e se unirá à sua mulher, tornando-se os dois uma só carne”?",
+        "6": "De modo que já não são mais dois, porém uma só carne. Portanto, que ninguém separe o que Deus ajuntou.",
+        "7": "Os fariseus perguntaram:",
+        "8": "Jesus respondeu:",
+        "9": "Eu, porém, lhes digo: quem repudiar a sua mulher, não sendo por causa de relações sexuais ilícitas, e casar com outra comete adultério.",
+        "10": "Os discípulos de Jesus disseram:",
+        "11": "Jesus, porém, lhes respondeu:",
+        "12": "Porque há eunucos de nascença; há outros a quem os homens fizeram tais; e há outros que se fizeram eunucos, por causa do Reino dos Céus. Quem é apto para aceitar isto, que aceite.",
+        "13": "Então trouxeram algumas crianças a Jesus para que ele lhes impusesse as mãos e orasse, mas os discípulos os repreendiam.",
+        "14": "Jesus, porém, disse:",
+        "15": "E, tendo-lhes imposto as mãos, retirou-se dali.",
+        "16": "E eis que alguém, aproximando-se de Jesus, lhe perguntou:",
+        "17": "Jesus respondeu:",
+        "18": "E ele lhe perguntou:",
+        "19": "honre o seu pai e a sua mãe e ame o seu próximo como você ama a si mesmo.”",
+        "20": "O jovem disse:",
+        "21": "Jesus respondeu:",
+        "22": "Mas o jovem, ouvindo esta palavra, retirou-se triste, porque era dono de muitas propriedades.",
+        "23": "Então Jesus disse aos seus discípulos:",
+        "24": "E ainda lhes digo que é mais fácil um camelo passar pelo fundo de uma agulha do que um rico entrar no Reino de Deus.",
+        "25": "Ouvindo isto, os discípulos ficaram muito admirados e perguntaram:",
+        "26": "Jesus, olhando para eles, disse:",
+        "27": "Então Pedro, tomando a palavra, disse:",
+        "28": "Jesus lhes respondeu:",
+        "29": "E todo aquele que tiver deixado casas, irmãos, irmãs, pai, mãe, filhos ou campos, por causa do meu nome, receberá muitas vezes mais e herdará a vida eterna.",
+        "30": "Porém muitos primeiros serão últimos; e os últimos serão primeiros."
     }
-  }
 }

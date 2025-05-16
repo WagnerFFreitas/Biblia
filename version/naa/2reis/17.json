@@ -1,170 +1,54 @@
 {
-  "livro": "2 Reis",
-  "capítulo": 17,
-  "versículos": {
-    "1": {
-      "título": "O reinado de Oseias, de Israel",
-      "texto": "No décimo segundo ano do reinado de Acaz, rei de Judá, Oseias, filho de Elá, começou a reinar; e reinou sobre Israel, em Samaria, nove anos."
+    "livro": "2 Reis",
+    "capitulo": 17,
+    "titulos": {
+        "1": "O reinado de Oseias, de Israel",
+        "3": "A queda de Samaria e o cativeiro de Israel",
+        "7": "A causa do cativeiro",
+        "24": "O rei da Assíria renova a população de Samaria",
+        "29": "O culto misto dos samaritanos"
     },
-    "2": {
-      "título": "",
-      "texto": "Fez o que era mau aos olhos do Senhor , porém não como os reis de Israel que vieram antes dele."
-    },
-    "3": {
-      "título": "A queda de Samaria e o cativeiro de Israel",
-      "texto": "Salmaneser, rei da Assíria, fez guerra contra Oseias, e este ficou sendo servo dele e lhe pagava tributo."
-    },
-    "4": {
-      "título": "",
-      "texto": "Porém o rei da Assíria descobriu que Oseias estava conspirando contra ele. Oseias tinha mandado mensageiros a Sô, rei do Egito, e não mais pagava tributo ao rei da Assíria, como anteriormente fazia de ano em ano. Por isso, o rei da Assíria prendeu Oseias e o lançou num cárcere."
-    },
-    "5": {
-      "título": "",
-      "texto": "Depois, o rei da Assíria passou por toda a terra, foi até a cidade de Samaria e a sitiou por três anos."
-    },
-    "6": {
-      "título": "",
-      "texto": "No nono ano do reinado de Oseias, o rei da Assíria conquistou Samaria e levou os israelitas para a Assíria. Ele os fez habitar em Hala, junto a Habor, rio de Gozã, e nas cidades dos medos."
-    },
-    "7": {
-      "título": "A causa do cativeiro",
-      "texto": "Isso aconteceu porque os filhos de Israel pecaram contra o Senhor , seu Deus, que os tirou da terra do Egito e os livrou do poder de Faraó, rei do Egito; e temeram outros deuses."
-    },
-    "8": {
-      "título": "",
-      "texto": "Andaram nos estatutos das nações que o Senhor expulsou de diante dos filhos de Israel e nos costumes estabelecidos pelos reis de Israel."
-    },
-    "9": {
-      "título": "",
-      "texto": "Os filhos de Israel fizeram contra o Senhor , seu Deus, o que não era reto; edificaram para si lugares altos em todas as suas cidades, desde a torre dos vigias até a cidade fortificada."
-    },
-    "10": {
-      "título": "",
-      "texto": "Levantaram para si colunas e postes da deusa Aserá, em todas as colinas mais elevadas e debaixo de todas as árvores frondosas."
-    },
-    "11": {
-      "título": "",
-      "texto": "Queimaram ali incenso em todos os lugares altos, como as nações que o Senhor havia expulsado de diante deles. Cometeram ações perversas para provocarem o Senhor à ira"
-    },
-    "12": {
-      "título": "",
-      "texto": "e serviram os ídolos, dos quais o Senhor lhes tinha dito: “Não façam estas coisas.”"
-    },
-    "13": {
-      "título": "",
-      "texto": "O Senhor advertiu Israel e Judá por meio de todos os profetas e de todos os videntes, dizendo: “Voltem-se dos seus maus caminhos e guardem os meus mandamentos e os meus estatutos, segundo toda a Lei que ordenei aos pais de vocês e que lhes enviei por meio dos meus servos, os profetas.”"
-    },
-    "14": {
-      "título": "",
-      "texto": "Porém eles não quiseram ouvir; se tornaram obstinados e foram teimosos como os seus pais, que não creram no Senhor , seu Deus."
-    },
-    "15": {
-      "título": "",
-      "texto": "Rejeitaram os estatutos e a aliança que Deus tinha feito com os pais deles, e desprezaram as suas advertências. Seguiram os ídolos sem valor, e assim eles mesmos se tornaram sem valor. Seguiram as nações que estavam ao redor deles, das quais o Senhor lhes havia ordenado que não as imitassem."
-    },
-    "16": {
-      "título": "",
-      "texto": "Desprezaram todos os mandamentos do Senhor , seu Deus, e fizeram para si imagens de fundição, dois bezerros; fizeram um poste da deusa Aserá, e adoraram todo o exército do céu, e serviram Baal."
-    },
-    "17": {
-      "título": "",
-      "texto": "Também queimaram os seus filhos e as suas filhas como sacrifício, deram-se à prática de adivinhações e acreditaram em agouros; e venderam-se para fazer o que era mau aos olhos do Senhor , para o provocarem à ira."
-    },
-    "18": {
-      "título": "",
-      "texto": "Por isso o Senhor muito se indignou contra Israel e o afastou da sua presença; e nada mais ficou, a não ser a tribo de Judá."
-    },
-    "19": {
-      "título": "",
-      "texto": "Também Judá não guardou os mandamentos do Senhor , seu Deus; pelo contrário, andaram nos costumes que Israel introduziu."
-    },
-    "20": {
-      "título": "",
-      "texto": "Por isso o Senhor rejeitou toda a descendência de Israel, e os afligiu, e os entregou nas mãos dos espoliadores, até que os expulsou da sua presença."
-    },
-    "21": {
-      "título": "",
-      "texto": "Pois, quando ele separou Israel da casa de Davi, e eles fizeram de Jeroboão, filho de Nebate, o seu rei, Jeroboão levou Israel a abandonar o Senhor e o levou a cometer grande pecado."
-    },
-    "22": {
-      "título": "",
-      "texto": "Assim, os filhos de Israel andaram em todos os pecados que Jeroboão tinha cometido; nunca se afastaram deles,"
-    },
-    "23": {
-      "título": "",
-      "texto": "até que o Senhor afastou Israel da sua presença, como havia falado pelo ministério de todos os seus servos, os profetas. E assim Israel foi levado cativo da sua terra para a Assíria, onde permanece até o dia de hoje."
-    },
-    "24": {
-      "título": "O rei da Assíria renova a população de Samaria",
-      "texto": "O rei da Assíria trouxe gente da Babilônia, de Cuta, de Ava, de Hamate e de Sefarvaim e os fez morar nas cidades de Samaria, em lugar dos filhos de Israel. Tomaram posse de Samaria e habitaram nas suas cidades."
-    },
-    "25": {
-      "título": "",
-      "texto": "A princípio, quando passaram a morar ali, não temeram o Senhor . Então o Senhor mandou para o meio deles leões, que mataram alguns do povo."
-    },
-    "26": {
-      "título": "",
-      "texto": "Por isso disseram ao rei da Assíria:"
-    },
-    "27": {
-      "título": "",
-      "texto": "Então o rei da Assíria mandou dizer:"
-    },
-    "28": {
-      "título": "",
-      "texto": "Assim um dos sacerdotes que havia sido levado de Samaria foi e ficou morando em Betel. E lhes ensinava como deviam temer o Senhor ."
-    },
-    "29": {
-      "título": "O culto misto dos samaritanos",
-      "texto": "Porém cada nação fez ainda os seus próprios deuses nas cidades em que morava, e os puseram nos santuários dos lugares altos que os samaritanos tinham feito."
-    },
-    "30": {
-      "título": "",
-      "texto": "Os da Babilônia fizeram Sucote-Benote; os de Cuta fizeram Nergal; os de Hamate fizeram Asima;"
-    },
-    "31": {
-      "título": "",
-      "texto": "os aveus fizeram Nibaz e Tartaque; e os sefarvitas queimavam seus filhos a Adrameleque e a Anameleque, deuses de Sefarvaim."
-    },
-    "32": {
-      "título": "",
-      "texto": "Mas adoravam também o Senhor . Constituíram como sacerdotes dos lugares altos homens tirados do meio do povo, os quais oficiavam a favor deles nos santuários dos altos."
-    },
-    "33": {
-      "título": "",
-      "texto": "E assim eles adoravam o Senhor e, ao mesmo tempo, serviam os seus próprios deuses, segundo o costume das nações do meio das quais tinham sido trazidos."
-    },
-    "34": {
-      "título": "",
-      "texto": "Até o dia de hoje fazem segundo os antigos costumes. Não temem o Senhor , não fazem segundo os seus estatutos e juízos, nem segundo a lei e o mandamento que o Senhor ordenou aos filhos de Jacó, a quem deu o nome de Israel."
-    },
-    "35": {
-      "título": "",
-      "texto": "Ora, o Senhor tinha feito uma aliança com eles e lhes havia ordenado o seguinte: “Não temam outros deuses; não se prostrem diante deles, não os sirvam, nem lhes ofereçam sacrifícios."
-    },
-    "36": {
-      "título": "",
-      "texto": "Mas temam o Senhor , que os tirou da terra do Egito com grande poder e com braço estendido; prostrem-se diante dele e a ele ofereçam sacrifícios."
-    },
-    "37": {
-      "título": "",
-      "texto": "Tenham o cuidado de observar todos os dias os estatutos e os juízos, a lei e o mandamento que ele lhes deu por escrito. Não adorem outros deuses."
-    },
-    "38": {
-      "título": "",
-      "texto": "Não se esqueçam da aliança que fiz com vocês e não adorem outros deuses."
-    },
-    "39": {
-      "título": "",
-      "texto": "Mas adorem o Senhor , seu Deus, e ele os livrará das mãos de todos os seus inimigos.”"
-    },
-    "40": {
-      "título": "",
-      "texto": "Eles, porém, não deram ouvidos a isso e continuaram a fazer segundo o seu antigo costume."
-    },
-    "41": {
-      "título": "",
-      "texto": "Assim, estas nações adoravam o Senhor e serviam as suas próprias imagens de escultura. Como fizeram os seus pais, assim fazem também os seus filhos e os filhos de seus filhos, até o dia de hoje."
+    "versiculos": {
+        "1": "No décimo segundo ano do reinado de Acaz, rei de Judá, Oseias, filho de Elá, começou a reinar; e reinou sobre Israel, em Samaria, nove anos.",
+        "2": "Fez o que era mau aos olhos do Senhor , porém não como os reis de Israel que vieram antes dele.",
+        "3": "Salmaneser, rei da Assíria, fez guerra contra Oseias, e este ficou sendo servo dele e lhe pagava tributo.",
+        "4": "Porém o rei da Assíria descobriu que Oseias estava conspirando contra ele. Oseias tinha mandado mensageiros a Sô, rei do Egito, e não mais pagava tributo ao rei da Assíria, como anteriormente fazia de ano em ano. Por isso, o rei da Assíria prendeu Oseias e o lançou num cárcere.",
+        "5": "Depois, o rei da Assíria passou por toda a terra, foi até a cidade de Samaria e a sitiou por três anos.",
+        "6": "No nono ano do reinado de Oseias, o rei da Assíria conquistou Samaria e levou os israelitas para a Assíria. Ele os fez habitar em Hala, junto a Habor, rio de Gozã, e nas cidades dos medos.",
+        "7": "Isso aconteceu porque os filhos de Israel pecaram contra o Senhor , seu Deus, que os tirou da terra do Egito e os livrou do poder de Faraó, rei do Egito; e temeram outros deuses.",
+        "8": "Andaram nos estatutos das nações que o Senhor expulsou de diante dos filhos de Israel e nos costumes estabelecidos pelos reis de Israel.",
+        "9": "Os filhos de Israel fizeram contra o Senhor , seu Deus, o que não era reto; edificaram para si lugares altos em todas as suas cidades, desde a torre dos vigias até a cidade fortificada.",
+        "10": "Levantaram para si colunas e postes da deusa Aserá, em todas as colinas mais elevadas e debaixo de todas as árvores frondosas.",
+        "11": "Queimaram ali incenso em todos os lugares altos, como as nações que o Senhor havia expulsado de diante deles. Cometeram ações perversas para provocarem o Senhor à ira",
+        "12": "e serviram os ídolos, dos quais o Senhor lhes tinha dito: “Não façam estas coisas.”",
+        "13": "O Senhor advertiu Israel e Judá por meio de todos os profetas e de todos os videntes, dizendo: “Voltem-se dos seus maus caminhos e guardem os meus mandamentos e os meus estatutos, segundo toda a Lei que ordenei aos pais de vocês e que lhes enviei por meio dos meus servos, os profetas.”",
+        "14": "Porém eles não quiseram ouvir; se tornaram obstinados e foram teimosos como os seus pais, que não creram no Senhor , seu Deus.",
+        "15": "Rejeitaram os estatutos e a aliança que Deus tinha feito com os pais deles, e desprezaram as suas advertências. Seguiram os ídolos sem valor, e assim eles mesmos se tornaram sem valor. Seguiram as nações que estavam ao redor deles, das quais o Senhor lhes havia ordenado que não as imitassem.",
+        "16": "Desprezaram todos os mandamentos do Senhor , seu Deus, e fizeram para si imagens de fundição, dois bezerros; fizeram um poste da deusa Aserá, e adoraram todo o exército do céu, e serviram Baal.",
+        "17": "Também queimaram os seus filhos e as suas filhas como sacrifício, deram-se à prática de adivinhações e acreditaram em agouros; e venderam-se para fazer o que era mau aos olhos do Senhor , para o provocarem à ira.",
+        "18": "Por isso o Senhor muito se indignou contra Israel e o afastou da sua presença; e nada mais ficou, a não ser a tribo de Judá.",
+        "19": "Também Judá não guardou os mandamentos do Senhor , seu Deus; pelo contrário, andaram nos costumes que Israel introduziu.",
+        "20": "Por isso o Senhor rejeitou toda a descendência de Israel, e os afligiu, e os entregou nas mãos dos espoliadores, até que os expulsou da sua presença.",
+        "21": "Pois, quando ele separou Israel da casa de Davi, e eles fizeram de Jeroboão, filho de Nebate, o seu rei, Jeroboão levou Israel a abandonar o Senhor e o levou a cometer grande pecado.",
+        "22": "Assim, os filhos de Israel andaram em todos os pecados que Jeroboão tinha cometido; nunca se afastaram deles,",
+        "23": "até que o Senhor afastou Israel da sua presença, como havia falado pelo ministério de todos os seus servos, os profetas. E assim Israel foi levado cativo da sua terra para a Assíria, onde permanece até o dia de hoje.",
+        "24": "O rei da Assíria trouxe gente da Babilônia, de Cuta, de Ava, de Hamate e de Sefarvaim e os fez morar nas cidades de Samaria, em lugar dos filhos de Israel. Tomaram posse de Samaria e habitaram nas suas cidades.",
+        "25": "A princípio, quando passaram a morar ali, não temeram o Senhor . Então o Senhor mandou para o meio deles leões, que mataram alguns do povo.",
+        "26": "Por isso disseram ao rei da Assíria:",
+        "27": "Então o rei da Assíria mandou dizer:",
+        "28": "Assim um dos sacerdotes que havia sido levado de Samaria foi e ficou morando em Betel. E lhes ensinava como deviam temer o Senhor .",
+        "29": "Porém cada nação fez ainda os seus próprios deuses nas cidades em que morava, e os puseram nos santuários dos lugares altos que os samaritanos tinham feito.",
+        "30": "Os da Babilônia fizeram Sucote-Benote; os de Cuta fizeram Nergal; os de Hamate fizeram Asima;",
+        "31": "os aveus fizeram Nibaz e Tartaque; e os sefarvitas queimavam seus filhos a Adrameleque e a Anameleque, deuses de Sefarvaim.",
+        "32": "Mas adoravam também o Senhor . Constituíram como sacerdotes dos lugares altos homens tirados do meio do povo, os quais oficiavam a favor deles nos santuários dos altos.",
+        "33": "E assim eles adoravam o Senhor e, ao mesmo tempo, serviam os seus próprios deuses, segundo o costume das nações do meio das quais tinham sido trazidos.",
+        "34": "Até o dia de hoje fazem segundo os antigos costumes. Não temem o Senhor , não fazem segundo os seus estatutos e juízos, nem segundo a lei e o mandamento que o Senhor ordenou aos filhos de Jacó, a quem deu o nome de Israel.",
+        "35": "Ora, o Senhor tinha feito uma aliança com eles e lhes havia ordenado o seguinte: “Não temam outros deuses; não se prostrem diante deles, não os sirvam, nem lhes ofereçam sacrifícios.",
+        "36": "Mas temam o Senhor , que os tirou da terra do Egito com grande poder e com braço estendido; prostrem-se diante dele e a ele ofereçam sacrifícios.",
+        "37": "Tenham o cuidado de observar todos os dias os estatutos e os juízos, a lei e o mandamento que ele lhes deu por escrito. Não adorem outros deuses.",
+        "38": "Não se esqueçam da aliança que fiz com vocês e não adorem outros deuses.",
+        "39": "Mas adorem o Senhor , seu Deus, e ele os livrará das mãos de todos os seus inimigos.”",
+        "40": "Eles, porém, não deram ouvidos a isso e continuaram a fazer segundo o seu antigo costume.",
+        "41": "Assim, estas nações adoravam o Senhor e serviam as suas próprias imagens de escultura. Como fizeram os seus pais, assim fazem também os seus filhos e os filhos de seus filhos, até o dia de hoje."
     }
-  }
 }

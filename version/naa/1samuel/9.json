@@ -1,114 +1,35 @@
 {
-  "livro": "1 Samuel",
-  "capítulo": 9,
-  "versículos": {
-    "1": {
-      "título": "Saul se encontra com Samuel",
-      "texto": "Havia um homem de Benjamim, cujo nome era Quis, filho de Abiel, filho de Zeror, filho de Becorate, filho de Afias, benjamita, dono de muitos bens."
+    "livro": "1 Samuel",
+    "capitulo": 9,
+    "titulos": {
+        "1": "Saul se encontra com Samuel"
     },
-    "2": {
-      "título": "",
-      "texto": "Ele tinha um filho chamado Saul, moço e tão belo, que entre os filhos de Israel não havia outro mais belo do que ele. Dos ombros para cima, ele sobressaía a todo o povo."
-    },
-    "3": {
-      "título": "",
-      "texto": "E aconteceu que as jumentas de Quis, pai de Saul, se extraviaram. Então Quis disse a Saul, seu filho:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Eles atravessaram a região montanhosa de Efraim e a terra de Salisa, mas não as encontraram. Depois, passaram à terra de Saalim, mas as jumentas não estavam ali. Então atravessaram o território de Benjamim, mas também não as encontraram."
-    },
-    "5": {
-      "título": "",
-      "texto": "Quando chegaram à terra de Zufe, Saul disse ao servo que estava com ele:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Porém o servo respondeu:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Então Saul disse ao servo:"
-    },
-    "8": {
-      "título": "",
-      "texto": "O servo respondeu a Saul:"
-    },
-    "9": {
-      "título": "",
-      "texto": ""
-    },
-    "10": {
-      "título": "",
-      "texto": "Então Saul disse ao servo:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Quando subiam pela encosta da cidade, encontraram umas moças que saíam a tirar água e lhes perguntaram:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Elas responderam:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Ao entrarem na cidade, vocês o encontrarão, antes que ele suba ao lugar alto para comer. Porque o povo não comerá enquanto ele não chegar, porque ele tem de abençoar o sacrifício, e só depois os convidados irão comer. Vão agora, porque hoje vocês o acharão."
-    },
-    "14": {
-      "título": "",
-      "texto": "Então eles foram até a cidade. Quando estavam entrando, eis que Samuel saiu ao encontro deles, para subir ao lugar alto."
-    },
-    "15": {
-      "título": "",
-      "texto": "Ora, um dia antes de Saul chegar, o Senhor tinha revelado isso a Samuel, dizendo:"
-    },
-    "16": {
-      "título": "",
-      "texto": "— Amanhã a estas horas, enviarei a você um homem da terra de Benjamim, o qual você ungirá por príncipe sobre o meu povo de Israel. E ele livrará o meu povo das mãos dos filisteus. Porque olhei para o meu povo, pois o seu clamor chegou a mim."
-    },
-    "17": {
-      "título": "",
-      "texto": "Quando Samuel viu Saul, o Senhor lhe disse:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Saul se aproximou de Samuel no meio do portão e disse:"
-    },
-    "19": {
-      "título": "",
-      "texto": "Samuel respondeu a Saul:"
-    },
-    "20": {
-      "título": "",
-      "texto": "Quanto às jumentas que se perderam há três dias, não se preocupe com elas, porque já foram encontradas. E para quem está reservado tudo o que é precioso em Israel? Será que não é para você e para toda a casa de seu pai?"
-    },
-    "21": {
-      "título": "",
-      "texto": "Então Saul respondeu:"
-    },
-    "22": {
-      "título": "",
-      "texto": "Samuel levou Saul e o servo dele à sala de jantar e lhes deu o lugar de honra entre os convidados, que eram cerca de trinta pessoas."
-    },
-    "23": {
-      "título": "",
-      "texto": "Então Samuel disse ao cozinheiro:"
-    },
-    "24": {
-      "título": "",
-      "texto": "O cozinheiro pegou a coxa com o que havia nela e a pôs diante de Saul. Então Samuel disse:"
-    },
-    "25": {
-      "título": "",
-      "texto": "Depois que desceram do lugar alto para a cidade, Samuel falou com Saul no terraço."
-    },
-    "26": {
-      "título": "",
-      "texto": "Levantaram-se de madrugada, quase ao raiar do dia, e Samuel chamou Saul para o terraço, dizendo:"
-    },
-    "27": {
-      "título": "",
-      "texto": "Quando estavam chegando à extremidade da cidade, Samuel disse a Saul:"
+    "versiculos": {
+        "1": "Havia um homem de Benjamim, cujo nome era Quis, filho de Abiel, filho de Zeror, filho de Becorate, filho de Afias, benjamita, dono de muitos bens.",
+        "2": "Ele tinha um filho chamado Saul, moço e tão belo, que entre os filhos de Israel não havia outro mais belo do que ele. Dos ombros para cima, ele sobressaía a todo o povo.",
+        "3": "E aconteceu que as jumentas de Quis, pai de Saul, se extraviaram. Então Quis disse a Saul, seu filho:",
+        "4": "Eles atravessaram a região montanhosa de Efraim e a terra de Salisa, mas não as encontraram. Depois, passaram à terra de Saalim, mas as jumentas não estavam ali. Então atravessaram o território de Benjamim, mas também não as encontraram.",
+        "5": "Quando chegaram à terra de Zufe, Saul disse ao servo que estava com ele:",
+        "6": "Porém o servo respondeu:",
+        "7": "Então Saul disse ao servo:",
+        "8": "O servo respondeu a Saul:",
+        "10": "Então Saul disse ao servo:",
+        "11": "Quando subiam pela encosta da cidade, encontraram umas moças que saíam a tirar água e lhes perguntaram:",
+        "12": "Elas responderam:",
+        "13": "Ao entrarem na cidade, vocês o encontrarão, antes que ele suba ao lugar alto para comer. Porque o povo não comerá enquanto ele não chegar, porque ele tem de abençoar o sacrifício, e só depois os convidados irão comer. Vão agora, porque hoje vocês o acharão.",
+        "14": "Então eles foram até a cidade. Quando estavam entrando, eis que Samuel saiu ao encontro deles, para subir ao lugar alto.",
+        "15": "Ora, um dia antes de Saul chegar, o Senhor tinha revelado isso a Samuel, dizendo:",
+        "16": "— Amanhã a estas horas, enviarei a você um homem da terra de Benjamim, o qual você ungirá por príncipe sobre o meu povo de Israel. E ele livrará o meu povo das mãos dos filisteus. Porque olhei para o meu povo, pois o seu clamor chegou a mim.",
+        "17": "Quando Samuel viu Saul, o Senhor lhe disse:",
+        "18": "Saul se aproximou de Samuel no meio do portão e disse:",
+        "19": "Samuel respondeu a Saul:",
+        "20": "Quanto às jumentas que se perderam há três dias, não se preocupe com elas, porque já foram encontradas. E para quem está reservado tudo o que é precioso em Israel? Será que não é para você e para toda a casa de seu pai?",
+        "21": "Então Saul respondeu:",
+        "22": "Samuel levou Saul e o servo dele à sala de jantar e lhes deu o lugar de honra entre os convidados, que eram cerca de trinta pessoas.",
+        "23": "Então Samuel disse ao cozinheiro:",
+        "24": "O cozinheiro pegou a coxa com o que havia nela e a pôs diante de Saul. Então Samuel disse:",
+        "25": "Depois que desceram do lugar alto para a cidade, Samuel falou com Saul no terraço.",
+        "26": "Levantaram-se de madrugada, quase ao raiar do dia, e Samuel chamou Saul para o terraço, dizendo:",
+        "27": "Quando estavam chegando à extremidade da cidade, Samuel disse a Saul:"
     }
-  }
 }

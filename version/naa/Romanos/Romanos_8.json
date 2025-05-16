@@ -1,162 +1,52 @@
 {
-  "livro": "Romanos",
-  "capítulo": 8,
-  "versículos": {
-    "1": {
-      "título": "A vida no Espírito",
-      "texto": "Agora, pois, já não existe nenhuma condenação para os que estão em Cristo Jesus."
+    "livro": "Romanos",
+    "capitulo": 8,
+    "titulos": {
+        "1": "A vida no Espírito",
+        "12": "Filhos e herdeiros",
+        "18": "Os sofrimentos do presente e a glória futura",
+        "26": "A intercessão do Espírito",
+        "31": "Nada nos separa do amor de Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "Porque a lei do Espírito da vida, em Cristo Jesus, livrou você da lei do pecado e da morte."
-    },
-    "3": {
-      "título": "",
-      "texto": "Porque aquilo que a lei não podia fazer, por causa da fraqueza da carne, isso Deus fez, enviando o seu próprio Filho em semelhança de carne pecaminosa e no que diz respeito ao pecado. E assim Deus condenou o pecado na carne,"
-    },
-    "4": {
-      "título": "",
-      "texto": "a fim de que a exigência da lei se cumprisse em nós, que não vivemos segundo a carne, mas segundo o Espírito."
-    },
-    "5": {
-      "título": "",
-      "texto": "Os que vivem segundo a carne se inclinam para as coisas da carne, mas os que vivem segundo o Espírito se inclinam para as coisas do Espírito."
-    },
-    "6": {
-      "título": "",
-      "texto": "Pois a inclinação da carne é morte, mas a do Espírito é vida e paz."
-    },
-    "7": {
-      "título": "",
-      "texto": "Porque a inclinação da carne é inimizade contra Deus, pois não está sujeita à lei de Deus, nem mesmo pode estar."
-    },
-    "8": {
-      "título": "",
-      "texto": "Portanto, os que estão na carne não podem agradar a Deus."
-    },
-    "9": {
-      "título": "",
-      "texto": "Vocês, porém, não estão na carne, mas no Espírito, se de fato o Espírito de Deus habita em vocês. E, se alguém não tem o Espírito de Cristo, esse tal não é dele."
-    },
-    "10": {
-      "título": "",
-      "texto": "Se, porém, Cristo está em vocês, o corpo, na verdade, está morto por causa do pecado, mas o Espírito é vida, por causa da justiça."
-    },
-    "11": {
-      "título": "",
-      "texto": "Se em vocês habita o Espírito daquele que ressuscitou Jesus dentre os mortos, esse mesmo que ressuscitou Cristo dentre os mortos vivificará também o corpo mortal de vocês, por meio do seu Espírito, que habita em vocês."
-    },
-    "12": {
-      "título": "Filhos e herdeiros",
-      "texto": "Assim, pois, irmãos, somos devedores, não à carne, como se estivéssemos obrigados a viver segundo a carne."
-    },
-    "13": {
-      "título": "",
-      "texto": "Porque, se vocês viverem segundo a carne, caminharão para a morte; mas, se, pelo Espírito, mortificarem os feitos do corpo, certamente viverão."
-    },
-    "14": {
-      "título": "",
-      "texto": "Pois todos os que são guiados pelo Espírito de Deus são filhos de Deus."
-    },
-    "15": {
-      "título": "",
-      "texto": "Porque vocês não receberam um espírito de escravidão, para viverem outra vez atemorizados, mas receberam o Espírito de adoção, por meio do qual clamamos: “Aba, Pai.”"
-    },
-    "16": {
-      "título": "",
-      "texto": "O próprio Espírito confirma ao nosso espírito que somos filhos de Deus."
-    },
-    "17": {
-      "título": "",
-      "texto": "E, se somos filhos, somos também herdeiros; herdeiros de Deus e coerdeiros com Cristo, se com ele sofremos, para que também com ele sejamos glorificados."
-    },
-    "18": {
-      "título": "Os sofrimentos do presente e a glória futura",
-      "texto": "Porque para mim tenho por certo que os sofrimentos do tempo presente não podem ser comparados com a glória a ser revelada em nós."
-    },
-    "19": {
-      "título": "",
-      "texto": "A ardente expectativa da criação aguarda a revelação dos filhos de Deus."
-    },
-    "20": {
-      "título": "",
-      "texto": "Pois a criação está sujeita à vaidade, não por sua própria vontade, mas por causa daquele que a sujeitou,"
-    },
-    "21": {
-      "título": "",
-      "texto": "na esperança de que a própria criação será libertada do cativeiro da corrupção, para a liberdade da glória dos filhos de Deus."
-    },
-    "22": {
-      "título": "",
-      "texto": "Porque sabemos que toda a criação a um só tempo geme e suporta angústias até agora."
-    },
-    "23": {
-      "título": "",
-      "texto": "E não somente ela, mas também nós, que temos as primícias do Espírito, igualmente gememos em nosso íntimo, aguardando a adoção de filhos, a redenção do nosso corpo."
-    },
-    "24": {
-      "título": "",
-      "texto": "Porque na esperança fomos salvos. Ora, esperança que se vê não é esperança. Pois quem espera o que está vendo?"
-    },
-    "25": {
-      "título": "",
-      "texto": "Mas, se esperamos o que não vemos, com paciência o aguardamos."
-    },
-    "26": {
-      "título": "A intercessão do Espírito",
-      "texto": "Da mesma maneira, também o Espírito nos ajuda em nossa fraqueza. Porque não sabemos orar como convém, mas o próprio Espírito intercede por nós com gemidos inexprimíveis."
-    },
-    "27": {
-      "título": "",
-      "texto": "E aquele que sonda os corações sabe qual é a mente do Espírito, porque intercede pelos santos de acordo com a vontade de Deus."
-    },
-    "28": {
-      "título": "",
-      "texto": "Sabemos que todas as coisas cooperam para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito."
-    },
-    "29": {
-      "título": "",
-      "texto": "Pois aqueles que Deus de antemão conheceu ele também predestinou para serem conformes à imagem de seu Filho, a fim de que ele seja o primogênito entre muitos irmãos."
-    },
-    "30": {
-      "título": "",
-      "texto": "E aos que predestinou, a esses também chamou; e aos que chamou, a esses também justificou; e aos que justificou, a esses também glorificou."
-    },
-    "31": {
-      "título": "Nada nos separa do amor de Deus",
-      "texto": "Que diremos, então, à vista destas coisas? Se Deus é por nós, quem será contra nós?"
-    },
-    "32": {
-      "título": "",
-      "texto": "Aquele que não poupou o seu próprio Filho, mas por todos nós o entregou, será que não nos dará graciosamente com ele todas as coisas?"
-    },
-    "33": {
-      "título": "",
-      "texto": "Quem intentará acusação contra os eleitos de Deus? É Deus quem os justifica."
-    },
-    "34": {
-      "título": "",
-      "texto": "Quem os condenará? É Cristo Jesus quem morreu, ou melhor, quem ressuscitou, o qual está à direita de Deus e também intercede por nós."
-    },
-    "35": {
-      "título": "",
-      "texto": "Quem nos separará do amor de Cristo? Será a tribulação, ou a angústia, ou a perseguição, ou a fome, ou a nudez, ou o perigo ou a espada?"
-    },
-    "36": {
-      "título": "",
-      "texto": "Como está escrito:"
-    },
-    "37": {
-      "título": "",
-      "texto": "Em todas estas coisas, porém, somos mais que vencedores, por meio daquele que nos amou."
-    },
-    "38": {
-      "título": "",
-      "texto": "Porque eu estou bem certo de que nem a morte, nem a vida, nem os anjos, nem os principados, nem as coisas do presente, nem do porvir, nem os poderes,"
-    },
-    "39": {
-      "título": "",
-      "texto": "nem a altura, nem a profundidade, nem qualquer outra criatura poderá nos separar do amor de Deus, que está em Cristo Jesus, nosso Senhor."
+    "versiculos": {
+        "1": "Agora, pois, já não existe nenhuma condenação para os que estão em Cristo Jesus.",
+        "2": "Porque a lei do Espírito da vida, em Cristo Jesus, livrou você da lei do pecado e da morte.",
+        "3": "Porque aquilo que a lei não podia fazer, por causa da fraqueza da carne, isso Deus fez, enviando o seu próprio Filho em semelhança de carne pecaminosa e no que diz respeito ao pecado. E assim Deus condenou o pecado na carne,",
+        "4": "a fim de que a exigência da lei se cumprisse em nós, que não vivemos segundo a carne, mas segundo o Espírito.",
+        "5": "Os que vivem segundo a carne se inclinam para as coisas da carne, mas os que vivem segundo o Espírito se inclinam para as coisas do Espírito.",
+        "6": "Pois a inclinação da carne é morte, mas a do Espírito é vida e paz.",
+        "7": "Porque a inclinação da carne é inimizade contra Deus, pois não está sujeita à lei de Deus, nem mesmo pode estar.",
+        "8": "Portanto, os que estão na carne não podem agradar a Deus.",
+        "9": "Vocês, porém, não estão na carne, mas no Espírito, se de fato o Espírito de Deus habita em vocês. E, se alguém não tem o Espírito de Cristo, esse tal não é dele.",
+        "10": "Se, porém, Cristo está em vocês, o corpo, na verdade, está morto por causa do pecado, mas o Espírito é vida, por causa da justiça.",
+        "11": "Se em vocês habita o Espírito daquele que ressuscitou Jesus dentre os mortos, esse mesmo que ressuscitou Cristo dentre os mortos vivificará também o corpo mortal de vocês, por meio do seu Espírito, que habita em vocês.",
+        "12": "Assim, pois, irmãos, somos devedores, não à carne, como se estivéssemos obrigados a viver segundo a carne.",
+        "13": "Porque, se vocês viverem segundo a carne, caminharão para a morte; mas, se, pelo Espírito, mortificarem os feitos do corpo, certamente viverão.",
+        "14": "Pois todos os que são guiados pelo Espírito de Deus são filhos de Deus.",
+        "15": "Porque vocês não receberam um espírito de escravidão, para viverem outra vez atemorizados, mas receberam o Espírito de adoção, por meio do qual clamamos: “Aba, Pai.”",
+        "16": "O próprio Espírito confirma ao nosso espírito que somos filhos de Deus.",
+        "17": "E, se somos filhos, somos também herdeiros; herdeiros de Deus e coerdeiros com Cristo, se com ele sofremos, para que também com ele sejamos glorificados.",
+        "18": "Porque para mim tenho por certo que os sofrimentos do tempo presente não podem ser comparados com a glória a ser revelada em nós.",
+        "19": "A ardente expectativa da criação aguarda a revelação dos filhos de Deus.",
+        "20": "Pois a criação está sujeita à vaidade, não por sua própria vontade, mas por causa daquele que a sujeitou,",
+        "21": "na esperança de que a própria criação será libertada do cativeiro da corrupção, para a liberdade da glória dos filhos de Deus.",
+        "22": "Porque sabemos que toda a criação a um só tempo geme e suporta angústias até agora.",
+        "23": "E não somente ela, mas também nós, que temos as primícias do Espírito, igualmente gememos em nosso íntimo, aguardando a adoção de filhos, a redenção do nosso corpo.",
+        "24": "Porque na esperança fomos salvos. Ora, esperança que se vê não é esperança. Pois quem espera o que está vendo?",
+        "25": "Mas, se esperamos o que não vemos, com paciência o aguardamos.",
+        "26": "Da mesma maneira, também o Espírito nos ajuda em nossa fraqueza. Porque não sabemos orar como convém, mas o próprio Espírito intercede por nós com gemidos inexprimíveis.",
+        "27": "E aquele que sonda os corações sabe qual é a mente do Espírito, porque intercede pelos santos de acordo com a vontade de Deus.",
+        "28": "Sabemos que todas as coisas cooperam para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito.",
+        "29": "Pois aqueles que Deus de antemão conheceu ele também predestinou para serem conformes à imagem de seu Filho, a fim de que ele seja o primogênito entre muitos irmãos.",
+        "30": "E aos que predestinou, a esses também chamou; e aos que chamou, a esses também justificou; e aos que justificou, a esses também glorificou.",
+        "31": "Que diremos, então, à vista destas coisas? Se Deus é por nós, quem será contra nós?",
+        "32": "Aquele que não poupou o seu próprio Filho, mas por todos nós o entregou, será que não nos dará graciosamente com ele todas as coisas?",
+        "33": "Quem intentará acusação contra os eleitos de Deus? É Deus quem os justifica.",
+        "34": "Quem os condenará? É Cristo Jesus quem morreu, ou melhor, quem ressuscitou, o qual está à direita de Deus e também intercede por nós.",
+        "35": "Quem nos separará do amor de Cristo? Será a tribulação, ou a angústia, ou a perseguição, ou a fome, ou a nudez, ou o perigo ou a espada?",
+        "36": "Como está escrito:",
+        "37": "Em todas estas coisas, porém, somos mais que vencedores, por meio daquele que nos amou.",
+        "38": "Porque eu estou bem certo de que nem a morte, nem a vida, nem os anjos, nem os principados, nem as coisas do presente, nem do porvir, nem os poderes,",
+        "39": "nem a altura, nem a profundidade, nem qualquer outra criatura poderá nos separar do amor de Deus, que está em Cristo Jesus, nosso Senhor."
     }
-  }
 }

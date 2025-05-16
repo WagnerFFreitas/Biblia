@@ -1,86 +1,29 @@
 {
-  "livro": "Salmos",
-  "capítulo": 49,
-  "versículos": {
-    "1": {
-      "título": "A vaidade das riquezas",
-      "texto": "Povos todos, escutem isto;"
+    "livro": "Salmos",
+    "capitulo": 49,
+    "titulos": {
+        "1": "A vaidade das riquezas"
     },
-    "2": {
-      "título": "",
-      "texto": "tanto os humildes"
-    },
-    "3": {
-      "título": "",
-      "texto": "Os meus lábios falarão sabedoria,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Inclinarei os meus ouvidos"
-    },
-    "5": {
-      "título": "",
-      "texto": "Por que temerei nos dias maus,"
-    },
-    "6": {
-      "título": "",
-      "texto": "dos que confiam nos seus bens"
-    },
-    "7": {
-      "título": "",
-      "texto": "Ao irmão, verdadeiramente,"
-    },
-    "8": {
-      "título": "",
-      "texto": "pois a redenção da alma deles"
-    },
-    "9": {
-      "título": "",
-      "texto": "para que continue a viver"
-    },
-    "10": {
-      "título": "",
-      "texto": "Porque vê-se"
-    },
-    "11": {
-      "título": "",
-      "texto": "Em seu íntimo pensam"
-    },
-    "12": {
-      "título": "",
-      "texto": "Todavia, o ser humano"
-    },
-    "13": {
-      "título": "",
-      "texto": "Tal proceder é tolice deles;"
-    },
-    "14": {
-      "título": "",
-      "texto": "Como ovelhas"
-    },
-    "15": {
-      "título": "",
-      "texto": "Mas Deus remirá a minha alma"
-    },
-    "16": {
-      "título": "",
-      "texto": "Não tenha medo,"
-    },
-    "17": {
-      "título": "",
-      "texto": "pois, quando morrer,"
-    },
-    "18": {
-      "título": "",
-      "texto": "Ainda que durante a vida"
-    },
-    "19": {
-      "título": "",
-      "texto": "irá juntar-se à geração"
-    },
-    "20": {
-      "título": "",
-      "texto": "O ser humano,"
+    "versiculos": {
+        "1": "Povos todos, escutem isto;",
+        "2": "tanto os humildes",
+        "3": "Os meus lábios falarão sabedoria,",
+        "4": "Inclinarei os meus ouvidos",
+        "5": "Por que temerei nos dias maus,",
+        "6": "dos que confiam nos seus bens",
+        "7": "Ao irmão, verdadeiramente,",
+        "8": "pois a redenção da alma deles",
+        "9": "para que continue a viver",
+        "10": "Porque vê-se",
+        "11": "Em seu íntimo pensam",
+        "12": "Todavia, o ser humano",
+        "13": "Tal proceder é tolice deles;",
+        "14": "Como ovelhas",
+        "15": "Mas Deus remirá a minha alma",
+        "16": "Não tenha medo,",
+        "17": "pois, quando morrer,",
+        "18": "Ainda que durante a vida",
+        "19": "irá juntar-se à geração",
+        "20": "O ser humano,"
     }
-  }
 }

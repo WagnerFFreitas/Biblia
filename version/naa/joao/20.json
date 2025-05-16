@@ -1,130 +1,44 @@
 {
-  "livro": "João",
-  "capítulo": 20,
-  "versículos": {
-    "1": {
-      "título": "A ressurreição de Jesus",
-      "texto": "No primeiro dia da semana, de madrugada, quando ainda estava escuro, Maria Madalena foi ao túmulo e viu que a pedra da entrada tinha sido removida."
+    "livro": "João",
+    "capitulo": 20,
+    "titulos": {
+        "1": "A ressurreição de Jesus",
+        "11": "Jesus aparece a Maria Madalena",
+        "19": "Jesus aparece aos discípulos",
+        "24": "Jesus e Tomé",
+        "30": "O objetivo deste Evangelho"
     },
-    "2": {
-      "título": "",
-      "texto": "Então correu e foi até onde estavam Simão Pedro e o outro discípulo, a quem Jesus amava, e disse-lhes:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Com isso, Pedro e o outro discípulo saíram e foram até o túmulo."
-    },
-    "4": {
-      "título": "",
-      "texto": "Ambos corriam juntos, mas o outro discípulo correu mais depressa do que Pedro e chegou primeiro ao túmulo."
-    },
-    "5": {
-      "título": "",
-      "texto": "E, abaixando-se, viu os lençóis de linho, mas não entrou."
-    },
-    "6": {
-      "título": "",
-      "texto": "Simão Pedro, seguindo-o, chegou e entrou no túmulo. Ele também viu os lençóis"
-    },
-    "7": {
-      "título": "",
-      "texto": "e o lenço que tinha estado sobre a cabeça de Jesus, e que não estava com os lençóis, mas enrolado num lugar à parte."
-    },
-    "8": {
-      "título": "",
-      "texto": "Então o outro discípulo, que havia chegado primeiro ao túmulo, também entrou. Ele viu e creu."
-    },
-    "9": {
-      "título": "",
-      "texto": "Pois ainda não tinham compreendido a Escritura, que era necessário que ele ressuscitasse dentre os mortos."
-    },
-    "10": {
-      "título": "",
-      "texto": "E os discípulos voltaram outra vez para casa."
-    },
-    "11": {
-      "título": "Jesus aparece a Maria Madalena",
-      "texto": "Maria, no entanto, permanecia junto à entrada do túmulo, chorando. Enquanto chorava, abaixou-se e olhou para dentro do túmulo."
-    },
-    "12": {
-      "título": "",
-      "texto": "Ela viu dois anjos vestidos de branco, sentados onde o corpo de Jesus tinha sido colocado, um à cabeceira e outro aos pés."
-    },
-    "13": {
-      "título": "",
-      "texto": "Então eles perguntaram:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Depois de dizer isso, ela se virou para trás e viu Jesus em pé, mas não reconheceu que era Jesus."
-    },
-    "15": {
-      "título": "",
-      "texto": "Jesus lhe perguntou:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Jesus disse:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Jesus continuou:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Então Maria Madalena foi e anunciou aos discípulos:"
-    },
-    "19": {
-      "título": "Jesus aparece aos discípulos",
-      "texto": "Ao cair da tarde daquele dia, o primeiro da semana, estando trancadas as portas da casa onde estavam os discípulos, com medo dos judeus, Jesus veio e se pôs no meio deles, dizendo:"
-    },
-    "20": {
-      "título": "",
-      "texto": "E, dizendo isso, lhes mostrou as mãos e o lado. Então os discípulos se alegraram ao ver o Senhor."
-    },
-    "21": {
-      "título": "",
-      "texto": "E Jesus lhes disse outra vez:"
-    },
-    "22": {
-      "título": "",
-      "texto": "E, havendo dito isso, soprou sobre eles e disse-lhes:"
-    },
-    "23": {
-      "título": "",
-      "texto": "Se de alguns vocês perdoarem os pecados, são-lhes perdoados; mas, se os retiverem, são retidos."
-    },
-    "24": {
-      "título": "Jesus e Tomé",
-      "texto": "Tomé, um dos doze, chamado Dídimo, não estava com eles quando Jesus veio."
-    },
-    "25": {
-      "título": "",
-      "texto": "Então os outros discípulos disseram a Tomé:"
-    },
-    "26": {
-      "título": "",
-      "texto": "Passados oito dias, os discípulos de Jesus estavam outra vez reunidos, e Tomé estava com eles. Estando as portas trancadas, Jesus veio, pôs-se no meio deles e disse:"
-    },
-    "27": {
-      "título": "",
-      "texto": "E logo disse a Tomé:"
-    },
-    "28": {
-      "título": "",
-      "texto": "Ao que Tomé lhe respondeu:"
-    },
-    "29": {
-      "título": "",
-      "texto": "Jesus lhe disse:"
-    },
-    "30": {
-      "título": "O objetivo deste Evangelho",
-      "texto": "Na verdade, Jesus fez diante dos seus discípulos muitos outros sinais que não estão escritos neste livro."
-    },
-    "31": {
-      "título": "",
-      "texto": "Estes, porém, foram registrados para que vocês creiam que Jesus é o Cristo, o Filho de Deus, e para que, crendo, tenham vida em seu nome."
+    "versiculos": {
+        "1": "No primeiro dia da semana, de madrugada, quando ainda estava escuro, Maria Madalena foi ao túmulo e viu que a pedra da entrada tinha sido removida.",
+        "2": "Então correu e foi até onde estavam Simão Pedro e o outro discípulo, a quem Jesus amava, e disse-lhes:",
+        "3": "Com isso, Pedro e o outro discípulo saíram e foram até o túmulo.",
+        "4": "Ambos corriam juntos, mas o outro discípulo correu mais depressa do que Pedro e chegou primeiro ao túmulo.",
+        "5": "E, abaixando-se, viu os lençóis de linho, mas não entrou.",
+        "6": "Simão Pedro, seguindo-o, chegou e entrou no túmulo. Ele também viu os lençóis",
+        "7": "e o lenço que tinha estado sobre a cabeça de Jesus, e que não estava com os lençóis, mas enrolado num lugar à parte.",
+        "8": "Então o outro discípulo, que havia chegado primeiro ao túmulo, também entrou. Ele viu e creu.",
+        "9": "Pois ainda não tinham compreendido a Escritura, que era necessário que ele ressuscitasse dentre os mortos.",
+        "10": "E os discípulos voltaram outra vez para casa.",
+        "11": "Maria, no entanto, permanecia junto à entrada do túmulo, chorando. Enquanto chorava, abaixou-se e olhou para dentro do túmulo.",
+        "12": "Ela viu dois anjos vestidos de branco, sentados onde o corpo de Jesus tinha sido colocado, um à cabeceira e outro aos pés.",
+        "13": "Então eles perguntaram:",
+        "14": "Depois de dizer isso, ela se virou para trás e viu Jesus em pé, mas não reconheceu que era Jesus.",
+        "15": "Jesus lhe perguntou:",
+        "16": "Jesus disse:",
+        "17": "Jesus continuou:",
+        "18": "Então Maria Madalena foi e anunciou aos discípulos:",
+        "19": "Ao cair da tarde daquele dia, o primeiro da semana, estando trancadas as portas da casa onde estavam os discípulos, com medo dos judeus, Jesus veio e se pôs no meio deles, dizendo:",
+        "20": "E, dizendo isso, lhes mostrou as mãos e o lado. Então os discípulos se alegraram ao ver o Senhor.",
+        "21": "E Jesus lhes disse outra vez:",
+        "22": "E, havendo dito isso, soprou sobre eles e disse-lhes:",
+        "23": "Se de alguns vocês perdoarem os pecados, são-lhes perdoados; mas, se os retiverem, são retidos.",
+        "24": "Tomé, um dos doze, chamado Dídimo, não estava com eles quando Jesus veio.",
+        "25": "Então os outros discípulos disseram a Tomé:",
+        "26": "Passados oito dias, os discípulos de Jesus estavam outra vez reunidos, e Tomé estava com eles. Estando as portas trancadas, Jesus veio, pôs-se no meio deles e disse:",
+        "27": "E logo disse a Tomé:",
+        "28": "Ao que Tomé lhe respondeu:",
+        "29": "Jesus lhe disse:",
+        "30": "Na verdade, Jesus fez diante dos seus discípulos muitos outros sinais que não estão escritos neste livro.",
+        "31": "Estes, porém, foram registrados para que vocês creiam que Jesus é o Cristo, o Filho de Deus, e para que, crendo, tenham vida em seu nome."
     }
-  }
 }

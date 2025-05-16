@@ -1,54 +1,21 @@
 {
-  "livro": "Zacarias",
-  "capítulo": 10,
-  "versículos": {
-    "1": {
-      "título": "Deus abençoará Judá e Israel",
-      "texto": "Peçam ao Senhor chuva"
+    "livro": "Zacarias",
+    "capitulo": 10,
+    "titulos": {
+        "1": "Deus abençoará Judá e Israel"
     },
-    "2": {
-      "título": "",
-      "texto": "Porque os ídolos do lar"
-    },
-    "3": {
-      "título": "",
-      "texto": "“É contra os pastores"
-    },
-    "4": {
-      "título": "",
-      "texto": "De Judá sairá a pedra angular;"
-    },
-    "5": {
-      "título": "",
-      "texto": "E serão como valentes"
-    },
-    "6": {
-      "título": "",
-      "texto": "“Fortalecerei a casa de Judá"
-    },
-    "7": {
-      "título": "",
-      "texto": "Os de Efraim serão"
-    },
-    "8": {
-      "título": "",
-      "texto": "Eu lhes assobiarei e os reunirei,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Embora eu os tenha espalhado"
-    },
-    "10": {
-      "título": "",
-      "texto": "Porque eu os farei voltar"
-    },
-    "11": {
-      "título": "",
-      "texto": "Passarão pelo mar de angústia,"
-    },
-    "12": {
-      "título": "",
-      "texto": "Eu os fortalecerei no Senhor ,"
+    "versiculos": {
+        "1": "Peçam ao Senhor chuva",
+        "2": "Porque os ídolos do lar",
+        "3": "“É contra os pastores",
+        "4": "De Judá sairá a pedra angular;",
+        "5": "E serão como valentes",
+        "6": "“Fortalecerei a casa de Judá",
+        "7": "Os de Efraim serão",
+        "8": "Eu lhes assobiarei e os reunirei,",
+        "9": "Embora eu os tenha espalhado",
+        "10": "Porque eu os farei voltar",
+        "11": "Passarão pelo mar de angústia,",
+        "12": "Eu os fortalecerei no Senhor ,"
     }
-  }
 }

@@ -1,38 +1,17 @@
 {
-  "livro": "Salmos",
-  "capítulo": 101,
-  "versículos": {
-    "1": {
-      "título": "Promessas de um rei",
-      "texto": "Cantarei a respeito da bondade"
+    "livro": "Salmos",
+    "capitulo": 101,
+    "titulos": {
+        "1": "Promessas de um rei"
     },
-    "2": {
-      "título": "",
-      "texto": "Quero, com sabedoria, refletir"
-    },
-    "3": {
-      "título": "",
-      "texto": "Não porei coisa injusta"
-    },
-    "4": {
-      "título": "",
-      "texto": "Longe de mim o coração perverso;"
-    },
-    "5": {
-      "título": "",
-      "texto": "Ao que às escondidas"
-    },
-    "6": {
-      "título": "",
-      "texto": "Os meus olhos procurarão"
-    },
-    "7": {
-      "título": "",
-      "texto": "Não ficará em minha casa"
-    },
-    "8": {
-      "título": "",
-      "texto": "Manhã após manhã, destruirei"
+    "versiculos": {
+        "1": "Cantarei a respeito da bondade",
+        "2": "Quero, com sabedoria, refletir",
+        "3": "Não porei coisa injusta",
+        "4": "Longe de mim o coração perverso;",
+        "5": "Ao que às escondidas",
+        "6": "Os meus olhos procurarão",
+        "7": "Não ficará em minha casa",
+        "8": "Manhã após manhã, destruirei"
     }
-  }
 }

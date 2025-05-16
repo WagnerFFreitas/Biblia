@@ -1,138 +1,43 @@
 {
-  "livro": "1 Coríntios",
-  "capítulo": 10,
-  "versículos": {
-    "1": {
-      "título": "Conselhos contra a idolatria",
-      "texto": "Ora, irmãos, não quero que vocês ignorem que os nossos pais estiveram todos sob a nuvem, e todos passaram pelo mar,"
+    "livro": "1 Coríntios",
+    "capitulo": 10,
+    "titulos": {
+        "1": "Conselhos contra a idolatria",
+        "23": "Os limites da liberdade cristã"
     },
-    "2": {
-      "título": "",
-      "texto": "e todos, em Moisés, foram batizados, tanto na nuvem como no mar."
-    },
-    "3": {
-      "título": "",
-      "texto": "Todos eles comeram do mesmo alimento espiritual"
-    },
-    "4": {
-      "título": "",
-      "texto": "e beberam da mesma bebida espiritual. Porque bebiam de uma pedra espiritual que os seguia; e a pedra era Cristo."
-    },
-    "5": {
-      "título": "",
-      "texto": "Mas Deus não se agradou da maioria deles, razão pela qual ficaram prostrados no deserto."
-    },
-    "6": {
-      "título": "",
-      "texto": "Ora, estas coisas se tornaram exemplos para nós, a fim de que não cobicemos as coisas más, como eles cobiçaram."
-    },
-    "7": {
-      "título": "",
-      "texto": "Não sejam idólatras, como alguns deles foram, conforme está escrito: “O povo assentou-se para comer e beber e levantou-se para se divertir.”"
-    },
-    "8": {
-      "título": "",
-      "texto": "E não pratiquemos imoralidade, como alguns deles o fizeram e caíram mortos, num só dia, vinte e três mil."
-    },
-    "9": {
-      "título": "",
-      "texto": "Não ponhamos Cristo à prova, como alguns deles fizeram e foram mortos pelas serpentes."
-    },
-    "10": {
-      "título": "",
-      "texto": "Não fiquem murmurando, como alguns deles murmuraram e foram destruídos pelo exterminador."
-    },
-    "11": {
-      "título": "",
-      "texto": "Estas coisas aconteceram com eles para servir de exemplo e foram escritas como advertência a nós, para quem o fim dos tempos tem chegado."
-    },
-    "12": {
-      "título": "",
-      "texto": "Por isso, aquele que pensa estar em pé veja que não caia."
-    },
-    "13": {
-      "título": "",
-      "texto": "Não sobreveio a vocês nenhuma tentação que não fosse humana; mas Deus é fiel e não permitirá que vocês sejam tentados além do que podem suportar; pelo contrário, juntamente com a tentação proverá livramento, para que vocês a possam suportar."
-    },
-    "14": {
-      "título": "",
-      "texto": "Portanto, meus amados, fujam da idolatria."
-    },
-    "15": {
-      "título": "",
-      "texto": "Falo como a pessoas sábias; julguem vocês mesmos o que digo."
-    },
-    "16": {
-      "título": "",
-      "texto": "Não é fato que o cálice da bênção que abençoamos é a comunhão do sangue de Cristo? E não é fato que o pão que partimos é a comunhão do corpo de Cristo?"
-    },
-    "17": {
-      "título": "",
-      "texto": "Porque nós, embora muitos, somos unicamente um pão, um só corpo; porque todos participamos do único pão."
-    },
-    "18": {
-      "título": "",
-      "texto": "Considerem o Israel segundo a carne. Não é verdade que aqueles que se alimentam dos sacrifícios são participantes do altar?"
-    },
-    "19": {
-      "título": "",
-      "texto": "O que quero dizer com isto? Que o que é sacrificado ao ídolo é alguma coisa? Ou que o próprio ídolo tem algum valor?"
-    },
-    "20": {
-      "título": "",
-      "texto": "Não! Digo que as coisas que eles sacrificam são sacrificadas a demônios e não a Deus; e eu não quero que vocês estejam em comunhão com os demônios."
-    },
-    "21": {
-      "título": "",
-      "texto": "Vocês não podem beber o cálice do Senhor e o cálice dos demônios; não podem ser participantes da mesa do Senhor e da mesa dos demônios."
-    },
-    "22": {
-      "título": "",
-      "texto": "Ou provocaremos ciúmes no Senhor? Somos, por acaso, mais fortes do que ele?"
-    },
-    "23": {
-      "título": "Os limites da liberdade cristã",
-      "texto": "“Todas as coisas são lícitas”, mas nem todas convêm; “todas as coisas são lícitas”, mas nem todas edificam."
-    },
-    "24": {
-      "título": "",
-      "texto": "Ninguém busque o seu próprio interesse, e sim o de seu próximo."
-    },
-    "25": {
-      "título": "",
-      "texto": "Comam de tudo o que se vende no mercado, sem questionamento algum por motivo de consciência."
-    },
-    "26": {
-      "título": "",
-      "texto": "Porque do Senhor é a terra e a sua plenitude."
-    },
-    "27": {
-      "título": "",
-      "texto": "Se alguém que não é crente convidá-los para comer, e vocês quiserem ir, comam de tudo o que for posto diante de vocês, sem questionamento algum por motivo de consciência."
-    },
-    "28": {
-      "título": "",
-      "texto": "Porém, se alguém disser a vocês: “Isto é coisa sacrificada a ídolo”, não comam, por causa daquele que deu a informação e por motivo de consciência;"
-    },
-    "29": {
-      "título": "",
-      "texto": "consciência, digo, não a sua propriamente, mas a do outro."
-    },
-    "30": {
-      "título": "",
-      "texto": "Se eu participo com gratidão, por que sou criticado por causa daquilo por que dou graças?”"
-    },
-    "31": {
-      "título": "",
-      "texto": "Portanto, se vocês comem, ou bebem ou fazem qualquer outra coisa, façam tudo para a glória de Deus."
-    },
-    "32": {
-      "título": "",
-      "texto": "Não se tornem motivo de tropeço nem para judeus, nem para gentios, nem para a igreja de Deus,"
-    },
-    "33": {
-      "título": "",
-      "texto": "assim como também eu procuro, em tudo, ser agradável a todos, não buscando o meu próprio interesse, mas o de muitos, para que sejam salvos."
+    "versiculos": {
+        "1": "Ora, irmãos, não quero que vocês ignorem que os nossos pais estiveram todos sob a nuvem, e todos passaram pelo mar,",
+        "2": "e todos, em Moisés, foram batizados, tanto na nuvem como no mar.",
+        "3": "Todos eles comeram do mesmo alimento espiritual",
+        "4": "e beberam da mesma bebida espiritual. Porque bebiam de uma pedra espiritual que os seguia; e a pedra era Cristo.",
+        "5": "Mas Deus não se agradou da maioria deles, razão pela qual ficaram prostrados no deserto.",
+        "6": "Ora, estas coisas se tornaram exemplos para nós, a fim de que não cobicemos as coisas más, como eles cobiçaram.",
+        "7": "Não sejam idólatras, como alguns deles foram, conforme está escrito: “O povo assentou-se para comer e beber e levantou-se para se divertir.”",
+        "8": "E não pratiquemos imoralidade, como alguns deles o fizeram e caíram mortos, num só dia, vinte e três mil.",
+        "9": "Não ponhamos Cristo à prova, como alguns deles fizeram e foram mortos pelas serpentes.",
+        "10": "Não fiquem murmurando, como alguns deles murmuraram e foram destruídos pelo exterminador.",
+        "11": "Estas coisas aconteceram com eles para servir de exemplo e foram escritas como advertência a nós, para quem o fim dos tempos tem chegado.",
+        "12": "Por isso, aquele que pensa estar em pé veja que não caia.",
+        "13": "Não sobreveio a vocês nenhuma tentação que não fosse humana; mas Deus é fiel e não permitirá que vocês sejam tentados além do que podem suportar; pelo contrário, juntamente com a tentação proverá livramento, para que vocês a possam suportar.",
+        "14": "Portanto, meus amados, fujam da idolatria.",
+        "15": "Falo como a pessoas sábias; julguem vocês mesmos o que digo.",
+        "16": "Não é fato que o cálice da bênção que abençoamos é a comunhão do sangue de Cristo? E não é fato que o pão que partimos é a comunhão do corpo de Cristo?",
+        "17": "Porque nós, embora muitos, somos unicamente um pão, um só corpo; porque todos participamos do único pão.",
+        "18": "Considerem o Israel segundo a carne. Não é verdade que aqueles que se alimentam dos sacrifícios são participantes do altar?",
+        "19": "O que quero dizer com isto? Que o que é sacrificado ao ídolo é alguma coisa? Ou que o próprio ídolo tem algum valor?",
+        "20": "Não! Digo que as coisas que eles sacrificam são sacrificadas a demônios e não a Deus; e eu não quero que vocês estejam em comunhão com os demônios.",
+        "21": "Vocês não podem beber o cálice do Senhor e o cálice dos demônios; não podem ser participantes da mesa do Senhor e da mesa dos demônios.",
+        "22": "Ou provocaremos ciúmes no Senhor? Somos, por acaso, mais fortes do que ele?",
+        "23": "“Todas as coisas são lícitas”, mas nem todas convêm; “todas as coisas são lícitas”, mas nem todas edificam.",
+        "24": "Ninguém busque o seu próprio interesse, e sim o de seu próximo.",
+        "25": "Comam de tudo o que se vende no mercado, sem questionamento algum por motivo de consciência.",
+        "26": "Porque do Senhor é a terra e a sua plenitude.",
+        "27": "Se alguém que não é crente convidá-los para comer, e vocês quiserem ir, comam de tudo o que for posto diante de vocês, sem questionamento algum por motivo de consciência.",
+        "28": "Porém, se alguém disser a vocês: “Isto é coisa sacrificada a ídolo”, não comam, por causa daquele que deu a informação e por motivo de consciência;",
+        "29": "consciência, digo, não a sua propriamente, mas a do outro.",
+        "30": "Se eu participo com gratidão, por que sou criticado por causa daquilo por que dou graças?”",
+        "31": "Portanto, se vocês comem, ou bebem ou fazem qualquer outra coisa, façam tudo para a glória de Deus.",
+        "32": "Não se tornem motivo de tropeço nem para judeus, nem para gentios, nem para a igreja de Deus,",
+        "33": "assim como também eu procuro, em tudo, ser agradável a todos, não buscando o meu próprio interesse, mas o de muitos, para que sejam salvos."
     }
-  }
 }

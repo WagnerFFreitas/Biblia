@@ -1,86 +1,30 @@
 {
-  "livro": "Joel",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Palavra do Senhor que foi dirigida a Joel, filho de Petuel."
+    "livro": "Joel",
+    "capitulo": 1,
+    "titulos": {
+        "2": "A praga de gafanhotos e a seca",
+        "13": "Chamado ao arrependimento"
     },
-    "2": {
-      "título": "A praga de gafanhotos e a seca",
-      "texto": "“Prestem atenção, velhos,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Contem isto aos filhos de vocês;"
-    },
-    "4": {
-      "título": "",
-      "texto": "“O que o gafanhoto cortador"
-    },
-    "5": {
-      "título": "",
-      "texto": "“Acordem, beberrões, e chorem!"
-    },
-    "6": {
-      "título": "",
-      "texto": "Porque veio um povo"
-    },
-    "7": {
-      "título": "",
-      "texto": "Destruiu as minhas videiras"
-    },
-    "8": {
-      "título": "",
-      "texto": "“Lamentem,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Na Casa do Senhor ,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Os campos foram arrasados,"
-    },
-    "11": {
-      "título": "",
-      "texto": "“Fiquem envergonhados,"
-    },
-    "12": {
-      "título": "",
-      "texto": "As videiras secaram,"
-    },
-    "13": {
-      "título": "Chamado ao arrependimento",
-      "texto": "“Sacerdotes, vistam roupa"
-    },
-    "14": {
-      "título": "",
-      "texto": "Proclamem um santo jejum,"
-    },
-    "15": {
-      "título": "",
-      "texto": "“Ah! Que dia!"
-    },
-    "16": {
-      "título": "",
-      "texto": "Por acaso, o alimento"
-    },
-    "17": {
-      "título": "",
-      "texto": "As sementes secaram"
-    },
-    "18": {
-      "título": "",
-      "texto": "Como geme o gado!"
-    },
-    "19": {
-      "título": "",
-      "texto": "A ti, ó Senhor , clamo,"
-    },
-    "20": {
-      "título": "",
-      "texto": "Também todos os animais selvagens"
+    "versiculos": {
+        "1": "Palavra do Senhor que foi dirigida a Joel, filho de Petuel.",
+        "2": "“Prestem atenção, velhos,",
+        "3": "Contem isto aos filhos de vocês;",
+        "4": "“O que o gafanhoto cortador",
+        "5": "“Acordem, beberrões, e chorem!",
+        "6": "Porque veio um povo",
+        "7": "Destruiu as minhas videiras",
+        "8": "“Lamentem,",
+        "9": "Na Casa do Senhor ,",
+        "10": "Os campos foram arrasados,",
+        "11": "“Fiquem envergonhados,",
+        "12": "As videiras secaram,",
+        "13": "“Sacerdotes, vistam roupa",
+        "14": "Proclamem um santo jejum,",
+        "15": "“Ah! Que dia!",
+        "16": "Por acaso, o alimento",
+        "17": "As sementes secaram",
+        "18": "Como geme o gado!",
+        "19": "A ti, ó Senhor , clamo,",
+        "20": "Também todos os animais selvagens"
     }
-  }
 }

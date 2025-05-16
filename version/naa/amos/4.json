@@ -1,58 +1,23 @@
 {
-  "livro": "Amós",
-  "capítulo": 4,
-  "versículos": {
-    "1": {
-      "título": "Ameaças contra as mulheres de Samaria",
-      "texto": "“Ouçam esta palavra,"
+    "livro": "Amós",
+    "capitulo": 4,
+    "titulos": {
+        "1": "Ameaças contra as mulheres de Samaria",
+        "4": "A cegueira espiritual de Israel"
     },
-    "2": {
-      "título": "",
-      "texto": "O Senhor Deus jurou"
-    },
-    "3": {
-      "título": "",
-      "texto": "Vocês sairão em fila pelas brechas"
-    },
-    "4": {
-      "título": "A cegueira espiritual de Israel",
-      "texto": "“Venham a Betel e pequem!"
-    },
-    "5": {
-      "título": "",
-      "texto": "Ofereçam sacrifícios de louvor"
-    },
-    "6": {
-      "título": "",
-      "texto": "“Também deixei"
-    },
-    "7": {
-      "título": "",
-      "texto": "“Além disso, retive a chuva,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Pessoas de duas ou três cidades"
-    },
-    "9": {
-      "título": "",
-      "texto": "“Eu os castiguei"
-    },
-    "10": {
-      "título": "",
-      "texto": "“Enviei a peste contra vocês,"
-    },
-    "11": {
-      "título": "",
-      "texto": "“Destruí alguns de vocês,"
-    },
-    "12": {
-      "título": "",
-      "texto": "“Portanto, assim farei"
-    },
-    "13": {
-      "título": "",
-      "texto": "Porque é ele"
+    "versiculos": {
+        "1": "“Ouçam esta palavra,",
+        "2": "O Senhor Deus jurou",
+        "3": "Vocês sairão em fila pelas brechas",
+        "4": "“Venham a Betel e pequem!",
+        "5": "Ofereçam sacrifícios de louvor",
+        "6": "“Também deixei",
+        "7": "“Além disso, retive a chuva,",
+        "8": "Pessoas de duas ou três cidades",
+        "9": "“Eu os castiguei",
+        "10": "“Enviei a peste contra vocês,",
+        "11": "“Destruí alguns de vocês,",
+        "12": "“Portanto, assim farei",
+        "13": "Porque é ele"
     }
-  }
 }

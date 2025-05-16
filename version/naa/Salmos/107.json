@@ -1,178 +1,52 @@
 {
-  "livro": "Salmos",
-  "capítulo": 107,
-  "versículos": {
-    "1": {
-      "título": "Deus salva de todas as tribulações",
-      "texto": "Deem graças ao Senhor ,"
+    "livro": "Salmos",
+    "capitulo": 107,
+    "titulos": {
+        "1": "Deus salva de todas as tribulações"
     },
-    "2": {
-      "título": "",
-      "texto": "Digam-no os remidos do Senhor ,"
-    },
-    "3": {
-      "título": "",
-      "texto": "e congregou dentre as terras,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Andaram errantes pelo deserto,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Famintos e sedentos,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Então, na sua angústia,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Conduziu-os pelo caminho direito,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Que eles deem graças ao Senhor"
-    },
-    "9": {
-      "título": "",
-      "texto": "Pois saciou a alma sedenta"
-    },
-    "10": {
-      "título": "",
-      "texto": "Alguns se assentaram nas trevas"
-    },
-    "11": {
-      "título": "",
-      "texto": "por terem se rebelado"
-    },
-    "12": {
-      "título": "",
-      "texto": "de modo que lhes abateu"
-    },
-    "13": {
-      "título": "",
-      "texto": "Então, na sua angústia,"
-    },
-    "14": {
-      "título": "",
-      "texto": "Tirou-os das trevas"
-    },
-    "15": {
-      "título": "",
-      "texto": "Que eles deem graças ao Senhor"
-    },
-    "16": {
-      "título": "",
-      "texto": "Pois derrubou"
-    },
-    "17": {
-      "título": "",
-      "texto": "Os insensatos, por causa do seu"
-    },
-    "18": {
-      "título": "",
-      "texto": "Abominaram"
-    },
-    "19": {
-      "título": "",
-      "texto": "Então, na sua angústia,"
-    },
-    "20": {
-      "título": "",
-      "texto": "Enviou-lhes a sua palavra,"
-    },
-    "21": {
-      "título": "",
-      "texto": "Que eles deem graças ao Senhor"
-    },
-    "22": {
-      "título": "",
-      "texto": "Que ofereçam sacrifícios"
-    },
-    "23": {
-      "título": "",
-      "texto": "Os que, tomando navios,"
-    },
-    "24": {
-      "título": "",
-      "texto": "esses veem as obras do Senhor"
-    },
-    "25": {
-      "título": "",
-      "texto": "Pois Deus falou e fez levantar"
-    },
-    "26": {
-      "título": "",
-      "texto": "Subiram até os céus,"
-    },
-    "27": {
-      "título": "",
-      "texto": "Andaram, e cambalearam"
-    },
-    "28": {
-      "título": "",
-      "texto": "Então, na sua angústia,"
-    },
-    "29": {
-      "título": "",
-      "texto": "Fez cessar a tormenta,"
-    },
-    "30": {
-      "título": "",
-      "texto": "Então se alegraram"
-    },
-    "31": {
-      "título": "",
-      "texto": "Que eles deem graças ao Senhor"
-    },
-    "32": {
-      "título": "",
-      "texto": "Que o exaltem"
-    },
-    "33": {
-      "título": "",
-      "texto": "Deus transformou rios"
-    },
-    "34": {
-      "título": "",
-      "texto": "fez da terra frutífera"
-    },
-    "35": {
-      "título": "",
-      "texto": "Transformou o deserto"
-    },
-    "36": {
-      "título": "",
-      "texto": "Estabeleceu aí os famintos,"
-    },
-    "37": {
-      "título": "",
-      "texto": "Semearam campos,"
-    },
-    "38": {
-      "título": "",
-      "texto": "Ele os abençoou,"
-    },
-    "39": {
-      "título": "",
-      "texto": "Mas outra vez foram reduzidos"
-    },
-    "40": {
-      "título": "",
-      "texto": "Deus mostra desprezo"
-    },
-    "41": {
-      "título": "",
-      "texto": "Mas levanta da opressão"
-    },
-    "42": {
-      "título": "",
-      "texto": "Os retos veem isso e se alegram,"
-    },
-    "43": {
-      "título": "",
-      "texto": "Quem é sábio"
+    "versiculos": {
+        "1": "Deem graças ao Senhor ,",
+        "2": "Digam-no os remidos do Senhor ,",
+        "3": "e congregou dentre as terras,",
+        "4": "Andaram errantes pelo deserto,",
+        "5": "Famintos e sedentos,",
+        "6": "Então, na sua angústia,",
+        "7": "Conduziu-os pelo caminho direito,",
+        "8": "Que eles deem graças ao Senhor",
+        "9": "Pois saciou a alma sedenta",
+        "10": "Alguns se assentaram nas trevas",
+        "11": "por terem se rebelado",
+        "12": "de modo que lhes abateu",
+        "13": "Então, na sua angústia,",
+        "14": "Tirou-os das trevas",
+        "15": "Que eles deem graças ao Senhor",
+        "16": "Pois derrubou",
+        "17": "Os insensatos, por causa do seu",
+        "18": "Abominaram",
+        "19": "Então, na sua angústia,",
+        "20": "Enviou-lhes a sua palavra,",
+        "21": "Que eles deem graças ao Senhor",
+        "22": "Que ofereçam sacrifícios",
+        "23": "Os que, tomando navios,",
+        "24": "esses veem as obras do Senhor",
+        "25": "Pois Deus falou e fez levantar",
+        "26": "Subiram até os céus,",
+        "27": "Andaram, e cambalearam",
+        "28": "Então, na sua angústia,",
+        "29": "Fez cessar a tormenta,",
+        "30": "Então se alegraram",
+        "31": "Que eles deem graças ao Senhor",
+        "32": "Que o exaltem",
+        "33": "Deus transformou rios",
+        "34": "fez da terra frutífera",
+        "35": "Transformou o deserto",
+        "36": "Estabeleceu aí os famintos,",
+        "37": "Semearam campos,",
+        "38": "Ele os abençoou,",
+        "39": "Mas outra vez foram reduzidos",
+        "40": "Deus mostra desprezo",
+        "41": "Mas levanta da opressão",
+        "42": "Os retos veem isso e se alegram,",
+        "43": "Quem é sábio"
     }
-  }
 }

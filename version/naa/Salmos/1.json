@@ -1,30 +1,15 @@
 {
-  "livro": "Salmos",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "Os justos e os ímpios",
-      "texto": "Bem-aventurado é aquele"
+    "livro": "Salmos",
+    "capitulo": 1,
+    "titulos": {
+        "1": "Os justos e os ímpios"
     },
-    "2": {
-      "título": "",
-      "texto": "Pelo contrário, o seu prazer está"
-    },
-    "3": {
-      "título": "",
-      "texto": "Ele é como árvore plantada"
-    },
-    "4": {
-      "título": "",
-      "texto": "Os ímpios não são assim;"
-    },
-    "5": {
-      "título": "",
-      "texto": "Por isso, os ímpios"
-    },
-    "6": {
-      "título": "",
-      "texto": "Pois o Senhor conhece"
+    "versiculos": {
+        "1": "Bem-aventurado é aquele",
+        "2": "Pelo contrário, o seu prazer está",
+        "3": "Ele é como árvore plantada",
+        "4": "Os ímpios não são assim;",
+        "5": "Por isso, os ímpios",
+        "6": "Pois o Senhor conhece"
     }
-  }
 }

@@ -1,142 +1,46 @@
 {
-  "livro": "Atos",
-  "capítulo": 17,
-  "versículos": {
-    "1": {
-      "título": "Paulo e Silas em Tessalônica",
-      "texto": "Tendo passado por Anfípolis e Apolônia, Paulo e Silas chegaram a Tessalônica, onde havia uma sinagoga dos judeus."
+    "livro": "Atos",
+    "capitulo": 17,
+    "titulos": {
+        "1": "Paulo e Silas em Tessalônica",
+        "10": "Paulo e Silas em Bereia",
+        "16": "O discurso de Paulo em Atenas",
+        "32": "Uns zombam, outros creem"
     },
-    "2": {
-      "título": "",
-      "texto": "Paulo, segundo o seu costume, foi procurá-los e, por três sábados, discutiu com eles a respeito das Escrituras,"
-    },
-    "3": {
-      "título": "",
-      "texto": "expondo e demonstrando ter sido necessário que o Cristo padecesse e ressuscitasse dos mortos. Paulo dizia:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Alguns deles foram persuadidos e se juntaram a Paulo e Silas. O mesmo aconteceu com numerosa multidão de gregos piedosos e muitas mulheres importantes."
-    },
-    "5": {
-      "título": "",
-      "texto": "Os judeus, porém, movidos de inveja, trazendo consigo alguns homens maus dentre a malandragem, reuniram uma multidão e provocaram um tumulto na cidade. E, atacando de surpresa a casa de Jasom, procuravam trazer Paulo e Silas para o meio do povo."
-    },
-    "6": {
-      "título": "",
-      "texto": "Porém, não os encontrando, arrastaram Jasom e alguns irmãos diante das autoridades, gritando:"
-    },
-    "7": {
-      "título": "",
-      "texto": "e Jasom os hospedou na casa dele. Todos estes agem contra os decretos de César, dizendo que existe outro rei, chamado Jesus."
-    },
-    "8": {
-      "título": "",
-      "texto": "Tanto a multidão como as autoridades ficaram agitadas ao ouvir estas palavras."
-    },
-    "9": {
-      "título": "",
-      "texto": "Porém, depois de terem recebido deles a fiança estipulada, as autoridades soltaram Jasom e os outros."
-    },
-    "10": {
-      "título": "Paulo e Silas em Bereia",
-      "texto": "E logo, durante a noite, os irmãos enviaram Paulo e Silas para Bereia. Ali chegados, dirigiram-se à sinagoga dos judeus."
-    },
-    "11": {
-      "título": "",
-      "texto": "Ora, estes de Bereia eram mais nobres do que os de Tessalônica, pois receberam a palavra com toda a avidez, examinando as Escrituras todos os dias para ver se as coisas eram, de fato, assim."
-    },
-    "12": {
-      "título": "",
-      "texto": "Com isso, muitos deles creram, mulheres gregas de alta posição social e muitos homens."
-    },
-    "13": {
-      "título": "",
-      "texto": "Mas, logo que os judeus de Tessalônica souberam que a palavra de Deus era anunciada por Paulo também em Bereia, foram lá agitar e perturbar o povo."
-    },
-    "14": {
-      "título": "",
-      "texto": "Então os irmãos fizeram com que Paulo fosse imediatamente para os lados do mar. Porém Silas e Timóteo continuaram em Bereia."
-    },
-    "15": {
-      "título": "",
-      "texto": "Os responsáveis por Paulo levaram-no até Atenas e regressaram trazendo ordem a Silas e Timóteo para que fossem encontrá-lo o mais depressa possível."
-    },
-    "16": {
-      "título": "O discurso de Paulo em Atenas",
-      "texto": "Enquanto Paulo os esperava em Atenas, o seu espírito se revoltava em face da idolatria dominante na cidade."
-    },
-    "17": {
-      "título": "",
-      "texto": "Por isso, falava na sinagoga com os judeus e os gentios piedosos; também na praça, todos os dias, com os que se encontravam ali."
-    },
-    "18": {
-      "título": "",
-      "texto": "E alguns dos filósofos epicureus e estoicos discutiam com ele, havendo quem perguntasse:"
-    },
-    "19": {
-      "título": "",
-      "texto": "Então, tomando-o consigo, levaram-no ao Areópago, dizendo:"
-    },
-    "20": {
-      "título": "",
-      "texto": "Pois você nos traz aos ouvidos coisas estranhas e queremos saber o que vem a ser isso."
-    },
-    "21": {
-      "título": "",
-      "texto": "Acontece que todos os de Atenas e os estrangeiros residentes não se ocupavam com outra coisa senão dizer ou ouvir as últimas novidades."
-    },
-    "22": {
-      "título": "",
-      "texto": "Então Paulo, levantando-se no meio do Areópago, disse:"
-    },
-    "23": {
-      "título": "",
-      "texto": "porque, andando pela cidade e observando os objetos de culto que vocês têm, encontrei também um altar no qual aparece a seguinte inscrição: “ Ao Deus Desconhecido ”. Pois esse que vocês adoram sem conhecer é precisamente aquele que eu lhes anuncio."
-    },
-    "24": {
-      "título": "",
-      "texto": "— O Deus que fez o mundo e tudo o que nele existe, sendo ele Senhor do céu e da terra, não habita em santuários feitos por mãos humanas;"
-    },
-    "25": {
-      "título": "",
-      "texto": "nem é servido por mãos humanas, como se precisasse de alguma coisa, pois ele mesmo é quem a todos dá vida, respiração e tudo mais."
-    },
-    "26": {
-      "título": "",
-      "texto": "De um só homem fez todas as nações para habitarem sobre a face da terra, havendo fixado os tempos previamente estabelecidos e os limites da sua habitação;"
-    },
-    "27": {
-      "título": "",
-      "texto": "para buscarem Deus se, porventura, tateando, o possam achar, ainda que não esteja longe de cada um de nós;"
-    },
-    "28": {
-      "título": "",
-      "texto": "pois nele vivemos, nos movemos e existimos, como alguns dos poetas de vocês disseram: “Porque dele também somos geração.”"
-    },
-    "29": {
-      "título": "",
-      "texto": "Portanto, visto que somos geração de Deus, não devemos pensar que a divindade é semelhante ao ouro, à prata ou à pedra, trabalhados pela arte e imaginação do homem."
-    },
-    "30": {
-      "título": "",
-      "texto": "Deus não levou em conta os tempos da ignorância, mas agora ele ordena a todas as pessoas, em todos os lugares, que se arrependam."
-    },
-    "31": {
-      "título": "",
-      "texto": "Porque Deus estabeleceu um dia em que julgará o mundo com justiça, por meio de um homem que escolheu. E deu certeza disso a todos, ressuscitando-o dentre os mortos."
-    },
-    "32": {
-      "título": "Uns zombam, outros creem",
-      "texto": "Quando ouviram falar de ressurreição de mortos, uns zombaram, e outros disseram:"
-    },
-    "33": {
-      "título": "",
-      "texto": "A essa altura, Paulo se retirou do meio deles."
-    },
-    "34": {
-      "título": "",
-      "texto": "Houve, porém, alguns homens que se juntaram a ele e creram; entre eles estava Dionísio, o areopagita, uma mulher chamada Dâmaris e, com eles, mais algumas pessoas."
+    "versiculos": {
+        "1": "Tendo passado por Anfípolis e Apolônia, Paulo e Silas chegaram a Tessalônica, onde havia uma sinagoga dos judeus.",
+        "2": "Paulo, segundo o seu costume, foi procurá-los e, por três sábados, discutiu com eles a respeito das Escrituras,",
+        "3": "expondo e demonstrando ter sido necessário que o Cristo padecesse e ressuscitasse dos mortos. Paulo dizia:",
+        "4": "Alguns deles foram persuadidos e se juntaram a Paulo e Silas. O mesmo aconteceu com numerosa multidão de gregos piedosos e muitas mulheres importantes.",
+        "5": "Os judeus, porém, movidos de inveja, trazendo consigo alguns homens maus dentre a malandragem, reuniram uma multidão e provocaram um tumulto na cidade. E, atacando de surpresa a casa de Jasom, procuravam trazer Paulo e Silas para o meio do povo.",
+        "6": "Porém, não os encontrando, arrastaram Jasom e alguns irmãos diante das autoridades, gritando:",
+        "7": "e Jasom os hospedou na casa dele. Todos estes agem contra os decretos de César, dizendo que existe outro rei, chamado Jesus.",
+        "8": "Tanto a multidão como as autoridades ficaram agitadas ao ouvir estas palavras.",
+        "9": "Porém, depois de terem recebido deles a fiança estipulada, as autoridades soltaram Jasom e os outros.",
+        "10": "E logo, durante a noite, os irmãos enviaram Paulo e Silas para Bereia. Ali chegados, dirigiram-se à sinagoga dos judeus.",
+        "11": "Ora, estes de Bereia eram mais nobres do que os de Tessalônica, pois receberam a palavra com toda a avidez, examinando as Escrituras todos os dias para ver se as coisas eram, de fato, assim.",
+        "12": "Com isso, muitos deles creram, mulheres gregas de alta posição social e muitos homens.",
+        "13": "Mas, logo que os judeus de Tessalônica souberam que a palavra de Deus era anunciada por Paulo também em Bereia, foram lá agitar e perturbar o povo.",
+        "14": "Então os irmãos fizeram com que Paulo fosse imediatamente para os lados do mar. Porém Silas e Timóteo continuaram em Bereia.",
+        "15": "Os responsáveis por Paulo levaram-no até Atenas e regressaram trazendo ordem a Silas e Timóteo para que fossem encontrá-lo o mais depressa possível.",
+        "16": "Enquanto Paulo os esperava em Atenas, o seu espírito se revoltava em face da idolatria dominante na cidade.",
+        "17": "Por isso, falava na sinagoga com os judeus e os gentios piedosos; também na praça, todos os dias, com os que se encontravam ali.",
+        "18": "E alguns dos filósofos epicureus e estoicos discutiam com ele, havendo quem perguntasse:",
+        "19": "Então, tomando-o consigo, levaram-no ao Areópago, dizendo:",
+        "20": "Pois você nos traz aos ouvidos coisas estranhas e queremos saber o que vem a ser isso.",
+        "21": "Acontece que todos os de Atenas e os estrangeiros residentes não se ocupavam com outra coisa senão dizer ou ouvir as últimas novidades.",
+        "22": "Então Paulo, levantando-se no meio do Areópago, disse:",
+        "23": "porque, andando pela cidade e observando os objetos de culto que vocês têm, encontrei também um altar no qual aparece a seguinte inscrição: “ Ao Deus Desconhecido ”. Pois esse que vocês adoram sem conhecer é precisamente aquele que eu lhes anuncio.",
+        "24": "— O Deus que fez o mundo e tudo o que nele existe, sendo ele Senhor do céu e da terra, não habita em santuários feitos por mãos humanas;",
+        "25": "nem é servido por mãos humanas, como se precisasse de alguma coisa, pois ele mesmo é quem a todos dá vida, respiração e tudo mais.",
+        "26": "De um só homem fez todas as nações para habitarem sobre a face da terra, havendo fixado os tempos previamente estabelecidos e os limites da sua habitação;",
+        "27": "para buscarem Deus se, porventura, tateando, o possam achar, ainda que não esteja longe de cada um de nós;",
+        "28": "pois nele vivemos, nos movemos e existimos, como alguns dos poetas de vocês disseram: “Porque dele também somos geração.”",
+        "29": "Portanto, visto que somos geração de Deus, não devemos pensar que a divindade é semelhante ao ouro, à prata ou à pedra, trabalhados pela arte e imaginação do homem.",
+        "30": "Deus não levou em conta os tempos da ignorância, mas agora ele ordena a todas as pessoas, em todos os lugares, que se arrependam.",
+        "31": "Porque Deus estabeleceu um dia em que julgará o mundo com justiça, por meio de um homem que escolheu. E deu certeza disso a todos, ressuscitando-o dentre os mortos.",
+        "32": "Quando ouviram falar de ressurreição de mortos, uns zombaram, e outros disseram:",
+        "33": "A essa altura, Paulo se retirou do meio deles.",
+        "34": "Houve, porém, alguns homens que se juntaram a ele e creram; entre eles estava Dionísio, o areopagita, uma mulher chamada Dâmaris e, com eles, mais algumas pessoas."
     }
-  }
 }

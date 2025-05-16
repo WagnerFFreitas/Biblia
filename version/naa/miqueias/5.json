@@ -1,66 +1,24 @@
 {
-  "livro": "Miquéias",
-  "capítulo": 5,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Agora ajunte-se em tropas,"
+    "livro": "Miquéias",
+    "capitulo": 5,
+    "titulos": {
+        "2": "O nascimento do Messias e o seu reinado"
     },
-    "2": {
-      "título": "O nascimento do Messias e o seu reinado",
-      "texto": "“E você, Belém-Efrata,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Portanto, o Senhor os entregará"
-    },
-    "4": {
-      "título": "",
-      "texto": "Ele se manterá firme"
-    },
-    "5": {
-      "título": "",
-      "texto": "E ele será a nossa paz."
-    },
-    "6": {
-      "título": "",
-      "texto": "Estes dominarão a terra da Assíria"
-    },
-    "7": {
-      "título": "",
-      "texto": "O remanescente de Jacó estará"
-    },
-    "8": {
-      "título": "",
-      "texto": "O remanescente de Jacó"
-    },
-    "9": {
-      "título": "",
-      "texto": "A sua mão se exaltará"
-    },
-    "10": {
-      "título": "",
-      "texto": "“Naquele dia”,"
-    },
-    "11": {
-      "título": "",
-      "texto": "destruirei as cidades da sua terra"
-    },
-    "12": {
-      "título": "",
-      "texto": "arrancarei as feitiçarias"
-    },
-    "13": {
-      "título": "",
-      "texto": "do meio de vocês eliminarei"
-    },
-    "14": {
-      "título": "",
-      "texto": "eliminarei do meio de vocês"
-    },
-    "15": {
-      "título": "",
-      "texto": "Com ira e furor,"
+    "versiculos": {
+        "1": "Agora ajunte-se em tropas,",
+        "2": "“E você, Belém-Efrata,",
+        "3": "Portanto, o Senhor os entregará",
+        "4": "Ele se manterá firme",
+        "5": "E ele será a nossa paz.",
+        "6": "Estes dominarão a terra da Assíria",
+        "7": "O remanescente de Jacó estará",
+        "8": "O remanescente de Jacó",
+        "9": "A sua mão se exaltará",
+        "10": "“Naquele dia”,",
+        "11": "destruirei as cidades da sua terra",
+        "12": "arrancarei as feitiçarias",
+        "13": "do meio de vocês eliminarei",
+        "14": "eliminarei do meio de vocês",
+        "15": "Com ira e furor,"
     }
-  }
 }

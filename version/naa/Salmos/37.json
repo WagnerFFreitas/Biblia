@@ -1,166 +1,49 @@
 {
-  "livro": "Salmos",
-  "capítulo": 37,
-  "versículos": {
-    "1": {
-      "título": "O fim dos maus e dos bons",
-      "texto": "Não se irrite"
+    "livro": "Salmos",
+    "capitulo": 37,
+    "titulos": {
+        "1": "O fim dos maus e dos bons"
     },
-    "2": {
-      "título": "",
-      "texto": "Pois em breve eles secarão"
-    },
-    "3": {
-      "título": "",
-      "texto": "Confie no Senhor e faça o bem;"
-    },
-    "4": {
-      "título": "",
-      "texto": "Agrade-se do Senhor ,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Entregue o seu caminho"
-    },
-    "6": {
-      "título": "",
-      "texto": "Fará com que a sua justiça"
-    },
-    "7": {
-      "título": "",
-      "texto": "Descanse no Senhor"
-    },
-    "8": {
-      "título": "",
-      "texto": "Deixe a ira, abandone o furor;"
-    },
-    "9": {
-      "título": "",
-      "texto": "Porque os malfeitores"
-    },
-    "10": {
-      "título": "",
-      "texto": "Mais um pouco de tempo,"
-    },
-    "11": {
-      "título": "",
-      "texto": "Mas os mansos herdarão a terra"
-    },
-    "12": {
-      "título": "",
-      "texto": "Os ímpios fazem planos"
-    },
-    "13": {
-      "título": "",
-      "texto": "O Senhor dá risada dos ímpios,"
-    },
-    "14": {
-      "título": "",
-      "texto": "Os ímpios puxam da espada"
-    },
-    "15": {
-      "título": "",
-      "texto": "Mas a espada deles"
-    },
-    "16": {
-      "título": "",
-      "texto": "Mais vale o pouco do justo"
-    },
-    "17": {
-      "título": "",
-      "texto": "Pois os braços dos ímpios"
-    },
-    "18": {
-      "título": "",
-      "texto": "O Senhor conhece"
-    },
-    "19": {
-      "título": "",
-      "texto": "Não serão envergonhados"
-    },
-    "20": {
-      "título": "",
-      "texto": "Os ímpios, no entanto,"
-    },
-    "21": {
-      "título": "",
-      "texto": "O ímpio pede emprestado"
-    },
-    "22": {
-      "título": "",
-      "texto": "Aqueles a quem o Senhor abençoa"
-    },
-    "23": {
-      "título": "",
-      "texto": "O Senhor firma os passos"
-    },
-    "24": {
-      "título": "",
-      "texto": "se cair, não ficará prostrado,"
-    },
-    "25": {
-      "título": "",
-      "texto": "Fui moço e agora sou velho,"
-    },
-    "26": {
-      "título": "",
-      "texto": "É sempre compassivo"
-    },
-    "27": {
-      "título": "",
-      "texto": "Afaste-se do mal"
-    },
-    "28": {
-      "título": "",
-      "texto": "Pois o Senhor ama a justiça"
-    },
-    "29": {
-      "título": "",
-      "texto": "Os justos herdarão a terra"
-    },
-    "30": {
-      "título": "",
-      "texto": "Da boca do justo"
-    },
-    "31": {
-      "título": "",
-      "texto": "No coração, ele tem"
-    },
-    "32": {
-      "título": "",
-      "texto": "O perverso espreita o justo"
-    },
-    "33": {
-      "título": "",
-      "texto": "Mas o Senhor não o deixará"
-    },
-    "34": {
-      "título": "",
-      "texto": "Espere no Senhor"
-    },
-    "35": {
-      "título": "",
-      "texto": "Vi um ímpio prepotente"
-    },
-    "36": {
-      "título": "",
-      "texto": "Passei, e eis que havia"
-    },
-    "37": {
-      "título": "",
-      "texto": "Observe aquele que é"
-    },
-    "38": {
-      "título": "",
-      "texto": "Quanto aos transgressores,"
-    },
-    "39": {
-      "título": "",
-      "texto": "Mas a salvação dos justos"
-    },
-    "40": {
-      "título": "",
-      "texto": "O Senhor os ajuda e os livra;"
+    "versiculos": {
+        "1": "Não se irrite",
+        "2": "Pois em breve eles secarão",
+        "3": "Confie no Senhor e faça o bem;",
+        "4": "Agrade-se do Senhor ,",
+        "5": "Entregue o seu caminho",
+        "6": "Fará com que a sua justiça",
+        "7": "Descanse no Senhor",
+        "8": "Deixe a ira, abandone o furor;",
+        "9": "Porque os malfeitores",
+        "10": "Mais um pouco de tempo,",
+        "11": "Mas os mansos herdarão a terra",
+        "12": "Os ímpios fazem planos",
+        "13": "O Senhor dá risada dos ímpios,",
+        "14": "Os ímpios puxam da espada",
+        "15": "Mas a espada deles",
+        "16": "Mais vale o pouco do justo",
+        "17": "Pois os braços dos ímpios",
+        "18": "O Senhor conhece",
+        "19": "Não serão envergonhados",
+        "20": "Os ímpios, no entanto,",
+        "21": "O ímpio pede emprestado",
+        "22": "Aqueles a quem o Senhor abençoa",
+        "23": "O Senhor firma os passos",
+        "24": "se cair, não ficará prostrado,",
+        "25": "Fui moço e agora sou velho,",
+        "26": "É sempre compassivo",
+        "27": "Afaste-se do mal",
+        "28": "Pois o Senhor ama a justiça",
+        "29": "Os justos herdarão a terra",
+        "30": "Da boca do justo",
+        "31": "No coração, ele tem",
+        "32": "O perverso espreita o justo",
+        "33": "Mas o Senhor não o deixará",
+        "34": "Espere no Senhor",
+        "35": "Vi um ímpio prepotente",
+        "36": "Passei, e eis que havia",
+        "37": "Observe aquele que é",
+        "38": "Quanto aos transgressores,",
+        "39": "Mas a salvação dos justos",
+        "40": "O Senhor os ajuda e os livra;"
     }
-  }
 }

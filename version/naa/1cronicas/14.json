@@ -1,74 +1,28 @@
 {
-  "livro": "1 Crônicas",
-  "capítulo": 14,
-  "versículos": {
-    "1": {
-      "título": "O reinado de Davi é reconhecido por Hirão",
-      "texto": "Hirão, rei de Tiro, enviou a Davi mensageiros, madeira de cedro, pedreiros e carpinteiros, para lhe construírem um palácio."
+    "livro": "1 Crônicas",
+    "capitulo": 14,
+    "titulos": {
+        "1": "O reinado de Davi é reconhecido por Hirão",
+        "3": "Filhos de Davi que nasceram em Jerusalém",
+        "8": "Davi derrota os filisteus"
     },
-    "2": {
-      "título": "",
-      "texto": "Então Davi reconheceu que o Senhor o havia confirmado como rei sobre Israel e que tinha exaltado muito o seu reino por amor do seu povo de Israel."
-    },
-    "3": {
-      "título": "Filhos de Davi que nasceram em Jerusalém",
-      "texto": "Davi tomou ainda mais mulheres em Jerusalém e gerou ainda mais filhos e filhas."
-    },
-    "4": {
-      "título": "",
-      "texto": "São estes os nomes dos filhos de Davi que nasceram em Jerusalém: Samua, Sobabe, Natã, Salomão,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Ibar, Elisua, Elpelete,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Nogá, Nefegue, Jafia,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Elisama, Beeliada e Elifelete."
-    },
-    "8": {
-      "título": "Davi derrota os filisteus",
-      "texto": "Quando os filisteus ouviram que Davi tinha sido ungido rei sobre todo o Israel, subiram todos para prendê-lo. Quando soube disso, Davi saiu contra eles."
-    },
-    "9": {
-      "título": "",
-      "texto": "Mas os filisteus vieram e investiram contra ele no vale dos Refains."
-    },
-    "10": {
-      "título": "",
-      "texto": "Então Davi consultou Deus, dizendo:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Então Davi foi até Baal-Perazim e os derrotou ali. E disse:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Os filisteus deixaram lá os seus deuses, e Davi ordenou que fossem queimados."
-    },
-    "13": {
-      "título": "",
-      "texto": "Os filisteus tornaram a subir e fizeram uma nova investida no vale."
-    },
-    "14": {
-      "título": "",
-      "texto": "De novo, Davi consultou Deus, e este lhe respondeu:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Quando você ouvir um barulho de marcha pelas copas das amoreiras, saia para a batalha: é Deus que saiu à sua frente, para atacar o exército dos filisteus."
-    },
-    "16": {
-      "título": "",
-      "texto": "Davi fez como Deus lhe havia ordenado, e atacou o exército dos filisteus desde Gibeão até Gezer."
-    },
-    "17": {
-      "título": "",
-      "texto": "Assim a fama de Davi se espalhou por todas aquelas terras, e o Senhor fez com que todas as nações tivessem medo dele."
+    "versiculos": {
+        "1": "Hirão, rei de Tiro, enviou a Davi mensageiros, madeira de cedro, pedreiros e carpinteiros, para lhe construírem um palácio.",
+        "2": "Então Davi reconheceu que o Senhor o havia confirmado como rei sobre Israel e que tinha exaltado muito o seu reino por amor do seu povo de Israel.",
+        "3": "Davi tomou ainda mais mulheres em Jerusalém e gerou ainda mais filhos e filhas.",
+        "4": "São estes os nomes dos filhos de Davi que nasceram em Jerusalém: Samua, Sobabe, Natã, Salomão,",
+        "5": "Ibar, Elisua, Elpelete,",
+        "6": "Nogá, Nefegue, Jafia,",
+        "7": "Elisama, Beeliada e Elifelete.",
+        "8": "Quando os filisteus ouviram que Davi tinha sido ungido rei sobre todo o Israel, subiram todos para prendê-lo. Quando soube disso, Davi saiu contra eles.",
+        "9": "Mas os filisteus vieram e investiram contra ele no vale dos Refains.",
+        "10": "Então Davi consultou Deus, dizendo:",
+        "11": "Então Davi foi até Baal-Perazim e os derrotou ali. E disse:",
+        "12": "Os filisteus deixaram lá os seus deuses, e Davi ordenou que fossem queimados.",
+        "13": "Os filisteus tornaram a subir e fizeram uma nova investida no vale.",
+        "14": "De novo, Davi consultou Deus, e este lhe respondeu:",
+        "15": "Quando você ouvir um barulho de marcha pelas copas das amoreiras, saia para a batalha: é Deus que saiu à sua frente, para atacar o exército dos filisteus.",
+        "16": "Davi fez como Deus lhe havia ordenado, e atacou o exército dos filisteus desde Gibeão até Gezer.",
+        "17": "Assim a fama de Davi se espalhou por todas aquelas terras, e o Senhor fez com que todas as nações tivessem medo dele."
     }
-  }
 }

@@ -1,78 +1,28 @@
 {
-  "livro": "Êxodo",
-  "capítulo": 24,
-  "versículos": {
-    "1": {
-      "título": "A aliança de Deus com Israel",
-      "texto": "Deus disse a Moisés:"
+    "livro": "Êxodo",
+    "capitulo": 24,
+    "titulos": {
+        "1": "A aliança de Deus com Israel",
+        "12": "Moisés e os anciãos sobem o monte outra vez"
     },
-    "2": {
-      "título": "",
-      "texto": "Só Moisés se aproximará do Senhor ; os outros não se aproximarão, nem o povo subirá com ele."
-    },
-    "3": {
-      "título": "",
-      "texto": "Moisés foi e transmitiu ao povo todas as palavras do Senhor e todos os estatutos. Então todo o povo respondeu a uma voz e disse:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Moisés escreveu todas as palavras do Senhor e, tendo-se levantado de manhã cedo, edificou um altar ao pé do monte e ergueu doze colunas, segundo as doze tribos de Israel."
-    },
-    "5": {
-      "título": "",
-      "texto": "E enviou alguns jovens dos filhos de Israel, os quais ofereceram ao Senhor holocaustos e sacrifícios pacíficos de novilhos."
-    },
-    "6": {
-      "título": "",
-      "texto": "Moisés pegou a metade do sangue e o pôs em bacias; e a outra metade aspergiu sobre o altar."
-    },
-    "7": {
-      "título": "",
-      "texto": "Depois pegou o livro da aliança e o leu para o povo. E eles disseram:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Então Moisés pegou aquele sangue, e o aspergiu sobre o povo, e disse:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Moisés, Arão, Nadabe, Abiú e setenta dos anciãos de Israel subiram o monte."
-    },
-    "10": {
-      "título": "",
-      "texto": "E viram o Deus de Israel, sob cujos pés havia como que uma pavimentação de pedra de safira, que se parecia com o céu na sua claridade."
-    },
-    "11": {
-      "título": "",
-      "texto": "Deus não estendeu a mão contra os escolhidos dos filhos de Israel; eles viram Deus, comeram e beberam."
-    },
-    "12": {
-      "título": "Moisés e os anciãos sobem o monte outra vez",
-      "texto": "Então o Senhor disse a Moisés:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Moisés se aprontou, juntamente com Josué, seu auxiliar, e subiu o monte de Deus."
-    },
-    "14": {
-      "título": "",
-      "texto": "Ele disse aos anciãos:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Tendo Moisés subido, uma nuvem cobriu o monte."
-    },
-    "16": {
-      "título": "",
-      "texto": "E a glória do Senhor pousou sobre o monte Sinai, e a nuvem o cobriu durante seis dias. No sétimo dia, do meio da nuvem o Senhor chamou Moisés."
-    },
-    "17": {
-      "título": "",
-      "texto": "Aos olhos dos israelitas, o aspecto da glória do Senhor era como um fogo consumidor no alto do monte."
-    },
-    "18": {
-      "título": "",
-      "texto": "E Moisés, entrando pelo meio da nuvem, subiu o monte; e lá permaneceu quarenta dias e quarenta noites."
+    "versiculos": {
+        "1": "Deus disse a Moisés:",
+        "2": "Só Moisés se aproximará do Senhor ; os outros não se aproximarão, nem o povo subirá com ele.",
+        "3": "Moisés foi e transmitiu ao povo todas as palavras do Senhor e todos os estatutos. Então todo o povo respondeu a uma voz e disse:",
+        "4": "Moisés escreveu todas as palavras do Senhor e, tendo-se levantado de manhã cedo, edificou um altar ao pé do monte e ergueu doze colunas, segundo as doze tribos de Israel.",
+        "5": "E enviou alguns jovens dos filhos de Israel, os quais ofereceram ao Senhor holocaustos e sacrifícios pacíficos de novilhos.",
+        "6": "Moisés pegou a metade do sangue e o pôs em bacias; e a outra metade aspergiu sobre o altar.",
+        "7": "Depois pegou o livro da aliança e o leu para o povo. E eles disseram:",
+        "8": "Então Moisés pegou aquele sangue, e o aspergiu sobre o povo, e disse:",
+        "9": "Moisés, Arão, Nadabe, Abiú e setenta dos anciãos de Israel subiram o monte.",
+        "10": "E viram o Deus de Israel, sob cujos pés havia como que uma pavimentação de pedra de safira, que se parecia com o céu na sua claridade.",
+        "11": "Deus não estendeu a mão contra os escolhidos dos filhos de Israel; eles viram Deus, comeram e beberam.",
+        "12": "Então o Senhor disse a Moisés:",
+        "13": "Moisés se aprontou, juntamente com Josué, seu auxiliar, e subiu o monte de Deus.",
+        "14": "Ele disse aos anciãos:",
+        "15": "Tendo Moisés subido, uma nuvem cobriu o monte.",
+        "16": "E a glória do Senhor pousou sobre o monte Sinai, e a nuvem o cobriu durante seis dias. No sétimo dia, do meio da nuvem o Senhor chamou Moisés.",
+        "17": "Aos olhos dos israelitas, o aspecto da glória do Senhor era como um fogo consumidor no alto do monte.",
+        "18": "E Moisés, entrando pelo meio da nuvem, subiu o monte; e lá permaneceu quarenta dias e quarenta noites."
     }
-  }
 }

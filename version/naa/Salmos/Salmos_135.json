@@ -1,90 +1,30 @@
 {
-  "livro": "Salmos",
-  "capítulo": 135,
-  "versículos": {
-    "1": {
-      "título": "Louvores a Deus",
-      "texto": "Aleluia!"
+    "livro": "Salmos",
+    "capitulo": 135,
+    "titulos": {
+        "1": "Louvores a Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "que estão na Casa do Senhor ,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Louvem o Senhor ,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Pois o Senhor escolheu Jacó"
-    },
-    "5": {
-      "título": "",
-      "texto": "De fato, eu sei"
-    },
-    "6": {
-      "título": "",
-      "texto": "Tudo o que agrada ao Senhor ,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Faz subir as nuvens"
-    },
-    "8": {
-      "título": "",
-      "texto": "Foi ele quem matou"
-    },
-    "9": {
-      "título": "",
-      "texto": "Foi ele quem fez sinais"
-    },
-    "10": {
-      "título": "",
-      "texto": "Ele destruiu muitas nações"
-    },
-    "11": {
-      "título": "",
-      "texto": "Seom, rei dos amorreus,"
-    },
-    "12": {
-      "título": "",
-      "texto": "E a terra deles deu em herança,"
-    },
-    "13": {
-      "título": "",
-      "texto": "O teu nome, Senhor ,"
-    },
-    "14": {
-      "título": "",
-      "texto": "Pois o Senhor julga o seu povo"
-    },
-    "15": {
-      "título": "",
-      "texto": "Os ídolos das nações"
-    },
-    "16": {
-      "título": "",
-      "texto": "Têm boca e não falam;"
-    },
-    "17": {
-      "título": "",
-      "texto": "têm ouvidos e não ouvem;"
-    },
-    "18": {
-      "título": "",
-      "texto": "Tornam-se semelhantes a eles"
-    },
-    "19": {
-      "título": "",
-      "texto": "Casa de Israel,"
-    },
-    "20": {
-      "título": "",
-      "texto": "Casa de Levi, bendigam o Senhor !"
-    },
-    "21": {
-      "título": "",
-      "texto": "Desde Sião"
+    "versiculos": {
+        "1": "Aleluia!",
+        "2": "que estão na Casa do Senhor ,",
+        "3": "Louvem o Senhor ,",
+        "4": "Pois o Senhor escolheu Jacó",
+        "5": "De fato, eu sei",
+        "6": "Tudo o que agrada ao Senhor ,",
+        "7": "Faz subir as nuvens",
+        "8": "Foi ele quem matou",
+        "9": "Foi ele quem fez sinais",
+        "10": "Ele destruiu muitas nações",
+        "11": "Seom, rei dos amorreus,",
+        "12": "E a terra deles deu em herança,",
+        "13": "O teu nome, Senhor ,",
+        "14": "Pois o Senhor julga o seu povo",
+        "15": "Os ídolos das nações",
+        "16": "Têm boca e não falam;",
+        "17": "têm ouvidos e não ouvem;",
+        "18": "Tornam-se semelhantes a eles",
+        "19": "Casa de Israel,",
+        "20": "Casa de Levi, bendigam o Senhor !",
+        "21": "Desde Sião"
     }
-  }
 }

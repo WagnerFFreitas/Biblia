@@ -1,70 +1,26 @@
 {
-  "livro": "1 Coríntios",
-  "capítulo": 2,
-  "versículos": {
-    "1": {
-      "título": "A mensagem a respeito do Cristo crucificado",
-      "texto": "Irmãos, quando estive com vocês, anunciando-lhes o mistério de Deus, não o fiz com ostentação de linguagem ou de sabedoria."
+    "livro": "1 Coríntios",
+    "capitulo": 2,
+    "titulos": {
+        "1": "A mensagem a respeito do Cristo crucificado",
+        "6": "A sabedoria de Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "Porque decidi nada saber entre vocês, a não ser Jesus Cristo, e este, crucificado."
-    },
-    "3": {
-      "título": "",
-      "texto": "E foi em fraqueza, temor e grande tremor que eu estive entre vocês."
-    },
-    "4": {
-      "título": "",
-      "texto": "A minha palavra e a minha pregação não consistiram em linguagem persuasiva de sabedoria, mas em demonstração do Espírito e de poder,"
-    },
-    "5": {
-      "título": "",
-      "texto": "para que a fé que vocês têm não se apoiasse em sabedoria humana, mas no poder de Deus."
-    },
-    "6": {
-      "título": "A sabedoria de Deus",
-      "texto": "No entanto, transmitimos sabedoria entre os que são maduros. Não, porém, a sabedoria deste mundo, nem a dos poderosos desta época, que são reduzidos a nada."
-    },
-    "7": {
-      "título": "",
-      "texto": "Pelo contrário, transmitimos a sabedoria de Deus em mistério, a sabedoria que estava oculta e que Deus predeterminou desde a eternidade para a nossa glória."
-    },
-    "8": {
-      "título": "",
-      "texto": "Nenhum dos poderosos deste mundo conheceu essa sabedoria. Porque, se a tivessem conhecido, jamais teriam crucificado o Senhor da glória."
-    },
-    "9": {
-      "título": "",
-      "texto": "Mas, como está escrito:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Deus, porém, revelou isso a nós por meio do Espírito. Porque o Espírito sonda todas as coisas, até mesmo as profundezas de Deus."
-    },
-    "11": {
-      "título": "",
-      "texto": "Pois quem conhece as coisas do ser humano, a não ser o próprio espírito humano, que nele está? Assim, ninguém conhece as coisas de Deus, a não ser o Espírito de Deus."
-    },
-    "12": {
-      "título": "",
-      "texto": "E nós não temos recebido o espírito do mundo, e sim o Espírito que vem de Deus, para que conheçamos o que por Deus nos foi dado gratuitamente."
-    },
-    "13": {
-      "título": "",
-      "texto": "Disto também falamos, não em palavras ensinadas pela sabedoria humana, mas ensinadas pelo Espírito, conferindo coisas espirituais com espirituais."
-    },
-    "14": {
-      "título": "",
-      "texto": "Ora, a pessoa natural não aceita as coisas do Espírito de Deus, porque lhe são loucura. E ela não pode entendê-las, porque elas se discernem espiritualmente."
-    },
-    "15": {
-      "título": "",
-      "texto": "Porém a pessoa espiritual julga todas as coisas, mas ela não é julgada por ninguém."
-    },
-    "16": {
-      "título": "",
-      "texto": "Pois quem conheceu a mente do Senhor, para que o possa instruir? Nós, porém, temos a mente de Cristo."
+    "versiculos": {
+        "1": "Irmãos, quando estive com vocês, anunciando-lhes o mistério de Deus, não o fiz com ostentação de linguagem ou de sabedoria.",
+        "2": "Porque decidi nada saber entre vocês, a não ser Jesus Cristo, e este, crucificado.",
+        "3": "E foi em fraqueza, temor e grande tremor que eu estive entre vocês.",
+        "4": "A minha palavra e a minha pregação não consistiram em linguagem persuasiva de sabedoria, mas em demonstração do Espírito e de poder,",
+        "5": "para que a fé que vocês têm não se apoiasse em sabedoria humana, mas no poder de Deus.",
+        "6": "No entanto, transmitimos sabedoria entre os que são maduros. Não, porém, a sabedoria deste mundo, nem a dos poderosos desta época, que são reduzidos a nada.",
+        "7": "Pelo contrário, transmitimos a sabedoria de Deus em mistério, a sabedoria que estava oculta e que Deus predeterminou desde a eternidade para a nossa glória.",
+        "8": "Nenhum dos poderosos deste mundo conheceu essa sabedoria. Porque, se a tivessem conhecido, jamais teriam crucificado o Senhor da glória.",
+        "9": "Mas, como está escrito:",
+        "10": "Deus, porém, revelou isso a nós por meio do Espírito. Porque o Espírito sonda todas as coisas, até mesmo as profundezas de Deus.",
+        "11": "Pois quem conhece as coisas do ser humano, a não ser o próprio espírito humano, que nele está? Assim, ninguém conhece as coisas de Deus, a não ser o Espírito de Deus.",
+        "12": "E nós não temos recebido o espírito do mundo, e sim o Espírito que vem de Deus, para que conheçamos o que por Deus nos foi dado gratuitamente.",
+        "13": "Disto também falamos, não em palavras ensinadas pela sabedoria humana, mas ensinadas pelo Espírito, conferindo coisas espirituais com espirituais.",
+        "14": "Ora, a pessoa natural não aceita as coisas do Espírito de Deus, porque lhe são loucura. E ela não pode entendê-las, porque elas se discernem espiritualmente.",
+        "15": "Porém a pessoa espiritual julga todas as coisas, mas ela não é julgada por ninguém.",
+        "16": "Pois quem conheceu a mente do Senhor, para que o possa instruir? Nós, porém, temos a mente de Cristo."
     }
-  }
 }

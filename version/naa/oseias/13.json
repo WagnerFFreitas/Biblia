@@ -1,70 +1,25 @@
 {
-  "livro": "Oséias",
-  "capítulo": 13,
-  "versículos": {
-    "1": {
-      "título": "Castigo definitivo",
-      "texto": "“Quando Efraim falava,"
+    "livro": "Oséias",
+    "capitulo": 13,
+    "titulos": {
+        "1": "Castigo definitivo"
     },
-    "2": {
-      "título": "",
-      "texto": "Agora, pecam cada vez mais,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Por isso, serão"
-    },
-    "4": {
-      "título": "",
-      "texto": "“Mas eu sou o Senhor , seu Deus,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Eu os conheci no deserto,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Quando tinham comida,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Portanto, serei para eles"
-    },
-    "8": {
-      "título": "",
-      "texto": "Como ursa,"
-    },
-    "9": {
-      "título": "",
-      "texto": "“A sua ruína, ó Israel,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Onde está, agora, o seu rei,"
-    },
-    "11": {
-      "título": "",
-      "texto": "Eu lhe dei um rei na minha ira,"
-    },
-    "12": {
-      "título": "",
-      "texto": "“As iniquidades de Efraim"
-    },
-    "13": {
-      "título": "",
-      "texto": "As dores de parto virão,"
-    },
-    "14": {
-      "título": "",
-      "texto": "“Eu os remirei"
-    },
-    "15": {
-      "título": "",
-      "texto": "“Ainda que Efraim dê frutos"
-    },
-    "16": {
-      "título": "",
-      "texto": "Samaria levará sobre si"
+    "versiculos": {
+        "1": "“Quando Efraim falava,",
+        "2": "Agora, pecam cada vez mais,",
+        "3": "Por isso, serão",
+        "4": "“Mas eu sou o Senhor , seu Deus,",
+        "5": "Eu os conheci no deserto,",
+        "6": "Quando tinham comida,",
+        "7": "Portanto, serei para eles",
+        "8": "Como ursa,",
+        "9": "“A sua ruína, ó Israel,",
+        "10": "Onde está, agora, o seu rei,",
+        "11": "Eu lhe dei um rei na minha ira,",
+        "12": "“As iniquidades de Efraim",
+        "13": "As dores de parto virão,",
+        "14": "“Eu os remirei",
+        "15": "“Ainda que Efraim dê frutos",
+        "16": "Samaria levará sobre si"
     }
-  }
 }

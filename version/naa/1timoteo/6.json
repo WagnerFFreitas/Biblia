@@ -1,90 +1,34 @@
 {
-  "livro": "1 Timóteo",
-  "capítulo": 6,
-  "versículos": {
-    "1": {
-      "título": "Os senhores e os servos",
-      "texto": "Todos os servos que estão debaixo de jugo considerem dignos de toda honra o próprio senhor, para que o nome de Deus e a doutrina não sejam difamados."
+    "livro": "1 Timóteo",
+    "capitulo": 6,
+    "titulos": {
+        "1": "Os senhores e os servos",
+        "3": "Os falsos mestres e os perigos da riqueza",
+        "11": "O bom combate da fé",
+        "17": "Os ricos",
+        "20": "Conselho final"
     },
-    "2": {
-      "título": "",
-      "texto": "Também os que têm senhor crente não o tratem com desrespeito, porque é irmão; pelo contrário, trabalhem ainda mais, pois ele, que partilha do seu bom serviço, é crente e amado. Ensine e recomende estas coisas."
-    },
-    "3": {
-      "título": "Os falsos mestres e os perigos da riqueza",
-      "texto": "Se alguém ensina outra doutrina e não concorda com as sãs palavras de nosso Senhor Jesus Cristo e com o ensino segundo a piedade,"
-    },
-    "4": {
-      "título": "",
-      "texto": "esse é orgulhoso e não entende nada, mas tem um desejo doentio por discussões e brigas a respeito de palavras. É daí que nascem a inveja, a provocação, as difamações, as suspeitas malignas"
-    },
-    "5": {
-      "título": "",
-      "texto": "e as polêmicas sem fim da parte de pessoas cuja mente é pervertida e que estão privadas da verdade, supondo que a piedade é fonte de lucro."
-    },
-    "6": {
-      "título": "",
-      "texto": "De fato, grande fonte de lucro é a piedade com o contentamento."
-    },
-    "7": {
-      "título": "",
-      "texto": "Porque nada trouxemos para o mundo, nem coisa alguma podemos levar dele."
-    },
-    "8": {
-      "título": "",
-      "texto": "Tendo sustento e com que nos vestir, estejamos contentes."
-    },
-    "9": {
-      "título": "",
-      "texto": "Mas os que querem ficar ricos caem em tentação, em armadilhas e em muitos desejos insensatos e nocivos, que levam as pessoas a se afundar na ruína e na perdição."
-    },
-    "10": {
-      "título": "",
-      "texto": "Porque o amor ao dinheiro é a raiz de todos os males; e alguns, nessa cobiça, se desviaram da fé e atormentaram a si mesmos com muitas dores."
-    },
-    "11": {
-      "título": "O bom combate da fé",
-      "texto": "Mas você, homem de Deus, fuja de tudo isso. Siga a justiça, a piedade, a fé, o amor, a perseverança, a mansidão."
-    },
-    "12": {
-      "título": "",
-      "texto": "Combata o bom combate da fé. Tome posse da vida eterna, para a qual você também foi chamado e da qual fez a boa confissão diante de muitas testemunhas."
-    },
-    "13": {
-      "título": "",
-      "texto": "Diante de Deus, que preserva a vida de todas as coisas, e diante de Cristo Jesus, que, na presença de Pôncio Pilatos, fez a boa confissão, eu exorto você"
-    },
-    "14": {
-      "título": "",
-      "texto": "a guardar este mandato imaculado, irrepreensível, até a manifestação de nosso Senhor Jesus Cristo,"
-    },
-    "15": {
-      "título": "",
-      "texto": "a qual, no tempo certo, há de ser revelada pelo bendito e único Soberano, o Rei dos reis e Senhor dos senhores,"
-    },
-    "16": {
-      "título": "",
-      "texto": "o único que possui imortalidade, que habita em luz inacessível, a quem ninguém jamais viu, nem é capaz de ver. A ele honra e poder eterno. Amém!"
-    },
-    "17": {
-      "título": "Os ricos",
-      "texto": "Exorte os ricos deste mundo a que não sejam orgulhosos, nem depositem a sua esperança na instabilidade da riqueza, mas em Deus, que tudo nos proporciona ricamente para o nosso prazer."
-    },
-    "18": {
-      "título": "",
-      "texto": "Que eles façam o bem, sejam ricos em boas obras, generosos em dar e prontos a repartir;"
-    },
-    "19": {
-      "título": "",
-      "texto": "ajuntando para si mesmos um tesouro que é sólido fundamento para o futuro, a fim de tomarem posse da verdadeira vida."
-    },
-    "20": {
-      "título": "Conselho final",
-      "texto": "E você, ó Timóteo, guarde o que lhe foi confiado, evitando os falatórios inúteis e profanos e as contradições daquilo que falsamente chamam de “conhecimento”,"
-    },
-    "21": {
-      "título": "",
-      "texto": "pois alguns, professando-o, se desviaram da fé."
+    "versiculos": {
+        "1": "Todos os servos que estão debaixo de jugo considerem dignos de toda honra o próprio senhor, para que o nome de Deus e a doutrina não sejam difamados.",
+        "2": "Também os que têm senhor crente não o tratem com desrespeito, porque é irmão; pelo contrário, trabalhem ainda mais, pois ele, que partilha do seu bom serviço, é crente e amado. Ensine e recomende estas coisas.",
+        "3": "Se alguém ensina outra doutrina e não concorda com as sãs palavras de nosso Senhor Jesus Cristo e com o ensino segundo a piedade,",
+        "4": "esse é orgulhoso e não entende nada, mas tem um desejo doentio por discussões e brigas a respeito de palavras. É daí que nascem a inveja, a provocação, as difamações, as suspeitas malignas",
+        "5": "e as polêmicas sem fim da parte de pessoas cuja mente é pervertida e que estão privadas da verdade, supondo que a piedade é fonte de lucro.",
+        "6": "De fato, grande fonte de lucro é a piedade com o contentamento.",
+        "7": "Porque nada trouxemos para o mundo, nem coisa alguma podemos levar dele.",
+        "8": "Tendo sustento e com que nos vestir, estejamos contentes.",
+        "9": "Mas os que querem ficar ricos caem em tentação, em armadilhas e em muitos desejos insensatos e nocivos, que levam as pessoas a se afundar na ruína e na perdição.",
+        "10": "Porque o amor ao dinheiro é a raiz de todos os males; e alguns, nessa cobiça, se desviaram da fé e atormentaram a si mesmos com muitas dores.",
+        "11": "Mas você, homem de Deus, fuja de tudo isso. Siga a justiça, a piedade, a fé, o amor, a perseverança, a mansidão.",
+        "12": "Combata o bom combate da fé. Tome posse da vida eterna, para a qual você também foi chamado e da qual fez a boa confissão diante de muitas testemunhas.",
+        "13": "Diante de Deus, que preserva a vida de todas as coisas, e diante de Cristo Jesus, que, na presença de Pôncio Pilatos, fez a boa confissão, eu exorto você",
+        "14": "a guardar este mandato imaculado, irrepreensível, até a manifestação de nosso Senhor Jesus Cristo,",
+        "15": "a qual, no tempo certo, há de ser revelada pelo bendito e único Soberano, o Rei dos reis e Senhor dos senhores,",
+        "16": "o único que possui imortalidade, que habita em luz inacessível, a quem ninguém jamais viu, nem é capaz de ver. A ele honra e poder eterno. Amém!",
+        "17": "Exorte os ricos deste mundo a que não sejam orgulhosos, nem depositem a sua esperança na instabilidade da riqueza, mas em Deus, que tudo nos proporciona ricamente para o nosso prazer.",
+        "18": "Que eles façam o bem, sejam ricos em boas obras, generosos em dar e prontos a repartir;",
+        "19": "ajuntando para si mesmos um tesouro que é sólido fundamento para o futuro, a fim de tomarem posse da verdadeira vida.",
+        "20": "E você, ó Timóteo, guarde o que lhe foi confiado, evitando os falatórios inúteis e profanos e as contradições daquilo que falsamente chamam de “conhecimento”,",
+        "21": "pois alguns, professando-o, se desviaram da fé."
     }
-  }
 }

@@ -1,122 +1,40 @@
 {
-  "livro": "Deuteronômio",
-  "capítulo": 14,
-  "versículos": {
-    "1": {
-      "título": "Mutilação do corpo proibida",
-      "texto": "— Vocês são filhos do Senhor , seu Deus. Não façam cortes em seu corpo, nem rapem a parte da frente da cabeça por causa de algum morto."
+    "livro": "Deuteronômio",
+    "capitulo": 14,
+    "titulos": {
+        "1": "Mutilação do corpo proibida",
+        "3": "Leis a respeito dos animais puros e os impuros",
+        "22": "A lei a respeito dos dízimos"
     },
-    "2": {
-      "título": "",
-      "texto": "Porque vocês são povo santo ao Senhor , seu Deus, e o Senhor os escolheu de todos os povos que há sobre a face da terra, para lhe serem o seu povo próprio."
-    },
-    "3": {
-      "título": "Leis a respeito dos animais puros e os impuros",
-      "texto": "— Não comam coisa alguma abominável."
-    },
-    "4": {
-      "título": "",
-      "texto": "São estes os animais que vocês podem comer: o boi, a ovelha, a cabra,"
-    },
-    "5": {
-      "título": "",
-      "texto": "o veado, a gazela, a corça, a cabra selvagem, o antílope, a ovelha selvagem e o gamo."
-    },
-    "6": {
-      "título": "",
-      "texto": "Vocês podem comer todos os animais que têm unhas fendidas, cujo casco se divide em dois e que ruminam."
-    },
-    "7": {
-      "título": "",
-      "texto": "Porém dos que ruminam ou que têm a unha fendida vocês não podem comer o camelo, a lebre e o arganaz, porque ruminam, mas não têm a unha fendida; serão impuros para vocês."
-    },
-    "8": {
-      "título": "",
-      "texto": "Nem o porco, porque tem unha fendida, mas não rumina; será impuro para vocês. Destes vocês não devem comer a carne, nem tocar no seu cadáver."
-    },
-    "9": {
-      "título": "",
-      "texto": "— Dos animais que vivem nas águas vocês podem comer tudo o que tem barbatanas e escamas."
-    },
-    "10": {
-      "título": "",
-      "texto": "Mas tudo o que não tiver barbatanas nem escamas vocês não podem comer; será impuro para vocês."
-    },
-    "11": {
-      "título": "",
-      "texto": "— Toda ave pura vocês podem comer."
-    },
-    "12": {
-      "título": "",
-      "texto": "Estas, porém, são as que vocês não devem comer: a águia, o urubu, a águia marinha,"
-    },
-    "13": {
-      "título": "",
-      "texto": "o açor, o falcão e o milhano, segundo a sua espécie;"
-    },
-    "14": {
-      "título": "",
-      "texto": "e todo corvo, segundo a sua espécie;"
-    },
-    "15": {
-      "título": "",
-      "texto": "o avestruz, a coruja, a gaivota e o gavião, segundo a sua espécie;"
-    },
-    "16": {
-      "título": "",
-      "texto": "o mocho, a íbis, a gralha,"
-    },
-    "17": {
-      "título": "",
-      "texto": "o pelicano, o abutre, o corvo marinho,"
-    },
-    "18": {
-      "título": "",
-      "texto": "a cegonha, e a garça, segundo a sua espécie, e a poupa e o morcego."
-    },
-    "19": {
-      "título": "",
-      "texto": "— Também todo inseto que voa será impuro para vocês; não se comerá."
-    },
-    "20": {
-      "título": "",
-      "texto": "Todo ser que tem asas e for puro vocês podem comer."
-    },
-    "21": {
-      "título": "",
-      "texto": "— Não comam nenhum animal que morreu por si mesmo. Vocês podem dá-lo ao estrangeiro que mora na cidade onde vocês vivem, para que o coma, ou vendê-lo ao estranho. Porque vocês são povo santo ao Senhor , seu Deus."
-    },
-    "22": {
-      "título": "A lei a respeito dos dízimos",
-      "texto": "— Certamente vocês devem dar o dízimo de todo o fruto das suas sementes, que ano após ano se recolher do campo."
-    },
-    "23": {
-      "título": "",
-      "texto": "E, diante do Senhor , seu Deus, no lugar que ele escolher para ali fazer habitar o seu nome, vocês comerão os dízimos do cereal, do vinho, do azeite e os primogênitos das vacas e das ovelhas. Façam isso para que aprendam a temer o Senhor , seu Deus, todos os dias."
-    },
-    "24": {
-      "título": "",
-      "texto": "Se o caminho for comprido demais e não lhes for possível levar isso, por estar longe de vocês o lugar que o Senhor , seu Deus, escolher para ali fazer habitar o seu nome, então, quando o Senhor , seu Deus, os tiver abençoado,"
-    },
-    "25": {
-      "título": "",
-      "texto": "vendam aquilo e, com o dinheiro na sua mão, vão ao lugar que o Senhor , o Deus de vocês, escolher."
-    },
-    "26": {
-      "título": "",
-      "texto": "Com esse dinheiro comprem tudo o que quiserem: vacas, ovelhas, vinho ou bebida forte, ou qualquer coisa que desejarem. Consumam isso ali na presença do Senhor , seu Deus, e alegrem-se, vocês e os membros da sua casa."
-    },
-    "27": {
-      "título": "",
-      "texto": "— Porém não desamparem os levitas que moram nas cidades de vocês, pois não têm parte nem herança com vocês."
-    },
-    "28": {
-      "título": "",
-      "texto": "Ao fim de cada três anos, tirem todos os dízimos do fruto do terceiro ano e os recolham nas cidades de vocês."
-    },
-    "29": {
-      "título": "",
-      "texto": "Então virão os levitas — porque não têm parte nem herança com vocês —, os estrangeiros, os órfãos e as viúvas que moram nas cidades de vocês, e comerão e se fartarão, para que o Senhor , o seu Deus, os abençoe em todas as obras que vocês fizerem."
+    "versiculos": {
+        "1": "— Vocês são filhos do Senhor , seu Deus. Não façam cortes em seu corpo, nem rapem a parte da frente da cabeça por causa de algum morto.",
+        "2": "Porque vocês são povo santo ao Senhor , seu Deus, e o Senhor os escolheu de todos os povos que há sobre a face da terra, para lhe serem o seu povo próprio.",
+        "3": "— Não comam coisa alguma abominável.",
+        "4": "São estes os animais que vocês podem comer: o boi, a ovelha, a cabra,",
+        "5": "o veado, a gazela, a corça, a cabra selvagem, o antílope, a ovelha selvagem e o gamo.",
+        "6": "Vocês podem comer todos os animais que têm unhas fendidas, cujo casco se divide em dois e que ruminam.",
+        "7": "Porém dos que ruminam ou que têm a unha fendida vocês não podem comer o camelo, a lebre e o arganaz, porque ruminam, mas não têm a unha fendida; serão impuros para vocês.",
+        "8": "Nem o porco, porque tem unha fendida, mas não rumina; será impuro para vocês. Destes vocês não devem comer a carne, nem tocar no seu cadáver.",
+        "9": "— Dos animais que vivem nas águas vocês podem comer tudo o que tem barbatanas e escamas.",
+        "10": "Mas tudo o que não tiver barbatanas nem escamas vocês não podem comer; será impuro para vocês.",
+        "11": "— Toda ave pura vocês podem comer.",
+        "12": "Estas, porém, são as que vocês não devem comer: a águia, o urubu, a águia marinha,",
+        "13": "o açor, o falcão e o milhano, segundo a sua espécie;",
+        "14": "e todo corvo, segundo a sua espécie;",
+        "15": "o avestruz, a coruja, a gaivota e o gavião, segundo a sua espécie;",
+        "16": "o mocho, a íbis, a gralha,",
+        "17": "o pelicano, o abutre, o corvo marinho,",
+        "18": "a cegonha, e a garça, segundo a sua espécie, e a poupa e o morcego.",
+        "19": "— Também todo inseto que voa será impuro para vocês; não se comerá.",
+        "20": "Todo ser que tem asas e for puro vocês podem comer.",
+        "21": "— Não comam nenhum animal que morreu por si mesmo. Vocês podem dá-lo ao estrangeiro que mora na cidade onde vocês vivem, para que o coma, ou vendê-lo ao estranho. Porque vocês são povo santo ao Senhor , seu Deus.",
+        "22": "— Certamente vocês devem dar o dízimo de todo o fruto das suas sementes, que ano após ano se recolher do campo.",
+        "23": "E, diante do Senhor , seu Deus, no lugar que ele escolher para ali fazer habitar o seu nome, vocês comerão os dízimos do cereal, do vinho, do azeite e os primogênitos das vacas e das ovelhas. Façam isso para que aprendam a temer o Senhor , seu Deus, todos os dias.",
+        "24": "Se o caminho for comprido demais e não lhes for possível levar isso, por estar longe de vocês o lugar que o Senhor , seu Deus, escolher para ali fazer habitar o seu nome, então, quando o Senhor , seu Deus, os tiver abençoado,",
+        "25": "vendam aquilo e, com o dinheiro na sua mão, vão ao lugar que o Senhor , o Deus de vocês, escolher.",
+        "26": "Com esse dinheiro comprem tudo o que quiserem: vacas, ovelhas, vinho ou bebida forte, ou qualquer coisa que desejarem. Consumam isso ali na presença do Senhor , seu Deus, e alegrem-se, vocês e os membros da sua casa.",
+        "27": "— Porém não desamparem os levitas que moram nas cidades de vocês, pois não têm parte nem herança com vocês.",
+        "28": "Ao fim de cada três anos, tirem todos os dízimos do fruto do terceiro ano e os recolham nas cidades de vocês.",
+        "29": "Então virão os levitas — porque não têm parte nem herança com vocês —, os estrangeiros, os órfãos e as viúvas que moram nas cidades de vocês, e comerão e se fartarão, para que o Senhor , o seu Deus, os abençoe em todas as obras que vocês fizerem."
     }
-  }
 }

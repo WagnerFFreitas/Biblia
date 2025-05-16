@@ -1,210 +1,60 @@
 {
-  "livro": "2 Samuel",
-  "capítulo": 22,
-  "versículos": {
-    "1": {
-      "título": "Cântico de Davi em ação de graças",
-      "texto": "Davi falou ao Senhor as palavras deste cântico, no dia em que o Senhor o livrou das mãos de todos os seus inimigos e das mãos de Saul."
+    "livro": "2 Samuel",
+    "capitulo": 22,
+    "titulos": {
+        "1": "Cântico de Davi em ação de graças"
     },
-    "2": {
-      "título": "",
-      "texto": "Ele disse:"
-    },
-    "3": {
-      "título": "",
-      "texto": "o meu Deus, o meu rochedo"
-    },
-    "4": {
-      "título": "",
-      "texto": "Invoco o Senhor ,"
-    },
-    "5": {
-      "título": "",
-      "texto": "“Porque ondas de morte"
-    },
-    "6": {
-      "título": "",
-      "texto": "Cadeias infernais"
-    },
-    "7": {
-      "título": "",
-      "texto": "“Na minha angústia,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Então a terra se abalou e tremeu;"
-    },
-    "9": {
-      "título": "",
-      "texto": "Das suas narinas subiu fumaça,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Ele baixou os céus e desceu,"
-    },
-    "11": {
-      "título": "",
-      "texto": "Cavalgava um querubim e voou;"
-    },
-    "12": {
-      "título": "",
-      "texto": "Por abrigo"
-    },
-    "13": {
-      "título": "",
-      "texto": "Do resplendor"
-    },
-    "14": {
-      "título": "",
-      "texto": "O Senhor trovejou"
-    },
-    "15": {
-      "título": "",
-      "texto": "Atirou as suas flechas"
-    },
-    "16": {
-      "título": "",
-      "texto": "Então se viu o leito do mar,"
-    },
-    "17": {
-      "título": "",
-      "texto": "“Do alto o Senhor me estendeu"
-    },
-    "18": {
-      "título": "",
-      "texto": "Livrou-me de forte inimigo"
-    },
-    "19": {
-      "título": "",
-      "texto": "Eles me atacaram"
-    },
-    "20": {
-      "título": "",
-      "texto": "Trouxe-me para um lugar"
-    },
-    "21": {
-      "título": "",
-      "texto": "“O Senhor me retribuiu"
-    },
-    "22": {
-      "título": "",
-      "texto": "Pois tenho guardado"
-    },
-    "23": {
-      "título": "",
-      "texto": "Porque todos os seus juízos"
-    },
-    "24": {
-      "título": "",
-      "texto": "Também fui íntegro para com ele"
-    },
-    "25": {
-      "título": "",
-      "texto": "Por isso, o Senhor me retribuiu"
-    },
-    "26": {
-      "título": "",
-      "texto": "“Para com quem é fiel,"
-    },
-    "27": {
-      "título": "",
-      "texto": "Com o puro, puro te mostras;"
-    },
-    "28": {
-      "título": "",
-      "texto": "Tu salvas o povo humilde,"
-    },
-    "29": {
-      "título": "",
-      "texto": "Tu, Senhor ,"
-    },
-    "30": {
-      "título": "",
-      "texto": "Pois contigo posso"
-    },
-    "31": {
-      "título": "",
-      "texto": "O caminho de Deus é perfeito;"
-    },
-    "32": {
-      "título": "",
-      "texto": "“Pois quem é Deus"
-    },
-    "33": {
-      "título": "",
-      "texto": "Deus é a minha fortaleza"
-    },
-    "34": {
-      "título": "",
-      "texto": "Ele deu aos meus pés"
-    },
-    "35": {
-      "título": "",
-      "texto": "Ele treinou as minhas mãos"
-    },
-    "36": {
-      "título": "",
-      "texto": "Também me deste"
-    },
-    "37": {
-      "título": "",
-      "texto": "Alargaste o caminho"
-    },
-    "38": {
-      "título": "",
-      "texto": "Persegui os meus inimigos"
-    },
-    "39": {
-      "título": "",
-      "texto": "Acabei com eles, esmagando-os"
-    },
-    "40": {
-      "título": "",
-      "texto": "Pois me cingiste"
-    },
-    "41": {
-      "título": "",
-      "texto": "Também puseste em fuga"
-    },
-    "42": {
-      "título": "",
-      "texto": "Olharam, mas não houve"
-    },
-    "43": {
-      "título": "",
-      "texto": "Então os moí"
-    },
-    "44": {
-      "título": "",
-      "texto": "“Dos conflitos do meu povo"
-    },
-    "45": {
-      "título": "",
-      "texto": "Os estrangeiros se mostram"
-    },
-    "46": {
-      "título": "",
-      "texto": "Os estrangeiros fraquejaram"
-    },
-    "47": {
-      "título": "",
-      "texto": "“O Senhor vive!"
-    },
-    "48": {
-      "título": "",
-      "texto": "O Deus que por mim tomou"
-    },
-    "49": {
-      "título": "",
-      "texto": "o Deus que me tirou"
-    },
-    "50": {
-      "título": "",
-      "texto": "“Por isso, eu te glorificarei"
-    },
-    "51": {
-      "título": "",
-      "texto": "É ele quem dá grandes vitórias"
+    "versiculos": {
+        "1": "Davi falou ao Senhor as palavras deste cântico, no dia em que o Senhor o livrou das mãos de todos os seus inimigos e das mãos de Saul.",
+        "2": "Ele disse:",
+        "3": "o meu Deus, o meu rochedo",
+        "4": "Invoco o Senhor ,",
+        "5": "“Porque ondas de morte",
+        "6": "Cadeias infernais",
+        "7": "“Na minha angústia,",
+        "8": "Então a terra se abalou e tremeu;",
+        "9": "Das suas narinas subiu fumaça,",
+        "10": "Ele baixou os céus e desceu,",
+        "11": "Cavalgava um querubim e voou;",
+        "12": "Por abrigo",
+        "13": "Do resplendor",
+        "14": "O Senhor trovejou",
+        "15": "Atirou as suas flechas",
+        "16": "Então se viu o leito do mar,",
+        "17": "“Do alto o Senhor me estendeu",
+        "18": "Livrou-me de forte inimigo",
+        "19": "Eles me atacaram",
+        "20": "Trouxe-me para um lugar",
+        "21": "“O Senhor me retribuiu",
+        "22": "Pois tenho guardado",
+        "23": "Porque todos os seus juízos",
+        "24": "Também fui íntegro para com ele",
+        "25": "Por isso, o Senhor me retribuiu",
+        "26": "“Para com quem é fiel,",
+        "27": "Com o puro, puro te mostras;",
+        "28": "Tu salvas o povo humilde,",
+        "29": "Tu, Senhor ,",
+        "30": "Pois contigo posso",
+        "31": "O caminho de Deus é perfeito;",
+        "32": "“Pois quem é Deus",
+        "33": "Deus é a minha fortaleza",
+        "34": "Ele deu aos meus pés",
+        "35": "Ele treinou as minhas mãos",
+        "36": "Também me deste",
+        "37": "Alargaste o caminho",
+        "38": "Persegui os meus inimigos",
+        "39": "Acabei com eles, esmagando-os",
+        "40": "Pois me cingiste",
+        "41": "Também puseste em fuga",
+        "42": "Olharam, mas não houve",
+        "43": "Então os moí",
+        "44": "“Dos conflitos do meu povo",
+        "45": "Os estrangeiros se mostram",
+        "46": "Os estrangeiros fraquejaram",
+        "47": "“O Senhor vive!",
+        "48": "O Deus que por mim tomou",
+        "49": "o Deus que me tirou",
+        "50": "“Por isso, eu te glorificarei",
+        "51": "É ele quem dá grandes vitórias"
     }
-  }
 }

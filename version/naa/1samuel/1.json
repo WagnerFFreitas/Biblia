@@ -1,118 +1,39 @@
 {
-  "livro": "1 Samuel",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "Elcana e suas mulheres",
-      "texto": "Houve um homem de Ramataim-Zofim, da região montanhosa de Efraim, cujo nome era Elcana, filho de Jeroão, filho de Eliú, filho de Toú, filho de Zufe, efraimita."
+    "livro": "1 Samuel",
+    "capitulo": 1,
+    "titulos": {
+        "1": "Elcana e suas mulheres",
+        "9": "A oração e o voto de Ana",
+        "19": "Nascimento e dedicação de Samuel"
     },
-    "2": {
-      "título": "",
-      "texto": "Elcana tinha duas mulheres: uma se chamava Ana, e a outra se chamava Penina. Penina tinha filhos; Ana, porém, não tinha."
-    },
-    "3": {
-      "título": "",
-      "texto": "Todos os anos esse homem ia da sua cidade para adorar e sacrificar ao Senhor dos Exércitos, em Siló, onde Hofni e Fineias, os dois filhos de Eli, eram sacerdotes do Senhor ."
-    },
-    "4": {
-      "título": "",
-      "texto": "No dia em que Elcana oferecia o seu sacrifício, ele dava porções deste a Penina, sua mulher, e a todos os seus filhos e filhas."
-    },
-    "5": {
-      "título": "",
-      "texto": "A Ana, porém, dava uma porção dobrada, porque ele a amava, mesmo que o Senhor a tivesse deixado estéril."
-    },
-    "6": {
-      "título": "",
-      "texto": "Penina, sua rival, a provocava excessivamente para a irritar, porque o Senhor a tinha deixado sem filhos."
-    },
-    "7": {
-      "título": "",
-      "texto": "Isso acontecia ano após ano. Todas as vezes que Ana ia à Casa do Senhor , a outra a irritava. Por isso Ana se punha a chorar e não comia nada."
-    },
-    "8": {
-      "título": "",
-      "texto": "Então Elcana, seu marido, lhe disse:"
-    },
-    "9": {
-      "título": "A oração e o voto de Ana",
-      "texto": "Certa vez após terem comido e bebido em Siló, Ana se levantou, quando o sacerdote Eli estava sentado na sua cadeira, junto a um pilar do templo do Senhor ."
-    },
-    "10": {
-      "título": "",
-      "texto": "E Ana, com amargura de alma, orou ao Senhor e chorou muito."
-    },
-    "11": {
-      "título": "",
-      "texto": "Ela fez um voto, dizendo:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Ana continuava a orar diante do Senhor , e o sacerdote Eli começou a observar o movimento dos lábios dela,"
-    },
-    "13": {
-      "título": "",
-      "texto": "porque Ana só falava em seu coração. Os seus lábios se moviam, porém não se ouvia voz nenhuma. Por isso Eli pensou que ela estava embriagada"
-    },
-    "14": {
-      "título": "",
-      "texto": "e lhe disse:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Porém Ana respondeu:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Não pense que esta sua serva é ímpia. Eu estava orando assim até agora porque é grande a minha ansiedade e a minha aflição."
-    },
-    "17": {
-      "título": "",
-      "texto": "Então Eli disse:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Ana respondeu:"
-    },
-    "19": {
-      "título": "Nascimento e dedicação de Samuel",
-      "texto": "Eles se levantaram de madrugada e adoraram diante do Senhor . Depois, voltaram para casa, em Ramá. Elcana teve relações com Ana, sua mulher, e o Senhor se lembrou dela."
-    },
-    "20": {
-      "título": "",
-      "texto": "Ana ficou grávida e, passado o devido tempo, teve um filho, a quem deu o nome de Samuel, pois dizia:"
-    },
-    "21": {
-      "título": "",
-      "texto": "Elcana, seu marido, foi com toda a sua casa para oferecer ao Senhor o sacrifício anual e para cumprir o seu voto."
-    },
-    "22": {
-      "título": "",
-      "texto": "Ana, porém, não foi. Ela disse a seu marido:"
-    },
-    "23": {
-      "título": "",
-      "texto": "Elcana, seu marido, respondeu:"
-    },
-    "24": {
-      "título": "",
-      "texto": "Depois de o ter desmamado, ela o levou consigo, com um novilho de três anos, uma medida de farinha e um odre de vinho, e o apresentou à Casa do Senhor , em Siló. O menino ainda era muito pequeno."
-    },
-    "25": {
-      "título": "",
-      "texto": "Depois de terem sacrificado o novilho, levaram o menino a Eli."
-    },
-    "26": {
-      "título": "",
-      "texto": "E Ana disse:"
-    },
-    "27": {
-      "título": "",
-      "texto": "Era por este menino que eu orava, e o Senhor Deus me concedeu o pedido que eu fiz."
-    },
-    "28": {
-      "título": "",
-      "texto": "Por isso também o entrego ao Senhor . Por todos os dias que viver, será dedicado ao Senhor ."
+    "versiculos": {
+        "1": "Houve um homem de Ramataim-Zofim, da região montanhosa de Efraim, cujo nome era Elcana, filho de Jeroão, filho de Eliú, filho de Toú, filho de Zufe, efraimita.",
+        "2": "Elcana tinha duas mulheres: uma se chamava Ana, e a outra se chamava Penina. Penina tinha filhos; Ana, porém, não tinha.",
+        "3": "Todos os anos esse homem ia da sua cidade para adorar e sacrificar ao Senhor dos Exércitos, em Siló, onde Hofni e Fineias, os dois filhos de Eli, eram sacerdotes do Senhor .",
+        "4": "No dia em que Elcana oferecia o seu sacrifício, ele dava porções deste a Penina, sua mulher, e a todos os seus filhos e filhas.",
+        "5": "A Ana, porém, dava uma porção dobrada, porque ele a amava, mesmo que o Senhor a tivesse deixado estéril.",
+        "6": "Penina, sua rival, a provocava excessivamente para a irritar, porque o Senhor a tinha deixado sem filhos.",
+        "7": "Isso acontecia ano após ano. Todas as vezes que Ana ia à Casa do Senhor , a outra a irritava. Por isso Ana se punha a chorar e não comia nada.",
+        "8": "Então Elcana, seu marido, lhe disse:",
+        "9": "Certa vez após terem comido e bebido em Siló, Ana se levantou, quando o sacerdote Eli estava sentado na sua cadeira, junto a um pilar do templo do Senhor .",
+        "10": "E Ana, com amargura de alma, orou ao Senhor e chorou muito.",
+        "11": "Ela fez um voto, dizendo:",
+        "12": "Ana continuava a orar diante do Senhor , e o sacerdote Eli começou a observar o movimento dos lábios dela,",
+        "13": "porque Ana só falava em seu coração. Os seus lábios se moviam, porém não se ouvia voz nenhuma. Por isso Eli pensou que ela estava embriagada",
+        "14": "e lhe disse:",
+        "15": "Porém Ana respondeu:",
+        "16": "Não pense que esta sua serva é ímpia. Eu estava orando assim até agora porque é grande a minha ansiedade e a minha aflição.",
+        "17": "Então Eli disse:",
+        "18": "Ana respondeu:",
+        "19": "Eles se levantaram de madrugada e adoraram diante do Senhor . Depois, voltaram para casa, em Ramá. Elcana teve relações com Ana, sua mulher, e o Senhor se lembrou dela.",
+        "20": "Ana ficou grávida e, passado o devido tempo, teve um filho, a quem deu o nome de Samuel, pois dizia:",
+        "21": "Elcana, seu marido, foi com toda a sua casa para oferecer ao Senhor o sacrifício anual e para cumprir o seu voto.",
+        "22": "Ana, porém, não foi. Ela disse a seu marido:",
+        "23": "Elcana, seu marido, respondeu:",
+        "24": "Depois de o ter desmamado, ela o levou consigo, com um novilho de três anos, uma medida de farinha e um odre de vinho, e o apresentou à Casa do Senhor , em Siló. O menino ainda era muito pequeno.",
+        "25": "Depois de terem sacrificado o novilho, levaram o menino a Eli.",
+        "26": "E Ana disse:",
+        "27": "Era por este menino que eu orava, e o Senhor Deus me concedeu o pedido que eu fiz.",
+        "28": "Por isso também o entrego ao Senhor . Por todos os dias que viver, será dedicado ao Senhor ."
     }
-  }
 }

@@ -1,62 +1,24 @@
 {
-  "livro": "Amós",
-  "capítulo": 8,
-  "versículos": {
-    "1": {
-      "título": "A visão de um cesto de frutos",
-      "texto": "O Senhor Deus também me mostrou o seguinte: um cesto de frutos de verão."
+    "livro": "Amós",
+    "capitulo": 8,
+    "titulos": {
+        "1": "A visão de um cesto de frutos",
+        "4": "A ruína de Israel está perto"
     },
-    "2": {
-      "título": "",
-      "texto": "E perguntou:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Naquele dia”,"
-    },
-    "4": {
-      "título": "A ruína de Israel está perto",
-      "texto": "Ouçam isto, vocês que pisam"
-    },
-    "5": {
-      "título": "",
-      "texto": "dizendo: “Quando passará"
-    },
-    "6": {
-      "título": "",
-      "texto": "para comprarmos os pobres"
-    },
-    "7": {
-      "título": "",
-      "texto": "O Senhor jurou"
-    },
-    "8": {
-      "título": "",
-      "texto": "Por causa disto, será que"
-    },
-    "9": {
-      "título": "",
-      "texto": "“Naquele dia”,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Transformarei as suas festas"
-    },
-    "11": {
-      "título": "",
-      "texto": "“Eis que vêm dias”,"
-    },
-    "12": {
-      "título": "",
-      "texto": "Andarão de mar a mar"
-    },
-    "13": {
-      "título": "",
-      "texto": "Naquele dia, as moças bonitas"
-    },
-    "14": {
-      "título": "",
-      "texto": "os que agora juram"
+    "versiculos": {
+        "1": "O Senhor Deus também me mostrou o seguinte: um cesto de frutos de verão.",
+        "2": "E perguntou:",
+        "3": "Naquele dia”,",
+        "4": "Ouçam isto, vocês que pisam",
+        "5": "dizendo: “Quando passará",
+        "6": "para comprarmos os pobres",
+        "7": "O Senhor jurou",
+        "8": "Por causa disto, será que",
+        "9": "“Naquele dia”,",
+        "10": "Transformarei as suas festas",
+        "11": "“Eis que vêm dias”,",
+        "12": "Andarão de mar a mar",
+        "13": "Naquele dia, as moças bonitas",
+        "14": "os que agora juram"
     }
-  }
 }

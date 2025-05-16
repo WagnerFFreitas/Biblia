@@ -1,94 +1,33 @@
 {
-  "livro": "Jó",
-  "capítulo": 16,
-  "versículos": {
-    "1": {
-      "título": "Um montão de palavras",
-      "texto": "Então Jó respondeu:"
+    "livro": "Jó",
+    "capitulo": 16,
+    "titulos": {
+        "1": "Um montão de palavras",
+        "7": "Deus me esmagou",
+        "18": "A minha testemunha está no céu"
     },
-    "2": {
-      "título": "",
-      "texto": "“Tenho ouvido muitas coisas"
-    },
-    "3": {
-      "título": "",
-      "texto": "Será que não terão fim"
-    },
-    "4": {
-      "título": "",
-      "texto": "Eu também poderia falar"
-    },
-    "5": {
-      "título": "",
-      "texto": "Poderia fortalecê-los"
-    },
-    "6": {
-      "título": "",
-      "texto": "Se eu falar,"
-    },
-    "7": {
-      "título": "Deus me esmagou",
-      "texto": "“Na verdade, esgotaste"
-    },
-    "8": {
-      "título": "",
-      "texto": "Testemunha disto"
-    },
-    "9": {
-      "título": "",
-      "texto": "“Na sua ira me despedaçou"
-    },
-    "10": {
-      "título": "",
-      "texto": "Homens abrem a sua boca"
-    },
-    "11": {
-      "título": "",
-      "texto": "Deus me entrega aos ímpios"
-    },
-    "12": {
-      "título": "",
-      "texto": "Eu vivia em paz,"
-    },
-    "13": {
-      "título": "",
-      "texto": "As suas flechas me atingem"
-    },
-    "14": {
-      "título": "",
-      "texto": "Ele me fere com golpes"
-    },
-    "15": {
-      "título": "",
-      "texto": "“Costurei uma roupa"
-    },
-    "16": {
-      "título": "",
-      "texto": "O meu rosto está vermelho"
-    },
-    "17": {
-      "título": "",
-      "texto": "embora não haja violência"
-    },
-    "18": {
-      "título": "A minha testemunha está no céu",
-      "texto": "“Ó terra, não cubra"
-    },
-    "19": {
-      "título": "",
-      "texto": "Já agora a minha testemunha"
-    },
-    "20": {
-      "título": "",
-      "texto": "Os meus amigos"
-    },
-    "21": {
-      "título": "",
-      "texto": "para que ele mantenha"
-    },
-    "22": {
-      "título": "",
-      "texto": "Porque dentro de poucos anos"
+    "versiculos": {
+        "1": "Então Jó respondeu:",
+        "2": "“Tenho ouvido muitas coisas",
+        "3": "Será que não terão fim",
+        "4": "Eu também poderia falar",
+        "5": "Poderia fortalecê-los",
+        "6": "Se eu falar,",
+        "7": "“Na verdade, esgotaste",
+        "8": "Testemunha disto",
+        "9": "“Na sua ira me despedaçou",
+        "10": "Homens abrem a sua boca",
+        "11": "Deus me entrega aos ímpios",
+        "12": "Eu vivia em paz,",
+        "13": "As suas flechas me atingem",
+        "14": "Ele me fere com golpes",
+        "15": "“Costurei uma roupa",
+        "16": "O meu rosto está vermelho",
+        "17": "embora não haja violência",
+        "18": "“Ó terra, não cubra",
+        "19": "Já agora a minha testemunha",
+        "20": "Os meus amigos",
+        "21": "para que ele mantenha",
+        "22": "Porque dentro de poucos anos"
     }
-  }
 }

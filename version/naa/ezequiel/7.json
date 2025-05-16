@@ -1,114 +1,36 @@
 {
-  "livro": "Ezequiel",
-  "capítulo": 7,
-  "versículos": {
-    "1": {
-      "título": "O fim chegou!",
-      "texto": "A palavra do Senhor veio a mim, dizendo:"
+    "livro": "Ezequiel",
+    "capitulo": 7,
+    "titulos": {
+        "1": "O fim chegou!"
     },
-    "2": {
-      "título": "",
-      "texto": "— Filho do homem, assim diz o Senhor Deus a respeito da terra de Israel:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Agora o fim chegou"
-    },
-    "4": {
-      "título": "",
-      "texto": "Os meus olhos não terão piedade,"
-    },
-    "5": {
-      "título": "",
-      "texto": "— Assim diz o Senhor Deus :"
-    },
-    "6": {
-      "título": "",
-      "texto": "Chegou o fim!"
-    },
-    "7": {
-      "título": "",
-      "texto": "A sua sentença chegou,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Agora, em breve,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Os meus olhos não terão piedade,"
-    },
-    "10": {
-      "título": "",
-      "texto": "“Eis o dia! Eis que chegou!"
-    },
-    "11": {
-      "título": "",
-      "texto": "A violência se ergueu"
-    },
-    "12": {
-      "título": "",
-      "texto": "Chegou a hora,"
-    },
-    "13": {
-      "título": "",
-      "texto": "Porque o vendedor"
-    },
-    "14": {
-      "título": "",
-      "texto": "“Tocaram a trombeta"
-    },
-    "15": {
-      "título": "",
-      "texto": "Fora está a espada;"
-    },
-    "16": {
-      "título": "",
-      "texto": "Se alguns deles, fugindo,"
-    },
-    "17": {
-      "título": "",
-      "texto": "Todas as mãos desfalecerão,"
-    },
-    "18": {
-      "título": "",
-      "texto": "Vestirão roupa"
-    },
-    "19": {
-      "título": "",
-      "texto": "Jogarão a sua prata nas ruas,"
-    },
-    "20": {
-      "título": "",
-      "texto": "Dessas preciosas joias fizeram"
-    },
-    "21": {
-      "título": "",
-      "texto": "“Entregarei tudo isso"
-    },
-    "22": {
-      "título": "",
-      "texto": "Desviarei deles o rosto,"
-    },
-    "23": {
-      "título": "",
-      "texto": "“Prepare uma corrente,"
-    },
-    "24": {
-      "título": "",
-      "texto": "Trarei aqui as piores nações,"
-    },
-    "25": {
-      "título": "",
-      "texto": "A destruição está a caminho!"
-    },
-    "26": {
-      "título": "",
-      "texto": "Virá miséria sobre miséria,"
-    },
-    "27": {
-      "título": "",
-      "texto": "O rei estará de luto,"
+    "versiculos": {
+        "1": "A palavra do Senhor veio a mim, dizendo:",
+        "2": "— Filho do homem, assim diz o Senhor Deus a respeito da terra de Israel:",
+        "3": "Agora o fim chegou",
+        "4": "Os meus olhos não terão piedade,",
+        "5": "— Assim diz o Senhor Deus :",
+        "6": "Chegou o fim!",
+        "7": "A sua sentença chegou,",
+        "8": "Agora, em breve,",
+        "9": "Os meus olhos não terão piedade,",
+        "10": "“Eis o dia! Eis que chegou!",
+        "11": "A violência se ergueu",
+        "12": "Chegou a hora,",
+        "13": "Porque o vendedor",
+        "14": "“Tocaram a trombeta",
+        "15": "Fora está a espada;",
+        "16": "Se alguns deles, fugindo,",
+        "17": "Todas as mãos desfalecerão,",
+        "18": "Vestirão roupa",
+        "19": "Jogarão a sua prata nas ruas,",
+        "20": "Dessas preciosas joias fizeram",
+        "21": "“Entregarei tudo isso",
+        "22": "Desviarei deles o rosto,",
+        "23": "“Prepare uma corrente,",
+        "24": "Trarei aqui as piores nações,",
+        "25": "A destruição está a caminho!",
+        "26": "Virá miséria sobre miséria,",
+        "27": "O rei estará de luto,"
     }
-  }
 }

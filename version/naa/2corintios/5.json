@@ -1,90 +1,32 @@
 {
-  "livro": "2 Coríntios",
-  "capítulo": 5,
-  "versículos": {
-    "1": {
-      "título": "Ausentes do corpo e presentes com o Senhor",
-      "texto": "Pois sabemos que, se a nossa casa terrestre deste tabernáculo se desfizer, temos da parte de Deus um edifício, uma casa não feita por mãos humanas, eterna, nos céus."
+    "livro": "2 Coríntios",
+    "capitulo": 5,
+    "titulos": {
+        "1": "Ausentes do corpo e presentes com o Senhor",
+        "11": "O zelo apostólico de Paulo",
+        "18": "O ministério da reconciliação"
     },
-    "2": {
-      "título": "",
-      "texto": "E, por isso, neste tabernáculo gememos, desejando muito ser revestidos da nossa habitação celestial;"
-    },
-    "3": {
-      "título": "",
-      "texto": "se, de fato, formos encontrados vestidos e não nus."
-    },
-    "4": {
-      "título": "",
-      "texto": "Pois nós, os que estamos neste tabernáculo, gememos angustiados, não por querermos ser despidos, mas revestidos, para que o mortal seja absorvido pela vida."
-    },
-    "5": {
-      "título": "",
-      "texto": "Ora, foi o próprio Deus quem nos preparou para isto, dando-nos o penhor do Espírito."
-    },
-    "6": {
-      "título": "",
-      "texto": "Por isso, temos sempre confiança e sabemos que, enquanto no corpo, estamos ausentes do Senhor."
-    },
-    "7": {
-      "título": "",
-      "texto": "Porque andamos por fé e não pelo que vemos."
-    },
-    "8": {
-      "título": "",
-      "texto": "Sim, temos tal confiança e preferimos deixar o corpo e habitar com o Senhor."
-    },
-    "9": {
-      "título": "",
-      "texto": "É por isso que também nos esforçamos para ser agradáveis a ele, quer presentes, quer ausentes."
-    },
-    "10": {
-      "título": "",
-      "texto": "Porque é necessário que todos nós compareçamos diante do tribunal de Cristo, para que cada um receba segundo o bem ou o mal que tiver feito por meio do corpo."
-    },
-    "11": {
-      "título": "O zelo apostólico de Paulo",
-      "texto": "E assim, conhecendo o temor do Senhor, procuramos persuadir as pessoas, mas somos plenamente conhecidos por Deus. E espero que também sejamos reconhecidos na consciência de vocês."
-    },
-    "12": {
-      "título": "",
-      "texto": "Não queremos novamente nos recomendar a vocês; pelo contrário, estamos dando uma oportunidade para vocês se orgulharem por nossa causa, para que tenham o que responder aos que se gloriam na aparência e não no coração."
-    },
-    "13": {
-      "título": "",
-      "texto": "Porque, se enlouquecemos, é para Deus, e, se conservamos o juízo, é para vocês."
-    },
-    "14": {
-      "título": "",
-      "texto": "Pois o amor de Cristo nos domina, porque reconhecemos isto: um morreu por todos; logo, todos morreram."
-    },
-    "15": {
-      "título": "",
-      "texto": "E ele morreu por todos, para que os que vivem não vivam mais para si mesmos, mas para aquele que por eles morreu e ressuscitou."
-    },
-    "16": {
-      "título": "",
-      "texto": "Assim que, nós, daqui por diante, a ninguém conhecemos segundo a carne; e, se antes conhecemos Cristo segundo a carne, já agora não o conhecemos deste modo."
-    },
-    "17": {
-      "título": "",
-      "texto": "E, assim, se alguém está em Cristo, é nova criatura; as coisas antigas já passaram; eis que se fizeram novas."
-    },
-    "18": {
-      "título": "O ministério da reconciliação",
-      "texto": "Ora, tudo isso provém de Deus, que nos reconciliou consigo mesmo por meio de Cristo e nos deu o ministério da reconciliação,"
-    },
-    "19": {
-      "título": "",
-      "texto": "a saber, que Deus estava em Cristo reconciliando consigo o mundo, não levando em conta os pecados dos seres humanos e nos confiando a palavra da reconciliação."
-    },
-    "20": {
-      "título": "",
-      "texto": "Portanto, somos embaixadores em nome de Cristo, como se Deus exortasse por meio de nós. Em nome de Cristo, pois, pedimos que vocês se reconciliem com Deus."
-    },
-    "21": {
-      "título": "",
-      "texto": "Aquele que não conheceu pecado, Deus o fez pecado por nós, para que, nele, fôssemos feitos justiça de Deus."
+    "versiculos": {
+        "1": "Pois sabemos que, se a nossa casa terrestre deste tabernáculo se desfizer, temos da parte de Deus um edifício, uma casa não feita por mãos humanas, eterna, nos céus.",
+        "2": "E, por isso, neste tabernáculo gememos, desejando muito ser revestidos da nossa habitação celestial;",
+        "3": "se, de fato, formos encontrados vestidos e não nus.",
+        "4": "Pois nós, os que estamos neste tabernáculo, gememos angustiados, não por querermos ser despidos, mas revestidos, para que o mortal seja absorvido pela vida.",
+        "5": "Ora, foi o próprio Deus quem nos preparou para isto, dando-nos o penhor do Espírito.",
+        "6": "Por isso, temos sempre confiança e sabemos que, enquanto no corpo, estamos ausentes do Senhor.",
+        "7": "Porque andamos por fé e não pelo que vemos.",
+        "8": "Sim, temos tal confiança e preferimos deixar o corpo e habitar com o Senhor.",
+        "9": "É por isso que também nos esforçamos para ser agradáveis a ele, quer presentes, quer ausentes.",
+        "10": "Porque é necessário que todos nós compareçamos diante do tribunal de Cristo, para que cada um receba segundo o bem ou o mal que tiver feito por meio do corpo.",
+        "11": "E assim, conhecendo o temor do Senhor, procuramos persuadir as pessoas, mas somos plenamente conhecidos por Deus. E espero que também sejamos reconhecidos na consciência de vocês.",
+        "12": "Não queremos novamente nos recomendar a vocês; pelo contrário, estamos dando uma oportunidade para vocês se orgulharem por nossa causa, para que tenham o que responder aos que se gloriam na aparência e não no coração.",
+        "13": "Porque, se enlouquecemos, é para Deus, e, se conservamos o juízo, é para vocês.",
+        "14": "Pois o amor de Cristo nos domina, porque reconhecemos isto: um morreu por todos; logo, todos morreram.",
+        "15": "E ele morreu por todos, para que os que vivem não vivam mais para si mesmos, mas para aquele que por eles morreu e ressuscitou.",
+        "16": "Assim que, nós, daqui por diante, a ninguém conhecemos segundo a carne; e, se antes conhecemos Cristo segundo a carne, já agora não o conhecemos deste modo.",
+        "17": "E, assim, se alguém está em Cristo, é nova criatura; as coisas antigas já passaram; eis que se fizeram novas.",
+        "18": "Ora, tudo isso provém de Deus, que nos reconciliou consigo mesmo por meio de Cristo e nos deu o ministério da reconciliação,",
+        "19": "a saber, que Deus estava em Cristo reconciliando consigo o mundo, não levando em conta os pecados dos seres humanos e nos confiando a palavra da reconciliação.",
+        "20": "Portanto, somos embaixadores em nome de Cristo, como se Deus exortasse por meio de nós. Em nome de Cristo, pois, pedimos que vocês se reconciliem com Deus.",
+        "21": "Aquele que não conheceu pecado, Deus o fez pecado por nós, para que, nele, fôssemos feitos justiça de Deus."
     }
-  }
 }

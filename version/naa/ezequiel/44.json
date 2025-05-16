@@ -1,130 +1,42 @@
 {
-  "livro": "Ezequiel",
-  "capítulo": 44,
-  "versículos": {
-    "1": {
-      "título": "O portão leste",
-      "texto": "Então o homem me fez voltar para o portão exterior do santuário, que dá para o leste e que estava fechado."
+    "livro": "Ezequiel",
+    "capitulo": 44,
+    "titulos": {
+        "1": "O portão leste",
+        "4": "Reformas no ministério do santuário",
+        "15": "Os deveres dos sacerdotes"
     },
-    "2": {
-      "título": "",
-      "texto": "E o Senhor me disse:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Quanto ao príncipe, ele se assentará ali por ser príncipe, para comer o pão diante do Senhor . Entrará pelo vestíbulo da porta e sairá pelo mesmo caminho."
-    },
-    "4": {
-      "título": "Reformas no ministério do santuário",
-      "texto": "Depois, o homem me levou para a frente do templo, passando pelo portão do norte. Olhei, e eis que a glória do Senhor enchia a Casa do Senhor ; então caí com o rosto em terra."
-    },
-    "5": {
-      "título": "",
-      "texto": "E o Senhor me disse:"
-    },
-    "6": {
-      "título": "",
-      "texto": "— Diga aos rebeldes, à casa de Israel: Assim diz o Senhor Deus : “Basta de todas essas suas abominações, ó casa de Israel!"
-    },
-    "7": {
-      "título": "",
-      "texto": "Porque vocês levaram estrangeiros, incircuncisos de coração e incircuncisos de carne, para estarem em meu santuário e profaná-lo, a saber, o meu templo, quando oferecem o meu pão, a gordura e o sangue. Vocês quebraram a minha aliança, fazendo todas essas abominações."
-    },
-    "8": {
-      "título": "",
-      "texto": "Vocês não cumpriram as prescrições a respeito das minhas coisas sagradas, mas constituíram estrangeiros para executarem o serviço no meu santuário em lugar de vocês.”"
-    },
-    "9": {
-      "título": "",
-      "texto": "— Assim diz o Senhor Deus : Nenhum estrangeiro que se encontra no meio dos filhos de Israel, incircunciso de coração ou incircunciso de carne, entrará no meu santuário."
-    },
-    "10": {
-      "título": "",
-      "texto": "Os levitas, porém, que se afastaram de mim quando Israel se desviou, que se desviaram de mim, para ir atrás dos seus ídolos, levarão sobre si a sua iniquidade."
-    },
-    "11": {
-      "título": "",
-      "texto": "Contudo, eles poderão servir no meu santuário como guardas dos portões e ministros do templo. Eles matarão os animais do holocausto e do sacrifício para o povo e estarão diante do povo para o servir."
-    },
-    "12": {
-      "título": "",
-      "texto": "Mas, porque serviram o povo na presença dos seus ídolos e puseram diante da casa de Israel um tropeço que os levou a cair em iniquidade, por isso, jurei a respeito deles, diz o Senhor Deus , que eles levarão sobre si a sua iniquidade."
-    },
-    "13": {
-      "título": "",
-      "texto": "Não se aproximarão de mim, para me servirem no sacerdócio, nem se aproximarão de nenhuma de todas as minhas coisas sagradas, que são santíssimas, mas levarão sobre si a sua vergonha e as suas abominações que cometeram."
-    },
-    "14": {
-      "título": "",
-      "texto": "Contudo, eu os encarregarei da guarda do templo, de todo o serviço e de tudo o que tiver de ser feito nele."
-    },
-    "15": {
-      "título": "Os deveres dos sacerdotes",
-      "texto": "— Mas os sacerdotes levitas, os filhos de Zadoque, que cumpriram as prescrições do meu santuário, quando os filhos de Israel se desviaram de mim, eles se aproximarão de mim, para me servirem, e estarão diante de mim, para me oferecerem a gordura e o sangue, diz o Senhor Deus ."
-    },
-    "16": {
-      "título": "",
-      "texto": "Eles entrarão no meu santuário, e se aproximarão da minha mesa, para me servirem, e cumprirão as minhas prescrições."
-    },
-    "17": {
-      "título": "",
-      "texto": "Quando entrarem pelos portões do átrio interior, usarão vestes de linho. Não deverão usar nada feito de lã, quando servirem nos portões do átrio interior ou dentro do templo."
-    },
-    "18": {
-      "título": "",
-      "texto": "Deverão usar turbantes de linho na cabeça e calções de linho sobre as coxas. Não deverão usar nada que os leve a suar."
-    },
-    "19": {
-      "título": "",
-      "texto": "Quando saírem para o átrio exterior, para junto do povo, deverão tirar as vestes com que ministraram, deixando-as nas santas câmaras. Deverão usar outras roupas, para que, com as suas vestes, não santifiquem o povo."
-    },
-    "20": {
-      "título": "",
-      "texto": "Não raparão a cabeça, nem deixarão o cabelo ficar comprido; pelo contrário, devem cortá-lo como convém."
-    },
-    "21": {
-      "título": "",
-      "texto": "Nenhum sacerdote beberá vinho quando entrar no átrio interior."
-    },
-    "22": {
-      "título": "",
-      "texto": "O sacerdote não se casará nem com viúva nem com mulher divorciada, mas somente com uma virgem da linhagem da casa de Israel ou com a viúva de um sacerdote."
-    },
-    "23": {
-      "título": "",
-      "texto": "Os sacerdotes ensinarão o meu povo a distinguir entre o santo e o profano e lhe darão entendimento quanto à diferença entre o impuro e o puro."
-    },
-    "24": {
-      "título": "",
-      "texto": "Quando houver litígio, eles atuarão como juízes, decidindo a questão segundo o meu direito. Guardarão as minhas leis e os meus estatutos em todas as festas fixas e santificarão os meus sábados."
-    },
-    "25": {
-      "título": "",
-      "texto": "— Não se aproximarão de nenhuma pessoa morta, porque se contaminariam. Apenas se o morto for o pai, a mãe, um filho, uma filha, um irmão, ou uma irmã que não tiver marido, poderão se contaminar."
-    },
-    "26": {
-      "título": "",
-      "texto": "Depois que ele se purificar de novo, deverá esperar sete dias."
-    },
-    "27": {
-      "título": "",
-      "texto": "No dia em que ele entrar no lugar santo, no átrio interior, para ministrar no lugar santo, apresentará a sua oferta pelo pecado, diz o Senhor Deus ."
-    },
-    "28": {
-      "título": "",
-      "texto": "— Os sacerdotes terão uma herança; eu sou a sua herança. Vocês não lhes darão nenhuma propriedade em Israel; eu sou a sua propriedade."
-    },
-    "29": {
-      "título": "",
-      "texto": "As ofertas de cereais, as ofertas pelo pecado e as ofertas pela culpa eles comerão; e toda coisa consagrada em Israel será deles."
-    },
-    "30": {
-      "título": "",
-      "texto": "O melhor de todos os primeiros frutos de toda espécie e toda oferta de toda espécie serão dos sacerdotes. Também a primeira parte do cereal moído vocês darão aos sacerdotes, para que façam repousar a bênção sobre a casa de vocês."
-    },
-    "31": {
-      "título": "",
-      "texto": "Os sacerdotes não comerão nenhum pássaro ou animal que tenha morrido por si mesmo ou que tenha sido dilacerado por outro animal."
+    "versiculos": {
+        "1": "Então o homem me fez voltar para o portão exterior do santuário, que dá para o leste e que estava fechado.",
+        "2": "E o Senhor me disse:",
+        "3": "Quanto ao príncipe, ele se assentará ali por ser príncipe, para comer o pão diante do Senhor . Entrará pelo vestíbulo da porta e sairá pelo mesmo caminho.",
+        "4": "Depois, o homem me levou para a frente do templo, passando pelo portão do norte. Olhei, e eis que a glória do Senhor enchia a Casa do Senhor ; então caí com o rosto em terra.",
+        "5": "E o Senhor me disse:",
+        "6": "— Diga aos rebeldes, à casa de Israel: Assim diz o Senhor Deus : “Basta de todas essas suas abominações, ó casa de Israel!",
+        "7": "Porque vocês levaram estrangeiros, incircuncisos de coração e incircuncisos de carne, para estarem em meu santuário e profaná-lo, a saber, o meu templo, quando oferecem o meu pão, a gordura e o sangue. Vocês quebraram a minha aliança, fazendo todas essas abominações.",
+        "8": "Vocês não cumpriram as prescrições a respeito das minhas coisas sagradas, mas constituíram estrangeiros para executarem o serviço no meu santuário em lugar de vocês.”",
+        "9": "— Assim diz o Senhor Deus : Nenhum estrangeiro que se encontra no meio dos filhos de Israel, incircunciso de coração ou incircunciso de carne, entrará no meu santuário.",
+        "10": "Os levitas, porém, que se afastaram de mim quando Israel se desviou, que se desviaram de mim, para ir atrás dos seus ídolos, levarão sobre si a sua iniquidade.",
+        "11": "Contudo, eles poderão servir no meu santuário como guardas dos portões e ministros do templo. Eles matarão os animais do holocausto e do sacrifício para o povo e estarão diante do povo para o servir.",
+        "12": "Mas, porque serviram o povo na presença dos seus ídolos e puseram diante da casa de Israel um tropeço que os levou a cair em iniquidade, por isso, jurei a respeito deles, diz o Senhor Deus , que eles levarão sobre si a sua iniquidade.",
+        "13": "Não se aproximarão de mim, para me servirem no sacerdócio, nem se aproximarão de nenhuma de todas as minhas coisas sagradas, que são santíssimas, mas levarão sobre si a sua vergonha e as suas abominações que cometeram.",
+        "14": "Contudo, eu os encarregarei da guarda do templo, de todo o serviço e de tudo o que tiver de ser feito nele.",
+        "15": "— Mas os sacerdotes levitas, os filhos de Zadoque, que cumpriram as prescrições do meu santuário, quando os filhos de Israel se desviaram de mim, eles se aproximarão de mim, para me servirem, e estarão diante de mim, para me oferecerem a gordura e o sangue, diz o Senhor Deus .",
+        "16": "Eles entrarão no meu santuário, e se aproximarão da minha mesa, para me servirem, e cumprirão as minhas prescrições.",
+        "17": "Quando entrarem pelos portões do átrio interior, usarão vestes de linho. Não deverão usar nada feito de lã, quando servirem nos portões do átrio interior ou dentro do templo.",
+        "18": "Deverão usar turbantes de linho na cabeça e calções de linho sobre as coxas. Não deverão usar nada que os leve a suar.",
+        "19": "Quando saírem para o átrio exterior, para junto do povo, deverão tirar as vestes com que ministraram, deixando-as nas santas câmaras. Deverão usar outras roupas, para que, com as suas vestes, não santifiquem o povo.",
+        "20": "Não raparão a cabeça, nem deixarão o cabelo ficar comprido; pelo contrário, devem cortá-lo como convém.",
+        "21": "Nenhum sacerdote beberá vinho quando entrar no átrio interior.",
+        "22": "O sacerdote não se casará nem com viúva nem com mulher divorciada, mas somente com uma virgem da linhagem da casa de Israel ou com a viúva de um sacerdote.",
+        "23": "Os sacerdotes ensinarão o meu povo a distinguir entre o santo e o profano e lhe darão entendimento quanto à diferença entre o impuro e o puro.",
+        "24": "Quando houver litígio, eles atuarão como juízes, decidindo a questão segundo o meu direito. Guardarão as minhas leis e os meus estatutos em todas as festas fixas e santificarão os meus sábados.",
+        "25": "— Não se aproximarão de nenhuma pessoa morta, porque se contaminariam. Apenas se o morto for o pai, a mãe, um filho, uma filha, um irmão, ou uma irmã que não tiver marido, poderão se contaminar.",
+        "26": "Depois que ele se purificar de novo, deverá esperar sete dias.",
+        "27": "No dia em que ele entrar no lugar santo, no átrio interior, para ministrar no lugar santo, apresentará a sua oferta pelo pecado, diz o Senhor Deus .",
+        "28": "— Os sacerdotes terão uma herança; eu sou a sua herança. Vocês não lhes darão nenhuma propriedade em Israel; eu sou a sua propriedade.",
+        "29": "As ofertas de cereais, as ofertas pelo pecado e as ofertas pela culpa eles comerão; e toda coisa consagrada em Israel será deles.",
+        "30": "O melhor de todos os primeiros frutos de toda espécie e toda oferta de toda espécie serão dos sacerdotes. Também a primeira parte do cereal moído vocês darão aos sacerdotes, para que façam repousar a bênção sobre a casa de vocês.",
+        "31": "Os sacerdotes não comerão nenhum pássaro ou animal que tenha morrido por si mesmo ou que tenha sido dilacerado por outro animal."
     }
-  }
 }

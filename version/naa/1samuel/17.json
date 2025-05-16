@@ -1,238 +1,67 @@
 {
-  "livro": "1 Samuel",
-  "capítulo": 17,
-  "versículos": {
-    "1": {
-      "título": "Davi e Golias",
-      "texto": "Os filisteus reuniram as suas tropas para a guerra em Socó, que fica em Judá. Eles acamparam entre Socó e Azeca, em Efes-Damim."
+    "livro": "1 Samuel",
+    "capitulo": 17,
+    "titulos": {
+        "1": "Davi e Golias"
     },
-    "2": {
-      "título": "",
-      "texto": "Saul e os homens de Israel se reuniram e acamparam no vale de Elá, e ali ordenaram a batalha contra os filisteus."
-    },
-    "3": {
-      "título": "",
-      "texto": "Os filisteus estavam num monte e os israelitas estavam no outro monte, ficando o vale no meio deles."
-    },
-    "4": {
-      "título": "",
-      "texto": "Então do arraial dos filisteus saiu um guerreiro chamado Golias. Ele era da cidade de Gate e tinha quase três metros de altura."
-    },
-    "5": {
-      "título": "",
-      "texto": "Trazia na cabeça um capacete de bronze e vestia uma couraça de escamas de bronze, que pesava uns sessenta quilos."
-    },
-    "6": {
-      "título": "",
-      "texto": "Trazia caneleiras de bronze nas pernas e um dardo de bronze sobre os ombros."
-    },
-    "7": {
-      "título": "",
-      "texto": "A haste da sua lança era como o eixo do tecelão, e a ponta da sua lança era de ferro e pesava mais de sete quilos. E diante dele ia o escudeiro."
-    },
-    "8": {
-      "título": "",
-      "texto": "Golias parou e gritou para as tropas de Israel:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Se ele puder lutar comigo e me matar, seremos servos de vocês. Mas, se eu o vencer e o matar, vocês serão nossos servos e nos servirão."
-    },
-    "10": {
-      "título": "",
-      "texto": "E o filisteu continuou:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Quando Saul e todo o Israel ouviram estas palavras do filisteu, ficaram assustados e com muito medo."
-    },
-    "12": {
-      "título": "",
-      "texto": "Davi era filho daquele efrateu de Belém de Judá cujo nome era Jessé e que tinha oito filhos. Nos dias de Saul, Jessé já era bastante idoso entre os homens."
-    },
-    "13": {
-      "título": "",
-      "texto": "Os três filhos mais velhos de Jessé tinham ido com Saul para a guerra. Esses três, que tinham ido para a guerra, se chamavam Eliabe, que era o primogênito; Abinadabe, que era o segundo; e Samá, que era o terceiro."
-    },
-    "14": {
-      "título": "",
-      "texto": "Davi era o mais moço; só os três mais velhos seguiram Saul."
-    },
-    "15": {
-      "título": "",
-      "texto": "Davi, porém, ia a Saul e voltava, para apascentar as ovelhas de seu pai, em Belém."
-    },
-    "16": {
-      "título": "",
-      "texto": "O filisteu vinha de manhã e de tarde, apresentando-se durante quarenta dias."
-    },
-    "17": {
-      "título": "",
-      "texto": "Jessé disse a Davi, seu filho:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Porém estes dez queijos, leve-os para o comandante de mil. Veja como os seus irmãos estão passando e traga uma prova de que estão bem."
-    },
-    "19": {
-      "título": "",
-      "texto": "Saul, eles e todos os homens de Israel estão no vale de Elá, lutando contra os filisteus."
-    },
-    "20": {
-      "título": "",
-      "texto": "No dia seguinte, Davi se levantou de madrugada, deixou as ovelhas com um guarda, carregou o que havia sido preparado e partiu, como Jessé lhe havia ordenado. Chegou ao acampamento quando as tropas estavam saindo para colocar-se em ordem de combate e, aos gritos, chamavam para a batalha."
-    },
-    "21": {
-      "título": "",
-      "texto": "Os israelitas e filisteus se puseram em ordem, fileira contra fileira."
-    },
-    "22": {
-      "título": "",
-      "texto": "Davi deixou o que havia trazido aos cuidados do guarda da bagagem e correu para a batalha. Quando chegou lá, perguntou a seus irmãos se estavam bem."
-    },
-    "23": {
-      "título": "",
-      "texto": "Enquanto Davi ainda falava com eles, eis que vinha subindo do exército dos filisteus o guerreiro, cujo nome era Golias, o filisteu de Gate. E falou as mesmas coisas que havia falado anteriormente. E Davi escutou."
-    },
-    "24": {
-      "título": "",
-      "texto": "Todos os israelitas, vendo aquele homem, fugiam dele, com muito medo."
-    },
-    "25": {
-      "título": "",
-      "texto": "E diziam uns aos outros:"
-    },
-    "26": {
-      "título": "",
-      "texto": "Então Davi perguntou aos homens que estavam perto dele:"
-    },
-    "27": {
-      "título": "",
-      "texto": "E o povo lhe repetiu as mesmas palavras, dizendo:"
-    },
-    "28": {
-      "título": "",
-      "texto": "Eliabe, o irmão mais velho, ouviu Davi falando com aqueles homens. Ele ficou irado com Davi e disse:"
-    },
-    "29": {
-      "título": "",
-      "texto": "Davi respondeu:"
-    },
-    "30": {
-      "título": "",
-      "texto": "Então Davi se desviou dele na direção de outro e fez a mesma pergunta. E o povo lhe deu a mesma resposta de antes."
-    },
-    "31": {
-      "título": "",
-      "texto": "Alguns homens que tinham ouvido as palavras de Davi foram anunciá-las a Saul, que mandou chamar Davi."
-    },
-    "32": {
-      "título": "",
-      "texto": "Davi disse a Saul:"
-    },
-    "33": {
-      "título": "",
-      "texto": "Porém Saul disse a Davi:"
-    },
-    "34": {
-      "título": "",
-      "texto": "Davi respondeu:"
-    },
-    "35": {
-      "título": "",
-      "texto": "eu saía atrás dele, batia nele e livrava o cordeiro da sua boca. Se ele se levantava contra mim, eu o agarrava pela barba e o golpeava até matá-lo."
-    },
-    "36": {
-      "título": "",
-      "texto": "Este seu servo matou tanto o leão como o urso. Este filisteu incircunciso será como um deles, porque afrontou os exércitos do Deus vivo."
-    },
-    "37": {
-      "título": "",
-      "texto": "E Davi continuou:"
-    },
-    "38": {
-      "título": "",
-      "texto": "Saul vestiu Davi com a sua própria armadura, pôs um capacete de bronze na cabeça dele, e o vestiu com uma couraça."
-    },
-    "39": {
-      "título": "",
-      "texto": "Davi cingiu a espada sobre a armadura e tentou andar, pois jamais a havia usado. Então Davi disse a Saul:"
-    },
-    "40": {
-      "título": "",
-      "texto": "Pegou o seu cajado na mão, escolheu cinco pedras lisas do ribeiro, e as pôs no alforje de pastor, que trazia consigo. E, com a sua funda na mão, foi na direção do filisteu."
-    },
-    "41": {
-      "título": "",
-      "texto": "O filisteu também vinha caminhando e se aproximava de Davi, tendo à frente dele o seu escudeiro."
-    },
-    "42": {
-      "título": "",
-      "texto": "O filisteu olhou e, vendo Davi, o desprezou, porque era apenas um moço ruivo e de boa aparência."
-    },
-    "43": {
-      "título": "",
-      "texto": "O filisteu disse a Davi:"
-    },
-    "44": {
-      "título": "",
-      "texto": "E disse mais a Davi:"
-    },
-    "45": {
-      "título": "",
-      "texto": "Davi, porém, disse ao filisteu:"
-    },
-    "46": {
-      "título": "",
-      "texto": "Hoje mesmo o Senhor entregará você nas minhas mãos. Eu o matarei, cortarei a sua cabeça e hoje mesmo darei os cadáveres do arraial dos filisteus às aves dos céus e às feras da terra. E toda a terra saberá que há Deus em Israel."
-    },
-    "47": {
-      "título": "",
-      "texto": "Toda esta multidão saberá que o Senhor salva, não com espada, nem com lança. Porque do Senhor é a guerra, e ele entregará todos vocês nas nossas mãos."
-    },
-    "48": {
-      "título": "",
-      "texto": "E aconteceu que, quando o filisteu se levantou e começou a se aproximar de Davi, este se apressou e, deixando as suas fileiras, correu de encontro ao filisteu."
-    },
-    "49": {
-      "título": "",
-      "texto": "Davi meteu a mão no alforje, tirou dali uma pedra e, com a sua funda, a atirou contra o filisteu, atingindo-o na testa. A pedra se encravou na testa, e ele caiu com o rosto no chão."
-    },
-    "50": {
-      "título": "",
-      "texto": "Assim Davi derrotou o filisteu, com uma funda e com uma pedra. Ele o derrubou e o matou. Não havia nenhuma espada na mão de Davi."
-    },
-    "51": {
-      "título": "",
-      "texto": "Por isso, Davi correu e, lançando-se sobre o filisteu, pegou a espada dele, tirou-a da bainha e o matou, cortando com ela a cabeça dele."
-    },
-    "52": {
-      "título": "",
-      "texto": "Então os homens de Israel e Judá se levantaram, deram um grito e perseguiram os filisteus até Gate e até os portões de Ecrom. E os filisteus caíram feridos pelo caminho, de Saaraim até Gate e até Ecrom."
-    },
-    "53": {
-      "título": "",
-      "texto": "Então os filhos de Israel voltaram da perseguição aos filisteus e saquearam os acampamentos deles."
-    },
-    "54": {
-      "título": "",
-      "texto": "Davi pegou a cabeça do filisteu e a levou para Jerusalém. Porém as armas dele Davi colocou em sua própria tenda."
-    },
-    "55": {
-      "título": "",
-      "texto": "Quando Saul viu Davi saindo para encontrar-se com o filisteu, perguntou a Abner, o comandante do exército:"
-    },
-    "56": {
-      "título": "",
-      "texto": "E o rei disse:"
-    },
-    "57": {
-      "título": "",
-      "texto": "Quando Davi voltou, depois de matar o filisteu, Abner o tomou e o levou à presença de Saul. Davi ainda trazia na mão a cabeça do filisteu."
-    },
-    "58": {
-      "título": "",
-      "texto": "Então Saul lhe perguntou:"
+    "versiculos": {
+        "1": "Os filisteus reuniram as suas tropas para a guerra em Socó, que fica em Judá. Eles acamparam entre Socó e Azeca, em Efes-Damim.",
+        "2": "Saul e os homens de Israel se reuniram e acamparam no vale de Elá, e ali ordenaram a batalha contra os filisteus.",
+        "3": "Os filisteus estavam num monte e os israelitas estavam no outro monte, ficando o vale no meio deles.",
+        "4": "Então do arraial dos filisteus saiu um guerreiro chamado Golias. Ele era da cidade de Gate e tinha quase três metros de altura.",
+        "5": "Trazia na cabeça um capacete de bronze e vestia uma couraça de escamas de bronze, que pesava uns sessenta quilos.",
+        "6": "Trazia caneleiras de bronze nas pernas e um dardo de bronze sobre os ombros.",
+        "7": "A haste da sua lança era como o eixo do tecelão, e a ponta da sua lança era de ferro e pesava mais de sete quilos. E diante dele ia o escudeiro.",
+        "8": "Golias parou e gritou para as tropas de Israel:",
+        "9": "Se ele puder lutar comigo e me matar, seremos servos de vocês. Mas, se eu o vencer e o matar, vocês serão nossos servos e nos servirão.",
+        "10": "E o filisteu continuou:",
+        "11": "Quando Saul e todo o Israel ouviram estas palavras do filisteu, ficaram assustados e com muito medo.",
+        "12": "Davi era filho daquele efrateu de Belém de Judá cujo nome era Jessé e que tinha oito filhos. Nos dias de Saul, Jessé já era bastante idoso entre os homens.",
+        "13": "Os três filhos mais velhos de Jessé tinham ido com Saul para a guerra. Esses três, que tinham ido para a guerra, se chamavam Eliabe, que era o primogênito; Abinadabe, que era o segundo; e Samá, que era o terceiro.",
+        "14": "Davi era o mais moço; só os três mais velhos seguiram Saul.",
+        "15": "Davi, porém, ia a Saul e voltava, para apascentar as ovelhas de seu pai, em Belém.",
+        "16": "O filisteu vinha de manhã e de tarde, apresentando-se durante quarenta dias.",
+        "17": "Jessé disse a Davi, seu filho:",
+        "18": "Porém estes dez queijos, leve-os para o comandante de mil. Veja como os seus irmãos estão passando e traga uma prova de que estão bem.",
+        "19": "Saul, eles e todos os homens de Israel estão no vale de Elá, lutando contra os filisteus.",
+        "20": "No dia seguinte, Davi se levantou de madrugada, deixou as ovelhas com um guarda, carregou o que havia sido preparado e partiu, como Jessé lhe havia ordenado. Chegou ao acampamento quando as tropas estavam saindo para colocar-se em ordem de combate e, aos gritos, chamavam para a batalha.",
+        "21": "Os israelitas e filisteus se puseram em ordem, fileira contra fileira.",
+        "22": "Davi deixou o que havia trazido aos cuidados do guarda da bagagem e correu para a batalha. Quando chegou lá, perguntou a seus irmãos se estavam bem.",
+        "23": "Enquanto Davi ainda falava com eles, eis que vinha subindo do exército dos filisteus o guerreiro, cujo nome era Golias, o filisteu de Gate. E falou as mesmas coisas que havia falado anteriormente. E Davi escutou.",
+        "24": "Todos os israelitas, vendo aquele homem, fugiam dele, com muito medo.",
+        "25": "E diziam uns aos outros:",
+        "26": "Então Davi perguntou aos homens que estavam perto dele:",
+        "27": "E o povo lhe repetiu as mesmas palavras, dizendo:",
+        "28": "Eliabe, o irmão mais velho, ouviu Davi falando com aqueles homens. Ele ficou irado com Davi e disse:",
+        "29": "Davi respondeu:",
+        "30": "Então Davi se desviou dele na direção de outro e fez a mesma pergunta. E o povo lhe deu a mesma resposta de antes.",
+        "31": "Alguns homens que tinham ouvido as palavras de Davi foram anunciá-las a Saul, que mandou chamar Davi.",
+        "32": "Davi disse a Saul:",
+        "33": "Porém Saul disse a Davi:",
+        "34": "Davi respondeu:",
+        "35": "eu saía atrás dele, batia nele e livrava o cordeiro da sua boca. Se ele se levantava contra mim, eu o agarrava pela barba e o golpeava até matá-lo.",
+        "36": "Este seu servo matou tanto o leão como o urso. Este filisteu incircunciso será como um deles, porque afrontou os exércitos do Deus vivo.",
+        "37": "E Davi continuou:",
+        "38": "Saul vestiu Davi com a sua própria armadura, pôs um capacete de bronze na cabeça dele, e o vestiu com uma couraça.",
+        "39": "Davi cingiu a espada sobre a armadura e tentou andar, pois jamais a havia usado. Então Davi disse a Saul:",
+        "40": "Pegou o seu cajado na mão, escolheu cinco pedras lisas do ribeiro, e as pôs no alforje de pastor, que trazia consigo. E, com a sua funda na mão, foi na direção do filisteu.",
+        "41": "O filisteu também vinha caminhando e se aproximava de Davi, tendo à frente dele o seu escudeiro.",
+        "42": "O filisteu olhou e, vendo Davi, o desprezou, porque era apenas um moço ruivo e de boa aparência.",
+        "43": "O filisteu disse a Davi:",
+        "44": "E disse mais a Davi:",
+        "45": "Davi, porém, disse ao filisteu:",
+        "46": "Hoje mesmo o Senhor entregará você nas minhas mãos. Eu o matarei, cortarei a sua cabeça e hoje mesmo darei os cadáveres do arraial dos filisteus às aves dos céus e às feras da terra. E toda a terra saberá que há Deus em Israel.",
+        "47": "Toda esta multidão saberá que o Senhor salva, não com espada, nem com lança. Porque do Senhor é a guerra, e ele entregará todos vocês nas nossas mãos.",
+        "48": "E aconteceu que, quando o filisteu se levantou e começou a se aproximar de Davi, este se apressou e, deixando as suas fileiras, correu de encontro ao filisteu.",
+        "49": "Davi meteu a mão no alforje, tirou dali uma pedra e, com a sua funda, a atirou contra o filisteu, atingindo-o na testa. A pedra se encravou na testa, e ele caiu com o rosto no chão.",
+        "50": "Assim Davi derrotou o filisteu, com uma funda e com uma pedra. Ele o derrubou e o matou. Não havia nenhuma espada na mão de Davi.",
+        "51": "Por isso, Davi correu e, lançando-se sobre o filisteu, pegou a espada dele, tirou-a da bainha e o matou, cortando com ela a cabeça dele.",
+        "52": "Então os homens de Israel e Judá se levantaram, deram um grito e perseguiram os filisteus até Gate e até os portões de Ecrom. E os filisteus caíram feridos pelo caminho, de Saaraim até Gate e até Ecrom.",
+        "53": "Então os filhos de Israel voltaram da perseguição aos filisteus e saquearam os acampamentos deles.",
+        "54": "Davi pegou a cabeça do filisteu e a levou para Jerusalém. Porém as armas dele Davi colocou em sua própria tenda.",
+        "55": "Quando Saul viu Davi saindo para encontrar-se com o filisteu, perguntou a Abner, o comandante do exército:",
+        "56": "E o rei disse:",
+        "57": "Quando Davi voltou, depois de matar o filisteu, Abner o tomou e o levou à presença de Saul. Davi ainda trazia na mão a cabeça do filisteu.",
+        "58": "Então Saul lhe perguntou:"
     }
-  }
 }

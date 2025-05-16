@@ -1,74 +1,26 @@
 {
-  "livro": "Salmos",
-  "capítulo": 40,
-  "versículos": {
-    "1": {
-      "título": "Cântico de louvor e pedido de ajuda",
-      "texto": "Esperei com paciência"
+    "livro": "Salmos",
+    "capitulo": 40,
+    "titulos": {
+        "1": "Cântico de louvor e pedido de ajuda"
     },
-    "2": {
-      "título": "",
-      "texto": "Tirou-me de um poço"
-    },
-    "3": {
-      "título": "",
-      "texto": "E me pôs nos lábios"
-    },
-    "4": {
-      "título": "",
-      "texto": "Bem-aventurado é aquele"
-    },
-    "5": {
-      "título": "",
-      "texto": "São muitas, Senhor , Deus meu,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Sacrifícios e ofertas não quiseste;"
-    },
-    "7": {
-      "título": "",
-      "texto": "Então eu disse: “Eis aqui estou,"
-    },
-    "8": {
-      "título": "",
-      "texto": "agrada-me fazer a tua vontade,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Proclamei as boas-novas"
-    },
-    "10": {
-      "título": "",
-      "texto": "Não ocultei no coração"
-    },
-    "11": {
-      "título": "",
-      "texto": "Não retenhas de mim, Senhor ,"
-    },
-    "12": {
-      "título": "",
-      "texto": "São incontáveis os males"
-    },
-    "13": {
-      "título": "",
-      "texto": "Agrada-te, Senhor , em me livrar;"
-    },
-    "14": {
-      "título": "",
-      "texto": "Que sejam envergonhados"
-    },
-    "15": {
-      "título": "",
-      "texto": "Sofram perturbação"
-    },
-    "16": {
-      "título": "",
-      "texto": "Exultem e em ti se alegrem"
-    },
-    "17": {
-      "título": "",
-      "texto": "Eu sou pobre e necessitado,"
+    "versiculos": {
+        "1": "Esperei com paciência",
+        "2": "Tirou-me de um poço",
+        "3": "E me pôs nos lábios",
+        "4": "Bem-aventurado é aquele",
+        "5": "São muitas, Senhor , Deus meu,",
+        "6": "Sacrifícios e ofertas não quiseste;",
+        "7": "Então eu disse: “Eis aqui estou,",
+        "8": "agrada-me fazer a tua vontade,",
+        "9": "Proclamei as boas-novas",
+        "10": "Não ocultei no coração",
+        "11": "Não retenhas de mim, Senhor ,",
+        "12": "São incontáveis os males",
+        "13": "Agrada-te, Senhor , em me livrar;",
+        "14": "Que sejam envergonhados",
+        "15": "Sofram perturbação",
+        "16": "Exultem e em ti se alegrem",
+        "17": "Eu sou pobre e necessitado,"
     }
-  }
 }

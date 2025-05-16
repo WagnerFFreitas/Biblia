@@ -1,142 +1,49 @@
 {
-  "livro": "Mateus",
-  "capítulo": 8,
-  "versículos": {
-    "1": {
-      "título": "A cura de um leproso",
-      "texto": "Quando Jesus desceu do monte, grandes multidões o seguiram."
+    "livro": "Mateus",
+    "capitulo": 8,
+    "titulos": {
+        "1": "A cura de um leproso",
+        "5": "A cura do servo de um centurião",
+        "14": "A cura da sogra de Pedro",
+        "16": "Muitas outras curas",
+        "18": "Jesus põe à prova os que querem segui-lo",
+        "23": "Jesus acalma uma tempestade",
+        "28": "A cura de dois endemoniados gadarenos"
     },
-    "2": {
-      "título": "",
-      "texto": "E eis que um leproso aproximou-se e o adorou, dizendo:"
-    },
-    "3": {
-      "título": "",
-      "texto": "E Jesus, estendendo a mão, tocou nele, dizendo:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Então Jesus lhe disse:"
-    },
-    "5": {
-      "título": "A cura do servo de um centurião",
-      "texto": "Tendo Jesus entrado em Cafarnaum, um centurião se aproximou dele, implorando:"
-    },
-    "6": {
-      "título": "",
-      "texto": "— Senhor, o meu servo está na minha casa, de cama, paralítico, sofrendo horrivelmente."
-    },
-    "7": {
-      "título": "",
-      "texto": "Jesus lhe disse:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Mas o centurião respondeu:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Porque também eu sou homem sujeito à autoridade, tenho soldados às minhas ordens e digo a este: “Vá”, e ele vai; e a outro: “Venha”, e ele vem; e ao meu servo: “Faça isto”, e ele o faz."
-    },
-    "10": {
-      "título": "",
-      "texto": "Ao ouvir isso, Jesus ficou admirado e disse aos que o acompanhavam:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Digo a vocês que muitos virão do Oriente e do Ocidente e tomarão lugar à mesa com Abraão, Isaque e Jacó no Reino dos Céus."
-    },
-    "12": {
-      "título": "",
-      "texto": "Mas os filhos do Reino serão lançados para fora, nas trevas; ali haverá choro e ranger de dentes."
-    },
-    "13": {
-      "título": "",
-      "texto": "Então Jesus disse ao centurião:"
-    },
-    "14": {
-      "título": "A cura da sogra de Pedro",
-      "texto": "Tendo Jesus chegado à casa de Pedro, viu a sogra deste acamada, com febre."
-    },
-    "15": {
-      "título": "",
-      "texto": "Mas Jesus tomou-a pela mão, e a febre a deixou. Ela se levantou e passou a servi-lo."
-    },
-    "16": {
-      "título": "Muitas outras curas",
-      "texto": "Ao cair da tarde, trouxeram a Jesus muitos endemoniados. E apenas com a palavra expulsou os espíritos e curou todos os que estavam doentes,"
-    },
-    "17": {
-      "título": "",
-      "texto": "para se cumprir o que foi dito por meio do profeta Isaías:"
-    },
-    "18": {
-      "título": "Jesus põe à prova os que querem segui-lo",
-      "texto": "Vendo Jesus muita gente ao seu redor, ordenou que passassem para a outra margem."
-    },
-    "19": {
-      "título": "",
-      "texto": "Então, aproximando-se dele um escriba, disse a Jesus:"
-    },
-    "20": {
-      "título": "",
-      "texto": "Mas Jesus lhe respondeu:"
-    },
-    "21": {
-      "título": "",
-      "texto": "E outro dos discípulos lhe disse:"
-    },
-    "22": {
-      "título": "",
-      "texto": "Mas Jesus respondeu:"
-    },
-    "23": {
-      "título": "Jesus acalma uma tempestade",
-      "texto": "Jesus entrou no barco e os seus discípulos o seguiram."
-    },
-    "24": {
-      "título": "",
-      "texto": "E eis que levantou-se no mar uma grande tempestade, de modo que as ondas cobriam o barco. Jesus, porém, estava dormindo."
-    },
-    "25": {
-      "título": "",
-      "texto": "Mas os discípulos foram acordá-lo, dizendo:"
-    },
-    "26": {
-      "título": "",
-      "texto": "Então Jesus perguntou:"
-    },
-    "27": {
-      "título": "",
-      "texto": "E aqueles homens ficaram admirados, dizendo:"
-    },
-    "28": {
-      "título": "A cura de dois endemoniados gadarenos",
-      "texto": "Quando Jesus chegou à outra margem, à terra dos gadarenos, dois endemoniados foram ao seu encontro, saindo dentre os túmulos. Eles eram tão furiosos, que ninguém podia passar por aquele caminho."
-    },
-    "29": {
-      "título": "",
-      "texto": "E eis que gritaram:"
-    },
-    "30": {
-      "título": "",
-      "texto": "Ora, uma grande manada de porcos estava pastando não longe deles."
-    },
-    "31": {
-      "título": "",
-      "texto": "Então os demônios pediram a Jesus com insistência:"
-    },
-    "32": {
-      "título": "",
-      "texto": "Jesus disse:"
-    },
-    "33": {
-      "título": "",
-      "texto": "Os que tratavam dos porcos fugiram e, chegando à cidade, anunciaram todas estas coisas e o que tinha acontecido com os endemoniados."
-    },
-    "34": {
-      "título": "",
-      "texto": "Então a cidade toda saiu para encontrar-se com Jesus. E, ao vê-lo, pediram-lhe com insistência que se retirasse da terra deles."
+    "versiculos": {
+        "1": "Quando Jesus desceu do monte, grandes multidões o seguiram.",
+        "2": "E eis que um leproso aproximou-se e o adorou, dizendo:",
+        "3": "E Jesus, estendendo a mão, tocou nele, dizendo:",
+        "4": "Então Jesus lhe disse:",
+        "5": "Tendo Jesus entrado em Cafarnaum, um centurião se aproximou dele, implorando:",
+        "6": "— Senhor, o meu servo está na minha casa, de cama, paralítico, sofrendo horrivelmente.",
+        "7": "Jesus lhe disse:",
+        "8": "Mas o centurião respondeu:",
+        "9": "Porque também eu sou homem sujeito à autoridade, tenho soldados às minhas ordens e digo a este: “Vá”, e ele vai; e a outro: “Venha”, e ele vem; e ao meu servo: “Faça isto”, e ele o faz.",
+        "10": "Ao ouvir isso, Jesus ficou admirado e disse aos que o acompanhavam:",
+        "11": "Digo a vocês que muitos virão do Oriente e do Ocidente e tomarão lugar à mesa com Abraão, Isaque e Jacó no Reino dos Céus.",
+        "12": "Mas os filhos do Reino serão lançados para fora, nas trevas; ali haverá choro e ranger de dentes.",
+        "13": "Então Jesus disse ao centurião:",
+        "14": "Tendo Jesus chegado à casa de Pedro, viu a sogra deste acamada, com febre.",
+        "15": "Mas Jesus tomou-a pela mão, e a febre a deixou. Ela se levantou e passou a servi-lo.",
+        "16": "Ao cair da tarde, trouxeram a Jesus muitos endemoniados. E apenas com a palavra expulsou os espíritos e curou todos os que estavam doentes,",
+        "17": "para se cumprir o que foi dito por meio do profeta Isaías:",
+        "18": "Vendo Jesus muita gente ao seu redor, ordenou que passassem para a outra margem.",
+        "19": "Então, aproximando-se dele um escriba, disse a Jesus:",
+        "20": "Mas Jesus lhe respondeu:",
+        "21": "E outro dos discípulos lhe disse:",
+        "22": "Mas Jesus respondeu:",
+        "23": "Jesus entrou no barco e os seus discípulos o seguiram.",
+        "24": "E eis que levantou-se no mar uma grande tempestade, de modo que as ondas cobriam o barco. Jesus, porém, estava dormindo.",
+        "25": "Mas os discípulos foram acordá-lo, dizendo:",
+        "26": "Então Jesus perguntou:",
+        "27": "E aqueles homens ficaram admirados, dizendo:",
+        "28": "Quando Jesus chegou à outra margem, à terra dos gadarenos, dois endemoniados foram ao seu encontro, saindo dentre os túmulos. Eles eram tão furiosos, que ninguém podia passar por aquele caminho.",
+        "29": "E eis que gritaram:",
+        "30": "Ora, uma grande manada de porcos estava pastando não longe deles.",
+        "31": "Então os demônios pediram a Jesus com insistência:",
+        "32": "Jesus disse:",
+        "33": "Os que tratavam dos porcos fugiram e, chegando à cidade, anunciaram todas estas coisas e o que tinha acontecido com os endemoniados.",
+        "34": "Então a cidade toda saiu para encontrar-se com Jesus. E, ao vê-lo, pediram-lhe com insistência que se retirasse da terra deles."
     }
-  }
 }

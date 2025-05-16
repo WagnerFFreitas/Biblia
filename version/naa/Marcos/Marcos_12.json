@@ -1,182 +1,59 @@
 {
-  "livro": "Marcos",
-  "capítulo": 12,
-  "versículos": {
-    "1": {
-      "título": "A parábola dos lavradores maus",
-      "texto": "Depois Jesus começou a falar-lhes por parábola:"
+    "livro": "Marcos",
+    "capitulo": 12,
+    "titulos": {
+        "1": "A parábola dos lavradores maus",
+        "13": "A questão do imposto",
+        "18": "Os saduceus e a ressurreição",
+        "28": "O grande mandamento",
+        "35": "O Cristo, filho de Davi",
+        "38": "Jesus censura os escribas",
+        "41": "A oferta da viúva pobre"
     },
-    "2": {
-      "título": "",
-      "texto": "No tempo da colheita, mandou um servo para que recebesse dos lavradores a sua parte dos frutos da vinha."
-    },
-    "3": {
-      "título": "",
-      "texto": "Mas os lavradores o agarraram, espancaram e o despacharam de mãos vazias."
-    },
-    "4": {
-      "título": "",
-      "texto": "De novo, enviou-lhes outro servo, e eles bateram na cabeça dele e o insultaram."
-    },
-    "5": {
-      "título": "",
-      "texto": "Mandou ainda outro servo, e a este mataram. Muitos outros lhes enviou, dos quais espancaram uns e mataram outros."
-    },
-    "6": {
-      "título": "",
-      "texto": "— Restava-lhe ainda um: o seu filho amado. Por fim, mandou o filho, pensando: “O meu filho eles respeitarão.”"
-    },
-    "7": {
-      "título": "",
-      "texto": "Mas os tais lavradores disseram entre si: “Este é o herdeiro; venham, vamos matá-lo, e a herança será nossa.”"
-    },
-    "8": {
-      "título": "",
-      "texto": "E, agarrando o filho, mataram-no e o lançaram fora da vinha."
-    },
-    "9": {
-      "título": "",
-      "texto": "— Que fará, pois, o dono da vinha? Virá, exterminará aqueles lavradores e entregará a vinha a outros."
-    },
-    "10": {
-      "título": "",
-      "texto": "Vocês ainda não leram este trecho da Escritura:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Isto procede do Senhor"
-    },
-    "12": {
-      "título": "",
-      "texto": "E procuravam prender Jesus, porque entenderam que ele havia contado essa parábola contra eles; mas temiam o povo. Então eles o deixaram e foram embora."
-    },
-    "13": {
-      "título": "A questão do imposto",
-      "texto": "E enviaram a Jesus alguns dos fariseus e dos herodianos, para que o apanhassem em alguma palavra."
-    },
-    "14": {
-      "título": "",
-      "texto": "Chegando, disseram-lhe:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Mas Jesus, percebendo a hipocrisia deles, respondeu:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Eles trouxeram. E Jesus lhes perguntou:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Então Jesus disse:"
-    },
-    "18": {
-      "título": "Os saduceus e a ressurreição",
-      "texto": "Então alguns saduceus, que dizem não haver ressurreição, aproximaram-se de Jesus e lhe perguntaram:"
-    },
-    "19": {
-      "título": "",
-      "texto": "— Mestre, Moisés nos deixou escrito que, se um homem morrer e deixar mulher sem filhos, o irmão desse homem deve casar com a viúva e gerar descendentes para o falecido."
-    },
-    "20": {
-      "título": "",
-      "texto": "Havia sete irmãos. O primeiro casou e morreu sem deixar filhos;"
-    },
-    "21": {
-      "título": "",
-      "texto": "o segundo casou com a viúva e morreu, também sem deixar descendência; e o terceiro, da mesma forma."
-    },
-    "22": {
-      "título": "",
-      "texto": "E, assim, os sete não deixaram descendência. Por fim, depois de todos, morreu também a mulher."
-    },
-    "23": {
-      "título": "",
-      "texto": "Na ressurreição, quando eles ressuscitarem, de qual deles ela será a esposa? Porque os sete casaram com ela."
-    },
-    "24": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "25": {
-      "título": "",
-      "texto": "Pois, quando ressuscitarem dentre os mortos, nem casarão, nem se darão em casamento, mas serão como os anjos nos céus."
-    },
-    "26": {
-      "título": "",
-      "texto": "Quanto aos mortos, que eles de fato ressuscitam, vocês nunca leram no Livro de Moisés, no trecho referente à sarça, como Deus lhe falou: “Eu sou o Deus de Abraão, o Deus de Isaque e o Deus de Jacó”?"
-    },
-    "27": {
-      "título": "",
-      "texto": "Ele não é Deus de mortos, e sim de vivos. Vocês estão completamente enganados."
-    },
-    "28": {
-      "título": "O grande mandamento",
-      "texto": "Chegando um dos escribas, que ouviu a discussão entre eles e viu que Jesus tinha dado uma boa resposta, perguntou-lhe:"
-    },
-    "29": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "30": {
-      "título": "",
-      "texto": "Ame o Senhor, seu Deus, de todo o seu coração, de toda a sua alma, de todo o seu entendimento e com toda a sua força.”"
-    },
-    "31": {
-      "título": "",
-      "texto": "O segundo é: “Ame o seu próximo como você ama a si mesmo.” Não há outro mandamento maior do que estes."
-    },
-    "32": {
-      "título": "",
-      "texto": "Então o escriba disse:"
-    },
-    "33": {
-      "título": "",
-      "texto": "e que amar a Deus de todo o coração e de todo o entendimento e com todas as forças e amar o próximo como a si mesmo é mais do que todos os holocaustos e sacrifícios."
-    },
-    "34": {
-      "título": "",
-      "texto": "Vendo Jesus que o escriba havia respondido sabiamente, declarou-lhe:"
-    },
-    "35": {
-      "título": "O Cristo, filho de Davi",
-      "texto": "Jesus, ensinando no templo, perguntou:"
-    },
-    "36": {
-      "título": "",
-      "texto": "O próprio Davi falou, pelo Espírito Santo:"
-    },
-    "37": {
-      "título": "",
-      "texto": "— O próprio Davi chama o Cristo de Senhor; então como ele pode ser filho de Davi?"
-    },
-    "38": {
-      "título": "Jesus censura os escribas",
-      "texto": "E, ao ensinar, Jesus dizia:"
-    },
-    "39": {
-      "título": "",
-      "texto": "buscam as primeiras cadeiras nas sinagogas e os primeiros lugares nos banquetes;"
-    },
-    "40": {
-      "título": "",
-      "texto": "devoram as casas das viúvas e, para o justificar, fazem longas orações. Estes sofrerão juízo muito mais severo."
-    },
-    "41": {
-      "título": "A oferta da viúva pobre",
-      "texto": "Sentado diante da caixa de ofertas, Jesus observava como o povo lançava ali o dinheiro. Ora, muitos ricos depositavam grandes quantias."
-    },
-    "42": {
-      "título": "",
-      "texto": "Vindo, porém, uma viúva pobre, lançou duas pequenas moedas correspondentes a um quadrante."
-    },
-    "43": {
-      "título": "",
-      "texto": "E, chamando os seus discípulos, Jesus disse:"
-    },
-    "44": {
-      "título": "",
-      "texto": "Porque todos eles deram daquilo que lhes sobrava; ela, porém, da sua pobreza deu tudo o que possuía, todo o seu sustento."
+    "versiculos": {
+        "1": "Depois Jesus começou a falar-lhes por parábola:",
+        "2": "No tempo da colheita, mandou um servo para que recebesse dos lavradores a sua parte dos frutos da vinha.",
+        "3": "Mas os lavradores o agarraram, espancaram e o despacharam de mãos vazias.",
+        "4": "De novo, enviou-lhes outro servo, e eles bateram na cabeça dele e o insultaram.",
+        "5": "Mandou ainda outro servo, e a este mataram. Muitos outros lhes enviou, dos quais espancaram uns e mataram outros.",
+        "6": "— Restava-lhe ainda um: o seu filho amado. Por fim, mandou o filho, pensando: “O meu filho eles respeitarão.”",
+        "7": "Mas os tais lavradores disseram entre si: “Este é o herdeiro; venham, vamos matá-lo, e a herança será nossa.”",
+        "8": "E, agarrando o filho, mataram-no e o lançaram fora da vinha.",
+        "9": "— Que fará, pois, o dono da vinha? Virá, exterminará aqueles lavradores e entregará a vinha a outros.",
+        "10": "Vocês ainda não leram este trecho da Escritura:",
+        "11": "Isto procede do Senhor",
+        "12": "E procuravam prender Jesus, porque entenderam que ele havia contado essa parábola contra eles; mas temiam o povo. Então eles o deixaram e foram embora.",
+        "13": "E enviaram a Jesus alguns dos fariseus e dos herodianos, para que o apanhassem em alguma palavra.",
+        "14": "Chegando, disseram-lhe:",
+        "15": "Mas Jesus, percebendo a hipocrisia deles, respondeu:",
+        "16": "Eles trouxeram. E Jesus lhes perguntou:",
+        "17": "Então Jesus disse:",
+        "18": "Então alguns saduceus, que dizem não haver ressurreição, aproximaram-se de Jesus e lhe perguntaram:",
+        "19": "— Mestre, Moisés nos deixou escrito que, se um homem morrer e deixar mulher sem filhos, o irmão desse homem deve casar com a viúva e gerar descendentes para o falecido.",
+        "20": "Havia sete irmãos. O primeiro casou e morreu sem deixar filhos;",
+        "21": "o segundo casou com a viúva e morreu, também sem deixar descendência; e o terceiro, da mesma forma.",
+        "22": "E, assim, os sete não deixaram descendência. Por fim, depois de todos, morreu também a mulher.",
+        "23": "Na ressurreição, quando eles ressuscitarem, de qual deles ela será a esposa? Porque os sete casaram com ela.",
+        "24": "Jesus respondeu:",
+        "25": "Pois, quando ressuscitarem dentre os mortos, nem casarão, nem se darão em casamento, mas serão como os anjos nos céus.",
+        "26": "Quanto aos mortos, que eles de fato ressuscitam, vocês nunca leram no Livro de Moisés, no trecho referente à sarça, como Deus lhe falou: “Eu sou o Deus de Abraão, o Deus de Isaque e o Deus de Jacó”?",
+        "27": "Ele não é Deus de mortos, e sim de vivos. Vocês estão completamente enganados.",
+        "28": "Chegando um dos escribas, que ouviu a discussão entre eles e viu que Jesus tinha dado uma boa resposta, perguntou-lhe:",
+        "29": "Jesus respondeu:",
+        "30": "Ame o Senhor, seu Deus, de todo o seu coração, de toda a sua alma, de todo o seu entendimento e com toda a sua força.”",
+        "31": "O segundo é: “Ame o seu próximo como você ama a si mesmo.” Não há outro mandamento maior do que estes.",
+        "32": "Então o escriba disse:",
+        "33": "e que amar a Deus de todo o coração e de todo o entendimento e com todas as forças e amar o próximo como a si mesmo é mais do que todos os holocaustos e sacrifícios.",
+        "34": "Vendo Jesus que o escriba havia respondido sabiamente, declarou-lhe:",
+        "35": "Jesus, ensinando no templo, perguntou:",
+        "36": "O próprio Davi falou, pelo Espírito Santo:",
+        "37": "— O próprio Davi chama o Cristo de Senhor; então como ele pode ser filho de Davi?",
+        "38": "E, ao ensinar, Jesus dizia:",
+        "39": "buscam as primeiras cadeiras nas sinagogas e os primeiros lugares nos banquetes;",
+        "40": "devoram as casas das viúvas e, para o justificar, fazem longas orações. Estes sofrerão juízo muito mais severo.",
+        "41": "Sentado diante da caixa de ofertas, Jesus observava como o povo lançava ali o dinheiro. Ora, muitos ricos depositavam grandes quantias.",
+        "42": "Vindo, porém, uma viúva pobre, lançou duas pequenas moedas correspondentes a um quadrante.",
+        "43": "E, chamando os seus discípulos, Jesus disse:",
+        "44": "Porque todos eles deram daquilo que lhes sobrava; ela, porém, da sua pobreza deu tudo o que possuía, todo o seu sustento."
     }
-  }
 }

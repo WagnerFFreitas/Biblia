@@ -1,58 +1,22 @@
 {
-  "livro": "Isaías",
-  "capítulo": 46,
-  "versículos": {
-    "1": {
-      "título": "A queda dos ídolos da Babilônia",
-      "texto": "“Bel se encurva, Nebo se abaixa;"
+    "livro": "Isaías",
+    "capitulo": 46,
+    "titulos": {
+        "1": "A queda dos ídolos da Babilônia"
     },
-    "2": {
-      "título": "",
-      "texto": "Esses deuses juntamente"
-    },
-    "3": {
-      "título": "",
-      "texto": "“Escutem, ó casa de Jacó"
-    },
-    "4": {
-      "título": "",
-      "texto": "Até a velhice de vocês"
-    },
-    "5": {
-      "título": "",
-      "texto": "“Com quem vocês"
-    },
-    "6": {
-      "título": "",
-      "texto": "Os que gastam o ouro da bolsa"
-    },
-    "7": {
-      "título": "",
-      "texto": "Eles o põem sobre os ombros,"
-    },
-    "8": {
-      "título": "",
-      "texto": "“Lembrem-se disso e animem-se;"
-    },
-    "9": {
-      "título": "",
-      "texto": "Lembrem-se das coisas passadas,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Desde o princípio anuncio"
-    },
-    "11": {
-      "título": "",
-      "texto": "Chamo uma ave de rapina"
-    },
-    "12": {
-      "título": "",
-      "texto": "“Escutem, vocês"
-    },
-    "13": {
-      "título": "",
-      "texto": "Faço chegar a minha justiça,"
+    "versiculos": {
+        "1": "“Bel se encurva, Nebo se abaixa;",
+        "2": "Esses deuses juntamente",
+        "3": "“Escutem, ó casa de Jacó",
+        "4": "Até a velhice de vocês",
+        "5": "“Com quem vocês",
+        "6": "Os que gastam o ouro da bolsa",
+        "7": "Eles o põem sobre os ombros,",
+        "8": "“Lembrem-se disso e animem-se;",
+        "9": "Lembrem-se das coisas passadas,",
+        "10": "Desde o princípio anuncio",
+        "11": "Chamo uma ave de rapina",
+        "12": "“Escutem, vocês",
+        "13": "Faço chegar a minha justiça,"
     }
-  }
 }

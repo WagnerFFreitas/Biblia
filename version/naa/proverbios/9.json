@@ -1,78 +1,28 @@
 {
-  "livro": "Provérbios",
-  "capítulo": 9,
-  "versículos": {
-    "1": {
-      "título": "O banquete da Sabedoria",
-      "texto": "A Sabedoria construiu a sua casa,"
+    "livro": "Provérbios",
+    "capitulo": 9,
+    "titulos": {
+        "1": "O banquete da Sabedoria",
+        "13": "O convite da loucura"
     },
-    "2": {
-      "título": "",
-      "texto": "Matou os seus animais"
-    },
-    "3": {
-      "título": "",
-      "texto": "Enviou as suas criadas para que,"
-    },
-    "4": {
-      "título": "",
-      "texto": "“Quem é ingênuo,"
-    },
-    "5": {
-      "título": "",
-      "texto": "“Venham, comam do meu pão"
-    },
-    "6": {
-      "título": "",
-      "texto": "Afastem-se dos ingênuos e vivam;"
-    },
-    "7": {
-      "título": "",
-      "texto": "Quem repreende o zombador"
-    },
-    "8": {
-      "título": "",
-      "texto": "Não repreenda o zombador,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Dê instrução ao sábio,"
-    },
-    "10": {
-      "título": "",
-      "texto": "O temor do Senhor é"
-    },
-    "11": {
-      "título": "",
-      "texto": "Porque por mim se multiplicarão"
-    },
-    "12": {
-      "título": "",
-      "texto": "Se você é sábio,"
-    },
-    "13": {
-      "título": "O convite da loucura",
-      "texto": "A loucura"
-    },
-    "14": {
-      "título": "",
-      "texto": "Senta-se junto"
-    },
-    "15": {
-      "título": "",
-      "texto": "para dizer aos que passam"
-    },
-    "16": {
-      "título": "",
-      "texto": "“Quem for ingênuo,"
-    },
-    "17": {
-      "título": "",
-      "texto": "“A água roubada é doce,"
-    },
-    "18": {
-      "título": "",
-      "texto": "Eles, porém, não sabem que ali"
+    "versiculos": {
+        "1": "A Sabedoria construiu a sua casa,",
+        "2": "Matou os seus animais",
+        "3": "Enviou as suas criadas para que,",
+        "4": "“Quem é ingênuo,",
+        "5": "“Venham, comam do meu pão",
+        "6": "Afastem-se dos ingênuos e vivam;",
+        "7": "Quem repreende o zombador",
+        "8": "Não repreenda o zombador,",
+        "9": "Dê instrução ao sábio,",
+        "10": "O temor do Senhor é",
+        "11": "Porque por mim se multiplicarão",
+        "12": "Se você é sábio,",
+        "13": "A loucura",
+        "14": "Senta-se junto",
+        "15": "para dizer aos que passam",
+        "16": "“Quem for ingênuo,",
+        "17": "“A água roubada é doce,",
+        "18": "Eles, porém, não sabem que ali"
     }
-  }
 }

@@ -1,118 +1,37 @@
 {
-  "livro": "Salmos",
-  "capítulo": 102,
-  "versículos": {
-    "1": {
-      "título": "Oração de um aflito",
-      "texto": "Ouve, Senhor , a minha súplica,"
+    "livro": "Salmos",
+    "capitulo": 102,
+    "titulos": {
+        "1": "Oração de um aflito"
     },
-    "2": {
-      "título": "",
-      "texto": "Não escondas de mim o teu rosto"
-    },
-    "3": {
-      "título": "",
-      "texto": "Porque os meus dias"
-    },
-    "4": {
-      "título": "",
-      "texto": "Cortado como a erva,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Os meus ossos"
-    },
-    "6": {
-      "título": "",
-      "texto": "Sou como o pelicano no deserto,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Não durmo"
-    },
-    "8": {
-      "título": "",
-      "texto": "Os meus inimigos"
-    },
-    "9": {
-      "título": "",
-      "texto": "Por pão tenho comido cinza"
-    },
-    "10": {
-      "título": "",
-      "texto": "por causa da tua indignação"
-    },
-    "11": {
-      "título": "",
-      "texto": "Como a sombra que declina,"
-    },
-    "12": {
-      "título": "",
-      "texto": "Tu, porém, Senhor ,"
-    },
-    "13": {
-      "título": "",
-      "texto": "Tu te levantarás"
-    },
-    "14": {
-      "título": "",
-      "texto": "Porque os teus servos"
-    },
-    "15": {
-      "título": "",
-      "texto": "Todas as nações"
-    },
-    "16": {
-      "título": "",
-      "texto": "quando o Senhor reconstruir Sião"
-    },
-    "17": {
-      "título": "",
-      "texto": "quando atender"
-    },
-    "18": {
-      "título": "",
-      "texto": "Isto ficará registrado"
-    },
-    "19": {
-      "título": "",
-      "texto": "“O Senhor , do alto"
-    },
-    "20": {
-      "título": "",
-      "texto": "a fim de ouvir"
-    },
-    "21": {
-      "título": "",
-      "texto": "Em Sião será anunciado"
-    },
-    "22": {
-      "título": "",
-      "texto": "quando se reunirem"
-    },
-    "23": {
-      "título": "",
-      "texto": "Ele me abateu"
-    },
-    "24": {
-      "título": "",
-      "texto": "Eu disse: “Deus meu, não me leves"
-    },
-    "25": {
-      "título": "",
-      "texto": "Em tempos remotos, lançaste"
-    },
-    "26": {
-      "título": "",
-      "texto": "Eles perecerão,"
-    },
-    "27": {
-      "título": "",
-      "texto": "Tu, porém, és sempre o mesmo,"
-    },
-    "28": {
-      "título": "",
-      "texto": "Os filhos dos teus servos"
+    "versiculos": {
+        "1": "Ouve, Senhor , a minha súplica,",
+        "2": "Não escondas de mim o teu rosto",
+        "3": "Porque os meus dias",
+        "4": "Cortado como a erva,",
+        "5": "Os meus ossos",
+        "6": "Sou como o pelicano no deserto,",
+        "7": "Não durmo",
+        "8": "Os meus inimigos",
+        "9": "Por pão tenho comido cinza",
+        "10": "por causa da tua indignação",
+        "11": "Como a sombra que declina,",
+        "12": "Tu, porém, Senhor ,",
+        "13": "Tu te levantarás",
+        "14": "Porque os teus servos",
+        "15": "Todas as nações",
+        "16": "quando o Senhor reconstruir Sião",
+        "17": "quando atender",
+        "18": "Isto ficará registrado",
+        "19": "“O Senhor , do alto",
+        "20": "a fim de ouvir",
+        "21": "Em Sião será anunciado",
+        "22": "quando se reunirem",
+        "23": "Ele me abateu",
+        "24": "Eu disse: “Deus meu, não me leves",
+        "25": "Em tempos remotos, lançaste",
+        "26": "Eles perecerão,",
+        "27": "Tu, porém, és sempre o mesmo,",
+        "28": "Os filhos dos teus servos"
     }
-  }
 }

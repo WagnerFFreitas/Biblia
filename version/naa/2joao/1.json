@@ -1,58 +1,25 @@
 {
-  "livro": "2 João",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "Prefácio e saudação",
-      "texto": "O presbítero à senhora eleita e aos seus filhos, a quem eu amo na verdade — e não somente eu, mas também todos os que conhecem a verdade —,"
+    "livro": "2 João",
+    "capitulo": 1,
+    "titulos": {
+        "1": "Prefácio e saudação",
+        "4": "O amor fraternal",
+        "7": "Os enganadores e como tratá-los",
+        "12": "Saudações finais"
     },
-    "2": {
-      "título": "",
-      "texto": "por causa da verdade que permanece em nós e conosco estará para sempre."
-    },
-    "3": {
-      "título": "",
-      "texto": "Que a graça, a misericórdia e a paz, da parte de Deus Pai e de Jesus Cristo, o Filho do Pai, estejam conosco em verdade e amor."
-    },
-    "4": {
-      "título": "O amor fraternal",
-      "texto": "Fiquei muito alegre por ter encontrado alguns de seus filhos que andam na verdade, de acordo com o mandamento que recebemos do Pai."
-    },
-    "5": {
-      "título": "",
-      "texto": "E agora, senhora, peço-lhe, não como se escrevesse mandamento novo, mas o mesmo que temos tido desde o princípio: que nos amemos uns aos outros."
-    },
-    "6": {
-      "título": "",
-      "texto": "E o amor é este: que andemos segundo os mandamentos de Deus. Este mandamento, como vocês ouviram desde o princípio, é que vocês vivam nesse amor."
-    },
-    "7": {
-      "título": "Os enganadores e como tratá-los",
-      "texto": "Porque muitos enganadores têm saído mundo afora, os quais não confessam que Jesus Cristo veio em carne; este é o enganador e o anticristo."
-    },
-    "8": {
-      "título": "",
-      "texto": "Tenham cuidado para que não percam aquilo que temos realizado com esforço, mas recebam plena recompensa."
-    },
-    "9": {
-      "título": "",
-      "texto": "Todo aquele que vai além da doutrina de Cristo e nela não permanece não tem Deus; o que permanece na doutrina, esse tem tanto o Pai como o Filho."
-    },
-    "10": {
-      "título": "",
-      "texto": "Se alguém for até vocês e não levar esta doutrina, não o recebam em casa, nem lhe deem as boas-vindas."
-    },
-    "11": {
-      "título": "",
-      "texto": "Porque aquele que lhe dá boas-vindas se faz cúmplice das suas obras más."
-    },
-    "12": {
-      "título": "Saudações finais",
-      "texto": "Ainda tinha muitas coisas a lhes escrever, mas não quis fazê-lo com papel e tinta, pois espero ir visitá-los, e conversaremos pessoalmente, para que a nossa alegria seja completa."
-    },
-    "13": {
-      "título": "",
-      "texto": "Os filhos da sua irmã eleita mandam saudações."
+    "versiculos": {
+        "1": "O presbítero à senhora eleita e aos seus filhos, a quem eu amo na verdade — e não somente eu, mas também todos os que conhecem a verdade —,",
+        "2": "por causa da verdade que permanece em nós e conosco estará para sempre.",
+        "3": "Que a graça, a misericórdia e a paz, da parte de Deus Pai e de Jesus Cristo, o Filho do Pai, estejam conosco em verdade e amor.",
+        "4": "Fiquei muito alegre por ter encontrado alguns de seus filhos que andam na verdade, de acordo com o mandamento que recebemos do Pai.",
+        "5": "E agora, senhora, peço-lhe, não como se escrevesse mandamento novo, mas o mesmo que temos tido desde o princípio: que nos amemos uns aos outros.",
+        "6": "E o amor é este: que andemos segundo os mandamentos de Deus. Este mandamento, como vocês ouviram desde o princípio, é que vocês vivam nesse amor.",
+        "7": "Porque muitos enganadores têm saído mundo afora, os quais não confessam que Jesus Cristo veio em carne; este é o enganador e o anticristo.",
+        "8": "Tenham cuidado para que não percam aquilo que temos realizado com esforço, mas recebam plena recompensa.",
+        "9": "Todo aquele que vai além da doutrina de Cristo e nela não permanece não tem Deus; o que permanece na doutrina, esse tem tanto o Pai como o Filho.",
+        "10": "Se alguém for até vocês e não levar esta doutrina, não o recebam em casa, nem lhe deem as boas-vindas.",
+        "11": "Porque aquele que lhe dá boas-vindas se faz cúmplice das suas obras más.",
+        "12": "Ainda tinha muitas coisas a lhes escrever, mas não quis fazê-lo com papel e tinta, pois espero ir visitá-los, e conversaremos pessoalmente, para que a nossa alegria seja completa.",
+        "13": "Os filhos da sua irmã eleita mandam saudações."
     }
-  }
 }

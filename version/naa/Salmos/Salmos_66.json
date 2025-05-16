@@ -1,86 +1,29 @@
 {
-  "livro": "Salmos",
-  "capítulo": 66,
-  "versículos": {
-    "1": {
-      "título": "Cântico de louvor e gratidão",
-      "texto": "Aclamem a Deus, todas as terras!"
+    "livro": "Salmos",
+    "capitulo": 66,
+    "titulos": {
+        "1": "Cântico de louvor e gratidão"
     },
-    "2": {
-      "título": "",
-      "texto": "Cantem louvores"
-    },
-    "3": {
-      "título": "",
-      "texto": "Digam isto a Deus:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Toda a terra se prostra"
-    },
-    "5": {
-      "título": "",
-      "texto": "Venham e vejam"
-    },
-    "6": {
-      "título": "",
-      "texto": "Transformou o mar em terra seca;"
-    },
-    "7": {
-      "título": "",
-      "texto": "Ele, em seu poder,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Bendigam, ó povos,"
-    },
-    "9": {
-      "título": "",
-      "texto": "É ele quem preserva com vida"
-    },
-    "10": {
-      "título": "",
-      "texto": "Pois tu, ó Deus, nos provaste;"
-    },
-    "11": {
-      "título": "",
-      "texto": "Tu nos deixaste cair"
-    },
-    "12": {
-      "título": "",
-      "texto": "fizeste com que os nossos inimigos"
-    },
-    "13": {
-      "título": "",
-      "texto": "Entrarei na tua casa"
-    },
-    "14": {
-      "título": "",
-      "texto": "que os meus lábios fizeram,"
-    },
-    "15": {
-      "título": "",
-      "texto": "Oferecerei a ti holocaustos"
-    },
-    "16": {
-      "título": "",
-      "texto": "Venham e escutem, todos vocês"
-    },
-    "17": {
-      "título": "",
-      "texto": "A ele clamei com a boca;"
-    },
-    "18": {
-      "título": "",
-      "texto": "Se, no coração, eu tivesse"
-    },
-    "19": {
-      "título": "",
-      "texto": "Entretanto, Deus me ouviu"
-    },
-    "20": {
-      "título": "",
-      "texto": "Bendito seja Deus,"
+    "versiculos": {
+        "1": "Aclamem a Deus, todas as terras!",
+        "2": "Cantem louvores",
+        "3": "Digam isto a Deus:",
+        "4": "Toda a terra se prostra",
+        "5": "Venham e vejam",
+        "6": "Transformou o mar em terra seca;",
+        "7": "Ele, em seu poder,",
+        "8": "Bendigam, ó povos,",
+        "9": "É ele quem preserva com vida",
+        "10": "Pois tu, ó Deus, nos provaste;",
+        "11": "Tu nos deixaste cair",
+        "12": "fizeste com que os nossos inimigos",
+        "13": "Entrarei na tua casa",
+        "14": "que os meus lábios fizeram,",
+        "15": "Oferecerei a ti holocaustos",
+        "16": "Venham e escutem, todos vocês",
+        "17": "A ele clamei com a boca;",
+        "18": "Se, no coração, eu tivesse",
+        "19": "Entretanto, Deus me ouviu",
+        "20": "Bendito seja Deus,"
     }
-  }
 }

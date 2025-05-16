@@ -1,38 +1,17 @@
 {
-  "livro": "Salmos",
-  "capítulo": 130,
-  "versículos": {
-    "1": {
-      "título": "Das profundezas clamo a ti",
-      "texto": "Das profundezas"
+    "livro": "Salmos",
+    "capitulo": 130,
+    "titulos": {
+        "1": "Das profundezas clamo a ti"
     },
-    "2": {
-      "título": "",
-      "texto": "Escuta, Senhor, a minha voz;"
-    },
-    "3": {
-      "título": "",
-      "texto": "Se tu, Senhor ,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Mas contigo está o perdão,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Aguardo o Senhor ,"
-    },
-    "6": {
-      "título": "",
-      "texto": "A minha alma anseia pelo Senhor"
-    },
-    "7": {
-      "título": "",
-      "texto": "espere Israel no Senhor ,"
-    },
-    "8": {
-      "título": "",
-      "texto": "É ele quem redime Israel"
+    "versiculos": {
+        "1": "Das profundezas",
+        "2": "Escuta, Senhor, a minha voz;",
+        "3": "Se tu, Senhor ,",
+        "4": "Mas contigo está o perdão,",
+        "5": "Aguardo o Senhor ,",
+        "6": "A minha alma anseia pelo Senhor",
+        "7": "espere Israel no Senhor ,",
+        "8": "É ele quem redime Israel"
     }
-  }
 }

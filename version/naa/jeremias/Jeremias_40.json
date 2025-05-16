@@ -1,70 +1,26 @@
 {
-  "livro": "Jeremias",
-  "capítulo": 40,
-  "versículos": {
-    "1": {
-      "título": "Jeremias e Gedalias",
-      "texto": "Palavra que foi dita a Jeremias da parte do Senhor , depois que Nebuzaradã, o chefe da guarda, o pôs em liberdade em Ramá, estando ele amarrado com correntes no meio de todos os do cativeiro de Jerusalém e de Judá, que estavam sendo levados cativos para a Babilônia."
+    "livro": "Jeremias",
+    "capitulo": 40,
+    "titulos": {
+        "1": "Jeremias e Gedalias",
+        "13": "Ismael conspira contra Gedalias"
     },
-    "2": {
-      "título": "",
-      "texto": "O chefe da guarda chamou Jeremias de lado e lhe disse:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Agora o Senhor trouxe e fez o que tinha anunciado. Tudo isto aconteceu, porque vocês pecaram contra o Senhor e não obedeceram à sua voz."
-    },
-    "4": {
-      "título": "",
-      "texto": "Agora, eis que hoje estou soltando as correntes que estavam em suas mãos. Se for do seu agrado ir comigo para a Babilônia, venha, e eu cuidarei bem de você. Mas, se não for do seu agrado ir comigo para a Babilônia, fique aqui. Veja, toda a terra está diante de você. Vá para o lugar que for do seu agrado e melhor para você."
-    },
-    "5": {
-      "título": "",
-      "texto": "Mas, visto que Jeremias demorava a se decidir, o capitão lhe disse:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Assim, Jeremias foi para junto de Gedalias, filho de Aicão, em Mispa. E morou com ele no meio do povo que havia ficado na terra."
-    },
-    "7": {
-      "título": "",
-      "texto": "Quando os capitães dos exércitos que estavam no campo, eles e seus soldados, ouviram que o rei da Babilônia havia nomeado Gedalias, filho de Aicão, como governador da terra, e que lhe havia confiado os homens, as mulheres, os meninos e os mais pobres da terra que não foram levados ao exílio, para a Babilônia,"
-    },
-    "8": {
-      "título": "",
-      "texto": "foram falar com ele em Mispa. Esses capitães eram Ismael, filho de Netanias, Joanã e Jônatas, filhos de Careá, Seraías, filho de Tanumete, os filhos de Efai, o netofatita, e Jezanias, filho do maacatita. Com eles estavam os seus soldados."
-    },
-    "9": {
-      "título": "",
-      "texto": "Gedalias, filho de Aicão, filho de Safã, jurou a esses capitães e aos seus soldados, dizendo:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Quanto a mim, eis que ficarei em Mispa, para estar às ordens dos caldeus que vierem a nós. Quanto a vocês, colham as uvas para o vinho, as frutas de verão e o azeite. Ponham tudo nas suas vasilhas e morem nas cidades que vocês tomaram."
-    },
-    "11": {
-      "título": "",
-      "texto": "Da mesma forma, todos os judeus que estavam em Moabe, entre os filhos de Amom e em Edom e os que havia em todas aquelas terras ouviram que o rei da Babilônia havia deixado um remanescente em Judá e que havia nomeado Gedalias, filho de Aicão, filho de Safã, como governador sobre eles."
-    },
-    "12": {
-      "título": "",
-      "texto": "Então todos esses judeus voltaram de todos os lugares para onde tinham sido dispersos e vieram à terra de Judá, para junto de Gedalias, em Mispa. E colheram vinho e frutas de verão em grande abundância."
-    },
-    "13": {
-      "título": "Ismael conspira contra Gedalias",
-      "texto": "Joanã, filho de Careá, e todos os comandantes dos exércitos que estavam no campo foram até Gedalias, em Mispa,"
-    },
-    "14": {
-      "título": "",
-      "texto": "e lhe disseram:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Então Joanã, filho de Careá, disse a Gedalias em segredo, em Mispa:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Mas Gedalias, filho de Aicão, disse a Joanã, filho de Careá:"
+    "versiculos": {
+        "1": "Palavra que foi dita a Jeremias da parte do Senhor , depois que Nebuzaradã, o chefe da guarda, o pôs em liberdade em Ramá, estando ele amarrado com correntes no meio de todos os do cativeiro de Jerusalém e de Judá, que estavam sendo levados cativos para a Babilônia.",
+        "2": "O chefe da guarda chamou Jeremias de lado e lhe disse:",
+        "3": "Agora o Senhor trouxe e fez o que tinha anunciado. Tudo isto aconteceu, porque vocês pecaram contra o Senhor e não obedeceram à sua voz.",
+        "4": "Agora, eis que hoje estou soltando as correntes que estavam em suas mãos. Se for do seu agrado ir comigo para a Babilônia, venha, e eu cuidarei bem de você. Mas, se não for do seu agrado ir comigo para a Babilônia, fique aqui. Veja, toda a terra está diante de você. Vá para o lugar que for do seu agrado e melhor para você.",
+        "5": "Mas, visto que Jeremias demorava a se decidir, o capitão lhe disse:",
+        "6": "Assim, Jeremias foi para junto de Gedalias, filho de Aicão, em Mispa. E morou com ele no meio do povo que havia ficado na terra.",
+        "7": "Quando os capitães dos exércitos que estavam no campo, eles e seus soldados, ouviram que o rei da Babilônia havia nomeado Gedalias, filho de Aicão, como governador da terra, e que lhe havia confiado os homens, as mulheres, os meninos e os mais pobres da terra que não foram levados ao exílio, para a Babilônia,",
+        "8": "foram falar com ele em Mispa. Esses capitães eram Ismael, filho de Netanias, Joanã e Jônatas, filhos de Careá, Seraías, filho de Tanumete, os filhos de Efai, o netofatita, e Jezanias, filho do maacatita. Com eles estavam os seus soldados.",
+        "9": "Gedalias, filho de Aicão, filho de Safã, jurou a esses capitães e aos seus soldados, dizendo:",
+        "10": "Quanto a mim, eis que ficarei em Mispa, para estar às ordens dos caldeus que vierem a nós. Quanto a vocês, colham as uvas para o vinho, as frutas de verão e o azeite. Ponham tudo nas suas vasilhas e morem nas cidades que vocês tomaram.",
+        "11": "Da mesma forma, todos os judeus que estavam em Moabe, entre os filhos de Amom e em Edom e os que havia em todas aquelas terras ouviram que o rei da Babilônia havia deixado um remanescente em Judá e que havia nomeado Gedalias, filho de Aicão, filho de Safã, como governador sobre eles.",
+        "12": "Então todos esses judeus voltaram de todos os lugares para onde tinham sido dispersos e vieram à terra de Judá, para junto de Gedalias, em Mispa. E colheram vinho e frutas de verão em grande abundância.",
+        "13": "Joanã, filho de Careá, e todos os comandantes dos exércitos que estavam no campo foram até Gedalias, em Mispa,",
+        "14": "e lhe disseram:",
+        "15": "Então Joanã, filho de Careá, disse a Gedalias em segredo, em Mispa:",
+        "16": "Mas Gedalias, filho de Aicão, disse a Joanã, filho de Careá:"
     }
-  }
 }

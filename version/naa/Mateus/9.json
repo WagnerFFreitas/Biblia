@@ -1,158 +1,55 @@
 {
-  "livro": "Mateus",
-  "capítulo": 9,
-  "versículos": {
-    "1": {
-      "título": "A cura de um paralítico em Cafarnaum",
-      "texto": "Entrando num barco, Jesus passou para o outro lado do mar e foi para a sua própria cidade."
+    "livro": "Mateus",
+    "capitulo": 9,
+    "titulos": {
+        "1": "A cura de um paralítico em Cafarnaum",
+        "9": "O chamado de Mateus",
+        "14": "A questão do jejum",
+        "18": "O pedido do chefe da sinagoga",
+        "20": "A cura de uma mulher enferma",
+        "23": "A ressurreição da filha do chefe da sinagoga",
+        "27": "A cura de dois cegos",
+        "32": "A cura de um mudo endemoniado",
+        "35": "A compaixão de Jesus"
     },
-    "2": {
-      "título": "",
-      "texto": "E eis que lhe trouxeram um paralítico deitado num leito. Jesus, vendo a fé que eles tinham, disse ao paralítico:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Mas alguns escribas diziam entre si:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Jesus, porém, conhecendo os pensamentos deles, disse:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Pois o que é mais fácil? Dizer: “Os seus pecados estão perdoados”, ou dizer: “Levante-se e ande”?"
-    },
-    "6": {
-      "título": "",
-      "texto": "Mas isto é para que vocês saibam que o Filho do Homem tem autoridade sobre a terra para perdoar pecados."
-    },
-    "7": {
-      "título": "",
-      "texto": "E o homem se levantou e voltou para casa."
-    },
-    "8": {
-      "título": "",
-      "texto": "Vendo isto, as multidões, possuídas de temor, deram glória a Deus, que tinha dado tal autoridade aos homens."
-    },
-    "9": {
-      "título": "O chamado de Mateus",
-      "texto": "Quando Jesus saiu dali, viu um homem chamado Mateus sentado na coletoria e lhe disse:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Estando Jesus à mesa, na casa de Mateus, muitos publicanos e pecadores vieram e tomaram lugares com Jesus e os seus discípulos."
-    },
-    "11": {
-      "título": "",
-      "texto": "Vendo isto, os fariseus perguntavam aos discípulos de Jesus:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Mas Jesus, ouvindo, disse:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Vão e aprendam o que significa: “Quero misericórdia, e não sacrifício.” Pois não vim chamar justos, e sim pecadores."
-    },
-    "14": {
-      "título": "A questão do jejum",
-      "texto": "Vieram, depois, os discípulos de João e perguntaram a Jesus:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Ninguém põe remendo de pano novo em roupa velha; porque o remendo tira um pedaço da roupa, e o buraco fica ainda maior."
-    },
-    "17": {
-      "título": "",
-      "texto": "Nem se põe vinho novo em odres velhos, porque, se alguém fizer isso, os odres se rompem, o vinho se derrama, e os odres se perdem. Mas põe-se vinho novo em odres novos, e ambos se conservam."
-    },
-    "18": {
-      "título": "O pedido do chefe da sinagoga",
-      "texto": "Enquanto Jesus lhes dizia estas coisas, eis que um chefe da sinagoga, aproximando-se, o adorou e disse:"
-    },
-    "19": {
-      "título": "",
-      "texto": "E Jesus se levantou e o seguiu, juntamente com os seus discípulos."
-    },
-    "20": {
-      "título": "A cura de uma mulher enferma",
-      "texto": "E eis que uma mulher, que durante doze anos vinha sofrendo de uma hemorragia, veio por trás de Jesus e tocou na borda da capa dele."
-    },
-    "21": {
-      "título": "",
-      "texto": "Porque dizia consigo mesma: “Se eu apenas tocar na capa dele, ficarei curada.”"
-    },
-    "22": {
-      "título": "",
-      "texto": "Então Jesus, voltando-se e vendo-a, disse:"
-    },
-    "23": {
-      "título": "A ressurreição da filha do chefe da sinagoga",
-      "texto": "Tendo Jesus chegado à casa do chefe e vendo os tocadores de flauta e o povo em alvoroço, disse:"
-    },
-    "24": {
-      "título": "",
-      "texto": "— Saiam daqui! Porque a menina não está morta, mas dorme."
-    },
-    "25": {
-      "título": "",
-      "texto": "Mas, quando o povo tinha sido colocado para fora, Jesus entrou, tomou a menina pela mão, e ela se levantou."
-    },
-    "26": {
-      "título": "",
-      "texto": "E a notícia deste acontecimento se espalhou por toda aquela terra."
-    },
-    "27": {
-      "título": "A cura de dois cegos",
-      "texto": "Saindo Jesus dali, dois cegos o seguiram, gritando:"
-    },
-    "28": {
-      "título": "",
-      "texto": "Quando ele entrou em casa, os cegos se aproximaram, e Jesus lhes perguntou:"
-    },
-    "29": {
-      "título": "",
-      "texto": "Então Jesus tocou nos olhos deles, dizendo:"
-    },
-    "30": {
-      "título": "",
-      "texto": "E os olhos deles se abriram. Jesus, porém, os advertiu severamente, dizendo:"
-    },
-    "31": {
-      "título": "",
-      "texto": "Eles, porém, saíram e espalharam a notícia a respeito de Jesus por toda aquela terra."
-    },
-    "32": {
-      "título": "A cura de um mudo endemoniado",
-      "texto": "Quando eles saíram, eis que trouxeram a Jesus um mudo endemoniado."
-    },
-    "33": {
-      "título": "",
-      "texto": "E, assim que o demônio foi expulso, o mudo passou a falar. E as multidões se admiravam, dizendo:"
-    },
-    "34": {
-      "título": "",
-      "texto": "Mas os fariseus diziam:"
-    },
-    "35": {
-      "título": "A compaixão de Jesus",
-      "texto": "E Jesus percorria todas as cidades e aldeias, ensinando nas sinagogas, pregando o evangelho do Reino e curando todo tipo de doenças e enfermidades."
-    },
-    "36": {
-      "título": "",
-      "texto": "Ao ver as multidões, Jesus se compadeceu delas, porque estavam aflitas e exaustas como ovelhas que não têm pastor."
-    },
-    "37": {
-      "título": "",
-      "texto": "Então Jesus disse aos seus discípulos:"
-    },
-    "38": {
-      "título": "",
-      "texto": "Por isso, peçam ao Senhor da seara que mande trabalhadores para a sua seara."
+    "versiculos": {
+        "1": "Entrando num barco, Jesus passou para o outro lado do mar e foi para a sua própria cidade.",
+        "2": "E eis que lhe trouxeram um paralítico deitado num leito. Jesus, vendo a fé que eles tinham, disse ao paralítico:",
+        "3": "Mas alguns escribas diziam entre si:",
+        "4": "Jesus, porém, conhecendo os pensamentos deles, disse:",
+        "5": "Pois o que é mais fácil? Dizer: “Os seus pecados estão perdoados”, ou dizer: “Levante-se e ande”?",
+        "6": "Mas isto é para que vocês saibam que o Filho do Homem tem autoridade sobre a terra para perdoar pecados.",
+        "7": "E o homem se levantou e voltou para casa.",
+        "8": "Vendo isto, as multidões, possuídas de temor, deram glória a Deus, que tinha dado tal autoridade aos homens.",
+        "9": "Quando Jesus saiu dali, viu um homem chamado Mateus sentado na coletoria e lhe disse:",
+        "10": "Estando Jesus à mesa, na casa de Mateus, muitos publicanos e pecadores vieram e tomaram lugares com Jesus e os seus discípulos.",
+        "11": "Vendo isto, os fariseus perguntavam aos discípulos de Jesus:",
+        "12": "Mas Jesus, ouvindo, disse:",
+        "13": "Vão e aprendam o que significa: “Quero misericórdia, e não sacrifício.” Pois não vim chamar justos, e sim pecadores.",
+        "14": "Vieram, depois, os discípulos de João e perguntaram a Jesus:",
+        "15": "Jesus respondeu:",
+        "16": "Ninguém põe remendo de pano novo em roupa velha; porque o remendo tira um pedaço da roupa, e o buraco fica ainda maior.",
+        "17": "Nem se põe vinho novo em odres velhos, porque, se alguém fizer isso, os odres se rompem, o vinho se derrama, e os odres se perdem. Mas põe-se vinho novo em odres novos, e ambos se conservam.",
+        "18": "Enquanto Jesus lhes dizia estas coisas, eis que um chefe da sinagoga, aproximando-se, o adorou e disse:",
+        "19": "E Jesus se levantou e o seguiu, juntamente com os seus discípulos.",
+        "20": "E eis que uma mulher, que durante doze anos vinha sofrendo de uma hemorragia, veio por trás de Jesus e tocou na borda da capa dele.",
+        "21": "Porque dizia consigo mesma: “Se eu apenas tocar na capa dele, ficarei curada.”",
+        "22": "Então Jesus, voltando-se e vendo-a, disse:",
+        "23": "Tendo Jesus chegado à casa do chefe e vendo os tocadores de flauta e o povo em alvoroço, disse:",
+        "24": "— Saiam daqui! Porque a menina não está morta, mas dorme.",
+        "25": "Mas, quando o povo tinha sido colocado para fora, Jesus entrou, tomou a menina pela mão, e ela se levantou.",
+        "26": "E a notícia deste acontecimento se espalhou por toda aquela terra.",
+        "27": "Saindo Jesus dali, dois cegos o seguiram, gritando:",
+        "28": "Quando ele entrou em casa, os cegos se aproximaram, e Jesus lhes perguntou:",
+        "29": "Então Jesus tocou nos olhos deles, dizendo:",
+        "30": "E os olhos deles se abriram. Jesus, porém, os advertiu severamente, dizendo:",
+        "31": "Eles, porém, saíram e espalharam a notícia a respeito de Jesus por toda aquela terra.",
+        "32": "Quando eles saíram, eis que trouxeram a Jesus um mudo endemoniado.",
+        "33": "E, assim que o demônio foi expulso, o mudo passou a falar. E as multidões se admiravam, dizendo:",
+        "34": "Mas os fariseus diziam:",
+        "35": "E Jesus percorria todas as cidades e aldeias, ensinando nas sinagogas, pregando o evangelho do Reino e curando todo tipo de doenças e enfermidades.",
+        "36": "Ao ver as multidões, Jesus se compadeceu delas, porque estavam aflitas e exaustas como ovelhas que não têm pastor.",
+        "37": "Então Jesus disse aos seus discípulos:",
+        "38": "Por isso, peçam ao Senhor da seara que mande trabalhadores para a sua seara."
     }
-  }
 }

@@ -1,94 +1,31 @@
 {
-  "livro": "Salmos",
-  "capítulo": 38,
-  "versículos": {
-    "1": {
-      "título": "Oração de um pecador aflito",
-      "texto": "Não me repreendas, Senhor ,"
+    "livro": "Salmos",
+    "capitulo": 38,
+    "titulos": {
+        "1": "Oração de um pecador aflito"
     },
-    "2": {
-      "título": "",
-      "texto": "Cravam-se em mim as tuas setas,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Não há parte sã na minha carne,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Pois já se elevam acima"
-    },
-    "5": {
-      "título": "",
-      "texto": "Tenho feridas que cheiram mal"
-    },
-    "6": {
-      "título": "",
-      "texto": "Sinto-me encurvado"
-    },
-    "7": {
-      "título": "",
-      "texto": "Os meus lombos ardem,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Estou aflito e mui quebrantado;"
-    },
-    "9": {
-      "título": "",
-      "texto": "Na tua presença, Senhor,"
-    },
-    "10": {
-      "título": "",
-      "texto": "O meu coração bate acelerado,"
-    },
-    "11": {
-      "título": "",
-      "texto": "Os meus amigos e companheiros"
-    },
-    "12": {
-      "título": "",
-      "texto": "Armam ciladas contra mim"
-    },
-    "13": {
-      "título": "",
-      "texto": "Mas eu, como surdo, não ouço"
-    },
-    "14": {
-      "título": "",
-      "texto": "Sou como quem não ouve"
-    },
-    "15": {
-      "título": "",
-      "texto": "Pois em ti, Senhor , espero;"
-    },
-    "16": {
-      "título": "",
-      "texto": "Porque eu dizia: “Não deixes"
-    },
-    "17": {
-      "título": "",
-      "texto": "Pois estou prestes a tropeçar;"
-    },
-    "18": {
-      "título": "",
-      "texto": "Confesso a minha iniquidade;"
-    },
-    "19": {
-      "título": "",
-      "texto": "Mas os meus inimigos"
-    },
-    "20": {
-      "título": "",
-      "texto": "Aqueles que pagam"
-    },
-    "21": {
-      "título": "",
-      "texto": "Não me desampares, Senhor ;"
-    },
-    "22": {
-      "título": "",
-      "texto": "Apressa-te em socorrer-me,"
+    "versiculos": {
+        "1": "Não me repreendas, Senhor ,",
+        "2": "Cravam-se em mim as tuas setas,",
+        "3": "Não há parte sã na minha carne,",
+        "4": "Pois já se elevam acima",
+        "5": "Tenho feridas que cheiram mal",
+        "6": "Sinto-me encurvado",
+        "7": "Os meus lombos ardem,",
+        "8": "Estou aflito e mui quebrantado;",
+        "9": "Na tua presença, Senhor,",
+        "10": "O meu coração bate acelerado,",
+        "11": "Os meus amigos e companheiros",
+        "12": "Armam ciladas contra mim",
+        "13": "Mas eu, como surdo, não ouço",
+        "14": "Sou como quem não ouve",
+        "15": "Pois em ti, Senhor , espero;",
+        "16": "Porque eu dizia: “Não deixes",
+        "17": "Pois estou prestes a tropeçar;",
+        "18": "Confesso a minha iniquidade;",
+        "19": "Mas os meus inimigos",
+        "20": "Aqueles que pagam",
+        "21": "Não me desampares, Senhor ;",
+        "22": "Apressa-te em socorrer-me,"
     }
-  }
 }

@@ -1,26 +1,14 @@
 {
-  "livro": "Salmos",
-  "capítulo": 43,
-  "versículos": {
-    "1": {
-      "título": "Desejos pelo santuário",
-      "texto": "Faze-me justiça, ó Deus,"
+    "livro": "Salmos",
+    "capitulo": 43,
+    "titulos": {
+        "1": "Desejos pelo santuário"
     },
-    "2": {
-      "título": "",
-      "texto": "Pois tu és o Deus"
-    },
-    "3": {
-      "título": "",
-      "texto": "Envia a tua luz e a tua verdade,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Então irei ao altar de Deus,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Por que você está abatida,"
+    "versiculos": {
+        "1": "Faze-me justiça, ó Deus,",
+        "2": "Pois tu és o Deus",
+        "3": "Envia a tua luz e a tua verdade,",
+        "4": "Então irei ao altar de Deus,",
+        "5": "Por que você está abatida,"
     }
-  }
 }

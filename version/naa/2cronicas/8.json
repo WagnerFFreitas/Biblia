@@ -1,78 +1,27 @@
 {
-  "livro": "2 Crônicas",
-  "capítulo": 8,
-  "versículos": {
-    "1": {
-      "título": "As demais atividades de Salomão",
-      "texto": "Ao fim de vinte anos, Salomão havia terminado a Casa do Senhor e o seu próprio palácio."
+    "livro": "2 Crônicas",
+    "capitulo": 8,
+    "titulos": {
+        "1": "As demais atividades de Salomão"
     },
-    "2": {
-      "título": "",
-      "texto": "Ele também reconstruiu as cidades que Hirão lhe tinha dado e fez habitar nelas os filhos de Israel."
-    },
-    "3": {
-      "título": "",
-      "texto": "Depois Salomão foi a Hamate-Zobá e a conquistou."
-    },
-    "4": {
-      "título": "",
-      "texto": "Também reconstruiu Tadmor, no deserto, e todas as cidades-armazéns em Hamate."
-    },
-    "5": {
-      "título": "",
-      "texto": "Reconstruiu também Bete-Horom-de-Cima e Bete-Horom-de-Baixo, cidades fortificadas com muralhas, portões e ferrolhos,"
-    },
-    "6": {
-      "título": "",
-      "texto": "e também Baalate, e todas as cidades-armazéns que Salomão tinha, todas as cidades para os carros de guerra, as cidades para os cavaleiros e tudo o que desejou enfim construir em Jerusalém, no Líbano e em toda a terra do seu domínio."
-    },
-    "7": {
-      "título": "",
-      "texto": "Quanto a todo o povo que restou dos heteus, amorreus, ferezeus, heveus e jebuseus e que não eram de Israel,"
-    },
-    "8": {
-      "título": "",
-      "texto": "e aos seus filhos, que restaram depois deles na terra, os quais os filhos de Israel não puderam destruir totalmente, esses Salomão reduziu à condição de trabalhadores forçados, até hoje."
-    },
-    "9": {
-      "título": "",
-      "texto": "Mas Salomão não obrigou nenhum israelita a trabalhar para ele como escravo. Os israelitas eram homens de guerra, seus comandantes, chefes dos seus carros de guerra e dos seus cavaleiros."
-    },
-    "10": {
-      "título": "",
-      "texto": "Estes eram os principais oficiais que o rei Salomão tinha, em número de duzentos e cinquenta, que presidiam sobre o povo."
-    },
-    "11": {
-      "título": "",
-      "texto": "Salomão trouxe a filha de Faraó da Cidade de Davi para o palácio que ele havia construído para ela, pois disse:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Então Salomão ofereceu holocaustos ao Senhor , sobre o altar que havia edificado ao Senhor diante do pórtico,"
-    },
-    "13": {
-      "título": "",
-      "texto": "e isto segundo o dever de cada dia, conforme o preceito de Moisés, nos sábados, nas Festas da Lua Nova, e nas festas fixas, três vezes por ano: na Festa dos Pães sem Fermento, na Festa das Semanas e na Festa dos Tabernáculos."
-    },
-    "14": {
-      "título": "",
-      "texto": "Também, conforme a ordem de Davi, seu pai, dispôs os turnos dos sacerdotes nos seus ministérios. Também dispôs os turnos dos levitas para os seus cargos, para louvarem a Deus e servirem diante dos sacerdotes, segundo o dever de cada dia, e os porteiros pelos seus turnos a cada porta. Porque esta era a ordem de Davi, o homem de Deus."
-    },
-    "15": {
-      "título": "",
-      "texto": "Não se desviaram do que o rei havia ordenado aos sacerdotes e levitas, em coisa nenhuma, nem no que se refere aos tesouros."
-    },
-    "16": {
-      "título": "",
-      "texto": "Assim foi executada toda a obra de Salomão, desde o dia em que foram lançados os alicerces da Casa do Senhor até o término da construção. E assim foi concluída a Casa do Senhor ."
-    },
-    "17": {
-      "título": "",
-      "texto": "Depois Salomão foi a Eziom-Geber e a Elate, à praia do mar, na terra de Edom."
-    },
-    "18": {
-      "título": "",
-      "texto": "Por meio de seus servos, Hirão enviou navios e marinheiros conhecedores do mar. Eles foram com os servos de Salomão a Ofir e de lá trouxeram mais de quinze toneladas de ouro, que entregaram ao rei Salomão."
+    "versiculos": {
+        "1": "Ao fim de vinte anos, Salomão havia terminado a Casa do Senhor e o seu próprio palácio.",
+        "2": "Ele também reconstruiu as cidades que Hirão lhe tinha dado e fez habitar nelas os filhos de Israel.",
+        "3": "Depois Salomão foi a Hamate-Zobá e a conquistou.",
+        "4": "Também reconstruiu Tadmor, no deserto, e todas as cidades-armazéns em Hamate.",
+        "5": "Reconstruiu também Bete-Horom-de-Cima e Bete-Horom-de-Baixo, cidades fortificadas com muralhas, portões e ferrolhos,",
+        "6": "e também Baalate, e todas as cidades-armazéns que Salomão tinha, todas as cidades para os carros de guerra, as cidades para os cavaleiros e tudo o que desejou enfim construir em Jerusalém, no Líbano e em toda a terra do seu domínio.",
+        "7": "Quanto a todo o povo que restou dos heteus, amorreus, ferezeus, heveus e jebuseus e que não eram de Israel,",
+        "8": "e aos seus filhos, que restaram depois deles na terra, os quais os filhos de Israel não puderam destruir totalmente, esses Salomão reduziu à condição de trabalhadores forçados, até hoje.",
+        "9": "Mas Salomão não obrigou nenhum israelita a trabalhar para ele como escravo. Os israelitas eram homens de guerra, seus comandantes, chefes dos seus carros de guerra e dos seus cavaleiros.",
+        "10": "Estes eram os principais oficiais que o rei Salomão tinha, em número de duzentos e cinquenta, que presidiam sobre o povo.",
+        "11": "Salomão trouxe a filha de Faraó da Cidade de Davi para o palácio que ele havia construído para ela, pois disse:",
+        "12": "Então Salomão ofereceu holocaustos ao Senhor , sobre o altar que havia edificado ao Senhor diante do pórtico,",
+        "13": "e isto segundo o dever de cada dia, conforme o preceito de Moisés, nos sábados, nas Festas da Lua Nova, e nas festas fixas, três vezes por ano: na Festa dos Pães sem Fermento, na Festa das Semanas e na Festa dos Tabernáculos.",
+        "14": "Também, conforme a ordem de Davi, seu pai, dispôs os turnos dos sacerdotes nos seus ministérios. Também dispôs os turnos dos levitas para os seus cargos, para louvarem a Deus e servirem diante dos sacerdotes, segundo o dever de cada dia, e os porteiros pelos seus turnos a cada porta. Porque esta era a ordem de Davi, o homem de Deus.",
+        "15": "Não se desviaram do que o rei havia ordenado aos sacerdotes e levitas, em coisa nenhuma, nem no que se refere aos tesouros.",
+        "16": "Assim foi executada toda a obra de Salomão, desde o dia em que foram lançados os alicerces da Casa do Senhor até o término da construção. E assim foi concluída a Casa do Senhor .",
+        "17": "Depois Salomão foi a Eziom-Geber e a Elate, à praia do mar, na terra de Edom.",
+        "18": "Por meio de seus servos, Hirão enviou navios e marinheiros conhecedores do mar. Eles foram com os servos de Salomão a Ofir e de lá trouxeram mais de quinze toneladas de ouro, que entregaram ao rei Salomão."
     }
-  }
 }

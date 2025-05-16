@@ -1,70 +1,25 @@
 {
-  "livro": "Josué",
-  "capítulo": 23,
-  "versículos": {
-    "1": {
-      "título": "Josué exorta o povo a observar a Lei",
-      "texto": "Muito tempo havia se passado desde que o Senhor tinha dado a Israel repouso de todos os seus inimigos ao redor. Josué agora já era bem idoso."
+    "livro": "Josué",
+    "capitulo": 23,
+    "titulos": {
+        "1": "Josué exorta o povo a observar a Lei"
     },
-    "2": {
-      "título": "",
-      "texto": "Ele chamou todo o Israel, os seus anciãos, os seus chefes, os seus juízes e os seus oficiais e lhes disse:"
-    },
-    "3": {
-      "título": "",
-      "texto": "e vocês já viram tudo o que o Senhor , seu Deus, fez com todas essas nações por causa de vocês, porque o Senhor , seu Deus, é o que lutou por vocês."
-    },
-    "4": {
-      "título": "",
-      "texto": "Vejam bem: por sorteio eu reparti entre as tribos de vocês estas nações que restam, juntamente com todas as nações que tenho eliminado, desde o Jordão até o mar Grande, na direção do pôr do sol."
-    },
-    "5": {
-      "título": "",
-      "texto": "O Senhor , seu Deus, as afastará e as expulsará da presença de vocês; e vocês tomarão posse das terras dessas nações, como o Senhor , seu Deus, prometeu."
-    },
-    "6": {
-      "título": "",
-      "texto": "— Portanto, esforcem-se muito para guardar e cumprir tudo o que está escrito no Livro da Lei de Moisés, para que dela não se afastem, nem para a direita nem para a esquerda,"
-    },
-    "7": {
-      "título": "",
-      "texto": "e para que não se misturem com essas nações que restaram entre vocês. Não façam menção dos nomes de seus deuses, nem jurem por eles. Não sirvam, nem adorem esses deuses."
-    },
-    "8": {
-      "título": "",
-      "texto": "Pelo contrário, apeguem-se ao Senhor , seu Deus, como vocês têm feito até o dia de hoje."
-    },
-    "9": {
-      "título": "",
-      "texto": "Porque o Senhor expulsou de diante de vocês grandes e fortes nações; e, até o dia de hoje, ninguém conseguiu resistir a vocês."
-    },
-    "10": {
-      "título": "",
-      "texto": "Um só de vocês perseguirá mil, pois o Senhor , seu Deus, é quem luta por vocês, como ele prometeu."
-    },
-    "11": {
-      "título": "",
-      "texto": "— Portanto, empenhem-se em amar o Senhor , seu Deus."
-    },
-    "12": {
-      "título": "",
-      "texto": "Porque, se vocês se desviarem dele e se apegarem ao que resta dessas nações que ainda se encontram entre vocês, e se unirem com elas por meio de casamento, e se misturarem com elas, e elas com vocês,"
-    },
-    "13": {
-      "título": "",
-      "texto": "saibam com certeza que o Senhor , seu Deus, não expulsará mais essas nações de diante de vocês. Pelo contrário, elas serão um laço e uma rede para vocês, e açoite nas costas e espinhos nos olhos, até que vocês desapareçam desta boa terra que o Senhor , seu Deus, lhes deu."
-    },
-    "14": {
-      "título": "",
-      "texto": "— Eis que hoje sigo pelo caminho de todos os mortais, e vocês sabem de todo o coração e de toda a alma que nem uma só promessa falhou de todas as boas palavras que o Senhor , seu Deus, lhes falou; todas se cumpriram, nem uma delas falhou."
-    },
-    "15": {
-      "título": "",
-      "texto": "E assim como se cumpriram todas estas boas coisas que o Senhor , seu Deus, lhes prometeu, assim o Senhor também cumprirá contra vocês todas as ameaças, até que os destrua de sobre a boa terra que o Senhor , seu Deus, lhes deu."
-    },
-    "16": {
-      "título": "",
-      "texto": "Se violarem a aliança que o Senhor , seu Deus, lhes ordenou, e forem e servirem outros deuses, e os adorarem, a ira do Senhor se acenderá sobre vocês, e logo vocês desaparecerão da boa terra que ele lhes deu."
+    "versiculos": {
+        "1": "Muito tempo havia se passado desde que o Senhor tinha dado a Israel repouso de todos os seus inimigos ao redor. Josué agora já era bem idoso.",
+        "2": "Ele chamou todo o Israel, os seus anciãos, os seus chefes, os seus juízes e os seus oficiais e lhes disse:",
+        "3": "e vocês já viram tudo o que o Senhor , seu Deus, fez com todas essas nações por causa de vocês, porque o Senhor , seu Deus, é o que lutou por vocês.",
+        "4": "Vejam bem: por sorteio eu reparti entre as tribos de vocês estas nações que restam, juntamente com todas as nações que tenho eliminado, desde o Jordão até o mar Grande, na direção do pôr do sol.",
+        "5": "O Senhor , seu Deus, as afastará e as expulsará da presença de vocês; e vocês tomarão posse das terras dessas nações, como o Senhor , seu Deus, prometeu.",
+        "6": "— Portanto, esforcem-se muito para guardar e cumprir tudo o que está escrito no Livro da Lei de Moisés, para que dela não se afastem, nem para a direita nem para a esquerda,",
+        "7": "e para que não se misturem com essas nações que restaram entre vocês. Não façam menção dos nomes de seus deuses, nem jurem por eles. Não sirvam, nem adorem esses deuses.",
+        "8": "Pelo contrário, apeguem-se ao Senhor , seu Deus, como vocês têm feito até o dia de hoje.",
+        "9": "Porque o Senhor expulsou de diante de vocês grandes e fortes nações; e, até o dia de hoje, ninguém conseguiu resistir a vocês.",
+        "10": "Um só de vocês perseguirá mil, pois o Senhor , seu Deus, é quem luta por vocês, como ele prometeu.",
+        "11": "— Portanto, empenhem-se em amar o Senhor , seu Deus.",
+        "12": "Porque, se vocês se desviarem dele e se apegarem ao que resta dessas nações que ainda se encontram entre vocês, e se unirem com elas por meio de casamento, e se misturarem com elas, e elas com vocês,",
+        "13": "saibam com certeza que o Senhor , seu Deus, não expulsará mais essas nações de diante de vocês. Pelo contrário, elas serão um laço e uma rede para vocês, e açoite nas costas e espinhos nos olhos, até que vocês desapareçam desta boa terra que o Senhor , seu Deus, lhes deu.",
+        "14": "— Eis que hoje sigo pelo caminho de todos os mortais, e vocês sabem de todo o coração e de toda a alma que nem uma só promessa falhou de todas as boas palavras que o Senhor , seu Deus, lhes falou; todas se cumpriram, nem uma delas falhou.",
+        "15": "E assim como se cumpriram todas estas boas coisas que o Senhor , seu Deus, lhes prometeu, assim o Senhor também cumprirá contra vocês todas as ameaças, até que os destrua de sobre a boa terra que o Senhor , seu Deus, lhes deu.",
+        "16": "Se violarem a aliança que o Senhor , seu Deus, lhes ordenou, e forem e servirem outros deuses, e os adorarem, a ira do Senhor se acenderá sobre vocês, e logo vocês desaparecerão da boa terra que ele lhes deu."
     }
-  }
 }

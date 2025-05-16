@@ -1,126 +1,42 @@
 {
-  "livro": "Jeremias",
-  "capítulo": 22,
-  "versículos": {
-    "1": {
-      "título": "Profecia contra a casa real de Judá",
-      "texto": "— Assim diz o Senhor : Desça ao palácio do rei de Judá e anuncie ali esta palavra:"
+    "livro": "Jeremias",
+    "capitulo": 22,
+    "titulos": {
+        "1": "Profecia contra a casa real de Judá",
+        "10": "Profecia a respeito de Salum, rei de Judá",
+        "13": "Profecia contra Jeoaquim, rei de Judá",
+        "24": "Profecia contra Jeconias, rei de Judá"
     },
-    "2": {
-      "título": "",
-      "texto": "Ouça a palavra do Senhor , ó rei de Judá, você que se assenta no trono de Davi. Que ouçam também os seus servos e o seu povo que entra por estas portas."
-    },
-    "3": {
-      "título": "",
-      "texto": "Assim diz o Senhor : Pratiquem o direito e a justiça e livrem o oprimido das mãos do opressor. Não oprimam nem maltratem o estrangeiro, nem o órfão, nem a viúva. Não derramem sangue inocente neste lugar."
-    },
-    "4": {
-      "título": "",
-      "texto": "Porque, se vocês de fato cumprirem esta palavra, então pelas portas deste palácio entrarão os reis que se assentarão no trono de Davi, em carros e montados em cavalos, eles, os seus servos e o seu povo."
-    },
-    "5": {
-      "título": "",
-      "texto": "Mas, se não ouvirem estas palavras, juro por mim mesmo, diz o Senhor , que este palácio se tornará em ruínas."
-    },
-    "6": {
-      "título": "",
-      "texto": "Porque assim diz o Senhor a respeito do palácio do rei de Judá:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Designarei contra você"
-    },
-    "8": {
-      "título": "",
-      "texto": "— Muitas nações passarão por esta cidade, e dirão uns aos outros: “Por que o Senhor fez uma coisa dessas com esta grande cidade?”"
-    },
-    "9": {
-      "título": "",
-      "texto": "Então se responderá: “Porque abandonaram a aliança do Senhor , seu Deus, e adoraram outros deuses e os serviram.”"
-    },
-    "10": {
-      "título": "Profecia a respeito de Salum, rei de Judá",
-      "texto": "Não chorem pelo rei morto,"
-    },
-    "11": {
-      "título": "",
-      "texto": "Porque assim diz o Senhor a respeito de Salum, filho de Josias, rei de Judá, que reinou em lugar de Josias, seu pai, e que foi levado deste lugar:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Porque morrerá no lugar para onde o levaram cativo e nunca mais verá esta terra."
-    },
-    "13": {
-      "título": "Profecia contra Jeoaquim, rei de Judá",
-      "texto": "“Ai daquele que edifica a sua casa"
-    },
-    "14": {
-      "título": "",
-      "texto": "Ai daquele que diz:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Você acha que reinará"
-    },
-    "16": {
-      "título": "",
-      "texto": "Julgou a causa do aflito"
-    },
-    "17": {
-      "título": "",
-      "texto": "“Mas os seus olhos"
-    },
-    "18": {
-      "título": "",
-      "texto": "Portanto, assim diz o Senhor a respeito de Jeoaquim, filho de Josias, rei de Judá:"
-    },
-    "19": {
-      "título": "",
-      "texto": "Como se sepulta um jumento,"
-    },
-    "20": {
-      "título": "",
-      "texto": "“Suba ao Líbano, ó Jerusalém,"
-    },
-    "21": {
-      "título": "",
-      "texto": "Falei com você"
-    },
-    "22": {
-      "título": "",
-      "texto": "O vento apascentará"
-    },
-    "23": {
-      "título": "",
-      "texto": "Você, que habita no Líbano"
-    },
-    "24": {
-      "título": "Profecia contra Jeconias, rei de Judá",
-      "texto": "— Tão certo como eu vivo, diz o Senhor , ainda que Jeconias, filho de Jeoaquim, rei de Judá, fosse o anel de selar na minha mão direita, eu dali o arrancaria."
-    },
-    "25": {
-      "título": "",
-      "texto": "Vou entregá-lo, ó rei, nas mãos dos que procuram tirar a sua vida e nas mãos daqueles a quem você teme, a saber, nas mãos de Nabucodonosor, rei da Babilônia, e nas mãos dos caldeus."
-    },
-    "26": {
-      "título": "",
-      "texto": "Lançarei você e a sua mãe, que o pôs no mundo, para outra terra, em que vocês não nasceram; e ali morrerão."
-    },
-    "27": {
-      "título": "",
-      "texto": "Mas à terra da qual eles terão saudades, a essa não voltarão."
-    },
-    "28": {
-      "título": "",
-      "texto": "Será que este Jeconias"
-    },
-    "29": {
-      "título": "",
-      "texto": "Ó terra, terra, terra!"
-    },
-    "30": {
-      "título": "",
-      "texto": "Assim diz o Senhor :"
+    "versiculos": {
+        "1": "— Assim diz o Senhor : Desça ao palácio do rei de Judá e anuncie ali esta palavra:",
+        "2": "Ouça a palavra do Senhor , ó rei de Judá, você que se assenta no trono de Davi. Que ouçam também os seus servos e o seu povo que entra por estas portas.",
+        "3": "Assim diz o Senhor : Pratiquem o direito e a justiça e livrem o oprimido das mãos do opressor. Não oprimam nem maltratem o estrangeiro, nem o órfão, nem a viúva. Não derramem sangue inocente neste lugar.",
+        "4": "Porque, se vocês de fato cumprirem esta palavra, então pelas portas deste palácio entrarão os reis que se assentarão no trono de Davi, em carros e montados em cavalos, eles, os seus servos e o seu povo.",
+        "5": "Mas, se não ouvirem estas palavras, juro por mim mesmo, diz o Senhor , que este palácio se tornará em ruínas.",
+        "6": "Porque assim diz o Senhor a respeito do palácio do rei de Judá:",
+        "7": "Designarei contra você",
+        "8": "— Muitas nações passarão por esta cidade, e dirão uns aos outros: “Por que o Senhor fez uma coisa dessas com esta grande cidade?”",
+        "9": "Então se responderá: “Porque abandonaram a aliança do Senhor , seu Deus, e adoraram outros deuses e os serviram.”",
+        "10": "Não chorem pelo rei morto,",
+        "11": "Porque assim diz o Senhor a respeito de Salum, filho de Josias, rei de Judá, que reinou em lugar de Josias, seu pai, e que foi levado deste lugar:",
+        "12": "Porque morrerá no lugar para onde o levaram cativo e nunca mais verá esta terra.",
+        "13": "“Ai daquele que edifica a sua casa",
+        "14": "Ai daquele que diz:",
+        "15": "Você acha que reinará",
+        "16": "Julgou a causa do aflito",
+        "17": "“Mas os seus olhos",
+        "18": "Portanto, assim diz o Senhor a respeito de Jeoaquim, filho de Josias, rei de Judá:",
+        "19": "Como se sepulta um jumento,",
+        "20": "“Suba ao Líbano, ó Jerusalém,",
+        "21": "Falei com você",
+        "22": "O vento apascentará",
+        "23": "Você, que habita no Líbano",
+        "24": "— Tão certo como eu vivo, diz o Senhor , ainda que Jeconias, filho de Jeoaquim, rei de Judá, fosse o anel de selar na minha mão direita, eu dali o arrancaria.",
+        "25": "Vou entregá-lo, ó rei, nas mãos dos que procuram tirar a sua vida e nas mãos daqueles a quem você teme, a saber, nas mãos de Nabucodonosor, rei da Babilônia, e nas mãos dos caldeus.",
+        "26": "Lançarei você e a sua mãe, que o pôs no mundo, para outra terra, em que vocês não nasceram; e ali morrerão.",
+        "27": "Mas à terra da qual eles terão saudades, a essa não voltarão.",
+        "28": "Será que este Jeconias",
+        "29": "Ó terra, terra, terra!",
+        "30": "Assim diz o Senhor :"
     }
-  }
 }

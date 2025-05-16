@@ -1,134 +1,43 @@
 {
-  "livro": "2 Samuel",
-  "capítulo": 2,
-  "versículos": {
-    "1": {
-      "título": "Davi é ungido rei de Judá",
-      "texto": "Depois disto, Davi consultou o Senhor , dizendo:"
+    "livro": "2 Samuel",
+    "capitulo": 2,
+    "titulos": {
+        "1": "Davi é ungido rei de Judá",
+        "8": "Abner faz Isbosete rei de Israel",
+        "12": "Vitória de Davi sobre Isbosete"
     },
-    "2": {
-      "título": "",
-      "texto": "Davi foi para lá, levando consigo as suas duas mulheres, Ainoã, a jezreelita, e Abigail, a viúva de Nabal, o carmelita."
-    },
-    "3": {
-      "título": "",
-      "texto": "Davi levou também os homens que estavam com ele, cada um com a sua família, e eles ficaram morando nas aldeias de Hebrom."
-    },
-    "4": {
-      "título": "",
-      "texto": "Então vieram os homens de Judá e ali ungiram Davi rei sobre a casa de Judá."
-    },
-    "5": {
-      "título": "",
-      "texto": "Então Davi enviou mensageiros aos homens de Jabes-Gileade para dizer-lhes:"
-    },
-    "6": {
-      "título": "",
-      "texto": "E agora que o Senhor use de misericórdia e fidelidade para com vocês. E eu também os tratarei bem por causa do que vocês fizeram."
-    },
-    "7": {
-      "título": "",
-      "texto": "E agora sejam fortes e valentes, porque Saul, o senhor de vocês, está morto, e os da casa de Judá me ungiram para ser o seu rei."
-    },
-    "8": {
-      "título": "Abner faz Isbosete rei de Israel",
-      "texto": "Abner, filho de Ner, capitão do exército de Saul, levou Isbosete, filho de Saul, para Maanaim,"
-    },
-    "9": {
-      "título": "",
-      "texto": "e o constituiu rei sobre Gileade, sobre os assuritas, sobre Jezreel, Efraim, Benjamim e sobre todo o Israel."
-    },
-    "10": {
-      "título": "",
-      "texto": "Isbosete, filho de Saul, tinha quarenta anos de idade quando começou a reinar sobre Israel, e reinou dois anos. Somente a casa de Judá seguia Davi."
-    },
-    "11": {
-      "título": "",
-      "texto": "O tempo que Davi reinou em Hebrom sobre a casa de Judá foram sete anos e seis meses."
-    },
-    "12": {
-      "título": "Vitória de Davi sobre Isbosete",
-      "texto": "Abner, filho de Ner, e os homens de Isbosete, filho de Saul, saíram de Maanaim e foram para Gibeão."
-    },
-    "13": {
-      "título": "",
-      "texto": "Joabe, filho de Zeruia, e os servos de Davi também saíram, e os dois grupos se encontraram perto da cisterna de Gibeão. Um grupo parou do lado de cá da cisterna, e o outro, do lado de lá."
-    },
-    "14": {
-      "título": "",
-      "texto": "Então Abner disse a Joabe:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Então se levantaram e avançaram em igual número: doze de Benjamim, da parte de Isbosete, filho de Saul, e doze dos homens de Davi."
-    },
-    "16": {
-      "título": "",
-      "texto": "Cada um pegou o seu adversário pela cabeça, meteu-lhe a espada no lado, e caíram mortos juntos. Por isso aquele lugar foi chamado de Campo das Espadas. Fica perto de Gibeão."
-    },
-    "17": {
-      "título": "",
-      "texto": "Houve um combate intenso naquele dia, e Abner e os homens de Israel foram derrotados pelos homens de Davi."
-    },
-    "18": {
-      "título": "",
-      "texto": "Estavam ali os três filhos de Zeruia: Joabe, Abisai e Asael. Asael, que era ligeiro como uma gazela selvagem,"
-    },
-    "19": {
-      "título": "",
-      "texto": "perseguiu Abner e, na sua perseguição, não se desviou nem para a direita nem para a esquerda."
-    },
-    "20": {
-      "título": "",
-      "texto": "Então Abner olhou para trás e perguntou:"
-    },
-    "21": {
-      "título": "",
-      "texto": "Então Abner disse:"
-    },
-    "22": {
-      "título": "",
-      "texto": "Então Abner disse mais uma vez:"
-    },
-    "23": {
-      "título": "",
-      "texto": "Como Asael não quis deixar de persegui-lo, Abner o feriu na barriga com a extremidade inferior da lança, que lhe saiu pelas costas. Asael caiu e morreu ali mesmo. Todos os que chegavam ao lugar em que Asael tinha caído morto paravam."
-    },
-    "24": {
-      "título": "",
-      "texto": "Porém Joabe e Abisai perseguiram Abner. O sol se pôs quando eles chegaram à colina de Amá, que está em frente de Giá, no caminho do deserto de Gibeão."
-    },
-    "25": {
-      "título": "",
-      "texto": "Os filhos de Benjamim se reuniram em volta de Abner, formando uma só tropa, e se puseram no alto de uma colina."
-    },
-    "26": {
-      "título": "",
-      "texto": "Então Abner gritou para Joabe:"
-    },
-    "27": {
-      "título": "",
-      "texto": "Joabe respondeu:"
-    },
-    "28": {
-      "título": "",
-      "texto": "Então Joabe tocou a trombeta, e todo o povo parou, e eles não perseguiram mais Israel e a luta acabou."
-    },
-    "29": {
-      "título": "",
-      "texto": "Abner e seus homens marcharam toda aquela noite pela planície. Passaram o Jordão e, caminhando toda a manhã, chegaram a Maanaim."
-    },
-    "30": {
-      "título": "",
-      "texto": "Joabe deixou de perseguir Abner. E, tendo reunido todo o povo, verificou que faltavam dezenove dos homens de Davi, além de Asael."
-    },
-    "31": {
-      "título": "",
-      "texto": "Porém os servos de Davi tinham matado, dentre os de Benjamim e dentre os soldados de Abner, trezentos e sessenta homens."
-    },
-    "32": {
-      "título": "",
-      "texto": "Levaram Asael e o sepultaram no túmulo de seu pai, em Belém. Joabe e seus homens caminharam toda aquela noite, e, ao amanhecer, chegaram a Hebrom."
+    "versiculos": {
+        "1": "Depois disto, Davi consultou o Senhor , dizendo:",
+        "2": "Davi foi para lá, levando consigo as suas duas mulheres, Ainoã, a jezreelita, e Abigail, a viúva de Nabal, o carmelita.",
+        "3": "Davi levou também os homens que estavam com ele, cada um com a sua família, e eles ficaram morando nas aldeias de Hebrom.",
+        "4": "Então vieram os homens de Judá e ali ungiram Davi rei sobre a casa de Judá.",
+        "5": "Então Davi enviou mensageiros aos homens de Jabes-Gileade para dizer-lhes:",
+        "6": "E agora que o Senhor use de misericórdia e fidelidade para com vocês. E eu também os tratarei bem por causa do que vocês fizeram.",
+        "7": "E agora sejam fortes e valentes, porque Saul, o senhor de vocês, está morto, e os da casa de Judá me ungiram para ser o seu rei.",
+        "8": "Abner, filho de Ner, capitão do exército de Saul, levou Isbosete, filho de Saul, para Maanaim,",
+        "9": "e o constituiu rei sobre Gileade, sobre os assuritas, sobre Jezreel, Efraim, Benjamim e sobre todo o Israel.",
+        "10": "Isbosete, filho de Saul, tinha quarenta anos de idade quando começou a reinar sobre Israel, e reinou dois anos. Somente a casa de Judá seguia Davi.",
+        "11": "O tempo que Davi reinou em Hebrom sobre a casa de Judá foram sete anos e seis meses.",
+        "12": "Abner, filho de Ner, e os homens de Isbosete, filho de Saul, saíram de Maanaim e foram para Gibeão.",
+        "13": "Joabe, filho de Zeruia, e os servos de Davi também saíram, e os dois grupos se encontraram perto da cisterna de Gibeão. Um grupo parou do lado de cá da cisterna, e o outro, do lado de lá.",
+        "14": "Então Abner disse a Joabe:",
+        "15": "Então se levantaram e avançaram em igual número: doze de Benjamim, da parte de Isbosete, filho de Saul, e doze dos homens de Davi.",
+        "16": "Cada um pegou o seu adversário pela cabeça, meteu-lhe a espada no lado, e caíram mortos juntos. Por isso aquele lugar foi chamado de Campo das Espadas. Fica perto de Gibeão.",
+        "17": "Houve um combate intenso naquele dia, e Abner e os homens de Israel foram derrotados pelos homens de Davi.",
+        "18": "Estavam ali os três filhos de Zeruia: Joabe, Abisai e Asael. Asael, que era ligeiro como uma gazela selvagem,",
+        "19": "perseguiu Abner e, na sua perseguição, não se desviou nem para a direita nem para a esquerda.",
+        "20": "Então Abner olhou para trás e perguntou:",
+        "21": "Então Abner disse:",
+        "22": "Então Abner disse mais uma vez:",
+        "23": "Como Asael não quis deixar de persegui-lo, Abner o feriu na barriga com a extremidade inferior da lança, que lhe saiu pelas costas. Asael caiu e morreu ali mesmo. Todos os que chegavam ao lugar em que Asael tinha caído morto paravam.",
+        "24": "Porém Joabe e Abisai perseguiram Abner. O sol se pôs quando eles chegaram à colina de Amá, que está em frente de Giá, no caminho do deserto de Gibeão.",
+        "25": "Os filhos de Benjamim se reuniram em volta de Abner, formando uma só tropa, e se puseram no alto de uma colina.",
+        "26": "Então Abner gritou para Joabe:",
+        "27": "Joabe respondeu:",
+        "28": "Então Joabe tocou a trombeta, e todo o povo parou, e eles não perseguiram mais Israel e a luta acabou.",
+        "29": "Abner e seus homens marcharam toda aquela noite pela planície. Passaram o Jordão e, caminhando toda a manhã, chegaram a Maanaim.",
+        "30": "Joabe deixou de perseguir Abner. E, tendo reunido todo o povo, verificou que faltavam dezenove dos homens de Davi, além de Asael.",
+        "31": "Porém os servos de Davi tinham matado, dentre os de Benjamim e dentre os soldados de Abner, trezentos e sessenta homens.",
+        "32": "Levaram Asael e o sepultaram no túmulo de seu pai, em Belém. Joabe e seus homens caminharam toda aquela noite, e, ao amanhecer, chegaram a Hebrom."
     }
-  }
 }

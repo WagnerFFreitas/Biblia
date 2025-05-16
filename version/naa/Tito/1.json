@@ -1,70 +1,27 @@
 {
-  "livro": "Tito",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "Prefácio e saudação",
-      "texto": "Paulo, servo de Deus e apóstolo de Jesus Cristo, para promover a fé que é dos eleitos de Deus e o pleno conhecimento da verdade segundo a piedade."
+    "livro": "Tito",
+    "capitulo": 1,
+    "titulos": {
+        "1": "Prefácio e saudação",
+        "5": "Deveres e qualificações dos ministros",
+        "10": "Os falsos mestres e as falsas doutrinas"
     },
-    "2": {
-      "título": "",
-      "texto": "Escrevo na esperança da vida eterna que o Deus que não pode mentir prometeu antes dos tempos eternos"
-    },
-    "3": {
-      "título": "",
-      "texto": "e, no momento oportuno, manifestou a sua palavra mediante a pregação que me foi confiada por ordem de Deus, nosso Salvador,"
-    },
-    "4": {
-      "título": "",
-      "texto": "a Tito, verdadeiro filho, segundo a fé comum."
-    },
-    "5": {
-      "título": "Deveres e qualificações dos ministros",
-      "texto": "Foi por esta causa que deixei você em Creta: para que pusesse em ordem as coisas restantes, bem como, em cada cidade, constituísse presbíteros, conforme prescrevi a você:"
-    },
-    "6": {
-      "título": "",
-      "texto": "alguém que seja irrepreensível, marido de uma só mulher, que tenha filhos crentes que não são acusados de devassidão, nem são insubordinados."
-    },
-    "7": {
-      "título": "",
-      "texto": "Porque é indispensável que o bispo, por ser encarregado das coisas de Deus, seja irrepreensível, não arrogante, alguém que não se irrita facilmente, não apegado ao vinho, não violento, nem ganancioso."
-    },
-    "8": {
-      "título": "",
-      "texto": "Pelo contrário, o bispo deve ser hospitaleiro, amigo do bem, sensato, justo, piedoso, deve ter domínio de si,"
-    },
-    "9": {
-      "título": "",
-      "texto": "ser apegado à palavra fiel, que está de acordo com a doutrina, para que possa exortar pelo reto ensino e convencer os que contradizem este ensino."
-    },
-    "10": {
-      "título": "Os falsos mestres e as falsas doutrinas",
-      "texto": "Porque existem muitos, especialmente os da circuncisão, que são insubordinados, falam coisas sem sentido e enganam os outros."
-    },
-    "11": {
-      "título": "",
-      "texto": "É preciso fazer com que se calem, porque andam pervertendo casas inteiras, ensinando o que não devem, movidos por vergonhosa ganância."
-    },
-    "12": {
-      "título": "",
-      "texto": "Foi um dos cretenses, um próprio profeta deles, que disse: “Os cretenses são sempre mentirosos, feras terríveis, comilões preguiçosos.”"
-    },
-    "13": {
-      "título": "",
-      "texto": "Este testemunho é verdadeiro. Portanto, repreenda-os severamente, para que sejam sadios na fé"
-    },
-    "14": {
-      "título": "",
-      "texto": "e não se ocupem com fábulas judaicas, nem com mandamentos de gente que se desvia da verdade."
-    },
-    "15": {
-      "título": "",
-      "texto": "Todas as coisas são puras para os puros; mas, para os impuros e descrentes, nada é puro. Porque tanto a mente como a consciência deles estão corrompidas."
-    },
-    "16": {
-      "título": "",
-      "texto": "Afirmam que conhecem a Deus, mas o negam por meio do que fazem; é por isso que são abomináveis, desobedientes e reprovados para qualquer boa obra."
+    "versiculos": {
+        "1": "Paulo, servo de Deus e apóstolo de Jesus Cristo, para promover a fé que é dos eleitos de Deus e o pleno conhecimento da verdade segundo a piedade.",
+        "2": "Escrevo na esperança da vida eterna que o Deus que não pode mentir prometeu antes dos tempos eternos",
+        "3": "e, no momento oportuno, manifestou a sua palavra mediante a pregação que me foi confiada por ordem de Deus, nosso Salvador,",
+        "4": "a Tito, verdadeiro filho, segundo a fé comum.",
+        "5": "Foi por esta causa que deixei você em Creta: para que pusesse em ordem as coisas restantes, bem como, em cada cidade, constituísse presbíteros, conforme prescrevi a você:",
+        "6": "alguém que seja irrepreensível, marido de uma só mulher, que tenha filhos crentes que não são acusados de devassidão, nem são insubordinados.",
+        "7": "Porque é indispensável que o bispo, por ser encarregado das coisas de Deus, seja irrepreensível, não arrogante, alguém que não se irrita facilmente, não apegado ao vinho, não violento, nem ganancioso.",
+        "8": "Pelo contrário, o bispo deve ser hospitaleiro, amigo do bem, sensato, justo, piedoso, deve ter domínio de si,",
+        "9": "ser apegado à palavra fiel, que está de acordo com a doutrina, para que possa exortar pelo reto ensino e convencer os que contradizem este ensino.",
+        "10": "Porque existem muitos, especialmente os da circuncisão, que são insubordinados, falam coisas sem sentido e enganam os outros.",
+        "11": "É preciso fazer com que se calem, porque andam pervertendo casas inteiras, ensinando o que não devem, movidos por vergonhosa ganância.",
+        "12": "Foi um dos cretenses, um próprio profeta deles, que disse: “Os cretenses são sempre mentirosos, feras terríveis, comilões preguiçosos.”",
+        "13": "Este testemunho é verdadeiro. Portanto, repreenda-os severamente, para que sejam sadios na fé",
+        "14": "e não se ocupem com fábulas judaicas, nem com mandamentos de gente que se desvia da verdade.",
+        "15": "Todas as coisas são puras para os puros; mas, para os impuros e descrentes, nada é puro. Porque tanto a mente como a consciência deles estão corrompidas.",
+        "16": "Afirmam que conhecem a Deus, mas o negam por meio do que fazem; é por isso que são abomináveis, desobedientes e reprovados para qualquer boa obra."
     }
-  }
 }

@@ -1,170 +1,57 @@
 {
-  "livro": "Marcos",
-  "capítulo": 4,
-  "versículos": {
-    "1": {
-      "título": "A parábola do semeador",
-      "texto": "Jesus começou a ensinar outra vez à beira-mar. E uma numerosa multidão se reuniu em volta dele, de modo que entrou num barco, onde se assentou, afastando-se da praia. E todo o povo estava à beira-mar, na praia."
+    "livro": "Marcos",
+    "capitulo": 4,
+    "titulos": {
+        "1": "A parábola do semeador",
+        "10": "Por que Jesus usava parábolas",
+        "13": "A explicação da parábola",
+        "21": "A luz",
+        "26": "A parábola da semente",
+        "30": "A parábola do grão de mostarda",
+        "33": "O uso das parábolas",
+        "35": "Jesus acalma uma tempestade"
     },
-    "2": {
-      "título": "",
-      "texto": "Assim, ensinava-lhes muitas coisas por parábolas e, durante o seu ensino, dizia:"
-    },
-    "3": {
-      "título": "",
-      "texto": "— Escutem! Eis que o semeador saiu a semear."
-    },
-    "4": {
-      "título": "",
-      "texto": "E, ao semear, uma parte caiu à beira do caminho, e vieram as aves e a comeram."
-    },
-    "5": {
-      "título": "",
-      "texto": "Outra parte caiu em solo rochoso, onde a terra era pouca, e logo nasceu, visto não ser profunda a terra."
-    },
-    "6": {
-      "título": "",
-      "texto": "Saindo, porém, o sol, a queimou; e, porque não tinha raiz, secou-se."
-    },
-    "7": {
-      "título": "",
-      "texto": "Outra parte caiu entre os espinhos; e os espinhos cresceram e a sufocaram, e não deu fruto."
-    },
-    "8": {
-      "título": "",
-      "texto": "Outra, enfim, caiu em boa terra e deu fruto; a semente brotou, cresceu e produziu a trinta, a sessenta e a cem por um."
-    },
-    "9": {
-      "título": "",
-      "texto": "E Jesus acrescentou:"
-    },
-    "10": {
-      "título": "Por que Jesus usava parábolas",
-      "texto": "Quando Jesus ficou só, os que estavam junto dele com os doze começaram a lhe fazer perguntas a respeito das parábolas."
-    },
-    "11": {
-      "título": "",
-      "texto": "Jesus disse a eles:"
-    },
-    "12": {
-      "título": "",
-      "texto": "para que, vendo, vejam e não percebam; e, ouvindo, ouçam e não entendam; para que não venham a converter-se e sejam perdoados."
-    },
-    "13": {
-      "título": "A explicação da parábola",
-      "texto": "Então Jesus lhes perguntou:"
-    },
-    "14": {
-      "título": "",
-      "texto": "O semeador semeia a palavra."
-    },
-    "15": {
-      "título": "",
-      "texto": "Estes são os da beira do caminho, onde a palavra é semeada: quando a ouvem, logo Satanás vem e tira a palavra semeada neles."
-    },
-    "16": {
-      "título": "",
-      "texto": "E estes são os semeados em solo rochoso, os quais, ouvindo a palavra, logo a recebem com alegria."
-    },
-    "17": {
-      "título": "",
-      "texto": "Mas eles não têm raiz em si mesmos, sendo de pouca duração. Quando chega a angústia ou a perseguição por causa da palavra, logo se escandalizam."
-    },
-    "18": {
-      "título": "",
-      "texto": "Os outros, os semeados entre os espinhos, são os que ouvem a palavra,"
-    },
-    "19": {
-      "título": "",
-      "texto": "mas as preocupações deste mundo, a fascinação da riqueza e outras ambições aparecem e sufocam a palavra, e ela fica infrutífera."
-    },
-    "20": {
-      "título": "",
-      "texto": "Os que foram semeados em boa terra são aqueles que ouvem a palavra e a recebem, frutificando a trinta, a sessenta e a cem por um."
-    },
-    "21": {
-      "título": "A luz",
-      "texto": "Jesus também lhes disse:"
-    },
-    "22": {
-      "título": "",
-      "texto": "Porque não há nada oculto, senão para ser manifesto; e nada escondido, senão para ser revelado."
-    },
-    "23": {
-      "título": "",
-      "texto": "Se alguém tem ouvidos para ouvir, ouça."
-    },
-    "24": {
-      "título": "",
-      "texto": "Então lhes disse:"
-    },
-    "25": {
-      "título": "",
-      "texto": "Pois ao que tem, mais será dado; e, ao que não tem, até o que tem lhe será tirado."
-    },
-    "26": {
-      "título": "A parábola da semente",
-      "texto": "Jesus disse ainda:"
-    },
-    "27": {
-      "título": "",
-      "texto": "Ele dorme e acorda, de noite e de dia, e a semente germina e cresce, sem que ele saiba como."
-    },
-    "28": {
-      "título": "",
-      "texto": "A terra por si mesma frutifica: primeiro aparece a planta, depois, a espiga, e, por fim, o grão cheio na espiga."
-    },
-    "29": {
-      "título": "",
-      "texto": "E, quando o fruto já está maduro, logo manda cortar com a foice, porque chegou a colheita."
-    },
-    "30": {
-      "título": "A parábola do grão de mostarda",
-      "texto": "Disse mais:"
-    },
-    "31": {
-      "título": "",
-      "texto": "Ele é como um grão de mostarda, que, quando semeado, é a menor de todas as sementes sobre a terra;"
-    },
-    "32": {
-      "título": "",
-      "texto": "mas, uma vez semeada, cresce e se torna maior do que todas as hortaliças; cria ramos tão grandes, que as aves do céu podem se aninhar à sua sombra."
-    },
-    "33": {
-      "título": "O uso das parábolas",
-      "texto": "E com muitas parábolas semelhantes Jesus lhes expunha a palavra, conforme podiam compreendê-la."
-    },
-    "34": {
-      "título": "",
-      "texto": "E sem parábolas não lhes falava; tudo, porém, explicava em particular aos seus próprios discípulos."
-    },
-    "35": {
-      "título": "Jesus acalma uma tempestade",
-      "texto": "Naquele dia, sendo já tarde, Jesus disse aos discípulos:"
-    },
-    "36": {
-      "título": "",
-      "texto": "E eles, despedindo a multidão, o levaram assim como estava, no barco; e outros barcos o seguiam."
-    },
-    "37": {
-      "título": "",
-      "texto": "Ora, levantou-se grande temporal de vento, e as ondas se arremessavam contra o barco, de modo que o mesmo já estava se enchendo de água."
-    },
-    "38": {
-      "título": "",
-      "texto": "E Jesus estava na popa, dormindo sobre o travesseiro. Os discípulos o acordaram e lhe disseram:"
-    },
-    "39": {
-      "título": "",
-      "texto": "E ele, despertando, repreendeu o vento e disse ao mar:"
-    },
-    "40": {
-      "título": "",
-      "texto": "Então Jesus lhes perguntou:"
-    },
-    "41": {
-      "título": "",
-      "texto": "E eles, possuídos de grande temor, diziam uns aos outros:"
+    "versiculos": {
+        "1": "Jesus começou a ensinar outra vez à beira-mar. E uma numerosa multidão se reuniu em volta dele, de modo que entrou num barco, onde se assentou, afastando-se da praia. E todo o povo estava à beira-mar, na praia.",
+        "2": "Assim, ensinava-lhes muitas coisas por parábolas e, durante o seu ensino, dizia:",
+        "3": "— Escutem! Eis que o semeador saiu a semear.",
+        "4": "E, ao semear, uma parte caiu à beira do caminho, e vieram as aves e a comeram.",
+        "5": "Outra parte caiu em solo rochoso, onde a terra era pouca, e logo nasceu, visto não ser profunda a terra.",
+        "6": "Saindo, porém, o sol, a queimou; e, porque não tinha raiz, secou-se.",
+        "7": "Outra parte caiu entre os espinhos; e os espinhos cresceram e a sufocaram, e não deu fruto.",
+        "8": "Outra, enfim, caiu em boa terra e deu fruto; a semente brotou, cresceu e produziu a trinta, a sessenta e a cem por um.",
+        "9": "E Jesus acrescentou:",
+        "10": "Quando Jesus ficou só, os que estavam junto dele com os doze começaram a lhe fazer perguntas a respeito das parábolas.",
+        "11": "Jesus disse a eles:",
+        "12": "para que, vendo, vejam e não percebam; e, ouvindo, ouçam e não entendam; para que não venham a converter-se e sejam perdoados.",
+        "13": "Então Jesus lhes perguntou:",
+        "14": "O semeador semeia a palavra.",
+        "15": "Estes são os da beira do caminho, onde a palavra é semeada: quando a ouvem, logo Satanás vem e tira a palavra semeada neles.",
+        "16": "E estes são os semeados em solo rochoso, os quais, ouvindo a palavra, logo a recebem com alegria.",
+        "17": "Mas eles não têm raiz em si mesmos, sendo de pouca duração. Quando chega a angústia ou a perseguição por causa da palavra, logo se escandalizam.",
+        "18": "Os outros, os semeados entre os espinhos, são os que ouvem a palavra,",
+        "19": "mas as preocupações deste mundo, a fascinação da riqueza e outras ambições aparecem e sufocam a palavra, e ela fica infrutífera.",
+        "20": "Os que foram semeados em boa terra são aqueles que ouvem a palavra e a recebem, frutificando a trinta, a sessenta e a cem por um.",
+        "21": "Jesus também lhes disse:",
+        "22": "Porque não há nada oculto, senão para ser manifesto; e nada escondido, senão para ser revelado.",
+        "23": "Se alguém tem ouvidos para ouvir, ouça.",
+        "24": "Então lhes disse:",
+        "25": "Pois ao que tem, mais será dado; e, ao que não tem, até o que tem lhe será tirado.",
+        "26": "Jesus disse ainda:",
+        "27": "Ele dorme e acorda, de noite e de dia, e a semente germina e cresce, sem que ele saiba como.",
+        "28": "A terra por si mesma frutifica: primeiro aparece a planta, depois, a espiga, e, por fim, o grão cheio na espiga.",
+        "29": "E, quando o fruto já está maduro, logo manda cortar com a foice, porque chegou a colheita.",
+        "30": "Disse mais:",
+        "31": "Ele é como um grão de mostarda, que, quando semeado, é a menor de todas as sementes sobre a terra;",
+        "32": "mas, uma vez semeada, cresce e se torna maior do que todas as hortaliças; cria ramos tão grandes, que as aves do céu podem se aninhar à sua sombra.",
+        "33": "E com muitas parábolas semelhantes Jesus lhes expunha a palavra, conforme podiam compreendê-la.",
+        "34": "E sem parábolas não lhes falava; tudo, porém, explicava em particular aos seus próprios discípulos.",
+        "35": "Naquele dia, sendo já tarde, Jesus disse aos discípulos:",
+        "36": "E eles, despedindo a multidão, o levaram assim como estava, no barco; e outros barcos o seguiam.",
+        "37": "Ora, levantou-se grande temporal de vento, e as ondas se arremessavam contra o barco, de modo que o mesmo já estava se enchendo de água.",
+        "38": "E Jesus estava na popa, dormindo sobre o travesseiro. Os discípulos o acordaram e lhe disseram:",
+        "39": "E ele, despertando, repreendeu o vento e disse ao mar:",
+        "40": "Então Jesus lhes perguntou:",
+        "41": "E eles, possuídos de grande temor, diziam uns aos outros:"
     }
-  }
 }

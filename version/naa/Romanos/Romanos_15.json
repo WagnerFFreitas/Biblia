@@ -1,138 +1,45 @@
 {
-  "livro": "Romanos",
-  "capítulo": 15,
-  "versículos": {
-    "1": {
-      "título": "Agradar ao próximo e não a si mesmo",
-      "texto": "Ora, nós que somos fortes na fé temos de suportar as debilidades dos fracos e não agradar a nós mesmos."
+    "livro": "Romanos",
+    "capitulo": 15,
+    "titulos": {
+        "1": "Agradar ao próximo e não a si mesmo",
+        "14": "A explicação de Paulo",
+        "22": "Os planos de Paulo",
+        "30": "Paulo pede as orações"
     },
-    "2": {
-      "título": "",
-      "texto": "Portanto, cada um de nós agrade ao próximo no que é bom para edificação."
-    },
-    "3": {
-      "título": "",
-      "texto": "Porque também Cristo não agradou a si mesmo; pelo contrário, como está escrito: “Os insultos dos que te insultavam caíram sobre mim.”"
-    },
-    "4": {
-      "título": "",
-      "texto": "Pois tudo o que no passado foi escrito, para o nosso ensino foi escrito, a fim de que, pela paciência e pela consolação das Escrituras, tenhamos esperança."
-    },
-    "5": {
-      "título": "",
-      "texto": "Ora, o Deus da paciência e da consolação lhes conceda o mesmo modo de pensar de uns para com os outros, segundo Cristo Jesus,"
-    },
-    "6": {
-      "título": "",
-      "texto": "para que vocês, unânimes e a uma só voz, glorifiquem o Deus e Pai de nosso Senhor Jesus Cristo."
-    },
-    "7": {
-      "título": "",
-      "texto": "Portanto, acolham uns aos outros, como também Cristo acolheu vocês para a glória de Deus."
-    },
-    "8": {
-      "título": "",
-      "texto": "Pois digo que Cristo foi constituído ministro da circuncisão, em prol da verdade de Deus, para confirmar as promessas feitas aos nossos pais"
-    },
-    "9": {
-      "título": "",
-      "texto": "e para que os gentios glorifiquem a Deus por causa da sua misericórdia, como está escrito:"
-    },
-    "10": {
-      "título": "",
-      "texto": "E também diz:"
-    },
-    "11": {
-      "título": "",
-      "texto": "E ainda:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Também Isaías diz:"
-    },
-    "13": {
-      "título": "",
-      "texto": "E o Deus da esperança encha vocês de toda alegria e paz na fé que vocês têm, para que sejam ricos de esperança no poder do Espírito Santo."
-    },
-    "14": {
-      "título": "A explicação de Paulo",
-      "texto": "E eu mesmo, meus irmãos, estou certo de que vocês estão cheios de bondade, têm todo o conhecimento e são aptos para admoestar uns aos outros."
-    },
-    "15": {
-      "título": "",
-      "texto": "Entretanto, eu lhes escrevi, em parte mais ousadamente, como para fazer com que vocês se lembrem disso outra vez, por causa da graça que me foi dada por Deus,"
-    },
-    "16": {
-      "título": "",
-      "texto": "para que eu seja ministro de Cristo Jesus entre os gentios, no sagrado encargo de anunciar o evangelho de Deus, de modo que a oferta deles seja aceitável, uma vez santificada pelo Espírito Santo."
-    },
-    "17": {
-      "título": "",
-      "texto": "Tenho, pois, motivo de gloriar-me em Cristo Jesus nas coisas concernentes a Deus."
-    },
-    "18": {
-      "título": "",
-      "texto": "Porque não ousarei falar sobre coisa alguma, a não ser sobre aquelas que Cristo fez por meio de mim, para conduzir os gentios à obediência, por palavra e por obras,"
-    },
-    "19": {
-      "título": "",
-      "texto": "por força de sinais e prodígios, pelo poder do Espírito de Deus. Assim, desde Jerusalém e arredores até o Ilírico, tenho divulgado o evangelho de Cristo,"
-    },
-    "20": {
-      "título": "",
-      "texto": "esforçando-me, deste modo, por pregar o evangelho, não onde Cristo já foi anunciado, para não edificar sobre alicerce alheio."
-    },
-    "21": {
-      "título": "",
-      "texto": "Pelo contrário, como está escrito:"
-    },
-    "22": {
-      "título": "Os planos de Paulo",
-      "texto": "Essa foi a razão por que também, muitas vezes, fui impedido de visitá-los."
-    },
-    "23": {
-      "título": "",
-      "texto": "Mas, agora, não tendo mais campo de atividade nestas regiões e desejando há muitos anos visitá-los,"
-    },
-    "24": {
-      "título": "",
-      "texto": "penso em fazê-lo quando em viagem para a Espanha. Pois espero que, de passagem, eu possa vê-los e que vocês me encaminhem para lá, depois de haver primeiro desfrutado um pouco a companhia de vocês."
-    },
-    "25": {
-      "título": "",
-      "texto": "Mas agora estou de partida para Jerusalém, a serviço dos santos."
-    },
-    "26": {
-      "título": "",
-      "texto": "Porque a Macedônia e a Acaia resolveram levantar uma coleta em benefício dos pobres dentre os santos que vivem em Jerusalém."
-    },
-    "27": {
-      "título": "",
-      "texto": "Isto lhes pareceu bem, e de fato lhes são devedores. Porque, se os gentios têm sido participantes dos valores espirituais dos judeus, devem também servi-los com bens materiais."
-    },
-    "28": {
-      "título": "",
-      "texto": "Tendo, pois, concluído isto e havendo-lhes consignado este fruto, irei à Espanha, passando por aí."
-    },
-    "29": {
-      "título": "",
-      "texto": "E bem sei que, ao visitá-los, irei na plenitude da bênção de Cristo."
-    },
-    "30": {
-      "título": "Paulo pede as orações",
-      "texto": "Irmãos, por nosso Senhor Jesus Cristo e também pelo amor do Espírito, peço que lutem juntamente comigo nas orações a Deus a meu favor,"
-    },
-    "31": {
-      "título": "",
-      "texto": "para que eu me veja livre dos rebeldes que vivem na Judeia, e que este meu serviço em Jerusalém seja bem-aceito pelos santos."
-    },
-    "32": {
-      "título": "",
-      "texto": "Isto para que, pela vontade de Deus, eu chegue à presença de vocês com alegria e possa ter algum descanso na companhia de vocês."
-    },
-    "33": {
-      "título": "",
-      "texto": "E o Deus da paz esteja com todos vocês. Amém!"
+    "versiculos": {
+        "1": "Ora, nós que somos fortes na fé temos de suportar as debilidades dos fracos e não agradar a nós mesmos.",
+        "2": "Portanto, cada um de nós agrade ao próximo no que é bom para edificação.",
+        "3": "Porque também Cristo não agradou a si mesmo; pelo contrário, como está escrito: “Os insultos dos que te insultavam caíram sobre mim.”",
+        "4": "Pois tudo o que no passado foi escrito, para o nosso ensino foi escrito, a fim de que, pela paciência e pela consolação das Escrituras, tenhamos esperança.",
+        "5": "Ora, o Deus da paciência e da consolação lhes conceda o mesmo modo de pensar de uns para com os outros, segundo Cristo Jesus,",
+        "6": "para que vocês, unânimes e a uma só voz, glorifiquem o Deus e Pai de nosso Senhor Jesus Cristo.",
+        "7": "Portanto, acolham uns aos outros, como também Cristo acolheu vocês para a glória de Deus.",
+        "8": "Pois digo que Cristo foi constituído ministro da circuncisão, em prol da verdade de Deus, para confirmar as promessas feitas aos nossos pais",
+        "9": "e para que os gentios glorifiquem a Deus por causa da sua misericórdia, como está escrito:",
+        "10": "E também diz:",
+        "11": "E ainda:",
+        "12": "Também Isaías diz:",
+        "13": "E o Deus da esperança encha vocês de toda alegria e paz na fé que vocês têm, para que sejam ricos de esperança no poder do Espírito Santo.",
+        "14": "E eu mesmo, meus irmãos, estou certo de que vocês estão cheios de bondade, têm todo o conhecimento e são aptos para admoestar uns aos outros.",
+        "15": "Entretanto, eu lhes escrevi, em parte mais ousadamente, como para fazer com que vocês se lembrem disso outra vez, por causa da graça que me foi dada por Deus,",
+        "16": "para que eu seja ministro de Cristo Jesus entre os gentios, no sagrado encargo de anunciar o evangelho de Deus, de modo que a oferta deles seja aceitável, uma vez santificada pelo Espírito Santo.",
+        "17": "Tenho, pois, motivo de gloriar-me em Cristo Jesus nas coisas concernentes a Deus.",
+        "18": "Porque não ousarei falar sobre coisa alguma, a não ser sobre aquelas que Cristo fez por meio de mim, para conduzir os gentios à obediência, por palavra e por obras,",
+        "19": "por força de sinais e prodígios, pelo poder do Espírito de Deus. Assim, desde Jerusalém e arredores até o Ilírico, tenho divulgado o evangelho de Cristo,",
+        "20": "esforçando-me, deste modo, por pregar o evangelho, não onde Cristo já foi anunciado, para não edificar sobre alicerce alheio.",
+        "21": "Pelo contrário, como está escrito:",
+        "22": "Essa foi a razão por que também, muitas vezes, fui impedido de visitá-los.",
+        "23": "Mas, agora, não tendo mais campo de atividade nestas regiões e desejando há muitos anos visitá-los,",
+        "24": "penso em fazê-lo quando em viagem para a Espanha. Pois espero que, de passagem, eu possa vê-los e que vocês me encaminhem para lá, depois de haver primeiro desfrutado um pouco a companhia de vocês.",
+        "25": "Mas agora estou de partida para Jerusalém, a serviço dos santos.",
+        "26": "Porque a Macedônia e a Acaia resolveram levantar uma coleta em benefício dos pobres dentre os santos que vivem em Jerusalém.",
+        "27": "Isto lhes pareceu bem, e de fato lhes são devedores. Porque, se os gentios têm sido participantes dos valores espirituais dos judeus, devem também servi-los com bens materiais.",
+        "28": "Tendo, pois, concluído isto e havendo-lhes consignado este fruto, irei à Espanha, passando por aí.",
+        "29": "E bem sei que, ao visitá-los, irei na plenitude da bênção de Cristo.",
+        "30": "Irmãos, por nosso Senhor Jesus Cristo e também pelo amor do Espírito, peço que lutem juntamente comigo nas orações a Deus a meu favor,",
+        "31": "para que eu me veja livre dos rebeldes que vivem na Judeia, e que este meu serviço em Jerusalém seja bem-aceito pelos santos.",
+        "32": "Isto para que, pela vontade de Deus, eu chegue à presença de vocês com alegria e possa ter algum descanso na companhia de vocês.",
+        "33": "E o Deus da paz esteja com todos vocês. Amém!"
     }
-  }
 }

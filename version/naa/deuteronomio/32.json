@@ -1,214 +1,61 @@
 {
-  "livro": "Deuteronômio",
-  "capítulo": 32,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "“Inclinem os ouvidos, ó céus,"
+    "livro": "Deuteronômio",
+    "capitulo": 32,
+    "titulos": {
+        "48": "Moisés vê a terra de Canaã"
     },
-    "2": {
-      "título": "",
-      "texto": "Goteje a minha doutrina"
-    },
-    "3": {
-      "título": "",
-      "texto": "“Porque proclamarei"
-    },
-    "4": {
-      "título": "",
-      "texto": "Eis a Rocha!"
-    },
-    "5": {
-      "título": "",
-      "texto": "“Procederam corruptamente"
-    },
-    "6": {
-      "título": "",
-      "texto": "É assim que vocês"
-    },
-    "7": {
-      "título": "",
-      "texto": "“Lembrem-se"
-    },
-    "8": {
-      "título": "",
-      "texto": "Quando o Altíssimo distribuía"
-    },
-    "9": {
-      "título": "",
-      "texto": "Porque a porção do Senhor"
-    },
-    "10": {
-      "título": "",
-      "texto": "“Ele o encontrou"
-    },
-    "11": {
-      "título": "",
-      "texto": "Como a águia desperta"
-    },
-    "12": {
-      "título": "",
-      "texto": "assim, só o Senhor guiou"
-    },
-    "13": {
-      "título": "",
-      "texto": "“Ele o fez cavalgar"
-    },
-    "14": {
-      "título": "",
-      "texto": "alimentou-o com"
-    },
-    "15": {
-      "título": "",
-      "texto": "“Mas Jesurum engordou"
-    },
-    "16": {
-      "título": "",
-      "texto": "Com deuses estranhos"
-    },
-    "17": {
-      "título": "",
-      "texto": "Ofereceram sacrifícios"
-    },
-    "18": {
-      "título": "",
-      "texto": "Não se lembraram da Rocha"
-    },
-    "19": {
-      "título": "",
-      "texto": "“O Senhor viu isso"
-    },
-    "20": {
-      "título": "",
-      "texto": "Ele disse: ‘Esconderei deles"
-    },
-    "21": {
-      "título": "",
-      "texto": "Provocaram ciúmes em mim"
-    },
-    "22": {
-      "título": "",
-      "texto": "Porque um fogo se acendeu"
-    },
-    "23": {
-      "título": "",
-      "texto": "“‘Amontoarei males sobre eles;"
-    },
-    "24": {
-      "título": "",
-      "texto": "Consumidos serão pela fome,"
-    },
-    "25": {
-      "título": "",
-      "texto": "Do lado de fora,"
-    },
-    "26": {
-      "título": "",
-      "texto": "Eu disse que os espalharia"
-    },
-    "27": {
-      "título": "",
-      "texto": "se eu não tivesse receado"
-    },
-    "28": {
-      "título": "",
-      "texto": "“‘Porque o meu povo"
-    },
-    "29": {
-      "título": "",
-      "texto": "Quem dera fossem eles sábios!"
-    },
-    "30": {
-      "título": "",
-      "texto": "Como poderia"
-    },
-    "31": {
-      "título": "",
-      "texto": "“‘Porque a rocha deles"
-    },
-    "32": {
-      "título": "",
-      "texto": "Porque a vinha deles"
-    },
-    "33": {
-      "título": "",
-      "texto": "o vinho deles"
-    },
-    "34": {
-      "título": "",
-      "texto": "“‘Não está isto guardado comigo,"
-    },
-    "35": {
-      "título": "",
-      "texto": "A mim pertence a vingança,"
-    },
-    "36": {
-      "título": "",
-      "texto": "Porque o Senhor fará justiça"
-    },
-    "37": {
-      "título": "",
-      "texto": "Então dirá: ‘Onde estão"
-    },
-    "38": {
-      "título": "",
-      "texto": "Deuses que comiam"
-    },
-    "39": {
-      "título": "",
-      "texto": "“‘Vejam, agora, que eu,"
-    },
-    "40": {
-      "título": "",
-      "texto": "Levanto a mão aos céus"
-    },
-    "41": {
-      "título": "",
-      "texto": "se eu afiar"
-    },
-    "42": {
-      "título": "",
-      "texto": "Embriagarei as minhas setas"
-    },
-    "43": {
-      "título": "",
-      "texto": "“Ó nações,"
-    },
-    "44": {
-      "título": "",
-      "texto": "Moisés veio e falou todas as palavras deste cântico aos ouvidos do povo, ele e Josué, filho de Num."
-    },
-    "45": {
-      "título": "",
-      "texto": "Quando Moisés acabou de falar todas estas palavras a todo o Israel,"
-    },
-    "46": {
-      "título": "",
-      "texto": "disse-lhes:"
-    },
-    "47": {
-      "título": "",
-      "texto": "Porque esta palavra não é para vocês coisa vã; pelo contrário, é a sua vida; e, por esta mesma palavra, vocês prolongarão os dias na terra em que, passando o Jordão, vocês vão entrar e da qual tomarão posse."
-    },
-    "48": {
-      "título": "Moisés vê a terra de Canaã",
-      "texto": "Naquele mesmo dia, o Senhor falou a Moisés, dizendo:"
-    },
-    "49": {
-      "título": "",
-      "texto": "— Suba a este monte de Abarim, ao monte Nebo, que está na terra de Moabe, em frente de Jericó, e veja a terra de Canaã, que dou como propriedade aos filhos de Israel."
-    },
-    "50": {
-      "título": "",
-      "texto": "Você vai morrer no monte, ao qual terá subido, e será reunido ao seu povo, como Arão, o seu irmão, morreu no monte Hor e foi reunido ao seu povo."
-    },
-    "51": {
-      "título": "",
-      "texto": "Porque vocês foram infiéis a mim no meio dos filhos de Israel, nas águas de Meribá de Cades, no deserto de Zim, pois não me santificaram no meio dos filhos de Israel."
-    },
-    "52": {
-      "título": "",
-      "texto": "Por isso você verá a terra à sua frente, mas não entrará nela, na terra que dou aos filhos de Israel."
+    "versiculos": {
+        "1": "“Inclinem os ouvidos, ó céus,",
+        "2": "Goteje a minha doutrina",
+        "3": "“Porque proclamarei",
+        "4": "Eis a Rocha!",
+        "5": "“Procederam corruptamente",
+        "6": "É assim que vocês",
+        "7": "“Lembrem-se",
+        "8": "Quando o Altíssimo distribuía",
+        "9": "Porque a porção do Senhor",
+        "10": "“Ele o encontrou",
+        "11": "Como a águia desperta",
+        "12": "assim, só o Senhor guiou",
+        "13": "“Ele o fez cavalgar",
+        "14": "alimentou-o com",
+        "15": "“Mas Jesurum engordou",
+        "16": "Com deuses estranhos",
+        "17": "Ofereceram sacrifícios",
+        "18": "Não se lembraram da Rocha",
+        "19": "“O Senhor viu isso",
+        "20": "Ele disse: ‘Esconderei deles",
+        "21": "Provocaram ciúmes em mim",
+        "22": "Porque um fogo se acendeu",
+        "23": "“‘Amontoarei males sobre eles;",
+        "24": "Consumidos serão pela fome,",
+        "25": "Do lado de fora,",
+        "26": "Eu disse que os espalharia",
+        "27": "se eu não tivesse receado",
+        "28": "“‘Porque o meu povo",
+        "29": "Quem dera fossem eles sábios!",
+        "30": "Como poderia",
+        "31": "“‘Porque a rocha deles",
+        "32": "Porque a vinha deles",
+        "33": "o vinho deles",
+        "34": "“‘Não está isto guardado comigo,",
+        "35": "A mim pertence a vingança,",
+        "36": "Porque o Senhor fará justiça",
+        "37": "Então dirá: ‘Onde estão",
+        "38": "Deuses que comiam",
+        "39": "“‘Vejam, agora, que eu,",
+        "40": "Levanto a mão aos céus",
+        "41": "se eu afiar",
+        "42": "Embriagarei as minhas setas",
+        "43": "“Ó nações,",
+        "44": "Moisés veio e falou todas as palavras deste cântico aos ouvidos do povo, ele e Josué, filho de Num.",
+        "45": "Quando Moisés acabou de falar todas estas palavras a todo o Israel,",
+        "46": "disse-lhes:",
+        "47": "Porque esta palavra não é para vocês coisa vã; pelo contrário, é a sua vida; e, por esta mesma palavra, vocês prolongarão os dias na terra em que, passando o Jordão, vocês vão entrar e da qual tomarão posse.",
+        "48": "Naquele mesmo dia, o Senhor falou a Moisés, dizendo:",
+        "49": "— Suba a este monte de Abarim, ao monte Nebo, que está na terra de Moabe, em frente de Jericó, e veja a terra de Canaã, que dou como propriedade aos filhos de Israel.",
+        "50": "Você vai morrer no monte, ao qual terá subido, e será reunido ao seu povo, como Arão, o seu irmão, morreu no monte Hor e foi reunido ao seu povo.",
+        "51": "Porque vocês foram infiéis a mim no meio dos filhos de Israel, nas águas de Meribá de Cades, no deserto de Zim, pois não me santificaram no meio dos filhos de Israel.",
+        "52": "Por isso você verá a terra à sua frente, mas não entrará nela, na terra que dou aos filhos de Israel."
     }
-  }
 }

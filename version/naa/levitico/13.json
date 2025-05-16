@@ -1,242 +1,69 @@
 {
-  "livro": "Levítico",
-  "capítulo": 13,
-  "versículos": {
-    "1": {
-      "título": "Leis a respeito da lepra",
-      "texto": "O Senhor disse a Moisés e a Arão:"
+    "livro": "Levítico",
+    "capitulo": 13,
+    "titulos": {
+        "1": "Leis a respeito da lepra",
+        "47": "Leis a respeito do mofo"
     },
-    "2": {
-      "título": "",
-      "texto": "— Quando uma pessoa tiver na sua pele inchação, pústula ou mancha lustrosa, e isto se tornar na sua pele como praga de lepra, essa pessoa será levada a Arão, o sacerdote, ou a um de seus filhos, sacerdotes."
-    },
-    "3": {
-      "título": "",
-      "texto": "O sacerdote examinará a praga na pele, e, se os pelos na praga se tornaram brancos e a praga parecer mais profunda do que a pele da sua carne, é praga de lepra; o sacerdote examinará a pessoa e a declarará impura."
-    },
-    "4": {
-      "título": "",
-      "texto": "Se a mancha lustrosa na pele for branca e não parecer mais profunda do que a pele, e os pelos não se tornaram brancos, então o sacerdote encerrará por sete dias a pessoa que tem a praga."
-    },
-    "5": {
-      "título": "",
-      "texto": "No sétimo dia, o sacerdote a examinará. Se, na opinião dele, a praga tiver parado e não se espalhou na pele daquela pessoa, então o sacerdote a encerrará por mais sete dias."
-    },
-    "6": {
-      "título": "",
-      "texto": "No sétimo dia, o sacerdote a examinará outra vez. Se a lepra se tornou pálida e não se espalhou na pele, então o sacerdote a declarará pura; é apenas uma pústula. A pessoa lavará as suas roupas e estará pura."
-    },
-    "7": {
-      "título": "",
-      "texto": "Mas, se a pústula se espalha muito na pele, depois que a pessoa se mostrou ao sacerdote para a sua purificação, terá de se mostrar outra vez ao sacerdote."
-    },
-    "8": {
-      "título": "",
-      "texto": "Este a examinará, e se a pústula tiver se alastrado pela pele, o sacerdote declarará que a pessoa está impura; é lepra."
-    },
-    "9": {
-      "título": "",
-      "texto": "— Quando uma pessoa tiver praga de lepra, será levada ao sacerdote."
-    },
-    "10": {
-      "título": "",
-      "texto": "Este a examinará, e, se houver inchação branca na pele, a qual tornou brancos os pelos, e houver carne viva na inchação,"
-    },
-    "11": {
-      "título": "",
-      "texto": "é lepra crônica na pele; portanto, o sacerdote declarará que a pessoa está impura; não encerrará essa pessoa, porque está impura."
-    },
-    "12": {
-      "título": "",
-      "texto": "Se a lepra se espalhar de todo na pele e cobrir a pele da pessoa que tem a lepra, desde a cabeça até os pés, quanto podem ver os olhos do sacerdote,"
-    },
-    "13": {
-      "título": "",
-      "texto": "então este a examinará. Se a lepra cobriu toda a carne, o sacerdote declarará que a pessoa que tem a mancha está pura; a lepra tornou-se branca; a pessoa está pura."
-    },
-    "14": {
-      "título": "",
-      "texto": "Mas, no dia em que aparecer nela carne viva, será impura."
-    },
-    "15": {
-      "título": "",
-      "texto": "Ao ver a carne viva, o sacerdote declarará que a pessoa está impura; a carne viva é impura; é lepra."
-    },
-    "16": {
-      "título": "",
-      "texto": "Se a carne viva mudar e ficar de novo branca, então a pessoa virá ao sacerdote,"
-    },
-    "17": {
-      "título": "",
-      "texto": "e este a examinará. Se a lepra se tornou branca, então o sacerdote declarará que a pessoa que tem a praga está pura."
-    },
-    "18": {
-      "título": "",
-      "texto": "— Quando sarar a carne em cuja pele houver uma úlcera,"
-    },
-    "19": {
-      "título": "",
-      "texto": "e no lugar da úlcera aparecer uma inchação branca ou mancha lustrosa, de um branco que puxa para o vermelho, a pessoa terá de se mostrar ao sacerdote."
-    },
-    "20": {
-      "título": "",
-      "texto": "O sacerdote examinará a inchação, e, se ela parece mais profunda do que a pele, e os seus pelos se tornaram brancos, o sacerdote declarará que a pessoa está impura; é praga de lepra, que brotou da úlcera."
-    },
-    "21": {
-      "título": "",
-      "texto": "Porém, se o sacerdote a examinar, e nela não houver pelos brancos, e ela não estiver mais profunda do que a pele, porém pálida, então o sacerdote encerrará essa pessoa por sete dias."
-    },
-    "22": {
-      "título": "",
-      "texto": "Se a inchação se espalhar na pele, o sacerdote declarará que a pessoa está impura; é lepra."
-    },
-    "23": {
-      "título": "",
-      "texto": "Mas, se a mancha lustrosa parar no seu lugar, não se espalhando, é cicatriz da úlcera; o sacerdote, pois, declarará que a pessoa está pura."
-    },
-    "24": {
-      "título": "",
-      "texto": "— Quando, na pele, houver queimadura de fogo, e a carne viva da queimadura se tornar em mancha lustrosa, de um branco que puxa para o vermelho ou para o branco,"
-    },
-    "25": {
-      "título": "",
-      "texto": "o sacerdote a examinará. Se os pelos da mancha lustrosa se tornaram brancos, e ela parece mais profunda do que a pele, é lepra que brotou na queimadura. O sacerdote declarará que a pessoa está impura; é a praga de lepra."
-    },
-    "26": {
-      "título": "",
-      "texto": "Porém, se o sacerdote a examinar, e não houver pelos brancos na mancha lustrosa, e ela não estiver mais profunda do que a pele, mas for de cor pálida, o sacerdote encerrará a pessoa por sete dias."
-    },
-    "27": {
-      "título": "",
-      "texto": "Depois, no sétimo dia, o sacerdote a examinará, e, se a mancha tiver se alastrado pela pele, o sacerdote declarará que a pessoa está impura; é praga de lepra."
-    },
-    "28": {
-      "título": "",
-      "texto": "Mas, se a mancha lustrosa parar no seu lugar e não se espalhar na pele, mas se tornou pálida, é inchação da queimadura; portanto, o sacerdote declarará que a pessoa está pura, porque é cicatriz da queimadura."
-    },
-    "29": {
-      "título": "",
-      "texto": "— Quando um homem ou uma mulher tiver praga na cabeça ou no queixo,"
-    },
-    "30": {
-      "título": "",
-      "texto": "o sacerdote examinará a praga. Se ela parece mais profunda do que a pele, e se nela houver pelos finos amarelados, o sacerdote declarará que a pessoa está impura; é micose, é lepra da cabeça ou do queixo."
-    },
-    "31": {
-      "título": "",
-      "texto": "Mas, se o sacerdote, havendo examinado a praga da micose, achar que ela não parece mais profunda do que a pele, e, se nela não houver pelos pretos, então o sacerdote encerrará a pessoa que tem a praga da micose por sete dias."
-    },
-    "32": {
-      "título": "",
-      "texto": "No sétimo dia, o sacerdote examinará a praga; se a micose não tiver se espalhado, e nela não houver pelos amarelos, e a micose não parecer mais profunda do que a pele,"
-    },
-    "33": {
-      "título": "",
-      "texto": "então a pessoa será rapada; mas não se rapará a micose. O sacerdote, por mais sete dias, encerrará a pessoa que tem a micose."
-    },
-    "34": {
-      "título": "",
-      "texto": "No sétimo dia, o sacerdote examinará a micose; se ela não tiver se alastrado pela pele e não parecer mais profunda do que a pele, o sacerdote declarará pura essa pessoa; ela lavará as suas roupas e estará pura."
-    },
-    "35": {
-      "título": "",
-      "texto": "Mas, se a micose, depois da sua purificação, tiver se espalhado muito na pele,"
-    },
-    "36": {
-      "título": "",
-      "texto": "então o sacerdote a examinará; se a micose tiver se espalhado na pele, o sacerdote não precisa procurar pelos amarelados; está impura."
-    },
-    "37": {
-      "título": "",
-      "texto": "Mas, se, na opinião do sacerdote, a micose parou, e pelos pretos cresceram nela, a micose está sarada; a pessoa está pura, e o sacerdote declarará que ela está pura."
-    },
-    "38": {
-      "título": "",
-      "texto": "— E, quando um homem ou uma mulher tiver manchas lustrosas na pele,"
-    },
-    "39": {
-      "título": "",
-      "texto": "então o sacerdote examinará a pessoa. Se na pele aparecerem manchas pálidas, brancas, é uma pequena ferida branca que brotou na pele; a pessoa está pura."
-    },
-    "40": {
-      "título": "",
-      "texto": "— Quando os cabelos do homem lhe caírem da cabeça, é calva; contudo, está puro."
-    },
-    "41": {
-      "título": "",
-      "texto": "Se lhe caírem na frente da cabeça, é antecalva; contudo, está puro."
-    },
-    "42": {
-      "título": "",
-      "texto": "Porém, se, na calva ou na antecalva, houver praga branca, que puxa para o vermelho, é lepra, brotando na calva ou na antecalva."
-    },
-    "43": {
-      "título": "",
-      "texto": "O sacerdote examinará o homem, e, se a inchação da praga, na sua calva ou antecalva, está branca, puxando para o vermelho, como parece a lepra na pele,"
-    },
-    "44": {
-      "título": "",
-      "texto": "aquele homem é leproso, está impuro; o sacerdote declarará que ele está impuro; a sua praga está na cabeça."
-    },
-    "45": {
-      "título": "",
-      "texto": "— As roupas do leproso, em quem está a praga, serão rasgadas, e os seus cabelos deixados sem pentear; com a mão sobre a boca, gritará: Impuro! Impuro!"
-    },
-    "46": {
-      "título": "",
-      "texto": "Será impuro durante os dias em que a praga estiver nele; está impuro, habitará só; a sua habitação será fora do arraial."
-    },
-    "47": {
-      "título": "Leis a respeito do mofo",
-      "texto": "— Quando também em alguma roupa houver praga de mofo, roupa de lã ou de linho,"
-    },
-    "48": {
-      "título": "",
-      "texto": "seja na urdidura, seja na trama, de linho ou de lã, em couro ou em qualquer objeto feito de couro,"
-    },
-    "49": {
-      "título": "",
-      "texto": "se a praga for esverdeada ou avermelhada na roupa, na pele, na urdidura ou na trama, em qualquer coisa feita de couro, é a praga de mofo, e deverá ser mostrada ao sacerdote."
-    },
-    "50": {
-      "título": "",
-      "texto": "O sacerdote examinará a praga e encerrará, por sete dias, aquilo que tem a praga."
-    },
-    "51": {
-      "título": "",
-      "texto": "Então, no sétimo dia, examinará a praga; se ela tiver se alastrado pela roupa, na urdidura ou na trama, seja no couro, seja qual for a obra em que se empregue, é mofo que se espalha; isso é impuro."
-    },
-    "52": {
-      "título": "",
-      "texto": "Ele queimará aquela roupa, seja a urdidura, seja a trama, de lã, de linho ou qualquer coisa feita de couro, em que se acha a praga, pois é mofo que se espalha; tudo deverá ser queimado."
-    },
-    "53": {
-      "título": "",
-      "texto": "— Mas, se o sacerdote examinar e a praga não tiver se espalhado na roupa, nem na urdidura, nem na trama, nem em qualquer coisa feita de couro,"
-    },
-    "54": {
-      "título": "",
-      "texto": "então o sacerdote ordenará que se lave aquilo em que havia a praga e o encerrará por mais sete dias."
-    },
-    "55": {
-      "título": "",
-      "texto": "O sacerdote, examinando a coisa em que havia praga, depois de lavada aquela, se a praga não mudou a sua cor, nem se espalhou, está impura; terá de ser queimada com fogo; é mofo que se espalha, seja no avesso ou no direito."
-    },
-    "56": {
-      "título": "",
-      "texto": "Mas, se o sacerdote examinar a mancha, e esta se tornou pálida depois de lavada, então rasgará aquela parte da roupa, do couro, da urdidura ou da trama."
-    },
-    "57": {
-      "título": "",
-      "texto": "Se a praga ainda aparecer na roupa, quer na urdidura, quer na trama, ou em qualquer coisa feita de couro, é mofo que se espalha; com fogo terá de ser queimado aquilo em que está a praga."
-    },
-    "58": {
-      "título": "",
-      "texto": "Mas a roupa, quer na urdidura, quer na trama, ou qualquer coisa feita de couro, que você lavar e de que a praga desaparecer, deve ser lavada mais uma vez e estará pura."
-    },
-    "59": {
-      "título": "",
-      "texto": "Esta é a lei a respeito da praga do mofo da roupa de lã ou de linho, quer na urdidura, quer na trama; ou de qualquer coisa feita de couro, para se poder declará-las puras ou impuras."
+    "versiculos": {
+        "1": "O Senhor disse a Moisés e a Arão:",
+        "2": "— Quando uma pessoa tiver na sua pele inchação, pústula ou mancha lustrosa, e isto se tornar na sua pele como praga de lepra, essa pessoa será levada a Arão, o sacerdote, ou a um de seus filhos, sacerdotes.",
+        "3": "O sacerdote examinará a praga na pele, e, se os pelos na praga se tornaram brancos e a praga parecer mais profunda do que a pele da sua carne, é praga de lepra; o sacerdote examinará a pessoa e a declarará impura.",
+        "4": "Se a mancha lustrosa na pele for branca e não parecer mais profunda do que a pele, e os pelos não se tornaram brancos, então o sacerdote encerrará por sete dias a pessoa que tem a praga.",
+        "5": "No sétimo dia, o sacerdote a examinará. Se, na opinião dele, a praga tiver parado e não se espalhou na pele daquela pessoa, então o sacerdote a encerrará por mais sete dias.",
+        "6": "No sétimo dia, o sacerdote a examinará outra vez. Se a lepra se tornou pálida e não se espalhou na pele, então o sacerdote a declarará pura; é apenas uma pústula. A pessoa lavará as suas roupas e estará pura.",
+        "7": "Mas, se a pústula se espalha muito na pele, depois que a pessoa se mostrou ao sacerdote para a sua purificação, terá de se mostrar outra vez ao sacerdote.",
+        "8": "Este a examinará, e se a pústula tiver se alastrado pela pele, o sacerdote declarará que a pessoa está impura; é lepra.",
+        "9": "— Quando uma pessoa tiver praga de lepra, será levada ao sacerdote.",
+        "10": "Este a examinará, e, se houver inchação branca na pele, a qual tornou brancos os pelos, e houver carne viva na inchação,",
+        "11": "é lepra crônica na pele; portanto, o sacerdote declarará que a pessoa está impura; não encerrará essa pessoa, porque está impura.",
+        "12": "Se a lepra se espalhar de todo na pele e cobrir a pele da pessoa que tem a lepra, desde a cabeça até os pés, quanto podem ver os olhos do sacerdote,",
+        "13": "então este a examinará. Se a lepra cobriu toda a carne, o sacerdote declarará que a pessoa que tem a mancha está pura; a lepra tornou-se branca; a pessoa está pura.",
+        "14": "Mas, no dia em que aparecer nela carne viva, será impura.",
+        "15": "Ao ver a carne viva, o sacerdote declarará que a pessoa está impura; a carne viva é impura; é lepra.",
+        "16": "Se a carne viva mudar e ficar de novo branca, então a pessoa virá ao sacerdote,",
+        "17": "e este a examinará. Se a lepra se tornou branca, então o sacerdote declarará que a pessoa que tem a praga está pura.",
+        "18": "— Quando sarar a carne em cuja pele houver uma úlcera,",
+        "19": "e no lugar da úlcera aparecer uma inchação branca ou mancha lustrosa, de um branco que puxa para o vermelho, a pessoa terá de se mostrar ao sacerdote.",
+        "20": "O sacerdote examinará a inchação, e, se ela parece mais profunda do que a pele, e os seus pelos se tornaram brancos, o sacerdote declarará que a pessoa está impura; é praga de lepra, que brotou da úlcera.",
+        "21": "Porém, se o sacerdote a examinar, e nela não houver pelos brancos, e ela não estiver mais profunda do que a pele, porém pálida, então o sacerdote encerrará essa pessoa por sete dias.",
+        "22": "Se a inchação se espalhar na pele, o sacerdote declarará que a pessoa está impura; é lepra.",
+        "23": "Mas, se a mancha lustrosa parar no seu lugar, não se espalhando, é cicatriz da úlcera; o sacerdote, pois, declarará que a pessoa está pura.",
+        "24": "— Quando, na pele, houver queimadura de fogo, e a carne viva da queimadura se tornar em mancha lustrosa, de um branco que puxa para o vermelho ou para o branco,",
+        "25": "o sacerdote a examinará. Se os pelos da mancha lustrosa se tornaram brancos, e ela parece mais profunda do que a pele, é lepra que brotou na queimadura. O sacerdote declarará que a pessoa está impura; é a praga de lepra.",
+        "26": "Porém, se o sacerdote a examinar, e não houver pelos brancos na mancha lustrosa, e ela não estiver mais profunda do que a pele, mas for de cor pálida, o sacerdote encerrará a pessoa por sete dias.",
+        "27": "Depois, no sétimo dia, o sacerdote a examinará, e, se a mancha tiver se alastrado pela pele, o sacerdote declarará que a pessoa está impura; é praga de lepra.",
+        "28": "Mas, se a mancha lustrosa parar no seu lugar e não se espalhar na pele, mas se tornou pálida, é inchação da queimadura; portanto, o sacerdote declarará que a pessoa está pura, porque é cicatriz da queimadura.",
+        "29": "— Quando um homem ou uma mulher tiver praga na cabeça ou no queixo,",
+        "30": "o sacerdote examinará a praga. Se ela parece mais profunda do que a pele, e se nela houver pelos finos amarelados, o sacerdote declarará que a pessoa está impura; é micose, é lepra da cabeça ou do queixo.",
+        "31": "Mas, se o sacerdote, havendo examinado a praga da micose, achar que ela não parece mais profunda do que a pele, e, se nela não houver pelos pretos, então o sacerdote encerrará a pessoa que tem a praga da micose por sete dias.",
+        "32": "No sétimo dia, o sacerdote examinará a praga; se a micose não tiver se espalhado, e nela não houver pelos amarelos, e a micose não parecer mais profunda do que a pele,",
+        "33": "então a pessoa será rapada; mas não se rapará a micose. O sacerdote, por mais sete dias, encerrará a pessoa que tem a micose.",
+        "34": "No sétimo dia, o sacerdote examinará a micose; se ela não tiver se alastrado pela pele e não parecer mais profunda do que a pele, o sacerdote declarará pura essa pessoa; ela lavará as suas roupas e estará pura.",
+        "35": "Mas, se a micose, depois da sua purificação, tiver se espalhado muito na pele,",
+        "36": "então o sacerdote a examinará; se a micose tiver se espalhado na pele, o sacerdote não precisa procurar pelos amarelados; está impura.",
+        "37": "Mas, se, na opinião do sacerdote, a micose parou, e pelos pretos cresceram nela, a micose está sarada; a pessoa está pura, e o sacerdote declarará que ela está pura.",
+        "38": "— E, quando um homem ou uma mulher tiver manchas lustrosas na pele,",
+        "39": "então o sacerdote examinará a pessoa. Se na pele aparecerem manchas pálidas, brancas, é uma pequena ferida branca que brotou na pele; a pessoa está pura.",
+        "40": "— Quando os cabelos do homem lhe caírem da cabeça, é calva; contudo, está puro.",
+        "41": "Se lhe caírem na frente da cabeça, é antecalva; contudo, está puro.",
+        "42": "Porém, se, na calva ou na antecalva, houver praga branca, que puxa para o vermelho, é lepra, brotando na calva ou na antecalva.",
+        "43": "O sacerdote examinará o homem, e, se a inchação da praga, na sua calva ou antecalva, está branca, puxando para o vermelho, como parece a lepra na pele,",
+        "44": "aquele homem é leproso, está impuro; o sacerdote declarará que ele está impuro; a sua praga está na cabeça.",
+        "45": "— As roupas do leproso, em quem está a praga, serão rasgadas, e os seus cabelos deixados sem pentear; com a mão sobre a boca, gritará: Impuro! Impuro!",
+        "46": "Será impuro durante os dias em que a praga estiver nele; está impuro, habitará só; a sua habitação será fora do arraial.",
+        "47": "— Quando também em alguma roupa houver praga de mofo, roupa de lã ou de linho,",
+        "48": "seja na urdidura, seja na trama, de linho ou de lã, em couro ou em qualquer objeto feito de couro,",
+        "49": "se a praga for esverdeada ou avermelhada na roupa, na pele, na urdidura ou na trama, em qualquer coisa feita de couro, é a praga de mofo, e deverá ser mostrada ao sacerdote.",
+        "50": "O sacerdote examinará a praga e encerrará, por sete dias, aquilo que tem a praga.",
+        "51": "Então, no sétimo dia, examinará a praga; se ela tiver se alastrado pela roupa, na urdidura ou na trama, seja no couro, seja qual for a obra em que se empregue, é mofo que se espalha; isso é impuro.",
+        "52": "Ele queimará aquela roupa, seja a urdidura, seja a trama, de lã, de linho ou qualquer coisa feita de couro, em que se acha a praga, pois é mofo que se espalha; tudo deverá ser queimado.",
+        "53": "— Mas, se o sacerdote examinar e a praga não tiver se espalhado na roupa, nem na urdidura, nem na trama, nem em qualquer coisa feita de couro,",
+        "54": "então o sacerdote ordenará que se lave aquilo em que havia a praga e o encerrará por mais sete dias.",
+        "55": "O sacerdote, examinando a coisa em que havia praga, depois de lavada aquela, se a praga não mudou a sua cor, nem se espalhou, está impura; terá de ser queimada com fogo; é mofo que se espalha, seja no avesso ou no direito.",
+        "56": "Mas, se o sacerdote examinar a mancha, e esta se tornou pálida depois de lavada, então rasgará aquela parte da roupa, do couro, da urdidura ou da trama.",
+        "57": "Se a praga ainda aparecer na roupa, quer na urdidura, quer na trama, ou em qualquer coisa feita de couro, é mofo que se espalha; com fogo terá de ser queimado aquilo em que está a praga.",
+        "58": "Mas a roupa, quer na urdidura, quer na trama, ou qualquer coisa feita de couro, que você lavar e de que a praga desaparecer, deve ser lavada mais uma vez e estará pura.",
+        "59": "Esta é a lei a respeito da praga do mofo da roupa de lã ou de linho, quer na urdidura, quer na trama; ou de qualquer coisa feita de couro, para se poder declará-las puras ou impuras."
     }
-  }
 }

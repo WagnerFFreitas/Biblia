@@ -1,62 +1,23 @@
 {
-  "livro": "Jeremias",
-  "capítulo": 21,
-  "versículos": {
-    "1": {
-      "título": "Jerusalém será destruída",
-      "texto": "Palavra que foi dita a Jeremias da parte do Senhor , quando o rei Zedequias lhe enviou Pasur, filho de Malquias, e o sacerdote Sofonias, filho de Maaseias:"
+    "livro": "Jeremias",
+    "capitulo": 21,
+    "titulos": {
+        "1": "Jerusalém será destruída"
     },
-    "2": {
-      "título": "",
-      "texto": "— Pergunte por nós ao Senhor , por que Nabucodonosor, rei da Babilônia, está fazendo guerra contra nós. Talvez o Senhor nos trate segundo todas as suas maravilhas e faça com que o rei se retire de nós."
-    },
-    "3": {
-      "título": "",
-      "texto": "Então Jeremias mandou que dissessem ao rei Zedequias:"
-    },
-    "4": {
-      "título": "",
-      "texto": "— Assim diz o Senhor , o Deus de Israel: “Eis que farei retroceder as armas de guerra que estão nas mãos de vocês e com as quais vocês estão lutando fora das muralhas contra o rei da Babilônia e contra os caldeus, que estão cercando a cidade. Essas armas, eu as ajuntarei no meio desta cidade."
-    },
-    "5": {
-      "título": "",
-      "texto": "Eu mesmo lutarei contra vocês com braço estendido e mão poderosa, com ira, com indignação e grande furor."
-    },
-    "6": {
-      "título": "",
-      "texto": "Matarei os habitantes desta cidade, tanto as pessoas como os animais; morrerão de uma grande peste."
-    },
-    "7": {
-      "título": "",
-      "texto": "Depois disso, diz o Senhor , entregarei Zedequias, rei de Judá, os seus servos e o povo — todos os moradores desta cidade que sobreviverem à peste, à espada e à fome — nas mãos de Nabucodonosor, rei da Babilônia, nas mãos de seus inimigos e nas mãos dos que procuram tirar-lhes a vida. Ele os matará a fio de espada; não os poupará, não se compadecerá, nem terá misericórdia.”"
-    },
-    "8": {
-      "título": "",
-      "texto": "— A este povo você dirá o seguinte: Assim diz o Senhor : “Eis que ponho diante de vocês o caminho da vida e o caminho da morte."
-    },
-    "9": {
-      "título": "",
-      "texto": "Quem ficar nesta cidade morrerá à espada, de fome ou de peste; mas quem sair e se render aos caldeus, que estão cercando a cidade, não morrerá; conseguirá ao menos salvar a sua vida."
-    },
-    "10": {
-      "título": "",
-      "texto": "Pois voltei o meu rosto contra esta cidade para trazer desgraça e não para fazer-lhe bem, diz o Senhor ; ela será entregue nas mãos do rei da Babilônia, e este a queimará.”"
-    },
-    "11": {
-      "título": "",
-      "texto": "— À casa do rei de Judá você dirá o seguinte: Escutem a palavra do Senhor !"
-    },
-    "12": {
-      "título": "",
-      "texto": "Ó casa de Davi, assim diz o Senhor :"
-    },
-    "13": {
-      "título": "",
-      "texto": "Eis que eu sou contra você,"
-    },
-    "14": {
-      "título": "",
-      "texto": "Eu os castigarei segundo"
+    "versiculos": {
+        "1": "Palavra que foi dita a Jeremias da parte do Senhor , quando o rei Zedequias lhe enviou Pasur, filho de Malquias, e o sacerdote Sofonias, filho de Maaseias:",
+        "2": "— Pergunte por nós ao Senhor , por que Nabucodonosor, rei da Babilônia, está fazendo guerra contra nós. Talvez o Senhor nos trate segundo todas as suas maravilhas e faça com que o rei se retire de nós.",
+        "3": "Então Jeremias mandou que dissessem ao rei Zedequias:",
+        "4": "— Assim diz o Senhor , o Deus de Israel: “Eis que farei retroceder as armas de guerra que estão nas mãos de vocês e com as quais vocês estão lutando fora das muralhas contra o rei da Babilônia e contra os caldeus, que estão cercando a cidade. Essas armas, eu as ajuntarei no meio desta cidade.",
+        "5": "Eu mesmo lutarei contra vocês com braço estendido e mão poderosa, com ira, com indignação e grande furor.",
+        "6": "Matarei os habitantes desta cidade, tanto as pessoas como os animais; morrerão de uma grande peste.",
+        "7": "Depois disso, diz o Senhor , entregarei Zedequias, rei de Judá, os seus servos e o povo — todos os moradores desta cidade que sobreviverem à peste, à espada e à fome — nas mãos de Nabucodonosor, rei da Babilônia, nas mãos de seus inimigos e nas mãos dos que procuram tirar-lhes a vida. Ele os matará a fio de espada; não os poupará, não se compadecerá, nem terá misericórdia.”",
+        "8": "— A este povo você dirá o seguinte: Assim diz o Senhor : “Eis que ponho diante de vocês o caminho da vida e o caminho da morte.",
+        "9": "Quem ficar nesta cidade morrerá à espada, de fome ou de peste; mas quem sair e se render aos caldeus, que estão cercando a cidade, não morrerá; conseguirá ao menos salvar a sua vida.",
+        "10": "Pois voltei o meu rosto contra esta cidade para trazer desgraça e não para fazer-lhe bem, diz o Senhor ; ela será entregue nas mãos do rei da Babilônia, e este a queimará.”",
+        "11": "— À casa do rei de Judá você dirá o seguinte: Escutem a palavra do Senhor !",
+        "12": "Ó casa de Davi, assim diz o Senhor :",
+        "13": "Eis que eu sou contra você,",
+        "14": "Eu os castigarei segundo"
     }
-  }
 }

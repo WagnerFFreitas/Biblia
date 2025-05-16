@@ -1,230 +1,70 @@
 {
-  "livro": "Marcos",
-  "capítulo": 6,
-  "versículos": {
-    "1": {
-      "título": "Jesus é rejeitado em Nazaré",
-      "texto": "Tendo saído dali, Jesus foi para a sua terra, e os seus discípulos o acompanharam."
+    "livro": "Marcos",
+    "capitulo": 6,
+    "titulos": {
+        "1": "Jesus é rejeitado em Nazaré",
+        "7": "As instruções para os doze",
+        "14": "A morte de João Batista",
+        "30": "A primeira multiplicação de pães e peixes",
+        "45": "Jesus anda sobre o mar",
+        "53": "Jesus cura em Genesaré"
     },
-    "2": {
-      "título": "",
-      "texto": "Chegando o sábado, começou a ensinar na sinagoga, e muitos, ouvindo-o, se maravilhavam, dizendo:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Não é este o carpinteiro, o filho de Maria e irmão de Tiago, José, Judas e Simão? As suas irmãs não vivem aqui entre nós?"
-    },
-    "4": {
-      "título": "",
-      "texto": "Jesus, porém, lhes disse:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Não pôde fazer ali nenhum milagre, a não ser curar uns poucos doentes, impondo-lhes as mãos."
-    },
-    "6": {
-      "título": "",
-      "texto": "E admirava-se da incredulidade deles."
-    },
-    "7": {
-      "título": "As instruções para os doze",
-      "texto": "Chamou os doze e passou a enviá-los de dois em dois, dando-lhes autoridade sobre os espíritos imundos."
-    },
-    "8": {
-      "título": "",
-      "texto": "Ordenou-lhes que não levassem nada para o caminho, exceto um bordão; nem pão, nem sacola, nem dinheiro;"
-    },
-    "9": {
-      "título": "",
-      "texto": "e que fossem calçados de sandálias e não usassem duas túnicas."
-    },
-    "10": {
-      "título": "",
-      "texto": "E recomendou-lhes:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Se em algum lugar não quiserem recebê-los nem ouvi-los, ao saírem dali sacudam o pó dos pés, em testemunho contra eles."
-    },
-    "12": {
-      "título": "",
-      "texto": "Então, saindo eles, pregavam ao povo que se arrependesse."
-    },
-    "13": {
-      "título": "",
-      "texto": "Expulsavam muitos demônios e curavam numerosos enfermos, ungindo-os com óleo."
-    },
-    "14": {
-      "título": "A morte de João Batista",
-      "texto": "Isto chegou aos ouvidos do rei Herodes, porque o nome de Jesus havia se tornado conhecido. E alguns diziam: “João Batista ressuscitou dentre os mortos e, por isso, forças miraculosas operam nele.”"
-    },
-    "15": {
-      "título": "",
-      "texto": "Outros diziam: “É Elias.” Ainda outros diziam: “É profeta como um dos antigos profetas.”"
-    },
-    "16": {
-      "título": "",
-      "texto": "Herodes, porém, ouvindo isto, disse:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Porque o próprio Herodes havia mandado prender João e amarrá-lo na prisão, por causa de Herodias, mulher do seu irmão Filipe, com a qual Herodes havia casado."
-    },
-    "18": {
-      "título": "",
-      "texto": "Pois João lhe dizia: “Você não tem o direito de viver com a mulher do seu irmão.”"
-    },
-    "19": {
-      "título": "",
-      "texto": "Herodias odiava João Batista e queria matá-lo, mas não conseguia fazer isso."
-    },
-    "20": {
-      "título": "",
-      "texto": "Porque Herodes temia João, sabendo que era homem justo e santo, e o mantinha em segurança. E, quando o ouvia, ficava perplexo, embora gostasse de escutá-lo."
-    },
-    "21": {
-      "título": "",
-      "texto": "Chegando uma ocasião favorável, em que Herodes, no dia do seu aniversário, deu um banquete às autoridades, aos oficiais militares e às pessoas importantes da Galileia,"
-    },
-    "22": {
-      "título": "",
-      "texto": "a filha de Herodias entrou no salão e, dançando, agradou a Herodes e aos seus convidados. Então o rei disse à jovem:"
-    },
-    "23": {
-      "título": "",
-      "texto": "E fez este juramento:"
-    },
-    "24": {
-      "título": "",
-      "texto": "Ela saiu e foi perguntar à mãe:"
-    },
-    "25": {
-      "título": "",
-      "texto": "No mesmo instante, voltando apressadamente para junto do rei, disse:"
-    },
-    "26": {
-      "título": "",
-      "texto": "O rei ficou muito triste, mas, por causa do juramento e dos que estavam com ele à mesa, não quis negar o pedido da jovem."
-    },
-    "27": {
-      "título": "",
-      "texto": "E, enviando logo o executor, mandou que lhe trouxessem a cabeça de João. Ele foi e o decapitou na prisão,"
-    },
-    "28": {
-      "título": "",
-      "texto": "e, trazendo a cabeça num prato, a entregou à jovem, e esta, por sua vez, a entregou à sua mãe."
-    },
-    "29": {
-      "título": "",
-      "texto": "Os discípulos de João, logo que souberam disto, vieram, levaram o corpo dele e o colocaram num túmulo."
-    },
-    "30": {
-      "título": "A primeira multiplicação de pães e peixes",
-      "texto": "Os apóstolos voltaram à presença de Jesus e lhe relataram tudo o que tinham feito e ensinado."
-    },
-    "31": {
-      "título": "",
-      "texto": "E ele lhes disse:"
-    },
-    "32": {
-      "título": "",
-      "texto": "Então foram de barco para um lugar deserto, à parte."
-    },
-    "33": {
-      "título": "",
-      "texto": "Muitos, porém, os viram sair e, reconhecendo-os, correram para lá, a pé, de todas as cidades, e chegaram antes deles."
-    },
-    "34": {
-      "título": "",
-      "texto": "Ao desembarcar, Jesus viu uma grande multidão e compadeceu-se dela, porque eram como ovelhas que não têm pastor. E começou a ensinar-lhes muitas coisas."
-    },
-    "35": {
-      "título": "",
-      "texto": "Como já era bastante tarde, os discípulos se aproximaram de Jesus e disseram:"
-    },
-    "36": {
-      "título": "",
-      "texto": "Mande essas pessoas embora, para que, indo pelos campos ao redor e pelas aldeias, comprem para si o que comer."
-    },
-    "37": {
-      "título": "",
-      "texto": "Jesus, porém, lhes disse:"
-    },
-    "38": {
-      "título": "",
-      "texto": "E Jesus lhes disse:"
-    },
-    "39": {
-      "título": "",
-      "texto": "Então Jesus lhes ordenou que todos se assentassem, em grupos, sobre a relva verde."
-    },
-    "40": {
-      "título": "",
-      "texto": "E eles o fizeram, repartindo-se em grupos de cem e de cinquenta."
-    },
-    "41": {
-      "título": "",
-      "texto": "Jesus, pegando os cinco pães e os dois peixes, erguendo os olhos para o céu, os abençoou. Depois partiu os pães e os deu aos seus discípulos para que os distribuíssem. E também repartiu os dois peixes entre todos."
-    },
-    "42": {
-      "título": "",
-      "texto": "Todos comeram e se fartaram,"
-    },
-    "43": {
-      "título": "",
-      "texto": "e ainda recolheram doze cestos cheios de pedaços de pão e de peixe."
-    },
-    "44": {
-      "título": "",
-      "texto": "Os que comeram os pães eram cinco mil homens."
-    },
-    "45": {
-      "título": "Jesus anda sobre o mar",
-      "texto": "Logo a seguir, Jesus fez com que os seus discípulos entrassem no barco e fossem adiante dele para o outro lado, para Betsaida, enquanto ele despedia a multidão."
-    },
-    "46": {
-      "título": "",
-      "texto": "E, tendo-os despedido, ele subiu ao monte para orar."
-    },
-    "47": {
-      "título": "",
-      "texto": "Ao cair da tarde, o barco estava no meio do mar, e Jesus estava sozinho em terra."
-    },
-    "48": {
-      "título": "",
-      "texto": "De madrugada, vendo que os discípulos remavam com dificuldade, porque o vento lhes era contrário, Jesus foi até onde eles estavam, andando sobre o mar; e queria passar adiante deles."
-    },
-    "49": {
-      "título": "",
-      "texto": "Eles, porém, vendo-o andar sobre o mar, pensaram tratar-se de um fantasma e gritaram."
-    },
-    "50": {
-      "título": "",
-      "texto": "Pois todos viram Jesus e ficaram apavorados. Mas Jesus imediatamente falou com eles e disse:"
-    },
-    "51": {
-      "título": "",
-      "texto": "Então subiu no barco para estar com eles, e o vento cessou. Ficaram totalmente perplexos,"
-    },
-    "52": {
-      "título": "",
-      "texto": "porque não haviam compreendido o milagre dos pães, pois o coração deles estava endurecido."
-    },
-    "53": {
-      "título": "Jesus cura em Genesaré",
-      "texto": "Estando já no outro lado, chegaram à terra de Genesaré, onde atracaram."
-    },
-    "54": {
-      "título": "",
-      "texto": "Saindo eles do barco, o povo logo reconheceu Jesus."
-    },
-    "55": {
-      "título": "",
-      "texto": "E eles, percorrendo toda aquela região, começaram a trazer em leitos os enfermos e os levavam para onde ouviam que ele estava."
-    },
-    "56": {
-      "título": "",
-      "texto": "Onde quer que ele entrasse, nas aldeias, cidades ou campos, punham os enfermos nas praças, pedindo-lhe que os deixasse tocar ao menos na borda da sua roupa. E todos os que tocavam nela ficavam curados."
+    "versiculos": {
+        "1": "Tendo saído dali, Jesus foi para a sua terra, e os seus discípulos o acompanharam.",
+        "2": "Chegando o sábado, começou a ensinar na sinagoga, e muitos, ouvindo-o, se maravilhavam, dizendo:",
+        "3": "Não é este o carpinteiro, o filho de Maria e irmão de Tiago, José, Judas e Simão? As suas irmãs não vivem aqui entre nós?",
+        "4": "Jesus, porém, lhes disse:",
+        "5": "Não pôde fazer ali nenhum milagre, a não ser curar uns poucos doentes, impondo-lhes as mãos.",
+        "6": "E admirava-se da incredulidade deles.",
+        "7": "Chamou os doze e passou a enviá-los de dois em dois, dando-lhes autoridade sobre os espíritos imundos.",
+        "8": "Ordenou-lhes que não levassem nada para o caminho, exceto um bordão; nem pão, nem sacola, nem dinheiro;",
+        "9": "e que fossem calçados de sandálias e não usassem duas túnicas.",
+        "10": "E recomendou-lhes:",
+        "11": "Se em algum lugar não quiserem recebê-los nem ouvi-los, ao saírem dali sacudam o pó dos pés, em testemunho contra eles.",
+        "12": "Então, saindo eles, pregavam ao povo que se arrependesse.",
+        "13": "Expulsavam muitos demônios e curavam numerosos enfermos, ungindo-os com óleo.",
+        "14": "Isto chegou aos ouvidos do rei Herodes, porque o nome de Jesus havia se tornado conhecido. E alguns diziam: “João Batista ressuscitou dentre os mortos e, por isso, forças miraculosas operam nele.”",
+        "15": "Outros diziam: “É Elias.” Ainda outros diziam: “É profeta como um dos antigos profetas.”",
+        "16": "Herodes, porém, ouvindo isto, disse:",
+        "17": "Porque o próprio Herodes havia mandado prender João e amarrá-lo na prisão, por causa de Herodias, mulher do seu irmão Filipe, com a qual Herodes havia casado.",
+        "18": "Pois João lhe dizia: “Você não tem o direito de viver com a mulher do seu irmão.”",
+        "19": "Herodias odiava João Batista e queria matá-lo, mas não conseguia fazer isso.",
+        "20": "Porque Herodes temia João, sabendo que era homem justo e santo, e o mantinha em segurança. E, quando o ouvia, ficava perplexo, embora gostasse de escutá-lo.",
+        "21": "Chegando uma ocasião favorável, em que Herodes, no dia do seu aniversário, deu um banquete às autoridades, aos oficiais militares e às pessoas importantes da Galileia,",
+        "22": "a filha de Herodias entrou no salão e, dançando, agradou a Herodes e aos seus convidados. Então o rei disse à jovem:",
+        "23": "E fez este juramento:",
+        "24": "Ela saiu e foi perguntar à mãe:",
+        "25": "No mesmo instante, voltando apressadamente para junto do rei, disse:",
+        "26": "O rei ficou muito triste, mas, por causa do juramento e dos que estavam com ele à mesa, não quis negar o pedido da jovem.",
+        "27": "E, enviando logo o executor, mandou que lhe trouxessem a cabeça de João. Ele foi e o decapitou na prisão,",
+        "28": "e, trazendo a cabeça num prato, a entregou à jovem, e esta, por sua vez, a entregou à sua mãe.",
+        "29": "Os discípulos de João, logo que souberam disto, vieram, levaram o corpo dele e o colocaram num túmulo.",
+        "30": "Os apóstolos voltaram à presença de Jesus e lhe relataram tudo o que tinham feito e ensinado.",
+        "31": "E ele lhes disse:",
+        "32": "Então foram de barco para um lugar deserto, à parte.",
+        "33": "Muitos, porém, os viram sair e, reconhecendo-os, correram para lá, a pé, de todas as cidades, e chegaram antes deles.",
+        "34": "Ao desembarcar, Jesus viu uma grande multidão e compadeceu-se dela, porque eram como ovelhas que não têm pastor. E começou a ensinar-lhes muitas coisas.",
+        "35": "Como já era bastante tarde, os discípulos se aproximaram de Jesus e disseram:",
+        "36": "Mande essas pessoas embora, para que, indo pelos campos ao redor e pelas aldeias, comprem para si o que comer.",
+        "37": "Jesus, porém, lhes disse:",
+        "38": "E Jesus lhes disse:",
+        "39": "Então Jesus lhes ordenou que todos se assentassem, em grupos, sobre a relva verde.",
+        "40": "E eles o fizeram, repartindo-se em grupos de cem e de cinquenta.",
+        "41": "Jesus, pegando os cinco pães e os dois peixes, erguendo os olhos para o céu, os abençoou. Depois partiu os pães e os deu aos seus discípulos para que os distribuíssem. E também repartiu os dois peixes entre todos.",
+        "42": "Todos comeram e se fartaram,",
+        "43": "e ainda recolheram doze cestos cheios de pedaços de pão e de peixe.",
+        "44": "Os que comeram os pães eram cinco mil homens.",
+        "45": "Logo a seguir, Jesus fez com que os seus discípulos entrassem no barco e fossem adiante dele para o outro lado, para Betsaida, enquanto ele despedia a multidão.",
+        "46": "E, tendo-os despedido, ele subiu ao monte para orar.",
+        "47": "Ao cair da tarde, o barco estava no meio do mar, e Jesus estava sozinho em terra.",
+        "48": "De madrugada, vendo que os discípulos remavam com dificuldade, porque o vento lhes era contrário, Jesus foi até onde eles estavam, andando sobre o mar; e queria passar adiante deles.",
+        "49": "Eles, porém, vendo-o andar sobre o mar, pensaram tratar-se de um fantasma e gritaram.",
+        "50": "Pois todos viram Jesus e ficaram apavorados. Mas Jesus imediatamente falou com eles e disse:",
+        "51": "Então subiu no barco para estar com eles, e o vento cessou. Ficaram totalmente perplexos,",
+        "52": "porque não haviam compreendido o milagre dos pães, pois o coração deles estava endurecido.",
+        "53": "Estando já no outro lado, chegaram à terra de Genesaré, onde atracaram.",
+        "54": "Saindo eles do barco, o povo logo reconheceu Jesus.",
+        "55": "E eles, percorrendo toda aquela região, começaram a trazer em leitos os enfermos e os levavam para onde ouviam que ele estava.",
+        "56": "Onde quer que ele entrasse, nas aldeias, cidades ou campos, punham os enfermos nas praças, pedindo-lhe que os deixasse tocar ao menos na borda da sua roupa. E todos os que tocavam nela ficavam curados."
     }
-  }
 }

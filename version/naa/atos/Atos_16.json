@@ -1,166 +1,55 @@
 {
-  "livro": "Atos",
-  "capítulo": 16,
-  "versículos": {
-    "1": {
-      "título": "Paulo leva Timóteo consigo",
-      "texto": "Paulo chegou também a Derbe e a Listra. Havia ali um discípulo chamado Timóteo, filho de uma judia crente, mas de pai grego."
+    "livro": "Atos",
+    "capitulo": 16,
+    "titulos": {
+        "1": "Paulo leva Timóteo consigo",
+        "6": "A visão em Trôade",
+        "11": "Paulo em Filipos. A conversão de Lídia",
+        "16": "A cura de uma jovem adivinhadora",
+        "19": "Paulo e Silas são açoitados e presos",
+        "27": "A conversão do carcereiro",
+        "35": "Paulo e Silas livres da prisão"
     },
-    "2": {
-      "título": "",
-      "texto": "Os irmãos em Listra e Icônio davam bom testemunho dele."
-    },
-    "3": {
-      "título": "",
-      "texto": "Paulo queria que Timóteo fosse em sua companhia e, por isso, circuncidou-o por causa dos judeus daqueles lugares; pois todos sabiam que o pai dele era grego."
-    },
-    "4": {
-      "título": "",
-      "texto": "Ao passar pelas cidades, entregavam aos irmãos as decisões tomadas pelos apóstolos e presbíteros de Jerusalém, para que as observassem."
-    },
-    "5": {
-      "título": "",
-      "texto": "Assim, as igrejas eram fortalecidas na fé e, dia a dia, aumentavam em número."
-    },
-    "6": {
-      "título": "A visão em Trôade",
-      "texto": "E percorreram a região frígio-gálata, tendo sido impedidos pelo Espírito Santo de pregar a palavra na província da Ásia."
-    },
-    "7": {
-      "título": "",
-      "texto": "Chegando perto de Mísia, tentaram ir para Bitínia, mas o Espírito de Jesus não o permitiu."
-    },
-    "8": {
-      "título": "",
-      "texto": "E, tendo contornado Mísia, foram a Trôade."
-    },
-    "9": {
-      "título": "",
-      "texto": "À noite, Paulo teve uma visão na qual um homem da Macedônia estava em pé e lhe rogava, dizendo:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Assim que Paulo teve a visão, imediatamente procuramos partir para aquele destino, concluindo que Deus nos havia chamado para lhes anunciar o evangelho."
-    },
-    "11": {
-      "título": "Paulo em Filipos. A conversão de Lídia",
-      "texto": "Tendo, pois, navegado de Trôade, fomos diretamente para Samotrácia e, no dia seguinte, a Neápolis."
-    },
-    "12": {
-      "título": "",
-      "texto": "Dali fomos a Filipos, cidade da Macedônia, primeira do distrito e colônia romana. Nesta cidade, permanecemos alguns dias."
-    },
-    "13": {
-      "título": "",
-      "texto": "No sábado, saímos da cidade para a beira do rio, onde nos pareceu haver um lugar de oração; e, assentando-nos, falamos às mulheres que haviam se reunido ali."
-    },
-    "14": {
-      "título": "",
-      "texto": "Certa mulher, chamada Lídia, da cidade de Tiatira, vendedora de púrpura, temente a Deus, nos escutava; o Senhor lhe abriu o coração para que estivesse atenta ao que Paulo dizia."
-    },
-    "15": {
-      "título": "",
-      "texto": "Depois de ser batizada, ela e toda a sua casa, nos fez este pedido:"
-    },
-    "16": {
-      "título": "A cura de uma jovem adivinhadora",
-      "texto": "Aconteceu que, indo nós para o lugar de oração, veio ao nosso encontro uma jovem possuída de espírito adivinhador, a qual, adivinhando, dava grande lucro aos seus donos."
-    },
-    "17": {
-      "título": "",
-      "texto": "Seguindo a Paulo e a nós, gritava, dizendo:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Isto se repetiu por muitos dias. Então Paulo, já indignado, voltando-se, disse ao espírito:"
-    },
-    "19": {
-      "título": "Paulo e Silas são açoitados e presos",
-      "texto": "Quando os donos da jovem viram que se havia desfeito a esperança do lucro, agarraram Paulo e Silas e os arrastaram para a praça, à presença das autoridades."
-    },
-    "20": {
-      "título": "",
-      "texto": "E, levando-os aos magistrados, disseram:"
-    },
-    "21": {
-      "título": "",
-      "texto": "propagando costumes que não podemos aceitar, nem praticar, porque somos romanos."
-    },
-    "22": {
-      "título": "",
-      "texto": "Então a multidão se levantou unida contra eles, e os magistrados, rasgando-lhes as roupas, mandaram açoitá-los com varas."
-    },
-    "23": {
-      "título": "",
-      "texto": "E, depois de lhes darem muitos açoites, os lançaram na prisão, ordenando ao carcereiro que os guardasse com toda a segurança."
-    },
-    "24": {
-      "título": "",
-      "texto": "Este, recebendo tal ordem, levou-os para o cárcere interior e prendeu os pés deles no tronco."
-    },
-    "25": {
-      "título": "",
-      "texto": "Por volta da meia-noite, Paulo e Silas oravam e cantavam louvores a Deus, e os demais companheiros de prisão escutavam."
-    },
-    "26": {
-      "título": "",
-      "texto": "De repente, sobreveio tamanho terremoto, que sacudiu os alicerces da prisão; todas as portas se abriram e as correntes de todos os presos se soltaram."
-    },
-    "27": {
-      "título": "A conversão do carcereiro",
-      "texto": "O carcereiro despertou do sono e, vendo abertas as portas da prisão, puxando da espada, ia suicidar-se, pois pensou que os presos tinham fugido."
-    },
-    "28": {
-      "título": "",
-      "texto": "Mas Paulo gritou bem alto:"
-    },
-    "29": {
-      "título": "",
-      "texto": "Então o carcereiro, tendo pedido uma luz, entrou correndo e, trêmulo, prostrou-se diante de Paulo e Silas."
-    },
-    "30": {
-      "título": "",
-      "texto": "Depois, trazendo-os para fora, disse:"
-    },
-    "31": {
-      "título": "",
-      "texto": "Eles responderam:"
-    },
-    "32": {
-      "título": "",
-      "texto": "E pregaram a palavra de Deus ao carcereiro e a todos os que faziam parte da casa dele."
-    },
-    "33": {
-      "título": "",
-      "texto": "Naquela mesma hora da noite, cuidando deles, lavou-lhes as feridas dos açoites. Logo a seguir, ele e todos os membros da casa dele foram batizados."
-    },
-    "34": {
-      "título": "",
-      "texto": "Então, levando-os para a sua própria casa, deu-lhes de comer; e, com todos os seus, manifestava grande alegria por ter crido em Deus."
-    },
-    "35": {
-      "título": "Paulo e Silas livres da prisão",
-      "texto": "Quando amanheceu, os magistrados enviaram oficiais de justiça, com a seguinte ordem para o carcereiro:"
-    },
-    "36": {
-      "título": "",
-      "texto": "Então o carcereiro comunicou isso a Paulo, dizendo:"
-    },
-    "37": {
-      "título": "",
-      "texto": "Paulo, porém, lhes disse:"
-    },
-    "38": {
-      "título": "",
-      "texto": "Os oficiais de justiça comunicaram isso aos magistrados. Quando estes souberam que Paulo e Silas eram cidadãos romanos, ficaram com medo."
-    },
-    "39": {
-      "título": "",
-      "texto": "Então foram até eles e lhes pediram desculpas; e, relaxando-lhes a prisão, pediram que se retirassem da cidade."
-    },
-    "40": {
-      "título": "",
-      "texto": "Tendo saído da prisão, Paulo e Silas dirigiram-se para a casa de Lídia e, vendo os irmãos, os animaram. Depois partiram."
+    "versiculos": {
+        "1": "Paulo chegou também a Derbe e a Listra. Havia ali um discípulo chamado Timóteo, filho de uma judia crente, mas de pai grego.",
+        "2": "Os irmãos em Listra e Icônio davam bom testemunho dele.",
+        "3": "Paulo queria que Timóteo fosse em sua companhia e, por isso, circuncidou-o por causa dos judeus daqueles lugares; pois todos sabiam que o pai dele era grego.",
+        "4": "Ao passar pelas cidades, entregavam aos irmãos as decisões tomadas pelos apóstolos e presbíteros de Jerusalém, para que as observassem.",
+        "5": "Assim, as igrejas eram fortalecidas na fé e, dia a dia, aumentavam em número.",
+        "6": "E percorreram a região frígio-gálata, tendo sido impedidos pelo Espírito Santo de pregar a palavra na província da Ásia.",
+        "7": "Chegando perto de Mísia, tentaram ir para Bitínia, mas o Espírito de Jesus não o permitiu.",
+        "8": "E, tendo contornado Mísia, foram a Trôade.",
+        "9": "À noite, Paulo teve uma visão na qual um homem da Macedônia estava em pé e lhe rogava, dizendo:",
+        "10": "Assim que Paulo teve a visão, imediatamente procuramos partir para aquele destino, concluindo que Deus nos havia chamado para lhes anunciar o evangelho.",
+        "11": "Tendo, pois, navegado de Trôade, fomos diretamente para Samotrácia e, no dia seguinte, a Neápolis.",
+        "12": "Dali fomos a Filipos, cidade da Macedônia, primeira do distrito e colônia romana. Nesta cidade, permanecemos alguns dias.",
+        "13": "No sábado, saímos da cidade para a beira do rio, onde nos pareceu haver um lugar de oração; e, assentando-nos, falamos às mulheres que haviam se reunido ali.",
+        "14": "Certa mulher, chamada Lídia, da cidade de Tiatira, vendedora de púrpura, temente a Deus, nos escutava; o Senhor lhe abriu o coração para que estivesse atenta ao que Paulo dizia.",
+        "15": "Depois de ser batizada, ela e toda a sua casa, nos fez este pedido:",
+        "16": "Aconteceu que, indo nós para o lugar de oração, veio ao nosso encontro uma jovem possuída de espírito adivinhador, a qual, adivinhando, dava grande lucro aos seus donos.",
+        "17": "Seguindo a Paulo e a nós, gritava, dizendo:",
+        "18": "Isto se repetiu por muitos dias. Então Paulo, já indignado, voltando-se, disse ao espírito:",
+        "19": "Quando os donos da jovem viram que se havia desfeito a esperança do lucro, agarraram Paulo e Silas e os arrastaram para a praça, à presença das autoridades.",
+        "20": "E, levando-os aos magistrados, disseram:",
+        "21": "propagando costumes que não podemos aceitar, nem praticar, porque somos romanos.",
+        "22": "Então a multidão se levantou unida contra eles, e os magistrados, rasgando-lhes as roupas, mandaram açoitá-los com varas.",
+        "23": "E, depois de lhes darem muitos açoites, os lançaram na prisão, ordenando ao carcereiro que os guardasse com toda a segurança.",
+        "24": "Este, recebendo tal ordem, levou-os para o cárcere interior e prendeu os pés deles no tronco.",
+        "25": "Por volta da meia-noite, Paulo e Silas oravam e cantavam louvores a Deus, e os demais companheiros de prisão escutavam.",
+        "26": "De repente, sobreveio tamanho terremoto, que sacudiu os alicerces da prisão; todas as portas se abriram e as correntes de todos os presos se soltaram.",
+        "27": "O carcereiro despertou do sono e, vendo abertas as portas da prisão, puxando da espada, ia suicidar-se, pois pensou que os presos tinham fugido.",
+        "28": "Mas Paulo gritou bem alto:",
+        "29": "Então o carcereiro, tendo pedido uma luz, entrou correndo e, trêmulo, prostrou-se diante de Paulo e Silas.",
+        "30": "Depois, trazendo-os para fora, disse:",
+        "31": "Eles responderam:",
+        "32": "E pregaram a palavra de Deus ao carcereiro e a todos os que faziam parte da casa dele.",
+        "33": "Naquela mesma hora da noite, cuidando deles, lavou-lhes as feridas dos açoites. Logo a seguir, ele e todos os membros da casa dele foram batizados.",
+        "34": "Então, levando-os para a sua própria casa, deu-lhes de comer; e, com todos os seus, manifestava grande alegria por ter crido em Deus.",
+        "35": "Quando amanheceu, os magistrados enviaram oficiais de justiça, com a seguinte ordem para o carcereiro:",
+        "36": "Então o carcereiro comunicou isso a Paulo, dizendo:",
+        "37": "Paulo, porém, lhes disse:",
+        "38": "Os oficiais de justiça comunicaram isso aos magistrados. Quando estes souberam que Paulo e Silas eram cidadãos romanos, ficaram com medo.",
+        "39": "Então foram até eles e lhes pediram desculpas; e, relaxando-lhes a prisão, pediram que se retirassem da cidade.",
+        "40": "Tendo saído da prisão, Paulo e Silas dirigiram-se para a casa de Lídia e, vendo os irmãos, os animaram. Depois partiram."
     }
-  }
 }

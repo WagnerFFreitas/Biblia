@@ -1,130 +1,41 @@
 {
-  "livro": "João",
-  "capítulo": 14,
-  "versículos": {
-    "1": {
-      "título": "Jesus, o caminho para o Pai",
-      "texto": "— Que o coração de vocês não fique angustiado; vocês creem em Deus, creiam também em mim."
+    "livro": "João",
+    "capitulo": 14,
+    "titulos": {
+        "1": "Jesus, o caminho para o Pai",
+        "15": "Jesus promete o Espírito Santo"
     },
-    "2": {
-      "título": "",
-      "texto": "Na casa de meu Pai há muitas moradas. Se não fosse assim, eu já lhes teria dito. Pois vou preparar um lugar para vocês."
-    },
-    "3": {
-      "título": "",
-      "texto": "E, quando eu for e preparar um lugar, voltarei e os receberei para mim mesmo, para que, onde eu estou, vocês estejam também."
-    },
-    "4": {
-      "título": "",
-      "texto": "E vocês conhecem o caminho para onde eu vou."
-    },
-    "5": {
-      "título": "",
-      "texto": "Então Tomé disse a Jesus:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Se vocês me conheceram, conhecerão também o meu Pai. E desde agora vocês o conhecem e têm visto."
-    },
-    "8": {
-      "título": "",
-      "texto": "Filipe disse a Jesus:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Você não crê que eu estou no Pai e que o Pai está em mim? As palavras que eu digo a vocês não as digo por mim mesmo, mas o Pai, que permanece em mim, faz as suas obras."
-    },
-    "11": {
-      "título": "",
-      "texto": "Creiam que eu estou no Pai e que o Pai está em mim; creiam ao menos por causa das mesmas obras."
-    },
-    "12": {
-      "título": "",
-      "texto": "Em verdade, em verdade lhes digo que aquele que crê em mim fará também as obras que eu faço e outras maiores fará, porque eu vou para junto do Pai."
-    },
-    "13": {
-      "título": "",
-      "texto": "E tudo o que vocês pedirem em meu nome, isso farei, a fim de que o Pai seja glorificado no Filho."
-    },
-    "14": {
-      "título": "",
-      "texto": "Se me pedirem alguma coisa em meu nome, eu o farei."
-    },
-    "15": {
-      "título": "Jesus promete o Espírito Santo",
-      "texto": "— Se vocês me amam, guardarão os meus mandamentos."
-    },
-    "16": {
-      "título": "",
-      "texto": "E eu pedirei ao Pai, e ele lhes dará outro Consolador, a fim de que esteja com vocês para sempre:"
-    },
-    "17": {
-      "título": "",
-      "texto": "é o Espírito da verdade, que o mundo não pode receber, porque não o vê, nem o conhece. Vocês o conhecem, porque ele habita com vocês e estará em vocês."
-    },
-    "18": {
-      "título": "",
-      "texto": "— Não deixarei que fiquem órfãos; voltarei para junto de vocês."
-    },
-    "19": {
-      "título": "",
-      "texto": "Mais um pouco e o mundo não me verá mais; vocês, no entanto, me verão. Porque eu vivo, vocês também viverão."
-    },
-    "20": {
-      "título": "",
-      "texto": "Naquele dia vocês saberão que eu estou em meu Pai, que vocês estão em mim e que eu estou em vocês."
-    },
-    "21": {
-      "título": "",
-      "texto": "Aquele que tem os meus mandamentos e os guarda, esse é o que me ama; e aquele que me ama será amado por meu Pai, e eu também o amarei e me manifestarei a ele."
-    },
-    "22": {
-      "título": "",
-      "texto": "Então Judas, não o Iscariotes, disse a Jesus:"
-    },
-    "23": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "24": {
-      "título": "",
-      "texto": "Quem não me ama não guarda as minhas palavras. E a palavra que vocês estão ouvindo não é minha, mas do Pai, que me enviou."
-    },
-    "25": {
-      "título": "",
-      "texto": "— Tenho dito isso enquanto ainda estou com vocês."
-    },
-    "26": {
-      "título": "",
-      "texto": "Mas o Consolador, o Espírito Santo, que o Pai enviará em meu nome, esse ensinará a vocês todas as coisas e fará com que se lembrem de tudo o que eu lhes disse."
-    },
-    "27": {
-      "título": "",
-      "texto": "Deixo com vocês a paz, a minha paz lhes dou; não lhes dou a paz como o mundo a dá. Que o coração de vocês não fique angustiado nem com medo."
-    },
-    "28": {
-      "título": "",
-      "texto": "Vocês ouviram que eu disse: “Vou e volto para junto de vocês.” Se vocês me amassem, ficariam alegres com a minha ida para o Pai, porque o Pai é maior do que eu."
-    },
-    "29": {
-      "título": "",
-      "texto": "Isso eu falei agora, antes que aconteça, para que, quando acontecer, vocês creiam."
-    },
-    "30": {
-      "título": "",
-      "texto": "Já não falarei muito com vocês, porque aí vem o príncipe do mundo, e ele não tem poder sobre mim."
-    },
-    "31": {
-      "título": "",
-      "texto": "No entanto, faço isso para que o mundo saiba que eu amo o Pai e que faço como o Pai me ordenou."
+    "versiculos": {
+        "1": "— Que o coração de vocês não fique angustiado; vocês creem em Deus, creiam também em mim.",
+        "2": "Na casa de meu Pai há muitas moradas. Se não fosse assim, eu já lhes teria dito. Pois vou preparar um lugar para vocês.",
+        "3": "E, quando eu for e preparar um lugar, voltarei e os receberei para mim mesmo, para que, onde eu estou, vocês estejam também.",
+        "4": "E vocês conhecem o caminho para onde eu vou.",
+        "5": "Então Tomé disse a Jesus:",
+        "6": "Jesus respondeu:",
+        "7": "Se vocês me conheceram, conhecerão também o meu Pai. E desde agora vocês o conhecem e têm visto.",
+        "8": "Filipe disse a Jesus:",
+        "9": "Jesus respondeu:",
+        "10": "Você não crê que eu estou no Pai e que o Pai está em mim? As palavras que eu digo a vocês não as digo por mim mesmo, mas o Pai, que permanece em mim, faz as suas obras.",
+        "11": "Creiam que eu estou no Pai e que o Pai está em mim; creiam ao menos por causa das mesmas obras.",
+        "12": "Em verdade, em verdade lhes digo que aquele que crê em mim fará também as obras que eu faço e outras maiores fará, porque eu vou para junto do Pai.",
+        "13": "E tudo o que vocês pedirem em meu nome, isso farei, a fim de que o Pai seja glorificado no Filho.",
+        "14": "Se me pedirem alguma coisa em meu nome, eu o farei.",
+        "15": "— Se vocês me amam, guardarão os meus mandamentos.",
+        "16": "E eu pedirei ao Pai, e ele lhes dará outro Consolador, a fim de que esteja com vocês para sempre:",
+        "17": "é o Espírito da verdade, que o mundo não pode receber, porque não o vê, nem o conhece. Vocês o conhecem, porque ele habita com vocês e estará em vocês.",
+        "18": "— Não deixarei que fiquem órfãos; voltarei para junto de vocês.",
+        "19": "Mais um pouco e o mundo não me verá mais; vocês, no entanto, me verão. Porque eu vivo, vocês também viverão.",
+        "20": "Naquele dia vocês saberão que eu estou em meu Pai, que vocês estão em mim e que eu estou em vocês.",
+        "21": "Aquele que tem os meus mandamentos e os guarda, esse é o que me ama; e aquele que me ama será amado por meu Pai, e eu também o amarei e me manifestarei a ele.",
+        "22": "Então Judas, não o Iscariotes, disse a Jesus:",
+        "23": "Jesus respondeu:",
+        "24": "Quem não me ama não guarda as minhas palavras. E a palavra que vocês estão ouvindo não é minha, mas do Pai, que me enviou.",
+        "25": "— Tenho dito isso enquanto ainda estou com vocês.",
+        "26": "Mas o Consolador, o Espírito Santo, que o Pai enviará em meu nome, esse ensinará a vocês todas as coisas e fará com que se lembrem de tudo o que eu lhes disse.",
+        "27": "Deixo com vocês a paz, a minha paz lhes dou; não lhes dou a paz como o mundo a dá. Que o coração de vocês não fique angustiado nem com medo.",
+        "28": "Vocês ouviram que eu disse: “Vou e volto para junto de vocês.” Se vocês me amassem, ficariam alegres com a minha ida para o Pai, porque o Pai é maior do que eu.",
+        "29": "Isso eu falei agora, antes que aconteça, para que, quando acontecer, vocês creiam.",
+        "30": "Já não falarei muito com vocês, porque aí vem o príncipe do mundo, e ele não tem poder sobre mim.",
+        "31": "No entanto, faço isso para que o mundo saiba que eu amo o Pai e que faço como o Pai me ordenou."
     }
-  }
 }

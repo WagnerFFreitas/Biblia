@@ -1,94 +1,31 @@
 {
-  "livro": "Êxodo",
-  "capítulo": 3,
-  "versículos": {
-    "1": {
-      "título": "Deus fala com Moisés",
-      "texto": "Moisés apascentava o rebanho de Jetro, o seu sogro, sacerdote de Midiã. E, levando o rebanho para o lado oeste do deserto, chegou a Horebe, o monte de Deus."
+    "livro": "Êxodo",
+    "capitulo": 3,
+    "titulos": {
+        "1": "Deus fala com Moisés"
     },
-    "2": {
-      "título": "",
-      "texto": "Ali o Anjo do Senhor lhe apareceu numa chama de fogo, no meio de uma sarça. Moisés olhou, e eis que a sarça estava em chamas, mas não se consumia."
-    },
-    "3": {
-      "título": "",
-      "texto": "Então disse consigo mesmo:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Quando o Senhor viu que ele se aproximava para ver, Deus, do meio da sarça, o chamou e disse:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Deus continuou:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Disse mais:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Então o Senhor continuou:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Por isso desci a fim de livrá-lo das mãos dos egípcios e para fazê-lo sair daquela terra e levá-lo para uma terra boa e ampla, terra que mana leite e mel; o lugar do cananeu, do heteu, do amorreu, do ferezeu, do heveu e do jebuseu."
-    },
-    "9": {
-      "título": "",
-      "texto": "Pois o clamor dos filhos de Israel chegou até mim, e também vejo a opressão com que os egípcios os estão oprimindo."
-    },
-    "10": {
-      "título": "",
-      "texto": "Agora venha, e eu o enviarei a Faraó, para que você tire do Egito o meu povo, os filhos de Israel."
-    },
-    "11": {
-      "título": "",
-      "texto": "Então Moisés perguntou a Deus:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Deus respondeu:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Moisés disse para Deus:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Deus disse a Moisés:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Deus disse ainda mais a Moisés:"
-    },
-    "16": {
-      "título": "",
-      "texto": "— Vá, reúna os anciãos de Israel e diga-lhes: “O Senhor , o Deus dos seus pais, o Deus de Abraão, o Deus de Isaque e o Deus de Jacó, me apareceu, dizendo: ‘Em verdade eu os tenho visitado e visto o que tem sido feito com vocês no Egito."
-    },
-    "17": {
-      "título": "",
-      "texto": "E prometi tirá-los da aflição do Egito e levá-los para a terra do cananeu, do heteu, do amorreu, do ferezeu, do heveu e do jebuseu, para uma terra que mana leite e mel.’”"
-    },
-    "18": {
-      "título": "",
-      "texto": "E ouvirão o que você vai dizer. E você irá, com os anciãos de Israel, ao rei do Egito e lhe dirá: “O Senhor , o Deus dos hebreus, veio ao nosso encontro. Agora deixe-nos ir caminho de três dias ao deserto, a fim de oferecer sacrifícios ao Senhor , nosso Deus.”"
-    },
-    "19": {
-      "título": "",
-      "texto": "Eu sei, porém, que o rei do Egito não os deixará ir se não for obrigado por mão forte."
-    },
-    "20": {
-      "título": "",
-      "texto": "Portanto, estenderei a mão e ferirei o Egito com todos os meus prodígios que farei no meio dele. Depois disso, o rei os deixará ir."
-    },
-    "21": {
-      "título": "",
-      "texto": "— Eu farei com que este povo encontre favor diante dos egípcios; e, quando vocês saírem, não será de mãos vazias."
-    },
-    "22": {
-      "título": "",
-      "texto": "Cada mulher pedirá à sua vizinha e à mulher que estiver hospedada em sua casa objetos de prata, objetos de ouro e roupas, que vocês porão sobre os seus filhos e sobre as suas filhas. E assim vocês despojarão os egípcios."
+    "versiculos": {
+        "1": "Moisés apascentava o rebanho de Jetro, o seu sogro, sacerdote de Midiã. E, levando o rebanho para o lado oeste do deserto, chegou a Horebe, o monte de Deus.",
+        "2": "Ali o Anjo do Senhor lhe apareceu numa chama de fogo, no meio de uma sarça. Moisés olhou, e eis que a sarça estava em chamas, mas não se consumia.",
+        "3": "Então disse consigo mesmo:",
+        "4": "Quando o Senhor viu que ele se aproximava para ver, Deus, do meio da sarça, o chamou e disse:",
+        "5": "Deus continuou:",
+        "6": "Disse mais:",
+        "7": "Então o Senhor continuou:",
+        "8": "Por isso desci a fim de livrá-lo das mãos dos egípcios e para fazê-lo sair daquela terra e levá-lo para uma terra boa e ampla, terra que mana leite e mel; o lugar do cananeu, do heteu, do amorreu, do ferezeu, do heveu e do jebuseu.",
+        "9": "Pois o clamor dos filhos de Israel chegou até mim, e também vejo a opressão com que os egípcios os estão oprimindo.",
+        "10": "Agora venha, e eu o enviarei a Faraó, para que você tire do Egito o meu povo, os filhos de Israel.",
+        "11": "Então Moisés perguntou a Deus:",
+        "12": "Deus respondeu:",
+        "13": "Moisés disse para Deus:",
+        "14": "Deus disse a Moisés:",
+        "15": "Deus disse ainda mais a Moisés:",
+        "16": "— Vá, reúna os anciãos de Israel e diga-lhes: “O Senhor , o Deus dos seus pais, o Deus de Abraão, o Deus de Isaque e o Deus de Jacó, me apareceu, dizendo: ‘Em verdade eu os tenho visitado e visto o que tem sido feito com vocês no Egito.",
+        "17": "E prometi tirá-los da aflição do Egito e levá-los para a terra do cananeu, do heteu, do amorreu, do ferezeu, do heveu e do jebuseu, para uma terra que mana leite e mel.’”",
+        "18": "E ouvirão o que você vai dizer. E você irá, com os anciãos de Israel, ao rei do Egito e lhe dirá: “O Senhor , o Deus dos hebreus, veio ao nosso encontro. Agora deixe-nos ir caminho de três dias ao deserto, a fim de oferecer sacrifícios ao Senhor , nosso Deus.”",
+        "19": "Eu sei, porém, que o rei do Egito não os deixará ir se não for obrigado por mão forte.",
+        "20": "Portanto, estenderei a mão e ferirei o Egito com todos os meus prodígios que farei no meio dele. Depois disso, o rei os deixará ir.",
+        "21": "— Eu farei com que este povo encontre favor diante dos egípcios; e, quando vocês saírem, não será de mãos vazias.",
+        "22": "Cada mulher pedirá à sua vizinha e à mulher que estiver hospedada em sua casa objetos de prata, objetos de ouro e roupas, que vocês porão sobre os seus filhos e sobre as suas filhas. E assim vocês despojarão os egípcios."
     }
-  }
 }

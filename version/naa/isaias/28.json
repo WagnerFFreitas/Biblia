@@ -1,122 +1,40 @@
 {
-  "livro": "Isaías",
-  "capítulo": 28,
-  "versículos": {
-    "1": {
-      "título": "A impenitência de Efraim será castigada",
-      "texto": "Ai de Samaria, a orgulhosa coroa"
+    "livro": "Isaías",
+    "capitulo": 28,
+    "titulos": {
+        "1": "A impenitência de Efraim será castigada",
+        "7": "Contra os habitantes de Jerusalém",
+        "23": "Deus é grande em sabedoria"
     },
-    "2": {
-      "título": "",
-      "texto": "Eis que o Senhor vai enviar"
-    },
-    "3": {
-      "título": "",
-      "texto": "A orgulhosa coroa"
-    },
-    "4": {
-      "título": "",
-      "texto": "A flor murcha"
-    },
-    "5": {
-      "título": "",
-      "texto": "Naquele dia,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Ele será o espírito de justiça"
-    },
-    "7": {
-      "título": "Contra os habitantes de Jerusalém",
-      "texto": "Mas há outros que cambaleiam"
-    },
-    "8": {
-      "título": "",
-      "texto": "Porque todas as mesas estão"
-    },
-    "9": {
-      "título": "",
-      "texto": "Eles dizem:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Porque nos fala como a crianças,"
-    },
-    "11": {
-      "título": "",
-      "texto": "Pois bem, por meio"
-    },
-    "12": {
-      "título": "",
-      "texto": "ao qual ele disse:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Assim, a palavra do Senhor"
-    },
-    "14": {
-      "título": "",
-      "texto": "Portanto, escutem"
-    },
-    "15": {
-      "título": "",
-      "texto": "Porque vocês dizem:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Portanto, assim diz o Senhor Deus :"
-    },
-    "17": {
-      "título": "",
-      "texto": "Farei do juízo a régua"
-    },
-    "18": {
-      "título": "",
-      "texto": "A aliança que vocês fizeram"
-    },
-    "19": {
-      "título": "",
-      "texto": "Todas as vezes que passar,"
-    },
-    "20": {
-      "título": "",
-      "texto": "Porque a cama será tão curta,"
-    },
-    "21": {
-      "título": "",
-      "texto": "Porque o Senhor se levantará"
-    },
-    "22": {
-      "título": "",
-      "texto": "E agora parem de zombar,"
-    },
-    "23": {
-      "título": "Deus é grande em sabedoria",
-      "texto": "Prestem atenção"
-    },
-    "24": {
-      "título": "",
-      "texto": "Será que o agricultor"
-    },
-    "25": {
-      "título": "",
-      "texto": "Não! Pelo contrário,"
-    },
-    "26": {
-      "título": "",
-      "texto": "Pois o seu Deus o instrui"
-    },
-    "27": {
-      "título": "",
-      "texto": "Porque não se debulha o endro"
-    },
-    "28": {
-      "título": "",
-      "texto": "O cereal é debulhado,"
-    },
-    "29": {
-      "título": "",
-      "texto": "Também isso procede"
+    "versiculos": {
+        "1": "Ai de Samaria, a orgulhosa coroa",
+        "2": "Eis que o Senhor vai enviar",
+        "3": "A orgulhosa coroa",
+        "4": "A flor murcha",
+        "5": "Naquele dia,",
+        "6": "Ele será o espírito de justiça",
+        "7": "Mas há outros que cambaleiam",
+        "8": "Porque todas as mesas estão",
+        "9": "Eles dizem:",
+        "10": "Porque nos fala como a crianças,",
+        "11": "Pois bem, por meio",
+        "12": "ao qual ele disse:",
+        "13": "Assim, a palavra do Senhor",
+        "14": "Portanto, escutem",
+        "15": "Porque vocês dizem:",
+        "16": "Portanto, assim diz o Senhor Deus :",
+        "17": "Farei do juízo a régua",
+        "18": "A aliança que vocês fizeram",
+        "19": "Todas as vezes que passar,",
+        "20": "Porque a cama será tão curta,",
+        "21": "Porque o Senhor se levantará",
+        "22": "E agora parem de zombar,",
+        "23": "Prestem atenção",
+        "24": "Será que o agricultor",
+        "25": "Não! Pelo contrário,",
+        "26": "Pois o seu Deus o instrui",
+        "27": "Porque não se debulha o endro",
+        "28": "O cereal é debulhado,",
+        "29": "Também isso procede"
     }
-  }
 }

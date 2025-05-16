@@ -1,18 +1,12 @@
 {
-  "livro": "Salmos",
-  "capítulo": 133,
-  "versículos": {
-    "1": {
-      "título": "A excelência da união fraternal",
-      "texto": "Oh! Como é bom e agradável"
+    "livro": "Salmos",
+    "capitulo": 133,
+    "titulos": {
+        "1": "A excelência da união fraternal"
     },
-    "2": {
-      "título": "",
-      "texto": "É como o óleo precioso"
-    },
-    "3": {
-      "título": "",
-      "texto": "É como o orvalho do Hermom,"
+    "versiculos": {
+        "1": "Oh! Como é bom e agradável",
+        "2": "É como o óleo precioso",
+        "3": "É como o orvalho do Hermom,"
     }
-  }
 }

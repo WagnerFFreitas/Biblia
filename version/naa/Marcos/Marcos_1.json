@@ -1,186 +1,63 @@
 {
-  "livro": "Marcos",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "A pregação de João Batista",
-      "texto": "Princípio do evangelho de Jesus Cristo, Filho de Deus."
+    "livro": "Marcos",
+    "capitulo": 1,
+    "titulos": {
+        "1": "A pregação de João Batista",
+        "9": "O batismo de Jesus",
+        "12": "A tentação de Jesus",
+        "14": "O começo do ministério na Galileia",
+        "16": "Jesus chama quatro pescadores",
+        "21": "A cura de um endemoniado em Cafarnaum",
+        "29": "A cura da sogra de Pedro",
+        "32": "Muitas outras curas",
+        "35": "Jesus prega nas sinagogas",
+        "40": "A cura de um leproso"
     },
-    "2": {
-      "título": "",
-      "texto": "Como está escrito na profecia de Isaías:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Voz do que clama no deserto:"
-    },
-    "4": {
-      "título": "",
-      "texto": "E foi assim que João Batista apareceu no deserto, pregando batismo de arrependimento para remissão de pecados."
-    },
-    "5": {
-      "título": "",
-      "texto": "E toda a região da Judeia e todos os moradores de Jerusalém iam até ele. E, confessando os seus pecados, eram batizados por ele no rio Jordão."
-    },
-    "6": {
-      "título": "",
-      "texto": "A roupa de João era feita de pelos de camelo. Ele usava um cinto de couro e se alimentava de gafanhotos e mel silvestre."
-    },
-    "7": {
-      "título": "",
-      "texto": "E João pregava, dizendo:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Eu batizei vocês com água; ele, porém, os batizará com o Espírito Santo."
-    },
-    "9": {
-      "título": "O batismo de Jesus",
-      "texto": "Naqueles dias, Jesus veio de Nazaré da Galileia e foi batizado por João no rio Jordão."
-    },
-    "10": {
-      "título": "",
-      "texto": "Logo ao sair da água, Jesus viu os céus se abrindo e o Espírito descendo como pomba sobre ele."
-    },
-    "11": {
-      "título": "",
-      "texto": "Então veio uma voz dos céus, que dizia:"
-    },
-    "12": {
-      "título": "A tentação de Jesus",
-      "texto": "E logo o Espírito conduziu Jesus ao deserto,"
-    },
-    "13": {
-      "título": "",
-      "texto": "onde ficou durante quarenta dias, sendo tentado por Satanás. Estava com as feras, e os anjos o serviam."
-    },
-    "14": {
-      "título": "O começo do ministério na Galileia",
-      "texto": "Depois de João ter sido preso, Jesus foi para a Galileia, pregando o evangelho de Deus."
-    },
-    "15": {
-      "título": "",
-      "texto": "Ele dizia:"
-    },
-    "16": {
-      "título": "Jesus chama quatro pescadores",
-      "texto": "Caminhando junto ao mar da Galileia, Jesus viu os irmãos Simão e André, que lançavam a rede ao mar, porque eram pescadores."
-    },
-    "17": {
-      "título": "",
-      "texto": "Jesus lhes disse:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Então eles deixaram imediatamente as redes e o seguiram."
-    },
-    "19": {
-      "título": "",
-      "texto": "Pouco mais adiante, Jesus viu Tiago, filho de Zebedeu, e João, seu irmão, que estavam no barco consertando as redes,"
-    },
-    "20": {
-      "título": "",
-      "texto": "e logo os chamou. E eles seguiram Jesus, deixando o seu pai Zebedeu no barco com os empregados."
-    },
-    "21": {
-      "título": "A cura de um endemoniado em Cafarnaum",
-      "texto": "Depois, entraram em Cafarnaum, e, logo no sábado, Jesus foi ensinar na sinagoga."
-    },
-    "22": {
-      "título": "",
-      "texto": "E maravilhavam-se com a sua doutrina, porque os ensinava como alguém que tem autoridade e não como os escribas."
-    },
-    "23": {
-      "título": "",
-      "texto": "E logo apareceu na sinagoga um homem possuído de espírito imundo, o qual gritou:"
-    },
-    "24": {
-      "título": "",
-      "texto": "— O que você quer conosco, Jesus Nazareno? Você veio para nos destruir? Sei muito bem quem você é: o Santo de Deus!"
-    },
-    "25": {
-      "título": "",
-      "texto": "Mas Jesus o repreendeu, dizendo:"
-    },
-    "26": {
-      "título": "",
-      "texto": "Então o espírito imundo, agitando-o violentamente e gritando em alta voz, saiu dele."
-    },
-    "27": {
-      "título": "",
-      "texto": "Todos se admiraram, a ponto de perguntarem entre si:"
-    },
-    "28": {
-      "título": "",
-      "texto": "E a fama de Jesus se espalhou depressa em todas as direções, por toda a região da Galileia."
-    },
-    "29": {
-      "título": "A cura da sogra de Pedro",
-      "texto": "E, saindo da sinagoga, foram, com Tiago e João, para a casa de Simão e André."
-    },
-    "30": {
-      "título": "",
-      "texto": "A sogra de Simão estava de cama, com febre; e logo deram essa notícia a Jesus."
-    },
-    "31": {
-      "título": "",
-      "texto": "Então, aproximando-se, Jesus pegou na mão dela e fez com que ela se levantasse. A febre a deixou, e ela passou a servi-los."
-    },
-    "32": {
-      "título": "Muitas outras curas",
-      "texto": "À tarde, depois do pôr do sol, trouxeram a Jesus todos os enfermos e endemoniados."
-    },
-    "33": {
-      "título": "",
-      "texto": "Toda a cidade estava reunida à porta da casa."
-    },
-    "34": {
-      "título": "",
-      "texto": "E ele curou muitos que se achavam doentes de todo tipo de enfermidades. Também expulsou muitos demônios, não lhes permitindo que falassem, porque sabiam quem ele era."
-    },
-    "35": {
-      "título": "Jesus prega nas sinagogas",
-      "texto": "Tendo-se levantado de madrugada, quando ainda estava escuro, Jesus saiu e foi para um lugar deserto, e ali orava."
-    },
-    "36": {
-      "título": "",
-      "texto": "Simão e os que estavam com ele procuraram Jesus por toda parte."
-    },
-    "37": {
-      "título": "",
-      "texto": "Quando o encontraram, lhe disseram:"
-    },
-    "38": {
-      "título": "",
-      "texto": "Jesus, porém, lhes disse:"
-    },
-    "39": {
-      "título": "",
-      "texto": "Então ele foi por toda a Galileia, pregando nas sinagogas deles e expulsando os demônios."
-    },
-    "40": {
-      "título": "A cura de um leproso",
-      "texto": "Um leproso se aproximou de Jesus e lhe pediu, de joelhos:"
-    },
-    "41": {
-      "título": "",
-      "texto": "E Jesus, profundamente compadecido, estendeu a mão, tocou nele e disse:"
-    },
-    "42": {
-      "título": "",
-      "texto": "No mesmo instante, a lepra desapareceu dele, e ele ficou limpo."
-    },
-    "43": {
-      "título": "",
-      "texto": "E, advertindo-o severamente, logo o despediu."
-    },
-    "44": {
-      "título": "",
-      "texto": "E lhe disse:"
-    },
-    "45": {
-      "título": "",
-      "texto": "Mas, tendo ele saído, começou a proclamar muitas coisas e a divulgar a notícia, a ponto de Jesus não poder mais entrar publicamente em nenhuma cidade. Por isso, permanecia fora, em lugares desertos. E de toda parte vinham ao encontro dele."
+    "versiculos": {
+        "1": "Princípio do evangelho de Jesus Cristo, Filho de Deus.",
+        "2": "Como está escrito na profecia de Isaías:",
+        "3": "Voz do que clama no deserto:",
+        "4": "E foi assim que João Batista apareceu no deserto, pregando batismo de arrependimento para remissão de pecados.",
+        "5": "E toda a região da Judeia e todos os moradores de Jerusalém iam até ele. E, confessando os seus pecados, eram batizados por ele no rio Jordão.",
+        "6": "A roupa de João era feita de pelos de camelo. Ele usava um cinto de couro e se alimentava de gafanhotos e mel silvestre.",
+        "7": "E João pregava, dizendo:",
+        "8": "Eu batizei vocês com água; ele, porém, os batizará com o Espírito Santo.",
+        "9": "Naqueles dias, Jesus veio de Nazaré da Galileia e foi batizado por João no rio Jordão.",
+        "10": "Logo ao sair da água, Jesus viu os céus se abrindo e o Espírito descendo como pomba sobre ele.",
+        "11": "Então veio uma voz dos céus, que dizia:",
+        "12": "E logo o Espírito conduziu Jesus ao deserto,",
+        "13": "onde ficou durante quarenta dias, sendo tentado por Satanás. Estava com as feras, e os anjos o serviam.",
+        "14": "Depois de João ter sido preso, Jesus foi para a Galileia, pregando o evangelho de Deus.",
+        "15": "Ele dizia:",
+        "16": "Caminhando junto ao mar da Galileia, Jesus viu os irmãos Simão e André, que lançavam a rede ao mar, porque eram pescadores.",
+        "17": "Jesus lhes disse:",
+        "18": "Então eles deixaram imediatamente as redes e o seguiram.",
+        "19": "Pouco mais adiante, Jesus viu Tiago, filho de Zebedeu, e João, seu irmão, que estavam no barco consertando as redes,",
+        "20": "e logo os chamou. E eles seguiram Jesus, deixando o seu pai Zebedeu no barco com os empregados.",
+        "21": "Depois, entraram em Cafarnaum, e, logo no sábado, Jesus foi ensinar na sinagoga.",
+        "22": "E maravilhavam-se com a sua doutrina, porque os ensinava como alguém que tem autoridade e não como os escribas.",
+        "23": "E logo apareceu na sinagoga um homem possuído de espírito imundo, o qual gritou:",
+        "24": "— O que você quer conosco, Jesus Nazareno? Você veio para nos destruir? Sei muito bem quem você é: o Santo de Deus!",
+        "25": "Mas Jesus o repreendeu, dizendo:",
+        "26": "Então o espírito imundo, agitando-o violentamente e gritando em alta voz, saiu dele.",
+        "27": "Todos se admiraram, a ponto de perguntarem entre si:",
+        "28": "E a fama de Jesus se espalhou depressa em todas as direções, por toda a região da Galileia.",
+        "29": "E, saindo da sinagoga, foram, com Tiago e João, para a casa de Simão e André.",
+        "30": "A sogra de Simão estava de cama, com febre; e logo deram essa notícia a Jesus.",
+        "31": "Então, aproximando-se, Jesus pegou na mão dela e fez com que ela se levantasse. A febre a deixou, e ela passou a servi-los.",
+        "32": "À tarde, depois do pôr do sol, trouxeram a Jesus todos os enfermos e endemoniados.",
+        "33": "Toda a cidade estava reunida à porta da casa.",
+        "34": "E ele curou muitos que se achavam doentes de todo tipo de enfermidades. Também expulsou muitos demônios, não lhes permitindo que falassem, porque sabiam quem ele era.",
+        "35": "Tendo-se levantado de madrugada, quando ainda estava escuro, Jesus saiu e foi para um lugar deserto, e ali orava.",
+        "36": "Simão e os que estavam com ele procuraram Jesus por toda parte.",
+        "37": "Quando o encontraram, lhe disseram:",
+        "38": "Jesus, porém, lhes disse:",
+        "39": "Então ele foi por toda a Galileia, pregando nas sinagogas deles e expulsando os demônios.",
+        "40": "Um leproso se aproximou de Jesus e lhe pediu, de joelhos:",
+        "41": "E Jesus, profundamente compadecido, estendeu a mão, tocou nele e disse:",
+        "42": "No mesmo instante, a lepra desapareceu dele, e ele ficou limpo.",
+        "43": "E, advertindo-o severamente, logo o despediu.",
+        "44": "E lhe disse:",
+        "45": "Mas, tendo ele saído, começou a proclamar muitas coisas e a divulgar a notícia, a ponto de Jesus não poder mais entrar publicamente em nenhuma cidade. Por isso, permanecia fora, em lugares desertos. E de toda parte vinham ao encontro dele."
     }
-  }
 }

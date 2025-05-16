@@ -1,214 +1,64 @@
 {
-  "livro": "Atos",
-  "capítulo": 13,
-  "versículos": {
-    "1": {
-      "título": "Barnabé e Saulo. A primeira viagem missionária",
-      "texto": "Havia na igreja de Antioquia profetas e mestres: Barnabé; Simeão, chamado Níger; Lúcio, de Cirene; Manaém, que tinha sido criado com Herodes, o tetrarca; e Saulo."
+    "livro": "Atos",
+    "capitulo": 13,
+    "titulos": {
+        "1": "Barnabé e Saulo. A primeira viagem missionária",
+        "4": "A missão em Chipre",
+        "13": "João Marcos volta a Jerusalém",
+        "16": "O testemunho de Paulo em Antioquia"
     },
-    "2": {
-      "título": "",
-      "texto": "Enquanto eles estavam adorando o Senhor e jejuando, o Espírito Santo disse:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Então, jejuando e orando, e impondo as mãos sobre eles, os despediram."
-    },
-    "4": {
-      "título": "A missão em Chipre",
-      "texto": "Barnabé e Saulo, enviados pelo Espírito Santo, foram até Selêucia e dali navegaram para Chipre."
-    },
-    "5": {
-      "título": "",
-      "texto": "Quando chegaram a Salamina, começaram a anunciar a palavra de Deus nas sinagogas judaicas. Tinham também João como auxiliar."
-    },
-    "6": {
-      "título": "",
-      "texto": "Havendo atravessado toda a ilha até Pafos, encontraram certo judeu, de nome Barjesus, que praticava magia e era falso profeta."
-    },
-    "7": {
-      "título": "",
-      "texto": "Ele estava com o procônsul Sérgio Paulo, que era um homem inteligente. O procônsul, tendo chamado Barnabé e Saulo, desejava ouvir a palavra de Deus."
-    },
-    "8": {
-      "título": "",
-      "texto": "Porém o mago Elimas — e é assim que se traduz o nome dele — se opunha a eles, procurando afastar da fé o procônsul."
-    },
-    "9": {
-      "título": "",
-      "texto": "Mas Saulo, também chamado Paulo, cheio do Espírito Santo, olhando firmemente para Elimas, disse:"
-    },
-    "10": {
-      "título": "",
-      "texto": "— Ó filho do diabo, cheio de todo o engano e de toda a maldade, inimigo de toda a justiça, por que você não deixa de perverter os retos caminhos do Senhor?"
-    },
-    "11": {
-      "título": "",
-      "texto": "Eis que, agora, a mão do Senhor está contra você, e você ficará cego, não vendo o sol por algum tempo."
-    },
-    "12": {
-      "título": "",
-      "texto": "Então o procônsul, vendo o que havia acontecido, creu, maravilhado com a doutrina do Senhor."
-    },
-    "13": {
-      "título": "João Marcos volta a Jerusalém",
-      "texto": "E, navegando de Pafos, Paulo e seus companheiros viajaram a Perge da Panfília. João, porém, deixando-os, voltou para Jerusalém."
-    },
-    "14": {
-      "título": "",
-      "texto": "Mas eles, saindo de Perge, chegaram a Antioquia da Pisídia. No sábado, entraram na sinagoga e sentaram-se."
-    },
-    "15": {
-      "título": "",
-      "texto": "Depois da leitura da Lei e dos Profetas, os chefes da sinagoga mandaram dizer-lhes:"
-    },
-    "16": {
-      "título": "O testemunho de Paulo em Antioquia",
-      "texto": "Paulo, levantando-se e fazendo com a mão sinal de silêncio, disse:"
-    },
-    "17": {
-      "título": "",
-      "texto": "O Deus do povo de Israel escolheu os nossos pais e exaltou o povo durante a sua peregrinação na terra do Egito, de onde os tirou com braço poderoso."
-    },
-    "18": {
-      "título": "",
-      "texto": "Suportou os maus costumes do povo durante uns quarenta anos no deserto."
-    },
-    "19": {
-      "título": "",
-      "texto": "E, havendo destruído sete nações em Canaã, deu essas terras como herança ao seu povo."
-    },
-    "20": {
-      "título": "",
-      "texto": "Tudo isso levou cerca de quatrocentos e cinquenta anos. Depois disso, lhes deu juízes, até o profeta Samuel."
-    },
-    "21": {
-      "título": "",
-      "texto": "Então eles pediram um rei, e Deus lhes deu Saul, filho de Quis, da tribo de Benjamim, e isto durante quarenta anos."
-    },
-    "22": {
-      "título": "",
-      "texto": "E, tendo tirado Saul, levantou-lhes o rei Davi, do qual também, dando testemunho, disse: “Achei Davi, filho de Jessé, homem segundo o meu coração, que fará toda a minha vontade.”"
-    },
-    "23": {
-      "título": "",
-      "texto": "Da descendência deste, conforme a promessa, Deus trouxe a Israel o Salvador, que é Jesus."
-    },
-    "24": {
-      "título": "",
-      "texto": "Antes da manifestação dele, João pregou um batismo de arrependimento a todo o povo de Israel."
-    },
-    "25": {
-      "título": "",
-      "texto": "Quando João estava completando a sua carreira, disse: “Quem vocês pensam que sou? Não sou aquele que vocês esperam. Mas depois de mim vem aquele de cujos pés não sou digno de desamarrar as sandálias.”"
-    },
-    "26": {
-      "título": "",
-      "texto": "— Irmãos, descendência de Abraão e todos vocês que temem a Deus, a nós foi enviada a palavra desta salvação."
-    },
-    "27": {
-      "título": "",
-      "texto": "Pois os moradores e as autoridades de Jerusalém, não conhecendo Jesus nem as palavras dos profetas que são lidas todos os sábados, cumpriram as profecias, quando condenaram Jesus."
-    },
-    "28": {
-      "título": "",
-      "texto": "E, embora não achassem nenhuma causa de morte, pediram a Pilatos que ele fosse morto."
-    },
-    "29": {
-      "título": "",
-      "texto": "Depois de cumprirem tudo o que estava escrito a respeito dele, tirando-o do madeiro, puseram-no em um túmulo."
-    },
-    "30": {
-      "título": "",
-      "texto": "Mas Deus o ressuscitou dentre os mortos,"
-    },
-    "31": {
-      "título": "",
-      "texto": "e durante muitos dias ele foi visto pelos que o tinham acompanhado da Galileia para Jerusalém, os quais são agora as suas testemunhas diante do povo."
-    },
-    "32": {
-      "título": "",
-      "texto": "E nós anunciamos a vocês o evangelho da promessa feita aos nossos pais,"
-    },
-    "33": {
-      "título": "",
-      "texto": "como Deus a cumpriu plenamente a nós, seus filhos, ressuscitando Jesus, como também está escrito no Salmo número dois:"
-    },
-    "34": {
-      "título": "",
-      "texto": "— E quanto ao fato de que o ressuscitaria dentre os mortos para que jamais voltasse à corrupção, Deus o expressou desta maneira:"
-    },
-    "35": {
-      "título": "",
-      "texto": "— Por isso, também diz em outro Salmo:"
-    },
-    "36": {
-      "título": "",
-      "texto": "— Porque tendo Davi, no seu tempo, servido conforme o plano de Deus, morreu, foi sepultado ao lado de seus pais e viu corrupção."
-    },
-    "37": {
-      "título": "",
-      "texto": "Porém aquele a quem Deus ressuscitou não viu corrupção."
-    },
-    "38": {
-      "título": "",
-      "texto": "Portanto, meus irmãos, saibam que é por meio de Jesus que a remissão dos pecados é anunciada a vocês;"
-    },
-    "39": {
-      "título": "",
-      "texto": "e, por meio dele, todo o que crê é justificado de todas as coisas das quais vocês não puderam ser justificados pela lei de Moisés."
-    },
-    "40": {
-      "título": "",
-      "texto": "Portanto, tenham cuidado para que não lhes aconteça o que os profetas disseram:"
-    },
-    "41": {
-      "título": "",
-      "texto": "“Vejam, ó desprezadores!"
-    },
-    "42": {
-      "título": "",
-      "texto": "Quando Paulo e Barnabé estavam saindo, as pessoas pediram que, no sábado seguinte, lhes falassem estas mesmas palavras."
-    },
-    "43": {
-      "título": "",
-      "texto": "Terminada a reunião na sinagoga, muitos dos judeus e dos prosélitos piedosos seguiram Paulo e Barnabé, e estes, falando com eles, os persuadiam a continuar firmes na graça de Deus."
-    },
-    "44": {
-      "título": "",
-      "texto": "No sábado seguinte, quase toda a cidade se reuniu para ouvir a palavra do Senhor."
-    },
-    "45": {
-      "título": "",
-      "texto": "Mas os judeus, vendo as multidões, ficaram com muita inveja e, blasfemando, contradiziam o que Paulo falava."
-    },
-    "46": {
-      "título": "",
-      "texto": "Então Paulo e Barnabé, falando ousadamente, disseram:"
-    },
-    "47": {
-      "título": "",
-      "texto": "Porque o Senhor assim nos determinou:"
-    },
-    "48": {
-      "título": "",
-      "texto": "Os gentios, ouvindo isto, se alegravam e glorificavam a palavra do Senhor. E creram todos os que haviam sido destinados para a vida eterna."
-    },
-    "49": {
-      "título": "",
-      "texto": "E a palavra do Senhor se espalhou por toda aquela região."
-    },
-    "50": {
-      "título": "",
-      "texto": "Mas os judeus instigaram as mulheres piedosas de alta posição e os principais da cidade e levantaram perseguição contra Paulo e Barnabé, expulsando-os do seu território."
-    },
-    "51": {
-      "título": "",
-      "texto": "E estes, sacudindo contra eles o pó dos pés, foram para Icônio."
-    },
-    "52": {
-      "título": "",
-      "texto": "Os discípulos, porém, estavam cheios de alegria e do Espírito Santo."
+    "versiculos": {
+        "1": "Havia na igreja de Antioquia profetas e mestres: Barnabé; Simeão, chamado Níger; Lúcio, de Cirene; Manaém, que tinha sido criado com Herodes, o tetrarca; e Saulo.",
+        "2": "Enquanto eles estavam adorando o Senhor e jejuando, o Espírito Santo disse:",
+        "3": "Então, jejuando e orando, e impondo as mãos sobre eles, os despediram.",
+        "4": "Barnabé e Saulo, enviados pelo Espírito Santo, foram até Selêucia e dali navegaram para Chipre.",
+        "5": "Quando chegaram a Salamina, começaram a anunciar a palavra de Deus nas sinagogas judaicas. Tinham também João como auxiliar.",
+        "6": "Havendo atravessado toda a ilha até Pafos, encontraram certo judeu, de nome Barjesus, que praticava magia e era falso profeta.",
+        "7": "Ele estava com o procônsul Sérgio Paulo, que era um homem inteligente. O procônsul, tendo chamado Barnabé e Saulo, desejava ouvir a palavra de Deus.",
+        "8": "Porém o mago Elimas — e é assim que se traduz o nome dele — se opunha a eles, procurando afastar da fé o procônsul.",
+        "9": "Mas Saulo, também chamado Paulo, cheio do Espírito Santo, olhando firmemente para Elimas, disse:",
+        "10": "— Ó filho do diabo, cheio de todo o engano e de toda a maldade, inimigo de toda a justiça, por que você não deixa de perverter os retos caminhos do Senhor?",
+        "11": "Eis que, agora, a mão do Senhor está contra você, e você ficará cego, não vendo o sol por algum tempo.",
+        "12": "Então o procônsul, vendo o que havia acontecido, creu, maravilhado com a doutrina do Senhor.",
+        "13": "E, navegando de Pafos, Paulo e seus companheiros viajaram a Perge da Panfília. João, porém, deixando-os, voltou para Jerusalém.",
+        "14": "Mas eles, saindo de Perge, chegaram a Antioquia da Pisídia. No sábado, entraram na sinagoga e sentaram-se.",
+        "15": "Depois da leitura da Lei e dos Profetas, os chefes da sinagoga mandaram dizer-lhes:",
+        "16": "Paulo, levantando-se e fazendo com a mão sinal de silêncio, disse:",
+        "17": "O Deus do povo de Israel escolheu os nossos pais e exaltou o povo durante a sua peregrinação na terra do Egito, de onde os tirou com braço poderoso.",
+        "18": "Suportou os maus costumes do povo durante uns quarenta anos no deserto.",
+        "19": "E, havendo destruído sete nações em Canaã, deu essas terras como herança ao seu povo.",
+        "20": "Tudo isso levou cerca de quatrocentos e cinquenta anos. Depois disso, lhes deu juízes, até o profeta Samuel.",
+        "21": "Então eles pediram um rei, e Deus lhes deu Saul, filho de Quis, da tribo de Benjamim, e isto durante quarenta anos.",
+        "22": "E, tendo tirado Saul, levantou-lhes o rei Davi, do qual também, dando testemunho, disse: “Achei Davi, filho de Jessé, homem segundo o meu coração, que fará toda a minha vontade.”",
+        "23": "Da descendência deste, conforme a promessa, Deus trouxe a Israel o Salvador, que é Jesus.",
+        "24": "Antes da manifestação dele, João pregou um batismo de arrependimento a todo o povo de Israel.",
+        "25": "Quando João estava completando a sua carreira, disse: “Quem vocês pensam que sou? Não sou aquele que vocês esperam. Mas depois de mim vem aquele de cujos pés não sou digno de desamarrar as sandálias.”",
+        "26": "— Irmãos, descendência de Abraão e todos vocês que temem a Deus, a nós foi enviada a palavra desta salvação.",
+        "27": "Pois os moradores e as autoridades de Jerusalém, não conhecendo Jesus nem as palavras dos profetas que são lidas todos os sábados, cumpriram as profecias, quando condenaram Jesus.",
+        "28": "E, embora não achassem nenhuma causa de morte, pediram a Pilatos que ele fosse morto.",
+        "29": "Depois de cumprirem tudo o que estava escrito a respeito dele, tirando-o do madeiro, puseram-no em um túmulo.",
+        "30": "Mas Deus o ressuscitou dentre os mortos,",
+        "31": "e durante muitos dias ele foi visto pelos que o tinham acompanhado da Galileia para Jerusalém, os quais são agora as suas testemunhas diante do povo.",
+        "32": "E nós anunciamos a vocês o evangelho da promessa feita aos nossos pais,",
+        "33": "como Deus a cumpriu plenamente a nós, seus filhos, ressuscitando Jesus, como também está escrito no Salmo número dois:",
+        "34": "— E quanto ao fato de que o ressuscitaria dentre os mortos para que jamais voltasse à corrupção, Deus o expressou desta maneira:",
+        "35": "— Por isso, também diz em outro Salmo:",
+        "36": "— Porque tendo Davi, no seu tempo, servido conforme o plano de Deus, morreu, foi sepultado ao lado de seus pais e viu corrupção.",
+        "37": "Porém aquele a quem Deus ressuscitou não viu corrupção.",
+        "38": "Portanto, meus irmãos, saibam que é por meio de Jesus que a remissão dos pecados é anunciada a vocês;",
+        "39": "e, por meio dele, todo o que crê é justificado de todas as coisas das quais vocês não puderam ser justificados pela lei de Moisés.",
+        "40": "Portanto, tenham cuidado para que não lhes aconteça o que os profetas disseram:",
+        "41": "“Vejam, ó desprezadores!",
+        "42": "Quando Paulo e Barnabé estavam saindo, as pessoas pediram que, no sábado seguinte, lhes falassem estas mesmas palavras.",
+        "43": "Terminada a reunião na sinagoga, muitos dos judeus e dos prosélitos piedosos seguiram Paulo e Barnabé, e estes, falando com eles, os persuadiam a continuar firmes na graça de Deus.",
+        "44": "No sábado seguinte, quase toda a cidade se reuniu para ouvir a palavra do Senhor.",
+        "45": "Mas os judeus, vendo as multidões, ficaram com muita inveja e, blasfemando, contradiziam o que Paulo falava.",
+        "46": "Então Paulo e Barnabé, falando ousadamente, disseram:",
+        "47": "Porque o Senhor assim nos determinou:",
+        "48": "Os gentios, ouvindo isto, se alegravam e glorificavam a palavra do Senhor. E creram todos os que haviam sido destinados para a vida eterna.",
+        "49": "E a palavra do Senhor se espalhou por toda aquela região.",
+        "50": "Mas os judeus instigaram as mulheres piedosas de alta posição e os principais da cidade e levantaram perseguição contra Paulo e Barnabé, expulsando-os do seu território.",
+        "51": "E estes, sacudindo contra eles o pó dos pés, foram para Icônio.",
+        "52": "Os discípulos, porém, estavam cheios de alegria e do Espírito Santo."
     }
-  }
 }

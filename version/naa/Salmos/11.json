@@ -1,34 +1,16 @@
 {
-  "livro": "Salmos",
-  "capítulo": 11,
-  "versículos": {
-    "1": {
-      "título": "Deus é forte refúgio",
-      "texto": "No Senhor me refugio."
+    "livro": "Salmos",
+    "capitulo": 11,
+    "titulos": {
+        "1": "Deus é forte refúgio"
     },
-    "2": {
-      "título": "",
-      "texto": "Porque eis aí os ímpios,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Ora, se forem destruídos"
-    },
-    "4": {
-      "título": "",
-      "texto": "O Senhor está"
-    },
-    "5": {
-      "título": "",
-      "texto": "O Senhor põe à prova"
-    },
-    "6": {
-      "título": "",
-      "texto": "Fará chover sobre os perversos"
-    },
-    "7": {
-      "título": "",
-      "texto": "Por ser justo,"
+    "versiculos": {
+        "1": "No Senhor me refugio.",
+        "2": "Porque eis aí os ímpios,",
+        "3": "Ora, se forem destruídos",
+        "4": "O Senhor está",
+        "5": "O Senhor põe à prova",
+        "6": "Fará chover sobre os perversos",
+        "7": "Por ser justo,"
     }
-  }
 }

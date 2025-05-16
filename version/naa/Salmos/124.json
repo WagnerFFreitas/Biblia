@@ -1,38 +1,17 @@
 {
-  "livro": "Salmos",
-  "capítulo": 124,
-  "versículos": {
-    "1": {
-      "título": "Deus, nosso protetor e libertador",
-      "texto": "Não fosse o Senhor ,"
+    "livro": "Salmos",
+    "capitulo": 124,
+    "titulos": {
+        "1": "Deus, nosso protetor e libertador"
     },
-    "2": {
-      "título": "",
-      "texto": "não fosse o Senhor ,"
-    },
-    "3": {
-      "título": "",
-      "texto": "eles nos teriam engolido vivos,"
-    },
-    "4": {
-      "título": "",
-      "texto": "As águas nos teriam submergido,"
-    },
-    "5": {
-      "título": "",
-      "texto": "águas impetuosas teriam passado"
-    },
-    "6": {
-      "título": "",
-      "texto": "Bendito seja o Senhor ,"
-    },
-    "7": {
-      "título": "",
-      "texto": "A nossa alma foi salva,"
-    },
-    "8": {
-      "título": "",
-      "texto": "O nosso socorro está"
+    "versiculos": {
+        "1": "Não fosse o Senhor ,",
+        "2": "não fosse o Senhor ,",
+        "3": "eles nos teriam engolido vivos,",
+        "4": "As águas nos teriam submergido,",
+        "5": "águas impetuosas teriam passado",
+        "6": "Bendito seja o Senhor ,",
+        "7": "A nossa alma foi salva,",
+        "8": "O nosso socorro está"
     }
-  }
 }

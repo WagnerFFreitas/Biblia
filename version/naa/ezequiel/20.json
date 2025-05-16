@@ -1,202 +1,60 @@
 {
-  "livro": "Ezequiel",
-  "capítulo": 20,
-  "versículos": {
-    "1": {
-      "título": "As abominações da casa de Israel depois do êxodo",
-      "texto": "No sétimo ano, no quinto mês, aos dez dias do mês, alguns dos anciãos de Israel vieram consultar o Senhor e se assentaram diante de mim."
+    "livro": "Ezequiel",
+    "capitulo": 20,
+    "titulos": {
+        "1": "As abominações da casa de Israel depois do êxodo",
+        "33": "Castigo e perdão",
+        "45": "A profecia contra o Sul"
     },
-    "2": {
-      "título": "",
-      "texto": "Então a palavra do Senhor veio a mim, dizendo:"
-    },
-    "3": {
-      "título": "",
-      "texto": "— Filho do homem, fale com os anciãos de Israel e diga-lhes: Assim diz o Senhor Deus : “Por acaso vocês vieram para me consultar? Tão certo como eu vivo, diz o Senhor Deus , vocês não me consultarão.”"
-    },
-    "4": {
-      "título": "",
-      "texto": "— Você está pronto para julgá-los, filho do homem? Você está pronto para julgá-los? Mostre-lhes as abominações que os pais deles praticaram"
-    },
-    "5": {
-      "título": "",
-      "texto": "e diga-lhes: Assim diz o Senhor Deus : “No dia em que escolhi Israel, levantando a mão, jurei à descendência da casa de Jacó e me dei a conhecer a eles na terra do Egito; levantei a mão e jurei, dizendo: ‘Eu sou o Senhor , seu Deus.’"
-    },
-    "6": {
-      "título": "",
-      "texto": "Naquele dia, jurei tirá-los da terra do Egito e levá-los para uma terra que lhes tinha previsto, uma terra que mana leite e mel, coroa de todas as terras."
-    },
-    "7": {
-      "título": "",
-      "texto": "Então eu lhes disse: ‘Cada um de vocês deve jogar fora as abominações de que se agradam os seus olhos. Não se contaminem com os ídolos do Egito; eu sou o Senhor , seu Deus.’"
-    },
-    "8": {
-      "título": "",
-      "texto": "Mas eles se rebelaram contra mim e não quiseram me ouvir. Ninguém jogava fora as abominações de que se agradavam os seus olhos, nem abandonava os ídolos do Egito. Então eu disse que derramaria sobre eles o meu furor, para cumprir a minha ira contra eles, no meio da terra do Egito."
-    },
-    "9": {
-      "título": "",
-      "texto": "Mas agi por amor do meu nome, para que não fosse profanado diante das nações no meio das quais eles estavam, diante das quais eu me dei a conhecer a eles, para os tirar da terra do Egito.”"
-    },
-    "10": {
-      "título": "",
-      "texto": "— “Eu os tirei da terra do Egito e os levei para o deserto."
-    },
-    "11": {
-      "título": "",
-      "texto": "Dei-lhes os meus estatutos e lhes fiz conhecer os meus juízos, pelos quais o ser humano viverá, se os cumprir."
-    },
-    "12": {
-      "título": "",
-      "texto": "Também lhes dei os meus sábados, para servirem de sinal entre mim e eles, para que soubessem que eu sou o Senhor que os santifica."
-    },
-    "13": {
-      "título": "",
-      "texto": "Mas a casa de Israel se rebelou contra mim no deserto, não andando nos meus estatutos e rejeitando os meus juízos, pelos quais viverá aquele que os cumprir; e profanaram grandemente os meus sábados. Então eu disse que derramaria sobre eles o meu furor no deserto, para os consumir."
-    },
-    "14": {
-      "título": "",
-      "texto": "Mas agi por amor do meu nome, para que não fosse profanado aos olhos das nações diante das quais os tirei do Egito.”"
-    },
-    "15": {
-      "título": "",
-      "texto": "— “Além disso, no deserto, jurei que não os levaria à terra que lhes tinha dado, uma terra que mana leite e mel, coroa de todas as terras."
-    },
-    "16": {
-      "título": "",
-      "texto": "Porque rejeitaram os meus juízos, não andaram nos meus estatutos e profanaram os meus sábados, pois o seu coração se voltava para os seus ídolos."
-    },
-    "17": {
-      "título": "",
-      "texto": "Mas os meus olhos tiveram piedade deles e eu não os destruí, nem os consumi totalmente no deserto.”"
-    },
-    "18": {
-      "título": "",
-      "texto": "— “Então eu disse aos seus filhos no deserto: ‘Não andem nos estatutos de seus pais, nem guardem os seus juízos, nem se contaminem com os seus ídolos."
-    },
-    "19": {
-      "título": "",
-      "texto": "Eu sou o Senhor , seu Deus. Andem nos meus estatutos, guardem os meus juízos e coloquem-nos em prática."
-    },
-    "20": {
-      "título": "",
-      "texto": "Santifiquem os meus sábados, pois servirão de sinal entre mim e vocês, para que saibam que eu sou o Senhor , seu Deus.’"
-    },
-    "21": {
-      "título": "",
-      "texto": "Mas também os filhos se rebelaram contra mim e não andaram nos meus estatutos, nem guardaram os meus juízos, pelos quais o ser humano viverá, se os cumprir; pelo contrário, eles profanaram os meus sábados. Então eu disse que derramaria sobre eles o meu furor, para cumprir contra eles a minha ira no deserto."
-    },
-    "22": {
-      "título": "",
-      "texto": "Mas contive a minha mão e agi por amor do meu nome, para que não fosse profanado aos olhos das nações diante das quais os tirei do Egito.”"
-    },
-    "23": {
-      "título": "",
-      "texto": "— “Mais uma vez, no deserto, jurei dispersá-los entre as nações e espalhá-los por outras terras,"
-    },
-    "24": {
-      "título": "",
-      "texto": "porque não executaram os meus juízos, rejeitaram os meus estatutos, profanaram os meus sábados, e os seus olhos se voltavam para os ídolos de seus pais."
-    },
-    "25": {
-      "título": "",
-      "texto": "Por isso também lhes dei estatutos que não eram bons e juízos pelos quais não haviam de viver."
-    },
-    "26": {
-      "título": "",
-      "texto": "Permiti que eles se contaminassem com as suas dádivas, como quando queimavam os seus filhos primogênitos. Fiz isso para que ficassem horrorizados e para que soubessem que eu sou o Senhor .”"
-    },
-    "27": {
-      "título": "",
-      "texto": "— Portanto, fale à casa de Israel, ó filho do homem, e diga-lhes: Assim diz o Senhor Deus : “Ainda nisto os pais de vocês blasfemaram contra mim, na infidelidade que cometeram contra mim:"
-    },
-    "28": {
-      "título": "",
-      "texto": "quando eu os introduzi na terra que havia jurado dar-lhes, onde quer que viam um monte alto e uma árvore frondosa, aí ofereciam os seus sacrifícios, apresentavam suas ofertas provocantes, punham os seus aromas agradáveis e ofereciam as suas libações."
-    },
-    "29": {
-      "título": "",
-      "texto": "Eu lhes perguntei: ‘Que lugar alto é esse, aonde vocês vão?’ Por isso, o seu nome tem sido Lugar Alto até o dia de hoje.”"
-    },
-    "30": {
-      "título": "",
-      "texto": "— Portanto, diga à casa de Israel: Assim diz o Senhor Deus : “Será que vocês não estão se contaminando a exemplo dos pais de vocês, e se prostituindo com as suas abominações?"
-    },
-    "31": {
-      "título": "",
-      "texto": "Quando oferecem as suas dádivas e queimam os seus filhos como sacrifício, vocês se contaminam com todos os seus ídolos, até o dia de hoje. Será que eu devo deixar que vocês me consultem, ó casa de Israel? Tão certo como eu vivo, diz o Senhor Deus , vocês não me consultarão."
-    },
-    "32": {
-      "título": "",
-      "texto": "O que vocês têm em mente jamais acontecerá, ou seja, isso de dizer: ‘Seremos como as nações, como os povos de outras terras, adorando as árvores e as pedras.’”"
-    },
-    "33": {
-      "título": "Castigo e perdão",
-      "texto": "— “Tão certo como eu vivo, diz o Senhor Deus , hei de reinar sobre vocês com mão poderosa, com braço estendido e derramado furor."
-    },
-    "34": {
-      "título": "",
-      "texto": "Vou tirá-los do meio dos povos e congregá-los das terras por onde vocês foram espalhados, com mão forte, com braço estendido e derramado furor."
-    },
-    "35": {
-      "título": "",
-      "texto": "Vou levá-los ao deserto dos povos e ali entrarei em juízo com vocês, face a face."
-    },
-    "36": {
-      "título": "",
-      "texto": "Como entrei em juízo com os pais de vocês no deserto da terra do Egito, assim entrarei em juízo com vocês”, diz o Senhor Deus ."
-    },
-    "37": {
-      "título": "",
-      "texto": "“Eu os farei passar debaixo do meu cajado e os farei entrar no vínculo da aliança."
-    },
-    "38": {
-      "título": "",
-      "texto": "Tirarei do meio de vocês os rebeldes e os que transgrediram contra mim. Eu os farei sair da terra onde estão morando, mas eles não entrarão na terra de Israel. E vocês saberão que eu sou o Senhor .”"
-    },
-    "39": {
-      "título": "",
-      "texto": "— “Quanto a vocês, ó casa de Israel, assim diz o Senhor Deus : Que cada um vá e adore os seus ídolos, agora e mais tarde, já que vocês não querem me ouvir! Mas não profanem mais o meu santo nome com as suas dádivas e com os ídolos de vocês."
-    },
-    "40": {
-      "título": "",
-      "texto": "Porque no meu santo monte, no monte alto de Israel, diz o Senhor Deus , ali toda a casa de Israel me adorará, toda a casa de Israel, naquela terra. Ali me agradarei deles. Ali requererei as ofertas de vocês, as primícias das dádivas e todas as coisas sagradas."
-    },
-    "41": {
-      "título": "",
-      "texto": "Eu me agradarei de vocês como de aroma agradável, quando eu os tirar do meio dos povos e os congregar das terras por onde vocês foram espalhados; e serei santificado diante das nações por meio de vocês."
-    },
-    "42": {
-      "título": "",
-      "texto": "Vocês saberão que eu sou o Senhor , quando eu os fizer entrar na terra de Israel, na terra que jurei dar aos pais de vocês."
-    },
-    "43": {
-      "título": "",
-      "texto": "Ali, vocês se lembrarão dos seus caminhos e de todas as ações com que se contaminaram e terão nojo de vocês mesmos, por todas as maldades que fizeram."
-    },
-    "44": {
-      "título": "",
-      "texto": "Saberão que eu sou o Senhor , quando eu agir com vocês por amor do meu nome, não segundo os seus maus caminhos, nem segundo as suas ações corruptas, ó casa de Israel”, diz o Senhor Deus ."
-    },
-    "45": {
-      "título": "A profecia contra o Sul",
-      "texto": "A palavra do Senhor veio a mim, dizendo:"
-    },
-    "46": {
-      "título": "",
-      "texto": "— Filho do homem, vire o seu rosto para o Sul e fale contra ele. Profetize contra a floresta do campo do Sul"
-    },
-    "47": {
-      "título": "",
-      "texto": "e diga à floresta do Sul: “Ouça a palavra do Senhor ! Assim diz o Senhor Deus : Eis que acenderei em você um fogo que consumirá todas as árvores, tanto as verdes como as secas. A chama desse fogo não se apagará e todos os rostos, desde o Sul até o Norte, se queimarão."
-    },
-    "48": {
-      "título": "",
-      "texto": "E todos verão que eu, o Senhor , o acendi; não se apagará.”"
-    },
-    "49": {
-      "título": "",
-      "texto": "Então eu disse:"
+    "versiculos": {
+        "1": "No sétimo ano, no quinto mês, aos dez dias do mês, alguns dos anciãos de Israel vieram consultar o Senhor e se assentaram diante de mim.",
+        "2": "Então a palavra do Senhor veio a mim, dizendo:",
+        "3": "— Filho do homem, fale com os anciãos de Israel e diga-lhes: Assim diz o Senhor Deus : “Por acaso vocês vieram para me consultar? Tão certo como eu vivo, diz o Senhor Deus , vocês não me consultarão.”",
+        "4": "— Você está pronto para julgá-los, filho do homem? Você está pronto para julgá-los? Mostre-lhes as abominações que os pais deles praticaram",
+        "5": "e diga-lhes: Assim diz o Senhor Deus : “No dia em que escolhi Israel, levantando a mão, jurei à descendência da casa de Jacó e me dei a conhecer a eles na terra do Egito; levantei a mão e jurei, dizendo: ‘Eu sou o Senhor , seu Deus.’",
+        "6": "Naquele dia, jurei tirá-los da terra do Egito e levá-los para uma terra que lhes tinha previsto, uma terra que mana leite e mel, coroa de todas as terras.",
+        "7": "Então eu lhes disse: ‘Cada um de vocês deve jogar fora as abominações de que se agradam os seus olhos. Não se contaminem com os ídolos do Egito; eu sou o Senhor , seu Deus.’",
+        "8": "Mas eles se rebelaram contra mim e não quiseram me ouvir. Ninguém jogava fora as abominações de que se agradavam os seus olhos, nem abandonava os ídolos do Egito. Então eu disse que derramaria sobre eles o meu furor, para cumprir a minha ira contra eles, no meio da terra do Egito.",
+        "9": "Mas agi por amor do meu nome, para que não fosse profanado diante das nações no meio das quais eles estavam, diante das quais eu me dei a conhecer a eles, para os tirar da terra do Egito.”",
+        "10": "— “Eu os tirei da terra do Egito e os levei para o deserto.",
+        "11": "Dei-lhes os meus estatutos e lhes fiz conhecer os meus juízos, pelos quais o ser humano viverá, se os cumprir.",
+        "12": "Também lhes dei os meus sábados, para servirem de sinal entre mim e eles, para que soubessem que eu sou o Senhor que os santifica.",
+        "13": "Mas a casa de Israel se rebelou contra mim no deserto, não andando nos meus estatutos e rejeitando os meus juízos, pelos quais viverá aquele que os cumprir; e profanaram grandemente os meus sábados. Então eu disse que derramaria sobre eles o meu furor no deserto, para os consumir.",
+        "14": "Mas agi por amor do meu nome, para que não fosse profanado aos olhos das nações diante das quais os tirei do Egito.”",
+        "15": "— “Além disso, no deserto, jurei que não os levaria à terra que lhes tinha dado, uma terra que mana leite e mel, coroa de todas as terras.",
+        "16": "Porque rejeitaram os meus juízos, não andaram nos meus estatutos e profanaram os meus sábados, pois o seu coração se voltava para os seus ídolos.",
+        "17": "Mas os meus olhos tiveram piedade deles e eu não os destruí, nem os consumi totalmente no deserto.”",
+        "18": "— “Então eu disse aos seus filhos no deserto: ‘Não andem nos estatutos de seus pais, nem guardem os seus juízos, nem se contaminem com os seus ídolos.",
+        "19": "Eu sou o Senhor , seu Deus. Andem nos meus estatutos, guardem os meus juízos e coloquem-nos em prática.",
+        "20": "Santifiquem os meus sábados, pois servirão de sinal entre mim e vocês, para que saibam que eu sou o Senhor , seu Deus.’",
+        "21": "Mas também os filhos se rebelaram contra mim e não andaram nos meus estatutos, nem guardaram os meus juízos, pelos quais o ser humano viverá, se os cumprir; pelo contrário, eles profanaram os meus sábados. Então eu disse que derramaria sobre eles o meu furor, para cumprir contra eles a minha ira no deserto.",
+        "22": "Mas contive a minha mão e agi por amor do meu nome, para que não fosse profanado aos olhos das nações diante das quais os tirei do Egito.”",
+        "23": "— “Mais uma vez, no deserto, jurei dispersá-los entre as nações e espalhá-los por outras terras,",
+        "24": "porque não executaram os meus juízos, rejeitaram os meus estatutos, profanaram os meus sábados, e os seus olhos se voltavam para os ídolos de seus pais.",
+        "25": "Por isso também lhes dei estatutos que não eram bons e juízos pelos quais não haviam de viver.",
+        "26": "Permiti que eles se contaminassem com as suas dádivas, como quando queimavam os seus filhos primogênitos. Fiz isso para que ficassem horrorizados e para que soubessem que eu sou o Senhor .”",
+        "27": "— Portanto, fale à casa de Israel, ó filho do homem, e diga-lhes: Assim diz o Senhor Deus : “Ainda nisto os pais de vocês blasfemaram contra mim, na infidelidade que cometeram contra mim:",
+        "28": "quando eu os introduzi na terra que havia jurado dar-lhes, onde quer que viam um monte alto e uma árvore frondosa, aí ofereciam os seus sacrifícios, apresentavam suas ofertas provocantes, punham os seus aromas agradáveis e ofereciam as suas libações.",
+        "29": "Eu lhes perguntei: ‘Que lugar alto é esse, aonde vocês vão?’ Por isso, o seu nome tem sido Lugar Alto até o dia de hoje.”",
+        "30": "— Portanto, diga à casa de Israel: Assim diz o Senhor Deus : “Será que vocês não estão se contaminando a exemplo dos pais de vocês, e se prostituindo com as suas abominações?",
+        "31": "Quando oferecem as suas dádivas e queimam os seus filhos como sacrifício, vocês se contaminam com todos os seus ídolos, até o dia de hoje. Será que eu devo deixar que vocês me consultem, ó casa de Israel? Tão certo como eu vivo, diz o Senhor Deus , vocês não me consultarão.",
+        "32": "O que vocês têm em mente jamais acontecerá, ou seja, isso de dizer: ‘Seremos como as nações, como os povos de outras terras, adorando as árvores e as pedras.’”",
+        "33": "— “Tão certo como eu vivo, diz o Senhor Deus , hei de reinar sobre vocês com mão poderosa, com braço estendido e derramado furor.",
+        "34": "Vou tirá-los do meio dos povos e congregá-los das terras por onde vocês foram espalhados, com mão forte, com braço estendido e derramado furor.",
+        "35": "Vou levá-los ao deserto dos povos e ali entrarei em juízo com vocês, face a face.",
+        "36": "Como entrei em juízo com os pais de vocês no deserto da terra do Egito, assim entrarei em juízo com vocês”, diz o Senhor Deus .",
+        "37": "“Eu os farei passar debaixo do meu cajado e os farei entrar no vínculo da aliança.",
+        "38": "Tirarei do meio de vocês os rebeldes e os que transgrediram contra mim. Eu os farei sair da terra onde estão morando, mas eles não entrarão na terra de Israel. E vocês saberão que eu sou o Senhor .”",
+        "39": "— “Quanto a vocês, ó casa de Israel, assim diz o Senhor Deus : Que cada um vá e adore os seus ídolos, agora e mais tarde, já que vocês não querem me ouvir! Mas não profanem mais o meu santo nome com as suas dádivas e com os ídolos de vocês.",
+        "40": "Porque no meu santo monte, no monte alto de Israel, diz o Senhor Deus , ali toda a casa de Israel me adorará, toda a casa de Israel, naquela terra. Ali me agradarei deles. Ali requererei as ofertas de vocês, as primícias das dádivas e todas as coisas sagradas.",
+        "41": "Eu me agradarei de vocês como de aroma agradável, quando eu os tirar do meio dos povos e os congregar das terras por onde vocês foram espalhados; e serei santificado diante das nações por meio de vocês.",
+        "42": "Vocês saberão que eu sou o Senhor , quando eu os fizer entrar na terra de Israel, na terra que jurei dar aos pais de vocês.",
+        "43": "Ali, vocês se lembrarão dos seus caminhos e de todas as ações com que se contaminaram e terão nojo de vocês mesmos, por todas as maldades que fizeram.",
+        "44": "Saberão que eu sou o Senhor , quando eu agir com vocês por amor do meu nome, não segundo os seus maus caminhos, nem segundo as suas ações corruptas, ó casa de Israel”, diz o Senhor Deus .",
+        "45": "A palavra do Senhor veio a mim, dizendo:",
+        "46": "— Filho do homem, vire o seu rosto para o Sul e fale contra ele. Profetize contra a floresta do campo do Sul",
+        "47": "e diga à floresta do Sul: “Ouça a palavra do Senhor ! Assim diz o Senhor Deus : Eis que acenderei em você um fogo que consumirá todas as árvores, tanto as verdes como as secas. A chama desse fogo não se apagará e todos os rostos, desde o Sul até o Norte, se queimarão.",
+        "48": "E todos verão que eu, o Senhor , o acendi; não se apagará.”",
+        "49": "Então eu disse:"
     }
-  }
 }

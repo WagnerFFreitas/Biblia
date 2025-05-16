@@ -1,46 +1,19 @@
 {
-  "livro": "Salmos",
-  "capítulo": 111,
-  "versículos": {
-    "1": {
-      "título": "As obras magníficas de Deus",
-      "texto": "Aleluia!"
+    "livro": "Salmos",
+    "capitulo": 111,
+    "titulos": {
+        "1": "As obras magníficas de Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "Grandes são as obras do Senhor ,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Em suas obras"
-    },
-    "4": {
-      "título": "",
-      "texto": "Ele fez memoráveis"
-    },
-    "5": {
-      "título": "",
-      "texto": "Ele dá sustento aos que o temem;"
-    },
-    "6": {
-      "título": "",
-      "texto": "Manifestou ao seu povo"
-    },
-    "7": {
-      "título": "",
-      "texto": "As obras de suas mãos"
-    },
-    "8": {
-      "título": "",
-      "texto": "Estáveis são eles"
-    },
-    "9": {
-      "título": "",
-      "texto": "Enviou ao seu povo a redenção;"
-    },
-    "10": {
-      "título": "",
-      "texto": "O temor do Senhor"
+    "versiculos": {
+        "1": "Aleluia!",
+        "2": "Grandes são as obras do Senhor ,",
+        "3": "Em suas obras",
+        "4": "Ele fez memoráveis",
+        "5": "Ele dá sustento aos que o temem;",
+        "6": "Manifestou ao seu povo",
+        "7": "As obras de suas mãos",
+        "8": "Estáveis são eles",
+        "9": "Enviou ao seu povo a redenção;",
+        "10": "O temor do Senhor"
     }
-  }
 }

@@ -1,130 +1,41 @@
 {
-  "livro": "Isaías",
-  "capítulo": 40,
-  "versículos": {
-    "1": {
-      "título": "Mensagem de consolo",
-      "texto": "“Consolem, consolem"
+    "livro": "Isaías",
+    "capitulo": 40,
+    "titulos": {
+        "1": "Mensagem de consolo",
+        "12": "A majestade do Senhor"
     },
-    "2": {
-      "título": "",
-      "texto": "“Falem ao coração de Jerusalém"
-    },
-    "3": {
-      "título": "",
-      "texto": "Uma voz clama:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Todos os vales serão levantados,"
-    },
-    "5": {
-      "título": "",
-      "texto": "A glória do Senhor"
-    },
-    "6": {
-      "título": "",
-      "texto": "Uma voz diz: “Proclame!”"
-    },
-    "7": {
-      "título": "",
-      "texto": "A erva seca e as flores caem,"
-    },
-    "8": {
-      "título": "",
-      "texto": "A erva seca e as flores caem,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Ó Sião, você que anuncia"
-    },
-    "10": {
-      "título": "",
-      "texto": "Eis que o Senhor Deus"
-    },
-    "11": {
-      "título": "",
-      "texto": "Como pastor, ele apascentará"
-    },
-    "12": {
-      "título": "A majestade do Senhor",
-      "texto": "Quem na concha de sua mão"
-    },
-    "13": {
-      "título": "",
-      "texto": "Quem guiou"
-    },
-    "14": {
-      "título": "",
-      "texto": "Com quem ele se aconselhou,"
-    },
-    "15": {
-      "título": "",
-      "texto": "Eis que as nações"
-    },
-    "16": {
-      "título": "",
-      "texto": "O Líbano não seria suficiente"
-    },
-    "17": {
-      "título": "",
-      "texto": "Diante dele, todas as nações"
-    },
-    "18": {
-      "título": "",
-      "texto": "Com quem vocês querem"
-    },
-    "19": {
-      "título": "",
-      "texto": "Quanto à imagem,"
-    },
-    "20": {
-      "título": "",
-      "texto": "O pobre, que não pode fazer"
-    },
-    "21": {
-      "título": "",
-      "texto": "Será que vocês não sabem?"
-    },
-    "22": {
-      "título": "",
-      "texto": "Ele é o que está assentado"
-    },
-    "23": {
-      "título": "",
-      "texto": "É ele quem reduz a nada"
-    },
-    "24": {
-      "título": "",
-      "texto": "Mal foram plantados"
-    },
-    "25": {
-      "título": "",
-      "texto": "“Com quem vocês vão"
-    },
-    "26": {
-      "título": "",
-      "texto": "Levantem os olhos para o alto"
-    },
-    "27": {
-      "título": "",
-      "texto": "Por que, então, você diz, ó Jacó,"
-    },
-    "28": {
-      "título": "",
-      "texto": "Será que você não sabe,"
-    },
-    "29": {
-      "título": "",
-      "texto": "Ele fortalece o cansado"
-    },
-    "30": {
-      "título": "",
-      "texto": "Os jovens se cansam"
-    },
-    "31": {
-      "título": "",
-      "texto": "mas os que esperam no Senhor"
+    "versiculos": {
+        "1": "“Consolem, consolem",
+        "2": "“Falem ao coração de Jerusalém",
+        "3": "Uma voz clama:",
+        "4": "Todos os vales serão levantados,",
+        "5": "A glória do Senhor",
+        "6": "Uma voz diz: “Proclame!”",
+        "7": "A erva seca e as flores caem,",
+        "8": "A erva seca e as flores caem,",
+        "9": "Ó Sião, você que anuncia",
+        "10": "Eis que o Senhor Deus",
+        "11": "Como pastor, ele apascentará",
+        "12": "Quem na concha de sua mão",
+        "13": "Quem guiou",
+        "14": "Com quem ele se aconselhou,",
+        "15": "Eis que as nações",
+        "16": "O Líbano não seria suficiente",
+        "17": "Diante dele, todas as nações",
+        "18": "Com quem vocês querem",
+        "19": "Quanto à imagem,",
+        "20": "O pobre, que não pode fazer",
+        "21": "Será que vocês não sabem?",
+        "22": "Ele é o que está assentado",
+        "23": "É ele quem reduz a nada",
+        "24": "Mal foram plantados",
+        "25": "“Com quem vocês vão",
+        "26": "Levantem os olhos para o alto",
+        "27": "Por que, então, você diz, ó Jacó,",
+        "28": "Será que você não sabe,",
+        "29": "Ele fortalece o cansado",
+        "30": "Os jovens se cansam",
+        "31": "mas os que esperam no Senhor"
     }
-  }
 }

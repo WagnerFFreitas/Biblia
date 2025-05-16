@@ -1,102 +1,33 @@
 {
-  "livro": "Jó",
-  "capítulo": 37,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "“Diante disto,"
+    "livro": "Jó",
+    "capitulo": 37,
+    "titulos": {
+        "14": "Deus é perfeito em conhecimento"
     },
-    "2": {
-      "título": "",
-      "texto": "Ouçam atentamente"
-    },
-    "3": {
-      "título": "",
-      "texto": "Ele o solta por baixo"
-    },
-    "4": {
-      "título": "",
-      "texto": "Depois deste, ruge a sua voz,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Com a sua voz Deus"
-    },
-    "6": {
-      "título": "",
-      "texto": "Porque ele diz à neve:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Assim, ele torna inativas"
-    },
-    "8": {
-      "título": "",
-      "texto": "Os animais entram"
-    },
-    "9": {
-      "título": "",
-      "texto": "De suas recâmaras"
-    },
-    "10": {
-      "título": "",
-      "texto": "Pelo sopro de Deus"
-    },
-    "11": {
-      "título": "",
-      "texto": "Carrega de umidade"
-    },
-    "12": {
-      "título": "",
-      "texto": "Então as nuvens,"
-    },
-    "13": {
-      "título": "",
-      "texto": "E tudo isso ele faz vir"
-    },
-    "14": {
-      "título": "Deus é perfeito em conhecimento",
-      "texto": "“Dê ouvidos a isto, Jó;"
-    },
-    "15": {
-      "título": "",
-      "texto": "Será que você sabe"
-    },
-    "16": {
-      "título": "",
-      "texto": "Será que você sabe algo"
-    },
-    "17": {
-      "título": "",
-      "texto": "Você, cujas roupas"
-    },
-    "18": {
-      "título": "",
-      "texto": "será que você pode ajudar"
-    },
-    "19": {
-      "título": "",
-      "texto": "Ensine-nos o que devemos"
-    },
-    "20": {
-      "título": "",
-      "texto": "Será que alguém deveria"
-    },
-    "21": {
-      "título": "",
-      "texto": "“Eis que ninguém"
-    },
-    "22": {
-      "título": "",
-      "texto": "Do norte vem o áureo esplendor,"
-    },
-    "23": {
-      "título": "",
-      "texto": "Quanto ao Todo-Poderoso,"
-    },
-    "24": {
-      "título": "",
-      "texto": "Por isso, as pessoas o temem;"
+    "versiculos": {
+        "1": "“Diante disto,",
+        "2": "Ouçam atentamente",
+        "3": "Ele o solta por baixo",
+        "4": "Depois deste, ruge a sua voz,",
+        "5": "Com a sua voz Deus",
+        "6": "Porque ele diz à neve:",
+        "7": "Assim, ele torna inativas",
+        "8": "Os animais entram",
+        "9": "De suas recâmaras",
+        "10": "Pelo sopro de Deus",
+        "11": "Carrega de umidade",
+        "12": "Então as nuvens,",
+        "13": "E tudo isso ele faz vir",
+        "14": "“Dê ouvidos a isto, Jó;",
+        "15": "Será que você sabe",
+        "16": "Será que você sabe algo",
+        "17": "Você, cujas roupas",
+        "18": "será que você pode ajudar",
+        "19": "Ensine-nos o que devemos",
+        "20": "Será que alguém deveria",
+        "21": "“Eis que ninguém",
+        "22": "Do norte vem o áureo esplendor,",
+        "23": "Quanto ao Todo-Poderoso,",
+        "24": "Por isso, as pessoas o temem;"
     }
-  }
 }

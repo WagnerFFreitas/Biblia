@@ -1,62 +1,24 @@
 {
-  "livro": "Zacarias",
-  "capítulo": 7,
-  "versículos": {
-    "1": {
-      "título": "O jejum que não agrada a Deus",
-      "texto": "No quarto ano do reinado de Dario, no quarto dia do nono mês, que é o mês de quisleu, a palavra do Senhor veio a Zacarias."
+    "livro": "Zacarias",
+    "capitulo": 7,
+    "titulos": {
+        "1": "O jejum que não agrada a Deus",
+        "8": "A desobediência foi a causa do cativeiro"
     },
-    "2": {
-      "título": "",
-      "texto": "Ora, o povo de Betel tinha enviado Sarezer, Regém-Meleque e seus companheiros, para suplicarem o favor do Senhor ,"
-    },
-    "3": {
-      "título": "",
-      "texto": "perguntando aos sacerdotes, que estavam na Casa do Senhor dos Exércitos, e aos profetas: “Devemos nós continuar a chorar, com jejum, no quinto mês, como temos feito por tantos anos?”"
-    },
-    "4": {
-      "título": "",
-      "texto": "Então a palavra do Senhor dos Exércitos veio a mim, dizendo:"
-    },
-    "5": {
-      "título": "",
-      "texto": "— Pergunte a todo o povo desta terra e aos sacerdotes: Quando vocês jejuaram e prantearam, no quinto e no sétimo mês, durante estes setenta anos, será que foi realmente para mim que vocês jejuaram?"
-    },
-    "6": {
-      "título": "",
-      "texto": "Quando vocês comem e bebem, não é para vocês mesmos que comem e bebem?"
-    },
-    "7": {
-      "título": "",
-      "texto": "Será que vocês não ouviram as palavras que o Senhor pregou pelo ministério dos profetas que nos precederam, quando Jerusalém estava habitada e em paz com as suas cidades ao redor dela, e o Sul e a Sefelá eram habitados?"
-    },
-    "8": {
-      "título": "A desobediência foi a causa do cativeiro",
-      "texto": "A palavra do Senhor veio a Zacarias, dizendo:"
-    },
-    "9": {
-      "título": "",
-      "texto": "— Assim falou o Senhor dos Exércitos: “Julguem segundo a verdade e sejam bondosos e misericordiosos uns com os outros."
-    },
-    "10": {
-      "título": "",
-      "texto": "Não oprimam a viúva, nem o órfão, nem o estrangeiro, nem o pobre, e que ninguém faça planos para prejudicar o seu próximo.”"
-    },
-    "11": {
-      "título": "",
-      "texto": "Porém eles não quiseram atender e, rebeldes, me viraram as costas e taparam os ouvidos, para que não ouvissem."
-    },
-    "12": {
-      "título": "",
-      "texto": "Sim, fizeram o seu coração duro como diamante, para que não ouvissem a lei, nem as palavras que o Senhor dos Exércitos tinha enviado pelo seu Espírito, mediante os profetas que nos precederam; daí veio a grande ira do Senhor dos Exércitos."
-    },
-    "13": {
-      "título": "",
-      "texto": "Visto que eu clamei, e eles não me ouviram, eles também clamaram, e eu não os ouvi, diz o Senhor dos Exércitos."
-    },
-    "14": {
-      "título": "",
-      "texto": "Com uma tempestade, eu os espalhei por todas as nações que eles não conheciam. E a terra foi devastada atrás deles, de modo que ninguém passava por ela, nem voltava; porque da terra desejável fizeram uma desolação."
+    "versiculos": {
+        "1": "No quarto ano do reinado de Dario, no quarto dia do nono mês, que é o mês de quisleu, a palavra do Senhor veio a Zacarias.",
+        "2": "Ora, o povo de Betel tinha enviado Sarezer, Regém-Meleque e seus companheiros, para suplicarem o favor do Senhor ,",
+        "3": "perguntando aos sacerdotes, que estavam na Casa do Senhor dos Exércitos, e aos profetas: “Devemos nós continuar a chorar, com jejum, no quinto mês, como temos feito por tantos anos?”",
+        "4": "Então a palavra do Senhor dos Exércitos veio a mim, dizendo:",
+        "5": "— Pergunte a todo o povo desta terra e aos sacerdotes: Quando vocês jejuaram e prantearam, no quinto e no sétimo mês, durante estes setenta anos, será que foi realmente para mim que vocês jejuaram?",
+        "6": "Quando vocês comem e bebem, não é para vocês mesmos que comem e bebem?",
+        "7": "Será que vocês não ouviram as palavras que o Senhor pregou pelo ministério dos profetas que nos precederam, quando Jerusalém estava habitada e em paz com as suas cidades ao redor dela, e o Sul e a Sefelá eram habitados?",
+        "8": "A palavra do Senhor veio a Zacarias, dizendo:",
+        "9": "— Assim falou o Senhor dos Exércitos: “Julguem segundo a verdade e sejam bondosos e misericordiosos uns com os outros.",
+        "10": "Não oprimam a viúva, nem o órfão, nem o estrangeiro, nem o pobre, e que ninguém faça planos para prejudicar o seu próximo.”",
+        "11": "Porém eles não quiseram atender e, rebeldes, me viraram as costas e taparam os ouvidos, para que não ouvissem.",
+        "12": "Sim, fizeram o seu coração duro como diamante, para que não ouvissem a lei, nem as palavras que o Senhor dos Exércitos tinha enviado pelo seu Espírito, mediante os profetas que nos precederam; daí veio a grande ira do Senhor dos Exércitos.",
+        "13": "Visto que eu clamei, e eles não me ouviram, eles também clamaram, e eu não os ouvi, diz o Senhor dos Exércitos.",
+        "14": "Com uma tempestade, eu os espalhei por todas as nações que eles não conheciam. E a terra foi devastada atrás deles, de modo que ninguém passava por ela, nem voltava; porque da terra desejável fizeram uma desolação."
     }
-  }
 }

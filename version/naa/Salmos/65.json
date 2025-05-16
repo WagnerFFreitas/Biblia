@@ -1,58 +1,22 @@
 {
-  "livro": "Salmos",
-  "capítulo": 65,
-  "versículos": {
-    "1": {
-      "título": "Gratidão pelas colheitas",
-      "texto": "A ti, ó Deus, o louvor"
+    "livro": "Salmos",
+    "capitulo": 65,
+    "titulos": {
+        "1": "Gratidão pelas colheitas"
     },
-    "2": {
-      "título": "",
-      "texto": "Ó tu que escutas a oração,"
-    },
-    "3": {
-      "título": "",
-      "texto": "por causa de suas iniquidades."
-    },
-    "4": {
-      "título": "",
-      "texto": "Bem-aventurado"
-    },
-    "5": {
-      "título": "",
-      "texto": "Com tremendos feitos"
-    },
-    "6": {
-      "título": "",
-      "texto": "Com a tua força"
-    },
-    "7": {
-      "título": "",
-      "texto": "Tu acalmas o rugido dos mares,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Os que habitam"
-    },
-    "9": {
-      "título": "",
-      "texto": "Tu visitas a terra e a regas;"
-    },
-    "10": {
-      "título": "",
-      "texto": "regando-lhe os sulcos"
-    },
-    "11": {
-      "título": "",
-      "texto": "Coroas o ano da tua bondade;"
-    },
-    "12": {
-      "título": "",
-      "texto": "destilam sobre as pastagens"
-    },
-    "13": {
-      "título": "",
-      "texto": "Os campos se cobrem"
+    "versiculos": {
+        "1": "A ti, ó Deus, o louvor",
+        "2": "Ó tu que escutas a oração,",
+        "3": "por causa de suas iniquidades.",
+        "4": "Bem-aventurado",
+        "5": "Com tremendos feitos",
+        "6": "Com a tua força",
+        "7": "Tu acalmas o rugido dos mares,",
+        "8": "Os que habitam",
+        "9": "Tu visitas a terra e a regas;",
+        "10": "regando-lhe os sulcos",
+        "11": "Coroas o ano da tua bondade;",
+        "12": "destilam sobre as pastagens",
+        "13": "Os campos se cobrem"
     }
-  }
 }

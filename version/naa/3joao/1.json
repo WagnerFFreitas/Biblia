@@ -1,66 +1,27 @@
 {
-  "livro": "3 João",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "Prefácio e saudação",
-      "texto": "O presbítero ao amado Gaio, a quem eu amo na verdade."
+    "livro": "3 João",
+    "capitulo": 1,
+    "titulos": {
+        "1": "Prefácio e saudação",
+        "2": "O bom exemplo de Gaio",
+        "9": "Diótrefes e Demétrio",
+        "13": "Saudações finais"
     },
-    "2": {
-      "título": "O bom exemplo de Gaio",
-      "texto": "Amado, peço a Deus que tudo corra bem com você e que esteja com boa saúde, assim como vai bem a sua alma."
-    },
-    "3": {
-      "título": "",
-      "texto": "Pois fiquei muito alegre quando os irmãos vieram e deram testemunho de que você é fiel à verdade e vive de acordo com a verdade."
-    },
-    "4": {
-      "título": "",
-      "texto": "Não tenho maior alegria do que esta, a de ouvir que os meus filhos vivem de acordo com a verdade."
-    },
-    "5": {
-      "título": "",
-      "texto": "Amado, você tem sido fiel no que faz pelos irmãos, mesmo quando são estrangeiros."
-    },
-    "6": {
-      "título": "",
-      "texto": "Estes deram testemunho, diante da igreja, do amor que você tem. Você fará bem encaminhando-os em sua jornada de um modo que agrada a Deus."
-    },
-    "7": {
-      "título": "",
-      "texto": "Pois foi por causa do Nome que eles saíram, sem receber nada dos gentios."
-    },
-    "8": {
-      "título": "",
-      "texto": "Portanto, devemos acolher esses irmãos, para que nos tornemos cooperadores com eles na proclamação da verdade."
-    },
-    "9": {
-      "título": "Diótrefes e Demétrio",
-      "texto": "Escrevi algumas palavras à igreja, mas Diótrefes, que gosta de exercer a primazia entre eles, não nos dá acolhida."
-    },
-    "10": {
-      "título": "",
-      "texto": "Por isso, quando eu for aí, farei com que se lembre das obras que ele pratica, proferindo contra nós palavras caluniosas. E, não satisfeito com isso, ele não recebe os irmãos, impede os que querem recebê-los e os expulsa da igreja."
-    },
-    "11": {
-      "título": "",
-      "texto": "Amado, não imite o que é mau, e sim o que é bom. Quem pratica o bem procede de Deus; quem pratica o mal jamais viu a Deus."
-    },
-    "12": {
-      "título": "",
-      "texto": "Quanto a Demétrio, todos dão bom testemunho dele, até a própria verdade. E nós também damos testemunho, e você sabe que o nosso testemunho é verdadeiro."
-    },
-    "13": {
-      "título": "Saudações finais",
-      "texto": "Muitas coisas tinha para lhe escrever, mas não quis fazê-lo com tinta e pena,"
-    },
-    "14": {
-      "título": "",
-      "texto": "pois espero vê-lo em breve. Então conversaremos pessoalmente."
-    },
-    "15": {
-      "título": "",
-      "texto": "A paz esteja com você. Os amigos mandam saudações. Dê saudações aos amigos, um por um."
+    "versiculos": {
+        "1": "O presbítero ao amado Gaio, a quem eu amo na verdade.",
+        "2": "Amado, peço a Deus que tudo corra bem com você e que esteja com boa saúde, assim como vai bem a sua alma.",
+        "3": "Pois fiquei muito alegre quando os irmãos vieram e deram testemunho de que você é fiel à verdade e vive de acordo com a verdade.",
+        "4": "Não tenho maior alegria do que esta, a de ouvir que os meus filhos vivem de acordo com a verdade.",
+        "5": "Amado, você tem sido fiel no que faz pelos irmãos, mesmo quando são estrangeiros.",
+        "6": "Estes deram testemunho, diante da igreja, do amor que você tem. Você fará bem encaminhando-os em sua jornada de um modo que agrada a Deus.",
+        "7": "Pois foi por causa do Nome que eles saíram, sem receber nada dos gentios.",
+        "8": "Portanto, devemos acolher esses irmãos, para que nos tornemos cooperadores com eles na proclamação da verdade.",
+        "9": "Escrevi algumas palavras à igreja, mas Diótrefes, que gosta de exercer a primazia entre eles, não nos dá acolhida.",
+        "10": "Por isso, quando eu for aí, farei com que se lembre das obras que ele pratica, proferindo contra nós palavras caluniosas. E, não satisfeito com isso, ele não recebe os irmãos, impede os que querem recebê-los e os expulsa da igreja.",
+        "11": "Amado, não imite o que é mau, e sim o que é bom. Quem pratica o bem procede de Deus; quem pratica o mal jamais viu a Deus.",
+        "12": "Quanto a Demétrio, todos dão bom testemunho dele, até a própria verdade. E nós também damos testemunho, e você sabe que o nosso testemunho é verdadeiro.",
+        "13": "Muitas coisas tinha para lhe escrever, mas não quis fazê-lo com tinta e pena,",
+        "14": "pois espero vê-lo em breve. Então conversaremos pessoalmente.",
+        "15": "A paz esteja com você. Os amigos mandam saudações. Dê saudações aos amigos, um por um."
     }
-  }
 }

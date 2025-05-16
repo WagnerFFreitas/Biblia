@@ -1,150 +1,45 @@
 {
-  "livro": "Salmos",
-  "capítulo": 69,
-  "versículos": {
-    "1": {
-      "título": "Um grito de angústia",
-      "texto": "Salva-me, ó Deus,"
+    "livro": "Salmos",
+    "capitulo": 69,
+    "titulos": {
+        "1": "Um grito de angústia"
     },
-    "2": {
-      "título": "",
-      "texto": "Estou atolado"
-    },
-    "3": {
-      "título": "",
-      "texto": "Estou cansado de clamar,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Os que, sem razão, me odeiam"
-    },
-    "5": {
-      "título": "",
-      "texto": "Tu, ó Deus, bem conheces"
-    },
-    "6": {
-      "título": "",
-      "texto": "Não sejam envergonhados"
-    },
-    "7": {
-      "título": "",
-      "texto": "Pois tenho suportado afrontas"
-    },
-    "8": {
-      "título": "",
-      "texto": "Tornei-me um estranho"
-    },
-    "9": {
-      "título": "",
-      "texto": "Pois o zelo da tua casa"
-    },
-    "10": {
-      "título": "",
-      "texto": "Chorei, jejuei,"
-    },
-    "11": {
-      "título": "",
-      "texto": "Pus um pano de saco por roupa"
-    },
-    "12": {
-      "título": "",
-      "texto": "Os que se assentam"
-    },
-    "13": {
-      "título": "",
-      "texto": "Quanto a mim, porém, Senhor ,"
-    },
-    "14": {
-      "título": "",
-      "texto": "livra-me do lamaçal,"
-    },
-    "15": {
-      "título": "",
-      "texto": "Não deixes que"
-    },
-    "16": {
-      "título": "",
-      "texto": "Responde-me, Senhor ,"
-    },
-    "17": {
-      "título": "",
-      "texto": "Não escondas o rosto"
-    },
-    "18": {
-      "título": "",
-      "texto": "Aproxima-te de minha alma"
-    },
-    "19": {
-      "título": "",
-      "texto": "Tu conheces a minha afronta,"
-    },
-    "20": {
-      "título": "",
-      "texto": "As afrontas partiram"
-    },
-    "21": {
-      "título": "",
-      "texto": "Por alimento me deram fel"
-    },
-    "22": {
-      "título": "",
-      "texto": "Que a mesa deles se torne"
-    },
-    "23": {
-      "título": "",
-      "texto": "Que os olhos deles se escureçam,"
-    },
-    "24": {
-      "título": "",
-      "texto": "Derrama sobre eles"
-    },
-    "25": {
-      "título": "",
-      "texto": "Fique deserta a sua morada,"
-    },
-    "26": {
-      "título": "",
-      "texto": "Pois perseguem a quem tu feriste"
-    },
-    "27": {
-      "título": "",
-      "texto": "Soma-lhes iniquidade"
-    },
-    "28": {
-      "título": "",
-      "texto": "Sejam riscados"
-    },
-    "29": {
-      "título": "",
-      "texto": "Quanto a mim, porém,"
-    },
-    "30": {
-      "título": "",
-      "texto": "Louvarei com cânticos"
-    },
-    "31": {
-      "título": "",
-      "texto": "Isso será muito mais agradável"
-    },
-    "32": {
-      "título": "",
-      "texto": "Que os aflitos vejam isso"
-    },
-    "33": {
-      "título": "",
-      "texto": "Porque o Senhor"
-    },
-    "34": {
-      "título": "",
-      "texto": "Louvem-no os céus e a terra,"
-    },
-    "35": {
-      "título": "",
-      "texto": "Porque Deus salvará Sião"
-    },
-    "36": {
-      "título": "",
-      "texto": "Também a descendência"
+    "versiculos": {
+        "1": "Salva-me, ó Deus,",
+        "2": "Estou atolado",
+        "3": "Estou cansado de clamar,",
+        "4": "Os que, sem razão, me odeiam",
+        "5": "Tu, ó Deus, bem conheces",
+        "6": "Não sejam envergonhados",
+        "7": "Pois tenho suportado afrontas",
+        "8": "Tornei-me um estranho",
+        "9": "Pois o zelo da tua casa",
+        "10": "Chorei, jejuei,",
+        "11": "Pus um pano de saco por roupa",
+        "12": "Os que se assentam",
+        "13": "Quanto a mim, porém, Senhor ,",
+        "14": "livra-me do lamaçal,",
+        "15": "Não deixes que",
+        "16": "Responde-me, Senhor ,",
+        "17": "Não escondas o rosto",
+        "18": "Aproxima-te de minha alma",
+        "19": "Tu conheces a minha afronta,",
+        "20": "As afrontas partiram",
+        "21": "Por alimento me deram fel",
+        "22": "Que a mesa deles se torne",
+        "23": "Que os olhos deles se escureçam,",
+        "24": "Derrama sobre eles",
+        "25": "Fique deserta a sua morada,",
+        "26": "Pois perseguem a quem tu feriste",
+        "27": "Soma-lhes iniquidade",
+        "28": "Sejam riscados",
+        "29": "Quanto a mim, porém,",
+        "30": "Louvarei com cânticos",
+        "31": "Isso será muito mais agradável",
+        "32": "Que os aflitos vejam isso",
+        "33": "Porque o Senhor",
+        "34": "Louvem-no os céus e a terra,",
+        "35": "Porque Deus salvará Sião",
+        "36": "Também a descendência"
     }
-  }
 }

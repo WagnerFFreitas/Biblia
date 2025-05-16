@@ -1,58 +1,23 @@
 {
-  "livro": "Miquéias",
-  "capítulo": 4,
-  "versículos": {
-    "1": {
-      "título": "O monte do Senhor",
-      "texto": "Nos últimos dias,"
+    "livro": "Miquéias",
+    "capitulo": 4,
+    "titulos": {
+        "1": "O monte do Senhor",
+        "6": "Deus salvará o seu povo"
     },
-    "2": {
-      "título": "",
-      "texto": "Muitas nações virão e dirão:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Ele julgará entre muitos povos"
-    },
-    "4": {
-      "título": "",
-      "texto": "Mas cada um se assentará"
-    },
-    "5": {
-      "título": "",
-      "texto": "Porque todos os povos andam,"
-    },
-    "6": {
-      "título": "Deus salvará o seu povo",
-      "texto": "“Naquele dia”,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Dos que coxeiam"
-    },
-    "8": {
-      "título": "",
-      "texto": "A você, ó torre do rebanho,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Agora, por que você está"
-    },
-    "10": {
-      "título": "",
-      "texto": "Suporte as dores e faça força,"
-    },
-    "11": {
-      "título": "",
-      "texto": "Agora muitas nações se reuniram"
-    },
-    "12": {
-      "título": "",
-      "texto": "Mas essas nações não conhecem"
-    },
-    "13": {
-      "título": "",
-      "texto": "Levante-se e comece a debulhar,"
+    "versiculos": {
+        "1": "Nos últimos dias,",
+        "2": "Muitas nações virão e dirão:",
+        "3": "Ele julgará entre muitos povos",
+        "4": "Mas cada um se assentará",
+        "5": "Porque todos os povos andam,",
+        "6": "“Naquele dia”,",
+        "7": "Dos que coxeiam",
+        "8": "A você, ó torre do rebanho,",
+        "9": "Agora, por que você está",
+        "10": "Suporte as dores e faça força,",
+        "11": "Agora muitas nações se reuniram",
+        "12": "Mas essas nações não conhecem",
+        "13": "Levante-se e comece a debulhar,"
     }
-  }
 }

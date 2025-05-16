@@ -1,110 +1,35 @@
 {
-  "livro": "Salmos",
-  "capítulo": 44,
-  "versículos": {
-    "1": {
-      "título": "Apelo por auxílio divino",
-      "texto": "Ó Deus, nós ouvimos"
+    "livro": "Salmos",
+    "capitulo": 44,
+    "titulos": {
+        "1": "Apelo por auxílio divino"
     },
-    "2": {
-      "título": "",
-      "texto": "Com a tua mão"
-    },
-    "3": {
-      "título": "",
-      "texto": "Pois não foi por sua espada"
-    },
-    "4": {
-      "título": "",
-      "texto": "Tu és o meu rei, ó Deus;"
-    },
-    "5": {
-      "título": "",
-      "texto": "Com o teu auxílio,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Não confio no meu arco,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Pois tu nos salvaste"
-    },
-    "8": {
-      "título": "",
-      "texto": "Em Deus, nos temos gloriado"
-    },
-    "9": {
-      "título": "",
-      "texto": "Agora, porém, tu nos rejeitaste"
-    },
-    "10": {
-      "título": "",
-      "texto": "Tu nos fazes bater em retirada"
-    },
-    "11": {
-      "título": "",
-      "texto": "Entregaste-nos como ovelhas"
-    },
-    "12": {
-      "título": "",
-      "texto": "Vendes por nada o teu povo"
-    },
-    "13": {
-      "título": "",
-      "texto": "Tu nos fazes objeto de deboche"
-    },
-    "14": {
-      "título": "",
-      "texto": "Tu fazes de nós provérbio"
-    },
-    "15": {
-      "título": "",
-      "texto": "A minha humilhação"
-    },
-    "16": {
-      "título": "",
-      "texto": "ante os gritos do que afronta"
-    },
-    "17": {
-      "título": "",
-      "texto": "Tudo isso nos sobreveio;"
-    },
-    "18": {
-      "título": "",
-      "texto": "O nosso coração"
-    },
-    "19": {
-      "título": "",
-      "texto": "para nos esmagares"
-    },
-    "20": {
-      "título": "",
-      "texto": "Se tivéssemos esquecido"
-    },
-    "21": {
-      "título": "",
-      "texto": "será que Deus"
-    },
-    "22": {
-      "título": "",
-      "texto": "Mas, por amor de ti,"
-    },
-    "23": {
-      "título": "",
-      "texto": "Desperta! Por que dormes,"
-    },
-    "24": {
-      "título": "",
-      "texto": "Por que escondes o rosto"
-    },
-    "25": {
-      "título": "",
-      "texto": "Pois a nossa alma"
-    },
-    "26": {
-      "título": "",
-      "texto": "Levanta-te para socorrer-nos;"
+    "versiculos": {
+        "1": "Ó Deus, nós ouvimos",
+        "2": "Com a tua mão",
+        "3": "Pois não foi por sua espada",
+        "4": "Tu és o meu rei, ó Deus;",
+        "5": "Com o teu auxílio,",
+        "6": "Não confio no meu arco,",
+        "7": "Pois tu nos salvaste",
+        "8": "Em Deus, nos temos gloriado",
+        "9": "Agora, porém, tu nos rejeitaste",
+        "10": "Tu nos fazes bater em retirada",
+        "11": "Entregaste-nos como ovelhas",
+        "12": "Vendes por nada o teu povo",
+        "13": "Tu nos fazes objeto de deboche",
+        "14": "Tu fazes de nós provérbio",
+        "15": "A minha humilhação",
+        "16": "ante os gritos do que afronta",
+        "17": "Tudo isso nos sobreveio;",
+        "18": "O nosso coração",
+        "19": "para nos esmagares",
+        "20": "Se tivéssemos esquecido",
+        "21": "será que Deus",
+        "22": "Mas, por amor de ti,",
+        "23": "Desperta! Por que dormes,",
+        "24": "Por que escondes o rosto",
+        "25": "Pois a nossa alma",
+        "26": "Levanta-te para socorrer-nos;"
     }
-  }
 }

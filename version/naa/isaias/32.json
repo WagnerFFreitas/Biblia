@@ -1,86 +1,30 @@
 {
-  "livro": "Isaías",
-  "capítulo": 32,
-  "versículos": {
-    "1": {
-      "título": "Um reinado de justiça",
-      "texto": "Eis aí um rei que irá reinar"
+    "livro": "Isaías",
+    "capitulo": 32,
+    "titulos": {
+        "1": "Um reinado de justiça",
+        "9": "Advertências contra as mulheres de Jerusalém"
     },
-    "2": {
-      "título": "",
-      "texto": "Cada um deles servirá"
-    },
-    "3": {
-      "título": "",
-      "texto": "Os olhos dos que veem"
-    },
-    "4": {
-      "título": "",
-      "texto": "O coração dos apressados"
-    },
-    "5": {
-      "título": "",
-      "texto": "O tolo nunca mais"
-    },
-    "6": {
-      "título": "",
-      "texto": "Porque o tolo fala tolices,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Quanto ao fraudulento,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Mas o nobre projeta coisas nobres"
-    },
-    "9": {
-      "título": "Advertências contra as mulheres de Jerusalém",
-      "texto": "Vocês, mulheres"
-    },
-    "10": {
-      "título": "",
-      "texto": "Daqui a pouco mais de um ano,"
-    },
-    "11": {
-      "título": "",
-      "texto": "Vocês, mulheres"
-    },
-    "12": {
-      "título": "",
-      "texto": "Batam no peito e chorem"
-    },
-    "13": {
-      "título": "",
-      "texto": "Sobre a terra do meu povo"
-    },
-    "14": {
-      "título": "",
-      "texto": "O palácio será abandonado,"
-    },
-    "15": {
-      "título": "",
-      "texto": "Isso será assim"
-    },
-    "16": {
-      "título": "",
-      "texto": "a retidão habitará no deserto,"
-    },
-    "17": {
-      "título": "",
-      "texto": "O efeito da justiça será paz,"
-    },
-    "18": {
-      "título": "",
-      "texto": "O meu povo habitará"
-    },
-    "19": {
-      "título": "",
-      "texto": "mesmo que haja granizo,"
-    },
-    "20": {
-      "título": "",
-      "texto": "Bem-aventurados são vocês,"
+    "versiculos": {
+        "1": "Eis aí um rei que irá reinar",
+        "2": "Cada um deles servirá",
+        "3": "Os olhos dos que veem",
+        "4": "O coração dos apressados",
+        "5": "O tolo nunca mais",
+        "6": "Porque o tolo fala tolices,",
+        "7": "Quanto ao fraudulento,",
+        "8": "Mas o nobre projeta coisas nobres",
+        "9": "Vocês, mulheres",
+        "10": "Daqui a pouco mais de um ano,",
+        "11": "Vocês, mulheres",
+        "12": "Batam no peito e chorem",
+        "13": "Sobre a terra do meu povo",
+        "14": "O palácio será abandonado,",
+        "15": "Isso será assim",
+        "16": "a retidão habitará no deserto,",
+        "17": "O efeito da justiça será paz,",
+        "18": "O meu povo habitará",
+        "19": "mesmo que haja granizo,",
+        "20": "Bem-aventurados são vocês,"
     }
-  }
 }

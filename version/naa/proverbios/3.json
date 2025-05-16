@@ -1,146 +1,44 @@
 {
-  "livro": "Provérbios",
-  "capítulo": 3,
-  "versículos": {
-    "1": {
-      "título": "Conselhos da Sabedoria aos moços",
-      "texto": "Meu filho, não se esqueça"
+    "livro": "Provérbios",
+    "capitulo": 3,
+    "titulos": {
+        "1": "Conselhos da Sabedoria aos moços"
     },
-    "2": {
-      "título": "",
-      "texto": "porque eles aumentarão"
-    },
-    "3": {
-      "título": "",
-      "texto": "Não deixe que a bondade"
-    },
-    "4": {
-      "título": "",
-      "texto": "e você encontrará favor"
-    },
-    "5": {
-      "título": "",
-      "texto": "Confie no Senhor"
-    },
-    "6": {
-      "título": "",
-      "texto": "Reconheça o Senhor em todos"
-    },
-    "7": {
-      "título": "",
-      "texto": "Não seja sábio"
-    },
-    "8": {
-      "título": "",
-      "texto": "Isto será como um remédio"
-    },
-    "9": {
-      "título": "",
-      "texto": "Honre o Senhor com os seus bens"
-    },
-    "10": {
-      "título": "",
-      "texto": "e os seus celeiros ficarão"
-    },
-    "11": {
-      "título": "",
-      "texto": "Meu filho, não rejeite"
-    },
-    "12": {
-      "título": "",
-      "texto": "Porque o Senhor repreende"
-    },
-    "13": {
-      "título": "",
-      "texto": "Feliz é quem acha"
-    },
-    "14": {
-      "título": "",
-      "texto": "Porque o lucro"
-    },
-    "15": {
-      "título": "",
-      "texto": "A sabedoria é mais preciosa"
-    },
-    "16": {
-      "título": "",
-      "texto": "Em sua mão direita"
-    },
-    "17": {
-      "título": "",
-      "texto": "Os seus caminhos"
-    },
-    "18": {
-      "título": "",
-      "texto": "Ela é árvore de vida"
-    },
-    "19": {
-      "título": "",
-      "texto": "O Senhor com sabedoria lançou"
-    },
-    "20": {
-      "título": "",
-      "texto": "Pelo seu conhecimento"
-    },
-    "21": {
-      "título": "",
-      "texto": "Meu filho, que estas coisas"
-    },
-    "22": {
-      "título": "",
-      "texto": "porque serão vida para a sua alma"
-    },
-    "23": {
-      "título": "",
-      "texto": "Então você andará seguro"
-    },
-    "24": {
-      "título": "",
-      "texto": "Quando se deitar,"
-    },
-    "25": {
-      "título": "",
-      "texto": "Não temerá o pavor repentino,"
-    },
-    "26": {
-      "título": "",
-      "texto": "Porque o Senhor"
-    },
-    "27": {
-      "título": "",
-      "texto": "Não deixe de fazer o bem"
-    },
-    "28": {
-      "título": "",
-      "texto": "Não diga ao seu próximo:"
-    },
-    "29": {
-      "título": "",
-      "texto": "Não planeje nenhum mal"
-    },
-    "30": {
-      "título": "",
-      "texto": "Não entre em litígio"
-    },
-    "31": {
-      "título": "",
-      "texto": "Não tenha inveja"
-    },
-    "32": {
-      "título": "",
-      "texto": "porque o Senhor"
-    },
-    "33": {
-      "título": "",
-      "texto": "A maldição do Senhor está"
-    },
-    "34": {
-      "título": "",
-      "texto": "Certamente ele zomba"
-    },
-    "35": {
-      "título": "",
-      "texto": "Os sábios herdarão honra,"
+    "versiculos": {
+        "1": "Meu filho, não se esqueça",
+        "2": "porque eles aumentarão",
+        "3": "Não deixe que a bondade",
+        "4": "e você encontrará favor",
+        "5": "Confie no Senhor",
+        "6": "Reconheça o Senhor em todos",
+        "7": "Não seja sábio",
+        "8": "Isto será como um remédio",
+        "9": "Honre o Senhor com os seus bens",
+        "10": "e os seus celeiros ficarão",
+        "11": "Meu filho, não rejeite",
+        "12": "Porque o Senhor repreende",
+        "13": "Feliz é quem acha",
+        "14": "Porque o lucro",
+        "15": "A sabedoria é mais preciosa",
+        "16": "Em sua mão direita",
+        "17": "Os seus caminhos",
+        "18": "Ela é árvore de vida",
+        "19": "O Senhor com sabedoria lançou",
+        "20": "Pelo seu conhecimento",
+        "21": "Meu filho, que estas coisas",
+        "22": "porque serão vida para a sua alma",
+        "23": "Então você andará seguro",
+        "24": "Quando se deitar,",
+        "25": "Não temerá o pavor repentino,",
+        "26": "Porque o Senhor",
+        "27": "Não deixe de fazer o bem",
+        "28": "Não diga ao seu próximo:",
+        "29": "Não planeje nenhum mal",
+        "30": "Não entre em litígio",
+        "31": "Não tenha inveja",
+        "32": "porque o Senhor",
+        "33": "A maldição do Senhor está",
+        "34": "Certamente ele zomba",
+        "35": "Os sábios herdarão honra,"
     }
-  }
 }

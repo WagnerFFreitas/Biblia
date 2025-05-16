@@ -1,118 +1,38 @@
 {
-  "livro": "Gênesis",
-  "capítulo": 45,
-  "versículos": {
-    "1": {
-      "título": "José se dá a conhecer a seus irmãos",
-      "texto": "Então José, não conseguindo se conter diante de todos os que estavam com ele, gritou:"
+    "livro": "Gênesis",
+    "capitulo": 45,
+    "titulos": {
+        "1": "José se dá a conhecer a seus irmãos",
+        "16": "Faraó ouve falar dos irmãos de José"
     },
-    "2": {
-      "título": "",
-      "texto": "E levantou a voz em choro, de maneira que os egípcios o ouviam e também a casa de Faraó."
-    },
-    "3": {
-      "título": "",
-      "texto": "E disse a seus irmãos:"
-    },
-    "4": {
-      "título": "",
-      "texto": "E José disse aos seus irmãos:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Agora, pois, não fiquem tristes nem irritados contra vocês mesmos por terem me vendido para cá, porque foi para a preservação da vida que Deus me enviou adiante de vocês."
-    },
-    "6": {
-      "título": "",
-      "texto": "Porque já houve dois anos de fome na terra, e ainda restam cinco anos em que não haverá lavoura nem colheita."
-    },
-    "7": {
-      "título": "",
-      "texto": "Deus me enviou adiante de vocês, para que fosse conservado para vocês um remanescente na terra e para que a vida de vocês fosse salva por meio de um grande livramento."
-    },
-    "8": {
-      "título": "",
-      "texto": "Assim, não foram vocês que me enviaram para cá, e sim Deus, que fez de mim como que um pai de Faraó, e senhor de toda a sua casa, e como governador em toda a terra do Egito."
-    },
-    "9": {
-      "título": "",
-      "texto": "Voltem depressa para junto de meu pai e digam a ele: “Assim manda dizer o seu filho José: Deus me pôs por senhor em toda a terra do Egito. Venha para junto de mim; não demore."
-    },
-    "10": {
-      "título": "",
-      "texto": "O senhor habitará na terra de Gósen e estará perto de mim — o senhor, os seus filhos, os filhos de seus filhos, os seus rebanhos, o seu gado e tudo o que lhe pertence."
-    },
-    "11": {
-      "título": "",
-      "texto": "Ali eu o sustentarei, porque ainda haverá cinco anos de fome. Do contrário, acabará empobrecendo — o senhor, a sua casa e tudo o que lhe pertence.”"
-    },
-    "12": {
-      "título": "",
-      "texto": "José continuou:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Anunciem a meu pai toda a minha glória no Egito e tudo o que vocês puderam ver. Vão depressa e tragam o meu pai para cá."
-    },
-    "14": {
-      "título": "",
-      "texto": "E, lançando-se ao pescoço de seu irmão Benjamim, chorou. E, abraçado com ele, Benjamim também chorou."
-    },
-    "15": {
-      "título": "",
-      "texto": "José beijou todos os seus irmãos e chorou, abraçado com eles. Depois, os seus irmãos falaram com ele."
-    },
-    "16": {
-      "título": "Faraó ouve falar dos irmãos de José",
-      "texto": "Fez-se ouvir na casa de Faraó esta notícia: “Chegaram os irmãos de José.” E Faraó e seus oficiais ficaram contentes com a notícia."
-    },
-    "17": {
-      "título": "",
-      "texto": "Então Faraó disse a José:"
-    },
-    "18": {
-      "título": "",
-      "texto": "peguem o pai e as famílias de vocês e venham para junto de mim. Eu lhes darei o melhor da terra do Egito e vocês comerão a fartura da terra."
-    },
-    "19": {
-      "título": "",
-      "texto": "— Ordene que façam também isto: levem da terra do Egito carretas para trazer os filhinhos e as mulheres de vocês; tragam o pai de vocês e venham."
-    },
-    "20": {
-      "título": "",
-      "texto": "Não se preocupem com as suas coisas, porque o melhor de toda a terra do Egito será de vocês."
-    },
-    "21": {
-      "título": "",
-      "texto": "E os filhos de Israel fizeram assim. José lhes deu carretas, conforme a ordem de Faraó; também lhes deu mantimento para a viagem."
-    },
-    "22": {
-      "título": "",
-      "texto": "A cada um deles deu roupas novas, mas a Benjamim deu trezentas moedas de prata e cinco roupas novas."
-    },
-    "23": {
-      "título": "",
-      "texto": "Também enviou a seu pai dez jumentos carregados do melhor do Egito, e dez jumentas carregadas de cereais e pão, e mantimento para a viagem do pai."
-    },
-    "24": {
-      "título": "",
-      "texto": "E despediu os seus irmãos. Ao partirem, disse-lhes:"
-    },
-    "25": {
-      "título": "",
-      "texto": "Então partiram do Egito e vieram à terra de Canaã, a Jacó, seu pai,"
-    },
-    "26": {
-      "título": "",
-      "texto": "e lhe disseram:"
-    },
-    "27": {
-      "título": "",
-      "texto": "Mas, quando eles lhe contaram tudo o que José havia falado e quando ele viu as carretas que José havia mandado para levá-lo ao Egito, o espírito de Jacó, o pai deles, reviveu."
-    },
-    "28": {
-      "título": "",
-      "texto": "E Israel disse:"
+    "versiculos": {
+        "1": "Então José, não conseguindo se conter diante de todos os que estavam com ele, gritou:",
+        "2": "E levantou a voz em choro, de maneira que os egípcios o ouviam e também a casa de Faraó.",
+        "3": "E disse a seus irmãos:",
+        "4": "E José disse aos seus irmãos:",
+        "5": "Agora, pois, não fiquem tristes nem irritados contra vocês mesmos por terem me vendido para cá, porque foi para a preservação da vida que Deus me enviou adiante de vocês.",
+        "6": "Porque já houve dois anos de fome na terra, e ainda restam cinco anos em que não haverá lavoura nem colheita.",
+        "7": "Deus me enviou adiante de vocês, para que fosse conservado para vocês um remanescente na terra e para que a vida de vocês fosse salva por meio de um grande livramento.",
+        "8": "Assim, não foram vocês que me enviaram para cá, e sim Deus, que fez de mim como que um pai de Faraó, e senhor de toda a sua casa, e como governador em toda a terra do Egito.",
+        "9": "Voltem depressa para junto de meu pai e digam a ele: “Assim manda dizer o seu filho José: Deus me pôs por senhor em toda a terra do Egito. Venha para junto de mim; não demore.",
+        "10": "O senhor habitará na terra de Gósen e estará perto de mim — o senhor, os seus filhos, os filhos de seus filhos, os seus rebanhos, o seu gado e tudo o que lhe pertence.",
+        "11": "Ali eu o sustentarei, porque ainda haverá cinco anos de fome. Do contrário, acabará empobrecendo — o senhor, a sua casa e tudo o que lhe pertence.”",
+        "12": "José continuou:",
+        "13": "Anunciem a meu pai toda a minha glória no Egito e tudo o que vocês puderam ver. Vão depressa e tragam o meu pai para cá.",
+        "14": "E, lançando-se ao pescoço de seu irmão Benjamim, chorou. E, abraçado com ele, Benjamim também chorou.",
+        "15": "José beijou todos os seus irmãos e chorou, abraçado com eles. Depois, os seus irmãos falaram com ele.",
+        "16": "Fez-se ouvir na casa de Faraó esta notícia: “Chegaram os irmãos de José.” E Faraó e seus oficiais ficaram contentes com a notícia.",
+        "17": "Então Faraó disse a José:",
+        "18": "peguem o pai e as famílias de vocês e venham para junto de mim. Eu lhes darei o melhor da terra do Egito e vocês comerão a fartura da terra.",
+        "19": "— Ordene que façam também isto: levem da terra do Egito carretas para trazer os filhinhos e as mulheres de vocês; tragam o pai de vocês e venham.",
+        "20": "Não se preocupem com as suas coisas, porque o melhor de toda a terra do Egito será de vocês.",
+        "21": "E os filhos de Israel fizeram assim. José lhes deu carretas, conforme a ordem de Faraó; também lhes deu mantimento para a viagem.",
+        "22": "A cada um deles deu roupas novas, mas a Benjamim deu trezentas moedas de prata e cinco roupas novas.",
+        "23": "Também enviou a seu pai dez jumentos carregados do melhor do Egito, e dez jumentas carregadas de cereais e pão, e mantimento para a viagem do pai.",
+        "24": "E despediu os seus irmãos. Ao partirem, disse-lhes:",
+        "25": "Então partiram do Egito e vieram à terra de Canaã, a Jacó, seu pai,",
+        "26": "e lhe disseram:",
+        "27": "Mas, quando eles lhe contaram tudo o que José havia falado e quando ele viu as carretas que José havia mandado para levá-lo ao Egito, o espírito de Jacó, o pai deles, reviveu.",
+        "28": "E Israel disse:"
     }
-  }
 }

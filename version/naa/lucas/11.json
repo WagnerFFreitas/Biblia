@@ -1,222 +1,71 @@
 {
-  "livro": "Lucas",
-  "capítulo": 11,
-  "versículos": {
-    "1": {
-      "título": "Jesus ensina a orar",
-      "texto": "Jesus estava orando em certo lugar e, quando terminou, um dos seus discípulos lhe pediu:"
+    "livro": "Lucas",
+    "capitulo": 11,
+    "titulos": {
+        "1": "Jesus ensina a orar",
+        "5": "A parábola do amigo que incomoda",
+        "9": "Jesus encoraja a oração",
+        "14": "Jesus e Belzebu",
+        "24": "A volta do espírito imundo",
+        "27": "A exclamação de uma mulher",
+        "29": "O sinal de Jonas",
+        "33": "A luz do corpo",
+        "37": "Jesus censura os fariseus e os escribas"
     },
-    "2": {
-      "título": "",
-      "texto": "Então Jesus disse:"
-    },
-    "3": {
-      "título": "",
-      "texto": "o pão nosso de cada dia"
-    },
-    "4": {
-      "título": "",
-      "texto": "perdoa-nos os nossos pecados,"
-    },
-    "5": {
-      "título": "A parábola do amigo que incomoda",
-      "texto": "Jesus disse ainda:"
-    },
-    "6": {
-      "título": "",
-      "texto": "porque outro amigo meu chegou de viagem e eu não tenho nada para lhe oferecer”;"
-    },
-    "7": {
-      "título": "",
-      "texto": "e se o outro lhe responder lá de dentro: “Deixe-me em paz! A porta já está fechada, e eu e os meus filhos já estamos deitados. Não posso me levantar para lhe dar os pães”,"
-    },
-    "8": {
-      "título": "",
-      "texto": "digo a vocês que, se ele não se levantar para dar esses pães por ser seu amigo, ele o fará por causa do incômodo e lhe dará tudo de que tiver necessidade."
-    },
-    "9": {
-      "título": "Jesus encoraja a oração",
-      "texto": "— Por isso, digo a vocês: Peçam e lhes será dado; busquem e acharão; batam, e a porta será aberta para vocês."
-    },
-    "10": {
-      "título": "",
-      "texto": "Pois todo o que pede recebe; o que busca encontra; e a quem bate, a porta será aberta."
-    },
-    "11": {
-      "título": "",
-      "texto": "Quem de vocês, sendo pai, daria uma cobra ao filho que lhe pede um peixe?"
-    },
-    "12": {
-      "título": "",
-      "texto": "Ou daria um escorpião ao filho que lhe pede um ovo?"
-    },
-    "13": {
-      "título": "",
-      "texto": "Ora, se vocês, que são maus, sabem dar coisas boas aos seus filhos, quanto mais o Pai celeste dará o Espírito Santo aos que lhe pedirem!"
-    },
-    "14": {
-      "título": "Jesus e Belzebu",
-      "texto": "Certo dia, Jesus estava expulsando um demônio que era mudo. E aconteceu que, ao sair o demônio, o mudo passou a falar. E as multidões se admiravam."
-    },
-    "15": {
-      "título": "",
-      "texto": "Mas alguns deles diziam:"
-    },
-    "16": {
-      "título": "",
-      "texto": "E outros, tentando-o, pediam dele um sinal vindo do céu."
-    },
-    "17": {
-      "título": "",
-      "texto": "Mas Jesus, sabendo o que passava pela mente deles, disse-lhes:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Se também Satanás estiver dividido contra si mesmo, como o seu reino subsistirá? Isto porque vocês dizem que eu expulso os demônios por Belzebu."
-    },
-    "19": {
-      "título": "",
-      "texto": "E, se eu expulso os demônios por Belzebu, por quem os filhos de vocês os expulsam? Por isso, eles mesmos serão os juízes de vocês."
-    },
-    "20": {
-      "título": "",
-      "texto": "Se, porém, eu expulso os demônios pelo dedo de Deus, certamente é chegado o Reino de Deus sobre vocês."
-    },
-    "21": {
-      "título": "",
-      "texto": "Quando o valente, bem-armado, guarda a sua própria casa, todos os seus bens ficam em segurança."
-    },
-    "22": {
-      "título": "",
-      "texto": "Mas, se aparece alguém mais valente do que ele, vence-o, tira-lhe a armadura em que confiava e reparte os seus despojos."
-    },
-    "23": {
-      "título": "",
-      "texto": "Quem não é por mim é contra mim; e quem comigo não ajunta espalha."
-    },
-    "24": {
-      "título": "A volta do espírito imundo",
-      "texto": "— Quando o espírito imundo sai de uma pessoa, anda por lugares áridos, procurando repouso. E, não o achando, diz: “Voltarei para a minha casa, de onde saí.”"
-    },
-    "25": {
-      "título": "",
-      "texto": "E, voltando, a encontra varrida e arrumada."
-    },
-    "26": {
-      "título": "",
-      "texto": "Então vai e leva consigo outros sete espíritos, piores do que ele, e, entrando, habitam ali. E o último estado daquela pessoa se torna pior do que o primeiro."
-    },
-    "27": {
-      "título": "A exclamação de uma mulher",
-      "texto": "Aconteceu que, ao dizer Jesus estas palavras, uma mulher, que estava no meio da multidão, disse a ele, erguendo a voz:"
-    },
-    "28": {
-      "título": "",
-      "texto": "Jesus, porém, respondeu:"
-    },
-    "29": {
-      "título": "O sinal de Jonas",
-      "texto": "Visto que aumentavam as multidões em volta dele, Jesus começou a dizer:"
-    },
-    "30": {
-      "título": "",
-      "texto": "Porque, assim como Jonas foi sinal para os ninivitas, o Filho do Homem o será para esta geração."
-    },
-    "31": {
-      "título": "",
-      "texto": "A rainha do Sul se levantará, no Juízo, com os homens desta geração e os condenará, porque veio dos confins da terra para ouvir a sabedoria de Salomão. E aqui está quem é maior do que Salomão."
-    },
-    "32": {
-      "título": "",
-      "texto": "Ninivitas se levantarão, no Juízo, com esta geração e a condenarão, porque se arrependeram com a pregação de Jonas. E aqui está quem é maior do que Jonas."
-    },
-    "33": {
-      "título": "A luz do corpo",
-      "texto": "— Ninguém, depois de acender uma lamparina, a coloca em lugar escondido, nem debaixo de um cesto, mas num lugar em que ilumina bem, a fim de que os que entram vejam a luz."
-    },
-    "34": {
-      "título": "",
-      "texto": "Os olhos são a lâmpada do corpo. Se os seus olhos forem bons, todo o seu corpo será cheio de luz; mas, se forem maus, o seu corpo ficará em trevas."
-    },
-    "35": {
-      "título": "",
-      "texto": "Portanto, tenha cuidado para que a luz que está em você não sejam trevas."
-    },
-    "36": {
-      "título": "",
-      "texto": "Pois, se todo o seu corpo for luminoso, sem ter qualquer parte em trevas, será todo resplandecente como a lamparina quando ilumina você em plena luz."
-    },
-    "37": {
-      "título": "Jesus censura os fariseus e os escribas",
-      "texto": "Ao falar Jesus estas palavras, um fariseu o convidou para uma refeição na sua casa. Entrando na casa, Jesus tomou lugar à mesa."
-    },
-    "38": {
-      "título": "",
-      "texto": "O fariseu admirou-se ao ver que Jesus não tinha se lavado antes de comer."
-    },
-    "39": {
-      "título": "",
-      "texto": "Então o Senhor lhe disse:"
-    },
-    "40": {
-      "título": "",
-      "texto": "Seus tolos! Quem fez o exterior não é o mesmo que fez o interior?"
-    },
-    "41": {
-      "título": "",
-      "texto": "Mas deem como esmola o que está dentro do copo e do prato, e tudo lhes será limpo."
-    },
-    "42": {
-      "título": "",
-      "texto": "Ai de vocês, fariseus! Porque vocês dão o dízimo da hortelã, da arruda e de todas as hortaliças, e desprezam a justiça e o amor de Deus. Vocês deveriam fazer estas coisas, sem omitir aquelas."
-    },
-    "43": {
-      "título": "",
-      "texto": "Ai de vocês, fariseus! Porque gostam da primeira cadeira nas sinagogas e das saudações nas praças."
-    },
-    "44": {
-      "título": "",
-      "texto": "Ai de vocês que são como as sepulturas invisíveis, sobre as quais as pessoas passam sem perceber!"
-    },
-    "45": {
-      "título": "",
-      "texto": "Então, tomando a palavra, um dos intérpretes da Lei disse a Jesus:"
-    },
-    "46": {
-      "título": "",
-      "texto": "Mas Jesus respondeu:"
-    },
-    "47": {
-      "título": "",
-      "texto": "Ai de vocês! Porque edificam os túmulos dos profetas que os pais de vocês assassinaram."
-    },
-    "48": {
-      "título": "",
-      "texto": "Assim, são testemunhas e aprovam com cumplicidade as obras dos pais de vocês; porque eles mataram os profetas, e vocês edificam túmulos para eles."
-    },
-    "49": {
-      "título": "",
-      "texto": "Por isso, também disse a sabedoria de Deus: “Mandarei para eles profetas e apóstolos, e a alguns deles matarão e a outros perseguirão”,"
-    },
-    "50": {
-      "título": "",
-      "texto": "para que desta geração se peçam contas do sangue dos profetas, derramado desde a fundação do mundo,"
-    },
-    "51": {
-      "título": "",
-      "texto": "desde o sangue de Abel até o sangue de Zacarias, que foi assassinado entre o altar e o santuário. Sim, eu afirmo a vocês que se pedirão contas a esta geração."
-    },
-    "52": {
-      "título": "",
-      "texto": "Ai de vocês, intérpretes da Lei! Porque vocês pegaram a chave do conhecimento. No entanto, vocês mesmos não entraram e impediram os que estavam entrando."
-    },
-    "53": {
-      "título": "",
-      "texto": "Quando Jesus saiu dali, os escribas e fariseus começaram a contestá-lo com veemência, fazendo perguntas a respeito de muitos assuntos,"
-    },
-    "54": {
-      "título": "",
-      "texto": "com o objetivo de tirar daquilo que ele dizia um motivo para o acusar."
+    "versiculos": {
+        "1": "Jesus estava orando em certo lugar e, quando terminou, um dos seus discípulos lhe pediu:",
+        "2": "Então Jesus disse:",
+        "3": "o pão nosso de cada dia",
+        "4": "perdoa-nos os nossos pecados,",
+        "5": "Jesus disse ainda:",
+        "6": "porque outro amigo meu chegou de viagem e eu não tenho nada para lhe oferecer”;",
+        "7": "e se o outro lhe responder lá de dentro: “Deixe-me em paz! A porta já está fechada, e eu e os meus filhos já estamos deitados. Não posso me levantar para lhe dar os pães”,",
+        "8": "digo a vocês que, se ele não se levantar para dar esses pães por ser seu amigo, ele o fará por causa do incômodo e lhe dará tudo de que tiver necessidade.",
+        "9": "— Por isso, digo a vocês: Peçam e lhes será dado; busquem e acharão; batam, e a porta será aberta para vocês.",
+        "10": "Pois todo o que pede recebe; o que busca encontra; e a quem bate, a porta será aberta.",
+        "11": "Quem de vocês, sendo pai, daria uma cobra ao filho que lhe pede um peixe?",
+        "12": "Ou daria um escorpião ao filho que lhe pede um ovo?",
+        "13": "Ora, se vocês, que são maus, sabem dar coisas boas aos seus filhos, quanto mais o Pai celeste dará o Espírito Santo aos que lhe pedirem!",
+        "14": "Certo dia, Jesus estava expulsando um demônio que era mudo. E aconteceu que, ao sair o demônio, o mudo passou a falar. E as multidões se admiravam.",
+        "15": "Mas alguns deles diziam:",
+        "16": "E outros, tentando-o, pediam dele um sinal vindo do céu.",
+        "17": "Mas Jesus, sabendo o que passava pela mente deles, disse-lhes:",
+        "18": "Se também Satanás estiver dividido contra si mesmo, como o seu reino subsistirá? Isto porque vocês dizem que eu expulso os demônios por Belzebu.",
+        "19": "E, se eu expulso os demônios por Belzebu, por quem os filhos de vocês os expulsam? Por isso, eles mesmos serão os juízes de vocês.",
+        "20": "Se, porém, eu expulso os demônios pelo dedo de Deus, certamente é chegado o Reino de Deus sobre vocês.",
+        "21": "Quando o valente, bem-armado, guarda a sua própria casa, todos os seus bens ficam em segurança.",
+        "22": "Mas, se aparece alguém mais valente do que ele, vence-o, tira-lhe a armadura em que confiava e reparte os seus despojos.",
+        "23": "Quem não é por mim é contra mim; e quem comigo não ajunta espalha.",
+        "24": "— Quando o espírito imundo sai de uma pessoa, anda por lugares áridos, procurando repouso. E, não o achando, diz: “Voltarei para a minha casa, de onde saí.”",
+        "25": "E, voltando, a encontra varrida e arrumada.",
+        "26": "Então vai e leva consigo outros sete espíritos, piores do que ele, e, entrando, habitam ali. E o último estado daquela pessoa se torna pior do que o primeiro.",
+        "27": "Aconteceu que, ao dizer Jesus estas palavras, uma mulher, que estava no meio da multidão, disse a ele, erguendo a voz:",
+        "28": "Jesus, porém, respondeu:",
+        "29": "Visto que aumentavam as multidões em volta dele, Jesus começou a dizer:",
+        "30": "Porque, assim como Jonas foi sinal para os ninivitas, o Filho do Homem o será para esta geração.",
+        "31": "A rainha do Sul se levantará, no Juízo, com os homens desta geração e os condenará, porque veio dos confins da terra para ouvir a sabedoria de Salomão. E aqui está quem é maior do que Salomão.",
+        "32": "Ninivitas se levantarão, no Juízo, com esta geração e a condenarão, porque se arrependeram com a pregação de Jonas. E aqui está quem é maior do que Jonas.",
+        "33": "— Ninguém, depois de acender uma lamparina, a coloca em lugar escondido, nem debaixo de um cesto, mas num lugar em que ilumina bem, a fim de que os que entram vejam a luz.",
+        "34": "Os olhos são a lâmpada do corpo. Se os seus olhos forem bons, todo o seu corpo será cheio de luz; mas, se forem maus, o seu corpo ficará em trevas.",
+        "35": "Portanto, tenha cuidado para que a luz que está em você não sejam trevas.",
+        "36": "Pois, se todo o seu corpo for luminoso, sem ter qualquer parte em trevas, será todo resplandecente como a lamparina quando ilumina você em plena luz.",
+        "37": "Ao falar Jesus estas palavras, um fariseu o convidou para uma refeição na sua casa. Entrando na casa, Jesus tomou lugar à mesa.",
+        "38": "O fariseu admirou-se ao ver que Jesus não tinha se lavado antes de comer.",
+        "39": "Então o Senhor lhe disse:",
+        "40": "Seus tolos! Quem fez o exterior não é o mesmo que fez o interior?",
+        "41": "Mas deem como esmola o que está dentro do copo e do prato, e tudo lhes será limpo.",
+        "42": "Ai de vocês, fariseus! Porque vocês dão o dízimo da hortelã, da arruda e de todas as hortaliças, e desprezam a justiça e o amor de Deus. Vocês deveriam fazer estas coisas, sem omitir aquelas.",
+        "43": "Ai de vocês, fariseus! Porque gostam da primeira cadeira nas sinagogas e das saudações nas praças.",
+        "44": "Ai de vocês que são como as sepulturas invisíveis, sobre as quais as pessoas passam sem perceber!",
+        "45": "Então, tomando a palavra, um dos intérpretes da Lei disse a Jesus:",
+        "46": "Mas Jesus respondeu:",
+        "47": "Ai de vocês! Porque edificam os túmulos dos profetas que os pais de vocês assassinaram.",
+        "48": "Assim, são testemunhas e aprovam com cumplicidade as obras dos pais de vocês; porque eles mataram os profetas, e vocês edificam túmulos para eles.",
+        "49": "Por isso, também disse a sabedoria de Deus: “Mandarei para eles profetas e apóstolos, e a alguns deles matarão e a outros perseguirão”,",
+        "50": "para que desta geração se peçam contas do sangue dos profetas, derramado desde a fundação do mundo,",
+        "51": "desde o sangue de Abel até o sangue de Zacarias, que foi assassinado entre o altar e o santuário. Sim, eu afirmo a vocês que se pedirão contas a esta geração.",
+        "52": "Ai de vocês, intérpretes da Lei! Porque vocês pegaram a chave do conhecimento. No entanto, vocês mesmos não entraram e impediram os que estavam entrando.",
+        "53": "Quando Jesus saiu dali, os escribas e fariseus começaram a contestá-lo com veemência, fazendo perguntas a respeito de muitos assuntos,",
+        "54": "com o objetivo de tirar daquilo que ele dizia um motivo para o acusar."
     }
-  }
 }

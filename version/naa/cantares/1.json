@@ -1,74 +1,31 @@
 {
-  "livro": "Cantares de Salomâo",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Cântico dos cânticos de Salomão."
+    "livro": "Cantares de Salomâo",
+    "capitulo": 1,
+    "titulos": {
+        "2": "Esposa",
+        "5": "Esposa",
+        "8": "Esposo",
+        "12": "Esposa",
+        "15": "Esposo",
+        "16": "Esposa"
     },
-    "2": {
-      "título": "Primeiro cântico Esposa",
-      "texto": "Beije-me com os beijos de sua boca! Porque o seu amor é melhor do que o vinho."
-    },
-    "3": {
-      "título": "",
-      "texto": "Suave é o aroma dos seus perfumes; como perfume derramado é o seu nome. Por isso, as donzelas o amam."
-    },
-    "4": {
-      "título": "",
-      "texto": "Leve-me com você! Vamos depressa! O rei me introduziu nos seus aposentos. Exultaremos e nos alegraremos por sua causa; do seu amor nos lembraremos, mais do que do vinho. Não é sem razão que o amam."
-    },
-    "5": {
-      "título": "Coro Esposa",
-      "texto": "Eu sou morena e bonita, ó filhas de Jerusalém, como as tendas de Quedar, como as cortinas de Salomão."
-    },
-    "6": {
-      "título": "",
-      "texto": "Não olhem para a minha pele morena, porque o sol me queimou. Os filhos de minha mãe se indignaram contra mim e me puseram por guarda das vinhas; mas a minha vinha, que me pertence, não a guardei."
-    },
-    "7": {
-      "título": "",
-      "texto": "Diga-me, ó amado de minha alma: Onde você apascenta o seu rebanho? Onde você o faz repousar ao meio-dia? Diga, para que eu não ande vagando junto ao rebanho dos seus companheiros."
-    },
-    "8": {
-      "título": "Esposo",
-      "texto": "Se você, a mais bela das mulheres, não o sabe, siga as pisadas dos rebanhos e apascente os seus cabritos junto às tendas dos pastores."
-    },
-    "9": {
-      "título": "",
-      "texto": "Comparo você, minha querida, com as éguas das carruagens de Faraó."
-    },
-    "10": {
-      "título": "",
-      "texto": "O seu rosto fica lindo com os enfeites, o seu pescoço, com os colares."
-    },
-    "11": {
-      "título": "",
-      "texto": "Faremos para você enfeites de ouro, com incrustações de prata."
-    },
-    "12": {
-      "título": "Esposa",
-      "texto": "Enquanto o rei está assentado à sua mesa, o meu nardo exala o seu perfume."
-    },
-    "13": {
-      "título": "",
-      "texto": "O meu amado é para mim como um sachê de mirra, posto entre os meus seios."
-    },
-    "14": {
-      "título": "",
-      "texto": "O meu amado é para mim como um ramalhete de flores de hena nas vinhas de En-Gedi."
-    },
-    "15": {
-      "título": "Esposo",
-      "texto": "Como você é bela, minha querida! Como você é bela! Os seus olhos são como pombas."
-    },
-    "16": {
-      "título": "Esposa",
-      "texto": "Como você é belo, meu amado! Como é encantador! O nosso leito é de viçosa relva."
-    },
-    "17": {
-      "título": "",
-      "texto": "As vigas da nossa casa são os cedros, e o nosso teto são os ciprestes."
+    "versiculos": {
+        "1": "Cântico dos cânticos de Salomão.",
+        "2": "Beije-me com os beijos",
+        "3": "Suave é o aroma",
+        "4": "Leve-me com você!",
+        "5": "Eu sou morena e bonita,",
+        "6": "Não olhem para a minha",
+        "7": "Diga-me, ó amado",
+        "8": "Se você, a mais bela",
+        "9": "Comparo você, minha querida,",
+        "10": "O seu rosto fica lindo",
+        "11": "Faremos para você",
+        "12": "Enquanto o rei está assentado",
+        "13": "O meu amado é para mim",
+        "14": "O meu amado é para mim",
+        "15": "Como você é bela,",
+        "16": "Como você é belo, meu amado!",
+        "17": "As vigas da nossa casa"
     }
-  }
 }

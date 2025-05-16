@@ -1,110 +1,36 @@
 {
-  "livro": "Ezequiel",
-  "capítulo": 30,
-  "versículos": {
-    "1": {
-      "título": "O Egito será conquistado pela Babilônia",
-      "texto": "A palavra do Senhor veio a mim, dizendo:"
+    "livro": "Ezequiel",
+    "capitulo": 30,
+    "titulos": {
+        "1": "O Egito será conquistado pela Babilônia",
+        "20": "O rei de braços quebrados"
     },
-    "2": {
-      "título": "",
-      "texto": "— Filho do homem, profetize e diga: Assim diz o Senhor Deus :"
-    },
-    "3": {
-      "título": "",
-      "texto": "Porque está perto o dia,"
-    },
-    "4": {
-      "título": "",
-      "texto": "A espada virá contra o Egito,"
-    },
-    "5": {
-      "título": "",
-      "texto": "A Etiópia, Pute, Lude"
-    },
-    "6": {
-      "título": "",
-      "texto": "Assim diz o Senhor :"
-    },
-    "7": {
-      "título": "",
-      "texto": "“Serão desolados"
-    },
-    "8": {
-      "título": "",
-      "texto": "Saberão que eu sou o Senhor ,"
-    },
-    "9": {
-      "título": "",
-      "texto": "— Naquele dia, enviarei mensageiros em navios, para amedrontarem o povo da Etiópia, que vive despreocupado, e haverá angústia entre eles no dia da ruína do Egito; pois eis que já vem."
-    },
-    "10": {
-      "título": "",
-      "texto": "Assim diz o Senhor Deus :"
-    },
-    "11": {
-      "título": "",
-      "texto": "Ele e o seu povo com ele,"
-    },
-    "12": {
-      "título": "",
-      "texto": "Secarei os rios e venderei a terra,"
-    },
-    "13": {
-      "título": "",
-      "texto": "Assim diz o Senhor Deus :"
-    },
-    "14": {
-      "título": "",
-      "texto": "Farei de Patros uma desolação,"
-    },
-    "15": {
-      "título": "",
-      "texto": "Derramarei o meu furor"
-    },
-    "16": {
-      "título": "",
-      "texto": "Atearei fogo no Egito."
-    },
-    "17": {
-      "título": "",
-      "texto": "Os jovens de Áven e de Pi-Besete"
-    },
-    "18": {
-      "título": "",
-      "texto": "Em Tafnes, o dia se escurecerá,"
-    },
-    "19": {
-      "título": "",
-      "texto": "Assim, executarei juízo no Egito,"
-    },
-    "20": {
-      "título": "O rei de braços quebrados",
-      "texto": "No décimo primeiro ano, no primeiro mês, aos sete dias do mês, a palavra do Senhor veio a mim, dizendo:"
-    },
-    "21": {
-      "título": "",
-      "texto": "— Filho do homem, eu quebrei o braço de Faraó, rei do Egito, e eis que não foi atado para que seja tratado com remédios, nem posto numa tala para tornar-se forte o bastante para empunhar a espada."
-    },
-    "22": {
-      "título": "",
-      "texto": "Portanto, assim diz o Senhor Deus : “Eis que eu estou contra Faraó, rei do Egito. Quebrarei os seus braços, tanto o forte como o que já está quebrado, e farei com que a espada caia da sua mão."
-    },
-    "23": {
-      "título": "",
-      "texto": "Dispersarei os egípcios entre as nações e os espalharei por outras terras."
-    },
-    "24": {
-      "título": "",
-      "texto": "Fortalecerei os braços do rei da Babilônia e porei a minha espada na mão dele. Porém quebrarei os braços de Faraó, que, diante dele, gemerá como geme quem foi mortalmente ferido."
-    },
-    "25": {
-      "título": "",
-      "texto": "Levantarei os braços do rei da Babilônia, mas os braços de Faraó cairão. Saberão que eu sou o Senhor , quando eu puser a minha espada na mão do rei da Babilônia e ele a estender contra a terra do Egito."
-    },
-    "26": {
-      "título": "",
-      "texto": "Dispersarei os egípcios entre as nações e os espalharei por outras terras. Assim eles saberão que eu sou o Senhor .”"
+    "versiculos": {
+        "1": "A palavra do Senhor veio a mim, dizendo:",
+        "2": "— Filho do homem, profetize e diga: Assim diz o Senhor Deus :",
+        "3": "Porque está perto o dia,",
+        "4": "A espada virá contra o Egito,",
+        "5": "A Etiópia, Pute, Lude",
+        "6": "Assim diz o Senhor :",
+        "7": "“Serão desolados",
+        "8": "Saberão que eu sou o Senhor ,",
+        "9": "— Naquele dia, enviarei mensageiros em navios, para amedrontarem o povo da Etiópia, que vive despreocupado, e haverá angústia entre eles no dia da ruína do Egito; pois eis que já vem.",
+        "10": "Assim diz o Senhor Deus :",
+        "11": "Ele e o seu povo com ele,",
+        "12": "Secarei os rios e venderei a terra,",
+        "13": "Assim diz o Senhor Deus :",
+        "14": "Farei de Patros uma desolação,",
+        "15": "Derramarei o meu furor",
+        "16": "Atearei fogo no Egito.",
+        "17": "Os jovens de Áven e de Pi-Besete",
+        "18": "Em Tafnes, o dia se escurecerá,",
+        "19": "Assim, executarei juízo no Egito,",
+        "20": "No décimo primeiro ano, no primeiro mês, aos sete dias do mês, a palavra do Senhor veio a mim, dizendo:",
+        "21": "— Filho do homem, eu quebrei o braço de Faraó, rei do Egito, e eis que não foi atado para que seja tratado com remédios, nem posto numa tala para tornar-se forte o bastante para empunhar a espada.",
+        "22": "Portanto, assim diz o Senhor Deus : “Eis que eu estou contra Faraó, rei do Egito. Quebrarei os seus braços, tanto o forte como o que já está quebrado, e farei com que a espada caia da sua mão.",
+        "23": "Dispersarei os egípcios entre as nações e os espalharei por outras terras.",
+        "24": "Fortalecerei os braços do rei da Babilônia e porei a minha espada na mão dele. Porém quebrarei os braços de Faraó, que, diante dele, gemerá como geme quem foi mortalmente ferido.",
+        "25": "Levantarei os braços do rei da Babilônia, mas os braços de Faraó cairão. Saberão que eu sou o Senhor , quando eu puser a minha espada na mão do rei da Babilônia e ele a estender contra a terra do Egito.",
+        "26": "Dispersarei os egípcios entre as nações e os espalharei por outras terras. Assim eles saberão que eu sou o Senhor .”"
     }
-  }
 }

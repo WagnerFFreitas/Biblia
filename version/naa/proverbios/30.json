@@ -1,138 +1,44 @@
 {
-  "livro": "Provérbios",
-  "capítulo": 30,
-  "versículos": {
-    "1": {
-      "título": "As palavras de Agur",
-      "texto": "Palavras de Agur, filho de Jaque, de Massá."
+    "livro": "Provérbios",
+    "capitulo": 30,
+    "titulos": {
+        "1": "As palavras de Agur",
+        "7": "Uma oração",
+        "10": "Outros provérbios"
     },
-    "2": {
-      "título": "",
-      "texto": "porque sou demasiadamente"
-    },
-    "3": {
-      "título": "",
-      "texto": "não aprendi a sabedoria,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Quem subiu ao céu e desceu?"
-    },
-    "5": {
-      "título": "",
-      "texto": "Toda palavra de Deus é pura."
-    },
-    "6": {
-      "título": "",
-      "texto": "Não acrescente nada"
-    },
-    "7": {
-      "título": "Uma oração",
-      "texto": "Duas coisas te peço, ó Deus;"
-    },
-    "8": {
-      "título": "",
-      "texto": "afasta de mim a falsidade"
-    },
-    "9": {
-      "título": "",
-      "texto": "para não acontecer que,"
-    },
-    "10": {
-      "título": "Outros provérbios",
-      "texto": "Não calunie o servo"
-    },
-    "11": {
-      "título": "",
-      "texto": "Há pessoas que amaldiçoam"
-    },
-    "12": {
-      "título": "",
-      "texto": "Há pessoas que são puras"
-    },
-    "13": {
-      "título": "",
-      "texto": "Há pessoas cujos olhos"
-    },
-    "14": {
-      "título": "",
-      "texto": "Há pessoas cujos dentes"
-    },
-    "15": {
-      "título": "",
-      "texto": "A sanguessuga tem duas filhas,"
-    },
-    "16": {
-      "título": "",
-      "texto": "Elas são o mundo dos mortos,"
-    },
-    "17": {
-      "título": "",
-      "texto": "Os olhos de quem zomba do pai"
-    },
-    "18": {
-      "título": "",
-      "texto": "Há três coisas que são"
-    },
-    "19": {
-      "título": "",
-      "texto": "o caminho da águia no céu,"
-    },
-    "20": {
-      "título": "",
-      "texto": "Tal é o caminho"
-    },
-    "21": {
-      "título": "",
-      "texto": "Três coisas fazem a terra tremer;"
-    },
-    "22": {
-      "título": "",
-      "texto": "o escravo que se torna rei;"
-    },
-    "23": {
-      "título": "",
-      "texto": "a mulher desprezada"
-    },
-    "24": {
-      "título": "",
-      "texto": "Há quatro coisas"
-    },
-    "25": {
-      "título": "",
-      "texto": "as formigas, povo sem força,"
-    },
-    "26": {
-      "título": "",
-      "texto": "os arganazes,"
-    },
-    "27": {
-      "título": "",
-      "texto": "os gafanhotos, que não têm rei,"
-    },
-    "28": {
-      "título": "",
-      "texto": "a lagartixa, que se pode apanhar"
-    },
-    "29": {
-      "título": "",
-      "texto": "Há três que têm passo elegante;"
-    },
-    "30": {
-      "título": "",
-      "texto": "o leão, o mais forte dos animais,"
-    },
-    "31": {
-      "título": "",
-      "texto": "o galo, que anda ereto; o bode;"
-    },
-    "32": {
-      "título": "",
-      "texto": "Se você foi tolo"
-    },
-    "33": {
-      "título": "",
-      "texto": "Porque o bater do leite"
+    "versiculos": {
+        "1": "Palavras de Agur, filho de Jaque, de Massá.",
+        "2": "porque sou demasiadamente",
+        "3": "não aprendi a sabedoria,",
+        "4": "Quem subiu ao céu e desceu?",
+        "5": "Toda palavra de Deus é pura.",
+        "6": "Não acrescente nada",
+        "7": "Duas coisas te peço, ó Deus;",
+        "8": "afasta de mim a falsidade",
+        "9": "para não acontecer que,",
+        "10": "Não calunie o servo",
+        "11": "Há pessoas que amaldiçoam",
+        "12": "Há pessoas que são puras",
+        "13": "Há pessoas cujos olhos",
+        "14": "Há pessoas cujos dentes",
+        "15": "A sanguessuga tem duas filhas,",
+        "16": "Elas são o mundo dos mortos,",
+        "17": "Os olhos de quem zomba do pai",
+        "18": "Há três coisas que são",
+        "19": "o caminho da águia no céu,",
+        "20": "Tal é o caminho",
+        "21": "Três coisas fazem a terra tremer;",
+        "22": "o escravo que se torna rei;",
+        "23": "a mulher desprezada",
+        "24": "Há quatro coisas",
+        "25": "as formigas, povo sem força,",
+        "26": "os arganazes,",
+        "27": "os gafanhotos, que não têm rei,",
+        "28": "a lagartixa, que se pode apanhar",
+        "29": "Há três que têm passo elegante;",
+        "30": "o leão, o mais forte dos animais,",
+        "31": "o galo, que anda ereto; o bode;",
+        "32": "Se você foi tolo",
+        "33": "Porque o bater do leite"
     }
-  }
 }

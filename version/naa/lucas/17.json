@@ -1,154 +1,48 @@
 {
-  "livro": "Lucas",
-  "capítulo": 17,
-  "versículos": {
-    "1": {
-      "título": "Os tropeços",
-      "texto": "Jesus disse aos seus discípulos:"
+    "livro": "Lucas",
+    "capitulo": 17,
+    "titulos": {
+        "1": "Os tropeços",
+        "3": "O perdão e a fé",
+        "11": "A cura de dez leprosos",
+        "20": "A vinda do Reino de Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "Seria melhor para esse que uma pedra de moinho fosse pendurada ao seu pescoço e fosse atirado no mar do que fazer tropeçar um destes pequeninos."
-    },
-    "3": {
-      "título": "O perdão e a fé",
-      "texto": "— Tenham cuidado. Se o seu irmão pecar, repreenda-o; se ele se arrepender, perdoe-lhe."
-    },
-    "4": {
-      "título": "",
-      "texto": "Se pecar contra você sete vezes num dia e sete vezes vier para lhe dizer: “Estou arrependido”, perdoe-lhe."
-    },
-    "5": {
-      "título": "",
-      "texto": "Então os apóstolos disseram ao Senhor:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Ao que o Senhor respondeu:"
-    },
-    "7": {
-      "título": "",
-      "texto": "— Qual de vocês, tendo um servo ocupado na lavoura ou em guardar o gado, lhe dirá quando ele voltar do campo: “Venha agora mesmo e sente-se à mesa”?"
-    },
-    "8": {
-      "título": "",
-      "texto": "Não é verdade que, ao contrário, lhe dirá: “Prepare o meu jantar. Apronte-se e sirva-me enquanto eu como e bebo. Depois, você pode comer e beber”?"
-    },
-    "9": {
-      "título": "",
-      "texto": "Será que ele terá de agradecer ao servo por ter feito o que lhe havia ordenado?"
-    },
-    "10": {
-      "título": "",
-      "texto": "Assim também vocês, depois de terem feito tudo o que lhes foi ordenado, digam: “Somos servos inúteis, porque fizemos apenas o que devíamos fazer.”"
-    },
-    "11": {
-      "título": "A cura de dez leprosos",
-      "texto": "De caminho para Jerusalém, Jesus passava pelo meio de Samaria e da Galileia."
-    },
-    "12": {
-      "título": "",
-      "texto": "Ao entrar numa aldeia, saíram-lhe ao encontro dez leprosos,"
-    },
-    "13": {
-      "título": "",
-      "texto": "que ficaram de longe e gritaram:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Ao vê-los, Jesus disse:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Um dos dez, vendo que estava curado, voltou dando glória a Deus em alta voz"
-    },
-    "16": {
-      "título": "",
-      "texto": "e prostrou-se com o rosto em terra aos pés de Jesus, agradecendo-lhe. E este era samaritano."
-    },
-    "17": {
-      "título": "",
-      "texto": "Então Jesus perguntou:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Não se achou quem voltasse para dar glória a Deus, a não ser este estrangeiro?"
-    },
-    "19": {
-      "título": "",
-      "texto": "E lhe disse:"
-    },
-    "20": {
-      "título": "A vinda do Reino de Deus",
-      "texto": "Indagado pelos fariseus sobre quando viria o Reino de Deus, Jesus lhes respondeu:"
-    },
-    "21": {
-      "título": "",
-      "texto": "Nem dirão: “Ele está aqui!” Ou: “Lá está ele!” Porque o Reino de Deus está entre vocês."
-    },
-    "22": {
-      "título": "",
-      "texto": "A seguir, Jesus disse aos seus discípulos:"
-    },
-    "23": {
-      "título": "",
-      "texto": "E dirão a vocês: “Ele está aqui!” Ou: “Lá está ele!” Não saiam nem sigam essa gente."
-    },
-    "24": {
-      "título": "",
-      "texto": "Porque assim como o relâmpago, que resplandece e brilha de uma extremidade do céu até a outra, assim será, no seu dia, o Filho do Homem."
-    },
-    "25": {
-      "título": "",
-      "texto": "Mas é necessário que primeiro ele padeça muitas coisas e seja rejeitado por esta geração."
-    },
-    "26": {
-      "título": "",
-      "texto": "Assim como foi nos dias de Noé, será também nos dias do Filho do Homem:"
-    },
-    "27": {
-      "título": "",
-      "texto": "comiam, bebiam, casavam e davam-se em casamento, até o dia em que Noé entrou na arca, veio o dilúvio e destruiu todos."
-    },
-    "28": {
-      "título": "",
-      "texto": "O mesmo aconteceu nos dias de Ló: comiam, bebiam, compravam, vendiam, plantavam e edificavam;"
-    },
-    "29": {
-      "título": "",
-      "texto": "mas, no dia em que Ló saiu de Sodoma, choveu do céu fogo e enxofre e destruiu todos."
-    },
-    "30": {
-      "título": "",
-      "texto": "Assim será no dia em que o Filho do Homem se manifestar."
-    },
-    "31": {
-      "título": "",
-      "texto": "— Naquele dia, quem estiver no terraço e tiver os seus bens em casa não desça para tirá-los; e, de igual modo, quem estiver no campo não volte para trás."
-    },
-    "32": {
-      "título": "",
-      "texto": "Lembrem-se da mulher de Ló."
-    },
-    "33": {
-      "título": "",
-      "texto": "Quem tentar preservar a sua vida a perderá; e quem a perder, esse a salvará."
-    },
-    "34": {
-      "título": "",
-      "texto": "Digo a vocês que, naquela noite, duas pessoas estarão numa cama: uma será levada, e a outra será deixada."
-    },
-    "35": {
-      "título": "",
-      "texto": "Duas mulheres estarão juntas moendo trigo: uma será tomada, e a outra será deixada."
-    },
-    "36": {
-      "título": "",
-      "texto": ""
-    },
-    "37": {
-      "título": "",
-      "texto": "Então perguntaram a Jesus:"
+    "versiculos": {
+        "1": "Jesus disse aos seus discípulos:",
+        "2": "Seria melhor para esse que uma pedra de moinho fosse pendurada ao seu pescoço e fosse atirado no mar do que fazer tropeçar um destes pequeninos.",
+        "3": "— Tenham cuidado. Se o seu irmão pecar, repreenda-o; se ele se arrepender, perdoe-lhe.",
+        "4": "Se pecar contra você sete vezes num dia e sete vezes vier para lhe dizer: “Estou arrependido”, perdoe-lhe.",
+        "5": "Então os apóstolos disseram ao Senhor:",
+        "6": "Ao que o Senhor respondeu:",
+        "7": "— Qual de vocês, tendo um servo ocupado na lavoura ou em guardar o gado, lhe dirá quando ele voltar do campo: “Venha agora mesmo e sente-se à mesa”?",
+        "8": "Não é verdade que, ao contrário, lhe dirá: “Prepare o meu jantar. Apronte-se e sirva-me enquanto eu como e bebo. Depois, você pode comer e beber”?",
+        "9": "Será que ele terá de agradecer ao servo por ter feito o que lhe havia ordenado?",
+        "10": "Assim também vocês, depois de terem feito tudo o que lhes foi ordenado, digam: “Somos servos inúteis, porque fizemos apenas o que devíamos fazer.”",
+        "11": "De caminho para Jerusalém, Jesus passava pelo meio de Samaria e da Galileia.",
+        "12": "Ao entrar numa aldeia, saíram-lhe ao encontro dez leprosos,",
+        "13": "que ficaram de longe e gritaram:",
+        "14": "Ao vê-los, Jesus disse:",
+        "15": "Um dos dez, vendo que estava curado, voltou dando glória a Deus em alta voz",
+        "16": "e prostrou-se com o rosto em terra aos pés de Jesus, agradecendo-lhe. E este era samaritano.",
+        "17": "Então Jesus perguntou:",
+        "18": "Não se achou quem voltasse para dar glória a Deus, a não ser este estrangeiro?",
+        "19": "E lhe disse:",
+        "20": "Indagado pelos fariseus sobre quando viria o Reino de Deus, Jesus lhes respondeu:",
+        "21": "Nem dirão: “Ele está aqui!” Ou: “Lá está ele!” Porque o Reino de Deus está entre vocês.",
+        "22": "A seguir, Jesus disse aos seus discípulos:",
+        "23": "E dirão a vocês: “Ele está aqui!” Ou: “Lá está ele!” Não saiam nem sigam essa gente.",
+        "24": "Porque assim como o relâmpago, que resplandece e brilha de uma extremidade do céu até a outra, assim será, no seu dia, o Filho do Homem.",
+        "25": "Mas é necessário que primeiro ele padeça muitas coisas e seja rejeitado por esta geração.",
+        "26": "Assim como foi nos dias de Noé, será também nos dias do Filho do Homem:",
+        "27": "comiam, bebiam, casavam e davam-se em casamento, até o dia em que Noé entrou na arca, veio o dilúvio e destruiu todos.",
+        "28": "O mesmo aconteceu nos dias de Ló: comiam, bebiam, compravam, vendiam, plantavam e edificavam;",
+        "29": "mas, no dia em que Ló saiu de Sodoma, choveu do céu fogo e enxofre e destruiu todos.",
+        "30": "Assim será no dia em que o Filho do Homem se manifestar.",
+        "31": "— Naquele dia, quem estiver no terraço e tiver os seus bens em casa não desça para tirá-los; e, de igual modo, quem estiver no campo não volte para trás.",
+        "32": "Lembrem-se da mulher de Ló.",
+        "33": "Quem tentar preservar a sua vida a perderá; e quem a perder, esse a salvará.",
+        "34": "Digo a vocês que, naquela noite, duas pessoas estarão numa cama: uma será levada, e a outra será deixada.",
+        "35": "Duas mulheres estarão juntas moendo trigo: uma será tomada, e a outra será deixada.",
+        "37": "Então perguntaram a Jesus:"
     }
-  }
 }

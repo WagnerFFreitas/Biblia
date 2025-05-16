@@ -1,134 +1,42 @@
 {
-  "livro": "Deuteronômio",
-  "capítulo": 12,
-  "versículos": {
-    "1": {
-      "título": "O lugar do culto verdadeiro",
-      "texto": "— São estes os estatutos e juízos que vocês devem ter o cuidado de cumprir todos os dias que viverem na terra que o Senhor , o Deus dos seus pais, lhes deu por herança."
+    "livro": "Deuteronômio",
+    "capitulo": 12,
+    "titulos": {
+        "1": "O lugar do culto verdadeiro",
+        "29": "Contra a idolatria"
     },
-    "2": {
-      "título": "",
-      "texto": "Destruam por completo todos os lugares onde as nações que vocês irão expulsar serviram os seus deuses, sobre as altas montanhas, sobre as colinas e debaixo de toda árvore frondosa."
-    },
-    "3": {
-      "título": "",
-      "texto": "Derrubem os seus altares, quebrem as suas colunas sagradas, queimem os postes da deusa Aserá, despedacem as imagens esculpidas dos seus deuses e façam com que o nome desses deuses desapareça daquele lugar."
-    },
-    "4": {
-      "título": "",
-      "texto": "— Não é assim que vocês devem adorar o Senhor , seu Deus."
-    },
-    "5": {
-      "título": "",
-      "texto": "Pelo contrário, busquem o lugar que o Senhor , seu Deus, escolher entre todas as tribos, para ali pôr o seu nome e sua habitação; é para lá que vocês devem ir."
-    },
-    "6": {
-      "título": "",
-      "texto": "A esse lugar vocês devem levar os seus holocaustos, os seus sacrifícios, os seus dízimos, as ofertas que vocês prepararam, as ofertas prometidas, as ofertas voluntárias e os primogênitos das vacas e das ovelhas de vocês."
-    },
-    "7": {
-      "título": "",
-      "texto": "Ali, vocês comerão diante do Senhor , seu Deus, e se alegrarão em tudo o que fizerem, vocês e as suas famílias, no que o Senhor , seu Deus, os tiver abençoado."
-    },
-    "8": {
-      "título": "",
-      "texto": "— Vocês não farão como hoje estamos fazendo aqui, cada um segundo melhor lhe parece,"
-    },
-    "9": {
-      "título": "",
-      "texto": "porque ainda não entraram no descanso e na herança que o Senhor , seu Deus, lhes dará."
-    },
-    "10": {
-      "título": "",
-      "texto": "Mas vocês irão passar o Jordão e morar na terra que o Senhor , seu Deus, lhes dará por herança. Ele lhes dará descanso de todos os seus inimigos ao redor, e vocês viverão seguros."
-    },
-    "11": {
-      "título": "",
-      "texto": "Então haverá um lugar que o Senhor , seu Deus, escolherá para ali fazer habitar o seu nome. A esse lugar vocês levarão tudo o que eu lhes ordeno: os seus holocaustos, os seus sacrifícios, os seus dízimos, as ofertas que vocês prepararam e tudo o que tiverem decidido oferecer ao Senhor em cumprimento a um voto."
-    },
-    "12": {
-      "título": "",
-      "texto": "E vocês se alegrarão diante do Senhor , seu Deus, vocês, os seus filhos, as suas filhas, os seus servos e as suas servas e os levitas que moram nas cidades em que vocês vivem e que não têm porção nem herança entre vocês."
-    },
-    "13": {
-      "título": "",
-      "texto": "Cuidado! Não ofereçam os seus holocaustos em qualquer lugar que encontrarem,"
-    },
-    "14": {
-      "título": "",
-      "texto": "mas, no lugar que o Senhor escolher numa das tribos de vocês, ali vocês devem oferecer os seus holocaustos e ali farão tudo o que lhes ordeno."
-    },
-    "15": {
-      "título": "",
-      "texto": "— Porém, sempre que desejarem, vocês podem matar animais e comer carne nas cidades em que estiverem morando, segundo a bênção do Senhor , seu Deus. Todos vocês, tanto os que estiverem impuros como os que estiverem puros, poderão comer, assim como se come carne de gazela ou de veado."
-    },
-    "16": {
-      "título": "",
-      "texto": "Tão somente não comam o sangue; este deve ser derramado na terra como se fosse água."
-    },
-    "17": {
-      "título": "",
-      "texto": "Nas suas cidades, vocês não poderão comer o dízimo do cereal, nem do vinho, nem do azeite, nem os primogênitos das vacas e das ovelhas, nem nenhuma das ofertas que tiverem prometido, nem as ofertas voluntárias, nem as ofertas que vocês prepararam."
-    },
-    "18": {
-      "título": "",
-      "texto": "Estas ofertas só poderão ser comidas diante do Senhor , seu Deus, no lugar que o Senhor , o Deus de vocês, escolher. Isto se aplica a vocês, a seus filhos e filhas, a seus servos e servas, e aos levitas que moram nas cidades onde vocês vivem. Vocês se alegrarão diante do Senhor , seu Deus, em tudo o que fizerem."
-    },
-    "19": {
-      "título": "",
-      "texto": "Tenham o cuidado de não desamparar o levita durante todo o tempo em que vocês viverem naquela terra."
-    },
-    "20": {
-      "título": "",
-      "texto": "— Quando o Senhor , seu Deus, ampliar o território de vocês, como ele lhes prometeu, e vocês disserem: “Queremos comer carne”, porque este é o seu desejo, vocês poderão comer carne, segundo o seu desejo."
-    },
-    "21": {
-      "título": "",
-      "texto": "Se estiver longe de vocês o lugar que o Senhor , seu Deus, escolher para ali fazer habitar o seu nome, vocês poderão matar das vacas e ovelhas que o Senhor lhes tiver dado, conforme lhes ordenei; e comerão a carne nas cidades em que estiverem morando, segundo todo o seu desejo."
-    },
-    "22": {
-      "título": "",
-      "texto": "Porém, vocês devem comer destas carnes como se come carne de gazela ou de veado; e delas tanto as pessoas impuras como as puras podem comer."
-    },
-    "23": {
-      "título": "",
-      "texto": "Somente tenham o cuidado de não comer o sangue, porque o sangue é a vida, e vocês não devem comer a vida com a carne."
-    },
-    "24": {
-      "título": "",
-      "texto": "Não comam o sangue; este deve ser derramado na terra como se fosse água."
-    },
-    "25": {
-      "título": "",
-      "texto": "Não o comam, para que tudo vá bem com vocês e com os seus filhos depois de vocês, quando fizerem o que é reto aos olhos do Senhor ."
-    },
-    "26": {
-      "título": "",
-      "texto": "Porém as coisas que tiverem consagrado daquilo que lhes pertence e as ofertas prometidas vocês devem pegar e levar para o lugar que o Senhor escolher."
-    },
-    "27": {
-      "título": "",
-      "texto": "E ali, sobre o altar do Senhor , seu Deus, vocês oferecerão os seus holocaustos, a carne e o sangue. Derramem o sangue dos seus sacrifícios sobre o altar do Senhor , seu Deus; porém a carne vocês podem comer."
-    },
-    "28": {
-      "título": "",
-      "texto": "Guardem e cumpram todas estas palavras que eu lhes ordeno, para que tudo vá bem com vocês e com os seus filhos depois de vocês, para sempre, quando fizerem o que é bom e reto aos olhos do Senhor , seu Deus."
-    },
-    "29": {
-      "título": "Contra a idolatria",
-      "texto": "— Quando o Senhor , seu Deus, eliminar de diante de vocês as nações que moram na terra em que vocês vão entrar para dela tomar posse, e vocês desalojarem essas nações para habitar na terra delas,"
-    },
-    "30": {
-      "título": "",
-      "texto": "cuidem para que vocês não caiam na cilada de imitar essas nações, depois que elas foram eliminadas de diante de vocês. Não procurem saber a respeito dos deuses dessas nações, dizendo: “Assim como estas nações serviram os seus deuses, também nós queremos fazer!”"
-    },
-    "31": {
-      "título": "",
-      "texto": "Não é assim que vocês devem adorar o Senhor , seu Deus, porque eles adoraram os seus deuses, fazendo tudo o que é abominável ao Senhor e que ele odeia; até seus filhos e suas filhas eles queimaram aos seus deuses."
-    },
-    "32": {
-      "título": "",
-      "texto": "— Tudo o que eu lhes ordeno vocês devem observar; não acrescentem nem diminuam nada."
+    "versiculos": {
+        "1": "— São estes os estatutos e juízos que vocês devem ter o cuidado de cumprir todos os dias que viverem na terra que o Senhor , o Deus dos seus pais, lhes deu por herança.",
+        "2": "Destruam por completo todos os lugares onde as nações que vocês irão expulsar serviram os seus deuses, sobre as altas montanhas, sobre as colinas e debaixo de toda árvore frondosa.",
+        "3": "Derrubem os seus altares, quebrem as suas colunas sagradas, queimem os postes da deusa Aserá, despedacem as imagens esculpidas dos seus deuses e façam com que o nome desses deuses desapareça daquele lugar.",
+        "4": "— Não é assim que vocês devem adorar o Senhor , seu Deus.",
+        "5": "Pelo contrário, busquem o lugar que o Senhor , seu Deus, escolher entre todas as tribos, para ali pôr o seu nome e sua habitação; é para lá que vocês devem ir.",
+        "6": "A esse lugar vocês devem levar os seus holocaustos, os seus sacrifícios, os seus dízimos, as ofertas que vocês prepararam, as ofertas prometidas, as ofertas voluntárias e os primogênitos das vacas e das ovelhas de vocês.",
+        "7": "Ali, vocês comerão diante do Senhor , seu Deus, e se alegrarão em tudo o que fizerem, vocês e as suas famílias, no que o Senhor , seu Deus, os tiver abençoado.",
+        "8": "— Vocês não farão como hoje estamos fazendo aqui, cada um segundo melhor lhe parece,",
+        "9": "porque ainda não entraram no descanso e na herança que o Senhor , seu Deus, lhes dará.",
+        "10": "Mas vocês irão passar o Jordão e morar na terra que o Senhor , seu Deus, lhes dará por herança. Ele lhes dará descanso de todos os seus inimigos ao redor, e vocês viverão seguros.",
+        "11": "Então haverá um lugar que o Senhor , seu Deus, escolherá para ali fazer habitar o seu nome. A esse lugar vocês levarão tudo o que eu lhes ordeno: os seus holocaustos, os seus sacrifícios, os seus dízimos, as ofertas que vocês prepararam e tudo o que tiverem decidido oferecer ao Senhor em cumprimento a um voto.",
+        "12": "E vocês se alegrarão diante do Senhor , seu Deus, vocês, os seus filhos, as suas filhas, os seus servos e as suas servas e os levitas que moram nas cidades em que vocês vivem e que não têm porção nem herança entre vocês.",
+        "13": "Cuidado! Não ofereçam os seus holocaustos em qualquer lugar que encontrarem,",
+        "14": "mas, no lugar que o Senhor escolher numa das tribos de vocês, ali vocês devem oferecer os seus holocaustos e ali farão tudo o que lhes ordeno.",
+        "15": "— Porém, sempre que desejarem, vocês podem matar animais e comer carne nas cidades em que estiverem morando, segundo a bênção do Senhor , seu Deus. Todos vocês, tanto os que estiverem impuros como os que estiverem puros, poderão comer, assim como se come carne de gazela ou de veado.",
+        "16": "Tão somente não comam o sangue; este deve ser derramado na terra como se fosse água.",
+        "17": "Nas suas cidades, vocês não poderão comer o dízimo do cereal, nem do vinho, nem do azeite, nem os primogênitos das vacas e das ovelhas, nem nenhuma das ofertas que tiverem prometido, nem as ofertas voluntárias, nem as ofertas que vocês prepararam.",
+        "18": "Estas ofertas só poderão ser comidas diante do Senhor , seu Deus, no lugar que o Senhor , o Deus de vocês, escolher. Isto se aplica a vocês, a seus filhos e filhas, a seus servos e servas, e aos levitas que moram nas cidades onde vocês vivem. Vocês se alegrarão diante do Senhor , seu Deus, em tudo o que fizerem.",
+        "19": "Tenham o cuidado de não desamparar o levita durante todo o tempo em que vocês viverem naquela terra.",
+        "20": "— Quando o Senhor , seu Deus, ampliar o território de vocês, como ele lhes prometeu, e vocês disserem: “Queremos comer carne”, porque este é o seu desejo, vocês poderão comer carne, segundo o seu desejo.",
+        "21": "Se estiver longe de vocês o lugar que o Senhor , seu Deus, escolher para ali fazer habitar o seu nome, vocês poderão matar das vacas e ovelhas que o Senhor lhes tiver dado, conforme lhes ordenei; e comerão a carne nas cidades em que estiverem morando, segundo todo o seu desejo.",
+        "22": "Porém, vocês devem comer destas carnes como se come carne de gazela ou de veado; e delas tanto as pessoas impuras como as puras podem comer.",
+        "23": "Somente tenham o cuidado de não comer o sangue, porque o sangue é a vida, e vocês não devem comer a vida com a carne.",
+        "24": "Não comam o sangue; este deve ser derramado na terra como se fosse água.",
+        "25": "Não o comam, para que tudo vá bem com vocês e com os seus filhos depois de vocês, quando fizerem o que é reto aos olhos do Senhor .",
+        "26": "Porém as coisas que tiverem consagrado daquilo que lhes pertence e as ofertas prometidas vocês devem pegar e levar para o lugar que o Senhor escolher.",
+        "27": "E ali, sobre o altar do Senhor , seu Deus, vocês oferecerão os seus holocaustos, a carne e o sangue. Derramem o sangue dos seus sacrifícios sobre o altar do Senhor , seu Deus; porém a carne vocês podem comer.",
+        "28": "Guardem e cumpram todas estas palavras que eu lhes ordeno, para que tudo vá bem com vocês e com os seus filhos depois de vocês, para sempre, quando fizerem o que é bom e reto aos olhos do Senhor , seu Deus.",
+        "29": "— Quando o Senhor , seu Deus, eliminar de diante de vocês as nações que moram na terra em que vocês vão entrar para dela tomar posse, e vocês desalojarem essas nações para habitar na terra delas,",
+        "30": "cuidem para que vocês não caiam na cilada de imitar essas nações, depois que elas foram eliminadas de diante de vocês. Não procurem saber a respeito dos deuses dessas nações, dizendo: “Assim como estas nações serviram os seus deuses, também nós queremos fazer!”",
+        "31": "Não é assim que vocês devem adorar o Senhor , seu Deus, porque eles adoraram os seus deuses, fazendo tudo o que é abominável ao Senhor e que ele odeia; até seus filhos e suas filhas eles queimaram aos seus deuses.",
+        "32": "— Tudo o que eu lhes ordeno vocês devem observar; não acrescentem nem diminuam nada."
     }
-  }
 }

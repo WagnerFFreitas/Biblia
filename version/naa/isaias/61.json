@@ -1,50 +1,20 @@
 {
-  "livro": "Isaías",
-  "capítulo": 61,
-  "versículos": {
-    "1": {
-      "título": "As boas-novas da salvação",
-      "texto": "O Espírito do Senhor Deus"
+    "livro": "Isaías",
+    "capitulo": 61,
+    "titulos": {
+        "1": "As boas-novas da salvação"
     },
-    "2": {
-      "título": "",
-      "texto": "a apregoar o ano aceitável"
-    },
-    "3": {
-      "título": "",
-      "texto": "e a pôr sobre os que choram"
-    },
-    "4": {
-      "título": "",
-      "texto": "Reconstruirão as antigas ruínas,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Estranhos se apresentarão"
-    },
-    "6": {
-      "título": "",
-      "texto": "Mas vocês serão chamados"
-    },
-    "7": {
-      "título": "",
-      "texto": "Em lugar de vergonha,"
-    },
-    "8": {
-      "título": "",
-      "texto": "“Porque eu, o Senhor ,"
-    },
-    "9": {
-      "título": "",
-      "texto": "A posteridade deles"
-    },
-    "10": {
-      "título": "",
-      "texto": "Tenho grande alegria no Senhor !"
-    },
-    "11": {
-      "título": "",
-      "texto": "Porque, como a terra produz"
+    "versiculos": {
+        "1": "O Espírito do Senhor Deus",
+        "2": "a apregoar o ano aceitável",
+        "3": "e a pôr sobre os que choram",
+        "4": "Reconstruirão as antigas ruínas,",
+        "5": "Estranhos se apresentarão",
+        "6": "Mas vocês serão chamados",
+        "7": "Em lugar de vergonha,",
+        "8": "“Porque eu, o Senhor ,",
+        "9": "A posteridade deles",
+        "10": "Tenho grande alegria no Senhor !",
+        "11": "Porque, como a terra produz"
     }
-  }
 }

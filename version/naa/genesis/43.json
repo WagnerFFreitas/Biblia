@@ -1,142 +1,44 @@
 {
-  "livro": "Gênesis",
-  "capítulo": 43,
-  "versículos": {
-    "1": {
-      "título": "Os irmãos de José voltam ao Egito",
-      "texto": "A fome continuava gravíssima na terra."
+    "livro": "Gênesis",
+    "capitulo": 43,
+    "titulos": {
+        "1": "Os irmãos de José voltam ao Egito",
+        "15": "José hospeda seus irmãos"
     },
-    "2": {
-      "título": "",
-      "texto": "Quando eles acabaram de consumir o cereal que tinham trazido do Egito, Jacó disse aos filhos:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Mas Judá lhe disse:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Se o senhor resolver enviar conosco o nosso irmão, iremos e compraremos mantimento para o senhor."
-    },
-    "5": {
-      "título": "",
-      "texto": "Mas, se o senhor não o enviar, não iremos, pois o homem nos disse: “Vocês não verão o meu rosto, se o outro irmão não vier com vocês.”"
-    },
-    "6": {
-      "título": "",
-      "texto": "Israel respondeu:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Eles responderam:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Então Judá disse a Israel, seu pai:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Eu serei responsável por ele; da minha mão o senhor poderá requerê-lo. Se eu não o trouxer de volta e não o puser diante do senhor, serei culpado para com o senhor pelo resto da minha vida."
-    },
-    "10": {
-      "título": "",
-      "texto": "Se não nos tivéssemos demorado, já teríamos ido e voltado duas vezes."
-    },
-    "11": {
-      "título": "",
-      "texto": "Então Israel, seu pai, disse:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Levem dinheiro em dobro. E devolvam o dinheiro restituído na boca dos sacos de cereal; é possível que tenha havido algum engano."
-    },
-    "13": {
-      "título": "",
-      "texto": "Levem também o irmão de vocês. Levantem-se e voltem àquele homem."
-    },
-    "14": {
-      "título": "",
-      "texto": "Deus Todo-Poderoso lhes dê misericórdia diante do homem, para que restitua o outro irmão e deixe que Benjamim volte com vocês. Quanto a mim, se eu perder os filhos, sem filhos ficarei."
-    },
-    "15": {
-      "título": "José hospeda seus irmãos",
-      "texto": "Então os homens pegaram os presentes, o dinheiro em dobro e Benjamim; levantaram-se, foram ao Egito e se apresentaram diante de José."
-    },
-    "16": {
-      "título": "",
-      "texto": "Quando José viu que Benjamim estava com eles, disse ao administrador de sua casa:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Ele fez como José lhe havia ordenado e levou os homens para a casa de José."
-    },
-    "18": {
-      "título": "",
-      "texto": "Os homens tiveram medo, porque foram levados à casa de José. E diziam:"
-    },
-    "19": {
-      "título": "",
-      "texto": "E se aproximaram do administrador da casa de José, e lhe falaram à porta,"
-    },
-    "20": {
-      "título": "",
-      "texto": "e disseram:"
-    },
-    "21": {
-      "título": "",
-      "texto": "Mas, quando chegamos à estalagem, ao abrir os sacos de cereal, eis que o dinheiro de cada um estava na boca do saco de cereal, nosso dinheiro intacto. Por isso, trouxemos esse dinheiro de volta."
-    },
-    "22": {
-      "título": "",
-      "texto": "Trouxemos também outro dinheiro conosco, para comprar mantimento. Não sabemos quem pôs o nosso dinheiro nos sacos de cereal."
-    },
-    "23": {
-      "título": "",
-      "texto": "O administrador disse:"
-    },
-    "24": {
-      "título": "",
-      "texto": "Depois, o administrador levou aqueles homens à casa de José e lhes deu água, e eles lavaram os pés. Também deu ração aos seus jumentos."
-    },
-    "25": {
-      "título": "",
-      "texto": "Então prepararam o presente, para quando José viesse ao meio-dia, pois ouviram que ali haviam de comer."
-    },
-    "26": {
-      "título": "",
-      "texto": "Quando José chegou à sua casa, trouxeram-lhe para dentro o presente que tinham em mãos e se inclinaram até o chão diante dele."
-    },
-    "27": {
-      "título": "",
-      "texto": "Ele lhes perguntou como tinham passado e disse:"
-    },
-    "28": {
-      "título": "",
-      "texto": "Responderam:"
-    },
-    "29": {
-      "título": "",
-      "texto": "Quando José levantou os olhos, viu Benjamim, seu irmão, filho de sua mãe, e disse:"
-    },
-    "30": {
-      "título": "",
-      "texto": "José, profundamente emocionado por causa do seu irmão, apressou-se e procurou um lugar onde chorar. Entrou no quarto e ali chorou."
-    },
-    "31": {
-      "título": "",
-      "texto": "Depois, lavou o rosto e saiu; conteve-se e disse:"
-    },
-    "32": {
-      "título": "",
-      "texto": "Serviram a comida dele numa mesa à parte, e a comida deles também numa mesa à parte. Também os egípcios que comiam com ele foram servidos numa mesa à parte, porque os egípcios não podiam comer com os hebreus, pois isso é abominação para os egípcios."
-    },
-    "33": {
-      "título": "",
-      "texto": "E sentaram-se diante dele por ordem de idade, desde o mais velho ao mais novo. Eles olhavam uns para os outros cheios de espanto."
-    },
-    "34": {
-      "título": "",
-      "texto": "Então José lhes apresentou as porções que estavam diante dele, e a porção de Benjamim era cinco vezes maior do que a dos outros. E beberam com ele até ficarem alegres."
+    "versiculos": {
+        "1": "A fome continuava gravíssima na terra.",
+        "2": "Quando eles acabaram de consumir o cereal que tinham trazido do Egito, Jacó disse aos filhos:",
+        "3": "Mas Judá lhe disse:",
+        "4": "Se o senhor resolver enviar conosco o nosso irmão, iremos e compraremos mantimento para o senhor.",
+        "5": "Mas, se o senhor não o enviar, não iremos, pois o homem nos disse: “Vocês não verão o meu rosto, se o outro irmão não vier com vocês.”",
+        "6": "Israel respondeu:",
+        "7": "Eles responderam:",
+        "8": "Então Judá disse a Israel, seu pai:",
+        "9": "Eu serei responsável por ele; da minha mão o senhor poderá requerê-lo. Se eu não o trouxer de volta e não o puser diante do senhor, serei culpado para com o senhor pelo resto da minha vida.",
+        "10": "Se não nos tivéssemos demorado, já teríamos ido e voltado duas vezes.",
+        "11": "Então Israel, seu pai, disse:",
+        "12": "Levem dinheiro em dobro. E devolvam o dinheiro restituído na boca dos sacos de cereal; é possível que tenha havido algum engano.",
+        "13": "Levem também o irmão de vocês. Levantem-se e voltem àquele homem.",
+        "14": "Deus Todo-Poderoso lhes dê misericórdia diante do homem, para que restitua o outro irmão e deixe que Benjamim volte com vocês. Quanto a mim, se eu perder os filhos, sem filhos ficarei.",
+        "15": "Então os homens pegaram os presentes, o dinheiro em dobro e Benjamim; levantaram-se, foram ao Egito e se apresentaram diante de José.",
+        "16": "Quando José viu que Benjamim estava com eles, disse ao administrador de sua casa:",
+        "17": "Ele fez como José lhe havia ordenado e levou os homens para a casa de José.",
+        "18": "Os homens tiveram medo, porque foram levados à casa de José. E diziam:",
+        "19": "E se aproximaram do administrador da casa de José, e lhe falaram à porta,",
+        "20": "e disseram:",
+        "21": "Mas, quando chegamos à estalagem, ao abrir os sacos de cereal, eis que o dinheiro de cada um estava na boca do saco de cereal, nosso dinheiro intacto. Por isso, trouxemos esse dinheiro de volta.",
+        "22": "Trouxemos também outro dinheiro conosco, para comprar mantimento. Não sabemos quem pôs o nosso dinheiro nos sacos de cereal.",
+        "23": "O administrador disse:",
+        "24": "Depois, o administrador levou aqueles homens à casa de José e lhes deu água, e eles lavaram os pés. Também deu ração aos seus jumentos.",
+        "25": "Então prepararam o presente, para quando José viesse ao meio-dia, pois ouviram que ali haviam de comer.",
+        "26": "Quando José chegou à sua casa, trouxeram-lhe para dentro o presente que tinham em mãos e se inclinaram até o chão diante dele.",
+        "27": "Ele lhes perguntou como tinham passado e disse:",
+        "28": "Responderam:",
+        "29": "Quando José levantou os olhos, viu Benjamim, seu irmão, filho de sua mãe, e disse:",
+        "30": "José, profundamente emocionado por causa do seu irmão, apressou-se e procurou um lugar onde chorar. Entrou no quarto e ali chorou.",
+        "31": "Depois, lavou o rosto e saiu; conteve-se e disse:",
+        "32": "Serviram a comida dele numa mesa à parte, e a comida deles também numa mesa à parte. Também os egípcios que comiam com ele foram servidos numa mesa à parte, porque os egípcios não podiam comer com os hebreus, pois isso é abominação para os egípcios.",
+        "33": "E sentaram-se diante dele por ordem de idade, desde o mais velho ao mais novo. Eles olhavam uns para os outros cheios de espanto.",
+        "34": "Então José lhes apresentou as porções que estavam diante dele, e a porção de Benjamim era cinco vezes maior do que a dos outros. E beberam com ele até ficarem alegres."
     }
-  }
 }

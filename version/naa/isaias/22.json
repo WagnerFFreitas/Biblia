@@ -1,106 +1,35 @@
 {
-  "livro": "Isaías",
-  "capítulo": 22,
-  "versículos": {
-    "1": {
-      "título": "Profecia contra Jerusalém",
-      "texto": "Sentença contra o vale da Visão."
+    "livro": "Isaías",
+    "capitulo": 22,
+    "titulos": {
+        "1": "Profecia contra Jerusalém",
+        "15": "Sebna é removido do ofício. Eliaquim é exaltado"
     },
-    "2": {
-      "título": "",
-      "texto": "Você estava cheia de aclamações,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Todos os seus chefes"
-    },
-    "4": {
-      "título": "",
-      "texto": "Portanto, digo:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Porque este é um dia de tumulto,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Porque Elão pegou a sua aljava"
-    },
-    "7": {
-      "título": "",
-      "texto": "Os seus formosos vales"
-    },
-    "8": {
-      "título": "",
-      "texto": "Foi-se a proteção de Judá."
-    },
-    "9": {
-      "título": "",
-      "texto": "Notaram as brechas da Cidade de Davi, que eram muitas, e ajuntaram água no tanque inferior."
-    },
-    "10": {
-      "título": "",
-      "texto": "Também contaram as casas de Jerusalém e derrubaram algumas delas, para reforçar a muralha."
-    },
-    "11": {
-      "título": "",
-      "texto": "Também construíram um reservatório entre as duas muralhas para as águas do tanque velho."
-    },
-    "12": {
-      "título": "",
-      "texto": "Naquele dia, o Senhor,"
-    },
-    "13": {
-      "título": "",
-      "texto": "Porém, o que se viu"
-    },
-    "14": {
-      "título": "",
-      "texto": "Mas o Senhor dos Exércitos me revelou o seguinte:"
-    },
-    "15": {
-      "título": "Sebna é removido do ofício. Eliaquim é exaltado",
-      "texto": "Assim diz o Senhor, o Senhor dos Exércitos:"
-    },
-    "16": {
-      "título": "",
-      "texto": "“O que você está fazendo aqui? Ou que parente você tem aqui, para que abra aqui uma sepultura para você, lavrando num lugar elevado a sua sepultura, escavando na rocha a sua própria morada?"
-    },
-    "17": {
-      "título": "",
-      "texto": "Eis que como homem forte o Senhor vai jogar você para bem longe. Ele o pegará com firmeza"
-    },
-    "18": {
-      "título": "",
-      "texto": "e o fará rolar como uma bola, lançando-o numa terra espaçosa. Ali você morrerá, e ali acabarão os carros da sua glória. Pois você é a vergonha da casa do seu senhor."
-    },
-    "19": {
-      "título": "",
-      "texto": "Eu vou removê-lo do seu ofício, e você será derrubado da sua posição.”"
-    },
-    "20": {
-      "título": "",
-      "texto": "— Naquele dia, chamarei o meu servo Eliaquim, filho de Hilquias."
-    },
-    "21": {
-      "título": "",
-      "texto": "Eu o vestirei com a túnica que você usava, irei cingi-lo com a faixa que era sua e lhe entregarei nas mãos o poder que você tinha. Ele será como um pai para os moradores de Jerusalém e para a casa de Judá."
-    },
-    "22": {
-      "título": "",
-      "texto": "Porei sobre o ombro dele a chave da casa de Davi. Ele abrirá, e ninguém fechará; fechará, e ninguém abrirá."
-    },
-    "23": {
-      "título": "",
-      "texto": "Vou fincá-lo como estaca em lugar firme, e ele será como um trono de honra para a casa de seu pai."
-    },
-    "24": {
-      "título": "",
-      "texto": "Nele, pendurarão toda a glória da casa de seu pai, a prole e os descendentes, todos os utensílios menores, desde as taças até os jarros."
-    },
-    "25": {
-      "título": "",
-      "texto": "Naquele dia, diz o Senhor dos Exércitos, a estaca que tinha sido fincada em lugar firme será tirada, será arrancada e cairá, e a carga que nela estava se desprenderá, porque o Senhor o disse."
+    "versiculos": {
+        "1": "Sentença contra o vale da Visão.",
+        "2": "Você estava cheia de aclamações,",
+        "3": "Todos os seus chefes",
+        "4": "Portanto, digo:",
+        "5": "Porque este é um dia de tumulto,",
+        "6": "Porque Elão pegou a sua aljava",
+        "7": "Os seus formosos vales",
+        "8": "Foi-se a proteção de Judá.",
+        "9": "Notaram as brechas da Cidade de Davi, que eram muitas, e ajuntaram água no tanque inferior.",
+        "10": "Também contaram as casas de Jerusalém e derrubaram algumas delas, para reforçar a muralha.",
+        "11": "Também construíram um reservatório entre as duas muralhas para as águas do tanque velho.",
+        "12": "Naquele dia, o Senhor,",
+        "13": "Porém, o que se viu",
+        "14": "Mas o Senhor dos Exércitos me revelou o seguinte:",
+        "15": "Assim diz o Senhor, o Senhor dos Exércitos:",
+        "16": "“O que você está fazendo aqui? Ou que parente você tem aqui, para que abra aqui uma sepultura para você, lavrando num lugar elevado a sua sepultura, escavando na rocha a sua própria morada?",
+        "17": "Eis que como homem forte o Senhor vai jogar você para bem longe. Ele o pegará com firmeza",
+        "18": "e o fará rolar como uma bola, lançando-o numa terra espaçosa. Ali você morrerá, e ali acabarão os carros da sua glória. Pois você é a vergonha da casa do seu senhor.",
+        "19": "Eu vou removê-lo do seu ofício, e você será derrubado da sua posição.”",
+        "20": "— Naquele dia, chamarei o meu servo Eliaquim, filho de Hilquias.",
+        "21": "Eu o vestirei com a túnica que você usava, irei cingi-lo com a faixa que era sua e lhe entregarei nas mãos o poder que você tinha. Ele será como um pai para os moradores de Jerusalém e para a casa de Judá.",
+        "22": "Porei sobre o ombro dele a chave da casa de Davi. Ele abrirá, e ninguém fechará; fechará, e ninguém abrirá.",
+        "23": "Vou fincá-lo como estaca em lugar firme, e ele será como um trono de honra para a casa de seu pai.",
+        "24": "Nele, pendurarão toda a glória da casa de seu pai, a prole e os descendentes, todos os utensílios menores, desde as taças até os jarros.",
+        "25": "Naquele dia, diz o Senhor dos Exércitos, a estaca que tinha sido fincada em lugar firme será tirada, será arrancada e cairá, e a carga que nela estava se desprenderá, porque o Senhor o disse."
     }
-  }
 }

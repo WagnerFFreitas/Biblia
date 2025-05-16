@@ -1,154 +1,49 @@
 {
-  "livro": "Atos",
-  "capítulo": 4,
-  "versículos": {
-    "1": {
-      "título": "Pedro e João diante do Sinédrio",
-      "texto": "Enquanto Pedro e João ainda falavam ao povo, chegaram os sacerdotes, o capitão do templo e os saduceus,"
+    "livro": "Atos",
+    "capitulo": 4,
+    "titulos": {
+        "1": "Pedro e João diante do Sinédrio",
+        "23": "A igreja em oração",
+        "32": "A comunidade cristã",
+        "36": "A oferta de Barnabé"
     },
-    "2": {
-      "título": "",
-      "texto": "ressentidos porque os apóstolos estavam ensinando o povo e anunciando, em Jesus, a ressurreição dentre os mortos."
-    },
-    "3": {
-      "título": "",
-      "texto": "Prenderam Pedro e João e os recolheram ao cárcere até o dia seguinte, pois já era tarde."
-    },
-    "4": {
-      "título": "",
-      "texto": "Porém muitos dos que ouviram a palavra creram, subindo o número desses homens a quase cinco mil."
-    },
-    "5": {
-      "título": "",
-      "texto": "No dia seguinte, as autoridades, os anciãos e os escribas se reuniram em Jerusalém"
-    },
-    "6": {
-      "título": "",
-      "texto": "com o sumo sacerdote Anás, com Caifás, João, Alexandre e todos os que eram da linhagem do sumo sacerdote."
-    },
-    "7": {
-      "título": "",
-      "texto": "E, colocando os apóstolos diante deles, perguntaram:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Então Pedro, cheio do Espírito Santo, lhes disse:"
-    },
-    "9": {
-      "título": "",
-      "texto": "visto que hoje somos interrogados a propósito do benefício feito a um homem enfermo e do modo como ele foi curado,"
-    },
-    "10": {
-      "título": "",
-      "texto": "saibam os senhores todos e todo o povo de Israel que, em nome de Jesus Cristo, o Nazareno, a quem vocês crucificaram e a quem Deus ressuscitou dentre os mortos, sim, em seu nome é que este está curado na presença de vocês."
-    },
-    "11": {
-      "título": "",
-      "texto": "Este Jesus é a pedra que vocês, os construtores, rejeitaram, mas ele veio a ser a pedra angular."
-    },
-    "12": {
-      "título": "",
-      "texto": "E não há salvação em nenhum outro, porque debaixo do céu não existe nenhum outro nome, dado entre os homens, pelo qual importa que sejamos salvos."
-    },
-    "13": {
-      "título": "",
-      "texto": "Ao verem a ousadia de Pedro e João, sabendo que eram homens iletrados e incultos, ficaram admirados; e reconheceram que eles haviam estado com Jesus."
-    },
-    "14": {
-      "título": "",
-      "texto": "Vendo que o homem que havia sido curado estava com eles, nada tinham a dizer em contrário."
-    },
-    "15": {
-      "título": "",
-      "texto": "E, mandando-os sair do Sinédrio, discutiam entre si,"
-    },
-    "16": {
-      "título": "",
-      "texto": "dizendo:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Mas, para que não haja maior divulgação entre o povo, vamos ameaçá-los para não falarem mais neste nome a quem quer que seja."
-    },
-    "18": {
-      "título": "",
-      "texto": "Chamando-os, ordenaram-lhes que de modo nenhum falassem nem ensinassem no nome de Jesus."
-    },
-    "19": {
-      "título": "",
-      "texto": "Mas Pedro e João responderam:"
-    },
-    "20": {
-      "título": "",
-      "texto": "pois nós não podemos deixar de falar das coisas que vimos e ouvimos."
-    },
-    "21": {
-      "título": "",
-      "texto": "Depois, ameaçando-os mais ainda, os soltaram, não tendo achado como os castigar, por causa do povo, porque todos glorificavam a Deus pelo que tinha acontecido."
-    },
-    "22": {
-      "título": "",
-      "texto": "Ora, o homem em quem tinha sido operado esse milagre de cura tinha mais de quarenta anos de idade."
-    },
-    "23": {
-      "título": "A igreja em oração",
-      "texto": "Uma vez soltos, Pedro e João procuraram os irmãos e lhes contaram tudo o que os principais sacerdotes e os anciãos lhes tinham falado."
-    },
-    "24": {
-      "título": "",
-      "texto": "Ouvindo isto, unânimes, levantaram a voz a Deus e disseram:"
-    },
-    "25": {
-      "título": "",
-      "texto": "Disseste por meio do Espírito Santo, por boca de Davi, nosso pai, teu servo:"
-    },
-    "26": {
-      "título": "",
-      "texto": "Os reis da terra se levantaram,"
-    },
-    "27": {
-      "título": "",
-      "texto": "— Porque de fato, nesta cidade, Herodes e Pôncio Pilatos, com gentios e gente de Israel, se juntaram contra o teu santo Servo Jesus, a quem ungiste,"
-    },
-    "28": {
-      "título": "",
-      "texto": "para fazerem tudo o que a tua mão e o teu propósito predeterminaram."
-    },
-    "29": {
-      "título": "",
-      "texto": "Agora, Senhor, olha para as ameaças deles e concede aos teus servos que anunciem a tua palavra com toda a ousadia,"
-    },
-    "30": {
-      "título": "",
-      "texto": "enquanto estendes a tua mão para fazer curas, sinais e prodígios por meio do nome do teu santo Servo Jesus."
-    },
-    "31": {
-      "título": "",
-      "texto": "Tendo eles orado, tremeu o lugar onde estavam reunidos. Todos ficaram cheios do Espírito Santo e, com ousadia, anunciavam a palavra de Deus."
-    },
-    "32": {
-      "título": "A comunidade cristã",
-      "texto": "Da multidão dos que creram era um o coração e a alma. Ninguém considerava exclusivamente sua nem uma das coisas que possuía; tudo, porém, lhes era comum."
-    },
-    "33": {
-      "título": "",
-      "texto": "Com grande poder, os apóstolos davam testemunho da ressurreição do Senhor Jesus, e em todos eles havia abundante graça."
-    },
-    "34": {
-      "título": "",
-      "texto": "Não havia nenhum necessitado entre eles, porque os que possuíam terras ou casas, vendendo-as, traziam os valores correspondentes"
-    },
-    "35": {
-      "título": "",
-      "texto": "e os depositavam aos pés dos apóstolos; então se distribuía a cada um conforme a sua necessidade."
-    },
-    "36": {
-      "título": "A oferta de Barnabé",
-      "texto": "Então José, a quem os apóstolos chamavam de Barnabé, que quer dizer filho da consolação, um levita natural de Chipre,"
-    },
-    "37": {
-      "título": "",
-      "texto": "vendeu um campo que possuía, trouxe o dinheiro e o depositou aos pés dos apóstolos."
+    "versiculos": {
+        "1": "Enquanto Pedro e João ainda falavam ao povo, chegaram os sacerdotes, o capitão do templo e os saduceus,",
+        "2": "ressentidos porque os apóstolos estavam ensinando o povo e anunciando, em Jesus, a ressurreição dentre os mortos.",
+        "3": "Prenderam Pedro e João e os recolheram ao cárcere até o dia seguinte, pois já era tarde.",
+        "4": "Porém muitos dos que ouviram a palavra creram, subindo o número desses homens a quase cinco mil.",
+        "5": "No dia seguinte, as autoridades, os anciãos e os escribas se reuniram em Jerusalém",
+        "6": "com o sumo sacerdote Anás, com Caifás, João, Alexandre e todos os que eram da linhagem do sumo sacerdote.",
+        "7": "E, colocando os apóstolos diante deles, perguntaram:",
+        "8": "Então Pedro, cheio do Espírito Santo, lhes disse:",
+        "9": "visto que hoje somos interrogados a propósito do benefício feito a um homem enfermo e do modo como ele foi curado,",
+        "10": "saibam os senhores todos e todo o povo de Israel que, em nome de Jesus Cristo, o Nazareno, a quem vocês crucificaram e a quem Deus ressuscitou dentre os mortos, sim, em seu nome é que este está curado na presença de vocês.",
+        "11": "Este Jesus é a pedra que vocês, os construtores, rejeitaram, mas ele veio a ser a pedra angular.",
+        "12": "E não há salvação em nenhum outro, porque debaixo do céu não existe nenhum outro nome, dado entre os homens, pelo qual importa que sejamos salvos.",
+        "13": "Ao verem a ousadia de Pedro e João, sabendo que eram homens iletrados e incultos, ficaram admirados; e reconheceram que eles haviam estado com Jesus.",
+        "14": "Vendo que o homem que havia sido curado estava com eles, nada tinham a dizer em contrário.",
+        "15": "E, mandando-os sair do Sinédrio, discutiam entre si,",
+        "16": "dizendo:",
+        "17": "Mas, para que não haja maior divulgação entre o povo, vamos ameaçá-los para não falarem mais neste nome a quem quer que seja.",
+        "18": "Chamando-os, ordenaram-lhes que de modo nenhum falassem nem ensinassem no nome de Jesus.",
+        "19": "Mas Pedro e João responderam:",
+        "20": "pois nós não podemos deixar de falar das coisas que vimos e ouvimos.",
+        "21": "Depois, ameaçando-os mais ainda, os soltaram, não tendo achado como os castigar, por causa do povo, porque todos glorificavam a Deus pelo que tinha acontecido.",
+        "22": "Ora, o homem em quem tinha sido operado esse milagre de cura tinha mais de quarenta anos de idade.",
+        "23": "Uma vez soltos, Pedro e João procuraram os irmãos e lhes contaram tudo o que os principais sacerdotes e os anciãos lhes tinham falado.",
+        "24": "Ouvindo isto, unânimes, levantaram a voz a Deus e disseram:",
+        "25": "Disseste por meio do Espírito Santo, por boca de Davi, nosso pai, teu servo:",
+        "26": "Os reis da terra se levantaram,",
+        "27": "— Porque de fato, nesta cidade, Herodes e Pôncio Pilatos, com gentios e gente de Israel, se juntaram contra o teu santo Servo Jesus, a quem ungiste,",
+        "28": "para fazerem tudo o que a tua mão e o teu propósito predeterminaram.",
+        "29": "Agora, Senhor, olha para as ameaças deles e concede aos teus servos que anunciem a tua palavra com toda a ousadia,",
+        "30": "enquanto estendes a tua mão para fazer curas, sinais e prodígios por meio do nome do teu santo Servo Jesus.",
+        "31": "Tendo eles orado, tremeu o lugar onde estavam reunidos. Todos ficaram cheios do Espírito Santo e, com ousadia, anunciavam a palavra de Deus.",
+        "32": "Da multidão dos que creram era um o coração e a alma. Ninguém considerava exclusivamente sua nem uma das coisas que possuía; tudo, porém, lhes era comum.",
+        "33": "Com grande poder, os apóstolos davam testemunho da ressurreição do Senhor Jesus, e em todos eles havia abundante graça.",
+        "34": "Não havia nenhum necessitado entre eles, porque os que possuíam terras ou casas, vendendo-as, traziam os valores correspondentes",
+        "35": "e os depositavam aos pés dos apóstolos; então se distribuía a cada um conforme a sua necessidade.",
+        "36": "Então José, a quem os apóstolos chamavam de Barnabé, que quer dizer filho da consolação, um levita natural de Chipre,",
+        "37": "vendeu um campo que possuía, trouxe o dinheiro e o depositou aos pés dos apóstolos."
     }
-  }
 }

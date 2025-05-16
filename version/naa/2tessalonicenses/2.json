@@ -1,74 +1,27 @@
 {
-  "livro": "2 Tessalonicenses",
-  "capítulo": 2,
-  "versículos": {
-    "1": {
-      "título": "O homem da iniquidade e a vinda do Senhor",
-      "texto": "Irmãos, no que diz respeito à vinda de nosso Senhor Jesus Cristo e à nossa reunião com ele, pedimos"
+    "livro": "2 Tessalonicenses",
+    "capitulo": 2,
+    "titulos": {
+        "1": "O homem da iniquidade e a vinda do Senhor",
+        "13": "Chamados para a salvação"
     },
-    "2": {
-      "título": "",
-      "texto": "que vocês não se deixem demover facilmente de seu modo de pensar, nem fiquem perturbados, quer por espírito, quer por palavra, quer por carta, como se procedesse de nós, dando a entender que o Dia do Senhor já chegou."
-    },
-    "3": {
-      "título": "",
-      "texto": "Ninguém, de modo nenhum, os engane, porque isto não acontecerá sem que primeiro venha a apostasia e seja revelado o homem da iniquidade, o filho da perdição,"
-    },
-    "4": {
-      "título": "",
-      "texto": "o qual se opõe e se levanta contra tudo o que se chama Deus ou é objeto de culto, a ponto de assentar-se no santuário de Deus, apresentando-se como se fosse o próprio Deus."
-    },
-    "5": {
-      "título": "",
-      "texto": "Vocês não lembram que eu costumava lhes dizer estas coisas, quando ainda estava com vocês?"
-    },
-    "6": {
-      "título": "",
-      "texto": "E, agora, vocês sabem o que o detém, para que ele seja revelado a seu tempo."
-    },
-    "7": {
-      "título": "",
-      "texto": "Porque o mistério da iniquidade já opera e aguarda somente que seja afastado aquele que agora o detém."
-    },
-    "8": {
-      "título": "",
-      "texto": "Então será revelado o iníquo, a quem o Senhor Jesus matará com o sopro de sua boca e destruirá pela manifestação de sua vinda."
-    },
-    "9": {
-      "título": "",
-      "texto": "Ora, o aparecimento do iníquo é segundo a ação de Satanás, com todo poder, sinais e prodígios da mentira,"
-    },
-    "10": {
-      "título": "",
-      "texto": "e com todo engano de injustiça aos que estão perecendo, porque não acolheram o amor da verdade para serem salvos."
-    },
-    "11": {
-      "título": "",
-      "texto": "É por este motivo que Deus lhes envia a operação do erro, para darem crédito à mentira,"
-    },
-    "12": {
-      "título": "",
-      "texto": "a fim de serem condenados todos os que não creram na verdade, mas tiveram prazer na injustiça."
-    },
-    "13": {
-      "título": "Chamados para a salvação",
-      "texto": "Mas devemos sempre dar graças a Deus por vocês, irmãos amados pelo Senhor, porque Deus os escolheu desde o princípio para a salvação, pela santificação do Espírito e fé na verdade."
-    },
-    "14": {
-      "título": "",
-      "texto": "Foi para isso que também Deus os chamou mediante o nosso evangelho, para que vocês alcancem a glória de nosso Senhor Jesus Cristo."
-    },
-    "15": {
-      "título": "",
-      "texto": "Assim, pois, irmãos, fiquem firmes e guardem as tradições que lhes foram ensinadas, seja por palavra, seja por carta nossa."
-    },
-    "16": {
-      "título": "",
-      "texto": "Que o próprio Jesus Cristo, nosso Senhor, e Deus, o nosso Pai, que nos amou e nos deu eterna consolação e boa esperança, pela graça,"
-    },
-    "17": {
-      "título": "",
-      "texto": "console o coração de vocês e os fortaleça em toda boa obra e boa palavra."
+    "versiculos": {
+        "1": "Irmãos, no que diz respeito à vinda de nosso Senhor Jesus Cristo e à nossa reunião com ele, pedimos",
+        "2": "que vocês não se deixem demover facilmente de seu modo de pensar, nem fiquem perturbados, quer por espírito, quer por palavra, quer por carta, como se procedesse de nós, dando a entender que o Dia do Senhor já chegou.",
+        "3": "Ninguém, de modo nenhum, os engane, porque isto não acontecerá sem que primeiro venha a apostasia e seja revelado o homem da iniquidade, o filho da perdição,",
+        "4": "o qual se opõe e se levanta contra tudo o que se chama Deus ou é objeto de culto, a ponto de assentar-se no santuário de Deus, apresentando-se como se fosse o próprio Deus.",
+        "5": "Vocês não lembram que eu costumava lhes dizer estas coisas, quando ainda estava com vocês?",
+        "6": "E, agora, vocês sabem o que o detém, para que ele seja revelado a seu tempo.",
+        "7": "Porque o mistério da iniquidade já opera e aguarda somente que seja afastado aquele que agora o detém.",
+        "8": "Então será revelado o iníquo, a quem o Senhor Jesus matará com o sopro de sua boca e destruirá pela manifestação de sua vinda.",
+        "9": "Ora, o aparecimento do iníquo é segundo a ação de Satanás, com todo poder, sinais e prodígios da mentira,",
+        "10": "e com todo engano de injustiça aos que estão perecendo, porque não acolheram o amor da verdade para serem salvos.",
+        "11": "É por este motivo que Deus lhes envia a operação do erro, para darem crédito à mentira,",
+        "12": "a fim de serem condenados todos os que não creram na verdade, mas tiveram prazer na injustiça.",
+        "13": "Mas devemos sempre dar graças a Deus por vocês, irmãos amados pelo Senhor, porque Deus os escolheu desde o princípio para a salvação, pela santificação do Espírito e fé na verdade.",
+        "14": "Foi para isso que também Deus os chamou mediante o nosso evangelho, para que vocês alcancem a glória de nosso Senhor Jesus Cristo.",
+        "15": "Assim, pois, irmãos, fiquem firmes e guardem as tradições que lhes foram ensinadas, seja por palavra, seja por carta nossa.",
+        "16": "Que o próprio Jesus Cristo, nosso Senhor, e Deus, o nosso Pai, que nos amou e nos deu eterna consolação e boa esperança, pela graça,",
+        "17": "console o coração de vocês e os fortaleça em toda boa obra e boa palavra."
     }
-  }
 }

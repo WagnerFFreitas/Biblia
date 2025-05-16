@@ -1,146 +1,44 @@
 {
-  "livro": "Salmos",
-  "capítulo": 104,
-  "versículos": {
-    "1": {
-      "título": "Louvor ao Deus Criador",
-      "texto": "Bendiga, minha alma, o Senhor !"
+    "livro": "Salmos",
+    "capitulo": 104,
+    "titulos": {
+        "1": "Louvor ao Deus Criador"
     },
-    "2": {
-      "título": "",
-      "texto": "coberto de luz"
-    },
-    "3": {
-      "título": "",
-      "texto": "pões nas águas"
-    },
-    "4": {
-      "título": "",
-      "texto": "Fazes a teus anjos ventos"
-    },
-    "5": {
-      "título": "",
-      "texto": "Lançaste os fundamentos da terra,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Tomaste o abismo"
-    },
-    "7": {
-      "título": "",
-      "texto": "Com a tua repreensão,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Elevaram-se os montes,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Puseste às águas divisa"
-    },
-    "10": {
-      "título": "",
-      "texto": "Tu fazes rebentar fontes no vale,"
-    },
-    "11": {
-      "título": "",
-      "texto": "dão de beber"
-    },
-    "12": {
-      "título": "",
-      "texto": "Junto delas as aves do céu"
-    },
-    "13": {
-      "título": "",
-      "texto": "Do alto de tua morada,"
-    },
-    "14": {
-      "título": "",
-      "texto": "Fazes crescer a relva"
-    },
-    "15": {
-      "título": "",
-      "texto": "o vinho, que alegra o coração,"
-    },
-    "16": {
-      "título": "",
-      "texto": "São saciadas"
-    },
-    "17": {
-      "título": "",
-      "texto": "em que as aves"
-    },
-    "18": {
-      "título": "",
-      "texto": "Os altos montes"
-    },
-    "19": {
-      "título": "",
-      "texto": "Fez a lua para marcar o tempo;"
-    },
-    "20": {
-      "título": "",
-      "texto": "Envias as trevas e vem a noite,"
-    },
-    "21": {
-      "título": "",
-      "texto": "Os leõezinhos rugem pela presa"
-    },
-    "22": {
-      "título": "",
-      "texto": "em vindo o sol, eles se recolhem"
-    },
-    "23": {
-      "título": "",
-      "texto": "Então as pessoas saem"
-    },
-    "24": {
-      "título": "",
-      "texto": "Que variedade, Senhor ,"
-    },
-    "25": {
-      "título": "",
-      "texto": "Eis o mar vasto, imenso,"
-    },
-    "26": {
-      "título": "",
-      "texto": "Por ele transitam os navios"
-    },
-    "27": {
-      "título": "",
-      "texto": "Todos esperam de ti"
-    },
-    "28": {
-      "título": "",
-      "texto": "Se lhes dás, eles o recolhem;"
-    },
-    "29": {
-      "título": "",
-      "texto": "Se escondes o rosto,"
-    },
-    "30": {
-      "título": "",
-      "texto": "Envias o teu Espírito,"
-    },
-    "31": {
-      "título": "",
-      "texto": "Que a glória do Senhor"
-    },
-    "32": {
-      "título": "",
-      "texto": "Com só olhar para a terra,"
-    },
-    "33": {
-      "título": "",
-      "texto": "Cantarei ao Senhor"
-    },
-    "34": {
-      "título": "",
-      "texto": "Seja-lhe agradável"
-    },
-    "35": {
-      "título": "",
-      "texto": "Desapareçam da terra"
+    "versiculos": {
+        "1": "Bendiga, minha alma, o Senhor !",
+        "2": "coberto de luz",
+        "3": "pões nas águas",
+        "4": "Fazes a teus anjos ventos",
+        "5": "Lançaste os fundamentos da terra,",
+        "6": "Tomaste o abismo",
+        "7": "Com a tua repreensão,",
+        "8": "Elevaram-se os montes,",
+        "9": "Puseste às águas divisa",
+        "10": "Tu fazes rebentar fontes no vale,",
+        "11": "dão de beber",
+        "12": "Junto delas as aves do céu",
+        "13": "Do alto de tua morada,",
+        "14": "Fazes crescer a relva",
+        "15": "o vinho, que alegra o coração,",
+        "16": "São saciadas",
+        "17": "em que as aves",
+        "18": "Os altos montes",
+        "19": "Fez a lua para marcar o tempo;",
+        "20": "Envias as trevas e vem a noite,",
+        "21": "Os leõezinhos rugem pela presa",
+        "22": "em vindo o sol, eles se recolhem",
+        "23": "Então as pessoas saem",
+        "24": "Que variedade, Senhor ,",
+        "25": "Eis o mar vasto, imenso,",
+        "26": "Por ele transitam os navios",
+        "27": "Todos esperam de ti",
+        "28": "Se lhes dás, eles o recolhem;",
+        "29": "Se escondes o rosto,",
+        "30": "Envias o teu Espírito,",
+        "31": "Que a glória do Senhor",
+        "32": "Com só olhar para a terra,",
+        "33": "Cantarei ao Senhor",
+        "34": "Seja-lhe agradável",
+        "35": "Desapareçam da terra"
     }
-  }
 }

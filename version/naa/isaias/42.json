@@ -1,106 +1,36 @@
 {
-  "livro": "Isaías",
-  "capítulo": 42,
-  "versículos": {
-    "1": {
-      "título": "O Servo do Senhor",
-      "texto": "“Eis aqui o meu servo,"
+    "livro": "Isaías",
+    "capitulo": 42,
+    "titulos": {
+        "1": "O Servo do Senhor",
+        "10": "Cântico de louvor pela salvação do povo",
+        "18": "Lamento sobre a cegueira de Israel"
     },
-    "2": {
-      "título": "",
-      "texto": "Não clamará, não gritará,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Não esmagará a cana quebrada,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Não desanimará,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Assim diz Deus, o Senhor ,"
-    },
-    "6": {
-      "título": "",
-      "texto": "“Eu, o Senhor , chamei você"
-    },
-    "7": {
-      "título": "",
-      "texto": "para abrir os olhos dos cegos,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Eu sou o Senhor :"
-    },
-    "9": {
-      "título": "",
-      "texto": "“Eis que as primeiras predições"
-    },
-    "10": {
-      "título": "Cântico de louvor pela salvação do povo",
-      "texto": "Cantem ao Senhor"
-    },
-    "11": {
-      "título": "",
-      "texto": "Ergam a voz o deserto,"
-    },
-    "12": {
-      "título": "",
-      "texto": "deem honra ao Senhor"
-    },
-    "13": {
-      "título": "",
-      "texto": "O Senhor sairá como valente,"
-    },
-    "14": {
-      "título": "",
-      "texto": "“Por muito tempo me calei,"
-    },
-    "15": {
-      "título": "",
-      "texto": "Devastarei os montes"
-    },
-    "16": {
-      "título": "",
-      "texto": "Guiarei os cegos"
-    },
-    "17": {
-      "título": "",
-      "texto": "Retrocederão e ficarão"
-    },
-    "18": {
-      "título": "Lamento sobre a cegueira de Israel",
-      "texto": "“Escutem, surdos,"
-    },
-    "19": {
-      "título": "",
-      "texto": "Quem é tão cego"
-    },
-    "20": {
-      "título": "",
-      "texto": "Você vê muitas coisas,"
-    },
-    "21": {
-      "título": "",
-      "texto": "Foi do agrado do Senhor ,"
-    },
-    "22": {
-      "título": "",
-      "texto": "Mas este é um povo"
-    },
-    "23": {
-      "título": "",
-      "texto": "Quem de vocês dará ouvidos"
-    },
-    "24": {
-      "título": "",
-      "texto": "Quem entregou Jacó por despojo"
-    },
-    "25": {
-      "título": "",
-      "texto": "Por isso derramou sobre eles"
+    "versiculos": {
+        "1": "“Eis aqui o meu servo,",
+        "2": "Não clamará, não gritará,",
+        "3": "Não esmagará a cana quebrada,",
+        "4": "Não desanimará,",
+        "5": "Assim diz Deus, o Senhor ,",
+        "6": "“Eu, o Senhor , chamei você",
+        "7": "para abrir os olhos dos cegos,",
+        "8": "Eu sou o Senhor :",
+        "9": "“Eis que as primeiras predições",
+        "10": "Cantem ao Senhor",
+        "11": "Ergam a voz o deserto,",
+        "12": "deem honra ao Senhor",
+        "13": "O Senhor sairá como valente,",
+        "14": "“Por muito tempo me calei,",
+        "15": "Devastarei os montes",
+        "16": "Guiarei os cegos",
+        "17": "Retrocederão e ficarão",
+        "18": "“Escutem, surdos,",
+        "19": "Quem é tão cego",
+        "20": "Você vê muitas coisas,",
+        "21": "Foi do agrado do Senhor ,",
+        "22": "Mas este é um povo",
+        "23": "Quem de vocês dará ouvidos",
+        "24": "Quem entregou Jacó por despojo",
+        "25": "Por isso derramou sobre eles"
     }
-  }
 }

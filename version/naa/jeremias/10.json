@@ -1,106 +1,36 @@
 {
-  "livro": "Jeremias",
-  "capítulo": 10,
-  "versículos": {
-    "1": {
-      "título": "A idolatria e a verdadeira adoração",
-      "texto": "Ouçam a palavra que o Senhor dirige a vocês, ó casa de Israel."
+    "livro": "Jeremias",
+    "capitulo": 10,
+    "titulos": {
+        "1": "A idolatria e a verdadeira adoração",
+        "17": "Lamento sobre a destruição de Judá",
+        "23": "Jeremias ora em favor do seu povo"
     },
-    "2": {
-      "título": "",
-      "texto": "Assim diz o Senhor :"
-    },
-    "3": {
-      "título": "",
-      "texto": "Porque os costumes dos povos"
-    },
-    "4": {
-      "título": "",
-      "texto": "Com prata e ouro a enfeitam,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Os ídolos são como"
-    },
-    "6": {
-      "título": "",
-      "texto": "Não há ninguém semelhante a ti,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Quem não temeria a ti,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Mas todos eles se tornaram"
-    },
-    "9": {
-      "título": "",
-      "texto": "Traz-se prata batida de Társis"
-    },
-    "10": {
-      "título": "",
-      "texto": "Mas o Senhor"
-    },
-    "11": {
-      "título": "",
-      "texto": "Digam-lhes o seguinte:"
-    },
-    "12": {
-      "título": "",
-      "texto": "O Senhor fez a terra"
-    },
-    "13": {
-      "título": "",
-      "texto": "Quando ele faz soar a sua voz,"
-    },
-    "14": {
-      "título": "",
-      "texto": "Todas as pessoas são tolas"
-    },
-    "15": {
-      "título": "",
-      "texto": "São vaidade, obras ridículas."
-    },
-    "16": {
-      "título": "",
-      "texto": "Aquele que é a Porção de Jacó"
-    },
-    "17": {
-      "título": "Lamento sobre a destruição de Judá",
-      "texto": "Ajunte do chão"
-    },
-    "18": {
-      "título": "",
-      "texto": "Porque assim diz o Senhor :"
-    },
-    "19": {
-      "título": "",
-      "texto": "Ai de mim, por causa"
-    },
-    "20": {
-      "título": "",
-      "texto": "A minha tenda foi destruída,"
-    },
-    "21": {
-      "título": "",
-      "texto": "Porque os pastores"
-    },
-    "22": {
-      "título": "",
-      "texto": "Eis aí um rumor!"
-    },
-    "23": {
-      "título": "Jeremias ora em favor do seu povo",
-      "texto": "Eu sei, ó Senhor ,"
-    },
-    "24": {
-      "título": "",
-      "texto": "Castiga-me, ó Senhor ,"
-    },
-    "25": {
-      "título": "",
-      "texto": "Derrama o teu furor"
+    "versiculos": {
+        "1": "Ouçam a palavra que o Senhor dirige a vocês, ó casa de Israel.",
+        "2": "Assim diz o Senhor :",
+        "3": "Porque os costumes dos povos",
+        "4": "Com prata e ouro a enfeitam,",
+        "5": "Os ídolos são como",
+        "6": "Não há ninguém semelhante a ti,",
+        "7": "Quem não temeria a ti,",
+        "8": "Mas todos eles se tornaram",
+        "9": "Traz-se prata batida de Társis",
+        "10": "Mas o Senhor",
+        "11": "Digam-lhes o seguinte:",
+        "12": "O Senhor fez a terra",
+        "13": "Quando ele faz soar a sua voz,",
+        "14": "Todas as pessoas são tolas",
+        "15": "São vaidade, obras ridículas.",
+        "16": "Aquele que é a Porção de Jacó",
+        "17": "Ajunte do chão",
+        "18": "Porque assim diz o Senhor :",
+        "19": "Ai de mim, por causa",
+        "20": "A minha tenda foi destruída,",
+        "21": "Porque os pastores",
+        "22": "Eis aí um rumor!",
+        "23": "Eu sei, ó Senhor ,",
+        "24": "Castiga-me, ó Senhor ,",
+        "25": "Derrama o teu furor"
     }
-  }
 }

@@ -1,70 +1,25 @@
 {
-  "livro": "Salmos",
-  "capítulo": 81,
-  "versículos": {
-    "1": {
-      "título": "Exortação a louvor e obediência",
-      "texto": "Cantem de júbilo a Deus,"
+    "livro": "Salmos",
+    "capitulo": 81,
+    "titulos": {
+        "1": "Exortação a louvor e obediência"
     },
-    "2": {
-      "título": "",
-      "texto": "Cantem louvores"
-    },
-    "3": {
-      "título": "",
-      "texto": "Toquem a trombeta"
-    },
-    "4": {
-      "título": "",
-      "texto": "É preceito para Israel,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Ele o ordenou, como lei, a José,"
-    },
-    "6": {
-      "título": "",
-      "texto": "“Livrei os seus ombros do peso,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Na angústia, vocês clamaram"
-    },
-    "8": {
-      "título": "",
-      "texto": "Escute, meu povo,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Não haja no meio de vocês"
-    },
-    "10": {
-      "título": "",
-      "texto": "Eu sou o Senhor ,"
-    },
-    "11": {
-      "título": "",
-      "texto": "Mas o meu povo"
-    },
-    "12": {
-      "título": "",
-      "texto": "Assim, deixei que andassem"
-    },
-    "13": {
-      "título": "",
-      "texto": "Ah! Se o meu povo"
-    },
-    "14": {
-      "título": "",
-      "texto": "Eu derrotaria logo"
-    },
-    "15": {
-      "título": "",
-      "texto": "Os que odeiam o Senhor"
-    },
-    "16": {
-      "título": "",
-      "texto": "Mas a vocês eu sustentaria"
+    "versiculos": {
+        "1": "Cantem de júbilo a Deus,",
+        "2": "Cantem louvores",
+        "3": "Toquem a trombeta",
+        "4": "É preceito para Israel,",
+        "5": "Ele o ordenou, como lei, a José,",
+        "6": "“Livrei os seus ombros do peso,",
+        "7": "Na angústia, vocês clamaram",
+        "8": "Escute, meu povo,",
+        "9": "Não haja no meio de vocês",
+        "10": "Eu sou o Senhor ,",
+        "11": "Mas o meu povo",
+        "12": "Assim, deixei que andassem",
+        "13": "Ah! Se o meu povo",
+        "14": "Eu derrotaria logo",
+        "15": "Os que odeiam o Senhor",
+        "16": "Mas a vocês eu sustentaria"
     }
-  }
 }

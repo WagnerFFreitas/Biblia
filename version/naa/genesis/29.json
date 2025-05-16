@@ -1,146 +1,44 @@
 {
-  "livro": "Gênesis",
-  "capítulo": 29,
-  "versículos": {
-    "1": {
-      "título": "Jacó se encontra com Raquel",
-      "texto": "Jacó se pôs a caminho e foi à terra do povo do Oriente."
+    "livro": "Gênesis",
+    "capitulo": 29,
+    "titulos": {
+        "1": "Jacó se encontra com Raquel",
+        "15": "Jacó casa com Lia e com Raquel",
+        "31": "Os filhos de Jacó"
     },
-    "2": {
-      "título": "",
-      "texto": "Olhou, e eis um poço no campo e três rebanhos de ovelhas deitados junto dele, porque daquele poço davam de beber aos rebanhos. E havia uma grande pedra que tapava a boca do poço."
-    },
-    "3": {
-      "título": "",
-      "texto": "Ajuntavam-se ali todos os rebanhos, os pastores removiam a pedra da boca do poço, davam de beber às ovelhas e tornavam a colocá-la no seu devido lugar."
-    },
-    "4": {
-      "título": "",
-      "texto": "Jacó perguntou aos pastores:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Perguntou-lhes:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Jacó perguntou ainda:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Então Jacó disse:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Mas eles responderam:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Enquanto Jacó ainda falava, chegou Raquel com as ovelhas de seu pai, porque era pastora."
-    },
-    "10": {
-      "título": "",
-      "texto": "Quando Jacó viu Raquel, filha de Labão, irmão de sua mãe, e as ovelhas de Labão, aproximou-se, removeu a pedra da boca do poço e deu de beber ao rebanho de Labão, irmão de sua mãe."
-    },
-    "11": {
-      "título": "",
-      "texto": "Feito isso, Jacó beijou Raquel e, erguendo a voz, chorou."
-    },
-    "12": {
-      "título": "",
-      "texto": "Então Jacó contou a Raquel que ele era parente de seu pai, pois era filho de Rebeca. Ela correu e o comunicou a seu pai."
-    },
-    "13": {
-      "título": "",
-      "texto": "Quando Labão ouviu as notícias a respeito de Jacó, filho de sua irmã, correu ao encontro dele, abraçou-o, beijou-o e o levou para casa. E Jacó contou a Labão tudo o que havia acontecido."
-    },
-    "14": {
-      "título": "",
-      "texto": "Então Labão disse:"
-    },
-    "15": {
-      "título": "Jacó casa com Lia e com Raquel",
-      "texto": "Depois, Labão disse a Jacó:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Ora, Labão tinha duas filhas: Lia, a mais velha, e Raquel, a mais nova."
-    },
-    "17": {
-      "título": "",
-      "texto": "Lia tinha uns olhos sem brilho, porém Raquel era bonita e formosa."
-    },
-    "18": {
-      "título": "",
-      "texto": "Como Jacó amava Raquel, disse a Labão:"
-    },
-    "19": {
-      "título": "",
-      "texto": "Labão respondeu:"
-    },
-    "20": {
-      "título": "",
-      "texto": "Assim, por amor a Raquel, Jacó trabalhou durante sete anos. E esses anos lhe pareceram como poucos dias, pelo muito que a amava."
-    },
-    "21": {
-      "título": "",
-      "texto": "Então ele disse a Labão:"
-    },
-    "22": {
-      "título": "",
-      "texto": "Assim, Labão reuniu todos os homens do lugar e deu um banquete."
-    },
-    "23": {
-      "título": "",
-      "texto": "À noite, ele trouxe Lia, sua filha, e a entregou a Jacó. E eles tiveram relações."
-    },
-    "24": {
-      "título": "",
-      "texto": ""
-    },
-    "25": {
-      "título": "",
-      "texto": "Ao amanhecer, Jacó viu que era Lia. Por isso, disse a Labão:"
-    },
-    "26": {
-      "título": "",
-      "texto": "Labão respondeu:"
-    },
-    "27": {
-      "título": "",
-      "texto": "Complete a semana de festa de casamento da primogênita. Depois, daremos a você também a outra, pelo trabalho de mais sete anos que você ainda me servirá."
-    },
-    "28": {
-      "título": "",
-      "texto": "Jacó fez o que Labão pediu e completou a semana de festa da primogênita. Depois, Labão lhe deu por mulher a sua filha Raquel."
-    },
-    "29": {
-      "título": "",
-      "texto": ""
-    },
-    "30": {
-      "título": "",
-      "texto": "E Jacó teve relações também com Raquel. Ele amava Raquel mais do que amava Lia. E continuou trabalhando para Labão durante mais sete anos."
-    },
-    "31": {
-      "título": "Os filhos de Jacó",
-      "texto": "Quando o Senhor viu que Lia era desprezada, fez com que ela fosse fecunda, ao passo que Raquel era estéril."
-    },
-    "32": {
-      "título": "",
-      "texto": "Assim, Lia ficou grávida e deu à luz um filho, a quem deu o nome de Rúben, pois disse:"
-    },
-    "33": {
-      "título": "",
-      "texto": "Ela ficou grávida outra vez e deu à luz um filho. E disse:"
-    },
-    "34": {
-      "título": "",
-      "texto": "Lia ficou grávida ainda outra vez e deu à luz um filho. E disse:"
-    },
-    "35": {
-      "título": "",
-      "texto": "Mais uma vez ela ficou grávida e deu à luz um filho. Então disse:"
+    "versiculos": {
+        "1": "Jacó se pôs a caminho e foi à terra do povo do Oriente.",
+        "2": "Olhou, e eis um poço no campo e três rebanhos de ovelhas deitados junto dele, porque daquele poço davam de beber aos rebanhos. E havia uma grande pedra que tapava a boca do poço.",
+        "3": "Ajuntavam-se ali todos os rebanhos, os pastores removiam a pedra da boca do poço, davam de beber às ovelhas e tornavam a colocá-la no seu devido lugar.",
+        "4": "Jacó perguntou aos pastores:",
+        "5": "Perguntou-lhes:",
+        "6": "Jacó perguntou ainda:",
+        "7": "Então Jacó disse:",
+        "8": "Mas eles responderam:",
+        "9": "Enquanto Jacó ainda falava, chegou Raquel com as ovelhas de seu pai, porque era pastora.",
+        "10": "Quando Jacó viu Raquel, filha de Labão, irmão de sua mãe, e as ovelhas de Labão, aproximou-se, removeu a pedra da boca do poço e deu de beber ao rebanho de Labão, irmão de sua mãe.",
+        "11": "Feito isso, Jacó beijou Raquel e, erguendo a voz, chorou.",
+        "12": "Então Jacó contou a Raquel que ele era parente de seu pai, pois era filho de Rebeca. Ela correu e o comunicou a seu pai.",
+        "13": "Quando Labão ouviu as notícias a respeito de Jacó, filho de sua irmã, correu ao encontro dele, abraçou-o, beijou-o e o levou para casa. E Jacó contou a Labão tudo o que havia acontecido.",
+        "14": "Então Labão disse:",
+        "15": "Depois, Labão disse a Jacó:",
+        "16": "Ora, Labão tinha duas filhas: Lia, a mais velha, e Raquel, a mais nova.",
+        "17": "Lia tinha uns olhos sem brilho, porém Raquel era bonita e formosa.",
+        "18": "Como Jacó amava Raquel, disse a Labão:",
+        "19": "Labão respondeu:",
+        "20": "Assim, por amor a Raquel, Jacó trabalhou durante sete anos. E esses anos lhe pareceram como poucos dias, pelo muito que a amava.",
+        "21": "Então ele disse a Labão:",
+        "22": "Assim, Labão reuniu todos os homens do lugar e deu um banquete.",
+        "23": "À noite, ele trouxe Lia, sua filha, e a entregou a Jacó. E eles tiveram relações.",
+        "25": "Ao amanhecer, Jacó viu que era Lia. Por isso, disse a Labão:",
+        "26": "Labão respondeu:",
+        "27": "Complete a semana de festa de casamento da primogênita. Depois, daremos a você também a outra, pelo trabalho de mais sete anos que você ainda me servirá.",
+        "28": "Jacó fez o que Labão pediu e completou a semana de festa da primogênita. Depois, Labão lhe deu por mulher a sua filha Raquel.",
+        "30": "E Jacó teve relações também com Raquel. Ele amava Raquel mais do que amava Lia. E continuou trabalhando para Labão durante mais sete anos.",
+        "31": "Quando o Senhor viu que Lia era desprezada, fez com que ela fosse fecunda, ao passo que Raquel era estéril.",
+        "32": "Assim, Lia ficou grávida e deu à luz um filho, a quem deu o nome de Rúben, pois disse:",
+        "33": "Ela ficou grávida outra vez e deu à luz um filho. E disse:",
+        "34": "Lia ficou grávida ainda outra vez e deu à luz um filho. E disse:",
+        "35": "Mais uma vez ela ficou grávida e deu à luz um filho. Então disse:"
     }
-  }
 }

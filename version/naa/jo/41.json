@@ -1,142 +1,43 @@
 {
-  "livro": "Jó",
-  "capítulo": 41,
-  "versículos": {
-    "1": {
-      "título": "Quem é capaz de enfrentar o monstro Leviatã?",
-      "texto": "“Você é capaz de pescar"
+    "livro": "Jó",
+    "capitulo": 41,
+    "titulos": {
+        "1": "Quem é capaz de enfrentar o monstro Leviatã?"
     },
-    "2": {
-      "título": "",
-      "texto": "Você consegue passar"
-    },
-    "3": {
-      "título": "",
-      "texto": "Por acaso ele lhe fará"
-    },
-    "4": {
-      "título": "",
-      "texto": "Será que ele fará"
-    },
-    "5": {
-      "título": "",
-      "texto": "Será que você vai brincar"
-    },
-    "6": {
-      "título": "",
-      "texto": "Será que os seus sócios"
-    },
-    "7": {
-      "título": "",
-      "texto": "Você consegue encher"
-    },
-    "8": {
-      "título": "",
-      "texto": "Ponha a mão sobre ele;"
-    },
-    "9": {
-      "título": "",
-      "texto": "“Eis que a gente se engana"
-    },
-    "10": {
-      "título": "",
-      "texto": "Ninguém é tão ousado,"
-    },
-    "11": {
-      "título": "",
-      "texto": "Quem primeiro deu algo"
-    },
-    "12": {
-      "título": "",
-      "texto": "“Não me calarei a respeito"
-    },
-    "13": {
-      "título": "",
-      "texto": "Quem poderá tirar"
-    },
-    "14": {
-      "título": "",
-      "texto": "Quem abriria as portas"
-    },
-    "15": {
-      "título": "",
-      "texto": "As fileiras de suas escamas"
-    },
-    "16": {
-      "título": "",
-      "texto": "A tal ponto uma se junta à outra,"
-    },
-    "17": {
-      "título": "",
-      "texto": "Elas se ligam umas às outras,"
-    },
-    "18": {
-      "título": "",
-      "texto": "Cada um dos seus espirros"
-    },
-    "19": {
-      "título": "",
-      "texto": "Da sua boca saem tochas;"
-    },
-    "20": {
-      "título": "",
-      "texto": "Das suas narinas"
-    },
-    "21": {
-      "título": "",
-      "texto": "O sopro dele acende o carvão;"
-    },
-    "22": {
-      "título": "",
-      "texto": "No seu pescoço reside a força;"
-    },
-    "23": {
-      "título": "",
-      "texto": "Suas partes carnudas"
-    },
-    "24": {
-      "título": "",
-      "texto": "O coração dele"
-    },
-    "25": {
-      "título": "",
-      "texto": "Quando ele se levanta,"
-    },
-    "26": {
-      "título": "",
-      "texto": "Se o golpe de espada o alcança,"
-    },
-    "27": {
-      "título": "",
-      "texto": "Para ele, o ferro é como palha,"
-    },
-    "28": {
-      "título": "",
-      "texto": "As flechas não o fazem fugir;"
-    },
-    "29": {
-      "título": "",
-      "texto": "Os porretes são para ele"
-    },
-    "30": {
-      "título": "",
-      "texto": "Debaixo do ventre"
-    },
-    "31": {
-      "título": "",
-      "texto": "Leva as profundezas a ferver"
-    },
-    "32": {
-      "título": "",
-      "texto": "Deixa atrás de si"
-    },
-    "33": {
-      "título": "",
-      "texto": "Na terra, não há ninguém"
-    },
-    "34": {
-      "título": "",
-      "texto": "O Leviatã olha com desprezo"
+    "versiculos": {
+        "1": "“Você é capaz de pescar",
+        "2": "Você consegue passar",
+        "3": "Por acaso ele lhe fará",
+        "4": "Será que ele fará",
+        "5": "Será que você vai brincar",
+        "6": "Será que os seus sócios",
+        "7": "Você consegue encher",
+        "8": "Ponha a mão sobre ele;",
+        "9": "“Eis que a gente se engana",
+        "10": "Ninguém é tão ousado,",
+        "11": "Quem primeiro deu algo",
+        "12": "“Não me calarei a respeito",
+        "13": "Quem poderá tirar",
+        "14": "Quem abriria as portas",
+        "15": "As fileiras de suas escamas",
+        "16": "A tal ponto uma se junta à outra,",
+        "17": "Elas se ligam umas às outras,",
+        "18": "Cada um dos seus espirros",
+        "19": "Da sua boca saem tochas;",
+        "20": "Das suas narinas",
+        "21": "O sopro dele acende o carvão;",
+        "22": "No seu pescoço reside a força;",
+        "23": "Suas partes carnudas",
+        "24": "O coração dele",
+        "25": "Quando ele se levanta,",
+        "26": "Se o golpe de espada o alcança,",
+        "27": "Para ele, o ferro é como palha,",
+        "28": "As flechas não o fazem fugir;",
+        "29": "Os porretes são para ele",
+        "30": "Debaixo do ventre",
+        "31": "Leva as profundezas a ferver",
+        "32": "Deixa atrás de si",
+        "33": "Na terra, não há ninguém",
+        "34": "O Leviatã olha com desprezo"
     }
-  }
 }

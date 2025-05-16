@@ -1,58 +1,24 @@
 {
-  "livro": "Miquéias",
-  "capítulo": 2,
-  "versículos": {
-    "1": {
-      "título": "Ai dos opressores gananciosos",
-      "texto": "“Ai daqueles que,"
+    "livro": "Miquéias",
+    "capitulo": 2,
+    "titulos": {
+        "1": "Ai dos opressores gananciosos",
+        "6": "Contra os falsos profetas",
+        "12": "O Senhor congrega o remanescente de Israel"
     },
-    "2": {
-      "título": "",
-      "texto": "Cobiçam campos"
-    },
-    "3": {
-      "título": "",
-      "texto": "Portanto, assim diz o Senhor :"
-    },
-    "4": {
-      "título": "",
-      "texto": "Naquele dia, se criará"
-    },
-    "5": {
-      "título": "",
-      "texto": "Portanto, na congregação"
-    },
-    "6": {
-      "título": "Contra os falsos profetas",
-      "texto": "“Eles dizem:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Tais coisas anunciadas"
-    },
-    "8": {
-      "título": "",
-      "texto": "Mas, há pouco, o meu povo"
-    },
-    "9": {
-      "título": "",
-      "texto": "Vocês expulsam"
-    },
-    "10": {
-      "título": "",
-      "texto": "Levantem-se e vão embora!"
-    },
-    "11": {
-      "título": "",
-      "texto": "Se alguém, seguindo o vento"
-    },
-    "12": {
-      "título": "O Senhor congrega o remanescente de Israel",
-      "texto": "“Certamente eu ajuntarei"
-    },
-    "13": {
-      "título": "",
-      "texto": "Diante deles virá"
+    "versiculos": {
+        "1": "“Ai daqueles que,",
+        "2": "Cobiçam campos",
+        "3": "Portanto, assim diz o Senhor :",
+        "4": "Naquele dia, se criará",
+        "5": "Portanto, na congregação",
+        "6": "“Eles dizem:",
+        "7": "Tais coisas anunciadas",
+        "8": "Mas, há pouco, o meu povo",
+        "9": "Vocês expulsam",
+        "10": "Levantem-se e vão embora!",
+        "11": "Se alguém, seguindo o vento",
+        "12": "“Certamente eu ajuntarei",
+        "13": "Diante deles virá"
     }
-  }
 }

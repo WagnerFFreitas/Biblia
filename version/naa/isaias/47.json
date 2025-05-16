@@ -1,66 +1,24 @@
 {
-  "livro": "Isaías",
-  "capítulo": 47,
-  "versículos": {
-    "1": {
-      "título": "A queda da Babilônia",
-      "texto": "“Desça e sente-se no pó,"
+    "livro": "Isaías",
+    "capitulo": 47,
+    "titulos": {
+        "1": "A queda da Babilônia"
     },
-    "2": {
-      "título": "",
-      "texto": "Pegue as pedras do moinho"
-    },
-    "3": {
-      "título": "",
-      "texto": "A sua nudez será descoberta,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Quanto ao nosso Redentor,"
-    },
-    "5": {
-      "título": "",
-      "texto": "“Fique sentada em silêncio"
-    },
-    "6": {
-      "título": "",
-      "texto": "Eu estava irado"
-    },
-    "7": {
-      "título": "",
-      "texto": "Você disse: ‘Eu serei senhora"
-    },
-    "8": {
-      "título": "",
-      "texto": "Agora, pois, escute isto,"
-    },
-    "9": {
-      "título": "",
-      "texto": "“Mas ambas estas coisas"
-    },
-    "10": {
-      "título": "",
-      "texto": "Porque você confiou"
-    },
-    "11": {
-      "título": "",
-      "texto": "Por isso, virá sobre você"
-    },
-    "12": {
-      "título": "",
-      "texto": "Continue, pois,"
-    },
-    "13": {
-      "título": "",
-      "texto": "Você está cansada"
-    },
-    "14": {
-      "título": "",
-      "texto": "Eis que serão como palha,"
-    },
-    "15": {
-      "título": "",
-      "texto": "Isso é o que lhe farão"
+    "versiculos": {
+        "1": "“Desça e sente-se no pó,",
+        "2": "Pegue as pedras do moinho",
+        "3": "A sua nudez será descoberta,",
+        "4": "Quanto ao nosso Redentor,",
+        "5": "“Fique sentada em silêncio",
+        "6": "Eu estava irado",
+        "7": "Você disse: ‘Eu serei senhora",
+        "8": "Agora, pois, escute isto,",
+        "9": "“Mas ambas estas coisas",
+        "10": "Porque você confiou",
+        "11": "Por isso, virá sobre você",
+        "12": "Continue, pois,",
+        "13": "Você está cansada",
+        "14": "Eis que serão como palha,",
+        "15": "Isso é o que lhe farão"
     }
-  }
 }

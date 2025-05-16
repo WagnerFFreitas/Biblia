@@ -1,114 +1,41 @@
 {
-  "livro": "Tiago",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "Prefácio e saudação",
-      "texto": "Tiago, servo de Deus e do Senhor Jesus Cristo, às doze tribos que se encontram na Diáspora."
+    "livro": "Tiago",
+    "capitulo": 1,
+    "titulos": {
+        "1": "Prefácio e saudação",
+        "2": "Os benefícios das provações",
+        "5": "Como obter a sabedoria",
+        "9": "Pobreza e riqueza",
+        "12": "Provação e tentação",
+        "19": "A prática da palavra de Deus"
     },
-    "2": {
-      "título": "Os benefícios das provações",
-      "texto": "Meus irmãos, tenham por motivo de grande alegria o fato de passarem por várias provações,"
-    },
-    "3": {
-      "título": "",
-      "texto": "sabendo que a provação da fé que vocês têm produz perseverança."
-    },
-    "4": {
-      "título": "",
-      "texto": "Ora, a perseverança deve ter ação completa, para que vocês sejam perfeitos e íntegros, sem que lhes falte nada."
-    },
-    "5": {
-      "título": "Como obter a sabedoria",
-      "texto": "Se, porém, algum de vocês necessita de sabedoria, peça a Deus, que a todos dá com generosidade e sem reprovações, e ela lhe será concedida."
-    },
-    "6": {
-      "título": "",
-      "texto": "Peça-a, porém, com fé, em nada duvidando, pois o que duvida é semelhante à onda do mar, impelida e agitada pelo vento."
-    },
-    "7": {
-      "título": "",
-      "texto": "Que uma pessoa dessas não pense que alcançará do Senhor alguma coisa,"
-    },
-    "8": {
-      "título": "",
-      "texto": "sendo indecisa e inconstante em todos os seus caminhos."
-    },
-    "9": {
-      "título": "Pobreza e riqueza",
-      "texto": "O irmão de condição humilde glorie-se na sua exaltação,"
-    },
-    "10": {
-      "título": "",
-      "texto": "e o rico, na sua humilhação, porque ele passará como a flor do campo."
-    },
-    "11": {
-      "título": "",
-      "texto": "Porque o sol se levanta com seu calor ardente, a planta seca, a sua flor cai e a formosura do seu aspecto desaparece. Assim também o rico murchará em seus caminhos."
-    },
-    "12": {
-      "título": "Provação e tentação",
-      "texto": "Bem-aventurado é aquele que suporta com perseverança a provação. Porque, depois de ter sido aprovado, receberá a coroa da vida, a qual o Senhor prometeu aos que o amam."
-    },
-    "13": {
-      "título": "",
-      "texto": "Ninguém, ao ser tentado, diga: “Sou tentado por Deus.” Porque Deus não pode ser tentado pelo mal e ele mesmo não tenta ninguém."
-    },
-    "14": {
-      "título": "",
-      "texto": "Ao contrário, cada um é tentado pela sua própria cobiça, quando esta o atrai e seduz."
-    },
-    "15": {
-      "título": "",
-      "texto": "Então a cobiça, depois de haver concebido, dá à luz o pecado; e o pecado, uma vez consumado, gera a morte."
-    },
-    "16": {
-      "título": "",
-      "texto": "Não se enganem, meus amados irmãos."
-    },
-    "17": {
-      "título": "",
-      "texto": "Toda boa dádiva e todo dom perfeito vêm lá do alto, descendo do Pai das luzes, em quem não pode existir variação ou sombra de mudança."
-    },
-    "18": {
-      "título": "",
-      "texto": "Pois, segundo o seu querer, ele nos gerou pela palavra da verdade, para que fôssemos como que primícias das suas criaturas."
-    },
-    "19": {
-      "título": "A prática da palavra de Deus",
-      "texto": "Vocês sabem estas coisas, meus amados irmãos. Cada um esteja pronto para ouvir, mas seja tardio para falar e tardio para ficar irado."
-    },
-    "20": {
-      "título": "",
-      "texto": "Porque a ira humana não produz a justiça de Deus."
-    },
-    "21": {
-      "título": "",
-      "texto": "Portanto, deixando toda impureza e acúmulo de maldade, acolham com mansidão a palavra implantada em vocês, a qual é poderosa para salvá-los."
-    },
-    "22": {
-      "título": "",
-      "texto": "Sejam praticantes da palavra e não somente ouvintes, enganando a vocês mesmos."
-    },
-    "23": {
-      "título": "",
-      "texto": "Porque, se alguém é ouvinte da palavra e não praticante, assemelha-se àquele que contempla o seu rosto natural num espelho;"
-    },
-    "24": {
-      "título": "",
-      "texto": "pois contempla a si mesmo, se retira e logo esquece como era a sua aparência."
-    },
-    "25": {
-      "título": "",
-      "texto": "Mas aquele que atenta bem para a lei perfeita, lei da liberdade, e nela persevera, não sendo ouvinte que logo se esquece, mas operoso praticante, esse será bem-aventurado no que realizar."
-    },
-    "26": {
-      "título": "",
-      "texto": "Se alguém supõe ser religioso, mas não refreia a sua língua, está enganando a si mesmo; a sua religião é vã."
-    },
-    "27": {
-      "título": "",
-      "texto": "A religião pura e sem mácula para com o nosso Deus e Pai é esta: visitar os órfãos e as viúvas nas suas aflições e guardar-se incontaminado do mundo."
+    "versiculos": {
+        "1": "Tiago, servo de Deus e do Senhor Jesus Cristo, às doze tribos que se encontram na Diáspora.",
+        "2": "Meus irmãos, tenham por motivo de grande alegria o fato de passarem por várias provações,",
+        "3": "sabendo que a provação da fé que vocês têm produz perseverança.",
+        "4": "Ora, a perseverança deve ter ação completa, para que vocês sejam perfeitos e íntegros, sem que lhes falte nada.",
+        "5": "Se, porém, algum de vocês necessita de sabedoria, peça a Deus, que a todos dá com generosidade e sem reprovações, e ela lhe será concedida.",
+        "6": "Peça-a, porém, com fé, em nada duvidando, pois o que duvida é semelhante à onda do mar, impelida e agitada pelo vento.",
+        "7": "Que uma pessoa dessas não pense que alcançará do Senhor alguma coisa,",
+        "8": "sendo indecisa e inconstante em todos os seus caminhos.",
+        "9": "O irmão de condição humilde glorie-se na sua exaltação,",
+        "10": "e o rico, na sua humilhação, porque ele passará como a flor do campo.",
+        "11": "Porque o sol se levanta com seu calor ardente, a planta seca, a sua flor cai e a formosura do seu aspecto desaparece. Assim também o rico murchará em seus caminhos.",
+        "12": "Bem-aventurado é aquele que suporta com perseverança a provação. Porque, depois de ter sido aprovado, receberá a coroa da vida, a qual o Senhor prometeu aos que o amam.",
+        "13": "Ninguém, ao ser tentado, diga: “Sou tentado por Deus.” Porque Deus não pode ser tentado pelo mal e ele mesmo não tenta ninguém.",
+        "14": "Ao contrário, cada um é tentado pela sua própria cobiça, quando esta o atrai e seduz.",
+        "15": "Então a cobiça, depois de haver concebido, dá à luz o pecado; e o pecado, uma vez consumado, gera a morte.",
+        "16": "Não se enganem, meus amados irmãos.",
+        "17": "Toda boa dádiva e todo dom perfeito vêm lá do alto, descendo do Pai das luzes, em quem não pode existir variação ou sombra de mudança.",
+        "18": "Pois, segundo o seu querer, ele nos gerou pela palavra da verdade, para que fôssemos como que primícias das suas criaturas.",
+        "19": "Vocês sabem estas coisas, meus amados irmãos. Cada um esteja pronto para ouvir, mas seja tardio para falar e tardio para ficar irado.",
+        "20": "Porque a ira humana não produz a justiça de Deus.",
+        "21": "Portanto, deixando toda impureza e acúmulo de maldade, acolham com mansidão a palavra implantada em vocês, a qual é poderosa para salvá-los.",
+        "22": "Sejam praticantes da palavra e não somente ouvintes, enganando a vocês mesmos.",
+        "23": "Porque, se alguém é ouvinte da palavra e não praticante, assemelha-se àquele que contempla o seu rosto natural num espelho;",
+        "24": "pois contempla a si mesmo, se retira e logo esquece como era a sua aparência.",
+        "25": "Mas aquele que atenta bem para a lei perfeita, lei da liberdade, e nela persevera, não sendo ouvinte que logo se esquece, mas operoso praticante, esse será bem-aventurado no que realizar.",
+        "26": "Se alguém supõe ser religioso, mas não refreia a sua língua, está enganando a si mesmo; a sua religião é vã.",
+        "27": "A religião pura e sem mácula para com o nosso Deus e Pai é esta: visitar os órfãos e as viúvas nas suas aflições e guardar-se incontaminado do mundo."
     }
-  }
 }

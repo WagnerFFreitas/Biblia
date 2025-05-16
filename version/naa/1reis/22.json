@@ -1,222 +1,67 @@
 {
-  "livro": "1 Reis",
-  "capítulo": 22,
-  "versículos": {
-    "1": {
-      "título": "As profecias dos falsos profetas",
-      "texto": "Três anos se passaram sem haver guerra entre Síria e Israel."
+    "livro": "1 Reis",
+    "capitulo": 22,
+    "titulos": {
+        "1": "As profecias dos falsos profetas",
+        "13": "A profecia de Micaías",
+        "29": "A morte de Acabe",
+        "41": "O reinado e a morte de Josafá",
+        "52": "O reinado de Acazias, de Israel"
     },
-    "2": {
-      "título": "",
-      "texto": "Porém, no terceiro ano, Josafá, rei de Judá, foi visitar o rei de Israel."
-    },
-    "3": {
-      "título": "",
-      "texto": "Este perguntou aos seus servos:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Então perguntou a Josafá:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Josafá disse mais ao rei de Israel:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Então o rei de Israel reuniu os profetas, cerca de quatrocentos homens, e lhes perguntou:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Mas Josafá perguntou:"
-    },
-    "8": {
-      "título": "",
-      "texto": "O rei de Israel respondeu a Josafá:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Então o rei de Israel chamou um oficial e disse:"
-    },
-    "10": {
-      "título": "",
-      "texto": "O rei de Israel e Josafá, rei de Judá, estavam assentados, cada um no seu trono, vestidos de trajes reais, numa eira à entrada do portão da cidade de Samaria; e todos os profetas profetizavam diante deles."
-    },
-    "11": {
-      "título": "",
-      "texto": "Zedequias, filho de Quenaana, fez para si uns chifres de ferro e disse:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Todos os profetas profetizaram assim, dizendo:"
-    },
-    "13": {
-      "título": "A profecia de Micaías",
-      "texto": "O mensageiro que tinha ido chamar Micaías falou-lhe, dizendo:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Micaías respondeu:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Quando ele chegou à presença do rei, este lhe perguntou:"
-    },
-    "16": {
-      "título": "",
-      "texto": "O rei lhe disse:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Então Micaías disse:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Então o rei de Israel disse a Josafá:"
-    },
-    "19": {
-      "título": "",
-      "texto": "Micaías prosseguiu:"
-    },
-    "20": {
-      "título": "",
-      "texto": "Então o Senhor perguntou: “Quem enganará Acabe, para que vá e seja morto em Ramote-Gileade?” E um dizia uma coisa, e outro dizia outra coisa."
-    },
-    "21": {
-      "título": "",
-      "texto": "Então um espírito saiu, se apresentou diante do Senhor e disse: “Eu o enganarei.” O Senhor perguntou: “Como?”"
-    },
-    "22": {
-      "título": "",
-      "texto": "Ele respondeu: “Sairei e serei um espírito mentiroso na boca de todos os profetas do rei.” Então o Senhor disse: “Você conseguirá enganá-lo. Vá e faça assim.”"
-    },
-    "23": {
-      "título": "",
-      "texto": "E agora eis que o Senhor pôs esse espírito mentiroso na boca de todos estes seus profetas e o Senhor declarou que um mal vai lhe acontecer."
-    },
-    "24": {
-      "título": "",
-      "texto": "Então Zedequias, filho de Quenaana, chegou, deu uma bofetada em Micaías e perguntou:"
-    },
-    "25": {
-      "título": "",
-      "texto": "Micaías respondeu:"
-    },
-    "26": {
-      "título": "",
-      "texto": "Então o rei de Israel disse:"
-    },
-    "27": {
-      "título": "",
-      "texto": "E diga: “Assim diz o rei: Metam este homem na cadeia e o ponham a pão e água, até que eu volte em paz.”"
-    },
-    "28": {
-      "título": "",
-      "texto": "Micaías disse:"
-    },
-    "29": {
-      "título": "A morte de Acabe",
-      "texto": "O rei de Israel e Josafá, rei de Judá, foram atacar Ramote-Gileade."
-    },
-    "30": {
-      "título": "",
-      "texto": "O rei de Israel disse a Josafá:"
-    },
-    "31": {
-      "título": "",
-      "texto": "Ora, o rei da Síria havia ordenado aos trinta e dois capitães dos seus carros de guerra que não lutassem nem contra pequeno nem contra grande, mas somente contra o rei de Israel."
-    },
-    "32": {
-      "título": "",
-      "texto": "Quando os capitães dos carros viram Josafá, disseram:"
-    },
-    "33": {
-      "título": "",
-      "texto": "Quando os capitães dos carros de guerra viram que não era o rei de Israel, deixaram de persegui-lo."
-    },
-    "34": {
-      "título": "",
-      "texto": "Então um homem entesou o arco e, atirando ao acaso, atingiu o rei de Israel por entre as juntas da sua armadura. Então o rei Acabe disse ao condutor do seu carro:"
-    },
-    "35": {
-      "título": "",
-      "texto": "A batalha se intensificou naquele dia. Quanto ao rei, seguraram-no em pé no seu carro de guerra de frente para os sírios, mas à tarde ele morreu. O sangue corria da ferida para o fundo do carro."
-    },
-    "36": {
-      "título": "",
-      "texto": "Ao pôr do sol, fez-se ouvir um grito pelo acampamento, que dizia:"
-    },
-    "37": {
-      "título": "",
-      "texto": "Morto o rei, levaram-no a Samaria, onde o sepultaram."
-    },
-    "38": {
-      "título": "",
-      "texto": "Quando lavaram o carro de guerra junto à cisterna de Samaria, os cães lamberam o sangue do rei, segundo a palavra que o Senhor tinha dito; as prostitutas banharam-se naquelas águas."
-    },
-    "39": {
-      "título": "",
-      "texto": "Quanto aos demais atos de Acabe, a tudo o que fez, ao palácio de marfim que construiu e a todas as cidades que edificou, não está tudo escrito no Livro da História dos Reis de Israel?"
-    },
-    "40": {
-      "título": "",
-      "texto": "Assim, Acabe morreu, e Acazias, seu filho, reinou em seu lugar."
-    },
-    "41": {
-      "título": "O reinado e a morte de Josafá",
-      "texto": "Josafá, filho de Asa, começou a reinar sobre Judá no quarto ano do reinado de Acabe, rei de Israel."
-    },
-    "42": {
-      "título": "",
-      "texto": "Josafá tinha trinta e cinco anos de idade quando começou a reinar e reinou vinte e cinco anos em Jerusalém. A mãe dele se chamava Azuba e era filha de Sili."
-    },
-    "43": {
-      "título": "",
-      "texto": "Josafá andou em todos os caminhos de Asa, seu pai; não se desviou deles e fez o que era reto aos olhos do Senhor ."
-    },
-    "44": {
-      "título": "",
-      "texto": "Os lugares altos, porém, não foram destruídos; neles, o povo ainda oferecia sacrifícios e queimava incenso."
-    },
-    "45": {
-      "título": "",
-      "texto": "Josafá viveu em paz com o rei de Israel."
-    },
-    "46": {
-      "título": "",
-      "texto": "Quanto aos demais atos de Josafá, ao poder que mostrou e como guerreou, não está tudo escrito no Livro da História dos Reis de Judá?"
-    },
-    "47": {
-      "título": "",
-      "texto": "Também exterminou da terra os restantes dos prostitutos cultuais que ficaram nos dias de Asa, seu pai."
-    },
-    "48": {
-      "título": "",
-      "texto": "Nessa época não havia rei em Edom, porém somente um governador."
-    },
-    "49": {
-      "título": "",
-      "texto": "Josafá fez grandes navios, para irem a Ofir em busca de ouro; porém não foram, porque os navios se quebraram em Eziom-Geber."
-    },
-    "50": {
-      "título": "",
-      "texto": "Então Acazias, filho de Acabe, disse a Josafá:"
-    },
-    "51": {
-      "título": "",
-      "texto": "Josafá morreu e foi sepultado na Cidade de Davi, seu pai; e Jeorão, seu filho, reinou em seu lugar."
-    },
-    "52": {
-      "título": "O reinado de Acazias, de Israel",
-      "texto": "Acazias, filho de Acabe, começou a reinar sobre Israel em Samaria, no décimo sétimo ano do reinado de Josafá, rei de Judá; e reinou dois anos sobre Israel."
-    },
-    "53": {
-      "título": "",
-      "texto": "Fez o que era mau aos olhos do Senhor , pois andou nos caminhos de seu pai, bem como nos caminhos de sua mãe e nos caminhos de Jeroboão, filho de Nebate, que levou Israel a pecar."
-    },
-    "54": {
-      "título": "",
-      "texto": "Ele serviu a Baal, e o adorou, como o seu pai havia feito antes dele, provocando o Senhor , Deus de Israel, à ira."
+    "versiculos": {
+        "1": "Três anos se passaram sem haver guerra entre Síria e Israel.",
+        "2": "Porém, no terceiro ano, Josafá, rei de Judá, foi visitar o rei de Israel.",
+        "3": "Este perguntou aos seus servos:",
+        "4": "Então perguntou a Josafá:",
+        "5": "Josafá disse mais ao rei de Israel:",
+        "6": "Então o rei de Israel reuniu os profetas, cerca de quatrocentos homens, e lhes perguntou:",
+        "7": "Mas Josafá perguntou:",
+        "8": "O rei de Israel respondeu a Josafá:",
+        "9": "Então o rei de Israel chamou um oficial e disse:",
+        "10": "O rei de Israel e Josafá, rei de Judá, estavam assentados, cada um no seu trono, vestidos de trajes reais, numa eira à entrada do portão da cidade de Samaria; e todos os profetas profetizavam diante deles.",
+        "11": "Zedequias, filho de Quenaana, fez para si uns chifres de ferro e disse:",
+        "12": "Todos os profetas profetizaram assim, dizendo:",
+        "13": "O mensageiro que tinha ido chamar Micaías falou-lhe, dizendo:",
+        "14": "Micaías respondeu:",
+        "15": "Quando ele chegou à presença do rei, este lhe perguntou:",
+        "16": "O rei lhe disse:",
+        "17": "Então Micaías disse:",
+        "18": "Então o rei de Israel disse a Josafá:",
+        "19": "Micaías prosseguiu:",
+        "20": "Então o Senhor perguntou: “Quem enganará Acabe, para que vá e seja morto em Ramote-Gileade?” E um dizia uma coisa, e outro dizia outra coisa.",
+        "21": "Então um espírito saiu, se apresentou diante do Senhor e disse: “Eu o enganarei.” O Senhor perguntou: “Como?”",
+        "22": "Ele respondeu: “Sairei e serei um espírito mentiroso na boca de todos os profetas do rei.” Então o Senhor disse: “Você conseguirá enganá-lo. Vá e faça assim.”",
+        "23": "E agora eis que o Senhor pôs esse espírito mentiroso na boca de todos estes seus profetas e o Senhor declarou que um mal vai lhe acontecer.",
+        "24": "Então Zedequias, filho de Quenaana, chegou, deu uma bofetada em Micaías e perguntou:",
+        "25": "Micaías respondeu:",
+        "26": "Então o rei de Israel disse:",
+        "27": "E diga: “Assim diz o rei: Metam este homem na cadeia e o ponham a pão e água, até que eu volte em paz.”",
+        "28": "Micaías disse:",
+        "29": "O rei de Israel e Josafá, rei de Judá, foram atacar Ramote-Gileade.",
+        "30": "O rei de Israel disse a Josafá:",
+        "31": "Ora, o rei da Síria havia ordenado aos trinta e dois capitães dos seus carros de guerra que não lutassem nem contra pequeno nem contra grande, mas somente contra o rei de Israel.",
+        "32": "Quando os capitães dos carros viram Josafá, disseram:",
+        "33": "Quando os capitães dos carros de guerra viram que não era o rei de Israel, deixaram de persegui-lo.",
+        "34": "Então um homem entesou o arco e, atirando ao acaso, atingiu o rei de Israel por entre as juntas da sua armadura. Então o rei Acabe disse ao condutor do seu carro:",
+        "35": "A batalha se intensificou naquele dia. Quanto ao rei, seguraram-no em pé no seu carro de guerra de frente para os sírios, mas à tarde ele morreu. O sangue corria da ferida para o fundo do carro.",
+        "36": "Ao pôr do sol, fez-se ouvir um grito pelo acampamento, que dizia:",
+        "37": "Morto o rei, levaram-no a Samaria, onde o sepultaram.",
+        "38": "Quando lavaram o carro de guerra junto à cisterna de Samaria, os cães lamberam o sangue do rei, segundo a palavra que o Senhor tinha dito; as prostitutas banharam-se naquelas águas.",
+        "39": "Quanto aos demais atos de Acabe, a tudo o que fez, ao palácio de marfim que construiu e a todas as cidades que edificou, não está tudo escrito no Livro da História dos Reis de Israel?",
+        "40": "Assim, Acabe morreu, e Acazias, seu filho, reinou em seu lugar.",
+        "41": "Josafá, filho de Asa, começou a reinar sobre Judá no quarto ano do reinado de Acabe, rei de Israel.",
+        "42": "Josafá tinha trinta e cinco anos de idade quando começou a reinar e reinou vinte e cinco anos em Jerusalém. A mãe dele se chamava Azuba e era filha de Sili.",
+        "43": "Josafá andou em todos os caminhos de Asa, seu pai; não se desviou deles e fez o que era reto aos olhos do Senhor .",
+        "44": "Os lugares altos, porém, não foram destruídos; neles, o povo ainda oferecia sacrifícios e queimava incenso.",
+        "45": "Josafá viveu em paz com o rei de Israel.",
+        "46": "Quanto aos demais atos de Josafá, ao poder que mostrou e como guerreou, não está tudo escrito no Livro da História dos Reis de Judá?",
+        "47": "Também exterminou da terra os restantes dos prostitutos cultuais que ficaram nos dias de Asa, seu pai.",
+        "48": "Nessa época não havia rei em Edom, porém somente um governador.",
+        "49": "Josafá fez grandes navios, para irem a Ofir em busca de ouro; porém não foram, porque os navios se quebraram em Eziom-Geber.",
+        "50": "Então Acazias, filho de Acabe, disse a Josafá:",
+        "51": "Josafá morreu e foi sepultado na Cidade de Davi, seu pai; e Jeorão, seu filho, reinou em seu lugar.",
+        "52": "Acazias, filho de Acabe, começou a reinar sobre Israel em Samaria, no décimo sétimo ano do reinado de Josafá, rei de Judá; e reinou dois anos sobre Israel.",
+        "53": "Fez o que era mau aos olhos do Senhor , pois andou nos caminhos de seu pai, bem como nos caminhos de sua mãe e nos caminhos de Jeroboão, filho de Nebate, que levou Israel a pecar.",
+        "54": "Ele serviu a Baal, e o adorou, como o seu pai havia feito antes dele, provocando o Senhor , Deus de Israel, à ira."
     }
-  }
 }

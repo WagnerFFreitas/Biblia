@@ -1,146 +1,50 @@
 {
-  "livro": "Lucas",
-  "capítulo": 13,
-  "versículos": {
-    "1": {
-      "título": "Arrepender-se ou perecer",
-      "texto": "Naquela mesma ocasião, estavam ali algumas pessoas que falaram para Jesus a respeito dos galileus cujo sangue Pilatos havia misturado com os sacrifícios que os mesmos realizavam."
+    "livro": "Lucas",
+    "capitulo": 13,
+    "titulos": {
+        "1": "Arrepender-se ou perecer",
+        "6": "A parábola da figueira estéril",
+        "10": "A cura de uma mulher enferma num sábado",
+        "18": "A parábola do grão de mostarda",
+        "20": "A parábola do fermento",
+        "22": "A porta estreita",
+        "31": "O lamento sobre Jerusalém"
     },
-    "2": {
-      "título": "",
-      "texto": "Então Jesus lhes disse:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Digo a vocês que não eram; se, porém, não se arrependerem, todos vocês também perecerão."
-    },
-    "4": {
-      "título": "",
-      "texto": "E, quanto àqueles dezoito sobre os quais desabou a torre de Siloé e os matou, vocês pensam que eles eram mais culpados do que todos os outros moradores de Jerusalém?"
-    },
-    "5": {
-      "título": "",
-      "texto": "Digo a vocês que não eram; mas, se não se arrependerem, todos vocês também perecerão."
-    },
-    "6": {
-      "título": "A parábola da figueira estéril",
-      "texto": "E Jesus contou a seguinte parábola:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Então disse ao homem que cuidava da vinha: “Já faz três anos que venho procurar fruto nesta figueira e não encontro nada. Portanto, corte-a! Por que ela ainda está ocupando inutilmente a terra?”"
-    },
-    "8": {
-      "título": "",
-      "texto": "Mas o homem que cuidava da vinha respondeu: “Senhor, deixe-a ainda este ano, até que eu escave ao redor dela e ponha estrume."
-    },
-    "9": {
-      "título": "",
-      "texto": "Se vier a dar fruto, muito bem. Se não der fruto, o senhor poderá cortá-la.”"
-    },
-    "10": {
-      "título": "A cura de uma mulher enferma num sábado",
-      "texto": "Num sábado, Jesus estava ensinando numa das sinagogas."
-    },
-    "11": {
-      "título": "",
-      "texto": "E chegou ali uma mulher possuída de um espírito de enfermidade, havia já dezoito anos; ela andava encurvada, sem poder se endireitar de modo nenhum."
-    },
-    "12": {
-      "título": "",
-      "texto": "Ao vê-la, Jesus a chamou e lhe disse:"
-    },
-    "13": {
-      "título": "",
-      "texto": "E, impondo-lhe as mãos, ela imediatamente se endireitou e dava glória a Deus."
-    },
-    "14": {
-      "título": "",
-      "texto": "O chefe da sinagoga, indignado por ver que Jesus curava no sábado, disse à multidão:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Porém o Senhor lhe respondeu:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Por que motivo não se devia livrar deste cativeiro, em dia de sábado, esta filha de Abraão, a quem Satanás trazia presa há dezoito anos?"
-    },
-    "17": {
-      "título": "",
-      "texto": "Tendo Jesus dito estas palavras, todos os seus adversários ficaram envergonhados. Entretanto, o povo se alegrava por todos os feitos gloriosos que Jesus realizava."
-    },
-    "18": {
-      "título": "A parábola do grão de mostarda",
-      "texto": "Jesus disse:"
-    },
-    "19": {
-      "título": "",
-      "texto": "É semelhante a um grão de mostarda, que um homem plantou na sua horta; e cresceu e fez-se árvore; e as aves do céu se aninharam nos seus ramos."
-    },
-    "20": {
-      "título": "A parábola do fermento",
-      "texto": "Disse mais:"
-    },
-    "21": {
-      "título": "",
-      "texto": "É semelhante ao fermento que uma mulher pegou e misturou em três medidas de farinha, até ficar tudo levedado."
-    },
-    "22": {
-      "título": "A porta estreita",
-      "texto": "Jesus passava por cidades e aldeias, ensinando e caminhando para Jerusalém."
-    },
-    "23": {
-      "título": "",
-      "texto": "E alguém lhe perguntou:"
-    },
-    "24": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "25": {
-      "título": "",
-      "texto": "Quando o dono da casa se tiver levantado e fechado a porta, e vocês, do lado de fora, começarem a bater, dizendo: “Senhor, abra a porta para nós”, ele responderá: “Não sei de onde vocês são.”"
-    },
-    "26": {
-      "título": "",
-      "texto": "Então vocês dirão: “Comíamos e bebíamos com o senhor. Além disso, o senhor ensinava em nossas ruas.”"
-    },
-    "27": {
-      "título": "",
-      "texto": "Mas ele dirá a vocês: “Não sei de onde vocês são; afastem-se de mim, vocês todos que praticam o mal.”"
-    },
-    "28": {
-      "título": "",
-      "texto": "Ali haverá choro e ranger de dentes, quando vocês virem Abraão, Isaque, Jacó e todos os profetas no Reino de Deus, mas vocês lançados fora."
-    },
-    "29": {
-      "título": "",
-      "texto": "Muitos virão do Oriente e do Ocidente, do Norte e do Sul e tomarão lugar à mesa no Reino de Deus."
-    },
-    "30": {
-      "título": "",
-      "texto": "Porém, de fato, há últimos que serão primeiros, e primeiros que serão últimos."
-    },
-    "31": {
-      "título": "O lamento sobre Jerusalém",
-      "texto": "Naquela mesma hora, alguns fariseus vieram para dizer a Jesus:"
-    },
-    "32": {
-      "título": "",
-      "texto": "Ele, porém, lhes respondeu:"
-    },
-    "33": {
-      "título": "",
-      "texto": "Porém, preciso caminhar hoje, amanhã e depois, porque não se espera que um profeta morra fora de Jerusalém."
-    },
-    "34": {
-      "título": "",
-      "texto": "— Jerusalém, Jerusalém! Você mata os profetas e apedreja os que lhe são enviados! Quantas vezes eu quis reunir os seus filhos, como a galinha ajunta os do seu próprio ninho debaixo das asas, mas vocês não quiseram!"
-    },
-    "35": {
-      "título": "",
-      "texto": "Eis que a casa de vocês ficará deserta. E eu afirmo a vocês que não me verão mais, até que venham a dizer: “Bendito o que vem em nome do Senhor!”"
+    "versiculos": {
+        "1": "Naquela mesma ocasião, estavam ali algumas pessoas que falaram para Jesus a respeito dos galileus cujo sangue Pilatos havia misturado com os sacrifícios que os mesmos realizavam.",
+        "2": "Então Jesus lhes disse:",
+        "3": "Digo a vocês que não eram; se, porém, não se arrependerem, todos vocês também perecerão.",
+        "4": "E, quanto àqueles dezoito sobre os quais desabou a torre de Siloé e os matou, vocês pensam que eles eram mais culpados do que todos os outros moradores de Jerusalém?",
+        "5": "Digo a vocês que não eram; mas, se não se arrependerem, todos vocês também perecerão.",
+        "6": "E Jesus contou a seguinte parábola:",
+        "7": "Então disse ao homem que cuidava da vinha: “Já faz três anos que venho procurar fruto nesta figueira e não encontro nada. Portanto, corte-a! Por que ela ainda está ocupando inutilmente a terra?”",
+        "8": "Mas o homem que cuidava da vinha respondeu: “Senhor, deixe-a ainda este ano, até que eu escave ao redor dela e ponha estrume.",
+        "9": "Se vier a dar fruto, muito bem. Se não der fruto, o senhor poderá cortá-la.”",
+        "10": "Num sábado, Jesus estava ensinando numa das sinagogas.",
+        "11": "E chegou ali uma mulher possuída de um espírito de enfermidade, havia já dezoito anos; ela andava encurvada, sem poder se endireitar de modo nenhum.",
+        "12": "Ao vê-la, Jesus a chamou e lhe disse:",
+        "13": "E, impondo-lhe as mãos, ela imediatamente se endireitou e dava glória a Deus.",
+        "14": "O chefe da sinagoga, indignado por ver que Jesus curava no sábado, disse à multidão:",
+        "15": "Porém o Senhor lhe respondeu:",
+        "16": "Por que motivo não se devia livrar deste cativeiro, em dia de sábado, esta filha de Abraão, a quem Satanás trazia presa há dezoito anos?",
+        "17": "Tendo Jesus dito estas palavras, todos os seus adversários ficaram envergonhados. Entretanto, o povo se alegrava por todos os feitos gloriosos que Jesus realizava.",
+        "18": "Jesus disse:",
+        "19": "É semelhante a um grão de mostarda, que um homem plantou na sua horta; e cresceu e fez-se árvore; e as aves do céu se aninharam nos seus ramos.",
+        "20": "Disse mais:",
+        "21": "É semelhante ao fermento que uma mulher pegou e misturou em três medidas de farinha, até ficar tudo levedado.",
+        "22": "Jesus passava por cidades e aldeias, ensinando e caminhando para Jerusalém.",
+        "23": "E alguém lhe perguntou:",
+        "24": "Jesus respondeu:",
+        "25": "Quando o dono da casa se tiver levantado e fechado a porta, e vocês, do lado de fora, começarem a bater, dizendo: “Senhor, abra a porta para nós”, ele responderá: “Não sei de onde vocês são.”",
+        "26": "Então vocês dirão: “Comíamos e bebíamos com o senhor. Além disso, o senhor ensinava em nossas ruas.”",
+        "27": "Mas ele dirá a vocês: “Não sei de onde vocês são; afastem-se de mim, vocês todos que praticam o mal.”",
+        "28": "Ali haverá choro e ranger de dentes, quando vocês virem Abraão, Isaque, Jacó e todos os profetas no Reino de Deus, mas vocês lançados fora.",
+        "29": "Muitos virão do Oriente e do Ocidente, do Norte e do Sul e tomarão lugar à mesa no Reino de Deus.",
+        "30": "Porém, de fato, há últimos que serão primeiros, e primeiros que serão últimos.",
+        "31": "Naquela mesma hora, alguns fariseus vieram para dizer a Jesus:",
+        "32": "Ele, porém, lhes respondeu:",
+        "33": "Porém, preciso caminhar hoje, amanhã e depois, porque não se espera que um profeta morra fora de Jerusalém.",
+        "34": "— Jerusalém, Jerusalém! Você mata os profetas e apedreja os que lhe são enviados! Quantas vezes eu quis reunir os seus filhos, como a galinha ajunta os do seu próprio ninho debaixo das asas, mas vocês não quiseram!",
+        "35": "Eis que a casa de vocês ficará deserta. E eu afirmo a vocês que não me verão mais, até que venham a dizer: “Bendito o que vem em nome do Senhor!”"
     }
-  }
 }

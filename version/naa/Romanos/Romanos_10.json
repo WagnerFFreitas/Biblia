@@ -1,90 +1,28 @@
 {
-  "livro": "Romanos",
-  "capítulo": 10,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Irmãos, o desejo do meu coração e a minha súplica a Deus em favor deles é para que sejam salvos."
-    },
-    "2": {
-      "título": "",
-      "texto": "Porque dou testemunho a favor deles de que têm zelo por Deus, porém não com entendimento."
-    },
-    "3": {
-      "título": "",
-      "texto": "Desconhecendo a justiça de Deus e procurando estabelecer a sua própria justiça, não se sujeitaram à justiça que vem de Deus."
-    },
-    "4": {
-      "título": "",
-      "texto": "Porque o fim da lei é Cristo, para justiça de todo aquele que crê."
-    },
-    "5": {
-      "título": "",
-      "texto": "Ora, Moisés descreve assim a justiça que procede da lei: “Aquele que observar os seus preceitos por eles viverá.”"
-    },
-    "6": {
-      "título": "",
-      "texto": "Mas a justiça que procede da fé afirma o seguinte: “Não pergunte em seu coração: Quem subirá ao céu?”, isto é, para trazer Cristo lá do alto;"
-    },
-    "7": {
-      "título": "",
-      "texto": "ou: “Quem descerá ao abismo?”, isto é, para levantar Cristo dentre os mortos."
-    },
-    "8": {
-      "título": "",
-      "texto": "Porém, o que se diz? “A palavra está perto de você, na sua boca e no seu coração”, isto é, a palavra da fé que pregamos."
-    },
-    "9": {
-      "título": "",
-      "texto": "Se com a boca você confessar Jesus como Senhor e em seu coração crer que Deus o ressuscitou dentre os mortos, você será salvo."
-    },
-    "10": {
-      "título": "",
-      "texto": "Porque com o coração se crê para a justiça e com a boca se confessa para a salvação."
-    },
-    "11": {
-      "título": "",
-      "texto": "Pois a Escritura diz: “Todo aquele que nele crê não será envergonhado.”"
-    },
-    "12": {
-      "título": "",
-      "texto": "Porque não há distinção entre judeu e grego, uma vez que o mesmo é o Senhor de todos, rico para com todos os que o invocam."
-    },
-    "13": {
-      "título": "",
-      "texto": "Porque: “Todo aquele que invocar o nome do Senhor será salvo.”"
-    },
-    "14": {
-      "título": "",
-      "texto": "Como, porém, invocarão aquele em quem não creram? E como crerão naquele de quem nada ouviram? E como ouvirão, se não há quem pregue?"
-    },
-    "15": {
-      "título": "",
-      "texto": "E como pregarão, se não forem enviados? Como está escrito: “Quão formosos são os pés dos que anunciam coisas boas!”"
-    },
-    "16": {
-      "título": "",
-      "texto": "Mas nem todos obedeceram ao evangelho. Pois Isaías diz: “Senhor, quem creu em nossa pregação?”"
-    },
-    "17": {
-      "título": "",
-      "texto": "E, assim, a fé vem pelo ouvir, e o ouvir, pela palavra de Cristo."
-    },
-    "18": {
-      "título": "",
-      "texto": "Mas pergunto: Será que eles não ouviram? É claro que sim!"
-    },
-    "19": {
-      "título": "",
-      "texto": "Pergunto mais: será que isso não chegou ao conhecimento de Israel? Moisés já dizia:"
-    },
-    "20": {
-      "título": "",
-      "texto": "E Isaías é tão ousado que diz:"
-    },
-    "21": {
-      "título": "",
-      "texto": "Quanto a Israel, porém, diz:"
+    "livro": "Romanos",
+    "capitulo": 10,
+    "titulos": {},
+    "versiculos": {
+        "1": "Irmãos, o desejo do meu coração e a minha súplica a Deus em favor deles é para que sejam salvos.",
+        "2": "Porque dou testemunho a favor deles de que têm zelo por Deus, porém não com entendimento.",
+        "3": "Desconhecendo a justiça de Deus e procurando estabelecer a sua própria justiça, não se sujeitaram à justiça que vem de Deus.",
+        "4": "Porque o fim da lei é Cristo, para justiça de todo aquele que crê.",
+        "5": "Ora, Moisés descreve assim a justiça que procede da lei: “Aquele que observar os seus preceitos por eles viverá.”",
+        "6": "Mas a justiça que procede da fé afirma o seguinte: “Não pergunte em seu coração: Quem subirá ao céu?”, isto é, para trazer Cristo lá do alto;",
+        "7": "ou: “Quem descerá ao abismo?”, isto é, para levantar Cristo dentre os mortos.",
+        "8": "Porém, o que se diz? “A palavra está perto de você, na sua boca e no seu coração”, isto é, a palavra da fé que pregamos.",
+        "9": "Se com a boca você confessar Jesus como Senhor e em seu coração crer que Deus o ressuscitou dentre os mortos, você será salvo.",
+        "10": "Porque com o coração se crê para a justiça e com a boca se confessa para a salvação.",
+        "11": "Pois a Escritura diz: “Todo aquele que nele crê não será envergonhado.”",
+        "12": "Porque não há distinção entre judeu e grego, uma vez que o mesmo é o Senhor de todos, rico para com todos os que o invocam.",
+        "13": "Porque: “Todo aquele que invocar o nome do Senhor será salvo.”",
+        "14": "Como, porém, invocarão aquele em quem não creram? E como crerão naquele de quem nada ouviram? E como ouvirão, se não há quem pregue?",
+        "15": "E como pregarão, se não forem enviados? Como está escrito: “Quão formosos são os pés dos que anunciam coisas boas!”",
+        "16": "Mas nem todos obedeceram ao evangelho. Pois Isaías diz: “Senhor, quem creu em nossa pregação?”",
+        "17": "E, assim, a fé vem pelo ouvir, e o ouvir, pela palavra de Cristo.",
+        "18": "Mas pergunto: Será que eles não ouviram? É claro que sim!",
+        "19": "Pergunto mais: será que isso não chegou ao conhecimento de Israel? Moisés já dizia:",
+        "20": "E Isaías é tão ousado que diz:",
+        "21": "Quanto a Israel, porém, diz:"
     }
-  }
 }

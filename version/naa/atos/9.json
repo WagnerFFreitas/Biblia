@@ -1,178 +1,59 @@
 {
-  "livro": "Atos",
-  "capítulo": 9,
-  "versículos": {
-    "1": {
-      "título": "A conversão de Saulo",
-      "texto": "Saulo, respirando ainda ameaças e morte contra os discípulos do Senhor, dirigiu-se ao sumo sacerdote"
+    "livro": "Atos",
+    "capitulo": 9,
+    "titulos": {
+        "1": "A conversão de Saulo",
+        "10": "A visita de Ananias",
+        "20": "Saulo em Damasco",
+        "23": "Saulo escapa dos judeus",
+        "26": "Saulo em Jerusalém e em Tarso",
+        "31": "A igreja cresce",
+        "32": "A cura de Eneias",
+        "36": "A ressurreição de Dorcas"
     },
-    "2": {
-      "título": "",
-      "texto": "e lhe pediu cartas para as sinagogas de Damasco, a fim de que, caso achasse alguns que eram do Caminho, tanto homens como mulheres, os levasse presos para Jerusalém."
-    },
-    "3": {
-      "título": "",
-      "texto": "Enquanto seguia pelo caminho, ao aproximar-se de Damasco, subitamente uma luz do céu brilhou ao seu redor."
-    },
-    "4": {
-      "título": "",
-      "texto": "Ele caiu por terra e ouviu uma voz que lhe dizia:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Ele perguntou:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Mas levante-se e entre na cidade, onde lhe dirão o que você deve fazer."
-    },
-    "7": {
-      "título": "",
-      "texto": "Os homens que viajavam com Saulo pararam emudecidos, ouvindo a voz, mas não vendo ninguém."
-    },
-    "8": {
-      "título": "",
-      "texto": "Então Saulo se levantou do chão e, abrindo os olhos, nada podia ver. E, guiando-o pela mão, levaram-no para Damasco."
-    },
-    "9": {
-      "título": "",
-      "texto": "Esteve três dias sem ver, durante os quais nada comeu, nem bebeu."
-    },
-    "10": {
-      "título": "A visita de Ananias",
-      "texto": "Havia em Damasco um discípulo chamado Ananias. O Senhor lhe apareceu numa visão e disse:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Então o Senhor lhe disse:"
-    },
-    "12": {
-      "título": "",
-      "texto": "e, numa visão, viu entrar um homem, chamado Ananias, e impor-lhe as mãos, para que recuperasse a vista."
-    },
-    "13": {
-      "título": "",
-      "texto": "Ananias, porém, respondeu:"
-    },
-    "14": {
-      "título": "",
-      "texto": "E aqui em Damasco ele tem autorização dos principais sacerdotes para prender todos os que invocam o teu nome."
-    },
-    "15": {
-      "título": "",
-      "texto": "Mas o Senhor disse a Ananias:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Pois eu mesmo vou mostrar a ele quanto deve sofrer pelo meu nome."
-    },
-    "17": {
-      "título": "",
-      "texto": "Então Ananias foi e, entrando na casa, impôs as mãos sobre Saulo, dizendo:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Imediatamente caíram dos olhos de Saulo umas coisas parecidas com escamas, e ele voltou a ver. A seguir, levantou-se e foi batizado."
-    },
-    "19": {
-      "título": "",
-      "texto": "E, depois de comer, sentiu-se fortalecido."
-    },
-    "20": {
-      "título": "Saulo em Damasco",
-      "texto": "E logo, nas sinagogas, proclamava Jesus, afirmando que ele é o Filho de Deus."
-    },
-    "21": {
-      "título": "",
-      "texto": "Todos os que ouviam Saulo estavam atônitos e diziam:"
-    },
-    "22": {
-      "título": "",
-      "texto": "Saulo, porém, mais e mais se fortalecia e confundia os judeus que moravam em Damasco, demonstrando que Jesus é o Cristo."
-    },
-    "23": {
-      "título": "Saulo escapa dos judeus",
-      "texto": "Decorridos muitos dias, os judeus resolveram matar Saulo,"
-    },
-    "24": {
-      "título": "",
-      "texto": "mas ele ficou sabendo do plano deles. Dia e noite guardavam também os portões da cidade, para o matar."
-    },
-    "25": {
-      "título": "",
-      "texto": "Mas os discípulos de Saulo tomaram-no de noite e, colocando-o num cesto, desceram-no pela muralha."
-    },
-    "26": {
-      "título": "Saulo em Jerusalém e em Tarso",
-      "texto": "Quando chegou a Jerusalém, Saulo procurou juntar-se aos discípulos de Jesus. Porém todos tinham medo dele, não acreditando que ele fosse discípulo."
-    },
-    "27": {
-      "título": "",
-      "texto": "Mas Barnabé, tomando-o consigo, levou-o aos apóstolos. Contou-lhes como Saulo tinha visto o Senhor no caminho, e que o Senhor tinha falado com ele. Também contou como, em Damasco, Saulo tinha pregado ousadamente em nome de Jesus."
-    },
-    "28": {
-      "título": "",
-      "texto": "E Saulo ficou com eles em Jerusalém, entrando e saindo, pregando ousadamente em nome do Senhor."
-    },
-    "29": {
-      "título": "",
-      "texto": "Falava e discutia com os helenistas, mas eles procuravam matá-lo."
-    },
-    "30": {
-      "título": "",
-      "texto": "Quando isto chegou ao conhecimento dos irmãos, levaram Saulo até Cesareia e dali o enviaram para Tarso."
-    },
-    "31": {
-      "título": "A igreja cresce",
-      "texto": "Assim, a igreja tinha paz por toda a Judeia, Galileia e Samaria, edificando-se e caminhando no temor do Senhor; e, no consolo do Espírito Santo, crescia em número."
-    },
-    "32": {
-      "título": "A cura de Eneias",
-      "texto": "Passando Pedro por toda parte, foi também visitar os santos que moravam em Lida."
-    },
-    "33": {
-      "título": "",
-      "texto": "Encontrou ali certo homem, chamado Eneias, que havia oito anos jazia de cama, pois era paralítico."
-    },
-    "34": {
-      "título": "",
-      "texto": "Pedro lhe disse:"
-    },
-    "35": {
-      "título": "",
-      "texto": "Todos os habitantes de Lida e da região de Sarom viram Eneias e se converteram ao Senhor."
-    },
-    "36": {
-      "título": "A ressurreição de Dorcas",
-      "texto": "Em Jope havia uma discípula chamada Tabita, nome este que, traduzido, é Dorcas. Ela era notável pelas boas obras e esmolas que fazia."
-    },
-    "37": {
-      "título": "",
-      "texto": "Aconteceu que, naqueles dias, ela adoeceu e veio a morrer. Depois de a lavarem, puseram o corpo num quarto do andar superior."
-    },
-    "38": {
-      "título": "",
-      "texto": "Como Lida ficava perto de Jope, os discípulos, ouvindo que Pedro estava ali, enviaram-lhe dois homens com o seguinte pedido:"
-    },
-    "39": {
-      "título": "",
-      "texto": "Pedro se aprontou e foi com eles. Quando chegou lá, eles o levaram ao quarto do andar superior. Todas as viúvas o cercaram, chorando e mostrando-lhe túnicas e vestidos que Dorcas tinha feito enquanto estava com elas."
-    },
-    "40": {
-      "título": "",
-      "texto": "Mas Pedro mandou que todos saíssem, ajoelhou-se e orou; depois, voltando-se para o corpo, disse:"
-    },
-    "41": {
-      "título": "",
-      "texto": "Ele, dando-lhe a mão, ajudou-a a ficar em pé; e, chamando os santos, especialmente as viúvas, apresentou-a viva."
-    },
-    "42": {
-      "título": "",
-      "texto": "Isto se tornou conhecido em toda a cidade de Jope, e muitos creram no Senhor."
-    },
-    "43": {
-      "título": "",
-      "texto": "Pedro ficou em Jope muitos dias, na casa de um curtidor chamado Simão."
+    "versiculos": {
+        "1": "Saulo, respirando ainda ameaças e morte contra os discípulos do Senhor, dirigiu-se ao sumo sacerdote",
+        "2": "e lhe pediu cartas para as sinagogas de Damasco, a fim de que, caso achasse alguns que eram do Caminho, tanto homens como mulheres, os levasse presos para Jerusalém.",
+        "3": "Enquanto seguia pelo caminho, ao aproximar-se de Damasco, subitamente uma luz do céu brilhou ao seu redor.",
+        "4": "Ele caiu por terra e ouviu uma voz que lhe dizia:",
+        "5": "Ele perguntou:",
+        "6": "Mas levante-se e entre na cidade, onde lhe dirão o que você deve fazer.",
+        "7": "Os homens que viajavam com Saulo pararam emudecidos, ouvindo a voz, mas não vendo ninguém.",
+        "8": "Então Saulo se levantou do chão e, abrindo os olhos, nada podia ver. E, guiando-o pela mão, levaram-no para Damasco.",
+        "9": "Esteve três dias sem ver, durante os quais nada comeu, nem bebeu.",
+        "10": "Havia em Damasco um discípulo chamado Ananias. O Senhor lhe apareceu numa visão e disse:",
+        "11": "Então o Senhor lhe disse:",
+        "12": "e, numa visão, viu entrar um homem, chamado Ananias, e impor-lhe as mãos, para que recuperasse a vista.",
+        "13": "Ananias, porém, respondeu:",
+        "14": "E aqui em Damasco ele tem autorização dos principais sacerdotes para prender todos os que invocam o teu nome.",
+        "15": "Mas o Senhor disse a Ananias:",
+        "16": "Pois eu mesmo vou mostrar a ele quanto deve sofrer pelo meu nome.",
+        "17": "Então Ananias foi e, entrando na casa, impôs as mãos sobre Saulo, dizendo:",
+        "18": "Imediatamente caíram dos olhos de Saulo umas coisas parecidas com escamas, e ele voltou a ver. A seguir, levantou-se e foi batizado.",
+        "19": "E, depois de comer, sentiu-se fortalecido.",
+        "20": "E logo, nas sinagogas, proclamava Jesus, afirmando que ele é o Filho de Deus.",
+        "21": "Todos os que ouviam Saulo estavam atônitos e diziam:",
+        "22": "Saulo, porém, mais e mais se fortalecia e confundia os judeus que moravam em Damasco, demonstrando que Jesus é o Cristo.",
+        "23": "Decorridos muitos dias, os judeus resolveram matar Saulo,",
+        "24": "mas ele ficou sabendo do plano deles. Dia e noite guardavam também os portões da cidade, para o matar.",
+        "25": "Mas os discípulos de Saulo tomaram-no de noite e, colocando-o num cesto, desceram-no pela muralha.",
+        "26": "Quando chegou a Jerusalém, Saulo procurou juntar-se aos discípulos de Jesus. Porém todos tinham medo dele, não acreditando que ele fosse discípulo.",
+        "27": "Mas Barnabé, tomando-o consigo, levou-o aos apóstolos. Contou-lhes como Saulo tinha visto o Senhor no caminho, e que o Senhor tinha falado com ele. Também contou como, em Damasco, Saulo tinha pregado ousadamente em nome de Jesus.",
+        "28": "E Saulo ficou com eles em Jerusalém, entrando e saindo, pregando ousadamente em nome do Senhor.",
+        "29": "Falava e discutia com os helenistas, mas eles procuravam matá-lo.",
+        "30": "Quando isto chegou ao conhecimento dos irmãos, levaram Saulo até Cesareia e dali o enviaram para Tarso.",
+        "31": "Assim, a igreja tinha paz por toda a Judeia, Galileia e Samaria, edificando-se e caminhando no temor do Senhor; e, no consolo do Espírito Santo, crescia em número.",
+        "32": "Passando Pedro por toda parte, foi também visitar os santos que moravam em Lida.",
+        "33": "Encontrou ali certo homem, chamado Eneias, que havia oito anos jazia de cama, pois era paralítico.",
+        "34": "Pedro lhe disse:",
+        "35": "Todos os habitantes de Lida e da região de Sarom viram Eneias e se converteram ao Senhor.",
+        "36": "Em Jope havia uma discípula chamada Tabita, nome este que, traduzido, é Dorcas. Ela era notável pelas boas obras e esmolas que fazia.",
+        "37": "Aconteceu que, naqueles dias, ela adoeceu e veio a morrer. Depois de a lavarem, puseram o corpo num quarto do andar superior.",
+        "38": "Como Lida ficava perto de Jope, os discípulos, ouvindo que Pedro estava ali, enviaram-lhe dois homens com o seguinte pedido:",
+        "39": "Pedro se aprontou e foi com eles. Quando chegou lá, eles o levaram ao quarto do andar superior. Todas as viúvas o cercaram, chorando e mostrando-lhe túnicas e vestidos que Dorcas tinha feito enquanto estava com elas.",
+        "40": "Mas Pedro mandou que todos saíssem, ajoelhou-se e orou; depois, voltando-se para o corpo, disse:",
+        "41": "Ele, dando-lhe a mão, ajudou-a a ficar em pé; e, chamando os santos, especialmente as viúvas, apresentou-a viva.",
+        "42": "Isto se tornou conhecido em toda a cidade de Jope, e muitos creram no Senhor.",
+        "43": "Pedro ficou em Jope muitos dias, na casa de um curtidor chamado Simão."
     }
-  }
 }

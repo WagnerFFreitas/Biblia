@@ -1,114 +1,37 @@
 {
-  "livro": "1 Crônicas",
-  "capítulo": 17,
-  "versículos": {
-    "1": {
-      "título": "A aliança do Senhor com Davi",
-      "texto": "E aconteceu que, quando Davi já morava em seu palácio, ele disse ao profeta Natã:"
+    "livro": "1 Crônicas",
+    "capitulo": 17,
+    "titulos": {
+        "1": "A aliança do Senhor com Davi",
+        "16": "Oração de agradecimento de Davi"
     },
-    "2": {
-      "título": "",
-      "texto": "Então Natã disse a Davi:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Porém, naquela mesma noite, a palavra de Deus veio a Natã, dizendo:"
-    },
-    "4": {
-      "título": "",
-      "texto": "— Vá e diga a Davi, meu servo: Assim diz o Senhor : “Não será você quem edificará um templo para minha habitação."
-    },
-    "5": {
-      "título": "",
-      "texto": "Desde o dia em que tirei Israel do Egito até o dia de hoje, não habitei em nenhum templo, mas tenho andado de tenda em tenda, de tabernáculo em tabernáculo."
-    },
-    "6": {
-      "título": "",
-      "texto": "Em todos os lugares em que andei com todo o Israel, por acaso falei alguma palavra com algum dos seus juízes, a quem mandei apascentar o meu povo, dizendo: ‘Por que vocês não construíram um templo de cedro para mim?’”"
-    },
-    "7": {
-      "título": "",
-      "texto": "Agora diga ao meu servo Davi: Assim diz o Senhor dos Exércitos: “Eu tirei você das pastagens e do trabalho de andar atrás das ovelhas, para que você fosse príncipe sobre o meu povo de Israel."
-    },
-    "8": {
-      "título": "",
-      "texto": "Estive com você por onde quer que você andou e eliminei todos os seus inimigos diante de você. Engrandecerei o seu nome, como só os grandes têm na terra."
-    },
-    "9": {
-      "título": "",
-      "texto": "Prepararei um lugar para o meu povo de Israel e o plantarei para que habite no seu lugar e não seja mais perturbado. E jamais os filhos da perversidade o afligirão, como no passado,"
-    },
-    "10": {
-      "título": "",
-      "texto": "desde os dias em que mandei que houvesse juízes sobre o meu povo de Israel. Subjugarei todos os seus inimigos. Também lhe faço saber que o Senhor fará uma casa para você."
-    },
-    "11": {
-      "título": "",
-      "texto": "Quando se cumprirem os seus dias e você for para junto de seus pais, então farei surgir depois de você o seu descendente, um dos seus filhos, e estabelecerei o reino dele."
-    },
-    "12": {
-      "título": "",
-      "texto": "Este edificará um templo para mim, e eu estabelecerei para sempre o trono dele."
-    },
-    "13": {
-      "título": "",
-      "texto": "Eu lhe serei por pai, e ele me será por filho. Não tirarei dele a minha misericórdia, como a retirei daquele que foi rei antes de você."
-    },
-    "14": {
-      "título": "",
-      "texto": "Mas eu o confirmarei na minha casa e no meu reino para sempre, e o trono dele será estabelecido para sempre.”"
-    },
-    "15": {
-      "título": "",
-      "texto": "Segundo todas estas palavras e conforme toda esta visão, assim Natã falou com Davi."
-    },
-    "16": {
-      "título": "Oração de agradecimento de Davi",
-      "texto": "Então o rei Davi se pôs diante do Senhor e disse:"
-    },
-    "17": {
-      "título": "",
-      "texto": "E como se isto fosse pouco aos teus olhos, ó Deus, também falaste a respeito da casa de teu servo para tempos distantes e me trataste como se eu fosse um homem ilustre, ó Senhor Deus."
-    },
-    "18": {
-      "título": "",
-      "texto": "Que mais ainda te poderá dizer Davi a respeito das honras feitas a teu servo? Pois tu conheces bem o teu servo."
-    },
-    "19": {
-      "título": "",
-      "texto": "Ó Senhor , por amor de teu servo e segundo o teu coração, fizeste toda esta grandeza, para tornar conhecidas todas estas grandes coisas!"
-    },
-    "20": {
-      "título": "",
-      "texto": "— Senhor , não há ninguém semelhante a ti, e não há outro Deus além de ti, segundo tudo o que nós mesmos temos ouvido."
-    },
-    "21": {
-      "título": "",
-      "texto": "Quem há como o teu povo de Israel, gente única na terra, a quem Deus foi resgatar para ser o seu povo, fazendo para ti mesmo um nome com estas grandes e tremendas coisas, desterrando as nações de diante do teu povo, que resgataste do Egito?"
-    },
-    "22": {
-      "título": "",
-      "texto": "Estabeleceste o teu povo de Israel por teu povo para sempre e tu, ó Senhor , te fizeste o seu Deus."
-    },
-    "23": {
-      "título": "",
-      "texto": "— E agora, Senhor , quanto a esta palavra que disseste a respeito de teu servo e a respeito da sua casa, seja estabelecida para sempre; e faze como falaste."
-    },
-    "24": {
-      "título": "",
-      "texto": "Seja estabelecido e para sempre engrandecido o teu nome, e que se diga: “O Senhor dos Exércitos, o Deus de Israel, é Deus para Israel.” E a casa de Davi, teu servo, será estabelecida diante de ti."
-    },
-    "25": {
-      "título": "",
-      "texto": "Pois tu, Deus meu, fizeste ao teu servo a revelação de que lhe edificarias uma casa. Por isso, o teu servo se animou para fazer-te esta oração."
-    },
-    "26": {
-      "título": "",
-      "texto": "Agora, pois, ó Senhor , tu mesmo és Deus e tens prometido ao teu servo este bem."
-    },
-    "27": {
-      "título": "",
-      "texto": "Queiras, agora, abençoar a casa do teu servo, a fim de permanecer para sempre diante de ti, pois tu, ó Senhor , a abençoaste, e ela será abençoada para sempre."
+    "versiculos": {
+        "1": "E aconteceu que, quando Davi já morava em seu palácio, ele disse ao profeta Natã:",
+        "2": "Então Natã disse a Davi:",
+        "3": "Porém, naquela mesma noite, a palavra de Deus veio a Natã, dizendo:",
+        "4": "— Vá e diga a Davi, meu servo: Assim diz o Senhor : “Não será você quem edificará um templo para minha habitação.",
+        "5": "Desde o dia em que tirei Israel do Egito até o dia de hoje, não habitei em nenhum templo, mas tenho andado de tenda em tenda, de tabernáculo em tabernáculo.",
+        "6": "Em todos os lugares em que andei com todo o Israel, por acaso falei alguma palavra com algum dos seus juízes, a quem mandei apascentar o meu povo, dizendo: ‘Por que vocês não construíram um templo de cedro para mim?’”",
+        "7": "Agora diga ao meu servo Davi: Assim diz o Senhor dos Exércitos: “Eu tirei você das pastagens e do trabalho de andar atrás das ovelhas, para que você fosse príncipe sobre o meu povo de Israel.",
+        "8": "Estive com você por onde quer que você andou e eliminei todos os seus inimigos diante de você. Engrandecerei o seu nome, como só os grandes têm na terra.",
+        "9": "Prepararei um lugar para o meu povo de Israel e o plantarei para que habite no seu lugar e não seja mais perturbado. E jamais os filhos da perversidade o afligirão, como no passado,",
+        "10": "desde os dias em que mandei que houvesse juízes sobre o meu povo de Israel. Subjugarei todos os seus inimigos. Também lhe faço saber que o Senhor fará uma casa para você.",
+        "11": "Quando se cumprirem os seus dias e você for para junto de seus pais, então farei surgir depois de você o seu descendente, um dos seus filhos, e estabelecerei o reino dele.",
+        "12": "Este edificará um templo para mim, e eu estabelecerei para sempre o trono dele.",
+        "13": "Eu lhe serei por pai, e ele me será por filho. Não tirarei dele a minha misericórdia, como a retirei daquele que foi rei antes de você.",
+        "14": "Mas eu o confirmarei na minha casa e no meu reino para sempre, e o trono dele será estabelecido para sempre.”",
+        "15": "Segundo todas estas palavras e conforme toda esta visão, assim Natã falou com Davi.",
+        "16": "Então o rei Davi se pôs diante do Senhor e disse:",
+        "17": "E como se isto fosse pouco aos teus olhos, ó Deus, também falaste a respeito da casa de teu servo para tempos distantes e me trataste como se eu fosse um homem ilustre, ó Senhor Deus.",
+        "18": "Que mais ainda te poderá dizer Davi a respeito das honras feitas a teu servo? Pois tu conheces bem o teu servo.",
+        "19": "Ó Senhor , por amor de teu servo e segundo o teu coração, fizeste toda esta grandeza, para tornar conhecidas todas estas grandes coisas!",
+        "20": "— Senhor , não há ninguém semelhante a ti, e não há outro Deus além de ti, segundo tudo o que nós mesmos temos ouvido.",
+        "21": "Quem há como o teu povo de Israel, gente única na terra, a quem Deus foi resgatar para ser o seu povo, fazendo para ti mesmo um nome com estas grandes e tremendas coisas, desterrando as nações de diante do teu povo, que resgataste do Egito?",
+        "22": "Estabeleceste o teu povo de Israel por teu povo para sempre e tu, ó Senhor , te fizeste o seu Deus.",
+        "23": "— E agora, Senhor , quanto a esta palavra que disseste a respeito de teu servo e a respeito da sua casa, seja estabelecida para sempre; e faze como falaste.",
+        "24": "Seja estabelecido e para sempre engrandecido o teu nome, e que se diga: “O Senhor dos Exércitos, o Deus de Israel, é Deus para Israel.” E a casa de Davi, teu servo, será estabelecida diante de ti.",
+        "25": "Pois tu, Deus meu, fizeste ao teu servo a revelação de que lhe edificarias uma casa. Por isso, o teu servo se animou para fazer-te esta oração.",
+        "26": "Agora, pois, ó Senhor , tu mesmo és Deus e tens prometido ao teu servo este bem.",
+        "27": "Queiras, agora, abençoar a casa do teu servo, a fim de permanecer para sempre diante de ti, pois tu, ó Senhor , a abençoaste, e ela será abençoada para sempre."
     }
-  }
 }

@@ -1,174 +1,57 @@
 {
-  "livro": "Mateus",
-  "capítulo": 10,
-  "versículos": {
-    "1": {
-      "título": "Os seus nomes",
-      "texto": "Tendo Jesus chamado os seus doze discípulos, deu-lhes autoridade sobre espíritos imundos para os expulsar e para curar todo tipo de doenças e enfermidades."
+    "livro": "Mateus",
+    "capitulo": 10,
+    "titulos": {
+        "1": "Os seus nomes",
+        "5": "As instruções para os doze",
+        "16": "As admoestações",
+        "26": "A quem temer",
+        "32": "Confessar e negar a Cristo",
+        "34": "As dificuldades",
+        "40": "As recompensas"
     },
-    "2": {
-      "título": "",
-      "texto": "Ora, os nomes dos doze apóstolos são estes: primeiro, Simão, chamado Pedro, e André, seu irmão; Tiago, filho de Zebedeu, e João, seu irmão;"
-    },
-    "3": {
-      "título": "",
-      "texto": "Filipe e Bartolomeu; Tomé e Mateus, o publicano; Tiago, filho de Alfeu, e Tadeu;"
-    },
-    "4": {
-      "título": "",
-      "texto": "Simão, o Zelote, e Judas Iscariotes, que foi quem o traiu."
-    },
-    "5": {
-      "título": "As instruções para os doze",
-      "texto": "Jesus enviou esses doze, dando-lhes as seguintes instruções:"
-    },
-    "6": {
-      "título": "",
-      "texto": "mas, de preferência, procurem as ovelhas perdidas da casa de Israel."
-    },
-    "7": {
-      "título": "",
-      "texto": "Pelo caminho, preguem que está próximo o Reino dos Céus."
-    },
-    "8": {
-      "título": "",
-      "texto": "Curem enfermos, ressuscitem mortos, purifiquem leprosos, expulsem demônios. Vocês receberam de graça; portanto, deem de graça."
-    },
-    "9": {
-      "título": "",
-      "texto": "Não levem ouro, nem prata, nem cobre em seus cintos;"
-    },
-    "10": {
-      "título": "",
-      "texto": "nem sacola para o caminho, nem duas túnicas, nem sandálias, nem bordão; porque o trabalhador é digno do seu alimento."
-    },
-    "11": {
-      "título": "",
-      "texto": "— E, em qualquer cidade ou aldeia em que vocês entrarem, perguntem quem nelas é digno; e fiquem ali até saírem daquele lugar."
-    },
-    "12": {
-      "título": "",
-      "texto": "Ao entrarem na casa, saúdem-na."
-    },
-    "13": {
-      "título": "",
-      "texto": "Se a casa for digna, que a paz de vocês venha sobre ela; se, porém, não for digna, a paz voltará para vocês."
-    },
-    "14": {
-      "título": "",
-      "texto": "Se alguém não quiser recebê-los nem ouvir as palavras de vocês, ao saírem daquela casa ou daquela cidade, sacudam o pó dos pés."
-    },
-    "15": {
-      "título": "",
-      "texto": "Em verdade lhes digo que haverá menos rigor para Sodoma e Gomorra, no Dia do Juízo, do que para aquela cidade."
-    },
-    "16": {
-      "título": "As admoestações",
-      "texto": "— Eis que eu os envio como ovelhas para o meio de lobos. Portanto, sejam prudentes como as serpentes e simples como as pombas."
-    },
-    "17": {
-      "título": "",
-      "texto": "Tenham cuidado com os homens, porque eles os entregarão aos tribunais e os açoitarão nas suas sinagogas."
-    },
-    "18": {
-      "título": "",
-      "texto": "Por minha causa vocês serão levados à presença de governadores e de reis, para lhes servir de testemunho, a eles e aos gentios."
-    },
-    "19": {
-      "título": "",
-      "texto": "E, quando entregarem vocês, não se preocupem quanto a como ou o que irão falar, porque, naquela hora, lhes será concedido o que vocês dirão."
-    },
-    "20": {
-      "título": "",
-      "texto": "Afinal, não são vocês que estão falando, mas o Espírito do Pai de vocês é quem fala por meio de vocês."
-    },
-    "21": {
-      "título": "",
-      "texto": "— Um irmão entregará à morte outro irmão, e o pai entregará o filho. Haverá filhos que se levantarão contra os seus pais e os matarão."
-    },
-    "22": {
-      "título": "",
-      "texto": "Todos odiarão vocês por causa do meu nome; aquele, porém, que ficar firme até o fim, esse será salvo."
-    },
-    "23": {
-      "título": "",
-      "texto": "Quando, porém, perseguirem vocês numa cidade, fujam para outra. Porque em verdade lhes digo que não terão percorrido as cidades de Israel, até que venha o Filho do Homem."
-    },
-    "24": {
-      "título": "",
-      "texto": "— O discípulo não está acima do seu mestre, nem o servo está acima do seu senhor."
-    },
-    "25": {
-      "título": "",
-      "texto": "Basta ao discípulo ser como o seu mestre, e ao servo ser como o seu senhor. Se chamaram o dono da casa de Belzebu, quanto mais os membros da sua casa!"
-    },
-    "26": {
-      "título": "A quem temer",
-      "texto": "— Portanto, não tenham medo deles. Pois não há nada encoberto que não venha a ser revelado, nem oculto que não venha a ser conhecido."
-    },
-    "27": {
-      "título": "",
-      "texto": "O que lhes digo às escuras, repitam a plena luz; e o que é dito para vocês ao pé do ouvido, proclamem dos telhados."
-    },
-    "28": {
-      "título": "",
-      "texto": "Não temam os que matam o corpo, mas não podem matar a alma; pelo contrário, temam aquele que pode fazer perecer no inferno tanto a alma como o corpo."
-    },
-    "29": {
-      "título": "",
-      "texto": "— Não se vendem dois pardais por uma moedinha? Entretanto, nenhum deles cairá no chão sem o consentimento do Pai de vocês."
-    },
-    "30": {
-      "título": "",
-      "texto": "E, quanto a vocês, até os cabelos da cabeça de vocês estão todos contados."
-    },
-    "31": {
-      "título": "",
-      "texto": "Portanto, não temam! Vocês valem bem mais do que muitos pardais."
-    },
-    "32": {
-      "título": "Confessar e negar a Cristo",
-      "texto": "— Portanto, todo aquele que me confessar diante dos outros, também eu o confessarei diante de meu Pai, que está nos céus;"
-    },
-    "33": {
-      "título": "",
-      "texto": "mas aquele que me negar diante das pessoas, também eu o negarei diante de meu Pai, que está nos céus."
-    },
-    "34": {
-      "título": "As dificuldades",
-      "texto": "— Não pensem que eu vim trazer paz à terra; não vim trazer paz, mas espada."
-    },
-    "35": {
-      "título": "",
-      "texto": "Pois vim causar divisão entre o homem e o seu pai; entre a filha e a sua mãe e entre a nora e a sua sogra."
-    },
-    "36": {
-      "título": "",
-      "texto": "Assim, os inimigos de uma pessoa serão os da sua própria casa."
-    },
-    "37": {
-      "título": "",
-      "texto": "— Quem ama o seu pai ou a sua mãe mais do que a mim não é digno de mim; quem ama o seu filho ou a sua filha mais do que a mim não é digno de mim;"
-    },
-    "38": {
-      "título": "",
-      "texto": "e quem não toma a sua cruz e vem após mim não é digno de mim."
-    },
-    "39": {
-      "título": "",
-      "texto": "Quem acha a sua vida a perderá; e quem perde a vida por minha causa, esse a achará."
-    },
-    "40": {
-      "título": "As recompensas",
-      "texto": "— Quem recebe vocês é a mim que recebe; e quem recebe a mim recebe aquele que me enviou."
-    },
-    "41": {
-      "título": "",
-      "texto": "Quem recebe um profeta, no caráter de profeta, receberá a recompensa de profeta; quem recebe um justo, no caráter de justo, receberá a recompensa de justo."
-    },
-    "42": {
-      "título": "",
-      "texto": "E quem der de beber, ainda que seja um copo de água fria, a um destes pequeninos, por ser este meu discípulo, em verdade lhes digo que de modo nenhum perderá a sua recompensa."
+    "versiculos": {
+        "1": "Tendo Jesus chamado os seus doze discípulos, deu-lhes autoridade sobre espíritos imundos para os expulsar e para curar todo tipo de doenças e enfermidades.",
+        "2": "Ora, os nomes dos doze apóstolos são estes: primeiro, Simão, chamado Pedro, e André, seu irmão; Tiago, filho de Zebedeu, e João, seu irmão;",
+        "3": "Filipe e Bartolomeu; Tomé e Mateus, o publicano; Tiago, filho de Alfeu, e Tadeu;",
+        "4": "Simão, o Zelote, e Judas Iscariotes, que foi quem o traiu.",
+        "5": "Jesus enviou esses doze, dando-lhes as seguintes instruções:",
+        "6": "mas, de preferência, procurem as ovelhas perdidas da casa de Israel.",
+        "7": "Pelo caminho, preguem que está próximo o Reino dos Céus.",
+        "8": "Curem enfermos, ressuscitem mortos, purifiquem leprosos, expulsem demônios. Vocês receberam de graça; portanto, deem de graça.",
+        "9": "Não levem ouro, nem prata, nem cobre em seus cintos;",
+        "10": "nem sacola para o caminho, nem duas túnicas, nem sandálias, nem bordão; porque o trabalhador é digno do seu alimento.",
+        "11": "— E, em qualquer cidade ou aldeia em que vocês entrarem, perguntem quem nelas é digno; e fiquem ali até saírem daquele lugar.",
+        "12": "Ao entrarem na casa, saúdem-na.",
+        "13": "Se a casa for digna, que a paz de vocês venha sobre ela; se, porém, não for digna, a paz voltará para vocês.",
+        "14": "Se alguém não quiser recebê-los nem ouvir as palavras de vocês, ao saírem daquela casa ou daquela cidade, sacudam o pó dos pés.",
+        "15": "Em verdade lhes digo que haverá menos rigor para Sodoma e Gomorra, no Dia do Juízo, do que para aquela cidade.",
+        "16": "— Eis que eu os envio como ovelhas para o meio de lobos. Portanto, sejam prudentes como as serpentes e simples como as pombas.",
+        "17": "Tenham cuidado com os homens, porque eles os entregarão aos tribunais e os açoitarão nas suas sinagogas.",
+        "18": "Por minha causa vocês serão levados à presença de governadores e de reis, para lhes servir de testemunho, a eles e aos gentios.",
+        "19": "E, quando entregarem vocês, não se preocupem quanto a como ou o que irão falar, porque, naquela hora, lhes será concedido o que vocês dirão.",
+        "20": "Afinal, não são vocês que estão falando, mas o Espírito do Pai de vocês é quem fala por meio de vocês.",
+        "21": "— Um irmão entregará à morte outro irmão, e o pai entregará o filho. Haverá filhos que se levantarão contra os seus pais e os matarão.",
+        "22": "Todos odiarão vocês por causa do meu nome; aquele, porém, que ficar firme até o fim, esse será salvo.",
+        "23": "Quando, porém, perseguirem vocês numa cidade, fujam para outra. Porque em verdade lhes digo que não terão percorrido as cidades de Israel, até que venha o Filho do Homem.",
+        "24": "— O discípulo não está acima do seu mestre, nem o servo está acima do seu senhor.",
+        "25": "Basta ao discípulo ser como o seu mestre, e ao servo ser como o seu senhor. Se chamaram o dono da casa de Belzebu, quanto mais os membros da sua casa!",
+        "26": "— Portanto, não tenham medo deles. Pois não há nada encoberto que não venha a ser revelado, nem oculto que não venha a ser conhecido.",
+        "27": "O que lhes digo às escuras, repitam a plena luz; e o que é dito para vocês ao pé do ouvido, proclamem dos telhados.",
+        "28": "Não temam os que matam o corpo, mas não podem matar a alma; pelo contrário, temam aquele que pode fazer perecer no inferno tanto a alma como o corpo.",
+        "29": "— Não se vendem dois pardais por uma moedinha? Entretanto, nenhum deles cairá no chão sem o consentimento do Pai de vocês.",
+        "30": "E, quanto a vocês, até os cabelos da cabeça de vocês estão todos contados.",
+        "31": "Portanto, não temam! Vocês valem bem mais do que muitos pardais.",
+        "32": "— Portanto, todo aquele que me confessar diante dos outros, também eu o confessarei diante de meu Pai, que está nos céus;",
+        "33": "mas aquele que me negar diante das pessoas, também eu o negarei diante de meu Pai, que está nos céus.",
+        "34": "— Não pensem que eu vim trazer paz à terra; não vim trazer paz, mas espada.",
+        "35": "Pois vim causar divisão entre o homem e o seu pai; entre a filha e a sua mãe e entre a nora e a sua sogra.",
+        "36": "Assim, os inimigos de uma pessoa serão os da sua própria casa.",
+        "37": "— Quem ama o seu pai ou a sua mãe mais do que a mim não é digno de mim; quem ama o seu filho ou a sua filha mais do que a mim não é digno de mim;",
+        "38": "e quem não toma a sua cruz e vem após mim não é digno de mim.",
+        "39": "Quem acha a sua vida a perderá; e quem perde a vida por minha causa, esse a achará.",
+        "40": "— Quem recebe vocês é a mim que recebe; e quem recebe a mim recebe aquele que me enviou.",
+        "41": "Quem recebe um profeta, no caráter de profeta, receberá a recompensa de profeta; quem recebe um justo, no caráter de justo, receberá a recompensa de justo.",
+        "42": "E quem der de beber, ainda que seja um copo de água fria, a um destes pequeninos, por ser este meu discípulo, em verdade lhes digo que de modo nenhum perderá a sua recompensa."
     }
-  }
 }

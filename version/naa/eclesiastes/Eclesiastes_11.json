@@ -1,46 +1,20 @@
 {
-  "livro": "Eclesiastes",
-  "capítulo": 11,
-  "versículos": {
-    "1": {
-      "título": "A conduta prudente do sábio",
-      "texto": "Lance o seu pão sobre as águas,"
+    "livro": "Eclesiastes",
+    "capitulo": 11,
+    "titulos": {
+        "1": "A conduta prudente do sábio",
+        "9": "A mocidade"
     },
-    "2": {
-      "título": "",
-      "texto": "Reparta com sete"
-    },
-    "3": {
-      "título": "",
-      "texto": "Se as nuvens estão cheias,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Quem somente observa o vento"
-    },
-    "5": {
-      "título": "",
-      "texto": "Assim como você não conhece o caminho do vento, nem sabe como se formam os ossos no ventre da mulher grávida, assim também não entende as obras de Deus, que faz todas as coisas."
-    },
-    "6": {
-      "título": "",
-      "texto": "Semeie a sua semente de manhã e à tarde não fique de braços cruzados, porque você não sabe qual irá prosperar: se esta, se aquela ou se ambas serão igualmente boas."
-    },
-    "7": {
-      "título": "",
-      "texto": "Doce é a luz, e agradável aos olhos é ver o sol."
-    },
-    "8": {
-      "título": "",
-      "texto": "Mesmo que alguém viva muitos anos, deve alegrar-se em todos eles; contudo, deve lembrar-se de que há dias de trevas, que serão muitos, e que tudo o que virá é vaidade."
-    },
-    "9": {
-      "título": "A mocidade",
-      "texto": "Alegre-se, jovem, na sua mocidade, e que o seu coração lhe dê muita alegria nos dias da sua juventude. Ande nos caminhos que satisfazem ao seu coração e agradam aos seus olhos; saiba, porém, que de todas estas coisas Deus lhe pedirá contas."
-    },
-    "10": {
-      "título": "",
-      "texto": "Afaste do seu coração a mágoa e remova de seu corpo a dor, porque a juventude e a primavera da vida são vaidade."
+    "versiculos": {
+        "1": "Lance o seu pão sobre as águas,",
+        "2": "Reparta com sete",
+        "3": "Se as nuvens estão cheias,",
+        "4": "Quem somente observa o vento",
+        "5": "Assim como você não conhece o caminho do vento, nem sabe como se formam os ossos no ventre da mulher grávida, assim também não entende as obras de Deus, que faz todas as coisas.",
+        "6": "Semeie a sua semente de manhã e à tarde não fique de braços cruzados, porque você não sabe qual irá prosperar: se esta, se aquela ou se ambas serão igualmente boas.",
+        "7": "Doce é a luz, e agradável aos olhos é ver o sol.",
+        "8": "Mesmo que alguém viva muitos anos, deve alegrar-se em todos eles; contudo, deve lembrar-se de que há dias de trevas, que serão muitos, e que tudo o que virá é vaidade.",
+        "9": "Alegre-se, jovem, na sua mocidade, e que o seu coração lhe dê muita alegria nos dias da sua juventude. Ande nos caminhos que satisfazem ao seu coração e agradam aos seus olhos; saiba, porém, que de todas estas coisas Deus lhe pedirá contas.",
+        "10": "Afaste do seu coração a mágoa e remova de seu corpo a dor, porque a juventude e a primavera da vida são vaidade."
     }
-  }
 }

@@ -1,66 +1,25 @@
 {
-  "livro": "Zacarias",
-  "capítulo": 6,
-  "versículos": {
-    "1": {
-      "título": "A oitava visão: as quatro carruagens",
-      "texto": "Outra vez levantei os olhos e vi, e eis que quatro carruagens saíam do meio de dois montes, e estes montes eram de bronze."
+    "livro": "Zacarias",
+    "capitulo": 6,
+    "titulos": {
+        "1": "A oitava visão: as quatro carruagens",
+        "9": "A coroação de Josué. O Renovo"
     },
-    "2": {
-      "título": "",
-      "texto": "Na primeira carruagem, os cavalos eram vermelhos; na segunda, eram pretos;"
-    },
-    "3": {
-      "título": "",
-      "texto": "na terceira, eram brancos; e na quarta, eram baios. Todos eram fortes."
-    },
-    "4": {
-      "título": "",
-      "texto": "Então perguntei ao anjo que falava comigo:"
-    },
-    "5": {
-      "título": "",
-      "texto": "O anjo respondeu:"
-    },
-    "6": {
-      "título": "",
-      "texto": "A carruagem em que estão os cavalos pretos sai para a terra do Norte. Os cavalos brancos saem após eles, e os cavalos baios vão para a terra do Sul."
-    },
-    "7": {
-      "título": "",
-      "texto": "Assim, os cavalos fortes saem, forcejando para seguir adiante, para percorrerem a terra."
-    },
-    "8": {
-      "título": "",
-      "texto": "Então ele me chamou e me disse:"
-    },
-    "9": {
-      "título": "A coroação de Josué. O Renovo",
-      "texto": "A palavra do Senhor veio a mim, dizendo:"
-    },
-    "10": {
-      "título": "",
-      "texto": "— Receba o que foi trazido pelos exilados Heldai, Tobias e Jedaías, que voltaram da Babilônia, e no mesmo dia entre na casa de Josias, filho de Sofonias."
-    },
-    "11": {
-      "título": "",
-      "texto": "Receba a prata e o ouro, faça uma coroa e coloque-a na cabeça do sumo sacerdote Josué, filho de Jozadaque."
-    },
-    "12": {
-      "título": "",
-      "texto": "E diga-lhe: Assim diz o Senhor dos Exércitos: “Eis aqui o homem cujo nome é Renovo. Ele brotará do seu lugar e edificará o templo do Senhor ."
-    },
-    "13": {
-      "título": "",
-      "texto": "Ele mesmo edificará o templo do Senhor e será revestido de glória. Ele se assentará no seu trono, e dominará, e será sacerdote no seu trono; e reinará perfeita união entre ambos os ofícios."
-    },
-    "14": {
-      "título": "",
-      "texto": "A coroa será para Helém, para Tobias, para Jedaías e para Hem, filho de Sofonias, como memorial no templo do Senhor ."
-    },
-    "15": {
-      "título": "",
-      "texto": "Aqueles que estão longe virão e ajudarão a edificar o templo do Senhor , e vocês saberão que o Senhor dos Exércitos me enviou a vocês. Isto acontecerá se vocês ouvirem atentamente a voz do Senhor , seu Deus.”"
+    "versiculos": {
+        "1": "Outra vez levantei os olhos e vi, e eis que quatro carruagens saíam do meio de dois montes, e estes montes eram de bronze.",
+        "2": "Na primeira carruagem, os cavalos eram vermelhos; na segunda, eram pretos;",
+        "3": "na terceira, eram brancos; e na quarta, eram baios. Todos eram fortes.",
+        "4": "Então perguntei ao anjo que falava comigo:",
+        "5": "O anjo respondeu:",
+        "6": "A carruagem em que estão os cavalos pretos sai para a terra do Norte. Os cavalos brancos saem após eles, e os cavalos baios vão para a terra do Sul.",
+        "7": "Assim, os cavalos fortes saem, forcejando para seguir adiante, para percorrerem a terra.",
+        "8": "Então ele me chamou e me disse:",
+        "9": "A palavra do Senhor veio a mim, dizendo:",
+        "10": "— Receba o que foi trazido pelos exilados Heldai, Tobias e Jedaías, que voltaram da Babilônia, e no mesmo dia entre na casa de Josias, filho de Sofonias.",
+        "11": "Receba a prata e o ouro, faça uma coroa e coloque-a na cabeça do sumo sacerdote Josué, filho de Jozadaque.",
+        "12": "E diga-lhe: Assim diz o Senhor dos Exércitos: “Eis aqui o homem cujo nome é Renovo. Ele brotará do seu lugar e edificará o templo do Senhor .",
+        "13": "Ele mesmo edificará o templo do Senhor e será revestido de glória. Ele se assentará no seu trono, e dominará, e será sacerdote no seu trono; e reinará perfeita união entre ambos os ofícios.",
+        "14": "A coroa será para Helém, para Tobias, para Jedaías e para Hem, filho de Sofonias, como memorial no templo do Senhor .",
+        "15": "Aqueles que estão longe virão e ajudarão a edificar o templo do Senhor , e vocês saberão que o Senhor dos Exércitos me enviou a vocês. Isto acontecerá se vocês ouvirem atentamente a voz do Senhor , seu Deus.”"
     }
-  }
 }

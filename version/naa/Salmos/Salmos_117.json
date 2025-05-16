@@ -1,14 +1,11 @@
 {
-  "livro": "Salmos",
-  "capítulo": 117,
-  "versículos": {
-    "1": {
-      "título": "Salmo de louvor",
-      "texto": "Louvem o Senhor , todos os gentios;"
+    "livro": "Salmos",
+    "capitulo": 117,
+    "titulos": {
+        "1": "Salmo de louvor"
     },
-    "2": {
-      "título": "",
-      "texto": "Porque grande é a sua misericórdia"
+    "versiculos": {
+        "1": "Louvem o Senhor , todos os gentios;",
+        "2": "Porque grande é a sua misericórdia"
     }
-  }
 }

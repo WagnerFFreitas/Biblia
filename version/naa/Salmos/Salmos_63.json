@@ -1,50 +1,20 @@
 {
-  "livro": "Salmos",
-  "capítulo": 63,
-  "versículos": {
-    "1": {
-      "título": "Sede de Deus",
-      "texto": "Ó Deus, tu és o meu Deus;"
+    "livro": "Salmos",
+    "capitulo": 63,
+    "titulos": {
+        "1": "Sede de Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "Assim, quero ver-te no santuário,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Porque a tua graça"
-    },
-    "4": {
-      "título": "",
-      "texto": "Assim, eu te bendirei"
-    },
-    "5": {
-      "título": "",
-      "texto": "Como de saborosa comida,"
-    },
-    "6": {
-      "título": "",
-      "texto": "no meu leito,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Porque tu tens sido o meu auxílio;"
-    },
-    "8": {
-      "título": "",
-      "texto": "A minha alma apega-se a ti;"
-    },
-    "9": {
-      "título": "",
-      "texto": "Porém os que procuram"
-    },
-    "10": {
-      "título": "",
-      "texto": "Serão entregues"
-    },
-    "11": {
-      "título": "",
-      "texto": "Mas o rei se alegrará em Deus;"
+    "versiculos": {
+        "1": "Ó Deus, tu és o meu Deus;",
+        "2": "Assim, quero ver-te no santuário,",
+        "3": "Porque a tua graça",
+        "4": "Assim, eu te bendirei",
+        "5": "Como de saborosa comida,",
+        "6": "no meu leito,",
+        "7": "Porque tu tens sido o meu auxílio;",
+        "8": "A minha alma apega-se a ti;",
+        "9": "Porém os que procuram",
+        "10": "Serão entregues",
+        "11": "Mas o rei se alegrará em Deus;"
     }
-  }
 }

@@ -1,134 +1,43 @@
 {
-  "livro": "Lucas",
-  "capítulo": 15,
-  "versículos": {
-    "1": {
-      "título": "A parábola da ovelha perdida",
-      "texto": "Aproximavam-se de Jesus todos os publicanos e pecadores para o ouvir."
+    "livro": "Lucas",
+    "capitulo": 15,
+    "titulos": {
+        "1": "A parábola da ovelha perdida",
+        "8": "A parábola da dracma perdida",
+        "11": "A parábola do filho perdido"
     },
-    "2": {
-      "título": "",
-      "texto": "Os fariseus e os escribas murmuravam, dizendo:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Então Jesus lhes contou esta parábola:"
-    },
-    "4": {
-      "título": "",
-      "texto": "— Qual de vocês é o homem que, possuindo cem ovelhas e perdendo uma delas, não deixa no deserto as noventa e nove e vai em busca da que se perdeu, até encontrá-la?"
-    },
-    "5": {
-      "título": "",
-      "texto": "E, quando a encontra, põe-na sobre os ombros, cheio de alegria."
-    },
-    "6": {
-      "título": "",
-      "texto": "E, indo para casa, reúne os amigos e vizinhos, dizendo-lhes: “Alegrem-se comigo, porque já achei a minha ovelha perdida.”"
-    },
-    "7": {
-      "título": "",
-      "texto": "Digo a vocês que, assim, haverá mais alegria no céu por um pecador que se arrepende do que por noventa e nove justos que não necessitam de arrependimento."
-    },
-    "8": {
-      "título": "A parábola da dracma perdida",
-      "texto": "— Ou qual é a mulher que, tendo dez dracmas, se perder uma delas, não acende a lamparina, varre a casa e a procura com muito empenho até encontrá-la?"
-    },
-    "9": {
-      "título": "",
-      "texto": "E, quando a encontra, reúne as amigas e vizinhas, dizendo: “Alegrem-se comigo, porque achei a dracma que eu tinha perdido.”"
-    },
-    "10": {
-      "título": "",
-      "texto": "Eu afirmo a vocês que a mesma alegria existe diante dos anjos de Deus por um pecador que se arrepende."
-    },
-    "11": {
-      "título": "A parábola do filho perdido",
-      "texto": "Jesus continuou:"
-    },
-    "12": {
-      "título": "",
-      "texto": "O mais moço deles disse ao pai: “Pai, quero que o senhor me dê a parte dos bens que me cabe.” E o pai repartiu os bens entre eles."
-    },
-    "13": {
-      "título": "",
-      "texto": "— Passados não muitos dias, o filho mais moço, ajuntando tudo o que era seu, partiu para uma terra distante e lá desperdiçou todos os seus bens, vivendo de forma desenfreada."
-    },
-    "14": {
-      "título": "",
-      "texto": "— Depois de ter consumido tudo, sobreveio àquele país uma grande fome, e ele começou a passar necessidade."
-    },
-    "15": {
-      "título": "",
-      "texto": "Então foi pedir trabalho a um dos cidadãos daquela terra, e este o mandou para os seus campos a fim de cuidar dos porcos."
-    },
-    "16": {
-      "título": "",
-      "texto": "Ali, ele desejava alimentar-se das alfarrobas que os porcos comiam, mas ninguém lhe dava nada."
-    },
-    "17": {
-      "título": "",
-      "texto": "Então, caindo em si, disse: “Quantos trabalhadores de meu pai têm pão com fartura, e eu aqui estou morrendo de fome!"
-    },
-    "18": {
-      "título": "",
-      "texto": "Vou me arrumar, voltar para o meu pai e lhe dizer: ‘Pai, pequei contra Deus e diante do senhor;"
-    },
-    "19": {
-      "título": "",
-      "texto": "já não sou digno de ser chamado de seu filho; trate-me como um dos seus trabalhadores.’”"
-    },
-    "20": {
-      "título": "",
-      "texto": "E, arrumando-se, foi para o seu pai."
-    },
-    "21": {
-      "título": "",
-      "texto": "E o filho lhe disse: “Pai, pequei contra Deus e diante do senhor; já não sou digno de ser chamado de seu filho.”"
-    },
-    "22": {
-      "título": "",
-      "texto": "O pai, porém, disse aos servos: “Tragam depressa a melhor roupa e vistam nele. Ponham um anel no dedo dele e sandálias nos pés."
-    },
-    "23": {
-      "título": "",
-      "texto": "Tragam e matem o bezerro gordo. Vamos comer e festejar,"
-    },
-    "24": {
-      "título": "",
-      "texto": "porque este meu filho estava morto e reviveu, estava perdido e foi achado.” E começaram a festejar."
-    },
-    "25": {
-      "título": "",
-      "texto": "— Ora, o filho mais velho estava no campo. Quando voltava, ao aproximar-se da casa, ouviu a música e as danças."
-    },
-    "26": {
-      "título": "",
-      "texto": "Chamou um dos empregados e perguntou o que era aquilo."
-    },
-    "27": {
-      "título": "",
-      "texto": "E ele informou: “O seu irmão voltou e, por tê-lo recuperado com saúde, o seu pai mandou matar o bezerro gordo.”"
-    },
-    "28": {
-      "título": "",
-      "texto": "— O filho mais velho se indignou e não queria entrar. Saindo, porém, o pai, procurava convencê-lo a entrar."
-    },
-    "29": {
-      "título": "",
-      "texto": "Mas ele respondeu ao seu pai: “Faz tantos anos que sirvo o senhor e nunca transgredi um mandamento seu. Mas o senhor nunca me deu um cabrito sequer para fazer uma festa com os meus amigos."
-    },
-    "30": {
-      "título": "",
-      "texto": "Mas, quando veio esse seu filho, que sumiu com os bens do senhor, gastando tudo com prostitutas, o senhor mandou matar o bezerro gordo para ele!”"
-    },
-    "31": {
-      "título": "",
-      "texto": "— Então o pai respondeu: “Meu filho, você está sempre comigo; tudo o que eu tenho é seu."
-    },
-    "32": {
-      "título": "",
-      "texto": "Mas era preciso festejar e alegrar-se, porque este seu irmão estava morto e reviveu, estava perdido e foi achado.”"
+    "versiculos": {
+        "1": "Aproximavam-se de Jesus todos os publicanos e pecadores para o ouvir.",
+        "2": "Os fariseus e os escribas murmuravam, dizendo:",
+        "3": "Então Jesus lhes contou esta parábola:",
+        "4": "— Qual de vocês é o homem que, possuindo cem ovelhas e perdendo uma delas, não deixa no deserto as noventa e nove e vai em busca da que se perdeu, até encontrá-la?",
+        "5": "E, quando a encontra, põe-na sobre os ombros, cheio de alegria.",
+        "6": "E, indo para casa, reúne os amigos e vizinhos, dizendo-lhes: “Alegrem-se comigo, porque já achei a minha ovelha perdida.”",
+        "7": "Digo a vocês que, assim, haverá mais alegria no céu por um pecador que se arrepende do que por noventa e nove justos que não necessitam de arrependimento.",
+        "8": "— Ou qual é a mulher que, tendo dez dracmas, se perder uma delas, não acende a lamparina, varre a casa e a procura com muito empenho até encontrá-la?",
+        "9": "E, quando a encontra, reúne as amigas e vizinhas, dizendo: “Alegrem-se comigo, porque achei a dracma que eu tinha perdido.”",
+        "10": "Eu afirmo a vocês que a mesma alegria existe diante dos anjos de Deus por um pecador que se arrepende.",
+        "11": "Jesus continuou:",
+        "12": "O mais moço deles disse ao pai: “Pai, quero que o senhor me dê a parte dos bens que me cabe.” E o pai repartiu os bens entre eles.",
+        "13": "— Passados não muitos dias, o filho mais moço, ajuntando tudo o que era seu, partiu para uma terra distante e lá desperdiçou todos os seus bens, vivendo de forma desenfreada.",
+        "14": "— Depois de ter consumido tudo, sobreveio àquele país uma grande fome, e ele começou a passar necessidade.",
+        "15": "Então foi pedir trabalho a um dos cidadãos daquela terra, e este o mandou para os seus campos a fim de cuidar dos porcos.",
+        "16": "Ali, ele desejava alimentar-se das alfarrobas que os porcos comiam, mas ninguém lhe dava nada.",
+        "17": "Então, caindo em si, disse: “Quantos trabalhadores de meu pai têm pão com fartura, e eu aqui estou morrendo de fome!",
+        "18": "Vou me arrumar, voltar para o meu pai e lhe dizer: ‘Pai, pequei contra Deus e diante do senhor;",
+        "19": "já não sou digno de ser chamado de seu filho; trate-me como um dos seus trabalhadores.’”",
+        "20": "E, arrumando-se, foi para o seu pai.",
+        "21": "E o filho lhe disse: “Pai, pequei contra Deus e diante do senhor; já não sou digno de ser chamado de seu filho.”",
+        "22": "O pai, porém, disse aos servos: “Tragam depressa a melhor roupa e vistam nele. Ponham um anel no dedo dele e sandálias nos pés.",
+        "23": "Tragam e matem o bezerro gordo. Vamos comer e festejar,",
+        "24": "porque este meu filho estava morto e reviveu, estava perdido e foi achado.” E começaram a festejar.",
+        "25": "— Ora, o filho mais velho estava no campo. Quando voltava, ao aproximar-se da casa, ouviu a música e as danças.",
+        "26": "Chamou um dos empregados e perguntou o que era aquilo.",
+        "27": "E ele informou: “O seu irmão voltou e, por tê-lo recuperado com saúde, o seu pai mandou matar o bezerro gordo.”",
+        "28": "— O filho mais velho se indignou e não queria entrar. Saindo, porém, o pai, procurava convencê-lo a entrar.",
+        "29": "Mas ele respondeu ao seu pai: “Faz tantos anos que sirvo o senhor e nunca transgredi um mandamento seu. Mas o senhor nunca me deu um cabrito sequer para fazer uma festa com os meus amigos.",
+        "30": "Mas, quando veio esse seu filho, que sumiu com os bens do senhor, gastando tudo com prostitutas, o senhor mandou matar o bezerro gordo para ele!”",
+        "31": "— Então o pai respondeu: “Meu filho, você está sempre comigo; tudo o que eu tenho é seu.",
+        "32": "Mas era preciso festejar e alegrar-se, porque este seu irmão estava morto e reviveu, estava perdido e foi achado.”"
     }
-  }
 }

@@ -1,138 +1,46 @@
 {
-  "livro": "Jó",
-  "capítulo": 36,
-  "versículos": {
-    "1": {
-      "título": "Caps.",
-      "texto": "Eliú seguiu falando e disse:"
+    "livro": "Jó",
+    "capitulo": 36,
+    "titulos": {
+        "1": "Caps.",
+        "5": "Deus é grande e não despreza ninguém",
+        "16": "Não se incline para a iniquidade",
+        "22": "Deus se mostra grande em seu poder!",
+        "27": "O poder e a majestade de Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "“Mais um pouco de paciência,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Trarei o meu conhecimento"
-    },
-    "4": {
-      "título": "",
-      "texto": "Porque, na verdade,"
-    },
-    "5": {
-      "título": "Deus é grande e não despreza ninguém",
-      "texto": "“Eis que Deus é grande"
-    },
-    "6": {
-      "título": "",
-      "texto": "Não poupa a vida do ímpio,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Deus não tira os seus olhos"
-    },
-    "8": {
-      "título": "",
-      "texto": "Se estão presos com correntes"
-    },
-    "9": {
-      "título": "",
-      "texto": "ele lhes faz ver as suas obras,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Abre-lhes também os ouvidos"
-    },
-    "11": {
-      "título": "",
-      "texto": "Se o ouvirem e o servirem,"
-    },
-    "12": {
-      "título": "",
-      "texto": "Porém, se não o ouvirem,"
-    },
-    "13": {
-      "título": "",
-      "texto": "“Os ímpios de coração"
-    },
-    "14": {
-      "título": "",
-      "texto": "Perdem a vida na sua mocidade"
-    },
-    "15": {
-      "título": "",
-      "texto": "Deus livra o aflito"
-    },
-    "16": {
-      "título": "Não se incline para a iniquidade",
-      "texto": "“Assim também a você"
-    },
-    "17": {
-      "título": "",
-      "texto": "Mas você se enche"
-    },
-    "18": {
-      "título": "",
-      "texto": "Tenha cuidado para que"
-    },
-    "19": {
-      "título": "",
-      "texto": "Será que ele levaria em conta"
-    },
-    "20": {
-      "título": "",
-      "texto": "Não suspire pela noite,"
-    },
-    "21": {
-      "título": "",
-      "texto": "Cuidado! Não se incline"
-    },
-    "22": {
-      "título": "Deus se mostra grande em seu poder!",
-      "texto": "“Eis que Deus se mostra grande"
-    },
-    "23": {
-      "título": "",
-      "texto": "Quem lhe prescreveu"
-    },
-    "24": {
-      "título": "",
-      "texto": "Lembre-se de exaltar"
-    },
-    "25": {
-      "título": "",
-      "texto": "Toda a humanidade"
-    },
-    "26": {
-      "título": "",
-      "texto": "Eis que Deus é grande,"
-    },
-    "27": {
-      "título": "O poder e a majestade de Deus",
-      "texto": "“Ele atrai para si"
-    },
-    "28": {
-      "título": "",
-      "texto": "a qual as nuvens derramam"
-    },
-    "29": {
-      "título": "",
-      "texto": "Pode alguém entender"
-    },
-    "30": {
-      "título": "",
-      "texto": "Eis que ele espalha sobre elas"
-    },
-    "31": {
-      "título": "",
-      "texto": "Pois por estas coisas"
-    },
-    "32": {
-      "título": "",
-      "texto": "Enche as mãos de relâmpagos"
-    },
-    "33": {
-      "título": "",
-      "texto": "O fragor da tempestade"
+    "versiculos": {
+        "1": "Eliú seguiu falando e disse:",
+        "2": "“Mais um pouco de paciência,",
+        "3": "Trarei o meu conhecimento",
+        "4": "Porque, na verdade,",
+        "5": "“Eis que Deus é grande",
+        "6": "Não poupa a vida do ímpio,",
+        "7": "Deus não tira os seus olhos",
+        "8": "Se estão presos com correntes",
+        "9": "ele lhes faz ver as suas obras,",
+        "10": "Abre-lhes também os ouvidos",
+        "11": "Se o ouvirem e o servirem,",
+        "12": "Porém, se não o ouvirem,",
+        "13": "“Os ímpios de coração",
+        "14": "Perdem a vida na sua mocidade",
+        "15": "Deus livra o aflito",
+        "16": "“Assim também a você",
+        "17": "Mas você se enche",
+        "18": "Tenha cuidado para que",
+        "19": "Será que ele levaria em conta",
+        "20": "Não suspire pela noite,",
+        "21": "Cuidado! Não se incline",
+        "22": "“Eis que Deus se mostra grande",
+        "23": "Quem lhe prescreveu",
+        "24": "Lembre-se de exaltar",
+        "25": "Toda a humanidade",
+        "26": "Eis que Deus é grande,",
+        "27": "“Ele atrai para si",
+        "28": "a qual as nuvens derramam",
+        "29": "Pode alguém entender",
+        "30": "Eis que ele espalha sobre elas",
+        "31": "Pois por estas coisas",
+        "32": "Enche as mãos de relâmpagos",
+        "33": "O fragor da tempestade"
     }
-  }
 }

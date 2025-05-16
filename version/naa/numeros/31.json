@@ -1,222 +1,66 @@
 {
-  "livro": "Números",
-  "capítulo": 31,
-  "versículos": {
-    "1": {
-      "título": "A vitória sobre os midianitas",
-      "texto": "O Senhor disse a Moisés:"
+    "livro": "Números",
+    "capitulo": 31,
+    "titulos": {
+        "1": "A vitória sobre os midianitas",
+        "13": "O tratamento dos cativos",
+        "25": "A divisão do despojo",
+        "48": "A oferta voluntária dos capitães"
     },
-    "2": {
-      "título": "",
-      "texto": "— Vingue os filhos de Israel dos midianitas. Depois disso você será reunido ao seu povo."
-    },
-    "3": {
-      "título": "",
-      "texto": "Então Moisés falou ao povo, dizendo:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Enviem à guerra mil homens de cada tribo entre todas as tribos de Israel."
-    },
-    "5": {
-      "título": "",
-      "texto": "Assim, dos milhares de Israel foram mandados mil homens de cada tribo: doze mil ao todo, armados para a guerra."
-    },
-    "6": {
-      "título": "",
-      "texto": "Moisés mandou-os para a guerra, mil de cada tribo, juntamente com Fineias, filho do sacerdote Eleazar, o qual levava consigo os utensílios sagrados e as trombetas para o toque de ataque."
-    },
-    "7": {
-      "título": "",
-      "texto": "Eles atacaram os midianitas, como o Senhor havia ordenado a Moisés,"
-    },
-    "8": {
-      "título": "",
-      "texto": "e mataram todos os homens. Mataram, além dos que já haviam sido mortos, os reis dos midianitas, Evi, Requém, Zur, Hur e Reba, cinco reis dos midianitas. Também mataram à espada Balaão, filho de Beor."
-    },
-    "9": {
-      "título": "",
-      "texto": "Porém os filhos de Israel levaram presas as mulheres dos midianitas e as suas crianças. Também levaram todos os seus animais, todo o seu gado e todos os seus bens."
-    },
-    "10": {
-      "título": "",
-      "texto": "Queimaram todas as cidades em que os midianitas habitavam e todos os seus acampamentos."
-    },
-    "11": {
-      "título": "",
-      "texto": "Pegaram todo o despojo e todos os prisioneiros, tanto de pessoas como de animais."
-    },
-    "12": {
-      "título": "",
-      "texto": "Trouxeram a Moisés, ao sacerdote Eleazar e à congregação dos filhos de Israel os cativos, os prisioneiros e o despojo, para o arraial, nas campinas de Moabe, junto do Jordão, na altura de Jericó."
-    },
-    "13": {
-      "título": "O tratamento dos cativos",
-      "texto": "Moisés, o sacerdote Eleazar, e todos os chefes da congregação saíram a recebê-los fora do arraial."
-    },
-    "14": {
-      "título": "",
-      "texto": "Moisés se indignou contra os oficiais do exército, capitães dos milhares e capitães das centenas, que vinham do campo de batalha."
-    },
-    "15": {
-      "título": "",
-      "texto": "Moisés lhes disse:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Eis que estas, por conselho de Balaão, fizeram com que os filhos de Israel fossem infiéis ao Senhor , no caso de Peor, e assim houve uma praga no meio da congregação do Senhor ."
-    },
-    "17": {
-      "título": "",
-      "texto": "Agora, pois, matem, dentre as crianças, todas as do sexo masculino. Matem também todas as mulheres que já tiveram relações com algum homem, deitando-se com ele."
-    },
-    "18": {
-      "título": "",
-      "texto": "Mas todas as meninas, e as jovens que não tiveram relações com algum homem, deitando-se com ele, deixem viver para vocês."
-    },
-    "19": {
-      "título": "",
-      "texto": "— Fiquem acampados durante sete dias fora do arraial. Todos os que tiverem matado alguma pessoa ou tiverem tocado em algum morto devem se purificar no terceiro dia e no sétimo dia; purifiquem a si mesmos e também aos seus prisioneiros."
-    },
-    "20": {
-      "título": "",
-      "texto": "Purifiquem também todas as roupas, todos os objetos feitos de couro, todos os objetos feitos de pelos de cabra e todo artigo de madeira."
-    },
-    "21": {
-      "título": "",
-      "texto": "Então o sacerdote Eleazar disse aos homens do exército que tinham ido à guerra:"
-    },
-    "22": {
-      "título": "",
-      "texto": "o ouro, a prata, o bronze, o ferro, o estanho e o chumbo,"
-    },
-    "23": {
-      "título": "",
-      "texto": "tudo o que pode suportar o fogo vocês devem passar pelo fogo, para que fique puro; e ainda terá de ser purificado com a água purificadora. Mas tudo o que não pode suportar o fogo vocês devem passar pela água."
-    },
-    "24": {
-      "título": "",
-      "texto": "Lavem também as suas roupas no sétimo dia, para que vocês fiquem puros; e, depois, poderão entrar no arraial."
-    },
-    "25": {
-      "título": "A divisão do despojo",
-      "texto": "O Senhor disse a Moisés:"
-    },
-    "26": {
-      "título": "",
-      "texto": "— Faça a contagem daquilo que foi aprisionado, tanto de pessoas como de animais, com a ajuda do sacerdote Eleazar e dos chefes das casas dos pais da congregação."
-    },
-    "27": {
-      "título": "",
-      "texto": "Divida aquilo que foi aprisionado em duas partes iguais, uma para os soldados que saíram à guerra, e a outra para toda a congregação."
-    },
-    "28": {
-      "título": "",
-      "texto": "Dos homens do exército que saíram a esta guerra, cobre um tributo para o Senhor : de cada quinhentas cabeças, uma, tanto dos homens como dos bois, dos jumentos e das ovelhas."
-    },
-    "29": {
-      "título": "",
-      "texto": "Tome esse tributo da metade que toca aos soldados e entregue-o ao sacerdote Eleazar, como oferta ao Senhor ."
-    },
-    "30": {
-      "título": "",
-      "texto": "Mas, da metade que toca aos filhos de Israel, de cada cinquenta, tome um, tanto dos homens como dos bois, dos jumentos e das ovelhas, de todos os animais; e entregue isso aos levitas que têm a seu encargo o serviço do tabernáculo do Senhor ."
-    },
-    "31": {
-      "título": "",
-      "texto": "Moisés e o sacerdote Eleazar fizeram como o Senhor havia ordenado a Moisés."
-    },
-    "32": {
-      "título": "",
-      "texto": "O total do despojo que os homens de guerra pegaram foi de seiscentas e setenta e cinco mil ovelhas,"
-    },
-    "33": {
-      "título": "",
-      "texto": "setenta e dois mil bois,"
-    },
-    "34": {
-      "título": "",
-      "texto": "sessenta e um mil jumentos"
-    },
-    "35": {
-      "título": "",
-      "texto": "e trinta e duas mil pessoas, as mulheres que ainda não haviam tido relações com homem algum, deitando-se com ele."
-    },
-    "36": {
-      "título": "",
-      "texto": "E a metade, a parte que cabe aos que saíram à guerra, foi em número de trezentas e trinta e sete mil e quinhentas ovelhas."
-    },
-    "37": {
-      "título": "",
-      "texto": "O tributo em ovelhas para o Senhor foram seiscentas e setenta e cinco."
-    },
-    "38": {
-      "título": "",
-      "texto": "E os bois foram trinta e seis mil; e o seu tributo para o Senhor , setenta e dois."
-    },
-    "39": {
-      "título": "",
-      "texto": "E os jumentos foram trinta mil e quinhentos; e o seu tributo para o Senhor , sessenta e um."
-    },
-    "40": {
-      "título": "",
-      "texto": "As pessoas foram dezesseis mil; e o seu tributo para o Senhor , trinta e duas."
-    },
-    "41": {
-      "título": "",
-      "texto": "Então Moisés deu ao sacerdote Eleazar o tributo da oferta do Senhor , como este havia ordenado a Moisés."
-    },
-    "42": {
-      "título": "",
-      "texto": "Da metade que cabe aos filhos de Israel, que Moisés havia separado da parte que cabe aos homens que saíram à guerra"
-    },
-    "43": {
-      "título": "",
-      "texto": "— a metade para a congregação foram, em ovelhas, trezentas e trinta e sete mil e quinhentas;"
-    },
-    "44": {
-      "título": "",
-      "texto": "em bois, trinta e seis mil;"
-    },
-    "45": {
-      "título": "",
-      "texto": "em jumentos, trinta mil e quinhentos;"
-    },
-    "46": {
-      "título": "",
-      "texto": "e, em pessoas, dezesseis mil —,"
-    },
-    "47": {
-      "título": "",
-      "texto": "desta metade que cabe aos filhos de Israel, Moisés tomou um de cada cinquenta, tanto de pessoas como de animais, e os deu aos levitas que tinham a seu encargo o serviço do tabernáculo do Senhor , como o Senhor havia ordenado a Moisés."
-    },
-    "48": {
-      "título": "A oferta voluntária dos capitães",
-      "texto": "Então os oficiais que estavam sobre os milhares do exército, capitães sobre mil e capitães sobre cem, foram falar com Moisés"
-    },
-    "49": {
-      "título": "",
-      "texto": "e lhe disseram:"
-    },
-    "50": {
-      "título": "",
-      "texto": "Por isso trouxemos uma oferta ao Senhor , cada um o que achou: objetos de ouro, ornamentos para o braço, pulseiras, sinetes, brincos e colares, para fazer expiação por nós diante do Senhor ."
-    },
-    "51": {
-      "título": "",
-      "texto": "Assim, Moisés e o sacerdote Eleazar receberam deles o ouro, sendo todos os objetos finamente trabalhados."
-    },
-    "52": {
-      "título": "",
-      "texto": "Todo o ouro da oferta que os capitães de mil e os capitães de cem trouxeram ao Senhor pesou duzentos e um quilos."
-    },
-    "53": {
-      "título": "",
-      "texto": "Pois cada um dos homens de guerra havia tomado despojo para si."
-    },
-    "54": {
-      "título": "",
-      "texto": "Moisés e o sacerdote Eleazar receberam o ouro dos capitães de mil e dos capitães de cem e o trouxeram à tenda do encontro, como memorial para os filhos de Israel diante do Senhor ."
+    "versiculos": {
+        "1": "O Senhor disse a Moisés:",
+        "2": "— Vingue os filhos de Israel dos midianitas. Depois disso você será reunido ao seu povo.",
+        "3": "Então Moisés falou ao povo, dizendo:",
+        "4": "Enviem à guerra mil homens de cada tribo entre todas as tribos de Israel.",
+        "5": "Assim, dos milhares de Israel foram mandados mil homens de cada tribo: doze mil ao todo, armados para a guerra.",
+        "6": "Moisés mandou-os para a guerra, mil de cada tribo, juntamente com Fineias, filho do sacerdote Eleazar, o qual levava consigo os utensílios sagrados e as trombetas para o toque de ataque.",
+        "7": "Eles atacaram os midianitas, como o Senhor havia ordenado a Moisés,",
+        "8": "e mataram todos os homens. Mataram, além dos que já haviam sido mortos, os reis dos midianitas, Evi, Requém, Zur, Hur e Reba, cinco reis dos midianitas. Também mataram à espada Balaão, filho de Beor.",
+        "9": "Porém os filhos de Israel levaram presas as mulheres dos midianitas e as suas crianças. Também levaram todos os seus animais, todo o seu gado e todos os seus bens.",
+        "10": "Queimaram todas as cidades em que os midianitas habitavam e todos os seus acampamentos.",
+        "11": "Pegaram todo o despojo e todos os prisioneiros, tanto de pessoas como de animais.",
+        "12": "Trouxeram a Moisés, ao sacerdote Eleazar e à congregação dos filhos de Israel os cativos, os prisioneiros e o despojo, para o arraial, nas campinas de Moabe, junto do Jordão, na altura de Jericó.",
+        "13": "Moisés, o sacerdote Eleazar, e todos os chefes da congregação saíram a recebê-los fora do arraial.",
+        "14": "Moisés se indignou contra os oficiais do exército, capitães dos milhares e capitães das centenas, que vinham do campo de batalha.",
+        "15": "Moisés lhes disse:",
+        "16": "Eis que estas, por conselho de Balaão, fizeram com que os filhos de Israel fossem infiéis ao Senhor , no caso de Peor, e assim houve uma praga no meio da congregação do Senhor .",
+        "17": "Agora, pois, matem, dentre as crianças, todas as do sexo masculino. Matem também todas as mulheres que já tiveram relações com algum homem, deitando-se com ele.",
+        "18": "Mas todas as meninas, e as jovens que não tiveram relações com algum homem, deitando-se com ele, deixem viver para vocês.",
+        "19": "— Fiquem acampados durante sete dias fora do arraial. Todos os que tiverem matado alguma pessoa ou tiverem tocado em algum morto devem se purificar no terceiro dia e no sétimo dia; purifiquem a si mesmos e também aos seus prisioneiros.",
+        "20": "Purifiquem também todas as roupas, todos os objetos feitos de couro, todos os objetos feitos de pelos de cabra e todo artigo de madeira.",
+        "21": "Então o sacerdote Eleazar disse aos homens do exército que tinham ido à guerra:",
+        "22": "o ouro, a prata, o bronze, o ferro, o estanho e o chumbo,",
+        "23": "tudo o que pode suportar o fogo vocês devem passar pelo fogo, para que fique puro; e ainda terá de ser purificado com a água purificadora. Mas tudo o que não pode suportar o fogo vocês devem passar pela água.",
+        "24": "Lavem também as suas roupas no sétimo dia, para que vocês fiquem puros; e, depois, poderão entrar no arraial.",
+        "25": "O Senhor disse a Moisés:",
+        "26": "— Faça a contagem daquilo que foi aprisionado, tanto de pessoas como de animais, com a ajuda do sacerdote Eleazar e dos chefes das casas dos pais da congregação.",
+        "27": "Divida aquilo que foi aprisionado em duas partes iguais, uma para os soldados que saíram à guerra, e a outra para toda a congregação.",
+        "28": "Dos homens do exército que saíram a esta guerra, cobre um tributo para o Senhor : de cada quinhentas cabeças, uma, tanto dos homens como dos bois, dos jumentos e das ovelhas.",
+        "29": "Tome esse tributo da metade que toca aos soldados e entregue-o ao sacerdote Eleazar, como oferta ao Senhor .",
+        "30": "Mas, da metade que toca aos filhos de Israel, de cada cinquenta, tome um, tanto dos homens como dos bois, dos jumentos e das ovelhas, de todos os animais; e entregue isso aos levitas que têm a seu encargo o serviço do tabernáculo do Senhor .",
+        "31": "Moisés e o sacerdote Eleazar fizeram como o Senhor havia ordenado a Moisés.",
+        "32": "O total do despojo que os homens de guerra pegaram foi de seiscentas e setenta e cinco mil ovelhas,",
+        "33": "setenta e dois mil bois,",
+        "34": "sessenta e um mil jumentos",
+        "35": "e trinta e duas mil pessoas, as mulheres que ainda não haviam tido relações com homem algum, deitando-se com ele.",
+        "36": "E a metade, a parte que cabe aos que saíram à guerra, foi em número de trezentas e trinta e sete mil e quinhentas ovelhas.",
+        "37": "O tributo em ovelhas para o Senhor foram seiscentas e setenta e cinco.",
+        "38": "E os bois foram trinta e seis mil; e o seu tributo para o Senhor , setenta e dois.",
+        "39": "E os jumentos foram trinta mil e quinhentos; e o seu tributo para o Senhor , sessenta e um.",
+        "40": "As pessoas foram dezesseis mil; e o seu tributo para o Senhor , trinta e duas.",
+        "41": "Então Moisés deu ao sacerdote Eleazar o tributo da oferta do Senhor , como este havia ordenado a Moisés.",
+        "42": "Da metade que cabe aos filhos de Israel, que Moisés havia separado da parte que cabe aos homens que saíram à guerra",
+        "43": "— a metade para a congregação foram, em ovelhas, trezentas e trinta e sete mil e quinhentas;",
+        "44": "em bois, trinta e seis mil;",
+        "45": "em jumentos, trinta mil e quinhentos;",
+        "46": "e, em pessoas, dezesseis mil —,",
+        "47": "desta metade que cabe aos filhos de Israel, Moisés tomou um de cada cinquenta, tanto de pessoas como de animais, e os deu aos levitas que tinham a seu encargo o serviço do tabernáculo do Senhor , como o Senhor havia ordenado a Moisés.",
+        "48": "Então os oficiais que estavam sobre os milhares do exército, capitães sobre mil e capitães sobre cem, foram falar com Moisés",
+        "49": "e lhe disseram:",
+        "50": "Por isso trouxemos uma oferta ao Senhor , cada um o que achou: objetos de ouro, ornamentos para o braço, pulseiras, sinetes, brincos e colares, para fazer expiação por nós diante do Senhor .",
+        "51": "Assim, Moisés e o sacerdote Eleazar receberam deles o ouro, sendo todos os objetos finamente trabalhados.",
+        "52": "Todo o ouro da oferta que os capitães de mil e os capitães de cem trouxeram ao Senhor pesou duzentos e um quilos.",
+        "53": "Pois cada um dos homens de guerra havia tomado despojo para si.",
+        "54": "Moisés e o sacerdote Eleazar receberam o ouro dos capitães de mil e dos capitães de cem e o trouxeram à tenda do encontro, como memorial para os filhos de Israel diante do Senhor ."
     }
-  }
 }

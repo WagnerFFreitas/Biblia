@@ -1,106 +1,36 @@
 {
-  "livro": "Isaías",
-  "capítulo": 65,
-  "versículos": {
-    "1": {
-      "título": "Os rebeldes serão rejeitados",
-      "texto": "“Fui buscado pelos que"
+    "livro": "Isaías",
+    "capitulo": 65,
+    "titulos": {
+        "1": "Os rebeldes serão rejeitados",
+        "8": "Deus poupará os seus servos",
+        "17": "Novos céus e nova terra"
     },
-    "2": {
-      "título": "",
-      "texto": "Todo o dia estendi as mãos"
-    },
-    "3": {
-      "título": "",
-      "texto": "É um povo que de contínuo"
-    },
-    "4": {
-      "título": "",
-      "texto": "Eles se assentam"
-    },
-    "5": {
-      "título": "",
-      "texto": "É um povo que diz:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Eis que está escrito"
-    },
-    "7": {
-      "título": "",
-      "texto": "pelas iniquidades de vocês"
-    },
-    "8": {
-      "título": "Deus poupará os seus servos",
-      "texto": "Assim diz o Senhor :"
-    },
-    "9": {
-      "título": "",
-      "texto": "Farei sair de Jacó descendência"
-    },
-    "10": {
-      "título": "",
-      "texto": "Sarom servirá de pasto"
-    },
-    "11": {
-      "título": "",
-      "texto": "“Mas quanto a vocês"
-    },
-    "12": {
-      "título": "",
-      "texto": "eu os destinarei à espada,"
-    },
-    "13": {
-      "título": "",
-      "texto": "Portanto,"
-    },
-    "14": {
-      "título": "",
-      "texto": "os meus servos cantarão"
-    },
-    "15": {
-      "título": "",
-      "texto": "“O nome de vocês será deixado"
-    },
-    "16": {
-      "título": "",
-      "texto": "Assim, quem quiser"
-    },
-    "17": {
-      "título": "Novos céus e nova terra",
-      "texto": "“Pois eis que eu crio"
-    },
-    "18": {
-      "título": "",
-      "texto": "Exultem e alegrem-se"
-    },
-    "19": {
-      "título": "",
-      "texto": "Eu me alegrarei"
-    },
-    "20": {
-      "título": "",
-      "texto": "Não haverá mais nela criança"
-    },
-    "21": {
-      "título": "",
-      "texto": "“Eles construirão casas"
-    },
-    "22": {
-      "título": "",
-      "texto": "Não construirão"
-    },
-    "23": {
-      "título": "",
-      "texto": "Não farão o seu trabalho"
-    },
-    "24": {
-      "título": "",
-      "texto": "Antes mesmo que clamem,"
-    },
-    "25": {
-      "título": "",
-      "texto": "O lobo e o cordeiro"
+    "versiculos": {
+        "1": "“Fui buscado pelos que",
+        "2": "Todo o dia estendi as mãos",
+        "3": "É um povo que de contínuo",
+        "4": "Eles se assentam",
+        "5": "É um povo que diz:",
+        "6": "Eis que está escrito",
+        "7": "pelas iniquidades de vocês",
+        "8": "Assim diz o Senhor :",
+        "9": "Farei sair de Jacó descendência",
+        "10": "Sarom servirá de pasto",
+        "11": "“Mas quanto a vocês",
+        "12": "eu os destinarei à espada,",
+        "13": "Portanto,",
+        "14": "os meus servos cantarão",
+        "15": "“O nome de vocês será deixado",
+        "16": "Assim, quem quiser",
+        "17": "“Pois eis que eu crio",
+        "18": "Exultem e alegrem-se",
+        "19": "Eu me alegrarei",
+        "20": "Não haverá mais nela criança",
+        "21": "“Eles construirão casas",
+        "22": "Não construirão",
+        "23": "Não farão o seu trabalho",
+        "24": "Antes mesmo que clamem,",
+        "25": "O lobo e o cordeiro"
     }
-  }
 }

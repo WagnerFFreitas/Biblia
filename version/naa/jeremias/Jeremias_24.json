@@ -1,46 +1,19 @@
 {
-  "livro": "Jeremias",
-  "capítulo": 24,
-  "versículos": {
-    "1": {
-      "título": "A visão dos dois cestos de figos",
-      "texto": "O Senhor me mostrou dois cestos de figos postos diante do templo do Senhor . Isso aconteceu depois que Nabucodonosor, rei da Babilônia, levou para o cativeiro Jeconias, filho de Jeoaquim, rei de Judá, as autoridades de Judá, os artífices e os ferreiros; ele os levou de Jerusalém à Babilônia."
+    "livro": "Jeremias",
+    "capitulo": 24,
+    "titulos": {
+        "1": "A visão dos dois cestos de figos"
     },
-    "2": {
-      "título": "",
-      "texto": "Um cesto tinha figos muito bons, como os figos do começo da colheita, mas o outro tinha figos ruins, que eram tão ruins que não se podiam comer."
-    },
-    "3": {
-      "título": "",
-      "texto": "Então o Senhor me perguntou:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Então a palavra do Senhor veio a mim, dizendo:"
-    },
-    "5": {
-      "título": "",
-      "texto": "— Assim diz o Senhor , o Deus de Israel: Os exilados de Judá, que eu enviei deste lugar para a terra dos caldeus, são como esses figos bons: eu os considero bons."
-    },
-    "6": {
-      "título": "",
-      "texto": "Olharei para eles favoravelmente e os trarei de volta para esta terra. Eu os edificarei e não os destruirei; plantarei e não arrancarei."
-    },
-    "7": {
-      "título": "",
-      "texto": "Eu lhes darei um coração para que me conheçam, para que saibam que eu sou o Senhor . Eles serão o meu povo, e eu serei o seu Deus, porque se voltarão para mim de todo o seu coração."
-    },
-    "8": {
-      "título": "",
-      "texto": "— Como se rejeitam os figos ruins, que são tão ruins que não se podem comer, assim tratarei Zedequias, rei de Judá, diz o Senhor , e os seus oficiais, e o restante de Jerusalém, tanto os que ficaram nesta terra como os que moram na terra do Egito."
-    },
-    "9": {
-      "título": "",
-      "texto": "Farei deles um motivo de espanto, uma calamidade para todos os reinos da terra. Em todos os lugares para onde os dispersarei, serão objeto de deboche, de provérbio, de escárnio e de maldição."
-    },
-    "10": {
-      "título": "",
-      "texto": "Enviarei contra eles a espada, a fome e a peste, até que desapareçam da terra que lhes dei, a eles e aos seus pais."
+    "versiculos": {
+        "1": "O Senhor me mostrou dois cestos de figos postos diante do templo do Senhor . Isso aconteceu depois que Nabucodonosor, rei da Babilônia, levou para o cativeiro Jeconias, filho de Jeoaquim, rei de Judá, as autoridades de Judá, os artífices e os ferreiros; ele os levou de Jerusalém à Babilônia.",
+        "2": "Um cesto tinha figos muito bons, como os figos do começo da colheita, mas o outro tinha figos ruins, que eram tão ruins que não se podiam comer.",
+        "3": "Então o Senhor me perguntou:",
+        "4": "Então a palavra do Senhor veio a mim, dizendo:",
+        "5": "— Assim diz o Senhor , o Deus de Israel: Os exilados de Judá, que eu enviei deste lugar para a terra dos caldeus, são como esses figos bons: eu os considero bons.",
+        "6": "Olharei para eles favoravelmente e os trarei de volta para esta terra. Eu os edificarei e não os destruirei; plantarei e não arrancarei.",
+        "7": "Eu lhes darei um coração para que me conheçam, para que saibam que eu sou o Senhor . Eles serão o meu povo, e eu serei o seu Deus, porque se voltarão para mim de todo o seu coração.",
+        "8": "— Como se rejeitam os figos ruins, que são tão ruins que não se podem comer, assim tratarei Zedequias, rei de Judá, diz o Senhor , e os seus oficiais, e o restante de Jerusalém, tanto os que ficaram nesta terra como os que moram na terra do Egito.",
+        "9": "Farei deles um motivo de espanto, uma calamidade para todos os reinos da terra. Em todos os lugares para onde os dispersarei, serão objeto de deboche, de provérbio, de escárnio e de maldição.",
+        "10": "Enviarei contra eles a espada, a fome e a peste, até que desapareçam da terra que lhes dei, a eles e aos seus pais."
     }
-  }
 }

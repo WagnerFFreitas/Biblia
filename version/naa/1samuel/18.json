@@ -1,126 +1,41 @@
 {
-  "livro": "1 Samuel",
-  "capítulo": 18,
-  "versículos": {
-    "1": {
-      "título": "A amizade de Jônatas e Davi",
-      "texto": "Depois de Davi ter falado com Saul, a alma de Jônatas se ligou com a de Davi numa profunda amizade. E Jônatas o amou como à sua própria alma."
+    "livro": "1 Samuel",
+    "capitulo": 18,
+    "titulos": {
+        "1": "A amizade de Jônatas e Davi",
+        "6": "A inveja de Saul",
+        "17": "Davi casa com a filha de Saul"
     },
-    "2": {
-      "título": "",
-      "texto": "Naquele dia, Saul reteve Davi e não permitiu que ele voltasse para a casa de seu pai."
-    },
-    "3": {
-      "título": "",
-      "texto": "Jônatas e Davi fizeram uma aliança, porque Jônatas o amava como à sua própria alma."
-    },
-    "4": {
-      "título": "",
-      "texto": "Jônatas tirou a capa que vestia e a deu a Davi. Deu também a sua armadura, inclusive a espada, o arco e o cinto."
-    },
-    "5": {
-      "título": "",
-      "texto": "Davi saía aonde quer que Saul o enviava e tinha êxito, de modo que Saul o pôs sobre tropas do seu exército. E Davi era estimado por todo o povo e até pelos próprios servos de Saul."
-    },
-    "6": {
-      "título": "A inveja de Saul",
-      "texto": "E aconteceu que, quando eles estavam voltando para casa, depois de Davi ter matado o filisteu, as mulheres de todas as cidades de Israel saíram ao encontro do rei Saul, cantando e dançando, com tamborins, com alegria e com instrumentos musicais."
-    },
-    "7": {
-      "título": "",
-      "texto": "As mulheres se alegravam e, cantando alternadamente, diziam:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Saul se indignou muito, pois estas palavras lhe desagradaram em extremo. Ele disse:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Daquele dia em diante, Saul não via Davi com bons olhos."
-    },
-    "10": {
-      "título": "",
-      "texto": "No dia seguinte, um espírito mau, vindo da parte de Deus, se apossou de Saul, que teve uma crise de raiva em sua casa. Davi, como nos outros dias, dedilhava a harpa. Saul, porém, tinha na mão uma lança,"
-    },
-    "11": {
-      "título": "",
-      "texto": "que ele atirou, pensando assim:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Saul tinha medo de Davi, porque o Senhor estava com este e tinha abandonado Saul."
-    },
-    "13": {
-      "título": "",
-      "texto": "Por isso Saul o afastou de si e o pôs por chefe de mil. Davi fazia saídas e entradas militares diante do povo."
-    },
-    "14": {
-      "título": "",
-      "texto": "Davi tinha êxito em todos os seus empreendimentos, pois o Senhor estava com ele."
-    },
-    "15": {
-      "título": "",
-      "texto": "Vendo que Davi tinha êxito, Saul ficou com medo dele."
-    },
-    "16": {
-      "título": "",
-      "texto": "Porém todo o Israel e Judá amavam Davi, porque fazia saídas e entradas militares diante deles."
-    },
-    "17": {
-      "título": "Davi casa com a filha de Saul",
-      "texto": "Saul disse a Davi:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Mas Davi respondeu a Saul:"
-    },
-    "19": {
-      "título": "",
-      "texto": "Mas aconteceu que, na época em que Merabe, filha de Saul, devia ser dada em casamento a Davi, foi dada por mulher a Adriel, meolatita."
-    },
-    "20": {
-      "título": "",
-      "texto": "Mas Mical, a outra filha de Saul, amava Davi. Contaram isso a Saul, e isso agradou a ele."
-    },
-    "21": {
-      "título": "",
-      "texto": "Saul pensava assim: “Eu a darei em casamento a Davi, para que ela lhe sirva de armadilha e para que a mão dos filisteus venha a ser contra ele.” Por isso Saul disse a Davi:"
-    },
-    "22": {
-      "título": "",
-      "texto": "Saul ordenou que os seus servos falassem confidencialmente com Davi, dizendo:"
-    },
-    "23": {
-      "título": "",
-      "texto": "Os servos de Saul falaram estas palavras a Davi, o qual respondeu:"
-    },
-    "24": {
-      "título": "",
-      "texto": "Os servos de Saul lhe contaram isto, dizendo:"
-    },
-    "25": {
-      "título": "",
-      "texto": "Então Saul ordenou que dissessem a Davi:"
-    },
-    "26": {
-      "título": "",
-      "texto": "Quando os servos de Saul relataram estas palavras a Davi, este gostou da ideia de vir a ser genro do rei. Antes de vencido o prazo,"
-    },
-    "27": {
-      "título": "",
-      "texto": "Davi se levantou e partiu com os seus homens, e mataram duzentos filisteus. Trouxe os seus prepúcios e os entregou todos ao rei, para que assim se tornasse seu genro. Então Saul lhe deu a sua filha Mical em casamento."
-    },
-    "28": {
-      "título": "",
-      "texto": "Saul viu e reconheceu que o Senhor estava com Davi; e Mical, filha de Saul, o amava."
-    },
-    "29": {
-      "título": "",
-      "texto": "Então Saul ficou com mais medo ainda de Davi e continuamente foi seu inimigo."
-    },
-    "30": {
-      "título": "",
-      "texto": "Cada vez que os chefes dos filisteus saíam à batalha, Davi obtinha mais êxito do que todos os servos de Saul. E assim o nome de Davi se tornou muito estimado."
+    "versiculos": {
+        "1": "Depois de Davi ter falado com Saul, a alma de Jônatas se ligou com a de Davi numa profunda amizade. E Jônatas o amou como à sua própria alma.",
+        "2": "Naquele dia, Saul reteve Davi e não permitiu que ele voltasse para a casa de seu pai.",
+        "3": "Jônatas e Davi fizeram uma aliança, porque Jônatas o amava como à sua própria alma.",
+        "4": "Jônatas tirou a capa que vestia e a deu a Davi. Deu também a sua armadura, inclusive a espada, o arco e o cinto.",
+        "5": "Davi saía aonde quer que Saul o enviava e tinha êxito, de modo que Saul o pôs sobre tropas do seu exército. E Davi era estimado por todo o povo e até pelos próprios servos de Saul.",
+        "6": "E aconteceu que, quando eles estavam voltando para casa, depois de Davi ter matado o filisteu, as mulheres de todas as cidades de Israel saíram ao encontro do rei Saul, cantando e dançando, com tamborins, com alegria e com instrumentos musicais.",
+        "7": "As mulheres se alegravam e, cantando alternadamente, diziam:",
+        "8": "Saul se indignou muito, pois estas palavras lhe desagradaram em extremo. Ele disse:",
+        "9": "Daquele dia em diante, Saul não via Davi com bons olhos.",
+        "10": "No dia seguinte, um espírito mau, vindo da parte de Deus, se apossou de Saul, que teve uma crise de raiva em sua casa. Davi, como nos outros dias, dedilhava a harpa. Saul, porém, tinha na mão uma lança,",
+        "11": "que ele atirou, pensando assim:",
+        "12": "Saul tinha medo de Davi, porque o Senhor estava com este e tinha abandonado Saul.",
+        "13": "Por isso Saul o afastou de si e o pôs por chefe de mil. Davi fazia saídas e entradas militares diante do povo.",
+        "14": "Davi tinha êxito em todos os seus empreendimentos, pois o Senhor estava com ele.",
+        "15": "Vendo que Davi tinha êxito, Saul ficou com medo dele.",
+        "16": "Porém todo o Israel e Judá amavam Davi, porque fazia saídas e entradas militares diante deles.",
+        "17": "Saul disse a Davi:",
+        "18": "Mas Davi respondeu a Saul:",
+        "19": "Mas aconteceu que, na época em que Merabe, filha de Saul, devia ser dada em casamento a Davi, foi dada por mulher a Adriel, meolatita.",
+        "20": "Mas Mical, a outra filha de Saul, amava Davi. Contaram isso a Saul, e isso agradou a ele.",
+        "21": "Saul pensava assim: “Eu a darei em casamento a Davi, para que ela lhe sirva de armadilha e para que a mão dos filisteus venha a ser contra ele.” Por isso Saul disse a Davi:",
+        "22": "Saul ordenou que os seus servos falassem confidencialmente com Davi, dizendo:",
+        "23": "Os servos de Saul falaram estas palavras a Davi, o qual respondeu:",
+        "24": "Os servos de Saul lhe contaram isto, dizendo:",
+        "25": "Então Saul ordenou que dissessem a Davi:",
+        "26": "Quando os servos de Saul relataram estas palavras a Davi, este gostou da ideia de vir a ser genro do rei. Antes de vencido o prazo,",
+        "27": "Davi se levantou e partiu com os seus homens, e mataram duzentos filisteus. Trouxe os seus prepúcios e os entregou todos ao rei, para que assim se tornasse seu genro. Então Saul lhe deu a sua filha Mical em casamento.",
+        "28": "Saul viu e reconheceu que o Senhor estava com Davi; e Mical, filha de Saul, o amava.",
+        "29": "Então Saul ficou com mais medo ainda de Davi e continuamente foi seu inimigo.",
+        "30": "Cada vez que os chefes dos filisteus saíam à batalha, Davi obtinha mais êxito do que todos os servos de Saul. E assim o nome de Davi se tornou muito estimado."
     }
-  }
 }

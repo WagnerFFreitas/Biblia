@@ -1,194 +1,57 @@
 {
-  "livro": "João",
-  "capítulo": 5,
-  "versículos": {
-    "1": {
-      "título": "A cura de um paralítico",
-      "texto": "Passadas essas coisas, havia uma festa dos judeus, e Jesus foi para Jerusalém."
+    "livro": "João",
+    "capitulo": 5,
+    "titulos": {
+        "1": "A cura de um paralítico",
+        "19": "A autoridade do Filho de Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "Existe ali, junto ao Portão das Ovelhas, um tanque, chamado em hebraico Betesda, o qual tem cinco pórticos."
-    },
-    "3": {
-      "título": "",
-      "texto": "Nestes jazia uma multidão de enfermos, cegos, coxos, paralíticos"
-    },
-    "4": {
-      "título": "",
-      "texto": "."
-    },
-    "5": {
-      "título": "",
-      "texto": "Estava ali um homem enfermo havia trinta e oito anos."
-    },
-    "6": {
-      "título": "",
-      "texto": "Jesus, vendo-o deitado e sabendo que estava assim havia muito tempo, perguntou:"
-    },
-    "7": {
-      "título": "",
-      "texto": "O enfermo respondeu:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Então Jesus lhe disse:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Imediatamente o homem se viu curado e, pegando o leito, começou a andar. E aquele dia era sábado."
-    },
-    "10": {
-      "título": "",
-      "texto": "Por isso, os judeus disseram ao que tinha sido curado:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Ao que ele lhes respondeu:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Perguntaram-lhe:"
-    },
-    "13": {
-      "título": "",
-      "texto": "Aquele que tinha sido curado não soube responder, porque Jesus tinha se retirado, por haver muita gente naquele lugar."
-    },
-    "14": {
-      "título": "",
-      "texto": "Mais tarde, Jesus o encontrou no templo e lhe disse:"
-    },
-    "15": {
-      "título": "",
-      "texto": "O homem se retirou e disse aos judeus que tinha sido Jesus quem o havia curado."
-    },
-    "16": {
-      "título": "",
-      "texto": "E por isso os judeus perseguiam Jesus, porque fazia essas coisas no sábado."
-    },
-    "17": {
-      "título": "",
-      "texto": "Mas Jesus lhes disse:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Por isso, os judeus cada vez mais queriam matá-lo, porque além de desrespeitar o sábado, também dizia que Deus era seu próprio Pai, fazendo-se igual a Deus."
-    },
-    "19": {
-      "título": "A autoridade do Filho de Deus",
-      "texto": "Então Jesus lhes disse:"
-    },
-    "20": {
-      "título": "",
-      "texto": "Porque o Pai ama o Filho e lhe mostra tudo o que faz; e maiores obras do que estas lhe mostrará, para que vocês fiquem maravilhados."
-    },
-    "21": {
-      "título": "",
-      "texto": "Pois assim como o Pai ressuscita e vivifica os mortos, assim também o Filho vivifica aqueles a quem quer."
-    },
-    "22": {
-      "título": "",
-      "texto": "E o Pai não julga ninguém, mas confiou todo julgamento ao Filho,"
-    },
-    "23": {
-      "título": "",
-      "texto": "para que todos honrem o Filho assim como honram o Pai. Quem não honra o Filho não honra o Pai que o enviou."
-    },
-    "24": {
-      "título": "",
-      "texto": "— Em verdade, em verdade lhes digo: quem ouve a minha palavra e crê naquele que me enviou tem a vida eterna, não entra em juízo, mas passou da morte para a vida."
-    },
-    "25": {
-      "título": "",
-      "texto": "Em verdade, em verdade lhes digo que vem a hora — e já chegou — em que os mortos ouvirão a voz do Filho de Deus; e os que a ouvirem viverão."
-    },
-    "26": {
-      "título": "",
-      "texto": "Porque assim como o Pai tem vida em si mesmo, também concedeu ao Filho ter vida em si mesmo."
-    },
-    "27": {
-      "título": "",
-      "texto": "E lhe deu autoridade para julgar, porque é o Filho do Homem."
-    },
-    "28": {
-      "título": "",
-      "texto": "Não fiquem maravilhados com isso, porque vem a hora em que todos os que se acham nos túmulos ouvirão a voz dele e sairão:"
-    },
-    "29": {
-      "título": "",
-      "texto": "os que tiverem feito o bem, para a ressurreição da vida; e os que tiverem praticado o mal, para a ressurreição do juízo."
-    },
-    "30": {
-      "título": "",
-      "texto": "— Eu nada posso fazer por mim mesmo; assim como ouço, julgo. O meu juízo é justo, porque não procuro a minha própria vontade, e sim a daquele que me enviou."
-    },
-    "31": {
-      "título": "",
-      "texto": "Se eu dou testemunho a respeito de mim mesmo, o meu testemunho não é verdadeiro."
-    },
-    "32": {
-      "título": "",
-      "texto": "Outro é o que dá testemunho a respeito de mim, e sei que o testemunho que ele dá a respeito de mim é verdadeiro."
-    },
-    "33": {
-      "título": "",
-      "texto": "Vocês mandaram mensageiros a João, e ele deu testemunho da verdade."
-    },
-    "34": {
-      "título": "",
-      "texto": "Eu, porém, não recebo testemunho humano, mas digo essas coisas para que vocês sejam salvos."
-    },
-    "35": {
-      "título": "",
-      "texto": "— João era a lâmpada que estava acesa e iluminava, e, por algum tempo, vocês quiseram se alegrar com a sua luz."
-    },
-    "36": {
-      "título": "",
-      "texto": "Mas eu tenho maior testemunho que o de João; porque as obras que o Pai me confiou para que eu as realizasse, essas que eu faço testemunham a meu respeito de que o Pai me enviou."
-    },
-    "37": {
-      "título": "",
-      "texto": "O Pai, que me enviou, esse mesmo é que tem dado testemunho de mim. Vocês nunca ouviram a voz dele, nem viram a sua forma."
-    },
-    "38": {
-      "título": "",
-      "texto": "Também não têm a palavra dele permanente em vocês, porque não creem naquele a quem ele enviou."
-    },
-    "39": {
-      "título": "",
-      "texto": "Vocês examinam as Escrituras, porque julgam ter nelas a vida eterna, e são elas mesmas que testificam de mim."
-    },
-    "40": {
-      "título": "",
-      "texto": "Contudo, vocês não querem vir a mim para ter vida."
-    },
-    "41": {
-      "título": "",
-      "texto": "Eu não aceito glória que vem de pessoas;"
-    },
-    "42": {
-      "título": "",
-      "texto": "sei, entretanto, que vocês não têm o amor de Deus em vocês."
-    },
-    "43": {
-      "título": "",
-      "texto": "Eu vim em nome de meu Pai, e vocês não me recebem; se outro vier em seu próprio nome, vocês certamente o receberão."
-    },
-    "44": {
-      "título": "",
-      "texto": "Como podem crer, vocês que aceitam glória uns dos outros e não procuram a glória que vem do Deus único?"
-    },
-    "45": {
-      "título": "",
-      "texto": "Não pensem que eu os acusarei diante do Pai; quem acusa vocês é Moisés, em quem puseram a sua esperança."
-    },
-    "46": {
-      "título": "",
-      "texto": "Porque, se vocês, de fato, cressem em Moisés, também creriam em mim; pois ele escreveu a meu respeito."
-    },
-    "47": {
-      "título": "",
-      "texto": "Se, porém, não creem nos escritos dele, como crerão nas minhas palavras?"
+    "versiculos": {
+        "1": "Passadas essas coisas, havia uma festa dos judeus, e Jesus foi para Jerusalém.",
+        "2": "Existe ali, junto ao Portão das Ovelhas, um tanque, chamado em hebraico Betesda, o qual tem cinco pórticos.",
+        "3": "Nestes jazia uma multidão de enfermos, cegos, coxos, paralíticos",
+        "4": ".",
+        "5": "Estava ali um homem enfermo havia trinta e oito anos.",
+        "6": "Jesus, vendo-o deitado e sabendo que estava assim havia muito tempo, perguntou:",
+        "7": "O enfermo respondeu:",
+        "8": "Então Jesus lhe disse:",
+        "9": "Imediatamente o homem se viu curado e, pegando o leito, começou a andar. E aquele dia era sábado.",
+        "10": "Por isso, os judeus disseram ao que tinha sido curado:",
+        "11": "Ao que ele lhes respondeu:",
+        "12": "Perguntaram-lhe:",
+        "13": "Aquele que tinha sido curado não soube responder, porque Jesus tinha se retirado, por haver muita gente naquele lugar.",
+        "14": "Mais tarde, Jesus o encontrou no templo e lhe disse:",
+        "15": "O homem se retirou e disse aos judeus que tinha sido Jesus quem o havia curado.",
+        "16": "E por isso os judeus perseguiam Jesus, porque fazia essas coisas no sábado.",
+        "17": "Mas Jesus lhes disse:",
+        "18": "Por isso, os judeus cada vez mais queriam matá-lo, porque além de desrespeitar o sábado, também dizia que Deus era seu próprio Pai, fazendo-se igual a Deus.",
+        "19": "Então Jesus lhes disse:",
+        "20": "Porque o Pai ama o Filho e lhe mostra tudo o que faz; e maiores obras do que estas lhe mostrará, para que vocês fiquem maravilhados.",
+        "21": "Pois assim como o Pai ressuscita e vivifica os mortos, assim também o Filho vivifica aqueles a quem quer.",
+        "22": "E o Pai não julga ninguém, mas confiou todo julgamento ao Filho,",
+        "23": "para que todos honrem o Filho assim como honram o Pai. Quem não honra o Filho não honra o Pai que o enviou.",
+        "24": "— Em verdade, em verdade lhes digo: quem ouve a minha palavra e crê naquele que me enviou tem a vida eterna, não entra em juízo, mas passou da morte para a vida.",
+        "25": "Em verdade, em verdade lhes digo que vem a hora — e já chegou — em que os mortos ouvirão a voz do Filho de Deus; e os que a ouvirem viverão.",
+        "26": "Porque assim como o Pai tem vida em si mesmo, também concedeu ao Filho ter vida em si mesmo.",
+        "27": "E lhe deu autoridade para julgar, porque é o Filho do Homem.",
+        "28": "Não fiquem maravilhados com isso, porque vem a hora em que todos os que se acham nos túmulos ouvirão a voz dele e sairão:",
+        "29": "os que tiverem feito o bem, para a ressurreição da vida; e os que tiverem praticado o mal, para a ressurreição do juízo.",
+        "30": "— Eu nada posso fazer por mim mesmo; assim como ouço, julgo. O meu juízo é justo, porque não procuro a minha própria vontade, e sim a daquele que me enviou.",
+        "31": "Se eu dou testemunho a respeito de mim mesmo, o meu testemunho não é verdadeiro.",
+        "32": "Outro é o que dá testemunho a respeito de mim, e sei que o testemunho que ele dá a respeito de mim é verdadeiro.",
+        "33": "Vocês mandaram mensageiros a João, e ele deu testemunho da verdade.",
+        "34": "Eu, porém, não recebo testemunho humano, mas digo essas coisas para que vocês sejam salvos.",
+        "35": "— João era a lâmpada que estava acesa e iluminava, e, por algum tempo, vocês quiseram se alegrar com a sua luz.",
+        "36": "Mas eu tenho maior testemunho que o de João; porque as obras que o Pai me confiou para que eu as realizasse, essas que eu faço testemunham a meu respeito de que o Pai me enviou.",
+        "37": "O Pai, que me enviou, esse mesmo é que tem dado testemunho de mim. Vocês nunca ouviram a voz dele, nem viram a sua forma.",
+        "38": "Também não têm a palavra dele permanente em vocês, porque não creem naquele a quem ele enviou.",
+        "39": "Vocês examinam as Escrituras, porque julgam ter nelas a vida eterna, e são elas mesmas que testificam de mim.",
+        "40": "Contudo, vocês não querem vir a mim para ter vida.",
+        "41": "Eu não aceito glória que vem de pessoas;",
+        "42": "sei, entretanto, que vocês não têm o amor de Deus em vocês.",
+        "43": "Eu vim em nome de meu Pai, e vocês não me recebem; se outro vier em seu próprio nome, vocês certamente o receberão.",
+        "44": "Como podem crer, vocês que aceitam glória uns dos outros e não procuram a glória que vem do Deus único?",
+        "45": "Não pensem que eu os acusarei diante do Pai; quem acusa vocês é Moisés, em quem puseram a sua esperança.",
+        "46": "Porque, se vocês, de fato, cressem em Moisés, também creriam em mim; pois ele escreveu a meu respeito.",
+        "47": "Se, porém, não creem nos escritos dele, como crerão nas minhas palavras?"
     }
-  }
 }

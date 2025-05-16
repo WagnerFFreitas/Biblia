@@ -1,134 +1,42 @@
 {
-  "livro": "Jeremias",
-  "capítulo": 29,
-  "versículos": {
-    "1": {
-      "título": "A carta de Jeremias aos cativos da Babilônia",
-      "texto": "São estas as palavras da carta que o profeta Jeremias enviou de Jerusalém ao resto dos anciãos do cativeiro, aos sacerdotes, aos profetas e a todo o povo que Nabucodonosor havia deportado de Jerusalém para a Babilônia."
+    "livro": "Jeremias",
+    "capitulo": 29,
+    "titulos": {
+        "1": "A carta de Jeremias aos cativos da Babilônia",
+        "24": "O falso profeta Semaías"
     },
-    "2": {
-      "título": "",
-      "texto": "Isso aconteceu depois que saíram de Jerusalém o rei Jeconias, a rainha-mãe, os oficiais, as autoridades de Judá e Jerusalém e os carpinteiros e ferreiros."
-    },
-    "3": {
-      "título": "",
-      "texto": "A carta foi levada por Elasa, filho de Safã, e por Gemarias, filho de Hilquias, os quais Zedequias, rei de Judá, tinha enviado à Babilônia, a Nabucodonosor, rei da Babilônia. Ela dizia o seguinte:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Assim diz o Senhor dos Exércitos, o Deus de Israel, a todos os exilados que eu deportei de Jerusalém para a Babilônia:"
-    },
-    "5": {
-      "título": "",
-      "texto": "“Construam casas e morem nelas; plantem pomares e comam o seu fruto."
-    },
-    "6": {
-      "título": "",
-      "texto": "Casem e tenham filhos e filhas; escolham esposas para os filhos de vocês e deem as suas filhas em casamento, para que tenham filhos e filhas. Aumentem em número e não diminuam aí na Babilônia!"
-    },
-    "7": {
-      "título": "",
-      "texto": "Procurem a paz da cidade para onde eu os deportei e orem por ela ao Senhor ; porque na sua paz vocês terão paz."
-    },
-    "8": {
-      "título": "",
-      "texto": "Porque assim diz o Senhor dos Exércitos, o Deus de Israel: Não se deixem enganar pelos profetas e adivinhos que vivem no meio de vocês. Não deem ouvidos aos sonhadores, que sempre sonham segundo o desejo de vocês."
-    },
-    "9": {
-      "título": "",
-      "texto": "Porque eles profetizam falsamente em meu nome; eu não os enviei”, diz o Senhor ."
-    },
-    "10": {
-      "título": "",
-      "texto": "Assim diz o Senhor : “Logo que se cumprirem para a Babilônia setenta anos, atentarei para vocês e cumprirei a promessa que fiz a vocês, trazendo-os de volta a este lugar."
-    },
-    "11": {
-      "título": "",
-      "texto": "Eu é que sei que pensamentos tenho a respeito de vocês”, diz o Senhor . “São pensamentos de paz e não de mal, para dar-lhes um futuro e uma esperança."
-    },
-    "12": {
-      "título": "",
-      "texto": "Então vocês me invocarão, se aproximarão de mim em oração, e eu os ouvirei."
-    },
-    "13": {
-      "título": "",
-      "texto": "Vocês me buscarão e me acharão quando me buscarem de todo o coração."
-    },
-    "14": {
-      "título": "",
-      "texto": "Serei achado por vocês”, diz o Senhor , “e farei com que mude a sorte de vocês. Eu os congregarei de todas as nações e de todos os lugares para onde os dispersei”, diz o Senhor , “e trarei vocês de volta ao lugar de onde os mandei para o exílio.”"
-    },
-    "15": {
-      "título": "",
-      "texto": "Vocês dizem: “O Senhor nos suscitou profetas na Babilônia.”"
-    },
-    "16": {
-      "título": "",
-      "texto": "Mas assim diz o Senhor a respeito do rei que se assenta no trono de Davi e de todo o povo que vive nesta cidade, os irmãos de vocês que não foram com vocês para o exílio."
-    },
-    "17": {
-      "título": "",
-      "texto": "Assim diz o Senhor dos Exércitos: “Eis que enviarei contra eles a espada, a fome e a peste e farei com que sejam como figos ruins, que são tão ruins que não se podem comer."
-    },
-    "18": {
-      "título": "",
-      "texto": "Eu os perseguirei com a espada, a fome e a peste. Farei deles um motivo de espanto para todos os reinos da terra e os porei por objeto de maldição, de horror, de vaias e de deboche entre todas as nações para onde os tiver dispersado."
-    },
-    "19": {
-      "título": "",
-      "texto": "Porque eles não deram ouvidos às minhas palavras”, diz o Senhor , “que sempre de novo lhes enviei por meio dos meus servos, os profetas. E vocês também não quiseram ouvir”, diz o Senhor ."
-    },
-    "20": {
-      "título": "",
-      "texto": "“Portanto, escutem a palavra do Senhor , todos vocês exilados, que enviei de Jerusalém para a Babilônia.”"
-    },
-    "21": {
-      "título": "",
-      "texto": "Assim diz o Senhor dos Exércitos, o Deus de Israel, a respeito de Acabe, filho de Colaías, e de Zedequias, filho de Maaseias, que estão no meio de vocês e profetizam mentiras em meu nome: “Eis que os entregarei nas mãos de Nabucodonosor, rei da Babilônia, e ele os matará diante dos olhos de vocês."
-    },
-    "22": {
-      "título": "",
-      "texto": "Daí surgirá nova espécie de maldição entre os exilados de Judá que estão na Babilônia: ‘Que o Senhor faça com você o que fez com Zedequias e Acabe, os quais o rei da Babilônia assou no fogo!’"
-    },
-    "23": {
-      "título": "",
-      "texto": "Isso porque fizeram loucura em Israel, cometeram adultério com as mulheres de seus companheiros e anunciaram falsamente em meu nome palavras que não lhes mandei dizer. Eu o sei e sou testemunha disso”, diz o Senhor ."
-    },
-    "24": {
-      "título": "O falso profeta Semaías",
-      "texto": "— A Semaías, de Neelão, diga que"
-    },
-    "25": {
-      "título": "",
-      "texto": "assim diz o Senhor dos Exércitos, o Deus de Israel:"
-    },
-    "26": {
-      "título": "",
-      "texto": "“O Senhor o constituiu sacerdote em lugar do sacerdote Joiada, para que, na Casa do Senhor , você se encarregue de todo louco que quer passar por profeta, para lançá-lo na prisão e prendê-lo no tronco."
-    },
-    "27": {
-      "título": "",
-      "texto": "Então, por que você não repreendeu Jeremias, de Anatote, que profetiza no meio de vocês?"
-    },
-    "28": {
-      "título": "",
-      "texto": "Pois nos enviou mensageiros à Babilônia para nos dizer: ‘O exílio vai ser longo! Construam casas e morem nelas; plantem pomares e comam o seu fruto.’”"
-    },
-    "29": {
-      "título": "",
-      "texto": "O sacerdote Sofonias leu esta carta em voz alta para o profeta Jeremias."
-    },
-    "30": {
-      "título": "",
-      "texto": "Então veio a palavra do Senhor a Jeremias, dizendo:"
-    },
-    "31": {
-      "título": "",
-      "texto": "— Mande dizer a todos os exilados: “Assim diz o Senhor a respeito de Semaías, de Neelão: Visto que Semaías profetizou a vocês sem que eu o tenha enviado e fez com que vocês confiassem em mentiras,"
-    },
-    "32": {
-      "título": "",
-      "texto": "assim diz o Senhor : Eis que castigarei Semaías, de Neelão, e a sua descendência. Ele não terá ninguém que habite entre este povo e não verá o bem que hei de fazer ao meu povo, diz o Senhor , porque pregou rebeldia contra o Senhor .”"
+    "versiculos": {
+        "1": "São estas as palavras da carta que o profeta Jeremias enviou de Jerusalém ao resto dos anciãos do cativeiro, aos sacerdotes, aos profetas e a todo o povo que Nabucodonosor havia deportado de Jerusalém para a Babilônia.",
+        "2": "Isso aconteceu depois que saíram de Jerusalém o rei Jeconias, a rainha-mãe, os oficiais, as autoridades de Judá e Jerusalém e os carpinteiros e ferreiros.",
+        "3": "A carta foi levada por Elasa, filho de Safã, e por Gemarias, filho de Hilquias, os quais Zedequias, rei de Judá, tinha enviado à Babilônia, a Nabucodonosor, rei da Babilônia. Ela dizia o seguinte:",
+        "4": "Assim diz o Senhor dos Exércitos, o Deus de Israel, a todos os exilados que eu deportei de Jerusalém para a Babilônia:",
+        "5": "“Construam casas e morem nelas; plantem pomares e comam o seu fruto.",
+        "6": "Casem e tenham filhos e filhas; escolham esposas para os filhos de vocês e deem as suas filhas em casamento, para que tenham filhos e filhas. Aumentem em número e não diminuam aí na Babilônia!",
+        "7": "Procurem a paz da cidade para onde eu os deportei e orem por ela ao Senhor ; porque na sua paz vocês terão paz.",
+        "8": "Porque assim diz o Senhor dos Exércitos, o Deus de Israel: Não se deixem enganar pelos profetas e adivinhos que vivem no meio de vocês. Não deem ouvidos aos sonhadores, que sempre sonham segundo o desejo de vocês.",
+        "9": "Porque eles profetizam falsamente em meu nome; eu não os enviei”, diz o Senhor .",
+        "10": "Assim diz o Senhor : “Logo que se cumprirem para a Babilônia setenta anos, atentarei para vocês e cumprirei a promessa que fiz a vocês, trazendo-os de volta a este lugar.",
+        "11": "Eu é que sei que pensamentos tenho a respeito de vocês”, diz o Senhor . “São pensamentos de paz e não de mal, para dar-lhes um futuro e uma esperança.",
+        "12": "Então vocês me invocarão, se aproximarão de mim em oração, e eu os ouvirei.",
+        "13": "Vocês me buscarão e me acharão quando me buscarem de todo o coração.",
+        "14": "Serei achado por vocês”, diz o Senhor , “e farei com que mude a sorte de vocês. Eu os congregarei de todas as nações e de todos os lugares para onde os dispersei”, diz o Senhor , “e trarei vocês de volta ao lugar de onde os mandei para o exílio.”",
+        "15": "Vocês dizem: “O Senhor nos suscitou profetas na Babilônia.”",
+        "16": "Mas assim diz o Senhor a respeito do rei que se assenta no trono de Davi e de todo o povo que vive nesta cidade, os irmãos de vocês que não foram com vocês para o exílio.",
+        "17": "Assim diz o Senhor dos Exércitos: “Eis que enviarei contra eles a espada, a fome e a peste e farei com que sejam como figos ruins, que são tão ruins que não se podem comer.",
+        "18": "Eu os perseguirei com a espada, a fome e a peste. Farei deles um motivo de espanto para todos os reinos da terra e os porei por objeto de maldição, de horror, de vaias e de deboche entre todas as nações para onde os tiver dispersado.",
+        "19": "Porque eles não deram ouvidos às minhas palavras”, diz o Senhor , “que sempre de novo lhes enviei por meio dos meus servos, os profetas. E vocês também não quiseram ouvir”, diz o Senhor .",
+        "20": "“Portanto, escutem a palavra do Senhor , todos vocês exilados, que enviei de Jerusalém para a Babilônia.”",
+        "21": "Assim diz o Senhor dos Exércitos, o Deus de Israel, a respeito de Acabe, filho de Colaías, e de Zedequias, filho de Maaseias, que estão no meio de vocês e profetizam mentiras em meu nome: “Eis que os entregarei nas mãos de Nabucodonosor, rei da Babilônia, e ele os matará diante dos olhos de vocês.",
+        "22": "Daí surgirá nova espécie de maldição entre os exilados de Judá que estão na Babilônia: ‘Que o Senhor faça com você o que fez com Zedequias e Acabe, os quais o rei da Babilônia assou no fogo!’",
+        "23": "Isso porque fizeram loucura em Israel, cometeram adultério com as mulheres de seus companheiros e anunciaram falsamente em meu nome palavras que não lhes mandei dizer. Eu o sei e sou testemunha disso”, diz o Senhor .",
+        "24": "— A Semaías, de Neelão, diga que",
+        "25": "assim diz o Senhor dos Exércitos, o Deus de Israel:",
+        "26": "“O Senhor o constituiu sacerdote em lugar do sacerdote Joiada, para que, na Casa do Senhor , você se encarregue de todo louco que quer passar por profeta, para lançá-lo na prisão e prendê-lo no tronco.",
+        "27": "Então, por que você não repreendeu Jeremias, de Anatote, que profetiza no meio de vocês?",
+        "28": "Pois nos enviou mensageiros à Babilônia para nos dizer: ‘O exílio vai ser longo! Construam casas e morem nelas; plantem pomares e comam o seu fruto.’”",
+        "29": "O sacerdote Sofonias leu esta carta em voz alta para o profeta Jeremias.",
+        "30": "Então veio a palavra do Senhor a Jeremias, dizendo:",
+        "31": "— Mande dizer a todos os exilados: “Assim diz o Senhor a respeito de Semaías, de Neelão: Visto que Semaías profetizou a vocês sem que eu o tenha enviado e fez com que vocês confiassem em mentiras,",
+        "32": "assim diz o Senhor : Eis que castigarei Semaías, de Neelão, e a sua descendência. Ele não terá ninguém que habite entre este povo e não verá o bem que hei de fazer ao meu povo, diz o Senhor , porque pregou rebeldia contra o Senhor .”"
     }
-  }
 }

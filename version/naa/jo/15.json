@@ -1,146 +1,45 @@
 {
-  "livro": "Jó",
-  "capítulo": 15,
-  "versículos": {
-    "1": {
-      "título": "A sua própria boca o condena",
-      "texto": "Então Elifaz, o temanita, tomou a palavra e disse:"
+    "livro": "Jó",
+    "capitulo": 15,
+    "titulos": {
+        "1": "A sua própria boca o condena",
+        "17": "O ímpio é atormentado todos os dias"
     },
-    "2": {
-      "título": "",
-      "texto": "“Será que um sábio"
-    },
-    "3": {
-      "título": "",
-      "texto": "Argumentaria com palavras"
-    },
-    "4": {
-      "título": "",
-      "texto": "Mas você destrói"
-    },
-    "5": {
-      "título": "",
-      "texto": "Pois o que você fala"
-    },
-    "6": {
-      "título": "",
-      "texto": "A sua própria boca o condena,"
-    },
-    "7": {
-      "título": "",
-      "texto": "“Será que você é"
-    },
-    "8": {
-      "título": "",
-      "texto": "Será que você ouviu"
-    },
-    "9": {
-      "título": "",
-      "texto": "O que você sabe,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Também há entre nós"
-    },
-    "11": {
-      "título": "",
-      "texto": "“Você faz pouco caso"
-    },
-    "12": {
-      "título": "",
-      "texto": "Por que você se deixa levar"
-    },
-    "13": {
-      "título": "",
-      "texto": "para que você dirija"
-    },
-    "14": {
-      "título": "",
-      "texto": "“Que é o homem,"
-    },
-    "15": {
-      "título": "",
-      "texto": "Eis que Deus não confia"
-    },
-    "16": {
-      "título": "",
-      "texto": "quanto menos o homem,"
-    },
-    "17": {
-      "título": "O ímpio é atormentado todos os dias",
-      "texto": "“Escute o que eu vou explicar;"
-    },
-    "18": {
-      "título": "",
-      "texto": "o que os sábios anunciaram,"
-    },
-    "19": {
-      "título": "",
-      "texto": "aos quais somente foi dada"
-    },
-    "20": {
-      "título": "",
-      "texto": "“O ímpio é atormentado"
-    },
-    "21": {
-      "título": "",
-      "texto": "O som dos horrores"
-    },
-    "22": {
-      "título": "",
-      "texto": "Não crê que possa escapar"
-    },
-    "23": {
-      "título": "",
-      "texto": "Anda vagando, em busca de pão,"
-    },
-    "24": {
-      "título": "",
-      "texto": "A angústia e a tribulação"
-    },
-    "25": {
-      "título": "",
-      "texto": "Porque ele levantou a mão"
-    },
-    "26": {
-      "título": "",
-      "texto": "arremete contra ele"
-    },
-    "27": {
-      "título": "",
-      "texto": "Porque cobriu o rosto"
-    },
-    "28": {
-      "título": "",
-      "texto": "morou em cidades assoladas,"
-    },
-    "29": {
-      "título": "",
-      "texto": "Por isso, não ficará rico,"
-    },
-    "30": {
-      "título": "",
-      "texto": "Não escapará das trevas;"
-    },
-    "31": {
-      "título": "",
-      "texto": "Que ele não confie na vaidade,"
-    },
-    "32": {
-      "título": "",
-      "texto": "Esta lhe chegará antes da hora,"
-    },
-    "33": {
-      "título": "",
-      "texto": "Será como a videira"
-    },
-    "34": {
-      "título": "",
-      "texto": "Porque a companhia dos ímpios"
-    },
-    "35": {
-      "título": "",
-      "texto": "Concebem o mal"
+    "versiculos": {
+        "1": "Então Elifaz, o temanita, tomou a palavra e disse:",
+        "2": "“Será que um sábio",
+        "3": "Argumentaria com palavras",
+        "4": "Mas você destrói",
+        "5": "Pois o que você fala",
+        "6": "A sua própria boca o condena,",
+        "7": "“Será que você é",
+        "8": "Será que você ouviu",
+        "9": "O que você sabe,",
+        "10": "Também há entre nós",
+        "11": "“Você faz pouco caso",
+        "12": "Por que você se deixa levar",
+        "13": "para que você dirija",
+        "14": "“Que é o homem,",
+        "15": "Eis que Deus não confia",
+        "16": "quanto menos o homem,",
+        "17": "“Escute o que eu vou explicar;",
+        "18": "o que os sábios anunciaram,",
+        "19": "aos quais somente foi dada",
+        "20": "“O ímpio é atormentado",
+        "21": "O som dos horrores",
+        "22": "Não crê que possa escapar",
+        "23": "Anda vagando, em busca de pão,",
+        "24": "A angústia e a tribulação",
+        "25": "Porque ele levantou a mão",
+        "26": "arremete contra ele",
+        "27": "Porque cobriu o rosto",
+        "28": "morou em cidades assoladas,",
+        "29": "Por isso, não ficará rico,",
+        "30": "Não escapará das trevas;",
+        "31": "Que ele não confie na vaidade,",
+        "32": "Esta lhe chegará antes da hora,",
+        "33": "Será como a videira",
+        "34": "Porque a companhia dos ímpios",
+        "35": "Concebem o mal"
     }
-  }
 }

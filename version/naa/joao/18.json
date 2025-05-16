@@ -1,166 +1,55 @@
 {
-  "livro": "João",
-  "capítulo": 18,
-  "versículos": {
-    "1": {
-      "título": "Jesus é preso",
-      "texto": "Depois de dizer isso, Jesus saiu juntamente com os seus discípulos para o outro lado do ribeiro de Cedrom, onde havia um jardim; e aí entrou com eles."
+    "livro": "João",
+    "capitulo": 18,
+    "titulos": {
+        "1": "Jesus é preso",
+        "12": "Jesus diante de Anás",
+        "15": "Pedro nega Jesus",
+        "19": "Anás interroga Jesus",
+        "25": "De novo, Pedro nega Jesus",
+        "28": "Jesus diante de Pilatos",
+        "39": "Jesus é condenado à morte"
     },
-    "2": {
-      "título": "",
-      "texto": "Judas, o traidor, também conhecia aquele lugar, porque Jesus muitas vezes havia se reunido ali com os seus discípulos."
-    },
-    "3": {
-      "título": "",
-      "texto": "Tendo, pois, Judas recebido a escolta e alguns guardas da parte dos principais sacerdotes e fariseus, chegou a esse lugar com lanternas, tochas e armas."
-    },
-    "4": {
-      "título": "",
-      "texto": "Então Jesus, sabendo de tudo o que ia acontecer com ele, adiantou-se e perguntou-lhes:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Eles responderam:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Quando Jesus lhes disse: “Sou eu”, recuaram e caíram por terra."
-    },
-    "7": {
-      "título": "",
-      "texto": "Jesus, de novo, lhes perguntou:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Então Jesus disse:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Ele disse isso para se cumprir a palavra que tinha dito anteriormente: “Não perdi nenhum dos que me deste.”"
-    },
-    "10": {
-      "título": "",
-      "texto": "Então Simão Pedro puxou da espada que trazia e feriu o servo do sumo sacerdote, cortando-lhe a orelha direita. E o nome do servo era Malco."
-    },
-    "11": {
-      "título": "",
-      "texto": "Mas Jesus disse a Pedro:"
-    },
-    "12": {
-      "título": "Jesus diante de Anás",
-      "texto": "Assim, a escolta, o comandante e os guardas dos judeus prenderam Jesus e o amarraram."
-    },
-    "13": {
-      "título": "",
-      "texto": "Então o levaram primeiramente a Anás, sogro de Caifás, sumo sacerdote naquele ano."
-    },
-    "14": {
-      "título": "",
-      "texto": "Ora, Caifás era quem havia declarado aos judeus ser conveniente morrer um homem pelo povo."
-    },
-    "15": {
-      "título": "Pedro nega Jesus",
-      "texto": "Simão Pedro e outro discípulo seguiam Jesus. Esse discípulo era conhecido do sumo sacerdote e, por isso, conseguiu entrar no pátio da casa deste com Jesus."
-    },
-    "16": {
-      "título": "",
-      "texto": "Pedro, porém, ficou de fora, junto à porta. O outro discípulo, que era conhecido do sumo sacerdote, saiu, falou com a encarregada da porta e levou Pedro para dentro."
-    },
-    "17": {
-      "título": "",
-      "texto": "Então a empregada, encarregada da porta, perguntou a Pedro:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Os servos e os guardas estavam ali, tendo acendido uma fogueira por causa do frio, e se aqueciam. Pedro estava no meio deles, aquecendo-se também."
-    },
-    "19": {
-      "título": "Anás interroga Jesus",
-      "texto": "Então o sumo sacerdote interrogou Jesus a respeito dos seus discípulos e da sua doutrina."
-    },
-    "20": {
-      "título": "",
-      "texto": "Jesus lhe respondeu:"
-    },
-    "21": {
-      "título": "",
-      "texto": "Por que o senhor está perguntando para mim? Pergunte aos que ouviram o que lhes falei. Eles sabem muito bem o que eu disse."
-    },
-    "22": {
-      "título": "",
-      "texto": "Quando Jesus disse isto, um dos guardas que estavam ali deu-lhe uma bofetada, dizendo:"
-    },
-    "23": {
-      "título": "",
-      "texto": "Jesus lhe respondeu:"
-    },
-    "24": {
-      "título": "",
-      "texto": "Então Anás o enviou, amarrado, à presença de Caifás, o sumo sacerdote."
-    },
-    "25": {
-      "título": "De novo, Pedro nega Jesus",
-      "texto": "Simão Pedro estava em pé, aquecendo-se. Então lhe perguntaram:"
-    },
-    "26": {
-      "título": "",
-      "texto": "Um dos servos do sumo sacerdote, parente daquele a quem Pedro tinha decepado a orelha, perguntou:"
-    },
-    "27": {
-      "título": "",
-      "texto": "De novo, Pedro negou. E no mesmo instante o galo cantou."
-    },
-    "28": {
-      "título": "Jesus diante de Pilatos",
-      "texto": "Depois, levaram Jesus da casa de Caifás para o Pretório. Era cedo de manhã. Eles não entraram no Pretório para não se contaminar, pois somente assim poderiam comer a Páscoa."
-    },
-    "29": {
-      "título": "",
-      "texto": "Então Pilatos saiu para falar com eles e perguntou:"
-    },
-    "30": {
-      "título": "",
-      "texto": "Eles responderam:"
-    },
-    "31": {
-      "título": "",
-      "texto": "Então Pilatos disse:"
-    },
-    "32": {
-      "título": "",
-      "texto": "Isso aconteceu para que se cumprisse a palavra de Jesus, significando com que tipo de morte estava para morrer."
-    },
-    "33": {
-      "título": "",
-      "texto": "Pilatos entrou novamente no Pretório, chamou Jesus e lhe perguntou:"
-    },
-    "34": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "35": {
-      "título": "",
-      "texto": "Pilatos respondeu:"
-    },
-    "36": {
-      "título": "",
-      "texto": "Jesus respondeu:"
-    },
-    "37": {
-      "título": "",
-      "texto": "Pilatos perguntou:"
-    },
-    "38": {
-      "título": "",
-      "texto": "Pilatos perguntou:"
-    },
-    "39": {
-      "título": "Jesus é condenado à morte",
-      "texto": "Mas é costume entre vocês que eu solte alguém por ocasião da Páscoa. Vocês querem que eu lhes solte o rei dos judeus?"
-    },
-    "40": {
-      "título": "",
-      "texto": "Então todos gritaram, novamente:"
+    "versiculos": {
+        "1": "Depois de dizer isso, Jesus saiu juntamente com os seus discípulos para o outro lado do ribeiro de Cedrom, onde havia um jardim; e aí entrou com eles.",
+        "2": "Judas, o traidor, também conhecia aquele lugar, porque Jesus muitas vezes havia se reunido ali com os seus discípulos.",
+        "3": "Tendo, pois, Judas recebido a escolta e alguns guardas da parte dos principais sacerdotes e fariseus, chegou a esse lugar com lanternas, tochas e armas.",
+        "4": "Então Jesus, sabendo de tudo o que ia acontecer com ele, adiantou-se e perguntou-lhes:",
+        "5": "Eles responderam:",
+        "6": "Quando Jesus lhes disse: “Sou eu”, recuaram e caíram por terra.",
+        "7": "Jesus, de novo, lhes perguntou:",
+        "8": "Então Jesus disse:",
+        "9": "Ele disse isso para se cumprir a palavra que tinha dito anteriormente: “Não perdi nenhum dos que me deste.”",
+        "10": "Então Simão Pedro puxou da espada que trazia e feriu o servo do sumo sacerdote, cortando-lhe a orelha direita. E o nome do servo era Malco.",
+        "11": "Mas Jesus disse a Pedro:",
+        "12": "Assim, a escolta, o comandante e os guardas dos judeus prenderam Jesus e o amarraram.",
+        "13": "Então o levaram primeiramente a Anás, sogro de Caifás, sumo sacerdote naquele ano.",
+        "14": "Ora, Caifás era quem havia declarado aos judeus ser conveniente morrer um homem pelo povo.",
+        "15": "Simão Pedro e outro discípulo seguiam Jesus. Esse discípulo era conhecido do sumo sacerdote e, por isso, conseguiu entrar no pátio da casa deste com Jesus.",
+        "16": "Pedro, porém, ficou de fora, junto à porta. O outro discípulo, que era conhecido do sumo sacerdote, saiu, falou com a encarregada da porta e levou Pedro para dentro.",
+        "17": "Então a empregada, encarregada da porta, perguntou a Pedro:",
+        "18": "Os servos e os guardas estavam ali, tendo acendido uma fogueira por causa do frio, e se aqueciam. Pedro estava no meio deles, aquecendo-se também.",
+        "19": "Então o sumo sacerdote interrogou Jesus a respeito dos seus discípulos e da sua doutrina.",
+        "20": "Jesus lhe respondeu:",
+        "21": "Por que o senhor está perguntando para mim? Pergunte aos que ouviram o que lhes falei. Eles sabem muito bem o que eu disse.",
+        "22": "Quando Jesus disse isto, um dos guardas que estavam ali deu-lhe uma bofetada, dizendo:",
+        "23": "Jesus lhe respondeu:",
+        "24": "Então Anás o enviou, amarrado, à presença de Caifás, o sumo sacerdote.",
+        "25": "Simão Pedro estava em pé, aquecendo-se. Então lhe perguntaram:",
+        "26": "Um dos servos do sumo sacerdote, parente daquele a quem Pedro tinha decepado a orelha, perguntou:",
+        "27": "De novo, Pedro negou. E no mesmo instante o galo cantou.",
+        "28": "Depois, levaram Jesus da casa de Caifás para o Pretório. Era cedo de manhã. Eles não entraram no Pretório para não se contaminar, pois somente assim poderiam comer a Páscoa.",
+        "29": "Então Pilatos saiu para falar com eles e perguntou:",
+        "30": "Eles responderam:",
+        "31": "Então Pilatos disse:",
+        "32": "Isso aconteceu para que se cumprisse a palavra de Jesus, significando com que tipo de morte estava para morrer.",
+        "33": "Pilatos entrou novamente no Pretório, chamou Jesus e lhe perguntou:",
+        "34": "Jesus respondeu:",
+        "35": "Pilatos respondeu:",
+        "36": "Jesus respondeu:",
+        "37": "Pilatos perguntou:",
+        "38": "Pilatos perguntou:",
+        "39": "Mas é costume entre vocês que eu solte alguém por ocasião da Páscoa. Vocês querem que eu lhes solte o rei dos judeus?",
+        "40": "Então todos gritaram, novamente:"
     }
-  }
 }

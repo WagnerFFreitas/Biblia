@@ -1,218 +1,64 @@
 {
-  "livro": "1 Reis",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "A velhice de Davi",
-      "texto": "Quando o rei Davi já estava bem velho, envolviam-no com roupas, mas ele não se aquecia."
+    "livro": "1 Reis",
+    "capitulo": 1,
+    "titulos": {
+        "1": "A velhice de Davi",
+        "5": "Adonias tenta ser rei",
+        "11": "Salomão é proclamado rei"
     },
-    "2": {
-      "título": "",
-      "texto": "Então os seus servos lhe disseram:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Então procuraram em todo o território de Israel uma jovem formosa. Acharam Abisague, sunamita, e a levaram ao rei."
-    },
-    "4": {
-      "título": "",
-      "texto": "A jovem era muito bonita. Cuidava do rei e o servia, mas o rei não teve relações com ela."
-    },
-    "5": {
-      "título": "Adonias tenta ser rei",
-      "texto": "Então Adonias, filho de Hagite, se exaltou e disse:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Seu pai jamais o tinha contrariado, dizendo: “Por que você fez isso ou aquilo?” Adonias tinha boa aparência e era mais jovem do que Absalão."
-    },
-    "7": {
-      "título": "",
-      "texto": "Ele tinha feito um acordo com Joabe, filho de Zeruia, e com Abiatar, o sacerdote, que o seguiam e apoiavam."
-    },
-    "8": {
-      "título": "",
-      "texto": "Porém Zadoque, o sacerdote, Benaia, filho de Joiada, Natã, o profeta, Simei, Reí e os valentes de Davi não apoiavam Adonias."
-    },
-    "9": {
-      "título": "",
-      "texto": "Certo dia Adonias sacrificou ovelhas, bois e bezerros gordos junto à pedra de Zoelete, que está perto de En-Rogel. Convidou todos os seus irmãos, os filhos do rei, e todos os homens de Judá que estavam a serviço do rei,"
-    },
-    "10": {
-      "título": "",
-      "texto": "porém não convidou Natã, o profeta, nem Benaia, nem os valentes, nem Salomão, seu irmão."
-    },
-    "11": {
-      "título": "Salomão é proclamado rei",
-      "texto": "Então Natã disse a Bate-Seba, mãe de Salomão:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Agora permita que eu lhe dê um conselho, para que você salve a sua vida e a vida do seu filho Salomão."
-    },
-    "13": {
-      "título": "",
-      "texto": "Vá, apresente-se ao rei Davi e diga: “Ó rei, meu senhor, não é verdade que você jurou a esta sua serva, dizendo: ‘O seu filho Salomão reinará depois de mim e ele se assentará no meu trono?’ Por que, então, Adonias se tornou rei?”"
-    },
-    "14": {
-      "título": "",
-      "texto": "— Eis que, enquanto você ainda estiver falando com o rei, eu também entrarei depois de você e confirmarei as suas palavras."
-    },
-    "15": {
-      "título": "",
-      "texto": "Assim, Bate-Seba entrou no quarto do rei para falar com ele. O rei já era bem velho, e Abisague, a sunamita, o servia."
-    },
-    "16": {
-      "título": "",
-      "texto": "Bate-Seba inclinou a cabeça e prostrou-se diante do rei, que perguntou:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Ela respondeu:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Mas agora Adonias se proclamou rei, e você, ó rei, meu senhor, não sabe disso."
-    },
-    "19": {
-      "título": "",
-      "texto": "Ele sacrificou bois, bezerros gordos e ovelhas em abundância. Convidou todos os filhos do rei, Abiatar, o sacerdote, e Joabe, comandante do exército, mas não convidou o seu servo Salomão."
-    },
-    "20": {
-      "título": "",
-      "texto": "Porém, ó rei, meu senhor, todo o Israel tem os olhos em você, para que o rei diga quem se assentará no trono do rei, meu senhor, depois dele."
-    },
-    "21": {
-      "título": "",
-      "texto": "Do contrário, sucederá que, quando o rei, meu senhor, morrer, eu e o meu filho Salomão seremos tidos por culpados."
-    },
-    "22": {
-      "título": "",
-      "texto": "Enquanto Bate-Seba ainda falava com o rei, eis que o profeta Natã entrou."
-    },
-    "23": {
-      "título": "",
-      "texto": "E anunciaram isso ao rei, dizendo:"
-    },
-    "24": {
-      "título": "",
-      "texto": "Natã perguntou:"
-    },
-    "25": {
-      "título": "",
-      "texto": "Porque hoje ele foi sacrificar bois, bezerros gordos e ovelhas em abundância. Convidou todos os filhos do rei, os chefes do exército e Abiatar, o sacerdote. E eis que estão comendo e bebendo com ele e gritando: “Viva o rei Adonias!”"
-    },
-    "26": {
-      "título": "",
-      "texto": "Porém não convidou a mim, que sou servo do rei, nem Zadoque, o sacerdote, nem Benaia, filho de Joiada, nem Salomão, que é servo do meu senhor."
-    },
-    "27": {
-      "título": "",
-      "texto": "Será que isso teria sido feito por ordem do rei, meu senhor? E o senhor não contou nem a este seu servo quem se assentaria no seu trono, depois do senhor!"
-    },
-    "28": {
-      "título": "",
-      "texto": "O rei Davi respondeu:"
-    },
-    "29": {
-      "título": "",
-      "texto": "Então o rei jurou, dizendo:"
-    },
-    "30": {
-      "título": "",
-      "texto": "farei no dia de hoje como jurei a você pelo Senhor , Deus de Israel, dizendo: “O seu filho Salomão reinará depois de mim e se assentará no meu trono, em meu lugar.”"
-    },
-    "31": {
-      "título": "",
-      "texto": "Então Bate-Seba se inclinou, prostrou-se com o rosto em terra diante do rei e disse:"
-    },
-    "32": {
-      "título": "",
-      "texto": "O rei Davi disse:"
-    },
-    "33": {
-      "título": "",
-      "texto": "Então o rei disse:"
-    },
-    "34": {
-      "título": "",
-      "texto": "Ali Zadoque, o sacerdote, com Natã, o profeta, o ungirão rei sobre Israel. Então toquem a trombeta e digam: “Viva o rei Salomão!”"
-    },
-    "35": {
-      "título": "",
-      "texto": "Depois venham subindo com ele, e ele virá e se assentará no meu trono, pois é ele quem reinará em meu lugar. Porque ordenei que ele seja chefe sobre Israel e sobre Judá."
-    },
-    "36": {
-      "título": "",
-      "texto": "Então Benaia, filho de Joiada, respondeu ao rei:"
-    },
-    "37": {
-      "título": "",
-      "texto": "Como o Senhor Deus tem estado com o rei, meu senhor, assim esteja com Salomão e faça com que o trono dele seja maior do que o trono do rei Davi, meu senhor."
-    },
-    "38": {
-      "título": "",
-      "texto": "Então Zadoque, o sacerdote, Natã, o profeta, Benaia, filho de Joiada, e a guarda real fizeram Salomão montar na mula que era do rei Davi e o levaram a Giom."
-    },
-    "39": {
-      "título": "",
-      "texto": "Zadoque, o sacerdote, levou o chifre do azeite que estava no tabernáculo e ungiu Salomão. Tocaram a trombeta, e todo o povo gritou:"
-    },
-    "40": {
-      "título": "",
-      "texto": "Todo o povo vinha subindo atrás de Salomão, tocando flautas e gritando de alegria. O barulho era tanto, que parecia que a terra estava se fendendo."
-    },
-    "41": {
-      "título": "",
-      "texto": "Adonias e todos os convidados que estavam com ele ouviram isso, quando acabavam de comer. Também Joabe ouviu o som da trombeta e perguntou:"
-    },
-    "42": {
-      "título": "",
-      "texto": "Enquanto ele falava, eis que chegou Jônatas, filho de Abiatar, o sacerdote. Adonias disse a Jônatas:"
-    },
-    "43": {
-      "título": "",
-      "texto": "Mas Jônatas respondeu a Adonias:"
-    },
-    "44": {
-      "título": "",
-      "texto": "E Davi enviou com ele Zadoque, o sacerdote, Natã, o profeta, Benaia, filho de Joiada, e os da guarda real; e eles fizeram Salomão montar na mula que era do rei."
-    },
-    "45": {
-      "título": "",
-      "texto": "Zadoque, o sacerdote, e Natã, o profeta, o ungiram rei em Giom. Eles voltaram de lá, cheios de alegria, e a cidade se alvoroçou. É esse o barulho que você ouviu."
-    },
-    "46": {
-      "título": "",
-      "texto": "Também Salomão já está sentado no trono do reino."
-    },
-    "47": {
-      "título": "",
-      "texto": "Além disso, os oficiais do rei foram cumprimentar Davi e disseram: “Que o seu Deus faça com que o nome de Salomão seja mais célebre do que o seu nome, e faça com que o trono dele seja maior do que o seu trono.” E o rei se inclinou sobre o leito."
-    },
-    "48": {
-      "título": "",
-      "texto": "O rei também disse o seguinte: “Bendito seja o Senhor , Deus de Israel, que deu hoje quem se assente no meu trono, e permitiu que eu o visse com os meus próprios olhos.”"
-    },
-    "49": {
-      "título": "",
-      "texto": "Então todos os convidados que estavam com Adonias começaram a tremer, se levantaram e foram embora, cada um pelo seu caminho."
-    },
-    "50": {
-      "título": "",
-      "texto": "Porém Adonias, temendo Salomão, levantou-se, foi e pegou nas pontas do altar."
-    },
-    "51": {
-      "título": "",
-      "texto": "Então alguém foi dizer a Salomão:"
-    },
-    "52": {
-      "título": "",
-      "texto": "Salomão respondeu:"
-    },
-    "53": {
-      "título": "",
-      "texto": "Então o rei Salomão enviou mensageiros, e o fizeram descer do altar. Adonias veio e se prostrou diante do rei Salomão, que lhe disse:"
+    "versiculos": {
+        "1": "Quando o rei Davi já estava bem velho, envolviam-no com roupas, mas ele não se aquecia.",
+        "2": "Então os seus servos lhe disseram:",
+        "3": "Então procuraram em todo o território de Israel uma jovem formosa. Acharam Abisague, sunamita, e a levaram ao rei.",
+        "4": "A jovem era muito bonita. Cuidava do rei e o servia, mas o rei não teve relações com ela.",
+        "5": "Então Adonias, filho de Hagite, se exaltou e disse:",
+        "6": "Seu pai jamais o tinha contrariado, dizendo: “Por que você fez isso ou aquilo?” Adonias tinha boa aparência e era mais jovem do que Absalão.",
+        "7": "Ele tinha feito um acordo com Joabe, filho de Zeruia, e com Abiatar, o sacerdote, que o seguiam e apoiavam.",
+        "8": "Porém Zadoque, o sacerdote, Benaia, filho de Joiada, Natã, o profeta, Simei, Reí e os valentes de Davi não apoiavam Adonias.",
+        "9": "Certo dia Adonias sacrificou ovelhas, bois e bezerros gordos junto à pedra de Zoelete, que está perto de En-Rogel. Convidou todos os seus irmãos, os filhos do rei, e todos os homens de Judá que estavam a serviço do rei,",
+        "10": "porém não convidou Natã, o profeta, nem Benaia, nem os valentes, nem Salomão, seu irmão.",
+        "11": "Então Natã disse a Bate-Seba, mãe de Salomão:",
+        "12": "Agora permita que eu lhe dê um conselho, para que você salve a sua vida e a vida do seu filho Salomão.",
+        "13": "Vá, apresente-se ao rei Davi e diga: “Ó rei, meu senhor, não é verdade que você jurou a esta sua serva, dizendo: ‘O seu filho Salomão reinará depois de mim e ele se assentará no meu trono?’ Por que, então, Adonias se tornou rei?”",
+        "14": "— Eis que, enquanto você ainda estiver falando com o rei, eu também entrarei depois de você e confirmarei as suas palavras.",
+        "15": "Assim, Bate-Seba entrou no quarto do rei para falar com ele. O rei já era bem velho, e Abisague, a sunamita, o servia.",
+        "16": "Bate-Seba inclinou a cabeça e prostrou-se diante do rei, que perguntou:",
+        "17": "Ela respondeu:",
+        "18": "Mas agora Adonias se proclamou rei, e você, ó rei, meu senhor, não sabe disso.",
+        "19": "Ele sacrificou bois, bezerros gordos e ovelhas em abundância. Convidou todos os filhos do rei, Abiatar, o sacerdote, e Joabe, comandante do exército, mas não convidou o seu servo Salomão.",
+        "20": "Porém, ó rei, meu senhor, todo o Israel tem os olhos em você, para que o rei diga quem se assentará no trono do rei, meu senhor, depois dele.",
+        "21": "Do contrário, sucederá que, quando o rei, meu senhor, morrer, eu e o meu filho Salomão seremos tidos por culpados.",
+        "22": "Enquanto Bate-Seba ainda falava com o rei, eis que o profeta Natã entrou.",
+        "23": "E anunciaram isso ao rei, dizendo:",
+        "24": "Natã perguntou:",
+        "25": "Porque hoje ele foi sacrificar bois, bezerros gordos e ovelhas em abundância. Convidou todos os filhos do rei, os chefes do exército e Abiatar, o sacerdote. E eis que estão comendo e bebendo com ele e gritando: “Viva o rei Adonias!”",
+        "26": "Porém não convidou a mim, que sou servo do rei, nem Zadoque, o sacerdote, nem Benaia, filho de Joiada, nem Salomão, que é servo do meu senhor.",
+        "27": "Será que isso teria sido feito por ordem do rei, meu senhor? E o senhor não contou nem a este seu servo quem se assentaria no seu trono, depois do senhor!",
+        "28": "O rei Davi respondeu:",
+        "29": "Então o rei jurou, dizendo:",
+        "30": "farei no dia de hoje como jurei a você pelo Senhor , Deus de Israel, dizendo: “O seu filho Salomão reinará depois de mim e se assentará no meu trono, em meu lugar.”",
+        "31": "Então Bate-Seba se inclinou, prostrou-se com o rosto em terra diante do rei e disse:",
+        "32": "O rei Davi disse:",
+        "33": "Então o rei disse:",
+        "34": "Ali Zadoque, o sacerdote, com Natã, o profeta, o ungirão rei sobre Israel. Então toquem a trombeta e digam: “Viva o rei Salomão!”",
+        "35": "Depois venham subindo com ele, e ele virá e se assentará no meu trono, pois é ele quem reinará em meu lugar. Porque ordenei que ele seja chefe sobre Israel e sobre Judá.",
+        "36": "Então Benaia, filho de Joiada, respondeu ao rei:",
+        "37": "Como o Senhor Deus tem estado com o rei, meu senhor, assim esteja com Salomão e faça com que o trono dele seja maior do que o trono do rei Davi, meu senhor.",
+        "38": "Então Zadoque, o sacerdote, Natã, o profeta, Benaia, filho de Joiada, e a guarda real fizeram Salomão montar na mula que era do rei Davi e o levaram a Giom.",
+        "39": "Zadoque, o sacerdote, levou o chifre do azeite que estava no tabernáculo e ungiu Salomão. Tocaram a trombeta, e todo o povo gritou:",
+        "40": "Todo o povo vinha subindo atrás de Salomão, tocando flautas e gritando de alegria. O barulho era tanto, que parecia que a terra estava se fendendo.",
+        "41": "Adonias e todos os convidados que estavam com ele ouviram isso, quando acabavam de comer. Também Joabe ouviu o som da trombeta e perguntou:",
+        "42": "Enquanto ele falava, eis que chegou Jônatas, filho de Abiatar, o sacerdote. Adonias disse a Jônatas:",
+        "43": "Mas Jônatas respondeu a Adonias:",
+        "44": "E Davi enviou com ele Zadoque, o sacerdote, Natã, o profeta, Benaia, filho de Joiada, e os da guarda real; e eles fizeram Salomão montar na mula que era do rei.",
+        "45": "Zadoque, o sacerdote, e Natã, o profeta, o ungiram rei em Giom. Eles voltaram de lá, cheios de alegria, e a cidade se alvoroçou. É esse o barulho que você ouviu.",
+        "46": "Também Salomão já está sentado no trono do reino.",
+        "47": "Além disso, os oficiais do rei foram cumprimentar Davi e disseram: “Que o seu Deus faça com que o nome de Salomão seja mais célebre do que o seu nome, e faça com que o trono dele seja maior do que o seu trono.” E o rei se inclinou sobre o leito.",
+        "48": "O rei também disse o seguinte: “Bendito seja o Senhor , Deus de Israel, que deu hoje quem se assente no meu trono, e permitiu que eu o visse com os meus próprios olhos.”",
+        "49": "Então todos os convidados que estavam com Adonias começaram a tremer, se levantaram e foram embora, cada um pelo seu caminho.",
+        "50": "Porém Adonias, temendo Salomão, levantou-se, foi e pegou nas pontas do altar.",
+        "51": "Então alguém foi dizer a Salomão:",
+        "52": "Salomão respondeu:",
+        "53": "Então o rei Salomão enviou mensageiros, e o fizeram descer do altar. Adonias veio e se prostrou diante do rei Salomão, que lhe disse:"
     }
-  }
 }

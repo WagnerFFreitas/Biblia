@@ -1,146 +1,46 @@
 {
-  "livro": "Jó",
-  "capítulo": 9,
-  "versículos": {
-    "1": {
-      "título": "Quem ousa desafiar a Deus?",
-      "texto": "Então Jó respondeu:"
+    "livro": "Jó",
+    "capitulo": 9,
+    "titulos": {
+        "1": "Quem ousa desafiar a Deus?",
+        "14": "Sou justo e íntegro",
+        "25": "Deus não me considerará inocente"
     },
-    "2": {
-      "título": "",
-      "texto": "“Na verdade, sei que assim é;"
-    },
-    "3": {
-      "título": "",
-      "texto": "Se quiser discutir com ele,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Ele é sábio de coração"
-    },
-    "5": {
-      "título": "",
-      "texto": "Ele é quem remove os montes,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Deus remove a terra do seu lugar,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Ele dá uma ordem ao sol,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Sozinho ele estende os céus"
-    },
-    "9": {
-      "título": "",
-      "texto": "Ele fez a Ursa Maior, o Órion,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Deus faz coisas grandes"
-    },
-    "11": {
-      "título": "",
-      "texto": "Eis que ele passa por mim,"
-    },
-    "12": {
-      "título": "",
-      "texto": "Eis que arrebata a presa!"
-    },
-    "13": {
-      "título": "",
-      "texto": "Deus não revogará"
-    },
-    "14": {
-      "título": "Sou justo e íntegro",
-      "texto": "“Como então poderei"
-    },
-    "15": {
-      "título": "",
-      "texto": "Ainda que eu fosse justo,"
-    },
-    "16": {
-      "título": "",
-      "texto": "Ainda que eu o chamasse"
-    },
-    "17": {
-      "título": "",
-      "texto": "Porque me esmaga"
-    },
-    "18": {
-      "título": "",
-      "texto": "Não me permite respirar,"
-    },
-    "19": {
-      "título": "",
-      "texto": "Se é uma questão de força,"
-    },
-    "20": {
-      "título": "",
-      "texto": "Ainda que eu seja justo,"
-    },
-    "21": {
-      "título": "",
-      "texto": "Eu sou íntegro,"
-    },
-    "22": {
-      "título": "",
-      "texto": "Para mim, é tudo a mesma coisa;"
-    },
-    "23": {
-      "título": "",
-      "texto": "Se um flagelo mata de repente,"
-    },
-    "24": {
-      "título": "",
-      "texto": "A terra está entregue"
-    },
-    "25": {
-      "título": "Deus não me considerará inocente",
-      "texto": "“Os meus dias são mais velozes"
-    },
-    "26": {
-      "título": "",
-      "texto": "Passam como barcos de junco,"
-    },
-    "27": {
-      "título": "",
-      "texto": "Se eu disser: ‘Vou esquecer"
-    },
-    "28": {
-      "título": "",
-      "texto": "ainda assim"
-    },
-    "29": {
-      "título": "",
-      "texto": "Eu serei condenado;"
-    },
-    "30": {
-      "título": "",
-      "texto": "Ainda que me lave"
-    },
-    "31": {
-      "título": "",
-      "texto": "mesmo assim me submergirás"
-    },
-    "32": {
-      "título": "",
-      "texto": "Porque ele não é ser humano,"
-    },
-    "33": {
-      "título": "",
-      "texto": "Não há entre nós árbitro"
-    },
-    "34": {
-      "título": "",
-      "texto": "Que ele tire a sua vara"
-    },
-    "35": {
-      "título": "",
-      "texto": "Então falarei sem o temer;"
+    "versiculos": {
+        "1": "Então Jó respondeu:",
+        "2": "“Na verdade, sei que assim é;",
+        "3": "Se quiser discutir com ele,",
+        "4": "Ele é sábio de coração",
+        "5": "Ele é quem remove os montes,",
+        "6": "Deus remove a terra do seu lugar,",
+        "7": "Ele dá uma ordem ao sol,",
+        "8": "Sozinho ele estende os céus",
+        "9": "Ele fez a Ursa Maior, o Órion,",
+        "10": "Deus faz coisas grandes",
+        "11": "Eis que ele passa por mim,",
+        "12": "Eis que arrebata a presa!",
+        "13": "Deus não revogará",
+        "14": "“Como então poderei",
+        "15": "Ainda que eu fosse justo,",
+        "16": "Ainda que eu o chamasse",
+        "17": "Porque me esmaga",
+        "18": "Não me permite respirar,",
+        "19": "Se é uma questão de força,",
+        "20": "Ainda que eu seja justo,",
+        "21": "Eu sou íntegro,",
+        "22": "Para mim, é tudo a mesma coisa;",
+        "23": "Se um flagelo mata de repente,",
+        "24": "A terra está entregue",
+        "25": "“Os meus dias são mais velozes",
+        "26": "Passam como barcos de junco,",
+        "27": "Se eu disser: ‘Vou esquecer",
+        "28": "ainda assim",
+        "29": "Eu serei condenado;",
+        "30": "Ainda que me lave",
+        "31": "mesmo assim me submergirás",
+        "32": "Porque ele não é ser humano,",
+        "33": "Não há entre nós árbitro",
+        "34": "Que ele tire a sua vara",
+        "35": "Então falarei sem o temer;"
     }
-  }
 }

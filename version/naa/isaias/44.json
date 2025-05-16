@@ -1,118 +1,39 @@
 {
-  "livro": "Isaías",
-  "capítulo": 44,
-  "versículos": {
-    "1": {
-      "título": "O Senhor é o único Deus",
-      "texto": "“Mas agora escute, Jacó,"
+    "livro": "Isaías",
+    "capitulo": 44,
+    "titulos": {
+        "1": "O Senhor é o único Deus",
+        "9": "Contra a idolatria",
+        "21": "A promessa de livramento"
     },
-    "2": {
-      "título": "",
-      "texto": "Assim diz o Senhor , que o criou"
-    },
-    "3": {
-      "título": "",
-      "texto": "Porque derramarei água"
-    },
-    "4": {
-      "título": "",
-      "texto": "e eles brotarão como a relva,"
-    },
-    "5": {
-      "título": "",
-      "texto": "“Um dirá: ‘Eu sou do Senhor ’;"
-    },
-    "6": {
-      "título": "",
-      "texto": "Assim diz o Senhor ,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Quem, assim como eu,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Não fiquem apavorados,"
-    },
-    "9": {
-      "título": "Contra a idolatria",
-      "texto": "Todos os artífices de imagens de escultura são nada, e as coisas que eles tanto estimam não têm valor nenhum. Eles mesmos são testemunhas de que elas nada veem, nem entendem, para que sejam envergonhados."
-    },
-    "10": {
-      "título": "",
-      "texto": "Quem formaria um deus ou fundiria uma imagem de escultura, que não tem valor nenhum?"
-    },
-    "11": {
-      "título": "",
-      "texto": "Eis que todos os seus seguidores ficarão envergonhados, pois os artífices não passam de homens. Que todos eles se reúnam e se apresentem! Sentirão pavor e, todos juntos, serão envergonhados."
-    },
-    "12": {
-      "título": "",
-      "texto": "O ferreiro pega uma ferramenta e trabalha nas brasas; vai moldando um ídolo com o martelo e forja-o com a força do seu braço. Ele tem fome e perde as forças; não bebe água e desfalece."
-    },
-    "13": {
-      "título": "",
-      "texto": "O carpinteiro estende o cordel sobre a madeira e, com o lápis, esboça uma imagem; alisa-a com plaina, marca com o compasso e faz uma escultura à semelhança e beleza de um ser humano, para ser colocada num templo."
-    },
-    "14": {
-      "título": "",
-      "texto": "Um homem corta para si cedros, toma um cipreste ou um carvalho, fazendo escolha entre as árvores do bosque; planta um pinheiro, e a chuva o faz crescer."
-    },
-    "15": {
-      "título": "",
-      "texto": "Tais árvores servem ao homem para queimar; com parte de sua madeira ele se aquece e também assa o pão; com a outra parte ele faz um deus e se prostra diante dele; esculpe uma imagem e se ajoelha diante dela."
-    },
-    "16": {
-      "título": "",
-      "texto": "Metade queima no fogo e com ela assa a carne para comer; faz um assado e dele se farta; também se aquece e diz: “Ah! Já estou aquecido! E como é bom olhar para o fogo.”"
-    },
-    "17": {
-      "título": "",
-      "texto": "Do resto ele faz um deus, uma imagem de escultura; ajoelha-se diante dela, prostra-se e lhe dirige a sua oração, dizendo: “Livra-me, porque tu és o meu deus.”"
-    },
-    "18": {
-      "título": "",
-      "texto": "Nada sabem, nem entendem, porque os olhos deles estão grudados, para que não vejam, e o coração deles já não pode entender."
-    },
-    "19": {
-      "título": "",
-      "texto": "Nenhum deles cai em si, já não há conhecimento nem compreensão para dizer: “Metade da madeira queimei e sobre as brasas assei pão e carne para comer. E será que daquilo que restou eu faria uma abominação? Deveria eu me ajoelhar diante de um pedaço de madeira?”"
-    },
-    "20": {
-      "título": "",
-      "texto": "Tal homem se apascenta de cinza; o seu coração enganado o iludiu, de maneira que não pode livrar a sua alma, nem dizer: “Não é uma mentira isso que tenho em minha mão?”"
-    },
-    "21": {
-      "título": "A promessa de livramento",
-      "texto": "“Lembre-se destas coisas, ó Jacó,"
-    },
-    "22": {
-      "título": "",
-      "texto": "Desfaço as suas transgressões"
-    },
-    "23": {
-      "título": "",
-      "texto": "“Alegrem-se, ó céus,"
-    },
-    "24": {
-      "título": "",
-      "texto": "Assim diz o Senhor ,"
-    },
-    "25": {
-      "título": "",
-      "texto": "Eu frustro os sinais"
-    },
-    "26": {
-      "título": "",
-      "texto": "Eu confirmo a palavra"
-    },
-    "27": {
-      "título": "",
-      "texto": "Digo à profundeza do mar:"
-    },
-    "28": {
-      "título": "",
-      "texto": "Eu digo a respeito de Ciro:"
+    "versiculos": {
+        "1": "“Mas agora escute, Jacó,",
+        "2": "Assim diz o Senhor , que o criou",
+        "3": "Porque derramarei água",
+        "4": "e eles brotarão como a relva,",
+        "5": "“Um dirá: ‘Eu sou do Senhor ’;",
+        "6": "Assim diz o Senhor ,",
+        "7": "Quem, assim como eu,",
+        "8": "Não fiquem apavorados,",
+        "9": "Todos os artífices de imagens de escultura são nada, e as coisas que eles tanto estimam não têm valor nenhum. Eles mesmos são testemunhas de que elas nada veem, nem entendem, para que sejam envergonhados.",
+        "10": "Quem formaria um deus ou fundiria uma imagem de escultura, que não tem valor nenhum?",
+        "11": "Eis que todos os seus seguidores ficarão envergonhados, pois os artífices não passam de homens. Que todos eles se reúnam e se apresentem! Sentirão pavor e, todos juntos, serão envergonhados.",
+        "12": "O ferreiro pega uma ferramenta e trabalha nas brasas; vai moldando um ídolo com o martelo e forja-o com a força do seu braço. Ele tem fome e perde as forças; não bebe água e desfalece.",
+        "13": "O carpinteiro estende o cordel sobre a madeira e, com o lápis, esboça uma imagem; alisa-a com plaina, marca com o compasso e faz uma escultura à semelhança e beleza de um ser humano, para ser colocada num templo.",
+        "14": "Um homem corta para si cedros, toma um cipreste ou um carvalho, fazendo escolha entre as árvores do bosque; planta um pinheiro, e a chuva o faz crescer.",
+        "15": "Tais árvores servem ao homem para queimar; com parte de sua madeira ele se aquece e também assa o pão; com a outra parte ele faz um deus e se prostra diante dele; esculpe uma imagem e se ajoelha diante dela.",
+        "16": "Metade queima no fogo e com ela assa a carne para comer; faz um assado e dele se farta; também se aquece e diz: “Ah! Já estou aquecido! E como é bom olhar para o fogo.”",
+        "17": "Do resto ele faz um deus, uma imagem de escultura; ajoelha-se diante dela, prostra-se e lhe dirige a sua oração, dizendo: “Livra-me, porque tu és o meu deus.”",
+        "18": "Nada sabem, nem entendem, porque os olhos deles estão grudados, para que não vejam, e o coração deles já não pode entender.",
+        "19": "Nenhum deles cai em si, já não há conhecimento nem compreensão para dizer: “Metade da madeira queimei e sobre as brasas assei pão e carne para comer. E será que daquilo que restou eu faria uma abominação? Deveria eu me ajoelhar diante de um pedaço de madeira?”",
+        "20": "Tal homem se apascenta de cinza; o seu coração enganado o iludiu, de maneira que não pode livrar a sua alma, nem dizer: “Não é uma mentira isso que tenho em minha mão?”",
+        "21": "“Lembre-se destas coisas, ó Jacó,",
+        "22": "Desfaço as suas transgressões",
+        "23": "“Alegrem-se, ó céus,",
+        "24": "Assim diz o Senhor ,",
+        "25": "Eu frustro os sinais",
+        "26": "Eu confirmo a palavra",
+        "27": "Digo à profundeza do mar:",
+        "28": "Eu digo a respeito de Ciro:"
     }
-  }
 }

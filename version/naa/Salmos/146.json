@@ -1,46 +1,19 @@
 {
-  "livro": "Salmos",
-  "capítulo": 146,
-  "versículos": {
-    "1": {
-      "título": "Confiança em Deus",
-      "texto": "Aleluia!"
+    "livro": "Salmos",
+    "capitulo": 146,
+    "titulos": {
+        "1": "Confiança em Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "Louvarei o Senhor"
-    },
-    "3": {
-      "título": "",
-      "texto": "Não confiem em príncipes,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Sai-lhes o espírito,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Bem-aventurado aquele que tem"
-    },
-    "6": {
-      "título": "",
-      "texto": "que fez os céus e a terra,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Que faz justiça aos oprimidos"
-    },
-    "8": {
-      "título": "",
-      "texto": "O Senhor abre os olhos aos cegos,"
-    },
-    "9": {
-      "título": "",
-      "texto": "O Senhor guarda o estrangeiro,"
-    },
-    "10": {
-      "título": "",
-      "texto": "O Senhor reina para sempre;"
+    "versiculos": {
+        "1": "Aleluia!",
+        "2": "Louvarei o Senhor",
+        "3": "Não confiem em príncipes,",
+        "4": "Sai-lhes o espírito,",
+        "5": "Bem-aventurado aquele que tem",
+        "6": "que fez os céus e a terra,",
+        "7": "Que faz justiça aos oprimidos",
+        "8": "O Senhor abre os olhos aos cegos,",
+        "9": "O Senhor guarda o estrangeiro,",
+        "10": "O Senhor reina para sempre;"
     }
-  }
 }

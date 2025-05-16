@@ -1,74 +1,28 @@
 {
-  "livro": "Jeremias",
-  "capítulo": 12,
-  "versículos": {
-    "1": {
-      "título": "Segundo lamento de Jeremias",
-      "texto": "Justo serias, Senhor ,"
+    "livro": "Jeremias",
+    "capitulo": 12,
+    "titulos": {
+        "1": "Segundo lamento de Jeremias",
+        "5": "A resposta de Deus",
+        "7": "Deus castiga os devastadores do país"
     },
-    "2": {
-      "título": "",
-      "texto": "Tu os plantas, e eles lançam raízes;"
-    },
-    "3": {
-      "título": "",
-      "texto": "Mas tu, ó Senhor , me conheces;"
-    },
-    "4": {
-      "título": "",
-      "texto": "Até quando a terra estará de luto,"
-    },
-    "5": {
-      "título": "A resposta de Deus",
-      "texto": "“Jeremias, se você se cansa"
-    },
-    "6": {
-      "título": "",
-      "texto": "Porque até mesmo os seus irmãos"
-    },
-    "7": {
-      "título": "Deus castiga os devastadores do país",
-      "texto": "“Abandonei o meu templo,"
-    },
-    "8": {
-      "título": "",
-      "texto": "A minha herança tornou-se"
-    },
-    "9": {
-      "título": "",
-      "texto": "A minha herança é para mim"
-    },
-    "10": {
-      "título": "",
-      "texto": "Muitos pastores destruíram"
-    },
-    "11": {
-      "título": "",
-      "texto": "Eles a tornaram em desolação,"
-    },
-    "12": {
-      "título": "",
-      "texto": "Sobre todos os lugares altos"
-    },
-    "13": {
-      "título": "",
-      "texto": "Semearam trigo"
-    },
-    "14": {
-      "título": "",
-      "texto": "Assim diz o Senhor a respeito de todos os meus maus vizinhos, que se apoderam da minha herança, que deixei ao meu povo de Israel:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Depois de os haver arrancado, eu me voltarei e terei compaixão deles e os farei voltar, cada um à sua herança, cada um à sua terra."
-    },
-    "16": {
-      "título": "",
-      "texto": "Se diligentemente aprenderem os caminhos do meu povo; se jurarem pelo meu nome, dizendo: “Tão certo como vive o Senhor ”, assim como no passado ensinaram o meu povo a jurar por Baal, então serão edificados no meio do meu povo."
-    },
-    "17": {
-      "título": "",
-      "texto": "Mas, se não quiserem ouvir, arrancarei essa nação; arrancarei e destruirei, diz o Senhor ."
+    "versiculos": {
+        "1": "Justo serias, Senhor ,",
+        "2": "Tu os plantas, e eles lançam raízes;",
+        "3": "Mas tu, ó Senhor , me conheces;",
+        "4": "Até quando a terra estará de luto,",
+        "5": "“Jeremias, se você se cansa",
+        "6": "Porque até mesmo os seus irmãos",
+        "7": "“Abandonei o meu templo,",
+        "8": "A minha herança tornou-se",
+        "9": "A minha herança é para mim",
+        "10": "Muitos pastores destruíram",
+        "11": "Eles a tornaram em desolação,",
+        "12": "Sobre todos os lugares altos",
+        "13": "Semearam trigo",
+        "14": "Assim diz o Senhor a respeito de todos os meus maus vizinhos, que se apoderam da minha herança, que deixei ao meu povo de Israel:",
+        "15": "Depois de os haver arrancado, eu me voltarei e terei compaixão deles e os farei voltar, cada um à sua herança, cada um à sua terra.",
+        "16": "Se diligentemente aprenderem os caminhos do meu povo; se jurarem pelo meu nome, dizendo: “Tão certo como vive o Senhor ”, assim como no passado ensinaram o meu povo a jurar por Baal, então serão edificados no meio do meu povo.",
+        "17": "Mas, se não quiserem ouvir, arrancarei essa nação; arrancarei e destruirei, diz o Senhor ."
     }
-  }
 }

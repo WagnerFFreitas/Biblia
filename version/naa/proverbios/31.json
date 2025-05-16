@@ -1,130 +1,41 @@
 {
-  "livro": "Provérbios",
-  "capítulo": 31,
-  "versículos": {
-    "1": {
-      "título": "Conselhos para o rei Lemuel",
-      "texto": "Palavras do rei Lemuel, de Massá, que a mãe dele lhe ensinou."
+    "livro": "Provérbios",
+    "capitulo": 31,
+    "titulos": {
+        "1": "Conselhos para o rei Lemuel",
+        "10": "O louvor da mulher virtuosa"
     },
-    "2": {
-      "título": "",
-      "texto": "O que lhe direi, meu filho,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Não dê às mulheres a sua força,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Não é próprio dos reis, ó Lemuel,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Quando eles bebem,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Deem bebida forte"
-    },
-    "7": {
-      "título": "",
-      "texto": "para que bebam"
-    },
-    "8": {
-      "título": "",
-      "texto": "Abra a boca a favor do mudo,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Abra a boca, julgue retamente"
-    },
-    "10": {
-      "título": "O louvor da mulher virtuosa",
-      "texto": "Mulher virtuosa, quem a achará?"
-    },
-    "11": {
-      "título": "",
-      "texto": "O coração do seu marido"
-    },
-    "12": {
-      "título": "",
-      "texto": "Ela lhe faz bem e não mal,"
-    },
-    "13": {
-      "título": "",
-      "texto": "Busca lã e linho"
-    },
-    "14": {
-      "título": "",
-      "texto": "É como o navio mercante:"
-    },
-    "15": {
-      "título": "",
-      "texto": "É ainda noite, e ela já se levanta,"
-    },
-    "16": {
-      "título": "",
-      "texto": "Ela examina uma propriedade"
-    },
-    "17": {
-      "título": "",
-      "texto": "Cinge os lombos com força"
-    },
-    "18": {
-      "título": "",
-      "texto": "Ela percebe"
-    },
-    "19": {
-      "título": "",
-      "texto": "Estende as mãos ao fuso,"
-    },
-    "20": {
-      "título": "",
-      "texto": "Abre a mão aos aflitos;"
-    },
-    "21": {
-      "título": "",
-      "texto": "Quanto à sua casa,"
-    },
-    "22": {
-      "título": "",
-      "texto": "Faz para si cobertas,"
-    },
-    "23": {
-      "título": "",
-      "texto": "Seu marido é estimado"
-    },
-    "24": {
-      "título": "",
-      "texto": "Ela faz roupas de linho fino"
-    },
-    "25": {
-      "título": "",
-      "texto": "A força e a dignidade"
-    },
-    "26": {
-      "título": "",
-      "texto": "Fala com sabedoria,"
-    },
-    "27": {
-      "título": "",
-      "texto": "Cuida do bom andamento"
-    },
-    "28": {
-      "título": "",
-      "texto": "Seus filhos se levantam"
-    },
-    "29": {
-      "título": "",
-      "texto": "“Muitas mulheres são virtuosas"
-    },
-    "30": {
-      "título": "",
-      "texto": "Enganosa é a graça,"
-    },
-    "31": {
-      "título": "",
-      "texto": "Deem a ela"
+    "versiculos": {
+        "1": "Palavras do rei Lemuel, de Massá, que a mãe dele lhe ensinou.",
+        "2": "O que lhe direi, meu filho,",
+        "3": "Não dê às mulheres a sua força,",
+        "4": "Não é próprio dos reis, ó Lemuel,",
+        "5": "Quando eles bebem,",
+        "6": "Deem bebida forte",
+        "7": "para que bebam",
+        "8": "Abra a boca a favor do mudo,",
+        "9": "Abra a boca, julgue retamente",
+        "10": "Mulher virtuosa, quem a achará?",
+        "11": "O coração do seu marido",
+        "12": "Ela lhe faz bem e não mal,",
+        "13": "Busca lã e linho",
+        "14": "É como o navio mercante:",
+        "15": "É ainda noite, e ela já se levanta,",
+        "16": "Ela examina uma propriedade",
+        "17": "Cinge os lombos com força",
+        "18": "Ela percebe",
+        "19": "Estende as mãos ao fuso,",
+        "20": "Abre a mão aos aflitos;",
+        "21": "Quanto à sua casa,",
+        "22": "Faz para si cobertas,",
+        "23": "Seu marido é estimado",
+        "24": "Ela faz roupas de linho fino",
+        "25": "A força e a dignidade",
+        "26": "Fala com sabedoria,",
+        "27": "Cuida do bom andamento",
+        "28": "Seus filhos se levantam",
+        "29": "“Muitas mulheres são virtuosas",
+        "30": "Enganosa é a graça,",
+        "31": "Deem a ela"
     }
-  }
 }

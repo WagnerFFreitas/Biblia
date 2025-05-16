@@ -1,78 +1,28 @@
 {
-  "livro": "Colossenses",
-  "capítulo": 4,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Senhores, tratem os seus servos com justiça e igualdade, sabendo que também vocês têm um Senhor no céu."
+    "livro": "Colossenses",
+    "capitulo": 4,
+    "titulos": {
+        "2": "Conselhos finais",
+        "7": "Saudações"
     },
-    "2": {
-      "título": "Conselhos finais",
-      "texto": "Continuem a orar, vigiando em oração com ação de graças."
-    },
-    "3": {
-      "título": "",
-      "texto": "Ao mesmo tempo, orem também por nós, para que Deus nos abra uma porta à palavra, a fim de falarmos do mistério de Cristo, pelo qual também estou algemado."
-    },
-    "4": {
-      "título": "",
-      "texto": "Orem para que eu torne esse mistério conhecido, como me cumpre fazer."
-    },
-    "5": {
-      "título": "",
-      "texto": "Sejam sábios no modo de agir com os que são de fora e aproveitem bem o tempo."
-    },
-    "6": {
-      "título": "",
-      "texto": "Que a palavra dita por vocês seja sempre agradável, temperada com sal, para que saibam como devem responder a cada um."
-    },
-    "7": {
-      "título": "Saudações",
-      "texto": "Quanto à minha situação, Tíquico, irmão amado, fiel ministro e conservo no Senhor, lhes dará todas as informações."
-    },
-    "8": {
-      "título": "",
-      "texto": "Eu o estou enviando com o expresso propósito de lhes dar conhecimento da nossa situação e de alentar o coração de vocês."
-    },
-    "9": {
-      "título": "",
-      "texto": "Com ele estou enviando Onésimo, o fiel e amado irmão, que é da igreja de vocês. Eles contarão a vocês tudo o que está acontecendo aqui."
-    },
-    "10": {
-      "título": "",
-      "texto": "Aristarco, que está preso comigo, manda saudações; e também Marcos, primo de Barnabé. A respeito dele vocês já receberam instruções; se ele for até aí, recebam-no bem."
-    },
-    "11": {
-      "título": "",
-      "texto": "Também Jesus, conhecido por Justo, manda saudações. Estes são os únicos da circuncisão que cooperam pessoalmente comigo pelo Reino de Deus. Eles têm sido o meu consolo."
-    },
-    "12": {
-      "título": "",
-      "texto": "Epafras, que é da igreja de vocês, manda saudações. Ele é um servo de Cristo Jesus que está sempre lutando por vocês em oração, para que vocês se conservem maduros e plenamente convictos em toda a vontade de Deus."
-    },
-    "13": {
-      "título": "",
-      "texto": "E posso testemunhar a respeito de Epafras de que muito se empenha por vocês, pelos de Laodiceia e pelos de Hierápolis."
-    },
-    "14": {
-      "título": "",
-      "texto": "Lucas, o médico amado, e também Demas mandam saudações."
-    },
-    "15": {
-      "título": "",
-      "texto": "Saúdem os irmãos de Laodiceia, bem como Ninfa e a igreja que se reúne na casa dela."
-    },
-    "16": {
-      "título": "",
-      "texto": "E, depois que esta carta tiver sido lida entre vocês, façam com que seja lida também na igreja dos laodicenses. E vocês, leiam também a carta que vier de Laodiceia."
-    },
-    "17": {
-      "título": "",
-      "texto": "E digam a Arquipo: “Atente para o ministério que você recebeu no Senhor, cumprindo bem a sua tarefa.”"
-    },
-    "18": {
-      "título": "",
-      "texto": "A saudação é de próprio punho: Paulo. Lembrem-se das minhas algemas."
+    "versiculos": {
+        "1": "Senhores, tratem os seus servos com justiça e igualdade, sabendo que também vocês têm um Senhor no céu.",
+        "2": "Continuem a orar, vigiando em oração com ação de graças.",
+        "3": "Ao mesmo tempo, orem também por nós, para que Deus nos abra uma porta à palavra, a fim de falarmos do mistério de Cristo, pelo qual também estou algemado.",
+        "4": "Orem para que eu torne esse mistério conhecido, como me cumpre fazer.",
+        "5": "Sejam sábios no modo de agir com os que são de fora e aproveitem bem o tempo.",
+        "6": "Que a palavra dita por vocês seja sempre agradável, temperada com sal, para que saibam como devem responder a cada um.",
+        "7": "Quanto à minha situação, Tíquico, irmão amado, fiel ministro e conservo no Senhor, lhes dará todas as informações.",
+        "8": "Eu o estou enviando com o expresso propósito de lhes dar conhecimento da nossa situação e de alentar o coração de vocês.",
+        "9": "Com ele estou enviando Onésimo, o fiel e amado irmão, que é da igreja de vocês. Eles contarão a vocês tudo o que está acontecendo aqui.",
+        "10": "Aristarco, que está preso comigo, manda saudações; e também Marcos, primo de Barnabé. A respeito dele vocês já receberam instruções; se ele for até aí, recebam-no bem.",
+        "11": "Também Jesus, conhecido por Justo, manda saudações. Estes são os únicos da circuncisão que cooperam pessoalmente comigo pelo Reino de Deus. Eles têm sido o meu consolo.",
+        "12": "Epafras, que é da igreja de vocês, manda saudações. Ele é um servo de Cristo Jesus que está sempre lutando por vocês em oração, para que vocês se conservem maduros e plenamente convictos em toda a vontade de Deus.",
+        "13": "E posso testemunhar a respeito de Epafras de que muito se empenha por vocês, pelos de Laodiceia e pelos de Hierápolis.",
+        "14": "Lucas, o médico amado, e também Demas mandam saudações.",
+        "15": "Saúdem os irmãos de Laodiceia, bem como Ninfa e a igreja que se reúne na casa dela.",
+        "16": "E, depois que esta carta tiver sido lida entre vocês, façam com que seja lida também na igreja dos laodicenses. E vocês, leiam também a carta que vier de Laodiceia.",
+        "17": "E digam a Arquipo: “Atente para o ministério que você recebeu no Senhor, cumprindo bem a sua tarefa.”",
+        "18": "A saudação é de próprio punho: Paulo. Lembrem-se das minhas algemas."
     }
-  }
 }

@@ -1,74 +1,28 @@
 {
-  "livro": "Jó",
-  "capítulo": 42,
-  "versículos": {
-    "1": {
-      "título": "Última resposta de Jó ao Senhor",
-      "texto": "Então Jó respondeu ao Senhor e disse:"
+    "livro": "Jó",
+    "capitulo": 42,
+    "titulos": {
+        "1": "Última resposta de Jó ao Senhor",
+        "7": "Os três amigos de Jó",
+        "10": "A nova família de Jó"
     },
-    "2": {
-      "título": "",
-      "texto": "“Bem sei que tudo podes,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Tu perguntaste: ‘Quem é este"
-    },
-    "4": {
-      "título": "",
-      "texto": "Disseste: ‘Escute,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Eu te conhecia só de ouvir,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Por isso, me abomino"
-    },
-    "7": {
-      "título": "Os três amigos de Jó",
-      "texto": "Depois que o Senhor falou estas palavras a Jó, o Senhor disse também a Elifaz, o temanita:"
-    },
-    "8": {
-      "título": "",
-      "texto": "Agora peguem sete novilhos e sete carneiros, e vão até o meu servo Jó, e ofereçam holocaustos em favor de vocês. O meu servo Jó orará por vocês, e eu aceitarei a intercessão dele, para que eu não os trate segundo a falta de juízo de vocês. Porque vocês não falaram a meu respeito o que é reto, como o meu servo Jó falou."
-    },
-    "9": {
-      "título": "",
-      "texto": "Então Elifaz, o temanita, Bildade, o suíta, e Zofar, o naamatita, foram e fizeram o que o Senhor lhes havia ordenado; e o Senhor aceitou a oração de Jó."
-    },
-    "10": {
-      "título": "A nova família de Jó",
-      "texto": "O Senhor restaurou a sorte de Jó, quando este orou pelos seus amigos, e o Senhor lhe deu o dobro de tudo o que tinha tido antes."
-    },
-    "11": {
-      "título": "",
-      "texto": "Então vieram a ele todos os seus irmãos, todas as suas irmãs e todos os que o haviam conhecido antes, e comeram com ele em sua casa. E se condoeram dele, e o consolaram por todo o mal que o Senhor tinha enviado sobre ele. E cada um lhe deu dinheiro e um anel de ouro."
-    },
-    "12": {
-      "título": "",
-      "texto": "O Senhor abençoou o último estado de Jó mais do que o primeiro. Ele veio a ter catorze mil ovelhas, seis mil camelos, mil juntas de bois e mil jumentas."
-    },
-    "13": {
-      "título": "",
-      "texto": "Também teve outros sete filhos e três filhas."
-    },
-    "14": {
-      "título": "",
-      "texto": "À primeira filha deu o nome de Jemima; à segunda chamou de Quézia; e à terceira, Quéren-Hapuque."
-    },
-    "15": {
-      "título": "",
-      "texto": "Em toda aquela terra não havia mulheres tão bonitas como as filhas de Jó; e seu pai lhes deu herança entre seus irmãos."
-    },
-    "16": {
-      "título": "",
-      "texto": "Depois disto, Jó viveu mais cento e quarenta anos; e viu os seus filhos e os filhos de seus filhos, até a quarta geração."
-    },
-    "17": {
-      "título": "",
-      "texto": "E assim Jó morreu, após uma longa velhice."
+    "versiculos": {
+        "1": "Então Jó respondeu ao Senhor e disse:",
+        "2": "“Bem sei que tudo podes,",
+        "3": "Tu perguntaste: ‘Quem é este",
+        "4": "Disseste: ‘Escute,",
+        "5": "Eu te conhecia só de ouvir,",
+        "6": "Por isso, me abomino",
+        "7": "Depois que o Senhor falou estas palavras a Jó, o Senhor disse também a Elifaz, o temanita:",
+        "8": "Agora peguem sete novilhos e sete carneiros, e vão até o meu servo Jó, e ofereçam holocaustos em favor de vocês. O meu servo Jó orará por vocês, e eu aceitarei a intercessão dele, para que eu não os trate segundo a falta de juízo de vocês. Porque vocês não falaram a meu respeito o que é reto, como o meu servo Jó falou.",
+        "9": "Então Elifaz, o temanita, Bildade, o suíta, e Zofar, o naamatita, foram e fizeram o que o Senhor lhes havia ordenado; e o Senhor aceitou a oração de Jó.",
+        "10": "O Senhor restaurou a sorte de Jó, quando este orou pelos seus amigos, e o Senhor lhe deu o dobro de tudo o que tinha tido antes.",
+        "11": "Então vieram a ele todos os seus irmãos, todas as suas irmãs e todos os que o haviam conhecido antes, e comeram com ele em sua casa. E se condoeram dele, e o consolaram por todo o mal que o Senhor tinha enviado sobre ele. E cada um lhe deu dinheiro e um anel de ouro.",
+        "12": "O Senhor abençoou o último estado de Jó mais do que o primeiro. Ele veio a ter catorze mil ovelhas, seis mil camelos, mil juntas de bois e mil jumentas.",
+        "13": "Também teve outros sete filhos e três filhas.",
+        "14": "À primeira filha deu o nome de Jemima; à segunda chamou de Quézia; e à terceira, Quéren-Hapuque.",
+        "15": "Em toda aquela terra não havia mulheres tão bonitas como as filhas de Jó; e seu pai lhes deu herança entre seus irmãos.",
+        "16": "Depois disto, Jó viveu mais cento e quarenta anos; e viu os seus filhos e os filhos de seus filhos, até a quarta geração.",
+        "17": "E assim Jó morreu, após uma longa velhice."
     }
-  }
 }

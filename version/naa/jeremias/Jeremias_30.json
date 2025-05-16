@@ -1,102 +1,33 @@
 {
-  "livro": "Jeremias",
-  "capítulo": 30,
-  "versículos": {
-    "1": {
-      "título": "Deus promete restaurar o seu povo",
-      "texto": "Palavra que foi dita a Jeremias da parte do Senhor :"
+    "livro": "Jeremias",
+    "capitulo": 30,
+    "titulos": {
+        "1": "Deus promete restaurar o seu povo"
     },
-    "2": {
-      "título": "",
-      "texto": "— Assim diz o Senhor , Deus de Israel: Escreva num livro todas as palavras que eu lhe falei."
-    },
-    "3": {
-      "título": "",
-      "texto": "Porque eis que vêm dias, diz o Senhor , em que mudarei a sorte do meu povo de Israel e de Judá, diz o Senhor . Farei com que voltem para a terra que dei aos seus pais, e eles a possuirão."
-    },
-    "4": {
-      "título": "",
-      "texto": "São estas as palavras que o Senhor falou a respeito de Israel e de Judá:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Assim diz o Senhor :"
-    },
-    "6": {
-      "título": "",
-      "texto": "Perguntem e vejam se um homem"
-    },
-    "7": {
-      "título": "",
-      "texto": "Ah! Que grande é aquele dia,"
-    },
-    "8": {
-      "título": "",
-      "texto": "— Naquele dia, diz o Senhor dos Exércitos, eu quebrarei o jugo que está sobre o pescoço de vocês e despedaçarei as correias. E nunca mais estrangeiros irão escravizar este povo,"
-    },
-    "9": {
-      "título": "",
-      "texto": "que servirá ao Senhor , seu Deus, e também a Davi, que lhes darei como rei."
-    },
-    "10": {
-      "título": "",
-      "texto": "“Portanto, não tenha medo,"
-    },
-    "11": {
-      "título": "",
-      "texto": "Porque eu estou com você"
-    },
-    "12": {
-      "título": "",
-      "texto": "Porque assim diz o Senhor :"
-    },
-    "13": {
-      "título": "",
-      "texto": "Não há quem defenda"
-    },
-    "14": {
-      "título": "",
-      "texto": "Todos os seus amantes"
-    },
-    "15": {
-      "título": "",
-      "texto": "Por que você grita"
-    },
-    "16": {
-      "título": "",
-      "texto": "Por isso, todos os que a devoram"
-    },
-    "17": {
-      "título": "",
-      "texto": "Porque restaurarei a sua saúde"
-    },
-    "18": {
-      "título": "",
-      "texto": "Assim diz o Senhor :"
-    },
-    "19": {
-      "título": "",
-      "texto": "De lá sairão ações de graças"
-    },
-    "20": {
-      "título": "",
-      "texto": "Os seus filhos serão"
-    },
-    "21": {
-      "título": "",
-      "texto": "O seu príncipe procederá deles,"
-    },
-    "22": {
-      "título": "",
-      "texto": "“Vocês serão o meu povo,"
-    },
-    "23": {
-      "título": "",
-      "texto": "Eis a tempestade do Senhor !"
-    },
-    "24": {
-      "título": "",
-      "texto": "O furor da ira do Senhor"
+    "versiculos": {
+        "1": "Palavra que foi dita a Jeremias da parte do Senhor :",
+        "2": "— Assim diz o Senhor , Deus de Israel: Escreva num livro todas as palavras que eu lhe falei.",
+        "3": "Porque eis que vêm dias, diz o Senhor , em que mudarei a sorte do meu povo de Israel e de Judá, diz o Senhor . Farei com que voltem para a terra que dei aos seus pais, e eles a possuirão.",
+        "4": "São estas as palavras que o Senhor falou a respeito de Israel e de Judá:",
+        "5": "Assim diz o Senhor :",
+        "6": "Perguntem e vejam se um homem",
+        "7": "Ah! Que grande é aquele dia,",
+        "8": "— Naquele dia, diz o Senhor dos Exércitos, eu quebrarei o jugo que está sobre o pescoço de vocês e despedaçarei as correias. E nunca mais estrangeiros irão escravizar este povo,",
+        "9": "que servirá ao Senhor , seu Deus, e também a Davi, que lhes darei como rei.",
+        "10": "“Portanto, não tenha medo,",
+        "11": "Porque eu estou com você",
+        "12": "Porque assim diz o Senhor :",
+        "13": "Não há quem defenda",
+        "14": "Todos os seus amantes",
+        "15": "Por que você grita",
+        "16": "Por isso, todos os que a devoram",
+        "17": "Porque restaurarei a sua saúde",
+        "18": "Assim diz o Senhor :",
+        "19": "De lá sairão ações de graças",
+        "20": "Os seus filhos serão",
+        "21": "O seu príncipe procederá deles,",
+        "22": "“Vocês serão o meu povo,",
+        "23": "Eis a tempestade do Senhor !",
+        "24": "O furor da ira do Senhor"
     }
-  }
 }

@@ -1,90 +1,30 @@
 {
-  "livro": "Jeremias",
-  "capítulo": 37,
-  "versículos": {
-    "1": {
-      "título": "Jeremias na prisão",
-      "texto": "Zedequias, filho de Josias, a quem Nabucodonosor, rei da Babilônia, havia constituído rei na terra de Judá, reinou em lugar de Conias, filho de Jeoaquim."
+    "livro": "Jeremias",
+    "capitulo": 37,
+    "titulos": {
+        "1": "Jeremias na prisão"
     },
-    "2": {
-      "título": "",
-      "texto": "Mas nem ele, nem os seus servos, nem o povo da terra deram ouvidos às palavras do Senhor , que ele falou por meio do profeta Jeremias."
-    },
-    "3": {
-      "título": "",
-      "texto": "Contudo, o rei Zedequias mandou que Jucal, filho de Selemias, e o sacerdote Sofonias, filho de Maaseias, fossem falar com o profeta Jeremias, para dizer:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Jeremias andava livremente entre o povo, porque ainda não tinha sido preso."
-    },
-    "5": {
-      "título": "",
-      "texto": "O exército de Faraó tinha vindo do Egito. Quando os caldeus, que sitiavam Jerusalém, ouviram isso, retiraram-se dela."
-    },
-    "6": {
-      "título": "",
-      "texto": "Então a palavra do Senhor veio ao profeta Jeremias, dizendo:"
-    },
-    "7": {
-      "título": "",
-      "texto": "— Assim diz o Senhor , Deus de Israel: Digam ao rei de Judá, que pediu que vocês viessem a mim, para me consultar: “Eis que o exército de Faraó, que saiu do Egito para socorrer vocês, voltará para a sua terra, no Egito."
-    },
-    "8": {
-      "título": "",
-      "texto": "Então os caldeus voltarão a esta cidade. Eles lutarão contra ela, tomarão a cidade e a queimarão."
-    },
-    "9": {
-      "título": "",
-      "texto": "Assim diz o Senhor : Não se enganem, dizendo: ‘Sem dúvida, os caldeus irão embora.’ Porque eles não irão embora."
-    },
-    "10": {
-      "título": "",
-      "texto": "Porque, ainda que vocês derrotassem todo o exército dos caldeus, que está lutando contra vocês, e ficassem deles apenas homens feridos, eles se levantariam, cada um na sua tenda, e queimariam esta cidade.”"
-    },
-    "11": {
-      "título": "",
-      "texto": "Quando o exército dos caldeus se havia retirado de Jerusalém, por causa do exército de Faraó,"
-    },
-    "12": {
-      "título": "",
-      "texto": "Jeremias saiu de Jerusalém, a fim de ir à terra de Benjamim, para receber a sua parte de uma herança que tinha no meio do povo."
-    },
-    "13": {
-      "título": "",
-      "texto": "Ao chegar ao Portão de Benjamim, achava-se ali um capitão da guarda, cujo nome era Jerias, filho de Selemias, filho de Hananias. O capitão prendeu o profeta Jeremias, dizendo:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Jeremias respondeu:"
-    },
-    "15": {
-      "título": "",
-      "texto": "As autoridades, iradas contra Jeremias, açoitaram-no e o prenderam na casa de Jônatas, o escrivão. Essa casa tinha sido transformada em prisão."
-    },
-    "16": {
-      "título": "",
-      "texto": "Assim, Jeremias foi levado às celas do calabouço, onde ficou por muitos dias."
-    },
-    "17": {
-      "título": "",
-      "texto": "O rei Zedequias mandou trazê-lo para sua casa e, em secreto, lhe perguntou:"
-    },
-    "18": {
-      "título": "",
-      "texto": "Então Jeremias perguntou ao rei Zedequias:"
-    },
-    "19": {
-      "título": "",
-      "texto": "Onde estão agora os profetas que lhes profetizavam, dizendo: “O rei da Babilônia não virá contra vocês, nem contra esta terra”?"
-    },
-    "20": {
-      "título": "",
-      "texto": "E agora, ó rei, meu senhor, escute, e que a minha humilde súplica seja bem-acolhida! Não me mande de volta à casa de Jônatas, o escrivão, para que eu não venha a morrer ali."
-    },
-    "21": {
-      "título": "",
-      "texto": "Então o rei Zedequias ordenou que pusessem Jeremias no pátio da guarda. E, cada dia, davam-lhe um pão da Rua dos Padeiros, até acabar-se todo o pão da cidade. Assim Jeremias ficou no pátio da guarda."
+    "versiculos": {
+        "1": "Zedequias, filho de Josias, a quem Nabucodonosor, rei da Babilônia, havia constituído rei na terra de Judá, reinou em lugar de Conias, filho de Jeoaquim.",
+        "2": "Mas nem ele, nem os seus servos, nem o povo da terra deram ouvidos às palavras do Senhor , que ele falou por meio do profeta Jeremias.",
+        "3": "Contudo, o rei Zedequias mandou que Jucal, filho de Selemias, e o sacerdote Sofonias, filho de Maaseias, fossem falar com o profeta Jeremias, para dizer:",
+        "4": "Jeremias andava livremente entre o povo, porque ainda não tinha sido preso.",
+        "5": "O exército de Faraó tinha vindo do Egito. Quando os caldeus, que sitiavam Jerusalém, ouviram isso, retiraram-se dela.",
+        "6": "Então a palavra do Senhor veio ao profeta Jeremias, dizendo:",
+        "7": "— Assim diz o Senhor , Deus de Israel: Digam ao rei de Judá, que pediu que vocês viessem a mim, para me consultar: “Eis que o exército de Faraó, que saiu do Egito para socorrer vocês, voltará para a sua terra, no Egito.",
+        "8": "Então os caldeus voltarão a esta cidade. Eles lutarão contra ela, tomarão a cidade e a queimarão.",
+        "9": "Assim diz o Senhor : Não se enganem, dizendo: ‘Sem dúvida, os caldeus irão embora.’ Porque eles não irão embora.",
+        "10": "Porque, ainda que vocês derrotassem todo o exército dos caldeus, que está lutando contra vocês, e ficassem deles apenas homens feridos, eles se levantariam, cada um na sua tenda, e queimariam esta cidade.”",
+        "11": "Quando o exército dos caldeus se havia retirado de Jerusalém, por causa do exército de Faraó,",
+        "12": "Jeremias saiu de Jerusalém, a fim de ir à terra de Benjamim, para receber a sua parte de uma herança que tinha no meio do povo.",
+        "13": "Ao chegar ao Portão de Benjamim, achava-se ali um capitão da guarda, cujo nome era Jerias, filho de Selemias, filho de Hananias. O capitão prendeu o profeta Jeremias, dizendo:",
+        "14": "Jeremias respondeu:",
+        "15": "As autoridades, iradas contra Jeremias, açoitaram-no e o prenderam na casa de Jônatas, o escrivão. Essa casa tinha sido transformada em prisão.",
+        "16": "Assim, Jeremias foi levado às celas do calabouço, onde ficou por muitos dias.",
+        "17": "O rei Zedequias mandou trazê-lo para sua casa e, em secreto, lhe perguntou:",
+        "18": "Então Jeremias perguntou ao rei Zedequias:",
+        "19": "Onde estão agora os profetas que lhes profetizavam, dizendo: “O rei da Babilônia não virá contra vocês, nem contra esta terra”?",
+        "20": "E agora, ó rei, meu senhor, escute, e que a minha humilde súplica seja bem-acolhida! Não me mande de volta à casa de Jônatas, o escrivão, para que eu não venha a morrer ali.",
+        "21": "Então o rei Zedequias ordenou que pusessem Jeremias no pátio da guarda. E, cada dia, davam-lhe um pão da Rua dos Padeiros, até acabar-se todo o pão da cidade. Assim Jeremias ficou no pátio da guarda."
     }
-  }
 }

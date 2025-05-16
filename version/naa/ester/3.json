@@ -1,66 +1,26 @@
 {
-  "livro": "Ester",
-  "capítulo": 3,
-  "versículos": {
-    "1": {
-      "título": "Mordecai é odiado por Hamã",
-      "texto": "Depois disto, o rei Assuero engrandeceu Hamã, filho de Hamedata, agagita, e o exaltou, e lhe deu um cargo mais elevado do que o de todos os oficiais que estavam com ele."
+    "livro": "Ester",
+    "capitulo": 3,
+    "titulos": {
+        "1": "Mordecai é odiado por Hamã",
+        "7": "Hamã pretende matar todos os judeus",
+        "12": "O rei decreta a morte dos judeus"
     },
-    "2": {
-      "título": "",
-      "texto": "Todos os servos do rei, que estavam à porta do rei, se inclinavam e se prostravam diante de Hamã, porque esta era a ordem do rei a respeito dele. Mordecai, porém, não se inclinava nem se prostrava."
-    },
-    "3": {
-      "título": "",
-      "texto": "Então os servos do rei, que estavam à porta do rei, perguntaram a Mordecai:"
-    },
-    "4": {
-      "título": "",
-      "texto": "Dia após dia eles falavam com Mordecai, mas ele não lhes dava ouvidos. Então contaram isso a Hamã, para ver se as palavras de Mordecai se manteriam em pé, porque ele lhes tinha declarado que era judeu."
-    },
-    "5": {
-      "título": "",
-      "texto": "Quando Hamã viu que Mordecai não se inclinava nem se prostrava diante dele, encheu-se de furor."
-    },
-    "6": {
-      "título": "",
-      "texto": "Porém julgou que era pouco, nos seus propósitos, atentar apenas contra Mordecai, porque lhe haviam declarado de que povo era Mordecai. Por isso, Hamã procurou destruir todos os judeus, povo de Mordecai, que havia em todo o reino de Assuero."
-    },
-    "7": {
-      "título": "Hamã pretende matar todos os judeus",
-      "texto": "No primeiro mês, que é o mês de nisã, no décimo segundo ano do reinado de Assuero, foi lançado o Pur, isto é, fizeram um sorteio na presença de Hamã, para determinar o dia e o mês; e foi sorteado o décimo segundo mês, que é o mês de adar."
-    },
-    "8": {
-      "título": "",
-      "texto": "Então Hamã disse ao rei Assuero:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Se for do agrado do rei, decrete-se que sejam mortos, e eu porei nas mãos dos que executarem a obra trezentas e quarenta toneladas de prata, para que entrem nos tesouros do rei."
-    },
-    "10": {
-      "título": "",
-      "texto": "Então o rei tirou da mão o seu anel-sinete e o deu a Hamã, filho de Hamedata, agagita, inimigo dos judeus,"
-    },
-    "11": {
-      "título": "",
-      "texto": "e lhe disse:"
-    },
-    "12": {
-      "título": "O rei decreta a morte dos judeus",
-      "texto": "No dia treze do primeiro mês, chamaram os secretários do rei e, segundo tudo o que Hamã havia ordenado, se escreveu aos sátrapas do rei, aos governadores de todas as províncias e aos chefes de cada povo. A ordem devia ser endereçada a cada província no seu próprio modo de escrever e a cada povo na sua própria língua. Foi escrita em nome do rei Assuero e selada com o anel-sinete do rei."
-    },
-    "13": {
-      "título": "",
-      "texto": "As cartas foram enviadas por meio de mensageiros a todas as províncias do rei, com instruções para que num só dia, o dia treze do décimo segundo mês, que é o mês de adar, todos os judeus, tanto os jovens como os velhos, as mulheres e as crianças, fossem destruídos, mortos e aniquilados, e que os seus bens fossem saqueados."
-    },
-    "14": {
-      "título": "",
-      "texto": "Uma cópia da carta, que determinava a proclamação da lei em todas as províncias, foi enviada a todos os povos, para que se preparassem para aquele dia."
-    },
-    "15": {
-      "título": "",
-      "texto": "Os mensageiros, impelidos pela ordem do rei, partiram imediatamente. E a lei foi proclamada na cidadela de Susã. O rei Assuero e Hamã se assentaram para beber, mas a cidade de Susã estava perplexa."
+    "versiculos": {
+        "1": "Depois disto, o rei Assuero engrandeceu Hamã, filho de Hamedata, agagita, e o exaltou, e lhe deu um cargo mais elevado do que o de todos os oficiais que estavam com ele.",
+        "2": "Todos os servos do rei, que estavam à porta do rei, se inclinavam e se prostravam diante de Hamã, porque esta era a ordem do rei a respeito dele. Mordecai, porém, não se inclinava nem se prostrava.",
+        "3": "Então os servos do rei, que estavam à porta do rei, perguntaram a Mordecai:",
+        "4": "Dia após dia eles falavam com Mordecai, mas ele não lhes dava ouvidos. Então contaram isso a Hamã, para ver se as palavras de Mordecai se manteriam em pé, porque ele lhes tinha declarado que era judeu.",
+        "5": "Quando Hamã viu que Mordecai não se inclinava nem se prostrava diante dele, encheu-se de furor.",
+        "6": "Porém julgou que era pouco, nos seus propósitos, atentar apenas contra Mordecai, porque lhe haviam declarado de que povo era Mordecai. Por isso, Hamã procurou destruir todos os judeus, povo de Mordecai, que havia em todo o reino de Assuero.",
+        "7": "No primeiro mês, que é o mês de nisã, no décimo segundo ano do reinado de Assuero, foi lançado o Pur, isto é, fizeram um sorteio na presença de Hamã, para determinar o dia e o mês; e foi sorteado o décimo segundo mês, que é o mês de adar.",
+        "8": "Então Hamã disse ao rei Assuero:",
+        "9": "Se for do agrado do rei, decrete-se que sejam mortos, e eu porei nas mãos dos que executarem a obra trezentas e quarenta toneladas de prata, para que entrem nos tesouros do rei.",
+        "10": "Então o rei tirou da mão o seu anel-sinete e o deu a Hamã, filho de Hamedata, agagita, inimigo dos judeus,",
+        "11": "e lhe disse:",
+        "12": "No dia treze do primeiro mês, chamaram os secretários do rei e, segundo tudo o que Hamã havia ordenado, se escreveu aos sátrapas do rei, aos governadores de todas as províncias e aos chefes de cada povo. A ordem devia ser endereçada a cada província no seu próprio modo de escrever e a cada povo na sua própria língua. Foi escrita em nome do rei Assuero e selada com o anel-sinete do rei.",
+        "13": "As cartas foram enviadas por meio de mensageiros a todas as províncias do rei, com instruções para que num só dia, o dia treze do décimo segundo mês, que é o mês de adar, todos os judeus, tanto os jovens como os velhos, as mulheres e as crianças, fossem destruídos, mortos e aniquilados, e que os seus bens fossem saqueados.",
+        "14": "Uma cópia da carta, que determinava a proclamação da lei em todas as províncias, foi enviada a todos os povos, para que se preparassem para aquele dia.",
+        "15": "Os mensageiros, impelidos pela ordem do rei, partiram imediatamente. E a lei foi proclamada na cidadela de Susã. O rei Assuero e Hamã se assentaram para beber, mas a cidade de Susã estava perplexa."
     }
-  }
 }

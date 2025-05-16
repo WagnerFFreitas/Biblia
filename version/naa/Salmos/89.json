@@ -1,214 +1,61 @@
 {
-  "livro": "Salmos",
-  "capítulo": 89,
-  "versículos": {
-    "1": {
-      "título": "A promessa de Deus a Davi",
-      "texto": "Cantarei para sempre"
+    "livro": "Salmos",
+    "capitulo": 89,
+    "titulos": {
+        "1": "A promessa de Deus a Davi"
     },
-    "2": {
-      "título": "",
-      "texto": "Pois eu disse: “A misericórdia"
-    },
-    "3": {
-      "título": "",
-      "texto": "Tu disseste: “Fiz uma aliança"
-    },
-    "4": {
-      "título": "",
-      "texto": "‘Para sempre estabelecerei"
-    },
-    "5": {
-      "título": "",
-      "texto": "Os céus celebram"
-    },
-    "6": {
-      "título": "",
-      "texto": "Pois quem nos céus"
-    },
-    "7": {
-      "título": "",
-      "texto": "Deus infunde grande terror"
-    },
-    "8": {
-      "título": "",
-      "texto": "Ó Senhor , Deus dos Exércitos,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Dominas a fúria do mar;"
-    },
-    "10": {
-      "título": "",
-      "texto": "Esmagaste o monstro Raabe"
-    },
-    "11": {
-      "título": "",
-      "texto": "Teus são os céus, e tua é a terra;"
-    },
-    "12": {
-      "título": "",
-      "texto": "O Norte e o Sul, tu os criaste;"
-    },
-    "13": {
-      "título": "",
-      "texto": "O teu braço é poderoso;"
-    },
-    "14": {
-      "título": "",
-      "texto": "Justiça e direito"
-    },
-    "15": {
-      "título": "",
-      "texto": "Bem-aventurado o povo"
-    },
-    "16": {
-      "título": "",
-      "texto": "Em teu nome se alegra o dia todo"
-    },
-    "17": {
-      "título": "",
-      "texto": "porque tu és a glória"
-    },
-    "18": {
-      "título": "",
-      "texto": "Pois ao Senhor pertence"
-    },
-    "19": {
-      "título": "",
-      "texto": "Outrora falaste em visão"
-    },
-    "20": {
-      "título": "",
-      "texto": "Encontrei Davi, meu servo;"
-    },
-    "21": {
-      "título": "",
-      "texto": "A minha mão estará"
-    },
-    "22": {
-      "título": "",
-      "texto": "O inimigo jamais o surpreenderá,"
-    },
-    "23": {
-      "título": "",
-      "texto": "Esmagarei diante dele"
-    },
-    "24": {
-      "título": "",
-      "texto": "A minha fidelidade"
-    },
-    "25": {
-      "título": "",
-      "texto": "Porei a sua mão sobre o mar"
-    },
-    "26": {
-      "título": "",
-      "texto": "Ele me invocará, dizendo:"
-    },
-    "27": {
-      "título": "",
-      "texto": "Por isso, farei dele"
-    },
-    "28": {
-      "título": "",
-      "texto": "Conservarei para sempre"
-    },
-    "29": {
-      "título": "",
-      "texto": "Farei durar para sempre"
-    },
-    "30": {
-      "título": "",
-      "texto": "“Se os filhos dele"
-    },
-    "31": {
-      "título": "",
-      "texto": "se violarem os meus preceitos"
-    },
-    "32": {
-      "título": "",
-      "texto": "então punirei com vara"
-    },
-    "33": {
-      "título": "",
-      "texto": "Mas jamais retirarei dele"
-    },
-    "34": {
-      "título": "",
-      "texto": "Não violarei a minha aliança,"
-    },
-    "35": {
-      "título": "",
-      "texto": "“Uma vez jurei"
-    },
-    "36": {
-      "título": "",
-      "texto": "A sua posteridade"
-    },
-    "37": {
-      "título": "",
-      "texto": "Ele será estabelecido"
-    },
-    "38": {
-      "título": "",
-      "texto": "Tu, porém, o repudiaste"
-    },
-    "39": {
-      "título": "",
-      "texto": "Quebraste a aliança"
-    },
-    "40": {
-      "título": "",
-      "texto": "Arrasaste"
-    },
-    "41": {
-      "título": "",
-      "texto": "Todos os que passam"
-    },
-    "42": {
-      "título": "",
-      "texto": "Exaltaste a mão direita"
-    },
-    "43": {
-      "título": "",
-      "texto": "Deixaste sem fio a sua espada"
-    },
-    "44": {
-      "título": "",
-      "texto": "Fizeste cessar o seu esplendor"
-    },
-    "45": {
-      "título": "",
-      "texto": "Abreviaste"
-    },
-    "46": {
-      "título": "",
-      "texto": "Até quando, Senhor ?"
-    },
-    "47": {
-      "título": "",
-      "texto": "Lembra-te de como é breve"
-    },
-    "48": {
-      "título": "",
-      "texto": "Quem é que pode viver"
-    },
-    "49": {
-      "título": "",
-      "texto": "Senhor, onde estão"
-    },
-    "50": {
-      "título": "",
-      "texto": "Lembra-te, Senhor, dos insultos"
-    },
-    "51": {
-      "título": "",
-      "texto": "com que os teus inimigos,"
-    },
-    "52": {
-      "título": "",
-      "texto": "Bendito seja o Senhor"
+    "versiculos": {
+        "1": "Cantarei para sempre",
+        "2": "Pois eu disse: “A misericórdia",
+        "3": "Tu disseste: “Fiz uma aliança",
+        "4": "‘Para sempre estabelecerei",
+        "5": "Os céus celebram",
+        "6": "Pois quem nos céus",
+        "7": "Deus infunde grande terror",
+        "8": "Ó Senhor , Deus dos Exércitos,",
+        "9": "Dominas a fúria do mar;",
+        "10": "Esmagaste o monstro Raabe",
+        "11": "Teus são os céus, e tua é a terra;",
+        "12": "O Norte e o Sul, tu os criaste;",
+        "13": "O teu braço é poderoso;",
+        "14": "Justiça e direito",
+        "15": "Bem-aventurado o povo",
+        "16": "Em teu nome se alegra o dia todo",
+        "17": "porque tu és a glória",
+        "18": "Pois ao Senhor pertence",
+        "19": "Outrora falaste em visão",
+        "20": "Encontrei Davi, meu servo;",
+        "21": "A minha mão estará",
+        "22": "O inimigo jamais o surpreenderá,",
+        "23": "Esmagarei diante dele",
+        "24": "A minha fidelidade",
+        "25": "Porei a sua mão sobre o mar",
+        "26": "Ele me invocará, dizendo:",
+        "27": "Por isso, farei dele",
+        "28": "Conservarei para sempre",
+        "29": "Farei durar para sempre",
+        "30": "“Se os filhos dele",
+        "31": "se violarem os meus preceitos",
+        "32": "então punirei com vara",
+        "33": "Mas jamais retirarei dele",
+        "34": "Não violarei a minha aliança,",
+        "35": "“Uma vez jurei",
+        "36": "A sua posteridade",
+        "37": "Ele será estabelecido",
+        "38": "Tu, porém, o repudiaste",
+        "39": "Quebraste a aliança",
+        "40": "Arrasaste",
+        "41": "Todos os que passam",
+        "42": "Exaltaste a mão direita",
+        "43": "Deixaste sem fio a sua espada",
+        "44": "Fizeste cessar o seu esplendor",
+        "45": "Abreviaste",
+        "46": "Até quando, Senhor ?",
+        "47": "Lembra-te de como é breve",
+        "48": "Quem é que pode viver",
+        "49": "Senhor, onde estão",
+        "50": "Lembra-te, Senhor, dos insultos",
+        "51": "com que os teus inimigos,",
+        "52": "Bendito seja o Senhor"
     }
-  }
 }

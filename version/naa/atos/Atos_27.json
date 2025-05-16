@@ -1,182 +1,55 @@
 {
-  "livro": "Atos",
-  "capítulo": 27,
-  "versículos": {
-    "1": {
-      "título": "Paulo é enviado para a Itália",
-      "texto": "Quando foi decidido que devíamos navegar para a Itália, entregaram Paulo e alguns outros presos a um centurião chamado Júlio, do Batalhão Imperial."
+    "livro": "Atos",
+    "capitulo": 27,
+    "titulos": {
+        "1": "Paulo é enviado para a Itália",
+        "9": "Os perigos da viagem",
+        "27": "O naufrágio"
     },
-    "2": {
-      "título": "",
-      "texto": "Embarcando num navio de Adramítio, que estava de partida para costear a província da Ásia, fizemo-nos ao mar, indo conosco Aristarco, um macedônio de Tessalônica."
-    },
-    "3": {
-      "título": "",
-      "texto": "No dia seguinte, chegamos a Sidom. Júlio, tratando Paulo com humanidade, permitiu que ele fosse ver os amigos e obter assistência."
-    },
-    "4": {
-      "título": "",
-      "texto": "Partindo dali, navegamos ao abrigo da ilha de Chipre, porque os ventos eram contrários."
-    },
-    "5": {
-      "título": "",
-      "texto": "E, tendo atravessado o mar ao longo da Cilícia e Panfília, chegamos a Mirra, na Lícia."
-    },
-    "6": {
-      "título": "",
-      "texto": "Nesse porto, o centurião encontrou um navio de Alexandria, que estava de partida para a Itália, e nos fez embarcar nele."
-    },
-    "7": {
-      "título": "",
-      "texto": "Navegando vagarosamente muitos dias, foi com dificuldade que chegamos às imediações de Cnido. Não nos sendo permitido prosseguir, por causa do vento contrário, navegamos ao abrigo de Creta, na altura de Salmona."
-    },
-    "8": {
-      "título": "",
-      "texto": "Costeando a ilha com dificuldade, chegamos a um lugar chamado Bons Portos, perto do qual estava a cidade de Laseia."
-    },
-    "9": {
-      "título": "Os perigos da viagem",
-      "texto": "Depois de muito tempo, tendo-se tornado a navegação perigosa, e já passado o tempo do Dia do Jejum, Paulo os aconselhou,"
-    },
-    "10": {
-      "título": "",
-      "texto": "dizendo:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Porém o centurião dava mais crédito ao piloto e ao mestre do navio do que ao que Paulo dizia."
-    },
-    "12": {
-      "título": "",
-      "texto": "Não sendo o porto próprio para invernar, a maioria deles era de opinião que deviam partir dali, para ver se podiam chegar a Fenice e aí passar o inverno, visto ser um porto de Creta, que olha para o noroeste e para o sudoeste."
-    },
-    "13": {
-      "título": "",
-      "texto": "Soprando brandamente o vento sul, e pensando eles ter alcançado o que desejavam, levantaram âncora e foram costeando mais de perto a ilha de Creta."
-    },
-    "14": {
-      "título": "",
-      "texto": "Entretanto, não muito depois, desencadeou-se, do lado da ilha, um tufão de vento, chamado Euroaquilão."
-    },
-    "15": {
-      "título": "",
-      "texto": "O navio foi arrastado com violência e, sem poder resistir ao vento, cessamos a manobra e nos fomos deixando levar."
-    },
-    "16": {
-      "título": "",
-      "texto": "Passando ao abrigo de uma ilhota chamada Cauda, com dificuldade conseguimos recolher o bote."
-    },
-    "17": {
-      "título": "",
-      "texto": "Tendo içado o bote, os marinheiros usaram de todos os meios para reforçar o navio com cabos de segurança. E, temendo que fossem encalhar nos bancos de areia de Sirte, desceram as velas e foram à deriva."
-    },
-    "18": {
-      "título": "",
-      "texto": "Açoitados severamente pela tormenta, no dia seguinte começaram a jogar a carga no mar."
-    },
-    "19": {
-      "título": "",
-      "texto": "E, no terceiro dia, nós mesmos, com as próprias mãos, lançamos ao mar a armação do navio."
-    },
-    "20": {
-      "título": "",
-      "texto": "E, não aparecendo, havia já alguns dias, nem sol nem estrelas, caindo sobre nós grande tempestade, dissipou-se, afinal, toda a esperança de salvamento."
-    },
-    "21": {
-      "título": "",
-      "texto": "Havendo todos estado muito tempo sem comer, Paulo, pondo-se em pé no meio deles, disse:"
-    },
-    "22": {
-      "título": "",
-      "texto": "Mas agora aconselho que tenham coragem, porque nenhuma vida se perderá, mas somente o navio."
-    },
-    "23": {
-      "título": "",
-      "texto": "Porque, esta mesma noite, um anjo do Deus a quem pertenço e a quem sirvo, esteve comigo,"
-    },
-    "24": {
-      "título": "",
-      "texto": "dizendo: “Paulo, não tenha medo! É preciso que você compareça diante de César, e eis que Deus, por sua graça, lhe deu todos os que navegam com você.”"
-    },
-    "25": {
-      "título": "",
-      "texto": "Portanto, senhores, tenham coragem! Pois eu confio em Deus que tudo vai acontecer conforme me foi dito."
-    },
-    "26": {
-      "título": "",
-      "texto": "Porém é necessário que sejamos arrastados para alguma ilha."
-    },
-    "27": {
-      "título": "O naufrágio",
-      "texto": "Quando chegou a décima quarta noite, sendo nós batidos de um lado para outro no mar Adriático, por volta da meia-noite os marinheiros pressentiram que se aproximavam de alguma terra."
-    },
-    "28": {
-      "título": "",
-      "texto": "E, lançando a sonda, viram que a profundidade era de trinta e seis metros. Passando um pouco mais adiante, tornando a lançar a sonda, viram que a profundidade era de vinte e sete metros."
-    },
-    "29": {
-      "título": "",
-      "texto": "E, receosos de que fôssemos atirados contra lugares rochosos, lançaram da popa quatro âncoras e oravam para que rompesse o dia."
-    },
-    "30": {
-      "título": "",
-      "texto": "Nisto os marinheiros tentaram escapar do navio. Arriaram o bote no mar, a pretexto de que iam largar âncoras da proa."
-    },
-    "31": {
-      "título": "",
-      "texto": "Paulo disse ao centurião e aos soldados:"
-    },
-    "32": {
-      "título": "",
-      "texto": "Então os soldados cortaram os cabos do bote e o deixaram afastar-se."
-    },
-    "33": {
-      "título": "",
-      "texto": "Enquanto amanhecia, Paulo rogava a todos que se alimentassem, dizendo:"
-    },
-    "34": {
-      "título": "",
-      "texto": "Por isso peço que comam alguma coisa, pois disto depende a sobrevivência de vocês. Porque nenhum de vocês perderá nem mesmo um fio de cabelo."
-    },
-    "35": {
-      "título": "",
-      "texto": "Tendo dito isto, pegando um pão, deu graças a Deus na presença de todos e, depois de o partir, começou a comer."
-    },
-    "36": {
-      "título": "",
-      "texto": "Todos ficaram mais animados e se puseram também a comer."
-    },
-    "37": {
-      "título": "",
-      "texto": "Estávamos no navio duzentas e setenta e seis pessoas ao todo."
-    },
-    "38": {
-      "título": "",
-      "texto": "Refeitos com a comida, aliviaram o navio, jogando o trigo no mar."
-    },
-    "39": {
-      "título": "",
-      "texto": "Quando amanheceu, não reconheceram a terra, mas avistaram uma enseada, onde havia uma praia. Então consultaram entre si se não podiam encalhar ali o navio."
-    },
-    "40": {
-      "título": "",
-      "texto": "Cortando os cabos das âncoras, deixaram que ficassem no mar. Soltaram também as amarras do leme. E, alçando a vela de proa ao vento, dirigiram-se para a praia."
-    },
-    "41": {
-      "título": "",
-      "texto": "Dando, porém, num lugar onde duas correntes se encontravam, encalharam ali o navio; a proa encravou-se e ficou imóvel, mas a popa se despedaçava pela violência das ondas."
-    },
-    "42": {
-      "título": "",
-      "texto": "O parecer dos soldados era que os presos deviam ser mortos, para que nenhum deles fugisse nadando."
-    },
-    "43": {
-      "título": "",
-      "texto": "Mas o centurião, querendo salvar Paulo, impediu-os de fazer isso. Ordenou que os que soubessem nadar fossem os primeiros a lançar-se ao mar e alcançar a terra."
-    },
-    "44": {
-      "título": "",
-      "texto": "Quanto aos demais, que se salvassem, uns, em tábuas, e outros, em destroços do navio. E foi assim que todos se salvaram em terra."
+    "versiculos": {
+        "1": "Quando foi decidido que devíamos navegar para a Itália, entregaram Paulo e alguns outros presos a um centurião chamado Júlio, do Batalhão Imperial.",
+        "2": "Embarcando num navio de Adramítio, que estava de partida para costear a província da Ásia, fizemo-nos ao mar, indo conosco Aristarco, um macedônio de Tessalônica.",
+        "3": "No dia seguinte, chegamos a Sidom. Júlio, tratando Paulo com humanidade, permitiu que ele fosse ver os amigos e obter assistência.",
+        "4": "Partindo dali, navegamos ao abrigo da ilha de Chipre, porque os ventos eram contrários.",
+        "5": "E, tendo atravessado o mar ao longo da Cilícia e Panfília, chegamos a Mirra, na Lícia.",
+        "6": "Nesse porto, o centurião encontrou um navio de Alexandria, que estava de partida para a Itália, e nos fez embarcar nele.",
+        "7": "Navegando vagarosamente muitos dias, foi com dificuldade que chegamos às imediações de Cnido. Não nos sendo permitido prosseguir, por causa do vento contrário, navegamos ao abrigo de Creta, na altura de Salmona.",
+        "8": "Costeando a ilha com dificuldade, chegamos a um lugar chamado Bons Portos, perto do qual estava a cidade de Laseia.",
+        "9": "Depois de muito tempo, tendo-se tornado a navegação perigosa, e já passado o tempo do Dia do Jejum, Paulo os aconselhou,",
+        "10": "dizendo:",
+        "11": "Porém o centurião dava mais crédito ao piloto e ao mestre do navio do que ao que Paulo dizia.",
+        "12": "Não sendo o porto próprio para invernar, a maioria deles era de opinião que deviam partir dali, para ver se podiam chegar a Fenice e aí passar o inverno, visto ser um porto de Creta, que olha para o noroeste e para o sudoeste.",
+        "13": "Soprando brandamente o vento sul, e pensando eles ter alcançado o que desejavam, levantaram âncora e foram costeando mais de perto a ilha de Creta.",
+        "14": "Entretanto, não muito depois, desencadeou-se, do lado da ilha, um tufão de vento, chamado Euroaquilão.",
+        "15": "O navio foi arrastado com violência e, sem poder resistir ao vento, cessamos a manobra e nos fomos deixando levar.",
+        "16": "Passando ao abrigo de uma ilhota chamada Cauda, com dificuldade conseguimos recolher o bote.",
+        "17": "Tendo içado o bote, os marinheiros usaram de todos os meios para reforçar o navio com cabos de segurança. E, temendo que fossem encalhar nos bancos de areia de Sirte, desceram as velas e foram à deriva.",
+        "18": "Açoitados severamente pela tormenta, no dia seguinte começaram a jogar a carga no mar.",
+        "19": "E, no terceiro dia, nós mesmos, com as próprias mãos, lançamos ao mar a armação do navio.",
+        "20": "E, não aparecendo, havia já alguns dias, nem sol nem estrelas, caindo sobre nós grande tempestade, dissipou-se, afinal, toda a esperança de salvamento.",
+        "21": "Havendo todos estado muito tempo sem comer, Paulo, pondo-se em pé no meio deles, disse:",
+        "22": "Mas agora aconselho que tenham coragem, porque nenhuma vida se perderá, mas somente o navio.",
+        "23": "Porque, esta mesma noite, um anjo do Deus a quem pertenço e a quem sirvo, esteve comigo,",
+        "24": "dizendo: “Paulo, não tenha medo! É preciso que você compareça diante de César, e eis que Deus, por sua graça, lhe deu todos os que navegam com você.”",
+        "25": "Portanto, senhores, tenham coragem! Pois eu confio em Deus que tudo vai acontecer conforme me foi dito.",
+        "26": "Porém é necessário que sejamos arrastados para alguma ilha.",
+        "27": "Quando chegou a décima quarta noite, sendo nós batidos de um lado para outro no mar Adriático, por volta da meia-noite os marinheiros pressentiram que se aproximavam de alguma terra.",
+        "28": "E, lançando a sonda, viram que a profundidade era de trinta e seis metros. Passando um pouco mais adiante, tornando a lançar a sonda, viram que a profundidade era de vinte e sete metros.",
+        "29": "E, receosos de que fôssemos atirados contra lugares rochosos, lançaram da popa quatro âncoras e oravam para que rompesse o dia.",
+        "30": "Nisto os marinheiros tentaram escapar do navio. Arriaram o bote no mar, a pretexto de que iam largar âncoras da proa.",
+        "31": "Paulo disse ao centurião e aos soldados:",
+        "32": "Então os soldados cortaram os cabos do bote e o deixaram afastar-se.",
+        "33": "Enquanto amanhecia, Paulo rogava a todos que se alimentassem, dizendo:",
+        "34": "Por isso peço que comam alguma coisa, pois disto depende a sobrevivência de vocês. Porque nenhum de vocês perderá nem mesmo um fio de cabelo.",
+        "35": "Tendo dito isto, pegando um pão, deu graças a Deus na presença de todos e, depois de o partir, começou a comer.",
+        "36": "Todos ficaram mais animados e se puseram também a comer.",
+        "37": "Estávamos no navio duzentas e setenta e seis pessoas ao todo.",
+        "38": "Refeitos com a comida, aliviaram o navio, jogando o trigo no mar.",
+        "39": "Quando amanheceu, não reconheceram a terra, mas avistaram uma enseada, onde havia uma praia. Então consultaram entre si se não podiam encalhar ali o navio.",
+        "40": "Cortando os cabos das âncoras, deixaram que ficassem no mar. Soltaram também as amarras do leme. E, alçando a vela de proa ao vento, dirigiram-se para a praia.",
+        "41": "Dando, porém, num lugar onde duas correntes se encontravam, encalharam ali o navio; a proa encravou-se e ficou imóvel, mas a popa se despedaçava pela violência das ondas.",
+        "42": "O parecer dos soldados era que os presos deviam ser mortos, para que nenhum deles fugisse nadando.",
+        "43": "Mas o centurião, querendo salvar Paulo, impediu-os de fazer isso. Ordenou que os que soubessem nadar fossem os primeiros a lançar-se ao mar e alcançar a terra.",
+        "44": "Quanto aos demais, que se salvassem, uns, em tábuas, e outros, em destroços do navio. E foi assim que todos se salvaram em terra."
     }
-  }
 }

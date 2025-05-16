@@ -1,54 +1,21 @@
 {
-  "livro": "Isaías",
-  "capítulo": 62,
-  "versículos": {
-    "1": {
-      "título": "Jerusalém, a noiva do Senhor",
-      "texto": "Por amor de Sião, não me calarei"
+    "livro": "Isaías",
+    "capitulo": 62,
+    "titulos": {
+        "1": "Jerusalém, a noiva do Senhor"
     },
-    "2": {
-      "título": "",
-      "texto": "As nações verão a sua justiça,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Você será uma coroa de glória"
-    },
-    "4": {
-      "título": "",
-      "texto": "Nunca mais a chamarão"
-    },
-    "5": {
-      "título": "",
-      "texto": "Porque, como o jovem"
-    },
-    "6": {
-      "título": "",
-      "texto": "Sobre as suas muralhas,"
-    },
-    "7": {
-      "título": "",
-      "texto": "nem deem a ele descanso"
-    },
-    "8": {
-      "título": "",
-      "texto": "O Senhor jurou"
-    },
-    "9": {
-      "título": "",
-      "texto": "Mas aqueles que ajuntam"
-    },
-    "10": {
-      "título": "",
-      "texto": "Passem, passem pelas portas!"
-    },
-    "11": {
-      "título": "",
-      "texto": "Eis que o Senhor fez ouvir"
-    },
-    "12": {
-      "título": "",
-      "texto": "Eles serão chamados de"
+    "versiculos": {
+        "1": "Por amor de Sião, não me calarei",
+        "2": "As nações verão a sua justiça,",
+        "3": "Você será uma coroa de glória",
+        "4": "Nunca mais a chamarão",
+        "5": "Porque, como o jovem",
+        "6": "Sobre as suas muralhas,",
+        "7": "nem deem a ele descanso",
+        "8": "O Senhor jurou",
+        "9": "Mas aqueles que ajuntam",
+        "10": "Passem, passem pelas portas!",
+        "11": "Eis que o Senhor fez ouvir",
+        "12": "Eles serão chamados de"
     }
-  }
 }

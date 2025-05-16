@@ -1,170 +1,54 @@
 {
-  "livro": "Atos",
-  "capítulo": 15,
-  "versículos": {
-    "1": {
-      "título": "A controvérsia sobre a circuncisão de gentios",
-      "texto": "Alguns indivíduos que foram da Judeia para Antioquia ensinavam aos irmãos:"
+    "livro": "Atos",
+    "capitulo": 15,
+    "titulos": {
+        "1": "A controvérsia sobre a circuncisão de gentios",
+        "6": "A reunião dos apóstolos e presbíteros em Jerusalém",
+        "12": "O parecer de Tiago",
+        "22": "A decisão enviada a Antioquia",
+        "30": "A leitura da mensagem",
+        "36": "A segunda viagem missionária. Paulo e Barnabé se separam"
     },
-    "2": {
-      "título": "",
-      "texto": "Tendo surgido um conflito e grande discussão de Paulo e Barnabé com eles, foi resolvido que esses dois e mais alguns fossem a Jerusalém, aos apóstolos e presbíteros, para tratar desta questão."
-    },
-    "3": {
-      "título": "",
-      "texto": "Encaminhados, pois, pela igreja, atravessaram as províncias da Fenícia e Samaria e, narrando a conversão dos gentios, causaram grande alegria a todos os irmãos."
-    },
-    "4": {
-      "título": "",
-      "texto": "Quando chegaram a Jerusalém, foram bem-recebidos pela igreja, pelos apóstolos e pelos presbíteros, a quem relataram tudo o que Deus havia feito com eles."
-    },
-    "5": {
-      "título": "",
-      "texto": "Mas alguns membros do partido dos fariseus que haviam crido se insurgiram, dizendo:"
-    },
-    "6": {
-      "título": "A reunião dos apóstolos e presbíteros em Jerusalém",
-      "texto": "Então os apóstolos e os presbíteros se reuniram para examinar a questão."
-    },
-    "7": {
-      "título": "",
-      "texto": "Havendo grande debate, Pedro tomou a palavra e disse:"
-    },
-    "8": {
-      "título": "",
-      "texto": "E Deus, que conhece os corações, lhes deu testemunho, concedendo o Espírito Santo a eles, como também o havia concedido a nós."
-    },
-    "9": {
-      "título": "",
-      "texto": "E não estabeleceu distinção alguma entre nós e eles, purificando-lhes o coração por meio da fé."
-    },
-    "10": {
-      "título": "",
-      "texto": "Agora, pois, por que vocês querem tentar a Deus, pondo sobre o pescoço dos discípulos um jugo que nem os nossos pais puderam suportar, nem nós?"
-    },
-    "11": {
-      "título": "",
-      "texto": "Mas cremos que somos salvos pela graça do Senhor Jesus, assim como eles."
-    },
-    "12": {
-      "título": "O parecer de Tiago",
-      "texto": "E toda a multidão silenciou, passando a ouvir Barnabé e Paulo, que contavam quantos sinais e prodígios Deus tinha feito por meio deles entre os gentios."
-    },
-    "13": {
-      "título": "",
-      "texto": "Depois que eles terminaram, Tiago tomou a palavra e disse:"
-    },
-    "14": {
-      "título": "",
-      "texto": "Simão acaba de relatar como, primeiramente, Deus visitou os gentios, a fim de constituir entre eles um povo para o seu nome."
-    },
-    "15": {
-      "título": "",
-      "texto": "Com isso concordam as palavras dos profetas, como está escrito:"
-    },
-    "16": {
-      "título": "",
-      "texto": "“Depois disso,"
-    },
-    "17": {
-      "título": "",
-      "texto": "Para que o restante da humanidade"
-    },
-    "18": {
-      "título": "",
-      "texto": "diz o Senhor,"
-    },
-    "19": {
-      "título": "",
-      "texto": "— Por isso, julgo que não devemos perturbar aqueles que, entre os gentios, se convertem a Deus,"
-    },
-    "20": {
-      "título": "",
-      "texto": "mas escrever-lhes que se abstenham das contaminações dos ídolos, bem como da imoralidade sexual, da carne de animais sufocados e do sangue."
-    },
-    "21": {
-      "título": "",
-      "texto": "Porque Moisés tem, em cada cidade, desde tempos antigos, os que o pregam nas sinagogas, onde é lido todos os sábados."
-    },
-    "22": {
-      "título": "A decisão enviada a Antioquia",
-      "texto": "Então pareceu bem aos apóstolos e aos presbíteros, com toda a igreja, eleger alguns homens dentre eles e enviá-los a Antioquia, juntamente com Paulo e Barnabé. Foram eleitos Judas, chamado Barsabás, e Silas, que eram líderes entre os irmãos."
-    },
-    "23": {
-      "título": "",
-      "texto": "Mandaram por eles a seguinte carta:"
-    },
-    "24": {
-      "título": "",
-      "texto": "Visto sabermos que alguns que saíram de nosso meio, sem nenhuma autorização, perturbaram vocês com palavras, transtornando a mente de vocês,"
-    },
-    "25": {
-      "título": "",
-      "texto": "pareceu-nos bem, chegados a pleno acordo, eleger alguns homens e enviá-los a vocês com os nossos amados Barnabé e Paulo,"
-    },
-    "26": {
-      "título": "",
-      "texto": "homens que têm arriscado a vida pelo nome de nosso Senhor Jesus Cristo."
-    },
-    "27": {
-      "título": "",
-      "texto": "Portanto, estamos enviando Judas e Silas, os quais pessoalmente lhes dirão as mesmas coisas."
-    },
-    "28": {
-      "título": "",
-      "texto": "Pois pareceu bem ao Espírito Santo e a nós não impor a vocês maior encargo além destas coisas essenciais:"
-    },
-    "29": {
-      "título": "",
-      "texto": "que vocês se abstenham das coisas sacrificadas a ídolos, bem como do sangue, da carne de animais sufocados e da imoralidade sexual; se evitarem essas coisas, farão bem."
-    },
-    "30": {
-      "título": "A leitura da mensagem",
-      "texto": "Os que foram enviados partiram para Antioquia e, tendo reunido a comunidade, entregaram a carta."
-    },
-    "31": {
-      "título": "",
-      "texto": "Quando a leram, ficaram muito alegres pelo consolo recebido."
-    },
-    "32": {
-      "título": "",
-      "texto": "Judas e Silas, que eram também profetas, consolaram os irmãos com muitos conselhos e os fortaleceram."
-    },
-    "33": {
-      "título": "",
-      "texto": "Tendo-se demorado ali por algum tempo, os irmãos deixaram que voltassem em paz aos que os enviaram."
-    },
-    "34": {
-      "título": "",
-      "texto": ""
-    },
-    "35": {
-      "título": "",
-      "texto": "Paulo e Barnabé demoraram-se em Antioquia, ensinando e pregando, com muitos outros, a palavra do Senhor."
-    },
-    "36": {
-      "título": "A segunda viagem missionária. Paulo e Barnabé se separam",
-      "texto": "Alguns dias depois, Paulo disse a Barnabé:"
-    },
-    "37": {
-      "título": "",
-      "texto": "Barnabé queria levar também João, chamado Marcos."
-    },
-    "38": {
-      "título": "",
-      "texto": "Mas Paulo não achava justo levar aquele que tinha se afastado deles desde a Panfília, não os acompanhando no trabalho."
-    },
-    "39": {
-      "título": "",
-      "texto": "Houve tal desavença entre eles, que vieram a separar-se. Então Barnabé, levando consigo Marcos, navegou para Chipre."
-    },
-    "40": {
-      "título": "",
-      "texto": "Mas Paulo, tendo escolhido Silas, partiu, encomendado pelos irmãos à graça do Senhor."
-    },
-    "41": {
-      "título": "",
-      "texto": "E passou pela Síria e Cilícia, fortalecendo as igrejas."
+    "versiculos": {
+        "1": "Alguns indivíduos que foram da Judeia para Antioquia ensinavam aos irmãos:",
+        "2": "Tendo surgido um conflito e grande discussão de Paulo e Barnabé com eles, foi resolvido que esses dois e mais alguns fossem a Jerusalém, aos apóstolos e presbíteros, para tratar desta questão.",
+        "3": "Encaminhados, pois, pela igreja, atravessaram as províncias da Fenícia e Samaria e, narrando a conversão dos gentios, causaram grande alegria a todos os irmãos.",
+        "4": "Quando chegaram a Jerusalém, foram bem-recebidos pela igreja, pelos apóstolos e pelos presbíteros, a quem relataram tudo o que Deus havia feito com eles.",
+        "5": "Mas alguns membros do partido dos fariseus que haviam crido se insurgiram, dizendo:",
+        "6": "Então os apóstolos e os presbíteros se reuniram para examinar a questão.",
+        "7": "Havendo grande debate, Pedro tomou a palavra e disse:",
+        "8": "E Deus, que conhece os corações, lhes deu testemunho, concedendo o Espírito Santo a eles, como também o havia concedido a nós.",
+        "9": "E não estabeleceu distinção alguma entre nós e eles, purificando-lhes o coração por meio da fé.",
+        "10": "Agora, pois, por que vocês querem tentar a Deus, pondo sobre o pescoço dos discípulos um jugo que nem os nossos pais puderam suportar, nem nós?",
+        "11": "Mas cremos que somos salvos pela graça do Senhor Jesus, assim como eles.",
+        "12": "E toda a multidão silenciou, passando a ouvir Barnabé e Paulo, que contavam quantos sinais e prodígios Deus tinha feito por meio deles entre os gentios.",
+        "13": "Depois que eles terminaram, Tiago tomou a palavra e disse:",
+        "14": "Simão acaba de relatar como, primeiramente, Deus visitou os gentios, a fim de constituir entre eles um povo para o seu nome.",
+        "15": "Com isso concordam as palavras dos profetas, como está escrito:",
+        "16": "“Depois disso,",
+        "17": "Para que o restante da humanidade",
+        "18": "diz o Senhor,",
+        "19": "— Por isso, julgo que não devemos perturbar aqueles que, entre os gentios, se convertem a Deus,",
+        "20": "mas escrever-lhes que se abstenham das contaminações dos ídolos, bem como da imoralidade sexual, da carne de animais sufocados e do sangue.",
+        "21": "Porque Moisés tem, em cada cidade, desde tempos antigos, os que o pregam nas sinagogas, onde é lido todos os sábados.",
+        "22": "Então pareceu bem aos apóstolos e aos presbíteros, com toda a igreja, eleger alguns homens dentre eles e enviá-los a Antioquia, juntamente com Paulo e Barnabé. Foram eleitos Judas, chamado Barsabás, e Silas, que eram líderes entre os irmãos.",
+        "23": "Mandaram por eles a seguinte carta:",
+        "24": "Visto sabermos que alguns que saíram de nosso meio, sem nenhuma autorização, perturbaram vocês com palavras, transtornando a mente de vocês,",
+        "25": "pareceu-nos bem, chegados a pleno acordo, eleger alguns homens e enviá-los a vocês com os nossos amados Barnabé e Paulo,",
+        "26": "homens que têm arriscado a vida pelo nome de nosso Senhor Jesus Cristo.",
+        "27": "Portanto, estamos enviando Judas e Silas, os quais pessoalmente lhes dirão as mesmas coisas.",
+        "28": "Pois pareceu bem ao Espírito Santo e a nós não impor a vocês maior encargo além destas coisas essenciais:",
+        "29": "que vocês se abstenham das coisas sacrificadas a ídolos, bem como do sangue, da carne de animais sufocados e da imoralidade sexual; se evitarem essas coisas, farão bem.",
+        "30": "Os que foram enviados partiram para Antioquia e, tendo reunido a comunidade, entregaram a carta.",
+        "31": "Quando a leram, ficaram muito alegres pelo consolo recebido.",
+        "32": "Judas e Silas, que eram também profetas, consolaram os irmãos com muitos conselhos e os fortaleceram.",
+        "33": "Tendo-se demorado ali por algum tempo, os irmãos deixaram que voltassem em paz aos que os enviaram.",
+        "35": "Paulo e Barnabé demoraram-se em Antioquia, ensinando e pregando, com muitos outros, a palavra do Senhor.",
+        "36": "Alguns dias depois, Paulo disse a Barnabé:",
+        "37": "Barnabé queria levar também João, chamado Marcos.",
+        "38": "Mas Paulo não achava justo levar aquele que tinha se afastado deles desde a Panfília, não os acompanhando no trabalho.",
+        "39": "Houve tal desavença entre eles, que vieram a separar-se. Então Barnabé, levando consigo Marcos, navegou para Chipre.",
+        "40": "Mas Paulo, tendo escolhido Silas, partiu, encomendado pelos irmãos à graça do Senhor.",
+        "41": "E passou pela Síria e Cilícia, fortalecendo as igrejas."
     }
-  }
 }

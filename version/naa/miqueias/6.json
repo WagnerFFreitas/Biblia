@@ -1,70 +1,27 @@
 {
-  "livro": "Miquéias",
-  "capítulo": 6,
-  "versículos": {
-    "1": {
-      "título": "Deus entrará em juízo com o seu povo",
-      "texto": "Escutem agora"
+    "livro": "Miquéias",
+    "capitulo": 6,
+    "titulos": {
+        "1": "Deus entrará em juízo com o seu povo",
+        "6": "O que Deus exige",
+        "9": "A injustiça terá seu castigo"
     },
-    "2": {
-      "título": "",
-      "texto": "Ó montes, escutem"
-    },
-    "3": {
-      "título": "",
-      "texto": "“Meu povo,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Pois eu o tirei da terra do Egito"
-    },
-    "5": {
-      "título": "",
-      "texto": "Meu povo,"
-    },
-    "6": {
-      "título": "O que Deus exige",
-      "texto": "Com que me apresentarei"
-    },
-    "7": {
-      "título": "",
-      "texto": "Será que o Senhor se agrada"
-    },
-    "8": {
-      "título": "",
-      "texto": "Ele já mostrou a você o que é bom;"
-    },
-    "9": {
-      "título": "A injustiça terá seu castigo",
-      "texto": "A voz do Senhor"
-    },
-    "10": {
-      "título": "",
-      "texto": "Ainda se encontram,"
-    },
-    "11": {
-      "título": "",
-      "texto": "Poderei eu inocentar"
-    },
-    "12": {
-      "título": "",
-      "texto": "Porque os ricos da cidade"
-    },
-    "13": {
-      "título": "",
-      "texto": "Assim, também"
-    },
-    "14": {
-      "título": "",
-      "texto": "Vocês comerão,"
-    },
-    "15": {
-      "título": "",
-      "texto": "Vocês irão semear,"
-    },
-    "16": {
-      "título": "",
-      "texto": "Vocês observaram"
+    "versiculos": {
+        "1": "Escutem agora",
+        "2": "Ó montes, escutem",
+        "3": "“Meu povo,",
+        "4": "Pois eu o tirei da terra do Egito",
+        "5": "Meu povo,",
+        "6": "Com que me apresentarei",
+        "7": "Será que o Senhor se agrada",
+        "8": "Ele já mostrou a você o que é bom;",
+        "9": "A voz do Senhor",
+        "10": "Ainda se encontram,",
+        "11": "Poderei eu inocentar",
+        "12": "Porque os ricos da cidade",
+        "13": "Assim, também",
+        "14": "Vocês comerão,",
+        "15": "Vocês irão semear,",
+        "16": "Vocês observaram"
     }
-  }
 }

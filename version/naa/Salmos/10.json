@@ -1,78 +1,27 @@
 {
-  "livro": "Salmos",
-  "capítulo": 10,
-  "versículos": {
-    "1": {
-      "título": "Oração pedindo justiça",
-      "texto": "Por que, Senhor ,"
+    "livro": "Salmos",
+    "capitulo": 10,
+    "titulos": {
+        "1": "Oração pedindo justiça"
     },
-    "2": {
-      "título": "",
-      "texto": "Com arrogância, os ímpios"
-    },
-    "3": {
-      "título": "",
-      "texto": "Pois o perverso se gloria"
-    },
-    "4": {
-      "título": "",
-      "texto": "Em sua soberba,"
-    },
-    "5": {
-      "título": "",
-      "texto": "São prósperos os caminhos dele"
-    },
-    "6": {
-      "título": "",
-      "texto": "Pois lá no seu íntimo diz:"
-    },
-    "7": {
-      "título": "",
-      "texto": "A sua boca está cheia"
-    },
-    "8": {
-      "título": "",
-      "texto": "Põe-se de tocaia nas aldeias,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Ele se põe de emboscada,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Abaixa-se, rasteja;"
-    },
-    "11": {
-      "título": "",
-      "texto": "Diz ele, no seu íntimo:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Levanta-te, Senhor !"
-    },
-    "13": {
-      "título": "",
-      "texto": "Por que o ímpio despreza Deus,"
-    },
-    "14": {
-      "título": "",
-      "texto": "Tu, porém, tens visto isso,"
-    },
-    "15": {
-      "título": "",
-      "texto": "Quebra o braço do perverso"
-    },
-    "16": {
-      "título": "",
-      "texto": "O Senhor é rei eterno:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Tens ouvido, Senhor ,"
-    },
-    "18": {
-      "título": "",
-      "texto": "para fazeres justiça ao órfão"
+    "versiculos": {
+        "1": "Por que, Senhor ,",
+        "2": "Com arrogância, os ímpios",
+        "3": "Pois o perverso se gloria",
+        "4": "Em sua soberba,",
+        "5": "São prósperos os caminhos dele",
+        "6": "Pois lá no seu íntimo diz:",
+        "7": "A sua boca está cheia",
+        "8": "Põe-se de tocaia nas aldeias,",
+        "9": "Ele se põe de emboscada,",
+        "10": "Abaixa-se, rasteja;",
+        "11": "Diz ele, no seu íntimo:",
+        "12": "Levanta-te, Senhor !",
+        "13": "Por que o ímpio despreza Deus,",
+        "14": "Tu, porém, tens visto isso,",
+        "15": "Quebra o braço do perverso",
+        "16": "O Senhor é rei eterno:",
+        "17": "Tens ouvido, Senhor ,",
+        "18": "para fazeres justiça ao órfão"
     }
-  }
 }

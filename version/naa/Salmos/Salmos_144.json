@@ -1,66 +1,24 @@
 {
-  "livro": "Salmos",
-  "capítulo": 144,
-  "versículos": {
-    "1": {
-      "título": "Gratidão pela proteção de Deus",
-      "texto": "Bendito seja o Senhor ,"
+    "livro": "Salmos",
+    "capitulo": 144,
+    "titulos": {
+        "1": "Gratidão pela proteção de Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "Ele é a minha misericórdia"
-    },
-    "3": {
-      "título": "",
-      "texto": "Senhor , que é o homem"
-    },
-    "4": {
-      "título": "",
-      "texto": "O ser humano é como um sopro;"
-    },
-    "5": {
-      "título": "",
-      "texto": "Abaixa, Senhor ,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Manda relâmpagos"
-    },
-    "7": {
-      "título": "",
-      "texto": "Estende a mão lá do alto;"
-    },
-    "8": {
-      "título": "",
-      "texto": "cuja boca profere mentiras,"
-    },
-    "9": {
-      "título": "",
-      "texto": "A ti, ó Deus, entoarei"
-    },
-    "10": {
-      "título": "",
-      "texto": "É ele quem dá aos reis a vitória;"
-    },
-    "11": {
-      "título": "",
-      "texto": "Livra-me e salva-me"
-    },
-    "12": {
-      "título": "",
-      "texto": "Que os nossos filhos"
-    },
-    "13": {
-      "título": "",
-      "texto": "Que os nossos celeiros"
-    },
-    "14": {
-      "título": "",
-      "texto": "Que o nosso gado seja fértil,"
-    },
-    "15": {
-      "título": "",
-      "texto": "Bem-aventurado o povo"
+    "versiculos": {
+        "1": "Bendito seja o Senhor ,",
+        "2": "Ele é a minha misericórdia",
+        "3": "Senhor , que é o homem",
+        "4": "O ser humano é como um sopro;",
+        "5": "Abaixa, Senhor ,",
+        "6": "Manda relâmpagos",
+        "7": "Estende a mão lá do alto;",
+        "8": "cuja boca profere mentiras,",
+        "9": "A ti, ó Deus, entoarei",
+        "10": "É ele quem dá aos reis a vitória;",
+        "11": "Livra-me e salva-me",
+        "12": "Que os nossos filhos",
+        "13": "Que os nossos celeiros",
+        "14": "Que o nosso gado seja fértil,",
+        "15": "Bem-aventurado o povo"
     }
-  }
 }

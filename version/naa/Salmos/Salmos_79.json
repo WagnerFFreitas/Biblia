@@ -1,58 +1,22 @@
 {
-  "livro": "Salmos",
-  "capítulo": 79,
-  "versículos": {
-    "1": {
-      "título": "Apelo à misericórdia divina",
-      "texto": "Ó Deus, as nações invadiram"
+    "livro": "Salmos",
+    "capitulo": 79,
+    "titulos": {
+        "1": "Apelo à misericórdia divina"
     },
-    "2": {
-      "título": "",
-      "texto": "Deram os cadáveres"
-    },
-    "3": {
-      "título": "",
-      "texto": "Derramaram como água"
-    },
-    "4": {
-      "título": "",
-      "texto": "Tornamo-nos objeto de deboche"
-    },
-    "5": {
-      "título": "",
-      "texto": "Até quando, Senhor ?"
-    },
-    "6": {
-      "título": "",
-      "texto": "Derrama o teu furor"
-    },
-    "7": {
-      "título": "",
-      "texto": "Porque eles devoraram Jacó"
-    },
-    "8": {
-      "título": "",
-      "texto": "Não nos faças pagar"
-    },
-    "9": {
-      "título": "",
-      "texto": "Ajuda-nos, ó Deus"
-    },
-    "10": {
-      "título": "",
-      "texto": "Por que diriam as nações:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Chegue à tua presença"
-    },
-    "12": {
-      "título": "",
-      "texto": "Retribui, Senhor,"
-    },
-    "13": {
-      "título": "",
-      "texto": "Quanto a nós, teu povo"
+    "versiculos": {
+        "1": "Ó Deus, as nações invadiram",
+        "2": "Deram os cadáveres",
+        "3": "Derramaram como água",
+        "4": "Tornamo-nos objeto de deboche",
+        "5": "Até quando, Senhor ?",
+        "6": "Derrama o teu furor",
+        "7": "Porque eles devoraram Jacó",
+        "8": "Não nos faças pagar",
+        "9": "Ajuda-nos, ó Deus",
+        "10": "Por que diriam as nações:",
+        "11": "Chegue à tua presença",
+        "12": "Retribui, Senhor,",
+        "13": "Quanto a nós, teu povo"
     }
-  }
 }

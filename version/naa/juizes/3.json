@@ -1,130 +1,43 @@
 {
-  "livro": "Juízes",
-  "capítulo": 3,
-  "versículos": {
-    "1": {
-      "título": "Povos pagãos no meio de Israel",
-      "texto": "São estas as nações que o Senhor deixou ficar para, por meio delas, pôr Israel à prova, isto é, para provar todos os israelitas que não sabiam de todas as guerras de Canaã."
+    "livro": "Juízes",
+    "capitulo": 3,
+    "titulos": {
+        "1": "Povos pagãos no meio de Israel",
+        "7": "Otniel",
+        "12": "Eúde",
+        "31": "Sangar"
     },
-    "2": {
-      "título": "",
-      "texto": "Ele fez isso tão somente para que as gerações dos filhos de Israel conhecessem a guerra, para lhes ensinar a guerra, pelo menos às gerações que, anteriormente, não sabiam disso."
-    },
-    "3": {
-      "título": "",
-      "texto": "Os que ficaram foram: cinco governantes dos filisteus, todos os cananeus, sidônios e heveus que habitavam as montanhas do Líbano, desde o monte de Baal-Hermom até a entrada de Hamate."
-    },
-    "4": {
-      "título": "",
-      "texto": "Estes ficaram para, por meio deles, o Senhor pôr Israel à prova, para saber se dariam ouvidos aos mandamentos que havia ordenado a seus pais por meio de Moisés."
-    },
-    "5": {
-      "título": "",
-      "texto": "Assim, os filhos de Israel moravam no meio dos cananeus, dos heteus, dos amorreus, dos ferezeus, dos heveus e dos jebuseus."
-    },
-    "6": {
-      "título": "",
-      "texto": "Tomaram de suas filhas para si por mulheres e deram as suas próprias aos filhos deles; e rendiam culto a seus deuses."
-    },
-    "7": {
-      "título": "Otniel",
-      "texto": "Os filhos de Israel fizeram o que era mau aos olhos do Senhor e se esqueceram do Senhor , seu Deus; e renderam culto aos baalins e ao poste da deusa Aserá."
-    },
-    "8": {
-      "título": "",
-      "texto": "Então a ira do Senhor se acendeu contra Israel, e ele os entregou nas mãos de Cusã-Risataim, rei da Mesopotâmia; e os filhos de Israel serviram Cusã-Risataim durante oito anos."
-    },
-    "9": {
-      "título": "",
-      "texto": "Os filhos de Israel clamaram ao Senhor , e o Senhor lhes suscitou um libertador, que os libertou: Otniel, filho de Quenaz, que era irmão de Calebe e mais novo do que ele."
-    },
-    "10": {
-      "título": "",
-      "texto": "O Espírito do Senhor veio sobre ele, e ele se tornou juiz de Israel. Foi para a guerra, e o Senhor lhe entregou nas mãos Cusã-Risataim, rei da Mesopotâmia, contra o qual ele prevaleceu."
-    },
-    "11": {
-      "título": "",
-      "texto": "Então a terra ficou em paz durante quarenta anos. Otniel, filho de Quenaz, morreu."
-    },
-    "12": {
-      "título": "Eúde",
-      "texto": "Os filhos de Israel tornaram a fazer o que era mau aos olhos do Senhor . Por isso, o Senhor deu poder a Eglom, rei dos moabitas, contra Israel, porque fizeram o que era mau aos olhos do Senhor ."
-    },
-    "13": {
-      "título": "",
-      "texto": "Eglom se juntou com os filhos de Amom e os amalequitas, foi e derrotou Israel. E eles se apoderaram da cidade das palmeiras."
-    },
-    "14": {
-      "título": "",
-      "texto": "E os filhos de Israel serviram Eglom, rei dos moabitas, durante dezoito anos."
-    },
-    "15": {
-      "título": "",
-      "texto": "Então os filhos de Israel clamaram ao Senhor , e o Senhor lhes suscitou um libertador: Eúde, homem canhoto, filho de Gera, benjamita. Por meio dele, os filhos de Israel enviaram tributo a Eglom, rei dos moabitas."
-    },
-    "16": {
-      "título": "",
-      "texto": "Eúde fez para si um punhal de dois gumes, do comprimento de quase meio metro; e cingiu-o debaixo da sua roupa, do lado direito."
-    },
-    "17": {
-      "título": "",
-      "texto": "Então ele levou o tributo a Eglom, rei dos moabitas. Eglom era um homem muito gordo."
-    },
-    "18": {
-      "título": "",
-      "texto": "Depois de entregar o tributo, Eúde saiu com os carregadores do tributo."
-    },
-    "19": {
-      "título": "",
-      "texto": "Ele, porém, voltou do ponto em que estavam as imagens de escultura ao pé de Gilgal e disse ao rei:"
-    },
-    "20": {
-      "título": "",
-      "texto": "Eúde entrou numa sala de verão, que o rei tinha só para si, e onde ele estava sentado. Eúde disse:"
-    },
-    "21": {
-      "título": "",
-      "texto": "Então Eúde estendeu a mão esquerda, puxou o seu punhal do lado direito e o cravou na barriga do rei,"
-    },
-    "22": {
-      "título": "",
-      "texto": "de tal maneira que entrou também o cabo com a lâmina; e, porque não tirou o punhal da barriga, a gordura se fechou sobre ele. Eúde saiu por uma portinhola,"
-    },
-    "23": {
-      "título": "",
-      "texto": "passou para a antessala, depois de fechar e trancar as portas atrás de si."
-    },
-    "24": {
-      "título": "",
-      "texto": "Quando ele tinha saído, vieram os servos do rei e viram que as portas da sala de verão estavam trancadas. E disseram:"
-    },
-    "25": {
-      "título": "",
-      "texto": "Esperaram até cansar; e, como o rei não abria a porta da sala, pegaram a chave e a abriram; e eis que o seu senhor estava morto, caído no chão."
-    },
-    "26": {
-      "título": "",
-      "texto": "Eúde escapou enquanto eles se demoravam e, tendo passado pelas imagens de escultura, foi para Seirá."
-    },
-    "27": {
-      "título": "",
-      "texto": "Tendo chegado, tocou a trombeta nas montanhas de Efraim; e os filhos de Israel desceram com ele das montanhas, indo ele à frente."
-    },
-    "28": {
-      "título": "",
-      "texto": "E lhes disse:"
-    },
-    "29": {
-      "título": "",
-      "texto": "Naquele tempo, mataram uns dez mil homens moabitas, todos robustos e valentes; e não escapou nem sequer um."
-    },
-    "30": {
-      "título": "",
-      "texto": "Assim, naquele dia, Moabe foi subjugado por Israel."
-    },
-    "31": {
-      "título": "Sangar",
-      "texto": "Depois de Eúde veio Sangar, filho de Anate, que matou seiscentos filisteus com uma aguilhada de bois; e também ele libertou Israel."
+    "versiculos": {
+        "1": "São estas as nações que o Senhor deixou ficar para, por meio delas, pôr Israel à prova, isto é, para provar todos os israelitas que não sabiam de todas as guerras de Canaã.",
+        "2": "Ele fez isso tão somente para que as gerações dos filhos de Israel conhecessem a guerra, para lhes ensinar a guerra, pelo menos às gerações que, anteriormente, não sabiam disso.",
+        "3": "Os que ficaram foram: cinco governantes dos filisteus, todos os cananeus, sidônios e heveus que habitavam as montanhas do Líbano, desde o monte de Baal-Hermom até a entrada de Hamate.",
+        "4": "Estes ficaram para, por meio deles, o Senhor pôr Israel à prova, para saber se dariam ouvidos aos mandamentos que havia ordenado a seus pais por meio de Moisés.",
+        "5": "Assim, os filhos de Israel moravam no meio dos cananeus, dos heteus, dos amorreus, dos ferezeus, dos heveus e dos jebuseus.",
+        "6": "Tomaram de suas filhas para si por mulheres e deram as suas próprias aos filhos deles; e rendiam culto a seus deuses.",
+        "7": "Os filhos de Israel fizeram o que era mau aos olhos do Senhor e se esqueceram do Senhor , seu Deus; e renderam culto aos baalins e ao poste da deusa Aserá.",
+        "8": "Então a ira do Senhor se acendeu contra Israel, e ele os entregou nas mãos de Cusã-Risataim, rei da Mesopotâmia; e os filhos de Israel serviram Cusã-Risataim durante oito anos.",
+        "9": "Os filhos de Israel clamaram ao Senhor , e o Senhor lhes suscitou um libertador, que os libertou: Otniel, filho de Quenaz, que era irmão de Calebe e mais novo do que ele.",
+        "10": "O Espírito do Senhor veio sobre ele, e ele se tornou juiz de Israel. Foi para a guerra, e o Senhor lhe entregou nas mãos Cusã-Risataim, rei da Mesopotâmia, contra o qual ele prevaleceu.",
+        "11": "Então a terra ficou em paz durante quarenta anos. Otniel, filho de Quenaz, morreu.",
+        "12": "Os filhos de Israel tornaram a fazer o que era mau aos olhos do Senhor . Por isso, o Senhor deu poder a Eglom, rei dos moabitas, contra Israel, porque fizeram o que era mau aos olhos do Senhor .",
+        "13": "Eglom se juntou com os filhos de Amom e os amalequitas, foi e derrotou Israel. E eles se apoderaram da cidade das palmeiras.",
+        "14": "E os filhos de Israel serviram Eglom, rei dos moabitas, durante dezoito anos.",
+        "15": "Então os filhos de Israel clamaram ao Senhor , e o Senhor lhes suscitou um libertador: Eúde, homem canhoto, filho de Gera, benjamita. Por meio dele, os filhos de Israel enviaram tributo a Eglom, rei dos moabitas.",
+        "16": "Eúde fez para si um punhal de dois gumes, do comprimento de quase meio metro; e cingiu-o debaixo da sua roupa, do lado direito.",
+        "17": "Então ele levou o tributo a Eglom, rei dos moabitas. Eglom era um homem muito gordo.",
+        "18": "Depois de entregar o tributo, Eúde saiu com os carregadores do tributo.",
+        "19": "Ele, porém, voltou do ponto em que estavam as imagens de escultura ao pé de Gilgal e disse ao rei:",
+        "20": "Eúde entrou numa sala de verão, que o rei tinha só para si, e onde ele estava sentado. Eúde disse:",
+        "21": "Então Eúde estendeu a mão esquerda, puxou o seu punhal do lado direito e o cravou na barriga do rei,",
+        "22": "de tal maneira que entrou também o cabo com a lâmina; e, porque não tirou o punhal da barriga, a gordura se fechou sobre ele. Eúde saiu por uma portinhola,",
+        "23": "passou para a antessala, depois de fechar e trancar as portas atrás de si.",
+        "24": "Quando ele tinha saído, vieram os servos do rei e viram que as portas da sala de verão estavam trancadas. E disseram:",
+        "25": "Esperaram até cansar; e, como o rei não abria a porta da sala, pegaram a chave e a abriram; e eis que o seu senhor estava morto, caído no chão.",
+        "26": "Eúde escapou enquanto eles se demoravam e, tendo passado pelas imagens de escultura, foi para Seirá.",
+        "27": "Tendo chegado, tocou a trombeta nas montanhas de Efraim; e os filhos de Israel desceram com ele das montanhas, indo ele à frente.",
+        "28": "E lhes disse:",
+        "29": "Naquele tempo, mataram uns dez mil homens moabitas, todos robustos e valentes; e não escapou nem sequer um.",
+        "30": "Assim, naquele dia, Moabe foi subjugado por Israel.",
+        "31": "Depois de Eúde veio Sangar, filho de Anate, que matou seiscentos filisteus com uma aguilhada de bois; e também ele libertou Israel."
     }
-  }
 }

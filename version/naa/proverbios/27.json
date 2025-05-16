@@ -1,114 +1,34 @@
 {
-  "livro": "Provérbios",
-  "capítulo": 27,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Não se gabe do dia de amanhã,"
-    },
-    "2": {
-      "título": "",
-      "texto": "Deixe que outros o louvem,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Pesada é a pedra,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Cruel é o furor"
-    },
-    "5": {
-      "título": "",
-      "texto": "Melhor é a repreensão franca"
-    },
-    "6": {
-      "título": "",
-      "texto": "Leais são as feridas"
-    },
-    "7": {
-      "título": "",
-      "texto": "Quem está farto"
-    },
-    "8": {
-      "título": "",
-      "texto": "Como a ave que vagueia"
-    },
-    "9": {
-      "título": "",
-      "texto": "Como o óleo e o perfume"
-    },
-    "10": {
-      "título": "",
-      "texto": "Não abandone o seu amigo,"
-    },
-    "11": {
-      "título": "",
-      "texto": "Meu filho, seja sábio"
-    },
-    "12": {
-      "título": "",
-      "texto": "O prudente vê o mal"
-    },
-    "13": {
-      "título": "",
-      "texto": "Que se tome a roupa"
-    },
-    "14": {
-      "título": "",
-      "texto": "Se alguém bendiz o seu vizinho"
-    },
-    "15": {
-      "título": "",
-      "texto": "A goteira contínua"
-    },
-    "16": {
-      "título": "",
-      "texto": "contê-la seria conter o vento,"
-    },
-    "17": {
-      "título": "",
-      "texto": "O ferro se afia com ferro,"
-    },
-    "18": {
-      "título": "",
-      "texto": "Quem cuida da figueira"
-    },
-    "19": {
-      "título": "",
-      "texto": "Como a água reflete o rosto,"
-    },
-    "20": {
-      "título": "",
-      "texto": "O mundo dos mortos e o abismo"
-    },
-    "21": {
-      "título": "",
-      "texto": "Como o crisol prova a prata"
-    },
-    "22": {
-      "título": "",
-      "texto": "Mesmo que você moesse"
-    },
-    "23": {
-      "título": "",
-      "texto": "Procure conhecer"
-    },
-    "24": {
-      "título": "",
-      "texto": "porque as riquezas"
-    },
-    "25": {
-      "título": "",
-      "texto": "Quando o feno for removido,"
-    },
-    "26": {
-      "título": "",
-      "texto": "então os cordeiros lhe darão"
-    },
-    "27": {
-      "título": "",
-      "texto": "e as cabras produzirão leite"
+    "livro": "Provérbios",
+    "capitulo": 27,
+    "titulos": {},
+    "versiculos": {
+        "1": "Não se gabe do dia de amanhã,",
+        "2": "Deixe que outros o louvem,",
+        "3": "Pesada é a pedra,",
+        "4": "Cruel é o furor",
+        "5": "Melhor é a repreensão franca",
+        "6": "Leais são as feridas",
+        "7": "Quem está farto",
+        "8": "Como a ave que vagueia",
+        "9": "Como o óleo e o perfume",
+        "10": "Não abandone o seu amigo,",
+        "11": "Meu filho, seja sábio",
+        "12": "O prudente vê o mal",
+        "13": "Que se tome a roupa",
+        "14": "Se alguém bendiz o seu vizinho",
+        "15": "A goteira contínua",
+        "16": "contê-la seria conter o vento,",
+        "17": "O ferro se afia com ferro,",
+        "18": "Quem cuida da figueira",
+        "19": "Como a água reflete o rosto,",
+        "20": "O mundo dos mortos e o abismo",
+        "21": "Como o crisol prova a prata",
+        "22": "Mesmo que você moesse",
+        "23": "Procure conhecer",
+        "24": "porque as riquezas",
+        "25": "Quando o feno for removido,",
+        "26": "então os cordeiros lhe darão",
+        "27": "e as cabras produzirão leite"
     }
-  }
 }

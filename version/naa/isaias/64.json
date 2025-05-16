@@ -1,54 +1,19 @@
 {
-  "livro": "Isaías",
-  "capítulo": 64,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Ah! Se fendesses os céus"
-    },
-    "2": {
-      "título": "",
-      "texto": "como quando o fogo"
-    },
-    "3": {
-      "título": "",
-      "texto": "Quando fizeste coisas terríveis,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Porque desde a antiguidade"
-    },
-    "5": {
-      "título": "",
-      "texto": "Tu sais ao encontro daquele"
-    },
-    "6": {
-      "título": "",
-      "texto": "Todos nós somos"
-    },
-    "7": {
-      "título": "",
-      "texto": "Não há ninguém"
-    },
-    "8": {
-      "título": "",
-      "texto": "Mas agora, Senhor ,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Não te enfureças tanto, ó Senhor ,"
-    },
-    "10": {
-      "título": "",
-      "texto": "As tuas santas cidades"
-    },
-    "11": {
-      "título": "",
-      "texto": "O nosso templo santo e glorioso,"
-    },
-    "12": {
-      "título": "",
-      "texto": "Diante de tais calamidades,"
+    "livro": "Isaías",
+    "capitulo": 64,
+    "titulos": {},
+    "versiculos": {
+        "1": "Ah! Se fendesses os céus",
+        "2": "como quando o fogo",
+        "3": "Quando fizeste coisas terríveis,",
+        "4": "Porque desde a antiguidade",
+        "5": "Tu sais ao encontro daquele",
+        "6": "Todos nós somos",
+        "7": "Não há ninguém",
+        "8": "Mas agora, Senhor ,",
+        "9": "Não te enfureças tanto, ó Senhor ,",
+        "10": "As tuas santas cidades",
+        "11": "O nosso templo santo e glorioso,",
+        "12": "Diante de tais calamidades,"
     }
-  }
 }

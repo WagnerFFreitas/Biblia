@@ -1,90 +1,30 @@
 {
-  "livro": "Salmos",
-  "capítulo": 145,
-  "versículos": {
-    "1": {
-      "título": "Hino de louvor",
-      "texto": "Eu te exaltarei, ó Deus meu e Rei;"
+    "livro": "Salmos",
+    "capitulo": 145,
+    "titulos": {
+        "1": "Hino de louvor"
     },
-    "2": {
-      "título": "",
-      "texto": "Todos os dias te bendirei"
-    },
-    "3": {
-      "título": "",
-      "texto": "Grande é o Senhor"
-    },
-    "4": {
-      "título": "",
-      "texto": "Uma geração louvará"
-    },
-    "5": {
-      "título": "",
-      "texto": "Meditarei no glorioso esplendor"
-    },
-    "6": {
-      "título": "",
-      "texto": "Falarão do poder"
-    },
-    "7": {
-      "título": "",
-      "texto": "Divulgarão a memória"
-    },
-    "8": {
-      "título": "",
-      "texto": "Bondoso e compassivo é o Senhor ,"
-    },
-    "9": {
-      "título": "",
-      "texto": "O Senhor é bom para todos,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Todas as tuas obras"
-    },
-    "11": {
-      "título": "",
-      "texto": "Falarão da glória do teu reino"
-    },
-    "12": {
-      "título": "",
-      "texto": "para que os filhos dos homens"
-    },
-    "13": {
-      "título": "",
-      "texto": "O teu reino é um reino eterno,"
-    },
-    "14": {
-      "título": "",
-      "texto": "O Senhor sustém"
-    },
-    "15": {
-      "título": "",
-      "texto": "Em ti esperam os olhos de todos,"
-    },
-    "16": {
-      "título": "",
-      "texto": "Abres a mão"
-    },
-    "17": {
-      "título": "",
-      "texto": "Justo é o Senhor em todos"
-    },
-    "18": {
-      "título": "",
-      "texto": "Perto está o Senhor"
-    },
-    "19": {
-      "título": "",
-      "texto": "Ele satisfaz o desejo"
-    },
-    "20": {
-      "título": "",
-      "texto": "O Senhor protege"
-    },
-    "21": {
-      "título": "",
-      "texto": "A minha boca proclamará"
+    "versiculos": {
+        "1": "Eu te exaltarei, ó Deus meu e Rei;",
+        "2": "Todos os dias te bendirei",
+        "3": "Grande é o Senhor",
+        "4": "Uma geração louvará",
+        "5": "Meditarei no glorioso esplendor",
+        "6": "Falarão do poder",
+        "7": "Divulgarão a memória",
+        "8": "Bondoso e compassivo é o Senhor ,",
+        "9": "O Senhor é bom para todos,",
+        "10": "Todas as tuas obras",
+        "11": "Falarão da glória do teu reino",
+        "12": "para que os filhos dos homens",
+        "13": "O teu reino é um reino eterno,",
+        "14": "O Senhor sustém",
+        "15": "Em ti esperam os olhos de todos,",
+        "16": "Abres a mão",
+        "17": "Justo é o Senhor em todos",
+        "18": "Perto está o Senhor",
+        "19": "Ele satisfaz o desejo",
+        "20": "O Senhor protege",
+        "21": "A minha boca proclamará"
     }
-  }
 }

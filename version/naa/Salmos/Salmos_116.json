@@ -1,82 +1,28 @@
 {
-  "livro": "Salmos",
-  "capítulo": 116,
-  "versículos": {
-    "1": {
-      "título": "Salmo de gratidão",
-      "texto": "Amo o Senhor , porque ele ouve"
+    "livro": "Salmos",
+    "capitulo": 116,
+    "titulos": {
+        "1": "Salmo de gratidão"
     },
-    "2": {
-      "título": "",
-      "texto": "Porque inclinou para mim"
-    },
-    "3": {
-      "título": "",
-      "texto": "Laços de morte me cercaram,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Então invoquei"
-    },
-    "5": {
-      "título": "",
-      "texto": "Compassivo e justo é o Senhor ;"
-    },
-    "6": {
-      "título": "",
-      "texto": "O Senhor vela pelos simples;"
-    },
-    "7": {
-      "título": "",
-      "texto": "Ó minha alma,"
-    },
-    "8": {
-      "título": "",
-      "texto": "Pois livraste da morte"
-    },
-    "9": {
-      "título": "",
-      "texto": "Andarei na presença do Senhor ,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Eu cria, mesmo quando eu disse:"
-    },
-    "11": {
-      "título": "",
-      "texto": "Eu disse na minha perturbação:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Que darei ao Senhor"
-    },
-    "13": {
-      "título": "",
-      "texto": "Erguerei o cálice da salvação"
-    },
-    "14": {
-      "título": "",
-      "texto": "Cumprirei os meus votos"
-    },
-    "15": {
-      "título": "",
-      "texto": "Preciosa é aos olhos do Senhor"
-    },
-    "16": {
-      "título": "",
-      "texto": "Senhor , eu sou de fato teu servo;"
-    },
-    "17": {
-      "título": "",
-      "texto": "A ti oferecerei sacrifícios"
-    },
-    "18": {
-      "título": "",
-      "texto": "Cumprirei os meus votos"
-    },
-    "19": {
-      "título": "",
-      "texto": "nos átrios da Casa do Senhor ,"
+    "versiculos": {
+        "1": "Amo o Senhor , porque ele ouve",
+        "2": "Porque inclinou para mim",
+        "3": "Laços de morte me cercaram,",
+        "4": "Então invoquei",
+        "5": "Compassivo e justo é o Senhor ;",
+        "6": "O Senhor vela pelos simples;",
+        "7": "Ó minha alma,",
+        "8": "Pois livraste da morte",
+        "9": "Andarei na presença do Senhor ,",
+        "10": "Eu cria, mesmo quando eu disse:",
+        "11": "Eu disse na minha perturbação:",
+        "12": "Que darei ao Senhor",
+        "13": "Erguerei o cálice da salvação",
+        "14": "Cumprirei os meus votos",
+        "15": "Preciosa é aos olhos do Senhor",
+        "16": "Senhor , eu sou de fato teu servo;",
+        "17": "A ti oferecerei sacrifícios",
+        "18": "Cumprirei os meus votos",
+        "19": "nos átrios da Casa do Senhor ,"
     }
-  }
 }

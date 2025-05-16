@@ -1,94 +1,32 @@
 {
-  "livro": "Ester",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "O banquete de Assuero",
-      "texto": "Isto aconteceu nos dias de Assuero, o Assuero que reinou sobre cento e vinte e sete províncias, desde a Índia até a Etiópia."
+    "livro": "Ester",
+    "capitulo": 1,
+    "titulos": {
+        "1": "O banquete de Assuero",
+        "10": "A rainha Vasti desafia o rei Assuero"
     },
-    "2": {
-      "título": "",
-      "texto": "Naqueles dias, quando Assuero reinava na cidadela de Susã,"
-    },
-    "3": {
-      "título": "",
-      "texto": "no terceiro ano do seu reinado, deu um banquete a todos os seus oficiais e servidores. O exército da Pérsia e da Média, bem como os nobres e os governadores das províncias estavam presentes."
-    },
-    "4": {
-      "título": "",
-      "texto": "Então Assuero mostrou as riquezas da glória do seu reino e o esplendor da sua excelente grandeza durante muitos dias, durante cento e oitenta dias."
-    },
-    "5": {
-      "título": "",
-      "texto": "Passados esses dias, o rei deu um banquete a todo o povo que estava na cidadela de Susã, tanto para os maiores como para os menores, durante sete dias, no pátio do jardim do palácio real."
-    },
-    "6": {
-      "título": "",
-      "texto": "Havia cortinas de algodão, brancas e azuis, amarradas com cordões de linho e de púrpura a argolas de prata e a colunas de alabastro. A armação dos leitos era de ouro e de prata, sobre um piso de pórfiro, de mármore, de alabastro e de pedras preciosas."
-    },
-    "7": {
-      "título": "",
-      "texto": "A bebida era servida em taças de ouro, de vários tipos, e havia muito vinho real, graças à generosidade do rei."
-    },
-    "8": {
-      "título": "",
-      "texto": "Bebiam sem restrições, como estava prescrito, pois o rei havia ordenado a todos os oficiais da sua casa que fizessem segundo a vontade de cada um."
-    },
-    "9": {
-      "título": "",
-      "texto": "Também a rainha Vasti deu um banquete às mulheres no palácio do rei Assuero."
-    },
-    "10": {
-      "título": "A rainha Vasti desafia o rei Assuero",
-      "texto": "No sétimo dia, quando o seu coração já estava alegre por causa do vinho, o rei Assuero ordenou a Meumã, Bizta, Harbona, Bigtá, Abagta, Zetar e Carcas, os sete eunucos que serviam na presença dele,"
-    },
-    "11": {
-      "título": "",
-      "texto": "que trouxessem à sua presença a rainha Vasti, com a coroa real. Ele queria mostrar aos povos e aos príncipes a beleza dela, pois ela era muito bonita."
-    },
-    "12": {
-      "título": "",
-      "texto": "Porém a rainha Vasti se recusou a atender a ordem do rei, transmitida por meio dos eunucos. Diante disso, o rei muito se enfureceu e se inflamou de raiva."
-    },
-    "13": {
-      "título": "",
-      "texto": "Então o rei consultou os sábios que entendiam dos tempos, porque era seu costume fazer isso na presença de todos os que conheciam a lei e o direito."
-    },
-    "14": {
-      "título": "",
-      "texto": "E os mais chegados a ele eram: Carsena, Setar, Admata, Társis, Meres, Marsena e Memucã, os sete príncipes dos persas e dos medos, que tinham acesso direto ao rei e se assentavam como principais no reino."
-    },
-    "15": {
-      "título": "",
-      "texto": "Ele perguntou:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Então Memucã disse na presença do rei e dos príncipes:"
-    },
-    "17": {
-      "título": "",
-      "texto": "Porque a notícia do que a rainha fez chegará a todas as mulheres, de modo que desprezarão o seu marido, dizendo: “O rei Assuero mandou que a rainha Vasti fosse trazida à sua presença, mas ela não foi.”"
-    },
-    "18": {
-      "título": "",
-      "texto": "Hoje mesmo, as princesas da Pérsia e da Média, ao ouvirem o que a rainha fez, dirão o mesmo a todos os príncipes do rei. E assim haverá muito desprezo e indignação."
-    },
-    "19": {
-      "título": "",
-      "texto": "Se for do agrado do rei, que ele baixe um decreto real, e que se inscreva nas leis dos persas e dos medos e não se revogue, que Vasti fica proibida de comparecer à presença do rei Assuero. E que o rei dê o reino dela a outra que seja melhor do que ela."
-    },
-    "20": {
-      "título": "",
-      "texto": "Quando este decreto do rei for proclamado em todo o seu reino, que é tão vasto, todas as mulheres darão honra a seu marido, tanto ao mais importante como ao menos importante."
-    },
-    "21": {
-      "título": "",
-      "texto": "O conselho agradou tanto ao rei como aos príncipes; e o rei fez o que Memucã havia sugerido."
-    },
-    "22": {
-      "título": "",
-      "texto": "Enviou cartas a todas as províncias do reino, a cada província segundo o seu modo de escrever e a cada povo segundo a sua língua: que cada homem fosse senhor em sua casa, e que se falasse a língua do seu povo."
+    "versiculos": {
+        "1": "Isto aconteceu nos dias de Assuero, o Assuero que reinou sobre cento e vinte e sete províncias, desde a Índia até a Etiópia.",
+        "2": "Naqueles dias, quando Assuero reinava na cidadela de Susã,",
+        "3": "no terceiro ano do seu reinado, deu um banquete a todos os seus oficiais e servidores. O exército da Pérsia e da Média, bem como os nobres e os governadores das províncias estavam presentes.",
+        "4": "Então Assuero mostrou as riquezas da glória do seu reino e o esplendor da sua excelente grandeza durante muitos dias, durante cento e oitenta dias.",
+        "5": "Passados esses dias, o rei deu um banquete a todo o povo que estava na cidadela de Susã, tanto para os maiores como para os menores, durante sete dias, no pátio do jardim do palácio real.",
+        "6": "Havia cortinas de algodão, brancas e azuis, amarradas com cordões de linho e de púrpura a argolas de prata e a colunas de alabastro. A armação dos leitos era de ouro e de prata, sobre um piso de pórfiro, de mármore, de alabastro e de pedras preciosas.",
+        "7": "A bebida era servida em taças de ouro, de vários tipos, e havia muito vinho real, graças à generosidade do rei.",
+        "8": "Bebiam sem restrições, como estava prescrito, pois o rei havia ordenado a todos os oficiais da sua casa que fizessem segundo a vontade de cada um.",
+        "9": "Também a rainha Vasti deu um banquete às mulheres no palácio do rei Assuero.",
+        "10": "No sétimo dia, quando o seu coração já estava alegre por causa do vinho, o rei Assuero ordenou a Meumã, Bizta, Harbona, Bigtá, Abagta, Zetar e Carcas, os sete eunucos que serviam na presença dele,",
+        "11": "que trouxessem à sua presença a rainha Vasti, com a coroa real. Ele queria mostrar aos povos e aos príncipes a beleza dela, pois ela era muito bonita.",
+        "12": "Porém a rainha Vasti se recusou a atender a ordem do rei, transmitida por meio dos eunucos. Diante disso, o rei muito se enfureceu e se inflamou de raiva.",
+        "13": "Então o rei consultou os sábios que entendiam dos tempos, porque era seu costume fazer isso na presença de todos os que conheciam a lei e o direito.",
+        "14": "E os mais chegados a ele eram: Carsena, Setar, Admata, Társis, Meres, Marsena e Memucã, os sete príncipes dos persas e dos medos, que tinham acesso direto ao rei e se assentavam como principais no reino.",
+        "15": "Ele perguntou:",
+        "16": "Então Memucã disse na presença do rei e dos príncipes:",
+        "17": "Porque a notícia do que a rainha fez chegará a todas as mulheres, de modo que desprezarão o seu marido, dizendo: “O rei Assuero mandou que a rainha Vasti fosse trazida à sua presença, mas ela não foi.”",
+        "18": "Hoje mesmo, as princesas da Pérsia e da Média, ao ouvirem o que a rainha fez, dirão o mesmo a todos os príncipes do rei. E assim haverá muito desprezo e indignação.",
+        "19": "Se for do agrado do rei, que ele baixe um decreto real, e que se inscreva nas leis dos persas e dos medos e não se revogue, que Vasti fica proibida de comparecer à presença do rei Assuero. E que o rei dê o reino dela a outra que seja melhor do que ela.",
+        "20": "Quando este decreto do rei for proclamado em todo o seu reino, que é tão vasto, todas as mulheres darão honra a seu marido, tanto ao mais importante como ao menos importante.",
+        "21": "O conselho agradou tanto ao rei como aos príncipes; e o rei fez o que Memucã havia sugerido.",
+        "22": "Enviou cartas a todas as províncias do reino, a cada província segundo o seu modo de escrever e a cada povo segundo a sua língua: que cada homem fosse senhor em sua casa, e que se falasse a língua do seu povo."
     }
-  }
 }

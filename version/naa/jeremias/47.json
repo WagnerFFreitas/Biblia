@@ -1,34 +1,16 @@
 {
-  "livro": "Jeremias",
-  "capítulo": 47,
-  "versículos": {
-    "1": {
-      "título": "Profecia a respeito dos filisteus",
-      "texto": "Palavra do Senhor que veio ao profeta Jeremias a respeito dos filisteus, antes que Faraó atacasse Gaza."
+    "livro": "Jeremias",
+    "capitulo": 47,
+    "titulos": {
+        "1": "Profecia a respeito dos filisteus"
     },
-    "2": {
-      "título": "",
-      "texto": "Assim diz o Senhor :"
-    },
-    "3": {
-      "título": "",
-      "texto": "ao ruído dos cascos"
-    },
-    "4": {
-      "título": "",
-      "texto": "por causa do dia que vem"
-    },
-    "5": {
-      "título": "",
-      "texto": "O povo de Gaza rapou a cabeça;"
-    },
-    "6": {
-      "título": "",
-      "texto": "“‘Ah! Espada do Senhor ,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Mas como pode ela ficar quieta,"
+    "versiculos": {
+        "1": "Palavra do Senhor que veio ao profeta Jeremias a respeito dos filisteus, antes que Faraó atacasse Gaza.",
+        "2": "Assim diz o Senhor :",
+        "3": "ao ruído dos cascos",
+        "4": "por causa do dia que vem",
+        "5": "O povo de Gaza rapou a cabeça;",
+        "6": "“‘Ah! Espada do Senhor ,",
+        "7": "Mas como pode ela ficar quieta,"
     }
-  }
 }

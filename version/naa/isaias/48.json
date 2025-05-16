@@ -1,94 +1,32 @@
 {
-  "livro": "Isaías",
-  "capítulo": 48,
-  "versículos": {
-    "1": {
-      "título": "A infidelidade de Israel é repreendida",
-      "texto": "Escutem isto, casa de Jacó,"
+    "livro": "Isaías",
+    "capitulo": 48,
+    "titulos": {
+        "1": "A infidelidade de Israel é repreendida",
+        "12": "O Senhor chama Israel"
     },
-    "2": {
-      "título": "",
-      "texto": "Da santa cidade tomam o nome"
-    },
-    "3": {
-      "título": "",
-      "texto": "“Desde a antiguidade"
-    },
-    "4": {
-      "título": "",
-      "texto": "Porque eu sabia que"
-    },
-    "5": {
-      "título": "",
-      "texto": "Por isso, desde aquele tempo"
-    },
-    "6": {
-      "título": "",
-      "texto": "“Você já ouviu; agora olhe bem"
-    },
-    "7": {
-      "título": "",
-      "texto": "Foram criadas agora"
-    },
-    "8": {
-      "título": "",
-      "texto": "Você não ouviu, não conheceu,"
-    },
-    "9": {
-      "título": "",
-      "texto": "“Por amor do meu nome,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Eis que refinei você,"
-    },
-    "11": {
-      "título": "",
-      "texto": "Por amor de mim,"
-    },
-    "12": {
-      "título": "O Senhor chama Israel",
-      "texto": "“Escute, ó Jacó,"
-    },
-    "13": {
-      "título": "",
-      "texto": "Também a minha mão"
-    },
-    "14": {
-      "título": "",
-      "texto": "“Reúnam-se, todos vocês,"
-    },
-    "15": {
-      "título": "",
-      "texto": "Eu, eu tenho falado;"
-    },
-    "16": {
-      "título": "",
-      "texto": "Aproximem-se de mim"
-    },
-    "17": {
-      "título": "",
-      "texto": "Assim diz o Senhor ,"
-    },
-    "18": {
-      "título": "",
-      "texto": "Ah! Se você tivesse dado ouvidos"
-    },
-    "19": {
-      "título": "",
-      "texto": "Também a sua posteridade"
-    },
-    "20": {
-      "título": "",
-      "texto": "Saiam da Babilônia,"
-    },
-    "21": {
-      "título": "",
-      "texto": "Não padeceram sede,"
-    },
-    "22": {
-      "título": "",
-      "texto": "“Mas para os ímpios"
+    "versiculos": {
+        "1": "Escutem isto, casa de Jacó,",
+        "2": "Da santa cidade tomam o nome",
+        "3": "“Desde a antiguidade",
+        "4": "Porque eu sabia que",
+        "5": "Por isso, desde aquele tempo",
+        "6": "“Você já ouviu; agora olhe bem",
+        "7": "Foram criadas agora",
+        "8": "Você não ouviu, não conheceu,",
+        "9": "“Por amor do meu nome,",
+        "10": "Eis que refinei você,",
+        "11": "Por amor de mim,",
+        "12": "“Escute, ó Jacó,",
+        "13": "Também a minha mão",
+        "14": "“Reúnam-se, todos vocês,",
+        "15": "Eu, eu tenho falado;",
+        "16": "Aproximem-se de mim",
+        "17": "Assim diz o Senhor ,",
+        "18": "Ah! Se você tivesse dado ouvidos",
+        "19": "Também a sua posteridade",
+        "20": "Saiam da Babilônia,",
+        "21": "Não padeceram sede,",
+        "22": "“Mas para os ímpios"
     }
-  }
 }

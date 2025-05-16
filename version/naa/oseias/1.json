@@ -1,50 +1,21 @@
 {
-  "livro": "Oséias",
-  "capítulo": 1,
-  "versículos": {
-    "1": {
-      "título": "",
-      "texto": "Palavra do Senhor que foi dirigida a Oseias, filho de Beeri, nos dias de Uzias, Jotão, Acaz e Ezequias, reis de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel."
+    "livro": "Oséias",
+    "capitulo": 1,
+    "titulos": {
+        "2": "A mulher e os filhos de Oseias",
+        "10": "A futura grandeza de Israel"
     },
-    "2": {
-      "título": "A mulher e os filhos de Oseias",
-      "texto": "Quando, pela primeira vez, o Senhor falou por meio de Oseias, o Senhor lhe disse:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Então Oseias foi e casou com Gômer, filha de Diblaim, que ficou grávida e lhe deu um filho."
-    },
-    "4": {
-      "título": "",
-      "texto": "E o Senhor disse a Oseias:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Naquele dia, quebrarei o arco de Israel no vale de Jezreel."
-    },
-    "6": {
-      "título": "",
-      "texto": "Gômer ficou grávida outra vez e deu à luz uma filha. Então o Senhor disse a Oseias:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Porém da casa de Judá eu terei compaixão e os salvarei pelo Senhor , seu Deus. Porque não os salvarei pelo arco, nem pela espada, nem pela guerra, nem pelos cavalos, nem pelos cavaleiros."
-    },
-    "8": {
-      "título": "",
-      "texto": "Depois de ter desmamado Lo-Ruamá, Gômer ficou grávida mais uma vez e deu à luz um filho."
-    },
-    "9": {
-      "título": "",
-      "texto": "E o Senhor disse:"
-    },
-    "10": {
-      "título": "A futura grandeza de Israel",
-      "texto": "Todavia, o número dos filhos de Israel será como a areia do mar, que não se pode medir, nem contar. E acontecerá que, no lugar em que lhes foi dito: “Vocês não são o meu povo”, ali mesmo se dirá a eles: “Vocês são filhos do Deus vivo.”"
-    },
-    "11": {
-      "título": "",
-      "texto": "Os filhos de Judá e os filhos de Israel serão reunidos, e constituirão sobre si uma só cabeça. Eles se levantarão da terra, porque grande será o dia de Jezreel."
+    "versiculos": {
+        "1": "Palavra do Senhor que foi dirigida a Oseias, filho de Beeri, nos dias de Uzias, Jotão, Acaz e Ezequias, reis de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel.",
+        "2": "Quando, pela primeira vez, o Senhor falou por meio de Oseias, o Senhor lhe disse:",
+        "3": "Então Oseias foi e casou com Gômer, filha de Diblaim, que ficou grávida e lhe deu um filho.",
+        "4": "E o Senhor disse a Oseias:",
+        "5": "Naquele dia, quebrarei o arco de Israel no vale de Jezreel.",
+        "6": "Gômer ficou grávida outra vez e deu à luz uma filha. Então o Senhor disse a Oseias:",
+        "7": "Porém da casa de Judá eu terei compaixão e os salvarei pelo Senhor , seu Deus. Porque não os salvarei pelo arco, nem pela espada, nem pela guerra, nem pelos cavalos, nem pelos cavaleiros.",
+        "8": "Depois de ter desmamado Lo-Ruamá, Gômer ficou grávida mais uma vez e deu à luz um filho.",
+        "9": "E o Senhor disse:",
+        "10": "Todavia, o número dos filhos de Israel será como a areia do mar, que não se pode medir, nem contar. E acontecerá que, no lugar em que lhes foi dito: “Vocês não são o meu povo”, ali mesmo se dirá a eles: “Vocês são filhos do Deus vivo.”",
+        "11": "Os filhos de Judá e os filhos de Israel serão reunidos, e constituirão sobre si uma só cabeça. Eles se levantarão da terra, porque grande será o dia de Jezreel."
     }
-  }
 }

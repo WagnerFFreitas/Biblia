@@ -1,38 +1,17 @@
 {
-  "livro": "Salmos",
-  "capítulo": 121,
-  "versículos": {
-    "1": {
-      "título": "Deus, o nosso protetor",
-      "texto": "Elevo os meus olhos"
+    "livro": "Salmos",
+    "capitulo": 121,
+    "titulos": {
+        "1": "Deus, o nosso protetor"
     },
-    "2": {
-      "título": "",
-      "texto": "O meu socorro vem do Senhor ,"
-    },
-    "3": {
-      "título": "",
-      "texto": "Ele não permitirá"
-    },
-    "4": {
-      "título": "",
-      "texto": "É certo que não dormita,"
-    },
-    "5": {
-      "título": "",
-      "texto": "O Senhor é quem guarda você;"
-    },
-    "6": {
-      "título": "",
-      "texto": "De dia não lhe fará mal o sol,"
-    },
-    "7": {
-      "título": "",
-      "texto": "O Senhor guardará você"
-    },
-    "8": {
-      "título": "",
-      "texto": "O Senhor guardará a sua saída"
+    "versiculos": {
+        "1": "Elevo os meus olhos",
+        "2": "O meu socorro vem do Senhor ,",
+        "3": "Ele não permitirá",
+        "4": "É certo que não dormita,",
+        "5": "O Senhor é quem guarda você;",
+        "6": "De dia não lhe fará mal o sol,",
+        "7": "O Senhor guardará você",
+        "8": "O Senhor guardará a sua saída"
     }
-  }
 }

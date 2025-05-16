@@ -1,62 +1,23 @@
 {
-  "livro": "Salmos",
-  "capítulo": 27,
-  "versículos": {
-    "1": {
-      "título": "Com Deus não temeremos",
-      "texto": "O Senhor é a minha luz"
+    "livro": "Salmos",
+    "capitulo": 27,
+    "titulos": {
+        "1": "Com Deus não temeremos"
     },
-    "2": {
-      "título": "",
-      "texto": "Quando malfeitores"
-    },
-    "3": {
-      "título": "",
-      "texto": "Ainda que um exército"
-    },
-    "4": {
-      "título": "",
-      "texto": "Uma coisa peço ao Senhor"
-    },
-    "5": {
-      "título": "",
-      "texto": "Pois, no dia da adversidade,"
-    },
-    "6": {
-      "título": "",
-      "texto": "Agora, será exaltada"
-    },
-    "7": {
-      "título": "",
-      "texto": "Ouve, Senhor , a minha voz;"
-    },
-    "8": {
-      "título": "",
-      "texto": "Ao meu coração me ocorre:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Não me escondas, Senhor ,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Porque, se o meu pai"
-    },
-    "11": {
-      "título": "",
-      "texto": "Ensina-me, Senhor ,"
-    },
-    "12": {
-      "título": "",
-      "texto": "Não me entregues à vontade"
-    },
-    "13": {
-      "título": "",
-      "texto": "Eu creio que verei"
-    },
-    "14": {
-      "título": "",
-      "texto": "Espere no Senhor ."
+    "versiculos": {
+        "1": "O Senhor é a minha luz",
+        "2": "Quando malfeitores",
+        "3": "Ainda que um exército",
+        "4": "Uma coisa peço ao Senhor",
+        "5": "Pois, no dia da adversidade,",
+        "6": "Agora, será exaltada",
+        "7": "Ouve, Senhor , a minha voz;",
+        "8": "Ao meu coração me ocorre:",
+        "9": "Não me escondas, Senhor ,",
+        "10": "Porque, se o meu pai",
+        "11": "Ensina-me, Senhor ,",
+        "12": "Não me entregues à vontade",
+        "13": "Eu creio que verei",
+        "14": "Espere no Senhor ."
     }
-  }
 }

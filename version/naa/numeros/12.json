@@ -1,70 +1,25 @@
 {
-  "livro": "Números",
-  "capítulo": 12,
-  "versículos": {
-    "1": {
-      "título": "A rebelião de Miriã e Arão",
-      "texto": "Miriã e Arão falaram contra Moisés, por causa da mulher cuxita que este havia tomado; pois ele tinha tomado uma mulher cuxita."
+    "livro": "Números",
+    "capitulo": 12,
+    "titulos": {
+        "1": "A rebelião de Miriã e Arão"
     },
-    "2": {
-      "título": "",
-      "texto": "E disseram:"
-    },
-    "3": {
-      "título": "",
-      "texto": "Moisés era um homem muito manso, mais do que qualquer outro sobre a terra."
-    },
-    "4": {
-      "título": "",
-      "texto": "Imediatamente o Senhor disse a Moisés, a Arão e a Miriã:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Então o Senhor desceu na coluna de nuvem e se pôs à porta da tenda. Depois, chamou Arão e Miriã, e eles se apresentaram."
-    },
-    "6": {
-      "título": "",
-      "texto": "Então o Senhor disse:"
-    },
-    "7": {
-      "título": "",
-      "texto": "Não é assim com o meu servo Moisés, que é fiel em toda a minha casa."
-    },
-    "8": {
-      "título": "",
-      "texto": "Falo com ele face a face, claramente e não por enigmas; pois ele vê a forma do Senhor . Como, pois, vocês não tiveram medo de falar contra o meu servo, contra Moisés?"
-    },
-    "9": {
-      "título": "",
-      "texto": "E a ira do Senhor se acendeu contra eles; e ele se retirou."
-    },
-    "10": {
-      "título": "",
-      "texto": "Quando a nuvem se afastou de sobre a tenda, eis que Miriã estava leprosa, branca como a neve. Arão olhou para Miriã, e eis que ela estava coberta de lepra."
-    },
-    "11": {
-      "título": "",
-      "texto": "E Arão disse a Moisés:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Não permita que Miriã seja como um aborto, que, saindo do ventre de sua mãe, tenha metade de sua carne já consumida."
-    },
-    "13": {
-      "título": "",
-      "texto": "Moisés clamou ao Senhor , dizendo:"
-    },
-    "14": {
-      "título": "",
-      "texto": "O Senhor respondeu a Moisés:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Assim, Miriã foi detida fora do arraial durante sete dias; e o povo não partiu enquanto Miriã não foi trazida de volta."
-    },
-    "16": {
-      "título": "",
-      "texto": "Porém, depois, o povo partiu de Hazerote e acampou no deserto de Parã."
+    "versiculos": {
+        "1": "Miriã e Arão falaram contra Moisés, por causa da mulher cuxita que este havia tomado; pois ele tinha tomado uma mulher cuxita.",
+        "2": "E disseram:",
+        "3": "Moisés era um homem muito manso, mais do que qualquer outro sobre a terra.",
+        "4": "Imediatamente o Senhor disse a Moisés, a Arão e a Miriã:",
+        "5": "Então o Senhor desceu na coluna de nuvem e se pôs à porta da tenda. Depois, chamou Arão e Miriã, e eles se apresentaram.",
+        "6": "Então o Senhor disse:",
+        "7": "Não é assim com o meu servo Moisés, que é fiel em toda a minha casa.",
+        "8": "Falo com ele face a face, claramente e não por enigmas; pois ele vê a forma do Senhor . Como, pois, vocês não tiveram medo de falar contra o meu servo, contra Moisés?",
+        "9": "E a ira do Senhor se acendeu contra eles; e ele se retirou.",
+        "10": "Quando a nuvem se afastou de sobre a tenda, eis que Miriã estava leprosa, branca como a neve. Arão olhou para Miriã, e eis que ela estava coberta de lepra.",
+        "11": "E Arão disse a Moisés:",
+        "12": "Não permita que Miriã seja como um aborto, que, saindo do ventre de sua mãe, tenha metade de sua carne já consumida.",
+        "13": "Moisés clamou ao Senhor , dizendo:",
+        "14": "O Senhor respondeu a Moisés:",
+        "15": "Assim, Miriã foi detida fora do arraial durante sete dias; e o povo não partiu enquanto Miriã não foi trazida de volta.",
+        "16": "Porém, depois, o povo partiu de Hazerote e acampou no deserto de Parã."
     }
-  }
 }

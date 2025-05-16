@@ -1,62 +1,23 @@
 {
-  "livro": "Salmos",
-  "capítulo": 48,
-  "versículos": {
-    "1": {
-      "título": "A cidade de Deus",
-      "texto": "Grande é o Senhor"
+    "livro": "Salmos",
+    "capitulo": 48,
+    "titulos": {
+        "1": "A cidade de Deus"
     },
-    "2": {
-      "título": "",
-      "texto": "Alto e belo, alegria"
-    },
-    "3": {
-      "título": "",
-      "texto": "Nos palácios dela,"
-    },
-    "4": {
-      "título": "",
-      "texto": "Por isso, eis que os reis se uniram"
-    },
-    "5": {
-      "título": "",
-      "texto": "Quando viram, se espantaram;"
-    },
-    "6": {
-      "título": "",
-      "texto": "O terror ali os venceu,"
-    },
-    "7": {
-      "título": "",
-      "texto": "Com vento leste destruíste"
-    },
-    "8": {
-      "título": "",
-      "texto": "Como temos ouvido dizer,"
-    },
-    "9": {
-      "título": "",
-      "texto": "Pensamos, ó Deus,"
-    },
-    "10": {
-      "título": "",
-      "texto": "Como o teu nome, ó Deus,"
-    },
-    "11": {
-      "título": "",
-      "texto": "Alegre-se o monte Sião,"
-    },
-    "12": {
-      "título": "",
-      "texto": "Andem em volta de Sião,"
-    },
-    "13": {
-      "título": "",
-      "texto": "notem bem as suas muralhas,"
-    },
-    "14": {
-      "título": "",
-      "texto": "que este é Deus,"
+    "versiculos": {
+        "1": "Grande é o Senhor",
+        "2": "Alto e belo, alegria",
+        "3": "Nos palácios dela,",
+        "4": "Por isso, eis que os reis se uniram",
+        "5": "Quando viram, se espantaram;",
+        "6": "O terror ali os venceu,",
+        "7": "Com vento leste destruíste",
+        "8": "Como temos ouvido dizer,",
+        "9": "Pensamos, ó Deus,",
+        "10": "Como o teu nome, ó Deus,",
+        "11": "Alegre-se o monte Sião,",
+        "12": "Andem em volta de Sião,",
+        "13": "notem bem as suas muralhas,",
+        "14": "que este é Deus,"
     }
-  }
 }

@@ -1,78 +1,27 @@
 {
-  "livro": "Apocalipse",
-  "capítulo": 17,
-  "versículos": {
-    "1": {
-      "título": "A grande prostituta e a besta",
-      "texto": "Um dos sete anjos que tinham as sete taças veio e falou comigo, dizendo:"
+    "livro": "Apocalipse",
+    "capitulo": 17,
+    "titulos": {
+        "1": "A grande prostituta e a besta"
     },
-    "2": {
-      "título": "",
-      "texto": "Os reis da terra se prostituíram com ela, e os que habitam na terra se embriagaram com o vinho da sua prostituição."
-    },
-    "3": {
-      "título": "",
-      "texto": "O anjo me transportou, no Espírito, a um deserto, e vi uma mulher montada numa besta escarlate, besta repleta de nomes de blasfêmia, com sete cabeças e dez chifres."
-    },
-    "4": {
-      "título": "",
-      "texto": "A mulher estava vestida de púrpura e de escarlate, enfeitada com ouro, pedras preciosas e pérolas, tendo na mão um cálice de ouro transbordante de abominações e das imundícias da sua prostituição."
-    },
-    "5": {
-      "título": "",
-      "texto": "Na sua testa estava escrito um nome, um mistério: “ Babilônia, a Grande, a Mãe das Prostitutas e das Abominações da Terra ”."
-    },
-    "6": {
-      "título": "",
-      "texto": "Então vi a mulher embriagada com o sangue dos santos e com o sangue das testemunhas de Jesus. E, quando a vi, admirei-me com grande espanto."
-    },
-    "7": {
-      "título": "",
-      "texto": "O anjo, porém, me disse:"
-    },
-    "8": {
-      "título": "",
-      "texto": "a besta que você viu era e não é mais, e está para emergir do abismo, e caminha para a destruição. E aqueles que habitam sobre a terra, cujos nomes não foram escritos no Livro da Vida desde a fundação do mundo, se admirarão, vendo a besta que era e não é mais, mas tornará a aparecer."
-    },
-    "9": {
-      "título": "",
-      "texto": "— Aqui está a mente que tem sabedoria: as sete cabeças são sete montes, nos quais a mulher está sentada. São também sete reis,"
-    },
-    "10": {
-      "título": "",
-      "texto": "dos quais cinco caíram, um existe e o outro ainda não chegou; e, quando chegar, tem de durar pouco tempo."
-    },
-    "11": {
-      "título": "",
-      "texto": "E a besta, que era e não é mais, é também o oitavo rei, mas faz parte dos sete, e caminha para a destruição."
-    },
-    "12": {
-      "título": "",
-      "texto": "— Os dez chifres que você viu são dez reis, que ainda não receberam reino, mas recebem autoridade como reis, com a besta, durante uma hora."
-    },
-    "13": {
-      "título": "",
-      "texto": "Estes têm um mesmo propósito e oferecem à besta o poder e a autoridade que possuem."
-    },
-    "14": {
-      "título": "",
-      "texto": "Lutarão contra o Cordeiro, e o Cordeiro os vencerá, pois é o Senhor dos senhores e o Rei dos reis; serão vencedores também os chamados, eleitos e fiéis que estão com o Cordeiro."
-    },
-    "15": {
-      "título": "",
-      "texto": "O anjo disse ainda:"
-    },
-    "16": {
-      "título": "",
-      "texto": "Os dez chifres que você viu e a besta, esses odiarão a prostituta. Eles a deixarão devastada e nua, comerão as carnes dela, e a queimarão no fogo."
-    },
-    "17": {
-      "título": "",
-      "texto": "Porque Deus incutiu no coração deles que realizem o seu propósito, executem-no de comum acordo e deem à besta o reino que possuem, até que se cumpram as palavras de Deus."
-    },
-    "18": {
-      "título": "",
-      "texto": "— A mulher que você viu é a grande cidade que domina sobre os reis da terra."
+    "versiculos": {
+        "1": "Um dos sete anjos que tinham as sete taças veio e falou comigo, dizendo:",
+        "2": "Os reis da terra se prostituíram com ela, e os que habitam na terra se embriagaram com o vinho da sua prostituição.",
+        "3": "O anjo me transportou, no Espírito, a um deserto, e vi uma mulher montada numa besta escarlate, besta repleta de nomes de blasfêmia, com sete cabeças e dez chifres.",
+        "4": "A mulher estava vestida de púrpura e de escarlate, enfeitada com ouro, pedras preciosas e pérolas, tendo na mão um cálice de ouro transbordante de abominações e das imundícias da sua prostituição.",
+        "5": "Na sua testa estava escrito um nome, um mistério: “ Babilônia, a Grande, a Mãe das Prostitutas e das Abominações da Terra ”.",
+        "6": "Então vi a mulher embriagada com o sangue dos santos e com o sangue das testemunhas de Jesus. E, quando a vi, admirei-me com grande espanto.",
+        "7": "O anjo, porém, me disse:",
+        "8": "a besta que você viu era e não é mais, e está para emergir do abismo, e caminha para a destruição. E aqueles que habitam sobre a terra, cujos nomes não foram escritos no Livro da Vida desde a fundação do mundo, se admirarão, vendo a besta que era e não é mais, mas tornará a aparecer.",
+        "9": "— Aqui está a mente que tem sabedoria: as sete cabeças são sete montes, nos quais a mulher está sentada. São também sete reis,",
+        "10": "dos quais cinco caíram, um existe e o outro ainda não chegou; e, quando chegar, tem de durar pouco tempo.",
+        "11": "E a besta, que era e não é mais, é também o oitavo rei, mas faz parte dos sete, e caminha para a destruição.",
+        "12": "— Os dez chifres que você viu são dez reis, que ainda não receberam reino, mas recebem autoridade como reis, com a besta, durante uma hora.",
+        "13": "Estes têm um mesmo propósito e oferecem à besta o poder e a autoridade que possuem.",
+        "14": "Lutarão contra o Cordeiro, e o Cordeiro os vencerá, pois é o Senhor dos senhores e o Rei dos reis; serão vencedores também os chamados, eleitos e fiéis que estão com o Cordeiro.",
+        "15": "O anjo disse ainda:",
+        "16": "Os dez chifres que você viu e a besta, esses odiarão a prostituta. Eles a deixarão devastada e nua, comerão as carnes dela, e a queimarão no fogo.",
+        "17": "Porque Deus incutiu no coração deles que realizem o seu propósito, executem-no de comum acordo e deem à besta o reino que possuem, até que se cumpram as palavras de Deus.",
+        "18": "— A mulher que você viu é a grande cidade que domina sobre os reis da terra."
     }
-  }
 }

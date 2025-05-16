@@ -1,178 +1,57 @@
 {
-  "livro": "2 Samuel",
-  "capítulo": 19,
-  "versículos": {
-    "1": {
-      "título": "Joabe repreende Davi",
-      "texto": "Disseram a Joabe:"
+    "livro": "2 Samuel",
+    "capitulo": 19,
+    "titulos": {
+        "1": "Joabe repreende Davi",
+        "11": "Davi volta para Jerusalém",
+        "16": "Simei se encontra com Davi",
+        "24": "Mefibosete se encontra com Davi",
+        "31": "Barzilai se encontra com Davi",
+        "40": "Discussão entre Israel e Judá"
     },
-    "2": {
-      "título": "",
-      "texto": "Assim, a vitória se tornou, naquele mesmo dia, em luto para todo o povo, porque, naquele dia, o povo tinha ouvido dizer: “O rei está de luto por causa de seu filho.”"
-    },
-    "3": {
-      "título": "",
-      "texto": "Naquele mesmo dia, o povo entrou às escondidas na cidade, como o faz quando foge envergonhado da batalha."
-    },
-    "4": {
-      "título": "",
-      "texto": "O rei tinha coberto o rosto e exclamava em alta voz:"
-    },
-    "5": {
-      "título": "",
-      "texto": "Então Joabe entrou na casa do rei e lhe disse:"
-    },
-    "6": {
-      "título": "",
-      "texto": "Você ama os que o odeiam e odeia os que o amam. Hoje dá a entender que os seus comandantes e soldados não têm qualquer valor. Porque agora entendo que, se Absalão estivesse vivo e todos nós hoje estivéssemos mortos, então você estaria contente."
-    },
-    "7": {
-      "título": "",
-      "texto": "Agora, levante-se, saia e diga uma palavra de encorajamento aos seus soldados. Juro pelo Senhor que, se não sair, nem um só homem ficará com você esta noite. E este mal seria maior do que todos que têm vindo sobre você desde a sua mocidade até agora."
-    },
-    "8": {
-      "título": "",
-      "texto": "Então o rei se levantou e sentou junto ao portão da cidade. E anunciaram isso a todo o povo, dizendo:"
-    },
-    "9": {
-      "título": "",
-      "texto": "Todo o povo, em todas as tribos de Israel, andava discutindo entre si, dizendo:"
-    },
-    "10": {
-      "título": "",
-      "texto": "Absalão, a quem ungimos sobre nós, morreu na batalha. Agora por que vocês estão calados e não fazem com que o rei volte?"
-    },
-    "11": {
-      "título": "Davi volta para Jerusalém",
-      "texto": "Então o rei Davi mandou dizer aos sacerdotes Zadoque e Abiatar:"
-    },
-    "12": {
-      "título": "",
-      "texto": "Vocês são meus irmãos. São do mesmo povo que eu. Por que, então, seriam os últimos a trazer o rei de volta?”"
-    },
-    "13": {
-      "título": "",
-      "texto": "Digam a Amasa: “Você não é da mesma família que eu? Que Deus me castigue se você não vier a ser para sempre comandante do meu exército, em lugar de Joabe.”"
-    },
-    "14": {
-      "título": "",
-      "texto": "Com isto o rei moveu o coração de todos os homens de Judá, como se fossem um só homem. E mandaram dizer ao rei:"
-    },
-    "15": {
-      "título": "",
-      "texto": "Então o rei voltou e chegou ao Jordão. E os homens de Judá foram a Gilgal, para encontrar-se com o rei, a fim de fazê-lo passar o Jordão."
-    },
-    "16": {
-      "título": "Simei se encontra com Davi",
-      "texto": "Simei, filho de Gera, benjamita, que era de Baurim, apressou-se e desceu com os homens de Judá a encontrar-se com o rei Davi."
-    },
-    "17": {
-      "título": "",
-      "texto": "Com ele estavam mil homens de Benjamim, bem como Ziba, servo da casa de Saul, acompanhado de seus quinze filhos e seus vinte servos. Entraram no Jordão à vista do rei"
-    },
-    "18": {
-      "título": "",
-      "texto": "e o atravessaram, para fazerem passar a casa real e para fazerem o que lhe era agradável. Então Simei, filho de Gera, prostrou-se diante do rei, quando este ia passar o Jordão,"
-    },
-    "19": {
-      "título": "",
-      "texto": "e lhe disse:"
-    },
-    "20": {
-      "título": "",
-      "texto": "Porque este seu servo sabe que pecou. Por isso, de toda a casa de José, sou hoje o primeiro que veio encontrar-se com o rei, meu senhor."
-    },
-    "21": {
-      "título": "",
-      "texto": "Então Abisai, filho de Zeruia, disse:"
-    },
-    "22": {
-      "título": "",
-      "texto": "Porém Davi disse:"
-    },
-    "23": {
-      "título": "",
-      "texto": "Então o rei disse a Simei:"
-    },
-    "24": {
-      "título": "Mefibosete se encontra com Davi",
-      "texto": "Também Mefibosete, neto de Saul, desceu a encontrar-se com o rei. Ele não tinha tratado dos pés, nem aparado a barba, nem lavado as roupas, desde o dia em que o rei tinha saído até o dia em que voltou em paz."
-    },
-    "25": {
-      "título": "",
-      "texto": "Quando ele chegou de Jerusalém para encontrar-se com o rei, este lhe perguntou:"
-    },
-    "26": {
-      "título": "",
-      "texto": "Ele respondeu:"
-    },
-    "27": {
-      "título": "",
-      "texto": "Além do mais, o meu criado falsamente acusou este seu servo diante do rei, meu senhor. Porém o rei, meu senhor, é como um anjo de Deus; que faça o que achar melhor."
-    },
-    "28": {
-      "título": "",
-      "texto": "Porque toda a casa de meu pai era digna de morte diante do rei, meu senhor, mas o rei pôs este seu servo entre os que sentam à sua mesa para comer. Que direito ainda tenho? Que mais posso pedir ao rei?"
-    },
-    "29": {
-      "título": "",
-      "texto": "Então o rei disse:"
-    },
-    "30": {
-      "título": "",
-      "texto": "Mas Mefibosete disse ao rei:"
-    },
-    "31": {
-      "título": "Barzilai se encontra com Davi",
-      "texto": "Também Barzilai, o gileadita, desceu de Rogelim e passou com o rei o Jordão, para o acompanhar até o outro lado."
-    },
-    "32": {
-      "título": "",
-      "texto": "Barzilai era bem velho, da idade de oitenta anos. Ele havia sustentado o rei quando este estava em Maanaim, porque era um homem muito rico."
-    },
-    "33": {
-      "título": "",
-      "texto": "O rei disse a Barzilai:"
-    },
-    "34": {
-      "título": "",
-      "texto": "Mas Barzilai respondeu ao rei:"
-    },
-    "35": {
-      "título": "",
-      "texto": "Hoje tenho oitenta anos. Poderia eu discernir entre o que é bom e o que é mau? Poderia este seu servo perceber o sabor do que come e do que bebe? Poderia eu ainda ouvir a voz dos cantores e cantoras? E por que este seu servo se tornaria ainda um peso ao rei, meu senhor?"
-    },
-    "36": {
-      "título": "",
-      "texto": "Este seu servo irá com o rei só um pouco além do Jordão. Por que o rei iria me retribuir com tal recompensa?"
-    },
-    "37": {
-      "título": "",
-      "texto": "Deixe que este seu servo volte, e morrerei na minha cidade e serei sepultado junto de meu pai e de minha mãe. Mas aqui está o seu servo Quimã. Deixe que ele passe com o rei, meu senhor. Faça por ele o que achar melhor."
-    },
-    "38": {
-      "título": "",
-      "texto": "O rei respondeu:"
-    },
-    "39": {
-      "título": "",
-      "texto": "Todo o povo passou o Jordão, e o rei também passou. E o rei beijou Barzilai e o abençoou. E Barzilai voltou para casa."
-    },
-    "40": {
-      "título": "Discussão entre Israel e Judá",
-      "texto": "Dali o rei foi para Gilgal, e Quimã foi com ele. Todo o povo de Judá e metade do povo de Israel acompanharam o rei."
-    },
-    "41": {
-      "título": "",
-      "texto": "Eis que todos os homens de Israel vieram falar com o rei e lhe disseram:"
-    },
-    "42": {
-      "título": "",
-      "texto": "Então todos os homens de Judá responderam aos homens de Israel:"
-    },
-    "43": {
-      "título": "",
-      "texto": "E os homens de Israel responderam aos homens de Judá e disseram:"
+    "versiculos": {
+        "1": "Disseram a Joabe:",
+        "2": "Assim, a vitória se tornou, naquele mesmo dia, em luto para todo o povo, porque, naquele dia, o povo tinha ouvido dizer: “O rei está de luto por causa de seu filho.”",
+        "3": "Naquele mesmo dia, o povo entrou às escondidas na cidade, como o faz quando foge envergonhado da batalha.",
+        "4": "O rei tinha coberto o rosto e exclamava em alta voz:",
+        "5": "Então Joabe entrou na casa do rei e lhe disse:",
+        "6": "Você ama os que o odeiam e odeia os que o amam. Hoje dá a entender que os seus comandantes e soldados não têm qualquer valor. Porque agora entendo que, se Absalão estivesse vivo e todos nós hoje estivéssemos mortos, então você estaria contente.",
+        "7": "Agora, levante-se, saia e diga uma palavra de encorajamento aos seus soldados. Juro pelo Senhor que, se não sair, nem um só homem ficará com você esta noite. E este mal seria maior do que todos que têm vindo sobre você desde a sua mocidade até agora.",
+        "8": "Então o rei se levantou e sentou junto ao portão da cidade. E anunciaram isso a todo o povo, dizendo:",
+        "9": "Todo o povo, em todas as tribos de Israel, andava discutindo entre si, dizendo:",
+        "10": "Absalão, a quem ungimos sobre nós, morreu na batalha. Agora por que vocês estão calados e não fazem com que o rei volte?",
+        "11": "Então o rei Davi mandou dizer aos sacerdotes Zadoque e Abiatar:",
+        "12": "Vocês são meus irmãos. São do mesmo povo que eu. Por que, então, seriam os últimos a trazer o rei de volta?”",
+        "13": "Digam a Amasa: “Você não é da mesma família que eu? Que Deus me castigue se você não vier a ser para sempre comandante do meu exército, em lugar de Joabe.”",
+        "14": "Com isto o rei moveu o coração de todos os homens de Judá, como se fossem um só homem. E mandaram dizer ao rei:",
+        "15": "Então o rei voltou e chegou ao Jordão. E os homens de Judá foram a Gilgal, para encontrar-se com o rei, a fim de fazê-lo passar o Jordão.",
+        "16": "Simei, filho de Gera, benjamita, que era de Baurim, apressou-se e desceu com os homens de Judá a encontrar-se com o rei Davi.",
+        "17": "Com ele estavam mil homens de Benjamim, bem como Ziba, servo da casa de Saul, acompanhado de seus quinze filhos e seus vinte servos. Entraram no Jordão à vista do rei",
+        "18": "e o atravessaram, para fazerem passar a casa real e para fazerem o que lhe era agradável. Então Simei, filho de Gera, prostrou-se diante do rei, quando este ia passar o Jordão,",
+        "19": "e lhe disse:",
+        "20": "Porque este seu servo sabe que pecou. Por isso, de toda a casa de José, sou hoje o primeiro que veio encontrar-se com o rei, meu senhor.",
+        "21": "Então Abisai, filho de Zeruia, disse:",
+        "22": "Porém Davi disse:",
+        "23": "Então o rei disse a Simei:",
+        "24": "Também Mefibosete, neto de Saul, desceu a encontrar-se com o rei. Ele não tinha tratado dos pés, nem aparado a barba, nem lavado as roupas, desde o dia em que o rei tinha saído até o dia em que voltou em paz.",
+        "25": "Quando ele chegou de Jerusalém para encontrar-se com o rei, este lhe perguntou:",
+        "26": "Ele respondeu:",
+        "27": "Além do mais, o meu criado falsamente acusou este seu servo diante do rei, meu senhor. Porém o rei, meu senhor, é como um anjo de Deus; que faça o que achar melhor.",
+        "28": "Porque toda a casa de meu pai era digna de morte diante do rei, meu senhor, mas o rei pôs este seu servo entre os que sentam à sua mesa para comer. Que direito ainda tenho? Que mais posso pedir ao rei?",
+        "29": "Então o rei disse:",
+        "30": "Mas Mefibosete disse ao rei:",
+        "31": "Também Barzilai, o gileadita, desceu de Rogelim e passou com o rei o Jordão, para o acompanhar até o outro lado.",
+        "32": "Barzilai era bem velho, da idade de oitenta anos. Ele havia sustentado o rei quando este estava em Maanaim, porque era um homem muito rico.",
+        "33": "O rei disse a Barzilai:",
+        "34": "Mas Barzilai respondeu ao rei:",
+        "35": "Hoje tenho oitenta anos. Poderia eu discernir entre o que é bom e o que é mau? Poderia este seu servo perceber o sabor do que come e do que bebe? Poderia eu ainda ouvir a voz dos cantores e cantoras? E por que este seu servo se tornaria ainda um peso ao rei, meu senhor?",
+        "36": "Este seu servo irá com o rei só um pouco além do Jordão. Por que o rei iria me retribuir com tal recompensa?",
+        "37": "Deixe que este seu servo volte, e morrerei na minha cidade e serei sepultado junto de meu pai e de minha mãe. Mas aqui está o seu servo Quimã. Deixe que ele passe com o rei, meu senhor. Faça por ele o que achar melhor.",
+        "38": "O rei respondeu:",
+        "39": "Todo o povo passou o Jordão, e o rei também passou. E o rei beijou Barzilai e o abençoou. E Barzilai voltou para casa.",
+        "40": "Dali o rei foi para Gilgal, e Quimã foi com ele. Todo o povo de Judá e metade do povo de Israel acompanharam o rei.",
+        "41": "Eis que todos os homens de Israel vieram falar com o rei e lhe disseram:",
+        "42": "Então todos os homens de Judá responderam aos homens de Israel:",
+        "43": "E os homens de Israel responderam aos homens de Judá e disseram:"
     }
-  }
 }

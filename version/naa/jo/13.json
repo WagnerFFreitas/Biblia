@@ -1,118 +1,40 @@
 {
-  "livro": "Jó",
-  "capítulo": 13,
-  "versículos": {
-    "1": {
-      "título": "Falarei ao Todo-Poderoso",
-      "texto": "“Eis que os meus olhos"
+    "livro": "Jó",
+    "capitulo": 13,
+    "titulos": {
+        "1": "Falarei ao Todo-Poderoso",
+        "6": "Vocês zombariam de Deus?",
+        "13": "Defenderei minha causa diante de Deus",
+        "19": "Ó Deus, por que me consideras teu inimigo?"
     },
-    "2": {
-      "título": "",
-      "texto": "O que vocês sabem"
-    },
-    "3": {
-      "título": "",
-      "texto": "Mas falarei ao Todo-Poderoso"
-    },
-    "4": {
-      "título": "",
-      "texto": "Vocês, porém,"
-    },
-    "5": {
-      "título": "",
-      "texto": "Quem dera vocês ficassem"
-    },
-    "6": {
-      "título": "Vocês zombariam de Deus?",
-      "texto": "“Ouçam agora a minha defesa"
-    },
-    "7": {
-      "título": "",
-      "texto": "Será que vão dizer perversidades"
-    },
-    "8": {
-      "título": "",
-      "texto": "Serão parciais por ele?"
-    },
-    "9": {
-      "título": "",
-      "texto": "Por acaso, seria bom"
-    },
-    "10": {
-      "título": "",
-      "texto": "Ele certamente os repreenderá,"
-    },
-    "11": {
-      "título": "",
-      "texto": "A grandeza dele"
-    },
-    "12": {
-      "título": "",
-      "texto": "As máximas de vocês"
-    },
-    "13": {
-      "título": "Defenderei minha causa diante de Deus",
-      "texto": "“Calem-se diante de mim,"
-    },
-    "14": {
-      "título": "",
-      "texto": "Tomarei a minha carne"
-    },
-    "15": {
-      "título": "",
-      "texto": "Eis que ele me matará,"
-    },
-    "16": {
-      "título": "",
-      "texto": "Também isto será"
-    },
-    "17": {
-      "título": "",
-      "texto": "Ouçam com atenção"
-    },
-    "18": {
-      "título": "",
-      "texto": "Tenho já bem-encaminhada"
-    },
-    "19": {
-      "título": "Ó Deus, por que me consideras teu inimigo?",
-      "texto": "“Quem há que possa"
-    },
-    "20": {
-      "título": "",
-      "texto": "Concede-me somente"
-    },
-    "21": {
-      "título": "",
-      "texto": "tira a tua mão de cima de mim,"
-    },
-    "22": {
-      "título": "",
-      "texto": "“Interpela-me, e eu responderei;"
-    },
-    "23": {
-      "título": "",
-      "texto": "Quantas culpas"
-    },
-    "24": {
-      "título": "",
-      "texto": "“Por que escondes o teu rosto"
-    },
-    "25": {
-      "título": "",
-      "texto": "Queres aterrorizar uma folha"
-    },
-    "26": {
-      "título": "",
-      "texto": "“Pois decretas contra mim"
-    },
-    "27": {
-      "título": "",
-      "texto": "Também prendes os meus pés"
-    },
-    "28": {
-      "título": "",
-      "texto": "apesar de eu ser"
+    "versiculos": {
+        "1": "“Eis que os meus olhos",
+        "2": "O que vocês sabem",
+        "3": "Mas falarei ao Todo-Poderoso",
+        "4": "Vocês, porém,",
+        "5": "Quem dera vocês ficassem",
+        "6": "“Ouçam agora a minha defesa",
+        "7": "Será que vão dizer perversidades",
+        "8": "Serão parciais por ele?",
+        "9": "Por acaso, seria bom",
+        "10": "Ele certamente os repreenderá,",
+        "11": "A grandeza dele",
+        "12": "As máximas de vocês",
+        "13": "“Calem-se diante de mim,",
+        "14": "Tomarei a minha carne",
+        "15": "Eis que ele me matará,",
+        "16": "Também isto será",
+        "17": "Ouçam com atenção",
+        "18": "Tenho já bem-encaminhada",
+        "19": "“Quem há que possa",
+        "20": "Concede-me somente",
+        "21": "tira a tua mão de cima de mim,",
+        "22": "“Interpela-me, e eu responderei;",
+        "23": "Quantas culpas",
+        "24": "“Por que escondes o teu rosto",
+        "25": "Queres aterrorizar uma folha",
+        "26": "“Pois decretas contra mim",
+        "27": "Também prendes os meus pés",
+        "28": "apesar de eu ser"
     }
-  }
 }
