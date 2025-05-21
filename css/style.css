@@ -1,707 +1,640 @@
-/* Configurações gerais da página */
+/* O bloco abaixo configura o corpo da página */
 body {
-  background-color: #181818;
-  color: #fff;
-  /*font-family: sans-serif;*/
-  margin: 0;
-  width: 100%;
-  overflow-x: hidden;
+    background-color: #181818; /* Fundo base ainda necessário se a imagem não carregar */
+    color: #fff;
+    font-family: sans-serif;
+    margin: 0;
+    width: 100%;
+    font-style: italic;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    font-weight: bold;
+    color: #d4ac0d
 }
 
-/* Container para centralizar o título principal e o subtítulo (agora alinhado à esquerda) */
-.titulo-container {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start; /* ALTERADO de 'center' para 'flex-start' para alinhar conteúdo à esquerda */
-  /* flex-grow: 1; */ /* COMENTADO/REMOVIDO - Impedia o alinhamento à esquerda ao tentar preencher espaço */
-}
-
-
-/* Estilo do título principal */
-h1#titulo-principal-versao { /* Mais específico para evitar conflitos */
-  margin: 20px 0 0 0; /* Margem esquerda 0 */
-  font-size: 2.5em; 
-  /*font-weight: bold;*/
-  font-style: italic;
-  text-align: left; /* ALTERADO de 'center' para 'left' */
+/* O bloco abaixo configura o H1 do título principal */
+h1 {
+    margin: 0;
+    margin-top: 20px;
+    margin-left: 30px;
+    font-size: 2.5em; 
+    
+    font-style: italic;
+   
+  
+    
 }
 
 /* Estilo para o subtítulo da versão por extenso */
 .nome-extenso-versao {
-  font-size: 1.5em; 
-  color: #dddddd; 
-  /*text-align: center; /* ALTERADO de 'center' para 'left' */
-  /*margin: -15px 0 15px 0; /* Margem esquerda 0 */
-  margin-left: 250px; /* Ajuste para alinhar à esquerda */
-  margin-top: -2px;
-  margin-bottom: 1.5px;   /* Margem inferior */
+  font-size: 1.2em; 
   
-  font-weight: normal; 
-  font-style: normal; 
+  margin-top: 1px;
+  margin-bottom: 0.5px;
+  
+  
+  margin-left: 295px;
+  position: fixed;
 }
 
 
-/* Barra de navegação */
+/* O bloco abaixo configura o estilo da barra de navegação */
 nav {
-  background: linear-gradient(to right, #333, #555, #777);
-  width: 100%;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
-  height: 40px; /* Altura fixa para o nav */
-  display: flex;
-  align-items: center;
-  justify-content: space-between; /* <<< ADICIONADO: Para separar os dois ULs */
-  padding: 2px 20px; /* ajuste do espaçamento horizontal (mantém o padding geral da nav) */
-   font-family: Arial, sans-serif; /* Fonte mais simples */
-  font-style: normal; /* Remove itálico */
- 
+    background: linear-gradient(to right, #333, #555, #777);
+    width: 100%;
+    padding: 10px 0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    display: flex;
+    align-items: center; /* Centraliza verticalmente os itens dentro do nav */
+    justify-content: space-between; /* Espaça o título à esquerda, o menu no centro e a busca à direita */
+    height: 20px; /* Reduzido para 30px ou ajuste conforme necessário */
+    position: fixed;
+    top: 110px; /* Ajustado para ficar logo abaixo do título */
 }
 
-nav ul {
-  display: flex;
-  align-items: center;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  height: 100%; /* Ocupa toda a altura do nav */
+/* Estilos para o título "LIVROS" na barra de navegação */
+
+/* Estilos para o título "LIVROS" na barra de navegação */
+.menu-title {
+    color: white;
+    
+    font-size: 1.5vw;
+    margin-left: 37px; /* Espaço à esquerda para alinhamento */
+    margin-right: 20px; /* Espaço entre o título e o menu */
+    width: auto; /* Ajustado para permitir que o texto se expanda */
+    text-align: left; /* Mantém o alinhamento à esquerda */
+    display: flex; /* Para alinhar "LIVROS" e a versão na mesma linha */
+    align-items: center; /* Centraliza verticalmente */
+    white-space: nowrap; /* Impede quebra de linha */
 }
 
-/* Ajuste específico para o UL que contém apenas "LIVROS" para garantir que ele não tenha padding desnecessário se houver */
-nav ul:first-child {
-    padding-left: 0; /* Ou um valor pequeno se necessário, ex: 10px */
-}
-
-/* Ajuste para o UL das opções do menu para que tenha um padding à direita se necessário */
-/*nav ul.menu-opcoes {
-    /*padding-right: 0; /* Ou um valor pequeno *
-    margin-left: 0;
+/*.menu-title {
+    font-weight: bold;
+    color: #f5f1f1;
+    font-size: 1.5vw;
+    margin-left: 37px; /* Espaço à esquerda para alinhamento *
+    margin-right: 20px; /* Espaço entre o título e o menu *
+    width: 160px; /* Alinhado à largura do .menu-livros *
+    text-align: left; /* Centraliza o texto "LIVROS" dentro do espaço *
 }*/
 
-
-nav ul li {
-  margin: 0 3px; /* Espaçamento entre os itens do menu (ex: Menu, Modo Leitura, etc.) */
-  display: flex;
-  align-items: center;
-  height: 100%; /* Ocupa toda a altura do nav */
+/* Estilos para a lista de opções na barra de navegação */
+nav .menu-opcoes {
+    display: flex; /* Garante que os itens fiquem lado a lado */
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    flex-grow: 1; /* Faz o menu-opcoes ocupar o espaço restante */
+    justify-content: center; /* Centraliza as opções horizontalmente */
+    align-items: center; /* Garante alinhamento vertical */
+    flex-wrap: nowrap; /* Impede que os itens quebrem para a próxima linha */
+    margin-left: 70px;
 }
 
-nav ul li a {
-  text-decoration: none;
-  color: white;
-  /*font-weight: bold;*/
-  padding: 0 11px; /* Reduzido padding horizontal para os links para diminuir o espaço */
-  border-radius: 5px;
-  transition: background 0.3s ease;
-  line-height: 40px; /* Mesma altura do nav */
-  white-space: nowrap; /* Impede quebra de linha */
-  padding: 0 5px;
+/* Estilos para cada item da lista */
+nav .menu-opcoes li {
+    margin: 0 13px; /* Reduzido de 15px para 5px para diminuir o espaço entre os itens */
+    white-space: nowrap; /* Impede que o texto quebre em várias linhas */
 }
 
-nav ul li a:hover {
-  background: rgba(255, 255, 255, 0.1);
+/* O bloco abaixo configura o estilo dos links de navegação */
+nav .menu-opcoes li a {
+    text-decoration: none;
+    color: white;
+    
+
+    
+    padding: 4px 4px; /* Reduzido de 8px 15px para 4px 8px */
+    border-radius: 5px;
+    transition: background 0.3s ease;
+    font-size: 1.2vw; /* Ajusta o tamanho da fonte para melhor proporção */
+    display: inline-block; /* Garante que o link ocupe apenas o espaço necessário */
 }
 
-nav ul.menu-opcoes li:first-child {
-  margin-left: 0; /* Remove margem do primeiro item após "LIVROS" */
+/* Estado padrão (desligado) do botão "Modo Leitura" */
+nav .menu-opcoes li a#modo-leitura {
+    background-color: transparent; /* Sem fundo quando desligado */
+   
 }
 
-/* Ajusta o espaçamento entre os itens do menu */
-nav ul.menu-opcoes li {
-    margin: 0 -10px; /* Reduz o espaço vertical entre os itens */
-    /*padding-left: 150px; /* Recuo à esquerda para alinhar com "LIVROS" */
-    /*padding-right: 10px; /* Recuo à direita para alinhar com "LIVROS" */
-    font-size: 1.1em; /* Aumenta um pouco o tamanho da fonte */
-   /* font-weight: bold; /* Deixa o texto em negrito */
-    color: #f5f5f5; /* Cor do texto */
-    text-decoration: none; /* Remove sublinhado */
-    border-radius: 5px; /* Bordas arredondadas */
-    transition: background-color 0.3s ease; /* Transição suave para a cor de fundo */
-  }
-
-/* Opcional: Diminui o padding interno dos links para compactar mais */
-nav ul.menu-opcoes li a {
-    padding: 3px 6px; /* Reduz o espaço interno (vertical, horizontal) */
-    /*font-size: 0.95em; /* Opcional: Reduz um pouco o tamanho da fonte */
+/* Estado ativado (acionado) do botão "Modo Leitura" */
+nav .menu-opcoes li a#modo-leitura[aria-pressed="true"] {
+    background-color: #4CAF50; /* Cor verde quando ativado */
+    
 }
 
-/* Ajusta o alinhamento dos itens do menu */
-/* Ajustes nas listas do menu */
-nav ul.menu-opcoes {
-  display: flex;
-  align-items: center;
-  list-style: none;
-  margin: -40px;
-  padding:0px; /* Ajusta o padding para centralizar os itens */
-  height: 100%;
-  width: calc(100% - 190px); /* Ajusta largura considerando espaço do título */
+/* Efeito hover para o estado ativado */
+nav .menu-opcoes li a#modo-leitura[aria-pressed="true"]:hover {
+    background-color: #45a049; /* Tom mais escuro ao passar o mouse */
 }
 
-/* Menu lateral de livros */
+/* Efeito hover para o estado desligado */
+nav .menu-opcoes li a#modo-leitura[aria-pressed="false"]:hover {
+    background-color: rgba(255, 255, 255, 0.2); /* Fundo leve ao passar o mouse */
+}
+
+/* Estilos gerais para hover nos outros links */
+nav .menu-opcoes li a:hover {
+    background: rgba(255, 255, 255, 0.2); /* Fundo hover mais visível para outros links */
+}
+
+/* O bloco abaixo configura o menu lateral dos livros */
 .menu-livros {
-  flex: 1;
-  margin-right: 20px;
-  height: calc(100vh - 25px);
-  overflow-y: auto;
-  background-color: #181818;
-  color: #fff;
-  padding: 20px;
-  position: fixed;
-  top: 151px;
-  left: 0;
-  width: 164px;
-  bottom: 0;
-  z-index: 10;
+    flex: 1;
+    margin-right: 20px;
+    height: 100vh;
+    overflow-y: auto;
+    background-color: #181818;
+    color: #fff;
+    padding: 20px;
+    position: fixed;
+    top: 150px; /* Ajustado para começar logo abaixo da barra de navegação (aproximadamente 50px) */
+    left: 0;
+    width: 188px;
+    bottom: 0;
+    z-index: 10;
+    height: calc(100vh - 217px); /* Ajustado para subtrair a altura da barra de navegação (50px) e padding/rodapé (20px) */
 }
 
-/* Barra de rolagem do menu lateral */
+/* O bloco abaixo configura a largura da barra de rolagem do menu lateral */ 
 .menu-livros::-webkit-scrollbar {
-  width: 15px;
+    width: 12px;
 }
 
+/* O bloco abaixo configura o estilo da trilha da barra de rolagem */
 .menu-livros::-webkit-scrollbar-track {
-  background: #383838;
+    background: #383838;
 }
 
+/* O bloco abaixo configura a cor, arredondamento e a margem da barra de rolagem */  
 .menu-livros::-webkit-scrollbar-thumb {
-  background: #a7a2a2;
-  border-radius: 10px;
-  margin: 5px;
+    background: #a7a2a2;
+    border-radius: 10px;
+    margin: 5px;
 }
 
+/* O bloco abaixo configura os estilos para a lista de livros da barra lateral */
 .menu-livros ul {
-  list-style-type: none;
-  padding: 0;
-  margin: 10px;
+    list-style-type: none;
+    padding: 0;
+    margin: 15px;
+    margin-top: 5px;
 }
 
+/* O bloco abaixo configura o espaçamento interior dos itens da lista na barra lateral */
 .menu-livros li {
-  margin-bottom: 10px;
+    margin-bottom: 10px;
 }
 
+/* O bloco abaixo configura a cor e remove o sublinhamento */
 .menu-livros a {
-  color: #fcf9f9; 
-  text-decoration: none;
+    color: #fcf9f9; 
+    text-decoration: none;
 }
 
+/* O bloco abaixo configura o efeito ao passar o mouse de modo que fique sublinhado */
 .menu-livros a:hover {
-  text-decoration: underline;
+    text-decoration: underline;
 }
 
-/* Título do menu "LIVROS" na barra de navegação */
-.menu-title {
-  color: white;
-  /*font-weight: bold;*/
-  /* padding: 0 15px; Removido para não adicionar espaço extra ao redor de LIVROS */
-  display: inline-flex;
-  align-items: center;
-  height: 100%;
-  font-size: 1.4rem;
-  margin-left: 10px; /*Removido ou ajustado, pois o padding da nav já cuida disso */
-  
-}
-
-/* Área de conteúdo principal */
+/* O bloco abaixo configura a área de conteúdo principal */
 .content {
-  flex: 3;
-  overflow-y: auto;
-  overflow-x: hidden;
-  height: calc(100vh - 160px);
+    flex: 3;
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: calc(100vh - 160px); /* 160px é a altura da barra de rolagem direita */
+    gap: 10px; /* Controla o espaço entre h2 e .capitulos */
 }
 
 .content::-webkit-scrollbar {
-  width: 16px;
+    width: 16px; /* Largura da barra de rolagem */
 }
 
 .content::-webkit-scrollbar-track {
-  background: #383838;
+    background: #383838; /* Cor da trilha da barra de rolagem */
 }
 
 .content::-webkit-scrollbar-thumb {
-  background: #a7a2a2;
-  border-radius: 10px;
-  margin: 5px;
-  min-height: 50px;
+    background: #a7a2a2; /* Cor da "bolinha" da barra de rolagem */
+    border-radius: 10px; /* Arredondamento das bordas da barra de rolagem */
+    margin: 5px; /* Espaço ao redor da "bolinha" da barra de rolagem */
+    min-height: 50px; /* Altura mínima da barra de rolagem */
 }
 
-/* Layout principal */
+/* O bloco abaixo configura o contêiner para exibir seus filhos em uma linha */
 .container {
-  display: flex;
-  flex-direction: row;
+    display: flex;
+    flex-direction: row;
 }
 
 /* Barra de busca */
 .search-bar {
-  display: flex;
-  align-items: center;
-  flex-shrink: 0; /* Para não encolher demais */
-  margin-right: 20px; /* Ajustado para não sobrepor demais */
-  margin-top: 20px; /* Mantido */
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
 }
 
+/* O bloco abaixo configura a opção da barra de busca */
 .search-bar select {
-  margin-right: 5px;
-  color: #fff;
-  font-size: 16px;
-  padding: 8px;
-  border: 1px solid #fff; 
-  appearance: none;
-  border-radius: 5px;
-  background-color: #383838;
+    margin-right: 5px;
+    color: #fff;
+    font-size: 16px;
+    padding: 8px;
+    border: 1px solid #fff; 
+    appearance: none;
+    border-radius: 5px;
+    background-color: #383838;
 }
 
+/* O bloco abaixo configura a caixa de busca da barra */
 .search-bar input[type="text"] {
-  margin-right: 10px;
-  font-size: 16px;
-  padding: 8px;
-  border: 1px solid #fff;
-  background-color: #383838;
-  color: #fff;
-  border-radius: 5px;
+    margin-right: 10px;
+    font-size: 16px;
+    padding: 8px;
+    border: 1px solid #fff;
+    background-color: #383838;
+    color: #fff;
+    border-radius: 5px;
 }
 
+/* O bloco abaixo configura o botão busca da barra */
 .search-bar button {
-  color: white;
-  cursor: pointer;
-  padding: 8px 15px;
-  border-radius: 5px;
-  background-color: #4CAF50;
-  border: 1px solid #fff;
-  font-size: 16px;
+    color: white;
+    cursor: pointer;
+    padding: 8px 15px;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    border: 1px solid #fff;
+    font-size: 16px;
 }
 
+/* O bloco abaixo configura o efeito ao passar o mouse, mudando a cor do botão de busca da barra */
 .search-bar button:hover {
-  background-color: #f34141;
+    background-color: #f34141;
 }
 
-/* Cabeçalho fixo */
-/* .header { */ 
-  /* position: fixed; */ 
-/* } */
+/* O bloco abaixo configura a posição da barra do menu superior */
+/*.header {
+    position: fixed;
+}*/
 
 .header-top {
-  display: flex;
-  justify-content: space-between; 
-  align-items: flex-start; 
-  padding: 0 20px; 
+    display: flex;
+    justify-content: space-between;
 }
 
+/* O bloco abaixo configura a distância superior da barra de menu superior e o texto */
 .header-bottom {
-  margin-top: 10px; 
+    margin-top: 65px;
 }
 
-/* Removendo a margem específica que causava o grande espaçamento */
- 
-.header-bottom nav ul li:not(:first-child) {
-    margin-left: 28px; 
-}
-
-
-.header-bottom ul {
-  margin-left: 0; 
-}
-
-.header-bottom ul li {
-  font-style: italic;
-}
-
-
-/* Botões de capítulos */
+/* O bloco abaixo configura os botões dos capítulos */
 .capitulos {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(70px, 1fr));
-  gap: 10px;
-  padding: 20px;
-  margin-left: 220px;
-  margin-right: 20px;
-  margin-top: -50px;
-  max-width: calc(100% - 80px);
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(70px, 1fr));
+    gap: 10px;
+    padding: 20px;
+    margin-left: 250px;
+    margin-right: 20px;
+    margin-top: -40px; /* Ajustado para controlar o espaço acima dos botões */
+    max-width: calc(100% - 80px);
 }
 
+/* O bloco abaixo configura os botões dos capítulos */
 .botao-capitulo {
-  background-color: #220bf0;
-  color: white;
-  text-align: center;
-  padding: 8px 12px;
-  border-radius: 5px;
-  cursor: pointer;
-  font-size: 1vw;
-  border: none;
-  transition: background-color 0.3s;
+    background-color: #220bf0;
+    color: white;
+    text-align: center;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1vw;
+    border: none;
+    transition: background-color 0.3s;
 }
 
-/* Efeitos hover para botões */
-.botao-capitulo:hover, 
-.botao-versiculo:hover {
-  background-color: #45a049;
+/* O bloco abaixo configura o efeito ao passar o mouse, mudando a cor dos botões */
+.botao-capitulo:hover, .botao-versiculo:hover {
+    background-color: #45a049;
 }
 
-/* Títulos que fica acima dos botões */
+/* O bloco abaixo configura o estilo do título dos botões "Livro-Capítulo-Versículo" */
+/*h2 {
+    font-weight: bold;
+    color: #f5f1f1;
+    font-style: italic;
+    font-size: 2.5vw;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 210px;
+    max-width: calc(100% - 80px);
+}*/
+
+/* O bloco abaixo configura o estilo do título dos botões "Livro-Capítulo-Versículo" */
 h2 {
-  /*font-weight: bold;*/
-  color: #f5f1f1;
-  font-style: italic;
-  font-size: 2.5vw;
-  text-align: center;
-  margin-top: 15px;
-  margin-left: 200px;
-  margin-bottom: 45px;
-  max-width: calc(100% - 80px);
+    
+   
+    font-style: italic;
+    font-size: 2.5vw;
+    text-align: center;
+    margin-top: 30px;     /* Ajuste este conforme necessário para o espaço ACIMA do título */
+    margin-bottom: 30px;  /* REDUZA este valor para diminuir o espaço ABAIXO do título */
+    margin-left: 230px;
+    max-width: calc(100% - 80px);
 }
 
+/* O bloco abaixo configura o estilo do título do menu lateral */
 h3 {
-  /*font-weight: bold;*/
-  color: #f5f1f1;
-  font-size: 1em; 
-  font-style: italic;
-  margin-left: 14px;
-  margin-top: -5px;
+    
+    
+    font-size: 1.5em;
+    font-style: italic;
+    margin-left: 14px;
+    margin-top: 5px;
 }
 
-/* Botões de versículos */
+/* O bloco abaixo configura os botões dos versículos */
 .versiculos {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(70px, 1fr));
-  gap: 10px;
-  padding: 20px;
-  margin-left: 220px;
-  margin-right: 20px;
-  margin-top: -10px;
-  max-width: calc(100% - 80px);
+    display: grid;
+    flex-wrap: wrap;
+    grid-template-columns: repeat(auto-fit, minmax(70px, 1fr));
+    gap: 10px;
+    padding: 20px;
+    margin-left: 250px;
+    margin-right: 20px;
+    margin-top: -10px;
+    max-width: calc(100% - 80px);
 }
 
+/* O bloco abaixo configura a cor de fundo dos botões ao passar o mouse por cima */
 .botao-versiculo {
-  background-color: #6758ec;
-  color: white;
-  text-align: center;
-  padding: 8px 12px;
-  border-radius: 5px;
-  cursor: pointer;
-  font-size: 1vw;
-  border: none;
-  transition: background-color 0.3s;
+    background-color: #6758ec;
+    border: none;
+    color: white;
+    text-align: center;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1vw;
+    border: none;
+    transition: background-color 0.3s;
 }
 
-/* Estilos para texto dos versículos - unificado */
-.versiculo-texto,
-.versiculos-leitura {
-  color: #f8f8f8;
-  font-family: "Arial Black", Gadget, sans-serif;
-  font-style: italic;
-  /*font-weight: bold;*/
-  margin: 10px 30px 20px 220px;
-  line-height: 1.2;
-  text-align: center;
-  max-width: calc(100% - 80px);
+/* O bloco abaixo configura o texto dos versículos */
+.versiculo-texto {
+    color: #f8f8f8;
+    
+    font-style: italic;
+    margin-top: 10px;
+    margin-left: 266px;
+    margin-right: 30px;
+    margin-bottom: 80px;
+    font-size: 2.2vw;
+    line-height: 1.2;
+    position: relative;
+    text-align: center; /* Centraliza o texto como na imagem */
+    max-width: calc(100% - 80px); /* Mantém a largura ajustada */
+    white-space: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+    transition: margin-left 0.3s ease; /* Suaviza a transição ao mudar a margem */
 }
 
-/* Títulos internos dos versículos */
-.versiculo-texto h3.titulo-versiculo-interno,
-.versiculo-texto strong {
-  display: block;
-  color: #5df565;
-  margin-bottom: 15px;
-  letter-spacing: 0.5px;
-  text-align: center;
+/* Ajuste do texto do versículo no Modo Leitura (mais para a direita) */
+body[modo-leitura="true"] .versiculo-texto {
+    margin-left: 400px; /* Aumenta ainda mais a margem esquerda para alinhar com a imagem */
+    margin-right: 0; /* Remove a margem direita para permitir maior deslocamento */
+    max-width: calc(100% - 420px); /* Ajusta a largura máxima para compensar a nova margem */
 }
 
-.versiculo-texto h3.titulo-versiculo-interno {
-  font-size: clamp(1.8em, 2.5vw, 7em);
+/* O bloco abaixo configura o texto dos títulos dos versículos no arquivos JSON (H3) */
+.versiculo-texto h3 {
+    color: #4CAF50; /* Cor verde igual ao botão Modo Leitura */
+    font-size: 1.9vw;
+    
+    
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    line-height: 1.3;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.9);
 }
 
-.versiculo-texto strong {
-  font-size: clamp(1.8em, 2.5vw, 2.3em); 
-}
-
-/* Texto dos versículos */
-.versiculo-texto p,
-.versiculos-leitura p {
-  margin: 0;
-  font-size: clamp(1.5em, 3vw, 3.5em);
-  line-height: 1.2;
-}
-
-/* Modo leitura - ajustes específicos */
-.versiculo-texto.modo-leitura {
-  margin-top: -20px;
-  margin-bottom: 10px;
-}
-
-.versiculo-texto.modo-leitura p {
-  line-height: 1.2;
-}
-
-.versiculo-texto.modo-leitura h3.titulo-versiculo-interno {
-  color: #5df565;
-  font-size: 2.8vw;
-  text-shadow: 1px 1px 8px #000, 0 0 2px #5df565;
-  margin-bottom: 5px;
-}
-
-/* Blocos de versículos no modo leitura */
-.bloco-versiculo {
-  margin-bottom: 2px;
-  padding: 0 10vw;
-}
-
-.bloco-versiculo h3.titulo-versiculo-interno {
-  max-width: 900px;
-  margin: 0 auto 2px;
-  padding: 0 8px;
-}
-
-.bloco-versiculo p {
-  margin: 0 auto;
-  padding: 0 8px;
-}
-
-/* Rodapé */
+/* O bloco abaixo configura o tamanho da barra inferior da página "Rodapé" */
 footer {
-  background-color: #383838;
-  text-align: center;
-  width: 100%;
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  z-index: 1;
-  height: 30px;
+    background-color: #383838;
+    text-align: center;
+    padding: fixed;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0px;
+    z-index: 1;
+    height: 30px;
 }
 
+/* O bloco abaixo configura o tamanho da fonte e a altura da barra inferior da página */
 footer p {
-  font-size: 16px;
-  line-height: 0.2;
+    font-size: 16px;
+    line-height: 0.2;
 }
 
-/* Marca d'água */
+/* O bloco abaixo inclui a imagem da Bíblia em marca d'água de fundo */
 .watermark-image {
-  position: fixed;
-  top: 0; 
-  left: 0;
-  width: 100%;
-  height: 120%;
-  opacity: 0.3;
-  z-index: 10;
-  pointer-events: none;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 120%;
+    opacity: 0.3;
+    z-index: 10;
+    pointer-events: none;
+    overflow: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
-/* Dropdown menu */
+/* Dropdown Menu */
 .dropdown {
-  position: relative;
-  display: inline-block;
+    position: relative;
+    display: inline-block;
 }
 
 .dropdown-content {
-  display: none;
-  position: absolute;
-  box-shadow: 0px 8px 16px 0px rgb(255, 255, 255);
-  z-index: 1;
-  padding: 0;
-  margin: 10px 0 0 -30px;
-  list-style: none;
-  width: 240px;
-  background-color: rgba(0, 0, 0, 0.9);
+    display: none;
+    position: absolute;
+    box-shadow: 0px 8px 16px 0px rgb(255, 255, 255);
+    z-index: 1;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    left: -130px;
+    top: 100%;
+    margin-top: 10px;
+    width: 240px;
+    background-color: rgba(0, 0, 0, 0.9);
 }
 
 .dropdown-content li {
-  padding: 1px 8px;
-  font-size: 16px;
-  line-height: 1;
-  margin-bottom: 1px;
+    padding: 1px 8px;
+    font-size: 16px;
+    line-height: 1;
+    margin-bottom: 1px;
 }
 
 .dropdown-content li a {
-  color: rgb(215, 216, 128);
-  text-decoration: none;
-  display: block;
-  padding: 8px 16px;
-  border-radius: 8px;
-  white-space: nowrap;
+    color: rgb(215, 216, 128);
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    white-space: nowrap;
+    border-radius: 8px;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    padding: 8px 16px;
 }
 
 .dropdown:hover .dropdown-content {
-  display: block;
+    display: block;
 }
 
 .dropdown-content li a:hover {
-  color: rgb(255, 254, 254);
-  background-color: #0f0e0e;
+    color: rgb(255, 254, 254);
+    background-color: #0f0e0e;
 }
 
-/* Página Sobre */
+/* O bloco abaixo define o estilo do conteúdo da página "Sobre" */
 .sobre-content {
-  max-width: 70%;
-  margin: 10px auto;
-  padding: 20px;
+    position: relative;
+    padding: 20px;
+    max-width: 70%;
+    margin: 10px auto;
+    padding: 20px;
 }
 
 .sobre-content h2 {
-  color: #f8f8f8;
-  font-size: 2.5em;
-  margin: 0 auto 0 10%;
+    color: #f8f8f8;
+    
+    font-style: italic;
+    font-size: 2.5em;
+    text-align: center;
+    margin: 0 auto;
+    margin-left: 10%;
 }
 
 .sobre-content p {
-  color: #f8f8f8;
-  font-size: 1.5em;
-  margin: 0 auto 0 10%;
+    color: #f8f8f8;
+    font-style: italic;
+    margin-top: -10px;
+    margin: 0 auto;
+    font-size: 1.5em;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    max-width: 1200px;
+    white-space: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+    margin-left: 10%;
+}
+
+.sobre {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sobre > * {
+    margin-bottom: 20px;
 }
 
 /* Modo leitura - container principal */
 .reading-mode-content {
-  max-width: 80%;
-  margin: 20px auto;
-  padding: 20px;
-  background-color: rgba(30, 30, 30, 0.7);
-  border-radius: 8px;
-  margin-right: 10px;
+    max-width: 80%;
+    margin: 20px auto;
+    padding: 1px;
+    background-color: rgba(30, 30, 30, 0.7);
+    border-radius: 8px;
+    margin-right: 10px;
+    margin-left: 265px;
 }
 
 .reading-mode-header {
-  color: #4CAF50;
-  text-align: center;
-  margin-bottom: 20px;
-  font-size: 1.8em;
+    color: #4CAF50;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 1.8em;
+}
+
+/* Estilo para o contêiner de navegação no modo leitura */
+.reading-mode-navigation {
+    margin-bottom: 1px; /* Aumenta o espaço abaixo dos botões, ajuste conforme necessário */
+    text-align: left; /* Centraliza os botões */
+}
+
+/* Estilo para os botões de navegação no modo leitura (CAP. ANTERIOR e CAP. PRÓXIMO) */
+.reading-mode-navigation button {
+    background-color: white; /* Cor de fundo branca */
+    color: black; /* Cor do texto */
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+   
+    transition: background-color 0.3s ease;
+    margin: 0 5px; /* Espaço entre os botões */
+    
+}
+
+/* Efeito hover para os botões de navegação */
+.reading-mode-navigation button:hover {
+    background-color: #45a049; /* Tom mais escuro ao passar o mouse */
+}
+
+/* Estilo para botões desativados */
+.reading-mode-navigation button:disabled {
+    background-color: #666; /* Cinza para botões desativados */
+    cursor: not-allowed;
+    opacity: 0.6;
 }
 
 /* Versículos no modo leitura */
 .chapter-verses {
-  line-height: 1.6;
-  font-size: 1.1em;
+    line-height: 1.6;
+    font-size: 1.1em;
+    padding-top: 20px; /* Aumenta o espaço acima do texto dos versículos */
 }
 
 .verse-container {
-  margin-bottom: 8px;
-  display: flex;
+    margin-bottom: 8px;
+    display: flex;
 }
 
 .verse-number {
-  color: #a0a0a0;
-  font-size: 0.8em;
-  margin-right: 8px;
+    color: #a0a0a0;
+    font-size: 0.8em;
+    margin-right: 8px;
 }
 
 .verse-text {
-  flex: 1;
+    flex: 1;
 }
 
 .verse-section-title {
-  color: #4CAF50;
-  margin: 20px 0 10px;
-  font-size: 1.3em;
-  border-bottom: 1px solid #444;
+    color: #4CAF50;
+    margin: 20px 0 10px;
+    font-size: 1.3em;
+    border-bottom: 1px solid #444;
+    margin-right: 40px;
 }
 
-/* Media queries */
-@media (max-width: 768px) {
-  .sobre-content {
-    max-width: 90%;
-  }
-  .sobre-content h2 {
-    font-size: 2em;
-  }
-  .sobre-content p {
-    font-size: 1.2em;
-  }
-  nav {
-    padding: 2px 10px; /* Reduzir padding da nav em telas menores */
-  }
-  nav ul li a {
-    padding: 0 8px; /* Reduzir padding dos links */
-  }
-  .menu-title {
-    font-size: 1.2rem;
-  }
-  .header-top {
-    flex-direction: column; /* Empilha título e busca em telas menores */
-    align-items: center; /* Centraliza os itens empilhados */
-  }
-  .titulo-container {
-    width: 100%; /* Faz o container do título ocupar toda a largura */
-    margin-bottom: 10px; /* Espaço entre título e barra de busca */
-    align-items: center; /* Centraliza o H1 e P dentro do container em telas menores */
-  }
-  h1#titulo-principal-versao,
-  .nome-extenso-versao {
-      text-align: center; /* Garante centralização em telas menores */
-  }
-  .search-bar {
-    margin-right: 0; /* Remove margem da barra de busca quando empilhada */
-    width: 90%; /* Ajusta largura da barra de busca */
-    justify-content: center; /* Centraliza itens da barra de busca */
-  }
-}
-
-@media (max-width: 480px) {
-  .sobre-content {
-    max-width: 100%;
-  }
-  .sobre-content h2 {
-    font-size: 1.8em;
-  }
-  .sobre-content p {
-    font-size: 1em;
-  }
-  nav ul {
-    /* Se necessário, permitir que os itens do menu quebrem em telas muito pequenas */
-    /* flex-wrap: wrap; */ 
-  }
-  nav ul li {
-    margin: 0 3px;
-  }
-  nav ul li a {
-    padding: 0 5px;
-    font-size: 0.9em;
-  }
-  .menu-title {
-    font-size: 1rem;
-  }
-  .search-bar input[type="text"], .search-bar select, .search-bar button {
-    font-size: 14px; /* Reduz fonte dos elementos da busca */
-    padding: 6px;
-  }
-  h1#titulo-principal-versao {
-      font-size: 2em; /* Reduz tamanho do título principal */
-  }
-  .nome-extenso-versao {
-      font-size: 0.9em; /* Reduz tamanho do subtítulo */
-  }
-}
-
-/* Botão ativo do modo leitura */
-#modo-leitura.active {
-  background-color: #4CAF50;
-  color: white;
-}
-
-/* Navegação do Modo Leitura (Cap. Anterior / Próximo Cap.) */
-.reading-mode-navigation {
-  display: flex;
-  justify-content: flex-start; 
-  margin-bottom: 15px; 
-  padding-bottom: 10px; 
-}
-
-.reading-mode-navigation button {
-  padding: 6px 12px; 
-  font-size: 0.85em; 
-  cursor: pointer;
-  background-color: #4a4a4a; 
-  color: #e0e0e0; 
-  border: 1px solid #666; 
-  border-radius: 4px;
-  margin-left: 8px; 
-  transition: background-color 0.2s ease, border-color 0.2s ease;
-}
-
-.reading-mode-navigation button:disabled {
-  cursor: not-allowed;
-  opacity: 0.4;
-  background-color: #333; 
-  border-color: #555;
-}
-
-.reading-mode-navigation button:not(:disabled):hover {
-  background-color: #5a5a5a;
-  border-color: #777;
-}

@@ -1,7 +1,6 @@
 // --- START OF FILE script/ara.js ---
 
 window.BIBLE_VERSION = 'ara';
-window.BIBLE_VERSION_FULL_NAME = 'Almeida Revisada e Atualizada';
 console.log(`[${window.BIBLE_VERSION}.js] Script carregado. Definindo funções específicas para ARA.`);
 
 // --- Dados Específicos de Contagem de Versículos (ARA) ---

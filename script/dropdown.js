@@ -15,12 +15,12 @@
         { texto: 'A Bíblia Católica', link: `${basePath}baixar/A_Biblia_Catolica.pdf` },
         { texto: 'A Bíblia Sagrada NVT', link: `${basePath}baixar/A_Biblia_Sagrada_NVT.pdf` },
         { texto: 'A Bíblia Viva', link: `${basePath}baixar/A_Biblia_Viva.pdf` },
-        { texto: 'A vida completa de Jesus<br>Pr. Juanribe<br>Pagliarin', link: `${basePath}baixar/A_vida_completa_de_Jesus_Pr_Juanribe_Pagliarin.pdf` },
+        { texto: 'A vida completa de Jesus<br>Pr. Juanribe Pagliarin', link: `${basePath}baixar/A_vida_completa_de_Jesus_Pr_Juanribe_Pagliarin.pdf` },
         { texto: 'Bíblia de Genebra<br>(só estudo)', link: `${basePath}baixar/Biblia_Genebra_so_estudo.pdf` },
         { texto: 'Bíblia em ordem<br>cronológica NVI', link: `${basePath}baixar/Biblia_em_ordem_cronologica_NVI.pdf` },
         { texto: 'Bíblia explicada', link: `${basePath}baixar/Biblia_explicada.pdf` },
         { texto: 'Bíblia KJA', link: `${basePath}baixar/Biblia_KJA.pdf` },
-        { texto: 'Bíblia<br>Palavra-Chave', link: `${basePath}baixar/Biblia_palavra_chave.pdf` },
+        { texto: 'Bíblia Palavra-Chave', link: `${basePath}baixar/Biblia_palavra_chave.pdf` },
         { texto: 'Bíblia Thompson<br>Temas em Cadeia', link: `${basePath}baixar/Biblia_Thompson_temas_em_cadeia.pdf` }
     ];
 

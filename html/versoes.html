@@ -3,15 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@600&display=swap" rel="stylesheet">
+    <!--<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@600&display=swap" rel="stylesheet">-->
     <title>Bíblia Sagrada Online</title>
     <link rel="stylesheet" href="../css/style.css">
-    <!-- Estilo para o subtítulo será incluído no style.css principal -->
 </head>
 <body>
     <header>
         <div class="header-top">
-            <div class="titulo-container"> <!-- Container para centralizar título e subtítulo -->
+            <div class="titulo-container">
                 <h1 id="titulo-principal-versao">Bíblia Sagrada</h1>
                 <p id="subtitulo-versao-extenso" class="nome-extenso-versao"></p>
             </div>
@@ -32,41 +31,37 @@
             </div>
         </div>
         <div class="header-bottom">
-        <nav>
-            <ul>
-                <li><span class="menu-title">LIVROS</span></li>
-            </ul>
-            <ul class="menu-opcoes">
-                <li><a href="../index.html">Menu</a></li>
-                <li><a href="#" id="modo-leitura" aria-pressed="false">Modo Leitura</a></li>
-                <li><a href="#" id="link-slide">Slide</a></li>
-                <li class="dropdown">
-                    <a href="#" id="dicionario">Dicionário e Concordância</a>
-                    <ul class="dropdown-content" id="dicionario-list"></ul>
-                </li>
-                <li class="dropdown">
-                    <a href="#" id="harpa-hinario">Harpa e Hinário</a>
-                    <ul class="dropdown-content" id="harpa-hinario-list"></ul>
-                </li>
-                <li class="dropdown">
-                    <a href="#" id="baixar">Baixar</a>
-                    <ul class="dropdown-content" id="baixar-list"></ul>
-                </li>
-                <li class="dropdown">
-                    <a href="#" id="utilidades">Utilidades</a>
-                    <ul class="dropdown-content" id="utilidades-list"></ul>
-                </li>
-                <li><a href="mailto:wagnerffreitas1973@gmail.com">Contato</a></li>
-                <li><a href="#" id="sobre">Sobre</a></li>
-            </ul>
-        </nav>
-    </div>
-
+            <nav>
+                <span class="menu-title">LIVROS</span> <!-- Título fora da lista -->
+                <ul class="menu-opcoes">
+                    <li><a href="../index.html">Menu</a></li>
+                    <li><a href="#" id="modo-leitura" aria-pressed="false">Modo Leitura</a></li>
+                    <li><a href="#" id="link-slide">Slide</a></li>
+                    <li class="dropdown">
+                        <a href="#" id="dicionario">Dicionário e Concordância</a>
+                        <ul class="dropdown-content" id="dicionario-list"></ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" id="harpa-hinario">Harpa e Hinário</a>
+                        <ul class="dropdown-content" id="harpa-hinario-list"></ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" id="baixar">Baixar</a>
+                        <ul class="dropdown-content" id="baixar-list"></ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" id="utilidades">Utilidades</a>
+                        <ul class="dropdown-content" id="utilidades-list"></ul>
+                    </li>
+                    <li><a href="mailto:wagnerffreitas1973@gmail.com">Contato</a></li>
+                    <li><a href="#" id="sobre">Sobre</a></li>
+                </ul>
+            </nav>
+        </div>
     </header>
     <main>
         <div class="container">
             <aside class="menu-livros">
-                <!--<h3>LIVROS</h3>-->
                 <ul>
                     <li><a href="#" data-livro="genesis">Gênesis</a></li>
                     <li><a href="#" data-livro="exodo">Êxodo</a></li>
@@ -176,12 +171,9 @@
 
         function setPageTitle(versaoCod) {
             const h1PrincipalEl = document.getElementById('titulo-principal-versao');
-            const subtituloExtensoEl = document.getElementById('subtitulo-versao-extenso'); // Pega o elemento do subtítulo
+            const subtituloExtensoEl = document.getElementById('subtitulo-versao-extenso');
 
             if (h1PrincipalEl) {
-                // Se a função updateChapterTitle for responsável por mostrar o livro/cap/ver no H1,
-                // aqui apenas colocamos o nome da versão.
-                // Se biblia-navegacao.js não fizer isso, você pode precisar de lógica mais complexa aqui.
                 h1PrincipalEl.textContent = `Bíblia Sagrada ${versaoCod.toUpperCase()}`;
             } else {
                 console.warn("Elemento #titulo-principal-versao não encontrado.");
@@ -191,7 +183,7 @@
                 if (window.BIBLE_VERSION_FULL_NAME) {
                     subtituloExtensoEl.textContent = window.BIBLE_VERSION_FULL_NAME;
                 } else {
-                    subtituloExtensoEl.textContent = ''; // Limpa se não definido
+                    subtituloExtensoEl.textContent = '';
                     console.warn(`window.BIBLE_VERSION_FULL_NAME não definido para a versão ${versaoCod}. Subtítulo não será exibido.`);
                 }
             } else {
@@ -250,7 +242,7 @@
                 if (typeof window.getChapterCountForBook === 'function') totalCapitulos = window.getChapterCountForBook(livro);
                 else if (window.livrosInfo && window.livrosInfo[livro.toLowerCase()]) totalCapitulos = window.livrosInfo[livro.toLowerCase()].chapters;
                 const nextDisabled = (totalCapitulos > 0 && capituloNum >= totalCapitulos) || (totalCapitulos === 0 && capituloNum >= 150);
-                navButtonsHtml += `<button id="next-chapter-reading-mode" data-livro="${livro}" data-capitulo="${capituloNum + 1}" ${nextDisabled ? 'disabled' : ''}>Próximo Cap.</button>`;
+                navButtonsHtml += `<button id="next-chapter-reading-mode" data-livro="${livro}" data-capitulo="${capituloNum + 1}" ${nextDisabled ? 'disabled' : ''}>Cap. Próximo</button>`;
                 navButtonsHtml += '</div>';
 
                 let htmlVerses = '<div class="chapter-verses">';
@@ -341,28 +333,21 @@
                     if (typeof window.displayVerse === 'function') {
                         window.displayVerse(window.activeLivro, window.activeCapitulo, verseToDisplay);
                     } else if (typeof window.updateChapterTitle === 'function'){
-                        // Se a função updateChapterTitle também atualiza o H1 principal,
-                        // você pode querer chamá-la aqui para restaurar o título
-                        // para Livro - Capítulo - Versículo (Versão)
                         window.updateChapterTitle(window.activeLivro, window.activeCapitulo, verseToDisplay);
                     }
                 } else {
-                    // Se nenhum livro/capítulo ativo, restaura o título principal da versão
                     const versaoAtual = localStorage.getItem('versaoBiblicaSelecionada') || 'ara';
                     setPageTitle(versaoAtual);
-                    if(titleH2) titleH2.textContent = "Selecione um Livro"; // Ou similar
+                    if(titleH2) titleH2.textContent = "Selecione um Livro";
                 }
             }
         };
         
-        // --- INÍCIO DA NOVA FUNÇÃO E EVENT LISTENER PARA TECLADO ---
         function handleKeyNavigation(event) {
             if (!window.isReadingModeEnabled) {
-                return; // Só funciona no modo leitura
+                return;
             }
 
-            // Previne a ação padrão da seta se estivermos focados em inputs, etc.
-            // e também previne rolagem da página se os botões estiverem visíveis.
             if (document.activeElement && (document.activeElement.tagName === 'INPUT' || document.activeElement.tagName === 'TEXTAREA' || document.activeElement.isContentEditable)) {
                 return;
             }
@@ -372,41 +357,32 @@
 
             if (event.key === "ArrowLeft") {
                 if (prevBtn && !prevBtn.disabled) {
-                    event.preventDefault(); // Previne rolagem da página
+                    event.preventDefault();
                     prevBtn.click();
                 }
             } else if (event.key === "ArrowRight") {
                 if (nextBtn && !nextBtn.disabled) {
-                    event.preventDefault(); // Previne rolagem da página
+                    event.preventDefault();
                     nextBtn.click();
                 }
             }
         }
-        // --- FIM DA NOVA FUNÇÃO E EVENT LISTENER PARA TECLADO ---
-
 
         async function inicializarVersao(versaoCod) {
             console.log(`[Principal] Inicializando ${versaoCod.toUpperCase()}`);
-            // A chamada a setPageTitle foi movida para DENTRO do .onload do script da versão
-            // para garantir que window.BIBLE_VERSION_FULL_NAME esteja definido.
 
             document.body.className = ''; 
             const versoesHtml = ['arc']; 
             document.body.classList.add(versoesHtml.includes(versaoCod.toLowerCase()) ? 'versao-html-ativa' : 'versao-json-ativa');
 
             try {
-                const basePath = '../script/'; // Certifique-se que este caminho é correto
+                const basePath = '../script'; 
                 
-                // Carrega o script da versão específica
-                await loadScriptAsync(`${basePath}${versaoCod.toLowerCase()}.js`, 'script-versao-biblica');
-                
-                // AGORA window.BIBLE_VERSION e window.BIBLE_VERSION_FULL_NAME (se definido no script da versão) estarão disponíveis
-                setPageTitle(versaoCod); // Define o título principal e o subtítulo
+                await loadScriptAsync(`${basePath}/${versaoCod.toLowerCase()}.js`, 'script-versao-biblica');
+                setPageTitle(versaoCod);
 
-                // Carrega outros scripts dependentes ou gerais
-                await loadScriptAsync(`${basePath}slide.js`, 'script-slide');
+                await loadScriptAsync(`${basePath}/slide.js`, 'script-slide');
 
-                // Inicializa outras funcionalidades
                 if (typeof window.inicializarDropdowns === 'function') window.inicializarDropdowns();
                 if (typeof window.inicializarSobre === 'function') window.inicializarSobre();
                 if (typeof window.inicializarSlide === 'function') window.inicializarSlide();
@@ -418,21 +394,18 @@
                         if (window.activeLivro && window.activeCapitulo) { 
                             window.toggleReadingMode(!window.isReadingModeEnabled, window.activeLivro, window.activeCapitulo);
                         } else {
-                             window.toggleReadingMode(!window.isReadingModeEnabled, null, null); // Permite ativar modo leitura sem livro/cap
-                            // alert("Por favor, selecione um livro e capítulo primeiro para o conteúdo.");
+                            window.toggleReadingMode(!window.isReadingModeEnabled, null, null);
                         }
                     });
                 }
                 
-                // Adiciona o listener para navegação por teclado
-                document.removeEventListener('keydown', handleKeyNavigation); // Remove listener antigo para evitar duplicatas
+                document.removeEventListener('keydown', handleKeyNavigation);
                 document.addEventListener('keydown', handleKeyNavigation);
 
                 console.log(`[Principal] ${versaoCod.toUpperCase()} inicializada.`);
 
             } catch (error) {
                 console.error(`[Principal] Erro init ${versaoCod.toUpperCase()}:`, error);
-                // Tenta definir o título mesmo em caso de erro no carregamento do script da versão
                 setPageTitle(versaoCod); 
                 alert(`Erro ao inicializar a versão ${versaoCod.toUpperCase()}. Algumas funcionalidades podem não estar disponíveis.`);
             }
@@ -444,13 +417,12 @@
             let versaoPadraoSelect = 'arc'; 
             let opcoesValidas = ['arc', 'ara', 'nvi', 'acf', 'ntlh', 'kjv', 'naa', 'original']; 
             if (seletorVersao && seletorVersao.options.length > 0) {
-                 opcoesValidas = Array.from(seletorVersao.options).map(opt => opt.value);
-                 versaoPadraoSelect = seletorVersao.value || opcoesValidas[0];
-             }
+                opcoesValidas = Array.from(seletorVersao.options).map(opt => opt.value);
+                versaoPadraoSelect = seletorVersao.value || opcoesValidas[0];
+            }
             const versaoSalva = localStorage.getItem('versaoBiblicaSelecionada');
             let versaoInicial = getQueryParam('version') || versaoSalva || versaoPadraoSelect;
 
-            // Garante que a versão inicial seja uma das opções válidas
             if (!opcoesValidas.includes(versaoInicial.toLowerCase())) {
                 console.warn(`Versão inicial inválida ou não encontrada nas opções: ${versaoInicial}. Usando padrão: ${opcoesValidas[0]}`);
                 versaoInicial = opcoesValidas[0];
@@ -459,27 +431,26 @@
             if (seletorVersao) seletorVersao.value = versaoInicial;
             localStorage.setItem('versaoBiblicaSelecionada', versaoInicial);
             
-            inicializarVersao(versaoInicial); // Inicializa a versão
+            inicializarVersao(versaoInicial);
 
             if (seletorVersao) {
                 seletorVersao.addEventListener('change', (event) => {
                     const novaVersao = event.target.value;
                     localStorage.setItem('versaoBiblicaSelecionada', novaVersao);
-                    window.location.search = `?version=${novaVersao}`; // Recarrega a página com a nova versão
+                    window.location.search = `?version=${novaVersao}`;
                 });
             }
-            const versoesDropdownList = document.getElementById('versoes-list'); // Supondo que você tenha um ul para dropdown
-             if (versoesDropdownList) { 
-                 if (seletorVersao && opcoesValidas.length > 0) {
-                    versoesDropdownList.innerHTML = ''; // Limpa opções existentes
+            const versoesDropdownList = document.getElementById('versoes-list');
+            if (versoesDropdownList) { 
+                if (seletorVersao && opcoesValidas.length > 0) {
+                    versoesDropdownList.innerHTML = '';
                     const opcoesTexto = {};
-                    // Mapeia valor para texto das opções do select principal (se ele for a fonte da verdade)
                     Array.from(seletorVersao.options).forEach(opt => { opcoesTexto[opt.value] = opt.textContent; });
 
                     opcoesValidas.forEach(versao => {
                         const li = document.createElement('li');
                         const a = document.createElement('a');
-                        a.href = `?version=${versao}`; // Link para recarregar com a nova versão
+                        a.href = `?version=${versao}`;
                         a.textContent = opcoesTexto[versao] || versao.toUpperCase();
                         li.appendChild(a);
                         versoesDropdownList.appendChild(li);

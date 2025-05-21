@@ -1,40 +1,91 @@
 // --- START OF FILE script/biblia-navegacao.js ---
-// (O objeto 'livros' e as variáveis globais no topo permanecem os mesmos)
 
 console.log("[biblia-navegacao.js] Script carregado.");
 
+// 1. ADICIONAR displayName A CADA LIVRO
 const livros = {
-    "genesis": { "capitulos": 50 }, "exodo": { "capitulos": 40 }, "levitico": { "capitulos": 27 },
-    "numeros": { "capitulos": 36 }, "deuteronomio": { "capitulos": 34 }, "josue": { "capitulos": 24 },
-    "juizes": { "capitulos": 21 }, "rute": { "capitulos": 4 }, "1samuel": { "capitulos": 31 },
-    "2samuel": { "capitulos": 24 }, "1reis": { "capitulos": 22 }, "2reis": { "capitulos": 25 },
-    "1cronicas": { "capitulos": 29 }, "2cronicas": { "capitulos": 36 }, "esdras": { "capitulos": 10 },
-    "neemias": { "capitulos": 13 }, "ester": { "capitulos": 10 }, "jo": { "capitulos": 42 },
-    "salmos": { "capitulos": 150 }, "proverbios": { "capitulos": 31 }, "eclesiastes": { "capitulos": 12 },
-    "cantares": { "capitulos": 8 }, "isaias": { "capitulos": 66 }, "jeremias": { "capitulos": 52 },
-    "lamentacoes": { "capitulos": 5 }, "ezequiel": { "capitulos": 48 }, "daniel": { "capitulos": 12 },
-    "oseias": { "capitulos": 14 }, "joel": { "capitulos": 3 }, "amos": { "capitulos": 9 },
-    "obadias": { "capitulos": 1 },
-    "jonas": { "capitulos": 4 }, "miqueias": { "capitulos": 7 }, "naum": { "capitulos": 3 },
-    "habacuque": { "capitulos": 3 }, "sofonias": { "capitulos": 3 },
-    "ageu": { "capitulos": 2 }, "zacarias": { "capitulos": 14 }, "malaquias": { "capitulos": 4 },
-    "mateus": { "capitulos": 28 }, "marcos": { "capitulos": 16 }, "lucas": { "capitulos": 24 },
-    "joao": { "capitulos": 21 }, "atos": { "capitulos": 28 }, "romanos": { "capitulos": 16 },
-    "1corintios": { "capitulos": 16 }, "2corintios": { "capitulos": 13 }, "galatas": { "capitulos": 6 },
-    "efesios": { "capitulos": 6 }, "filipenses": { "capitulos": 4 }, "colossenses": { "capitulos": 4 },
-    "1tessalonicenses": { "capitulos": 5 },
-    "2tessalonicenses": { "capitulos": 3 },
-    "1timoteo": { "capitulos": 6 }, "2timoteo": { "capitulos": 4 }, "tito": { "capitulos": 3 },
-    "filemom": { "capitulos": 1 }, "hebreus": { "capitulos": 13 }, "tiago": { "capitulos": 5 },
-    "1pedro": { "capitulos": 5 }, "2pedro": { "capitulos": 3 }, "1joao": { "capitulos": 5 },
-    "2joao": { "capitulos": 1 }, "3joao": { "capitulos": 1 }, "judas": { "capitulos": 1 },
-    "apocalipse": { "capitulos": 22 }
+    "genesis": { "capitulos": 50, "displayName": "GÊNESIS" },
+    "exodo": { "capitulos": 40, "displayName": "ÊXODO" },
+    "levitico": { "capitulos": 27, "displayName": "LEVÍTICO" },
+    "numeros": { "capitulos": 36, "displayName": "NÚMEROS" },
+    "deuteronomio": { "capitulos": 34, "displayName": "DEUTERONÔMIO" },
+    "josue": { "capitulos": 24, "displayName": "JOSUÉ" },
+    "juizes": { "capitulos": 21, "displayName": "JUÍZES" },
+    "rute": { "capitulos": 4, "displayName": "RUTE" },
+    "1samuel": { "capitulos": 31, "displayName": "1º SAMUEL" },
+    "2samuel": { "capitulos": 24, "displayName": "2º SAMUEL" },
+    "1reis": { "capitulos": 22, "displayName": "1º REIS" },
+    "2reis": { "capitulos": 25, "displayName": "2º REIS" },
+    "1cronicas": { "capitulos": 29, "displayName": "1º CRÔNICAS" },
+    "2cronicas": { "capitulos": 36, "displayName": "2º CRÔNICAS" },
+    "esdras": { "capitulos": 10, "displayName": "ESDRAS" },
+    "neemias": { "capitulos": 13, "displayName": "NEEMIAS" },
+    "ester": { "capitulos": 10, "displayName": "ESTER" },
+    "jo": { "capitulos": 42, "displayName": "JÓ" },
+    "salmos": { "capitulos": 150, "displayName": "SALMOS" },
+    "proverbios": { "capitulos": 31, "displayName": "PROVÉRBIOS" },
+    "eclesiastes": { "capitulos": 12, "displayName": "ECLESIASTES" },
+    "cantares": { "capitulos": 8, "displayName": "CANTARES" },
+    "isaias": { "capitulos": 66, "displayName": "ISAÍAS" },
+    "jeremias": { "capitulos": 52, "displayName": "JEREMIAS" },
+    "lamentacoes": { "capitulos": 5, "displayName": "LAMENTAÇÕES" },
+    "ezequiel": { "capitulos": 48, "displayName": "EZEQUIEL" },
+    "daniel": { "capitulos": 12, "displayName": "DANIEL" },
+    "oseias": { "capitulos": 14, "displayName": "OSÉIAS" },
+    "joel": { "capitulos": 3, "displayName": "JOEL" },
+    "amos": { "capitulos": 9, "displayName": "AMÓS" },
+    "obadias": { "capitulos": 1, "displayName": "OBADIAS" },
+    "jonas": { "capitulos": 4, "displayName": "JONAS" },
+    "miqueias": { "capitulos": 7, "displayName": "MIQUÉIAS" },
+    "naum": { "capitulos": 3, "displayName": "NAUM" },
+    "habacuque": { "capitulos": 3, "displayName": "HABACUQUE" },
+    "sofonias": { "capitulos": 3, "displayName": "SOFONIAS" },
+    "ageu": { "capitulos": 2, "displayName": "AGEU" },
+    "zacarias": { "capitulos": 14, "displayName": "ZACARIAS" },
+    "malaquias": { "capitulos": 4, "displayName": "MALAQUIAS" },
+    "mateus": { "capitulos": 28, "displayName": "MATEUS" },
+    "marcos": { "capitulos": 16, "displayName": "MARCOS" },
+    "lucas": { "capitulos": 24, "displayName": "LUCAS" },
+    "joao": { "capitulos": 21, "displayName": "JOÃO" },
+    "atos": { "capitulos": 28, "displayName": "ATOS" },
+    "romanos": { "capitulos": 16, "displayName": "ROMANOS" },
+    "1corintios": { "capitulos": 16, "displayName": "1ª CORÍNTIOS" },
+    "2corintios": { "capitulos": 13, "displayName": "2ª CORÍNTIOS" },
+    "galatas": { "capitulos": 6, "displayName": "GÁLATAS" },
+    "efesios": { "capitulos": 6, "displayName": "EFÉSIOS" },
+    "filipenses": { "capitulos": 4, "displayName": "FILIPENSES" },
+    "colossenses": { "capitulos": 4, "displayName": "COLOSSENSES" },
+    "1tessalonicenses": { "capitulos": 5, "displayName": "1ª TESSALONICENSES" },
+    "2tessalonicenses": { "capitulos": 3, "displayName": "2ª TESSALONICENSES" },
+    "1timoteo": { "capitulos": 6, "displayName": "1ª TIMÓTEO" },
+    "2timoteo": { "capitulos": 4, "displayName": "2ª TIMÓTEO" },
+    "tito": { "capitulos": 3, "displayName": "TITO" },
+    "filemom": { "capitulos": 1, "displayName": "FILEMOM" },
+    "hebreus": { "capitulos": 13, "displayName": "HEBREUS" },
+    "tiago": { "capitulos": 5, "displayName": "TIAGO" },
+    "1pedro": { "capitulos": 5, "displayName": "1ª PEDRO" },
+    "2pedro": { "capitulos": 3, "displayName": "2ª PEDRO" },
+    "1joao": { "capitulos": 5, "displayName": "1ª JOÃO" },
+    "2joao": { "capitulos": 1, "displayName": "2ª JOÃO" },
+    "3joao": { "capitulos": 1, "displayName": "3ª JOÃO" },
+    "judas": { "capitulos": 1, "displayName": "JUDAS" },
+    "apocalipse": { "capitulos": 22, "displayName": "APOCALIPSE" }
 };
 
 window.titulo = null;
 window.activeLivro = null;
 window.activeCapitulo = null;
 window.activeVersiculoButton = null;
+// window.isReadingModeEnabled é normalmente definido no script principal (ex: versoes.html)
+
+// 2. CRIAR A FUNÇÃO getLivroDisplayName
+window.getLivroDisplayName = function(livroKey) {
+    if (livros[livroKey] && livros[livroKey].displayName) {
+        return livros[livroKey].displayName;
+    }
+    // Fallback caso o displayName não seja encontrado ou livroKey seja nulo/inválido
+    return livroKey ? livroKey.toUpperCase() : "LIVRO DESCONHECIDO";
+};
 
 function createCapitulosButtons(livro) {
     if (!livros[livro]) {
@@ -43,29 +94,34 @@ function createCapitulosButtons(livro) {
     }
     const capitulos = livros[livro].capitulos;
     const capitulosContainer = document.createElement('div');
-    capitulosContainer.classList.add('capitulos');
+    capitulosContainer.classList.add('capitulos', 'book-content'); // Adiciona 'book-content' para estilo
 
     for (let i = 1; i <= capitulos; i++) {
         const button = document.createElement('button');
         button.textContent = `${i}`;
         button.classList.add('botao-capitulo');
-        
+
         button.addEventListener('click', () => {
-            // Atualiza os valores globais primeiro
-            window.activeLivro = livro;
-            window.activeCapitulo = i;
-            
-            // Se estiver no modo leitura, força o recarregamento
-            if (window.isReadingModeEnabled) {
-                // Remove apenas o conteúdo de leitura existente
+            const livroClicado = livro;
+            const capituloClicado = i;
+
+            if (window.isReadingModeEnabled && typeof window.loadChapterInReadingMode === 'function') {
                 const content = document.querySelector('.content');
-                const oldContent = content.querySelector('.all-verses-content');
-                if (oldContent) oldContent.remove();
-                
-                // Recria o conteúdo do modo leitura
-                window.loadChapterInReadingMode(livro, i);
+                const oldReadingContent = content.querySelector('.reading-mode-content');
+                if (oldReadingContent) oldReadingContent.remove();
+                // Limpa também botões de versículo e texto de versículo se estiverem visíveis
+                const oldVersiculosContent = content.querySelector('.versiculos-content');
+                if (oldVersiculosContent) oldVersiculosContent.remove();
+                const oldVersiculoTexto = content.querySelector('.versiculo-texto');
+                if (oldVersiculoTexto) oldVersiculoTexto.remove();
+
+
+                window.activeLivro = livroClicado;
+                window.activeCapitulo = capituloClicado;
+                window.activeVersiculoButton = null;
+                window.loadChapterInReadingMode(livroClicado, capituloClicado);
             } else {
-                window.toggleVersiculos(livro, i);
+                window.toggleVersiculos(livroClicado, capituloClicado);
             }
         });
         capitulosContainer.appendChild(button);
@@ -75,7 +131,7 @@ function createCapitulosButtons(livro) {
 
 function createVersiculosButtons(livro, capitulo) {
     const versiculosContainer = document.createElement('div');
-    versiculosContainer.classList.add('versiculos');
+    versiculosContainer.classList.add('versiculos', 'book-content'); // Adiciona 'book-content' para estilo
 
     if (typeof window.getSpecificVerseCount !== 'function') {
         console.error("[Navegação] Erro: Função 'getSpecificVerseCount' não está definida globalmente.");
@@ -85,6 +141,10 @@ function createVersiculosButtons(livro, capitulo) {
 
     if (numVersiculos === 0) {
         console.warn(`[Navegação] 0 versículos para ${livro} ${capitulo}.`);
+        const p = document.createElement('p');
+        p.textContent = "Nenhum versículo encontrado para este capítulo.";
+        p.style.textAlign = "center";
+        versiculosContainer.appendChild(p);
         return versiculosContainer;
     }
 
@@ -103,44 +163,63 @@ function createVersiculosButtons(livro, capitulo) {
 
 
 function toggleVersiculos(livro, capitulo) {
-    console.log(`[Navegação] Exibindo versículos para: ${livro} ${capitulo}`);
     const content = document.querySelector('.content');
     if (!content) { console.error("Elemento .content não encontrado."); return; }
 
-    // Atualiza o título principal
+    const existingVersiculosContent = content.querySelector('.versiculos-content');
+    const existingTextoVersiculo = content.querySelector('.versiculo-texto');
+
     if (!window.titulo) window.titulo = content.querySelector('h2'); // Garante que window.titulo está definido
-    if (window.titulo) {
-        window.titulo.textContent = `${livro.toUpperCase()} - CAPÍTULO ${capitulo}`;
+
+    if (window.activeLivro === livro && window.activeCapitulo === capitulo && existingVersiculosContent) {
+        console.log(`[Navegação] Recolhendo versículos para: ${livro} ${capitulo}`);
+        existingVersiculosContent.remove();
+        if (existingTextoVersiculo) {
+            existingTextoVersiculo.remove();
+        }
+
+        if (window.titulo) {
+            // USA getLivroDisplayName
+            window.titulo.textContent = window.getLivroDisplayName(livro);
+        }
+        window.activeCapitulo = null;
+        window.activeVersiculoButton = null;
+        return;
     }
 
-    // Remove container de versículos anterior e texto de versículo anterior, se existirem
-    const existingVersiculosContent = content.querySelector('.versiculos-content');
+    console.log(`[Navegação] Exibindo versículos para: ${livro} ${capitulo}`);
+
+    if (window.titulo) {
+        // USA getLivroDisplayName
+        window.titulo.textContent = `${window.getLivroDisplayName(livro)} - CAPÍTULO ${capitulo}`;
+    }
+
     if (existingVersiculosContent) {
         existingVersiculosContent.remove();
     }
-    const existingTextoVersiculo = content.querySelector('.versiculo-texto');
     if (existingTextoVersiculo) {
         existingTextoVersiculo.remove();
     }
 
-    // Cria e adiciona o novo container de botões de versículo
     const versiculosContent = document.createElement('div');
-    versiculosContent.classList.add('versiculos-content', 'book-content'); // Adiciona 'book-content' para consistência na limpeza geral se necessário
+    versiculosContent.classList.add('versiculos-content', 'book-content'); // Já tem book-content
     versiculosContent.appendChild(createVersiculosButtons(livro, capitulo));
 
-    // Encontra o container dos botões de capítulo (deve existir)
     const capitulosContainer = content.querySelector('.capitulos-container.book-content');
     if (capitulosContainer) {
-        // Insere o container de versículos DEPOIS do container de capítulos
         capitulosContainer.parentNode.insertBefore(versiculosContent, capitulosContainer.nextSibling);
     } else {
-        // Fallback se o container de capítulos não for encontrado (não deveria acontecer com loadBook correto)
-        console.warn("[Navegação] .capitulos-container não encontrado. Adicionando versículos ao .content.");
-        content.appendChild(versiculosContent);
+        console.warn("[Navegação] .capitulos-container não encontrado. Tentando adicionar após o H2 ou no .content.");
+        if (window.titulo && window.titulo.parentNode === content) {
+            content.insertBefore(versiculosContent, window.titulo.nextSibling);
+        } else {
+            content.appendChild(versiculosContent);
+        }
     }
 
+    window.activeLivro = livro;
     window.activeCapitulo = capitulo;
-    window.activeVersiculoButton = null; // Nenhum versículo selecionado ao mudar de capítulo
+    window.activeVersiculoButton = null;
 }
 
 function toggleVersiculoText(livro, capitulo, versiculo, button) {
@@ -152,23 +231,26 @@ function toggleVersiculoText(livro, capitulo, versiculo, button) {
          console.error("[Navegação] Erro: Função 'loadSpecificVerse' não está definida globalmente.");
          return;
     }
+    if (!window.titulo) window.titulo = content.querySelector('h2'); // Garante que window.titulo está definido
 
-    // Se o botão clicado é o que já está ativo, apenas remove o texto
     if (window.activeVersiculoButton === button) {
         const existingVersiculoTextDiv = content.querySelector('.versiculo-texto');
         if (existingVersiculoTextDiv) {
             existingVersiculoTextDiv.remove();
         }
-        if (window.titulo) { // Volta o título para Livro - Capítulo
-            window.titulo.textContent = `${livro.toUpperCase()} - CAPÍTULO ${capitulo}`;
+        if (window.titulo) {
+            // USA getLivroDisplayName
+            window.titulo.textContent = `${window.getLivroDisplayName(livro)} - CAPÍTULO ${capitulo}`;
         }
+        if(window.activeVersiculoButton) window.activeVersiculoButton.classList.remove('active'); // Remove de forma segura
         window.activeVersiculoButton = null;
-        button.classList.remove('active');
-    } else { // Se é um novo botão ou nenhum estava ativo
+        // button.classList.remove('active'); // Já tratado acima
+    } else {
         if (window.activeVersiculoButton) {
             window.activeVersiculoButton.classList.remove('active');
         }
-        // A função loadSpecificVerse (em ara.js/arc.js) carregará o texto e ATUALIZARÁ O TÍTULO PRINCIPAL
+        // A função loadSpecificVerse (no arquivo da versão, ex: ara.js)
+        // carregará o texto e ATUALIZARÁ O TÍTULO PRINCIPAL (H2) usando getLivroDisplayName.
         window.loadSpecificVerse(livro, capitulo, versiculo);
         window.activeVersiculoButton = button;
         button.classList.add('active');
@@ -186,83 +268,84 @@ function loadBook(livro) {
         return;
     }
 
-    // Se o mesmo livro for clicado novamente, recolhe tudo
+    if (!window.titulo) { // Garante que window.titulo está definido
+        window.titulo = content.querySelector('h2');
+        if (!window.titulo) { // Se ainda não existir, cria (deveria ser raro se o HTML estiver correto)
+            console.warn("[Navegação] H2 não encontrado, criando um novo.");
+            window.titulo = document.createElement('h2');
+            const firstChildInContent = content.firstChild; // Para inserir antes do primeiro elemento
+            content.insertBefore(window.titulo, firstChildInContent);
+        }
+    }
+
     if (window.activeLivro === livroKey) {
         console.log(`[Navegação] Recolhendo livro: ${livroKey}`);
-        const elementsToClear = content.querySelectorAll('.capitulos-container, .versiculos-content, .versiculo-texto');
+        const elementsToClear = content.querySelectorAll('.capitulos-container, .versiculos-content, .versiculo-texto, .reading-mode-content');
         elementsToClear.forEach(el => el.remove());
-        if (window.titulo) window.titulo.textContent = '';
+        if (window.titulo) window.titulo.textContent = ''; // Limpa o título H2
         window.activeLivro = null;
         window.activeCapitulo = null;
         window.activeVersiculoButton = null;
+
+        if (window.isReadingModeEnabled && typeof window.toggleReadingMode === 'function') {
+             window.toggleReadingMode(false, null, null);
+        }
         return;
     }
 
-    // Limpa conteúdo anterior (capítulos, versículos, texto)
-    const elementsToRemove = content.querySelectorAll('.capitulos-container, .versiculos-content, .versiculo-texto');
+    const elementsToRemove = content.querySelectorAll('.capitulos-container, .versiculos-content, .versiculo-texto, .reading-mode-content');
     elementsToRemove.forEach(element => element.remove());
 
-    // Configura o título principal para o nome do livro
-    if (!window.titulo) {
-        window.titulo = content.querySelector('h2');
-        if (!window.titulo) {
-            window.titulo = document.createElement('h2');
-            content.insertBefore(window.titulo, content.firstChild);
-        }
-    }
     if (window.titulo) {
-        window.titulo.textContent = livroKey.toUpperCase();
+        // USA getLivroDisplayName
+        window.titulo.textContent = window.getLivroDisplayName(livroKey);
     }
 
-    // Cria e adiciona o container para os botões de capítulo
     const capitulosContainer = document.createElement('div');
-    capitulosContainer.classList.add('capitulos-container', 'book-content'); // 'book-content' para limpeza geral
+    capitulosContainer.classList.add('capitulos-container', 'book-content'); // Já tem book-content
     capitulosContainer.appendChild(createCapitulosButtons(livroKey));
 
-    // Adiciona o container de capítulos ao .content. Se houver um título (H2), adiciona depois dele.
     if (window.titulo && window.titulo.parentNode === content) {
         content.insertBefore(capitulosContainer, window.titulo.nextSibling);
     } else {
-        content.appendChild(capitulosContainer); // Fallback
+        content.appendChild(capitulosContainer);
+        console.warn("[Navegação] window.titulo não encontrado ou não é filho de .content. Adicionando capitulosContainer ao final de .content.");
     }
 
     window.activeLivro = livroKey;
     window.activeCapitulo = null;
     window.activeVersiculoButton = null;
-}
 
-// Função para alternar entre os modos de visualização
-function toggleViewMode(mode) {
-    // Remove todas as classes de modo
-    document.body.classList.remove('module-lista', 'module-leitura');
-    
-    // Adiciona a classe específica do modo selecionado
-    if (mode === 'lista') {
-        document.body.classList.add('module-lista');
-    } else if (mode === 'leitura') {
-        document.body.classList.add('module-leitura');
+    // Limpeza adicional de modo leitura, caso tenha ficado algum resquício.
+    const readingModeContent = content.querySelector('.reading-mode-content');
+    if (readingModeContent) {
+        readingModeContent.remove();
     }
 }
 
-// Adiciona os event listeners para os botões/links que controlam os modos
-document.addEventListener('DOMContentLoaded', () => {
-    const modoListaBtn = document.querySelector('#modo-lista');
-    const modoLeituraBtn = document.querySelector('#modo-leitura');
-
-    if (modoListaBtn) {
-        modoListaBtn.addEventListener('click', () => toggleViewMode('lista'));
-    }
-    
-    if (modoLeituraBtn) {
-        modoLeituraBtn.addEventListener('click', () => toggleViewMode('leitura'));
-    }
-});
+// A função toggleViewMode foi removida pois a lógica de modo leitura/lista é
+// melhor gerenciada pelo script principal (versoes.html) com window.isReadingModeEnabled.
 
 document.addEventListener('DOMContentLoaded', () => {
-    window.titulo = document.querySelector('.content h2');
-    if (!window.titulo) {
-        console.warn("[Navegação] Elemento H2 para título principal não encontrado no HTML inicial.");
+    // Garante que window.titulo seja definido corretamente no carregamento
+    const content = document.querySelector('.content');
+    if (content) {
+        window.titulo = content.querySelector('h2');
+        if (!window.titulo) {
+            console.warn("[Navegação] Elemento H2 para título principal não encontrado no HTML. Criando um.");
+            window.titulo = document.createElement('h2');
+            // Tenta inserir após a nav-bar se ela existir dentro de .content, senão no início de .content
+            const navBar = content.querySelector('.nav-bar'); // Supondo que sua nav-bar tem essa classe e está no .content
+            if (navBar && navBar.parentNode === content) {
+                 content.insertBefore(window.titulo, navBar.nextSibling);
+            } else {
+                 content.insertBefore(window.titulo, content.firstChild);
+            }
+        }
+    } else {
+        console.error("[Navegação DOMContentLoaded] Elemento .content não encontrado para configurar o título H2.");
     }
+
 
     const menuLivrosLinks = document.querySelectorAll('.menu-livros a');
     if (menuLivrosLinks.length > 0) {
@@ -273,7 +356,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (livroAttr) {
                     loadBook(livroAttr);
                 } else {
-                    console.error(`[Navegação] Atributo data-livro ausente no link clicado.`);
+                    console.error(`[Navegação] Atributo data-livro ausente no link clicado:`, link);
                 }
             });
         });
@@ -281,6 +364,8 @@ document.addEventListener('DOMContentLoaded', () => {
     } else {
         console.warn("[Navegação] Nenhum link encontrado em '.menu-livros a'.");
     }
+
+    // Listeners para #modo-lista e #modo-leitura são gerenciados no script principal (versoes.html)
 });
 
 // --- FIM DO SCRIPT biblia-navegacao.js ---
