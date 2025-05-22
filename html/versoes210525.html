@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@600&display=swap" rel="stylesheet">-->
+    <title>Bíblia Sagrada Online</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <header>
+        <div class="header-top">
+            <div class="titulo-container">
+                <h1 id="titulo-principal-versao">Bíblia Sagrada</h1>
+                <p id="subtitulo-versao-extenso" class="nome-extenso-versao"></p>
+            </div>
+            <div class="search-bar">
+                <select id="seletor-versao-principal" style="display: none;">
+                    <option value="acf">ACF</option>
+                    <option value="ara">ARA</option>
+                    <option value="arc">ARC</option>
+                    <option value="kjv">KJV</option>
+                    <option value="naa">NAA</option>
+                    <option value="ntlh">NTLH</option>
+                    <option value="nvi">NVI</option>
+                    <option value="nvt">NVT</option>
+                    <option value="original">ORIGINAL</option>
+                </select>
+                <input type="text" placeholder="Digite o termo de busca">
+                <button>Buscar</button>
+            </div>
+        </div>
+        <div class="header-bottom">
+            <nav>
+                <span class="menu-title">LIVROS</span> <!-- Título fora da lista -->
+                <ul class="menu-opcoes">
+                    <li><a href="../index.html">Menu</a></li>
+                    <li><a href="#" id="modo-leitura" aria-pressed="false">Modo Leitura</a></li>
+                    <li><a href="#" id="link-slide">Slide</a></li>
+                    <li class="dropdown">
+                        <a href="#" id="dicionario">Dicionário e Concordância</a>
+                        <ul class="dropdown-content" id="dicionario-list"></ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" id="harpa-hinario">Harpa e Hinário</a>
+                        <ul class="dropdown-content" id="harpa-hinario-list"></ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" id="baixar">Baixar</a>
+                        <ul class="dropdown-content" id="baixar-list"></ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" id="utilidades">Utilidades</a>
+                        <ul class="dropdown-content" id="utilidades-list"></ul>
+                    </li>
+                    <li><a href="mailto:wagnerffreitas1973@gmail.com">Contato</a></li>
+                    <li><a href="#" id="sobre">Sobre</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <div class="container">
+            <aside class="menu-livros">
+                <ul>
+                    <li><a href="#" data-livro="genesis">Gênesis</a></li>
+                    <li><a href="#" data-livro="exodo">Êxodo</a></li>
+                    <li><a href="#" data-livro="levitico">Levítico</a></li>
+                    <li><a href="#" data-livro="numeros">Números</a></li>
+                    <li><a href="#" data-livro="deuteronomio">Deuteronômio</a></li>
+                    <li><a href="#" data-livro="josue">Josué</a></li>
+                    <li><a href="#" data-livro="juizes">Juízes</a></li>
+                    <li><a href="#" data-livro="rute">Rute</a></li>
+                    <li><a href="#" data-livro="1samuel">1º Samuel</a></li>
+                    <li><a href="#" data-livro="2samuel">2º Samuel</a></li>
+                    <li><a href="#" data-livro="1reis">1º Reis</a></li>
+                    <li><a href="#" data-livro="2reis">2º Reis</a></li>
+                    <li><a href="#" data-livro="1cronicas">1º Crônicas</a></li>
+                    <li><a href="#" data-livro="2cronicas">2º Crônicas</a></li>
+                    <li><a href="#" data-livro="esdras">Esdras</a></li>
+                    <li><a href="#" data-livro="neemias">Neemias</a></li>
+                    <li><a href="#" data-livro="ester">Ester</a></li>
+                    <li><a href="#" data-livro="jo">Jó</a></li>
+                    <li><a href="#" data-livro="salmos">Salmos</a></li>
+                    <li><a href="#" data-livro="proverbios">Provérbios</a></li>
+                    <li><a href="#" data-livro="eclesiastes">Eclesiastes</a></li>
+                    <li><a href="#" data-livro="cantares">Cantares</a></li>
+                    <li><a href="#" data-livro="isaias">Isaías</a></li>
+                    <li><a href="#" data-livro="jeremias">Jeremias</a></li>
+                    <li><a href="#" data-livro="lamentacoes">Lamentações</a></li>
+                    <li><a href="#" data-livro="ezequiel">Ezequiel</a></li>
+                    <li><a href="#" data-livro="daniel">Daniel</a></li>
+                    <li><a href="#" data-livro="oseias">Oseias</a></li>
+                    <li><a href="#" data-livro="joel">Joel</a></li>
+                    <li><a href="#" data-livro="amos">Amós</a></li>
+                    <li><a href="#" data-livro="obadias">Obadias</a></li>
+                    <li><a href="#" data-livro="jonas">Jonas</a></li>
+                    <li><a href="#" data-livro="miqueias">Miqueias</a></li>
+                    <li><a href="#" data-livro="naum">Naum</a></li>
+                    <li><a href="#" data-livro="habacuque">Habacuque</a></li>
+                    <li><a href="#" data-livro="sofonias">Sofonias</a></li>
+                    <li><a href="#" data-livro="ageu">Ageu</a></li>
+                    <li><a href="#" data-livro="zacarias">Zacarias</a></li>
+                    <li><a href="#" data-livro="malaquias">Malaquias</a></li>
+                    <li><a href="#" data-livro="mateus">Mateus</a></li>
+                    <li><a href="#" data-livro="marcos">Marcos</a></li>
+                    <li><a href="#" data-livro="lucas">Lucas</a></li>
+                    <li><a href="#" data-livro="joao">João</a></li>
+                    <li><a href="#" data-livro="atos">Atos</a></li>
+                    <li><a href="#" data-livro="romanos">Romanos</a></li>
+                    <li><a href="#" data-livro="1corintios">1º Coríntios</a></li>
+                    <li><a href="#" data-livro="2corintios">2º Coríntios</a></li>
+                    <li><a href="#" data-livro="galatas">Gálatas</a></li>
+                    <li><a href="#" data-livro="efesios">Efésios</a></li>
+                    <li><a href="#" data-livro="filipenses">Filipenses</a></li>
+                    <li><a href="#" data-livro="colossenses">Colossenses</a></li>
+                    <li><a href="#" data-livro="1tessalonicenses">1º Tessalonicenses</a></li>
+                    <li><a href="#" data-livro="2tessalonicenses">2º Tessalonicenses</a></li>
+                    <li><a href="#" data-livro="1timoteo">1º Timóteo</a></li>
+                    <li><a href="#" data-livro="2timoteo">2º Timóteo</a></li>
+                    <li><a href="#" data-livro="tito">Tito</a></li>
+                    <li><a href="#" data-livro="filemom">Filemom</a></li>
+                    <li><a href="#" data-livro="hebreus">Hebreus</a></li>
+                    <li><a href="#" data-livro="tiago">Tiago</a></li>
+                    <li><a href="#" data-livro="1pedro">1º Pedro</a></li>
+                    <li><a href="#" data-livro="2pedro">2º Pedro</a></li>
+                    <li><a href="#" data-livro="1joao">1º João</a></li>
+                    <li><a href="#" data-livro="2joao">2º João</a></li>
+                    <li><a href="#" data-livro="3joao">3º João</a></li>
+                    <li><a href="#" data-livro="judas">Judas</a></li>
+                    <li><a href="#" data-livro="apocalipse">Apocalipse</a></li>
+                </ul>
+            </aside>
+            <section class="content">
+                <h2></h2>
+                <div class="watermark"></div>
+            </section>
+        </div>
+    </main>
+    <footer>
+        <p>© Bíblia Sagrada 2024</p>
+    </footer>
+
+    <script src="../script/watermarker.js"></script>
+    <script src="../script/sobre.js"></script> 
+    <script src="../script/dropdown.js"></script> 
+    <script src="../script/biblia-navegacao.js"></script> 
+
+    <script>
+    (function() { 
+        'use strict';
+
+        function getQueryParam(param) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(param);
+        }
+
+        function loadScriptAsync(src, id) {
+            return new Promise((resolve, reject) => {
+                const oldScript = document.getElementById(id);
+                if (oldScript) oldScript.remove(); 
+                const script = document.createElement('script');
+                script.src = src;
+                script.id = id;
+                script.async = false; 
+                script.onload = () => { /* console.log(`Script carregado: ${src}`); */ resolve(); };
+                script.onerror = (event) => { console.error(`Falha ao carregar: ${src}`, event); reject(new Error(`Falha ${src}`)); };
+                document.body.appendChild(script); 
+            });
+        }
+
+        function setPageTitle(versaoCod) {
+            const h1PrincipalEl = document.getElementById('titulo-principal-versao');
+            const subtituloExtensoEl = document.getElementById('subtitulo-versao-extenso');
+
+            if (h1PrincipalEl) {
+                h1PrincipalEl.textContent = `Bíblia Sagrada ${versaoCod.toUpperCase()}`;
+            } else {
+                console.warn("Elemento #titulo-principal-versao não encontrado.");
+            }
+
+            if (subtituloExtensoEl) {
+                if (window.BIBLE_VERSION_FULL_NAME) {
+                    subtituloExtensoEl.textContent = window.BIBLE_VERSION_FULL_NAME;
+                } else {
+                    subtituloExtensoEl.textContent = '';
+                    console.warn(`window.BIBLE_VERSION_FULL_NAME não definido para a versão ${versaoCod}. Subtítulo não será exibido.`);
+                }
+            } else {
+                console.warn("Elemento #subtitulo-versao-extenso não encontrado.");
+            }
+        }
+
+        window.isReadingModeEnabled = false; 
+
+        window.loadChapterInReadingMode = async function(livro, capitulo) {
+            const contentArea = document.querySelector('section.content');
+            if (!contentArea) { console.error('section.content não encontrado.'); return; }
+
+            const normalVerseTextDisplayImmediate = contentArea.querySelector('.versiculo-texto'); 
+            const verseButtonsDisplayImmediate = contentArea.querySelector('.versiculos');
+            if (normalVerseTextDisplayImmediate) normalVerseTextDisplayImmediate.style.display = 'none';
+            if (verseButtonsDisplayImmediate) verseButtonsDisplayImmediate.style.display = 'none';
+
+            let readingContainer = contentArea.querySelector('.reading-mode-content');
+            if (!readingContainer) {
+                readingContainer = document.createElement('div');
+                readingContainer.className = 'reading-mode-content';
+                const chaptersContainer = contentArea.querySelector('.capitulos') || contentArea.querySelector('.capitulos-container');
+                const titleH2 = contentArea.querySelector('h2');
+                if (chaptersContainer) {
+                    chaptersContainer.insertAdjacentElement('afterend', readingContainer);
+                } else if (titleH2) {
+                    titleH2.insertAdjacentElement('afterend', readingContainer);
+                } else {
+                    contentArea.appendChild(readingContainer); 
+                }
+            }
+            readingContainer.innerHTML = '<div class="loading-message" style="text-align:center; padding:20px;">Carregando capítulo...</div>';
+            readingContainer.style.display = 'block';
+
+            try {
+                const versaoAtual = localStorage.getItem('versaoBiblicaSelecionada') || 'ara';
+                const capituloNum = parseInt(capitulo);
+                let numVersiculos = 0;
+                if (typeof window.getSpecificVerseCount === 'function') {
+                    numVersiculos = window.getSpecificVerseCount(livro, capituloNum);
+                }
+
+                const response = await fetch(`../version/${versaoAtual.toLowerCase()}/${livro.toLowerCase()}/${capituloNum}.json`);
+                if (!response.ok) throw new Error(`Erro ${response.status}`);
+                const data = await response.json();
+                const effectiveNumVersiculos = numVersiculos > 0 ? numVersiculos : (data.versiculos ? Object.keys(data.versiculos).length : 0);
+
+                if (effectiveNumVersiculos === 0 && (!data.versiculos || Object.keys(data.versiculos).length === 0)) {
+                    throw new Error('Nenhum versículo.');
+                }
+
+                let navButtonsHtml = '<div class="reading-mode-navigation">'; 
+                navButtonsHtml += `<button id="prev-chapter-reading-mode" data-livro="${livro}" data-capitulo="${capituloNum - 1}" ${capituloNum <= 1 ? 'disabled' : ''}>Cap. Anterior</button>`;
+                let totalCapitulos = 0;
+                if (typeof window.getChapterCountForBook === 'function') totalCapitulos = window.getChapterCountForBook(livro);
+                else if (window.livrosInfo && window.livrosInfo[livro.toLowerCase()]) totalCapitulos = window.livrosInfo[livro.toLowerCase()].chapters;
+                const nextDisabled = (totalCapitulos > 0 && capituloNum >= totalCapitulos) || (totalCapitulos === 0 && capituloNum >= 150);
+                navButtonsHtml += `<button id="next-chapter-reading-mode" data-livro="${livro}" data-capitulo="${capituloNum + 1}" ${nextDisabled ? 'disabled' : ''}>Cap. Próximo</button>`;
+                navButtonsHtml += '</div>';
+
+                let htmlVerses = '<div class="chapter-verses">';
+                for (let i = 1; i <= effectiveNumVersiculos; i++) {
+                    const verseKey = String(i);
+                    if (data.versiculos && data.versiculos[verseKey]) {
+                        if (data.titulos && data.titulos[verseKey]) htmlVerses += `<h3 class="verse-section-title">${data.titulos[verseKey]}</h3>`;
+                        htmlVerses += `<div class="verse-container"><sup class="verse-number">${i}</sup><span class="verse-text">${data.versiculos[verseKey]}</span></div>`;
+                    }
+                }
+                htmlVerses += '</div>';
+                
+                readingContainer.innerHTML = navButtonsHtml + htmlVerses; 
+
+                const prevBtn = readingContainer.querySelector('#prev-chapter-reading-mode');
+                if (prevBtn && !prevBtn.disabled) {
+                    prevBtn.addEventListener('click', () => {
+                        window.activeLivro = prevBtn.dataset.livro; 
+                        window.activeCapitulo = parseInt(prevBtn.dataset.capitulo);
+                        window.loadChapterInReadingMode(window.activeLivro, window.activeCapitulo);
+                        if (typeof window.updateChapterTitle === 'function') {
+                            window.updateChapterTitle(window.activeLivro, window.activeCapitulo);
+                        }
+                    });
+                }
+                const nextBtn = readingContainer.querySelector('#next-chapter-reading-mode');
+                if (nextBtn && !nextBtn.disabled) {
+                    nextBtn.addEventListener('click', () => {
+                        window.activeLivro = nextBtn.dataset.livro;
+                        window.activeCapitulo = parseInt(nextBtn.dataset.capitulo);
+                        window.loadChapterInReadingMode(window.activeLivro, window.activeCapitulo);
+                        if (typeof window.updateChapterTitle === 'function') {
+                            window.updateChapterTitle(window.activeLivro, window.activeCapitulo);
+                        }
+                    });
+                }
+                const titleH2 = contentArea.querySelector('h2');
+                if(titleH2) titleH2.textContent = `${livro.toUpperCase()} - CAPÍTULO ${capituloNum}`;
+                
+            } catch (error) {
+                console.error('Erro modo leitura:', error);
+                readingContainer.innerHTML = `<div class="error-container"><p>⚠️ Erro: ${error.message}</p></div>`;
+            }
+        };
+
+        window.toggleReadingMode = async function(enable, livro, capitulo) {
+            window.isReadingModeEnabled = enable;
+            const btn = document.getElementById('modo-leitura');
+            if (btn) { btn.classList.toggle('active', enable); btn.setAttribute('aria-pressed', String(enable)); }
+            
+            const contentArea = document.querySelector('section.content');
+            if (!contentArea) return;
+
+            const normalVerseTextDisplay = contentArea.querySelector('.versiculo-texto'); 
+            const verseButtonsDisplay = contentArea.querySelector('.versiculos'); 
+            let readingModeDisplay = contentArea.querySelector('.reading-mode-content');
+            const titleH2 = contentArea.querySelector('h2');
+
+            if (enable) { 
+                if (normalVerseTextDisplay) normalVerseTextDisplay.style.display = 'none';
+                if (verseButtonsDisplay) verseButtonsDisplay.style.display = 'none'; 
+                
+                if (livro && capitulo) {
+                    await window.loadChapterInReadingMode(livro, capitulo); 
+                } else { 
+                    if (!readingModeDisplay) {
+                        readingModeDisplay = document.createElement('div');
+                        readingModeDisplay.className = 'reading-mode-content';
+                        const chaptersContainer = contentArea.querySelector('.capitulos') || contentArea.querySelector('.capitulos-container');
+                        if (chaptersContainer) chaptersContainer.insertAdjacentElement('afterend', readingModeDisplay);
+                        else if (titleH2) titleH2.insertAdjacentElement('afterend', readingModeDisplay);
+                        else contentArea.appendChild(readingModeDisplay);
+                    }
+                    readingModeDisplay.innerHTML = '<p style="text-align:center; padding:20px;">Selecione um livro e capítulo.</p>';
+                    readingModeDisplay.style.display = 'block';
+                    if(titleH2) titleH2.textContent = "Modo Leitura";
+                }
+            } else { 
+                if (readingModeDisplay) readingModeDisplay.style.display = 'none'; 
+                if (normalVerseTextDisplay) normalVerseTextDisplay.style.display = ''; 
+                if (verseButtonsDisplay) verseButtonsDisplay.style.display = ''; 
+
+                if (window.activeLivro && window.activeCapitulo) {
+                    if (typeof window.showVersesForChapter === 'function') {
+                        window.showVersesForChapter(window.activeLivro, window.activeCapitulo);
+                    }
+                    const verseToDisplay = window.activeVersiculo || 1; 
+                    if (typeof window.displayVerse === 'function') {
+                        window.displayVerse(window.activeLivro, window.activeCapitulo, verseToDisplay);
+                    } else if (typeof window.updateChapterTitle === 'function'){
+                        window.updateChapterTitle(window.activeLivro, window.activeCapitulo, verseToDisplay);
+                    }
+                } else {
+                    const versaoAtual = localStorage.getItem('versaoBiblicaSelecionada') || 'ara';
+                    setPageTitle(versaoAtual);
+                    if(titleH2) titleH2.textContent = "Selecione um Livro";
+                }
+            }
+        };
+        
+        function handleKeyNavigation(event) {
+            if (!window.isReadingModeEnabled) {
+                return;
+            }
+
+            if (document.activeElement && (document.activeElement.tagName === 'INPUT' || document.activeElement.tagName === 'TEXTAREA' || document.activeElement.isContentEditable)) {
+                return;
+            }
+
+            const prevBtn = document.getElementById('prev-chapter-reading-mode');
+            const nextBtn = document.getElementById('next-chapter-reading-mode');
+
+            if (event.key === "ArrowLeft") {
+                if (prevBtn && !prevBtn.disabled) {
+                    event.preventDefault();
+                    prevBtn.click();
+                }
+            } else if (event.key === "ArrowRight") {
+                if (nextBtn && !nextBtn.disabled) {
+                    event.preventDefault();
+                    nextBtn.click();
+                }
+            }
+        }
+
+        async function inicializarVersao(versaoCod) {
+            console.log(`[Principal] Inicializando ${versaoCod.toUpperCase()}`);
+
+            document.body.className = ''; 
+            const versoesHtml = ['arc']; 
+            document.body.classList.add(versoesHtml.includes(versaoCod.toLowerCase()) ? 'versao-html-ativa' : 'versao-json-ativa');
+
+            try {
+                const basePath = '../script'; 
+                
+                await loadScriptAsync(`${basePath}/${versaoCod.toLowerCase()}.js`, 'script-versao-biblica');
+                setPageTitle(versaoCod);
+
+                await loadScriptAsync(`${basePath}/slide.js`, 'script-slide');
+
+                if (typeof window.inicializarDropdowns === 'function') window.inicializarDropdowns();
+                if (typeof window.inicializarSobre === 'function') window.inicializarSobre();
+                if (typeof window.inicializarSlide === 'function') window.inicializarSlide();
+                
+                const modoLeituraBtn = document.getElementById('modo-leitura');
+                if (modoLeituraBtn) {
+                    modoLeituraBtn.addEventListener('click', function(event) {
+                        event.preventDefault();
+                        if (window.activeLivro && window.activeCapitulo) { 
+                            window.toggleReadingMode(!window.isReadingModeEnabled, window.activeLivro, window.activeCapitulo);
+                        } else {
+                            window.toggleReadingMode(!window.isReadingModeEnabled, null, null);
+                        }
+                    });
+                }
+                
+                document.removeEventListener('keydown', handleKeyNavigation);
+                document.addEventListener('keydown', handleKeyNavigation);
+
+                console.log(`[Principal] ${versaoCod.toUpperCase()} inicializada.`);
+
+            } catch (error) {
+                console.error(`[Principal] Erro init ${versaoCod.toUpperCase()}:`, error);
+                setPageTitle(versaoCod); 
+                alert(`Erro ao inicializar a versão ${versaoCod.toUpperCase()}. Algumas funcionalidades podem não estar disponíveis.`);
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log("[Principal] DOMContentLoaded.");
+            const seletorVersao = document.getElementById('seletor-versao-principal');
+            let versaoPadraoSelect = 'arc'; 
+            let opcoesValidas = ['arc', 'ara', 'nvi', 'acf', 'ntlh', 'kjv', 'naa', 'original']; 
+            if (seletorVersao && seletorVersao.options.length > 0) {
+                opcoesValidas = Array.from(seletorVersao.options).map(opt => opt.value);
+                versaoPadraoSelect = seletorVersao.value || opcoesValidas[0];
+            }
+            const versaoSalva = localStorage.getItem('versaoBiblicaSelecionada');
+            let versaoInicial = getQueryParam('version') || versaoSalva || versaoPadraoSelect;
+
+            if (!opcoesValidas.includes(versaoInicial.toLowerCase())) {
+                console.warn(`Versão inicial inválida ou não encontrada nas opções: ${versaoInicial}. Usando padrão: ${opcoesValidas[0]}`);
+                versaoInicial = opcoesValidas[0];
+            }
+
+            if (seletorVersao) seletorVersao.value = versaoInicial;
+            localStorage.setItem('versaoBiblicaSelecionada', versaoInicial);
+            
+            inicializarVersao(versaoInicial);
+
+            if (seletorVersao) {
+                seletorVersao.addEventListener('change', (event) => {
+                    const novaVersao = event.target.value;
+                    localStorage.setItem('versaoBiblicaSelecionada', novaVersao);
+                    window.location.search = `?version=${novaVersao}`;
+                });
+            }
+            const versoesDropdownList = document.getElementById('versoes-list');
+            if (versoesDropdownList) { 
+                if (seletorVersao && opcoesValidas.length > 0) {
+                    versoesDropdownList.innerHTML = '';
+                    const opcoesTexto = {};
+                    Array.from(seletorVersao.options).forEach(opt => { opcoesTexto[opt.value] = opt.textContent; });
+
+                    opcoesValidas.forEach(versao => {
+                        const li = document.createElement('li');
+                        const a = document.createElement('a');
+                        a.href = `?version=${versao}`;
+                        a.textContent = opcoesTexto[versao] || versao.toUpperCase();
+                        li.appendChild(a);
+                        versoesDropdownList.appendChild(li);
+                    });
+                }
+            }
+        });
+    })();
+    </script>
+</body>
+</html>
