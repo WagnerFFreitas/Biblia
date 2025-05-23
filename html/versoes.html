@@ -6,6 +6,69 @@
     <!--<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@600&display=swap" rel="stylesheet">-->
     <title>Bíblia Sagrada Online</title>
     <link rel="stylesheet" href="../css/style.css">
+    <style>
+        /* Estilos para os botões de capítulo */
+        .capitulos button {
+            background-color: #3f51b5; /* Azul */
+            color: white;
+            border: none;
+            padding: 8px 12px;
+            margin: 2px;
+            cursor: pointer;
+            min-width: 40px;
+            text-align: center;
+            border-radius: 4px;
+        }
+        
+        .capitulos button.active {
+            background-color: #4CAF50; /* Verde para o ativo */
+        }
+        
+        /* Estilos para os botões de navegação */
+        #prev-chapter-reading-mode {
+            padding: 10px 15px;
+            background-color: #f0f0f0;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        
+        #next-chapter-reading-mode {
+            padding: 10px 15px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            margin-left: 10px;
+        }
+        
+        #prev-chapter-reading-mode[disabled], #next-chapter-reading-mode[disabled] {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+        
+        /* Estilos para o texto bíblico */
+        .verse-container {
+            margin-bottom: 10px;
+        }
+        
+        .verse-number {
+            color: #888;
+            font-size: 0.8em;
+            margin-right: 5px;
+        }
+        
+        .verse-text {
+            color: #f0ad4e;
+        }
+        
+        .verse-section-title, .chapter-title {
+            color: #4CAF50;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+    </style>
 </head>
 <body>
     <header>
@@ -150,6 +213,22 @@
     (function() { 
         'use strict';
 
+        // Ordem dos livros da Bíblia
+        const BIBLE_BOOKS_ORDER = [
+            'genesis', 'exodo', 'levitico', 'numeros', 'deuteronomio', 'josue', 'juizes', 'rute',
+            '1samuel', '2samuel', '1reis', '2reis', '1cronicas', '2cronicas', 'esdras', 'neemias',
+            'ester', 'jo', 'salmos', 'proverbios', 'eclesiastes', 'cantares', 'isaias', 'jeremias',
+            'lamentacoes', 'ezequiel', 'daniel', 'oseias', 'joel', 'amos', 'obadias', 'jonas',
+            'miqueias', 'naum', 'habacuque', 'sofonias', 'ageu', 'zacarias', 'malaquias',
+            'mateus', 'marcos', 'lucas', 'joao', 'atos', 'romanos', '1corintios', '2corintios',
+            'galatas', 'efesios', 'filipenses', 'colossenses', '1tessalonicenses', '2tessalonicenses',
+            '1timoteo', '2timoteo', 'tito', 'filemom', 'hebreus', 'tiago', '1pedro', '2pedro',
+            '1joao', '2joao', '3joao', 'judas', 'apocalipse'
+        ];
+
+        // Cache para armazenar o número de capítulos por livro
+        const chapterCountCache = {};
+
         function getQueryParam(param) {
             const urlParams = new URLSearchParams(window.location.search);
             return urlParams.get(param);
@@ -191,6 +270,195 @@
             }
         }
 
+        // Função para verificar se um capítulo existe fazendo uma requisição HEAD
+        async function chapterExists(livro, capitulo) {
+            try {
+                const versaoAtual = localStorage.getItem('versaoBiblicaSelecionada') || 'ara';
+                const jsonPath = `../version/${versaoAtual.toLowerCase()}/${livro.toLowerCase()}/${capitulo}.json`;
+                const response = await fetch(jsonPath, { method: 'HEAD' });
+                return response.ok;
+            } catch (error) {
+                console.error(`Erro ao verificar capítulo ${livro} ${capitulo}:`, error);
+                return false;
+            }
+        }
+
+        // Função para descobrir quantos capítulos um livro tem
+        async function getBookChapterCount(livro) {
+            // Verificar cache primeiro
+            if (chapterCountCache[livro.toLowerCase()]) {
+                return chapterCountCache[livro.toLowerCase()];
+            }
+            
+            // Primeiro tentar obter do sistema existente
+            if (typeof window.getChapterCountForBook === 'function') {
+                const count = window.getChapterCountForBook(livro);
+                if (count > 0) {
+                    chapterCountCache[livro.toLowerCase()] = count;
+                    return count;
+                }
+            }
+            
+            if (window.livrosInfo && window.livrosInfo[livro.toLowerCase()]) {
+                const count = window.livrosInfo[livro.toLowerCase()].chapters;
+                if (count > 0) {
+                    chapterCountCache[livro.toLowerCase()] = count;
+                    return count;
+                }
+            }
+
+            // Se não conseguir do sistema, descobrir verificando quais capítulos existem
+            console.log(`[Capítulos] Descobrindo número de capítulos para ${livro}...`);
+            let maxChapter = 1;
+            
+            // Verificar até 150 capítulos (máximo possível)
+            for (let cap = 1; cap <= 150; cap++) {
+                const exists = await chapterExists(livro, cap);
+                if (exists) {
+                    maxChapter = cap;
+                } else {
+                    // Se não existe, paramos aqui
+                    break;
+                }
+            }
+            
+            console.log(`[Capítulos] ${livro} tem ${maxChapter} capítulos`);
+            chapterCountCache[livro.toLowerCase()] = maxChapter;
+            return maxChapter;
+        }
+
+        // Função para obter o próximo livro e capítulo
+        async function getNextBookAndChapter(currentBook, currentChapter) {
+            const currentBookIndex = BIBLE_BOOKS_ORDER.indexOf(currentBook.toLowerCase());
+            if (currentBookIndex === -1) {
+                console.warn(`Livro ${currentBook} não encontrado na ordem dos livros`);
+                return null;
+            }
+
+            // Primeiro, verificar se o próximo capítulo existe no livro atual
+            const nextChapterInSameBook = currentChapter + 1;
+            const nextChapterExists = await chapterExists(currentBook, nextChapterInSameBook);
+            
+            if (nextChapterExists) {
+                console.log(`[Navegação] Próximo: ${currentBook} ${nextChapterInSameBook} (mesmo livro)`);
+                return { livro: currentBook, capitulo: nextChapterInSameBook };
+            }
+
+            // Se não há próximo capítulo no livro atual, ir para o próximo livro
+            if (currentBookIndex < BIBLE_BOOKS_ORDER.length - 1) {
+                const nextBook = BIBLE_BOOKS_ORDER[currentBookIndex + 1];
+                console.log(`[Navegação] Próximo: ${nextBook} 1 (próximo livro)`);
+                return { livro: nextBook, capitulo: 1 };
+            }
+
+            // Se é o último livro e último capítulo
+            console.log(`[Navegação] Fim da Bíblia alcançado`);
+            return null;
+        }
+
+        // Função para obter o livro e capítulo anterior
+        async function getPreviousBookAndChapter(currentBook, currentChapter) {
+            const currentBookIndex = BIBLE_BOOKS_ORDER.indexOf(currentBook.toLowerCase());
+            if (currentBookIndex === -1) {
+                console.warn(`Livro ${currentBook} não encontrado na ordem dos livros`);
+                return null;
+            }
+
+            // Se há capítulo anterior no livro atual
+            if (currentChapter > 1) {
+                console.log(`[Navegação] Anterior: ${currentBook} ${currentChapter - 1} (mesmo livro)`);
+                return { livro: currentBook, capitulo: currentChapter - 1 };
+            }
+
+            // Se não há capítulo anterior, ir para o livro anterior
+            if (currentBookIndex > 0) {
+                const previousBook = BIBLE_BOOKS_ORDER[currentBookIndex - 1];
+                
+                // Encontrar o último capítulo do livro anterior
+                const lastChapter = await getBookChapterCount(previousBook);
+
+                console.log(`[Navegação] Anterior: ${previousBook} ${lastChapter} (livro anterior)`);
+                return { livro: previousBook, capitulo: lastChapter };
+            }
+
+            // Se é o primeiro livro e primeiro capítulo
+            console.log(`[Navegação] Início da Bíblia alcançado`);
+            return null;
+        }
+
+        // Função para atualizar os botões de capítulos
+        async function updateChapterButtons(livro, capituloAtual, isReadingMode) {
+            const contentArea = document.querySelector('section.content');
+            if (!contentArea) return;
+
+            // Procurar por container de capítulos existente
+            let capitulosContainer = contentArea.querySelector('.capitulos');
+            if (!capitulosContainer) {
+                // Criar container se não existir
+                capitulosContainer = document.createElement('div');
+                capitulosContainer.className = 'capitulos';
+                
+                const titleH2 = contentArea.querySelector('h2');
+                if (titleH2) {
+                    titleH2.insertAdjacentElement('afterend', capitulosContainer);
+                } else {
+                    contentArea.insertBefore(capitulosContainer, contentArea.firstChild);
+                }
+            }
+
+            // Obter número de capítulos do livro
+            const totalCapitulos = await getBookChapterCount(livro);
+            
+            // Limpar botões existentes
+            capitulosContainer.innerHTML = '';
+            
+            // Criar novos botões
+            for (let i = 1; i <= totalCapitulos; i++) {
+                const button = document.createElement('button');
+                button.textContent = i;
+                button.dataset.capitulo = i;
+                
+                // Marcar capítulo atual como ativo apenas no modo de leitura
+                if (isReadingMode && i === parseInt(capituloAtual)) {
+                    button.classList.add('active');
+                }
+                
+                // Adicionar event listener
+                button.addEventListener('click', function() {
+                    const capitulo = parseInt(this.dataset.capitulo);
+                    window.activeLivro = livro;
+                    window.activeCapitulo = capitulo;
+                    
+                    if (window.isReadingModeEnabled) {
+                        window.loadChapterInReadingMode(livro, capitulo);
+                    } else {
+                        // Carregar no modo normal
+                        if (typeof window.showVersesForChapter === 'function') {
+                            window.showVersesForChapter(livro, capitulo);
+                        }
+                    }
+                    
+                    // Atualizar botões ativos apenas no modo de leitura
+                    if (window.isReadingModeEnabled) {
+                        const buttons = capitulosContainer.querySelectorAll('button');
+                        buttons.forEach(btn => {
+                            btn.classList.remove('active');
+                        });
+                        this.classList.add('active');
+                    }
+                    
+                    // Atualizar título
+                    if (typeof window.updateChapterTitle === 'function') {
+                        window.updateChapterTitle(livro, capitulo);
+                    }
+                });
+                
+                capitulosContainer.appendChild(button);
+            }
+            
+            console.log(`[Capítulos] Criados ${totalCapitulos} botões para ${livro}`);
+        }
+
         window.isReadingModeEnabled = false; 
 
         window.loadChapterInReadingMode = async function(livro, capitulo) {
@@ -202,11 +470,14 @@
             if (normalVerseTextDisplayImmediate) normalVerseTextDisplayImmediate.style.display = 'none';
             if (verseButtonsDisplayImmediate) verseButtonsDisplayImmediate.style.display = 'none';
 
+            // Atualizar botões de capítulos para o livro atual (com modo de leitura ativo)
+            await updateChapterButtons(livro, capitulo, true);
+
             let readingContainer = contentArea.querySelector('.reading-mode-content');
             if (!readingContainer) {
                 readingContainer = document.createElement('div');
                 readingContainer.className = 'reading-mode-content';
-                const chaptersContainer = contentArea.querySelector('.capitulos') || contentArea.querySelector('.capitulos-container');
+                const chaptersContainer = contentArea.querySelector('.capitulos');
                 const titleH2 = contentArea.querySelector('h2');
                 if (chaptersContainer) {
                     chaptersContainer.insertAdjacentElement('afterend', readingContainer);
@@ -227,29 +498,57 @@
                     numVersiculos = window.getSpecificVerseCount(livro, capituloNum);
                 }
 
-                const response = await fetch(`../version/${versaoAtual.toLowerCase()}/${livro.toLowerCase()}/${capituloNum}.json`);
-                if (!response.ok) throw new Error(`Erro ${response.status}`);
+                // Caminho do arquivo JSON
+                const jsonPath = `../version/${versaoAtual.toLowerCase()}/${livro.toLowerCase()}/${capituloNum}.json`;
+                console.log(`[Modo Leitura] Carregando: ${livro.toUpperCase()} ${capituloNum}`);
+
+                const response = await fetch(jsonPath);
+                if (!response.ok) {
+                    throw new Error(`Erro ao carregar capítulo ${capituloNum} (${response.status})`);
+                }
+                
                 const data = await response.json();
                 const effectiveNumVersiculos = numVersiculos > 0 ? numVersiculos : (data.versiculos ? Object.keys(data.versiculos).length : 0);
 
                 if (effectiveNumVersiculos === 0 && (!data.versiculos || Object.keys(data.versiculos).length === 0)) {
-                    throw new Error('Nenhum versículo.');
+                    throw new Error('Nenhum versículo encontrado neste capítulo.');
                 }
 
+                // Obter próximo e anterior livro/capítulo
+                const nextBookChapter = await getNextBookAndChapter(livro, capituloNum);
+                const prevBookChapter = await getPreviousBookAndChapter(livro, capituloNum);
+
                 let navButtonsHtml = '<div class="reading-mode-navigation">'; 
-                navButtonsHtml += `<button id="prev-chapter-reading-mode" data-livro="${livro}" data-capitulo="${capituloNum - 1}" ${capituloNum <= 1 ? 'disabled' : ''}>Cap. Anterior</button>`;
-                let totalCapitulos = 0;
-                if (typeof window.getChapterCountForBook === 'function') totalCapitulos = window.getChapterCountForBook(livro);
-                else if (window.livrosInfo && window.livrosInfo[livro.toLowerCase()]) totalCapitulos = window.livrosInfo[livro.toLowerCase()].chapters;
-                const nextDisabled = (totalCapitulos > 0 && capituloNum >= totalCapitulos) || (totalCapitulos === 0 && capituloNum >= 150);
-                navButtonsHtml += `<button id="next-chapter-reading-mode" data-livro="${livro}" data-capitulo="${capituloNum + 1}" ${nextDisabled ? 'disabled' : ''}>Cap. Próximo</button>`;
+                
+                // Botão Capítulo Anterior
+                if (prevBookChapter) {
+                    navButtonsHtml += `<button id="prev-chapter-reading-mode" data-livro="${prevBookChapter.livro}" data-capitulo="${prevBookChapter.capitulo}">Cap. Anterior</button>`;
+                } else {
+                    navButtonsHtml += `<button id="prev-chapter-reading-mode" disabled>Cap. Anterior</button>`;
+                }
+
+                // Botão Capítulo Próximo
+                if (nextBookChapter) {
+                    navButtonsHtml += `<button id="next-chapter-reading-mode" data-livro="${nextBookChapter.livro}" data-capitulo="${nextBookChapter.capitulo}">Cap. Próximo</button>`;
+                } else {
+                    navButtonsHtml += `<button id="next-chapter-reading-mode" disabled>Cap. Próximo</button>`;
+                }
+                
                 navButtonsHtml += '</div>';
 
                 let htmlVerses = '<div class="chapter-verses">';
+                
+                // Adicionar título do capítulo se disponível
+                if (data.titulo) {
+                    htmlVerses += `<h3 class="chapter-title">${data.titulo}</h3>`;
+                }
+                
                 for (let i = 1; i <= effectiveNumVersiculos; i++) {
                     const verseKey = String(i);
                     if (data.versiculos && data.versiculos[verseKey]) {
-                        if (data.titulos && data.titulos[verseKey]) htmlVerses += `<h3 class="verse-section-title">${data.titulos[verseKey]}</h3>`;
+                        if (data.titulos && data.titulos[verseKey]) {
+                            htmlVerses += `<h3 class="verse-section-title">${data.titulos[verseKey]}</h3>`;
+                        }
                         htmlVerses += `<div class="verse-container"><sup class="verse-number">${i}</sup><span class="verse-text">${data.versiculos[verseKey]}</span></div>`;
                     }
                 }
@@ -259,32 +558,58 @@
 
                 const prevBtn = readingContainer.querySelector('#prev-chapter-reading-mode');
                 if (prevBtn && !prevBtn.disabled) {
-                    prevBtn.addEventListener('click', () => {
-                        window.activeLivro = prevBtn.dataset.livro; 
-                        window.activeCapitulo = parseInt(prevBtn.dataset.capitulo);
-                        window.loadChapterInReadingMode(window.activeLivro, window.activeCapitulo);
+                    prevBtn.addEventListener('click', async () => {
+                        const prevLivro = prevBtn.dataset.livro;
+                        const prevCapitulo = parseInt(prevBtn.dataset.capitulo);
+                        window.activeLivro = prevLivro; 
+                        window.activeCapitulo = prevCapitulo;
+                        await window.loadChapterInReadingMode(prevLivro, prevCapitulo);
                         if (typeof window.updateChapterTitle === 'function') {
-                            window.updateChapterTitle(window.activeLivro, window.activeCapitulo);
+                            window.updateChapterTitle(prevLivro, prevCapitulo);
                         }
                     });
                 }
+                
                 const nextBtn = readingContainer.querySelector('#next-chapter-reading-mode');
                 if (nextBtn && !nextBtn.disabled) {
-                    nextBtn.addEventListener('click', () => {
-                        window.activeLivro = nextBtn.dataset.livro;
-                        window.activeCapitulo = parseInt(nextBtn.dataset.capitulo);
-                        window.loadChapterInReadingMode(window.activeLivro, window.activeCapitulo);
+                    nextBtn.addEventListener('click', async () => {
+                        const nextLivro = nextBtn.dataset.livro;
+                        const nextCapitulo = parseInt(nextBtn.dataset.capitulo);
+                        window.activeLivro = nextLivro;
+                        window.activeCapitulo = nextCapitulo;
+                        await window.loadChapterInReadingMode(nextLivro, nextCapitulo);
                         if (typeof window.updateChapterTitle === 'function') {
-                            window.updateChapterTitle(window.activeLivro, window.activeCapitulo);
+                            window.updateChapterTitle(nextLivro, nextCapitulo);
                         }
                     });
                 }
+                
                 const titleH2 = contentArea.querySelector('h2');
-                if(titleH2) titleH2.textContent = `${livro.toUpperCase()} - CAPÍTULO ${capituloNum}`;
+                if(titleH2) {
+                    titleH2.textContent = `${livro.toUpperCase()} - CAPÍTULO ${capituloNum}`;
+                    titleH2.style.color = '#f0ad4e'; // Cor dourada para o título
+                    titleH2.style.textAlign = 'center';
+                    titleH2.style.marginBottom = '20px';
+                }
                 
             } catch (error) {
-                console.error('Erro modo leitura:', error);
-                readingContainer.innerHTML = `<div class="error-container"><p>⚠️ Erro: ${error.message}</p></div>`;
+                console.error('[Modo Leitura] Erro:', error);
+                readingContainer.innerHTML = `
+                    <div class="error-container" style="padding: 20px; background-color: #fff3f3; border: 1px solid #ffcaca; border-radius: 5px; margin: 20px 0;">
+                        <p style="color: #d32f2f; font-weight: bold; margin-bottom: 10px;">⚠️ Erro: ${error.message}</p>
+                        <p>O capítulo solicitado não está disponível.</p>
+                        <p style="margin-top: 15px;">Por favor, tente:</p>
+                        <ul style="list-style: disc; padding-left: 20px; margin: 10px 0;">
+                            <li>Verificar se o capítulo existe para este livro</li>
+                            <li>Navegar para outro capítulo</li>
+                            <li>Recarregar a página</li>
+                        </ul>
+                        <div style="margin-top: 20px;">
+                            <button onclick="history.back()" style="padding: 8px 15px; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 4px; cursor: pointer;">Voltar</button>
+                            <button onclick="location.reload()" style="padding: 8px 15px; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 4px; cursor: pointer; margin-left: 10px;">Recarregar</button>
+                        </div>
+                    </div>
+                `;
             }
         };
 
@@ -311,7 +636,7 @@
                     if (!readingModeDisplay) {
                         readingModeDisplay = document.createElement('div');
                         readingModeDisplay.className = 'reading-mode-content';
-                        const chaptersContainer = contentArea.querySelector('.capitulos') || contentArea.querySelector('.capitulos-container');
+                        const chaptersContainer = contentArea.querySelector('.capitulos');
                         if (chaptersContainer) chaptersContainer.insertAdjacentElement('afterend', readingModeDisplay);
                         else if (titleH2) titleH2.insertAdjacentElement('afterend', readingModeDisplay);
                         else contentArea.appendChild(readingModeDisplay);
@@ -326,6 +651,9 @@
                 if (verseButtonsDisplay) verseButtonsDisplay.style.display = ''; 
 
                 if (window.activeLivro && window.activeCapitulo) {
+                    // Atualizar botões de capítulos para o modo normal (sem destacar o ativo)
+                    await updateChapterButtons(window.activeLivro, window.activeCapitulo, false);
+                    
                     if (typeof window.showVersesForChapter === 'function') {
                         window.showVersesForChapter(window.activeLivro, window.activeCapitulo);
                     }

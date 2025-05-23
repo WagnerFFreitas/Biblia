@@ -1,0 +1,670 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dicionário Bíblico</title>
+    <style>
+        /* Estilos gerais - compatíveis com o projeto principal */
+        body {
+            background-color: #181818;
+            color: #d4ac0d;
+            font-family: sans-serif;
+            margin: 0;
+            width: 100%;
+            font-style: italic;
+            font-weight: bold;
+            overflow-x: hidden;
+        }
+
+        /* Cabeçalho */
+        header {
+            background: linear-gradient(to right, #333, #555, #777);
+            padding: 20px 0;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+        }
+
+        .header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0 30px;
+        }
+
+        .titulo-container h1 {
+            margin: 0;
+            font-size: 2.5em;
+            color: #fff;
+        }
+
+        .nome-extenso-versao {
+            font-size: 1.2em;
+            margin-top: 5px;
+            color: #d4ac0d;
+        }
+
+        /* Barra de navegação */
+        nav {
+            background: linear-gradient(to right, #333, #555, #777);
+            width: 100%;
+            padding: 10px 0;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            height: 20px;
+        }
+
+        .menu-title {
+            color: white;
+            font-size: 1.5vw;
+            margin-left: 37px;
+            margin-right: 20px;
+            display: flex;
+            align-items: center;
+            white-space: nowrap;
+        }
+
+        nav .menu-opcoes {
+            display: flex;
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            flex-grow: 1;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: nowrap;
+            margin-left: 70px;
+        }
+
+        nav .menu-opcoes li {
+            margin: 0 13px;
+            white-space: nowrap;
+        }
+
+        nav .menu-opcoes li a {
+            text-decoration: none;
+            color: white;
+            padding: 4px 4px;
+            border-radius: 5px;
+            transition: background 0.3s ease;
+            font-size: 1.2vw;
+            display: inline-block;
+        }
+
+        nav .menu-opcoes li a:hover {
+            background: rgba(255, 255, 255, 0.2);
+        }
+
+        /* Conteúdo principal */
+        .container {
+            display: flex;
+            flex-direction: row;
+            min-height: calc(100vh - 200px);
+        }
+
+        /* Barra lateral de letras */
+        .alfabeto-sidebar {
+            flex: 0 0 80px;
+            background-color: #222;
+            padding: 20px 10px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            position: fixed;
+            top: 150px;
+            left: 0;
+            bottom: 30px;
+            overflow-y: auto;
+        }
+
+        .alfabeto-sidebar::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        .alfabeto-sidebar::-webkit-scrollbar-track {
+            background: #383838;
+        }
+
+        .alfabeto-sidebar::-webkit-scrollbar-thumb {
+            background: #a7a2a2;
+            border-radius: 10px;
+        }
+
+        .letra-btn {
+            background-color: #220bf0;
+            color: white;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 10px;
+            cursor: pointer;
+            font-size: 18px;
+            border: none;
+            transition: background-color 0.3s;
+        }
+
+        .letra-btn:hover {
+            background-color: #45a049;
+        }
+
+        .letra-btn.active {
+            background-color: #4CAF50;
+        }
+
+        /* Área de conteúdo principal */
+        .content {
+            flex: 1;
+            padding: 20px;
+            margin-left: 100px;
+            margin-right: 20px;
+            overflow-y: auto;
+            height: calc(100vh - 200px);
+        }
+
+        .content::-webkit-scrollbar {
+            width: 16px;
+        }
+
+        .content::-webkit-scrollbar-track {
+            background: #383838;
+        }
+
+        .content::-webkit-scrollbar-thumb {
+            background: #a7a2a2;
+            border-radius: 10px;
+            margin: 5px;
+            min-height: 50px;
+        }
+
+        /* Barra de pesquisa */
+        .search-container {
+            display: flex;
+            margin-bottom: 30px;
+            padding: 10px;
+            background-color: #222;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+        }
+
+        .search-input {
+            flex: 1;
+            padding: 12px;
+            border: 1px solid #555;
+            border-radius: 5px 0 0 5px;
+            background-color: #333;
+            color: #fff;
+            font-size: 16px;
+        }
+
+        .search-btn {
+            padding: 12px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 0 5px 5px 0;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s;
+        }
+
+        .search-btn:hover {
+            background-color: #45a049;
+        }
+
+        /* Estilo dos verbetes */
+        .verbete {
+            margin-bottom: 30px;
+            padding: 20px;
+            background-color: rgba(30, 30, 30, 0.7);
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+            transition: transform 0.2s;
+        }
+
+        .verbete:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        }
+
+        .verbete h3 {
+            color: #4CAF50;
+            font-size: 1.8em;
+            margin-top: 0;
+            margin-bottom: 15px;
+            border-bottom: 1px solid #444;
+            padding-bottom: 10px;
+        }
+
+        .verbete p {
+            color: #f8f8f8;
+            font-size: 1.1em;
+            line-height: 1.6;
+            margin-bottom: 15px;
+        }
+
+        .referencias {
+            margin-top: 15px;
+            padding-top: 10px;
+            border-top: 1px dashed #444;
+        }
+
+        .referencias h4 {
+            color: #d4ac0d;
+            margin-bottom: 10px;
+            font-size: 1.2em;
+        }
+
+        .ref-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .ref-item {
+            background-color: #333;
+            color: #fff;
+            padding: 5px 10px;
+            border-radius: 4px;
+            font-size: 0.9em;
+            cursor: pointer;
+            transition: background-color 0.2s;
+        }
+
+        .ref-item:hover {
+            background-color: #4CAF50;
+        }
+
+        /* Seção de letra */
+        .letra-section {
+            margin-bottom: 40px;
+        }
+
+        .letra-header {
+            background-color: #220bf0;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            font-size: 1.5em;
+            display: flex;
+            align-items: center;
+        }
+
+        .letra-header span {
+            font-size: 2em;
+            margin-right: 15px;
+        }
+
+        /* Rodapé */
+        footer {
+            background-color: #383838;
+            text-align: center;
+            padding: 10px 0;
+            width: 100%;
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            z-index: 1;
+            height: 30px;
+        }
+
+        footer p {
+            font-size: 16px;
+            line-height: 0.2;
+            color: #d4ac0d;
+        }
+
+        /* Responsividade */
+        @media (max-width: 768px) {
+            .container {
+                flex-direction: column;
+            }
+
+            .alfabeto-sidebar {
+                flex-direction: row;
+                position: static;
+                height: auto;
+                width: 100%;
+                padding: 10px 0;
+                overflow-x: auto;
+                overflow-y: hidden;
+            }
+
+            .letra-btn {
+                margin: 0 5px;
+            }
+
+            .content {
+                margin-left: 20px;
+                height: auto;
+            }
+
+            .header-top {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .search-container {
+                flex-direction: column;
+            }
+
+            .search-input, .search-btn {
+                width: 100%;
+                border-radius: 5px;
+                margin-bottom: 10px;
+            }
+
+            .search-btn {
+                margin-top: 10px;
+            }
+        }
+
+        /* Marca d'água */
+        .watermark {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: url('../img/biblia.jpg');
+            background-size: cover;
+            background-position: center;
+            opacity: 0.1;
+            pointer-events: none;
+            z-index: -1;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-top">
+            <div class="titulo-container">
+                <h1>Dicionário Bíblico</h1>
+                <p class="nome-extenso-versao">Termos, pessoas e lugares da Bíblia Sagrada</p>
+            </div>
+        </div>
+    </header>
+
+    <nav>
+        <span class="menu-title">NAVEGAÇÃO</span>
+        <ul class="menu-opcoes">
+            <li><a href="../index.html">Menu Principal</a></li>
+            <li><a href="versoes.html">Bíblia</a></li>
+            <li><a href="concordancia.html">Concordância</a></li>
+            <li><a href="#" id="sobre">Sobre</a></li>
+        </ul>
+    </nav>
+
+    <div class="container">
+        <div class="alfabeto-sidebar">
+            <button class="letra-btn active" data-letra="A">A</button>
+            <button class="letra-btn" data-letra="B">B</button>
+            <button class="letra-btn" data-letra="C">C</button>
+            <button class="letra-btn" data-letra="D">D</button>
+            <button class="letra-btn" data-letra="E">E</button>
+            <button class="letra-btn" data-letra="F">F</button>
+            <button class="letra-btn" data-letra="G">G</button>
+            <button class="letra-btn" data-letra="H">H</button>
+            <button class="letra-btn" data-letra="I">I</button>
+            <button class="letra-btn" data-letra="J">J</button>
+            <button class="letra-btn" data-letra="K">K</button>
+            <button class="letra-btn" data-letra="L">L</button>
+            <button class="letra-btn" data-letra="M">M</button>
+            <button class="letra-btn" data-letra="N">N</button>
+            <button class="letra-btn" data-letra="O">O</button>
+            <button class="letra-btn" data-letra="P">P</button>
+            <button class="letra-btn" data-letra="Q">Q</button>
+            <button class="letra-btn" data-letra="R">R</button>
+            <button class="letra-btn" data-letra="S">S</button>
+            <button class="letra-btn" data-letra="T">T</button>
+            <button class="letra-btn" data-letra="U">U</button>
+            <button class="letra-btn" data-letra="V">V</button>
+            <button class="letra-btn" data-letra="W">W</button>
+            <button class="letra-btn" data-letra="X">X</button>
+            <button class="letra-btn" data-letra="Y">Y</button>
+            <button class="letra-btn" data-letra="Z">Z</button>
+        </div>
+
+        <div class="content">
+            <div class="search-container">
+                <input type="text" class="search-input" placeholder="Buscar termo no dicionário...">
+                <button class="search-btn">Buscar</button>
+            </div>
+
+            <!-- Seção A -->
+            <div class="letra-section" id="secao-A">
+                <div class="letra-header">
+                    <span>A</span> Termos iniciados com A
+                </div>
+
+                <div class="verbete">
+                    <h3>Aarão</h3>
+                    <p>Irmão mais velho de Moisés e primeiro sumo sacerdote de Israel. Nasceu no Egito, filho de Anrão e Joquebede, da tribo de Levi. Foi designado por Deus para ser o porta-voz de Moisés perante o Faraó. Após o êxodo, foi consagrado como sumo sacerdote, sendo o primeiro a ocupar este cargo.</p>
+                    <p>Aarão e seus filhos foram separados para o sacerdócio, e suas vestes sacerdotais eram especialmente elaboradas. Apesar de sua posição, Aarão falhou em algumas ocasiões, como na fabricação do bezerro de ouro (Êxodo 32) e quando, junto com Miriã, falou contra Moisés (Números 12).</p>
+                    <div class="referencias">
+                        <h4>Referências Bíblicas:</h4>
+                        <div class="ref-list">
+                            <span class="ref-item">Êxodo 4:14-16</span>
+                            <span class="ref-item">Êxodo 28:1-4</span>
+                            <span class="ref-item">Levítico 8:1-36</span>
+                            <span class="ref-item">Números 20:22-29</span>
+                            <span class="ref-item">Hebreus 5:4</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="verbete">
+                    <h3>Abaddon</h3>
+                    <p>Palavra hebraica que significa "destruição" ou "ruína". No Antigo Testamento, é usada como sinônimo do Sheol (sepultura ou mundo dos mortos). No Novo Testamento, aparece em Apocalipse como o nome do anjo do abismo (também chamado Apoliom em grego), descrito como o rei dos gafanhotos que atormentam os homens durante o período das trombetas do Apocalipse.</p>
+                    <div class="referencias">
+                        <h4>Referências Bíblicas:</h4>
+                        <div class="ref-list">
+                            <span class="ref-item">Jó 26:6</span>
+                            <span class="ref-item">Jó 28:22</span>
+                            <span class="ref-item">Provérbios 15:11</span>
+                            <span class="ref-item">Apocalipse 9:11</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="verbete">
+                    <h3>Abençoar</h3>
+                    <p>Ato de invocar o favor divino sobre alguém ou algo. Na Bíblia, abençoar significa conferir bem-estar, prosperidade, fertilidade ou sucesso. Deus é a fonte de toda bênção, e Ele abençoa pessoas, lugares e coisas. Os patriarcas tinham o costume de abençoar seus filhos antes de morrer, como fez Jacó com seus doze filhos.</p>
+                    <p>No Novo Testamento, Jesus ensinou que devemos abençoar aqueles que nos maldizem, e Paulo frequentemente iniciava suas epístolas com uma bênção. A maior bênção que Deus concedeu à humanidade foi a vinda de Jesus Cristo, através de quem todas as nações seriam abençoadas, conforme a promessa feita a Abraão.</p>
+                    <div class="referencias">
+                        <h4>Referências Bíblicas:</h4>
+                        <div class="ref-list">
+                            <span class="ref-item">Gênesis 12:2-3</span>
+                            <span class="ref-item">Números 6:24-26</span>
+                            <span class="ref-item">Mateus 5:44</span>
+                            <span class="ref-item">Efésios 1:3</span>
+                            <span class="ref-item">1 Pedro 3:9</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="verbete">
+                    <h3>Abraão</h3>
+                    <p>Patriarca do povo hebreu, originalmente chamado Abrão ("pai exaltado"), teve seu nome mudado por Deus para Abraão ("pai de muitas nações"). Nascido em Ur dos Caldeus, foi chamado por Deus para deixar sua terra natal e ir para Canaã, onde recebeu a promessa de que seria pai de uma grande nação e que através de sua descendência todas as famílias da terra seriam abençoadas.</p>
+                    <p>Abraão é conhecido por sua fé e obediência a Deus, especialmente quando foi ordenado a sacrificar seu filho Isaque. Por causa de sua fé, é chamado de "amigo de Deus" e "pai dos fiéis". Através de seu filho Isaque, nasceu a nação de Israel, e através de seu filho Ismael (com Agar), nasceram várias nações árabes.</p>
+                    <div class="referencias">
+                        <h4>Referências Bíblicas:</h4>
+                        <div class="ref-list">
+                            <span class="ref-item">Gênesis 12:1-3</span>
+                            <span class="ref-item">Gênesis 17:5</span>
+                            <span class="ref-item">Gênesis 22:1-18</span>
+                            <span class="ref-item">Romanos 4:1-25</span>
+                            <span class="ref-item">Hebreus 11:8-19</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="verbete">
+                    <h3>Adão</h3>
+                    <p>O primeiro ser humano criado por Deus, formado do pó da terra. O nome "Adão" em hebraico está relacionado com a palavra "adamah" (terra). Deus soprou em suas narinas o fôlego de vida, e ele se tornou alma vivente. Foi colocado no Jardim do Éden para cultivá-lo e guardá-lo, e recebeu autoridade sobre toda a criação.</p>
+                    <p>Adão recebeu Eva como companheira, criada a partir de sua costela. Juntos, desobedeceram a Deus ao comer do fruto proibido, resultando na queda da humanidade e na expulsão do Jardim do Éden. No Novo Testamento, Paulo contrasta Adão com Jesus Cristo, chamando este último de "último Adão" ou "segundo homem", que veio para desfazer os efeitos do pecado introduzido pelo primeiro Adão.</p>
+                    <div class="referencias">
+                        <h4>Referências Bíblicas:</h4>
+                        <div class="ref-list">
+                            <span class="ref-item">Gênesis 1:26-27</span>
+                            <span class="ref-item">Gênesis 2:7-25</span>
+                            <span class="ref-item">Gênesis 3:1-24</span>
+                            <span class="ref-item">Romanos 5:12-21</span>
+                            <span class="ref-item">1 Coríntios 15:45-49</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Seção B -->
+            <div class="letra-section" id="secao-B" style="display: none;">
+                <div class="letra-header">
+                    <span>B</span> Termos iniciados com B
+                </div>
+
+                <div class="verbete">
+                    <h3>Babilônia</h3>
+                    <p>Antiga cidade da Mesopotâmia, localizada às margens do rio Eufrates (atual Iraque). Foi a capital do Império Babilônico e um dos maiores centros culturais, comerciais e religiosos do mundo antigo. A Babilônia é mencionada pela primeira vez na Bíblia em Gênesis 10:10, como uma das cidades fundadas por Ninrode.</p>
+                    <p>Sob o reinado de Nabucodonosor II (605-562 a.C.), a Babilônia atingiu seu auge, conquistando Jerusalém em 586 a.C., destruindo o Templo de Salomão e levando muitos judeus para o exílio (o Cativeiro Babilônico). A cidade era conhecida por seus Jardins Suspensos (uma das Sete Maravilhas do Mundo Antigo) e pela Torre de Babel.</p>
+                    <p>No livro de Apocalipse, Babilônia é usada simbolicamente para representar um sistema mundial corrupto e anti-Deus.</p>
+                    <div class="referencias">
+                        <h4>Referências Bíblicas:</h4>
+                        <div class="ref-list">
+                            <span class="ref-item">2 Reis 24-25</span>
+                            <span class="ref-item">Daniel 1-5</span>
+                            <span class="ref-item">Jeremias 29:10</span>
+                            <span class="ref-item">Apocalipse 17-18</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="verbete">
+                    <h3>Batismo</h3>
+                    <p>Rito de iniciação cristã que simboliza a purificação dos pecados e a identificação com a morte e ressurreição de Jesus Cristo. A palavra "batismo" vem do grego "baptizo", que significa "imergir" ou "submergir". João Batista praticava um batismo de arrependimento para o perdão dos pecados, preparando o caminho para Jesus.</p>
+                    <p>Jesus foi batizado por João no rio Jordão, e depois ordenou que seus discípulos batizassem os novos convertidos em nome do Pai, do Filho e do Espírito Santo. O batismo cristão representa a morte para o pecado e a ressurreição para uma nova vida em Cristo, simbolizando também o recebimento do Espírito Santo.</p>
+                    <div class="referencias">
+                        <h4>Referências Bíblicas:</h4>
+                        <div class="ref-list">
+                            <span class="ref-item">Mateus 3:13-17</span>
+                            <span class="ref-item">Mateus 28:19-20</span>
+                            <span class="ref-item">Atos 2:38</span>
+                            <span class="ref-item">Romanos 6:3-4</span>
+                            <span class="ref-item">1 Pedro 3:21</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="verbete">
+                    <h3>Belém</h3>
+                    <p>Cidade da Judeia, situada cerca de 8 km ao sul de Jerusalém. Seu nome em hebraico significa "casa de pão". Também conhecida como Belém de Efrata, para distingui-la de outra Belém na Galileia. É mencionada pela primeira vez na Bíblia em conexão com a morte de Raquel, esposa de Jacó.</p>
+                    <p>Belém é a cidade natal do rei Davi e, conforme profetizado por Miquéias, o local de nascimento do Messias, Jesus Cristo. Foi em Belém que os magos encontraram o menino Jesus, e foi também em Belém que Herodes ordenou o massacre dos inocentes na tentativa de matar Jesus.</p>
+                    <div class="referencias">
+                        <h4>Referências Bíblicas:</h4>
+                        <div class="ref-list">
+                            <span class="ref-item">Gênesis 35:19</span>
+                            <span class="ref-item">Rute 1:1-2</span>
+                            <span class="ref-item">1 Samuel 16:1-13</span>
+                            <span class="ref-item">Miquéias 5:2</span>
+                            <span class="ref-item">Mateus 2:1-18</span>
+                            <span class="ref-item">Lucas 2:1-20</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Mais seções de letras seriam adicionadas aqui -->
+        </div>
+    </div>
+
+    <div class="watermark"></div>
+
+    <footer>
+        <p>© Bíblia Sagrada 2025</p>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Navegação por letras
+            const letraBtns = document.querySelectorAll('.letra-btn');
+            const letraSections = document.querySelectorAll('.letra-section');
+
+            letraBtns.forEach(btn => {
+                btn.addEventListener('click', function() {
+                    const letra = this.getAttribute('data-letra');
+                    
+                    // Atualiza botões ativos
+                    letraBtns.forEach(b => b.classList.remove('active'));
+                    this.classList.add('active');
+                    
+                    // Mostra seção correspondente
+                    letraSections.forEach(section => {
+                        if (section.id === `secao-${letra}`) {
+                            section.style.display = 'block';
+                        } else {
+                            section.style.display = 'none';
+                        }
+                    });
+                });
+            });
+
+            // Funcionalidade de busca
+            const searchInput = document.querySelector('.search-input');
+            const searchBtn = document.querySelector('.search-btn');
+            const verbetes = document.querySelectorAll('.verbete');
+
+            function realizarBusca() {
+                const termo = searchInput.value.toLowerCase().trim();
+                
+                if (termo === '') {
+                    // Se a busca estiver vazia, mostra apenas a seção ativa
+                    const letraAtiva = document.querySelector('.letra-btn.active').getAttribute('data-letra');
+                    letraSections.forEach(section => {
+                        section.style.display = section.id === `secao-${letraAtiva}` ? 'block' : 'none';
+                    });
+                    
+                    // Mostra todos os verbetes da seção ativa
+                    verbetes.forEach(verbete => {
+                        verbete.style.display = 'block';
+                    });
+                    
+                    return;
+                }
+                
+                // Mostra todas as seções para a busca
+                letraSections.forEach(section => {
+                    section.style.display = 'block';
+                });
+                
+                // Filtra verbetes
+                let encontrou = false;
+                verbetes.forEach(verbete => {
+                    const titulo = verbete.querySelector('h3').textContent.toLowerCase();
+                    const conteudo = verbete.textContent.toLowerCase();
+                    
+                    if (titulo.includes(termo) || conteudo.includes(termo)) {
+                        verbete.style.display = 'block';
+                        encontrou = true;
+                    } else {
+                        verbete.style.display = 'none';
+                    }
+                });
+                
+                if (!encontrou) {
+                    alert('Nenhum resultado encontrado para: ' + termo);
+                }
+            }
+
+            searchBtn.addEventListener('click', realizarBusca);
+            searchInput.addEventListener('keypress', function(e) {
+                if (e.key === 'Enter') {
+                    realizarBusca();
+                }
+            });
+        });
+    </script>
+</body>
+</html>
