@@ -1,0 +1,80 @@
+/* === ESTILOS ESPECÍFICOS DA PÁGINA VERSOES.HTML === */
+
+/* Estilos para o container principal da página */
+.versoes-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* Estilos para o cabeçalho da página de versões */
+.versoes-header {
+    position: relative;
+    z-index: 100;
+}
+
+/* Estilos para o título principal da versão */
+#titulo-principal-versao {
+    font-size: 2.5em;
+    margin: 0;
+    margin-top: 20px;
+    margin-left: 30px;
+    font-style: italic;
+    color: #d4ac0d;
+}
+
+/* Estilos para o subtítulo da versão por extenso */
+#subtitulo-versao-extenso {
+    font-size: 1.2em;
+    margin-top: 1px;
+    margin-bottom: 0.5px;
+    margin-left: 295px;
+    position: fixed;
+    color: #d4ac0d;
+}
+
+/* Estilos para o seletor de versão */
+#seletor-versao-principal {
+    background-color: #383838;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    padding: 8px;
+    font-size: 16px;
+}
+
+/* Estilos para mensagens de erro */
+.error-container {
+    padding: 20px;
+    background-color: #fff3f3;
+    border: 1px solid #ffcaca;
+    border-radius: 5px;
+    margin: 20px 0;
+}
+
+.error-container p {
+    color: #d32f2f;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.error-container button {
+    padding: 8px 15px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.error-container button:hover {
+    background-color: #e0e0e0;
+}
+
+/* Estilos para mensagens de carregamento */
+.loading-message {
+    text-align: center;
+    padding: 20px;
+    color: #fff;
+    font-style: italic;
+}

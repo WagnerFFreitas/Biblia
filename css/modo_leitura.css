@@ -1,0 +1,206 @@
+/* === ESTILOS ESPECÍFICOS DO MODO DE LEITURA === */
+
+/* Container principal do modo leitura */
+.reading-mode-content {
+    max-width: 80%;
+    margin: 20px auto;
+    padding: 1px;
+    background-color: rgba(30, 30, 30, 0.7);
+    border-radius: 8px;
+    margin-right: 10px;
+    margin-left: 265px;
+}
+
+/* Cabeçalho do modo leitura */
+.reading-mode-header {
+    color: #4CAF50;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 1.8em;
+}
+
+/* Estilos para o contêiner de navegação no modo leitura */
+.reading-mode-navigation {
+    margin-bottom: 20px;
+    text-align: left;
+    padding: 10px;
+}
+
+/* Estilos para os botões de navegação */
+#prev-chapter-reading-mode,
+#next-chapter-reading-mode {
+    padding: 10px 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background-color 0.3s ease;
+    margin: 0 5px;
+}
+
+#prev-chapter-reading-mode {
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+#next-chapter-reading-mode {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    margin-left: 10px;
+}
+
+#prev-chapter-reading-mode:hover {
+    background-color: #e0e0e0;
+}
+
+#next-chapter-reading-mode:hover {
+    background-color: #45a049;
+}
+
+#prev-chapter-reading-mode[disabled],
+#next-chapter-reading-mode[disabled] {
+    opacity: 0.6;
+    cursor: not-allowed;
+    background-color: #666;
+}
+
+/* Versículos no modo leitura */
+.chapter-verses {
+    line-height: 1.6;
+    font-size: 1.1em;
+    padding: 20px;
+    color: #fff;
+}
+
+/* Estilos para containers de versículos */
+.verse-container {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: flex-start;
+}
+
+/* Numeração dos versículos */
+.verse-number {
+    color: #888;
+    font-size: 0.8em;
+    margin-right: 8px;
+    min-width: 20px;
+    font-weight: bold;
+}
+
+/* Texto dos versículos */
+.verse-text {
+    color: #f0ad4e;
+    flex: 1;
+    line-height: 1.5;
+}
+
+/* Títulos de seções nos versículos */
+.verse-section-title {
+    color: #4CAF50;
+    margin: 20px 0 10px;
+    font-size: 1.3em;
+    font-weight: bold;
+    border-bottom: 1px solid #444;
+    padding-bottom: 5px;
+}
+
+/* Título do capítulo */
+.chapter-title {
+    color: #4CAF50;
+    margin: 20px 0 15px;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    border-bottom: 2px solid #4CAF50;
+    padding-bottom: 10px;
+}
+
+/* Estilos para o botão "Modo Leitura" na navegação */
+#modo-leitura {
+    background-color: transparent;
+    transition: background-color 0.3s ease;
+}
+
+#modo-leitura[aria-pressed="true"] {
+    background-color: #4CAF50 !important;
+}
+
+#modo-leitura[aria-pressed="true"]:hover {
+    background-color: #45a049 !important;
+}
+
+#modo-leitura[aria-pressed="false"]:hover {
+    background-color: rgba(255, 255, 255, 0.2) !important;
+}
+
+/* Ajustes para texto de versículo individual */
+.versiculo-texto {
+    color: #f8f8f8;
+    font-style: italic;
+    margin-top: 10px;
+    margin-left: 266px;
+    margin-right: 30px;
+    margin-bottom: 80px;
+    font-size: 2.2vw;
+    line-height: 1.2;
+    position: relative;
+    text-align: center;
+    max-width: calc(100% - 80px);
+    white-space: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+    transition: margin-left 0.3s ease;
+}
+
+/* Ajuste do texto do versículo no Modo Leitura */
+body[modo-leitura="true"] .versiculo-texto {
+    margin-left: 400px;
+    margin-right: 0;
+    max-width: calc(100% - 420px);
+}
+
+/* Títulos dentro do texto do versículo */
+.versiculo-texto h3 {
+    color: #4CAF50;
+    font-size: 1.9vw;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    line-height: 1.3;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.9);
+}
+
+/* Estilos responsivos para modo leitura */
+@media (max-width: 768px) {
+    .reading-mode-content {
+        margin-left: 20px;
+        margin-right: 20px;
+        max-width: calc(100% - 40px);
+    }
+    
+    .reading-mode-navigation {
+        text-align: center;
+    }
+    
+    #prev-chapter-reading-mode,
+    #next-chapter-reading-mode {
+        display: block;
+        width: 100%;
+        margin: 5px 0;
+    }
+    
+    .verse-text {
+        font-size: 16px;
+    }
+    
+    .versiculo-texto {
+        margin-left: 20px;
+        margin-right: 20px;
+        font-size: 18px;
+    }
+}

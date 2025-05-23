@@ -1,4 +1,4 @@
-// --- biblia-navegacao.js - Arquivo completo com correção de navegação entre livros ---
+// --- START OF FILE script/biblia-navegacao.js ---
 
 console.log("[biblia-navegacao.js] Script carregado.");
 
@@ -337,267 +337,35 @@ document.addEventListener('DOMContentLoaded', () => {
             // Tenta inserir após a nav-bar se ela existir dentro de .content, senão no início de .content
             const navBar = content.querySelector('.nav-bar'); // Supondo que sua nav-bar tem essa classe e está no .content
             if (navBar && navBar.parentNode === content) {
-                content.insertBefore(window.titulo, navBar.nextSibling);
+                 content.insertBefore(window.titulo, navBar.nextSibling);
             } else {
-                content.insertBefore(window.titulo, content.firstChild);
+                 content.insertBefore(window.titulo, content.firstChild);
             }
         }
+    } else {
+        console.error("[Navegação DOMContentLoaded] Elemento .content não encontrado para configurar o título H2.");
     }
 
-    // Inicializa os links de livros no menu lateral
-    const menuLinks = document.querySelectorAll('.menu-livros a');
-    menuLinks.forEach(link => {
-        const href = link.getAttribute('href');
-        if (href && href.startsWith('#')) {
-            const livroId = href.substring(1); // Remove o # do início
-            link.addEventListener('click', (e) => {
-                e.preventDefault();
-                loadBook(livroId);
+
+    const menuLivrosLinks = document.querySelectorAll('.menu-livros a');
+    if (menuLivrosLinks.length > 0) {
+        menuLivrosLinks.forEach(link => {
+            link.addEventListener('click', (event) => {
+                event.preventDefault();
+                const livroAttr = link.dataset.livro;
+                if (livroAttr) {
+                    loadBook(livroAttr);
+                } else {
+                    console.error(`[Navegação] Atributo data-livro ausente no link clicado:`, link);
+                }
             });
-        }
-    });
+        });
+        console.log("[Navegação] Listeners dos links de livros configurados.");
+    } else {
+        console.warn("[Navegação] Nenhum link encontrado em '.menu-livros a'.");
+    }
+
+    // Listeners para #modo-lista e #modo-leitura são gerenciados no script principal (versoes.html)
 });
 
-// Expõe funções globalmente para uso em outros scripts
-window.loadBook = loadBook;
-window.toggleVersiculos = toggleVersiculos;
-
-// Função auxiliar para obter o próximo livro na ordem bíblica
-// Mantida como função local para não interferir no escopo global
-function obterProximoLivro(livroAtual) {
-    // Lista ordenada de livros da Bíblia
-    const ordemLivros = [
-        "genesis", "exodo", "levitico", "numeros", "deuteronomio",
-        "josue", "juizes", "rute", "1samuel", "2samuel",
-        "1reis", "2reis", "1cronicas", "2cronicas", "esdras",
-        "neemias", "ester", "jo", "salmos", "proverbios",
-        "eclesiastes", "cantares", "isaias", "jeremias", "lamentacoes",
-        "ezequiel", "daniel", "oseias", "joel", "amos",
-        "obadias", "jonas", "miqueias", "naum", "habacuque",
-        "sofonias", "ageu", "zacarias", "malaquias", "mateus",
-        "marcos", "lucas", "joao", "atos", "romanos",
-        "1corintios", "2corintios", "galatas", "efesios", "filipenses",
-        "colossenses", "1tessalonicenses", "2tessalonicenses", "1timoteo", "2timoteo",
-        "tito", "filemom", "hebreus", "tiago", "1pedro",
-        "2pedro", "1joao", "2joao", "3joao", "judas",
-        "apocalipse"
-    ];
-    
-    const indiceAtual = ordemLivros.indexOf(livroAtual.toLowerCase());
-    if (indiceAtual === -1 || indiceAtual === ordemLivros.length - 1) {
-        return null; // Livro não encontrado ou é o último livro
-    }
-    
-    return ordemLivros[indiceAtual + 1];
-}
-
-// Função auxiliar para obter o livro anterior na ordem bíblica
-// Mantida como função local para não interferir no escopo global
-function obterLivroAnterior(livroAtual) {
-    // Lista ordenada de livros da Bíblia
-    const ordemLivros = [
-        "genesis", "exodo", "levitico", "numeros", "deuteronomio",
-        "josue", "juizes", "rute", "1samuel", "2samuel",
-        "1reis", "2reis", "1cronicas", "2cronicas", "esdras",
-        "neemias", "ester", "jo", "salmos", "proverbios",
-        "eclesiastes", "cantares", "isaias", "jeremias", "lamentacoes",
-        "ezequiel", "daniel", "oseias", "joel", "amos",
-        "obadias", "jonas", "miqueias", "naum", "habacuque",
-        "sofonias", "ageu", "zacarias", "malaquias", "mateus",
-        "marcos", "lucas", "joao", "atos", "romanos",
-        "1corintios", "2corintios", "galatas", "efesios", "filipenses",
-        "colossenses", "1tessalonicenses", "2tessalonicenses", "1timoteo", "2timoteo",
-        "tito", "filemom", "hebreus", "tiago", "1pedro",
-        "2pedro", "1joao", "2joao", "3joao", "judas",
-        "apocalipse"
-    ];
-    
-    const indiceAtual = ordemLivros.indexOf(livroAtual.toLowerCase());
-    if (indiceAtual <= 0) {
-        return null; // Livro não encontrado ou é o primeiro livro
-    }
-    
-    return ordemLivros[indiceAtual - 1];
-}
-
-// Modificação da função loadChapterInReadingMode para suportar navegação entre livros
-window.loadChapterInReadingMode = async function(livro, capitulo) {
-    const contentArea = document.querySelector('section.content');
-    if (!contentArea) { console.error('section.content não encontrado.'); return; }
-
-    const normalVerseTextDisplayImmediate = contentArea.querySelector('.versiculo-texto'); 
-    const verseButtonsDisplayImmediate = contentArea.querySelector('.versiculos');
-    if (normalVerseTextDisplayImmediate) normalVerseTextDisplayImmediate.style.display = 'none';
-    if (verseButtonsDisplayImmediate) verseButtonsDisplayImmediate.style.display = 'none';
-
-    let readingContainer = contentArea.querySelector('.reading-mode-content');
-    if (!readingContainer) {
-        readingContainer = document.createElement('div');
-        readingContainer.className = 'reading-mode-content';
-        const chaptersContainer = contentArea.querySelector('.capitulos') || contentArea.querySelector('.capitulos-container');
-        const titleH2 = contentArea.querySelector('h2');
-        if (chaptersContainer) {
-            chaptersContainer.insertAdjacentElement('afterend', readingContainer);
-        } else if (titleH2) {
-            titleH2.insertAdjacentElement('afterend', readingContainer);
-        } else {
-            contentArea.appendChild(readingContainer); 
-        }
-    }
-    readingContainer.innerHTML = '<div class="loading-message" style="text-align:center; padding:20px;">Carregando capítulo...</div>';
-    readingContainer.style.display = 'block';
-
-    try {
-        const versaoAtual = localStorage.getItem('versaoBiblicaSelecionada') || 'ara';
-        const capituloNum = parseInt(capitulo);
-        let numVersiculos = 0;
-        if (typeof window.getSpecificVerseCount === 'function') {
-            numVersiculos = window.getSpecificVerseCount(livro, capituloNum);
-        }
-
-        // Tenta carregar o arquivo JSON com tratamento de erro aprimorado
-        let response;
-        let data;
-        let fetchUrl = `../version/${versaoAtual.toLowerCase()}/${livro.toLowerCase()}/${capituloNum}.json`;
-        
-        try {
-            console.log(`Tentando carregar: ${fetchUrl}`);
-            response = await fetch(fetchUrl);
-            if (!response.ok) throw new Error(`Erro ${response.status}`);
-            data = await response.json();
-        } catch (fetchError) {
-            console.error(`Falha ao carregar ${fetchUrl}:`, fetchError);
-            
-            // Tenta caminhos alternativos
-            const alternativePaths = [
-                `/biblia/version/${versaoAtual.toLowerCase()}/${livro.toLowerCase()}/${capituloNum}.json`,
-                `../../version/${versaoAtual.toLowerCase()}/${livro.toLowerCase()}/${capituloNum}.json`,
-                `/version/${versaoAtual.toLowerCase()}/${livro.toLowerCase()}/${capituloNum}.json`
-            ];
-            
-            let loaded = false;
-            for (const path of alternativePaths) {
-                try {
-                    console.log(`Tentando caminho alternativo: ${path}`);
-                    response = await fetch(path);
-                    if (response.ok) {
-                        data = await response.json();
-                        loaded = true;
-                        console.log(`Carregado com sucesso de: ${path}`);
-                        break;
-                    }
-                } catch (e) {
-                    console.log(`Falha no caminho alternativo: ${path}`);
-                }
-            }
-            
-            if (!loaded) {
-                throw new Error(`Não foi possível carregar o capítulo de nenhum caminho tentado.`);
-            }
-        }
-
-        const effectiveNumVersiculos = numVersiculos > 0 ? numVersiculos : (data.versiculos ? Object.keys(data.versiculos).length : 0);
-
-        if (effectiveNumVersiculos === 0 && (!data.versiculos || Object.keys(data.versiculos).length === 0)) {
-            throw new Error('Nenhum versículo.');
-        }
-
-        // Determina o livro e capítulo anterior
-        let prevLivro = livro;
-        let prevCapitulo = capituloNum - 1;
-        let prevDisabled = false;
-        
-        if (prevCapitulo < 1) {
-            // Se estamos no primeiro capítulo, tenta obter o livro anterior
-            const livroAnterior = obterLivroAnterior(livro);
-            if (livroAnterior && window.livros && window.livros[livroAnterior]) {
-                prevLivro = livroAnterior;
-                prevCapitulo = window.livros[livroAnterior].capitulos || 1;
-            } else {
-                prevDisabled = true; // Não há livro anterior ou capítulo anterior
-            }
-        }
-
-        // Determina o livro e capítulo seguinte
-        let nextLivro = livro;
-        let nextCapitulo = capituloNum + 1;
-        let nextDisabled = false;
-        
-        let totalCapitulos = 0;
-        if (typeof window.getChapterCountForBook === 'function') {
-            totalCapitulos = window.getChapterCountForBook(livro);
-        } else if (window.livros && window.livros[livro.toLowerCase()]) {
-            totalCapitulos = window.livros[livro.toLowerCase()].capitulos;
-        }
-        
-        if (totalCapitulos > 0 && capituloNum >= totalCapitulos) {
-            // Se estamos no último capítulo, tenta obter o próximo livro
-            const proximoLivro = obterProximoLivro(livro);
-            if (proximoLivro) {
-                nextLivro = proximoLivro;
-                nextCapitulo = 1; // Primeiro capítulo do próximo livro
-            } else {
-                nextDisabled = true; // Não há próximo livro
-            }
-        }
-
-        // Cria os botões de navegação com a lógica de transição entre livros
-        let navButtonsHtml = '<div class="reading-mode-navigation">'; 
-        navButtonsHtml += `<button id="prev-chapter-reading-mode" data-livro="${prevLivro}" data-capitulo="${prevCapitulo}" ${prevDisabled ? 'disabled' : ''}>Cap. Anterior</button>`;
-        navButtonsHtml += `<button id="next-chapter-reading-mode" data-livro="${nextLivro}" data-capitulo="${nextCapitulo}" ${nextDisabled ? 'disabled' : ''}>Cap. Próximo</button>`;
-        navButtonsHtml += '</div>';
-
-        let htmlVerses = '<div class="chapter-verses">';
-        for (let i = 1; i <= effectiveNumVersiculos; i++) {
-            const verseKey = String(i);
-            if (data.versiculos && data.versiculos[verseKey]) {
-                if (data.titulos && data.titulos[verseKey]) htmlVerses += `<h3 class="verse-section-title">${data.titulos[verseKey]}</h3>`;
-                htmlVerses += `<div class="verse-container"><sup class="verse-number">${i}</sup><span class="verse-text">${data.versiculos[verseKey]}</span></div>`;
-            }
-        }
-        htmlVerses += '</div>';
-        
-        readingContainer.innerHTML = navButtonsHtml + htmlVerses; 
-
-        // Adiciona event listeners aos botões de navegação
-        const prevBtn = readingContainer.querySelector('#prev-chapter-reading-mode');
-        if (prevBtn && !prevBtn.disabled) {
-            prevBtn.addEventListener('click', () => {
-                window.activeLivro = prevBtn.dataset.livro; 
-                window.activeCapitulo = parseInt(prevBtn.dataset.capitulo);
-                window.loadChapterInReadingMode(window.activeLivro, window.activeCapitulo);
-                if (typeof window.updateChapterTitle === 'function') {
-                    window.updateChapterTitle(window.activeLivro, window.activeCapitulo);
-                }
-            });
-        }
-        
-        const nextBtn = readingContainer.querySelector('#next-chapter-reading-mode');
-        if (nextBtn && !nextBtn.disabled) {
-            nextBtn.addEventListener('click', () => {
-                window.activeLivro = nextBtn.dataset.livro;
-                window.activeCapitulo = parseInt(nextBtn.dataset.capitulo);
-                window.loadChapterInReadingMode(window.activeLivro, window.activeCapitulo);
-                if (typeof window.updateChapterTitle === 'function') {
-                    window.updateChapterTitle(window.activeLivro, window.activeCapitulo);
-                }
-            });
-        }
-        
-        // Atualiza o título
-        const titleH2 = contentArea.querySelector('h2');
-        if(titleH2) {
-            const livroDisplay = window.getLivroDisplayName ? window.getLivroDisplayName(livro) : livro.toUpperCase();
-            titleH2.textContent = `${livroDisplay} - CAPÍTULO ${capituloNum}`;
-        }
-        
-    } catch (error) {
-        console.error('Erro modo leitura:', error);
-        readingContainer.innerHTML = `
-            <div class="error-container">
-                <p>⚠️ Erro: ${error.message}</p>
-                <p>Detalhes: Erro ao tentar carregar o capítulo ${capitulo} de ${livro}.</p>
-                <p>Tente recarregar a página ou verificar a conexão com a internet.</p>
-            </div>`;
-    }
-};
+// --- FIM DO SCRIPT biblia-navegacao.js ---
