@@ -1,41 +1,58 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
+<!DOCTYPE html> <!-- Declaração do tipo de documento HTML5 -->
+<html lang="pt-BR"> <!-- Início do documento HTML com definição do idioma -->
+
+<!-- Bloco HEAD - Contém metadados, links para recursos externos e configurações -->
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
-  <title>BibliaV1</title>
-  <link rel="stylesheet" href="./style.css">
+  <meta charset="UTF-8"> <!-- Define a codificação de caracteres -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Configuração para responsividade -->
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet"> <!-- Importa fonte Playfair Display -->
+  <title>BibliaV1</title> <!-- Título da página -->
+  <link rel="stylesheet" href="./style.css"> <!-- Link para arquivo CSS principal -->
 </head>
+
+<!-- Bloco BODY - Contém todo o conteúdo visível da página -->
 <body>
+  <!-- Bloco HEADER - Cabeçalho da página -->
   <header class='header'>
-    <button class='material-icons openPopup' onclick='openPopup()'></button>
-    <a href='/'>Versões da Bíblia</a>
+    <button class='material-icons openPopup' onclick='openPopup()'></button> <!-- Botão para abrir popup -->
+    <a href='/'>Versões da Bíblia</a> <!-- Link para página principal -->
+    <!-- Bloco NAV - Barra de pesquisa -->
     <nav class='box'>
-      <span class='material-icons bloom'>search</span>
-      <input id='inputUser' onchange='searchBar()' type='text' placeholder='Procurar versão'>
+      <span class='material-icons bloom'>search</span> <!-- Ícone de pesquisa -->
+      <input id='inputUser' onchange='searchBar()' type='text' placeholder='Procurar versão'> <!-- Campo de pesquisa -->
     </nav>
   </header>
+  <!-- Lista de resultados da pesquisa -->
   <ul class='listStyle' id='List'></ul>
+  
+  <!-- Popup de boas-vindas -->
   <div class='welcome visibleWlc' id='popupWlc'>
-    <button class='material-icons closeWlc' onclick="closeWlc()">close</button>
-    <h2>Seja Bem-Vindo à Bíblia On-Line!</h2>
+    <button class='material-icons closeWlc' onclick="closeWlc()">close</button> <!-- Botão para fechar popup -->
+    <h2>Seja Bem-Vindo à Bíblia On-Line!</h2> <!-- Mensagem de boas-vindas -->
   </div>
+
+  <!-- Popup para upload de imagem e título -->
   <div class='popup'>
-    <button class='material-icons closeStyle' onclick="closePopup()">close</button>
+    <button class='material-icons closeStyle' onclick="closePopup()">close</button> <!-- Botão para fechar popup -->
     <div>
-      <input id='realFile' type='file' hidden='hidden'>
-      <img class='imgUnder' id='imgPreview'>
+      <input id='realFile' type='file' hidden='hidden'> <!-- Input oculto para upload de arquivo -->
+      <img class='imgUnder' id='imgPreview'> <!-- Preview da imagem -->
     </div>
-    <button id='newAnimeImg' class='material-icons animeInputImg'>wallpaper</button>
-    <input id='newAnimeTitle' class='animeInputTitle' placeholder='Insira o título da Bíblia'>
-    <button class='saveStyle' onclick='saveAnime()'>Salvar</button>
+    <button id='newAnimeImg' class='material-icons animeInputImg'>wallpaper</button> <!-- Botão para selecionar imagem -->
+    <input id='newAnimeTitle' class='animeInputTitle' placeholder='Insira o título da Bíblia'> <!-- Campo para título -->
+    <button class='saveStyle' onclick='saveAnime()'>Salvar</button> <!-- Botão para salvar -->
   </div>
+
+  <!-- Efeito gradiente -->
   <div class='gradient'></div>
+
+  <!-- Bloco FOOTER - Rodapé da página -->
   <footer>
-    <p>© Bíblia Sagrada 2024</p>
+    <p>© Bíblia Sagrada 2024</p> <!-- Informação de copyright -->
   </footer>
-  <script src="./script.js"></script>
+
+  <!-- Scripts JavaScript -->
+  <script src="./script.js"></script> <!-- Script principal da aplicação -->
 <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'93c92b33fb4cbd0a',t:'MTc0NjcwOTUyNy4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script>
 </body>
 </html>

@@ -1,8 +1,22 @@
-// --- START OF FILE script/biblia-navegacao.js ---
+/**
+ * biblia-navegacao.js
+ * Módulo principal de navegação da Bíblia
+ * 
+ * Este módulo é responsável por:
+ * - Gerenciar a navegação entre livros, capítulos e versículos
+ * - Controlar a exibição do conteúdo bíblico
+ * - Manter o estado da navegação atual
+ * - Interagir com o modo de leitura
+ */
 
 console.log("[biblia-navegacao.js] Script carregado.");
 
-// 1. ADICIONAR displayName A CADA LIVRO
+/**
+ * Estrutura principal de todos os livros da Bíblia
+ * Cada livro contém:
+ * - capitulos: número total de capítulos
+ * - displayName: nome formatado para exibição
+ */
 const livros = {
     "genesis": { "capitulos": 50, "displayName": "GÊNESIS" },
     "exodo": { "capitulos": 40, "displayName": "ÊXODO" },
@@ -72,13 +86,19 @@ const livros = {
     "apocalipse": { "capitulos": 22, "displayName": "APOCALIPSE" }
 };
 
-window.titulo = null;
-window.activeLivro = null;
-window.activeCapitulo = null;
-window.activeVersiculoButton = null;
-// window.isReadingModeEnabled é normalmente definido no script principal (ex: versoes.html)
+/**
+ * Variáveis globais para controle de estado
+ */
+window.titulo = null;          // Elemento H2 que mostra o título atual
+window.activeLivro = null;     // Livro atualmente selecionado
+window.activeCapitulo = null;  // Capítulo atualmente selecionado
+window.activeVersiculoButton = null; // Botão de versículo atualmente ativo
 
-// 2. CRIAR A FUNÇÃO getLivroDisplayName
+/**
+ * Retorna o nome formatado de um livro para exibição
+ * @param {string} livroKey - Chave do livro (ex: "genesis", "exodo")
+ * @returns {string} Nome formatado do livro
+ */
 window.getLivroDisplayName = function(livroKey) {
     if (livros[livroKey] && livros[livroKey].displayName) {
         return livros[livroKey].displayName;
@@ -87,6 +107,11 @@ window.getLivroDisplayName = function(livroKey) {
     return livroKey ? livroKey.toUpperCase() : "LIVRO DESCONHECIDO";
 };
 
+/**
+ * Cria botões para navegar entre capítulos de um livro
+ * @param {string} livro - Nome do livro
+ * @returns {HTMLElement} Container com botões dos capítulos
+ */
 function createCapitulosButtons(livro) {
     if (!livros[livro]) {
         console.error(`[Navegação] Livro inválido para criar botões de capítulo: ${livro}`);
@@ -129,16 +154,26 @@ function createCapitulosButtons(livro) {
     return capitulosContainer;
 }
 
+/**
+ * Cria botões para navegar entre versículos de um capítulo
+ * @param {string} livro - Nome do livro
+ * @param {number} capitulo - Número do capítulo
+ * @returns {HTMLElement} Container com botões dos versículos
+ */
 function createVersiculosButtons(livro, capitulo) {
     const versiculosContainer = document.createElement('div');
-    versiculosContainer.classList.add('versiculos', 'book-content'); // Adiciona 'book-content' para estilo
+    versiculosContainer.classList.add('versiculos', 'book-content');
 
+    // Verifica se a função necessária está disponível
     if (typeof window.getSpecificVerseCount !== 'function') {
         console.error("[Navegação] Erro: Função 'getSpecificVerseCount' não está definida globalmente.");
         return versiculosContainer;
     }
+
+    // Obtém o número de versículos do capítulo
     const numVersiculos = window.getSpecificVerseCount(livro, capitulo);
 
+    // Trata caso de capítulo sem versículos
     if (numVersiculos === 0) {
         console.warn(`[Navegação] 0 versículos para ${livro} ${capitulo}.`);
         const p = document.createElement('p');
@@ -148,6 +183,7 @@ function createVersiculosButtons(livro, capitulo) {
         return versiculosContainer;
     }
 
+    // Cria botões para cada versículo
     for (let i = 1; i <= numVersiculos; i++) {
         const button = document.createElement('button');
         button.textContent = `${i}`;
@@ -161,7 +197,11 @@ function createVersiculosButtons(livro, capitulo) {
     return versiculosContainer;
 }
 
-
+/**
+ * Alterna a exibição dos versículos de um capítulo
+ * @param {string} livro - Nome do livro
+ * @param {number} capitulo - Número do capítulo
+ */
 function toggleVersiculos(livro, capitulo) {
     const content = document.querySelector('.content');
     if (!content) { console.error("Elemento .content não encontrado."); return; }
@@ -222,6 +262,13 @@ function toggleVersiculos(livro, capitulo) {
     window.activeVersiculoButton = null;
 }
 
+/**
+ * Alterna a exibição do texto de um versículo específico
+ * @param {string} livro - Nome do livro
+ * @param {number} capitulo - Número do capítulo
+ * @param {number} versiculo - Número do versículo
+ * @param {HTMLElement} button - Botão do versículo clicado
+ */
 function toggleVersiculoText(livro, capitulo, versiculo, button) {
     console.log(`[Navegação] Toggle texto para: ${livro} ${capitulo}:${versiculo}`);
     const content = document.querySelector('.content');
@@ -257,6 +304,10 @@ function toggleVersiculoText(livro, capitulo, versiculo, button) {
     }
 }
 
+/**
+ * Carrega um livro da Bíblia e prepara sua interface
+ * @param {string} livro - Nome do livro a ser carregado
+ */
 function loadBook(livro) {
     console.log(`[Navegação] Carregando livro: ${livro}`);
     const content = document.querySelector('.content');
@@ -323,11 +374,9 @@ function loadBook(livro) {
     }
 }
 
-// A função toggleViewMode foi removida pois a lógica de modo leitura/lista é
-// melhor gerenciada pelo script principal (versoes.html) com window.isReadingModeEnabled.
-
+// === Inicialização ===
 document.addEventListener('DOMContentLoaded', () => {
-    // Garante que window.titulo seja definido corretamente no carregamento
+    // Configura o título principal
     const content = document.querySelector('.content');
     if (content) {
         window.titulo = content.querySelector('h2');
@@ -346,7 +395,7 @@ document.addEventListener('DOMContentLoaded', () => {
         console.error("[Navegação DOMContentLoaded] Elemento .content não encontrado para configurar o título H2.");
     }
 
-
+    // Configura eventos de clique nos links dos livros
     const menuLivrosLinks = document.querySelectorAll('.menu-livros a');
     if (menuLivrosLinks.length > 0) {
         menuLivrosLinks.forEach(link => {
@@ -364,8 +413,4 @@ document.addEventListener('DOMContentLoaded', () => {
     } else {
         console.warn("[Navegação] Nenhum link encontrado em '.menu-livros a'.");
     }
-
-    // Listeners para #modo-lista e #modo-leitura são gerenciados no script principal (versoes.html)
 });
-
-// --- FIM DO SCRIPT biblia-navegacao.js ---

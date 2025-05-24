@@ -1,9 +1,25 @@
-// === MÓDULO PRINCIPAL DE GERENCIAMENTO DAS VERSÕES BÍBLICAS ===
+/**
+ * versoes.js
+ * Este é o módulo principal responsável por gerenciar todas as versões bíblicas disponíveis.
+ * Ele lida com o carregamento dinâmico de versões, navegação entre capítulos,
+ * modo de leitura e interações do usuário.
+ * 
+ * Funcionalidades principais:
+ * - Gerenciamento de diferentes versões da Bíblia (ARA, ACF, NVI, etc.)
+ * - Controle do modo de leitura
+ * - Navegação entre capítulos
+ * - Sistema de cache para melhor performance
+ * - Gestão de estado da interface do usuário
+ */
 
 (function() {
     'use strict';
 
     // === CONSTANTES E CONFIGURAÇÕES ===
+    /**
+     * Ordem oficial dos livros da Bíblia, usada para navegação
+     * e organização do conteúdo
+     */
     const BIBLE_BOOKS_ORDER = [
         'genesis', 'exodo', 'levitico', 'numeros', 'deuteronomio', 'josue', 'juizes', 'rute',
         '1samuel', '2samuel', '1reis', '2reis', '1cronicas', '2cronicas', 'esdras', 'neemias',
@@ -16,15 +32,29 @@
         '1joao', '2joao', '3joao', 'judas', 'apocalipse'
     ];
 
-    // Cache para armazenar o número de capítulos por livro
+    /**
+     * Cache para armazenar o número de capítulos por livro
+     * Melhora a performance evitando requisições repetidas
+     */
     const chapterCountCache = {};
 
     // === FUNÇÕES UTILITÁRIAS ===
+    /**
+     * Obtém parâmetros da URL
+     * @param {string} param Nome do parâmetro a ser buscado
+     * @returns {string|null} Valor do parâmetro ou null se não encontrado
+     */
     function getQueryParam(param) {
         const urlParams = new URLSearchParams(window.location.search);
         return urlParams.get(param);
     }
 
+    /**
+     * Carrega um script JavaScript de forma assíncrona
+     * @param {string} src Caminho do script a ser carregado
+     * @param {string} id ID único para o elemento script
+     * @returns {Promise} Promise que resolve quando o script é carregado
+     */
     function loadScriptAsync(src, id) {
         return new Promise((resolve, reject) => {
             const oldScript = document.getElementById(id);
@@ -42,6 +72,10 @@
         });
     }
 
+    /**
+     * Atualiza os títulos da página com a versão atual da Bíblia
+     * @param {string} versaoCod Código da versão (ara, acf, nvi, etc)
+     */
     function setPageTitle(versaoCod) {
         const h1PrincipalEl = document.getElementById('titulo-principal-versao');
         const subtituloExtensoEl = document.getElementById('subtitulo-versao-extenso');
@@ -65,6 +99,12 @@
     }
 
     // === FUNÇÕES DE VERIFICAÇÃO DE CAPÍTULOS ===
+    /**
+     * Verifica se um capítulo específico existe na versão atual
+     * @param {string} livro Nome do livro
+     * @param {number} capitulo Número do capítulo
+     * @returns {Promise<boolean>} True se o capítulo existe
+     */
     async function chapterExists(livro, capitulo) {
         try {
             const versaoAtual = localStorage.getItem('versaoBiblicaSelecionada') || 'ara';
@@ -77,6 +117,12 @@
         }
     }
 
+    /**
+     * Obtém o número total de capítulos de um livro
+     * Usa sistema de cache para melhor performance
+     * @param {string} livro Nome do livro
+     * @returns {Promise<number>} Número total de capítulos
+     */
     async function getBookChapterCount(livro) {
         // Verificar cache primeiro
         if (chapterCountCache[livro.toLowerCase()]) {
@@ -121,6 +167,12 @@
     }
 
     // === FUNÇÕES DE NAVEGAÇÃO ===
+    /**
+     * Determina o próximo capítulo/livro na sequência
+     * @param {string} currentBook Livro atual
+     * @param {number} currentChapter Capítulo atual
+     * @returns {Promise<{livro: string, capitulo: number}|null>} Próximo capítulo ou null se fim
+     */
     async function getNextBookAndChapter(currentBook, currentChapter) {
         const currentBookIndex = BIBLE_BOOKS_ORDER.indexOf(currentBook.toLowerCase());
         if (currentBookIndex === -1) {
@@ -149,6 +201,12 @@
         return null;
     }
 
+    /**
+     * Determina o capítulo/livro anterior na sequência
+     * @param {string} currentBook Livro atual
+     * @param {number} currentChapter Capítulo atual
+     * @returns {Promise<{livro: string, capitulo: number}|null>} Capítulo anterior ou null se início
+     */
     async function getPreviousBookAndChapter(currentBook, currentChapter) {
         const currentBookIndex = BIBLE_BOOKS_ORDER.indexOf(currentBook.toLowerCase());
         if (currentBookIndex === -1) {
@@ -179,6 +237,12 @@
     }
 
     // === FUNÇÕES DE INTERFACE ===
+    /**
+     * Atualiza os botões de navegação entre capítulos
+     * @param {string} livro Livro atual
+     * @param {number} capituloAtual Capítulo atual
+     * @param {boolean} isReadingMode Se está no modo leitura
+     */
     async function updateChapterButtons(livro, capituloAtual, isReadingMode) {
         const contentArea = document.querySelector('section.content');
         if (!contentArea) return;
@@ -252,8 +316,14 @@
     }
 
     // === FUNÇÕES DO MODO DE LEITURA ===
+    // Controla se o modo de leitura está ativo
     window.isReadingModeEnabled = false;
 
+    /**
+     * Carrega um capítulo no modo de leitura
+     * @param {string} livro Nome do livro
+     * @param {number} capitulo Número do capítulo
+     */
     window.loadChapterInReadingMode = async function(livro, capitulo) {
         const contentArea = document.querySelector('section.content');
         if (!contentArea) { 
@@ -409,6 +479,12 @@
         }
     };
 
+    /**
+     * Alterna entre modo de leitura normal e contínuo
+     * @param {boolean} enable Se deve ativar o modo leitura
+     * @param {string} livro Nome do livro
+     * @param {number} capitulo Número do capítulo
+     */
     window.toggleReadingMode = async function(enable, livro, capitulo) {
         window.isReadingModeEnabled = enable;
         const btn = document.getElementById('modo-leitura');
@@ -471,6 +547,10 @@
     };
 
     // === NAVEGAÇÃO POR TECLADO ===
+    /**
+     * Gerencia navegação usando setas do teclado
+     * @param {KeyboardEvent} event Evento do teclado
+     */
     function handleKeyNavigation(event) {
         if (!window.isReadingModeEnabled) {
             return;
@@ -497,6 +577,11 @@
     }
 
     // === INICIALIZAÇÃO ===
+    /**
+     * Inicializa uma versão específica da Bíblia
+     * Carrega scripts necessários e configura a interface
+     * @param {string} versaoCod Código da versão a ser inicializada
+     */
     async function inicializarVersao(versaoCod) {
         console.log(`[Principal] Inicializando ${versaoCod.toUpperCase()}`);
 
@@ -540,7 +625,10 @@
         }
     }
 
-    // === INICIALIZAÇÃO DO DOM ===
+    /**
+     * Inicializa a página principal
+     * Configura seletores de versão e carrega versão inicial
+     */
     function initializePage() {
         console.log("[Principal] DOMContentLoaded.");
         const seletorVersao = document.getElementById('seletor-versao-principal');
@@ -595,6 +683,7 @@
     }
 
     // === EVENT LISTENERS ===
+    // Inicia o processo quando o DOM estiver pronto
     document.addEventListener('DOMContentLoaded', initializePage);
 
 })();

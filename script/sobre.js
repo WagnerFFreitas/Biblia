@@ -1,30 +1,44 @@
-// --- Funcionalidade da Seção "SOBRE" ---
+/**
+ * sobre.js
+ * Este módulo gerencia a seção "Sobre" do aplicativo da Bíblia.
+ * Responsável por exibir e ocultar informações sobre o projeto,
+ * com animações de transição e gestão do estado da interface.
+ */
 
-// Função para CARREGAR e EXIBIR o conteúdo da seção "Sobre".
+/**
+ * Carrega e exibe o conteúdo da seção "Sobre"
+ * - Limpa o conteúdo existente
+ * - Cria elementos necessários
+ * - Aplica animações de fade
+ * - Gerencia o estado da navegação
+ */
 function loadSobre() {
     const content = document.querySelector('.content');
     
-    // Remove todos os elementos filhos da área principal, exceto a marca d'água
+    // Remove elementos anteriores, preservando marca d'água e título
     Array.from(content.children).forEach(child => {
-        if (child !== titulo && !child.classList.contains('watermark') && !child.classList.contains('sobre-content')) { // Mantém H2 se existir
+        if (child !== titulo && !child.classList.contains('watermark') && !child.classList.contains('sobre-content')) {
             child.remove();
         }
     });
 
-    // Limpa o título principal se ele existir e não for o "Sobre"
+    // Gerencia o título principal
     if (titulo && !content.querySelector('.sobre-content h2')) {
         titulo.textContent = ''; 
     }
 
-     // Cria o contêiner para o conteúdo "Sobre" se ele não existir
+    // Configura o container do conteúdo "Sobre"
     let sobreContent = content.querySelector('.sobre-content');
     if (!sobreContent) {
         sobreContent = document.createElement('div');
         sobreContent.classList.add('sobre-content');
+        
+        // Configurações de estilo para posicionamento e animação
         sobreContent.style.position = 'relative'; 
         sobreContent.style.zIndex = '2'; 
-        sobreContent.style.opacity = '0'; // Começa invisível para fade-in
+        sobreContent.style.opacity = '0'; // Início invisível para animação
 
+        // Conteúdo HTML da seção Sobre
         sobreContent.innerHTML = `
             <h2>Sobre o Projeto Bíblia Sagrada</h2>
             <p>Este projeto tem como objetivo oferecer uma ferramenta online completa e acessível para leitura e estudo da Bíblia Sagrada.</p>
@@ -33,88 +47,88 @@ function loadSobre() {
             <p>Utilize o menu lateral para navegar pelos livros e os botões que aparecem para selecionar capítulos e versículos.</p>
             <p>O projeto está em desenvolvimento contínuo.</p>
         `;
-        content.appendChild(sobreContent); 
+        content.appendChild(sobreContent);
 
-        // Força reflow para garantir que a transição funcione
-        void sobreContent.offsetWidth; 
+        // Força reflow para garantir animação suave
+        void sobreContent.offsetWidth;
 
-        // Aplica fade-in
+        // Aplica animação de entrada
         sobreContent.style.transition = 'opacity 0.5s ease-in';
         sobreContent.style.opacity = '1';
     } else {
-         // Se já existe, garante que está visível (caso tenha sido escondido)
-         sobreContent.style.transition = 'opacity 0.5s ease-in';
-         sobreContent.style.opacity = '1';
+        // Garante visibilidade se já existir
+        sobreContent.style.transition = 'opacity 0.5s ease-in';
+        sobreContent.style.opacity = '1';
     }
     
-    // Limpa o estado ativo da navegação da Bíblia
+    // Reseta o estado de navegação
     activeLivro = null;
     activeCapitulo = null;
     activeVersiculoButton = null;
-    // Não reseta 'titulo' aqui, pois ele pode ser o H2 dentro do sobreContent
 }
 
-// Função para ESCONDER o conteúdo "Sobre" com fade-out.
+/**
+ * Oculta o conteúdo da seção "Sobre" com animação
+ * - Aplica fade-out
+ * - Remove elementos após a transição
+ */
 function hideSobre() {
     const content = document.querySelector('.content');
     const sobreContent = content.querySelector('.sobre-content');
+    
     if (sobreContent) {
-        sobreContent.style.transition = 'opacity 0.3s ease-out'; // Transição de fade-out
+        // Aplica animação de saída
+        sobreContent.style.transition = 'opacity 0.3s ease-out';
         sobreContent.style.opacity = '0';
-        // Remove o elemento do DOM após a transição
+        
+        // Remove elemento após animação
         setTimeout(() => {
-            // Verifica novamente se ainda existe e pertence ao mesmo pai antes de remover
-            if (sobreContent && sobreContent.parentNode === content) { 
+            if (sobreContent && sobreContent.parentNode === content) {
                 sobreContent.remove();
             }
-        }, 300); // Tempo igual à duração da transição
+        }, 300);
     }
-     // Poderia restaurar o título do livro/capítulo aqui se desejado,
-     // mas vamos manter simples por enquanto.
 }
 
+// === EVENT LISTENERS ===
 
-// --- Event Listeners ---
-
-// Adiciona evento de clique ao link "SOBRE" (assumindo que ele tem id="sobre")
+/**
+ * Configura eventos para exibir/ocultar a seção "Sobre"
+ */
 const sobreLink = document.getElementById('sobre');
 if (sobreLink) {
+    // Evento de clique no link "Sobre"
     sobreLink.addEventListener('click', (event) => {
-        event.preventDefault(); 
-        loadSobre(); // Chama a função para exibir o conteúdo "Sobre"
+        event.preventDefault();
+        loadSobre();
     });
 } else {
     console.warn("Link 'Sobre' com ID 'sobre' não encontrado.");
 }
 
-// Adiciona evento para esconder "Sobre" ao passar o mouse no menu superior
-// IMPORTANTE: Ajuste o seletor se a estrutura do seu menu for diferente
-const topNavItems = document.querySelectorAll('header nav > ul > li'); 
+// Configura eventos para ocultar "Sobre" ao interagir com o menu
+const topNavItems = document.querySelectorAll('header nav > ul > li');
 if (topNavItems.length > 0) {
     topNavItems.forEach(item => {
         item.addEventListener('mouseenter', () => {
-            hideSobre(); // Chama a função para esconder o "Sobre"
+            hideSobre();
         });
     });
 } else {
-     console.warn("Itens do menu superior ('header nav > ul > li') não encontrados para adicionar listener de 'mouseenter'.");
+    console.warn("Itens do menu superior não encontrados para adicionar listener de 'mouseenter'.");
 }
 
-
-// --- Menu Móvel ---
+// === MENU MÓVEL ===
+/**
+ * Configura o botão de menu para dispositivos móveis
+ * Toggle da visibilidade do menu de livros
+ */
 const menuButton = document.querySelector('.menu-button');
 if (menuButton) {
     menuButton.addEventListener('click', () => {
         const menuLivros = document.querySelector('.menu-livros');
         if (menuLivros) {
-            menuLivros.classList.toggle('show'); 
+            menuLivros.classList.toggle('show');
         }
     });
-} 
-// Não é um erro se o botão móvel não existir, pode ser intencional.
-// else { console.warn("Botão de menu móvel ('.menu-button') não encontrado."); }
-
-
-// --- FIM DO SCRIPT ara.js ---
-
-// --- END OF PART 8/8 (REVISED) ---
+}

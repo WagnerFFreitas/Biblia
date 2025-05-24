@@ -1,23 +1,33 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
+<!DOCTYPE html> <!-- Declaração do tipo de documento HTML5 -->
+<html lang="pt-BR"> <!-- Início do documento HTML com definição do idioma -->
+
+<!-- Bloco HEAD - Contém metadados e links para recursos externos -->
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bíblia Sagrada Online</title>
+    <meta charset="UTF-8"> <!-- Define a codificação de caracteres -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Configuração para responsividade -->
+    <title>Bíblia Sagrada Online</title> <!-- Título da página -->
+    <!-- Links para arquivos CSS externos -->
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="../css/versoes.css">
     <link rel="stylesheet" href="../css/capitulos.css">
     <link rel="stylesheet" href="../css/modo_leitura.css">
 </head>
+
+<!-- Bloco BODY - Contém todo o conteúdo visível da página -->
 <body>
+    <!-- Bloco HEADER - Cabeçalho da página -->
     <header>
+        <!-- Seção superior do cabeçalho -->
         <div class="header-top">
+            <!-- Container do título -->
             <div class="titulo-container">
                 <h1 id="titulo-principal-versao">Bíblia Sagrada</h1>
                 <p id="subtitulo-versao-extenso" class="nome-extenso-versao"></p>
             </div>
+            <!-- Barra de pesquisa com seletor de versões -->
             <div class="search-bar">
                 <select id="seletor-versao-principal" style="display: none;">
+                    <!-- Opções de versões da Bíblia -->
                     <option value="acf">ACF</option>
                     <option value="ara">ARA</option>
                     <option value="arc">ARC</option>
@@ -32,10 +42,15 @@
                 <button>Buscar</button>
             </div>
         </div>
+
+        <!-- Seção inferior do cabeçalho -->
         <div class="header-bottom">
+            <!-- Bloco NAV - Navegação principal -->
             <nav>
                 <span class="menu-title">LIVROS</span>
+                <!-- Menu de opções principal -->
                 <ul class="menu-opcoes">
+                    <!-- Itens do menu principal -->
                     <li><a href="../index.html">Menu</a></li>
                     <li><a href="#" id="modo-leitura" aria-pressed="false">Modo Leitura</a></li>
                     <li><a href="#" id="link-slide">Slide</a></li>
@@ -61,10 +76,14 @@
             </nav>
         </div>
     </header>
+
+    <!-- Bloco MAIN - Conteúdo principal da página -->
     <main>
         <div class="container">
+            <!-- Bloco ASIDE - Menu lateral com lista de livros -->
             <aside class="menu-livros">
                 <ul>
+                    <!-- Lista completa dos livros da Bíblia -->
                     <li><a href="#" data-livro="genesis">Gênesis</a></li>
                     <li><a href="#" data-livro="exodo">Êxodo</a></li>
                     <li><a href="#" data-livro="levitico">Levítico</a></li>
@@ -133,20 +152,26 @@
                     <li><a href="#" data-livro="apocalipse">Apocalipse</a></li>
                 </ul>
             </aside>
+
+            <!-- Bloco SECTION - Área de conteúdo principal -->
             <section class="content">
                 <h2></h2>
-                <div class="watermark"></div>
+                <div class="watermark"></div> <!-- Marca d'água -->
             </section>
         </div>
     </main>
+
+    <!-- Bloco FOOTER - Rodapé da página -->
     <footer>
         <p>© Bíblia Sagrada 2024</p>
     </footer>
-    <script src="../script/watermarker.js"></script>
-    <script src="../script/livros_capitulos.js"></script>
-    <script src="../script/sobre.js"></script> 
-    <script src="../script/dropdown.js"></script> 
-    <script src="../script/biblia-navegacao.js"></script> 
-    <script src="../script/versoes.js"></script>
+
+    <!-- Scripts JavaScript -->
+    <script src="../script/watermarker.js"></script> <!-- Script para marca d'água -->
+    <script src="../script/livros_capitulos.js"></script> <!-- Script para navegação entre livros e capítulos -->
+    <script src="../script/sobre.js"></script> <!-- Script para página Sobre -->
+    <script src="../script/dropdown.js"></script> <!-- Script para menus dropdown -->
+    <script src="../script/biblia-navegacao.js"></script> <!-- Script para navegação geral -->
+    <script src="../script/versoes.js"></script> <!-- Script para gerenciamento de versões -->
 </body>
 </html>

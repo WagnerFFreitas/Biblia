@@ -2,79 +2,79 @@
 
 /* Estilos para o container principal da página */
 .versoes-container {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
+    display: flex; /* Habilita flexbox */
+    flex-direction: column; /* Define direção vertical */
+    min-height: 100vh; /* Define altura mínima */
 }
 
 /* Estilos para o cabeçalho da página de versões */
 .versoes-header {
-    position: relative;
-    z-index: 100;
+    position: relative; /* Define posicionamento */
+    z-index: 100; /* Define ordem de empilhamento */
 }
 
 /* Estilos para o título principal da versão */
 #titulo-principal-versao {
-    font-size: 2.5em;
-    margin: 0;
-    margin-top: 20px;
-    margin-left: 30px;
-    font-style: italic;
-    color: #d4ac0d;
+    font-size: 2.5em; /* Define tamanho da fonte */
+    margin: 0; /* Remove margens */
+    margin-top: 20px; /* Adiciona espaço superior */
+    margin-left: 30px; /* Adiciona espaço à esquerda */
+    font-style: italic; /* Aplica estilo itálico */
+    color: #d4ac0d; /* Define cor dourada */
 }
 
 /* Estilos para o subtítulo da versão por extenso */
 #subtitulo-versao-extenso {
-    font-size: 1.2em;
-    margin-top: 1px;
-    margin-bottom: 0.5px;
-    margin-left: 295px;
-    position: fixed;
-    color: #d4ac0d;
+    font-size: 1.2em; /* Define tamanho da fonte */
+    margin-top: 1px; /* Adiciona espaço superior */
+    margin-bottom: 0.5px; /* Adiciona espaço inferior */
+    margin-left: 295px; /* Adiciona espaço à esquerda */
+    position: fixed; /* Fixa na tela */
+    color: #d4ac0d; /* Define cor dourada */
 }
 
 /* Estilos para o seletor de versão */
 #seletor-versao-principal {
-    background-color: #383838;
-    color: #fff;
-    border: 1px solid #fff;
-    border-radius: 5px;
-    padding: 8px;
-    font-size: 16px;
+    background-color: #383838; /* Define cor de fundo */
+    color: #fff; /* Define cor do texto */
+    border: 1px solid #fff; /* Adiciona borda */
+    border-radius: 5px; /* Arredonda bordas */
+    padding: 8px; /* Adiciona espaço interno */
+    font-size: 16px; /* Define tamanho da fonte */
 }
 
 /* Estilos para mensagens de erro */
 .error-container {
-    padding: 20px;
-    background-color: #fff3f3;
-    border: 1px solid #ffcaca;
-    border-radius: 5px;
-    margin: 20px 0;
+    padding: 20px; /* Adiciona espaço interno */
+    background-color: #fff3f3; /* Define cor de fundo */
+    border: 1px solid #ffcaca; /* Adiciona borda */
+    border-radius: 5px; /* Arredonda bordas */
+    margin: 20px 0; /* Adiciona espaço vertical */
 }
 
 .error-container p {
-    color: #d32f2f;
-    font-weight: bold;
-    margin-bottom: 10px;
+    color: #d32f2f; /* Define cor do texto */
+    font-weight: bold; /* Aplica negrito */
+    margin-bottom: 10px; /* Adiciona espaço inferior */
 }
 
 .error-container button {
-    padding: 8px 15px;
-    background-color: #f0f0f0;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    cursor: pointer;
-    margin-left: 10px;
+    padding: 8px 15px; /* Adiciona espaço interno */
+    background-color: #f0f0f0; /* Define cor de fundo */
+    border: 1px solid #ccc; /* Adiciona borda */
+    border-radius: 4px; /* Arredonda bordas */
+    cursor: pointer; /* Muda cursor para pointer */
+    margin-left: 10px; /* Adiciona espaço à esquerda */
 }
 
 .error-container button:hover {
-    background-color: #e0e0e0;
+    background-color: #e0e0e0; /* Muda cor de fundo ao hover */
 }
 
 /* Estilos para mensagens de carregamento */
 .loading-message {
-    text-align: center;
-    padding: 20px;
-    color: #fff;
-    font-style: italic;
+    text-align: center; /* Centraliza texto */
+    padding: 20px; /* Adiciona espaço interno */
+    color: #fff; /* Define cor do texto */
+    font-style: italic; /* Aplica estilo itálico */
 }

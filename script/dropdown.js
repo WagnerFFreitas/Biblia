@@ -1,16 +1,37 @@
 // --- START OF FILE script/dropdown.js ---
 // Lógica centralizada para os menus dropdown da barra de navegação
 
-(function() { // Use uma IIFE para encapsular o escopo
+/**
+ * dropdown.js
+ * Módulo responsável por gerenciar os menus dropdown da barra de navegação.
+ * Implementa funcionalidades de menus suspensos, incluindo:
+ * - Downloads de bíblias em PDF
+ * - Links para recursos externos
+ * - Harpa e hinários
+ * - Utilitários e ferramentas
+ */
+
+// IIFE (Immediately Invoked Function Expression) para evitar poluição do escopo global
+(function() {
     'use strict';
 
     console.log("[dropdown.js] Script iniciado.");
 
-    // --- DADOS PARA OS MENUS (Exceto Versões) ---
-    // IMPORTANTE: Defina os caminhos RELATIVOS AO ARQUIVO HTML que carrega este script.
-    // Assumindo que versoes.html está em /html/, caminhos para /baixar/ ou /html/ usam '../'
-    const basePath = '../'; // Baseado na localização de html/versoes.html
+    // === CONFIGURAÇÃO DE CAMINHOS ===
+    /**
+     * Caminho base para recursos relativos
+     * Importante: paths são relativos ao HTML que carrega este script
+     * Por exemplo: se versoes.html está em /html/, usamos '../' para acessar /baixar/
+     */
+    const basePath = '../';
 
+    // === DADOS DOS MENUS DROPDOWN ===
+    /**
+     * Lista de bíblias disponíveis para download
+     * Cada item contém:
+     * - texto: Nome exibido no menu
+     * - link: Caminho para o arquivo PDF
+     */
     const downloads = [
         { texto: 'A Bíblia Católica', link: `${basePath}baixar/A_Biblia_Catolica.pdf` },
         { texto: 'A Bíblia Sagrada NVT', link: `${basePath}baixar/A_Biblia_Sagrada_NVT.pdf` },
@@ -24,19 +45,28 @@
         { texto: 'Bíblia Thompson<br>Temas em Cadeia', link: `${basePath}baixar/Biblia_Thompson_temas_em_cadeia.pdf` }
     ];
 
-    // Array 'versoes' REMOVIDO daqui, pois a lista será gerada a partir do <select> no HTML principal
-    // ou preenchida estaticamente no HTML com links para recarregar a página.
-
+    /**
+     * Lista de recursos de dicionário e concordância
+     * (Recursos planejados para implementação futura)
+     */
     const dicionario = [
         { texto: 'Dicionário (Em breve)', link: 'https://www.exemplo.com/vine' }, // Exemplo
         { texto: 'Concordância (Em breve)', link: 'https://www.exemplo.com/strong' } // Exemplo
     ];
 
+    /**
+     * Lista de recursos de músicas e hinários
+     * (Recursos planejados para implementação futura)
+     */
     const harpaHinario = [
         { texto: 'Harpa Cristã (Em breve)', link: '#' },
         { texto: 'Cantor Cristão (Em breve)', link: '#' }
     ];
 
+    /**
+     * Lista de links úteis e ferramentas auxiliares
+     * Inclui recursos externos e páginas internas
+     */
     const utilidades = [
         { texto: 'IA Ajudar a estudar a biblia', link: 'https://bible.ai/pt' },
         { texto: 'Posso conhecer a Deus', link: 'https://caniknowgod.com/' },
@@ -45,140 +75,129 @@
         { texto: 'Cursos', link: `${basePath}html/cursos.html` } // Assume página de cursos existe
     ];
 
-
-    // --- FUNÇÕES DO MENU DROPDOWN ---
-
+    // === FUNÇÕES DO MENU DROPDOWN ===
     /**
-     * Popula uma lista <ul> com itens <li><a> a partir de um array de dados.
-     * @param {string} listId O ID do elemento <ul> a ser populado.
-     * @param {Array<object>} items Array de objetos, cada um com { texto: string, link: string }.
+     * Popula uma lista dropdown com itens
+     * @param {string} listId - ID do elemento <ul> a ser populado
+     * @param {Array<{texto: string, link: string}>} items - Array de itens do menu
      */
     function populateList(listId, items) {
         const listElement = document.getElementById(listId);
         if (!listElement) {
-            console.warn(`[dropdown.js] Elemento de lista com ID '${listId}' não encontrado no DOM.`);
-            return; // Sai se o elemento não existe
+            console.warn(`[dropdown.js] Lista '${listId}' nao encontrada no DOM.`);
+            return;
         }
-        listElement.innerHTML = ''; // Limpa a lista antes de popular
+        
+        // Limpa a lista antes de popular
+        listElement.innerHTML = '';
 
+        // Cria elementos para cada item
         items.forEach(item => {
             const li = document.createElement('li');
             const a = document.createElement('a');
             a.href = item.link;
-            a.innerHTML = item.texto; // Permite HTML como <br>
+            a.innerHTML = item.texto;
 
-            // Abrir links externos, PDFs ou páginas HTML específicas em nova aba
-            if (item.link !== '#' && (item.link.startsWith('http') || item.link.endsWith('.pdf') || item.link.endsWith('.html'))) {
-                 a.target = '_blank';
-                 a.rel = 'noopener noreferrer'; // Segurança para target="_blank"
+            // Configuracao para links externos/PDFs
+            if (item.link !== '#' && (
+                item.link.startsWith('http') || 
+                item.link.endsWith('.pdf') || 
+                item.link.endsWith('.html')
+            )) {
+                a.target = '_blank';
+                a.rel = 'noopener noreferrer';
             }
-
-            // Removemos a lógica específica de clique para 'versoes-list' daqui,
-            // já que os links agora devem recarregar a página ou serem gerenciados pelo script principal.
 
             li.appendChild(a);
             listElement.appendChild(li);
         });
-        console.log(`[dropdown.js] Lista '${listId}' populada com ${items.length} itens.`);
     }
 
-    /** Mostra um elemento de lista dropdown. */
+    /**
+     * Controla a visibilidade dos menus dropdown
+     */
     function showList(listId) {
         const listElement = document.getElementById(listId);
         if (listElement) {
             listElement.style.display = 'block';
-        } else {
-             console.warn(`[dropdown.js] Tentativa de mostrar lista inexistente: '${listId}'`);
         }
     }
 
-    /** Esconde um elemento de lista dropdown. */
     function hideList(listId) {
         const listElement = document.getElementById(listId);
         if (listElement) {
             listElement.style.display = 'none';
-        } else {
-            // Não é um erro grave se tentar esconder algo que já não existe
-            // console.warn(`[dropdown.js] Tentativa de esconder lista inexistente: '${listId}'`);
         }
     }
 
-    /** Configura os eventos de hover para todos os menus dropdown. */
+    /**
+     * Configura eventos de interacao para os menus dropdown
+     * - Exibicao ao passar o mouse
+     * - Ocultacao com delay ao remover o mouse
+     * - Persistencia durante hover
+     */
     function setupDropdownEvents() {
-        const dropdownTriggers = document.querySelectorAll('nav ul li.dropdown > a'); // Seleciona apenas o link que dispara
-        console.log(`[dropdown.js] Encontrados ${dropdownTriggers.length} gatilhos .dropdown > a para configurar eventos.`);
-
+        const dropdownTriggers = document.querySelectorAll('nav ul li.dropdown > a');
+        
         dropdownTriggers.forEach((trigger, index) => {
-            const dropdownContainer = trigger.parentElement; // O <li> que contém o link e a lista
+            const dropdownContainer = trigger.parentElement;
             const listContent = dropdownContainer.querySelector('.dropdown-content');
 
             if (!listContent) {
-                console.warn(`[dropdown.js] Dropdown #${index+1} (gatilho: ${trigger.id || trigger.textContent}) não contém um elemento .dropdown-content.`);
+                console.warn(`[dropdown.js] Menu #${index+1} sem conteudo.`);
                 return;
             }
-            const listId = listContent.id;
 
-            if (listId) {
-                let hideTimeout; // Timer para esconder o menu
+            if (listContent.id) {
+                let hideTimeout;
 
+                // Funcao de exibicao
                 const show = () => {
-                    clearTimeout(hideTimeout); // Cancela qualquer timeout pendente para esconder
-                    // Opcional: Esconder outros dropdowns abertos antes de mostrar este
-                    // document.querySelectorAll('nav ul li .dropdown-content').forEach(otherList => {
-                    //     if (otherList.id !== listId) hideList(otherList.id);
-                    // });
-                    showList(listId); // Mostra a lista atual
+                    clearTimeout(hideTimeout);
+                    showList(listContent.id);
                 };
 
+                // Funcao de ocultacao com delay
                 const startHideTimeout = () => {
-                     hideTimeout = setTimeout(() => {
-                         // Re-seleciona os elementos no momento da verificação
-                         const currentDropdownContainer = document.getElementById(trigger.id)?.parentElement || trigger.parentElement;
-                         const currentListContent = document.getElementById(listId);
+                    hideTimeout = setTimeout(() => {
+                        const currentContainer = trigger.parentElement;
+                        const currentList = document.getElementById(listContent.id);
 
-                         // Só esconde se o mouse NÃO estiver sobre o container do dropdown (li)
-                         // E NÃO estiver sobre a lista dropdown em si.
-                        if (!currentDropdownContainer.matches(':hover') && (!currentListContent || !currentListContent.matches(':hover'))) {
-                            hideList(listId);
+                        if (!currentContainer.matches(':hover') && 
+                            (!currentList || !currentList.matches(':hover'))) {
+                            hideList(listContent.id);
                         }
-                    }, 250); // Atraso em milissegundos antes de esconder (ajuste se necessário)
+                    }, 250);
                 };
 
-                // Adiciona listeners ao container principal do dropdown (o <li>)
+                // Configuracao dos listeners
                 dropdownContainer.addEventListener('mouseenter', show);
                 dropdownContainer.addEventListener('mouseleave', startHideTimeout);
-
-                // Adiciona listeners à própria lista (<ul>) para mantê-la visível quando o mouse entra nela
-                listContent.addEventListener('mouseenter', show); // Cancela o timer de esconder ao entrar na lista
-                listContent.addEventListener('mouseleave', startHideTimeout); // Inicia timer para esconder ao sair da lista
-
-                console.log(`[dropdown.js] Eventos configurados para dropdown com lista ID: '${listId}'.`);
-
-            } else {
-                console.warn(`[dropdown.js] Elemento .dropdown-content dentro do dropdown associado a '${trigger.id || trigger.textContent}' não possui um ID.`);
+                listContent.addEventListener('mouseenter', show);
+                listContent.addEventListener('mouseleave', startHideTimeout);
             }
         });
     }
 
-    // --- INICIALIZAÇÃO ---
-    // Espera o DOM estar completamente carregado antes de executar o código
+    // === INICIALIZAÇÃO ===
+    /**
+     * Configura todos os menus dropdown quando o DOM estiver pronto
+     * - Popula as listas com seus respectivos itens
+     * - Configura eventos de interação
+     */
     document.addEventListener('DOMContentLoaded', () => {
         console.log("[dropdown.js] DOM completamente carregado.");
 
-        // Popula as listas definidas (exceto 'versoes-list' que agora é tratado diferentemente)
+        // Popula todas as listas de menu
         populateList('baixar-list', downloads);
-        // A linha abaixo foi REMOVIDA pois a lista de versões agora é estática no HTML ou preenchida pelo script do index/versoes.html
-        // populateList('versoes-list', versoes);
         populateList('dicionario-list', dicionario);
         populateList('harpa-hinario-list', harpaHinario);
         populateList('utilidades-list', utilidades);
 
-        // Configura os eventos de mouse para mostrar/esconder os menus
+        // Configura interatividade dos menus
         setupDropdownEvents();
 
-        console.log("[dropdown.js] Configuração dos menus dropdown (exceto Versões) concluída.");
+        console.log("[dropdown.js] Configuração dos menus dropdown concluída.");
     });
 
-})(); // Fim da IIFE
-
-// --- FIM DO SCRIPT dropdown.js ---
+})();
