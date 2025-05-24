@@ -103,7 +103,6 @@ window.getLivroDisplayName = function(livroKey) {
     if (livros[livroKey] && livros[livroKey].displayName) {
         return livros[livroKey].displayName;
     }
-    // Fallback caso o displayName não seja encontrado ou livroKey seja nulo/inválido
     return livroKey ? livroKey.toUpperCase() : "LIVRO DESCONHECIDO";
 };
 
@@ -114,33 +113,27 @@ window.getLivroDisplayName = function(livroKey) {
  */
 function createCapitulosButtons(livro) {
     if (!livros[livro]) {
-        console.error(`[Navegação] Livro inválido para criar botões de capítulo: ${livro}`);
-        return document.createElement('div');
+        console.error(`[Navegação createCapitulosButtons] Livro inválido: ${livro}`);
+        const div = document.createElement('div');
+        div.classList.add('capitulos', 'book-content');
+        return div;
     }
     const capitulos = livros[livro].capitulos;
     const capitulosContainer = document.createElement('div');
-    capitulosContainer.classList.add('capitulos', 'book-content'); // Adiciona 'book-content' para estilo
+    capitulosContainer.classList.add('capitulos', 'book-content');
 
     for (let i = 1; i <= capitulos; i++) {
         const button = document.createElement('button');
         button.textContent = `${i}`;
         button.classList.add('botao-capitulo');
+        button.dataset.livro = livro;
+        button.dataset.capitulo = i;
 
-        button.addEventListener('click', () => {
-            const livroClicado = livro;
-            const capituloClicado = i;
-
+        button.addEventListener('click', (e) => {
+            const livroClicado = e.currentTarget.dataset.livro;
+            const capituloClicado = parseInt(e.currentTarget.dataset.capitulo);
+            
             if (window.isReadingModeEnabled && typeof window.loadChapterInReadingMode === 'function') {
-                const content = document.querySelector('.content');
-                const oldReadingContent = content.querySelector('.reading-mode-content');
-                if (oldReadingContent) oldReadingContent.remove();
-                // Limpa também botões de versículo e texto de versículo se estiverem visíveis
-                const oldVersiculosContent = content.querySelector('.versiculos-content');
-                if (oldVersiculosContent) oldVersiculosContent.remove();
-                const oldVersiculoTexto = content.querySelector('.versiculo-texto');
-                if (oldVersiculoTexto) oldVersiculoTexto.remove();
-
-
                 window.activeLivro = livroClicado;
                 window.activeCapitulo = capituloClicado;
                 window.activeVersiculoButton = null;
@@ -164,18 +157,15 @@ function createVersiculosButtons(livro, capitulo) {
     const versiculosContainer = document.createElement('div');
     versiculosContainer.classList.add('versiculos', 'book-content');
 
-    // Verifica se a função necessária está disponível
     if (typeof window.getSpecificVerseCount !== 'function') {
-        console.error("[Navegação] Erro: Função 'getSpecificVerseCount' não está definida globalmente.");
+        console.error("[Navegação createVersiculosButtons] Erro: Função 'getSpecificVerseCount' não definida.");
         return versiculosContainer;
     }
 
-    // Obtém o número de versículos do capítulo
     const numVersiculos = window.getSpecificVerseCount(livro, capitulo);
 
-    // Trata caso de capítulo sem versículos
     if (numVersiculos === 0) {
-        console.warn(`[Navegação] 0 versículos para ${livro} ${capitulo}.`);
+        console.warn(`[Navegação createVersiculosButtons] 0 versículos para ${livro} ${capitulo}.`);
         const p = document.createElement('p');
         p.textContent = "Nenhum versículo encontrado para este capítulo.";
         p.style.textAlign = "center";
@@ -183,7 +173,6 @@ function createVersiculosButtons(livro, capitulo) {
         return versiculosContainer;
     }
 
-    // Cria botões para cada versículo
     for (let i = 1; i <= numVersiculos; i++) {
         const button = document.createElement('button');
         button.textContent = `${i}`;
@@ -204,57 +193,81 @@ function createVersiculosButtons(livro, capitulo) {
  */
 function toggleVersiculos(livro, capitulo) {
     const content = document.querySelector('.content');
-    if (!content) { console.error("Elemento .content não encontrado."); return; }
+    if (!content) { console.error("[Navegação toggleVersiculos] Elemento .content não encontrado."); return; }
 
+    if (!window.titulo) window.titulo = content.querySelector('h2');
+
+    const capitulosContainerDiv = content.querySelector('.capitulos-container.book-content');
+    let allChapterButtons = [];
+    if (capitulosContainerDiv) {
+        const capitulosButtonsInnerDiv = capitulosContainerDiv.querySelector('.capitulos.book-content');
+        if (capitulosButtonsInnerDiv) {
+             allChapterButtons = Array.from(capitulosButtonsInnerDiv.querySelectorAll('button.botao-capitulo'));
+        }
+    }
+    if (allChapterButtons.length === 0) {
+        // Isso pode acontecer se `updateChapterButtons` de `versoes.js` tiver sido chamado
+        // e criou um `.capitulos` solto, que não está dentro de `.capitulos-container`.
+        const looseCapitulosDiv = content.querySelector('div.capitulos:not(.book-content)'); // Tenta pegar um solto
+        if (looseCapitulosDiv) {
+            allChapterButtons = Array.from(looseCapitulosDiv.querySelectorAll('button')); // Supondo que os botões não tenham .botao-capitulo
+            if (allChapterButtons.length > 0) {
+                console.warn("[Navegação toggleVersiculos] Usando botões de um '.capitulos' solto.");
+            }
+        }
+        if(allChapterButtons.length === 0) {
+            console.warn("[Navegação toggleVersiculos] Nenhum botão de capítulo encontrado para gerenciar estado ativo.");
+        }
+    }
+    
     const existingVersiculosContent = content.querySelector('.versiculos-content');
     const existingTextoVersiculo = content.querySelector('.versiculo-texto');
 
-    if (!window.titulo) window.titulo = content.querySelector('h2'); // Garante que window.titulo está definido
+    allChapterButtons.forEach(btn => btn.classList.remove('active'));
 
-    if (window.activeLivro === livro && window.activeCapitulo === capitulo && existingVersiculosContent) {
-        console.log(`[Navegação] Recolhendo versículos para: ${livro} ${capitulo}`);
-        existingVersiculosContent.remove();
-        if (existingTextoVersiculo) {
-            existingTextoVersiculo.remove();
-        }
+    const isCollapsing = window.activeLivro === livro && window.activeCapitulo === capitulo && existingVersiculosContent;
 
-        if (window.titulo) {
-            // USA getLivroDisplayName
-            window.titulo.textContent = window.getLivroDisplayName(livro);
-        }
+    if (isCollapsing) {
+        console.log(`[Navegação toggleVersiculos] Recolhendo: ${livro} ${capitulo}`);
+        if (existingVersiculosContent) existingVersiculosContent.remove();
+        if (existingTextoVersiculo) existingTextoVersiculo.remove();
+
+        if (window.titulo) window.titulo.textContent = window.getLivroDisplayName(livro);
         window.activeCapitulo = null;
         window.activeVersiculoButton = null;
         return;
     }
 
-    console.log(`[Navegação] Exibindo versículos para: ${livro} ${capitulo}`);
-
-    if (window.titulo) {
-        // USA getLivroDisplayName
-        window.titulo.textContent = `${window.getLivroDisplayName(livro)} - CAPÍTULO ${capitulo}`;
+    console.log(`[Navegação toggleVersiculos] Exibindo: ${livro} ${capitulo}`);
+    const currentChapterButton = allChapterButtons.find(btn => btn.dataset.livro === livro && parseInt(btn.dataset.capitulo) === capitulo);
+    if (currentChapterButton) {
+        currentChapterButton.classList.add('active');
+    } else {
+        // Tenta encontrar pelo número do capítulo se dataset não estiver presente (botões de versoes.js)
+        const fallbackButton = allChapterButtons.find(btn => parseInt(btn.textContent) === capitulo && parseInt(btn.dataset.capitulo) === capitulo);
+        if(fallbackButton) fallbackButton.classList.add('active');
+        else console.warn(`[Navegação toggleVersiculos] Botão para ${livro} ${capitulo} não encontrado para marcar.`);
     }
 
-    if (existingVersiculosContent) {
-        existingVersiculosContent.remove();
-    }
-    if (existingTextoVersiculo) {
-        existingTextoVersiculo.remove();
-    }
+    if (window.titulo) window.titulo.textContent = `${window.getLivroDisplayName(livro)} - CAPÍTULO ${capitulo}`;
+
+    if (existingVersiculosContent) existingVersiculosContent.remove();
+    if (existingTextoVersiculo) existingTextoVersiculo.remove();
 
     const versiculosContent = document.createElement('div');
-    versiculosContent.classList.add('versiculos-content', 'book-content'); // Já tem book-content
+    versiculosContent.classList.add('versiculos-content', 'book-content');
     versiculosContent.appendChild(createVersiculosButtons(livro, capitulo));
 
-    const capitulosContainer = content.querySelector('.capitulos-container.book-content');
-    if (capitulosContainer) {
-        capitulosContainer.parentNode.insertBefore(versiculosContent, capitulosContainer.nextSibling);
+    if (capitulosContainerDiv) {
+        capitulosContainerDiv.parentNode.insertBefore(versiculosContent, capitulosContainerDiv.nextSibling);
     } else {
-        console.warn("[Navegação] .capitulos-container não encontrado. Tentando adicionar após o H2 ou no .content.");
-        if (window.titulo && window.titulo.parentNode === content) {
-            content.insertBefore(versiculosContent, window.titulo.nextSibling);
+        const refElement = content.querySelector('div.capitulos') || window.titulo; // Tenta inserir após .capitulos solto ou H2
+        if (refElement && refElement.parentNode === content) {
+            content.insertBefore(versiculosContent, refElement.nextSibling);
         } else {
             content.appendChild(versiculosContent);
         }
+        console.warn("[Navegação toggleVersiculos] .capitulos-container não encontrado. Usando fallback para inserir versículos.");
     }
 
     window.activeLivro = livro;
@@ -264,41 +277,27 @@ function toggleVersiculos(livro, capitulo) {
 
 /**
  * Alterna a exibição do texto de um versículo específico
- * @param {string} livro - Nome do livro
- * @param {number} capitulo - Número do capítulo
- * @param {number} versiculo - Número do versículo
- * @param {HTMLElement} button - Botão do versículo clicado
  */
 function toggleVersiculoText(livro, capitulo, versiculo, button) {
-    console.log(`[Navegação] Toggle texto para: ${livro} ${capitulo}:${versiculo}`);
+    console.log(`[Navegação toggleVersiculoText] Para: ${livro} ${capitulo}:${versiculo}`);
     const content = document.querySelector('.content');
-    if (!content) return;
+    if (!content) { console.error("[Navegação toggleVersiculoText] .content não encontrado."); return; }
 
     if (typeof window.loadSpecificVerse !== 'function') {
-         console.error("[Navegação] Erro: Função 'loadSpecificVerse' não está definida globalmente.");
+         console.error("[Navegação toggleVersiculoText] Erro: 'loadSpecificVerse' não definida.");
          return;
     }
-    if (!window.titulo) window.titulo = content.querySelector('h2'); // Garante que window.titulo está definido
+    if (!window.titulo) window.titulo = content.querySelector('h2');
 
     if (window.activeVersiculoButton === button) {
         const existingVersiculoTextDiv = content.querySelector('.versiculo-texto');
-        if (existingVersiculoTextDiv) {
-            existingVersiculoTextDiv.remove();
-        }
-        if (window.titulo) {
-            // USA getLivroDisplayName
-            window.titulo.textContent = `${window.getLivroDisplayName(livro)} - CAPÍTULO ${capitulo}`;
-        }
-        if(window.activeVersiculoButton) window.activeVersiculoButton.classList.remove('active'); // Remove de forma segura
+        if (existingVersiculoTextDiv) existingVersiculoTextDiv.remove();
+        if (window.titulo) window.titulo.textContent = `${window.getLivroDisplayName(livro)} - CAPÍTULO ${capitulo}`;
+        if(window.activeVersiculoButton) window.activeVersiculoButton.classList.remove('active');
         window.activeVersiculoButton = null;
-        // button.classList.remove('active'); // Já tratado acima
     } else {
-        if (window.activeVersiculoButton) {
-            window.activeVersiculoButton.classList.remove('active');
-        }
-        // A função loadSpecificVerse (no arquivo da versão, ex: ara.js)
-        // carregará o texto e ATUALIZARÁ O TÍTULO PRINCIPAL (H2) usando getLivroDisplayName.
-        window.loadSpecificVerse(livro, capitulo, versiculo);
+        if (window.activeVersiculoButton) window.activeVersiculoButton.classList.remove('active');
+        window.loadSpecificVerse(livro, capitulo, versiculo); 
         window.activeVersiculoButton = button;
         button.classList.add('active');
     }
@@ -306,34 +305,38 @@ function toggleVersiculoText(livro, capitulo, versiculo, button) {
 
 /**
  * Carrega um livro da Bíblia e prepara sua interface
- * @param {string} livro - Nome do livro a ser carregado
  */
 function loadBook(livro) {
-    console.log(`[Navegação] Carregando livro: ${livro}`);
+    console.log(`[Navegação loadBook] Tentando carregar: ${livro}, activeLivro atual: ${window.activeLivro}`);
     const content = document.querySelector('.content');
-    if (!content) { console.error("Elemento .content não encontrado."); return; }
+    if (!content) { console.error("[Navegação loadBook] Elemento .content não encontrado."); return; }
 
     const livroKey = Object.keys(livros).find(key => key.toLowerCase() === livro.toLowerCase());
     if (!livroKey) {
-        console.error(`[Navegação] Chave de livro inválida em loadBook: ${livro}`);
+        console.error(`[Navegação loadBook] Chave de livro inválida: ${livro}`);
         return;
     }
 
-    if (!window.titulo) { // Garante que window.titulo está definido
+    if (!window.titulo) { 
         window.titulo = content.querySelector('h2');
-        if (!window.titulo) { // Se ainda não existir, cria (deveria ser raro se o HTML estiver correto)
-            console.warn("[Navegação] H2 não encontrado, criando um novo.");
+        if (!window.titulo) { 
+            console.warn("[Navegação loadBook] H2 não encontrado, criando um novo.");
             window.titulo = document.createElement('h2');
-            const firstChildInContent = content.firstChild; // Para inserir antes do primeiro elemento
-            content.insertBefore(window.titulo, firstChildInContent);
+            content.insertBefore(window.titulo, content.firstChild); // Inserção simples
         }
     }
 
+    const selectorString = '.capitulos-container, div.capitulos, .versiculos-content, .versiculo-texto, .reading-mode-content';
+
     if (window.activeLivro === livroKey) {
-        console.log(`[Navegação] Recolhendo livro: ${livroKey}`);
-        const elementsToClear = content.querySelectorAll('.capitulos-container, .versiculos-content, .versiculo-texto, .reading-mode-content');
+        console.log(`[Navegação loadBook] Recolhendo livro: ${livroKey}`);
+        console.log("[Navegação loadBook] DOM ANTES de recolher (mesmo livro):", content.innerHTML.length > 500 ? content.innerHTML.substring(0, 500) + "..." : content.innerHTML);
+        const elementsToClear = content.querySelectorAll(selectorString);
+        console.log("[Navegação loadBook] Elementos para recolher (mesmo livro):", elementsToClear);
         elementsToClear.forEach(el => el.remove());
-        if (window.titulo) window.titulo.textContent = ''; // Limpa o título H2
+        console.log("[Navegação loadBook] DOM APÓS recolher (mesmo livro):", content.innerHTML.length > 500 ? content.innerHTML.substring(0, 500) + "..." : content.innerHTML);
+        
+        if (window.titulo) window.titulo.textContent = '';
         window.activeLivro = null;
         window.activeCapitulo = null;
         window.activeVersiculoButton = null;
@@ -344,58 +347,65 @@ function loadBook(livro) {
         return;
     }
 
-    const elementsToRemove = content.querySelectorAll('.capitulos-container, .versiculos-content, .versiculo-texto, .reading-mode-content');
+    console.log(`[Navegação loadBook] Carregando NOVO livro ${livroKey}.`);
+    console.log("[Navegação loadBook] DOM ANTES da limpeza (novo livro):", content.innerHTML.length > 500 ? content.innerHTML.substring(0, 500) + "..." : content.innerHTML);
+    const elementsToRemove = content.querySelectorAll(selectorString);
+    console.log("[Navegação loadBook] Elementos para remover (novo livro):", elementsToRemove);
     elementsToRemove.forEach(element => element.remove());
-
+    console.log(`[Navegação loadBook] DOM APÓS limpeza para ${livroKey}:`, content.innerHTML.length > 500 ? content.innerHTML.substring(0, 500) + "..." : content.innerHTML);
+    
     if (window.titulo) {
-        // USA getLivroDisplayName
         window.titulo.textContent = window.getLivroDisplayName(livroKey);
     }
 
     const capitulosContainer = document.createElement('div');
-    capitulosContainer.classList.add('capitulos-container', 'book-content'); // Já tem book-content
+    capitulosContainer.classList.add('capitulos-container', 'book-content');
     capitulosContainer.appendChild(createCapitulosButtons(livroKey));
 
     if (window.titulo && window.titulo.parentNode === content) {
         content.insertBefore(capitulosContainer, window.titulo.nextSibling);
     } else {
         content.appendChild(capitulosContainer);
-        console.warn("[Navegação] window.titulo não encontrado ou não é filho de .content. Adicionando capitulosContainer ao final de .content.");
+        console.warn("[Navegação loadBook] Fallback: window.titulo não encontrado ou não é filho de .content.");
     }
 
     window.activeLivro = livroKey;
     window.activeCapitulo = null;
     window.activeVersiculoButton = null;
 
-    // Limpeza adicional de modo leitura, caso tenha ficado algum resquício.
-    const readingModeContent = content.querySelector('.reading-mode-content');
-    if (readingModeContent) {
-        readingModeContent.remove();
+    if (window.isReadingModeEnabled && typeof window.toggleReadingMode === 'function') {
+        console.log("[Navegação loadBook] Desativando modo leitura ao carregar novo livro.");
+        window.toggleReadingMode(false, null, null);
+        document.body.classList.remove('module-leitura');
+        const modoLeituraBtn = document.getElementById('modo-leitura');
+        if (modoLeituraBtn) {
+            modoLeituraBtn.classList.remove('active');
+            modoLeituraBtn.setAttribute('aria-pressed', 'false');
+        }
     }
 }
 
 // === Inicialização ===
 document.addEventListener('DOMContentLoaded', () => {
-    // Configura o título principal
     const content = document.querySelector('.content');
     if (content) {
         window.titulo = content.querySelector('h2');
         if (!window.titulo) {
-            console.warn("[Navegação] Elemento H2 para título principal não encontrado no HTML. Criando um.");
+            console.warn("[Navegação DOMContentLoaded] H2 não encontrado. Criando.");
             window.titulo = document.createElement('h2');
-            // Tenta inserir após a nav-bar se ela existir dentro de .content, senão no início de .content
-            const navBar = content.querySelector('.nav-bar'); // Supondo que sua nav-bar tem essa classe e está no .content
-            if (navBar && navBar.parentNode === content) {
-                 content.insertBefore(window.titulo, navBar.nextSibling);
+            const firstRealContentChild = Array.from(content.childNodes).find(
+                node => node.nodeType === Node.ELEMENT_NODE && !['SCRIPT', 'STYLE'].includes(node.tagName.toUpperCase())
+            );
+            if (firstRealContentChild) {
+                 content.insertBefore(window.titulo, firstRealContentChild);
             } else {
-                 content.insertBefore(window.titulo, content.firstChild);
+                 content.appendChild(window.titulo);
             }
         }
     } else {
-        console.error("[Navegação DOMContentLoaded] Elemento .content não encontrado para configurar o título H2.");
+        console.error("[Navegação DOMContentLoaded] .content não encontrado.");
     }
 
-    // Configura eventos de clique nos links dos livros
     const menuLivrosLinks = document.querySelectorAll('.menu-livros a');
     if (menuLivrosLinks.length > 0) {
         menuLivrosLinks.forEach(link => {
@@ -405,12 +415,12 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (livroAttr) {
                     loadBook(livroAttr);
                 } else {
-                    console.error(`[Navegação] Atributo data-livro ausente no link clicado:`, link);
+                    console.error(`[Navegação DOMContentLoaded] data-livro ausente no link:`, link);
                 }
             });
         });
-        console.log("[Navegação] Listeners dos links de livros configurados.");
+        console.log("[Navegação DOMContentLoaded] Listeners dos links de livros configurados.");
     } else {
-        console.warn("[Navegação] Nenhum link encontrado em '.menu-livros a'.");
+        console.warn("[Navegação DOMContentLoaded] Nenhum link em '.menu-livros a'.");
     }
 });

@@ -9,8 +9,6 @@
     border-radius: 8px; /* Arredonda bordas */
     margin-right: 10px; /* Adiciona espaço à direita */
     margin-left: 265px; /* Adiciona espaço à esquerda */
-    /* position: relative; */ /* Removido se não for estritamente necessário para z-index aqui */
-    /* z-index: 1; */       /* Removido, controle de z-index principal na nav */
 }
 
 /* Cabeçalho do modo leitura */
@@ -28,62 +26,44 @@
     padding: 10px; /* Adiciona espaço interno */
 }
 
-/* Estilos BASE para os botões de navegação */
+/* Estilos para os botões de navegação */
 #prev-chapter-reading-mode,
 #next-chapter-reading-mode {
     padding: 10px 15px; /* Adiciona espaço interno */
+    border: 1px solid #ccc; /* Adiciona borda */
     border-radius: 4px; /* Arredonda bordas */
     cursor: pointer; /* Muda cursor para pointer */
     font-size: 1em; /* Define tamanho da fonte */
-    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease; /* Adiciona transição suave */
+    transition: background-color 0.3s ease; /* Adiciona transição suave */
     margin: 0 5px; /* Adiciona espaço horizontal */
-    font-weight: bold; /* FONTE EM NEGRITO PARA AMBOS */
-    border: 1px solid transparent; /* Borda base transparente, cor definida por estado */
-    line-height: 1.2; /* Ajuste para melhor visualização do texto em negrito */
 }
 
-/* Botão CAP. ANTERIOR - HABILITADO */
-#prev-chapter-reading-mode:not([disabled]) {
-    background-color: #4CAF50; /* Verde */
-    color: white;
-    border-color: #3e8e41; /* Borda verde um pouco mais escura para definição */
+#prev-chapter-reading-mode {
+    background-color: #f0f0f0; /* Define cor de fundo */
+    color: #333; /* Define cor do texto */
 }
 
-#prev-chapter-reading-mode:not([disabled]):hover {
-    background-color: #45a049; /* Verde mais escuro para hover */
-    border-color: #3a7d3c;
+#next-chapter-reading-mode {
+    background-color: #4CAF50; /* Define cor de fundo */
+    color: white; /* Define cor do texto */
+    border: none; /* Remove borda */
+    margin-left: 10px; /* Adiciona espaço à esquerda */
 }
 
-/* Botão CAP. ANTERIOR - DESABILITADO (BRANCO SÓLIDO) */
-#prev-chapter-reading-mode[disabled] {
-    background-color: #ffffff; /* Branco sólido */
-    color: #6c757d;           /* Texto cinza escuro para contraste */
-    border: 1px solid #ced4da; /* Borda cinza clara */
-    opacity: 1;                /* Garante opacidade total */
-    cursor: not-allowed;
+#prev-chapter-reading-mode:hover {
+    background-color: #e0e0e0; /* Muda cor de fundo ao hover */
 }
 
-/* Botão CAP. PRÓXIMO - HABILITADO */
-#next-chapter-reading-mode:not([disabled]) {
-    background-color: #4CAF50; /* Verde */
-    color: white;
-    border-color: #3e8e41; /* Borda verde um pouco mais escura para definição */
+#next-chapter-reading-mode:hover {
+    background-color: #45a049; /* Muda cor de fundo ao hover */
 }
 
-#next-chapter-reading-mode:not([disabled]):hover {
-    background-color: #45a049; /* Verde mais escuro para hover */
-    border-color: #3a7d3c;
-}
-
-/* Botão CAP. PRÓXIMO - DESABILITADO */
+#prev-chapter-reading-mode[disabled],
 #next-chapter-reading-mode[disabled] {
-    background-color: #6c757d; /* Cinza escuro (padrão Bootstrap para desabilitado escuro) */
-    color: #adb5bd; /* Texto cinza claro */
-    border-color: #5a6268; /* Borda cinza um pouco mais escura */
-    opacity: 0.75; /* Opacidade para indicar inatividade */
-    cursor: not-allowed;
+    opacity: 0.6; /* Define transparência */
+    cursor: not-allowed; /* Muda cursor para não permitido */
+    background-color: #666; /* Define cor de fundo */
 }
-
 
 /* Versículos no modo leitura */
 .chapter-verses {
