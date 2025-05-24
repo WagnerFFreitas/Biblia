@@ -1,3 +1,5 @@
+// --- START OF FILE versoes.js ---
+
 /**
  * versoes.js
  * Este é o módulo principal responsável por gerenciar todas as versões bíblicas disponíveis.
@@ -101,6 +103,8 @@
     // === FUNÇÕES DE VERIFICAÇÃO DE CAPÍTULOS ===
     /**
      * Verifica se um capítulo específico existe na versão atual
+     * ATENÇÃO: Esta função ainda assume JSON para `chapterExists`. Se versões HTML não tiverem JSON, precisará de ajuste.
+     * No entanto, `getBookChapterCount` agora usa `getSpecificVerseCount` como fallback, que é mais confiável.
      * @param {string} livro Nome do livro
      * @param {number} capitulo Número do capítulo
      * @returns {Promise<boolean>} True se o capítulo existe
@@ -108,8 +112,18 @@
     async function chapterExists(livro, capitulo) {
         try {
             const versaoAtual = localStorage.getItem('versaoBiblicaSelecionada') || 'ara';
-            const jsonPath = `../version/${versaoAtual.toLowerCase()}/${livro.toLowerCase()}/${capitulo}.json`;
-            const response = await fetch(jsonPath, { method: 'HEAD' });
+            // Define quais versões usam HTML. Adicione outras aqui se necessário.
+            const versoesQueUsamHtml = ['arc']; 
+            const isHtmlVersion = versoesQueUsamHtml.includes(versaoAtual.toLowerCase());
+            
+            let path;
+            if (isHtmlVersion) {
+                path = `../version/${versaoAtual.toLowerCase()}/${livro.toLowerCase()}/${capitulo}.html`;
+            } else {
+                path = `../version/${versaoAtual.toLowerCase()}/${livro.toLowerCase()}/${capitulo}.json`;
+            }
+            
+            const response = await fetch(path, { method: 'HEAD' });
             return response.ok;
         } catch (error) {
             console.error(`Erro ao verificar capítulo ${livro} ${capitulo}:`, error);
@@ -124,45 +138,40 @@
      * @returns {Promise<number>} Número total de capítulos
      */
     async function getBookChapterCount(livro) {
-        // Verificar cache primeiro
-        if (chapterCountCache[livro.toLowerCase()]) {
-            return chapterCountCache[livro.toLowerCase()];
+        const livroKey = livro.toLowerCase();
+        if (chapterCountCache[livroKey]) {
+            return chapterCountCache[livroKey];
         }
         
-        // Primeiro tentar obter do sistema existente
-        if (typeof window.getChapterCountForBook === 'function') {
-            const count = window.getChapterCountForBook(livro);
-            if (count > 0) {
-                chapterCountCache[livro.toLowerCase()] = count;
-                return count;
-            }
+        // Tenta obter do objeto 'livros' em biblia-navegacao.js
+        if (window.livros && window.livros[livroKey] && window.livros[livroKey].capitulos) {
+            const count = window.livros[livroKey].capitulos;
+             chapterCountCache[livroKey] = count;
+            return count;
         }
         
-        if (window.livrosInfo && window.livrosInfo[livro.toLowerCase()]) {
-            const count = window.livrosInfo[livro.toLowerCase()].chapters;
-            if (count > 0) {
-                chapterCountCache[livro.toLowerCase()] = count;
-                return count;
-            }
-        }
-
-        // Se não conseguir do sistema, descobrir verificando quais capítulos existem
-        console.log(`[Capítulos] Descobrindo número de capítulos para ${livro}...`);
-        let maxChapter = 1;
-        
-        // Verificar até 150 capítulos (máximo possível)
+        // Fallback: Descobrir verificando quais capítulos existem (HEAD request)
+        // Isso pode ser menos eficiente, mas é um último recurso.
+        console.warn(`[Capítulos] Número de capítulos para ${livro} não encontrado em 'window.livros'. Tentando descobrir...`);
+        let maxChapter = 0;
+        // Verificar até 150 capítulos (máximo bíblico)
         for (let cap = 1; cap <= 150; cap++) {
-            const exists = await chapterExists(livro, cap);
-            if (exists) {
+            if (await chapterExists(livroKey, cap)) {
                 maxChapter = cap;
             } else {
-                // Se não existe, paramos aqui
-                break;
+                // Se não existe ou o anterior não existia (e maxChapter ainda é 0), paramos.
+                // Se o primeiro capítulo não existir, maxChapter será 0.
+                if (cap > 1 && maxChapter === 0) maxChapter = cap -1; //Se o cap 1 nao existe mas os outros sim
+                break; 
             }
         }
         
-        console.log(`[Capítulos] ${livro} tem ${maxChapter} capítulos`);
-        chapterCountCache[livro.toLowerCase()] = maxChapter;
+        if (maxChapter === 0) {
+            console.error(`[Capítulos] Não foi possível determinar o número de capítulos para ${livroKey}. Verifique os arquivos.`);
+        } else {
+            console.log(`[Capítulos] ${livroKey} tem ${maxChapter} capítulos (descoberto via HEAD).`);
+        }
+        chapterCountCache[livroKey] = maxChapter;
         return maxChapter;
     }
 
@@ -180,13 +189,11 @@
             return null;
         }
 
-        // Primeiro, verificar se o próximo capítulo existe no livro atual
-        const nextChapterInSameBook = currentChapter + 1;
-        const nextChapterExists = await chapterExists(currentBook, nextChapterInSameBook);
-        
-        if (nextChapterExists) {
-            console.log(`[Navegação] Próximo: ${currentBook} ${nextChapterInSameBook} (mesmo livro)`);
-            return { livro: currentBook, capitulo: nextChapterInSameBook };
+        const totalCapitulosLivroAtual = await getBookChapterCount(currentBook);
+
+        if (currentChapter < totalCapitulosLivroAtual) {
+            console.log(`[Navegação] Próximo: ${currentBook} ${currentChapter + 1} (mesmo livro)`);
+            return { livro: currentBook, capitulo: currentChapter + 1 };
         }
 
         // Se não há próximo capítulo no livro atual, ir para o próximo livro
@@ -223,12 +230,10 @@
         // Se não há capítulo anterior, ir para o livro anterior
         if (currentBookIndex > 0) {
             const previousBook = BIBLE_BOOKS_ORDER[currentBookIndex - 1];
-            
-            // Encontrar o último capítulo do livro anterior
-            const lastChapter = await getBookChapterCount(previousBook);
+            const lastChapterOfPreviousBook = await getBookChapterCount(previousBook);
 
-            console.log(`[Navegação] Anterior: ${previousBook} ${lastChapter} (livro anterior)`);
-            return { livro: previousBook, capitulo: lastChapter };
+            console.log(`[Navegação] Anterior: ${previousBook} ${lastChapterOfPreviousBook} (livro anterior)`);
+            return { livro: previousBook, capitulo: lastChapterOfPreviousBook };
         }
 
         // Se é o primeiro livro e primeiro capítulo
@@ -247,12 +252,10 @@
         const contentArea = document.querySelector('section.content');
         if (!contentArea) return;
 
-        // Procurar por container de capítulos existente
-        let capitulosContainer = contentArea.querySelector('.capitulos');
+        let capitulosContainer = contentArea.querySelector('div.capitulos:not(.versiculos-content):not(.book-content)'); // Container principal dos botões de capítulos
         if (!capitulosContainer) {
-            // Criar container se não existir
             capitulosContainer = document.createElement('div');
-            capitulosContainer.className = 'capitulos';
+            capitulosContainer.className = 'capitulos'; // Classe genérica para os botões de capítulos
             
             const titleH2 = contentArea.querySelector('h2');
             if (titleH2) {
@@ -261,93 +264,86 @@
                 contentArea.insertBefore(capitulosContainer, contentArea.firstChild);
             }
         }
-
-        // Obter número de capítulos do livro
+        capitulosContainer.innerHTML = ''; // Limpar botões existentes
+        
         const totalCapitulos = await getBookChapterCount(livro);
+        if (totalCapitulos === 0) {
+             capitulosContainer.innerHTML = `<p class="error-message">Não foi possível carregar os capítulos para ${livro}.</p>`;
+             return;
+        }
         
-        // Limpar botões existentes
-        capitulosContainer.innerHTML = '';
-        
-        // Criar novos botões
         for (let i = 1; i <= totalCapitulos; i++) {
             const button = document.createElement('button');
             button.textContent = i;
             button.dataset.capitulo = i;
+            button.dataset.livro = livro; // Adicionar livro ao dataset para consistência
+             button.classList.add('botao-capitulo-dinamico'); // Classe para diferenciar dos botões de biblia-navegacao
             
-            // Marcar capítulo atual como ativo, independentemente do modo de leitura
             if (i === parseInt(capituloAtual)) {
                 button.classList.add('active');
             }
             
-            // Adicionar event listener
-            button.addEventListener('click', function() {
-                const capitulo = parseInt(this.dataset.capitulo);
-                window.activeLivro = livro;
-                window.activeCapitulo = capitulo;
+            button.addEventListener('click', async function() {
+                const capituloClicado = parseInt(this.dataset.capitulo);
+                const livroClicado = this.dataset.livro;
+
+                window.activeLivro = livroClicado; // Definido em biblia-navegacao.js
+                window.activeCapitulo = capituloClicado; // Definido em biblia-navegacao.js
                 
-                if (window.isReadingModeEnabled) {
-                    window.loadChapterInReadingMode(livro, capitulo);
+                if (window.isReadingModeEnabled) { // window.isReadingModeEnabled definido neste arquivo
+                    await window.loadChapterInReadingMode(livroClicado, capituloClicado);
                 } else {
-                    // Carregar no modo normal
-                    if (typeof window.toggleVersiculos === 'function') {
-                        window.toggleVersiculos(livro, capitulo);
+                    if (typeof window.toggleVersiculos === 'function') { // window.toggleVersiculos de biblia-navegacao.js
+                        window.toggleVersiculos(livroClicado, capituloClicado);
+                    } else {
+                        console.error("Função toggleVersiculos não encontrada.");
                     }
                 }
                 
-                // Atualizar botões ativos (tanto no modo leitura quanto fora dele)
+                // Atualizar botões ativos
                 const buttons = capitulosContainer.querySelectorAll('button');
-                buttons.forEach(btn => {
-                    btn.classList.remove('active');
-                });
+                buttons.forEach(btn => btn.classList.remove('active'));
                 this.classList.add('active');
                 
-                // Atualizar título
-                if (typeof window.getLivroDisplayName === 'function') {
+                if (typeof window.getLivroDisplayName === 'function') { // window.getLivroDisplayName de biblia-navegacao.js
                     const titleH2 = contentArea.querySelector('h2');
                     if (titleH2) {
-                        titleH2.textContent = `${window.getLivroDisplayName(livro)} - CAPÍTULO ${capitulo}`;
+                        titleH2.textContent = `${window.getLivroDisplayName(livroClicado)} - CAPÍTULO ${capituloClicado}`;
                     }
                 }
             });
-            
             capitulosContainer.appendChild(button);
         }
-        
-        console.log(`[Capítulos] Criados ${totalCapitulos} botões para ${livro}`);
+        console.log(`[Capítulos] Criados ${totalCapitulos} botões dinâmicos para ${livro}`);
     }
 
-    // === FUNÇÕES DO MODO DE LEITURA ===
-    // Controla se o modo de leitura está ativo
-    window.isReadingModeEnabled = false;
-    // Armazena os versículos expandidos antes de entrar no modo de leitura
-    window.expandedVerses = new Set();
 
-    /**
-     * Carrega um capítulo no modo de leitura
-     * @param {string} livro Nome do livro
-     * @param {number} capitulo Número do capítulo
-     */
+    // === FUNÇÕES DO MODO DE LEITURA ===
+    window.isReadingModeEnabled = false;
+    window.expandedVerses = new Set(); // Armazena os versículos expandidos antes de entrar no modo de leitura
+
     window.loadChapterInReadingMode = async function(livro, capitulo) {
         const contentArea = document.querySelector('section.content');
         if (!contentArea) { 
-            console.error('section.content não encontrado.'); 
+            console.error('[Modo Leitura] section.content não encontrado.'); 
             return; 
         }
 
-        // Remover elementos do modo normal
+        // Remover elementos do modo normal que podem ter sido deixados para trás
         const normalVerseTextDisplayImmediate = contentArea.querySelector('.versiculo-texto'); 
-        const verseButtonsDisplayImmediate = contentArea.querySelector('.versiculos');
+        const verseButtonsDisplayImmediate = contentArea.querySelector('.versiculos-content'); 
+        const looseVerseButtons = contentArea.querySelector('div.versiculos:not(.versiculos-content)');
         if (normalVerseTextDisplayImmediate) normalVerseTextDisplayImmediate.remove();
         if (verseButtonsDisplayImmediate) verseButtonsDisplayImmediate.remove();
+        if (looseVerseButtons) looseVerseButtons.remove();
 
-        // Atualizar botões de capítulos para o livro atual (com modo de leitura ativo)
         await updateChapterButtons(livro, capitulo, true);
 
         let readingContainer = contentArea.querySelector('.reading-mode-content');
         if (!readingContainer) {
             readingContainer = document.createElement('div');
             readingContainer.className = 'reading-mode-content';
-            const chaptersContainer = contentArea.querySelector('.capitulos');
+            const chaptersContainer = contentArea.querySelector('div.capitulos:not(.versiculos-content):not(.book-content)');
             const titleH2 = contentArea.querySelector('h2');
             if (chaptersContainer) {
                 chaptersContainer.insertAdjacentElement('afterend', readingContainer);
@@ -363,68 +359,87 @@
         try {
             const versaoAtual = localStorage.getItem('versaoBiblicaSelecionada') || 'ara';
             const capituloNum = parseInt(capitulo);
-            let numVersiculos = 0;
-            if (typeof window.getSpecificVerseCount === 'function') {
-                numVersiculos = window.getSpecificVerseCount(livro, capituloNum);
-            }
 
-            // Caminho do arquivo JSON
-            const jsonPath = `../version/${versaoAtual.toLowerCase()}/${livro.toLowerCase()}/${capituloNum}.json`;
-            console.log(`[Modo Leitura] Carregando: ${livro.toUpperCase()} ${capituloNum}`);
+            const versoesQueUsamHtml = ['arc']; 
+            const isHtmlVersion = versoesQueUsamHtml.includes(versaoAtual.toLowerCase());
 
-            const response = await fetch(jsonPath);
-            if (!response.ok) {
-                throw new Error(`Erro ao carregar capítulo ${capituloNum} (${response.status})`);
-            }
+            console.log(`[Modo Leitura] Carregando: ${livro.toUpperCase()} ${capituloNum} (Versão: ${versaoAtual}, HTML: ${isHtmlVersion})`);
+
+            let htmlParaExibir = '';
             
-            const data = await response.json();
-            const effectiveNumVersiculos = numVersiculos > 0 ? numVersiculos : (data.versiculos ? Object.keys(data.versiculos).length : 0);
-
-            if (effectiveNumVersiculos === 0 && (!data.versiculos || Object.keys(data.versiculos).length === 0)) {
-                throw new Error('Nenhum versículo encontrado neste capítulo.');
-            }
-
-            // Obter próximo e anterior livro/capítulo
             const nextBookChapter = await getNextBookAndChapter(livro, capituloNum);
             const prevBookChapter = await getPreviousBookAndChapter(livro, capituloNum);
 
             let navButtonsHtml = '<div class="reading-mode-navigation">'; 
-            
-            // Botão Capítulo Anterior
             if (prevBookChapter) {
                 navButtonsHtml += `<button id="prev-chapter-reading-mode" data-livro="${prevBookChapter.livro}" data-capitulo="${prevBookChapter.capitulo}">Cap. Anterior</button>`;
             } else {
                 navButtonsHtml += `<button id="prev-chapter-reading-mode" disabled>Cap. Anterior</button>`;
             }
-
-            // Botão Capítulo Próximo
             if (nextBookChapter) {
                 navButtonsHtml += `<button id="next-chapter-reading-mode" data-livro="${nextBookChapter.livro}" data-capitulo="${nextBookChapter.capitulo}">Cap. Próximo</button>`;
             } else {
                 navButtonsHtml += `<button id="next-chapter-reading-mode" disabled>Cap. Próximo</button>`;
             }
-            
             navButtonsHtml += '</div>';
 
-            let htmlVerses = '<div class="chapter-verses">';
-            
-            // Adicionar título do capítulo se disponível
-            if (data.titulo) {
-                htmlVerses += `<h3 class="chapter-title">${data.titulo}</h3>`;
-            }
-            
-            for (let i = 1; i <= effectiveNumVersiculos; i++) {
-                const verseKey = String(i);
-                if (data.versiculos && data.versiculos[verseKey]) {
-                    if (data.titulos && data.titulos[verseKey]) {
-                        htmlVerses += `<h3 class="verse-section-title">${data.titulos[verseKey]}</h3>`;
-                    }
-                    htmlVerses += `<div class="verse-container"><sup class="verse-number">${i}</sup><span class="verse-text">${data.versiculos[verseKey]}</span></div>`;
+            if (isHtmlVersion) {
+                const chapterHtmlPath = `../version/${versaoAtual.toLowerCase()}/${livro.toLowerCase()}/${capituloNum}.html`;
+                const response = await fetch(chapterHtmlPath);
+                if (!response.ok) {
+                    throw new Error(`Erro ao carregar capítulo HTML ${capituloNum} (${response.status}) de ${chapterHtmlPath}`);
                 }
+                const htmlString = await response.text();
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(htmlString, 'text/html');
+                
+                const versiculosContainerNoArquivo = doc.querySelector('div.versiculos');
+                if (versiculosContainerNoArquivo) {
+                    htmlParaExibir = versiculosContainerNoArquivo.innerHTML;
+                } else {
+                    const bodyContent = doc.body ? doc.body.innerHTML : '';
+                    if (bodyContent.trim() === '') {
+                         throw new Error('Arquivo HTML do capítulo está vazio ou não contém a estrutura esperada (div.versiculos).');
+                    }
+                    console.warn(`[Modo Leitura HTML] Contêiner 'div.versiculos' não encontrado em ${chapterHtmlPath}. Usando body.innerHTML como fallback.`);
+                    htmlParaExibir = bodyContent;
+                }
+            } else {
+                const jsonPath = `../version/${versaoAtual.toLowerCase()}/${livro.toLowerCase()}/${capituloNum}.json`;
+                const response = await fetch(jsonPath);
+                if (!response.ok) {
+                    throw new Error(`Erro ao carregar capítulo JSON ${capituloNum} (${response.status}) de ${jsonPath}`);
+                }
+                const data = await response.json();
+                
+                let numVersiculos = 0;
+                if (typeof window.getSpecificVerseCount === 'function') { 
+                    numVersiculos = window.getSpecificVerseCount(livro, capituloNum);
+                }
+                const effectiveNumVersiculos = numVersiculos > 0 ? numVersiculos : (data.versiculos ? Object.keys(data.versiculos).length : 0);
+
+                if (effectiveNumVersiculos === 0 && (!data.versiculos || Object.keys(data.versiculos).length === 0)) {
+                    throw new Error('Nenhum versículo encontrado neste capítulo (JSON).');
+                }
+
+                let htmlVerses = '<div class="chapter-verses">';
+                if (data.titulo) { 
+                    htmlVerses += `<h3 class="chapter-main-title">${data.titulo}</h3>`;
+                }
+                for (let i = 1; i <= effectiveNumVersiculos; i++) {
+                    const verseKey = String(i);
+                    if (data.versiculos && data.versiculos[verseKey]) {
+                        if (data.titulos && data.titulos[verseKey]) { 
+                            htmlVerses += `<h3 class="verse-section-title">${data.titulos[verseKey]}</h3>`;
+                        }
+                        htmlVerses += `<div class="verse-container"><sup class="verse-number">${i}</sup><span class="verse-text">${data.versiculos[verseKey]}</span></div>`;
+                    }
+                }
+                htmlVerses += '</div>';
+                htmlParaExibir = htmlVerses;
             }
-            htmlVerses += '</div>';
             
-            readingContainer.innerHTML = navButtonsHtml + htmlVerses; 
+            readingContainer.innerHTML = navButtonsHtml + htmlParaExibir; 
 
             const prevBtn = readingContainer.querySelector('#prev-chapter-reading-mode');
             if (prevBtn && !prevBtn.disabled) {
@@ -434,7 +449,7 @@
                     window.activeLivro = prevLivro; 
                     window.activeCapitulo = prevCapitulo;
                     await window.loadChapterInReadingMode(prevLivro, prevCapitulo);
-                    if (typeof window.getLivroDisplayName === 'function') {
+                    if (typeof window.getLivroDisplayName === 'function') { 
                         const titleH2 = contentArea.querySelector('h2');
                         if (titleH2) {
                             titleH2.textContent = `${window.getLivroDisplayName(prevLivro)} - CAPÍTULO ${prevCapitulo}`;
@@ -463,38 +478,39 @@
             const titleH2 = contentArea.querySelector('h2');
             if(titleH2) {
                 titleH2.textContent = `${window.getLivroDisplayName(livro)} - CAPÍTULO ${capituloNum}`;
-                titleH2.style.color = '#f0ad4e';
+                titleH2.style.color = '#f0ad4e'; 
                 titleH2.style.textAlign = 'center';
                 titleH2.style.marginBottom = '20px';
             }
             
         } catch (error) {
             console.error('[Modo Leitura] Erro:', error);
+            const versaoAtual = localStorage.getItem('versaoBiblicaSelecionada') || 'ara';
+            const isHtml = ['arc'].includes(versaoAtual.toLowerCase());
+            const attemptedPath = isHtml ? 
+                `../version/${versaoAtual.toLowerCase()}/${livro.toLowerCase()}/${capitulo}.html` :
+                `../version/${versaoAtual.toLowerCase()}/${livro.toLowerCase()}/${capitulo}.json`;
+
             readingContainer.innerHTML = `
-                <div class="error-container">
-                    <p>⚠️ Erro: ${error.message}</p>
-                    <p>O capítulo solicitado não está disponível.</p>
+                <div class="error-container" style="padding: 20px; border: 1px solid #d9534f; background-color: #f2dede; color: #a94442; border-radius: 4px;">
+                    <p style="font-weight: bold;">⚠️ Erro ao carregar capítulo ${capitulo} de ${livro.toUpperCase()}</p>
+                    <p style="font-size: 0.9em; margin-top: 5px;">Detalhes: ${error.message}</p>
+                    <p style="font-size: 0.8em; color: #777; margin-top: 5px;">Tentativa de acesso: ${attemptedPath}</p>
                     <p style="margin-top: 15px;">Por favor, tente:</p>
-                    <ul style="list-style: disc; padding-left: 20px; margin: 10px 0;">
-                        <li>Verificar se o capítulo existe para este livro</li>
-                        <li>Navegar para outro capítulo</li>
-                        <li>Recarregar a página</li>
+                    <ul style="list-style: disc; padding-left: 20px; margin: 10px 0; font-size: 0.9em;">
+                        <li>Verificar se o arquivo do capítulo existe para esta versão e formato.</li>
+                        <li>Navegar para outro capítulo.</li>
+                        <li>Recarregar a página.</li>
                     </ul>
                     <div style="margin-top: 20px;">
-                        <button onclick="history.back()">Voltar</button>
-                        <button onclick="location.reload()">Recarregar</button>
+                        <button onclick="history.back()" style="padding: 8px 12px; margin-right: 10px; cursor: pointer;">Voltar</button>
+                        <button onclick="location.reload()" style="padding: 8px 12px; cursor: pointer;">Recarregar</button>
                     </div>
                 </div>
             `;
         }
     };
 
-    /**
-     * Alterna entre modo de leitura normal e contínuo
-     * @param {boolean} enable Se deve ativar o modo leitura
-     * @param {string} livro Nome do livro
-     * @param {number} capitulo Número do capítulo
-     */
     window.toggleReadingMode = async function(enable, livro, capitulo) {
         window.isReadingModeEnabled = enable;
         const btn = document.getElementById('modo-leitura');
@@ -507,12 +523,12 @@
         if (!contentArea) return;
 
         const normalVerseTextDisplay = contentArea.querySelector('.versiculo-texto'); 
-        const verseButtonsDisplay = contentArea.querySelector('.versiculos'); 
+        const verseButtonsDisplay = contentArea.querySelector('.versiculos-content');
+        const looseVerseButtons = contentArea.querySelector('div.versiculos:not(.versiculos-content)');
         let readingModeDisplay = contentArea.querySelector('.reading-mode-content');
         const titleH2 = contentArea.querySelector('h2');
 
         if (enable) { 
-            // Salvar o estado atual antes de entrar no modo de leitura
             if (window.activeLivro && window.activeCapitulo) {
                 window.lastActiveLivro = window.activeLivro;
                 window.lastActiveCapitulo = window.activeCapitulo;
@@ -521,9 +537,8 @@
                 window.lastActiveCapitulo = capitulo;
             }
             
-            // Salvar os versículos expandidos
             window.expandedVerses.clear();
-            const verseButtons = contentArea.querySelectorAll('.versiculos button.active');
+            const verseButtons = contentArea.querySelectorAll('.versiculos-content button.active'); // Mudado para .versiculos-content
             verseButtons.forEach(button => {
                 const verseNumber = button.dataset.versiculo;
                 if (verseNumber) {
@@ -531,17 +546,20 @@
                 }
             });
             
-            // Remover elementos em vez de apenas ocultar
             if (normalVerseTextDisplay) normalVerseTextDisplay.remove();
             if (verseButtonsDisplay) verseButtonsDisplay.remove();
+            if (looseVerseButtons) looseVerseButtons.remove();
             
-            if (livro && capitulo) {
-                await window.loadChapterInReadingMode(livro, capitulo); 
+            const livroParaCarregar = livro || window.lastActiveLivro;
+            const capituloParaCarregar = capitulo || window.lastActiveCapitulo;
+
+            if (livroParaCarregar && capituloParaCarregar) {
+                await window.loadChapterInReadingMode(livroParaCarregar, capituloParaCarregar); 
             } else { 
                 if (!readingModeDisplay) {
                     readingModeDisplay = document.createElement('div');
                     readingModeDisplay.className = 'reading-mode-content';
-                    const chaptersContainer = contentArea.querySelector('.capitulos');
+                    const chaptersContainer = contentArea.querySelector('div.capitulos:not(.versiculos-content):not(.book-content)');
                     if (chaptersContainer) chaptersContainer.insertAdjacentElement('afterend', readingModeDisplay);
                     else if (titleH2) titleH2.insertAdjacentElement('afterend', readingModeDisplay);
                     else contentArea.appendChild(readingModeDisplay);
@@ -550,70 +568,93 @@
                 readingModeDisplay.style.display = 'block';
                 if(titleH2) titleH2.textContent = "Modo Leitura";
             }
+            document.body.classList.add('module-leitura'); // Adiciona classe ao body
         } else { 
-            // Remover completamente o conteúdo do modo leitura
+            document.body.classList.remove('module-leitura'); // Remove classe do body
             if (readingModeDisplay) readingModeDisplay.remove();
             
-            // Restaurar o estado anterior
             if (window.lastActiveLivro && window.lastActiveCapitulo) {
-                // Limpar elementos existentes
-                const elementsToRemove = contentArea.querySelectorAll('.capitulos, .versiculos-content, .versiculo-texto');
+                const elementsToRemove = contentArea.querySelectorAll('div.capitulos:not(.versiculos-content):not(.book-content), .versiculos-content, .versiculo-texto, .reading-mode-content');
                 elementsToRemove.forEach(el => el.remove());
                 
-                // Recriar os botões de capítulos
                 await updateChapterButtons(window.lastActiveLivro, window.lastActiveCapitulo, false);
                 
-                // Carregar os versículos do capítulo anterior
                 if (typeof window.toggleVersiculos === 'function') {
+                    // toggleVersiculos recria a área de botões de versículos
                     await window.toggleVersiculos(window.lastActiveLivro, window.lastActiveCapitulo);
                 }
                 
-                // Restaurar os versículos expandidos
-                if (window.expandedVerses.size > 0) {
-                    const verseButtons = contentArea.querySelectorAll('.versiculos button');
-                    verseButtons.forEach(button => {
-                        const verseNumber = parseInt(button.dataset.versiculo);
-                        if (window.expandedVerses.has(verseNumber)) {
-                            button.classList.add('active');
-                            // Simular clique para expandir o versículo
-                            button.click();
+                if (window.expandedVerses.size > 0 && typeof window.loadSpecificVerse === 'function') {
+                    // Após toggleVersiculos ter recriado os botões
+                    const verseButtonsContainer = contentArea.querySelector('.versiculos-content');
+                    if (verseButtonsContainer) {
+                        const verseButtons = verseButtonsContainer.querySelectorAll('button');
+                         // Carrega apenas o primeiro versículo expandido ou o primeiro do capítulo se nenhum foi expandido
+                        let verseToLoad = 1; 
+                        if (window.expandedVerses.size > 0) {
+                             verseToLoad = Math.min(...Array.from(window.expandedVerses));
                         }
-                    });
+
+                        const buttonToClick = Array.from(verseButtons).find(b => parseInt(b.dataset.versiculo) === verseToLoad);
+                        if(buttonToClick) {
+                            window.loadSpecificVerse(window.lastActiveLivro, window.lastActiveCapitulo, verseToLoad);
+                            buttonToClick.classList.add('active');
+                            window.activeVersiculoButton = buttonToClick; // Seta o botão ativo em biblia-navegacao
+                        } else if (verseButtons.length > 0) {
+                            // Fallback para o primeiro versículo se o salvo não for encontrado
+                            window.loadSpecificVerse(window.lastActiveLivro, window.lastActiveCapitulo, 1);
+                            verseButtons[0].classList.add('active');
+                            window.activeVersiculoButton = verseButtons[0];
+                        }
+                    }
+                } else if (typeof window.loadSpecificVerse === 'function' && window.activeCapitulo) {
+                    // Se não há versículos salvos, carrega o primeiro do capítulo atual
+                     const verseButtonsContainer = contentArea.querySelector('.versiculos-content');
+                     if(verseButtonsContainer && verseButtonsContainer.firstChild) {
+                         window.loadSpecificVerse(window.lastActiveLivro, window.lastActiveCapitulo, 1);
+                         const firstVerseButton = verseButtonsContainer.querySelector('button');
+                         if(firstVerseButton) {
+                            firstVerseButton.classList.add('active');
+                            window.activeVersiculoButton = firstVerseButton;
+                         }
+                     }
                 }
-                
-                // Atualizar título
+
                 if (typeof window.getLivroDisplayName === 'function' && titleH2) {
-                    titleH2.textContent = `${window.getLivroDisplayName(window.lastActiveLivro)} - CAPÍTULO ${window.lastActiveCapitulo}`;
+                    let titleText = `${window.getLivroDisplayName(window.lastActiveLivro)} - CAPÍTULO ${window.lastActiveCapitulo}`;
+                    if(window.activeVersiculoButton && window.expandedVerses.has(parseInt(window.activeVersiculoButton.dataset.versiculo))) {
+                         titleText += ` - VERSÍCULO ${window.activeVersiculoButton.dataset.versiculo}`;
+                    }
+                    titleH2.textContent = titleText;
                 }
                 
-                // Restaurar o estado ativo
                 window.activeLivro = window.lastActiveLivro;
                 window.activeCapitulo = window.lastActiveCapitulo;
             } else {
                 const versaoAtual = localStorage.getItem('versaoBiblicaSelecionada') || 'ara';
                 setPageTitle(versaoAtual);
-                if(titleH2) titleH2.textContent = "Selecione um Livro";
+                if(titleH2) {
+                     titleH2.textContent = "Selecione um Livro";
+                     titleH2.style.color = ''; // Reseta estilos do modo leitura
+                     titleH2.style.textAlign = '';
+                     titleH2.style.marginBottom = '';
+                }
+                const elementsToRemove = contentArea.querySelectorAll('div.capitulos:not(.versiculos-content):not(.book-content), .versiculos-content, .versiculo-texto, .reading-mode-content');
+                elementsToRemove.forEach(el => el.remove());
             }
         }
     };
 
     // === NAVEGAÇÃO POR TECLADO ===
-    /**
-     * Gerencia navegação usando setas do teclado
-     * @param {KeyboardEvent} event Evento do teclado
-     */
     function handleKeyNavigation(event) {
         if (!window.isReadingModeEnabled) {
             return;
         }
-
         if (document.activeElement && (document.activeElement.tagName === 'INPUT' || document.activeElement.tagName === 'TEXTAREA' || document.activeElement.isContentEditable)) {
             return;
         }
-
         const prevBtn = document.getElementById('prev-chapter-reading-mode');
         const nextBtn = document.getElementById('next-chapter-reading-mode');
-
         if (event.key === "ArrowLeft") {
             if (prevBtn && !prevBtn.disabled) {
                 event.preventDefault();
@@ -628,47 +669,35 @@
     }
 
     // === INICIALIZAÇÃO ===
-    /**
-     * Inicializa uma versão específica da Bíblia
-     * Carrega scripts necessários e configura a interface
-     * @param {string} versaoCod Código da versão a ser inicializada
-     */
     async function inicializarVersao(versaoCod) {
         console.log(`[Principal] Inicializando ${versaoCod.toUpperCase()}`);
-
         document.body.className = ''; 
         const versoesHtml = ['arc']; 
         document.body.classList.add(versoesHtml.includes(versaoCod.toLowerCase()) ? 'versao-html-ativa' : 'versao-json-ativa');
 
         try {
             const basePath = '../script'; 
-            
             await loadScriptAsync(`${basePath}/${versaoCod.toLowerCase()}.js`, 'script-versao-biblica');
             setPageTitle(versaoCod);
-
             await loadScriptAsync(`${basePath}/slide.js`, 'script-slide');
-
             if (typeof window.inicializarDropdowns === 'function') window.inicializarDropdowns();
             if (typeof window.inicializarSobre === 'function') window.inicializarSobre();
             if (typeof window.inicializarSlide === 'function') window.inicializarSlide();
             
             const modoLeituraBtn = document.getElementById('modo-leitura');
             if (modoLeituraBtn) {
-                modoLeituraBtn.addEventListener('click', function(event) {
+                 // Remover listener antigo para evitar múltiplos handlers
+                const newBtn = modoLeituraBtn.cloneNode(true);
+                modoLeituraBtn.parentNode.replaceChild(newBtn, modoLeituraBtn);
+                newBtn.addEventListener('click', function(event) {
                     event.preventDefault();
-                    if (window.activeLivro && window.activeCapitulo) { 
-                        window.toggleReadingMode(!window.isReadingModeEnabled, window.activeLivro, window.activeCapitulo);
-                    } else {
-                        window.toggleReadingMode(!window.isReadingModeEnabled, null, null);
-                    }
+                    window.toggleReadingMode(!window.isReadingModeEnabled, window.activeLivro, window.activeCapitulo);
                 });
             }
             
             document.removeEventListener('keydown', handleKeyNavigation);
             document.addEventListener('keydown', handleKeyNavigation);
-
             console.log(`[Principal] ${versaoCod.toUpperCase()} inicializada.`);
-
         } catch (error) {
             console.error(`[Principal] Erro init ${versaoCod.toUpperCase()}:`, error);
             setPageTitle(versaoCod); 
@@ -676,10 +705,6 @@
         }
     }
 
-    /**
-     * Inicializa a página principal
-     * Configura seletores de versão e carrega versão inicial
-     */
     function initializePage() {
         console.log("[Principal] DOMContentLoaded.");
         const seletorVersao = document.getElementById('seletor-versao-principal');
@@ -689,6 +714,8 @@
         if (seletorVersao && seletorVersao.options.length > 0) {
             opcoesValidas = Array.from(seletorVersao.options).map(opt => opt.value);
             versaoPadraoSelect = seletorVersao.value || opcoesValidas[0];
+        } else {
+            console.warn("Seletor de versão principal não encontrado ou sem opções. Usando valores padrão.");
         }
         
         const versaoSalva = localStorage.getItem('versaoBiblicaSelecionada');
@@ -708,11 +735,12 @@
             seletorVersao.addEventListener('change', (event) => {
                 const novaVersao = event.target.value;
                 localStorage.setItem('versaoBiblicaSelecionada', novaVersao);
+                // Simplesmente recarrega a página com o novo parâmetro de versão
                 window.location.search = `?version=${novaVersao}`;
             });
         }
         
-        const versoesDropdownList = document.getElementById('versoes-list');
+        const versoesDropdownList = document.getElementById('versoes-list'); // Supondo que você tenha este elemento
         if (versoesDropdownList) { 
             if (seletorVersao && opcoesValidas.length > 0) {
                 versoesDropdownList.innerHTML = '';
@@ -724,7 +752,7 @@
                 opcoesValidas.forEach(versao => {
                     const li = document.createElement('li');
                     const a = document.createElement('a');
-                    a.href = `?version=${versao}`;
+                    a.href = `?version=${versao}`; // Link para recarregar com nova versão
                     a.textContent = opcoesTexto[versao] || versao.toUpperCase();
                     li.appendChild(a);
                     versoesDropdownList.appendChild(li);
@@ -733,8 +761,7 @@
         }
     }
 
-    // === EVENT LISTENERS ===
-    // Inicia o processo quando o DOM estiver pronto
     document.addEventListener('DOMContentLoaded', initializePage);
 
 })();
+// --- FIM DO SCRIPT versoes.js ---

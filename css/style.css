@@ -298,38 +298,37 @@ footer p {
 .dropdown-content {
     display: none; /* Oculta inicialmente */
     position: absolute; /* Define posicionamento */
-    box-shadow: 0px 8px 16px 0px rgb(255, 255, 255); /* Adiciona sombra */
-    z-index: 1; /* Define ordem de empilhamento */
-    padding: 0; /* Remove preenchimento */
+    box-shadow: 0px 8px 16px 0px rgb(255, 255, 255); /* Adiciona sombra */    z-index: 1; /* Define ordem de empilhamento */
+    padding: 0; /* Adiciona um pequeno padding ao container */
     margin: 0; /* Remove margens */
     list-style: none; /* Remove marcadores */
-    left: -130px; /* Posiciona à esquerda */
+    left: -5px; /* Move 5px para a esquerda */
     top: 100%; /* Alinha ao topo */
     margin-top: 10px; /* Adiciona espaço superior */
     width: 240px; /* Define largura */
     background-color: rgba(0, 0, 0, 0.9); /* Define cor de fundo com transparência */
+    border-radius: 8px; /* Arredonda os cantos do container */
 }
 
 /* O bloco abaixo configura os itens do dropdown do menu superior na barra de navegação */
 .dropdown-content li {
-    padding: 1px 8px; /* Adiciona espaço interno */
+    padding: 0; /* Remove padding do item */
     font-size: 16px; /* Define tamanho da fonte */
-    line-height: 1; /* Define altura da linha */
-    margin-bottom: 1px; /* Adiciona espaço inferior */
+    line-height: 1.2; /* Ajusta altura da linha */
+    margin-bottom: 2px; /* Pequeno espaço entre itens */
 }
 
 /* O bloco abaixo configura os links do dropdown do menu superior na barra de navegação */
-.dropdown-content li a {
-    color: rgb(215, 216, 128); /* Define cor do texto */
+nav .dropdown .dropdown-content li a {
+    color: #d4ac0d; /* Define cor dourada do texto */
     text-decoration: none; /* Remove sublinhado */
     display: block; /* Define tipo de exibição */
-    text-align: left; /* Alinha texto à esquerda */
-    white-space: nowrap; /* Previne quebra de linha */
-    border-radius: 8px; /* Arredonda bordas */
+    text-align: left; /* Alinha texto à esquerda */    white-space: nowrap; /* Previne quebra de linha */
+    border-radius: 4px; /* Arredonda bordas */
     width: 100%; /* Define largura total */
     height: 100%; /* Define altura total */
     box-sizing: border-box; /* Define modelo de caixa */
-    padding: 8px 16px; /* Adiciona espaço interno */
+    padding: 6px 8px; /* Reduz o padding lateral para alinhar melhor o texto */
 }
 
 /* O bloco abaixo configura a exibição do dropdown ao passar o mouse */
@@ -338,8 +337,8 @@ footer p {
 }
 
 /* O bloco abaixo configura o efeito "hover" para os links do dropdown */
-.dropdown-content li a:hover {
-    color: rgb(255, 254, 254); /* Muda cor do texto */
+nav .dropdown .dropdown-content li a:hover {
+    color: white; /* Muda para branco no hover */
     background-color: #0f0e0e; /* Muda cor de fundo */
 }
 

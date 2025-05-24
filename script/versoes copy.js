@@ -274,8 +274,8 @@
             button.textContent = i;
             button.dataset.capitulo = i;
             
-            // Marcar capítulo atual como ativo apenas no modo de leitura
-            if (isReadingMode && i === parseInt(capituloAtual)) {
+            // Marcar capítulo atual como ativo, independentemente do modo de leitura
+            if (i === parseInt(capituloAtual)) {
                 button.classList.add('active');
             }
             
@@ -289,23 +289,24 @@
                     window.loadChapterInReadingMode(livro, capitulo);
                 } else {
                     // Carregar no modo normal
-                    if (typeof window.showVersesForChapter === 'function') {
-                        window.showVersesForChapter(livro, capitulo);
+                    if (typeof window.toggleVersiculos === 'function') {
+                        window.toggleVersiculos(livro, capitulo);
                     }
                 }
                 
-                // Atualizar botões ativos apenas no modo de leitura
-                if (window.isReadingModeEnabled) {
-                    const buttons = capitulosContainer.querySelectorAll('button');
-                    buttons.forEach(btn => {
-                        btn.classList.remove('active');
-                    });
-                    this.classList.add('active');
-                }
+                // Atualizar botões ativos (tanto no modo leitura quanto fora dele)
+                const buttons = capitulosContainer.querySelectorAll('button');
+                buttons.forEach(btn => {
+                    btn.classList.remove('active');
+                });
+                this.classList.add('active');
                 
                 // Atualizar título
-                if (typeof window.updateChapterTitle === 'function') {
-                    window.updateChapterTitle(livro, capitulo);
+                if (typeof window.getLivroDisplayName === 'function') {
+                    const titleH2 = contentArea.querySelector('h2');
+                    if (titleH2) {
+                        titleH2.textContent = `${window.getLivroDisplayName(livro)} - CAPÍTULO ${capitulo}`;
+                    }
                 }
             });
             
@@ -318,6 +319,8 @@
     // === FUNÇÕES DO MODO DE LEITURA ===
     // Controla se o modo de leitura está ativo
     window.isReadingModeEnabled = false;
+    // Armazena os versículos expandidos antes de entrar no modo de leitura
+    window.expandedVerses = new Set();
 
     /**
      * Carrega um capítulo no modo de leitura
@@ -331,10 +334,11 @@
             return; 
         }
 
+        // Remover elementos do modo normal
         const normalVerseTextDisplayImmediate = contentArea.querySelector('.versiculo-texto'); 
         const verseButtonsDisplayImmediate = contentArea.querySelector('.versiculos');
-        if (normalVerseTextDisplayImmediate) normalVerseTextDisplayImmediate.style.display = 'none';
-        if (verseButtonsDisplayImmediate) verseButtonsDisplayImmediate.style.display = 'none';
+        if (normalVerseTextDisplayImmediate) normalVerseTextDisplayImmediate.remove();
+        if (verseButtonsDisplayImmediate) verseButtonsDisplayImmediate.remove();
 
         // Atualizar botões de capítulos para o livro atual (com modo de leitura ativo)
         await updateChapterButtons(livro, capitulo, true);
@@ -430,8 +434,11 @@
                     window.activeLivro = prevLivro; 
                     window.activeCapitulo = prevCapitulo;
                     await window.loadChapterInReadingMode(prevLivro, prevCapitulo);
-                    if (typeof window.updateChapterTitle === 'function') {
-                        window.updateChapterTitle(prevLivro, prevCapitulo);
+                    if (typeof window.getLivroDisplayName === 'function') {
+                        const titleH2 = contentArea.querySelector('h2');
+                        if (titleH2) {
+                            titleH2.textContent = `${window.getLivroDisplayName(prevLivro)} - CAPÍTULO ${prevCapitulo}`;
+                        }
                     }
                 });
             }
@@ -444,15 +451,18 @@
                     window.activeLivro = nextLivro;
                     window.activeCapitulo = nextCapitulo;
                     await window.loadChapterInReadingMode(nextLivro, nextCapitulo);
-                    if (typeof window.updateChapterTitle === 'function') {
-                        window.updateChapterTitle(nextLivro, nextCapitulo);
+                    if (typeof window.getLivroDisplayName === 'function') {
+                        const titleH2 = contentArea.querySelector('h2');
+                        if (titleH2) {
+                            titleH2.textContent = `${window.getLivroDisplayName(nextLivro)} - CAPÍTULO ${nextCapitulo}`;
+                        }
                     }
                 });
             }
             
             const titleH2 = contentArea.querySelector('h2');
             if(titleH2) {
-                titleH2.textContent = `${livro.toUpperCase()} - CAPÍTULO ${capituloNum}`;
+                titleH2.textContent = `${window.getLivroDisplayName(livro)} - CAPÍTULO ${capituloNum}`;
                 titleH2.style.color = '#f0ad4e';
                 titleH2.style.textAlign = 'center';
                 titleH2.style.marginBottom = '20px';
@@ -502,8 +512,28 @@
         const titleH2 = contentArea.querySelector('h2');
 
         if (enable) { 
-            if (normalVerseTextDisplay) normalVerseTextDisplay.style.display = 'none';
-            if (verseButtonsDisplay) verseButtonsDisplay.style.display = 'none'; 
+            // Salvar o estado atual antes de entrar no modo de leitura
+            if (window.activeLivro && window.activeCapitulo) {
+                window.lastActiveLivro = window.activeLivro;
+                window.lastActiveCapitulo = window.activeCapitulo;
+            } else if (livro && capitulo) {
+                window.lastActiveLivro = livro;
+                window.lastActiveCapitulo = capitulo;
+            }
+            
+            // Salvar os versículos expandidos
+            window.expandedVerses.clear();
+            const verseButtons = contentArea.querySelectorAll('.versiculos button.active');
+            verseButtons.forEach(button => {
+                const verseNumber = button.dataset.versiculo;
+                if (verseNumber) {
+                    window.expandedVerses.add(parseInt(verseNumber));
+                }
+            });
+            
+            // Remover elementos em vez de apenas ocultar
+            if (normalVerseTextDisplay) normalVerseTextDisplay.remove();
+            if (verseButtonsDisplay) verseButtonsDisplay.remove();
             
             if (livro && capitulo) {
                 await window.loadChapterInReadingMode(livro, capitulo); 
@@ -521,23 +551,44 @@
                 if(titleH2) titleH2.textContent = "Modo Leitura";
             }
         } else { 
-            if (readingModeDisplay) readingModeDisplay.style.display = 'none'; 
-            if (normalVerseTextDisplay) normalVerseTextDisplay.style.display = ''; 
-            if (verseButtonsDisplay) verseButtonsDisplay.style.display = ''; 
-
-            if (window.activeLivro && window.activeCapitulo) {
-                // Atualizar botões de capítulos para o modo normal (sem destacar o ativo)
-                await updateChapterButtons(window.activeLivro, window.activeCapitulo, false);
+            // Remover completamente o conteúdo do modo leitura
+            if (readingModeDisplay) readingModeDisplay.remove();
+            
+            // Restaurar o estado anterior
+            if (window.lastActiveLivro && window.lastActiveCapitulo) {
+                // Limpar elementos existentes
+                const elementsToRemove = contentArea.querySelectorAll('.capitulos, .versiculos-content, .versiculo-texto');
+                elementsToRemove.forEach(el => el.remove());
                 
-                if (typeof window.showVersesForChapter === 'function') {
-                    window.showVersesForChapter(window.activeLivro, window.activeCapitulo);
+                // Recriar os botões de capítulos
+                await updateChapterButtons(window.lastActiveLivro, window.lastActiveCapitulo, false);
+                
+                // Carregar os versículos do capítulo anterior
+                if (typeof window.toggleVersiculos === 'function') {
+                    await window.toggleVersiculos(window.lastActiveLivro, window.lastActiveCapitulo);
                 }
-                const verseToDisplay = window.activeVersiculo || 1; 
-                if (typeof window.displayVerse === 'function') {
-                    window.displayVerse(window.activeLivro, window.activeCapitulo, verseToDisplay);
-                } else if (typeof window.updateChapterTitle === 'function'){
-                    window.updateChapterTitle(window.activeLivro, window.activeCapitulo, verseToDisplay);
+                
+                // Restaurar os versículos expandidos
+                if (window.expandedVerses.size > 0) {
+                    const verseButtons = contentArea.querySelectorAll('.versiculos button');
+                    verseButtons.forEach(button => {
+                        const verseNumber = parseInt(button.dataset.versiculo);
+                        if (window.expandedVerses.has(verseNumber)) {
+                            button.classList.add('active');
+                            // Simular clique para expandir o versículo
+                            button.click();
+                        }
+                    });
                 }
+                
+                // Atualizar título
+                if (typeof window.getLivroDisplayName === 'function' && titleH2) {
+                    titleH2.textContent = `${window.getLivroDisplayName(window.lastActiveLivro)} - CAPÍTULO ${window.lastActiveCapitulo}`;
+                }
+                
+                // Restaurar o estado ativo
+                window.activeLivro = window.lastActiveLivro;
+                window.activeCapitulo = window.lastActiveCapitulo;
             } else {
                 const versaoAtual = localStorage.getItem('versaoBiblicaSelecionada') || 'ara';
                 setPageTitle(versaoAtual);
