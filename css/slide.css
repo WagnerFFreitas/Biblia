@@ -18,7 +18,7 @@ body {
     align-items: center; 
     margin-top: 0; 
     margin-bottom: 1.25rem; 
-    font-size: clamp(4rem, 8vw, 6rem); 
+    /*font-size: clamp(4rem, 8vw, 6rem); */
     width: 95%; 
     text-align: center; 
     flex-grow: 1; 
@@ -45,7 +45,7 @@ body {
 }
 .versiculo-texto { 
     text-align: center; 
-    font-size: clamp(2rem, 2.95vw, 5rem); 
+    font-size: clamp(2rem, 2.82vw, 5rem); 
     max-width: 100%; 
     overflow-wrap: break-word; 
     line-height: 1.3; 
@@ -57,14 +57,14 @@ body {
 }
 #versiculo-container strong.section-title { 
     color: #5df565; 
-    font-size: clamp(1.5rem, 2.5vw, 2.5rem); 
+    font-size: clamp(1.5rem, 2.8vw, 3rem); 
     margin-bottom: 1rem; 
     display: block; 
     font-weight: bold; 
-    font-style: normal; 
+    font-style: italic; 
     font-family: Arial, sans-serif; 
     text-align: center; 
-    width: 90%; 
+    width: 100%; 
     z-index: 3; 
     line-height: 1.2; 
 }
