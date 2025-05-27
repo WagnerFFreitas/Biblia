@@ -50,7 +50,7 @@
      * (Recursos planejados para implementação futura)
      */
     const dicionario = [
-        { texto: 'Dicionário (Em breve)', link: 'https://www.exemplo.com/vine' }, // Exemplo
+        { texto: 'Dicionário biblico', link: '../html/dicionario.html' }, // Exemplo
         { texto: 'Concordância (Em breve)', link: 'https://www.exemplo.com/strong' } // Exemplo
     ];
 
