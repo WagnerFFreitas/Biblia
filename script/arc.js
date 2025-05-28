@@ -49,7 +49,7 @@ window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
     }
 
     try {
-        const chapterHtmlPath = `../version/${window.BIBLE_VERSION}/${livro}/${capitulo}.html`;
+        const chapterHtmlPath = `../versao/${window.BIBLE_VERSION}/${livro}/${capitulo}.html`;
         const response = await fetch(chapterHtmlPath);
 
         if (!response.ok) {
@@ -139,7 +139,7 @@ window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
 window.getSpecificChapterTitle = async function(livro, capitulo, versiculo) {
     console.log(`[ARC HTML] Obtendo título interno para: ${livro} ${capitulo} (aplicável ao v.${versiculo})`);
     try {
-        const chapterHtmlPath = `../version/${window.BIBLE_VERSION}/${livro}/${capitulo}.html`;
+        const chapterHtmlPath = `../versao/${window.BIBLE_VERSION}/${livro}/${capitulo}.html`;
         const response = await fetch(chapterHtmlPath);
         if (!response.ok) {
             throw new Error(`HTTP ${response.status} ao buscar HTML para ${livro} ${capitulo} de ${chapterHtmlPath}`);

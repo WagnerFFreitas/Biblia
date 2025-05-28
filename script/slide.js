@@ -368,7 +368,7 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
 
         // Carregar capítulo
         async function carregarCapitulo(capituloNum) {
-            const caminho = \`../version/\${versaoBiblia}/\${livroAtual}/\${capituloNum}.\${fileExtension}\`;
+            const caminho = \`../versao/\${versaoBiblia}/\${livroAtual}/\${capituloNum}.\${fileExtension}\`;
             console.log(\`Carregando capítulo: \${caminho}\`);
             const livroAcentuado = obterNomeAcentuado(livroAtual);
             tituloElement.innerText = \`\${livroAcentuado.toUpperCase()} \${capituloNum}:... (Carregando)\`;

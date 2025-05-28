@@ -52,8 +52,7 @@ window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
     }
 
     try {
-        // Caminho alterado para a versão NTHL
-        const response = await fetch(`../version/nthl/${livro}/${capitulo}.json`); 
+        const response = await fetch(`../versao/nthl/${livro}/${capitulo}.json`); 
         if (!response.ok) {
             throw new Error(`HTTP ${response.status} ao buscar JSON para ${livro} ${capitulo} (NTHL)`);
         }
@@ -116,7 +115,7 @@ window.getSpecificChapterTitle = async function(livro, capitulo, versiculo) {
     console.log(`[NTHL] Obtendo título interno para: ${livro} ${capitulo}:${versiculo}`);
     try {
         // Caminho alterado para a versão NTHL
-        const response = await fetch(`../version/nthl/${livro}/${capitulo}.json`);
+        const response = await fetch(`../versao/nthl/${livro}/${capitulo}.json`);
         if (!response.ok) {
             throw new Error(`HTTP ${response.status} ao buscar JSON para ${livro} ${capitulo} (NTHL)`);
         }

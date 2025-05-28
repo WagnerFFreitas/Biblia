@@ -52,8 +52,7 @@ window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
     }
 
     try {
-        // Caminho alterado para a versão KJV
-        const response = await fetch(`../version/kjv/${livro}/${capitulo}.json`); 
+        const response = await fetch(`../versao/kjv/${livro}/${capitulo}.json`); 
         if (!response.ok) {
             throw new Error(`HTTP ${response.status} ao buscar JSON para ${livro} ${capitulo} (KJV)`);
         }
@@ -119,8 +118,7 @@ window.getSpecificChapterTitle = async function(livro, capitulo, versiculo) {
     // A KJV tradicional não os possui, mas se os seus JSONs tiverem, serão retornados.
     console.log(`[KJV] Getting internal title for: ${livro} ${capitulo}:${versiculo}`);
     try {
-        // Caminho alterado para a versão KJV
-        const response = await fetch(`../version/kjv/${livro}/${capitulo}.json`);
+        const response = await fetch(`../versao/kjv/${livro}/${capitulo}.json`);
         if (!response.ok) {
             throw new Error(`HTTP ${response.status} ao buscar JSON para ${livro} ${capitulo} (KJV)`);
         }

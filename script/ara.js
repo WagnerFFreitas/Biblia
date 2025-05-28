@@ -53,7 +53,7 @@ window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
     }
 
     try {
-        const response = await fetch(`../version/ara/${livro}/${capitulo}.json`);
+        const response = await fetch(`../versao/ara/${livro}/${capitulo}.json`);
         if (!response.ok) {
             throw new Error(`HTTP ${response.status} ao buscar JSON para ${livro} ${capitulo}`);
         }
@@ -115,7 +115,7 @@ window.getSpecificChapterTitle = async function(livro, capitulo, versiculo) {
     // O parâmetro `versiculo` aqui é usado para buscar `data.titulos[versiculo]`.
     console.log(`[ARA] Obtendo título interno para: ${livro} ${capitulo}:${versiculo}`);
     try {
-        const response = await fetch(`../version/ara/${livro}/${capitulo}.json`);
+        const response = await fetch(`../versao/ara/${livro}/${capitulo}.json`);
         if (!response.ok) {
             throw new Error(`HTTP ${response.status} ao buscar JSON para ${livro} ${capitulo}`);
         }

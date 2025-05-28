@@ -64,8 +64,8 @@
             const versoesQueUsamHtml = ['arc']; 
             const isHtmlVersion = versoesQueUsamHtml.includes(versaoAtual.toLowerCase());
             const path = isHtmlVersion ? 
-                `../version/${versaoAtual.toLowerCase()}/${livro.toLowerCase()}/${capitulo}.html` :
-                `../version/${versaoAtual.toLowerCase()}/${livro.toLowerCase()}/${capitulo}.json`;
+                `../versao/${versaoAtual.toLowerCase()}/${livro.toLowerCase()}/${capitulo}.html` :
+                `../versao/${versaoAtual.toLowerCase()}/${livro.toLowerCase()}/${capitulo}.json`;
             const response = await fetch(path, { method: 'HEAD' });
             return response.ok;
         } catch (error) {
@@ -217,7 +217,7 @@
             navButtonsHtml += '</div>';
 
             if (isHtmlVersion) {
-                const path = `../version/${versaoAtual.toLowerCase()}/${livro.toLowerCase()}/${capituloNum}.html`;
+                const path = `../versao/${versaoAtual.toLowerCase()}/${livro.toLowerCase()}/${capituloNum}.html`;
                 const response = await fetch(path);
                 if (!response.ok) throw new Error(`Erro HTML ${capituloNum} (${response.status}) de ${path}`);
                 const htmlString = await response.text();
@@ -245,7 +245,7 @@
                 constructedHtml += '</div>'; 
                 htmlParaExibir = constructedHtml;
             } else { // JSON
-                const path = `../version/${versaoAtual.toLowerCase()}/${livro.toLowerCase()}/${capituloNum}.json`;
+                const path = `../versao/${versaoAtual.toLowerCase()}/${livro.toLowerCase()}/${capituloNum}.json`;
                 const response = await fetch(path);
                 if (!response.ok) throw new Error(`Erro JSON ${capituloNum} (${response.status}) de ${path}`);
                 const data = await response.json();
@@ -291,7 +291,7 @@
             console.error('[Modo Leitura] Erro:', error);
             const versao = localStorage.getItem('versaoBiblicaSelecionada') || 'ara';
             const isHtml = ['arc'].includes(versao.toLowerCase());
-            const path = isHtml ? `../version/${versao.toLowerCase()}/${livro.toLowerCase()}/${capitulo}.html` : `../version/${versao.toLowerCase()}/${livro.toLowerCase()}/${capitulo}.json`;
+            const path = isHtml ? `../versao/${versao.toLowerCase()}/${livro.toLowerCase()}/${capitulo}.html` : `../versao/${versao.toLowerCase()}/${livro.toLowerCase()}/${capitulo}.json`;
             readingContainer.innerHTML = `<div class="error-container" style="padding:20px;border:1px solid #d9534f;background-color:#f2dede;color:#a94442;border-radius:4px;"><p style="font-weight:bold;">⚠️ Erro capítulo ${capitulo} de ${livro.toUpperCase()}</p><p>Detalhes: ${error.message}</p><p>Tentativa: ${path}</p><p>Tente:</p><ul><li>Verificar se o arquivo existe.</li><li>Navegar para outro capítulo.</li><li>Recarregar.</li></ul><div><button onclick="history.back()">Voltar</button><button onclick="location.reload()">Recarregar</button></div></div>`;
         }
     };

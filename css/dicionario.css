@@ -399,3 +399,64 @@ footer p {
 .versiculo-texto {
     flex: 1;
 }
+
+/* Estilos para a janela de referência bíblica */
+.popup-window {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(40, 40, 40, 0.98);
+    padding: 20px;
+    border: 2px solid #d4ac0d;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+    max-width: 80%;
+    max-height: 80vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    border-radius: 8px;
+    width: auto;
+    height: auto;
+}
+
+.popup-window .versiculo {
+    margin: 10px 0;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+.popup-window .versiculo-num {
+    color: #d4ac0d;
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.popup-window .versiculo-texto {
+    color: #ffffff;
+}
+
+.popup-window strong {
+    color: #d4ac0d;
+    display: block;
+    margin: 15px 0 10px;
+    font-size: 1.1em;
+}
+
+/* Botão de fechar */
+.popup-window .close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: transparent;
+    border: none;
+    color: #d4ac0d;
+    font-size: 20px;
+    cursor: pointer;
+    padding: 5px 10px;
+    border-radius: 4px;
+}
+
+.popup-window .close-btn:hover {
+    background: rgba(212, 172, 13, 0.2);
+}

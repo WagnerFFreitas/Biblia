@@ -52,8 +52,7 @@ window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
     }
 
     try {
-        // Caminho alterado para a versão NVI
-        const response = await fetch(`../version/nvi/${livro}/${capitulo}.json`); 
+        const response = await fetch(`../versao/nvi/${livro}/${capitulo}.json`); 
         if (!response.ok) {
             throw new Error(`HTTP ${response.status} ao buscar JSON para ${livro} ${capitulo} (NVI)`);
         }
@@ -116,7 +115,7 @@ window.getSpecificChapterTitle = async function(livro, capitulo, versiculo) {
     console.log(`[NVI] Obtendo título interno para: ${livro} ${capitulo}:${versiculo}`);
     try {
         // Caminho alterado para a versão NVI
-        const response = await fetch(`../version/nvi/${livro}/${capitulo}.json`);
+        const response = await fetch(`../versao/nvi/${livro}/${capitulo}.json`);
         if (!response.ok) {
             throw new Error(`HTTP ${response.status} ao buscar JSON para ${livro} ${capitulo} (NVI)`);
         }

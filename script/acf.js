@@ -52,8 +52,7 @@ window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
     }
 
     try {
-        // Caminho alterado para a versão ACF
-        const response = await fetch(`../version/acf/${livro}/${capitulo}.json`); 
+        const response = await fetch(`../versao/acf/${livro}/${capitulo}.json`); 
         if (!response.ok) {
             throw new Error(`HTTP ${response.status} ao buscar JSON para ${livro} ${capitulo} (ACF)`);
         }
@@ -113,8 +112,7 @@ window.getSpecificChapterTitle = async function(livro, capitulo, versiculo) {
     // Nota: esta função retorna títulos INTERNOS de seções, não o título principal da página.
     console.log(`[ACF] Obtendo título interno para: ${livro} ${capitulo}:${versiculo}`);
     try {
-        // Caminho alterado para a versão ACF
-        const response = await fetch(`../version/acf/${livro}/${capitulo}.json`);
+        const response = await fetch(`../versao/acf/${livro}/${capitulo}.json`);
         if (!response.ok) {
             throw new Error(`HTTP ${response.status} ao buscar JSON para ${livro} ${capitulo} (ACF)`);
         }
