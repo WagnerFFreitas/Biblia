@@ -1,0 +1,994 @@
+{
+  "o": [
+    {
+      "termo": "O Amor ao Próximo",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/amor-ao-proximo",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O dilúvio",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-diluvio-na-biblia",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O nascimento de Caim, Abel e Sete",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-nascimento-de-caim-abel-e-sete",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O nascimento de Jesus",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-nascimento-de-jesus",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O pacto que Deus fez com Noé",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-pacto-que-deus-fez-com-noe",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O Poder da Oração",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/poder-da-oracao",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O primeiro homicídio",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-primeiro-homicidio-da-historia-da-humanidade",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Oferta",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/oferta",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Oração",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/oracao",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Oração do Pai Nosso",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/oracao-do-pai-nosso-biblia",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Os descendentes de Noé",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/os-descendentes-de-noe",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O Amor ao Próximo",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/amor-ao-proximo",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O dilúvio",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-diluvio-na-biblia",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O nascimento de Caim, Abel e Sete",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-nascimento-de-caim-abel-e-sete",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O nascimento de Jesus",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-nascimento-de-jesus",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O pacto que Deus fez com Noé",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-pacto-que-deus-fez-com-noe",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O Poder da Oração",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/poder-da-oracao",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O primeiro homicídio",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-primeiro-homicidio-da-historia-da-humanidade",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Oferta",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/oferta",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Oração",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/oracao",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Oração do Pai Nosso",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/oracao-do-pai-nosso-biblia",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Os descendentes de Noé",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/os-descendentes-de-noe",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O Amor ao Próximo",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/amor-ao-proximo",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O dilúvio",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-diluvio-na-biblia",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O nascimento de Caim, Abel e Sete",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-nascimento-de-caim-abel-e-sete",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O nascimento de Jesus",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-nascimento-de-jesus",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O pacto que Deus fez com Noé",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-pacto-que-deus-fez-com-noe",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O Poder da Oração",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/poder-da-oracao",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O primeiro homicídio",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-primeiro-homicidio-da-historia-da-humanidade",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Oferta",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/oferta",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Oração",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/oracao",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Oração do Pai Nosso",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/oracao-do-pai-nosso-biblia",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Os descendentes de Noé",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/os-descendentes-de-noe",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O Amor ao Próximo",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/amor-ao-proximo",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O dilúvio",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-diluvio-na-biblia",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O nascimento de Caim, Abel e Sete",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-nascimento-de-caim-abel-e-sete",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O nascimento de Jesus",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-nascimento-de-jesus",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O pacto que Deus fez com Noé",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-pacto-que-deus-fez-com-noe",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O Poder da Oração",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/poder-da-oracao",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O primeiro homicídio",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-primeiro-homicidio-da-historia-da-humanidade",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Oferta",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/oferta",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Oração",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/oracao",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Oração do Pai Nosso",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/oracao-do-pai-nosso-biblia",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Os descendentes de Noé",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/os-descendentes-de-noe",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O Amor ao Próximo",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/amor-ao-proximo",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O dilúvio",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-diluvio-na-biblia",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O nascimento de Caim, Abel e Sete",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-nascimento-de-caim-abel-e-sete",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O nascimento de Jesus",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-nascimento-de-jesus",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O pacto que Deus fez com Noé",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-pacto-que-deus-fez-com-noe",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O Poder da Oração",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/poder-da-oracao",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O primeiro homicídio",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-primeiro-homicidio-da-historia-da-humanidade",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Oferta",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/oferta",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Oração",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/oracao",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Oração do Pai Nosso",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/oracao-do-pai-nosso-biblia",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Os descendentes de Noé",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/os-descendentes-de-noe",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O Amor ao Próximo",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/amor-ao-proximo",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O dilúvio",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-diluvio-na-biblia",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O nascimento de Caim, Abel e Sete",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-nascimento-de-caim-abel-e-sete",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O nascimento de Jesus",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-nascimento-de-jesus",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O pacto que Deus fez com Noé",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-pacto-que-deus-fez-com-noe",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O Poder da Oração",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/poder-da-oracao",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O primeiro homicídio",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-primeiro-homicidio-da-historia-da-humanidade",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Oferta",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/oferta",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Oração",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/oracao",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Oração do Pai Nosso",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/oracao-do-pai-nosso-biblia",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Os descendentes de Noé",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/os-descendentes-de-noe",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O Amor ao Próximo",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/amor-ao-proximo",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O dilúvio",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-diluvio-na-biblia",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O nascimento de Caim, Abel e Sete",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-nascimento-de-caim-abel-e-sete",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O nascimento de Jesus",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-nascimento-de-jesus",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O pacto que Deus fez com Noé",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-pacto-que-deus-fez-com-noe",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O Poder da Oração",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/poder-da-oracao",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O primeiro homicídio",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-primeiro-homicidio-da-historia-da-humanidade",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Oferta",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/oferta",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Oração",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/oracao",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Oração do Pai Nosso",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/oracao-do-pai-nosso-biblia",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Os descendentes de Noé",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/os-descendentes-de-noe",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O Amor ao Próximo",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/amor-ao-proximo",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O dilúvio",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-diluvio-na-biblia",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O nascimento de Caim, Abel e Sete",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-nascimento-de-caim-abel-e-sete",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O nascimento de Jesus",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-nascimento-de-jesus",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O pacto que Deus fez com Noé",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-pacto-que-deus-fez-com-noe",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O Poder da Oração",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/poder-da-oracao",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O primeiro homicídio",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-primeiro-homicidio-da-historia-da-humanidade",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Oferta",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/oferta",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Oração",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/oracao",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Oração do Pai Nosso",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/oracao-do-pai-nosso-biblia",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Os descendentes de Noé",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/os-descendentes-de-noe",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O Amor ao Próximo",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/amor-ao-proximo",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O dilúvio",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-diluvio-na-biblia",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O nascimento de Caim, Abel e Sete",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-nascimento-de-caim-abel-e-sete",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O nascimento de Jesus",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-nascimento-de-jesus",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O pacto que Deus fez com Noé",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-pacto-que-deus-fez-com-noe",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O Poder da Oração",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/poder-da-oracao",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O primeiro homicídio",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-primeiro-homicidio-da-historia-da-humanidade",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Oferta",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/oferta",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Oração",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/oracao",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Oração do Pai Nosso",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/oracao-do-pai-nosso-biblia",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Os descendentes de Noé",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/os-descendentes-de-noe",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O Amor ao Próximo",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/amor-ao-proximo",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O dilúvio",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-diluvio-na-biblia",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O nascimento de Caim, Abel e Sete",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-nascimento-de-caim-abel-e-sete",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O nascimento de Jesus",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-nascimento-de-jesus",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O pacto que Deus fez com Noé",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-pacto-que-deus-fez-com-noe",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O Poder da Oração",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/poder-da-oracao",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "O primeiro homicídio",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/o-primeiro-homicidio-da-historia-da-humanidade",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Oferta",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/oferta",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Oração",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/oracao",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Oração do Pai Nosso",
+      "tipo": "temas",
+      "url": "https://www.bibliadocristao.com/concordancia/temas/oracao-do-pai-nosso-biblia",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    },
+    {
+      "termo": "Os descendentes de Noé",
+      "tipo": "episodiosetopicos",
+      "url": "https://www.bibliadocristao.com/concordancia/episodiosetopicos/os-descendentes-de-noe",
+      "referencias": [],
+      "quantidade": 0,
+      "definicao": "Termo bíblico encontrado em 0 versículo(s).",
+      "definicaoAdicional": "Jesus Cristo é o centro da Palavra de Deus."
+    }
+  ]
+}

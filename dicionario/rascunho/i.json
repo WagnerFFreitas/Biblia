@@ -1,0 +1,407 @@
+{
+  "I": [
+    {
+      "termo": "I.N.R.I",
+      "definicao": "Sigla em latim para 'Iesus Nazarenus Rex Iudaeorum', que significa 'Jesus Nazareno, Rei dos Judeus'. Foi colocada por Pilatos na cruz de Cristo.",
+      "definicaoAdicional": "A inscrição foi escrita em hebraico, grego e latim, mostrando que a mensagem de Cristo era universal. Os judeus pediram que fosse mudada, mas Pilatos recusou.",
+      "referencias": [
+        "João 19:19-20",
+        "Mateus 27:37",
+        "Marcos 15:26",
+        "Lucas 23:38"
+      ]
+    },
+    {
+      "termo": "Idolatria",
+      "definicao": "Adoração a ídolos ou substituição de Deus por outros objetos de culto. Um dos pecados mais graves nas Escrituras, punido com juízo e separação de Deus.",
+      "definicaoAdicional": "O primeiro mandamento proíbe a idolatria. Paulo alerta que a idolatria impede a entrada no reino de Deus. A verdadeira adoração é em espírito e em verdade.",
+      "referencias": [
+        "Êxodo 20:3",
+        "Efésios 5:5",
+        "Colossenses 3:5",
+        "João 4:24"
+      ]
+    },
+    {
+      "termo": "Ídolo",
+      "definicao": "Objeto de adoração falsa, feito pelo homem, sem poder real. Na Bíblia, frequentemente contrastado com o verdadeiro Deus, que fala e age.",
+      "definicaoAdicional": "Os profetas desafiaram os ídolos como surdos e mudos. Os cristãos são chamados a fugir dos ídolos. Toda imagem ou objeto venerado em lugar de Deus é um ídolo.",
+      "referencias": [
+        "Salmo 115:4-8",
+        "1 Coríntios 10:14",
+        "1 João 5:21",
+        "Apocalipse 9:20"
+      ]
+    },
+    {
+      "termo": "Iduméia",
+      "definicao": "Região sul de Canaã, habitada pelos edomitas, descendentes de Esaú. Também mencionada como Edom, terra de inimigos de Israel.",
+      "definicaoAdicional": "Jesus retirou-se para Iduméia durante Seu ministério, e multidões O seguiram. A região simboliza hostilidade espiritual e julgamento divino.",
+      "referencias": [
+        "Marcos 3:7-8",
+        "Mateus 2:18",
+        "Obadias 1:8",
+        "Miquéias 2:12"
+      ]
+    },
+    {
+      "termo": "Igreja",
+      "definicao": "Conjunto de crentes salvos pela graça, chamados para fora do mundo, sendo corpo de Cristo e templo do Espírito Santo.",
+      "definicaoAdicional": "A igreja foi comprada com o sangue de Cristo. É chamada de Esposa do Cordeiro. Cada congregação local deve refletir a unidade e o amor do Corpo de Cristo no mundo.",
+      "referencias": [
+        "Mateus 16:18",
+        "Atos 20:28",
+        "Efésios 1:22-23",
+        "Apocalipse 21:9"
+      ]
+    },
+    {
+      "termo": "Imagem de Deus",
+      "definicao": "Capacidade do ser humano de refletir as qualidades de Deus, como razão, moralidade e relação pessoal com o Criador.",
+      "definicaoAdicional": "Todo ser humano é criado à imagem e semelhança de Deus, mesmo após a queda. A redenção em Cristo restaura essa imagem, tornando o homem novo em Cristo.",
+      "referencias": [
+        "Gênesis 1:26",
+        "Gênesis 9:6",
+        "1 Coríntios 11:7",
+        "Colossenses 3:10"
+      ]
+    },
+    {
+      "termo": "Império",
+      "definicao": "Grande domínio político e territorial. Na Bíblia, inclui o egípcio, assírio, babilônico, persa, grego e romano.",
+      "definicaoAdicional": "Deus levanta e derruba impérios conforme Sua vontade. O Império Romano foi usado por Deus para espalhar o evangelho, apesar de sua corrupção.",
+      "referencias": [
+        "Daniel 2",
+        "Romanos 13:1",
+        "Apocalipse 17",
+        "Ezequiel 38"
+      ]
+    },
+    {
+      "termo": "Impor",
+      "definicao": "Colocar sobre alguém com autoridade, seja mãos, bênçãos, cargas ou juízo. Na Bíblia, pode ter conotações positivas (bênçãos) ou negativas (maldições).",
+      "definicaoAdicional": "Jesus impunha as mãos aos enfermos e os curava. Paulo instruiu Timóteo a não impor mãos subitamente aos homens. Satanás também impõe cargas pesadas aos ímpios.",
+      "referencias": [
+        "Marcos 16:18",
+        "1 Timóteo 5:22",
+        "Lucas 23:31",
+        "Provérbios 28:20"
+      ]
+    },
+    {
+      "termo": "Imposição de Mãos",
+      "definicao": "Ritual simbólico usado pelos apóstolos e líderes espirituais para oração, cura, batismo no Espírito Santo ou ordenação ministerial.",
+      "definicaoAdicional": "Por meio da imposição de mãos, os anciãos ordenavam diáconos e presbíteros. Paulo recebeu visão e missão por meio disso. O Espírito Santo também foi dado dessa forma.",
+      "referencias": [
+        "Atos 8:17",
+        "Atos 13:3",
+        "1 Timóteo 4:14",
+        "Tiago 5:14"
+      ]
+    },
+    {
+      "termo": "Imposto",
+      "definicao": "Taxa cobrada por governos ou autoridades. Na Bíblia, usada como metáfora de opressão espiritual e física.",
+      "definicaoAdicional": "Jesus pagou imposto com moeda vinda da boca de um peixe. Paulo instruiu os cristãos a pagar impostos às autoridades constituídas por Deus.",
+      "referencias": [
+        "Mateus 17:24-27",
+        "Romanos 13:6",
+        "Lucas 20:22",
+        "1 Pedro 2:13"
+      ]
+    },
+    {
+      "termo": "Imprecação",
+      "definicao": "Palavra ou oração pedindo maldição ou castigo. Usada tanto por profetas quanto por cristãos em defesa da justiça e da verdade.",
+      "definicaoAdicional": "Paulo falou de amaldiçoar quem pregasse outro evangelho. Jesus pronunciou imprecações contra os fariseus. No Antigo Testamento, Davi clamou por justiça divina contra seus inimigos.",
+      "referencias": [
+        "Gálatas 1:8",
+        "Mateus 23",
+        "Salmos 109",
+        "Apocalipse 6:10"
+      ]
+    },
+    {
+      "termo": "Imundo",
+      "definicao": "Pessoa ou coisa considerada impura perante Deus, muitas vezes por causa de pecado ou contato com elementos da Lei judaica.",
+      "definicaoAdicional": "Jesus declarou o alimento limpo, mas alertou que o coração humano é fonte de coisas imundas. A salvação em Cristo purifica o íntimo e lava toda imundícia.",
+      "referencias": [
+        "Levítico 11",
+        "Mateus 15:18-20",
+        "Efésios 5:3",
+        "1 João 1:7"
+      ]
+    },
+    {
+      "termo": "Imutável",
+      "definicao": "Que não muda. Atributo de Deus, cujo caráter, promessas e propósito permanecem firmes para sempre.",
+      "definicaoAdicional": "Deus não se arrepende como os homens. Sua aliança é imutável. A Palavra de Deus também é imutável, assim como o evangelho pregado aos gentios.",
+      "referencias": [
+        "Malaquias 3:6",
+        "Hebreus 13:8",
+        "Tiago 1:17",
+        "Números 23:19"
+      ]
+    },
+    {
+      "termo": "Incenso",
+      "definicao": "Substância aromática queimada em ofertas e orações. Simboliza oração ascendente diante de Deus.",
+      "definicaoAdicional": "No Tabernáculo e Templo, o incenso era oferecido diariamente. Em Apocalipse, as orações dos santos são representadas como incenso diante do trono celestial.",
+      "referencias": [
+        "Êxodo 30:1-10",
+        "Apocalipse 5:8",
+        "Apocalipse 8:3",
+        "Lucas 1:10"
+      ]
+    },
+    {
+      "termo": "Incircunciso",
+      "definicao": "Pessoa que não passou pelo rito da circuncisão, símbolo da aliança abraâmica. Na Bíblia, também usado metaforicamente para quem vive longe de Deus.",
+      "definicaoAdicional": "Jesus é a circuncisão do coração. Paulo diz que os incircuncisos podem ser salvos pela fé. O verdadeiro povo de Deus é circunciso no espírito, não só na carne.",
+      "referencias": [
+        "Gênesis 17:14",
+        "Romanos 2:28-29",
+        "Filipenses 3:3",
+        "Efésios 2:11"
+      ]
+    },
+    {
+      "termo": "Incitar",
+      "definicao": "Provocar, incentivar ou instigar. Na Bíblia, pode ter conotação positiva (incitação ao bem) ou negativa (incitação ao mal).",
+      "definicaoAdicional": "Alguns incitaram o povo contra Paulo. Outros foram incitados pelo Espírito Santo a pregar o evangelho. Incitar ao ódio ou à guerra é obra da carne.",
+      "referencias": [
+        "Atos 17:5",
+        "Tiago 1:2",
+        "Efésios 6:21",
+        "Gálatas 5:25"
+      ]
+    },
+    {
+      "termo": "Inclinar",
+      "definicao": "Curvar-se, virar-se para um lado ou mover-se em direção a algo. Na Bíblia, usado tanto fisicamente quanto espiritualmente.",
+      "definicaoAdicional": "Deus inclina Seu ouvido às orações dos justos. Os ímpios inclinam seu coração para a iniqüidade. Devemos inclinar nosso caminho para Deus, não para a carne.",
+      "referencias": [
+        "Salmo 31:2",
+        "Provérbios 4:25",
+        "Isaías 1:15",
+        "Tiago 4:8"
+      ]
+    },
+    {
+      "termo": "Inferno",
+      "definicao": "Lugar eterno de punição e separação de Deus, descrito como lago de fogo e enxofre. Destino final dos ímpios e rebeldes.",
+      "definicaoAdicional": "Jesus ensinou sobre o inferno mais do que qualquer outro tema. O inferno é preparado para o diabo e seus anjos, mas também para os que escolhem viver contra Deus.",
+      "referencias": [
+        "Mateus 5:22",
+        "Mateus 25:41",
+        "Apocalipse 20:10",
+        "Apocalipse 21:8"
+      ]
+    },
+    {
+      "termo": "Inflamar",
+      "definicao": "Acender, atiçar ou estimular. Na Bíblia, usado tanto para inflamar o coração com amor quanto para descrever paixão carnal ou ira maligna.",
+      "definicaoAdicional": "O coração de Cristo estava inflamado com zelo pelas obras do Pai. Paulo exorta os cristãos a inflamar uns aos outros com amor e boas obras. As línguas precisam ser controladas para não inflamar o corpo todo.",
+      "referencias": [
+        "João 2:17",
+        "Tito 2:14",
+        "Tiago 3:6",
+        "Hebreus 10:24"
+      ]
+    },
+    {
+      "termo": "Iniquidade",
+      "definicao": "Pecado deliberado e contínuo, transgressão consciente da lei de Deus. Contrasta com erro ocasional ou pecado ignorante.",
+      "definicaoAdicional": "A iniquidade leva ao endurecimento do coração. Jesus levou nossas iniquidades na cruz. A remissão do pecado e da iniquidade é concedida por meio de Cristo.",
+      "referencias": [
+        "Salmo 38:17",
+        "Isaías 53:5",
+        "Romanos 4:7",
+        "Hebreus 10:17"
+      ]
+    },
+    {
+      "termo": "Injustiça",
+      "definicao": "Prática de ações erradas, enganosas ou contrárias à justiça de Deus. Na Bíblia, é uma das obras da carne.",
+      "definicaoAdicional": "Jesus sofreu injustiça por parte de Pilatos e do Sinédrio. Paulo foi preso injustamente, mas Deus ainda usou isso para propagar o evangelho. A injustiça será julgada no dia do Senhor.",
+      "referencias": [
+        "Romanos 6:13",
+        "Efésios 4:28",
+        "1 Pedro 2:20",
+        "Apocalipse 22:11"
+      ]
+    },
+    {
+      "termo": "Inscrever",
+      "definicao": "Escrever ou gravar palavras em superfícies como pedra, pergaminho ou corações humanos. Na Bíblia, usado tanto no sentido físico quanto espiritual.",
+      "definicaoAdicional": "Deus promete inscrever Sua lei nos corações dos salvos. A Palavra de Deus é inscrita na alma do crente. Jesus teve uma inscrição sobre a cabeça na cruz.",
+      "referencias": [
+        "Jeremias 31:33",
+        "Hebreus 8:10",
+        "Lucas 23:38",
+        "Efésios 3:3"
+      ]
+    },
+    {
+      "termo": "Inspiração",
+      "definicao": "Movimento do Espírito Santo sobre os homens escolhidos por Deus para escrever ou transmitir a verdade divina. A Bíblia é descrita como inspirada por Deus.",
+      "definicaoAdicional": "A inspiração divina garante a infalibilidade das Escrituras. Os profetas eram inspirados pelo Espírito para falar a verdade. Os cristãos também são chamados a viver em inspiração do Alto.",
+      "referencias": [
+        "2 Timóteo 3:16",
+        "2 Pedro 1:21",
+        "João 20:22",
+        "Efésios 5:18"
+      ]
+    },
+    {
+      "termo": "Inteligência",
+      "definicao": "Capacidade de compreender, discernir e aplicar sabedoria. Na Bíblia, é dada por Deus aos que andam em obediência e temor d'Ele.",
+      "definicaoAdicional": "Daniel tinha inteligência superior à dos magos da Babilônia. Paulo instruiu os cristãos a buscar inteligência espiritual através da Palavra e do Espírito.",
+      "referencias": [
+        "Daniel 5:12",
+        "Provérbios 2:6",
+        "Efésios 1:17",
+        "Colossenses 1:9"
+      ]
+    },
+    {
+      "termo": "Íntimo",
+      "definicao": "Parte mais profunda do ser humano, onde habita o espírito e o coração. Na Bíblia, é onde Deus habita nos salvos.",
+      "definicaoAdicional": "Jesus disse que o verdadeiro templo era Seu corpo. Hoje, o Espírito habita no íntimo do crente. O íntimo também pode ser corrompido pelo pecado.",
+      "referencias": [
+        "João 2:19",
+        "Efésios 3:16",
+        "1 Coríntios 5:13",
+        "1 Pedro 3:4"
+      ]
+    },
+    {
+      "termo": "Introduzir",
+      "definicao": "Colocar ou levar alguém a um lugar ou condição. Na Bíblia, usado tanto para introduzir pessoas em reinos quanto para advertir contra introduzir heresias.",
+      "definicaoAdicional": "Jesus introduziu o bom ladrão no paraíso. Paulo adverte contra introduzir falsas doutrinas. Os discípulos foram introduzidos nos mistérios do Reino de Deus.",
+      "referencias": [
+        "Lucas 23:43",
+        "2 Pedro 2:1",
+        "Mateus 13:11",
+        "Efésios 3:9"
+      ]
+    },
+    {
+      "termo": "Inveja",
+      "definicao": "Desejo de possuir o que outro possui. Na Bíblia, é uma das obras da carne e causa de divisão entre irmãos.",
+      "definicaoAdicional": "Os irmãos de José tiveram inveja dele. Os judeus tinham inveja de Paulo. Jesus foi entregue por inveja. Mas os cristãos devem encorajar-se uns aos outros com o bem.",
+      "referencias": [
+        "Gênesis 37:11",
+        "Mateus 27:18",
+        "Marcos 15:10",
+        "Tiago 3:14"
+      ]
+    },
+    {
+      "termo": "Ira",
+      "definicao": "Sentimento forte de raiva ou indignação. Na Bíblia, pode ser ira justa (como a de Deus) ou ira carnal (obras da carne).",
+      "definicaoAdicional": "A ira de Deus é revelada contra toda impiedade. A ira humana, quando não controlada, produz morte e conflito. Os cristãos devem deixar a ira e viver em paz.",
+      "referencias": [
+        "Romanos 1:18",
+        "Efésios 4:31",
+        "Tiago 1:19-20",
+        "Apocalipse 14:10"
+      ]
+    },
+    {
+      "termo": "Irmãos de Jesus",
+      "definicao": "Irmãos biológicos ou familiares de Jesus, mencionados nos Evangelhos como Tiago, José, Judas e Simão. Alguns defendem que seriam primos ou parentes próximos.",
+      "definicaoAdicional": "Inicialmente, os irmãos de Jesus não acreditavam nEle. Mais tarde, Tiago e Judas tornaram-se líderes da igreja primitiva. A Bíblia chama os crentes de irmãos de Cristo.",
+      "referencias": [
+        "Mateus 12:46",
+        "João 7:5",
+        "Atos 1:14",
+        "Romanos 8:29"
+      ]
+    },
+    {
+      "termo": "Irremissivelmente",
+      "definicao": "De forma irreversível, sem volta. Na Bíblia, usado para descrever decisões, pactos ou apostasias que não podem ser revertidas.",
+      "definicaoAdicional": "Jesus fala que blasfêmia contra o Espírito Santo é pecado irremissivelmente imperdoável. Paulo também menciona que alguns abandonam a fé irremissivelmente e se perdem.",
+      "referencias": [
+        "Mateus 12:31",
+        "Marcos 3:30",
+        "1 Timóteo 4:1",
+        "Hebreus 6:4-6"
+      ]
+    },
+    {
+      "termo": "Isaque",
+      "definicao": "Segundo patriarca, filho de Abraão e Sara, pai de Jacó e Esaú. Chamado \"pai de Israel\", é figura da promessa de Deus e do sacrifício de Cristo.",
+      "definicaoAdicional": "Isaque carregou lenha para o sacrifício, tipo do Calvário. Ele herdou a promessa de Abraão e foi servo da aliança. Paulo usa Isaque como exemplo de filiação espiritual.",
+      "referencias": [
+        "Gênesis 21-28",
+        "Mateus 1:2",
+        "Romanos 9:10",
+        "Hebreus 11:17"
+      ]
+    },
+    {
+      "termo": "Isbosete",
+      "definicao": "Filho de Saul que reinou brevemente sobre Israel enquanto Davi governava em Hebrom. Foi assassinado por seus próprios oficiais.",
+      "definicaoAdicional": "Sua história mostra o caos da sucessão real após Saul. Sua morte foi julgada por Davi como crime contra o ungido do Senhor.",
+      "referencias": [
+        "2 Samuel 2:8-10",
+        "2 Samuel 4"
+      ]
+    },
+    {
+      "termo": "Ismael",
+      "definicao": "Filho de Abraão com Agar, mãe serva. Seu nome significa 'Deus ouvirá'. Foi ancestral dos árabes e protetorado por Deus.",
+      "definicaoAdicional": "Embora Ismael tenha sido excluído da promessa de Isaac, Deus ainda o bendisse e prometeu multiplicar sua descendência. Seu nome simboliza cuidado divino mesmo fora da aliança principal.",
+      "referencias": [
+        "Gênesis 16-21",
+        "Gênesis 21:13",
+        "Gênesis 25:12",
+        "Lucas 1:49"
+      ]
+    },
+    {
+      "termo": "Israel",
+      "definicao": "Nome dado a Jacó após sua luta com o anjo. Representa o povo eleito de Deus, formado pelas doze tribos e destinado à terra prometida e ao Messias.",
+      "definicaoAdicional": "Israel é chamado de \"servo\" e \"filho\" de Deus. Jesus veio para Israel, e Paulo diz que a salvação vem dos judeus. No Novo Testamento, o verdadeiro Israel é o povo de Deus — a Igreja.",
+      "referencias": [
+        "Gênesis 32:28",
+        "João 1:49",
+        "Romanos 9:6",
+        "Gálatas 6:16"
+      ]
+    },
+    {
+      "termo": "Issacar",
+      "definicao": "Filho quinto de Jacó e Lia, ancestral da tribo de Issacar. A tribo era conhecida por sua habilidade de interpretar os tempos e liderar com sabedoria.",
+      "definicaoAdicional": "A tribo de Issacar era sábia em discernir os sinais dos tempos. São comparados a jumento forte que carrega fardos. Em Apocalipse, aparecem entre os selados.",
+      "referencias": [
+        "Gênesis 30:16-20",
+        "1 Crônicas 7:1-5",
+        "Apocalipse 7:7",
+        "1 Crônicas 12:32"
+      ]
+    },
+    {
+      "termo": "Issarom",
+      "definicao": "Local onde Salomão construiu altares para os deuses de Amom. Não mencionado diretamente na Bíblia, mas ligado à história de apostasia real.",
+      "definicaoAdicional": "Issarom ficava próximo ao Monte do Ofício de Jerusalém. Lugar onde Salomão permitiu idolatria, causando afastamento de Deus. Mostra que até reis piedosos podem cair em pecado grave.",
+      "referencias": [
+        "1 Reis 11:7",
+        "1 Reis 11:33",
+        "2 Reis 23:13"
+      ]
+    },
+    {
+      "termo": "Ituréia",
+      "definicao": "Região situada ao norte da Galiléia, governada por Herodes Filipo e mencionada por Lucas no registro do início do ministério de João Batista.",
+      "definicaoAdicional": "Ituréia fazia parte do território sob domínio de Herodes Antipas. João Batista pregou em Ituréia e outras regiões. Registros históricos indicam que ali viviam povos semitas e árabes.",
+      "referencias": [
+        "Lucas 3:1",
+        "Mateus 14:5",
+        "Marcos 3:8"
+      ]
+    }
+  ]
+}
