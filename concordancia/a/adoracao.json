@@ -1,0 +1,28 @@
+{
+    "palavra": "adoração",
+    "ocorrencias": 185,
+    "versiculos": [
+        {
+            "livro": "João",
+            "referencias": [
+                {
+                    "referencia": "João 4:23-24",
+                    "texto": "No entanto, está chegando a hora, e de fato já chegou, em que os verdadeiros adoradores adorarão o Pai em espírito e em verdade. São estes os adoradores que o Pai procura. Deus é espírito, e é necessário que os seus adoradores o adorem em espírito e em verdade."
+                }
+            ]
+        },
+        {
+            "livro": "Salmos",
+            "referencias": [
+                {
+                    "referencia": "Salmos 95:6",
+                    "texto": "Venham! Adoremos prostrados e ajoelhemos diante do Senhor, o nosso Criador."
+                },
+                {
+                    "referencia": "Salmos 29:2",
+                    "texto": "Atribuam ao Senhor a glória que o seu nome merece; adorem o Senhor no esplendor da sua santidade."
+                }
+            ]
+        }
+    ]
+}

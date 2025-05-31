@@ -1,0 +1,28 @@
+{
+    "palavra": "alegria",
+    "ocorrencias": 242,
+    "versiculos": [
+        {
+            "livro": "Salmos",
+            "referencias": [
+                {
+                    "referencia": "Salmos 16:11",
+                    "texto": "Tu me farás conhecer o caminho da vida, a alegria completa da tua presença, eterno prazer à tua direita."
+                },
+                {
+                    "referencia": "Salmos 30:5",
+                    "texto": "Pois a sua ira dura só um momento, mas o seu favor dura a vida toda; o choro pode persistir uma noite, mas de manhã irrompe a alegria."
+                }
+            ]
+        },
+        {
+            "livro": "Gálatas",
+            "referencias": [
+                {
+                    "referencia": "Gálatas 5:22",
+                    "texto": "Mas o fruto do Espírito é amor, alegria, paz, paciência, amabilidade, bondade, fidelidade."
+                }
+            ]
+        }
+    ]
+}

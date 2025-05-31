@@ -1,0 +1,792 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Concordância Bíblica</title>
+    <style>
+        /* Estilos gerais - compatíveis com o projeto principal */
+        body {
+            background-color: #181818;
+            color: #d4ac0d;
+            font-family: sans-serif;
+            margin: 0;
+            width: 100%;
+            font-style: italic;
+            font-weight: bold;
+            overflow-x: hidden;
+        }
+
+        /* Cabeçalho */
+        header {
+            background: linear-gradient(to right, #333, #555, #777);
+            padding: 20px 0;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+        }
+
+        .header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0 30px;
+        }
+
+        .titulo-container h1 {
+            margin: 0;
+            font-size: 2.5em;
+            color: #fff;
+        }
+
+        .nome-extenso-versao {
+            font-size: 1.2em;
+            margin-top: 5px;
+            color: #d4ac0d;
+        }
+
+        /* Barra de navegação */
+        nav {
+            background: linear-gradient(to right, #333, #555, #777);
+            width: 100%;
+            padding: 10px 0;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            height: 20px;
+        }
+
+        .menu-title {
+            color: white;
+            font-size: 1.5vw;
+            margin-left: 37px;
+            margin-right: 20px;
+            display: flex;
+            align-items: center;
+            white-space: nowrap;
+        }
+
+        nav .menu-opcoes {
+            display: flex;
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            flex-grow: 1;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: nowrap;
+            margin-left: 70px;
+        }
+
+        nav .menu-opcoes li {
+            margin: 0 13px;
+            white-space: nowrap;
+        }
+
+        nav .menu-opcoes li a {
+            text-decoration: none;
+            color: white;
+            padding: 4px 4px;
+            border-radius: 5px;
+            transition: background 0.3s ease;
+            font-size: 1.2vw;
+            display: inline-block;
+        }
+
+        nav .menu-opcoes li a:hover {
+            background: rgba(255, 255, 255, 0.2);
+        }
+
+        /* Conteúdo principal */
+        .container {
+            display: flex;
+            flex-direction: row;
+            min-height: calc(100vh - 200px);
+        }
+
+        /* Barra lateral de categorias */
+        .categorias-sidebar {
+            flex: 0 0 200px;
+            background-color: #222;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            position: fixed;
+            top: 150px;
+            left: 0;
+            bottom: 30px;
+            overflow-y: auto;
+            width: 200px;
+        }
+
+        .categorias-sidebar::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        .categorias-sidebar::-webkit-scrollbar-track {
+            background: #383838;
+        }
+
+        .categorias-sidebar::-webkit-scrollbar-thumb {
+            background: #a7a2a2;
+            border-radius: 10px;
+        }
+
+        .categoria-btn {
+            background-color: #220bf0;
+            color: white;
+            padding: 10px 15px;
+            border-radius: 5px;
+            margin-bottom: 10px;
+            cursor: pointer;
+            font-size: 16px;
+            border: none;
+            transition: background-color 0.3s;
+            text-align: left;
+        }
+
+        .categoria-btn:hover {
+            background-color: #45a049;
+        }
+
+        .categoria-btn.active {
+            background-color: #4CAF50;
+        }
+
+        /* Área de conteúdo principal */
+        .content {
+            flex: 1;
+            padding: 20px;
+            margin-left: 240px;
+            margin-right: 20px;
+            overflow-y: auto;
+            height: calc(100vh - 200px);
+        }
+
+        .content::-webkit-scrollbar {
+            width: 16px;
+        }
+
+        .content::-webkit-scrollbar-track {
+            background: #383838;
+        }
+
+        .content::-webkit-scrollbar-thumb {
+            background: #a7a2a2;
+            border-radius: 10px;
+            margin: 5px;
+            min-height: 50px;
+        }
+
+        /* Barra de pesquisa */
+        .search-container {
+            display: flex;
+            margin-bottom: 30px;
+            padding: 10px;
+            background-color: #222;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+        }
+
+        .search-input {
+            flex: 1;
+            padding: 12px;
+            border: 1px solid #555;
+            border-radius: 5px 0 0 5px;
+            background-color: #333;
+            color: #fff;
+            font-size: 16px;
+        }
+
+        .search-btn {
+            padding: 12px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 0 5px 5px 0;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s;
+        }
+
+        .search-btn:hover {
+            background-color: #45a049;
+        }
+
+        /* Estilo dos resultados da concordância */
+        .palavra-section {
+            margin-bottom: 40px;
+        }
+
+        .palavra-header {
+            background-color: #220bf0;
+            color: white;
+            padding: 15px 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            font-size: 1.5em;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .palavra-header .contador {
+            background-color: #4CAF50;
+            color: white;
+            padding: 5px 10px;
+            border-radius: 20px;
+            font-size: 0.8em;
+        }
+
+        .ocorrencia {
+            margin-bottom: 20px;
+            padding: 15px;
+            background-color: rgba(30, 30, 30, 0.7);
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+            transition: transform 0.2s;
+        }
+
+        .ocorrencia:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        }
+
+        .ocorrencia .referencia {
+            color: #4CAF50;
+            font-size: 1.2em;
+            margin-bottom: 10px;
+            border-bottom: 1px solid #444;
+            padding-bottom: 5px;
+        }
+
+        .ocorrencia .texto {
+            color: #f8f8f8;
+            font-size: 1.1em;
+            line-height: 1.6;
+        }
+
+        .ocorrencia .texto .highlight {
+            background-color: rgba(76, 175, 80, 0.3);
+            padding: 2px 4px;
+            border-radius: 3px;
+            font-weight: bold;
+            color: #fff;
+        }
+
+        .livro-grupo {
+            margin-bottom: 30px;
+        }
+
+        .livro-header {
+            background-color: #333;
+            color: #d4ac0d;
+            padding: 10px 15px;
+            border-radius: 5px;
+            margin-bottom: 15px;
+            font-size: 1.2em;
+        }
+
+        /* Filtros adicionais */
+        .filtros-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 20px;
+            padding: 15px;
+            background-color: #222;
+            border-radius: 8px;
+        }
+
+        .filtro-grupo {
+            display: flex;
+            align-items: center;
+        }
+
+        .filtro-label {
+            color: #d4ac0d;
+            margin-right: 10px;
+            font-size: 0.9em;
+        }
+
+        .filtro-select {
+            padding: 8px;
+            background-color: #333;
+            color: #fff;
+            border: 1px solid #555;
+            border-radius: 5px;
+            font-size: 0.9em;
+        }
+
+        /* Rodapé */
+        footer {
+            background-color: #383838;
+            text-align: center;
+            padding: 10px 0;
+            width: 100%;
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            z-index: 1;
+            height: 30px;
+        }
+
+        footer p {
+            font-size: 16px;
+            line-height: 0.2;
+            color: #d4ac0d;
+        }
+
+        /* Responsividade */
+        @media (max-width: 768px) {
+            .container {
+                flex-direction: column;
+            }
+
+            .categorias-sidebar {
+                position: static;
+                width: 100%;
+                height: auto;
+                padding: 10px;
+            }
+
+            .content {
+                margin-left: 20px;
+                height: auto;
+            }
+
+            .header-top {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .search-container {
+                flex-direction: column;
+            }
+
+            .search-input, .search-btn {
+                width: 100%;
+                border-radius: 5px;
+                margin-bottom: 10px;
+            }
+
+            .search-btn {
+                margin-top: 10px;
+            }
+
+            .filtros-container {
+                flex-direction: column;
+            }
+
+            .filtro-grupo {
+                width: 100%;
+                margin-bottom: 10px;
+            }
+        }
+
+        /* Marca d'água */
+        .watermark {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: url('../img/biblia.jpg');
+            background-size: cover;
+            background-position: center;
+            opacity: 0.1;
+            pointer-events: none;
+            z-index: -1;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-top">
+            <div class="titulo-container">
+                <h1>Concordância Bíblica</h1>
+                <p class="nome-extenso-versao">Localize todas as ocorrências de palavras na Bíblia Sagrada</p>
+            </div>
+        </div>
+    </header>
+
+    <nav>
+        <span class="menu-title">NAVEGAÇÃO</span>
+        <ul class="menu-opcoes">
+            <li><a href="../index.html">Menu Principal</a></li>
+            <li><a href="versoes.html">Bíblia</a></li>
+            <li><a href="dicionario-biblico.html">Dicionário</a></li>
+            <li><a href="#" id="sobre">Sobre</a></li>
+        </ul>
+    </nav>
+
+    <div class="container">
+        <div class="categorias-sidebar">
+            <button class="categoria-btn active" data-categoria="populares">Palavras Populares</button>
+            <button class="categoria-btn" data-categoria="amor">Amor</button>
+            <button class="categoria-btn" data-categoria="fe">Fé</button>
+            <button class="categoria-btn" data-categoria="salvacao">Salvação</button>
+            <button class="categoria-btn" data-categoria="graca">Graça</button>
+            <button class="categoria-btn" data-categoria="perdao">Perdão</button>
+            <button class="categoria-btn" data-categoria="esperanca">Esperança</button>
+            <button class="categoria-btn" data-categoria="paz">Paz</button>
+            <button class="categoria-btn" data-categoria="justica">Justiça</button>
+            <button class="categoria-btn" data-categoria="misericordia">Misericórdia</button>
+            <button class="categoria-btn" data-categoria="verdade">Verdade</button>
+            <button class="categoria-btn" data-categoria="vida">Vida</button>
+            <button class="categoria-btn" data-categoria="luz">Luz</button>
+            <button class="categoria-btn" data-categoria="caminho">Caminho</button>
+            <button class="categoria-btn" data-categoria="palavra">Palavra</button>
+            <button class="categoria-btn" data-categoria="oracao">Oração</button>
+            <button class="categoria-btn" data-categoria="adoracao">Adoração</button>
+            <button class="categoria-btn" data-categoria="sabedoria">Sabedoria</button>
+            <button class="categoria-btn" data-categoria="alegria">Alegria</button>
+            <button class="categoria-btn" data-categoria="pecado">Pecado</button>
+        </div>
+
+        <div class="content">
+            <div class="search-container">
+                <input type="text" class="search-input" placeholder="Digite uma palavra para buscar na Bíblia...">
+                <button class="search-btn">Buscar</button>
+            </div>
+
+            <div class="filtros-container">
+                <div class="filtro-grupo">
+                    <span class="filtro-label">Versão:</span>
+                    <select class="filtro-select" id="versao-select">
+                        <option value="ara">ARA - Almeida Revista e Atualizada</option>
+                        <option value="acf">ACF - Almeida Corrigida Fiel</option>
+                        <option value="nvi">NVI - Nova Versão Internacional</option>
+                        <option value="ntlh">NTLH - Nova Tradução na Linguagem de Hoje</option>
+                    </select>
+                </div>
+                <div class="filtro-grupo">
+                    <span class="filtro-label">Testamento:</span>
+                    <select class="filtro-select" id="testamento-select">
+                        <option value="todos">Todos</option>
+                        <option value="at">Antigo Testamento</option>
+                        <option value="nt">Novo Testamento</option>
+                    </select>
+                </div>
+                <div class="filtro-grupo">
+                    <span class="filtro-label">Livro:</span>
+                    <select class="filtro-select" id="livro-select">
+                        <option value="todos">Todos os livros</option>
+                        <option value="genesis">Gênesis</option>
+                        <option value="exodo">Êxodo</option>
+                        <option value="levitico">Levítico</option>
+                        <!-- Outros livros seriam adicionados aqui -->
+                    </select>
+                </div>
+            </div>
+
+            <!-- Seção de Palavras Populares -->
+            <div class="palavra-section" id="secao-populares">
+                <div class="palavra-header">
+                    <span>Palavras mais buscadas</span>
+                </div>
+
+                <div class="palavra-section">
+                    <div class="palavra-header">
+                        <span>Amor</span>
+                        <span class="contador">308 ocorrências</span>
+                    </div>
+
+                    <div class="livro-grupo">
+                        <div class="livro-header">1 Coríntios</div>
+                        
+                        <div class="ocorrencia">
+                            <div class="referencia">1 Coríntios 13:4-7</div>
+                            <div class="texto">O <span class="highlight">amor</span> é paciente, o <span class="highlight">amor</span> é bondoso. Não inveja, não se vangloria, não se orgulha. Não maltrata, não procura seus interesses, não se ira facilmente, não guarda rancor. O <span class="highlight">amor</span> não se alegra com a injustiça, mas se alegra com a verdade. Tudo sofre, tudo crê, tudo espera, tudo suporta.</div>
+                        </div>
+
+                        <div class="ocorrencia">
+                            <div class="referencia">1 Coríntios 13:13</div>
+                            <div class="texto">Agora, pois, permanecem a fé, a esperança e o <span class="highlight">amor</span>, estes três; porém o maior destes é o <span class="highlight">amor</span>.</div>
+                        </div>
+                    </div>
+
+                    <div class="livro-grupo">
+                        <div class="livro-header">1 João</div>
+                        
+                        <div class="ocorrencia">
+                            <div class="referencia">1 João 4:8</div>
+                            <div class="texto">Quem não ama não conhece a Deus, porque Deus é <span class="highlight">amor</span>.</div>
+                        </div>
+
+                        <div class="ocorrencia">
+                            <div class="referencia">1 João 4:16</div>
+                            <div class="texto">E nós conhecemos e cremos no <span class="highlight">amor</span> que Deus tem por nós. Deus é <span class="highlight">amor</span>, e quem permanece no <span class="highlight">amor</span> permanece em Deus, e Deus nele.</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="palavra-section">
+                    <div class="palavra-header">
+                        <span>Fé</span>
+                        <span class="contador">247 ocorrências</span>
+                    </div>
+
+                    <div class="livro-grupo">
+                        <div class="livro-header">Hebreus</div>
+                        
+                        <div class="ocorrencia">
+                            <div class="referencia">Hebreus 11:1</div>
+                            <div class="texto">Ora, a <span class="highlight">fé</span> é a certeza daquilo que esperamos e a prova das coisas que não vemos.</div>
+                        </div>
+
+                        <div class="ocorrencia">
+                            <div class="referencia">Hebreus 11:6</div>
+                            <div class="texto">Sem <span class="highlight">fé</span> é impossível agradar a Deus, pois quem dele se aproxima precisa crer que ele existe e que recompensa aqueles que o buscam.</div>
+                        </div>
+                    </div>
+
+                    <div class="livro-grupo">
+                        <div class="livro-header">Romanos</div>
+                        
+                        <div class="ocorrencia">
+                            <div class="referencia">Romanos 10:17</div>
+                            <div class="texto">Consequentemente, a <span class="highlight">fé</span> vem por ouvir a mensagem, e a mensagem é ouvida mediante a palavra de Cristo.</div>
+                        </div>
+
+                        <div class="ocorrencia">
+                            <div class="referencia">Romanos 1:17</div>
+                            <div class="texto">Porque no evangelho é revelada a justiça de Deus, uma justiça que do princípio ao fim é pela <span class="highlight">fé</span>, como está escrito: "O justo viverá pela <span class="highlight">fé</span>".</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="palavra-section">
+                    <div class="palavra-header">
+                        <span>Graça</span>
+                        <span class="contador">170 ocorrências</span>
+                    </div>
+
+                    <div class="livro-grupo">
+                        <div class="livro-header">Efésios</div>
+                        
+                        <div class="ocorrencia">
+                            <div class="referencia">Efésios 2:8-9</div>
+                            <div class="texto">Porque pela <span class="highlight">graça</span> sois salvos, por meio da fé; e isto não vem de vós, é dom de Deus. Não vem das obras, para que ninguém se glorie.</div>
+                        </div>
+                    </div>
+
+                    <div class="livro-grupo">
+                        <div class="livro-header">João</div>
+                        
+                        <div class="ocorrencia">
+                            <div class="referencia">João 1:16</div>
+                            <div class="texto">Porque de sua plenitude todos nós recebemos <span class="highlight">graça</span> sobre <span class="highlight">graça</span>.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Seção de Amor -->
+            <div class="palavra-section" id="secao-amor" style="display: none;">
+                <div class="palavra-header">
+                    <span>Amor</span>
+                    <span class="contador">308 ocorrências</span>
+                </div>
+
+                <div class="livro-grupo">
+                    <div class="livro-header">1 Coríntios</div>
+                    
+                    <div class="ocorrencia">
+                        <div class="referencia">1 Coríntios 13:4-7</div>
+                        <div class="texto">O <span class="highlight">amor</span> é paciente, o <span class="highlight">amor</span> é bondoso. Não inveja, não se vangloria, não se orgulha. Não maltrata, não procura seus interesses, não se ira facilmente, não guarda rancor. O <span class="highlight">amor</span> não se alegra com a injustiça, mas se alegra com a verdade. Tudo sofre, tudo crê, tudo espera, tudo suporta.</div>
+                    </div>
+
+                    <div class="ocorrencia">
+                        <div class="referencia">1 Coríntios 13:13</div>
+                        <div class="texto">Agora, pois, permanecem a fé, a esperança e o <span class="highlight">amor</span>, estes três; porém o maior destes é o <span class="highlight">amor</span>.</div>
+                    </div>
+                </div>
+
+                <div class="livro-grupo">
+                    <div class="livro-header">1 João</div>
+                    
+                    <div class="ocorrencia">
+                        <div class="referencia">1 João 4:8</div>
+                        <div class="texto">Quem não ama não conhece a Deus, porque Deus é <span class="highlight">amor</span>.</div>
+                    </div>
+
+                    <div class="ocorrencia">
+                        <div class="referencia">1 João 4:16</div>
+                        <div class="texto">E nós conhecemos e cremos no <span class="highlight">amor</span> que Deus tem por nós. Deus é <span class="highlight">amor</span>, e quem permanece no <span class="highlight">amor</span> permanece em Deus, e Deus nele.</div>
+                    </div>
+
+                    <div class="ocorrencia">
+                        <div class="referencia">1 João 4:18</div>
+                        <div class="texto">No <span class="highlight">amor</span> não há medo; antes, o perfeito <span class="highlight">amor</span> lança fora o medo. Ora, o medo produz tormento; logo, aquele que teme não está aperfeiçoado no <span class="highlight">amor</span>.</div>
+                    </div>
+                </div>
+
+                <div class="livro-grupo">
+                    <div class="livro-header">João</div>
+                    
+                    <div class="ocorrencia">
+                        <div class="referencia">João 3:16</div>
+                        <div class="texto">Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna.</div>
+                    </div>
+
+                    <div class="ocorrencia">
+                        <div class="referencia">João 15:13</div>
+                        <div class="texto">Ninguém tem maior <span class="highlight">amor</span> do que este: de dar alguém a sua vida pelos seus amigos.</div>
+                    </div>
+                </div>
+
+                <div class="livro-grupo">
+                    <div class="livro-header">Romanos</div>
+                    
+                    <div class="ocorrencia">
+                        <div class="referencia">Romanos 5:8</div>
+                        <div class="texto">Mas Deus prova o seu <span class="highlight">amor</span> para conosco pelo fato de ter Cristo morrido por nós, sendo nós ainda pecadores.</div>
+                    </div>
+
+                    <div class="ocorrencia">
+                        <div class="referencia">Romanos 8:38-39</div>
+                        <div class="texto">Porque estou certo de que nem a morte, nem a vida, nem anjos, nem principados, nem coisas presentes, nem futuras, nem potestades, nem a altura, nem a profundidade, nem qualquer outra criatura nos poderá separar do <span class="highlight">amor</span> de Deus, que está em Cristo Jesus, nosso Senhor.</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Mais seções de palavras seriam adicionadas aqui -->
+        </div>
+    </div>
+
+    <div class="watermark"></div>
+
+    <footer>
+        <p>© Bíblia Sagrada 2025</p>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Navegação por categorias
+            const categoriaBtns = document.querySelectorAll('.categoria-btn');
+            const palavraSections = document.querySelectorAll('.palavra-section[id^="secao-"]');
+
+            categoriaBtns.forEach(btn => {
+                btn.addEventListener('click', function() {
+                    const categoria = this.getAttribute('data-categoria');
+                    
+                    // Atualiza botões ativos
+                    categoriaBtns.forEach(b => b.classList.remove('active'));
+                    this.classList.add('active');
+                    
+                    // Mostra seção correspondente
+                    palavraSections.forEach(section => {
+                        if (section.id === `secao-${categoria}`) {
+                            section.style.display = 'block';
+                        } else {
+                            section.style.display = 'none';
+                        }
+                    });
+                });
+            });
+
+            // Funcionalidade de busca
+            const searchInput = document.querySelector('.search-input');
+            const searchBtn = document.querySelector('.search-btn');
+            const ocorrencias = document.querySelectorAll('.ocorrencia');
+            const versaoSelect = document.getElementById('versao-select');
+            const testamentoSelect = document.getElementById('testamento-select');
+            const livroSelect = document.getElementById('livro-select');
+
+            function realizarBusca() {
+                const termo = searchInput.value.toLowerCase().trim();
+                
+                if (termo === '') {
+                    // Se a busca estiver vazia, mostra apenas a seção ativa
+                    const categoriaAtiva = document.querySelector('.categoria-btn.active').getAttribute('data-categoria');
+                    palavraSections.forEach(section => {
+                        section.style.display = section.id === `secao-${categoriaAtiva}` ? 'block' : 'none';
+                    });
+                    
+                    // Mostra todas as ocorrências
+                    ocorrencias.forEach(ocorrencia => {
+                        ocorrencia.style.display = 'block';
+                    });
+                    
+                    return;
+                }
+                
+                // Cria uma nova seção para os resultados da busca
+                let resultadosSection = document.getElementById('secao-resultados');
+                if (!resultadosSection) {
+                    resultadosSection = document.createElement('div');
+                    resultadosSection.id = 'secao-resultados';
+                    resultadosSection.className = 'palavra-section';
+                    document.querySelector('.content').appendChild(resultadosSection);
+                }
+                
+                // Limpa resultados anteriores
+                resultadosSection.innerHTML = '';
+                
+                // Cria cabeçalho para os resultados
+                const header = document.createElement('div');
+                header.className = 'palavra-header';
+                header.innerHTML = `<span>Resultados para: "${termo}"</span>`;
+                resultadosSection.appendChild(header);
+                
+                // Filtra ocorrências
+                let encontrou = false;
+                let livrosEncontrados = {};
+                
+                ocorrencias.forEach(ocorrencia => {
+                    const texto = ocorrencia.querySelector('.texto').textContent.toLowerCase();
+                    const referencia = ocorrencia.querySelector('.referencia').textContent;
+                    const livro = referencia.split(' ')[0]; // Extrai o nome do livro
+                    
+                    if (texto.includes(termo)) {
+                        // Cria ou obtém o grupo do livro
+                        if (!livrosEncontrados[livro]) {
+                            livrosEncontrados[livro] = document.createElement('div');
+                            livrosEncontrados[livro].className = 'livro-grupo';
+                            livrosEncontrados[livro].innerHTML = `<div class="livro-header">${livro}</div>`;
+                            resultadosSection.appendChild(livrosEncontrados[livro]);
+                        }
+                        
+                        // Clona a ocorrência e destaca o termo
+                        const clone = ocorrencia.cloneNode(true);
+                        const textoElement = clone.querySelector('.texto');
+                        textoElement.innerHTML = textoElement.textContent.replace(
+                            new RegExp(termo, 'gi'), 
+                            match => `<span class="highlight">${match}</span>`
+                        );
+                        
+                        livrosEncontrados[livro].appendChild(clone);
+                        encontrou = true;
+                    }
+                });
+                
+                // Esconde todas as seções e mostra apenas os resultados
+                palavraSections.forEach(section => {
+                    section.style.display = 'none';
+                });
+                resultadosSection.style.display = 'block';
+                
+                if (!encontrou) {
+                    resultadosSection.innerHTML += '<p style="color: #fff; text-align: center;">Nenhum resultado encontrado para: ' + termo + '</p>';
+                }
+            }
+
+            searchBtn.addEventListener('click', realizarBusca);
+            searchInput.addEventListener('keypress', function(e) {
+                if (e.key === 'Enter') {
+                    realizarBusca();
+                }
+            });
+
+            // Filtros adicionais
+            [versaoSelect, testamentoSelect, livroSelect].forEach(select => {
+                select.addEventListener('change', function() {
+                    // Aqui seria implementada a lógica de filtragem baseada nas seleções
+                    // Por simplicidade, apenas mostramos um alerta
+                    alert(`Filtro aplicado: ${this.options[this.selectedIndex].text}`);
+                });
+            });
+        });
+    </script>
+</body>
+</html>

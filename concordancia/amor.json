@@ -1,0 +1,32 @@
+{
+    "palavra": "amor",
+    "ocorrencias": 308,
+    "versiculos": [
+        {
+            "livro": "1 Coríntios",
+            "referencias": [
+                {
+                    "referencia": "1 Coríntios 13:4-7",
+                    "texto": "O amor é paciente, o amor é bondoso. Não inveja, não se vangloria, não se orgulha. Não maltrata, não procura seus interesses, não se ira facilmente, não guarda rancor. O amor não se alegra com a injustiça, mas se alegra com a verdade. Tudo sofre, tudo crê, tudo espera, tudo suporta."
+                },
+                {
+                    "referencia": "1 Coríntios 13:13",
+                    "texto": "Agora, pois, permanecem a fé, a esperança e o amor, estes três; porém o maior destes é o amor."
+                }
+            ]
+        },
+        {
+            "livro": "1 João",
+            "referencias": [
+                {
+                    "referencia": "1 João 4:8",
+                    "texto": "Quem não ama não conhece a Deus, porque Deus é amor."
+                },
+                {
+                    "referencia": "1 João 4:16",
+                    "texto": "E nós conhecemos e cremos no amor que Deus tem por nós. Deus é amor, e quem permanece no amor permanece em Deus, e Deus nele."
+                }
+            ]
+        }
+    ]
+}

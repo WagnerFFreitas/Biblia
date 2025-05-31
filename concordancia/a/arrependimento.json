@@ -1,0 +1,33 @@
+{
+    "palavra": "arrependimento",
+    "ocorrencias": 156,
+    "versiculos": [
+        {
+            "livro": "Atos",
+            "referencias": [
+                {
+                    "referencia": "Atos 3:19",
+                    "texto": "Arrependam-se, pois, e voltem-se para Deus, para que os seus pecados sejam cancelados."
+                }
+            ]
+        },
+        {
+            "livro": "2 Coríntios",
+            "referencias": [
+                {
+                    "referencia": "2 Coríntios 7:10",
+                    "texto": "Porque a tristeza segundo Deus produz um arrependimento que leva à salvação e não remorso, mas a tristeza segundo o mundo produz morte."
+                }
+            ]
+        },
+        {
+            "livro": "Lucas",
+            "referencias": [
+                {
+                    "referencia": "Lucas 15:7",
+                    "texto": "Eu lhes digo que, da mesma forma, haverá mais alegria no céu por um pecador que se arrepende do que por noventa e nove justos que não precisam arrepender-se."
+                }
+            ]
+        }
+    ]
+}

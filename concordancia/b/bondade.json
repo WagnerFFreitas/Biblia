@@ -1,0 +1,28 @@
+{
+    "palavra": "bondade",
+    "ocorrencias": 198,
+    "versiculos": [
+        {
+            "livro": "Salmos",
+            "referencias": [
+                {
+                    "referencia": "Salmos 23:6",
+                    "texto": "Certamente que a bondade e a misericórdia me seguirão todos os dias da minha vida; e habitarei na Casa do Senhor por longos dias."
+                },
+                {
+                    "referencia": "Salmos 145:9",
+                    "texto": "O Senhor é bom para todos; a sua bondade alcança todas as suas obras."
+                }
+            ]
+        },
+        {
+            "livro": "Romanos",
+            "referencias": [
+                {
+                    "referencia": "Romanos 2:4",
+                    "texto": "Ou será que você despreza as riquezas da sua bondade, tolerância e paciência, não reconhecendo que a bondade de Deus o leva ao arrependimento?"
+                }
+            ]
+        }
+    ]
+}

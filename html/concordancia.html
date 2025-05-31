@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Concordância Bíblica</title>
+    <link rel="stylesheet" href="../css/concordancia.css">
+</head>
+<body>
+    <header>
+        <div class="header-top">
+            <div class="titulo-container">
+                <h1>Concordância Bíblica</h1>
+                <p class="nome-extenso-versao">Localize todas as ocorrências de palavras na Bíblia Sagrada</p>
+            </div>
+        </div>
+    </header>
+
+    <nav>
+        <span class="menu-title">NAVEGAÇÃO</span>
+        <ul class="menu-opcoes">
+            <li><a href="../index.html">Menu Principal</a></li>
+            <li><a href="versoes.html">Bíblia</a></li>
+            <li><a href="dicionario-biblico.html">Dicionário</a></li>
+            <li><a href="#" id="sobre">Sobre</a></li>
+        </ul>
+    </nav>
+
+    <div class="container">
+        <div class="categorias-sidebar">
+            <button class="categoria-btn active" data-categoria="populares" data-arquivo="populares">Palavras Populares</button>
+            <button class="categoria-btn" data-categoria="amor" data-arquivo="amor">Amor</button>
+            <button class="categoria-btn" data-categoria="fe" data-arquivo="fe">Fé</button>
+            <button class="categoria-btn" data-categoria="salvacao" data-arquivo="salvacao">Salvação</button>
+            <button class="categoria-btn" data-categoria="graca" data-arquivo="graca">Graça</button>
+            <button class="categoria-btn" data-categoria="perdao" data-arquivo="perdao">Perdão</button>
+            <button class="categoria-btn" data-categoria="esperanca" data-arquivo="esperanca">Esperança</button>
+            <button class="categoria-btn" data-categoria="paz" data-arquivo="paz">Paz</button>
+            <button class="categoria-btn" data-categoria="justica" data-arquivo="justica">Justiça</button>
+        </div>
+
+        <div class="content">
+            <div class="search-container">
+                <input type="text" class="search-input" placeholder="Digite uma palavra para buscar na Bíblia...">
+                <button class="search-btn">Buscar</button>
+            </div>
+
+            <div class="filtros-container">
+                <div class="filtro-grupo">
+                    <span class="filtro-label">Versão:</span>
+                    <select class="filtro-select" id="versao-select">
+                        <option value="acf" selected>ACF - Almeida Corrigida Fiel</option>
+                        <option value="ara">ARA - Almeida Revista e Atualizada</option>
+                        <option value="nvi">NVI - Nova Versão Internacional</option>
+                        <option value="ntlh">NTLH - Nova Tradução na Linguagem de Hoje</option>
+                    </select>
+                </div>
+                <div class="filtro-grupo">
+                    <span class="filtro-label">Testamento:</span>
+                    <select class="filtro-select" id="testamento-select">
+                        <option value="todos">Todos</option>
+                        <option value="at">Antigo Testamento</option>
+                        <option value="nt">Novo Testamento</option>
+                    </select>
+                </div>
+                <div class="filtro-grupo">
+                    <span class="filtro-label">Livro:</span>
+                    <select class="filtro-select" id="livro-select">
+                        <option value="todos">Todos os livros</option>
+                    </select>
+                </div>
+            </div>
+
+            <div id="resultados-container">
+                <!-- Os resultados serão carregados dinamicamente via JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <div class="watermark"></div>
+
+    <footer>
+        <p>© Bíblia Sagrada 2025</p>
+    </footer>
+
+    <script src="../script/concordancia.js"></script>
+    <script src="../script/watermarker.js"></script>
+</body>
+</html>
