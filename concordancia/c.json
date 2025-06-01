@@ -1,0 +1,664 @@
+{
+    "c": [
+        {
+            "palavra": "caridade",
+            "veja tambem": [
+                "amor",
+                "benevolência",
+                "compaixão"
+            ],
+            "ocorrencias": 128,
+            "fonte": "Strong's H2617 (חֶסֶד/chesed) e G26 (ἀγάπη/agape)",
+            "concordancias": [
+                {
+                    "referencia": "1 Coríntios 13:13",
+                    "texto": "Agora, pois, permanecem a fé, a esperança e a caridade, estas três, mas a maior destas é a caridade."
+                },
+                {
+                    "referencia": "1 Pedro 4:8",
+                    "texto": "Mas, sobretudo, tende ardente caridade uns para com os outros; porque a caridade cobrirá a multidão de pecados."
+                }
+            ]
+        },
+        {
+            "palavra": "crer",
+            "veja tambem": [
+                "fé",
+                "confiar",
+                "acreditar"
+            ],
+            "ocorrencias": 289,
+            "fonte": "Strong's H539 (אָמַן/aman) e G4100 (πιστεύω/pisteuo)",
+            "concordancias": [
+                {
+                    "referencia": "João 3:16",
+                    "texto": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna."
+                },
+                {
+                    "referencia": "Romanos 10:9",
+                    "texto": "Se, com a tua boca, confessares ao Senhor Jesus, e em teu coração creres que Deus o ressuscitou dentre os mortos, serás salvo."
+                }
+            ]
+        },
+        {
+            "palavra": "cruz",
+            "veja tambem": [
+                "crucificação",
+                "sacrifício",
+                "redenção"
+            ],
+            "ocorrencias": 72,
+            "fonte": "Strong's G4716 (σταυρός/stauros)",
+            "concordancias": [
+                {
+                    "referencia": "Mateus 16:24",
+                    "texto": "Então disse Jesus aos seus discípulos: Se alguém quiser vir após mim, renuncie-se a si mesmo, tome sobre si a sua cruz, e siga-me."
+                },
+                {
+                    "referencia": "Filipenses 2:8",
+                    "texto": "E, achado na forma de homem, humilhou-se a si mesmo, sendo obediente até à morte, e morte de cruz."
+                }
+            ]
+        },
+        {
+            "palavra": "confissão",
+            "veja tambem": [
+                "declaração",
+                "testemunho",
+                "profissão"
+            ],
+            "ocorrencias": 56,
+            "fonte": "Strong's H3034 (יָדָה/yadah) e G3670 (ὁμολογέω/homologeo)",
+            "concordancias": [
+                {
+                    "referencia": "1 João 1:9",
+                    "texto": "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda a injustiça."
+                },
+                {
+                    "referencia": "Romanos 10:10",
+                    "texto": "Visto que com o coração se crê para a justiça, e com a boca se faz confissão para a salvação."
+                }
+            ]
+        },
+        {
+            "palavra": "consagração",
+            "veja tambem": [
+                "dedicação",
+                "santificação",
+                "separação"
+            ],
+            "ocorrencias": 84,
+            "fonte": "Strong's H6942 (קָדַשׁ/qadash) e G37 (ἁγιάζω/hagiazo)",
+            "concordancias": [
+                {
+                    "referencia": "Romanos 12:1",
+                    "texto": "Rogo-vos, pois, irmãos, pela compaixão de Deus, que apresenteis os vossos corpos em sacrifício vivo, santo e agradável a Deus, que é o vosso culto racional."
+                },
+                {
+                    "referencia": "1 Pedro 2:9",
+                    "texto": "Mas vós sois a geração eleita, o sacerdócio real, a nação santa, o povo adquirido, para que anuncieis as virtudes daquele que vos chamou das trevas para a sua maravilhosa luz."
+                }
+            ]
+        },
+        {
+            "palavra": "castigo",
+            "veja tambem": [
+                "punição",
+                "disciplina",
+                "correção"
+            ],
+            "ocorrencias": 147,
+            "fonte": "Strong's H4941 (מִשְׁפָּט/mishpat) e G2851 (κόλασις/kolasis)",
+            "concordancias": [
+                {
+                    "referencia": "Hebreus 12:6",
+                    "texto": "Porque o Senhor corrige o que ama, e açoita a qualquer que recebe por filho."
+                },
+                {
+                    "referencia": "Provérbios 3:11-12",
+                    "texto": "Filho meu, não rejeites a correção do Senhor, nem te enojes da sua repreensão. Porque o Senhor repreende aquele a quem ama, assim como o pai ao filho a quem quer bem."
+                }
+            ]
+        },
+        {
+            "palavra": "comunhão",
+            "veja tambem": [
+                "participação",
+                "unidade",
+                "companheirismo"
+            ],
+            "ocorrencias": 108,
+            "fonte": "Strong's H2266 (חָבַר/chabar) e G2842 (κοινωνία/koinonia)",
+            "concordancias": [
+                {
+                    "referencia": "1 João 1:3",
+                    "texto": "O que vimos e ouvimos, isso vos anunciamos, para que também tenhais comunhão conosco; e a nossa comunhão é com o Pai, e com seu Filho Jesus Cristo."
+                },
+                {
+                    "referencia": "Atos 2:42",
+                    "texto": "E perseveravam na doutrina dos apóstolos, e na comunhão, e no partir do pão, e nas orações."
+                }
+            ]
+        },
+        {
+            "palavra": "criação",
+            "veja tambem": [
+                "origem",
+                "princípio",
+                "formação"
+            ],
+            "ocorrencias": 76,
+            "fonte": "Strong's H1254 (בָּרָא/bara) e G2937 (κτίσις/ktisis)",
+            "concordancias": [
+                {
+                    "referencia": "Gênesis 1:1",
+                    "texto": "No princípio criou Deus os céus e a terra."
+                },
+                {
+                    "referencia": "Romanos 1:20",
+                    "texto": "Porque as suas coisas invisíveis, desde a criação do mundo, tanto o seu eterno poder, como a sua divindade, se entendem, e claramente se veem pelas coisas que estão criadas."
+                }
+            ]
+        },
+        {
+            "palavra": "celeste",
+            "veja tambem": [
+                "celestial",
+                "divino",
+                "espiritual"
+            ],
+            "ocorrencias": 92,
+            "fonte": "Strong's H8064 (שָׁמַיִם/shamayim) e G2032 (ἐπουράνιος/epouranios)",
+            "concordancias": [
+                {
+                    "referencia": "1 Coríntios 15:48-49",
+                    "texto": "Qual o terreno, tais são também os terrestres; e, qual o celestial, tais também os celestiais. E, assim como trouxemos a imagem do terreno, assim traremos também a imagem do celestial."
+                },
+                {
+                    "referencia": "João 3:12",
+                    "texto": "Se vos falei de coisas terrestres, e não crestes, como crereis, se vos falar das celestiais?"
+                }
+            ]
+        },
+        {
+            "palavra": "consolação",
+            "veja tambem": [
+                "conforto",
+                "alívio",
+                "ânimo"
+            ],
+            "ocorrencias": 103,
+            "fonte": "Strong's H5165 (נֶחָמָה/nechamah) e G3874 (παράκλησις/paraklesis)",
+            "concordancias": [
+                {
+                    "referencia": "2 Coríntios 1:3-4",
+                    "texto": "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o Pai das misericórdias e o Deus de toda a consolação; Que nos consola em toda a nossa tribulação, para que também possamos consolar os que estiverem em alguma tribulação."
+                },
+                {
+                    "referencia": "Mateus 5:4",
+                    "texto": "Bem-aventurados os que choram, porque eles serão consolados."
+                }
+            ]
+        },
+        {
+            "palavra": "compaixão",
+            "veja tambem": [
+                "misericórdia",
+                "piedade",
+                "clemência"
+            ],
+            "ocorrencias": 94,
+            "fonte": "Strong's H7355 (רָחַם/racham) e G4697 (σπλαγχνίζομαι/splagchnizomai)",
+            "concordancias": [
+                {
+                    "referencia": "Salmos 103:13",
+                    "texto": "Como um pai se compadece de seus filhos, assim o Senhor se compadece daqueles que o temem."
+                },
+                {
+                    "referencia": "Mateus 9:36",
+                    "texto": "E, vendo as multidões, teve grande compaixão delas, porque andavam desgarradas e errantes, como ovelhas que não têm pastor."
+                }
+            ]
+        },
+        {
+            "palavra": "crescimento",
+            "veja tambem": [
+                "desenvolvimento",
+                "progresso",
+                "maturidade"
+            ],
+            "ocorrencias": 67,
+            "fonte": "Strong's H1431 (גָּדַל/gadal) e G837 (αὐξάνω/auxano)",
+            "concordancias": [
+                {
+                    "referencia": "Colossenses 2:19",
+                    "texto": "E não ligado à cabeça, da qual todo o corpo, provido e organizado pelas juntas e ligaduras, vai crescendo em aumento de Deus."
+                },
+                {
+                    "referencia": "2 Pedro 3:18",
+                    "texto": "Antes crescei na graça e conhecimento de nosso Senhor e Salvador, Jesus Cristo."
+                }
+            ]
+        },
+        {
+            "palavra": "compromisso",
+            "veja tambem": [
+                "promessa",
+                "aliança",
+                "pacto"
+            ],
+            "ocorrencias": 82,
+            "fonte": "Strong's H1285 (בְּרִית/berith) e G1242 (διαθήκη/diatheke)",
+            "concordancias": [
+                {
+                    "referencia": "Malaquias 2:14",
+                    "texto": "E dizeis: Por quê? Porque o Senhor foi testemunha entre ti e a mulher da tua mocidade, com a qual tu foste desleal, sendo ela a tua companheira e a mulher do teu compromisso."
+                },
+                {
+                    "referencia": "Neemias 9:8",
+                    "texto": "E achaste o seu coração fiel perante ti, e fizeste com ele o compromisso."
+                }
+            ]
+        },
+        {
+            "palavra": "correção",
+            "veja tambem": [
+                "disciplina",
+                "repreensão",
+                "instrução"
+            ],
+            "ocorrencias": 73,
+            "fonte": "Strong's H4148 (מוּסָר/musar) e G3809 (παιδεία/paideia)",
+            "concordancias": [
+                {
+                    "referencia": "Provérbios 3:11",
+                    "texto": "Filho meu, não rejeites a correção do Senhor, nem te enojes da sua repreensão."
+                },
+                {
+                    "referencia": "2 Timóteo 3:16",
+                    "texto": "Toda a Escritura é divinamente inspirada, e proveitosa para ensinar, para redarguir, para corrigir, para instruir em justiça."
+                }
+            ]
+        },
+        {
+            "palavra": "confiança",
+            "veja tambem": [
+                "fé",
+                "segurança",
+                "certeza"
+            ],
+            "ocorrencias": 155,
+            "fonte": "Strong's H982 (בָּטַח/batach) e G4006 (πεποίθησις/pepoithesis)",
+            "concordancias": [
+                {
+                    "referencia": "Provérbios 3:5-6",
+                    "texto": "Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas."
+                },
+                {
+                    "referencia": "Jeremias 17:7",
+                    "texto": "Bendito o homem que confia no Senhor, e cuja confiança é o Senhor."
+                }
+            ]
+        },
+        {
+            "palavra": "caminho",
+            "veja tambem": [
+                "vereda",
+                "direção",
+                "rota"
+            ],
+            "ocorrencias": 276,
+            "fonte": "Strong's H1870 (דֶּרֶךְ/derek) e G3598 (ὁδός/hodos)",
+            "concordancias": [
+                {
+                    "referencia": "João 14:6",
+                    "texto": "Disse-lhe Jesus: Eu sou o caminho, e a verdade e a vida; ninguém vem ao Pai, senão por mim."
+                },
+                {
+                    "referencia": "Salmos 119:105",
+                    "texto": "Lâmpada para os meus pés é tua palavra, e luz para o meu caminho."
+                }
+            ]
+        },
+        {
+            "palavra": "congregação",
+            "veja tambem": [
+                "assembleia",
+                "igreja",
+                "reunião"
+            ],
+            "ocorrencias": 183,
+            "fonte": "Strong's H6951 (קָהָל/qahal) e G1577 (ἐκκλησία/ekklesia)",
+            "concordancias": [
+                {
+                    "referencia": "Hebreus 12:23",
+                    "texto": "À universal congregação e igreja dos primogênitos, que estão inscritos nos céus, e a Deus, o juiz de todos."
+                },
+                {
+                    "referencia": "Atos 7:38",
+                    "texto": "Este é aquele que esteve na congregação no deserto, com o anjo que lhe falava no monte Sinai, e com nossos pais, o qual recebeu as palavras de vida para no-las dar."
+                }
+            ]
+        },
+        {
+            "palavra": "coração",
+            "veja tambem": [
+                "alma",
+                "mente",
+                "espírito"
+            ],
+            "ocorrencias": 857,
+            "fonte": "Strong's H3824 (לֵבָב/lebab) e G2588 (καρδία/kardia)",
+            "concordancias": [
+                {
+                    "referencia": "Provérbios 3:5",
+                    "texto": "Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento."
+                },
+                {
+                    "referencia": "Mateus 5:8",
+                    "texto": "Bem-aventurados os limpos de coração, porque eles verão a Deus."
+                }
+            ]
+        },
+        {
+            "palavra": "conhecimento",
+            "veja tambem": [
+                "sabedoria",
+                "entendimento",
+                "ciência"
+            ],
+            "ocorrencias": 162,
+            "fonte": "Strong's H1847 (דַּעַת/daath) e G1108 (γνῶσις/gnosis)",
+            "concordancias": [
+                {
+                    "referencia": "Provérbios 1:7",
+                    "texto": "O temor do Senhor é o princípio do conhecimento; os loucos desprezam a sabedoria e a instrução."
+                },
+                {
+                    "referencia": "Colossenses 2:3",
+                    "texto": "No qual estão escondidos todos os tesouros da sabedoria e do conhecimento."
+                }
+            ]
+        },
+        {
+            "palavra": "cuidado",
+            "veja tambem": [
+                "atenção",
+                "zelo",
+                "proteção"
+            ],
+            "ocorrencias": 96,
+            "fonte": "Strong's H8104 (שָׁמַר/shamar) e G3309 (μεριμνάω/merimnao)",
+            "concordancias": [
+                {
+                    "referencia": "1 Pedro 5:7",
+                    "texto": "Lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós."
+                },
+                {
+                    "referencia": "Filipenses 4:6",
+                    "texto": "Não andeis ansiosos por coisa alguma; antes em tudo sejam conhecidas diante de Deus as vossas petições pela oração e súplicas com ações de graças."
+                }
+            ]
+        },
+        {
+            "palavra": "céu",
+            "veja tambem": [
+                "paraíso",
+                "firmamento",
+                "glória"
+            ],
+            "ocorrencias": 582,
+            "fonte": "Strong's H8064 (שָׁמַיִם/shamayim) e G3772 (οὐρανός/ouranos)",
+            "concordancias": [
+                {
+                    "referencia": "Mateus 6:9-10",
+                    "texto": "Pai nosso, que estás nos céus, santificado seja o teu nome; Venha o teu reino, seja feita a tua vontade, assim na terra como no céu."
+                },
+                {
+                    "referencia": "Apocalipse 21:1",
+                    "texto": "E vi um novo céu, e uma nova terra. Porque já o primeiro céu e a primeira terra passaram, e o mar já não existe."
+                }
+            ]
+        },
+        {
+            "palavra": "chave",
+            "veja tambem": [
+                "autoridade",
+                "poder",
+                "domínio"
+            ],
+            "ocorrencias": 43,
+            "fonte": "Strong's H4668 (מַפְתֵּחַ/maphteach) e G2807 (κλείς/kleis)",
+            "concordancias": [
+                {
+                    "referencia": "Apocalipse 1:18",
+                    "texto": "E o que vivo e fui morto, mas eis aqui estou vivo para todo o sempre! Amém. E tenho as chaves da morte e do inferno."
+                },
+                {
+                    "referencia": "Mateus 16:19",
+                    "texto": "E eu te darei as chaves do reino dos céus; e tudo o que ligares na terra será ligado nos céus, e tudo o que desligares na terra será desligado nos céus."
+                }
+            ]
+        },
+        {
+            "palavra": "chamado",
+            "veja tambem": [
+                "vocação",
+                "eleição",
+                "escolha"
+            ],
+            "ocorrencias": 148,
+            "fonte": "Strong's H7121 (קָרָא/qara) e G2564 (καλέω/kaleo)",
+            "concordancias": [
+                {
+                    "referencia": "Romanos 8:28",
+                    "texto": "E sabemos que todas as coisas contribuem juntamente para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito."
+                },
+                {
+                    "referencia": "2 Timóteo 1:9",
+                    "texto": "Que nos salvou, e chamou com uma santa vocação; não segundo as nossas obras, mas segundo o seu próprio propósito e graça que nos foi dada em Cristo Jesus antes dos tempos dos séculos."
+                }
+            ]
+        },
+        {
+            "palavra": "culpa",
+            "veja tambem": [
+                "pecado",
+                "transgressão",
+                "iniquidade"
+            ],
+            "ocorrencias": 112,
+            "fonte": "Strong's H817 (אָשָׁם/asham) e G266 (ἁμαρτία/hamartia)",
+            "concordancias": [
+                {
+                    "referencia": "Romanos 8:1",
+                    "texto": "Portanto, agora nenhuma condenação há para os que estão em Cristo Jesus, que não andam segundo a carne, mas segundo o Espírito."
+                },
+                {
+                    "referencia": "Salmos 32:5",
+                    "texto": "Confessei-te o meu pecado, e a minha iniquidade não encobri; disse: Confessarei ao Senhor as minhas transgressões; e tu perdoaste a culpa do meu pecado."
+                }
+            ]
+        },
+        {
+            "palavra": "cerca",
+            "veja tambem": [
+                "proteção",
+                "muro",
+                "defesa"
+            ],
+            "ocorrencias": 76,
+            "fonte": "Strong's H1447 (גָּדֵר/gader) e G5418 (φραγμός/phragmos)",
+            "concordancias": [
+                {
+                    "referencia": "Jó 1:10",
+                    "texto": "Porventura não o cercaste tu e a sua casa, e a tudo quanto tem em redor? A obra de suas mãos abençoaste e o seu gado se tem aumentado na terra."
+                },
+                {
+                    "referencia": "Salmos 34:7",
+                    "texto": "O anjo do Senhor acampa-se ao redor dos que o temem, e os livra."
+                }
+            ]
+        },
+        {
+            "palavra": "carne",
+            "veja tambem": [
+                "corpo",
+                "natureza",
+                "homem"
+            ],
+            "ocorrencias": 268,
+            "fonte": "Strong's H1320 (בָּשָׂר/basar) e G4561 (σάρξ/sarx)",
+            "concordancias": [
+                {
+                    "referencia": "João 1:14",
+                    "texto": "E o Verbo se fez carne, e habitou entre nós, e vimos a sua glória, como a glória do unigênito do Pai, cheio de graça e de verdade."
+                },
+                {
+                    "referencia": "Gálatas 5:17",
+                    "texto": "Porque a carne luta contra o Espírito, e o Espírito contra a carne; e estes se opõem um ao outro, para que não façais o que quereis."
+                }
+            ]
+        },
+        {
+            "palavra": "casa",
+            "veja tambem": [
+                "lar",
+                "morada",
+                "habitação"
+            ],
+            "ocorrencias": 1735,
+            "fonte": "Strong's H1004 (בַּיִת/bayith) e G3624 (οἶκος/oikos)",
+            "concordancias": [
+                {
+                    "referencia": "Josué 24:15",
+                    "texto": "Porém, se vos parece mal aos vossos olhos servir ao Senhor, escolhei hoje a quem sirvais; se aos deuses a quem serviram vossos pais, que estavam além do rio, ou aos deuses dos amorreus, em cuja terra habitais; porém eu e a minha casa serviremos ao Senhor."
+                },
+                {
+                    "referencia": "Salmos 23:6",
+                    "texto": "Certamente que a bondade e a misericórdia me seguirão todos os dias da minha vida; e habitarei na casa do Senhor por longos dias."
+                }
+            ]
+        },
+        {
+            "palavra": "cidade",
+            "veja tambem": [
+                "povoado",
+                "vila",
+                "metrópole"
+            ],
+            "ocorrencias": 1284,
+            "fonte": "Strong's H5892 (עִיר/ir) e G4172 (πόλις/polis)",
+            "concordancias": [
+                {
+                    "referencia": "Apocalipse 21:2",
+                    "texto": "E eu, João, vi a santa cidade, a nova Jerusalém, que de Deus descia do céu, adereçada como uma esposa ataviada para o seu marido."
+                },
+                {
+                    "referencia": "Hebreus 11:10",
+                    "texto": "Porque esperava a cidade que tem fundamentos, da qual o artífice e construtor é Deus."
+                }
+            ]
+        },
+        {
+            "palavra": "cálice",
+            "veja tambem": [
+                "taça", 
+                "bebida",
+                "sofrimento"
+            ],
+            "ocorrencias": 39,
+            "fonte": "Strong's H3563 (כּוֹס/kos) e G4221 (ποτήριον/poterion)",
+            "concordancias": [
+                {
+                    "referencia": "Mateus 26:39",
+                    "texto": "E, indo um pouco mais para diante, prostrou-se sobre o seu rosto, orando e dizendo: Meu Pai, se é possível, passe de mim este cálice; todavia, não seja como eu quero, mas como tu queres."
+                },
+                {
+                    "referencia": "1 Coríntios 11:25",
+                    "texto": "Semelhantemente também, depois de cear, tomou o cálice, dizendo: Este cálice é o novo testamento no meu sangue; fazei isto, todas as vezes que beberdes, em memória de mim."
+                }
+            ]
+        },
+        {
+            "palavra": "clareza",
+            "veja tambem": [
+                "luz",
+                "entendimento",
+                "compreensão"
+            ],
+            "ocorrencias": 47,
+            "fonte": "Strong's H216 (אוֹר/or) e G5457 (φῶς/phos)",
+            "concordancias": [
+                {
+                    "referencia": "2 Coríntios 3:12",
+                    "texto": "Tendo, pois, tal esperança, usamos de muita clareza no falar."
+                },
+                {
+                    "referencia": "1 Coríntios 14:9",
+                    "texto": "Assim também vós, se com a língua não pronunciardes palavras bem inteligíveis, como se entenderá o que se diz? Porque estareis como que falando ao ar."
+                }
+            ]
+        },
+        {
+            "palavra": "conselho",
+            "veja tambem": [
+                "sabedoria",
+                "orientação",
+                "direção"
+            ],
+            "ocorrencias": 115,
+            "fonte": "Strong's H6098 (עֵצָה/etsah) e G1012 (βουλή/boule)",
+            "concordancias": [
+                {
+                    "referencia": "Provérbios 19:20",
+                    "texto": "Ouve o conselho, e recebe a correção, para que sejas sábio nos teus últimos dias."
+                },
+                {
+                    "referencia": "Salmos 1:1",
+                    "texto": "Bem-aventurado o homem que não anda segundo o conselho dos ímpios, nem se detém no caminho dos pecadores, nem se assenta na roda dos escarnecedores."
+                }
+            ]
+        },
+        {
+            "palavra": "coragem",
+            "veja tambem": [
+                "força",
+                "bravura",
+                "ousadia"
+            ],
+            "ocorrencias": 92,
+            "fonte": "Strong's H2388 (חָזַק/chazaq) e G2294 (θαρσέω/tharseo)",
+            "concordancias": [
+                {
+                    "referencia": "Josué 1:9",
+                    "texto": "Não to mandei eu? Esforça-te, e tem bom ânimo; não temas, nem te espantes; porque o Senhor teu Deus é contigo, por onde quer que andares."
+                },
+                {
+                    "referencia": "Deuteronômio 31:6",
+                    "texto": "Esforçai-vos e animai-vos; não temais, nem vos espanteis diante deles; porque o Senhor teu Deus é o que vai contigo; não te deixará nem te desamparará."
+                }
+            ]
+        },
+        {
+            "palavra": "cura",
+            "veja tambem": [
+                "saúde",
+                "restauração",
+                "milagre"
+            ],
+            "ocorrencias": 138,
+            "fonte": "Strong's H7495 (רָפָא/rapha) e G2390 (ἰάομαι/iaomai)",
+            "concordancias": [
+                {
+                    "referencia": "Êxodo 15:26",
+                    "texto": "E disse: Se ouvires atentamente a voz do Senhor teu Deus, e fizeres o que é reto diante de seus olhos, e inclinares os teus ouvidos aos seus mandamentos, e guardares todos os seus estatutos, nenhuma das enfermidades porei sobre ti, que pus sobre o Egito; porque eu sou o Senhor que te sara."
+                },
+                {
+                    "referencia": "Salmos 103:3",
+                    "texto": "É ele que perdoa todas as tuas iniquidades, que sara todas as tuas enfermidades."
+                }
+            ]
+        }
+    ]
+}

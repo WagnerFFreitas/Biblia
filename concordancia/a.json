@@ -1,403 +1,201 @@
 {
-    "letra": "A",
-    "palavras": [
+    "a": [
+        {
+            "palavra": "abaixa",
+            "veja tambem": [
+                "abaixar",
+                "humilhar", 
+                "inclinar"
+            ],
+            "ocorrencias": 32,
+            "fonte": "Strong's H7817 (שָׁחַח/shachach)", 
+            "concordancias": [
+                {
+                    "referencia": "Gênesis 24:14",
+                    "texto": "a donzela a quem eu disser: Abaixa agora o teu cântaro para que eu beba"
+                },
+                {
+                    "referencia": "Juízes 19:9", 
+                    "texto": "pai da moça: Eis que já o dia se abaixa, e já a tarde vem chegando"
+                },
+                {
+                    "referencia": "1 Samuel 2:7",
+                    "texto": "O Senhor empobrece e enriquece; abaixa e também exalta."
+                }
+            ]
+        },
         {
             "palavra": "água",
+            "veja tambem": [
+                "rio",
+                "fonte", 
+                "mar"
+            ],
             "ocorrencias": 396,
             "fonte": "Strong's H4325 (מַיִם/mayim)",
-            "versiculos": [
+            "concordancias": [
                 {
-                    "livro": "João",
-                    "referencias": [
-                        {
-                            "referencia": "João 4:14",
-                            "texto": "Mas aquele que beber da água que eu lhe der nunca mais terá sede. Pelo contrário, a água que eu lhe der se tornará nele uma fonte de água a jorrar para a vida eterna."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "palavra": "abandonar",
-            "ocorrencias": 128,
-            "fonte": "Strong's H5800 (עָזַב/azab)",
-            "versiculos": [
+                    "referencia": "João 4:14",
+                    "texto": "Mas aquele que beber da água que eu lhe der nunca mais terá sede. Pelo contrário, a água que eu lhe der se tornará nele uma fonte de água a jorrar para a vida eterna."
+                },
                 {
-                    "livro": "Hebreus",
-                    "referencias": [
-                        {
-                            "referencia": "Hebreus 13:5",
-                            "texto": "Seja a vossa vida sem avareza. Contentai-vos com o que tendes, porque ele mesmo disse: Não te deixarei, nem te abandonarei."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "palavra": "abençoar",
-            "ocorrencias": 289,
-            "versiculos": [
-                {
-                    "livro": "Gênesis",
-                    "referencias": [
-                        {
-                            "referencia": "Gênesis 12:2",
-                            "texto": "Farei de você um grande povo, e o abençoarei. Tornarei famoso o seu nome, e você será uma bênção."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "palavra": "abundância",
-            "ocorrencias": 145,
-            "versiculos": [
-                {
-                    "livro": "João",
-                    "referencias": [
-                        {
-                            "referencia": "João 10:10",
-                            "texto": "O ladrão vem apenas para roubar, matar e destruir; eu vim para que tenham vida, e a tenham em abundância."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "palavra": "adoração",
-            "ocorrencias": 185,
-            "versiculos": [
-                {
-                    "livro": "João",
-                    "referencias": [
-                        {
-                            "referencia": "João 4:23-24",
-                            "texto": "No entanto, está chegando a hora, e de fato já chegou, em que os verdadeiros adoradores adorarão o Pai em espírito e em verdade. São estes os adoradores que o Pai procura. Deus é espírito, e é necessário que os seus adoradores o adorem em espírito e em verdade."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "palavra": "alegria",
-            "ocorrencias": 242,
-            "versiculos": [
-                {
-                    "livro": "Salmos",
-                    "referencias": [
-                        {
-                            "referencia": "Salmos 16:11",
-                            "texto": "Tu me farás conhecer o caminho da vida, a alegria completa da tua presença, eterno prazer à tua direita."
-                        }
-                    ]
+                    "referencia": "Apocalipse 22:17", 
+                    "texto": "O Espírito e a noiva dizem: Vem! E quem ouve, diga: Vem! E quem tem sede venha, e quem quiser receba de graça a água da vida."
                 }
             ]
         },
         {
             "palavra": "amor",
+            "veja tambem": [
+                "caridade",
+                "afeição",
+                "graça"
+            ],
             "ocorrencias": 308,
-            "versiculos": [
+            "fonte": "Strong's G26 (ἀγάπη/agape)",
+            "concordancias": [
                 {
-                    "livro": "1 Coríntios",
-                    "referencias": [
-                        {
-                            "referencia": "1 Coríntios 13:4-7",
-                            "texto": "O amor é paciente, o amor é bondoso. Não inveja, não se vangloria, não se orgulha. Não maltrata, não procura seus interesses, não se ira facilmente, não guarda rancor. O amor não se alegra com a injustiça, mas se alegra com a verdade. Tudo sofre, tudo crê, tudo espera, tudo suporta."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "palavra": "arrependimento",
-            "ocorrencias": 156,
-            "versiculos": [
+                    "referencia": "1 Coríntios 13:4-7",
+                    "texto": "O amor é paciente, o amor é bondoso. Não inveja, não se vangloria, não se orgulha. Não maltrata, não procura seus interesses, não se ira facilmente, não guarda rancor. O amor não se alegra com a injustiça, mas se alegra com a verdade. Tudo sofre, tudo crê, tudo espera, tudo suporta."
+                },
                 {
-                    "livro": "Atos",
-                    "referencias": [
-                        {
-                            "referencia": "Atos 3:19",
-                            "texto": "Arrependam-se, pois, e voltem-se para Deus, para que os seus pecados sejam cancelados."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "palavra": "abundância",
-            "ocorrencias": 145,
-            "versiculos": [
-                {
-                    "livro": "João",
-                    "referencias": [
-                        {
-                            "referencia": "João 10:10",
-                            "texto": "O ladrão vem apenas para roubar, matar e destruir; eu vim para que tenham vida, e a tenham em abundância."
-                        }
-                    ]
-                }
-            ]        },
-        {
-            "palavra": "aliança",
-            "ocorrencias": 294,
-            "versiculos": [
-                {
-                    "livro": "Gênesis",
-                    "referencias": [
-                        {
-                            "referencia": "Gênesis 9:13",
-                            "texto": "O meu arco tenho posto nas nuvens; este será por sinal da aliança entre mim e a terra."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "palavra": "anjo",
-            "ocorrencias": 283,
-            "versiculos": [
-                {
-                    "livro": "Hebreus",
-                    "referencias": [
-                        {
-                            "referencia": "Hebreus 1:14",
-                            "texto": "Não são todos eles espíritos ministradores, enviados para servir a favor dos que hão de herdar a salvação?"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "palavra": "autoridade",
-            "ocorrencias": 178,
-            "versiculos": [
-                {
-                    "livro": "Romanos",
-                    "referencias": [
-                        {
-                            "referencia": "Romanos 13:1",
-                            "texto": "Toda alma esteja sujeita às autoridades superiores; porque não há autoridade que não venha de Deus; e as autoridades que há foram ordenadas por Deus."
-                        }
-                    ]
+                    "referencia": "1 João 4:8",
+                    "texto": "Quem não ama não conhece a Deus, porque Deus é amor."
                 }
             ]
         },
         {
             "palavra": "alma",
-            "ocorrencias": 458,
-            "versiculos": [
+            "veja tambem": [
+                "espírito",
+                "vida",
+                "ser"
+            ],
+            "ocorrencias": 428,
+            "fonte": "Strong's H5315 (נֶפֶשׁ/nephesh)",
+            "concordancias": [
                 {
-                    "livro": "Mateus",
-                    "referencias": [
-                        {
-                            "referencia": "Mateus 16:26",
-                            "texto": "Pois que aproveitará o homem se ganhar o mundo inteiro e perder a sua alma? Ou que dará o homem em troca da sua alma?"
-                        }
-                    ]
+                    "referencia": "Marcos 8:36",
+                    "texto": "Pois que aproveitaria ao homem ganhar todo o mundo e perder a sua alma?"
+                },
+                {
+                    "referencia": "Salmos 42:1",
+                    "texto": "Como o cervo brama pelas correntes das águas, assim suspira a minha alma por ti, ó Deus!"
                 }
             ]
         },
         {
-            "palavra": "arrepender",
-            "ocorrencias": 156,
-            "versiculos": [
-                {
-                    "livro": "2 Crônicas",
-                    "referencias": [
-                        {
-                            "referencia": "2 Crônicas 7:14",
-                            "texto": "Se o meu povo, que se chama pelo meu nome, se humilhar, e orar, e buscar a minha face e se arrepender dos seus maus caminhos, então eu ouvirei dos céus, e perdoarei os seus pecados, e sararei a sua terra."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "palavra": "amém",
-            "ocorrencias": 78,
-            "versiculos": [
-                {
-                    "livro": "Apocalipse",
-                    "referencias": [
-                        {
-                            "referencia": "Apocalipse 22:21",
-                            "texto": "A graça do Senhor Jesus seja com todos. Amém."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "palavra": "amor",
-            "ocorrencias": 308,
-            "versiculos": [
-                {
-                    "livro": "1 Coríntios",
-                    "referencias": [
-                        {
-                            "referencia": "1 Coríntios 13:4-7",
-                            "texto": "O amor é paciente, o amor é bondoso. Não inveja, não se vangloria, não se orgulha. Não maltrata, não procura seus interesses, não se ira facilmente, não guarda rancor. O amor não se alegra com a injustiça, mas se alegra com a verdade. Tudo sofre, tudo crê, tudo espera, tudo suporta."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "palavra": "adorar",
+            "palavra": "adoração",
+            "veja tambem": [
+                "louvor",
+                "culto",
+                "reverência"  
+            ],
             "ocorrencias": 185,
-            "versiculos": [
+            "fonte": "Strong's H7812 (שָׁחָה/shachah)",
+            "concordancias": [
                 {
-                    "livro": "João",
-                    "referencias": [
-                        {
-                            "referencia": "João 4:24",
-                            "texto": "Deus é Espírito, e é necessário que os seus adoradores o adorem em espírito e em verdade."
-                        }
-                    ]
+                    "referencia": "João 4:23",
+                    "texto": "Mas a hora vem, e agora é, em que os verdadeiros adoradores adorarão o Pai em espírito e em verdade; porque o Pai procura a tais que assim o adorem."
+                },
+                {
+                    "referencia": "Apocalipse 7:11",
+                    "texto": "E todos os anjos estavam ao redor do trono, e dos anciãos, e dos quatro animais; e prostraram-se sobre seus rostos diante do trono, e adoraram a Deus."
                 }
             ]
         },
         {
-            "palavra": "alegrar",
+            "palavra": "alegria",
+            "veja tambem": [
+                "júbilo",
+                "contentamento",
+                "felicidade"
+            ],
             "ocorrencias": 242,
-            "fonte": "Strong's H8055 (שָׂמַח/samach)",
-            "versiculos": [
+            "fonte": "Strong's H8057 (שִׂמְחָה/simchah)",
+            "concordancias": [
                 {
-                    "livro": "Filipenses", 
-                    "referencias": [
-                        {
-                            "referencia": "Filipenses 4:4",
-                            "texto": "Alegrai-vos sempre no Senhor; outra vez digo: alegrai-vos."
-                        }
-                    ]
+                    "referencia": "Salmos 30:5",
+                    "texto": "O choro pode durar uma noite, mas a alegria vem pela manhã."
+                }
+            ]
+        },        {
+            "palavra": "amém",
+            "veja tambem": [
+                "assim seja",
+                "verdade",
+                "certamente"
+            ],
+            "ocorrencias": 78,
+            "fonte": "Strong's H543 (אָמֵן/amen) e G281 (ἀμήν/amen)",
+            "concordancias": [
+                {
+                    "referencia": "Apocalipse 3:14",
+                    "texto": "Ao anjo da igreja em Laodiceia escreve: Isto diz o Amém, a testemunha fiel e verdadeira, o princípio da criação de Deus."
+                },
+                {
+                    "referencia": "2 Coríntios 1:20",
+                    "texto": "Porque todas as promessas de Deus nele são sim; e por ele o Amém, para glória de Deus por nosso intermédio."
                 }
             ]
         },
         {
-            "palavra": "aliado",
-            "ocorrencias": 67,
-            "fonte": "Strong's H1285 (בְּרִית/berith)",
-            "versiculos": [
+            "palavra": "aliança",
+            "veja tambem": [
+                "pacto",
+                "compromisso",
+                "promessa"
+            ],
+            "ocorrencias": 300,
+            "fonte": "Strong's H1285 (בְּרִית/berith) e G1242 (διαθήκη/diatheke)",
+            "concordancias": [
                 {
-                    "livro": "2 Crônicas",
-                    "referencias": [
-                        {
-                            "referencia": "2 Crônicas 20:35",
-                            "texto": "Depois disto, Josafá, rei de Judá, aliou-se com Acazias, rei de Israel, que procedeu com toda a impiedade."
-                        }
-                    ]
+                    "referencia": "Gênesis 9:13",
+                    "texto": "O meu arco tenho posto na nuvem, e ele será por sinal da aliança entre mim e a terra."
+                },
+                {
+                    "referencia": "Hebreus 8:6",
+                    "texto": "Mas agora alcançou ele ministério tanto mais excelente, quanto é mediador de uma melhor aliança que está confirmada em melhores promessas."
                 }
             ]
         },
         {
-            "palavra": "altar",
-            "ocorrencias": 380,
-            "fonte": "Strong's H4196 (מִזְבֵּחַ/mizbeach)",
-            "versiculos": [
+            "palavra": "arrependimento",
+            "veja tambem": [
+                "conversão",
+                "penitência",
+                "mudança"
+            ],
+            "ocorrencias": 110,
+            "fonte": "Strong's H5162 (נָחַם/nacham) e G3341 (μετάνοια/metanoia)",
+            "concordancias": [
                 {
-                    "livro": "Êxodo",
-                    "referencias": [
-                        {
-                            "referencia": "Êxodo 20:24",
-                            "texto": "Far-me-ás um altar de terra e sobre ele sacrificarás os teus holocaustos, e as tuas ofertas pacíficas, as tuas ovelhas e os teus bois; em todo lugar onde eu fizer celebrar a memória do meu nome, virei a ti e te abençoarei."
-                        }
-                    ]
+                    "referencia": "Atos 3:19",
+                    "texto": "Arrependei-vos, pois, e convertei-vos, para que sejam apagados os vossos pecados."
+                },
+                {
+                    "referencia": "2 Coríntios 7:10",
+                    "texto": "Porque a tristeza segundo Deus opera arrependimento para a salvação, da qual ninguém se arrepende; mas a tristeza do mundo opera a morte."
                 }
             ]
         },
         {
-            "palavra": "amado",
-            "ocorrencias": 142,
-            "fonte": "Strong's H157 (אָהַב/ahab)",
-            "versiculos": [
+            "palavra": "autoridade",
+            "veja tambem": [
+                "poder",
+                "domínio",
+                "governo"
+            ],
+            "ocorrencias": 180,
+            "fonte": "Strong's G1849 (ἐξουσία/exousia) e H4475 (מֶמְשָׁלָה/memshalah)",
+            "concordancias": [
                 {
-                    "livro": "Colossenses",
-                    "referencias": [
-                        {
-                            "referencia": "Colossenses 3:12",
-                            "texto": "Portanto, como eleitos de Deus, santos e amados, revesti-vos de profunda compaixão, bondade, humildade, mansidão e longanimidade."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "palavra": "anunciar",
-            "ocorrencias": 163,
-            "fonte": "Strong's H5046 (נָגַד/nagad)",
-            "versiculos": [
+                    "referencia": "Mateus 7:29",
+                    "texto": "Porque os ensinava como tendo autoridade, e não como os escribas."
+                },
                 {
-                    "livro": "Isaías",
-                    "referencias": [
-                        {
-                            "referencia": "Isaías 52:7",
-                            "texto": "Quão formosos são sobre os montes os pés do que anuncia boas novas, que proclama a paz, que anuncia o bem, que proclama a salvação, que diz a Sião: O teu Deus reina!"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "palavra": "ardor",
-            "ocorrencias": 76,
-            "fonte": "Strong's H2527 (חַם/cham)",
-            "versiculos": [
-                {
-                    "livro": "Apocalipse",
-                    "referencias": [
-                        {
-                            "referencia": "Apocalipse 3:15-16",
-                            "texto": "Conheço as tuas obras, que nem és frio nem quente. Quem dera fosses frio ou quente! Assim, porque és morno e nem és quente nem frio, estou a ponto de vomitar-te da minha boca."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "palavra": "argumentar",
-            "ocorrencias": 84,
-            "fonte": "Strong's H3198 (יָכַח/yakach)",
-            "versiculos": [
-                {
-                    "livro": "Jó",
-                    "referencias": [
-                        {
-                            "referencia": "Jó 13:3",
-                            "texto": "Mas eu quero falar ao Todo-Poderoso; quero argumentar com Deus."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "palavra": "avareza",
-            "ocorrencias": 43,
-            "fonte": "Strong's H1215 (בֶּצַע/betsa)",
-            "versiculos": [
-                {
-                    "livro": "Lucas",
-                    "referencias": [
-                        {
-                            "referencia": "Lucas 12:15",
-                            "texto": "E disse-lhes: Tende cuidado e guardai-vos de toda avareza; porque a vida de qualquer não consiste na abundância do que possui."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "palavra": "avivar",
-            "ocorrencias": 31,
-            "fonte": "Strong's H2421 (חָיָה/chayah)",
-            "versiculos": [
-                {
-                    "livro": "Salmos",
-                    "referencias": [
-                        {
-                            "referencia": "Salmos 80:18",
-                            "texto": "Assim não nos desviaremos de ti; aviva-nos, e invocaremos o teu nome."
-                        }
-                    ]
+                    "referencia": "Colossenses 2:10",
+                    "texto": "E estais perfeitos nele, que é a cabeça de todo o principado e potestade."
                 }
             ]
         }

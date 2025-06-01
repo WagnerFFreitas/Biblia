@@ -1,0 +1,64 @@
+{
+    "h": [
+        {
+            "palavra": "humildade",
+            "veja tambem": [
+                "mansidão",
+                "modéstia",
+                "submissão"
+            ],
+            "ocorrencias": 82,
+            "fonte": "Strong's H6038 (עֲנָוָה/anavah) e G5012 (ταπεινοφροσύνη/tapeinophrosyne)",
+            "concordancias": [
+                {
+                    "referencia": "Filipenses 2:3",
+                    "texto": "Nada façais por contenda ou por vanglória, mas por humildade; cada um considere os outros superiores a si mesmo."
+                },
+                {
+                    "referencia": "1 Pedro 5:5",
+                    "texto": "Semelhantemente vós, jovens, sede sujeitos aos anciãos; e sede todos sujeitos uns aos outros, e revesti-vos de humildade, porque Deus resiste aos soberbos, mas dá graça aos humildes."
+                }
+            ]
+        },
+        {
+            "palavra": "honra",
+            "veja tambem": [
+                "glória",
+                "respeito",
+                "dignidade"
+            ],
+            "ocorrencias": 147,
+            "fonte": "Strong's H3519 (כָּבוֹד/kabod) e G5092 (τιμή/time)",
+            "concordancias": [
+                {
+                    "referencia": "Êxodo 20:12",
+                    "texto": "Honra a teu pai e a tua mãe, para que se prolonguem os teus dias na terra que o Senhor teu Deus te dá."
+                },
+                {
+                    "referencia": "Romanos 12:10",
+                    "texto": "Amai-vos cordialmente uns aos outros com amor fraternal, preferindo-vos em honra uns aos outros."
+                }
+            ]
+        },
+        {
+            "palavra": "herança",
+            "veja tambem": [
+                "possessão",
+                "legado",
+                "patrimônio"
+            ],
+            "ocorrencias": 203,
+            "fonte": "Strong's H5159 (נַחֲלָה/nachalah) e G2817 (κληρονομία/kleronomia)",
+            "concordancias": [
+                {
+                    "referencia": "Efésios 1:14",
+                    "texto": "O qual é o penhor da nossa herança, para redenção da possessão adquirida, para louvor da sua glória."
+                },
+                {
+                    "referencia": "1 Pedro 1:4",
+                    "texto": "Para uma herança incorruptível, incontaminável e que não se pode murchar, guardada nos céus para vós."
+                }
+            ]
+        }
+    ]
+}

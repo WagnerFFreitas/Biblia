@@ -1,323 +1,142 @@
 {
-    "letra": "B",
-    "palavras": [
+    "b": [
+        {
+            "palavra": "bondade",
+            "veja tambem": [
+                "benignidade",
+                "misericórdia",
+                "amor"
+            ],
+            "ocorrencias": 242,
+            "fonte": "Strong's H2617 (חֶסֶד/chesed) e G5544 (χρηστότης/chrestotes)",
+            "concordancias": [
+                {
+                    "referencia": "Gálatas 5:22",
+                    "texto": "Mas o fruto do Espírito é amor, alegria, paz, longanimidade, benignidade, bondade, fidelidade."
+                },
+                {
+                    "referencia": "Salmos 23:6",
+                    "texto": "Certamente que a bondade e a misericórdia me seguirão todos os dias da minha vida; e habitarei na casa do Senhor por longos dias."
+                }
+            ]
+        },
         {
             "palavra": "batismo",
+            "veja tambem": [
+                "imersão",
+                "purificação",
+                "conversão"
+            ],
             "ocorrencias": 98,
             "fonte": "Strong's G908 (βάπτισμα/baptisma)",
-            "versiculos": [
+            "concordancias": [
                 {
-                    "livro": "Romanos",
-                    "referencias": [
-                        {
-                            "referencia": "Romanos 6:4",
-                            "texto": "Fomos, pois, sepultados com ele pelo batismo na morte, para que, como Cristo foi ressuscitado dentre os mortos pela glória do Pai, assim também andemos nós em novidade de vida."
-                        }
-                    ]
+                    "referencia": "Mateus 3:11",
+                    "texto": "E eu, em verdade, vos batizo com água, para o arrependimento; mas aquele que vem após mim é mais poderoso do que eu; cujas sandálias não sou digno de levar; ele vos batizará com o Espírito Santo, e com fogo."
+                },
+                {
+                    "referencia": "Romanos 6:4",
+                    "texto": "De sorte que fomos sepultados com ele pelo batismo na morte; para que, como Cristo foi ressuscitado dentre os mortos, pela glória do Pai, assim andemos nós também em novidade de vida."
                 }
             ]
         },
         {
             "palavra": "bênção",
-            "ocorrencias": 237,
-            "fonte": "Strong's H1293 (בְּרָכָה/berakah)",
-            "versiculos": [
+            "veja tambem": [
+                "favor",
+                "graça",
+                "prosperidade"
+            ],
+            "ocorrencias": 387,
+            "fonte": "Strong's H1293 (בְּרָכָה/berakah) e G2129 (εὐλογία/eulogia)",
+            "concordancias": [
                 {
-                    "livro": "Gênesis",
-                    "referencias": [
-                        {
-                            "referencia": "Gênesis 12:2",
-                            "texto": "De ti farei uma grande nação, e te abençoarei, e te engrandecerei o nome. Sê tu uma bênção!"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "palavra": "bondade",
-            "ocorrencias": 278,
-            "fonte": "Strong's H2617 (חֶסֶד/chesed)",
-            "versiculos": [
+                    "referencia": "Números 6:24-26",
+                    "texto": "O Senhor te abençoe e te guarde; o Senhor faça resplandecer o seu rosto sobre ti, e tenha misericórdia de ti; o Senhor sobre ti levante o seu rosto e te dê a paz."
+                },
                 {
-                    "livro": "Salmos",
-                    "referencias": [
-                        {
-                            "referencia": "Salmos 136:1",
-                            "texto": "Rendei graças ao Senhor, porque ele é bom, porque a sua bondade dura para sempre."
-                        }
-                    ]
+                    "referencia": "Tiago 1:17",
+                    "texto": "Toda a boa dádiva e todo o dom perfeito vem do alto, descendo do Pai das luzes, em quem não há mudança nem sombra de variação."
                 }
             ]
         },
         {
             "palavra": "buscar",
-            "ocorrencias": 267,
-            "fonte": "Strong's H1245 (בָּקַשׁ/baqash)",
-            "versiculos": [
+            "veja tambem": [
+                "procurar",
+                "perseguir",
+                "investigar"
+            ],
+            "ocorrencias": 233,
+            "fonte": "Strong's H1245 (בָּקַשׁ/baqash) e G2212 (ζητέω/zeteo)",
+            "concordancias": [
                 {
-                    "livro": "Mateus",
-                    "referencias": [
-                        {
-                            "referencia": "Mateus 7:7",
-                            "texto": "Pedi, e dar-se-vos-á; buscai e achareis; batei, e abrir-se-vos-á."
-                        }
-                    ]
+                    "referencia": "Mateus 7:7",
+                    "texto": "Pedi, e dar-se-vos-á; buscai, e encontrareis; batei, e abrir-se-vos-á."
+                },
+                {
+                    "referencia": "Jeremias 29:13",
+                    "texto": "E buscar-me-eis, e me achareis, quando me buscardes com todo o vosso coração."
                 }
             ]
         },
         {
             "palavra": "batalha",
-            "ocorrencias": 172,
-            "fonte": "Strong's H4421 (מִלְחָמָה/milchamah)",
-            "versiculos": [
+            "veja tambem": [
+                "guerra",
+                "luta",
+                "combate"
+            ],
+            "ocorrencias": 156,
+            "fonte": "Strong's H4421 (מִלְחָמָה/milchamah) e G4171 (πόλεμος/polemos)",
+            "concordancias": [
                 {
-                    "livro": "Êxodo",
-                    "referencias": [
-                        {
-                            "referencia": "Êxodo 15:3",
-                            "texto": "O Senhor é homem de guerra; Jeová é o seu nome."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "palavra": "blasfêmia",
-            "ocorrencias": 59,
-            "fonte": "Strong's G988 (βλασφημία/blasphēmia)",
-            "versiculos": [
+                    "referencia": "1 Samuel 17:47",
+                    "texto": "E saberá toda esta congregação que o Senhor não salva com espada, nem com lança; porque do Senhor é a batalha, e ele vos entregará em nossas mãos."
+                },
                 {
-                    "livro": "Marcos",
-                    "referencias": [
-                        {
-                            "referencia": "Marcos 3:28-29",
-                            "texto": "Em verdade vos digo que todos os pecados serão perdoados aos filhos dos homens, e toda sorte de blasfêmias que proferirem. Mas aquele que blasfemar contra o Espírito Santo não tem perdão para sempre, mas é réu do eterno juízo."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "palavra": "boca",
-            "ocorrencias": 423,
-            "fonte": "Strong's H6310 (פֶּה/peh)",
-            "versiculos": [
-                {
-                    "livro": "Tiago",
-                    "referencias": [
-                        {
-                            "referencia": "Tiago 3:10",
-                            "texto": "De uma mesma boca procede bênção e maldição. Meus irmãos, não convém que isto se faça assim."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "palavra": "braço",
-            "ocorrencias": 186,
-            "fonte": "Strong's H2220 (זְרוֹעַ/zerowa)",
-            "versiculos": [
-                {
-                    "livro": "Deuteronômio",
-                    "referencias": [
-                        {
-                            "referencia": "Deuteronômio 5:15",
-                            "texto": "Porque te lembrarás que foste servo na terra do Egito, e que o Senhor, teu Deus, te tirou dali com mão forte e braço estendido."
-                        }
-                    ]
+                    "referencia": "2 Coríntios 10:4",
+                    "texto": "Porque as armas da nossa milícia não são carnais, mas sim poderosas em Deus para destruição das fortalezas."
                 }
             ]
         },
         {
             "palavra": "benignidade",
-            "ocorrencias": 248,
-            "fonte": "Strong's H2617 (חֶסֶד/chesed)",
-            "versiculos": [
+            "veja tambem": [
+                "bondade",
+                "clemência",
+                "compaixão"
+            ],
+            "ocorrencias": 127,
+            "fonte": "Strong's H2617 (חֶסֶד/chesed) e G5544 (χρηστότης/chrestotes)",
+            "concordancias": [
                 {
-                    "livro": "Lamentações",
-                    "referencias": [
-                        {
-                            "referencia": "Lamentações 3:22-23",
-                            "texto": "As misericórdias do Senhor são a causa de não sermos consumidos, porque as suas benignidades não têm fim. Novas são cada manhã; grande é a tua fidelidade."
-                        }
-                    ]
+                    "referencia": "Salmos 103:8",
+                    "texto": "Misericordioso e piedoso é o Senhor; longânimo e grande em benignidade."
+                },
+                {
+                    "referencia": "Romanos 2:4",
+                    "texto": "Ou desprezas tu as riquezas da sua benignidade, e paciência e longanimidade, ignorando que a benignidade de Deus te conduz ao arrependimento?"
                 }
             ]
         },
         {
-            "palavra": "bem-aventurado",
-            "ocorrencias": 115,
-            "fonte": "Strong's H835 (אֶשֶׁר/esher)",
-            "versiculos": [
+            "palavra": "bem-aventurança",
+            "veja tambem": [
+                "felicidade",
+                "alegria",
+                "bênção"
+            ],
+            "ocorrencias": 94,
+            "fonte": "Strong's H835 (אֶשֶׁר/esher) e G3107 (μακάριος/makarios)",
+            "concordancias": [
                 {
-                    "livro": "Salmos",
-                    "referencias": [
-                        {
-                            "referencia": "Salmos 1:1",
-                            "texto": "Bem-aventurado o homem que não anda no conselho dos ímpios, não se detém no caminho dos pecadores, nem se assenta na roda dos escarnecedores."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "palavra": "baptizar",
-            "ocorrencias": 77,
-            "fonte": "Strong's G907 (βαπτίζω/baptizō)",
-            "versiculos": [
+                    "referencia": "Mateus 5:3-12",
+                    "texto": "Bem-aventurados os pobres de espírito, porque deles é o reino dos céus."
+                },
                 {
-                    "livro": "Mateus",
-                    "referencias": [
-                        {
-                            "referencia": "Mateus 3:11",
-                            "texto": "Eu, em verdade, vos batizo com água, para arrependimento; mas aquele que vem após mim é mais poderoso do que eu, cujas alparcas não sou digno de levar; ele vos batizará com o Espírito Santo, e com fogo."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "palavra": "banquete",
-            "ocorrencias": 54,
-            "fonte": "Strong's H4960 (מִשְׁתֶּה/mishteh)",
-            "versiculos": [
-                {
-                    "livro": "Lucas",
-                    "referencias": [
-                        {
-                            "referencia": "Lucas 14:13-14",
-                            "texto": "Mas, quando deres um banquete, chama os pobres, aleijados, mancos e cegos; e serás bem-aventurado; porque eles não têm com que te retribuir; mas retribuir-se-te-á na ressurreição dos justos."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "palavra": "basileia",
-            "ocorrencias": 162,
-            "fonte": "Strong's G932 (βασιλεία/basileia)",
-            "versiculos": [
-                {
-                    "livro": "Mateus",
-                    "referencias": [
-                        {
-                            "referencia": "Mateus 6:33",
-                            "texto": "Mas buscai primeiro o reino de Deus, e a sua justiça, e todas estas coisas vos serão acrescentadas."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "palavra": "barro",
-            "ocorrencias": 37,
-            "fonte": "Strong's H2563 (חֹמֶר/chomer)",
-            "versiculos": [
-                {
-                    "livro": "Romanos",
-                    "referencias": [
-                        {
-                            "referencia": "Romanos 9:21",
-                            "texto": "Ou não tem o oleiro poder sobre o barro, para da mesma massa fazer um vaso para honra e outro para desonra?"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "palavra": "babilônia",
-            "ocorrencias": 294,
-            "fonte": "Strong's H894 (בָּבֶל/babel)",
-            "versiculos": [
-                {
-                    "livro": "Daniel",
-                    "referencias": [
-                        {
-                            "referencia": "Daniel 1:1",
-                            "texto": "No ano terceiro do reinado de Jeoiaquim, rei de Judá, veio Nabucodonosor, rei de Babilônia, a Jerusalém, e a sitiou."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "palavra": "blasfemar",
-            "ocorrencias": 59,
-            "fonte": "Strong's G987 (βλασφημέω/blasphēmeō)",
-            "versiculos": [
-                {
-                    "livro": "1 Timóteo",
-                    "referencias": [
-                        {
-                            "referencia": "1 Timóteo 1:20",
-                            "texto": "Entre eles Himeneu e Alexandre, os quais entreguei a Satanás, para que aprendam a não blasfemar."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "palavra": "besteira",
-            "ocorrencias": 23,
-            "fonte": "Strong's G3473 (μωρία/mōria)",
-            "versiculos": [
-                {
-                    "livro": "1 Coríntios",
-                    "referencias": [
-                        {
-                            "referencia": "1 Coríntios 1:18",
-                            "texto": "Porque a palavra da cruz é loucura para os que perecem; mas para nós, que somos salvos, é o poder de Deus."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "palavra": "beleza",
-            "ocorrencias": 47,
-            "fonte": "Strong's H3308 (יֹפִי/yophi)",
-            "versiculos": [
-                {
-                    "livro": "Salmos",
-                    "referencias": [
-                        {
-                            "referencia": "Salmos 27:4",
-                            "texto": "Uma coisa pedi ao Senhor, e a buscarei: que possa morar na casa do Senhor todos os dias da minha vida, para contemplar a beleza do Senhor e meditar no seu templo."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "palavra": "benevolência",
-            "ocorrencias": 42,
-            "fonte": "Strong's H7522 (רָצוֹן/ratson)",
-            "versiculos": [
-                {
-                    "livro": "Salmos",
-                    "referencias": [
-                        {
-                            "referencia": "Salmos 5:12",
-                            "texto": "Pois tu, Senhor, abençoas o justo; tu o cerca da tua benevolência como de um escudo."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "palavra": "bendizer",
-            "ocorrencias": 289,
-            "fonte": "Strong's H1288 (בָּרַךְ/barak)",
-            "versiculos": [
-                {
-                    "livro": "Salmos",
-                    "referencias": [
-                        {
-                            "referencia": "Salmos 103:1-2",
-                            "texto": "Bendize, ó minha alma, ao Senhor, e tudo o que há em mim bendiga ao seu santo nome. Bendize, ó minha alma, ao Senhor, e não te esqueças de nem um só de seus benefícios."
-                        }
-                    ]
+                    "referencia": "Salmos 1:1",
+                    "texto": "Bem-aventurado o homem que não anda segundo o conselho dos ímpios, nem se detém no caminho dos pecadores, nem se assenta na roda dos escarnecedores."
                 }
             ]
         }
