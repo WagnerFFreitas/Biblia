@@ -54,7 +54,7 @@ body {
 
 /* Cabeçalho Fixo */
 header {
-     background-color: rgba(30, 30, 30, 0.3); /* Linha com transparência */
+    background-color: #1e1e1e;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
     position: fixed;
     top: 0;
@@ -81,7 +81,6 @@ header {
 nav {
     width: 100%; padding: 0 25px; display: flex; align-items: center;
     justify-content: flex-start; height: 40px;
-     background-color: transparent;
 }
 .menu-title {
     color: #c0c0c0; font-size: 0.9em; margin-right: 20px; font-weight: 500;
@@ -110,7 +109,7 @@ nav .menu-opcoes li a.active { background-color: transparent; color: #d4ac0d; fo
 
 /* Barra Lateral Alfabética */
 .alfabeto-sidebar {
-    width: 150px; background-color: rgba(34, 34, 34, 0.3); /*transparencia*/padding: 15px;
+    width: 150px; background-color: rgba(34, 34, 34, 0.95); padding: 15px;
     flex-direction: column; position: fixed; top: 100px; left: 0;
     bottom: 25px; overflow-y: auto; z-index: 900; border-right: 1px solid #3a3a3a;
 }
@@ -119,7 +118,7 @@ nav .menu-opcoes li a.active { background-color: transparent; color: #d4ac0d; fo
 .alfabeto-sidebar::-webkit-scrollbar-thumb { background: rgba(167, 162, 162, 0.7); border-radius: 10px; }
 
 .letra-btn {
-    background-color: rgba(59, 59, 222, 0.3); color: white; padding: 9px 0; width: 100%;
+    background-color: #3b3bde; color: white; padding: 9px 0; width: 100%;
     border-radius: 4px; margin-bottom: 7px; cursor: pointer; font-size: 0.95rem;
     border: none; transition: background-color 0.2s ease-out, transform 0.1s ease;
     text-align: center; font-weight: bold;
@@ -309,7 +308,7 @@ main#mainContent::-webkit-scrollbar-thumb { background: #555; border-radius: 4px
 .floating-action-buttons button img { width: 22px; height: 22px; }
 
 footer {
-    background-color: rgba(30, 30, 30, 0.6); text-align: center; padding: 0;
+    background-color: #1e1e1e; text-align: center; padding: 0;
     width: 100%; position: fixed; bottom: 0; left: 0;
     z-index: 1001; height: 25px; border-top: 1px solid #333;
 }
