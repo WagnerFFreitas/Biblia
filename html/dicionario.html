@@ -1,71 +1,18 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dicionário Bíblico</title>
-    <link rel="stylesheet" href="../css/dicionario.css">
-</head>
-<body>
-    <header>
-        <div class="header-top">
-            <div class="titulo-container">
-                <h1>Dicionário Bíblico</h1>
-                <div class="nome-extenso-versao">Termos, pessoas e lugares da Bíblia Sagrada</div>
-            </div>
-            <div class="search-container">
-                <input type="text" class="search-input" placeholder="Buscar">
-                <button class="search-btn">Buscar</button>
-            </div>
-        </div>
-    </header>
-
-    <nav>
-        <div class="menu-title">NAVEGAÇÃO</div>
-        <ul class="menu-opcoes">
-            <li><a href="../index.html">Menu Principal</a></li>
-            <li><a href="../html/concordancia.html">Concordância</a></li>
-            <li><a href="#" id="sobre">Sobre</a></li>
-        </ul>
-    </nav>
-
-    <div class="container">
-        <div class="alfabeto-sidebar">
-            <button class="letra-btn" data-letra="A">A</button>
-            <button class="letra-btn" data-letra="B">B</button>
-            <button class="letra-btn" data-letra="C">C</button>
-            <button class="letra-btn" data-letra="D">D</button>
-            <button class="letra-btn" data-letra="E">E</button>
-            <button class="letra-btn" data-letra="F">F</button>
-            <button class="letra-btn" data-letra="G">G</button>
-            <button class="letra-btn" data-letra="H">H</button>
-            <button class="letra-btn" data-letra="I">I</button>
-            <button class="letra-btn" data-letra="J">J</button>
-            <button class="letra-btn" data-letra="K">K</button>
-            <button class="letra-btn" data-letra="L">L</button>
-            <button class="letra-btn" data-letra="M">M</button>
-            <button class="letra-btn" data-letra="N">N</button>
-            <button class="letra-btn" data-letra="O">O</button>
-            <button class="letra-btn" data-letra="P">P</button>
-            <button class="letra-btn" data-letra="Q">Q</button>
-            <button class="letra-btn" data-letra="R">R</button>
-            <button class="letra-btn" data-letra="S">S</button>
-            <button class="letra-btn" data-letra="T">T</button>
-            <button class="letra-btn" data-letra="U">U</button>
-            <button class="letra-btn" data-letra="V">V</button>
-            <button class="letra-btn" data-letra="W">W</button>
-            <button class="letra-btn" data-letra="X">X</button>
-            <button class="letra-btn" data-letra="Y">Y</button>
-            <button class="letra-btn" data-letra="Z">Z</button>
-        </div>
-        <div class="content"></div>
+<!-- html/dicionario_view.html -->
+<div class="dictionary-view-content">
+    <div class="dictionary-search-bar-top">
+        <input type="text" id="dicionarioSearchInput" class="search-input-dict" placeholder="Buscar termo no dicionário...">
+        <button id="dicionarioSearchBtn" class="search-btn-dict">Buscar</button>
     </div>
 
-    <footer>
-        <p>© Bíblia Sagrada 2025</p>
-    </footer>
+    <div class="letter-highlight-bar">
+        <span id="highlightedLetterLarge" class="highlighted-letter">A</span> <!-- Será atualizado por JS -->
+        <span id="highlightedLetterSmall" class="highlighted-letter-small">a</span> <!-- Será atualizado por JS -->
+    </div>
 
-    <script src="../script/dicionario.js"></script>
-    <script src="../script/watermarker.js"></script>
-</body>
-</html>
+    <section id="dictionary-results-container">
+        <p class="initial-message-dict" style="color: #fff; text-align: center; font-size: 1.2em; padding:20px;">
+            Selecione uma letra na barra lateral para listar os termos.
+        </p>
+    </section>
+</div>

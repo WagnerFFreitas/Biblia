@@ -1,107 +1,40 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Concordância Bíblica</title>
-    <link rel="stylesheet" href="../css/concordancia.css">
-</head>
-<body>
-    <header>
-        <div class="header-top">
-            <div class="titulo-container">
-                <h1>Concordância Bíblica</h1>
-                <p class="nome-extenso-versao">Localize todas as ocorrências de palavras na Bíblia Sagrada</p>
+<!-- html/concordancia.html -->
+<div class="content-dynamic">
+    <div class="filtros-container">
+        <div class="filtro-grupo">
+            <label for="filtro-palavra-input">Palavra:</label>
+            <input type="text" id="filtro-palavra-input" placeholder="Filtrar palavras na lista...">
+        </div>
+        <div class="filtro-grupo">
+    <label for="custom-testamento-select">Testamento:</label>
+    <div class="custom-select" id="custom-testamento-select">
+        <div class="select-selected" data-value="todos">Todos</div> <!-- ADICIONADO data-value="todos" -->
+        <div class="select-items select-hide">
+            <div data-value="todos">Todos</div>
+            <div data-value="Antigo Testamento">Antigo Testamento</div>
+            <div data-value="Novo Testamento">Novo Testamento</div>
+        </div>
+    </div>
+</div>
+        <div class="filtro-grupo">
+            <label for="custom-livro-select">Livro:</label>
+            <div class="custom-select" id="custom-livro-select">
+                <div class="select-selected">Todos os livros</div>
+                <div class="select-items select-hide">
+                    <div data-value="todos">Todos os livros</div>
+                    <!-- Livros serão populados via JS -->
+                </div>
             </div>
         </div>
-    </header>
-
-    <nav>
-        <span class="menu-title">NAVEGAÇÃO</span>
-        <ul class="menu-opcoes">
-            <li><a href="../index.html">Menu Principal</a></li>
-            <li><a href="../html/dicionario.html">Dicionário</a></li>
-            <!-- Adicione botões de categoria aqui se precisar. Exemplo:
-            <li><button class="categoria-btn" data-categoria="populares">Populares</button></li>
-            -->
-            <li><a href="#" id="sobre">Sobre</a></li>
-        </ul>
-    </nav>
-
-    <div class="container">
-        <aside class="alfabeto-sidebar">
-            <button class="letra-btn" data-letra="A">A</button>
-            <button class="letra-btn" data-letra="B">B</button>
-            <button class="letra-btn" data-letra="C">C</button>
-            <button class="letra-btn" data-letra="D">D</button>
-            <button class="letra-btn" data-letra="E">E</button>
-            <button class="letra-btn" data-letra="F">F</button>
-            <button class="letra-btn" data-letra="G">G</button>
-            <button class="letra-btn" data-letra="H">H</button>
-            <button class="letra-btn" data-letra="I">I</button>
-            <button class="letra-btn" data-letra="J">J</button>
-            <button class="letra-btn" data-letra="K">K</button>
-            <button class="letra-btn" data-letra="L">L</button>
-            <button class="letra-btn" data-letra="M">M</button>
-            <button class="letra-btn" data-letra="N">N</button>
-            <button class="letra-btn" data-letra="O">O</button>
-            <button class="letra-btn" data-letra="P">P</button>
-            <button class="letra-btn" data-letra="Q">Q</button>
-            <button class="letra-btn" data-letra="R">R</button>
-            <button class="letra-btn" data-letra="S">S</button>
-            <button class="letra-btn" data-letra="T">T</button>
-            <button class="letra-btn" data-letra="U">U</button>
-            <button class="letra-btn" data-letra="V">V</button>
-            <button class="letra-btn" data-letra="W">W</button>
-            <button class="letra-btn" data-letra="X">X</button>
-            <button class="letra-btn" data-letra="Y">Y</button>
-            <button class="letra-btn" data-letra="Z">Z</button>
-        </aside>
-
-        <main class="content">
-            <div class="search-container">
-                <input type="text" class="search-input" placeholder="Busca global na Bíblia...">
-                <button class="search-btn">Consultar Concordância</button>
-            </div>
-
-            <div class="filtros-container">
-                <div class="filtro-grupo">
-                    <span class="filtro-label">Palavra:</span>
-                    <input type="text" class="filtro-input" id="filtro-palavra-input" placeholder="Filtrar palavras na lista atual...">
-                </div>
-                <div class="filtro-grupo">
-                    <span class="filtro-label">Testamento:</span>
-                    <select class="filtro-select" id="testamento-select">
-                        <option value="todos" selected>Todos</option>
-                        <option value="Antigo Testamento">Antigo Testamento</option>
-                        <option value="Novo Testamento">Novo Testamento</option>
-                    </select>
-                </div>
-                <div class="filtro-grupo">
-                    <span class="filtro-label">Livro:</span>
-                    <select class="filtro-select" id="livro-select">
-                        <option value="todos" selected>Todos os livros</option>
-                        <!-- Livros serão populados dinamicamente aqui -->
-                    </select>
-                </div>
-            </div>
-
-            <div id="resultados-container">
-                <!-- Os resultados serão carregados dinamicamente via JavaScript -->
-            </div>
-        </main>
+        <div class="filtro-grupo search-group">
+            <input type="text" class="search-input" placeholder="Busca global na Bíblia...">
+            <button class="search-btn">Consultar Concordância</button>
+        </div>
     </div>
 
-    <div class="watermark">
-        <!-- Se você usa a imagem de marca d'água via JS (watermarker.js), mantenha este div.
-             Caso contrário, você pode definir a imagem de fundo diretamente no CSS para o .watermark ou body. -->
-    </div>
-
-    <footer>
-        <p>© Bíblia Sagrada 2025</p>
-    </footer>
-
-    <script src="../script/concordancia.js"></script>
-    <script src="../script/watermarker.js"></script>
-</body>
-</html>
+    <section id="resultados-container">
+        <p style="color: #fff; text-align: center; font-size: 1.2em; margin-top: 30px; padding:20px;">
+            Selecione uma letra ou realize uma busca para continuar.
+        </p>
+    </section>
+</div>
