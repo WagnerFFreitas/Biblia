@@ -1,99 +1,141 @@
-/* ../css/dicionario.css */
+/*
+ * ARQUIVO DE ESTILO: dicionario.css
+ * DESCRIÇÃO: Contém os estilos específicos para a visualização do Dicionário,
+ *            como a formatação dos verbetes e a barra de busca própria.
+*/
 
+/* Barra de busca específica para a visualização do Dicionário */
+.dictionary-search-bar-top {
+    display: flex;                   /* Usa flexbox */
+    justify-content: flex-end;       /* Alinha a barra à direita */
+    padding: 10px;                   /* Espaçamento interno */
+    margin-bottom: 15px;             /* Espaço abaixo da barra */
+    background-color: rgba(28, 28, 28, 0.95); /* Fundo escuro e semi-transparente */
+    border-radius: 6px;              /* Bordas arredondadas */
+    border: 1px solid #3a3a3a;       /* Borda sutil */
+}
+
+/* Campo de input da busca do dicionário */
+.dictionary-search-bar-top .search-input-dict {
+    padding: 8px 12px;               /* Espaçamento interno */
+    background-color: #2b2b2b;       /* Cor de fundo */
+    color: #ccc;                     /* Cor do texto */
+    border: 1px solid #444;          /* Borda */
+    border-radius: 3px 0 0 3px;      /* Bordas arredondadas apenas à esquerda */
+    font-size: 0.9em;                /* Tamanho da fonte */
+    width: 250px;                    /* Largura do campo */
+    margin-right: -1px;              /* Sobrepõe a borda para um visual de grupo */
+}
+
+/* Efeito de foco no campo de busca do dicionário */
+.dictionary-search-bar-top .search-input-dict:focus {
+    border-color: #d4ac0d;            /* Muda a cor da borda para dourado */
+    box-shadow: 0 0 0 2px rgba(212, 172, 13, 0.2); /* Adiciona um brilho sutil */
+}
+
+/* Botão de busca do dicionário */
+.dictionary-search-bar-top .search-btn-dict {
+    padding: 8px 15px;               /* Espaçamento interno */
+    background-color: #d4ac0d;       /* Cor de fundo dourada */
+    color: #121212;                  /* Cor do texto escura */
+    border: 1px solid #d4ac0d;       /* Borda na mesma cor */
+    border-left: none;               /* Remove a borda esquerda para unir ao input */
+    border-radius: 0 3px 3px 0;      /* Bordas arredondadas apenas à direita */
+    cursor: pointer;                 /* Cursor de mão */
+}
+
+/* Efeito de hover no botão de busca do dicionário */
+.dictionary-search-bar-top .search-btn-dict:hover {
+    background-color: #b8950b;       /* Escurece a cor dourada */
+}
+
+/* Barra que destaca a letra selecionada */
+.letter-highlight-bar {
+    background-color: #220bf0;       /* Cor de fundo azul vibrante */
+    color: white;                    /* Cor do texto */
+    padding: 10px 20px;              /* Espaçamento interno */
+    text-align: left;                /* Alinhamento do texto */
+    margin-bottom: 20px;             /* Espaço abaixo da barra */
+    border-radius: 4px;              /* Bordas arredondadas */
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2); /* Sombra leve */
+}
+
+.letter-highlight-bar .highlighted-letter {
+    font-size: 2em;                  /* Tamanho grande para a letra em destaque */
+    margin-right: 6px;               /* Espaço à direita */
+}
+
+.letter-highlight-bar .highlighted-letter-small {
+    font-size: 1.4em;                /* Tamanho menor para texto adicional */
+    opacity: 0.8;                    /* Leve transparência */
+}
+
+/* Container para cada entrada (verbete) do dicionário */
 .verbete {
-    background-color: #1c1c1c; /* Cor de fundo de cada entrada do dicionário */
-    padding: 15px 20px; /* Aumentado padding lateral */
-    margin-bottom: 15px;
-    border-radius: 5px;
-    border: 1px solid #2a2a2a; /* Borda sutil */
+    background-color: #1c1c1c;       /* Cor de fundo escura do card */
+    padding: 15px 20px;              /* Espaçamento interno */
+    margin-bottom: 15px;             /* Espaço entre os verbetes */
+    border-radius: 5px;              /* Bordas arredondadas */
+    border: 1px solid #2a2a2a;       /* Borda sutil */
     box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Sombra leve */
 }
 
+/* Título do verbete (o termo em si) */
 .verbete h3 {
-    color: #d4ac0d; /* Cor dourada para o termo */
-    font-size: 1.4em; /* Tamanho do termo */
-    margin-top: 0; /* Remover margem superior padrão do h3 */
-    margin-bottom: 10px;
-    border-bottom: 1px solid #383838; /* Linha separadora abaixo do termo */
-    padding-bottom: 8px;
+    color: #d4ac0d;                  /* Cor dourada para o termo */
+    font-size: 1.4em;                /* Tamanho da fonte */
+    margin-top: 0;                   /* Remove margem superior padrão */
+    margin-bottom: 10px;             /* Espaço abaixo do termo */
+    border-bottom: 1px solid #383838;/* Linha separadora abaixo do termo */
+    padding-bottom: 8px;             /* Espaço entre o texto e a linha */
 }
 
+/* Parágrafos de definição dentro do verbete */
 .verbete p {
-    color: #e0e0e0; /* Cor do texto da definição */
-    line-height: 1.6;
-    margin-bottom: 10px; /* Espaço entre parágrafos de definição */
+    color: #e0e0e0;                  /* Cor do texto da definição */
+    line-height: 1.6;                /* Altura da linha para legibilidade */
+    margin-bottom: 10px;             /* Espaço entre parágrafos */
 }
 
-.verbete p em { /* Para a definicaoAdicional */
-    color: #b0b0b0; /* Cor um pouco mais clara ou diferente para destaque */
-    font-style: italic;
+/* Estilo para ênfase ou definições adicionais (tag <em>) */
+.verbete p em {
+    color: #b0b0b0;                  /* Cor um pouco mais suave para destaque */
 }
 
-.referencias { /* Container para o título "Referências" e a lista */
-    margin-top: 15px;
-    padding-top: 10px;
-    border-top: 1px dashed #383838; /* Linha tracejada acima das referências */
+/* Container para a seção de referências cruzadas */
+.referencias {
+    margin-top: 15px;                /* Espaço acima da seção */
+    padding-top: 10px;               /* Espaçamento interno no topo */
+    border-top: 1px dashed #383838;  /* Linha tracejada para separar */
 }
 
-.referencias > span strong { /* Para o título "Referências:" */
-    display: block; /* Faz o título ocupar a linha toda */
-    color: #c0c0c0; /* Cor para o título "Referências" */
-    font-size: 0.95em;
-    margin-bottom: 8px; /* Espaço abaixo do título "Referências" */
+/* Título "Referências:" */
+.referencias > span strong {
+    display: block;                  /* Faz o título ocupar sua própria linha */
+    color: #c0c0c0;                  /* Cor do texto */
+    font-size: 0.95em;               /* Tamanho da fonte */
+    margin-bottom: 8px;              /* Espaço abaixo do título */
 }
 
+/* Lista de itens de referência */
 .ref-list {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px; /* Espaço entre os itens de referência */
+    display: flex;                   /* Organiza os itens em linha */
+    flex-wrap: wrap;                 /* Permite que os itens quebrem para a próxima linha */
+    gap: 8px;                        /* Espaço entre os itens */
 }
 
+/* Cada item de referência individual (formato de pílula/tag) */
 .ref-item {
-    background-color: #2a2a2a; /* Fundo dos itens de referência */
-    padding: 4px 10px; /* Padding interno dos itens */
-    border-radius: 4px; /* Bordas arredondadas */
-    color: #cccccc; /* Cor do texto dos itens de referência */
-    font-size: 0.85em; /* Tamanho da fonte dos itens */
-    /* cursor: pointer; /* Descomente se for implementar clique */
-    /* transition: background-color 0.2s, color 0.2s; */
+    background-color: #2a2a2a;       /* Cor de fundo da pílula */
+    padding: 4px 10px;               /* Espaçamento interno */
+    border-radius: 4px;              /* Bordas arredondadas */
+    color: #cccccc;                  /* Cor do texto */
+    font-size: 0.85em;               /* Tamanho da fonte */
 }
 
-/* .ref-item:hover { /* Descomente e ajuste se for implementar clique */
-/*    background-color: #d4ac0d; */
-/*    color: #1c1c1c; */
-/* } */
-
-.sem-resultados { /* Mensagem quando não há termos */
-    color: #ffc0cb; /* Rosa claro, ou outra cor suave para "sem resultados" */
-    text-align: center;
-    font-size: 1.2em;
-    padding: 30px 20px;
-    font-style: italic;
-}
-
-/* Loader (estilo geral, pode ser herdado de dicionario_concordancia.css se já estiver lá) */
-.loader {
-    border: 4px solid #383838; /* Cor da borda do loader */
-    border-top: 4px solid #d4ac0d; /* Cor da parte giratória */
-    border-radius: 50%;
-    width: 30px;  /* Tamanho menor para o loader dentro dos resultados */
-    height: 30px;
-    animation: spin 1s linear infinite;
-    margin: 40px auto; /* Centralizar e dar espaço */
-}
-
-@keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-}
-
-/* Estilo para a mensagem de erro geral que pode ser usada aqui também */
-.erro-mensagem {
-    background-color: #4d1a1a; /* Fundo mais escuro para erro */
-    color: #ff6b6b; /* Vermelho mais suave para texto de erro */
-    padding: 15px;
-    border-radius: 5px;
-    margin: 20px auto; /* Centralizar e dar espaço */
-    text-align: center;
-    border: 1px solid #ff6b6b;
+/* Container para os resultados da busca no dicionário */
+#dictionary-results-container {
+    flex-grow: 1;                    /* Ocupa o espaço vertical disponível */
+    overflow-y: auto;                /* Adiciona rolagem se necessário */
+    padding: 0 5px;                  /* Pequeno padding lateral */
 }

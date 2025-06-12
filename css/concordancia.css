@@ -1,126 +1,187 @@
+/*
+ * ARQUIVO DE ESTILO: concordancia.css
+ * DESCRIÇÃO: Contém os estilos específicos para a visualização da Concordância,
+ *            como a formatação das ocorrências, filtros e o popup de versículos.
+*/
+
+/* Container para os filtros da Concordância */
+.filtros-container {
+    display: flex;                   /* Organiza os filtros em linha */
+    gap: 10px;                       /* Espaço entre cada grupo de filtro */
+    margin-bottom: 20px;             /* Espaço abaixo do container */
+    padding: 12px;                   /* Espaçamento interno */
+    background-color: rgba(40, 40, 40, 0.85); /* Fundo escuro e semi-transparente */
+    border-radius: 6px;              /* Bordas arredondadas */
+    align-items: center;             /* Alinha verticalmente os filtros */
+    width: 100%;                     /* Largura total */
+    flex-wrap: nowrap;               /* Impede que os filtros quebrem de linha */
+    justify-content: flex-end;       /* Alinha os filtros à direita */
+    border: 1px solid rgba(58, 58, 58, 0.7); /* Borda sutil */
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2);   /* Sombra leve */
+}
+
+/* Grupo de filtro individual (label + input/select) */
+.filtro-grupo {
+    display: flex;                   /* Organiza label e input em linha */
+    align-items: center;             /* Alinha-os verticalmente */
+    gap: 6px;                        /* Espaço entre a label e o controle */
+    flex-shrink: 0;                  /* Impede que o grupo encolha */
+}
+
+/* Rótulos (labels) dos filtros */
+.filtro-grupo label {
+    color: #b0b0b0;                  /* Cor do texto */
+    font-size: 0.85em;               /* Tamanho da fonte */
+    white-space: nowrap;             /* Impede a quebra de linha */
+}
+
+/* Campos de input de texto nos filtros */
+#filtro-palavra-input {
+    width: 130px;                    /* Largura padrão */
+    min-width: 100px;                /* Largura mínima */
+    padding: 0 10px;                 /* Espaçamento interno horizontal */
+    font-size: 0.9em;                /* Tamanho da fonte */
+    height: 32px;                    /* Altura fixa */
+    line-height: 32px;               /* Alinha o texto verticalmente */
+    border: 1px solid #555;          /* Borda padrão */
+    background-color: #333;          /* Cor de fundo */
+    color: #fff;                     /* Cor do texto digitado */
+    border-radius: 4px;              /* Bordas arredondadas */
+    transition: all 0.2s;            /* Transição suave para foco */
+}
+
+/* Efeito de foco para os campos de input */
+#filtro-palavra-input:focus {
+    border-color: #d4ac0d;            /* Muda a cor da borda para dourado */
+    box-shadow: 0 0 0 2px rgba(212, 172, 13, 0.3); /* Adiciona um brilho sutil */
+}
+
+/* Seção que agrupa todas as ocorrências de uma palavra */
 .palavra-section {
-    margin-bottom: 30px;
+    margin-bottom: 30px;             /* Espaço abaixo de cada seção de palavra */
 }
 
+/* Cabeçalho para cada palavra, mostrando o termo e a contagem */
 .palavra-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: #2a2a2a;
-    padding: 10px 15px;
-    border-left: 4px solid #d4ac0d;
-    margin-bottom: 10px;
-    font-size: 1.3em;
-    color: #e0e0e0;
+    display: flex;                   /* Organiza o termo e o contador em linha */
+    justify-content: space-between;  /* Coloca o termo à esquerda e o contador à direita */
+    align-items: center;             /* Alinha verticalmente */
+    background-color: #2a2a2a;       /* Cor de fundo */
+    padding: 10px 15px;              /* Espaçamento interno */
+    border-left: 4px solid #d4ac0d;   /* Borda dourada à esquerda para destaque */
+    margin-bottom: 10px;             /* Espaço abaixo do cabeçalho */
+    font-size: 1.3em;                /* Tamanho da fonte para o nome da palavra */
+    color: #e0e0e0;                  /* Cor do texto */
 }
 
+/* Contador de ocorrências no cabeçalho da palavra */
 .contador {
-    font-size: 0.8em;
-    color: #b0b0b0;
+    font-size: 0.8em;                /* Tamanho da fonte menor */
+    color: #b0b0b0;                  /* Cor de texto mais suave */
 }
 
+/* Bloco de informações adicionais sobre a palavra */
 .palavra-info-adicional {
-    padding: 10px 15px;
-    background-color: #1c1c1c;
-    margin-bottom: 10px;
-    font-size: 0.9em;
-    color: #b0b0b0;
+    padding: 10px 15px;              /* Espaçamento interno */
+    background-color: #1c1c1c;       /* Fundo um pouco mais escuro */
+    margin-bottom: 10px;             /* Espaço abaixo do bloco */
+    font-size: 0.9em;                /* Tamanho da fonte */
+    color: #b0b0b0;                  /* Cor do texto */
 }
 
+/* Linhas de informação dentro do bloco adicional */
 .palavra-fonte-info,
 .palavra-veja-tambem-info {
-    margin-bottom: 5px;
+    margin-bottom: 5px;              /* Espaço entre as linhas de informação */
 }
 
+/* Destaque para os títulos "Fonte:" e "Veja também:" */
 .palavra-fonte-info strong,
 .palavra-veja-tambem-info strong {
-    color: #d4ac0d;
+    color: #d4ac0d;                  /* Cor dourada para dar ênfase */
 }
 
+/* Agrupamento de ocorrências por livro bíblico */
 .livro-grupo {
-    margin-bottom: 20px;
+    margin-bottom: 20px;             /* Espaço abaixo de cada grupo de livro */
 }
 
+/* Cabeçalho que exibe o nome do livro */
 .livro-header {
-    background-color: #1c1c1c;
-    padding: 8px 15px;
-    border-left: 3px solid #d4ac0d;
-    font-size: 1.1em;
-    color: #e0e0e0;
+    background-color: #1c1c1c;       /* Cor de fundo escura */
+    padding: 8px 15px;               /* Espaçamento interno */
+    border-left: 3px solid #d4ac0d;   /* Borda dourada um pouco mais fina */
+    font-size: 1.1em;                /* Tamanho da fonte */
+    color: #e0e0e0;                  /* Cor do texto */
 }
 
+/* Container para cada ocorrência individual (referência + texto) */
 .ocorrencia {
-    padding: 10px 20px;
-    border-bottom: 1px solid #2a2a2a;
-    display: flex;
-    flex-direction: column;
-    gap: 5px;
+    padding: 10px 20px;              /* Espaçamento interno */
+    border-bottom: 1px solid #2a2a2a;/* Linha separadora sutil */
+    display: flex;                   /* Usa flexbox */
+    flex-direction: column;          /* Organiza a referência e o texto em coluna */
+    gap: 5px;                        /* Espaço entre a referência e o texto */
 }
 
+/* Estilo para a referência bíblica (ex: Gênesis 1:1) */
 .referencia {
-    color: #d4ac0d;
-    font-weight: bold;
-    cursor: pointer;
+    color: #d4ac0d;                  /* Cor dourada para destaque */
+    cursor: pointer;                 /* Cursor de mão para indicar que é clicável */
 }
 
+/* Efeito ao passar o mouse sobre a referência */
 .referencia:hover {
-    text-decoration: underline;
+    text-decoration: underline;      /* Adiciona sublinhado */
 }
 
+/* Estilo para o texto do versículo onde a palavra ocorre */
 .texto {
-    color: #e0e0e0;
+    color: #e0e0e0;                  /* Cor do texto */
 }
 
+/* Destaque aplicado à palavra buscada dentro do texto do versículo */
 .highlight {
-    background-color: #d4ac0d;
-    color: #1c1c1c;
-    padding: 2px 4px;
-    border-radius: 3px;
-    font-weight: bold;
+    background-color: #d4ac0d;       /* Fundo dourado */
+    color: #1c1c1c;                  /* Texto escuro para contraste */
+    padding: 2px 4px;                /* Pequeno espaçamento interno */
+    border-radius: 3px;              /* Bordas arredondadas */
 }
 
-/* Popup de versículo */
+/* Janela popup para exibir o versículo completo */
 .popup-window {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background-color: #2a2a2a;
-    padding: 20px;
-    border-radius: 8px;
-    border: 2px solid #d4ac0d;
-    z-index: 1000;
-    max-width: 80%;
-    max-height: 80vh;
-    overflow-y: auto;
+    position: fixed;                 /* Posição fixa na tela */
+    top: 50%;                        /* Centralizado verticalmente */
+    left: 50%;                       /* Centralizado horizontalmente */
+    transform: translate(-50%, -50%);/* Ajuste fino para centralização */
+    background-color: #2a2a2a;       /* Cor de fundo */
+    padding: 20px;                   /* Espaçamento interno */
+    border-radius: 8px;              /* Bordas arredondadas */
+    border: 2px solid #d4ac0d;       /* Borda dourada de destaque */
+    z-index: 1000;                   /* Ordem de empilhamento alta */
+    max-width: 80%;                  /* Largura máxima */
+    max-height: 80vh;                /* Altura máxima */
+    overflow-y: auto;                /* Adiciona rolagem se necessário */
 }
 
 .popup-window h3 {
-    color: #d4ac0d;
-    margin-top: 0;
+    color: #d4ac0d;                  /* Cor dourada para o título do popup */
+    margin-top: 0;                   /* Remove margem superior */
 }
 
 .popup-window p {
-    color: #e0e0e0;
+    color: #e0e0e0;                  /* Cor do texto do versículo no popup */
 }
 
+/* Botão de fechar (X) no canto do popup */
 .close-btn {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    background: none;
-    border: none;
-    color: #d4ac0d;
-    font-size: 1.5em;
-    cursor: pointer;
-    padding: 0 5px;
-}
-
-/* Mensagens de erro */
-.erro-mensagem {
-    background-color: #3a1a1a;
-    color: #ff5555;
-    padding: 15px;
-    border-radius: 5px;
-    margin: 20px 0;
+    position: absolute;              /* Posicionamento absoluto dentro do popup */
+    top: 10px;                       /* Distância do topo */
+    right: 10px;                     /* Distância da direita */
+    background: none;                /* Sem fundo */
+    border: none;                    /* Sem borda */
+    color: #d4ac0d;                  /* Cor dourada */
+    font-size: 1.5em;                /* Tamanho grande */
+    cursor: pointer;                 /* Cursor de mão */
+    padding: 0 5px;                  /* Aumenta a área clicável */
 }

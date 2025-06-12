@@ -11,13 +11,15 @@
 body {
     background-color: #121212;
     color: #b0b0b0;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-style: italic;
     width: 100%;
     overflow-x: hidden;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    font-style: italic;
+    
 }
 
 /* MARCA D'ÁGUA DE FUNDO */

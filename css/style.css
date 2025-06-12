@@ -346,14 +346,14 @@ nav .dropdown .dropdown-content li a:hover {
 .sobre-content {
     position: relative; /* Define posicionamento */
     padding: 20px; /* Adiciona espaço interno */
-    max-width: 70%; /* Define largura máxima */
+    max-width: 75%; /* Define largura máxima */
     margin: 10px auto; /* Centraliza horizontalmente */
     padding: 20px; /* Adiciona espaço interno */
 }
 
 /* O bloco abaixo configura o título da página "Sobre" */
 .sobre-content h2 {
-    color: #f8f8f8; /* Define cor do texto */
+    color: #d4ac0d; /* Define cor do texto */
     font-style: italic; /* Aplica estilo itálico */
     font-size: 2.5em; /* Define tamanho da fonte */
     text-align: center; /* Centraliza texto */
@@ -367,9 +367,9 @@ nav .dropdown .dropdown-content li a:hover {
     font-style: italic; /* Aplica estilo itálico */
     margin-top: -10px; /* Ajusta espaço superior */
     margin: 0 auto; /* Centraliza horizontalmente */
-    font-size: 1.5em; /* Define tamanho da fonte */
+    font-size: 1.4em; /* Define tamanho da fonte */
     position: relative; /* Define posicionamento */
-    text-align: center; /* Centraliza texto */
+    text-align: justify; /* Centraliza texto */
     width: 100%; /* Define largura total */
     max-width: 1200px; /* Define largura máxima */
     white-space: normal; /* Permite quebra de linha */
@@ -377,6 +377,9 @@ nav .dropdown .dropdown-content li a:hover {
     text-overflow: ellipsis; /* Adiciona reticências */
     word-wrap: break-word; /* Permite quebra de palavras */
     margin-left: 10%; /* Adiciona espaço à esquerda */
+    text-indent: 2em;
+    font-family: Consolas, 'Courier New', monospace;
+    
 }
 
 /* O bloco abaixo configura o container da página "Sobre" */

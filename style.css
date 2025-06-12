@@ -1,307 +1,391 @@
-/* ===== Valores Padrões Gerais ===== */
+/*=======================*/
+/*    RESET DE ESTILO    */
+/*=======================*/
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: 'Roboto Mono', monospace;
+    margin: 0;                                  /* Remove margens padrão */
+    padding: 0;                                 /* Remove espaçamentos internos padrão */
+    box-sizing: border-box;                     /* Inclui padding e borda no tamanho total */
+    font-family: 'Roboto Mono', monospace;      /* Define a fonte padrão */
 }
 
-/* ===== Estilo do Corpo ===== */
+/*=========================*/
+/* POSICIONAMENTO E LAYOUT */
+/*    CORPO DA PÁGINA      */
+/*=========================*/
 body {
-  background-image: url(./img/biblia.png);
-  background-color: #f5f5f5;
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
-  backdrop-filter: blur(2px);
-  display: flex;
-  flex-direction: column;
-  overflow: hidden;
-  height: 100vh;
-  max-height: 100vh;
-  z-index: 1;
+    display: flex;                              /* Usa flexbox para organizar elementos */
+    flex-direction: column;                     /* Organiza elementos em coluna */
+    overflow: hidden;                           /* Esconde conteúdo que ultrapassa a tela */
+    z-index: 1;                                 /* Define ordem de sobreposição */
+    height: 100vh;                              /* Altura total da tela */
+    max-height: 100vh;                          /* Limita altura máxima */
+    background-color: #f5f5f5;                /* Cor de fundo caso a imagem não carregue */
+    background-image: url(./img/biblia.png);    /* Imagem de fundo */
+    background-size: cover;                     /* Faz a imagem cobrir toda a tela */
+    background-position: center;                /* Centraliza a imagem */
+    background-attachment: fixed;               /* Mantém a imagem fixa ao rolar */
+    backdrop-filter: blur(2px);                 /* Adiciona desfoque suave */
+    font-family: 'Roboto Mono', monospace;      /* Fonte do texto */
+    font-style: italic;                         /* Texto em itálico */
+    font-weight: bold;                          /* Texto em negrito */
 }
 
-/* ===== Degradê de Fundo ===== */
-.gradient {
-  background: linear-gradient(180deg, rgba(128,128,128,0.1) 0%, rgba(128,128,128,0.3) 50%, rgba(128,128,128,0.5) 100%);
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  z-index: 0;
+/*=======================*/
+/*   DEGRADÊ NO FUNDO    */
+/*=======================*/
+.gradiente {
+    position: absolute;                         /* Posiciona em relação à página */
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 0;
+    /* A linha abaixo cria um efeito de escurecimento gradual */
+    background: linear-gradient(180deg, 
+        rgba(128,128,128,0.1) 0%, 
+        rgba(128,128,128,0.3) 50%, 
+        rgba(128,128,128,0.5) 100%
+    );
 }
 
-/* ===== Link do Título Principal ===== */
+/*=======================*/
+/*   POSICIONAMENTO DO   */
+/*    LINK DO TÍTULO     */
+/*=======================*/
 a {
-  font-family: 'Playfair Display', serif;
-  font-size: 35px;
-  font-style: italic;
-  font-weight: bold;
-  text-decoration: none;
-  color: white;
-  margin: 0 auto;
-  transform: translateX(100px);
-  z-index: 2;
+    z-index: 2;
+    margin: 0 auto;                             /* Centraliza horizontalmente */
+    color: white;                             /* Muda a cor do texto */
+    font-size: 35px;                            /* Tamanho da fonte */
+    text-decoration: none;                      /* Remove sublinhado do link */
 }
 
-/* ===== Cabeçalho (Header) ===== */
-.header {
-  background: #000000;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  padding: 15px;
-  align-items: center;
+/*=======================*/
+/*       LAYOUT DO       */
+/*  CABEÇALHO SUPERIOR   */
+/*=======================*/
+.cabecalho {
+    display: flex;
+    flex-wrap: wrap;                            /* Permite quebra de linha se necessário */
+    justify-content: center;                    /* Centraliza horizontalmente */
+    align-items: center;                        /* Centraliza verticalmente */
+    padding: 15px;                              /* Espaçamento interno */
+    background: #000000;                      /* Cor de fundo */
 }
 
-/* ===== Barra de Busca ===== */
-.box {
-  width: 250px;
-  height: 30px;
-  background-color: white;
-  border-radius: 30px;
-  display: flex;
-  align-items: center;
-  padding: 12px;
-  z-index: 1;
-}
-
-.box > span {
-  font-size: 25px;
-  color: #000;
-  cursor: pointer;
-}
-
-.box > input {
-  flex: 1;
-  height: 20px;
-  border: none;
-  outline: none;
-  font-family: 'Roboto', sans-serif;
-  font-size: 18px;
-  padding-left: 10px;
-}
-
-/* ===== Rodapé ===== */
+/*=======================*/
+/*   POSICIONAMENTO DO   */
+/*   RODAPÉ DA PÁGINA    */
+/*=======================*/
 footer {
-  background: black;
-  color: white;
-  text-align: center;
-  padding: 5px;
-  width: 100%;
-  z-index: 2;
+    z-index: 2;
+    position: fixed;                            /* Mantém fixo na parte inferior */
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;                                /* Largura do campo */
+    padding: 5px;
+    background: black;
+    color: white;
+    text-align: center;                         /* Centraliza o texto */
 }
 
-/* ===== Pop-up de Boas-vindas ===== */
-.welcome {
-  display: none;
-  position: absolute;
-  border-radius: 30px;
-  width: 250px;
-  height: 160px;
-  background: rgba(22, 22, 22, 0.8);
-  top: calc(30% - 80px);
-  left: calc(50% - 125px);
-  flex-direction: column;
-  z-index: 4;
+/*=======================*/
+/*   POSICIONAMENTO DA   */
+/* JANELA DE BOAS-VINDAS */
+/*=======================*/
+.seja-bem-vindo {
+    position: absolute;
+    top: 310px;
+    left: calc(50% - 10px);                     /* Centraliza horizontalmente */
+    z-index: 4;
+    transform: translateX(-50%);                /* Ajusta posição horizontal */
+    display: none;                              /* Esconde o elemento por padrão */
+    flex-direction: column;
+    width: 320px;
+    height: 200px;
+    background: rgba(22, 22, 22, 0.8);        /* Fundo semi-transparente */
+    border-radius: 30px;                        /* Cantos arredondados */
+    color: white;
 }
 
-.visibleWlc {
-  display: flex;
+/*=======================*/
+/*   LAYOUT QUE MOSTRAR  */
+/*     JANELA ATIVA      */
+/*=======================*/
+.seja-bem-vindo.ativo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
 }
 
-.closeWlc {
-  background: none;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  margin-left: 200px;
-  color: white;
+/*=======================*/
+/*   POSICIONAMENTO DO   */  
+/*  BOTÃO FECHAR POP-UP  */
+/*=======================*/
+.fechar-seja-bem-vindo {
+    margin-left: 200px;                         /* Margem à esquerda */
+    padding-top: 10px;                          /* Espaçamento superior */
+    padding-bottom: 10px;                       /* Espaçamento inferior */
+    background: none;                           /* Remove o fundo */
+    border: none;                               /* Remove a borda */
+    color: white;
+    cursor: pointer;                            /* Muda o cursor para uma mão ao passar o mouse */
+    outline: none;                              /* Remove o contorno ao focar */
 }
 
-.welcome h2 {
-  margin-left: 10px;
-  color: white;
-  width: 233px;
-  text-align: center;
-  z-index: 1;
+/*=======================*/
+/*   POSICIONAMENTO DO   */
+/*   TÍTULO DA JANELA    */
+/*=======================*/
+.seja-bem-vindo h2 {
+    z-index: 1;
+    margin-left: 10px;
+    margin-bottom: 32px;
+    width: 100%;
+    color: white;
+    font-size: 2rem;
+    text-align: center;
 }
 
-/* ===== Imagens dos Itens ===== */
+/*=======================*/
+/*   POSICIONAMENTO DO   */
+/*   ESTILO DA IMAGEM    */
+/*=======================*/
 img {
-  height: 350px;
-  width: 233px;
-  margin: 10px;
-  z-index: 1;
-  box-shadow: 0 0 20px rgba(255, 255, 255, 0.5),
-              0 0 30px rgba(255, 255, 255, 0.3),
-              0 0 40px rgba(255, 255, 255, 0.2);
-  transition: box-shadow 0.3s ease;
+    z-index: 1;
+    margin: 10px;
+    width: 233px;
+    height: 350px;
+    /* A linha abaixo adiciona sombra suave */
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.5),
+                0 0 30px rgba(255, 255, 255, 0.3),
+                0 0 40px rgba(255, 255, 255, 0.2);
+    transition: box-shadow 0.3s ease;           /* Suaviza mudança da sombra */
 }
 
+/*=======================*/
+/*     CRIA O EFEITO     */
+/*    HOVER NA IMAGEM    */
+/*=======================*/
 img:hover {
-  box-shadow: 0 0 25px rgba(255, 255, 255, 0.6),
-              0 0 35px rgba(255, 255, 255, 0.4),
-              0 0 45px rgba(255, 255, 255, 0.3);
+    box-shadow: 0 0 25px rgba(255, 255, 255, 0.6),
+                0 0 35px rgba(255, 255, 255, 0.4),
+                0 0 45px rgba(255, 255, 255, 0.3);
 }
 
-/* ===== Lista das Versões ===== */
-.listStyle {
-  display: flex;
-  flex-grow: 1;
-  justify-content: center;
-  overflow: auto;
-  align-items: center;
-  flex-wrap: wrap;
-  width: 100%;
-  list-style-type: none;
-  z-index: 2;
+/*=======================*/
+/*   POSICIONAMENTO DA   */
+/*   LISTA DAS VERSÕES   */
+/*=======================*/
+.lista-versoes {
+    z-index: 2;
+    display: flex;
+    flex-grow: 1;                               /* Ocupa espaço disponível */
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    overflow: auto;
+    list-style-type: none;                      /* Remove marcadores da lista */
+    scrollbar-width: none;                      /* Remove barra de rolagem no Firefox */
+    padding-bottom: 50px;                       /* Adiciona espaço no fim para não cobrir o conteúdo com o rodapé */
 }
 
-.listStyle li {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  transition: 100ms ease-in-out;
-  z-index: 1;
+/* A linha abaixo remove barra de rolagem no Chrome, Safari e Edge */
+.lista-versoes::-webkit-scrollbar {
+    display: none;
 }
 
-.listStyle li:hover {
-  transform: scale(1.05);
-  cursor: pointer;
+/*=======================*/
+/*       LAYOUT DE       */ 
+/*  CADA ITEM DA LISTA   */
+/*=======================*/
+.lista-versoes li {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+    transition: 100ms ease-in-out;              /* Suaviza animações */
 }
 
-.listStyle h2 {
-  background: black;
-  border-top: 1.7px solid white;
-  margin-bottom: 10px;
-  color: white;
-  width: 233px;
-  text-align: center;
-  z-index: 1;
+/*=======================*/
+/*     CRIA O EFEITO     */
+/*    HOVER NOS ITENS    */
+/*=======================*/
+.lista-versoes li:hover {
+    cursor: pointer;
+    transform: scale(1.05);                     /* Aumenta levemente o tamanho */
 }
 
-/* ===== Pop-up de Adição de Nova Versão ===== */
-.popup {
-  display: none;
-  position: absolute;
-  border-radius: 30px;
-  width: 320px;
-  height: 400px;
-  background: #161616;
-  top: calc(50% - 250px);
-  left: calc(50% - 175px);
-  z-index: 3;
-  flex-direction: column;
+/*=======================*/
+/*  POSICIONAMENTO DO    */
+/*  TÍTULO DAS VERSÕES   */
+/*=======================*/
+.lista-versoes h2 {
+    z-index: 1;
+    margin-bottom: 10px;
+    width: 233px;
+    background: black;
+    border-top: 1.7px solid white;            /* Linha branca no topo */
+    color: white;
+    text-align: center;
 }
 
-.visible .popup {
-  display: flex;
+/*=======================*/
+/*  POSICIONAMENTO DO    */
+/*  POP-UP NOVA VERSÃO   */
+/*=======================*/
+.popup-nova-versao {
+    position: absolute;
+    top: calc(50% - 250px);                     /* Centraliza verticalmente */
+    left: calc(50% - 175px);                    /* Centraliza horizontalmente */
+    z-index: 3;
+    display: none;
+    flex-direction: column;
+    width: 320px;
+    height: 400px;
+    background: #161616;
+    border-radius: 30px;
 }
 
+/*=======================*/
+/*    MOSTRAR POP-UP     */
+/*=======================*/
+.visible .popup-nova-versao {
+    display: flex;
+}
+
+/*=======================*/
+/*   FUNDO ESCURECIDO    */
+/*=======================*/
 .visible:after {
-  content: "";
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: rgba(0, 0, 0, 0.8);
-  z-index: 2;
+    content: "";                                /* Conteúdo vazio, necessário para o pseudo-elemento */
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 2;
+    background: rgba(0, 0, 0, 0.8);
 }
 
-.openPopup {
-  background: none;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  color: white;
-  z-index: 2;
+/*=======================*/
+/*    BOTÃO DO POP-UP    */
+/*=======================*/
+.abrir-popup,
+.fechar-popup {
+    z-index: 2;
+    background: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+    outline: none;
 }
 
-.closeStyle {
-  background: none;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  margin-left: 250px;
-  color: white;
+/*=======================*/
+/*  BOTÃO FECHAR VISUAL  */
+/*=======================*/
+.fechar-popup {
+    margin-left: 250px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
-.saveStyle {
-  background: #111;
-  color: white;
-  font-family: 'Roboto', sans-serif;
-  font-size: 18px;
-  cursor: pointer;
-  border: none;
-  border-radius: 15px;
-  padding: 4px;
-  margin-top: 12px;
-  margin-left: 85px;
-  width: 150px;
-  height: 40px;
-  transition: 0.5s;
+/*=======================*/
+/*  BOTÃO SALVAR VERSÃO  */
+/*=======================*/
+.salvar-versao {
+    width: 150px;
+    height: 40px;
+    margin-top: 12px;                           /* Margem superior */
+    margin-left: 85px;
+    padding: 4px;
+    border: none;
+    border-radius: 15px;
+    background: #111;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+    transition: 0.5s;                           /* Transição suave */
 }
 
-.saveStyle:hover {
-  background: white;
-  color: black;
-  box-shadow: 0px 0px 6px white;
+/*=======================*/
+/*     CRIA O EFEITO     */
+/*  HOVER SALVAR VERSÃO  */
+/*=======================*/
+.salvar-versao:hover {
+    background: white;
+    color: black;
+    box-shadow: 0px 0px 6px white;            /* Adiciona sombra */
 }
 
-.imgUnder {
-  display: none;
-  width: 150px;
-  height: 200px;
-  margin-left: 85px;
+/*=======================*/
+/*   PRÉ-VISUALIZAÇÃO    */
+/*=======================*/
+.imagem-previsualizacao {
+    display: none;
+    width: 150px;
+    height: 200px;
+    margin-left: 85px;
 }
 
-.animeInputImg {
-  background: none;
-  color: #000;
-  cursor: pointer;
-  border: 3px dashed #000;
-  margin-left: 85px;
-  width: 150px;
-  height: 200px;
-  transition: 0.5s;
+/*=======================*/
+/*       BOTÃO PARA      */
+/*   ESCOLHER A IMAGEM   */
+/*=======================*/
+.botao-imagem {
+    width: 150px;
+    height: 200px;
+    margin-left: 85px;
+    border: 3px dashed #000;                  /* Borda tracejada */
+    background: none;
+    color: #000;
+    cursor: pointer;
+    transition: 0.5s;
 }
 
-.animeInputImg:hover {
-  border-color: white;
-  color: white;
+/*=======================*/
+/*     CRIA O EFEITO     */
+/* HOVER NO BOTÃO IMAGEM */
+/*=======================*/
+.botao-imagem:hover {
+    border-color: white;                      /* Muda a cor da borda */
+    color: white;
 }
 
-.animeInputTitle {
-  height: 30px;
-  width: 250px;
-  border: none;
-  border-radius: 12px;
-  outline: none;
-  text-align: center;
-  font-family: 'Roboto', sans-serif;
-  font-size: 18px;
-  margin-left: 34px;
-  margin-top: 14px;
+/*=======================*/
+/*   TÍTULO DA VERSÃO    */
+/*     POR EXTENSO       */
+/*=======================*/
+.titulo-nova-biblia {
+    width: 250px;
+    height: 30px;
+    margin-top: 14px;
+    margin-left: 34px;
+    border: none;
+    border-radius: 12px;
+    font-size: 18px;
+    text-align: center;
+    outline: none;
 }
 
-/* ===== Correção de Redimensionamento do Background ===== */
-@media(min-width: 1010px) {
-  body {
-    background-size: 100% auto;
-  }
+/*=======================*/
+/*  MEDIA QUERY GRANDE   */
+/*=======================*/
+@media (min-width: 1010px) {
+    body {
+        background-size: 100% auto;             /* Ajusta o tamanho do fundo para telas grandes */
+    }
 }
 
-@media(min-width: 1030px) {
-  body {
-    background-size: auto 100%;
-  }
+/*=======================*/
+/*   MEDIA QUERY MAIOR   */
+/*=======================*/
+@media (min-width: 1030px) {
+    body {
+        background-size: auto 100%;             /* Ajusta o tamanho do fundo para telas muito grandes */
+    }
 }

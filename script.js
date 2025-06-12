@@ -1,252 +1,164 @@
-/**
- * @fileoverview Script principal da aplicação Bíblia Online
- * Responsável por gerenciar a exibição e interação com as diferentes versões da Bíblia,
- * incluindo a busca, adição de novas versões e navegação entre elas.
- */
+/*==========================================*/
+/* CONFIGURAÇÃO INICIAL E VARIÁVEIS GLOBAIS */
+/*==========================================*/
 
-/** 
- * Array que armazena todas as versões da Bíblia disponíveis
- * Cada versão é um objeto com propriedades:
- * - titleAnime: nome/título da versão
- * - img: caminho para a imagem que representa a versão
- * @type {Array<{titleAnime: string, img: string}>}
- */
+/* Lista que guarda todas as versões da Bíblia disponíveis */
 const bibleVersions = [];
 
-/**
- * Inicialização das versões padrão da Bíblia
- * A ordem de adição define a ordem de exibição inicial na lista
- * Importante: manter a ordem consistente com a lógica de redirecionamento
- */
-
-// ACF - Almeida Corrigida Fiel, tradução mais formal e tradicional
+/* Adiciona as versões padrão da Bíblia com seus títulos e imagens */
 bibleVersions.push({ titleAnime: 'Bíblia ACF', img: './img/acf.png' });
-
-// ARA - Almeida Revista e Atualizada, versão acadêmica e respeitada
 bibleVersions.push({ titleAnime: 'Bíblia ARA', img: './img/ara.png' });
-
-// ARC - Almeida Revista e Corrigida, versão clássica portuguesa
-bibleVersions.push({ titleAnime: 'Bíblia ARC', img: './img/arc.png' });
-
-// KJV - King James Version, versão clássica em inglês
-bibleVersions.push({ titleAnime: 'Bíblia KJV', img: './img/kjv.png' });
-
-// NAA - Nova Almeida Atualizada, versão moderna da Almeida
+bibleVersions.push({ titleAnime: 'Bíblia ARC', img: './img/arc.png' }); 
+bibleVersions.push({ titleAnime: 'Bíblia KJV', img: './img/kjv.png' }); 
 bibleVersions.push({ titleAnime: 'Bíblia NAA', img: './img/naa.png' });
-
-// NTLH - Nova Tradução na Linguagem de Hoje, versão mais dinâmica
 bibleVersions.push({ titleAnime: 'Bíblia NTLH', img: './img/ntlh.png' });
-
-// NVI - Nova Versão Internacional, tradução contemporânea
 bibleVersions.push({ titleAnime: 'Bíblia NVI', img: './img/nvi.png' });
-
-// NVT - Nova Versão Transformadora, tradução atual e acessível
-bibleVersions.push({ titleAnime: 'Bíblia NVT', img: './img/nvt.png' });
-
-// Original - Textos nas línguas originais (hebraico e grego)
+bibleVersions.push({ titleAnime: 'Bíblia NVT', img: './img/nvt.png' }); 
 bibleVersions.push({ titleAnime: 'Bíblia Original', img: './img/original.png' });
-// Adicione mais versões aqui se necessário
 
-/**
- * Inicialização do campo de busca
- * Configura o event listener para filtrar versões conforme o usuário digita
- */
-const inputUserFilter = document.getElementById('inputUser');
-if (inputUserFilter) {
-    inputUserFilter.addEventListener('input', searchBar);
-} else {
-    console.warn("Elemento com id 'inputUser' não encontrado no index.html");
-}
+/*=========================================*/
+/* INICIALIZAÇÃO E CONFIGURAÇÃO DE EVENTOS */
+/*=========================================*/
 
-/**
- * Função que filtra e exibe as versões da Bíblia baseado no texto de busca
- * Atualiza a lista em tempo real conforme o usuário digita
- */
-function searchBar() {
-    // Obtém a referência para a lista onde os resultados serão exibidos
-    const list = document.getElementById('List');
-    
-    // Verifica se o elemento da lista existe no DOM
+/* Função que exibe todas as versões da Bíblia */
+function exibirTodasVersoes() {
+    /* Encontra a lista onde as versões serão mostradas */
+    const list = document.getElementById('lista');
     if (!list) {
-        console.error("Elemento <ul id='List'> não encontrado no index.html");
+        console.error("Elemento <ul id='lista'> não encontrado no index.html");
         return;
     }
-    
-    // Limpa o conteúdo atual da lista
+    /* Limpa a lista atual para evitar duplicação */
     list.innerHTML = '';
-
-    // Obtém o termo de busca e converte para minúsculas para comparação case-insensitive
-    const searchTerm = inputUserFilter ? inputUserFilter.value.toLowerCase() : '';
     
-    // Array para armazenar as versões que correspondem ao termo de busca
-    const filteredVersions = [];
-
-    // Itera sobre todas as versões da Bíblia disponíveis
+    /* Adiciona cada versão da Bíblia à lista */
     for (let i = 0; i < bibleVersions.length; i++) {
-        // Converte o título da versão atual para minúsculas
-        const versionNameLower = bibleVersions[i].titleAnime.toLowerCase();
-        // Verifica se o título contém o termo de busca
-        if (versionNameLower.includes(searchTerm)) {
-            // Adiciona a versão encontrada ao array filtrado
-            filteredVersions.push(bibleVersions[i]);
-        }
-    }
-
-    // Verifica se foram encontradas versões correspondentes
-    if (filteredVersions.length > 0) {
-        // Itera sobre as versões filtradas e adiciona à lista
-        for (let i = 0; i < filteredVersions.length; i++) {
-            list.appendChild(createElementAnime(filteredVersions[i]));
-        }
-    } else {
-        // Exibe mensagem quando nenhuma versão é encontrada
-        list.innerHTML = '<p style="color: white; text-align: center; width: 100%; padding: 20px;">Nenhuma versão encontrada.</p>';
+        list.appendChild(createElementAnime(bibleVersions[i]));
     }
 }
 
-/**
- * Cria um elemento de lista para uma versão da Bíblia
- * @param {Object} anime - Objeto contendo informações da versão
- * @param {string} anime.titleAnime - Título da versão
- * @param {string} anime.img - Caminho da imagem da versão
- * @returns {HTMLElement} Elemento li contendo imagem e título da versão
- */
+/*====================================*/
+/* CRIAÇÃO E MANIPULAÇÃO DE ELEMENTOS */
+/*====================================*/
+
+/* Cria um item de lista para uma versão da Bíblia */
 function createElementAnime(anime) {
-    // Cria o elemento de lista que vai conter a versão
-    const listItem = document.createElement('li');
-    // Cria o elemento de imagem para o ícone da versão
-    const img = document.createElement('img');
-    // Cria o elemento de título para o nome da versão
-    const name = document.createElement('h2');
-
-    // Define o caminho da imagem
-    img.src = anime.img;
-    // Define o texto alternativo da imagem
-    img.alt = anime.titleAnime;
-    // Define o texto do título
-    name.innerHTML = anime.titleAnime;
-
-    // Adiciona evento de clique no item da lista
+    const listItem = document.createElement('li'); // Cria item da lista
+    const img = document.createElement('img');     // Cria elemento de imagem
+    const name = document.createElement('h2');     // Cria elemento de título
+    img.src = anime.img;                           // Define imagem
+    img.alt = anime.titleAnime;                    // Define texto alternativo
+    name.innerHTML = anime.titleAnime;             // Define título
+    
+    /* Adiciona ação ao clicar na versão */
     listItem.addEventListener('click', () => {
-        // Variável para armazenar o código da versão
-        let versaoCod = null;
-        // Converte o título para minúsculas para comparação
-        const titleLower = anime.titleAnime.toLowerCase();
+        let versaoCod = null;                               // Código da versão
+        const titleLower = anime.titleAnime.toLowerCase();  // Título em minúsculas
 
-        // Identifica qual versão foi clicada e define seu código
-        if (titleLower.includes('acf')) versaoCod = 'acf';          // Almeida Corrigida Fiel
-        else if (titleLower.includes('ara')) versaoCod = 'ara';     // Almeida Revista e Atualizada
-        else if (titleLower.includes('arc')) versaoCod = 'arc';     // Almeida Revista e Corrigida
-        else if (titleLower.includes('kjv')) versaoCod = 'kjv';     // King James Version
-        else if (titleLower.includes('naa')) versaoCod = 'naa';     // Nova Almeida Atualizada
-        else if (titleLower.includes('ntlh')) versaoCod = 'ntlh';   // Nova Tradução na Linguagem de Hoje
-        else if (titleLower.includes('nvi')) versaoCod = 'nvi';     // Nova Versão Internacional
-        else if (titleLower.includes('nvt')) versaoCod = 'nvt';     // Nova Versão Transformadora
-        else if (titleLower.includes('original')) versaoCod = 'original'; // Textos Originais
-        // Adicione outras versões aqui se necessário, mantendo a ordem desejada
+        /* Identifica qual versão foi clicada */
+        if (titleLower.includes('acf')) versaoCod = 'acf';
+        else if (titleLower.includes('ara')) versaoCod = 'ara';
+        else if (titleLower.includes('arc')) versaoCod = 'arc';
+        else if (titleLower.includes('kjv')) versaoCod = 'kjv';
+        else if (titleLower.includes('naa')) versaoCod = 'naa';
+        else if (titleLower.includes('ntlh')) versaoCod = 'ntlh';
+        else if (titleLower.includes('nvi')) versaoCod = 'nvi';
+        else if (titleLower.includes('nvt')) versaoCod = 'nvt';
+        else if (titleLower.includes('original')) versaoCod = 'original';
 
         if (versaoCod) {
-            const urlDestino = `html/versoes.html?version=${versaoCod}`;
-            console.log(`Redirecionando para: ${urlDestino}`);
-            window.location.href = urlDestino;
+            const urlDestino = `html/versoes.html?version=${versaoCod}`;    // Cria URL de destino
+            console.log(`Redirecionando para: ${urlDestino}`);              // Mostra no console
+            window.location.href = urlDestino;                              // Muda para a página
         } else {
             console.warn(`Não foi possível determinar o código da versão para: ${anime.titleAnime}`);
             alert("Não foi possível abrir esta versão. Código não identificado.");
         }
     });
 
-    listItem.appendChild(img);
-    listItem.appendChild(name);
-    return listItem;
+    listItem.appendChild(img);   // Adiciona imagem ao item
+    listItem.appendChild(name);  // Adiciona título ao item
+    return listItem;             // Retorna o item completo
 }
 
-/**
- * =================================================================
- * GERENCIAMENTO DE POPUPS E UPLOAD DE IMAGENS
- * =================================================================
- */
+/*==============================================*/
+/* GERENCIAMENTO DE POP-UPS E UPLOAD DE IMAGENS */
+/*==============================================*/
 
-/**
- * Armazena temporariamente a imagem carregada em formato base64
- * Utilizada ao salvar uma nova versão da Bíblia
- * @type {string}
- */
+/* Guarda a imagem escolhida temporariamente */
 let uploadedImg = '';
 
-/**
- * Inicialização do documento
- * Configura todos os event listeners e elementos interativos da página
- */
+/* Configura a página quando ela carrega */
 document.addEventListener('DOMContentLoaded', () => {
-    const realFileBtn = document.getElementById('realFile');
-    const customBtn = document.getElementById('newAnimeImg');
-    const imgPreviewEl = document.getElementById('imgPreview');
+    /* Encontra os elementos para upload de imagem */
+    const realFileBtn = document.getElementById('arquivo-imagem');          // Campo de arquivo
+    const customBtn = document.getElementById('novo-botao-imagem');         // Botão personalizado
+    const imgPreviewEl = document.getElementById('previsualizacao-imagem'); // Área de preview
 
+    /* Configura o que acontece ao escolher uma imagem */
     if (realFileBtn) {
         realFileBtn.addEventListener('change', () => {
             if (realFileBtn.files && realFileBtn.files.length > 0) {
-                const reader = new FileReader();
+                const reader = new FileReader();                            // Lê o arquivo
                 reader.onloadend = () => {
-                    uploadedImg = reader.result;
+                    uploadedImg = reader.result;                            // Guarda a imagem
                     if (imgPreviewEl) {
-                        imgPreviewEl.src = uploadedImg;
+                        imgPreviewEl.src = uploadedImg;                     // Mostra a imagem
                         imgPreviewEl.style.display = 'flex';
                     }
                     if (customBtn) {
-                        customBtn.style.display = 'none';
+                        customBtn.style.display = 'none';                   // Esconde o botão
                     }
                 }
-                reader.readAsDataURL(realFileBtn.files[0]);
+                reader.readAsDataURL(realFileBtn.files[0]);                 // Lê a imagem
             }
         });
     } else {
-        console.warn("Elemento 'realFile' não encontrado.");
+        console.warn("Elemento 'arquivo-imagem' não encontrado.");
     }
 
+    /* Configura o botão de escolher imagem */
     if (customBtn) {
         customBtn.addEventListener('click', () => {
             if (realFileBtn) {
-                realFileBtn.click();
+                realFileBtn.click();                                        // Abre seletor de arquivo
             }
         });
     } else {
-        console.warn("Elemento 'newAnimeImg' não encontrado.");
+        console.warn("Elemento 'novo-botao-imagem' não encontrado.");
     }
 
-    const openPopupButton = document.querySelector('.openPopup');
-    if (!openPopupButton) console.warn("Botão '.openPopup' não encontrado.");
+    /* Encontra os botões de controle */
+    const openPopupButton = document.querySelector('.abrir-popup');                       // Botão abrir
+    if (!openPopupButton) console.warn("Botão '.abrir-popup' não encontrado.");
 
-    const closePopupButton = document.querySelector('.popup .closeStyle');
-    if (!closePopupButton) console.warn("Botão '.closeStyle' dentro de '.popup' não encontrado.");
+    const closePopupButton = document.querySelector('.popup-nova-versao .fechar-popup');  // Botão fechar
+    if (!closePopupButton) console.warn("Botão '.fechar-popup' não encontrado.");
 
-    const closeWlcButton = document.querySelector('.closeWlc');
-    if (!closeWlcButton) console.warn("Botão '.closeWlc' não encontrado.");
+    const closeWlcButton = document.querySelector('.fechar-boas-vindas');                 // Botão fechar boas-vindas
+    if (!closeWlcButton) console.warn("Botão '.fechar-boas-vindas' não encontrado.");
 
-    const saveButton = document.querySelector('.saveStyle');
-    if (!saveButton) console.warn("Botão '.saveStyle' não encontrado.");
+    const saveButton = document.querySelector('.salvar-versao');                          // Botão salvar
+    if (!saveButton) console.warn("Botão '.salvar-versao' não encontrado.");
 
-    searchBar(); // Chama para popular a lista inicialmente
+    /* Mostra todas as versões da Bíblia */
+    exibirTodasVersoes();
 });
 
-/**
- * Exibe o popup para adicionar uma nova versão da Bíblia
- * Adiciona classe CSS que torna o popup visível
- */
-function openPopup() {
-    document.body.classList.add('visible');
+/* Abre a janela para adicionar nova versão */
+function abrirPopup() {
+    document.body.classList.add('visivel');
 }
 
-/**
- * Fecha o popup de adição de nova versão e limpa todos os campos
- * Reseta a imagem, o campo de título e remove a classe de visibilidade
- */
-function closePopup() {
-    document.body.classList.remove('visible');
-    const imgPreviewEl = document.getElementById('imgPreview');
-    const customBtn = document.getElementById('newAnimeImg');
-    const realFileBtn = document.getElementById('realFile');
-    const titleInput = document.getElementById('newAnimeTitle');
-
+/* Fecha a janela e limpa os campos */
+function fecharPopup() {
+    document.body.classList.remove('visivel');
+    const imgPreviewEl = document.getElementById('previsualizacao-imagem');
+    const customBtn = document.getElementById('novo-botao-imagem');
+    const realFileBtn = document.getElementById('arquivo-imagem');
+    const titleInput = document.getElementById('novo-titulo-biblia');
+    
+    /* Limpa todos os campos */
     if (imgPreviewEl) {
         imgPreviewEl.src = '';
         imgPreviewEl.style.display = 'none';
@@ -263,29 +175,23 @@ function closePopup() {
     uploadedImg = '';
 }
 
-/**
- * Fecha o popup de boas-vindas
- * Remove a classe que torna o popup de boas-vindas visível
- */
-function closeWlc() {
-    const welcomePopup = document.getElementById('popupWlc');
+/* Fecha a janela de boas-vindas */
+function fecharSejaBemVindo() {
+    const welcomePopup = document.getElementById('popup-seja-bem-vindo');
     if (welcomePopup) {
-        welcomePopup.classList.remove('visibleWlc');
+        welcomePopup.classList.remove('ativo');
     } else {
-        console.warn("Popup de boas-vindas 'popupWlc' não encontrado.");
+        console.warn("Popup de boas-vindas 'popup-seja-bem-vindo' não encontrado.");
     }
 }
 
-/**
- * Salva uma nova versão da Bíblia na lista
- * Valida os campos necessários e adiciona a nova versão ao array bibleVersions
- * @throws {Error} Se o título ou imagem não forem fornecidos
- */
-function saveAnime() {
-    const animeNameInput = document.getElementById('newAnimeTitle');
+/* Salva uma nova versão da Bíblia */
+function salvarVersao() {
+    const animeNameInput = document.getElementById('novo-titulo-biblia');
     const animeName = animeNameInput ? animeNameInput.value : null;
     const animeImg = uploadedImg;
-
+    
+    /* Verifica se todos os campos foram preenchidos */
     if (!animeName || animeName.trim() === '') {
         alert('Por favor, insira um título para a versão.');
         return;
@@ -294,9 +200,10 @@ function saveAnime() {
         alert('Por favor, selecione uma imagem para a versão.');
         return;
     }
-
+    
+    /* Adiciona a nova versão e atualiza a tela */
     bibleVersions.push({ titleAnime: animeName, img: animeImg });
-    searchBar();
-    closePopup();
+    exibirTodasVersoes();
+    fecharPopup();
     alert('Versão adicionada com sucesso! (Nota: será perdida ao recarregar a página)');
 }
