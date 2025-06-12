@@ -83,7 +83,7 @@ header {
 nav {
     width: 100%; padding: 0 25px; display: flex; align-items: center;
     justify-content: flex-start; height: 40px;
-     background-color: transparent;
+    background-color: transparent;
 }
 .menu-title {
     color: #c0c0c0; font-size: 0.9em; margin-right: 20px; font-weight: 500;
@@ -141,12 +141,13 @@ nav .menu-opcoes li a.active { background-color: transparent; color: #d4ac0d; fo
 /* Área de Conteúdo Principal */
 main#mainContent {
     margin-left: 0;
-    padding: 0px 25px 20px 25px;
+    padding: 0 25px 20px 25px;
     flex-grow: 1;
     overflow-y: auto;
     /* *** CORREÇÃO PRINCIPAL AQUI *** */
     background-color: transparent; /* Alterado de #121212 para transparente */
     position: relative;
+    height: calc(100vh - 130px); /* Calcula altura dinâmica para que não aja sobreposição das barras do conteudo principal */
 }
 main#mainContent::-webkit-scrollbar { width: 8px; }
 main#mainContent::-webkit-scrollbar-track { background: #222; }

@@ -1,14 +1,21 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+<!------------------------------------------>
+<!--        CONFIGURAÇÃO DO DOCUMENTO     -->
+<!------------------------------------------>    
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Configura o viewport para responsividade -->
     <title>Concordância e Dicionário Bíblico</title>
-    <!-- Link para o ÚNICO arquivo CSS consolidado -->
-    <link rel="stylesheet" href="../css/dicionario_concordancia.css">
+    <link rel="stylesheet" href="../css/dicionario_concordancia.css">      <!-- Carrega os estilos externos -->
 </head>
-<body>
 
+<!------------------------------------------->
+<!--         CONTEÚDO PRINCIPAL            -->
+<!--   ORGANIZADO EM SEÇÕES SEMÂNTICAS     -->
+<!------------------------------------------->
+<body>
+<!-- O Bloco abaixo e o cabeçalho da página -->
 <header>
     <div class="header-top">
         <div class="titulo-container">
@@ -16,6 +23,7 @@
             <p class="nome-extenso-versao">Localize todas as ocorrências de palavras na Bíblia Sagrada</p>
         </div>
     </div>
+    <!-- O bloco abaixo e a barra do menu superior com as opções -->
     <nav>
         <span class="menu-title">NAVEGAÇÃO</span>
         <ul class="menu-opcoes">
@@ -27,6 +35,7 @@
     </nav>
 </header>
 
+<!-- O bloco abaixo e o menu lateral com a lista das letras -->
 <div class="site-content-wrapper">
     <aside class="alfabeto-sidebar" style="display: none;">
         <button class="letra-btn" data-letra="A">A</button>
@@ -67,26 +76,26 @@
     </main>
 </div>
 
+<!-- O bloco abaixo carrega o titulo do capitulo e da marca d'água -->
 <section class="content">
-                <h2></h2>
-                <div class="watermark"></div> 
-            </section>
-    </section>
+    <h2></h2>
+    <div class="watermark"></div> 
+</section>
 
-<!-- Botões Flutuantes Laterais -->
+<!-- O bloco abaixo são dos botões flutuantes laterais -->
 <div class="floating-action-buttons">
     <button id="btnAcaoConfig" title="Configurações"><img src="../img/settings-icon.svg" alt="Config"></button>
     <button id="btnAcaoTema" title="Mudar Tema"><img src="../img/theme-icon.svg" alt="Tema"></button>
 </div>
 
+<!-- O bloco abaixo e rodapé com informações de copyright -->
 <footer>
     <p>© Bíblia Sagrada 2025</p>
 </footer>
 
-<!-- Scripts -->
-<script src="../script/watermarker.js"></script> <!-- Script para marca d'água -->
+<!-- A linha abaixo carrega o Script externo -->
+<script src="../script/watermarker.js"></script>
 <script src="../script/dropdown_concordancia.js" type="module"></script>
 <script src="../script/dicionario_concordancia.js" type="module"></script>
-
 </body>
 </html>
