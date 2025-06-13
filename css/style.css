@@ -36,7 +36,7 @@ nav {
     display: flex; /* Habilita flexbox */
     align-items: center; /* Centraliza itens verticalmente */
     justify-content: space-between; /* Distribui espaço */
-    height: 20px; /* Define altura fixa */
+    height: 40px; /* Define altura fixa */
     position: fixed; /* Fixa na tela */
     top: 110px; /* Posiciona do topo */
 }
@@ -101,10 +101,10 @@ nav .menu-opcoes li a:hover {
     position: fixed; /* Fixa na tela */
     top: 150px; /* Posiciona do topo */
     left: 0; /* Alinha à esquerda */
-    width: 188px; /* Define largura */
+    width: 228px; /* Define largura */
     bottom: 0; /* Alinha ao fundo */
     z-index: 10; /* Define ordem de empilhamento */
-    height: calc(100vh - 217px); /* Calcula altura dinâmica */
+    height: calc(100vh - 180px); /* Calcula altura dinâmica */
 }
 
 /* O bloco abaixo configura a barra de rolagem do menu lateral dos livros */
@@ -269,7 +269,7 @@ footer {
 /* O bloco abaixo configura o texto do rodapé */
 footer p {
     font-size: 16px; /* Define tamanho da fonte */
-    line-height: 0.2; /* Define altura da linha */
+    line-height: 1.8; /* Define altura da linha */
 }
 
 /* O bloco abaixo configura a imagem de fundo em marca d'água */

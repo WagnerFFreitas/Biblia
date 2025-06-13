@@ -1,8 +1,7 @@
-/*==========================================*/
-/* CONFIGURAÇÃO INICIAL E VARIÁVEIS GLOBAIS */
-/*==========================================*/
-
-/* Lista que guarda todas as versões da Bíblia disponíveis */
+/*===============================================================================*/
+/*                   CONFIGURAÇÃO INICIAL E VARIÁVEIS GLOBAIS                    */
+/*  Lista que guarda todas as versões da Bíblia disponíveis dentro de um array   */
+/*===============================================================================*/
 const bibleVersions = [];
 
 /* Adiciona as versões padrão da Bíblia com seus títulos e imagens */
@@ -16,46 +15,47 @@ bibleVersions.push({ titleAnime: 'Bíblia NVI', img: './img/nvi.png' });
 bibleVersions.push({ titleAnime: 'Bíblia NVT', img: './img/nvt.png' }); 
 bibleVersions.push({ titleAnime: 'Bíblia Original', img: './img/original.png' });
 
-/*=========================================*/
-/* INICIALIZAÇÃO E CONFIGURAÇÃO DE EVENTOS */
-/*=========================================*/
+/*===============================================================================*/
+/*                  INICIALIZAÇÃO E CONFIGURAÇÃO DE EVENTOS                      */
+/* Esta função é responsável por mostrar todas as versões da Bíblia na tela.     */
+/* Ela pega os dados da nossa lista `bibleVersions` e cria os elementos visuais. */
+/*===============================================================================*/
 
-/* Função que exibe todas as versões da Bíblia */
 function exibirTodasVersoes() {
-    /* Encontra a lista onde as versões serão mostradas */
+    /* O bloco abaixo encontra a lista onde todas as versões serão mostradas (CAPAS)*/
     const list = document.getElementById('lista');
     if (!list) {
         console.error("Elemento <ul id='lista'> não encontrado no index.html");
         return;
     }
-    /* Limpa a lista atual para evitar duplicação */
+    /* A linha abaixo limpa a lista atual para evitar duplicação */
     list.innerHTML = '';
     
-    /* Adiciona cada versão da Bíblia à lista */
+    /* O bloco abaixo adiciona cada versão da Bíblia à lista */
     for (let i = 0; i < bibleVersions.length; i++) {
         list.appendChild(createElementAnime(bibleVersions[i]));
     }
 }
 
-/*====================================*/
-/* CRIAÇÃO E MANIPULAÇÃO DE ELEMENTOS */
-/*====================================*/
+/*===============================================================================*/
+/*                    CRIAÇÃO E MANIPULAÇÃO DE ELEMENTOS HTML                    */
+/*               Cria um item de lista para uma versão da Bíblia                 */
+/*===============================================================================*/
 
-/* Cria um item de lista para uma versão da Bíblia */
 function createElementAnime(anime) {
-    const listItem = document.createElement('li'); // Cria item da lista
-    const img = document.createElement('img');     // Cria elemento de imagem
-    const name = document.createElement('h2');     // Cria elemento de título
-    img.src = anime.img;                           // Define imagem
-    img.alt = anime.titleAnime;                    // Define texto alternativo
-    name.innerHTML = anime.titleAnime;             // Define título
+    const listItem = document.createElement('li');          // Cria item da lista
+    const img = document.createElement('img');              // Cria elemento de imagem
+    const name = document.createElement('h2');              // Cria elemento de título
+    img.src = anime.img;                                    // Define imagem
+    img.alt = anime.titleAnime;                             // Define texto alternativo
+    name.innerHTML = anime.titleAnime;                      // Define título
     
-    /* Adiciona ação ao clicar na versão */
+    /* O bloco abaixo adiciona ação ao clicar na versão */
     listItem.addEventListener('click', () => {
         let versaoCod = null;                               // Código da versão
         const titleLower = anime.titleAnime.toLowerCase();  // Título em minúsculas
 
-        /* Identifica qual versão foi clicada */
+        /* O bloco abaixo identifica qual versão foi clicada */
         if (titleLower.includes('acf')) versaoCod = 'acf';
         else if (titleLower.includes('ara')) versaoCod = 'ara';
         else if (titleLower.includes('arc')) versaoCod = 'arc';
@@ -81,21 +81,21 @@ function createElementAnime(anime) {
     return listItem;             // Retorna o item completo
 }
 
-/*==============================================*/
-/* GERENCIAMENTO DE POP-UPS E UPLOAD DE IMAGENS */
-/*==============================================*/
+/*===============================================================================*/
+/*                 GERENCIAMENTO DE POP-UPS E UPLOAD DE IMAGENS                  */
+/*===============================================================================*/
 
-/* Guarda a imagem escolhida temporariamente */
+/* A linha abaixo guarda a imagem escolhida temporariamente */
 let uploadedImg = '';
 
-/* Configura a página quando ela carrega */
+/* O bloco abaixo configura a página quando ela carrega */
 document.addEventListener('DOMContentLoaded', () => {
     /* Encontra os elementos para upload de imagem */
     const realFileBtn = document.getElementById('arquivo-imagem');          // Campo de arquivo
     const customBtn = document.getElementById('novo-botao-imagem');         // Botão personalizado
     const imgPreviewEl = document.getElementById('previsualizacao-imagem'); // Área de preview
 
-    /* Configura o que acontece ao escolher uma imagem */
+    /* O bloco abaixo configura o que acontece ao escolher uma imagem */
     if (realFileBtn) {
         realFileBtn.addEventListener('change', () => {
             if (realFileBtn.files && realFileBtn.files.length > 0) {
@@ -117,7 +117,7 @@ document.addEventListener('DOMContentLoaded', () => {
         console.warn("Elemento 'arquivo-imagem' não encontrado.");
     }
 
-    /* Configura o botão de escolher imagem */
+    /* O bloco abaixo Configura o botão de escolher imagem */
     if (customBtn) {
         customBtn.addEventListener('click', () => {
             if (realFileBtn) {
@@ -128,7 +128,7 @@ document.addEventListener('DOMContentLoaded', () => {
         console.warn("Elemento 'novo-botao-imagem' não encontrado.");
     }
 
-    /* Encontra os botões de controle */
+    /* O bloco abaixo encontra os botões de controle */
     const openPopupButton = document.querySelector('.abrir-popup');                       // Botão abrir
     if (!openPopupButton) console.warn("Botão '.abrir-popup' não encontrado.");
 
@@ -141,16 +141,16 @@ document.addEventListener('DOMContentLoaded', () => {
     const saveButton = document.querySelector('.salvar-versao');                          // Botão salvar
     if (!saveButton) console.warn("Botão '.salvar-versao' não encontrado.");
 
-    /* Mostra todas as versões da Bíblia */
+    /*A linha abaixo Mostra todas as versões da Bíblia */
     exibirTodasVersoes();
 });
 
-/* Abre a janela para adicionar nova versão */
+/* A função abaixo abre o PUP-UP para adicionar nova versão */
 function abrirPopup() {
     document.body.classList.add('visivel');
 }
 
-/* Fecha a janela e limpa os campos */
+/* A função abaixo fecha a janela e limpa os campos */
 function fecharPopup() {
     document.body.classList.remove('visivel');
     const imgPreviewEl = document.getElementById('previsualizacao-imagem');
@@ -158,7 +158,7 @@ function fecharPopup() {
     const realFileBtn = document.getElementById('arquivo-imagem');
     const titleInput = document.getElementById('novo-titulo-biblia');
     
-    /* Limpa todos os campos */
+    /* O bloco abaixo limpa e reseta cada campo para o seu estado inicial os Limpa todos os campos */
     if (imgPreviewEl) {
         imgPreviewEl.src = '';
         imgPreviewEl.style.display = 'none';
