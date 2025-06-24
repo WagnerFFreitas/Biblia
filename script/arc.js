@@ -10,7 +10,7 @@
 
 // Definição da versão da Bíblia para este script
 window.BIBLE_VERSION = 'arc';
-window.BIBLE_VERSION_FULL_NAME = 'Almeida Revista e Corrigida'; // Ajuste se necessário
+window.NOME_VERSAO_COMPLETA_BIBLIA = 'Almeida Revista e Corrigida';
 console.log(`[${window.BIBLE_VERSION}.js] Script carregado. Definindo funções específicas para ARC (HTML).`);
 
 /**
@@ -29,20 +29,20 @@ window.getSpecificVerseCount = function(livro, capitulo) {
 window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
     console.log(`[ARC HTML] Carregando: ${livro} ${capitulo}:${versiculo}`);
     
-    const content = document.querySelector('.content');
+    const content = document.querySelector('.conteudo');
     
     if (!content) {
-        console.error("[ARC HTML] Elemento .content não encontrado.");
+        console.error("[ARC HTML] Elemento .conteudo não encontrado.");
         return;
     }
 
-    const existingVersiculoDiv = content.querySelector('.versiculo-texto');
+    const existingVersiculoDiv = content.querySelector('.texto-versiculo');
     if (existingVersiculoDiv) {
         existingVersiculoDiv.remove();
     }
 
     const versiculoElementDiv = document.createElement('div');
-    versiculoElementDiv.classList.add('versiculo', 'versiculo-texto');
+    versiculoElementDiv.classList.add('versiculo', 'texto-versiculo');
     
     if (document.body.classList.contains('module-leitura')) {
         versiculoElementDiv.classList.add('modo-leitura');

@@ -8,6 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Configura o viewport para responsividade -->
     <title>Concordância e Dicionário Bíblico</title>
     <link rel="stylesheet" href="../css/dicionario_concordancia.css">      <!-- Carrega os estilos externos -->
+    <link rel="stylesheet" href="../css/concordancia.css">
 </head>
 
 <!------------------------------------------->
@@ -25,7 +26,7 @@
     </div>
     <!-- O bloco abaixo e a barra do menu superior com as opções -->
     <nav>
-        <span class="menu-title">NAVEGAÇÃO</span>
+        <span class="titulo-menu">NAVEGAÇÃO</span>
         <ul class="menu-opcoes">
             <li><a href="../index.html">Menu Principal</a></li>
             <li><a href="#" id="concordancia">Concordância</a></li>
@@ -66,7 +67,7 @@
         <button class="letra-btn" data-letra="Z">Z</button>
     </aside>
 
-    <div id="initial-message" style="text-align: center; padding: 20px; flex-grow: 1; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+    <div id="mensagem-inicial">
         <h2>Seja bem-vindo!</h2>
         <p>Escolha Concordância ou Dicionário no menu superior.</p>
     </div>
@@ -79,14 +80,8 @@
 <!-- O bloco abaixo carrega o titulo do capitulo e da marca d'água -->
 <section class="content">
     <h2></h2>
-    <div class="watermark"></div> 
+    <div class="marcadagua"></div> 
 </section>
-
-<!-- O bloco abaixo são dos botões flutuantes laterais -->
-<div class="floating-action-buttons">
-    <button id="btnAcaoConfig" title="Configurações"><img src="../img/settings-icon.svg" alt="Config"></button>
-    <button id="btnAcaoTema" title="Mudar Tema"><img src="../img/theme-icon.svg" alt="Tema"></button>
-</div>
 
 <!-- O bloco abaixo e rodapé com informações de copyright -->
 <footer>
@@ -94,8 +89,7 @@
 </footer>
 
 <!-- A linha abaixo carrega o Script externo -->
-<script src="../script/watermarker.js"></script>
-<script src="../script/dropdown_concordancia.js" type="module"></script>
+<script src="../script/marcadagua.js"></script>
 <script src="../script/dicionario_concordancia.js" type="module"></script>
 </body>
 </html>

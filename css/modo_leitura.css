@@ -1,7 +1,7 @@
 /* === ESTILOS ESPECÍFICOS DO MODO DE LEITURA === */
 
 /* Container principal do modo leitura */
-.reading-mode-content {
+.modo-leitura-conteudo {
     max-width: 80%; /* Define largura máxima */
     margin: 20px auto; /* Centraliza horizontalmente */
     padding: 1px; /* Adiciona espaço interno */
@@ -29,8 +29,8 @@
 }
 
 /* Estilos BASE para os botões de navegação */
-#prev-chapter-reading-mode,
-#next-chapter-reading-mode {
+#modoLeitura-capitulo-anterior,
+#modoLeitura-capitulo-proximo {
     padding: 10px 15px; /* Adiciona espaço interno */
     border-radius: 4px; /* Arredonda bordas */
     cursor: pointer; /* Muda cursor para pointer */
@@ -43,19 +43,19 @@
 }
 
 /* Botão CAP. ANTERIOR - HABILITADO */
-#prev-chapter-reading-mode:not([disabled]) {
+#modoLeitura-capitulo-anterior:not([disabled]) {
     background-color: #4CAF50; /* Verde */
     color: white;
     border-color: #3e8e41; /* Borda verde um pouco mais escura para definição */
 }
 
-#prev-chapter-reading-mode:not([disabled]):hover {
+#modoLeitura-capitulo-anterior:not([disabled]):hover {
     background-color: #45a049; /* Verde mais escuro para hover */
     border-color: #3a7d3c;
 }
 
 /* Botão CAP. ANTERIOR - DESABILITADO (BRANCO SÓLIDO) */
-#prev-chapter-reading-mode[disabled] {
+#modoLeitura-capitulo-anterior[disabled] {
     background-color: #ffffff; /* Branco sólido */
     color: #6c757d;           /* Texto cinza escuro para contraste */
     border: 1px solid #ced4da; /* Borda cinza clara */
@@ -64,19 +64,19 @@
 }
 
 /* Botão CAP. PRÓXIMO - HABILITADO */
-#next-chapter-reading-mode:not([disabled]) {
+#modoLeitura-capitulo-proximo:not([disabled]) {
     background-color: #4CAF50; /* Verde */
     color: white;
     border-color: #3e8e41; /* Borda verde um pouco mais escura para definição */
 }
 
-#next-chapter-reading-mode:not([disabled]):hover {
+#modoLeitura-capitulo-proximo:not([disabled]):hover {
     background-color: #45a049; /* Verde mais escuro para hover */
     border-color: #3a7d3c;
 }
 
 /* Botão CAP. PRÓXIMO - DESABILITADO */
-#next-chapter-reading-mode[disabled] {
+#modoLeitura-capitulo-proximo[disabled] {
     background-color: #6c757d; /* Cinza escuro (padrão Bootstrap para desabilitado escuro) */
     color: #adb5bd; /* Texto cinza claro */
     border-color: #5a6268; /* Borda cinza um pouco mais escura */
@@ -156,7 +156,7 @@
 }
 
 /* Ajustes para texto de versículo individual */
-.versiculo-texto {
+.texto-versiculo {
     color: #f8f8f8; /* Define cor do texto */
     font-style: italic; /* Aplica estilo itálico */
     margin-top: 10px; /* Adiciona espaço superior */
@@ -176,14 +176,14 @@
 }
 
 /* Ajuste do texto do versículo no Modo Leitura */
-body[modo-leitura="true"] .versiculo-texto {
+body[modo-leitura="true"] .texto-versiculo {
     margin-left: 400px; /* Ajusta margem esquerda */
     margin-right: 0; /* Remove margem direita */
     max-width: calc(100% - 420px); /* Calcula nova largura máxima */
 }
 
 /* Títulos dentro do texto do versículo */
-.versiculo-texto h3 {
+.texto-versiculo h3 {
     color: #4CAF50; /* Define cor do texto */
     font-size: 1.9vw; /* Define tamanho responsivo */
     text-transform: uppercase; /* Converte texto para maiúsculas */
@@ -197,7 +197,7 @@ body[modo-leitura="true"] .versiculo-texto {
 
 /* Estilos responsivos para modo leitura */
 @media (max-width: 768px) {
-    .reading-mode-content {
+    .modo-leitura-conteudo {
         margin-left: 20px; /* Ajusta margem esquerda */
         margin-right: 20px; /* Ajusta margem direita */
         max-width: calc(100% - 40px); /* Calcula largura máxima */
@@ -207,8 +207,8 @@ body[modo-leitura="true"] .versiculo-texto {
         text-align: center; /* Centraliza texto */
     }
     
-    #prev-chapter-reading-mode,
-    #next-chapter-reading-mode {
+    #modoLeitura-capitulo-anterior,
+    #modoLeitura-capitulo-proximo {
         display: block; /* Muda para exibição em bloco */
         width: 100%; /* Define largura total */
         margin: 5px 0; /* Adiciona espaço vertical */
@@ -218,9 +218,43 @@ body[modo-leitura="true"] .versiculo-texto {
         font-size: 16px; /* Ajusta tamanho da fonte */
     }
     
-    .versiculo-texto {
+    .texto-versiculo {
         margin-left: 20px; /* Ajusta margem esquerda */
         margin-right: 20px; /* Ajusta margem direita */
         font-size: 18px; /* Ajusta tamanho da fonte */
     }
 }
+
+/*
+.versiculos-capitulo {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+.numero-versiculo {
+    font-weight: bold;
+    color: #666;
+    margin-right: 5px;
+}
+
+/*.texto-versiculo {
+    font-size: 1.9em;
+    line-height: 1.8;
+}*/
+
+/*.titulo-secao-versiculo {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin: 20px 0 10px;
+    color: #333;
+}*/
+
+/*.titulo-principal-capitulo {
+    font-size: 1.4em;
+    font-weight: bold;
+    margin: 20px 0;
+    color: #333;
+    text-align: center;
+}*/

@@ -1,436 +1,671 @@
-/* === Este arquivo e compartilhado "GLOBAL" === */
-
-/* O bloco abaixo configura o corpo da página */
+/* Configurações gerais da página */
 body {
-    background-color: #181818; /* Define cor de fundo escura */
-    color: #fff; /* Define cor do texto */
-    font-family: sans-serif; /* Define tipo de fonte */
-    margin: 0; /* Remove margens externas */
-    width: 100%; /* Define largura total */
-    font-style: italic; /* Aplica estilo itálico */
-    overflow-x: hidden; /* Oculta barra horizontal */
-    font-weight: bold; /* Define peso da fonte */
-    color: #d4ac0d; /* Define cor dourada */
+  background-color: #181818;
+  color: #fff;
+  margin: 0;
+  width: 100%;
+  overflow-x: hidden;
 }
 
-/* O bloco abaixo configura o cabeçalho */
-header {
-    width: 100%; /* Define largura total */
+body.loading .nome-extenso-versao {
+  opacity: 0;
 }
 
-/* O bloco abaixo configura o título principal */
-h1 {
-    margin: 0; /* Remove margens */
-    margin-top: 20px; /* Adiciona espaço superior */
-    margin-left: 30px; /* Adiciona espaço à esquerda */
-    font-size: 2.5em; /* Define tamanho da fonte */
-    font-style: italic; /* Aplica estilo itálico */
+/* Container para centralizar o título principal e o subtítulo */
+/* Container do título */
+.titulo-container {
+  display: flex;
+  position: relative; /* Permite posicionamento absoluto dos filhos */
+  width: 100%;
+  min-height: 60px;
+  margin-left: 20px; /* Margem esquerda geral */
 }
 
-/* O bloco abaixo configura a barra de navegação */
+/* Título principal */
+h1#titulo-principal-versao {
+  margin: 20px 0 0 0;
+  font-size: 2.5em;
+  font-style: italic;
+  white-space: nowrap; /* Evita quebra do "A CF" */
+}
+
+/* Subtítulo */
+.nome-extenso-versao {
+  font-size: 1.5em;
+  color: #dddddd;
+  position: absolute;
+  left: 240px; /* Posição horizontal */
+  top: 85%; /* Centralização vertical */
+  transform: translateY(-50%);
+  font-weight: normal;
+  font-style: normal;
+  white-space: nowrap;
+  margin-left: 10px; /* Espaço após o título */
+}
+
+/* Barra de navegação */
 nav {
-    background: linear-gradient(to right, #333, #555, #777); /* Cria gradiente horizontal */
-    width: 100%; /* Define largura total */
-    padding: 10px 0; /* Adiciona espaço interno vertical */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); /* Adiciona sombra suave */
-    display: flex; /* Habilita flexbox */
-    align-items: center; /* Centraliza itens verticalmente */
-    justify-content: space-between; /* Distribui espaço */
-    height: 40px; /* Define altura fixa */
-    position: fixed; /* Fixa na tela */
-    top: 110px; /* Posiciona do topo */
+  background: linear-gradient(to right, #333, #555, #777);
+  width: 100%;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2px 20px;
+  font-family: Arial, sans-serif;
+  font-style: normal;
+  margin-top: 40px;
 }
 
-/* O bloco abaixo configura o estilo do título "LIVROS" na barra de navegação */
-.menu-title {
-    color: white; /* Define cor do texto */
-    font-size: 1.5vw; /* Define tamanho responsivo */
-    margin-left: 37px; /* Adiciona espaço à esquerda */
-    margin-right: 20px; /* Adiciona espaço à direita */
-    width: auto; /* Define largura automática */
-    text-align: left; /* Alinha texto à esquerda */
-    display: flex; /* Habilita flexbox */
-    align-items: center; /* Centraliza verticalmente */
-    white-space: nowrap; /* Previne quebra de linha */
+nav ul {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  height: 100%;
 }
 
-/* O bloco abaixo configura o estilos da lista de opções da barra de navegação */
-nav .menu-opcoes {
-    display: flex; /* Habilita flexbox */
-    list-style: none; /* Remove marcadores da lista */
-    margin: 0; /* Remove margens */
-    padding: 0; /* Remove preenchimento */
-    flex-grow: 1; /* Permite crescimento */
-    justify-content: center; /* Centraliza horizontalmente */
-    align-items: center; /* Centraliza verticalmente */
-    flex-wrap: nowrap; /* Previne quebra de linha */
-    margin-left: 70px; /* Adiciona espaço à esquerda */
+nav ul:first-child {
+    padding-left: 0;
 }
 
-/* O bloco abaixo configura o estilos de cada item da lista */
-nav .menu-opcoes li {
-    margin: 0 13px; /* Adiciona espaço horizontal */
-    white-space: nowrap; /* Previne quebra de linha */
+nav ul li {
+  margin: 0 3px;
+  display: flex;
+  align-items: center;
+  height: 100%;
 }
 
-/* O bloco abaixo configura o links de navegação */
-nav .menu-opcoes li a {
-    text-decoration: none; /* Remove sublinhado */
-    color: white; /* Define cor do texto */
-    padding: 4px 4px; /* Adiciona espaço interno */
-    border-radius: 5px; /* Arredonda bordas */
-    transition: background 0.3s ease; /* Adiciona transição suave */
-    font-size: 1.2vw; /* Define tamanho responsivo */
-    display: inline-block; /* Define tipo de exibição */
+nav ul li a {
+  text-decoration: none;
+  color: white;
+  padding: 0 11px;
+  border-radius: 5px;
+  transition: background 0.3s ease;
+  line-height: 40px;
+  white-space: nowrap;
+  padding: 0 5px;
 }
 
-/* O bloco abaixo configura o efeito "hover" para os links de navegação*/
-nav .menu-opcoes li a:hover {
-    background: rgba(255, 255, 255, 0.2); /* Adiciona fundo semi-transparente */
+nav ul li a:hover {
+  background: rgba(255, 255, 255, 0.1);
 }
 
-/* O bloco abaixo configura o menu lateral dos livros */
+nav ul.menu-opcoes li:first-child {
+  margin-left: 0;
+}
+
+nav ul.menu-opcoes li {
+    margin: 0 -10px;
+    font-size: 1.1em;
+    color: #f5f5f5;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+nav ul.menu-opcoes li a {
+    padding: 3px 6px;
+}
+
+nav ul.menu-opcoes {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  margin: -40px;
+  padding:0px;
+  height: 100%;
+  width: calc(100% - 190px);
+}
+
+/* Menu lateral de livros */
 .menu-livros {
-    flex: 1; /* Define flexibilidade */
-    margin-right: 20px; /* Adiciona espaço à direita */
-    height: 100vh; /* Define altura total da viewport */
-    overflow-y: auto; /* Adiciona rolagem vertical */
-    background-color: #181818; /* Define cor de fundo */
-    color: #fff; /* Define cor do texto */
-    padding: 20px; /* Adiciona espaço interno */
-    position: fixed; /* Fixa na tela */
-    top: 150px; /* Posiciona do topo */
-    left: 0; /* Alinha à esquerda */
-    width: 228px; /* Define largura */
-    bottom: 0; /* Alinha ao fundo */
-    z-index: 10; /* Define ordem de empilhamento */
-    height: calc(100vh - 180px); /* Calcula altura dinâmica */
+  flex: 1;
+  margin-right: 20px;
+  height: calc(100vh - 25px);
+  overflow-y: auto;
+  background-color: #181818;
+  color: #fff;
+  padding: 20px;
+  position: fixed;
+  top: 151px;
+  left: 0;
+  width: 164px;
+  bottom: 0;
+  z-index: 10;
 }
 
-/* O bloco abaixo configura a barra de rolagem do menu lateral dos livros */
+/* Barra de rolagem do menu lateral */
 .menu-livros::-webkit-scrollbar {
-    width: 12px; /* Define largura da barra */
+  width: 15px;
 }
 
 .menu-livros::-webkit-scrollbar-track {
-    background: #383838; /* Define cor de fundo */
+  background: #383838;
 }
 
 .menu-livros::-webkit-scrollbar-thumb {
-    background: #a7a2a2; /* Define cor de fundo */
-    border-radius: 10px; /* Arredonda bordas */
-    margin: 5px; /* Adiciona margem */
+  background: #a7a2a2;
+  border-radius: 10px;
+  margin: 5px;
 }
 
-/* O bloco abaixo configura o estilo da lista de livros no menu barra lateral */
 .menu-livros ul {
-    list-style-type: none; /* Remove marcadores da lista */
-    padding: 0; /* Remove preenchimento */
-    margin: 15px; /* Adiciona margem */
-    margin-top: 5px; /* Adiciona margem superior */
+  list-style-type: none;
+  padding: 0;
+  margin: 10px;
 }
 
-/* O bloco abaixo configura o espaçamento dos itens da lista do barra lateral */
 .menu-livros li {
-    margin-bottom: 10px; /* Adiciona espaço inferior */
+  margin-bottom: 10px;
 }
 
-/* O bloco abaixo configura a cor e a remoção do sublinhamento dos links do menu lateral */
 .menu-livros a {
-    color: #fcf9f9; /* Define cor do texto */
-    text-decoration: none; /* Remove sublinhado */
+  color: #fcf9f9;
+  text-decoration: none;
 }
 
-/* O bloco abaixo configura o efeito "hover" dos links do menu lateral */
 .menu-livros a:hover {
-    text-decoration: underline; /* Adiciona sublinhado */
+  text-decoration: underline;
 }
 
-/* O bloco abaixo configura a área do conteúdo principal */
+/* Título do menu "LIVROS" na barra de navegação */
+.menu-title {
+  color: white;
+  display: inline-flex;
+  align-items: center;
+  height: 100%;
+  font-size: 1.4rem;
+  margin-left: 10px;
+}
+
+/* Área de conteúdo principal */
 .content {
-    flex: 3; /* Define flexibilidade */
-    overflow-y: auto; /* Adiciona rolagem vertical */
-    overflow-x: hidden; /* Oculta rolagem horizontal */
-    height: calc(100vh - 160px); /* Calcula altura dinâmica */
-    gap: 10px; /* Define espaçamento entre elementos */
+  flex: 3;
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: calc(100vh - 160px);
 }
 
-/* O bloco abaixo configura a barra de rolagem da área de conteúdo principal */
 .content::-webkit-scrollbar {
-    width: 16px; /* Define largura da barra */
+  width: 16px;
 }
 
 .content::-webkit-scrollbar-track {
-    background: #383838; /* Define cor de fundo */
+  background: #383838;
 }
 
 .content::-webkit-scrollbar-thumb {
-    background: #a7a2a2; /* Define cor de fundo */
-    border-radius: 10px; /* Arredonda bordas */
-    margin: 5px; /* Adiciona margem */
-    min-height: 50px; /* Define altura mínima */
+  background: #a7a2a2;
+  border-radius: 10px;
+  margin: 5px;
+  min-height: 50px;
 }
 
-/* O bloco abaixo configura o contêiner principal */
+/* Layout principal */
 .container {
-    display: flex; /* Habilita flexbox */
-    flex-direction: row; /* Define direção horizontal */
+  display: flex;
+  flex-direction: row;
 }
 
-/* O bloco abaixo configura a barra de busca */
+/* Barra de busca */
 .search-bar {
-    display: flex; /* Habilita flexbox */
-    align-items: center; /* Centraliza verticalmente */
-    margin-right: 20px; /* Adiciona espaço à direita */
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  margin-right: 20px;
+  margin-top: 20px;
 }
 
-/* O bloco abaixo configura o seletor da barra de busca */
 .search-bar select {
-    margin-right: 5px; /* Adiciona espaço à direita */
-    color: #fff; /* Define cor do texto */
-    font-size: 16px; /* Define tamanho da fonte */
-    padding: 8px; /* Adiciona espaço interno */
-    border: 1px solid #fff; /* Adiciona borda */
-    appearance: none; /* Remove aparência padrão */
-    border-radius: 5px; /* Arredonda bordas */
-    background-color: #383838; /* Define cor de fundo */
+  margin-right: 5px;
+  color: #fff;
+  font-size: 16px;
+  padding: 8px;
+  border: 1px solid #fff;
+  appearance: none;
+  border-radius: 5px;
+  background-color: #383838;
 }
 
-/* O bloco abaixo configura a caixa de texto da barra de busca */
 .search-bar input[type="text"] {
-    margin-right: 10px; /* Adiciona espaço à direita */
-    font-size: 16px; /* Define tamanho da fonte */
-    padding: 8px; /* Adiciona espaço interno */
-    border: 1px solid #fff; /* Adiciona borda */
-    background-color: #383838; /* Define cor de fundo */
-    color: #fff; /* Define cor do texto */
-    border-radius: 5px; /* Arredonda bordas */
+  margin-right: 10px;
+  font-size: 16px;
+  padding: 8px;
+  border: 1px solid #fff;
+  background-color: #383838;
+  color: #fff;
+  border-radius: 5px;
 }
 
-/* O bloco abaixo configura o botão da barra de busca */
 .search-bar button {
-    color: white; /* Define cor do texto */
-    cursor: pointer; /* Muda cursor para pointer */
-    padding: 8px 15px; /* Adiciona espaço interno */
-    border-radius: 5px; /* Arredonda bordas */
-    background-color: #4CAF50; /* Define cor de fundo */
-    border: 1px solid #fff; /* Adiciona borda */
-    font-size: 16px; /* Define tamanho da fonte */
+  color: white;
+  cursor: pointer;
+  padding: 8px 15px;
+  border-radius: 5px;
+  background-color: #4CAF50;
+  border: 1px solid #fff;
+  font-size: 16px;
 }
 
-/* O bloco abaixo configura o efeito "hover" do botão de busca */
 .search-bar button:hover {
-    background-color: #f34141; /* Muda cor de fundo ao hover */
+  background-color: #f34141;
 }
 
-/* O bloco abaixo configura o cabeçalho superior */
 .header-top {
-    display: flex; /* Habilita flexbox */
-    justify-content: space-between; /* Distribui espaço entre elementos */
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 0 20px;
 }
 
-/* O bloco abaixo configura o cabeçalho inferior */
 .header-bottom {
-    margin-top: 65px; /* Adiciona espaço superior */
+  margin-top: 10px;
 }
 
-/* O bloco abaixo configura o título "h2" */
+.header-bottom nav ul li:not(:first-child) {
+    margin-left: 28px;
+}
+
+.header-bottom ul {
+  margin-left: 0;
+}
+
+.header-bottom ul li {
+  font-style: italic;
+}
+
+/* Botões de capítulos */
+.capitulos {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(70px, 1fr));
+  gap: 10px;
+  padding: 20px;
+  margin-left: 220px;
+  margin-right: 20px;
+  margin-top: -50px;
+  max-width: calc(100% - 80px);
+}
+
+.botao-capitulo {
+  background-color: #220bf0;
+  color: white;
+  text-align: center;
+  padding: 8px 12px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1vw;
+  border: none;
+  transition: background-color 0.3s;
+}
+
+.botao-capitulo:hover, 
+.botao-versiculo:hover {
+  background-color: #45a049;
+}
+
 h2 {
-    font-style: italic; /* Aplica estilo itálico */
-    font-size: 2.5vw; /* Define tamanho responsivo */
-    text-align: center; /* Centraliza texto */
-    margin-top: 30px; /* Adiciona espaço superior */
-    margin-bottom: 30px; /* Adiciona espaço inferior */
-    margin-left: 230px; /* Adiciona espaço à esquerda */
-    max-width: calc(100% - 80px); /* Calcula largura máxima */
+  color: #f5f1f1;
+  font-style: italic;
+  font-size: 2.5vw;
+  text-align: center;
+  margin-top: 15px;
+  margin-left: 200px;
+  margin-bottom: 45px;
+  max-width: calc(100% - 80px);
 }
 
-/* O bloco abaixo configura o título "h3" */
 h3 {
-    font-size: 1.5em; /* Define tamanho da fonte */
-    font-style: italic; /* Aplica estilo itálico */
-    margin-left: 14px; /* Adiciona espaço à esquerda */
-    margin-top: 5px; /* Adiciona espaço superior */
+  color: #f5f1f1;
+  font-size: 1em;
+  font-style: italic;
+  margin-left: 14px;
+  margin-top: -5px;
 }
 
-/* O bloco abaixo configura o rodapé */
+/* Botões de versículos */
+.versiculos {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(70px, 1fr));
+  gap: 10px;
+  padding: 20px;
+  margin-left: 220px;
+  margin-right: 20px;
+  margin-top: -10px;
+  max-width: calc(100% - 80px);
+}
+
+.botao-versiculo {
+  background-color: #6758ec;
+  color: white;
+  text-align: center;
+  padding: 8px 12px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1vw;
+  border: none;
+  transition: background-color 0.3s;
+}
+
+.versiculo-texto,
+.versiculos-leitura {
+  color: #f8f8f8;
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-style: italic;
+  margin: 10px 30px 20px 220px;
+  line-height: 1.2;
+  text-align: center;
+  max-width: calc(100% - 80px);
+}
+
+.versiculo-texto h3.titulo-versiculo-interno,
+.versiculo-texto strong {
+  display: block;
+  color: #5df565;
+  margin-bottom: 15px;
+  letter-spacing: 0.5px;
+  text-align: center;
+}
+
+.versiculo-texto h3.titulo-versiculo-interno {
+  font-size: clamp(1.8em, 2.5vw, 7em);
+}
+
+.versiculo-texto strong {
+  font-size: clamp(1.8em, 2.5vw, 2.3em);
+}
+
+.versiculo-texto p,
+.versiculos-leitura p {
+  margin: 0;
+  font-size: clamp(1.5em, 3vw, 3.5em);
+  line-height: 1.2;
+}
+
+.versiculo-texto.modo-leitura {
+  margin-top: -20px;
+  margin-bottom: 10px;
+}
+
+.versiculo-texto.modo-leitura p {
+  line-height: 1.2;
+}
+
+.versiculo-texto.modo-leitura h3.titulo-versiculo-interno {
+  color: #5df565;
+  font-size: 2.8vw;
+  text-shadow: 1px 1px 8px #000, 0 0 2px #5df565;
+  margin-bottom: 5px;
+}
+
+.bloco-versiculo {
+  margin-bottom: 2px;
+  padding: 0 10vw;
+}
+
+.bloco-versiculo h3.titulo-versiculo-interno {
+  max-width: 900px;
+  margin: 0 auto 2px;
+  padding: 0 8px;
+}
+
+.bloco-versiculo p {
+  margin: 0 auto;
+  padding: 0 8px;
+}
+
+/* Rodapé */
 footer {
-    background-color: #383838; /* Define cor de fundo */
-    text-align: center; /* Centraliza texto */
-    padding: fixed; /* Define preenchimento fixo */
-    width: 100%; /* Define largura total */
-    position: fixed; /* Fixa na tela */
-    bottom: 0; /* Alinha ao fundo */
-    left: 0px; /* Alinha à esquerda */
-    z-index: 1; /* Define ordem de empilhamento */
-    height: 30px; /* Define altura */
+  background-color: #383838;
+  text-align: center;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+  height: 30px;
 }
 
-/* O bloco abaixo configura o texto do rodapé */
 footer p {
-    font-size: 16px; /* Define tamanho da fonte */
-    line-height: 1.8; /* Define altura da linha */
+  font-size: 16px;
+  line-height: 0.2;
 }
 
-/* O bloco abaixo configura a imagem de fundo em marca d'água */
+/* Marca d'água */
 .watermark-image {
-    position: fixed; /* Fixa na tela */
-    top: 0; /* Alinha ao topo */
-    left: 0; /* Alinha à esquerda */
-    width: 100%; /* Define largura total */
-    height: 120%; /* Define altura */
-    opacity: 0.3; /* Define transparência */
-    z-index: 10; /* Define ordem de empilhamento */
-    pointer-events: none; /* Desativa eventos do mouse */
-    overflow: hidden; /* Oculta conteúdo excedente */
-    background-size: cover; /* Ajusta tamanho do fundo */
-    background-repeat: no-repeat; /* Evita repetição */
-    background-position: center; /* Centraliza imagem */
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 120%;
+  opacity: 0.3;
+  z-index: 10;
+  pointer-events: none;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
-/* O bloco abaixo configura o dropdown do menu superior na barra de navegação */
+/* Dropdown menu */
 .dropdown {
-    position: relative; /* Define posicionamento */
-    display: inline-block; /* Define tipo de exibição */
+  position: relative;
+  display: inline-block;
 }
 
-/* O bloco abaixo configura o conteúdo do dropdown do menu superior na barra de navegação */
 .dropdown-content {
-    display: none; /* Oculta inicialmente */
-    position: absolute; /* Define posicionamento */
-    box-shadow: 0px 8px 16px 0px rgb(255, 255, 255); /* Adiciona sombra */    z-index: 1; /* Define ordem de empilhamento */
-    padding: 0; /* Adiciona um pequeno padding ao container */
-    margin: 0; /* Remove margens */
-    list-style: none; /* Remove marcadores */
-    left: -5px; /* Move 5px para a esquerda */
-    top: 100%; /* Alinha ao topo */
-    margin-top: 10px; /* Adiciona espaço superior */
-    width: 240px; /* Define largura */
-    background-color: rgba(0, 0, 0, 0.9); /* Define cor de fundo com transparência */
-    border-radius: 8px; /* Arredonda os cantos do container */
+  display: none;
+  position: absolute;
+  box-shadow: 0px 8px 16px 0px rgb(255, 255, 255);
+  z-index: 1;
+  padding: 0;
+  top: 100%;
+  left: 0;
+  list-style: none;
+  width: 240px;
+  background-color: rgba(0, 0, 0, 0.9);
 }
 
-/* O bloco abaixo configura os itens do dropdown do menu superior na barra de navegação */
 .dropdown-content li {
-    padding: 0; /* Remove padding do item */
-    font-size: 16px; /* Define tamanho da fonte */
-    line-height: 1.2; /* Ajusta altura da linha */
-    margin-bottom: 2px; /* Pequeno espaço entre itens */
+  display: block;
+  font-size: 16px;
+  line-height: 1;
+  margin-bottom: 1px;
 }
 
-/* O bloco abaixo configura os links do dropdown do menu superior na barra de navegação */
-nav .dropdown .dropdown-content li a {
-    color: #d4ac0d; /* Define cor dourada do texto */
-    text-decoration: none; /* Remove sublinhado */
-    display: block; /* Define tipo de exibição */
-    text-align: left; /* Alinha texto à esquerda */    white-space: nowrap; /* Previne quebra de linha */
-    border-radius: 4px; /* Arredonda bordas */
-    width: 100%; /* Define largura total */
-    height: 100%; /* Define altura total */
-    box-sizing: border-box; /* Define modelo de caixa */
-    padding: 6px 8px; /* Reduz o padding lateral para alinhar melhor o texto */
+.dropdown-content li a {
+  color: rgb(215, 216, 128);
+  text-decoration: none;
+  display: block;
+  text-align: left;
+  padding: 8px 16px;
+  border-radius: 8px;
+  white-space: nowrap;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
 }
 
-/* O bloco abaixo configura a exibição do dropdown ao passar o mouse */
 .dropdown:hover .dropdown-content {
-    display: block; /* Exibe o dropdown */
+  display: block;
 }
 
-/* O bloco abaixo configura o efeito "hover" para os links do dropdown */
-nav .dropdown .dropdown-content li a:hover {
-    color: white; /* Muda para branco no hover */
-    background-color: #0f0e0e; /* Muda cor de fundo */
+.dropdown-content li a:hover {
+  color: rgb(255, 254, 254);
+  background-color: #0f0e0e;
 }
 
-/* O bloco abaixo configura o conteúdo da página "Sobre" */
+/* Página Sobre */
 .sobre-content {
-    position: relative; /* Define posicionamento */
-    padding: 20px; /* Adiciona espaço interno */
-    max-width: 75%; /* Define largura máxima */
-    margin: 10px auto; /* Centraliza horizontalmente */
-    padding: 20px; /* Adiciona espaço interno */
+  max-width: 70%;
+  margin: 10px auto;
+  padding: 20px;
 }
 
-/* O bloco abaixo configura o título da página "Sobre" */
 .sobre-content h2 {
-    color: #d4ac0d; /* Define cor do texto */
-    font-style: italic; /* Aplica estilo itálico */
-    font-size: 2.5em; /* Define tamanho da fonte */
-    text-align: center; /* Centraliza texto */
-    margin: 0 auto; /* Centraliza horizontalmente */
-    margin-left: 10%; /* Adiciona espaço à esquerda */
+  color: #f8f8f8;
+  font-size: 2.5em;
+  margin: 0 auto 0 10%;
 }
 
-/* O bloco abaixo configura o texto da página "Sobre" */
 .sobre-content p {
-    color: #f8f8f8; /* Define cor do texto */
-    font-style: italic; /* Aplica estilo itálico */
-    margin-top: -10px; /* Ajusta espaço superior */
-    margin: 0 auto; /* Centraliza horizontalmente */
-    font-size: 1.4em; /* Define tamanho da fonte */
-    position: relative; /* Define posicionamento */
-    text-align: justify; /* Centraliza texto */
-    width: 100%; /* Define largura total */
-    max-width: 1200px; /* Define largura máxima */
-    white-space: normal; /* Permite quebra de linha */
-    overflow: hidden; /* Oculta conteúdo excedente */
-    text-overflow: ellipsis; /* Adiciona reticências */
-    word-wrap: break-word; /* Permite quebra de palavras */
-    margin-left: 10%; /* Adiciona espaço à esquerda */
-    text-indent: 2em;
-    font-family: Consolas, 'Courier New', monospace;
-    
+  color: #f8f8f8;
+  font-size: 1.5em;
+  margin: 0 auto 0 10%;
 }
 
-/* O bloco abaixo configura o container da página "Sobre" */
-.sobre {
-    max-width: 800px; /* Define largura máxima */
-    margin: 0 auto; /* Centraliza horizontalmente */
-    padding: 20px; /* Adiciona espaço interno */
-    display: flex; /* Habilita flexbox */
-    flex-direction: column; /* Define direção vertical */
-    align-items: center; /* Centraliza itens */
+/* Modo leitura - container principal */
+.reading-mode-content {
+  max-width: 80%;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: rgba(30, 30, 30, 0.7);
+  border-radius: 8px;
+  margin-right: 10px;
 }
 
-/* O bloco abaixo configura o espaçamento dos elementos da página "Sobre" */
-.sobre > * {
-    margin-bottom: 20px; /* Adiciona espaço inferior */
+.reading-mode-header {
+  color: #4CAF50;
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 1.8em;
 }
 
-/* Estilos responsivos para telas menores */
+/* Versículos no modo leitura */
+.chapter-verses {
+  line-height: 1.6;
+  font-size: 1.1em;
+}
+
+.verse-container {
+  margin-bottom: 8px;
+  display: flex;
+}
+
+.verse-number {
+  color: #a0a0a0;
+  font-size: 0.8em;
+  margin-right: 8px;
+}
+
+.verse-text {
+  flex: 1;
+}
+
+.verse-section-title {
+  color: #4CAF50;
+  margin: 20px 0 10px;
+  font-size: 1.3em;
+  border-bottom: 1px solid #444;
+}
+
+/* Media queries */
 @media (max-width: 768px) {
-    .menu-title {
-        font-size: 16px; /* Reduz tamanho da fonte */
-        margin-left: 10px; /* Ajusta margem */
-    }
-    
-    nav .menu-opcoes {
-        margin-left: 20px; /* Ajusta margem */
-    }
-    
-    nav .menu-opcoes li {
-        margin: 0 5px; /* Ajusta espaçamento */
-    }
-    
-    nav .menu-opcoes li a {
-        font-size: 14px; /* Reduz tamanho da fonte */
-        padding: 3px; /* Ajusta padding */
-    }
-    
-    .menu-livros {
-        width: 150px; /* Reduz largura */
-    }
-    
-    h2 {
-        font-size: 20px; /* Reduz tamanho da fonte */
-        margin-left: 160px; /* Ajusta margem */
-    }
-    
-    .search-bar {
-        margin-right: 10px; /* Ajusta margem */
-    }
-    
-    .search-bar input[type="text"] {
-        width: 120px; /* Reduz largura */
-    }
+  .sobre-content {
+    max-width: 90%;
+  }
+  .sobre-content h2 {
+    font-size: 2em;
+  }
+  .sobre-content p {
+    font-size: 1.2em;
+  }
+  nav {
+    padding: 2px 10px;
+  }
+  nav ul li a {
+    padding: 0 8px;
+  }
+  .menu-title {
+    font-size: 1.2rem;
+  }
+  .header-top {
+    flex-direction: column;
+    align-items: center;
+  }
+  .titulo-container {
+    width: 100%;
+    margin-bottom: 10px;
+    align-items: center;
+  }
+  h1#titulo-principal-versao,
+  .nome-extenso-versao {
+      text-align: center;
+  }
+  .search-bar {
+    margin-right: 0;
+    width: 90%;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .sobre-content {
+    max-width: 100%;
+  }
+  .sobre-content h2 {
+    font-size: 1.8em;
+  }
+  .sobre-content p {
+    font-size: 1em;
+  }
+  nav ul li {
+    margin: 0 3px;
+  }
+  nav ul li a {
+    padding: 0 5px;
+    font-size: 0.9em;
+  }
+  .menu-title {
+    font-size: 1rem;
+  }
+  .search-bar input[type="text"], .search-bar select, .search-bar button {
+    font-size: 14px;
+    padding: 6px;
+  }
+  h1#titulo-principal-versao {
+      font-size: 2em;
+  }
+  .nome-extenso-versao {
+      font-size: 0.9em;
+  }
+}
+
+/* Botão ativo do modo leitura */
+#modo-leitura.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+/* Navegação do Modo Leitura (Cap. Anterior / Próximo Cap.) */
+.reading-mode-navigation {
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 15px;
+  padding-bottom: 10px;
+}
+
+.reading-mode-navigation button {
+  padding: 6px 12px;
+  font-size: 0.85em;
+  cursor: pointer;
+  background-color: #4a4a4a;
+  color: #e0e0e0;
+  border: 1px solid #666;
+  border-radius: 4px;
+  margin-left: 8px;
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+.reading-mode-navigation button:disabled {
+  cursor: not-allowed;
+  opacity: 0.4;
+  background-color: #333;
+  border-color: #555;
+}
+
+.reading-mode-navigation button:not(:disabled):hover {
+  background-color: #5a5a5a;
+  border-color: #777;
 }

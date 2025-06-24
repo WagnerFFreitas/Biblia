@@ -2,7 +2,6 @@
 // Lógica centralizada para os menus dropdown da barra de navegação
 
 /**
- * dropdown.js
  * Módulo responsável por gerenciar os menus dropdown da barra de navegação.
  * Implementa funcionalidades de menus suspensos, incluindo:
  * - Downloads de bíblias em PDF
@@ -141,7 +140,7 @@
         
         dropdownTriggers.forEach((trigger, index) => {
             const dropdownContainer = trigger.parentElement;
-            const listContent = dropdownContainer.querySelector('.dropdown-content');
+            const listContent = dropdownContainer.querySelector('.conteudo-dropdown');
 
             if (!listContent) {
                 console.warn(`[dropdown.js] Menu #${index+1} sem conteudo.`);
@@ -191,7 +190,7 @@
         // Popula todas as listas de menu
         populateList('baixar-list', downloads);
         populateList('dicionario-list', dicionario);
-        populateList('harpa-hinario-list', harpaHinario);
+        populateList('lista-harpa-hinario', harpaHinario);
         populateList('utilidades-list', utilidades);
 
         // Configura interatividade dos menus

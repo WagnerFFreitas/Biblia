@@ -9,12 +9,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Configura o viewport para responsividade -->
     <title>Bíblia Sagrada Online</title>
     <!-- O bloco abaixo carrega os estilos externos -->
-    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/style_versoes.css">
     <link rel="stylesheet" href="../css/versoes.css">
     <link rel="stylesheet" href="../css/capitulos.css">
     <link rel="stylesheet" href="../css/modo_leitura.css">
 </head>
-
 <!------------------------------------------->
 <!--         CONTEÚDO PRINCIPAL            -->
 <!--   ORGANIZADO EM SEÇÕES SEMÂNTICAS     -->
@@ -22,13 +21,13 @@
 <body>
     <!-- O Bloco abaixo e o cabeçalho da página -->
     <header>
-        <div class="header-top">
-            <div class="titulo-container">
+        <div class="cabeçalho-superior">
+            <div class="titulo-conteiner">
                 <h1 id="titulo-principal-versao">Bíblia Sagrada</h1>
                 <p id="subtitulo-versao-extenso" class="nome-extenso-versao"></p>
             </div>
             <!-- O bloco abaixo e a barra de pesquisa do seletor de versões -->
-            <div class="search-bar">
+            <div class="barraPesquisa">
                 <select id="seletor-versao-principal" style="display: none;">
                     <option value="acf">ACF</option>
                     <option value="ara">ARA</option>
@@ -46,25 +45,25 @@
         </div>
 
         <!-- O bloco abaixo e a barra do menu superior com as opções -->
-        <div class="header-bottom">
+        <div class="cabeçalho-inferior">
             <nav>
-                <span class="menu-title">LIVROS</span>
+                <span class="titulo-menu">LIVROS</span>
                 <ul class="menu-opcoes">
-                    <li><a href="../index.html">Menu</a></li>
+                    <li><a href="../index.html">Menu Principal</a></li>
                     <li><a href="#" id="modo-leitura" aria-pressed="false">Modo Leitura</a></li>
                     <li><a href="#" id="link-slide">Slide</a></li>
                     <li><a href="../html/dicionario_concordancia.html">Concordância e Dicionário</a></li>
                     <li class="dropdown">
                         <a href="#" id="harpa-hinario">Harpa e Hinário</a>
-                        <ul class="dropdown-content" id="harpa-hinario-list"></ul>
+                        <ul class="conteudo-dropdown" id="lista-harpa-hinario"></ul>
                     </li>
                     <li class="dropdown">
                         <a href="#" id="baixar">Baixar</a>
-                        <ul class="dropdown-content" id="baixar-list"></ul>
+                        <ul class="conteudo-dropdown" id="baixar-list"></ul>
                     </li>
                     <li class="dropdown">
                         <a href="#" id="utilidades">Utilidades</a>
-                        <ul class="dropdown-content" id="utilidades-list"></ul>
+                        <ul class="conteudo-dropdown" id="utilidades-list"></ul>
                     </li>
                     <li><a href="mailto:wagnerffreitas1973@gmail.com">Contato</a></li>
                     <li><a href="#" id="sobre">Sobre</a></li>
@@ -75,7 +74,7 @@
 
     <!-- O bloco abaixo e o menu lateral com a lista dos livros bíblico -->
     <main>
-        <div class="container">
+        <div class="conteiner">
             <aside class="menu-livros">
                 <ul>
                     <li><a href="#" data-livro="genesis">Gênesis</a></li>
@@ -146,12 +145,11 @@
                     <li><a href="#" data-livro="apocalipse">Apocalipse</a></li>
                 </ul>
             </aside>
-
             
             <!-- O bloco abaixo carrega o titulo do capitulo e da marca d'água -->
-            <section class="content">
+            <section class="conteudo">
                 <h2></h2>
-                <div class="watermark"></div>
+                <div class="marcadagua"></div>
             </section>
         </div>
     </main>
@@ -162,11 +160,12 @@
     </footer>
 
     <!-- O bloco abaixo carrega o Script externo -->
-    <script src="../script/watermarker.js"></script>
+    <script src="../script/marcadagua.js"></script>
     <script src="../script/livros_capitulos.js"></script>
     <script src="../script/sobre.js"></script>
     <script src="../script/dropdown.js"></script>
     <script src="../script/biblia-navegacao.js"></script>
     <script src="../script/versoes.js"></script>
+    
 </body>
 </html>

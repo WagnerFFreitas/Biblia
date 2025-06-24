@@ -2,38 +2,50 @@
 /*                   CONFIGURAÇÃO INICIAL E VARIÁVEIS GLOBAIS                    */
 /*  Lista que guarda todas as versões da Bíblia disponíveis dentro de um array   */
 /*===============================================================================*/
-const bibleVersions = [];
+// Criamos um array vazio que vai armazenar todas as versões da Bíblia
+// Um array é como uma lista que pode guardar vários itens
+const versoesBiblia = [];
 
 /* Adiciona as versões padrão da Bíblia com seus títulos e imagens */
-bibleVersions.push({ titleAnime: 'Bíblia ACF', img: './img/acf.png' });
-bibleVersions.push({ titleAnime: 'Bíblia ARA', img: './img/ara.png' });
-bibleVersions.push({ titleAnime: 'Bíblia ARC', img: './img/arc.png' }); 
-bibleVersions.push({ titleAnime: 'Bíblia KJV', img: './img/kjv.png' }); 
-bibleVersions.push({ titleAnime: 'Bíblia NAA', img: './img/naa.png' });
-bibleVersions.push({ titleAnime: 'Bíblia NTLH', img: './img/ntlh.png' });
-bibleVersions.push({ titleAnime: 'Bíblia NVI', img: './img/nvi.png' });
-bibleVersions.push({ titleAnime: 'Bíblia NVT', img: './img/nvt.png' }); 
-bibleVersions.push({ titleAnime: 'Bíblia Original', img: './img/original.png' });
+// O método push() adiciona um novo item ao final do array
+// Cada item é um objeto com duas propriedades: tituloDesenho e img
+versoesBiblia.push({ tituloDesenho: 'Bíblia ACF', img: './img/acf.png' });
+versoesBiblia.push({ tituloDesenho: 'Bíblia ARA', img: './img/ara.png' });
+versoesBiblia.push({ tituloDesenho: 'Bíblia ARC', img: './img/arc.png' }); 
+versoesBiblia.push({ tituloDesenho: 'Bíblia KJV', img: './img/kjv.png' }); 
+versoesBiblia.push({ tituloDesenho: 'Bíblia NAA', img: './img/naa.png' });
+versoesBiblia.push({ tituloDesenho: 'Bíblia NTLH', img: './img/ntlh.png' });
+versoesBiblia.push({ tituloDesenho: 'Bíblia NVI', img: './img/nvi.png' });
+versoesBiblia.push({ tituloDesenho: 'Bíblia NVT', img: './img/nvt.png' }); 
+versoesBiblia.push({ tituloDesenho: 'Bíblia Original', img: './img/original.png' });
 
 /*===============================================================================*/
 /*                  INICIALIZAÇÃO E CONFIGURAÇÃO DE EVENTOS                      */
 /* Esta função é responsável por mostrar todas as versões da Bíblia na tela.     */
-/* Ela pega os dados da nossa lista `bibleVersions` e cria os elementos visuais. */
+/* Ela pega os dados da nossa lista `versoesBiblia` e cria os elementos visuais. */
 /*===============================================================================*/
 
 function exibirTodasVersoes() {
     /* O bloco abaixo encontra a lista onde todas as versões serão mostradas (CAPAS)*/
-    const list = document.getElementById('lista');
-    if (!list) {
+    // getElementById busca um elemento na página pelo seu ID
+    // Se não encontrar, retorna null
+    const lista = document.getElementById('lista');
+    if (!lista) {
+        // Se não encontrar a lista, mostra um erro no console
         console.error("Elemento <ul id='lista'> não encontrado no index.html");
-        return;
+        return; // Para a execução da função
     }
     /* A linha abaixo limpa a lista atual para evitar duplicação */
-    list.innerHTML = '';
+    // innerHTML = '' remove todo o conteúdo dentro da lista
+    lista.innerHTML = '';
     
     /* O bloco abaixo adiciona cada versão da Bíblia à lista */
-    for (let i = 0; i < bibleVersions.length; i++) {
-        list.appendChild(createElementAnime(bibleVersions[i]));
+    // for é um loop que repete o código para cada item do array
+    // i começa em 0 e vai até o tamanho do array - 1
+    for (let i = 0; i < versoesBiblia.length; i++) {
+        // appendChild adiciona um novo elemento como filho da lista
+        // criarelementodesenho cria o elemento visual para cada versão
+        lista.appendChild(criarelementodesenho(versoesBiblia[i]));
     }
 }
 
@@ -42,43 +54,55 @@ function exibirTodasVersoes() {
 /*               Cria um item de lista para uma versão da Bíblia                 */
 /*===============================================================================*/
 
-function createElementAnime(anime) {
-    const listItem = document.createElement('li');          // Cria item da lista
+function criarelementodesenho(desenho) {
+    // Cria os elementos HTML que vamos usar
+    const listaItem = document.createElement('li');          // Cria item da lista
     const img = document.createElement('img');              // Cria elemento de imagem
-    const name = document.createElement('h2');              // Cria elemento de título
-    img.src = anime.img;                                    // Define imagem
-    img.alt = anime.titleAnime;                             // Define texto alternativo
-    name.innerHTML = anime.titleAnime;                      // Define título
+    const titulo = document.createElement('h2');            // Cria elemento de título
+
+    // Configura as propriedades dos elementos
+    img.src = desenho.img;                                    // Define o caminho da imagem
+    img.alt = desenho.tituloDesenho;                         // Define texto alternativo (importante para acessibilidade)
+    titulo.innerHTML = desenho.tituloDesenho;                // Define o texto do título
     
     /* O bloco abaixo adiciona ação ao clicar na versão */
-    listItem.addEventListener('click', () => {
-        let versaoCod = null;                               // Código da versão
-        const titleLower = anime.titleAnime.toLowerCase();  // Título em minúsculas
+    // addEventListener adiciona um "ouvinte" de eventos
+    // 'click' é o tipo de evento (quando o usuário clica)
+    // () => { ... } é uma função que será executada quando o evento acontecer
+    listaItem.addEventListener('click', () => {
+        let codigoVersao = null;                               // Código da versão
+        // toLowerCase() converte o texto para minúsculas
+        const tituloMinusculo = desenho.tituloDesenho.toLowerCase();
 
         /* O bloco abaixo identifica qual versão foi clicada */
-        if (titleLower.includes('acf')) versaoCod = 'acf';
-        else if (titleLower.includes('ara')) versaoCod = 'ara';
-        else if (titleLower.includes('arc')) versaoCod = 'arc';
-        else if (titleLower.includes('kjv')) versaoCod = 'kjv';
-        else if (titleLower.includes('naa')) versaoCod = 'naa';
-        else if (titleLower.includes('ntlh')) versaoCod = 'ntlh';
-        else if (titleLower.includes('nvi')) versaoCod = 'nvi';
-        else if (titleLower.includes('nvt')) versaoCod = 'nvt';
-        else if (titleLower.includes('original')) versaoCod = 'original';
+        // includes() verifica se uma string contém outra
+        // if/else if são condições que verificam qual versão foi clicada
+        if (tituloMinusculo.includes('acf')) codigoVersao = 'acf';
+        else if (tituloMinusculo.includes('ara')) codigoVersao = 'ara';
+        else if (tituloMinusculo.includes('arc')) codigoVersao = 'arc';
+        else if (tituloMinusculo.includes('kjv')) codigoVersao = 'kjv';
+        else if (tituloMinusculo.includes('naa')) codigoVersao = 'naa';
+        else if (tituloMinusculo.includes('ntlh')) codigoVersao = 'ntlh';
+        else if (tituloMinusculo.includes('nvi')) codigoVersao = 'nvi';
+        else if (tituloMinusculo.includes('nvt')) codigoVersao = 'nvt';
+        else if (tituloMinusculo.includes('original')) codigoVersao = 'original';
 
-        if (versaoCod) {
-            const urlDestino = `html/versoes.html?version=${versaoCod}`;    // Cria URL de destino
+        if (codigoVersao) {
+            // Template string (usando `) permite incluir variáveis dentro do texto
+            const urlDestino = `html/versoes.html?versao=${codigoVersao}`;    // Cria URL de destino
             console.log(`Redirecionando para: ${urlDestino}`);              // Mostra no console
             window.location.href = urlDestino;                              // Muda para a página
         } else {
-            console.warn(`Não foi possível determinar o código da versão para: ${anime.titleAnime}`);
+            // Se não encontrou o código da versão, mostra aviso
+            console.warn(`Não foi possível determinar o código da versão para: ${desenho.tituloDesenho}`);
             alert("Não foi possível abrir esta versão. Código não identificado.");
         }
     });
 
-    listItem.appendChild(img);   // Adiciona imagem ao item
-    listItem.appendChild(name);  // Adiciona título ao item
-    return listItem;             // Retorna o item completo
+    // Monta o elemento final
+    listaItem.appendChild(img);   // Adiciona imagem ao item
+    listaItem.appendChild(titulo);  // Adiciona título ao item
+    return listaItem;             // Retorna o item completo
 }
 
 /*===============================================================================*/
@@ -86,31 +110,39 @@ function createElementAnime(anime) {
 /*===============================================================================*/
 
 /* A linha abaixo guarda a imagem escolhida temporariamente */
-let uploadedImg = '';
+// Variável global que armazena a imagem em formato base64
+let subirImg = '';
 
 /* O bloco abaixo configura a página quando ela carrega */
+// DOMContentLoaded é um evento que acontece quando a página termina de carregar
 document.addEventListener('DOMContentLoaded', () => {
     /* Encontra os elementos para upload de imagem */
-    const realFileBtn = document.getElementById('arquivo-imagem');          // Campo de arquivo
-    const customBtn = document.getElementById('novo-botao-imagem');         // Botão personalizado
-    const imgPreviewEl = document.getElementById('previsualizacao-imagem'); // Área de preview
+    // querySelector busca elementos usando seletores CSS
+    const botaoArquivoReal = document.getElementById('arquivo-imagem');          // Campo de arquivo
+    const botaoPersonalizado = document.getElementById('novo-botao-imagem');         // Botão personalizado
+    const previsualizacaoImagem = document.getElementById('previsualizacao-imagem'); // Área de preview
 
     /* O bloco abaixo configura o que acontece ao escolher uma imagem */
-    if (realFileBtn) {
-        realFileBtn.addEventListener('change', () => {
-            if (realFileBtn.files && realFileBtn.files.length > 0) {
-                const reader = new FileReader();                            // Lê o arquivo
-                reader.onloadend = () => {
-                    uploadedImg = reader.result;                            // Guarda a imagem
-                    if (imgPreviewEl) {
-                        imgPreviewEl.src = uploadedImg;                     // Mostra a imagem
-                        imgPreviewEl.style.display = 'flex';
+    if (botaoArquivoReal) {
+        // 'change' é o evento que acontece quando o usuário seleciona um arquivo
+        botaoArquivoReal.addEventListener('change', () => {
+            // Verifica se um arquivo foi selecionado
+            if (botaoArquivoReal.files && botaoArquivoReal.files.length > 0) {
+                // FileReader é uma classe que lê arquivos
+                const leitorArquivo = new FileReader();                            // Lê o arquivo
+                // onloadend é chamado quando a leitura termina
+                leitorArquivo.onloadend = () => {
+                    subirImg = leitorArquivo.result;                            // Guarda a imagem
+                    if (previsualizacaoImagem) {
+                        previsualizacaoImagem.src = subirImg;                     // Mostra a imagem
+                        previsualizacaoImagem.style.display = 'flex';
                     }
-                    if (customBtn) {
-                        customBtn.style.display = 'none';                   // Esconde o botão
+                    if (botaoPersonalizado) {
+                        botaoPersonalizado.style.display = 'none';                   // Esconde o botão
                     }
                 }
-                reader.readAsDataURL(realFileBtn.files[0]);                 // Lê a imagem
+                // readAsDataURL converte o arquivo para base64
+                leitorArquivo.readAsDataURL(botaoArquivoReal.files[0]);                 // Lê a imagem
             }
         });
     } else {
@@ -118,10 +150,11 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     /* O bloco abaixo Configura o botão de escolher imagem */
-    if (customBtn) {
-        customBtn.addEventListener('click', () => {
-            if (realFileBtn) {
-                realFileBtn.click();                                        // Abre seletor de arquivo
+    if (botaoPersonalizado) {
+        // 'click' é o evento que acontece quando o usuário clica
+        botaoPersonalizado.addEventListener('click', () => {
+            if (botaoArquivoReal) {
+                botaoArquivoReal.click();                                        // Abre seletor de arquivo
             }
         });
     } else {
@@ -129,17 +162,18 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     /* O bloco abaixo encontra os botões de controle */
-    const openPopupButton = document.querySelector('.abrir-popup');                       // Botão abrir
-    if (!openPopupButton) console.warn("Botão '.abrir-popup' não encontrado.");
+    // querySelector busca elementos usando seletores CSS
+    const abreBotaoPopup = document.querySelector('.abrir-popup');                       // Botão abrir
+    if (!abreBotaoPopup) console.warn("Botão '.abrir-popup' não encontrado.");
 
-    const closePopupButton = document.querySelector('.popup-nova-versao .fechar-popup');  // Botão fechar
-    if (!closePopupButton) console.warn("Botão '.fechar-popup' não encontrado.");
+    const fechaBotaoPopup = document.querySelector('.popup-nova-versao .fechar-popup');  // Botão fechar
+    if (!fechaBotaoPopup) console.warn("Botão '.fechar-popup' não encontrado.");
 
-    const closeWlcButton = document.querySelector('.fechar-boas-vindas');                 // Botão fechar boas-vindas
-    if (!closeWlcButton) console.warn("Botão '.fechar-boas-vindas' não encontrado.");
+    const fechaBotaoBoasVindas = document.querySelector('.fechar-boas-vindas');                 // Botão fechar boas-vindas
+    if (!fechaBotaoBoasVindas) console.warn("Botão '.fechar-boas-vindas' não encontrado.");
 
-    const saveButton = document.querySelector('.salvar-versao');                          // Botão salvar
-    if (!saveButton) console.warn("Botão '.salvar-versao' não encontrado.");
+    const botaoSalvar = document.querySelector('.salvar-versao');                          // Botão salvar
+    if (!botaoSalvar) console.warn("Botão '.salvar-versao' não encontrado.");
 
     /*A linha abaixo Mostra todas as versões da Bíblia */
     exibirTodasVersoes();
@@ -147,39 +181,42 @@ document.addEventListener('DOMContentLoaded', () => {
 
 /* A função abaixo abre o PUP-UP para adicionar nova versão */
 function abrirPopup() {
+    // classList.add adiciona uma classe CSS ao elemento
     document.body.classList.add('visivel');
 }
 
 /* A função abaixo fecha a janela e limpa os campos */
 function fecharPopup() {
+    // classList.remove remove uma classe CSS do elemento
     document.body.classList.remove('visivel');
-    const imgPreviewEl = document.getElementById('previsualizacao-imagem');
-    const customBtn = document.getElementById('novo-botao-imagem');
-    const realFileBtn = document.getElementById('arquivo-imagem');
-    const titleInput = document.getElementById('novo-titulo-biblia');
+    // Busca os elementos que precisam ser limpos
+    const previsualizacaoImagem = document.getElementById('previsualizacao-imagem');
+    const botaoPersonalizado = document.getElementById('novo-botao-imagem');
+    const botaoArquivoReal = document.getElementById('arquivo-imagem');
+    const entradaTitulo = document.getElementById('novo-titulo-biblia');
     
-    /* O bloco abaixo limpa e reseta cada campo para o seu estado inicial os Limpa todos os campos */
-    if (imgPreviewEl) {
-        imgPreviewEl.src = '';
-        imgPreviewEl.style.display = 'none';
+    /* O bloco abaixo limpa e reseta cada campo para o seu estado inicial */
+    if (previsualizacaoImagem) {
+        previsualizacaoImagem.src = '';  // Limpa a imagem
+        previsualizacaoImagem.style.display = 'none';  // Esconde o elemento
     }
-    if (customBtn) {
-        customBtn.style.display = 'block';
+    if (botaoPersonalizado) {
+        botaoPersonalizado.style.display = 'block';  // Mostra o botão
     }
-    if (realFileBtn) {
-        realFileBtn.value = '';
+    if (botaoArquivoReal) {
+        botaoArquivoReal.value = '';  // Limpa o campo de arquivo
     }
-    if (titleInput) {
-        titleInput.value = '';
+    if (entradaTitulo) {
+        entradaTitulo.value = '';  // Limpa o campo de texto
     }
-    uploadedImg = '';
+    subirImg = '';  // Limpa a variável que guarda a imagem
 }
 
 /* Fecha a janela de boas-vindas */
 function fecharSejaBemVindo() {
-    const welcomePopup = document.getElementById('popup-seja-bem-vindo');
-    if (welcomePopup) {
-        welcomePopup.classList.remove('ativo');
+    const popupBoasVindas = document.getElementById('popup-seja-bem-vindo');
+    if (popupBoasVindas) {
+        popupBoasVindas.classList.remove('ativo');  // Remove a classe que mostra o popup
     } else {
         console.warn("Popup de boas-vindas 'popup-seja-bem-vindo' não encontrado.");
     }
@@ -187,23 +224,25 @@ function fecharSejaBemVindo() {
 
 /* Salva uma nova versão da Bíblia */
 function salvarVersao() {
-    const animeNameInput = document.getElementById('novo-titulo-biblia');
-    const animeName = animeNameInput ? animeNameInput.value : null;
-    const animeImg = uploadedImg;
+    // Busca o campo de título
+    const entradaTitulo = document.getElementById('novo-titulo-biblia');
+    const nomeDesenho = entradaTitulo ? entradaTitulo.value : null;
+    const imgDesenho = subirImg;
     
     /* Verifica se todos os campos foram preenchidos */
-    if (!animeName || animeName.trim() === '') {
+    // trim() remove espaços em branco do início e fim
+    if (!nomeDesenho || nomeDesenho.trim() === '') {
         alert('Por favor, insira um título para a versão.');
         return;
     }
-    if (!animeImg) {
+    if (!imgDesenho) {
         alert('Por favor, selecione uma imagem para a versão.');
         return;
     }
     
     /* Adiciona a nova versão e atualiza a tela */
-    bibleVersions.push({ titleAnime: animeName, img: animeImg });
-    exibirTodasVersoes();
-    fecharPopup();
+    versoesBiblia.push({ titleAnime: nomeDesenho, img: imgDesenho });  // Adiciona ao array
+    exibirTodasVersoes();  // Atualiza a tela
+    fecharPopup();  // Fecha o popup
     alert('Versão adicionada com sucesso! (Nota: será perdida ao recarregar a página)');
 }

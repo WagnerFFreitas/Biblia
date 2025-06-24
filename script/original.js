@@ -1,7 +1,7 @@
 // --- START OF FILE script/ara.js ---
 
-window.BIBLE_VERSION = 'ara';
-window.BIBLE_VERSION_FULL_NAME = 'Almeida Revisada e Atualizada';
+window.BIBLE_VERSION = 'original';
+window.NOME_VERSAO_COMPLETA_BIBLIA = 'Texto Original';
 console.log(`[${window.BIBLE_VERSION}.js] Script carregado. Definindo funções específicas para ARA.`);
 
 // --- Dados Específicos de Contagem de Versículos (ARA) ---
@@ -94,13 +94,13 @@ window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
         return;
     }
 
-    const existingVersiculoDiv = content.querySelector('.versiculo-texto');
+    const existingVersiculoDiv = content.querySelector('.texto-versiculo');
     if (existingVersiculoDiv) {
         existingVersiculoDiv.remove();
     }
 
     const versiculoElementDiv = document.createElement('div'); // DIV PAI para título e texto
-    versiculoElementDiv.classList.add('versiculo', 'versiculo-texto');
+    versiculoElementDiv.classList.add('versiculo', 'texto-versiculo');
     // Adiciona classe extra se o modo leitura estiver ativo
     if (document.body.classList.contains('module-leitura')) {
         versiculoElementDiv.classList.add('modo-leitura');

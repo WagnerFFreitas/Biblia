@@ -9,7 +9,7 @@
 
 // Definição da versão da Bíblia para este script
 window.BIBLE_VERSION = 'kjv';
-window.BIBLE_VERSION_FULL_NAME = 'King James Version';
+window.NOME_VERSAO_COMPLETA_BIBLIA = 'Versão King James';
 console.log(`[${window.BIBLE_VERSION}.js] Script carregado. Definindo funções específicas para KJV.`);
 
 /**
@@ -39,13 +39,13 @@ window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
         return;
     }
 
-    const existingVersiculoDiv = content.querySelector('.versiculo-texto');
+    const existingVersiculoDiv = content.querySelector('.texto-versiculo');
     if (existingVersiculoDiv) {
         existingVersiculoDiv.remove();
     }
 
     const versiculoElementDiv = document.createElement('div');
-    versiculoElementDiv.classList.add('versiculo', 'versiculo-texto');
+    versiculoElementDiv.classList.add('versiculo', 'texto-versiculo');
     
     if (document.body.classList.contains('module-leitura')) {
         versiculoElementDiv.classList.add('modo-leitura');

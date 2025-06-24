@@ -15,7 +15,7 @@ import { initConcordanciaDropdowns } from './dropdown_concordancia.js';
 
 document.addEventListener('DOMContentLoaded', () => {
     const mainContent = document.getElementById('mainContent');
-    const initialMessageContainer = document.getElementById('initial-message');
+    const inicial = document.getElementById('mensagem-inicial');
     const navConcordancia = document.getElementById('concordancia');
     const navDicionario = document.getElementById('dicionario');
     const navSobre = document.getElementById('sobre');
@@ -37,9 +37,9 @@ document.addEventListener('DOMContentLoaded', () => {
     function adjustMainContentMargin() {
         const alfabetoSidebar = document.querySelector('.alfabeto-sidebar');
         const mainContent = document.getElementById('mainContent');
-        const initialMessageContainer = document.getElementById('initial-message');
+        const inicial = document.getElementById('mensagem-inicial');
 
-        if (!alfabetoSidebar || !mainContent || !initialMessageContainer) return;
+        if (!alfabetoSidebar || !mainContent || !inicial) return;
 
         const sidebarWidth = parseFloat(getComputedStyle(alfabetoSidebar).width) || 60;
         let applySidebarMargin = false;
@@ -50,15 +50,15 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         mainContent.style.marginLeft = applySidebarMargin ? `${sidebarWidth}px` : '0';
-        initialMessageContainer.style.marginLeft = mainContent.style.marginLeft;
+        inicial.style.marginLeft = mainContent.style.marginLeft;
     }
 
     /*function showInitialState() {
-        if (initialMessageContainer) {
-            initialMessageContainer.innerHTML = `
+        if (inicial) {
+            inicial.innerHTML = `
                 <h2>Seja bem-vindo!</h2>
                 <p>Escolha Concordância ou Dicionário no menu superior.</p>`;
-            initialMessageContainer.style.display = 'block';
+            inicial.style.display = 'block';
         }
         if (mainContent) mainContent.innerHTML = '';
         if (alfabetoSidebar) alfabetoSidebar.style.display = 'none';
@@ -75,7 +75,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         try {
-            if (initialMessageContainer) initialMessageContainer.style.display = 'none';
+            if (inicial) inicial.style.display = 'none';
             targetElement.innerHTML = '<div class="loader-geral">Carregando...</div>';
             const response = await fetch(viewPath);
             if (!response.ok) throw new Error(`HTTP error! status: ${response.status} ao carregar ${viewPath}`);
@@ -222,7 +222,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (currentView === 'sobre') return;
         clearActiveNav(); setActiveNav(navSobre); currentView = 'sobre';
         if (alfabetoSidebar) alfabetoSidebar.style.display = 'none';
-        if (initialMessageContainer) initialMessageContainer.style.display = 'none';
+        if (inicial) inicial.style.display = 'none';
         letraAtivaSidebar = null;
         adjustMainContentMargin();
         mainContent.innerHTML = `<div style="padding: 20px; color: #e0e0e0; text-align:center;"><h2>Sobre</h2><p>Concordância e Dicionário Bíblico.</p></div>`;

@@ -306,7 +306,7 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
 <body>
     <div id="watermark"></div>
     <div id="titulo">${livroAcentuado.toUpperCase()} ${capituloAtual}:${versiculoAtual}</div>
-    <div id="versiculo-container"><div class="versiculo-texto">Carregando...</div></div>
+    <div id="versiculo-container"><div class="texto-versiculo">Carregando...</div></div>
     <div id="botao-container">
         <button id="voltar-botao">‹ Anterior</button>
         <button id="proximo-botao">Próximo ›</button>
@@ -361,7 +361,7 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
                 console.error(\`Contagem não encontrada para \${livroAtual} (\${versaoBiblia}).\`);
                 versiculosPorCapituloArray = [];
                 tituloElement.innerText = "ERRO CONFIG";
-                versiculoContainer.innerHTML = \`<div class="versiculo-texto" style="color:red;">Config de versículos ausente para '\${livroAtual}' (\${versaoBiblia}).</div>\`;
+                versiculoContainer.innerHTML = \`<div class="texto-versiculo" style="color:red;">Config de versículos ausente para '\${livroAtual}' (\${versaoBiblia}).</div>\`;
                 btnVoltar.disabled = true; btnProximo.disabled = true;
             }
         }
@@ -372,7 +372,7 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
             console.log(\`Carregando capítulo: \${caminho}\`);
             const livroAcentuado = obterNomeAcentuado(livroAtual);
             tituloElement.innerText = \`\${livroAcentuado.toUpperCase()} \${capituloNum}:... (Carregando)\`;
-            versiculoContainer.innerHTML = '<div class="versiculo-texto">Carregando capítulo...</div>';
+            versiculoContainer.innerHTML = '<div class="texto-versiculo">Carregando capítulo...</div>';
             btnVoltar.disabled = true; btnProximo.disabled = true;
 
             try {
@@ -384,7 +384,7 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
             } catch (error) {
                 console.error('Erro ao carregar capítulo:', error);
                 tituloElement.innerText = \`ERRO \${livroAcentuado.toUpperCase()} \${capituloNum}\`;
-                versiculoContainer.innerHTML = \`<div class="versiculo-texto" style="color:red;font-size:1.2rem;">Falha: \${caminho}. \${error.message}</div>\`;
+                versiculoContainer.innerHTML = \`<div class="texto-versiculo" style="color:red;font-size:1.2rem;">Falha: \${caminho}. \${error.message}</div>\`;
             }
         }
 
@@ -395,7 +395,7 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
             const livroAcentuado = obterNomeAcentuado(livroAtual);
 
             if (!dadosCapitulo) {
-                versiculoContainer.innerHTML = '<div class="versiculo-texto" style="color:orange;">Dados do capítulo não carregados.</div>';
+                versiculoContainer.innerHTML = '<div class="texto-versiculo" style="color:orange;">Dados do capítulo não carregados.</div>';
                 atualizarBotoes(); return;
             }
 
@@ -422,7 +422,7 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
             }
 
             tituloElement.innerText = \`\${livroAcentuado.toUpperCase()} \${capituloAtual}:\${versiculoNum}\`;
-            versiculoContainer.innerHTML = (tituloSecao || '') + '<div class="versiculo-texto">' + conteudo + '</div>';
+            versiculoContainer.innerHTML = (tituloSecao || '') + '<div class="texto-versiculo">' + conteudo + '</div>';
             atualizarBotoes();
         }
 
@@ -513,7 +513,7 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
             const livroAcentuado = obterNomeAcentuado(livroAtual);
             if (todaContagemDataGlobal[livroAtual]) {
                 tituloElement.innerText = "ERRO";
-                versiculoContainer.innerHTML = '<div class="versiculo-texto" style="color:red;">Falha ao inicializar.</div>';
+                versiculoContainer.innerHTML = '<div class="texto-versiculo" style="color:red;">Falha ao inicializar.</div>';
                 btnVoltar.disabled = true; btnProximo.disabled = true;
             }
         }

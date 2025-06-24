@@ -61,8 +61,8 @@ body {
 /*=====================================================*/
 a {
     z-index: 2;                                 /* Fica na camada 2, acima do fundo e gradiente. */
-    margin: 0 auto;                             /* Centraliza o link horizontalmente. */
     color: white;                             /* Define a cor do texto como branco. */
+    text-align: center;
     font-size: 35px;                            /* Define o tamanho da fonte. */
     text-decoration: none;                      /* Remove o sublinhado padrão dos links. */
 }
@@ -93,10 +93,11 @@ footer {
     left: 0;                                    /* Alinha à esquerda. */
     right: 0;                                   /* Alinha à direita. */
     width: 100%;                                /* Faz o rodapé ocupar 100% da largura. */
-    padding: 5px;                               /* Adiciona um pequeno espaçamento interno. */
+    padding: 15px;                              /* Adiciona um pequeno espaçamento interno. */
     background: black;                        /* Define a cor de fundo como preta. */
     color: white;                             /* Define a cor do texto como branca. */
-    text-align: center;                         /* Centraliza o texto. */
+    text-align: center;
+    font-size: 1.4em;                           /* Centraliza o texto. */
 }
 
 /*=====================================================*/
@@ -105,9 +106,9 @@ footer {
 /*     inicialmente. Por padrão, ela fica escondida.   */
 /*=====================================================*/
 .seja-bem-vindo {
-    position: absolute;                         /* Permite posicionar livremente na página. */
+    position: fixed;                            /* Permite posicionar livremente na página. */
     top: 310px;                                 /* Define a distância do topo. */
-    left: calc(50% - 10px);                     /* Centraliza na horizontal. */
+    left: calc(50% - 1px);                      /* Centraliza na horizontal. */
     z-index: 4;                                 /* Fica na camada 4, acima de quase tudo. */
     transform: translateX(-50%);                /* Ajusta o centro horizontal perfeitamente. */
     display: none;                              /* Esconde o elemento por padrão. */
@@ -154,7 +155,7 @@ footer {
 /*=====================================================*/
 .seja-bem-vindo h2 {
     z-index: 1;                                 /* Define a ordem de empilhamento. */
-    margin-left: 10px;                          /* Adiciona uma margem à esquerda. */
+    /*margin-left: 10px;                          /* Adiciona uma margem à esquerda. */
     margin-bottom: 32px;                        /* Adiciona uma margem abaixo do título. */
     width: 100%;                                /* Faz o título ocupar toda a largura. */
     color: white;                             /* Cor do texto branca. */
@@ -207,6 +208,9 @@ img:hover {
     list-style-type: none;                      /* Remove os marcadores de lista (bolinhas). */
     scrollbar-width: none;                      /* Esconde a barra de rolagem no Firefox. */
     padding-bottom: 50px;                       /* Espaço extra na base para não cobrir o rodapé. */
+    padding-left: 20px;                         /* Adiciona preenchimento à esquerda. */
+    padding-right: 20px;                        /* Adiciona preenchimento à direita. */
+    gap: 20px;                                  /* Adiciona espaçamento entre os itens. */
 }
 
 /* A linha abaixo remove a barra de rolagem em navegadores como Chrome, Safari e Edge */

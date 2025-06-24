@@ -13,7 +13,7 @@
  * - Gerencia o estado da navegação
  */
 function loadSobre() {
-    const content = document.querySelector('.content');
+    const content = document.querySelector('.conteudo');
     
     // Remove elementos anteriores, preservando marca d'água e título
     Array.from(content.children).forEach(child => {
@@ -74,7 +74,7 @@ function loadSobre() {
  * - Remove elementos após a transição
  */
 function hideSobre() {
-    const content = document.querySelector('.content');
+    const content = document.querySelector('.conteudo');
     const sobreContent = content.querySelector('.sobre-content');
     
     if (sobreContent) {

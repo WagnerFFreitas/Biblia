@@ -9,7 +9,7 @@
 
 // Definição da versão da Bíblia para este script
 window.BIBLE_VERSION = 'acf';
-window.BIBLE_VERSION_FULL_NAME = 'Almeida Corrigida Fiel';
+window.NOME_VERSAO_COMPLETA_BIBLIA = 'Almeida Corrigida Fiel';
 console.log(`[${window.BIBLE_VERSION}.js] Script carregado. Definindo funções específicas para ACF.`);
 
 /**
@@ -32,20 +32,20 @@ window.getSpecificVerseCount = function(livro, capitulo) {
 window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
     console.log(`[ACF] Carregando: ${livro} ${capitulo}:${versiculo}`);
     
-    const content = document.querySelector('.content');
+    const content = document.querySelector('.conteudo');
     
     if (!content) {
-        console.error("[ACF] Elemento .content não encontrado.");
+        console.error("[ACF] Elemento .conteudo não encontrado.");
         return;
     }
 
-    const existingVersiculoDiv = content.querySelector('.versiculo-texto');
+    const existingVersiculoDiv = content.querySelector('.texto-versiculo');
     if (existingVersiculoDiv) {
         existingVersiculoDiv.remove();
     }
 
     const versiculoElementDiv = document.createElement('div');
-    versiculoElementDiv.classList.add('versiculo', 'versiculo-texto');
+    versiculoElementDiv.classList.add('versiculo', 'texto-versiculo');
     
     if (document.body.classList.contains('module-leitura')) {
         versiculoElementDiv.classList.add('modo-leitura');

@@ -43,7 +43,7 @@ body {
     flex-shrink: 0; 
     z-index: 2; 
 }
-.versiculo-texto { 
+.texto-versiculo { 
     text-align: center; 
     font-size: clamp(2rem, 2.82vw, 5rem); 
     max-width: 100%; 

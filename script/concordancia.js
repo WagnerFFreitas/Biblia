@@ -80,10 +80,35 @@ function extrairNomeLivroDaReferencia(referencia) {
     const match = referencia.match(/^([A-Za-zÀ-ÿ\s0-9]+)(?=\s*\d)/);
     return match ? match[1].trim() : referencia.split(' ')[0].trim();
 }
+
 function destacarPalavra(texto, termo) {
     if (!termo || !texto) return texto;
     const regex = new RegExp(`\\b(${termo.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})\\b`, 'gi');
-    return texto.replace(regex, '<mark style="background-color: #ffff00; color: #000; padding: 1px 2px; border-radius: 2px;">$1</mark>');
+    // Usa a tag <mark> que será estilizada pelo CSS
+    return texto.replace(regex, '<mark>$1</mark>');
+}
+
+// NEW FUNCTION: Formata o nome do livro adicionando 'º' se for numérico (ex: 1 Samuel -> 1º Samuel)
+function formatarNomeLivro(nomeLivro) {
+    const partes = nomeLivro.split(' ');
+    // Verifica se a primeira parte é '1', '2' ou '3' e se há mais de uma parte (para evitar '1' virar '1º')
+    if (partes.length > 1 && (partes[0] === '1' || partes[0] === '2' || partes[0] === '3')) {
+        return `${partes[0]}º ${partes.slice(1).join(' ')}`;
+    }
+    return nomeLivro;
+}
+
+// NEW FUNCTION: Formata a string de referência completa (ex: 1 Samuel 2:7 -> 1º Samuel 2:7)
+function formatarReferencia(referencia) {
+    // Regex para capturar o nome do livro (incluindo números como "1 Samuel") e o restante da referência
+    const match = referencia.match(/^([A-Za-zÀ-ÿ\s0-9]+?)(\s+\d+:\d+.*)?$/);
+    if (match) {
+        const nomeLivroOriginal = match[1].trim();
+        const restoDaReferencia = match[2] || ''; // Capítulo:versículo e possivelmente mais
+        const nomeLivroFormatado = formatarNomeLivro(nomeLivroOriginal);
+        return `${nomeLivroFormatado}${restoDaReferencia}`;
+    }
+    return referencia; // Retorna o original se não houver correspondência
 }
 
 function _aplicarFiltrosERenderizar() {
@@ -152,19 +177,17 @@ function _renderizarResultados(lista) {
     lista.forEach(item => {
         const section = document.createElement('div');
         section.className = 'palavra-section';
-        section.style = 'background:#2a2a2a;border:1px solid #444;border-radius:8px;margin-bottom:20px;padding:15px;';
 
         const header = document.createElement('div');
         header.className = 'palavra-header';
-        header.style = 'display:flex;justify-content:space-between;align-items:center;border-bottom:2px solid #444;padding-bottom:10px;margin-bottom:15px;';
 
         const titulo = document.createElement('h2');
+        titulo.className = 'palavra-titulo';
         titulo.textContent = item.palavra;
-        titulo.style = 'color:#4a9eff;font-size:1.8em;font-weight:bold;margin:0;text-transform:uppercase;';
         
         const contador = document.createElement('span');
+        contador.className = 'contador';
         contador.textContent = `${item.ocorrencias || 0} ocorrências`;
-        contador.style = 'background:#4a9eff;color:white;padding:4px 12px;border-radius:15px;font-size:0.9em;font-weight:bold;';
         
         header.appendChild(titulo);
         header.appendChild(contador);
@@ -173,15 +196,15 @@ function _renderizarResultados(lista) {
         // Veja também / Fonte
         if (item.fonte) {
             const fonte = document.createElement('div');
-            fonte.innerHTML = `<strong style="color:#4a9eff;">Fonte:</strong> ${item.fonte}`;
-            fonte.style = 'color:#ccc;font-style:italic;margin-bottom:10px;padding:8px;background:#333;border-radius:4px;';
+            fonte.className = 'palavra-fonte-info';
+            fonte.innerHTML = `<strong>Fonte:</strong> ${item.fonte}`;
             section.appendChild(fonte);
         }
 
         if (item['veja tambem']?.length) {
             const veja = document.createElement('div');
-            veja.innerHTML = `<strong style="color:#4a9eff;">Veja também:</strong> ${item['veja tambem'].join(', ')}`;
-            veja.style = 'color:#ccc;margin-bottom:15px;padding:8px;background:#333;border-radius:4px;';
+            veja.className = 'palavra-veja-tambem-info';
+            veja.innerHTML = `<strong>Veja também:</strong> ${item['veja tambem'].join(', ')}`;
             section.appendChild(veja);
         }
 
@@ -213,28 +236,28 @@ function _renderizarResultados(lista) {
     const inicial = document.getElementById('initial-message');
     if (inicial) inicial.style.display = 'none';
 }
+
 function criarSecaoLivro(section, livro, ocorrencias, palavra) {
     const grupo = document.createElement('div');
     grupo.className = 'livro-grupo';
-    grupo.style = 'margin-bottom:20px;border:1px solid #555;border-radius:6px;overflow:hidden;';
 
     const cabecalho = document.createElement('div');
-    cabecalho.textContent = `${livro} (${ocorrencias.length} ocorrência${ocorrencias.length > 1 ? 's' : ''})`;
-    cabecalho.style = 'background:#1a1a1a;color:#ffdd44;padding:12px 15px;font-weight:bold;font-size:1.1em;border-bottom:1px solid #555;';
+    cabecalho.className = 'livro-header';
+    // Aplica a formatação ao nome do livro no cabeçalho
+    cabecalho.textContent = `${formatarNomeLivro(livro)} (${ocorrencias.length} ocorrência${ocorrencias.length > 1 ? 's' : ''})`;
     grupo.appendChild(cabecalho);
 
     ocorrencias.forEach(oc => {
         const div = document.createElement('div');
         div.className = 'ocorrencia';
-        div.style = 'padding:12px 15px;border-bottom:1px solid #444;background:#252525;';
 
         const ref = document.createElement('div');
-        ref.textContent = oc.referencia;
-        ref.style = 'color:#4a9eff;font-weight:bold;margin-bottom:5px;font-size:0.95em;';
+        ref.className = 'referencia';
+        ref.textContent = formatarReferencia(oc.referencia); // Usa a nova função de formatação
         
         const texto = document.createElement('div');
+        texto.className = 'texto';
         texto.innerHTML = destacarPalavra(oc.texto, termoBuscaGlobalAtual || palavra);
-        texto.style = 'color:#e0e0e0;line-height:1.6;font-size:0.95em;';
 
         div.appendChild(ref);
         div.appendChild(texto);
@@ -255,7 +278,10 @@ export async function executarBuscaGlobalConcordancia(termo) {
         return;
     }
 
-    if (resultadosContainer) resultadosContainer.innerHTML = '<div class="loader" style="text-align: center; padding: 50px; color: #4a9eff; font-size: 1.2em;">🔍 Buscando em toda a Bíblia...</div>';
+    if (resultadosContainer) {
+        // Usa uma classe para o loader da busca global
+        resultadosContainer.innerHTML = '<div class="loader-global-busca">🔍 Buscando em toda a Bíblia...</div>';
+    }
 
     let todosOsResultadosGlobais = [];
     const todasAsLetras = 'abcdefghijklmnopqrstuvwxyz'.split('');
