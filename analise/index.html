@@ -5,9 +5,9 @@
 <!------------------------------------------>
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"><!-- Configura o viewport para responsividade        -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Configura o viewport para responsividade -->
   <title>BibliaV1</title>
-  <link rel="stylesheet" href="./style.css">                            <!-- Carrega os estilos externos                     -->
+  <link rel="stylesheet" href="./style.css">                             <!-- Carrega os estilos externos -->
 </head>
 
 <!------------------------------------------->
@@ -15,37 +15,39 @@
 <!--   ORGANIZADO EM SEÇÕES SEMÂNTICAS     -->
 <!------------------------------------------->
 <body>
-  <!-- Este bloco e o cabeçalho da página -->
+  <!-- O Bloco abaixo e o cabeçalho da página -->
   <header class='cabecalho'>
     <button class='material-icons abrir-popup' onclick='abrirPopup()'></button>
     <a href='/'>Versões da Bíblia</a>
   </header>
 
-  <ul class='lista-versoes' id='lista'></ul>                            <!-- A linha abaixo e a lista de versões da Bíblia   -->
+  <!-- A linha abaixo e a lista de versões da Bíblia -->
+  <ul class='lista-versoes' id='lista'></ul>
   
-  <!-- Este bloco e o pop-up de Boas-Vindas -->
+  <!-- O bloco abaixo e o pop-up de Boas-Vindas -->
   <div class='seja-bem-vindo ativo' id='popup-seja-bem-vindo'>
     <button class='material-icons fechar-seja-bem-vindo' onclick="fecharSejaBemVindo()">Fechar</button>
     <h2>Seja Bem-Vindo à Bíblia On-Line!</h2>
   </div>
 
-  <!-- Este bloco e o pop-up de nova versão da Bíblia -->
+  <!-- O bloco abaixo e o pop-up de nova versão da Bíblia -->
   <div class='popup-nova-versao'>
-    <button class='material-icons fechar-popup' onclick="fecharPopup()">Fechar</button>  
+    <button class='material-icons fechar-popup' onclick="fecharPopup()">Fechar</button>
     <div>
-      <input id='arquivo-imagem' type='file' hidden='hidden'>           <!-- Campo oculto para upload de arquivo             -->
-      <img class='imagem-previsualizacao' id='previsualizacao-imagem'>  <!-- Pré-visualização da imagem selecionada          -->
+      <input id='arquivo-imagem' type='file' hidden='hidden'>           <!-- Campo oculto para upload de arquivo -->
+      <img class='imagem-previsualizacao' id='previsualizacao-imagem'>  <!-- Pré-visualização da imagem selecionada -->
     </div>
     
-    <!-- Este bloco e os botões para seleção de imagem -->
+    <!-- O bloco abaixo e os botões para seleção de imagem -->
     <button id='novo-botao-imagem' class='material-icons botao-imagem'>wallpaper</button>
     <input id='novo-titulo-biblia' class='titulo-nova-biblia' placeholder='Insira o título da Bíblia'>
     <button class='salvar-versao' onclick='salvarVersao()'>Salvar</button>
   </div>
 
-  <div class='gradiente'></div>                                         <!-- A linha abaixo e o efeito de Gradiente no fundo -->
+  <!-- A linha abaixo e o efeito de Gradiente no fundo -->
+  <div class='gradiente'></div>
 
-  <!-- Este bloco e rodapé com informações de copyright -->
+  <!-- O bloco abaixo e rodapé com informações de copyright -->
   <footer>
     <p>© Bíblia Sagrada 2024</p>
   </footer>

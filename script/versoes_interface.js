@@ -1,68 +1,66 @@
-/**
- * MÓDULO DE INTERFACE DO USUÁRIO
- * Centraliza toda manipulação da interface
- */
-export class InterfaceManager {
-    constructor() {
-        this.seletorVersao = document.getElementById('seletor-versao-principal');
-        this.botaoModoLeitura = document.getElementById('modo-leitura');
-    }
+/*===============================================================================*/
+/*                     MÓDULO DE INTERFACE DO USUÁRIO                            */
+/*===============================================================================*/
+/*  Centraliza toda manipulação da interface:                                    */
+/*                       - Configuração de eventos de clique e seleções          */
+/*                       - Atualização dinâmica do título da página              */
+/*                       - Criação de listas de navegação (versões)              */
+/*                       - Gerenciamento de interações do menu de livros         */
+/*===============================================================================*/
 
-    /**
-     * Configura os eventos da interface
-     */
-    configurarEventos() {
-        // Evento do seletor de versão
-        this.seletorVersao?.addEventListener('change', (e) => {
-            localStorage.setItem('versaoBiblicaSelecionada', e.target.value);
-            window.location.search = `?versao=${e.target.value}`;
-        });
+// Este bloco define a classe que gerencia os elementos e eventos da interface do usuário.
+export class InterfaceManager {                                                                // Exporta a classe para que possa ser usada em outros módulos do projeto.
+    constructor() {                                                                            // Define o método construtor, executado ao criar uma nova instância da classe.
+        this.seletorVersao = document.getElementById('seletor-versao-principal');              // Busca e armazena o elemento do seletor de versão da Bíblia.
+        this.botaoModoLeitura = document.getElementById('modo-leitura');                       // Busca e armazena o elemento do botão que ativa o modo leitura.
+    }                                                                                          // Finaliza o bloco do construtor.
 
-        // Evento do modo leitura
-        this.botaoModoLeitura?.addEventListener('click', (e) => {
-            e.preventDefault();
-            window.toggleReadingMode(!window.modoLeituraAtivo, window.activeLivro, window.activeCapitulo);
-        });
+    
+    // Este bloco define o método que configura os principais "ouvintes" de eventos da interface.
+    configurarEventos() {                                                                      // Define o método que configura todos os 'ouvintes' de eventos da interface.
+        // Este bloco adiciona um 'ouvinte' para o seletor de versão da Bíblia.
+        this.seletorVersao?.addEventListener('change', (e) => {                                // Adiciona um evento que dispara quando o valor do seletor de versão muda.
+            localStorage.setItem('versaoBiblicaSelecionada', e.target.value);                  // Salva a nova versão selecionada na memória do navegador.
+            window.location.search = `?versao=${e.target.value}`;                              // Atualiza a URL da página para recarregar com a nova versão.
+        });                                                                                    // Finaliza a definição do evento do seletor.
 
-        // Eventos dos livros (menu lateral)
-        document.querySelectorAll('.menu-livros a').forEach(livro => {
-            livro.addEventListener('click', this._handleLivroClick);
-        });
-    }
+        // Este bloco adiciona um 'ouvinte' para o botão que ativa/desativa o Modo Leitura.
+        this.botaoModoLeitura?.addEventListener('click', (e) => {                              // Adiciona um evento que dispara quando o botão de modo leitura é clicado.
+            e.preventDefault();                                                                // Impede o comportamento padrão do link/botão (ex: navegar para '#').
+            window.toggleReadingMode(!window.modoLeituraAtivo, window.activeLivro, window.activeCapitulo);  // Chama a função global para ativar/desativar o modo leitura.
+        });                                                                                    // Finaliza a definição do evento do botão.
 
-    /**
-     * Atualiza o título da página com a versão selecionada
-     * @param {string} codigoVersao - Código da versão (ex: 'ARA')
-     */
-    atualizarTitulo(codigoVersao) {
-        const titulo = document.getElementById('titulo-principal-versao');
-        const subtitulo = document.getElementById('subtitulo-versao-extenso');
+        // Este bloco adiciona um 'ouvinte' de clique para cada link de livro no menu.
+        document.querySelectorAll('.menu-livros a').forEach(livro => {                         // Busca todos os links de livros dentro do menu lateral.
+            livro.addEventListener('click', this._handleLivroClick);                           // Adiciona um evento de clique a cada um dos links de livro encontrados.
+        });                                                                                    // Finaliza a iteração sobre os links de livro.
+    }                                                                                          // Finaliza o método configurarEventos.
+    
+    // Este bloco define o método que atualiza o título principal e subtítulo da página.
+    atualizarTitulo(codigoVersao) {                                                            // Define a função que atualiza os títulos com base na versão.
+        const titulo = document.getElementById('titulo-principal-versao');                     // Busca o elemento do título principal (H1 ou H2).
+        const subtitulo = document.getElementById('subtitulo-versao-extenso');                 // Busca o elemento do subtítulo.
         
-        if (titulo) titulo.textContent = `Bíblia Sagrada ${codigoVersao}`;
-        if (subtitulo) subtitulo.textContent = window.NOME_VERSAO_COMPLETA_BIBLIA || '';
-    }
+        if (titulo) titulo.textContent = `Bíblia Sagrada ${codigoVersao}`;                     // Se o título existe, atualiza seu texto com o código da versão.
+        if (subtitulo) subtitulo.textContent = window.NOME_VERSAO_COMPLETA_BIBLIA || '';       // Se o subtítulo existe, atualiza com o nome completo da versão ou deixa em branco.
+    }                                                                                          // Finaliza o método atualizarTitulo.
 
-    /**
-     * Cria a lista de versões no dropdown
-     * @param {Array} versoes - Lista de versões disponíveis
-     */
-    criarListaVersoes(versoes) {
-        const lista = document.getElementById('versoes-list');
-        if (!lista) return;
+     // Este bloco define o método que cria dinamicamente a lista de versões (ex: no rodapé).
+    criarListaVersoes(versoes) {                                                               // Define a função que recebe uma lista de versões e cria o HTML.
+        const lista = document.getElementById('versoes-list');                                 // Busca o elemento <ul> ou <ol> onde a lista será inserida.
+        if (!lista) return;                                                                    // Se o elemento não for encontrado, interrompe a função.
 
-        lista.innerHTML = versoes.map(versao => `
+        lista.innerHTML = versoes.map(versao => `                                              
             <li><a href="?versao=${versao.value}">${versao.text}</a></li>
-        `).join('');
-    }
+        `).join('');                                                                           // Cria o HTML de cada item e o insere na lista.
+    }                                                                                          // Finaliza o método criarListaVersoes.
 
-    // Métodos privados
-    _handleLivroClick(e) {
-        e.preventDefault();
-        const livro = e.target.dataset.livro;
-        // Lógica para carregar o livro (implementada em outro módulo)
-        window.carregarLivro(livro);
-    }
-}
+    // Este bloco define o método privado (interno) que lida com o clique em um livro.
+    _handleLivroClick(e) {                                                                     // Define a função que é executada quando um link de livro é clicado.
+        e.preventDefault();                                                                    // Impede que o navegador siga o link (href="#").
+        const livro = e.target.dataset.livro;                                                  // Pega o nome do livro do atributo 'data-livro' do link clicado.
+        window.carregarLivro(livro);                                                           // Chama uma função global (de outro módulo) para carregar o livro selecionado.
+    }                                                                                          // Finaliza o método _handleLivroClick.
+}                                                                                              // Finaliza a definição da classe InterfaceManager.
 
-// Exporta uma instância global
-export const interfaceManager = new InterfaceManager();
+export const interfaceManager = new InterfaceManager();                                        // Cria e exporta uma única instância da classe para uso global.

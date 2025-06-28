@@ -1,5 +1,5 @@
 /**
- * watermarker.js
+ * marcadagua.js
  * Este script é responsável por adicionar uma marca d'água (imagem da Bíblia)
  * na página principal do aplicativo. A marca d'água é inserida como um elemento
  * visual de fundo quando nenhum conteúdo específico está sendo exibido.
@@ -11,16 +11,16 @@ window.onload = () => {
     const content = document.querySelector('.conteudo');
     
     // Cria um container específico para a marca d'água
-    const watermarkContainer = document.createElement('div');
-    watermarkContainer.classList.add('watermark'); // Adiciona classe para estilização
+    const marcadaguaContainer = document.createElement('div');
+    marcadaguaContainer.classList.add('marcadagua'); // Adiciona classe para estilização
     
     // Cria o elemento de imagem para a marca d'água
     const img = document.createElement('img');
     img.src = '../img/biblia.png';     // Define o caminho da imagem
     img.alt = "Marca d'água da Bíblia"; // Texto alternativo para acessibilidade
-    img.classList.add('watermark-image'); // Adiciona classe para estilização
+    img.classList.add('marcadagua-image'); // Adiciona classe para estilização
     
     // Monta a estrutura DOM: adiciona a imagem ao container e o container ao conteúdo
-    watermarkContainer.appendChild(img);
-    content.appendChild(watermarkContainer);
+    marcadaguaContainer.appendChild(img);
+    content.appendChild(marcadaguaContainer);
 };

@@ -5,10 +5,10 @@
 /*  em todos os lugares.                               */
 /*=====================================================*/
 * {
-    margin: 0;                                  /* Remove margens padrão dos elementos. */
-    padding: 0;                                 /* Remove espaçamentos internos padrão. */
-    box-sizing: border-box;                     /* Faz com que o tamanho total inclua bordas e padding. */
-    font-family: 'Roboto Mono', monospace;      /* Define uma fonte padrão para toda a página. */
+    margin: 0;                                  /* Remove margens padrão dos elementos.                */
+    padding: 0;                                 /* Remove espaçamentos internos padrão.                */
+    box-sizing: border-box;                     /* Faz com que o tamanho total inclua bordas e padding.*/
+    font-family: 'Roboto Mono', monospace;      /* Define uma fonte padrão para toda a página.         */
 }
 
 /*=====================================================*/
@@ -17,21 +17,21 @@
 /*  definindo o layout principal e a imagem de fundo.  */
 /*=====================================================*/
 body {
-    display: flex;                              /* Ativa o Flexbox para alinhar os itens. */
-    flex-direction: column;                     /* Organiza os itens em uma coluna, um abaixo do outro. */
-    overflow: hidden;                           /* Esconde qualquer conteúdo que saia da tela. */
-    z-index: 1;                                 /* Define a ordem de empilhamento (camada 1). */
-    height: 100vh;                              /* Define a altura para ser 100% da tela. */
-    max-height: 100vh;                          /* Limita a altura máxima a 100% da tela. */
-    background-color: #f5f5f5;                /* Cor de fundo para caso a imagem não carregue. */
-    background-image: url(./img/biblia.png);    /* Define a imagem de fundo da página. */
-    background-size: cover;                     /* Faz a imagem de fundo cobrir toda a área. */
-    background-position: center;                /* Centraliza a imagem de fundo. */
-    background-attachment: fixed;               /* Mantém a imagem fixa durante a rolagem. */
-    backdrop-filter: blur(2px);                 /* Aplica um desfoque no que está atrás do elemento. */
-    font-family: 'Roboto Mono', monospace;      /* Define a fonte específica para o corpo. */
-    font-style: italic;                         /* Deixa o texto em itálico. */
-    font-weight: bold;                          /* Deixa o texto em negrito. */
+    display: flex;                              /* Usa Flexbox para alinhar os itens.                  */
+    flex-direction: column;                     /* Organiza os itens em coluna.                        */
+    overflow: hidden;                           /* Esconde conteúdo que sai da tela.                   */
+    z-index: 1;                                 /* Define a ordem de empilhamento (camada 1).          */
+    height: 100vh;                              /* Define a altura para ser 100% da tela.              */
+    max-height: 100vh;                          /* Limita a altura máxima a 100% da tela.              */
+    background-color: #f5f5f5;                /* Cor de fundo caso a imagem não carregue.            */
+    background-image: url(./img/biblia.png);    /* Define a imagem de fundo da página.                 */
+    background-size: cover;                     /* Faz a imagem de fundo cobrir toda a área.           */
+    background-position: center;                /* Centraliza a imagem de fundo.                       */
+    background-attachment: fixed;               /* Mantém a imagem fixa durante a rolagem.             */
+    backdrop-filter: blur(2px);                 /* Aplica desfoque no fundo.                           */
+    font-family: 'Roboto Mono', monospace;      /* Define a fonte específica para o corpo.             */
+    font-style: italic;                         /* Deixa o texto em itálico.                           */
+    font-weight: bold;                          /* Deixa o texto em negrito.                           */
 }
 
 /*=====================================================*/
@@ -40,13 +40,13 @@ body {
 /*   de fundo para escurecê-la e melhorar a leitura.   */
 /*=====================================================*/
 .gradiente {
-    position: absolute;                         /* Permite posicionar livremente sobre a página. */
-    top: 0;                                     /* Alinha no topo. */
-    right: 0;                                   /* Alinha à direita. */
-    bottom: 0;                                  /* Alinha na base. */
-    left: 0;                                    /* Alinha à esquerda. */
-    z-index: 0;                                 /* Fica na camada 0, abaixo do conteúdo. */
-    /* A linha abaixo cria um efeito de escurecimento gradual de cima para baixo */
+    position: absolute;                         /* Permite posicionar livremente sobre a página.        */
+    top: 0;                                     /* Alinha no topo.                                      */
+    right: 0;                                   /* Alinha à direita.                                    */
+    bottom: 0;                                  /* Alinha na base.                                      */
+    left: 0;                                    /* Alinha à esquerda.                                   */
+    z-index: 0;                                 /* Fica na camada 0, abaixo do conteúdo.                */
+    /* Cria efeito de escurecimento gradual.    */
     background: linear-gradient(180deg, 
         rgba(128,128,128,0.1) 0%, 
         rgba(128,128,128,0.3) 50%, 
@@ -60,11 +60,11 @@ body {
 /*              como título no cabeçalho.              */
 /*=====================================================*/
 a {
-    z-index: 2;                                 /* Fica na camada 2, acima do fundo e gradiente. */
-    color: white;                             /* Define a cor do texto como branco. */
-    text-align: center;
-    font-size: 35px;                            /* Define o tamanho da fonte. */
-    text-decoration: none;                      /* Remove o sublinhado padrão dos links. */
+    z-index: 2;                                 /* Fica na camada 2, acima do fundo e gradiente.        */
+    color: white;                             /* Define a cor do texto como branco.                   */
+    text-align: center;                         /* Centraliza o texto.                                  */
+    font-size: 35px;                            /* Define o tamanho da fonte.                           */
+    text-decoration: none;                      /* Remove o sublinhado padrão dos links.                */
 }
 
 /*=====================================================*/
@@ -73,12 +73,12 @@ a {
 /*           que funciona como o cabeçalho.            */
 /*=====================================================*/
 .cabecalho {
-    display: flex;                              /* Usa Flexbox para alinhar itens internos. */
-    flex-wrap: wrap;                            /* Permite que os itens quebrem para a próxima linha. */
-    justify-content: center;                    /* Centraliza os itens no eixo horizontal. */
-    align-items: center;                        /* Centraliza os itens no eixo vertical. */
-    padding: 15px;                              /* Adiciona um espaçamento interno. */
-    background: #000000;                      /* Define a cor de fundo como preta. */
+    display: flex;                              /* Usa Flexbox para alinhar itens internos.             */
+    flex-wrap: wrap;                            /* Permite que os itens quebrem para a próxima linha.   */
+    justify-content: center;                    /* Centraliza os itens no eixo horizontal.              */
+    align-items: center;                        /* Centraliza os itens no eixo vertical.                */
+    padding: 15px;                              /* Adiciona um espaçamento interno.                     */
+    background: #000000;                      /* Define a cor de fundo como preta.                    */
 }
 
 /*=====================================================*/
@@ -87,17 +87,17 @@ a {
 /*               parte inferior da tela.               */
 /*=====================================================*/
 footer {
-    z-index: 2;                                 /* Fica na camada 2, visível sobre o conteúdo. */
-    position: fixed;                            /* Mantém o rodapé fixo na tela. */
-    bottom: 0;                                  /* Alinha o rodapé na parte de baixo. */
-    left: 0;                                    /* Alinha à esquerda. */
-    right: 0;                                   /* Alinha à direita. */
-    width: 100%;                                /* Faz o rodapé ocupar 100% da largura. */
-    padding: 15px;                              /* Adiciona um pequeno espaçamento interno. */
-    background: black;                        /* Define a cor de fundo como preta. */
-    color: white;                             /* Define a cor do texto como branca. */
-    text-align: center;
-    font-size: 1.4em;                           /* Centraliza o texto. */
+    z-index: 2;                                 /* Fica na camada 2, visível sobre o conteúdo.          */
+    position: fixed;                            /* Mantém o rodapé fixo na tela.                        */
+    bottom: 0;                                  /* Alinha o rodapé na parte de baixo.                   */
+    left: 0;                                    /* Alinha à esquerda.                                   */
+    right: 0;                                   /* Alinha à direita.                                    */
+    width: 100%;                                /* Faz o rodapé ocupar 100% da largura.                 */
+    padding: 15px;                              /* Adiciona um pequeno espaçamento interno.             */
+    background: black;                        /* Define a cor de fundo como preta.                    */
+    color: white;                             /* Define a cor do texto como branca.                   */
+    text-align: center;                         /* Centraliza o texto.                                  */
+    font-size: 1.4em;                           /* Define o tamanho da fonte.                           */
 }
 
 /*=====================================================*/
@@ -106,18 +106,18 @@ footer {
 /*     inicialmente. Por padrão, ela fica escondida.   */
 /*=====================================================*/
 .seja-bem-vindo {
-    position: fixed;                            /* Permite posicionar livremente na página. */
-    top: 310px;                                 /* Define a distância do topo. */
-    left: calc(50% - 1px);                      /* Centraliza na horizontal. */
-    z-index: 4;                                 /* Fica na camada 4, acima de quase tudo. */
-    transform: translateX(-50%);                /* Ajusta o centro horizontal perfeitamente. */
-    display: none;                              /* Esconde o elemento por padrão. */
-    flex-direction: column;                     /* Organiza itens internos em coluna. */
-    width: 320px;                               /* Define uma largura fixa. */
-    height: 200px;                              /* Define uma altura fixa. */
-    background: rgba(22, 22, 22, 0.8);        /* Fundo preto semi-transparente. */
-    border-radius: 30px;                        /* Deixa os cantos arredondados. */
-    color: white;                             /* Define a cor do texto como branca. */
+    position: fixed;                            /* Permite posicionar livremente na página.             */
+    top: 310px;                                 /* Define a distância do topo.                          */
+    left: calc(50% - 1px);                      /* Centraliza na horizontal.                            */
+    z-index: 4;                                 /* Fica na camada 4, acima de quase tudo.               */
+    transform: translateX(-50%);                /* Ajusta o centro horizontal perfeitamente.            */
+    display: none;                              /* Esconde o elemento por padrão.                       */
+    flex-direction: column;                     /* Organiza itens internos em coluna.                   */
+    width: 320px;                               /* Define uma largura fixa.                             */
+    height: 200px;                              /* Define uma altura fixa.                              */
+    background: rgba(22, 22, 22, 0.8);        /* Fundo preto semi-transparente.                       */
+    border-radius: 30px;                        /* Deixa os cantos arredondados.                        */
+    color: white;                             /* Define a cor do texto como branca.                   */
 }
 
 /*=====================================================*/
@@ -126,10 +126,10 @@ footer {
 /*     deve ser mostrada, usando a classe "ativo".     */
 /*=====================================================*/
 .seja-bem-vindo.ativo {
-    display: flex;                              /* Torna o elemento visível. */
-    justify-content: center;                    /* Centraliza o conteúdo na horizontal. */
-    align-items: center;                        /* Centraliza o conteúdo na vertical. */
-    height: auto;                               /* Deixa a altura se ajustar ao conteúdo. */
+    display: flex;                              /* Torna o elemento visível.                            */
+    justify-content: center;                    /* Centraliza o conteúdo na horizontal.                 */
+    align-items: center;                        /* Centraliza o conteúdo na vertical.                   */
+    height: auto;                               /* Deixa a altura se ajustar ao conteúdo.               */
 }
 
 /*=====================================================*/
@@ -138,14 +138,14 @@ footer {
 /*               a janela de boas-vindas.              */
 /*=====================================================*/
 .fechar-seja-bem-vindo {
-    margin-left: 200px;                         /* Empurra o botão para a direita. */
-    padding-top: 10px;                          /* Espaçamento interno no topo. */
-    padding-bottom: 10px;                       /* Espaçamento interno na base. */
-    background: none;                           /* Remove a cor de fundo. */
-    border: none;                               /* Remove a borda. */
-    color: white;                             /* Cor do ícone/texto como branca. */
-    cursor: pointer;                            /* Mostra uma mãozinha ao passar o mouse. */
-    outline: none;                              /* Remove a borda de foco ao clicar. */
+    margin-left: 200px;                         /* Empurra o botão para a direita.                      */
+    padding-top: 10px;                          /* Espaçamento interno no topo.                         */
+    padding-bottom: 10px;                       /* Espaçamento interno na base.                         */
+    background: none;                           /* Remove a cor de fundo.                               */
+    border: none;                               /* Remove a borda.                                      */
+    color: white;                             /* Cor do ícone/texto como branca.                      */
+    cursor: pointer;                            /* Mostra uma mãozinha ao passar o mouse.               */
+    outline: none;                              /* Remove a borda de foco ao clicar.                    */
 }
 
 /*=====================================================*/
@@ -154,13 +154,12 @@ footer {
 /*              da janela de boas-vindas.              */
 /*=====================================================*/
 .seja-bem-vindo h2 {
-    z-index: 1;                                 /* Define a ordem de empilhamento. */
-    /*margin-left: 10px;                          /* Adiciona uma margem à esquerda. */
-    margin-bottom: 32px;                        /* Adiciona uma margem abaixo do título. */
-    width: 100%;                                /* Faz o título ocupar toda a largura. */
-    color: white;                             /* Cor do texto branca. */
-    font-size: 2rem;                            /* Define o tamanho da fonte. */
-    text-align: center;                         /* Centraliza o texto. */
+    z-index: 1;                                 /* Define a ordem de empilhamento.                      */
+    margin-bottom: 32px;                        /* Adiciona uma margem abaixo do título.                */
+    width: 100%;                                /* Faz o título ocupar toda a largura.                  */
+    color: white;                             /* Cor do texto branca.                                 */
+    font-size: 2rem;                            /* Define o tamanho da fonte.                           */
+    text-align: center;                         /* Centraliza o texto.                                  */
 }
 
 /*=====================================================*/
@@ -169,15 +168,15 @@ footer {
 /*      incluindo tamanho e um efeito de sombra.       */
 /*=====================================================*/
 img {
-    z-index: 1;                                 /* Define a ordem de empilhamento. */
-    margin: 10px;                               /* Espaçamento ao redor da imagem. */
-    width: 233px;                               /* Define uma largura fixa. */
-    height: 350px;                              /* Define uma altura fixa. */
-    /* As linhas abaixo adicionam múltiplas camadas de sombra para um efeito de brilho */
+    z-index: 1;                                 /* Define a ordem de empilhamento.                      */
+    margin: 10px;                               /* Espaçamento ao redor da imagem.                      */
+    width: 233px;                               /* Define uma largura fixa.                             */
+    height: 350px;                              /* Define uma altura fixa.                              */
+    /* Adiciona múltiplas camadas de sombra.    */
     box-shadow: 0 0 20px rgba(255, 255, 255, 0.5),
                 0 0 30px rgba(255, 255, 255, 0.3),
                 0 0 40px rgba(255, 255, 255, 0.2);
-    transition: box-shadow 0.3s ease;           /* Anima a mudança da sombra suavemente. */
+    transition: box-shadow 0.3s ease;           /* Anima a mudança da sombra suavemente.                */
 }
 
 /*=====================================================*/
@@ -186,6 +185,7 @@ img {
 /*         o usuário passa o cursor sobre ela.         */
 /*=====================================================*/
 img:hover {
+    /* Sombra mais intensa ao passar o mouse      */
     box-shadow: 0 0 25px rgba(255, 255, 255, 0.6),
                 0 0 35px rgba(255, 255, 255, 0.4),
                 0 0 45px rgba(255, 255, 255, 0.3);
@@ -197,25 +197,25 @@ img:hover {
 /*            capas das Bíblias são exibidas.          */
 /*=====================================================*/
 .lista-versoes {
-    z-index: 2;                                 /* Fica na camada 2, acima do fundo. */
-    display: flex;                              /* Usa Flexbox para organizar os itens. */
-    flex-grow: 1;                               /* Faz a lista ocupar o espaço vertical disponível. */
-    flex-wrap: wrap;                            /* Permite que os itens quebrem a linha. */
-    justify-content: center;                    /* Centraliza os itens na horizontal. */
-    align-items: center;                        /* Centraliza os itens na vertical. */
-    width: 100%;                                /* Ocupa 100% da largura. */
-    overflow: auto;                             /* Adiciona barra de rolagem se necessário. */
-    list-style-type: none;                      /* Remove os marcadores de lista (bolinhas). */
-    scrollbar-width: none;                      /* Esconde a barra de rolagem no Firefox. */
-    padding-bottom: 50px;                       /* Espaço extra na base para não cobrir o rodapé. */
-    padding-left: 20px;                         /* Adiciona preenchimento à esquerda. */
-    padding-right: 20px;                        /* Adiciona preenchimento à direita. */
-    gap: 20px;                                  /* Adiciona espaçamento entre os itens. */
+    z-index: 2;                                 /* Fica na camada 2, acima do fundo.                   */
+    display: flex;                              /* Usa Flexbox para organizar os itens.                */
+    flex-grow: 1;                               /* Faz a lista ocupar o espaço vertical disponível.    */
+    flex-wrap: wrap;                            /* Permite que os itens quebrem a linha.               */
+    justify-content: center;                    /* Centraliza os itens na horizontal.                  */
+    align-items: center;                        /* Centraliza os itens na vertical.                    */
+    width: 100%;                                /* Ocupa 100% da largura.                              */
+    overflow: auto;                             /* Adiciona barra de rolagem se necessário.            */
+    list-style-type: none;                      /* Remove os marcadores de lista (bolinhas).           */
+    scrollbar-width: none;                      /* Esconde a barra de rolagem no Firefox.              */
+    padding-bottom: 50px;                       /* Espaço extra na base para não cobrir o rodapé.      */
+    padding-left: 20px;                         /* Adiciona preenchimento à esquerda.                  */
+    padding-right: 20px;                        /* Adiciona preenchimento à direita.                   */
+    gap: 20px;                                  /* Adiciona espaçamento entre os itens.                */
 }
 
-/* A linha abaixo remove a barra de rolagem em navegadores como Chrome, Safari e Edge */
+/* A linha abaixo remove a barra de rolagem em navegadores como Chrome, Safari e Edge                  */
 .lista-versoes::-webkit-scrollbar {
-    display: none;                              /* Esconde a barra de rolagem. */
+    display: none;                              /* Esconde a barra de rolagem.                         */
 }
 
 /*=====================================================*/
@@ -224,12 +224,12 @@ img:hover {
 /*       capa e o título de uma versão da Bíblia.      */
 /*=====================================================*/
 .lista-versoes li {
-    display: flex;                              /* Usa Flexbox para organizar a imagem e o título. */
-    flex-direction: column;                     /* Organiza os itens em coluna. */
-    justify-content: center;                    /* Centraliza verticalmente. */
-    align-items: center;                        /* Centraliza horizontalmente. */
-    z-index: 1;                                 /* Define a ordem de empilhamento. */
-    transition: 100ms ease-in-out;              /* Anima qualquer mudança de forma suave. */
+    display: flex;                              /* Usa Flexbox para organizar a imagem e o título.     */
+    flex-direction: column;                     /* Organiza os itens em coluna.                        */
+    justify-content: center;                    /* Centraliza verticalmente.                           */
+    align-items: center;                        /* Centraliza horizontalmente.                         */
+    z-index: 1;                                 /* Define a ordem de empilhamento.                     */
+    transition: 100ms ease-in-out;              /* Anima qualquer mudança de forma suave.              */
 }
 
 /*=====================================================*/
@@ -238,8 +238,8 @@ img:hover {
 /*           está sobre um dos itens da lista.         */
 /*=====================================================*/
 .lista-versoes li:hover {
-    cursor: pointer;                            /* Mostra uma mãozinha para indicar que é clicável. */
-    transform: scale(1.05);                     /* Aumenta um pouco o tamanho do item. */
+    cursor: pointer;                            /* Mostra uma mãozinha para indicar que é clicável.    */
+    transform: scale(1.05);                     /* Aumenta um pouco o tamanho do item.                 */
 }
 
 /*=====================================================*/
@@ -248,13 +248,13 @@ img:hover {
 /*         versão que fica abaixo de cada capa.        */
 /*=====================================================*/
 .lista-versoes h2 {
-    z-index: 1;                                 /* Define a ordem de empilhamento. */
-    margin-bottom: 10px;                        /* Espaço abaixo do título. */
-    width: 233px;                               /* Mesma largura da imagem da capa. */
-    background: black;                        /* Fundo preto. */
-    border-top: 1.7px solid white;            /* Adiciona uma linha branca no topo. */
-    color: white;                             /* Cor do texto branca. */
-    text-align: center;                         /* Centraliza o texto. */
+    z-index: 1;                                 /* Define a ordem de empilhamento.                     */
+    margin-bottom: 10px;                        /* Espaço abaixo do título.                            */
+    width: 233px;                               /* Mesma largura da imagem da capa.                    */
+    background: black;                        /* Fundo preto.                                        */
+    border-top: 1.7px solid white;            /* Adiciona uma linha branca no topo.                  */
+    color: white;                             /* Cor do texto branca.                                */
+    text-align: center;                         /* Centraliza o texto.                                 */
 }
 
 /*=====================================================*/
@@ -263,15 +263,15 @@ img:hover {
 /*   uma nova versão da Bíblia. É oculta por padrão.   */
 /*=====================================================*/
 .popup-nova-versao {
-    position: absolute;                         /* Posicionamento livre na tela. */
-    top: calc(50% - 250px);                     /* Centraliza verticalmente. */
-    left: calc(50% - 175px);                    /* Centraliza horizontalmente. */
-    z-index: 3;                                 /* Camada 3, acima da maioria dos elementos. */
-    display: none;                              /* Esconde a janela por padrão. */
-    flex-direction: column;                     /* Organiza itens internos em coluna. */
-    width: 320px;                               /* Largura fixa. */
-    height: 400px;                              /* Altura fixa. */
-    background: #161616;                      /* Cor de fundo escura. */
+    position: absolute;                         /* Posicionamento livre na tela.                       */
+    top: calc(50% - 250px);                     /* Centraliza verticalmente.                           */
+    left: calc(50% - 175px);                    /* Centraliza horizontalmente.                         */
+    z-index: 3;                                 /* Camada 3, acima da maioria dos elementos.           */
+    display: none;                              /* Esconde a janela por padrão.                        */
+    flex-direction: column;                     /* Organiza itens internos em coluna.                  */
+    width: 320px;                               /* Largura fixa.                                       */
+    height: 400px;                              /* Altura fixa.                                        */
+    background: #161616;                      /* Cor de fundo escura.                                */
 }
 
 /*=====================================================*/
@@ -280,7 +280,7 @@ img:hover {
 /*     esta regra torna a janela pop-up visível.       */
 /*=====================================================*/
 .visible .popup-nova-versao {
-    display: flex;                              /* Torna a janela visível. */
+    display: flex;                              /* Torna a janela visível.                             */
 }
 
 /*=====================================================*/
@@ -289,14 +289,14 @@ img:hover {
 /*         atrás do pop-up para dar foco a ele.        */
 /*=====================================================*/
 .visible:after {
-    content: "";                                /* Necessário para o pseudo-elemento funcionar. */
-    position: fixed;                            /* Cobre a tela toda, mesmo com rolagem. */
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: 2;                                 /* Fica entre o pop-up e o conteúdo da página. */
-    background: rgba(0, 0, 0, 0.8);           /* Cor preta com 80% de transparência. */
+    content: "";                                /* Necessário para o pseudo-elemento funcionar.         */
+    position: fixed;                            /* Cobre a tela toda, mesmo com rolagem.                */
+    top: 0;                                     /* Alinha no topo.                                      */
+    left: 0;                                    /* Alinha à esquerda.                                   */
+    right: 0;                                   /* Alinha à direita.                                    */
+    bottom: 0;                                  /* Alinha na base.                                      */
+    z-index: 2;                                 /* Fica entre o pop-up e o conteúdo da página.          */
+    background: rgba(0, 0, 0, 0.8);           /* Cor preta com 80% de transparência.                  */
 }
 
 /*=====================================================*/
@@ -306,12 +306,12 @@ img:hover {
 /*=====================================================*/
 .abrir-popup,
 .fechar-popup {
-    z-index: 2;                                 /* Garante que fiquem clicáveis. */
-    background: none;                           /* Sem cor de fundo. */
-    border: none;                               /* Sem borda. */
-    color: white;                             /* Texto branco. */
-    cursor: pointer;                            /* Mãozinha ao passar o mouse. */
-    outline: none;                              /* Remove contorno ao clicar. */
+    z-index: 2;                                 /* Garante que fiquem clicáveis.                        */
+    background: none;                           /* Sem cor de fundo.                                    */
+    border: none;                               /* Sem borda.                                           */
+    color: white;                             /* Texto branco.                                        */
+    cursor: pointer;                            /* Mãozinha ao passar o mouse.                          */
+    outline: none;                              /* Remove contorno ao clicar.                           */
 }
 
 /*=====================================================*/
@@ -320,9 +320,9 @@ img:hover {
 /*               para o botão de fechar.               */
 /*=====================================================*/
 .fechar-popup {
-    margin-left: 250px;                         /* Empurra o botão para a direita. */
-    padding-top: 10px;                          /* Espaçamento interno no topo. */
-    padding-bottom: 10px;                       /* Espaçamento interno na base. */
+    margin-left: 250px;                         /* Empurra o botão para a direita.                      */
+    padding-top: 10px;                          /* Espaçamento interno no topo.                         */
+    padding-bottom: 10px;                       /* Espaçamento interno na base.                         */
 }
 
 /*=====================================================*/
@@ -331,18 +331,18 @@ img:hover {
 /*          os dados da nova versão no pop-up.         */
 /*=====================================================*/
 .salvar-versao {
-    width: 150px;                               /* Largura do botão. */
-    height: 40px;                               /* Altura do botão. */
-    margin-top: 12px;                           /* Margem no topo. */
-    margin-left: 85px;                          /* Margem à esquerda para centralizar. */
-    padding: 4px;                               /* Espaçamento interno. */
-    border: none;                               /* Sem borda. */
-    border-radius: 15px;                        /* Cantos arredondados. */
-    background: #111;                         /* Fundo cinza escuro. */
-    color: white;                             /* Texto branco. */
-    font-size: 18px;                            /* Tamanho do texto. */
-    cursor: pointer;                            /* Mãozinha ao passar o mouse. */
-    transition: 0.5s;                           /* Animação suave para mudanças. */
+    width: 150px;                               /* Largura do botão.                                    */
+    height: 40px;                               /* Altura do botão.                                     */
+    margin-top: 12px;                           /* Margem no topo.                                      */
+    margin-left: 85px;                          /* Margem à esquerda para centralizar.                  */
+    padding: 4px;                               /* Espaçamento interno.                                 */
+    border: none;                               /* Sem borda.                                           */
+    border-radius: 15px;                        /* Cantos arredondados.                                 */
+    background: #111;                         /* Fundo cinza escuro.                                  */
+    color: white;                             /* Texto branco.                                        */
+    font-size: 18px;                            /* Tamanho do texto.                                    */
+    cursor: pointer;                            /* Mãozinha ao passar o mouse.                          */
+    transition: 0.5s;                           /* Animação suave para mudanças.                        */
 }
 
 /*=====================================================*/
@@ -351,9 +351,9 @@ img:hover {
 /*               o mouse está sobre ele.               */
 /*=====================================================*/
 .salvar-versao:hover {
-    background: white;                          /* Fundo fica branco. */
-    color: black;                               /* Texto fica preto. */
-    box-shadow: 0px 0px 6px white;              /* Adiciona um brilho branco ao redor. */
+    background: white;                        /* Fundo fica branco.                                   */
+    color: black;                             /* Texto fica preto.                                    */
+    box-shadow: 0px 0px 6px white;            /* Adiciona um brilho branco ao redor.                  */
 }
 
 /*=====================================================*/
@@ -362,10 +362,10 @@ img:hover {
 /*        após o usuário escolher um arquivo.          */
 /*=====================================================*/
 .imagem-previsualizacao {
-    display: none;                              /* Escondida por padrão. */
-    width: 150px;                               /* Largura da imagem. */
-    height: 200px;                              /* Altura da imagem. */
-    margin-left: 85px;                          /* Margem para centralizar. */
+    display: none;                              /* Escondida por padrão.                                */
+    width: 150px;                               /* Largura da imagem.                                   */
+    height: 200px;                              /* Altura da imagem.                                    */
+    margin-left: 85px;                          /* Margem para centralizar.                             */
 }
 
 /*=====================================================*/
@@ -374,14 +374,14 @@ img:hover {
 /*        para selecionar um arquivo de imagem.        */
 /*=====================================================*/
 .botao-imagem {
-    width: 150px;                               /* Largura da área clicável. */
-    height: 200px;                              /* Altura da área clicável. */
-    margin-left: 85px;                          /* Margem para centralizar. */
-    border: 3px dashed #000;                  /* Borda preta tracejada. */
-    background: none;                           /* Sem cor de fundo. */
-    color: #000;                              /* Cor do texto (ícone) preta. */
-    cursor: pointer;                            /* Mãozinha ao passar o mouse. */
-    transition: 0.5s;                           /* Animação suave para mudanças. */
+    width: 150px;                               /* Largura da área clicável.                            */
+    height: 200px;                              /* Altura da área clicável.                             */
+    margin-left: 85px;                          /* Margem para centralizar.                             */
+    border: 3px dashed #000;                  /* Borda preta tracejada.                               */
+    background: none;                           /* Sem cor de fundo.                                    */
+    color: #000;                              /* Cor do texto (ícone) preta.                          */
+    cursor: pointer;                            /* Mãozinha ao passar o mouse.                          */
+    transition: 0.5s;                           /* Animação suave para mudanças.                        */
 }
 
 /*=====================================================*/
@@ -390,8 +390,8 @@ img:hover {
 /*      passa sobre a área de seleção de imagem.       */
 /*=====================================================*/
 .botao-imagem:hover {
-    border-color: white;                        /* Borda fica branca. */
-    color: white;                               /* Texto/ícone fica branco. */
+    border-color: white;                      /* Borda fica branca.                                   */
+    color: white;                             /* Texto/ícone fica branco.                             */
 }
 
 /*=====================================================*/
@@ -400,15 +400,15 @@ img:hover {
 /*           o nome da nova versão da Bíblia.          */
 /*=====================================================*/
 .titulo-nova-biblia {
-    width: 250px;                                  /* Largura do campo. */
-    height: 30px;                                  /* Altura do campo. */
-    margin-top: 14px;                              /* Margem no topo. */
-    margin-left: 34px;                             /* Margem à esquerda. */
-    border: none;                                  /* Sem borda. */
-    border-radius: 12px;                           /* Cantos arredondados. */
-    font-size: 18px;                               /* Tamanho do texto digitado. */
-    text-align: center;                            /* Centraliza o texto digitado. */
-    outline: none;                                 /* Remove o contorno ao focar. */
+    width: 250px;                               /* Largura do campo.                                    */
+    height: 30px;                               /* Altura do campo.                                     */
+    margin-top: 14px;                           /* Margem no topo.                                      */
+    margin-left: 34px;                          /* Margem à esquerda.                                   */
+    border: none;                               /* Sem borda.                                           */
+    border-radius: 12px;                        /* Cantos arredondados.                                 */
+    font-size: 18px;                            /* Tamanho do texto digitado.                           */
+    text-align: center;                         /* Centraliza o texto digitado.                         */
+    outline: none;                              /* Remove o contorno ao focar.                          */
 }
 
 /*=====================================================*/
@@ -418,7 +418,7 @@ img:hover {
 /*=====================================================*/
 @media (min-width: 1010px) {
     body {
-        background-size: 100% auto;                 /* Fundo cobre 100% da largura, altura automática. */
+        background-size: 100% auto;             /* Fundo cobre 100% da largura, altura automática.      */
     }
 }
 
@@ -429,6 +429,6 @@ img:hover {
 /*======================================================*/
 @media (min-width: 1030px) {
     body {
-        background-size: auto 100%;                /* Fundo cobre 100% da altura, largura automática. */
+        background-size: auto 100%;             /* Fundo cobre 100% da altura, largura automática.      */
     }
 }

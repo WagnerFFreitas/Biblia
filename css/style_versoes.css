@@ -273,7 +273,7 @@ footer p {
 }
 
 /* O bloco abaixo configura a imagem de fundo em marca d'água */
-.watermark-image {
+.marcadagua-image {
     position: fixed; /* Fixa na tela */
     top: 0; /* Alinha ao topo */
     left: 0; /* Alinha à esquerda */
