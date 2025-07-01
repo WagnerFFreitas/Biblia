@@ -11,8 +11,8 @@
 (function() {
     'use strict';                                                                              // Ativa o modo estrito do JavaScript para ajudar a evitar erros comuns.
 
-    // Este bloco lida com a navegação por teclas (seta esquerda/direita) no modo de leitura.
-    function handleKeyNavigation(evento) {                                                     // Define a função que será executada quando uma tecla for pressionada.
+    // Este bloco cria a função de navegação por teclas (seta esquerda/direita) no modo de leitura.
+    function handleKeyNavigation(evento) { 
         // Se o modo leitura não está ativo ou o usuário está digitando em um campo de texto, não faz nada
         if (!window.modoLeituraAtivo || (document.activeElement && /INPUT|TEXTAREA|true/.test(document.activeElement.tagName + document.activeElement.isContentEditable))) {
             return;                                                                            // Interrompe a função se as condições não forem atendidas.
@@ -37,6 +37,7 @@
 
    // Esta bloco cria a função AGORA APENAS que gera e retorna o HTML dos botões de navegação.
     window.gerarHtmlNavegacao = async function(livro, capitulo) {
+        
         // Busca o capítulo anterior e o próximo (usando funções do script de navegação principal)
         const livroCapituloAnterior = await window.obterLivroCapituloAnterior(livro, capitulo);// Aguarda a busca pelas informações do capítulo anterior.
         const proximoLivroCapitulo  = await window.obterProximoLivroECapitulo(livro, capitulo);// Aguarda a busca pelas informações do próximo capítulo.
@@ -76,7 +77,6 @@
             }
         };
 
-        // Configura os eventos para os dois botões, chamando a função interna.
         configurarBotaoNavegacao('modoLeitura-capitulo-anterior');                             // Configura o evento para o botão de capítulo anterior.
         configurarBotaoNavegacao('modoLeitura-capitulo-proximo');                              // Configura o evento para o botão de próximo capítulo.
     };

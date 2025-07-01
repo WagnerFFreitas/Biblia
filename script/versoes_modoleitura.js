@@ -26,7 +26,7 @@
             return;                                                                            // Interrompe a execução da função se a área de conteúdo não existir.
         }
 
-        // Este bloco busca e remove elementos da interface antiga para limpar a tela.
+        // Busca e remove elementos da interface antiga para limpar a tela.
         areaConteudoLeitura.querySelectorAll('.texto-versiculo, .conteudo-versiculos, div.versiculos:not(.conteudo-versiculos)').forEach(el => el.remove());
         
         await window.atualizaBotoesCapitulos(livro, capitulo);                                 // Aguarda a atualização da barra de botões de capítulo.
@@ -123,10 +123,12 @@
             }
         } catch (erro) {                                                                       // Se qualquer coisa deu errado no bloco 'try', este bloco é executado.
             console.error('[Modo Leitura] Erro:', erro);                                       // Exibe o erro técnico no console para depuração.
+            
+            // Exibe uma mensagem de erro clara para o usuário dentro do container.
             containerLeitura.innerHTML = `<div class="error-container" style="text-align:center; padding: 20px; color: red;">
                                             <p><b>Erro ao carregar o capítulo.</b></p>
                                             <p><small>${erro.message}</small></p>
-                                          </div>`;                                             // Exibe uma mensagem de erro clara para o usuário dentro do container.
+                                        </div>`;
         }
     };
 

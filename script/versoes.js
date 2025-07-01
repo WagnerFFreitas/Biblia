@@ -129,6 +129,7 @@
                 window.location.search = `?versao=${e.target.value}`;                                                            // Atualiza a URL para recarregar a versão
             });
         }
+        
         // Este bloco busca a lista de versões
         const listaVersoes = document.getElementById('versoes-list');
         if (listaVersoes && seletor && opcoesValidas.length > 0) {

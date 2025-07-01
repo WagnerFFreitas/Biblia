@@ -78,8 +78,7 @@
         'apocalipse'
     ];
 
-    // Este bloco cria um objeto vazio para guardar em memória o número de capítulos de cada livro.
-    const cacheNumeroCapitulos = {};
+    const cacheNumeroCapitulos = {};                                                               // Cria um objeto vazio para guardar em memória o número de capítulos de cada livro.
 
     // Este bloco define uma função assíncrona que verifica se um capítulo existe e se pode esperar por uma tarefas externas.
     async function capituloExistentes(livro, capitulo) {
@@ -123,7 +122,8 @@
         
         window.cacheCapítulo(chaveLivro, 0, maximoCapitulo);                                       // Salva o resultado final no cache para não precisar calcular de novo.
         return maximoCapitulo;                                                                     // Retorna o número de capítulos descoberto.
-    }                                                                                              // Finaliza a função obterContagemCapitulosLivro.
+    }
+                                                                                                  // Finaliza a função obterContagemCapitulosLivro.
     window.obterContagemCapitulosLivro = obterContagemCapitulosLivro;                              // Torna a função acessível globalmente para que outros scripts possam usá-la.
     
     // Este bloco define uma função global para encontrar o próximo capítulo ou livro.

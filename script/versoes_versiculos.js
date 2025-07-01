@@ -161,6 +161,7 @@ export class VersiculosManager {                                                
             judas: "Judas",
             apocalipse: "Apocalipse" 
         };
+        
         return nomes[livro] || livro;                                                          // Retorna o nome completo correspondente; se não encontrar, retorna a própria abreviação.
     }                                                                                          // Finaliza o método _getNomeLivro.
 }                                                                                              // Finaliza a definição da classe VersiculosManager.

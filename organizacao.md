@@ -545,6 +545,9 @@ function adicionarVersao() {
 
 ---
 
-- O arquivo `versoes_interface.js` foi revisado para garantir que todos os métodos e blocos possuam comentários claros, alinhados e explicativos, seguindo o mesmo padrão dos demais arquivos do projeto.
-- Comentários de linha e de bloco foram mantidos e ajustados para garantir clareza, sem duplicidade e respeitando o alinhamento visual adotado no projeto.
-- Todos os métodos públicos e privados da classe `InterfaceManager` possuem comentários que explicam sua finalidade e funcionamento, assim como os principais comandos dentro de cada método.
+## Atualização - Padronização de Comentários
+
+- O arquivo `versoes_cache.js` foi revisado e está em conformidade com o padrão de comentários adotado no projeto.
+- Todos os blocos, funções e linhas relevantes possuem comentários claros, alinhados e explicativos, seguindo o mesmo padrão dos arquivos `versoes.js` e `script.js`.
+- Comentários de bloco explicam o contexto e o propósito de cada parte do código, enquanto comentários de linha detalham comandos específicos.
+- O padrão de documentação e comentários deve ser seguido em todos os novos arquivos e atualizações do projeto.
