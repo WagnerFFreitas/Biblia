@@ -2,44 +2,92 @@
 
 ## Estrutura de Arquivos
 ```
-projeto/
-├── html/
+biblia/
+├── baixar/                  # PDFs e recursos para download
+│   ├── A_Biblia_Catolica.pdf
+│   ├── A_Biblia_Sagrada_NVT.pdf
+│   ├── A_Biblia_Viva.pdf
+│   └── ...
+├── concordancia/            # Dados de concordância bíblica
+│   ├── a.json, b.json, ...  # Concordância por letra
+│   ├── a/ b/ ...            # Subpastas por letra com temas
+│   ├── indexes/             # Indexadores de concordância
+│   ├── rascunho/            # Arquivos de rascunho/teste
+│   ├── themes/              # Temas bíblicos
+│   └── words/               # Palavras-chave
+├── css/                     # Arquivos de estilo
+│   ├── capitulos.css
+│   ├── concordancia.css
+│   ├── cursos.css
+│   ├── dicionario.css
+│   ├── dicionario_concordancia.css
+│   ├── modo_leitura.css
+│   ├── slide_biblia.css
+│   ├── style.css
+│   ├── style_versoes.css
+│   ├── versoes.css
+│   └── ...
+├── dicionario/              # Dados do dicionário bíblico
+│   ├── a.json, b.json, ...
+│   ├── rascunho/            # Rascunhos e testes
+│   └── ...
+├── html/                    # Páginas HTML
+│   ├── concordancia.html
 │   ├── cursos.html
 │   ├── dicionario.html
 │   ├── dicionario_concordancia.html
-│   ├── concordancia.html
 │   └── versoes.html
-├── index.html
-├── style.css
-├── script/
+├── img/                     # Imagens e ícones
+│   ├── acf.png, ara.png, ...
+│   ├── biblia.png
+│   ├── marcadagua.png
+│   └── ...
+├── json/                    # Dados auxiliares em JSON
+│   ├── dicionario.json
+│   ├── harpa_crista.json
+│   └── ...
+├── script/                  # Scripts JavaScript
+│   ├── acf.js, ara.js, ...  # Scripts de versões
+│   ├── biblia-navegacao.js
+│   ├── config_dicionarioeconcordancia.js
+│   ├── concordancia.js
+│   ├── dicionario.js
+│   ├── dicionario_concordancia.js
+│   ├── dropdown.js
+│   ├── dropdown_concordancia.js
+│   ├── livros_capitulos.js
 │   ├── marcadagua.js
-│   ├── naa.js
-│   ├── ntlh.js
-│   ├── nvi.js
-│   ├── nvt.js
 │   ├── original.js
-│   ├── slide.js
+│   ├── slide_biblia_coordenador.js
+│   ├── slide_biblia_dados.js
+│   ├── slide_biblia_interface.js
+│   ├── slide_biblia_janela.js
+│   ├── slide_biblia_utils.js
 │   ├── sobre.js
-│   ├── versoes copy.js
-│   ├── versoes.js                         # Módulo principal de versões da Bíblia
-│   ├── versoes_cache.js                   # Gerencia cache de dados das versões
-│   ├── versoes_capitulos.js               # Funções para capítulos das versões
-│   ├── versoes_interface.js               # Funções de interface para versões
-│   ├── versoes_modoleitura.js             # Modo de leitura das versões
-│   ├── versoes_navegacao.js               # Navegação entre versões
-│   ├── versoes_navegacao_modoleitura.js   # Navegação no modo leitura
-│   ├── versoes_versiculos.js              # Manipulação de versículos das versões
-└── img/
-    └── biblia.png
-    ├── acf.png
-    ├── ara.png
-    ├── arc.png
-    ├── kjv.png
-    ├── naa.png
-    ├── ntlh.png
-    ├── nvi.png
-    ├── nvt.png
-    └── original.png
+│   ├── versoes.js
+│   ├── versoes_cache.js
+│   ├── versoes_capitulos.js
+│   ├── versoes_interface.js
+│   ├── versoes_modoleitura.js
+│   ├── versoes_navegacao.js
+│   ├── versoes_navegacao_modoleitura.js
+│   ├── versoes_versiculos.js
+│   └── ...
+├── versao/                  # Dados das versões bíblicas
+│   ├── acf/ ara/ arc/ ...   # Subpastas por versão
+│   │   ├── genesis/ ...     # Subpastas por livro
+│   │   │   ├── 1.json ...   # Capítulos em JSON
+│   │   └── ...
+│   └── ...
+├── index.html               # Página inicial
+├── style.css                # Estilo principal
+├── script.js                # Script principal
+├── README.md                # Documentação geral
+├── organizacao.md           # Organização do projeto (este arquivo)
+├── documentacao.md          # Documentação complementar
+├── projeto.md               # Planejamento e histórico
+├── LICENSE                  # Licença do projeto
+└── ...
 ```
 
 ## Organização dos Arquivos de Módulo de Versões (pasta /script/)
@@ -71,6 +119,36 @@ Exemplo de comentário de linha:
 // Cria a função para adicionar uma nova versão
 function adicionarVersao() {
     // Adiciona a versão ao array de versões
+}
+```
+
+---
+
+## Organização dos Arquivos de Módulo de Slide (pasta /script/)
+
+- Todos os arquivos de módulo relacionados ao sistema de slides estão em `/script/` e seguem o padrão de nomes iniciando por `slide_biblia_`.
+- Função de cada módulo:
+  - **slide_biblia_dados.js**: Contém os dados bíblicos e informações utilizadas nos slides.
+  - **slide_biblia_utils.js**: Funções utilitárias e auxiliares para manipulação de dados e lógica dos slides.
+  - **slide_biblia_interface.js**: Responsável pela geração da interface HTML e integração visual do popup de slide.
+  - **slide_biblia_janela.js**: Gerencia a criação, exibição e fechamento da janela/modal de slide.
+  - **slide_biblia_coordenador.js**: Coordena a inicialização, integração e comunicação entre os módulos de slide.
+- O carregamento e a ordem dos módulos são coordenados dinamicamente pelo arquivo `versoes.js`, garantindo que todas as dependências estejam disponíveis antes da inicialização do sistema de slides.
+- Todos seguem o padrão de comentários:
+  - Blocos de seção centralizados.
+  - Comentários de linha iniciando com o verbo da ação (Cria, Adiciona, Limpa, Busca, Define, etc).
+
+Exemplo de bloco de comentário de seção:
+```javascript
+/*=====================================================*/
+/*           FUNÇÕES DE MANIPULAÇÃO DE SLIDES          */
+/*=====================================================*/
+```
+Exemplo de comentário de linha:
+```javascript
+// Cria a função para exibir o slide popup
+function exibirSlide() {
+    // Adiciona o popup de slide à página
 }
 ```
 
@@ -372,182 +450,166 @@ function adicionarVersao() {
 
 ---
 
-## Padrão de Comentários
+## Padrão de Comentários e Documentação Interna
 
-### 1. HTML (index.html)
-1. **Comentários de Seção**
-   ```html
-   <!------------------------------------------>
-   <!--        CONFIGURAÇÃO DO DOCUMENTO      -->
-   <!------------------------------------------>
-   ```
-   - Usa linhas de separação com `-`
-   - Título centralizado
-   - Fechamento com `-->`
+Todos os arquivos das pastas `/css`, `/html` e `/script` foram revisados e agora seguem um padrão de comentários detalhados, tanto em blocos quanto em linhas, para facilitar a compreensão, manutenção e colaboração no projeto.
 
-2. **Comentários de Elementos**
-   ```html
-   <!-- O bloco abaixo é o cabeçalho da página -->
-   ```
-   - Explicação do propósito do elemento
-   - Uso de português claro e direto
-   - Posicionado antes do elemento que descreve
+### Como são os comentários?
 
-### 2. JavaScript (script.js e módulos)
-1. **Comentários de Seção**
-   ```javascript
-   /*=====================================================*/
-   /*           FUNÇÕES DE MANIPULAÇÃO DE VERSÕES         */
-   /*=====================================================*/
-   ```
-   - Usa `=` para criar linhas de separação
-   - Título centralizado
-   - Fechamento com `*/`
+- **Comentários de bloco**: Utilizados para separar grandes seções, explicar o propósito de arquivos, módulos ou áreas do código.
+- **Comentários de linha**: Explicam a função de propriedades, comandos, funções ou trechos específicos.
 
-2. **Comentários de Função**
-   ```javascript
-   function exibirTodasVersoes() { // Cria a função para mostrar todas as versões da Bíblia na tela
-   ```
-   - Descrição clara da função
-   - Posicionado na linha da função
-   - Explica o propósito e comportamento
+#### Exemplos:
 
-3. **Comentários de Código**
-   ```javascript
-   const lista = document.getElementById('lista');                                  // Busca a lista onde as versões serão exibidas
-   lista.innerHTML = '';                                                            // Limpa a lista antes de adicionar as versões
-   ```
-   - Explicação de operações específicas
-   - Alinhados à direita na coluna 86
-   - Breves e diretos
-
-### 3. CSS (style.css)
-1. **Comentários de Seção**
-   ```css
-   /*=====================================================*/
-   /*              NOME DA SEÇÃO CENTRALIZADO             */
-   /*        Descrição ou observação centralizada         */
-   /*=====================================================*/
-   ```
-   - Usa `=` para criar linhas de separação
-   - Título centralizado
-   - Fechamento com `*/`
-
-2. **Comentários de Propriedades**
-   ```css
-   margin: 0;                                  /* Remove margens padrão dos elementos                */
-   background-size: auto 100%;                 /* Faz o fundo ocupar toda a altura da tela, ajustando a largura automaticamente */
-   text-align: center;                         /* Centraliza o texto                                 */
-   color: white;                               /* Deixa o texto branco                               */
-   ```
-   - Alinhados a 35 espaços após a propriedade
-   - Explicação clara e concisa
-   - Descrevem o efeito da propriedade
-
-3. **Comentários de Bloco**
-   ```css
-   /* A linha abaixo cria um efeito de escurecimento gradual */
-   ```
-   - Explicam funcionalidades complexas
-   - Posicionados antes do código relevante
-   - Fornecem contexto adicional
-
-### 4. Regras Gerais de Comentários
-1. **Consistência**
-   - Padrão visual uniforme em cada tipo de arquivo
-   - Espaçamento consistente
-   - Alinhamento padronizado
-
-2. **Clareza**
-   - Linguagem clara e direta
-   - Evita redundâncias
-   - Foca em informações relevantes
-
-3. **Organização**
-   - Comentários de seção no topo
-   - Comentários de função/bloco antes do código
-   - Comentários de linha alinhados à direita
-
-4. **Manutenção**
-   - Fácil de atualizar
-   - Documentação sempre atualizada
-   - Reflete mudanças no código
-
-### 5. Propósitos dos Comentários
-1. **Documentação**
-   - Explicar a estrutura do código
-   - Descrever funcionalidades
-   - Documentar decisões de design
-
-2. **Organização**
-   - Separar seções lógicas
-   - Identificar componentes
-   - Facilitar navegação
-
-3. **Clareza**
-   - Explicar lógica complexa
-   - Fornecer contexto
-   - Ajudar na manutenção
-
----
-
-## Organização dos Arquivos de Módulo (ex: versoesModulo.js)
-
-- Cada arquivo de módulo deve conter apenas funções e variáveis relacionadas à sua responsabilidade.
-- Comentários seguem o padrão dos demais arquivos:
-  - Blocos de seção centralizados.
-  - Comentários de linha iniciando com o verbo da ação (Cria, Adiciona, Limpa, Busca, Define, etc).
-- Exemplo:
-  ```javascript
-  /*=====================================================*/
-  /*           FUNÇÕES DE MANIPULAÇÃO DE VERSÕES         */
-  /*=====================================================*/
-
-  // Cria a função para adicionar uma nova versão
-  function adicionarVersao() {
-      // Adiciona a versão ao array de versões
-  }
-  ```
-
----
-
-## Organização dos Arquivos de Módulo de Versões (pasta /script/)
-
-- Todos os arquivos de módulo relacionados a versões estão em `/script/` e seguem o padrão de nomes iniciando por `versoes`.
-- Função de cada módulo:
-  - **versoes.js**: Módulo principal de controle e listagem de versões da Bíblia.
-  - **versoes_cache.js**: Gerencia o cache de dados das versões para otimizar carregamento.
-  - **versoes_capitulos.js**: Funções para manipulação e navegação de capítulos das versões.
-  - **versoes_interface.js**: Funções de interface e interação do usuário com as versões.
-  - **versoes_modoleitura.js**: Gerencia o modo de leitura das versões.
-  - **versoes_navegacao.js**: Funções para navegação entre diferentes versões.
-  - **versoes_navegacao_modoleitura.js**: Navegação específica no modo leitura.
-  - **versoes_versiculos.js**: Manipulação e exibição de versículos das versões.
-  - **versoes copy.js**: (Arquivo auxiliar, possível backup ou rascunho).
-
-- Todos seguem o padrão de comentários:
-  - Blocos de seção centralizados.
-  - Comentários de linha iniciando com o verbo da ação (Cria, Adiciona, Limpa, Busca, Define, etc).
-
-Exemplo de bloco de comentário de seção:
-```javascript
-/*=====================================================*/
-/*           FUNÇÕES DE MANIPULAÇÃO DE VERSÕES         */
-/*=====================================================*/
-```
-Exemplo de comentário de linha:
-```javascript
-// Cria a função para adicionar uma nova versão
-function adicionarVersao() {
-    // Adiciona a versão ao array de versões
+**CSS**
+```css
+/*================== BARRA DE BUSCA ===================*/
+.search-bar {
+    background: #222; /* Fundo escuro para destaque */
+    color: #fff;      /* Texto branco */
 }
 ```
 
+**HTML**
+```html
+<!-- ========== MENU LATERAL COM LIVROS ========== -->
+<aside class="menu-livros">
+    <!-- Lista de links para livros bíblicos -->
+    <ul>...</ul>
+</aside>
+```
+
+**JavaScript**
+```js
+// ===================== Função de navegação =====================
+/**
+ * Navega para o próximo capítulo
+ * @param {string} livro - Nome do livro
+ * @param {number} capitulo - Número do capítulo
+ */
+function irParaProximoCapitulo(livro, capitulo) {
+    // Verifica se existe próximo capítulo
+    if (!temProximoCapitulo(livro, capitulo)) return;
+    // ... lógica de navegação ...
+}
+```
+
+### Boas práticas para futuras contribuições
+- Sempre utilize comentários de bloco para separar grandes seções ou explicar o propósito de arquivos/módulos.
+- Utilize comentários de linha para explicar propriedades, funções, comandos ou trechos não triviais.
+- Prefira clareza e concisão.
+- Mantenha o padrão já adotado nos arquivos existentes.
+
 ---
 
-## Atualização - Padronização de Comentários
+## Arquivos de Dados (JSON)
+- **/json/**: Dados auxiliares como `dicionario.json` (dicionário geral) e `harpa_crista.json` (hinos).
+- **/concordancia/**: Dados de concordância bíblica, organizados por letra, temas, palavras-chave e índices. Inclui rascunhos para testes e desenvolvimento.
+- **/dicionario/**: Dados do dicionário bíblico, organizados por letra e com rascunhos para testes.
+- **/versao/**: Estrutura hierárquica de versões bíblicas. Cada subpasta é uma versão (ex: acf, ara, kjv), cada subpasta interna é um livro, e cada arquivo é um capítulo em JSON.
+- **Padrão de codificação:** UTF-8, campos e textos em português.
 
-- O arquivo `versoes_cache.js` foi revisado e está em conformidade com o padrão de comentários adotado no projeto.
-- Todos os blocos, funções e linhas relevantes possuem comentários claros, alinhados e explicativos, seguindo o mesmo padrão dos arquivos `versoes.js` e `script.js`.
-- Comentários de bloco explicam o contexto e o propósito de cada parte do código, enquanto comentários de linha detalham comandos específicos.
-- O padrão de documentação e comentários deve ser seguido em todos os novos arquivos e atualizações do projeto.
+## Imagens e Recursos Visuais
+- **/img/**: Contém ícones de versões, logotipo, marca d'água (`marcadagua.png`), imagens de cursos e outros recursos visuais.
+- **Padrão de nomenclatura:** Sempre descritivo, preferencialmente em português.
+- **Marca d'água:** Usada em várias páginas, estilizada via `.marcadagua-image` no CSS.
+
+## Recursos para Download
+- **/baixar/**: PDFs de Bíblias, estudos, cronologias e outros materiais para leitura offline ou estudo.
+- **Exemplos:**
+  - `A_Biblia_Catolica.pdf`, `A_Biblia_Sagrada_NVT.pdf`, `Biblia_Thompson_temas_em_cadeia.pdf`, etc.
+- **Uso:** Referenciados em páginas HTML ou para download direto.
+
+## Rascunhos e Arquivos Auxiliares
+- **/concordancia/rascunho/** e **/dicionario/rascunho/**: Arquivos de teste, desenvolvimento e dados auxiliares. Podem conter versões intermediárias ou experimentais dos dados.
+- **Importante:** Não são usados em produção, mas servem para desenvolvimento e validação.
+
+## Temas e Palavras-Chave
+- **/concordancia/themes/**: Arquivos temáticos para agrupamento de passagens bíblicas por tema.
+- **/concordancia/words/**: Arquivos de palavras-chave para buscas rápidas e agrupamentos específicos.
+
+## Organização dos Módulos de Livros e Capítulos
+- **/versao/**: Estrutura padrão:
+  - `/versao/<versao>/<livro>/<capitulo>.json`
+  - Exemplo: `/versao/acf/genesis/1.json` representa o capítulo 1 de Gênesis na versão Almeida Corrigida Fiel.
+- **Cada arquivo de capítulo** contém os versículos em formato JSON, com campos padronizados.
+
+## Arquivos de Teste
+- **teste_modulos_slide.html**, **teste_slide.html**: Arquivos HTML para testar módulos de slide e integração de scripts. Úteis para desenvolvimento e depuração.
+
+## Scripts Específicos e Utilitários
+- **/script/** contém scripts utilitários como:
+  - `marcadagua.js`: Gerencia a marca d'água.
+  - `sobre.js`: Informações sobre o projeto.
+  - `dropdown.js`, `dropdown_concordancia.js`: Menus suspensos.
+  - `config_dicionarioeconcordancia.js`: Configuração de integração entre dicionário e concordância.
+  - `livros_capitulos.js`: Manipulação de livros e capítulos.
+  - E outros scripts auxiliares para funcionalidades específicas.
+
+## Padrão de Dados e Internacionalização
+- **Idioma padrão:** Português (pt-BR) para todos os campos, textos e comentários.
+- **Codificação:** UTF-8 em todos os arquivos de texto e dados.
+- **Estrutura de dados:** Consistente entre módulos, com campos descritivos e padronizados.
+
+## Licença e Créditos
+- O projeto está sob a licença especificada em `LICENSE`.
+- Créditos e informações adicionais podem ser encontrados no `README.md` e demais arquivos de documentação.
+
+---
+
+## Histórico de Atualizações de Comentários nos Scripts (2024)
+
+Em maio de 2024, os arquivos de versões bíblicas na pasta `/script/` passaram por uma revisão completa de comentários para garantir conformidade com o padrão estabelecido neste documento. Foram revisados e padronizados os seguintes arquivos:
+
+- `acf.js`
+- `ara.js`
+- `arc.js`
+- `kjv.js`
+- `nvt.js`
+- `nvi.js`
+- `ntlh.js`
+- `naa.js`
+- `original.js`
+
+**Padrão aplicado:**
+- Blocos de seção centralizados com `/*===============================================================================*/`.
+- Comentários de linha iniciando com verbo da ação (Cria, Adiciona, Busca, etc).
+- Funções documentadas com explicação de propósito, parâmetros e retorno.
+- Comentários detalhados em trechos importantes (fetch, manipulação de DOM, tratamento de erro, etc).
+
+**Exemplo real aplicado:**
+```javascript
+/*===============================================================================*/
+/*                  SCRIPT ESPECÍFICO PARA ACF (Almeida Corrigida Fiel)          */
+/*===============================================================================*/
+
+// Definição da versão da Bíblia para este script
+window.BIBLE_VERSION = 'acf';
+window.NOME_VERSAO_COMPLETA_BIBLIA = 'Almeida Corrigida Fiel';
+
+/**
+ * Carrega e exibe um versículo específico da Bíblia ACF
+ * @param {string} livro - Nome do livro bíblico (chave, ex: "genesis")
+ * @param {number} capitulo - Número do capítulo
+ * @param {number} versiculo - Número do versículo
+ */
+window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
+    // Busca o elemento de conteúdo principal
+    const content = document.querySelector('.conteudo');
+    if (!content) {
+        console.error("[ACF] Elemento .conteudo não encontrado.");
+        return;
+    }
+    // Remove versículo anterior, se existir
+    const existingVersiculoDiv = content.querySelector('.texto-versiculo');
+    if (existingVersiculoDiv) {
+        existingVersiculoDiv.remove();
+    }
+    // Cria a div para o novo versículo
+    const versiculoElementDiv = document.createElement('div');
+    versiculoElementDiv.classList.add('versiculo', 'texto-versiculo');
+    // ... restante do código ...
+}
+```
+
+Essas práticas devem ser mantidas em todos os scripts do projeto para garantir clareza, manutenção e padronização.

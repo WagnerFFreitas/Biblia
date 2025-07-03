@@ -1,13 +1,22 @@
 /* css/dicionario_concordancia.css */
 
-/* Reset básico e box-sizing global */
+/*=====================================================*/
+/*         ESTILOS DE CONCORDÂNCIA E DICIONÁRIO        */
+/*   Layout, navegação, barra lateral, responsividade  */
+/*=====================================================*/
+
+/*=====================================================*/
+/*           RESET BÁSICO E BOX-SIZING GLOBAL           */
+/*=====================================================*/
 *, *::before, *::after {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
-/* Estilos gerais do corpo da página */
+/*=====================================================*/
+/*           CORPO DA PÁGINA                            */
+/*=====================================================*/
 body {
     background-color: #121212;
     color: #b0b0b0;
@@ -22,7 +31,9 @@ body {
     flex-direction: column;
 }
 
-/* MARCA D'ÁGUA DE FUNDO */
+/*=====================================================*/
+/*           MARCA D'ÁGUA DE FUNDO                      */
+/*=====================================================*/
 .imagem-marcadagua {
     position: fixed;
     top: 0;
@@ -38,7 +49,9 @@ body {
     background-position: center;
 }
 
-/* Cabeçalho Fixo */
+/*=====================================================*/
+/*           CABEÇALHO FIXO                             */
+/*=====================================================*/
 header {
     background-color: rgba(30, 30, 30, 0.3);
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
@@ -75,7 +88,9 @@ header {
     margin-left: 60px;
 }
 
-/* Barra de Navegação */
+/*=====================================================*/
+/*           BARRA DE NAVEGAÇÃO                         */
+/*=====================================================*/
 nav {
     width: 100%;
     /*padding: 0 5px;*/
@@ -143,7 +158,9 @@ nav .menu-opcoes li a.active {
     border-bottom-color: #d4ac0d;
 }
 
-/* Wrapper e Conteúdo Principal */
+/*=====================================================*/
+/*           WRAPPER E CONTEÚDO PRINCIPAL               */
+/*=====================================================*/
 .site-content-wrapper {
     display: flex;
     padding-top: 155px;
@@ -153,7 +170,9 @@ nav .menu-opcoes li a.active {
     background-color: transparent;
 }
 
-/* Barra Lateral Alfabética */
+/*=====================================================*/
+/*           BARRA LATERAL ALFABÉTICA                   */
+/*=====================================================*/
 .alfabeto-sidebar {
     width: 150px;
     background-color: rgba(34, 34, 34, 0.3);
@@ -207,7 +226,9 @@ nav .menu-opcoes li a.active {
     transform: scale(1.05);
 }
 
-/* Mensagem Inicial */
+/*=====================================================*/
+/*           MENSAGEM INICIAL                           */
+/*=====================================================*/
 #mensagem-inicial {
     padding: 50px 20px;
     text-align: center;
@@ -232,7 +253,9 @@ nav .menu-opcoes li a.active {
     color: white;
 }
 
-/* Área de Conteúdo Principal */
+/*=====================================================*/
+/*           ÁREA DE CONTEÚDO PRINCIPAL                 */
+/*=====================================================*/
 main#mainContent {
     margin-left: 0;
     padding: 0 25px 20px 25px;
@@ -261,7 +284,9 @@ main#mainContent::-webkit-scrollbar-thumb {
     border-radius: 4px;
 }
 
-/* O bloco abaixo configura o rodapé */
+/*=====================================================*/
+/*           RODAPÉ                                    */
+/*=====================================================*/
 footer {
     background-color: #383838; /* Define cor de fundo */
     text-align: center; /* Centraliza texto */
@@ -280,3 +305,13 @@ footer p {
     line-height: 1.8; /* Define altura da linha */
     color: #d4ac0d;
 }
+
+/*================== BOTÕES DE LETRA ==================*/
+
+/*================== MENSAGEM INICIAL =================*/
+
+/*================== ÁREA PRINCIPAL (MAIN) ============*/
+
+/*================== SCROLLBARS PERSONALIZADOS ========*/
+
+/*================== FOOTER E INFORMAÇÕES FINAIS ======*/

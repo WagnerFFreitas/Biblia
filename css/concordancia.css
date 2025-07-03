@@ -4,7 +4,14 @@
  *            como a formatação das ocorrências, filtros e o popup de versículos.
 */
 
-/* Container para os filtros da Concordância */
+/*=====================================================*/
+/*           ESTILOS DA CONCORDÂNCIA BÍBLICA           */
+/*   Filtros, ocorrências, popup, responsividade       */
+/*=====================================================*/
+
+/*=====================================================*/
+/*           FILTROS E CONTAINER DE FILTROS            */
+/*=====================================================*/
 .filtros-container {
     display: flex;
     gap: 10px;
@@ -20,7 +27,6 @@
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
 }
 
-/* Grupo de filtro individual (label + input/select) */
 .filtro-grupo {
     display: flex;
     align-items: center;
@@ -28,14 +34,11 @@
     flex-shrink: 0;
 }
 
-/* Rótulos (labels) dos filtros */
 .filtro-grupo label {
     color: #b0b0b0;
     font-size: 0.85em;
     white-space: nowrap;
 }
-
-/* Campos de input de texto nos filtros */
 
 #filtro-palavra-input, .filtros-container .search-group .search-input {
     width: 130px;
@@ -51,28 +54,14 @@
     transition: border-color 0.2s, box-shadow 0.2s;
 }
 
-
-/*#filtro-palavra-input {
-    width: 130px;
-    min-width: 100px;
-    padding: 0 10px;
-    font-size: 0.9em;
-    height: 32px;
-    line-height: 32px;
-    border: 1px solid #555;
-    background-color: #333;
-    color: #fff;
-    border-radius: 4px;
-    transition: all 0.2s;
-}*/
-
-/* Efeito de foco para os campos de input */
 #filtro-palavra-input:focus {
     border-color: #d4ac0d;
     box-shadow: 0 0 0 2px rgba(212, 172, 13, 0.3);
 }
 
-/* Seção que agrupa todas as ocorrências de uma palavra - Estilos movidos do JS */
+/*=====================================================*/
+/*           SEÇÃO DE OCORRÊNCIAS E PALAVRAS            */
+/*=====================================================*/
 .palavra-section {
     background: #2a2a2a;
     border: 1px solid #444;
@@ -81,76 +70,41 @@
     padding: 15px;
 }
 
-/* Cabeçalho para cada palavra, mostrando o termo e a contagem - Estilos movidos do JS */
 .palavra-header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     background: #220bf0;
-    /*background-color: #220bf0;*/
     border-bottom: 2px solid #d4ac0d;
     padding-bottom: 10px;
     margin-bottom: 15px;
     padding: 3px 8px;
     border-left: 4px solid #d4ac0d;
-    /*font-size: 1.3em;*/
     color: white;
     border-radius: 12px;
-    
 }
 
-/* Estilo para o destaque da palavra na concordância: contorno amarelo */
 mark {
-    background-color: transparent; /* Remove o fundo sólido amarelo */
-    /*color: #d4ac0d; /* Define a cor do texto como dourado/amarelo */
-    
-    padding: 2px 4px; /* Adiciona um pequeno preenchimento para que a borda não fique colada no texto */
-    border-radius: 3px; /* Opcional: Adiciona bordas arredondadas ao contorno */
+    background-color: transparent;
+    padding: 2px 4px;
+    border-radius: 3px;
     background-color: white;
 }
 
-
-
-/* Título da palavra dentro do cabeçalho - Estilos movidos do JS */
 .palavra-header h2 {
-    /*color: #4a9eff;*/
     font-size: 2.4em;
     font-weight: bold;
     margin: 0;
     text-transform: uppercase;
-
-    
-        
-
-    
 }
 
-/* Contador de ocorrências no cabeçalho da palavra - Estilos movidos do JS (BASE) */
 .contador {    
-    /*background: #220bf0;*/
-    /*background-color: #220bf0;*/
     color: white;
-    /*padding: 10px 20px;*/
-    /*text-align: center;*/
-    margin: 0;
-
-    /*margin-bottom: 20px;*/
     border-radius: 4px;
     font-weight: bold;
     font-size: 1.9em;
-    /*box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);*/
 }
 
-/*.contador {
-    background: white;
-    color: #4a9eff;
-    padding: 4px 12px;
-    border-radius: 15px;
-    font-size: 1.9em;
-    font-weight: bold;
-}*/
-
-/* Bloco de informações adicionais sobre a palavra */
 .palavra-info-adicional {
     padding: 10px 15px;
     background-color: #1c1c1c;
@@ -159,13 +113,6 @@ mark {
     color: #b0b0b0;
 }
 
-/* Linhas de informação dentro do bloco adicional */
-/*.palavra-fonte-info,
-.palavra-veja-tambem-info {
-    margin-bottom: 5px;
-}*/
-
-/* Estilo para o texto da Fonte e Veja também - Estilos movidos do JS */
 .palavra-fonte-info strong,
 .palavra-veja-tambem-info strong {
     color:#FFD700;;
@@ -199,7 +146,6 @@ mark {
     border-radius: 4px;
 }
 
-/* Agrupamento de ocorrências por livro bíblico - Estilos movidos do JS */
 .livro-grupo {
     margin-bottom: 20px;
     border: 1px solid #555;
@@ -207,17 +153,6 @@ mark {
     overflow: hidden;
 }
 
-/* Cabeçalho que exibe o nome do livro - Estilos movidos do JS */
-/* ver depois - .livro-grupo .cabecalho {
-    background: #1a1a1a;
-    color: #3e2b85;
-    padding: 12px 15px;
-    font-weight: bold;
-    font-size: 1.1em;
-    border-bottom: 1px solid #555;
-}*/
-
-/* Container para cada ocorrência individual (referência + texto) - Estilos movidos do JS */
 .ocorrencia {
     padding: 10px 20px;
     border-bottom: 1px solid #2a2a2a;
@@ -227,7 +162,6 @@ mark {
     gap: 5px;
 }
 
-/* Estilo para a referência bíblica (ex: Gênesis 1:1) - Estilos movidos do JS */
 .ocorrencia .referencia {
     color: white;;
     font-weight: bold;
@@ -236,23 +170,15 @@ mark {
     opacity: 1;
 }
 
-/* Estilo para o texto do versículo onde a palavra ocorre - Estilos movidos do JS */
 .ocorrencia .texto {
     color: #d4ac0d;
     line-height: 1.6;
     font-size: 1.4em;
 }
 
-/* Destaque aplicado à palavra buscada dentro do texto do versículo */
-/*.highlight {
-    background-color: #d4ac0d;
-    color: #1c1c1c;
-    padding: 2px 4px;
-    border-radius: 3px;
-    font-weight: bold;
-}*/
-
-/* Janela popup para exibir o versículo completo */
+/*=====================================================*/
+/*           POPUP E OUTROS ELEMENTOS                   */
+/*=====================================================*/
 .popup-window {
     position: fixed;
     top: 50%;
@@ -291,66 +217,11 @@ mark {
     padding: 0 5px;
 }*/
 
-/* ===================================================== */
-/*                 AJUSTES RESPONSIVOS                   */
-/* ===================================================== */
-/*@media (max-width: 768px) {
-    /* Estilos responsivos para o cabeçalho da palavra *
-    .palavra-header {
-        font-size: 1.2em;
-    }
-
-    /* Estilos responsivos para o contador (a 'caixa' azul) *
-    .contador {
-        background-color: #4a9eff;
-        color: white;
-        padding: 4px 12px;
-        border-radius: 15px;
-        font-weight: bold;
-        margin-top: -15px;
-        display: inline-block;
-        text-align: center;
-        line-height: 1.2;
-        white-space: normal;
-    }
-
-    .contador .contador-numero {
-        font-size: 1.5em;
-        font-weight: bold;
-    }
-
-    .contador .contador-texto {
-        font-size: 0.8em;
-        display: block;
-        line-height: 1;
-        margin-top: -2px;
-    }*/
-
-    /*.palavra-header h2 {
-        font-size: 1.8em;
-    }*/
-
-    /*
-    .palavra-info-adicional {
-        font-size: 0.85em;
-    }*/
-
-    /*
-    .ocorrencia .referencia {
-        font-size: 0.9em;
-    }
-
-    .ocorrencia .texto {
-        font-size: 0.9em;
-    }*/
-
-    /* Oculta scrollbar para o mainContent em telas menores *
-    main#mainContent {
-        scrollbar-width: none;
-    }
-    main#mainContent::-webkit-scrollbar {
-        display: none;
-    }
+/*=====================================================*/
+/*           RESPONSIVIDADE E AJUSTES                   */
+/*=====================================================*/
+@media (max-width: 768px) {
+    /* ... responsividade ... */
 }
 
 /*
@@ -786,3 +657,9 @@ footer p { font-size: 0.75em; line-height: 25px; margin: 0; color: #777; }*/
     padding: 12px; border-radius: 4px; margin: 20px auto;
     text-align: center; border: 1px solid #772626; max-width: 90%;
 }*/
+
+/*================== MEDIA QUERIES E RESPONSIVIDADE =============*/
+/*================== ÁREA PRINCIPAL DE CONTEÚDO =================*/
+/*================== SCROLLBARS PERSONALIZADOS ==================*/
+/*================== SELECT CUSTOMIZADO =========================*/
+/*================== GRUPOS DE BUSCA E FILTRO ==================*/

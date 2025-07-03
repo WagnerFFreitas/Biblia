@@ -1,71 +1,81 @@
 /*======================================================*/
-/*                ESTILOS DO DICIONÁRIO                 */
+/*                ESTILOS DO DICIONÁRIO                */
+/*  Estilos para busca, destaques, verbetes e refs.     */
 /*======================================================*/
 
-/* Barra de busca */
+/*======================================================*/
+/*                BARRA DE BUSCA                        */
+/*======================================================*/
 .dictionary-search-bar-top {
-    display: flex;
-    justify-content: flex-end;
-    padding: 10px;
-    margin-bottom: 15px;
-    background-color: rgba(28, 28, 28, 0.95);
-    border-radius: 6px;
-    border: 1px solid #3a3a3a;
+    display: flex; /* Layout flexível */
+    justify-content: flex-end; /* Alinha à direita */
+    padding: 10px; /* Espaço interno */
+    margin-bottom: 15px; /* Espaço inferior */
+    background-color: rgba(28, 28, 28, 0.95); /* Fundo escuro translúcido */
+    border-radius: 6px; /* Bordas arredondadas */
+    border: 1px solid #3a3a3a; /* Borda escura */
 }
 
 .search-input-dict {
-    padding: 8px 12px;
-    background-color: #2b2b2b;
-    color: #ccc;
-    border: 1px solid #444;
-    border-radius: 3px 0 0 3px;
-    width: 250px;
+    padding: 8px 12px; /* Espaço interno */
+    background-color: #2b2b2b; /* Fundo escuro */
+    color: #ccc; /* Texto claro */
+    border: 1px solid #444; /* Borda escura */
+    border-radius: 3px 0 0 3px; /* Bordas arredondadas à esquerda */
+    width: 250px; /* Largura */
 }
 
 .search-btn-dict {
-    padding: 8px 15px;
-    background-color: #d4ac0d;
-    color: #121212;
-    border: 1px solid #d4ac0d;
-    border-left: none;
-    border-radius: 0 3px 3px 0;
-    cursor: pointer;
+    padding: 8px 15px; /* Espaço interno */
+    background-color: #d4ac0d; /* Fundo dourado */
+    color: #121212; /* Texto escuro */
+    border: 1px solid #d4ac0d; /* Borda dourada */
+    border-left: none; /* Sem borda à esquerda */
+    border-radius: 0 3px 3px 0; /* Bordas arredondadas à direita */
+    cursor: pointer; /* Cursor pointer */
 }
 
-/* Destaque da letra */
+/*======================================================*/
+/*                DESTAQUE DA LETRA                     */
+/*======================================================*/
 .letter-highlight-bar {
-    background-color: #220bf0;
-    color: white;
-    padding: 10px 20px;
-    margin-bottom: 20px;
-    border-radius: 4px;
-    font-weight: bold;
+    background-color: #220bf0; /* Fundo azul */
+    color: white; /* Texto branco */
+    padding: 10px 20px; /* Espaço interno */
+    margin-bottom: 20px; /* Espaço inferior */
+    border-radius: 4px; /* Bordas arredondadas */
+    font-weight: bold; /* Negrito */
 }
 
-/* Verbete */
+/*======================================================*/
+/*                VERBETE                               */
+/*======================================================*/
 .verbete {
-    background-color: #1c1c1c;
-    padding: 15px 20px;
-    margin-bottom: 15px;
-    border-radius: 5px;
-    border: 1px solid #2a2a2a;
+    background-color: #1c1c1c; /* Fundo escuro */
+    padding: 15px 20px; /* Espaço interno */
+    margin-bottom: 15px; /* Espaço inferior */
+    border-radius: 5px; /* Bordas arredondadas */
+    border: 1px solid #2a2a2a; /* Borda escura */
 }
 
 .verbete h3 {
-    color: #d4ac0d;
-    font-size: 1.4em;
-    border-bottom: 1px solid #383838;
-    padding-bottom: 8px;
+    color: #d4ac0d; /* Título dourado */
+    font-size: 1.4em; /* Tamanho da fonte */
+    border-bottom: 1px solid #383838; /* Linha inferior */
+    padding-bottom: 8px; /* Espaço abaixo do título */
 }
 
+/*======================================================*/
+/*                REFERÊNCIAS                           */
+/*======================================================*/
 .referencias {
-    margin-top: 15px;
-    padding-top: 10px;
-    border-top: 1px dashed #383838;
+    margin-top: 15px; /* Espaço superior */
+    padding-top: 10px; /* Espaço interno superior */
+    border-top: 1px dashed #383838; /* Linha tracejada */
 }
 
 .ref-list {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
+    display: flex; /* Layout flexível */
+    flex-wrap: wrap; /* Quebra de linha */
+    gap: 8px; /* Espaço entre itens */
 }

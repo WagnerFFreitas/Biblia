@@ -1,4 +1,7 @@
-/* === ESTILOS ESPECÍFICOS DO MODO DE LEITURA === */
+/*=====================================================*/
+/*           ESTILOS ESPECÍFICOS MODO DE LEITURA       */
+/*   Layout, botões, títulos, responsividade e cores   */
+/*=====================================================*/
 
 /* Container principal do modo leitura */
 .modo-leitura-conteudo {
@@ -13,7 +16,9 @@
     /* z-index: 1; */       /* Removido, controle de z-index principal na nav */
 }
 
-/* Cabeçalho do modo leitura */
+/*=====================================================*/
+/*                CABEÇALHO DO MODO LEITURA            */
+/*=====================================================*/
 .reading-mode-header {
     color: #4CAF50; /* Define cor do texto */
     text-align: center; /* Centraliza texto */
@@ -21,14 +26,15 @@
     font-size: 1.8em; /* Define tamanho da fonte */
 }
 
-/* Estilos para o contêiner de navegação no modo leitura */
+/*=====================================================*/
+/*                NAVEGAÇÃO E BOTÕES                   */
+/*=====================================================*/
 .reading-mode-navigation {
     margin-bottom: 20px; /* Adiciona espaço inferior */
     text-align: left; /* Alinha texto à esquerda */
     padding: 10px; /* Adiciona espaço interno */
 }
 
-/* Estilos BASE para os botões de navegação */
 #modoLeitura-capitulo-anterior,
 #modoLeitura-capitulo-proximo {
     padding: 10px 15px; /* Adiciona espaço interno */
@@ -42,7 +48,6 @@
     line-height: 1.2; /* Ajuste para melhor visualização do texto em negrito */
 }
 
-/* Botão CAP. ANTERIOR - HABILITADO */
 #modoLeitura-capitulo-anterior:not([disabled]) {
     background-color: #4CAF50; /* Verde */
     color: white;
@@ -54,7 +59,6 @@
     border-color: #3a7d3c;
 }
 
-/* Botão CAP. ANTERIOR - DESABILITADO (BRANCO SÓLIDO) */
 #modoLeitura-capitulo-anterior[disabled] {
     background-color: #ffffff; /* Branco sólido */
     color: #6c757d;           /* Texto cinza escuro para contraste */
@@ -63,7 +67,6 @@
     cursor: not-allowed;
 }
 
-/* Botão CAP. PRÓXIMO - HABILITADO */
 #modoLeitura-capitulo-proximo:not([disabled]) {
     background-color: #4CAF50; /* Verde */
     color: white;
@@ -75,7 +78,6 @@
     border-color: #3a7d3c;
 }
 
-/* Botão CAP. PRÓXIMO - DESABILITADO */
 #modoLeitura-capitulo-proximo[disabled] {
     background-color: #6c757d; /* Cinza escuro (padrão Bootstrap para desabilitado escuro) */
     color: #adb5bd; /* Texto cinza claro */
@@ -84,8 +86,9 @@
     cursor: not-allowed;
 }
 
-
-/* Versículos no modo leitura */
+/*=====================================================*/
+/*                VERSÍCULOS E CONTAINERS              */
+/*=====================================================*/
 .chapter-verses {
     line-height: 1.6; /* Define altura da linha */
     font-size: 1.1em; /* Define tamanho da fonte */
@@ -93,14 +96,12 @@
     color: #fff; /* Define cor do texto */
 }
 
-/* Estilos para containers de versículos */
 .verse-container {
     margin-bottom: 10px; /* Adiciona espaço inferior */
     display: flex; /* Habilita flexbox */
     align-items: flex-start; /* Alinha itens ao topo */
 }
 
-/* Numeração dos versículos */
 .verse-number {
     color: #888; /* Define cor do texto */
     font-size: 0.8em; /* Define tamanho da fonte */
@@ -109,14 +110,12 @@
     font-weight: bold; /* Aplica negrito */
 }
 
-/* Texto dos versículos */
 .verse-text {
     color: #f0ad4e; /* Define cor do texto */
     flex: 1; /* Define flexibilidade */
     line-height: 1.5; /* Define altura da linha */
 }
 
-/* Títulos de seções nos versículos */
 .verse-section-title {
     color: #4CAF50; /* Define cor do texto */
     margin: 20px 0 10px; /* Adiciona espaços */
@@ -126,7 +125,6 @@
     padding-bottom: 5px; /* Adiciona espaço interno inferior */
 }
 
-/* Título do capítulo */
 .chapter-title {
     color: #4CAF50; /* Define cor do texto */
     margin: 20px 0 15px; /* Adiciona espaços */
@@ -137,7 +135,9 @@
     padding-bottom: 10px; /* Adiciona espaço interno inferior */
 }
 
-/* Estilos para o botão "Modo Leitura" na navegação */
+/*=====================================================*/
+/*                BOTÃO MODO LEITURA NAV               */
+/*=====================================================*/
 #modo-leitura {
     background-color: transparent; /* Define fundo transparente */
     transition: background-color 0.3s ease; /* Adiciona transição suave */
@@ -155,7 +155,9 @@
     background-color: rgba(255, 255, 255, 0.2) !important; /* Muda cor de fundo ao hover quando inativo */
 }
 
-/* Ajustes para texto de versículo individual */
+/*=====================================================*/
+/*                TEXTO DO VERSÍCULO                   */
+/*=====================================================*/
 .texto-versiculo {
     color: #f8f8f8; /* Define cor do texto */
     font-style: italic; /* Aplica estilo itálico */
@@ -175,14 +177,12 @@
     transition: margin-left 0.3s ease; /* Adiciona transição suave */
 }
 
-/* Ajuste do texto do versículo no Modo Leitura */
 body[modo-leitura="true"] .texto-versiculo {
     margin-left: 400px; /* Ajusta margem esquerda */
     margin-right: 0; /* Remove margem direita */
     max-width: calc(100% - 420px); /* Calcula nova largura máxima */
 }
 
-/* Títulos dentro do texto do versículo */
 .texto-versiculo h3 {
     color: #4CAF50; /* Define cor do texto */
     font-size: 1.9vw; /* Define tamanho responsivo */
@@ -195,7 +195,9 @@ body[modo-leitura="true"] .texto-versiculo {
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.9); /* Adiciona sombra ao texto */
 }
 
-/* Estilos responsivos para modo leitura */
+/*=====================================================*/
+/*                RESPONSIVIDADE                       */
+/*=====================================================*/
 @media (max-width: 768px) {
     .modo-leitura-conteudo {
         margin-left: 20px; /* Ajusta margem esquerda */
@@ -224,6 +226,8 @@ body[modo-leitura="true"] .texto-versiculo {
         font-size: 18px; /* Ajusta tamanho da fonte */
     }
 }
+
+/*================== MEDIA QUERIES E RESPONSIVIDADE =============*/
 
 /*
 .versiculos-capitulo {

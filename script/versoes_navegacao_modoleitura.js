@@ -41,7 +41,6 @@
         // Busca o capítulo anterior e o próximo (usando funções do script de navegação principal)
         const livroCapituloAnterior = await window.obterLivroCapituloAnterior(livro, capitulo);// Aguarda a busca pelas informações do capítulo anterior.
         const proximoLivroCapitulo  = await window.obterProximoLivroECapitulo(livro, capitulo);// Aguarda a busca pelas informações do próximo capítulo.
-        
         let htmlBotoesNavegacao = '<div class="reading-mode-navigation">';                     // Inicia a criação do texto HTML com um container <div>.
         
         htmlBotoesNavegacao += livroCapituloAnterior ?                                         // Usa um if-curto: se existe um capítulo anterior...
@@ -58,7 +57,7 @@
     };
 
     // Este bloco cria uma nova função para configurar os event listeners NOS BOTÕES QUE JÁ ESTÃO NO DOM. */
-    window.configurarListenersNavegacao = async function(containerLeitura, livro, capitulo) {  // Define a função global que adiciona os eventos de clique aos botões.
+    window.configurarListenersNavegacao = async function(containerLeitura, livro, capitulo) {
         const configurarBotaoNavegacao = (id) => {                                             // Cria uma função interna para evitar a repetição de código.
             const botao = containerLeitura.querySelector(`#${id}`);                            // Busca o botão pelo seu ID dentro do container de leitura.
             if (botao && !botao.disabled) {                                                    // Verifica se o botão foi encontrado e se não está desabilitado.
@@ -71,7 +70,6 @@
                     const capituloDestino = parseInt(novoBotao.dataset.capitulo);              // Pega o número do capítulo de destino do atributo 'data-capitulo'.
                     window.activeLivro    = livroDestino;                                      // Atualiza a variável global que armazena o livro ativo.
                     window.activeCapitulo = capituloDestino;                                   // Atualiza a variável global que armazena o capítulo ativo.
-                    
                     await window.carregarCapituloModoLeitura(livroDestino, capituloDestino);   // Chama a função principal para carregar o novo capítulo.
                 });
             }

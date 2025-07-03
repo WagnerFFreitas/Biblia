@@ -1,4 +1,7 @@
-/* === Este arquivo e compartilhado "GLOBAL" === */
+/*=====================================================*/
+/*           ESTILO GLOBAL DAS VERSÕES BÍBLICAS        */
+/*   Layout, navegação, menu lateral e responsividade  */
+/*=====================================================*/
 
 /* O bloco abaixo configura o corpo da página */
 body {
@@ -13,7 +16,9 @@ body {
     color: #d4ac0d; /* Define cor dourada */
 }
 
-/* O bloco abaixo configura o cabeçalho */
+/*=====================================================*/
+/*                  CABEÇALHO E TÍTULOS                */
+/*=====================================================*/
 header {
     width: 100%; /* Define largura total */
 }
@@ -27,7 +32,9 @@ h1 {
     font-style: italic; /* Aplica estilo itálico */
 }
 
-/* O bloco abaixo configura a barra de navegação */
+/*=====================================================*/
+/*                BARRA DE NAVEGAÇÃO                   */
+/*=====================================================*/
 nav {
     background: linear-gradient(to right, #333, #555, #777); /* Cria gradiente horizontal */
     width: 100%; /* Define largura total */
@@ -54,7 +61,7 @@ nav {
     white-space: nowrap; /* Previne quebra de linha */
 }
 
-/* O bloco abaixo configura o estilos da lista de opções da barra de navegação */
+/* O bloco abaixo configura a lista de opções da barra de navegação */
 nav .menu-opcoes {
     display: flex; /* Habilita flexbox */
     list-style: none; /* Remove marcadores da lista */
@@ -89,7 +96,9 @@ nav .menu-opcoes li a:hover {
     background: rgba(255, 255, 255, 0.2); /* Adiciona fundo semi-transparente */
 }
 
-/* O bloco abaixo configura o menu lateral dos livros */
+/*=====================================================*/
+/*                MENU LATERAL DE LIVROS               */
+/*=====================================================*/
 .menu-livros {
     flex: 1; /* Define flexibilidade */
     margin-right: 20px; /* Adiciona espaço à direita */
@@ -146,7 +155,9 @@ nav .menu-opcoes li a:hover {
     text-decoration: underline; /* Adiciona sublinhado */
 }
 
-/* O bloco abaixo configura a área do conteúdo principal */
+/*=====================================================*/
+/*                ÁREA DE CONTEÚDO PRINCIPAL           */
+/*=====================================================*/
 .conteudo {
     flex: 3; /* Define flexibilidade */
     overflow-y: auto; /* Adiciona rolagem vertical */
@@ -171,13 +182,17 @@ nav .menu-opcoes li a:hover {
     min-height: 50px; /* Define altura mínima */
 }
 
-/* O bloco abaixo configura o contêiner principal */
+/*=====================================================*/
+/*                CONTAINER PRINCIPAL                  */
+/*=====================================================*/
 .conteiner {
     display: flex; /* Habilita flexbox */
     flex-direction: row; /* Define direção horizontal */
 }
 
-/* O bloco abaixo configura a barra de busca */
+/*=====================================================*/
+/*                BARRA DE BUSCA                       */
+/*=====================================================*/
 .barraPesquisa {
     display: flex; /* Habilita flexbox */
     align-items: center; /* Centraliza verticalmente */
@@ -223,13 +238,14 @@ nav .menu-opcoes li a:hover {
     background-color: #f34141; /* Muda cor de fundo ao hover */
 }
 
-/* O bloco abaixo configura o cabeçalho superior */
+/*=====================================================*/
+/*                CABEÇALHO SUPERIOR/INFERIOR          */
+/*=====================================================*/
 .cabeçalho-superior {
     display: flex; /* Habilita flexbox */
     justify-content: space-between; /* Distribui espaço entre elementos */
 }
 
-/* O bloco abaixo configura o cabeçalho inferior */
 .cabeçalho-inferior {
     margin-top: 65px; /* Adiciona espaço superior */
 }
@@ -434,3 +450,8 @@ nav .dropdown .conteudo-dropdown li a:hover {
         width: 120px; /* Reduz largura */
     }
 }
+
+/*================== CABEÇALHOS SECUNDÁRIOS ==========*/
+/*================== DROPDOWNS E MENUS SUSPENSOS =====*/
+/*================== ÁREA SOBRE ======================*/
+/*================== MEDIA QUERIES E RESPONSIVIDADE ==*/

@@ -8,7 +8,7 @@
 /*                       - Lidar com a navegação por teclado (setas, etc.)       */
 /*===============================================================================*/
 
-console.log("[slide.js] Script iniciado.");                                       // Exibe uma mensagem no console para confirmar que o script foi carregado.
+console.log("[slide_biblia.js] Script iniciado.");                                       // Exibe uma mensagem no console para confirmar que o script foi carregado.
 
 // Este bloco define um objeto para mapear nomes de livros com acentos para um formato padrão sem acentos.
 const livroAcentuadosParaSemAcentos = {
@@ -288,7 +288,7 @@ function inicializarSlide() {
 window.inicializarSlide = inicializarSlide;                                                                                                // Torna a função acessível globalmente para que possa ser chamada de outros scripts.
 
 // Este bloco garante que a inicialização do slide ocorra assim que a página estiver pronta.
-document.addEventListener('DOMContentLoaded', () => {                                                                                      // Adiciona um "ouvinte" que espera o carregamento completo do HTML.
+document.addEventListener('DOMContentLoaded', () => {
     if (typeof inicializarSlide === 'function') {                                                                                          // Verifica se a função de inicialização existe.
         inicializarSlide();                                                                                                                // Se existir, a executa.
     } else {                                                                                                                               // Se não existir...
@@ -297,7 +297,7 @@ document.addEventListener('DOMContentLoaded', () => {                           
 });
 
 // Este bloco define a função principal que abre e configura a nova janela (pop-up) do slide.
-async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versaoAtual) {                                                          // Define a função assíncrona que cria a janela do slide.
+async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versaoAtual) {
     console.log(`[slide.js] Tentando abrir slide para: ${versaoAtual.toUpperCase()} ${livroAtual} ${capituloAtual}:${versiculoAtual}`);            // Exibe os dados no console.
 
     // Este bloco realiza uma validação inicial para garantir que todos os dados necessários foram fornecidos.
@@ -366,7 +366,7 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
     <link rel="stylesheet" href="../css/slide.css">
 </head>
 <body>
-    <div id="watermark"></div>                                                                 <!-- Elemento visual para marca d'água (pode ser usado para exibir o nome da igreja, logo, etc.) -->
+    <div id="marcadagua"></div>                                                                <!-- Elemento visual para marca d'água (pode ser usado para exibir o nome da igreja, logo, etc.) -->
     <div id="titulo">${livroAcentuado.toUpperCase()} ${capituloAtual}:${versiculoAtual}</div>  <!-- Exibe o nome do livro, capítulo e versículo atual no topo do slide.                         -->
     <div id="versiculo-container"><div class="texto-versiculo">Carregando...</div></div>       <!-- Container onde o texto do versículo será exibido; inicialmente mostra "Carregando...".      -->
     <div id="botao-container">                                                                 <!-- Container para os botões de navegação.                                                      -->
@@ -377,46 +377,46 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
     <!-- INÍCIO DO SCRIPT DA JANELA SLIDE -->
     <script>
         // Este bloco define as variáveis de estado inicial da janela do slide.
-        let livroAtual = '${livroAtual}';                                                                                                // Define o livro atual, recebido da janela principal.
-        let capituloAtual = ${capituloAtual};                                                                                            // Define o capítulo atual, recebido da janela principal.
-        let versiculoAtual = ${versiculoAtual};                                                                                          // Define o versículo atual, recebido da janela principal.
-        const versaoBiblia = '${versaoAtual}';                                                                                           // Define a versão da Bíblia, recebida da janela principal.
-        let dadosCapitulo = null;                                                                                                        // Inicia uma variável para guardar os dados do capítulo carregado.
+        let livroAtual = '${livroAtual}';                                                                                      // Define o livro atual, recebido da janela principal.
+        let capituloAtual = ${capituloAtual};                                                                                  // Define o capítulo atual, recebido da janela principal.
+        let versiculoAtual = ${versiculoAtual};                                                                                // Define o versículo atual, recebido da janela principal.
+        const versaoBiblia = '${versaoAtual}';                                                                                 // Define a versão da Bíblia, recebida da janela principal.
+        let dadosCapitulo = null;                                                                                              // Inicia uma variável para guardar os dados do capítulo carregado.
 
         // Este bloco recebe os dados principais da janela-mãe.
-        const todaContagemDataGlobal = JSON.parse('${todaContagemJSON}');                                                                // Converte a string JSON em objeto para contagem de versículos.
-        const livrosOrdemGlobal = JSON.parse('${livrosOrdemJSON}');                                                                      // Converte a string JSON em array com a ordem dos livros.
-        let versiculosPorCapituloArray = [];                                                                                             // Inicializa o array que armazenará a quantidade de versículos por capítulo.
+        const todaContagemDataGlobal = JSON.parse('${todaContagemJSON}');                                                      // Converte a string JSON em objeto para contagem de versículos.
+        const livrosOrdemGlobal = JSON.parse('${livrosOrdemJSON}');                                                            // Converte a string JSON em array com a ordem dos livros.
+        let versiculosPorCapituloArray = [];                                                                                   // Inicializa o array que armazenará a quantidade de versículos por capítulo.
 
         // Este bloco busca e armazena referências aos elementos da interface.
-        const tituloElement = document.getElementById('titulo');                                                                         // Seleciona o elemento do título na interface.
-        const versiculoContainer = document.getElementById('versiculo-container');                                                       // Seleciona o container dos versículos.
-        const btnVoltar = document.getElementById('voltar-botao');                                                                       // Seleciona o botão de voltar.
-        const btnProximo = document.getElementById('proximo-botao');                                                                     // Seleciona o botão de avançar.
+        const tituloElement = document.getElementById('titulo');                                                               // Seleciona o elemento do título na interface.
+        const versiculoContainer = document.getElementById('versiculo-container');                                             // Seleciona o container dos versículos.
+        const btnVoltar = document.getElementById('voltar-botao');                                                             // Seleciona o botão de voltar.
+        const btnProximo = document.getElementById('proximo-botao');                                                           // Seleciona o botão de avançar.
 
         // Este bloco define o formato do arquivo a ser buscado (JSON ou HTML).
-        const jsonFileVersions = ['ara', 'nvi', 'acf', 'ntlh', 'kjv', 'naa', 'original'];                                                // Define a lista de versões que usam arquivos JSON.
-        const isJsonFile = jsonFileVersions.includes(versaoBiblia);                                                                      // Verifica se a versão atual usa JSON.
-        const fileExtension = isJsonFile ? 'json' : 'html';                                                                              // Define a extensão do arquivo a ser carregado.
+        const jsonFileVersions = ['ara', 'nvi', 'acf', 'ntlh', 'kjv', 'naa', 'original'];                                      // Define a lista de versões que usam arquivos JSON.
+        const isJsonFile = jsonFileVersions.includes(versaoBiblia);                                                            // Verifica se a versão atual usa JSON.
+        const fileExtension = isJsonFile ? 'json' : 'html';                                                                    // Define a extensão do arquivo a ser carregado.
 
         // Este bloco redefine a função para normalizar o nome do livro localmente.
-        function normalizarNomeLivro(nome) {                                                                                             // Define a função local para padronizar o nome de um livro.
-            const semAcentos = ${JSON.stringify(livroAcentuadosParaSemAcentos)};                                                         // Recebe o objeto de mapeamento da janela principal.
-            const nomeLower = nome.toLowerCase();                                                                                        // Converte o nome para minúsculas.
-            const keyAcentuada = Object.keys(semAcentos).find(key => key.toLowerCase() === nomeLower);                                   // Busca a chave com acento.
-            if (keyAcentuada) return semAcentos[keyAcentuada];                                                                           // Retorna o valor sem acento se encontrar.
-            const keySemAcento = Object.keys(semAcentos).find(key => semAcentos[key].toLowerCase() === nomeLower);                       // Busca a chave pelo valor.
-            return keySemAcento ? semAcentos[keySemAcento] : nome;                                                                       // Retorna o valor ou o nome original.
+        function normalizarNomeLivro(nome) {
+            const semAcentos = ${JSON.stringify(livroAcentuadosParaSemAcentos)};                                               // Recebe o objeto de mapeamento da janela principal.
+            const nomeLower = nome.toLowerCase();                                                                              // Converte o nome para minúsculas.
+            const keyAcentuada = Object.keys(semAcentos).find(key => key.toLowerCase() === nomeLower);                         // Busca a chave com acento.
+            if (keyAcentuada) return semAcentos[keyAcentuada];                                                                 // Retorna o valor sem acento se encontrar.
+            const keySemAcento = Object.keys(semAcentos).find(key => semAcentos[key].toLowerCase() === nomeLower);             // Busca a chave pelo valor.
+            return keySemAcento ? semAcentos[keySemAcento] : nome;                                                             // Retorna o valor ou o nome original.
         }
 
         // Este bloco redefine a função para obter o nome acentuado localmente.
-        function obterNomeAcentuado(nomeSemAcento) {                                                                                     // Define a função local para obter o nome de exibição.
-            const semAcentos = ${JSON.stringify(livroAcentuadosParaSemAcentos)};                                                         // Recebe o objeto de mapeamento da janela principal.
-            return Object.keys(semAcentos).find(key => semAcentos[key] === nomeSemAcento) || nomeSemAcento;                              // Busca a chave com acento ou retorna o original.
+        function obterNomeAcentuado(nomeSemAcento) {
+            const semAcentos = ${JSON.stringify(livroAcentuadosParaSemAcentos)};                                               // Recebe o objeto de mapeamento da janela principal.
+            return Object.keys(semAcentos).find(key => semAcentos[key] === nomeSemAcento) || nomeSemAcento;                    // Busca a chave com acento ou retorna o original.
         }
 
         // Este bloco define a função que atualiza a contagem de versículos para o livro atual.
-        function atualizarContagemCapitulosParaLivroAtual() {                                                                            // Define a função que prepara os dados de contagem para o livro ativo.
+        function atualizarContagemCapitulosParaLivroAtual() {
             const contagemCapitulosObj = todaContagemDataGlobal[livroAtual];                                                             // Busca a contagem de capítulos para o livro atual.
             if (contagemCapitulosObj) {                                                                                                  // Se a contagem for encontrada...
                 versiculosPorCapituloArray = Object.keys(contagemCapitulosObj)                                                           // Cria um array com o número de versículos de cada capítulo.
@@ -433,7 +433,7 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
         }
 
         // Este bloco define a função que carrega os dados de um capítulo (JSON ou HTML).
-        async function carregarCapitulo(capituloNum) {                                                                                   // Define a função assíncrona que busca os dados de um capítulo.
+        async function carregarCapitulo(capituloNum) {
             const caminho = \`../versao/\${versaoBiblia}/\${livroAtual}/\${capituloNum}.\${fileExtension}\`;                             // Monta o caminho do arquivo do capítulo.
             console.log(\`Carregando capítulo: \${caminho}\`);                                                                           // Exibe o caminho no console para depuração.
             const livroAcentuado = obterNomeAcentuado(livroAtual);                                                                       // Pega o nome de exibição do livro.
@@ -455,7 +455,7 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
         }
 
         // Este bloco define a função que extrai e exibe um versículo específico do capítulo carregado.
-        function carregarVersiculo(versiculoNum) {                                                                                       // Define a função que mostra um versículo na tela.
+        function carregarVersiculo(versiculoNum) {
             console.log(\`Carregando \${livroAtual} \${capituloAtual}:\${versiculoNum}\`);                                               // Exibe a referência no console.
             let conteudo = '', tituloSecao = '';                                                                                         // Inicia as variáveis para o conteúdo e título.
             const livroAcentuado = obterNomeAcentuado(livroAtual);                                                                       // Pega o nome de exibição do livro.
@@ -493,7 +493,7 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
         }
 
         // Este bloco define a função que habilita/desabilita os botões de navegação.
-        function atualizarBotoes() {                                                                                                               // Define a função que controla a ativação dos botões.
+        function atualizarBotoes() {
             if (!versiculosPorCapituloArray || versiculosPorCapituloArray.length === 0) {                                                          // Se não houver dados de contagem...
                 btnVoltar.disabled = true; btnProximo.disabled = true; return;                                                                     // Desabilita os botões e interrompe.
             }
@@ -506,7 +506,7 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
         }
 
         // Este bloco define a função para navegar para o próximo versículo, capítulo ou livro.
-        function proximoVersiculo() {                                                                                          // Define a função para avançar a leitura.
+        function proximoVersiculo() {
             if (btnProximo.disabled) return;                                                                                   // Não faz nada se o botão estiver desabilitado.
             const ultimoVerCap = versiculosPorCapituloArray[capituloAtual - 1];                                                // Pega o último versículo do capítulo atual.
             versiculoAtual++;                                                                                                  // Incrementa o versículo.
@@ -528,7 +528,7 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
         }
 
         // Este bloco define a função para navegar para o versículo, capítulo ou livro anterior.
-        function voltarVersiculo() {                                                                                           // Define a função para retroceder a leitura.
+        function voltarVersiculo() {
             if (btnVoltar.disabled) return;                                                                                    // Não faz nada se o botão estiver desabilitado.
             versiculoAtual--;                                                                                                  // Decrementa o versículo.
             if (versiculoAtual < 1) {                                                                                          // Se for menor que 1...
@@ -588,6 +588,7 @@ async function abrirJanelaSlide(livroAtual, capituloAtual, versiculoAtual, versa
 </body>
 </html>
     `);
+    
     window.janelaSlide.document.close();                                                                                       // Fecha o fluxo de escrita do documento, fazendo com que ele seja renderizado.
     console.log("[slide.js] Conteúdo escrito na janela do slide.");                                                            // Exibe uma mensagem de sucesso final no console.
 }

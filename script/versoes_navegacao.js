@@ -108,7 +108,7 @@
         const chaveLivro = livro.toLowerCase();                                                    // Converte o nome do livro para letras minúsculas para padronizar.
         const cacheCap = window.obterCapítuloDoCache(chaveLivro, 0);                               // Verifica primeiro no cache global se a contagem já foi feita para este livro.
         if (cacheCap) return cacheCap;                                                             // Se a contagem estiver no cache, retorna o valor imediatamente para economizar tempo.
-        if (window.livros && window.livros[chaveLivro] && window.livros[chaveLivro].capitulos) {    // Verifica se a contagem já está disponível em uma variável global 'window.livros'.
+        if (window.livros && window.livros[chaveLivro] && window.livros[chaveLivro].capitulos) {   // Verifica se a contagem já está disponível em uma variável global 'window.livros'.
             window.cacheCapítulo(chaveLivro, 0, window.livros[chaveLivro].capitulos);              // Salva a contagem de 'window.livros' no cache para uso futuro.
             return window.livros[chaveLivro].capitulos;                                            // Retorna a contagem encontrada em 'window.livros'.
         }
@@ -116,14 +116,14 @@
         console.warn(`[Capítulos] Contagem para ${livro} não encontrada. Tentando descobrir...`);  // Exibe um aviso se a contagem não for encontrada, informando o que vai fazer.
         let maximoCapitulo = 0;                                                                    // Inicia um contador para o número máximo de capítulos.
         for (let capitulo = 1; capitulo <= 150; capitulo++) {                                      // Inicia um laço que testa a existência dos capítulos um por um, até 150.
-            if (await capituloExistentes(chaveLivro, capitulo)) maximoCapitulo = capitulo;          // Aguarda a verificação do capítulo; se existir, atualiza o contador.
+            if (await capituloExistentes(chaveLivro, capitulo)) maximoCapitulo = capitulo;         // Aguarda a verificação do capítulo; se existir, atualiza o contador.
             else break;                                                                            // Se um capítulo não existir, interrompe o laço, pois não haverá mais.
         }
         
         window.cacheCapítulo(chaveLivro, 0, maximoCapitulo);                                       // Salva o resultado final no cache para não precisar calcular de novo.
         return maximoCapitulo;                                                                     // Retorna o número de capítulos descoberto.
     }
-                                                                                                  // Finaliza a função obterContagemCapitulosLivro.
+
     window.obterContagemCapitulosLivro = obterContagemCapitulosLivro;                              // Torna a função acessível globalmente para que outros scripts possam usá-la.
     
     // Este bloco define uma função global para encontrar o próximo capítulo ou livro.
@@ -133,11 +133,11 @@
         const numCapitulosLivro = await obterContagemCapitulosLivro(livroAtual);                   // Busca o número total de capítulos que o livro atual possui.
         if (capituloAtual < numCapitulosLivro) {                                                   // Verifica se o capítulo atual NÃO é o último do livro.
              return { livro: livroAtual, capitulo: capituloAtual + 1 };                            // Se não for, retorna o mesmo livro, mas com o capítulo seguinte.
-        }                                                                                          // Finaliza a verificação do último capítulo.
+        }
         if (indiceLivroAtual < listaLivrosBiblia.length - 1)                                       // Se for o último capítulo, verifica se este NÃO é o último livro da Bíblia.
-            return { livro: listaLivrosBiblia[indiceLivroAtual + 1], capitulo: 1 };                 // Se não for, retorna o próximo livro da lista, no capítulo 1.
+            return { livro: listaLivrosBiblia[indiceLivroAtual + 1], capitulo: 1 };                // Se não for, retorna o próximo livro da lista, no capítulo 1.
         return null;                                                                               // Se for o último capítulo do último livro, retorna nulo (não há próximo).
-    };                                                                                             // Finaliza a definição da função.
+    };
 
     // Este bloco define uma função global para encontrar o livro e capítulo anterior.
     window.obterLivroCapituloAnterior = async function(livroAtual, capituloAtual) {

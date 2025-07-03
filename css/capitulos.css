@@ -1,96 +1,98 @@
-/* === ESTILOS PARA BOTÕES DE CAPÍTULOS E VERSÍCULOS === */
+/*=====================================================*/
+/*           ESTILOS PARA CAPÍTULOS E VERSÍCULOS       */
+/*   Layout, botões, containers e responsividade        */
+/*=====================================================*/
 
-/* Estilos para os botões de capítulo */
+/*================== BOTÕES DE CAPÍTULOS ==============*/
 .capitulos {
     display: grid; /* Define layout em grid */
-    grid-template-columns: repeat(auto-fit, minmax(70px, 1fr)); /* Define colunas responsivas */
-    gap: 10px; /* Define espaçamento entre itens */
-    padding: 20px; /* Adiciona espaço interno */
-    margin-left: 250px; /* Adiciona espaço à esquerda */
-    margin-right: 20px; /* Adiciona espaço à direita */
-    margin-top: -40px; /* Ajusta espaço superior negativo */
-    max-width: calc(100% - 80px); /* Calcula largura máxima */
+    grid-template-columns: repeat(auto-fit, minmax(70px, 1fr)); /* Colunas responsivas */
+    gap: 10px; /* Espaçamento entre itens */
+    padding: 20px; /* Espaço interno */
+    margin-left: 250px; /* Espaço à esquerda */
+    margin-right: 20px; /* Espaço à direita */
+    margin-top: -40px; /* Espaço superior negativo */
+    max-width: calc(100% - 80px); /* Largura máxima */
 }
 
 .capitulos button,
 .botao-capitulo {
-    background-color: #3f51b5; /* Define cor de fundo azul */
-    color: white; /* Define cor do texto */
-    border: none; /* Remove borda */
-    padding: 8px 12px; /* Adiciona espaço interno */
-    margin: 2px; /* Adiciona margem */
-    cursor: pointer; /* Muda cursor para pointer */
-    min-width: 40px; /* Define largura mínima */
+    background-color: #3f51b5; /* Fundo azul */
+    color: white; /* Texto branco */
+    border: none; /* Sem borda */
+    padding: 8px 12px; /* Espaço interno */
+    margin: 2px; /* Margem */
+    cursor: pointer; /* Cursor pointer */
+    min-width: 40px; /* Largura mínima */
     text-align: center; /* Centraliza texto */
-    border-radius: 4px; /* Arredonda bordas */
-    font-size: 1vw; /* Define tamanho responsivo */
-    transition: background-color 0.3s; /* Adiciona transição suave */
+    border-radius: 4px; /* Bordas arredondadas */
+    font-size: 1vw; /* Tamanho responsivo */
+    transition: background-color 0.3s; /* Transição suave */
 }
 
 .capitulos button:hover,
 .botao-capitulo:hover {
-    background-color: #45a049; /* Muda cor de fundo ao hover */
+    background-color: #45a049; /* Fundo ao hover */
 }
 
 .capitulos button.active {
-    background-color: #4CAF50; /* Define cor verde para estado ativo */
+    background-color: #4CAF50; /* Fundo verde ativo */
 }
 
-/* Estilos para os botões de versículos */
+/*================== BOTÕES DE VERSÍCULOS ==============*/
 .versiculos {
-    display: grid; /* Define layout em grid */
+    display: grid; /* Layout em grid */
     flex-wrap: wrap; /* Permite quebra de linha */
-    grid-template-columns: repeat(auto-fit, minmax(70px, 1fr)); /* Define colunas responsivas */
-    gap: 10px; /* Define espaçamento entre itens */
-    padding: 20px; /* Adiciona espaço interno */
-    margin-left: 250px; /* Adiciona espaço à esquerda */
-    margin-right: 20px; /* Adiciona espaço à direita */
-    margin-top: -10px; /* Ajusta espaço superior negativo */
-    max-width: calc(100% - 80px); /* Calcula largura máxima */
+    grid-template-columns: repeat(auto-fit, minmax(70px, 1fr)); /* Colunas responsivas */
+    gap: 10px; /* Espaçamento entre itens */
+    padding: 20px; /* Espaço interno */
+    margin-left: 250px; /* Espaço à esquerda */
+    margin-right: 20px; /* Espaço à direita */
+    margin-top: -10px; /* Espaço superior negativo */
+    max-width: calc(100% - 80px); /* Largura máxima */
 }
 
 .botao-versiculo {
-    background-color: #6758ec; /* Define cor de fundo roxa */
-    border: none; /* Remove borda */
-    color: white; /* Define cor do texto */
+    background-color: #6758ec; /* Fundo roxo */
+    border: none; /* Sem borda */
+    color: white; /* Texto branco */
     text-align: center; /* Centraliza texto */
-    padding: 8px 12px; /* Adiciona espaço interno */
-    border-radius: 5px; /* Arredonda bordas */
-    cursor: pointer; /* Muda cursor para pointer */
-    font-size: 1vw; /* Define tamanho responsivo */
-    transition: background-color 0.3s; /* Adiciona transição suave */
+    padding: 8px 12px; /* Espaço interno */
+    border-radius: 5px; /* Bordas arredondadas */
+    cursor: pointer; /* Cursor pointer */
+    font-size: 1vw; /* Tamanho responsivo */
+    transition: background-color 0.3s; /* Transição suave */
 }
 
 .botao-versiculo:hover {
-    background-color: #45a049; /* Muda cor de fundo ao hover */
+    background-color: #45a049; /* Fundo ao hover */
 }
 
 .botao-versiculo.active {
-    background-color: #4CAF50; /* Define cor verde para estado ativo */
+    background-color: #4CAF50; /* Fundo verde ativo */
 }
 
-/* Estilos para container de capítulos */
+/*================== CONTAINERS DE CAPÍTULOS/VERSÍCULOS =*/
 .capitulos-container {
-    margin-bottom: 20px; /* Adiciona espaço inferior */
+    margin-bottom: 20px; /* Espaço inferior */
 }
 
-/* Estilos para container de versículos */
 .conteudo-versiculos {
-    margin-bottom: 20px; /* Adiciona espaço inferior */
+    margin-bottom: 20px; /* Espaço inferior */
 }
 
-/* Estilos responsivos para botões */
+/*================== RESPONSIVIDADE =====================*/
 @media (max-width: 768px) {
     .capitulos,
     .versiculos {
-        grid-template-columns: repeat(auto-fit, minmax(50px, 1fr)); /* Ajusta colunas para telas menores */
-        margin-left: 20px; /* Reduz margem esquerda */
-        margin-right: 10px; /* Reduz margem direita */
+        grid-template-columns: repeat(auto-fit, minmax(50px, 1fr)); /* Colunas menores */
+        margin-left: 20px; /* Menor margem esquerda */
+        margin-right: 10px; /* Menor margem direita */
     }
     
     .botao-capitulo,
     .botao-versiculo {
-        font-size: 14px; /* Reduz tamanho da fonte */
-        padding: 6px 10px; /* Ajusta espaço interno */
+        font-size: 14px; /* Fonte menor */
+        padding: 6px 10px; /* Espaço interno menor */
     }
 }

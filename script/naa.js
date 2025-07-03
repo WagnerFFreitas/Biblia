@@ -1,4 +1,10 @@
-// --- START OF FILE naa.js ---
+/*===============================================================================*/
+/*                  SCRIPT ESPECÍFICO PARA NAA (Nova Almeida Atualizada)         */
+/*===============================================================================*/
+/*  Este arquivo contém:                                                         */
+/*  - Funções para carregar e exibir versículos da versão NAA                    */
+/*  - Manipulação de títulos e modo de leitura                                   */
+/*===============================================================================*/
 
 /**
  * Arquivo: naa.js
@@ -8,9 +14,9 @@
  */
 
 // Definição da versão da Bíblia para este script
-window.BIBLE_VERSION = 'naa';
-window.NOME_VERSAO_COMPLETA_BIBLIA = 'Nova Almeida Atualizada';
-console.log(`[${window.BIBLE_VERSION}.js] Script carregado. Definindo funções específicas para NAA.`);
+window.BIBLE_VERSION = 'naa';                                                    // Define o identificador da versão
+window.NOME_VERSAO_COMPLETA_BIBLIA = 'Nova Almeida Atualizada';                  // Nome completo da versão
+console.log(`[${window.BIBLE_VERSION}.js] Script carregado. Definindo funções específicas para NAA.`); // Loga o carregamento do script
 
 /**
  * Obtém a contagem de versículos para um determinado livro e capítulo
@@ -20,7 +26,7 @@ console.log(`[${window.BIBLE_VERSION}.js] Script carregado. Definindo funções 
  */
 window.getSpecificVerseCount = function(livro, capitulo) {
     // Presume-se que window.getVerseCount já está definido globalmente por livros_capitulos.js
-    return window.getVerseCount(livro, capitulo);
+    return window.getVerseCount(livro, capitulo);                                // Chama a função global para obter a contagem
 };
 
 /**
@@ -30,49 +36,44 @@ window.getSpecificVerseCount = function(livro, capitulo) {
  * @param {number} versiculo - Número do versículo
  */
 window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
-    console.log(`[NAA] Carregando: ${livro} ${capitulo}:${versiculo}`);
-    
-    const content = document.querySelector('.content');
-    
+    console.log(`[NAA] Carregando: ${livro} ${capitulo}:${versiculo}`);           // Loga o carregamento do versículo
+    const content = document.querySelector('.content');                           // Seleciona o container principal
     if (!content) {
-        console.error("[NAA] Elemento .content não encontrado.");
+        console.error("[NAA] Elemento .content não encontrado.");                // Loga erro se não encontrar o container
         return;
     }
 
-    const existingVersiculoDiv = content.querySelector('.texto-versiculo');
+    const existingVersiculoDiv = content.querySelector('.texto-versiculo');       // Remove versículo anterior, se houver
     if (existingVersiculoDiv) {
         existingVersiculoDiv.remove();
     }
 
-    const versiculoElementDiv = document.createElement('div');
+    const versiculoElementDiv = document.createElement('div');                    // Cria div para o versículo
     versiculoElementDiv.classList.add('versiculo', 'texto-versiculo');
-    
     if (document.body.classList.contains('module-leitura')) {
-        versiculoElementDiv.classList.add('modo-leitura');
+        versiculoElementDiv.classList.add('modo-leitura');                        // Adiciona classe se modo leitura estiver ativo
     }
 
     try {
-        const response = await fetch(`../versao/naa/${livro}/${capitulo}.json`); 
+        const response = await fetch(`../versao/naa/${livro}/${capitulo}.json`);  // Caminho para o JSON do capítulo
         if (!response.ok) {
             throw new Error(`HTTP ${response.status} ao buscar JSON para ${livro} ${capitulo} (NAA)`);
         }
         const data = await response.json();
 
         if (data.versiculos && data.versiculos[versiculo]) {
-            // A NAA pode ter títulos de seção internos.
-            // Se os seus arquivos JSON para NAA incluírem 'titulos', eles serão usados.
+            // Adiciona título do versículo (se houver)
             if (data.titulos && data.titulos[versiculo]) {
                 const tituloInternoH3 = document.createElement('h3');
                 tituloInternoH3.classList.add('titulo-versiculo-interno');
                 tituloInternoH3.textContent = data.titulos[versiculo];
                 versiculoElementDiv.appendChild(tituloInternoH3);
             }
-
+            // Adiciona o texto do versículo
             const textoP = document.createElement('p');
             textoP.id = `versiculo-${versiculo}`;
             textoP.textContent = data.versiculos[versiculo];
             versiculoElementDiv.appendChild(textoP);
-
         } else {
             const textoP = document.createElement('p');
             textoP.textContent = `Versículo ${versiculo} não encontrado nos dados.`;
@@ -87,13 +88,13 @@ window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
         versiculoElementDiv.appendChild(textoP);
     }
 
-    content.appendChild(versiculoElementDiv);
+    content.appendChild(versiculoElementDiv);                                     // Adiciona o versículo ao container
 
     // Atualiza o título principal da página
     if (window.titulo) {
-        let nomeLivroDisplay = livro.toUpperCase(); // Fallback
+        let nomeLivroDisplay = livro.toUpperCase();                               // Fallback para o nome do livro
         if (typeof window.getLivroDisplayName === 'function') {
-            nomeLivroDisplay = window.getLivroDisplayName(livro); // Usa a função para obter nome acentuado
+            nomeLivroDisplay = window.getLivroDisplayName(livro);                 // Usa a função para obter nome acentuado
         } else {
             console.warn("[NAA] Função window.getLivroDisplayName não encontrada. Usando chave do livro em maiúsculas para o título.");
         }
@@ -112,16 +113,14 @@ window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
  */
 window.getSpecificChapterTitle = async function(livro, capitulo, versiculo) {
     // Nota: esta função retorna títulos INTERNOS de seções.
-    console.log(`[NAA] Obtendo título interno para: ${livro} ${capitulo}:${versiculo}`);
+    console.log(`[NAA] Obtendo título interno para: ${livro} ${capitulo}:${versiculo}`);      // Loga a busca do título
     try {
-        // Caminho alterado para a versão NAA
-        const response = await fetch(`../versao/naa/${livro}/${capitulo}.json`);
+        const response = await fetch(`../versao/naa/${livro}/${capitulo}.json`);              // Caminho para o JSON do capítulo
         if (!response.ok) {
             throw new Error(`HTTP ${response.status} ao buscar JSON para ${livro} ${capitulo} (NAA)`);
         }
         const data = await response.json();
-        // A lógica para títulos internos é mantida, caso seus dados os incluam para NAA.
-        return data.titulos && data.titulos[versiculo] ? data.titulos[versiculo] : null;
+        return data.titulos && data.titulos[versiculo] ? data.titulos[versiculo] : null;      // Retorna o título se existir
     } catch (error) {
         console.error(`[NAA] Erro ao obter título interno para ${livro} ${capitulo}:${versiculo} (NAA):`, error);
         return null;

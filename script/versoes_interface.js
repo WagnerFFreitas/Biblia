@@ -41,7 +41,6 @@ export class InterfaceManager {
     atualizarTitulo(codigoVersao) {
         const titulo = document.getElementById('titulo-principal-versao');                     // Busca o elemento do título principal (H1 ou H2).
         const subtitulo = document.getElementById('subtitulo-versao-extenso');                 // Busca o elemento do subtítulo.
-        
         if (titulo) titulo.textContent = `Bíblia Sagrada ${codigoVersao}`;                     // Se o título existe, atualiza seu texto com o código da versão.
         if (subtitulo) subtitulo.textContent = window.NOME_VERSAO_COMPLETA_BIBLIA || '';       // Se o subtítulo existe, atualiza com o nome completo da versão ou deixa em branco.
     }
@@ -57,7 +56,7 @@ export class InterfaceManager {
     }
 
     // Este bloco define o método privado (interno) que lida com o clique em um livro.
-    _handleLivroClick(e) {                                                                     // Define a função que é executada quando um link de livro é clicado.
+    _handleLivroClick(e) {
         e.preventDefault();                                                                    // Impede que o navegador siga o link (href="#").
         const livro = e.target.dataset.livro;                                                  // Pega o nome do livro do atributo 'data-livro' do link clicado.
         window.carregarLivro(livro);                                                           // Chama uma função global (de outro módulo) para carregar o livro selecionado.

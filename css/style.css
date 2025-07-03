@@ -1,3 +1,10 @@
+/*======================================================*/
+/*                ARQUIVO PRINCIPAL DE ESTILOS          */
+/*  Este arquivo contém os estilos gerais para toda a    */
+/*  aplicação bíblica, incluindo layout, navegação,      */
+/*  menus, conteúdo, responsividade e temas.             */
+/*======================================================*/
+
 /* Configurações gerais da página */
 body {
   background-color: #181818;

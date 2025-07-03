@@ -67,8 +67,13 @@
 
             window.defineTituloPagina(codigoVersao);                                                                             // Define o título da página (agora que o nome da versão está disponível)
 
-            // Este bloco carrega o Modulo Slide
-            await carregaScriptAssincrono(`../script/slide.js`, 'script-slide');
+            // Este bloco carrega os módulos do Slide em ordem de dependência
+            await carregaScriptAssincrono('../script/slide_biblia_dados.js', 'script-slide-dados');
+            await carregaScriptAssincrono('../script/slide_biblia_utils.js', 'script-slide-utils');
+            await carregaScriptAssincrono('../script/slide_biblia_interface.js', 'script-slide-interface');
+            await carregaScriptAssincrono('../script/slide_biblia_janela.js', 'script-slide-janela');
+            await carregaScriptAssincrono('../script/slide_biblia_coordenador.js', 'script-slide-coordenador');
+            
             if (typeof window.inicializarDropdowns === 'function') window.inicializarDropdowns();                                // Inicializa dropdowns se existir
             if (typeof window.inicializarSobre === 'function') window.inicializarSobre();                                        // Inicializa sobre se existir
             if (typeof window.inicializarSlide === 'function') window.inicializarSlide();                                        // Inicializa slide se existir

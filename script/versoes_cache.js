@@ -12,13 +12,13 @@
     'use strict';                                                                      // Habilita o modo restrito do JavaScript para evitar más práticas 
 
     // Este bloco cria o objeto principal que servirá de cache (memória temporária).
-    const cache = {                                                                    // Define o objeto 'cache' que guardará os dados enquanto a página estiver aberta.
+    const cache = {
         capitulos: {},                                                                 // Cria um sub-objeto para armazenar os dados dos capítulos já carregados.
         preferencias: {}                                                               // Cria um sub-objeto para armazenar as preferências do usuário.
     };
 
     // Este bloco define as chaves (nomes) usadas para salvar dados no localStorage do navegador.
-    const CHAVES_LOCAL_STORAGE = {                                                     // Define um objeto para centralizar os nomes das chaves, evitando erros de digitação.
+    const CHAVES_LOCAL_STORAGE = {
         VERSAO_BIBLICA: 'versaoBiblicaSelecionada',                                    // Define a chave para a versão da Bíblia selecionada.
         MODO_LEITURA: 'modoLeituraAtivo',                                              // Define a chave para o estado do modo leitura.
         ULTIMO_LIVRO: 'ultimoLivroSelecionado',                                        // Define a chave para o último livro visitado.
@@ -27,24 +27,24 @@
     };
 
     // Este bloco define a função global para armazenar dados de um capítulo no cache.
-    window.cacheCapítulo = function(livro, capitulo, dados) {                          // Define a função que salva um capítulo na memória.
+    window.cacheCapítulo = function(livro, capitulo, dados) {
         const chave = `${livro.toLowerCase()}_${capitulo}`;                            // Cria uma chave única combinando o nome do livro e o número do capítulo.
         cache.capitulos[chave] = dados;                                                // Armazena os dados do capítulo no objeto de cache usando a chave criada.
     };
 
     // Este bloco define a função global para buscar dados de um capítulo no cache.
-    window.obterCapítuloDoCache = function(livro, capitulo) {                          // Define a função que busca um capítulo na memória.
+    window.obterCapítuloDoCache = function(livro, capitulo) {
         const chave = `${livro.toLowerCase()}_${capitulo}`;                            // Cria a mesma chave única para encontrar os dados.
         return cache.capitulos[chave] || null;                                         // Retorna os dados se encontrados; caso contrário, retorna nulo.
     };
 
     // Este bloco define a função global para limpar todo o cache de capítulos.
-    window.limparCacheCapítulos = function() {                                         // Define a função que apaga todos os capítulos da memória.
+    window.limparCacheCapítulos = function() {
         cache.capitulos = {};                                                          // Redefine o objeto de capítulos para um objeto vazio, limpando-o.
     };
 
     // Este bloco define a função global para salvar uma preferência do usuário.
-    window.salvarPreferencia = function(chave, valor) {                                // Define a função que salva uma preferência no navegador e no cache.
+    window.salvarPreferencia = function(chave, valor) {
         try {                                                                          // Inicia um bloco 'try' para lidar com possíveis erros (ex: modo privado).
             localStorage.setItem(chave, JSON.stringify(valor));                        // Salva o valor no localStorage, convertendo-o para uma string JSON.
             cache.preferencias[chave] = valor;                                         // Atualiza também o cache em memória para acesso rápido.
@@ -54,7 +54,7 @@
     };
 
     // Este bloco define a função global para obter uma preferência do usuário.
-    window.obterPreferencia = function(chave, valorPadrao = null) {                    // Define a função que busca uma preferência, com um valor padrão opcional.
+    window.obterPreferencia = function(chave, valorPadrao = null) {
         if (cache.preferencias[chave] !== undefined) {                                 // Verifica primeiro no cache em memória, que é mais rápido.
             return cache.preferencias[chave];                                          // Se encontrar no cache, retorna o valor imediatamente.
         }
@@ -73,7 +73,7 @@
     };
 
     // Este bloco define a função que carrega todas as preferências do localStorage para o cache.
-    window.carregarPreferencias = function() {                                         // Define a função para pré-carregar as preferências na memória.
+    window.carregarPreferencias = function() {
         Object.keys(CHAVES_LOCAL_STORAGE).forEach(chave => {                           // Percorre cada uma das chaves de preferência definidas no início do script.
             const chaveStorage = CHAVES_LOCAL_STORAGE[chave];                          // Pega o nome da chave (ex: 'versaoBiblicaSelecionada').
             cache.preferencias[chaveStorage] = window.obterPreferencia(chaveStorage);  // Usa a função 'obterPreferencia' para carregar e armazenar cada uma no cache.

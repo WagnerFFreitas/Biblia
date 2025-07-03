@@ -1,14 +1,18 @@
-// --- START OF FILE script/ntlh.js ---
+/*===============================================================================*/
+/*                  SCRIPT ESPECÍFICO PARA NTLH (Nova Tradução na Linguagem de Hoje) */
+/*===============================================================================*/
+/*  Este arquivo contém:                                                         */
+/*  - Funções para carregar e exibir versículos da versão NTLH                   */
+/*  - Manipulação de títulos e modo de leitura                                   */
+/*===============================================================================*/
 
-window.BIBLE_VERSION = 'ntlh';
-console.log(`[${window.BIBLE_VERSION}.js] Script carregado. Definindo funções específicas para NTLH.`);
+window.BIBLE_VERSION = 'ntlh';                                                   // Define o identificador da versão
+console.log(`[${window.BIBLE_VERSION}.js] Script carregado. Definindo funções específicas para NTLH.`); // Loga o carregamento do script
 
 // --- Dados Específicos de Contagem de Versículos (NTLH) ---
 // Esta função será chamada por biblia-navegacao.js
 window.getSpecificVerseCount = function(livro, capitulo) {
-    // ***** ATENÇÃO MUITO IMPORTANTE: ESTE OBJETO PRECISA SER PREENCHIDO COM OS DADOS CORRETOS DE CONTAGEM DE VERSÍCULOS PARA A VERSÃO NTLH! *****
-    // ***** OS DADOS ABAIXO SÃO APENAS UM MODELO E PROVAVELMENTE NÃO CORRESPONDEM À NTLH. *****
-    // ***** CERTIFIQUE-SE DE QUE OS NOMES DOS LIVROS ESTEJAM EM PORTUGUÊS E CORRESPONDAM AOS NOMES DOS SEUS ARQUIVOS JSON E ÀS EXPECTATIVAS DO SISTEMA (ex: "genesis", "exodo", "salmos"). *****
+    // Objeto de contagem de versículos por capítulo para cada livro
     const versiculosPorCapitulo = {
         "genesis": { 1: 31, 2: 25, 3: 24, 4: 26, 5: 32, 6: 22, 7: 24, 8: 22, 9: 29, 10: 32, 11: 32, 12: 20, 13: 18, 14: 24, 15: 21, 16: 16, 17: 27, 18: 33, 19: 38, 20: 18, 21: 34, 22: 24, 23: 20, 24: 67, 25: 34, 26: 35, 27: 46, 28: 22, 29: 35, 30: 43, 31: 55, 32: 32, 33: 20, 34: 31, 35: 29, 36: 43, 37: 36, 38: 30, 39: 23, 40: 23, 41: 57, 42: 38, 43: 34, 44: 34, 45: 28, 46: 34, 47: 31, 48: 22, 49: 33, 50: 26 },
         "exodo": { 1: 22, 2: 25, 3: 22, 4: 31, 5: 23, 6: 30, 7: 25, 8: 32, 9: 35, 10: 29, 11: 10, 12: 37, 13: 22, 14: 31, 15: 27, 16: 36, 17: 16, 18: 27, 19: 29, 20: 26, 21: 36, 22: 31, 23: 33, 24: 18 }, // Exemplo, verificar contagem NTLH
@@ -76,43 +80,39 @@ window.getSpecificVerseCount = function(livro, capitulo) {
         "3joao": { 1: 15 }, // NTLH 3 João geralmente tem 15 versículos.
         "judas": { 1: 25 },
         "apocalipse": { 1: 20, 2: 29, 3: 22, 4: 11, 5: 14, 6: 17, 7: 17, 8: 13, 9: 21, 10: 11, 11: 19, 12: 17, 13: 18, 14: 20, 15: 8, 16: 21, 17: 18, 18: 24, 19: 21, 20: 15, 21: 27, 22: 21 }
-        };
-    // ***** FIM DOS DADOS NTLH (VERIFICAR E ATUALIZAR COMPLETAMENTE!) *****
-
+    };
+    // Busca a contagem para o livro e capítulo informados
     const contagem = versiculosPorCapitulo[livro]?.[capitulo];
     if (typeof contagem === 'undefined') {
-        console.warn(`[NTLH] Contagem de versículos não encontrada para ${livro} ${capitulo}. POR FAVOR, VERIFIQUE OS DADOS NO ARQUIVO ntlh.js!`);
+        console.warn(`[NTLH] Contagem de versículos não encontrada para ${livro} ${capitulo}. POR FAVOR, VERIFIQUE OS DADOS NO ARQUIVO ntlh.js!`); // Loga se não encontrar
         return 0;
     }
-    return contagem;
+    return contagem; // Retorna a contagem encontrada
 };
 
 // --- Função Específica para Carregar Versículo (NTLH - JSON) ---
 // Esta função será chamada por biblia-navegacao.js
 window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
-    console.log(`[NTLH] Carregando: ${livro} ${capitulo}:${versiculo}`);
-    const content = document.querySelector('.content');
+    console.log(`[NTLH] Carregando: ${livro} ${capitulo}:${versiculo}`);         // Loga o carregamento do versículo
+    const content = document.querySelector('.content');                          // Seleciona o container principal
     if (!content) {
-        console.error("[NTLH] Elemento .content não encontrado.");
+        console.error("[NTLH] Elemento .content não encontrado.");              // Loga erro se não encontrar o container
         return;
     }
 
-    const existingVersiculoDiv = content.querySelector('.versiculo-texto');
+    const existingVersiculoDiv = content.querySelector('.versiculo-texto');      // Remove versículo anterior, se houver
     if (existingVersiculoDiv) {
         existingVersiculoDiv.remove();
     }
 
-    const versiculoElementDiv = document.createElement('div');
+    const versiculoElementDiv = document.createElement('div');                   // Cria div para o versículo
     versiculoElementDiv.classList.add('versiculo', 'versiculo-texto');
-    
     if (document.body.classList.contains('module-leitura')) {
-        versiculoElementDiv.classList.add('modo-leitura');
+        versiculoElementDiv.classList.add('modo-leitura');                       // Adiciona classe se modo leitura estiver ativo
     }
 
     try {
-        // Caminho específico para NTLH JSON
-        // Certifique-se de que os nomes dos livros passados aqui (ex: "genesis") correspondam aos nomes dos seus arquivos JSON.
-        const response = await fetch(`../version/ntlh/${livro}/${capitulo}.json`);
+        const response = await fetch(`../version/ntlh/${livro}/${capitulo}.json`); // Caminho para o JSON do capítulo
         if (!response.ok) {
             throw new Error(`HTTP ${response.status} ao buscar JSON para ${livro} ${capitulo} (NTLH)`);
         }
@@ -127,7 +127,7 @@ window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
         
         const textoDoVersiculo = data.versiculos[versiculo];
 
-        // NTLH frequentemente usa títulos por seções/versículos.
+        // Adiciona título do versículo (se houver)
         if (data.titulos && data.titulos[versiculo] && typeof data.titulos[versiculo] === 'string' && data.titulos[versiculo].trim() !== '') {
             const tituloInternoH3 = document.createElement('h3');
             tituloInternoH3.classList.add('titulo-versiculo-interno');
@@ -148,7 +148,7 @@ window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
         versiculoElementDiv.appendChild(textoP);
     }
 
-    content.appendChild(versiculoElementDiv);
+    content.appendChild(versiculoElementDiv);                                    // Adiciona o versículo ao container
 
     if (window.titulo) {
         window.titulo.textContent = `${livro.toUpperCase()} - CAPÍTULO ${capitulo} - VERSÍCULO ${versiculo} (NTLH)`;
@@ -157,6 +157,6 @@ window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
     }
 };
 
-window.isReadingModeEnabled = false;
+window.isReadingModeEnabled = false;                                             // Controle do modo de leitura (padrão)
 
 // --- FIM DO SCRIPT ntlh.js ---

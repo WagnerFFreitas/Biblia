@@ -9,7 +9,7 @@
 export class VersiculosManager {                                                               // Exporta a classe para ser usada em outros arquivos do projeto.
     constructor() {                                                                            // Define o método construtor, executado ao criar um novo objeto da classe.
         this.versiculoAtivo = null;                                                            // Inicia a variável que guardará o número do versículo ativo como nula.
-    }                                                                                          // Finaliza o bloco do construtor.
+    }
 
     // Este bloco define o método assíncrono para carregar e exibir um versículo específico.
     async carregarVersiculo(livro, capitulo, versiculo) {
@@ -27,7 +27,7 @@ export class VersiculosManager {                                                
             const titulo = areaConteudo.querySelector('h2');                                   // Busca o elemento <h2> (título) dentro da área de conteúdo.
             if (titulo) {                                                                      // Verifica se o elemento de título foi encontrado.
                 titulo.textContent = `${this._getNomeLivro(livro)} ${capitulo}:${versiculo}`;  // Define o texto do título com o nome completo do livro, capítulo e versículo.
-            }                                                                                  // Finaliza a verificação do título.
+            }
 
             // Este bloco exibe o texto do versículo na área de conteúdo designada.
             const container = areaConteudo.querySelector('.conteudo-versiculos') ||            // Busca o container de versículos; se não existir...
@@ -47,8 +47,8 @@ export class VersiculosManager {                                                
 
         } catch (erro) {                                                                       // Captura qualquer erro que tenha ocorrido no bloco 'try'.
             console.error('Erro ao carregar versículo:', erro);                                // Exibe o erro no console do navegador para ajudar na depuração.
-        }                                                                                      // Finaliza o bloco try-catch.
-    }                                                                                          // Finaliza o método carregarVersiculo.
+        }
+    }
 
     // Este bloco define a função que cria os botões de navegação para cada versículo de um capítulo.
     criarBotoesVersiculos(livro, capitulo, totalVersiculos) {
@@ -63,10 +63,10 @@ export class VersiculosManager {                                                
             botao.textContent = i;                                                             // Define o texto visível do botão como o número do versículo (i).
             botao.addEventListener('click', () => {                                            // Adiciona um "ouvinte" que espera por um clique no botão.
                 this.carregarVersiculo(livro, capitulo, i);                                    // Define a ação a ser executada ao clicar: carregar o respectivo versículo.
-            });                                                                                // Finaliza a definição do ouvinte de clique.
+            });
 
             container.appendChild(botao);                                                      // Adiciona o botão recém-criado dentro do container de botões.
-        }                                                                                      // Finaliza o laço de repetição.
+        }
 
         return container;                                                                      // Retorna o container com todos os botões de versículo criados.
     }                                                                                          
@@ -77,16 +77,16 @@ export class VersiculosManager {                                                
         container.className = 'conteudo-versiculos';                                           // Define a classe CSS do novo container.
         areaConteudo.appendChild(container);                                                   // Adiciona o novo container à área de conteúdo principal da página.
         return container;                                                                      // Retorna o container que foi criado e adicionado à página.
-    }                                                                                          // Finaliza o método _criarContainerVersiculos.
+    }
 
     // Este bloco define uma função interna para atualizar o estilo dos botões.
     _atualizarBotoesVersiculos(container, versiculoAtivo) {
         container.querySelectorAll('.botao-versiculo').forEach(botao => {                      // Busca todos os botões de versículo e executa uma ação para cada um.
             botao.classList.toggle('active',                                                   // Adiciona ou remove a classe 'active' do botão.
                 parseInt(botao.dataset.versiculo) === versiculoAtivo                           // A classe é adicionada se o número do botão for igual ao versículo ativo.
-            );                                                                                 // Finaliza a operação de adicionar/remover classe.
-        });                                                                                    // Finaliza a repetição sobre cada botão.
-    }                                                                                          // Finaliza o método _atualizarBotoesVersiculos.
+            );
+        });
+    }
 
     // Este bloco define uma função interna para traduzir a abreviação do livro para o nome completo.
     _getNomeLivro(livro) {
@@ -163,7 +163,7 @@ export class VersiculosManager {                                                
         };
         
         return nomes[livro] || livro;                                                          // Retorna o nome completo correspondente; se não encontrar, retorna a própria abreviação.
-    }                                                                                          // Finaliza o método _getNomeLivro.
-}                                                                                              // Finaliza a definição da classe VersiculosManager.
+    }
+}
 
 export const versiculosManager = new VersiculosManager();                                      // Cria e exporta uma única instância do gerenciador de versículos.

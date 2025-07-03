@@ -62,7 +62,7 @@ function loadSobre() {
 }
 
 // Este bloco define a função que oculta o conteúdo da seção "Sobre" com uma animação.
-function hideSobre() {                                                                         // Define a função que oculta a seção "Sobre".
+function hideSobre() {
     const content = document.querySelector('.conteudo');                                       // Busca o container principal da página.
     const sobreContent = content.querySelector('.sobre-content');                              // Busca o container específico da seção "Sobre".
     
