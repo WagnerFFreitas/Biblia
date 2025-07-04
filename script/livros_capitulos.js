@@ -1,25 +1,12 @@
-/**
- * livros_capitulos.js
- * Este arquivo contém a estrutura de dados que mapeia todos os livros da Bíblia
- * e seus respectivos capítulos e versículos. É usado como uma referência central
- * para validação e navegação em todas as versões da Bíblia.
- */
+/*===============================================================================*/
+/*                    SCRIPT DE ESTRUTURA DE LIVROS E CAPÍTULOS                  */
+/*===============================================================================*/
+/*  Este arquivo contém:                                                         */
+/*                    - Estrutura de dados que mapeia todos os livros da Bíblia  */
+/*                    - Contagem de versículos para validação e navegação        */
+/*===============================================================================*/
 
-/**
- * Objeto global que contém a contagem de versículos para cada capítulo de cada livro da Bíblia.
- * Estrutura: 
- * {
- *   "nome_do_livro": {
- *     numero_do_capitulo: quantidade_de_versiculos
- *   }
- * }
- * 
- * Por exemplo:
- * "genesis": { 
- *   1: 31,  // Gênesis capítulo 1 tem 31 versículos
- *   2: 25   // Gênesis capítulo 2 tem 25 versículos
- * }
- */
+// Este bloco define o objeto global que contém a contagem de versículos para cada capítulo de cada livro da Bíblia (ex: "genesis": { 1: 31, 2: 25 })
 window.versiculosPorCapitulo = {
     // Pentateuco (Torah)
     "genesis": { 1: 31, 2: 25, 3: 24, 4: 26, 5: 32, 6: 22, 7: 24, 8: 22, 9: 29, 10: 32, 11: 32, 12: 20, 13: 18, 14: 24, 15: 21, 16: 16, 17: 27, 18: 33, 19: 38, 20: 18, 21: 34, 22: 24, 23: 20, 24: 67, 25: 34, 26: 35, 27: 46, 28: 22, 29: 35, 30: 43, 31: 55, 32: 32, 33: 20, 34: 31, 35: 29, 36: 43, 37: 36, 38: 30, 39: 23, 40: 23, 41: 57, 42: 38, 43: 34, 44: 34, 45: 28, 46: 34, 47: 31, 48: 22, 49: 33, 50: 26 },
@@ -55,7 +42,7 @@ window.versiculosPorCapitulo = {
     "lamentacoes": { 1: 22, 2: 22, 3: 66, 4: 22, 5: 22 },
     "ezequiel": { 1: 28, 2: 10, 3: 27, 4: 17, 5: 17, 6: 14, 7: 27, 8: 18, 9: 11, 10: 22, 11: 25, 12: 28, 13: 23, 14: 23, 15: 8, 16: 63, 17: 24, 18: 32, 19: 14, 20: 49, 21: 32, 22: 31, 23: 49, 24: 27, 25: 17, 26: 21, 27: 36, 28: 26, 29: 21, 30: 26, 31: 18, 32: 32, 33: 33, 34: 31, 35: 15, 36: 38, 37: 28, 38: 23, 39: 29, 40: 49, 41: 26, 42: 20, 43: 27, 44: 31, 45: 25, 46: 24, 47: 23, 48: 35 },
     "daniel": { 1: 21, 2: 49, 3: 30, 4: 37, 5: 31, 6: 28, 7: 28, 8: 27, 9: 27, 10: 21, 11: 45, 12: 13 },
-    "oseias": { 1: 11, 2: 23, 3: 5, 4: 19, 5: 15, 6: 11, 7: 16, 8: 14, 9: 17, 10: 15, 11: 12, 12: 14, 13: 16, 14: 9 },
+    "oseias": { 1: 11, 2: 23, 3: 5, 4: 19, 5: 15, 6: 11, 7: 16, 8: 14, 9: 17, 10: 15, 11: 12, 12: 14, 13: 9 },
     "joel": { 1: 20, 2: 32, 3: 21 },
     "amos": { 1: 15, 2: 16, 3: 15, 4: 13, 5: 27, 6: 14, 7: 17, 8: 14, 9: 15 },
     "obadias": { 1: 21 },
@@ -106,13 +93,7 @@ window.versiculosPorCapitulo = {
     "apocalipse": { 1: 20, 2: 29, 3: 22, 4: 11, 5: 14, 6: 17, 7: 17, 8: 13, 9: 21, 10: 11, 11: 19, 12: 17, 13: 18, 14: 20, 15: 8, 16: 21, 17: 18, 18: 24, 19: 21, 20: 15, 21: 27, 22: 21 }
 };
 
-/**
- * Função que retorna a quantidade de versículos em um determinado capítulo de um livro.
- * @param {string} livro - Nome do livro bíblico (em minúsculas, sem acentos)
- * @param {number} capitulo - Número do capítulo
- * @returns {number} - Quantidade de versículos no capítulo especificado
- *                    Retorna 0 se o livro ou capítulo não existir
- */
+// Este bloco define a função que retorna a quantidade de versículos em um determinado capítulo de um livro (retorna 0 se não existir)
 window.getVerseCount = function(livro, capitulo) {
     const contagem = window.versiculosPorCapitulo[livro]?.[capitulo];
     if (typeof contagem === 'undefined') {
@@ -121,5 +102,3 @@ window.getVerseCount = function(livro, capitulo) {
     }
     return contagem;
 };
-
-// --- FIM DO SCRIPT livros_capitulos.js ---

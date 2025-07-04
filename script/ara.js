@@ -1,141 +1,102 @@
-//*===============================================================================*/
-/*                                                           */
 /*===============================================================================*/
-/*  :                                            */
-/*                                   -   */
-/*                                   -               */
+/*            SCRIPT ESPECÍFICO PARA ARA (Almeida Revista e Atualizada)          */
+/*===============================================================================*/
+/*  Este arquivo contém:                                                         */
+/*                    - Funções para carregar e exibir versículos da versão ARA  */
+/*                    - Manipulação de títulos e modo de leitura                 */
 /*===============================================================================*/
 
-/**
- * Arquivo: ara.js
- * Descrição: Script específico para a versão ARA (Almeida Revisada e Atualizada) da Bíblia
- * Este arquivo contém as funções necessárias para carregar e exibir versículos da versão ARA,
- * incluindo manipulação de títulos e controle do modo de leitura.
- */
+// Este bloco definição da versão da Bíblia para este script
+window.BIBLE_VERSION                   = 'ara';                                                              // Define o identificador da versão
+window.NOME_VERSAO_COMPLETA_BIBLIA     = 'Almeida Revista e Atualizada';                                     // Nome completo da versão
+console.log(`[${window.BIBLE_VERSION}.js] Script carregado. Definindo funções específicas para ARA.`);       // Loga o carregamento do script
 
-// Definição da versão da Bíblia para este script
-window.BIBLE_VERSION = 'ara';
-window.NOME_VERSAO_COMPLETA_BIBLIA = 'Almeida Revista e Atualizada';
-console.log(`[${window.BIBLE_VERSION}.js] Script carregado. Definindo funções específicas para ARA.`);
-
-/**
- * Obtém a contagem de versículos para um determinado livro e capítulo
- * @param {string} livro - Nome do livro bíblico
- * @param {number} capitulo - Número do capítulo
- * @returns {number} - Quantidade de versículos no capítulo
- */
+// Este bloco cria a função que será chamada por livros_capitulos.js. Obtém a contagem de versículos para um determinado livro e capítulo.
 window.getSpecificVerseCount = function(livro, capitulo) {
-    // Presume-se que window.getVerseCount já está definido globalmente por livros_capitulos.js
-    return window.getVerseCount(livro, capitulo);
+    return window.getVerseCount(livro, capitulo);                                                            // Chama a função global para obter a contagem
 };
 
-/**
- * Carrega e exibe um versículo específico da Bíblia ARA
- * @param {string} livro - Nome do livro bíblico (chave, ex: "genesis")
- * @param {number} capitulo - Número do capítulo
- * @param {number} versiculo - Número do versículo
- */
+// Este bloco carrega e exibe um versículo específico da Bíblia ARA.
 window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
-    console.log(`[ARA] Carregando: ${livro} ${capitulo}:${versiculo}`);
-    
-    const content = document.querySelector('.conteudo');
-    // let tituloH2 = document.querySelector('.content h2'); // Não é mais usado diretamente aqui
-    
-    if (!content) {
-        console.error("[ARA] Elemento .conteudo não encontrado.");
-        return;
+    console.log(`[ARA] Carregando: ${livro} ${capitulo}:${versiculo}`);                                      // Loga o carregamento do versículo
+    const content = document.querySelector('.conteudo');                                                     // Seleciona o container principal
+    if (!content) {                                                                                          // Verifica se o container principal existe
+        console.error("[ARA] Elemento .conteudo não encontrado.");                                           // Loga erro se não encontrar o container
+        return;                                                                                              // Interrompe a função se o container não existir
     }
 
-    const existingVersiculoDiv = content.querySelector('.texto-versiculo');
-    if (existingVersiculoDiv) {
-        existingVersiculoDiv.remove();
+    const existingVersiculoDiv = content.querySelector('.texto-versiculo');                                  // Busca o versículo anterior exibido
+    if (existingVersiculoDiv) {                                                                              // Remove o versículo anterior, se existir
+        existingVersiculoDiv.remove();                                                                       // Remove da tela
     }
 
-    const versiculoElementDiv = document.createElement('div');
-    versiculoElementDiv.classList.add('versiculo', 'texto-versiculo');
-    
-    if (document.body.classList.contains('module-leitura')) {
-        versiculoElementDiv.classList.add('modo-leitura');
+    const versiculoElementDiv = document.createElement('div');                                               // Cria um novo elemento <div> para o versículo
+    versiculoElementDiv.classList.add('versiculo', 'texto-versiculo');                                       // Adiciona classes CSS para estilização
+    if (document.body.classList.contains('module-leitura')) {                                                // Verifica se o modo de leitura está ativo no body
+        versiculoElementDiv.classList.add('modo-leitura');                                                   // Adiciona classe se modo leitura estiver ativo
     }
 
+    // Este bloco inicia um bloco try-catch para lidar com possíveis erros de requisição
     try {
-        const response = await fetch(`../versao/ara/${livro}/${capitulo}.json`);
-        if (!response.ok) {
-            throw new Error(`HTTP ${response.status} ao buscar JSON para ${livro} ${capitulo}`);
+        const response = await fetch(`../versao/ara/${livro}/${capitulo}.json`);                             // Busca o arquivo JSON do capítulo
+        if (!response.ok) {                                                                                  // Verifica se a requisição HTTP foi bem-sucedida
+            throw new Error(`HTTP ${response.status} ao buscar JSON para ${livro} ${capitulo}`);             // Lança um erro se a resposta não for 'ok'
         }
-        const data = await response.json();
+        const data = await response.json();                                                                  // Converte a resposta em formato JSON
 
-        if (data.versiculos && data.versiculos[versiculo]) {
-            if (data.titulos && data.titulos[versiculo]) {
-                const tituloInternoH3 = document.createElement('h3');
-                tituloInternoH3.classList.add('titulo-versiculo-interno');
-                tituloInternoH3.textContent = data.titulos[versiculo];
-                versiculoElementDiv.appendChild(tituloInternoH3);
+        if (data.versiculos && data.versiculos[versiculo]) {                                                 // Verifica se o versículo existe nos dados carregados
+            if (data.titulos && data.titulos[versiculo]) {                                                   // Verifica se existe título para o versículo
+                const tituloInternoH3 = document.createElement('h3');                                        // Cria elemento para o título interno
+                tituloInternoH3.classList.add('titulo-versiculo-interno');                                   // Adiciona classe ao título
+                tituloInternoH3.textContent = data.titulos[versiculo];                                       // Define o texto do título
+                versiculoElementDiv.appendChild(tituloInternoH3);                                            // Adiciona o título à div do versículo
             }
 
-            const textoP = document.createElement('p');
-            textoP.id = `versiculo-${versiculo}`;
-            textoP.textContent = data.versiculos[versiculo];
-            versiculoElementDiv.appendChild(textoP);
-
-        } else {
-            const textoP = document.createElement('p');
-            textoP.textContent = `Versículo ${versiculo} não encontrado nos dados.`;
-            versiculoElementDiv.appendChild(textoP);
+            const textoP = document.createElement('p');                                                      // Cria elemento <p> para o texto do versículo
+            textoP.id = `versiculo-${versiculo}`;                                                            // Define o id do <p>
+            textoP.textContent = data.versiculos[versiculo];                                                 // Define o texto do versículo
+            versiculoElementDiv.appendChild(textoP);                                                         // Adiciona o <p> à div do versículo
+        } else {                                                                                             // Caso o versículo não seja encontrado nos dados
+            const textoP = document.createElement('p');                                                      // Cria elemento <p> para mensagem de erro
+            textoP.textContent = `Versículo ${versiculo} não encontrado nos dados.`;                         // Define mensagem de erro
+            versiculoElementDiv.appendChild(textoP);                                                         // Adiciona o <p> à div do versículo
             console.warn(`[ARA] Versículo ${versiculo} não encontrado nos dados de ${livro} ${capitulo}.json`);
         }
-    } catch (error) {
-        console.error(`[ARA] Erro ao carregar versículo ${livro} ${capitulo}:${versiculo}:`, error);
-        const textoP = document.createElement('p');
-        textoP.textContent = `Erro ao carregar versículo ${versiculo}.`;
-        textoP.style.color = "red";
-        versiculoElementDiv.appendChild(textoP);
+    } catch (error) {                                                                                        // Captura erros que possam ocorrer no bloco try
+        console.error(`[ARA] Erro ao carregar versículo ${livro} ${capitulo}:${versiculo}:`, error);         // Loga erro
+        const textoP = document.createElement('p');                                                          // Cria elemento <p> para mensagem de erro
+        textoP.textContent = `Erro ao carregar versículo ${versiculo}.`;                                     // Define mensagem de erro
+        textoP.style.color = "red";                                                                          // Define cor vermelha para o texto
+        versiculoElementDiv.appendChild(textoP);                                                             // Adiciona o <p> à div do versículo
     }
 
-    content.appendChild(versiculoElementDiv);
+    content.appendChild(versiculoElementDiv);                                                                // Adiciona o versículo ao container
 
-    // Atualiza o título principal da página
-    if (window.titulo) {
-        // MODIFICAÇÃO AQUI:
-        let nomeLivroDisplay = livro.toUpperCase(); // Fallback
-        if (typeof window.getLivroDisplayName === 'function') {
-            nomeLivroDisplay = window.getLivroDisplayName(livro); // Usa a função para obter nome acentuado
-        } else {
+    if (window.titulo) {                                                                                     // Verifica se o elemento do título principal existe
+        let nomeLivroDisplay = livro.toUpperCase();                                                          // Define nome do livro em maiúsculas como fallback
+        if (typeof window.getLivroDisplayName === 'function') {                                              // Verifica se a função para obter o nome formatado do livro existe
+            nomeLivroDisplay = window.getLivroDisplayName(livro);                                            // Usa a função para obter nome acentuado
+        } else {                                                                                             // Caso a função não exista
             console.warn("[ARA] Função window.getLivroDisplayName não encontrada. Usando chave do livro em maiúsculas para o título.");
         }
-        window.titulo.textContent = `${nomeLivroDisplay} - CAPÍTULO ${capitulo} - VERSÍCULO ${versiculo}`;
-    } else {
+        window.titulo.textContent = `${nomeLivroDisplay} - CAPÍTULO ${capitulo} - VERSÍCULO ${versiculo}`;   // Atualiza o texto do título da página
+    } else {                                                                                                 // Caso o elemento do título não seja encontrado
         console.warn(`[ARA] Elemento H2 principal (window.titulo) não encontrado para atualizar.`);
     }
 };
 
-/**
- * Obtém o título de um capítulo específico
- * @param {string} livro - Nome do livro bíblico
- * @param {number} capitulo - Número do capítulo
- * @param {number} versiculo - Número do versículo
- * @returns {string|null} - Título do capítulo ou null se não encontrado
- */
+// Este bloco define a função para obter o título de uma seção.
 window.getSpecificChapterTitle = async function(livro, capitulo, versiculo) {
-    // Nota: esta função retorna títulos INTERNOS de seções, não o título principal da página.
-    // O parâmetro `versiculo` aqui é usado para buscar `data.titulos[versiculo]`.
-    console.log(`[ARA] Obtendo título interno para: ${livro} ${capitulo}:${versiculo}`);
-    try {
-        const response = await fetch(`../versao/ara/${livro}/${capitulo}.json`);
-        if (!response.ok) {
+    console.log(`[ARA] Obtendo título interno para: ${livro} ${capitulo}:${versiculo}`);                     // Loga a busca do título
+    try {                                                                                                    // Inicia um bloco try-catch para lidar com erros
+        const response = await fetch(`../versao/ara/${livro}/${capitulo}.json`);                             // Busca o arquivo JSON do capítulo
+        if (!response.ok) {                                                                                  // Verifica se a requisição foi bem-sucedida
             throw new Error(`HTTP ${response.status} ao buscar JSON para ${livro} ${capitulo}`);
         }
-        const data = await response.json();
-        // A lógica original aqui parece correta para títulos internos de versículo/seção
-        return data.titulos && data.titulos[versiculo] ? data.titulos[versiculo] : null;
-    } catch (error) {
-        console.error(`[ARA] Erro ao obter título interno para ${livro} ${capitulo}:${versiculo}:`, error);
-        return null;
+        const data = await response.json();                                                                  // Converte a resposta para JSON
+        return data.titulos && data.titulos[versiculo] ? data.titulos[versiculo] : null;                     // Retorna o título se existir, caso contrário retorna null
+    } catch (error) {                                                                                        // Captura erros que possam ocorrer
+        console.error(`[ARA] Erro ao obter título interno para ${livro} ${capitulo}:${versiculo}:`, error);  // Loga erro
+        return null;                                                                                             // Retorna null em caso de erro
     }
 };
-
-// Controle do modo de leitura (mantido como estava, pois não é o foco do problema)
-// window.isReadingModeEnabled = false; // Se esta linha estava aqui, pode ser redundante se versoes.js já define.
-// Normalmente, o estado do modo de leitura é gerenciado centralmente por versoes.js.
-
-// --- FIM DO SCRIPT ara.js ---

@@ -1,143 +1,102 @@
 /*===============================================================================*/
-/*                                                           */
+/*            SCRIPT ESPECÍFICO PARA KJV (King James Version)                    */
 /*===============================================================================*/
-/*  :                                            */
-/*                                   -   */
-/*                                   -               */
+/*  Este arquivo contém:                                                         */
+/*                    - Funções para carregar e exibir versículos da versão KJV  */
+/*                    - Manipulação de títulos e modo de leitura                 */
 /*===============================================================================*/
 
-/**
- * Arquivo: kjv.js
- * Descrição: Script específico para a versão KJV (King James Version) da Bíblia
- * Este arquivo contém as funções necessárias para carregar e exibir versículos da versão KJV,
- * incluindo manipulação de títulos e controle do modo de leitura.
- */
+// Este bloco definição da versão da Bíblia para este script
+window.BIBLE_VERSION                   = 'kjv';                                                              // Define o identificador da versão
+window.NOME_VERSAO_COMPLETA_BIBLIA     = 'Versão King James';                                                // Nome completo da versão
+console.log(`[${window.BIBLE_VERSION}.js] Script carregado. Definindo funções específicas para KJV.`);       // Loga o carregamento do script
 
-// Definição da versão da Bíblia para este script
-window.BIBLE_VERSION = 'kjv';
-window.NOME_VERSAO_COMPLETA_BIBLIA = 'Versão King James';
-console.log(`[${window.BIBLE_VERSION}.js] Script carregado. Definindo funções específicas para KJV.`);
-
-/**
- * Obtém a contagem de versículos para um determinado livro e capítulo
- * @param {string} livro - Nome do livro bíblico (chave, ex: "genesis")
- * @param {number} capitulo - Número do capítulo
- * @returns {number} - Quantidade de versículos no capítulo
- */
+// Este bloco cria a função que será chamada por livros_capitulos.js. Obtém a contagem de versículos para um determinado livro e capítulo.
 window.getSpecificVerseCount = function(livro, capitulo) {
-    // Presume-se que window.getVerseCount já está definido globalmente por livros_capitulos.js
-    return window.getVerseCount(livro, capitulo);
+    return window.getVerseCount(livro, capitulo);                                                            // Chama a função global para obter a contagem
 };
 
-/**
- * Carrega e exibe um versículo específico da Bíblia KJV
- * @param {string} livro - Nome do livro bíblico (chave, ex: "genesis")
- * @param {number} capitulo - Número do capítulo
- * @param {number} versiculo - Número do versículo
- */
+// Este bloco carrega e exibe um versículo específico da Bíblia KJV.
 window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
-    console.log(`[KJV] Carregando: ${livro} ${capitulo}:${versiculo}`);
-    
-    const content = document.querySelector('.content');
-    
-    if (!content) {
-        console.error("[KJV] Elemento .content não encontrado.");
-        return;
+    console.log(`[KJV] Carregando: ${livro} ${capitulo}:${versiculo}`);                                      // Loga o carregamento do versículo
+    const content = document.querySelector('.content');                                                      // Seleciona o container principal
+    if (!content) {                                                                                          // Verifica se o container principal existe
+        console.error("[KJV] Elemento .content não encontrado.");                                            // Loga erro se não encontrar o container
+        return;                                                                                              // Interrompe a função se o container não existir
     }
 
-    const existingVersiculoDiv = content.querySelector('.texto-versiculo');
-    if (existingVersiculoDiv) {
-        existingVersiculoDiv.remove();
+    const existingVersiculoDiv = content.querySelector('.texto-versiculo');                                  // Busca o versículo anterior exibido
+    if (existingVersiculoDiv) {                                                                              // Remove o versículo anterior, se existir
+        existingVersiculoDiv.remove();                                                                       // Remove da tela
     }
 
-    const versiculoElementDiv = document.createElement('div');
-    versiculoElementDiv.classList.add('versiculo', 'texto-versiculo');
-    
-    if (document.body.classList.contains('module-leitura')) {
-        versiculoElementDiv.classList.add('modo-leitura');
+    const versiculoElementDiv = document.createElement('div');                                               // Cria um novo elemento <div> para o versículo
+    versiculoElementDiv.classList.add('versiculo', 'texto-versiculo');                                       // Adiciona classes CSS para estilização
+    if (document.body.classList.contains('module-leitura')) {                                                // Verifica se o modo de leitura está ativo no body
+        versiculoElementDiv.classList.add('modo-leitura');                                                   // Adiciona classe se modo leitura estiver ativo
     }
 
+    // Este bloco inicia um bloco try-catch para lidar com possíveis erros de requisição
     try {
-        const response = await fetch(`../versao/kjv/${livro}/${capitulo}.json`); 
-        if (!response.ok) {
-            throw new Error(`HTTP ${response.status} ao buscar JSON para ${livro} ${capitulo} (KJV)`);
+        const response = await fetch(`../versao/kjv/${livro}/${capitulo}.json`);                             // Busca o arquivo JSON do capítulo
+        if (!response.ok) {                                                                                  // Verifica se a requisição HTTP foi bem-sucedida
+            throw new Error(`HTTP ${response.status} ao buscar JSON para ${livro} ${capitulo} (KJV)`);       // Lança um erro se a resposta não for 'ok'
         }
-        const data = await response.json();
+        const data = await response.json();                                                                  // Converte a resposta em formato JSON
 
-        if (data.versiculos && data.versiculos[versiculo]) {
-            // A KJV tradicional geralmente não tem títulos de seção internos como a ARA.
-            // Se os seus arquivos JSON para KJV incluírem 'titulos', eles serão usados.
-            // Caso contrário, esta seção será ignorada.
-            if (data.titulos && data.titulos[versiculo]) {
-                const tituloInternoH3 = document.createElement('h3');
-                tituloInternoH3.classList.add('titulo-versiculo-interno');
-                tituloInternoH3.textContent = data.titulos[versiculo];
-                versiculoElementDiv.appendChild(tituloInternoH3);
+        if (data.versiculos && data.versiculos[versiculo]) {                                                 // Verifica se o versículo existe nos dados carregados
+            if (data.titulos && data.titulos[versiculo]) {                                                   // Verifica se existe título para o versículo
+                const tituloInternoH3 = document.createElement('h3');                                        // Cria elemento para o título interno
+                tituloInternoH3.classList.add('titulo-versiculo-interno');                                   // Adiciona classe ao título
+                tituloInternoH3.textContent = data.titulos[versiculo];                                       // Define o texto do título
+                versiculoElementDiv.appendChild(tituloInternoH3);                                            // Adiciona o título à div do versículo
             }
 
-            const textoP = document.createElement('p');
-            textoP.id = `versiculo-${versiculo}`;
-            textoP.textContent = data.versiculos[versiculo];
-            versiculoElementDiv.appendChild(textoP);
-
-        } else {
-            const textoP = document.createElement('p');
-            textoP.textContent = `Verse ${versiculo} not found in data.`; // English for KJV context
-            versiculoElementDiv.appendChild(textoP);
+            const textoP = document.createElement('p');                                                      // Cria elemento <p> para o texto do versículo
+            textoP.id = `versiculo-${versiculo}`;                                                            // Define o id do <p>
+            textoP.textContent = data.versiculos[versiculo];                                                 // Define o texto do versículo
+            versiculoElementDiv.appendChild(textoP);                                                         // Adiciona o <p> à div do versículo
+        } else {                                                                                             // Caso o versículo não seja encontrado nos dados
+            const textoP = document.createElement('p');                                                      // Cria elemento <p> para mensagem de erro
+            textoP.textContent = `Verse ${versiculo} not found in data.`;                                    // Define mensagem de erro em inglês
+            versiculoElementDiv.appendChild(textoP);                                                         // Adiciona o <p> à div do versículo
             console.warn(`[KJV] Verse ${versiculo} not found in data for ${livro} ${capitulo}.json (KJV)`);
         }
-    } catch (error) {
-        console.error(`[KJV] Error loading verse ${livro} ${capitulo}:${versiculo} (KJV):`, error);
-        const textoP = document.createElement('p');
-        textoP.textContent = `Error loading verse ${versiculo}.`; // English for KJV context
-        textoP.style.color = "red";
-        versiculoElementDiv.appendChild(textoP);
+    } catch (error) {                                                                                        // Captura erros que possam ocorrer no bloco try
+        console.error(`[KJV] Error loading verse ${livro} ${capitulo}:${versiculo} (KJV):`, error);          // Loga erro
+        const textoP = document.createElement('p');                                                          // Cria elemento <p> para mensagem de erro
+        textoP.textContent = `Error loading verse ${versiculo}.`;                                            // Define mensagem de erro em inglês
+        textoP.style.color = "red";                                                                          // Define cor vermelha para o texto
+        versiculoElementDiv.appendChild(textoP);                                                             // Adiciona o <p> à div do versículo
     }
 
-    content.appendChild(versiculoElementDiv);
+    content.appendChild(versiculoElementDiv);                                                                // Adiciona o versículo ao container
 
-    // Atualiza o título principal da página
-    if (window.titulo) {
-        let nomeLivroDisplay = livro.toUpperCase(); // Fallback
-        if (typeof window.getLivroDisplayName === 'function') {
-            // Assumindo que getLivroDisplayName pode retornar nomes em inglês ou conforme configurado
-            nomeLivroDisplay = window.getLivroDisplayName(livro, 'en'); // Sugerindo 'en' para KJV
-        } else {
+    if (window.titulo) {                                                                                     // Verifica se o elemento do título principal existe
+        let nomeLivroDisplay = livro.toUpperCase();                                                          // Define nome do livro em maiúsculas como fallback
+        if (typeof window.getLivroDisplayName === 'function') {                                              // Verifica se a função para obter o nome formatado do livro existe
+            nomeLivroDisplay = window.getLivroDisplayName(livro, 'en');                                      // Usa a função para obter nome em inglês
+        } else {                                                                                             // Caso a função não exista
             console.warn("[KJV] Função window.getLivroDisplayName não encontrada. Usando chave do livro em maiúsculas para o título.");
         }
-        // Título em inglês para KJV
-        window.titulo.textContent = `${nomeLivroDisplay} - CHAPTER ${capitulo} - VERSE ${versiculo}`;
-    } else {
+        window.titulo.textContent = `${nomeLivroDisplay} - CHAPTER ${capitulo} - VERSE ${versiculo}`;        // Atualiza o texto do título da página em inglês
+    } else {                                                                                                 // Caso o elemento do título não seja encontrado
         console.warn(`[KJV] Main H2 element (window.titulo) not found for update.`);
     }
 };
 
-/**
- * Obtém o título de um capítulo específico (na verdade, título de seção interna associado a um versículo)
- * @param {string} livro - Nome do livro bíblico
- * @param {number} capitulo - Número do capítulo
- * @param {number} versiculo - Número do versículo (usado para buscar data.titulos[versiculo])
- * @returns {string|null} - Título da seção ou null se não encontrado
- */
+// Este bloco define a função para obter o título de uma seção.
 window.getSpecificChapterTitle = async function(livro, capitulo, versiculo) {
-    // Nota: esta função retorna títulos INTERNOS de seções.
-    // A KJV tradicional não os possui, mas se os seus JSONs tiverem, serão retornados.
-    console.log(`[KJV] Getting internal title for: ${livro} ${capitulo}:${versiculo}`);
-    try {
-        const response = await fetch(`../versao/kjv/${livro}/${capitulo}.json`);
-        if (!response.ok) {
+    console.log(`[KJV] Getting internal title for: ${livro} ${capitulo}:${versiculo}`);                      // Loga a busca do título
+    try {                                                                                                    // Inicia um bloco try-catch para lidar com erros
+        const response = await fetch(`../versao/kjv/${livro}/${capitulo}.json`);                             // Busca o arquivo JSON do capítulo
+        if (!response.ok) {                                                                                  // Verifica se a requisição foi bem-sucedida
             throw new Error(`HTTP ${response.status} ao buscar JSON para ${livro} ${capitulo} (KJV)`);
         }
-        const data = await response.json();
-        // A KJV tradicional não tem esses títulos, mas a lógica é mantida caso seus dados os incluam.
-        return data.titulos && data.titulos[versiculo] ? data.titulos[versiculo] : null;
-    } catch (error) {
-        console.error(`[KJV] Error getting internal title for ${livro} ${capitulo}:${versiculo} (KJV):`, error);
-        return null;
+        const data = await response.json();                                                                  // Converte a resposta para JSON
+        return data.titulos && data.titulos[versiculo] ? data.titulos[versiculo] : null;                     // Retorna o título se existir, caso contrário retorna null
+    } catch (error) {                                                                                        // Captura erros que possam ocorrer
+        console.error(`[KJV] Error getting internal title for ${livro} ${capitulo}:${versiculo} (KJV):`, error);// Loga erro
+        return null;                                                                                             // Retorna null em caso de erro
     }
 };
-
-// Controle do modo de leitura (mantido como estava)
-// Normalmente, o estado do modo de leitura é gerenciado centralmente por um script comum.
-
-// --- FIM DO SCRIPT kjv.js ---
