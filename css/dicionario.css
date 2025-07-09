@@ -1,81 +1,191 @@
 /*======================================================*/
-/*                ESTILOS DO DICIONÁRIO                */
-/*  Estilos para busca, destaques, verbetes e refs.     */
+/*                ESTILOS DO DICIONÁRIO                 */
 /*======================================================*/
 
-/*======================================================*/
-/*                BARRA DE BUSCA                        */
-/*======================================================*/
-.dictionary-search-bar-top {
-    display: flex; /* Layout flexível */
-    justify-content: flex-end; /* Alinha à direita */
-    padding: 10px; /* Espaço interno */
-    margin-bottom: 15px; /* Espaço inferior */
-    background-color: rgba(28, 28, 28, 0.95); /* Fundo escuro translúcido */
-    border-radius: 6px; /* Bordas arredondadas */
-    border: 1px solid #3a3a3a; /* Borda escura */
+body {
+    background-color: #121212;
+    color: #b0b0b0;
+    margin: 0;
+    font-weight: bold;
+    font-style: italic;
+    font-family: sans-serif;    
 }
 
+header {
+    background-color: rgba(30, 30, 30, 0.3);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+/* --- REGRAS PARA O CABEÇALHO FIXO (STICKY) DO DICIONÁRIO --- */
+
+.dictionary-view-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background-color: #121212;
+    padding-top: 15px;
+    padding-bottom: 25px;
+    box-sizing: border-box;
+    overflow: hidden; 
+}
+
+/* Barra de busca */
+.dictionary-search-bar-top {
+    display: flex;
+}
+
+#dictionary-results-container {
+    /* Não precisa de espaçamento, o cabeçalho já cuida disso */
+}
+
+/* Contêiner da letra */
+.letter-highlight-bar {
+    position: relative;
+    background: none;
+    margin: 0;
+    padding-bottom: 10px; 
+}
+
+.letter-highlight-bar::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 2px;
+    background-color: rgba(255, 255, 255, 0.9);
+    width: 100vw; 
+}
+
+/* Estilos de input e botão */
 .search-input-dict {
-    padding: 8px 12px; /* Espaço interno */
-    background-color: #2b2b2b; /* Fundo escuro */
-    color: #ccc; /* Texto claro */
-    border: 1px solid #444; /* Borda escura */
-    border-radius: 3px 0 0 3px; /* Bordas arredondadas à esquerda */
-    width: 250px; /* Largura */
+    padding: 8px 12px;
+    background-color: #2b2b2b;
+    color: #ccc;
+    border: 1px solid #444;
+    border-radius: 3px 0 0 3px;
+    width: 250px;
 }
 
 .search-btn-dict {
-    padding: 8px 15px; /* Espaço interno */
-    background-color: #d4ac0d; /* Fundo dourado */
-    color: #121212; /* Texto escuro */
-    border: 1px solid #d4ac0d; /* Borda dourada */
-    border-left: none; /* Sem borda à esquerda */
-    border-radius: 0 3px 3px 0; /* Bordas arredondadas à direita */
-    cursor: pointer; /* Cursor pointer */
+    padding: 8px 15px;
+    background-color: #d4ac0d;
+    color: #121212;
+    border: 1px solid #d4ac0d;
+    border-left: none;
+    border-radius: 0 3px 3px 0;
+    cursor: pointer;
 }
 
-/*======================================================*/
-/*                DESTAQUE DA LETRA                     */
-/*======================================================*/
-.letter-highlight-bar {
-    background-color: #220bf0; /* Fundo azul */
-    color: white; /* Texto branco */
-    padding: 10px 20px; /* Espaço interno */
-    margin-bottom: 20px; /* Espaço inferior */
-    border-radius: 4px; /* Bordas arredondadas */
-    font-weight: bold; /* Negrito */
+/* Estilos da letra em destaque */
+.highlighted-letter {
+    font-size: 4rem;
+    color: #ffd700;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 8px #000a, 0 0 2px #fff4;
+    display: inline-block;
+    border: none;
+    background: none;
+    line-height: 1;
 }
 
-/*======================================================*/
-/*                VERBETE                               */
-/*======================================================*/
-.verbete {
-    background-color: #1c1c1c; /* Fundo escuro */
-    padding: 15px 20px; /* Espaço interno */
-    margin-bottom: 15px; /* Espaço inferior */
-    border-radius: 5px; /* Bordas arredondadas */
-    border: 1px solid #2a2a2a; /* Borda escura */
+.highlighted-letter-small {
+    font-size: 2rem;
+    color: #ffd700;
+    opacity: 0.8;
+    margin-left: 4px;
+    margin-bottom: 6px;
+    line-height: 1;
 }
 
+/* Media query */
+@media (max-width: 768px) {
+    .highlighted-letter {
+        font-size: 3rem;
+    }
+    .highlighted-letter-small {
+        font-size: 1.5rem;
+    }
+}
+
+/* ------------------------------------------------------------- */
+/*             ESTILOS PARA VERBETES E RESULTADOS                */
+/* ------------------------------------------------------------- */
+
+/* ESTILO PADRÃO (Listagem por letra) */
 .verbete h3 {
-    color: #d4ac0d; /* Título dourado */
-    font-size: 1.4em; /* Tamanho da fonte */
-    border-bottom: 1px solid #383838; /* Linha inferior */
-    padding-bottom: 8px; /* Espaço abaixo do título */
+    background-color: #220bf0;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    border-bottom: 3px solid #d4ac0d;
+    font-size: 1.8em;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+    border-top: none;
+    border-left: none;
+    border-right: none;
 }
 
-/*======================================================*/
-/*                REFERÊNCIAS                           */
-/*======================================================*/
-.referencias {
-    margin-top: 15px; /* Espaço superior */
-    padding-top: 10px; /* Espaço interno superior */
-    border-top: 1px dashed #383838; /* Linha tracejada */
+.verbete p {
+    color: #d4ac0d; /* Texto da definição em branco por padrão */
+    font-size: 2em;
+    margin-bottom: 15px;
+    text-align: justify;
+    line-height: 1.3;
 }
 
-.ref-list {
-    display: flex; /* Layout flexível */
-    flex-wrap: wrap; /* Quebra de linha */
-    gap: 8px; /* Espaço entre itens */
+.verbete em {
+    color: #ccc;
+    font-size: 1.2em;
+}
+
+.verbete .referenciaDicionario {
+    margin-top: 15px;
+    padding-top: 10px;
+    border-top: 1px dashed #383838;
+    font-size: 2em;
+    color: #fff;
+}
+
+.verbete .referenciaDicionario strong {
+    color: #d4ac0d;
+}
+
+/* NOVO ESTILO (Apenas para resultados da busca) */
+.verbete.resultado-busca {
+    background-color: rgba(0, 0, 0, 0.2); /* Fundo sutil para agrupar */
+    border-left: 4px solid #d4ac0d;
+    padding: 20px;
+    margin-bottom: 25px;
+    border-radius: 8px;
+}
+
+.verbete.resultado-busca h3 {
+    /* Deixa o H3 do resultado mais simples */
+    background-color: #220bf0;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    border-bottom: 3px solid #d4ac0d;
+    font-size: 1.8em;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.verbete.resultado-busca p {
+    /* Texto da definição do resultado fica DOURADO */
+    color: #d4ac0d;
+    font-size: 1.8em; /* Fonte um pouco maior para destaque */
 }

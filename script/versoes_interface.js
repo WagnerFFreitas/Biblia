@@ -9,7 +9,7 @@
 /*===============================================================================*/
 
 // Este bloco define a classe que gerencia os elementos e eventos da interface do usuário.
-export class InterfaceManager {
+class InterfaceManager {
     constructor() {                                                                            // Define o método construtor, executado ao criar uma nova instância da classe.
         this.seletorVersao = document.getElementById('seletor-versao-principal');              // Busca e armazena o elemento do seletor de versão da Bíblia.
         this.botaoModoLeitura = document.getElementById('modo-leitura');                       // Busca e armazena o elemento do botão que ativa o modo leitura.
@@ -63,4 +63,4 @@ export class InterfaceManager {
     }
 }
 
-export const interfaceManager = new InterfaceManager();                                        // Cria e exporta uma única instância da classe para uso global.
+const interfaceManager = new InterfaceManager();                                        // Cria e exporta uma única instância da classe para uso global.

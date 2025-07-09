@@ -9,6 +9,8 @@
     <title>Concordância e Dicionário Bíblico</title>
     <link rel="stylesheet" href="../css/dicionario_concordancia.css">      <!-- Carrega os estilos externos -->
     <link rel="stylesheet" href="../css/concordancia.css">
+    <link rel="stylesheet" href="../css/dicionario.css">      <!-- Carrega os estilos externos -->
+
 </head>
 
 <!------------------------------------------->
@@ -16,15 +18,15 @@
 <!--   ORGANIZADO EM SEÇÕES SEMÂNTICAS     -->
 <!------------------------------------------->
 <body>
-<!-- ========== CABEÇALHO DA PÁGINA ========== -->
+<!-- O Bloco abaixo e o cabeçalho da página -->
 <header>
-    <div class="header-top">
+    <div class="cabeçalho-superior">
         <div class="titulo-container">
             <h1>Concordância e Dicionário Bíblico</h1>
-            <p class="nome-extenso-versao">Localize todas as ocorrências de palavras na Bíblia Sagrada</p>
+            <p class="nome-extenso">Localize todas as ocorrências de palavras na Bíblia Sagrada</p>
         </div>
     </div>
-    <!-- Barra do menu superior com as opções -->
+    <!-- O bloco abaixo e a barra do menu superior com as opções -->
     <nav>
         <span class="titulo-menu">NAVEGAÇÃO</span>
         <ul class="menu-opcoes">
@@ -36,10 +38,9 @@
     </nav>
 </header>
 
-<!-- ========== MENU LATERAL COM LETRAS ========== -->
-<div class="site-content-wrapper">
-    <aside class="alfabeto-sidebar" style="display: none;">
-        <!-- Botões de letras para navegação alfabética -->
+<!-- O bloco abaixo e o menu lateral com a lista das letras -->
+<div class="container">
+    <aside class="menu-alfabetico" style="display: none;">
         <button class="letra-btn" data-letra="A">A</button>
         <button class="letra-btn" data-letra="B">B</button>
         <button class="letra-btn" data-letra="C">C</button>
@@ -73,24 +74,26 @@
         <p>Escolha Concordância ou Dicionário no menu superior.</p>
     </div>
 
-    <main id="mainContent">
+    <main id="conteudoPrincipal">
         <!-- Conteúdo dinâmico (Concordância/Dicionário) será carregado aqui. -->
     </main>
 </div>
 
-<!-- ========== ÁREA DE MARCA D'ÁGUA E TÍTULO ========== -->
-<section class="content">
+<!-- Área de marca d'água e título do capítulo -->
+<section class="conteudo">
     <h2></h2>
-    <div class="marcadagua"></div> 
+    <div class="marcadagua"></div>
 </section>
 
-<!-- ========== RODAPÉ ========== -->
+<!-- O bloco abaixo e rodapé com informações de copyright -->
 <footer>
     <p>© Bíblia Sagrada 2025</p>
 </footer>
 
-<!-- ========== SCRIPTS EXTERNOS ========== -->
+<!-- A linha abaixo carrega o Script externo -->
 <script src="../script/marcadagua.js"></script>
 <script src="../script/dicionario_concordancia.js" type="module"></script>
+<script src="../script/concordancia.js"></script>
+<script src="../script/dicionario.js"></script>
 </body>
 </html>

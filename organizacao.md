@@ -197,19 +197,33 @@ function exibirSlide() {
 - **Comentários de bloco:**  
   - Use blocos de comentários para separar grandes seções do código.
   - Padrão: `/*===============================================================================*/` para delimitar seções principais.
-  - Exemplo:
+  - O cabeçalho do arquivo pode ser centralizado visualmente, com espaçamento extra para melhor estética.
+  - Exemplo de cabeçalho centralizado:
     ```javascript
     /*===============================================================================*/
-    /*                   CONFIGURAÇÃO INICIAL E VARIÁVEIS GLOBAIS                    */
-    /*  Lista que guarda todas as versões da Bíblia disponíveis dentro de um array   */
+    /*                        SCRIPT DE CONCORDÂNCIA BÍBLICA                         */
+    /*===============================================================================*/
+    /*                   - Funções para carregar e exibir resultados da concordância */
+    /*                   - Filtros por testamento, livro e palavra                   */
+    /*                   - Busca global e renderização dinâmica                      */
     /*===============================================================================*/
     ```
 - **Comentários de linha:**  
-  - Devem ser alinhados para iniciar na coluna 86.
-  - O texto do comentário deve ser claro e objetivo.
+  - Devem ser alinhados para iniciar na coluna 86, à direita do código.
+  - O texto do comentário deve ser claro, objetivo e iniciar com verbo de ação (Cria, Adiciona, Busca, Define, etc).
+  - Comentários de linha podem ser usados ao lado de variáveis, funções ou comandos, sempre alinhados à direita.
   - Exemplo:
     ```javascript
-    const lista = document.getElementById('lista');                                         // Obtém o elemento <ul> com id 'lista' do HTML
+    let filtroTestamentoAtual = 'todos';                                              // Variável de estado para o filtro de testamento. 'todos' é o valor padrão.
+    ```
+- **Introdução de funções e blocos internos:**
+  - Recomenda-se iniciar blocos de funções, utilitários ou seções internas com comentários do tipo:
+    ```javascript
+    // Este bloco cria a função que inicializa a view da concordância e aplica filtros atuais.
+    export function onConcordanciaViewReady() {
+        const testamentoSelect = ...;   // Obtém a referência ao elemento selecionado no dropdown de testamento.
+        // ...
+    }
     ```
 - **Nomenclatura:**  
   - Variáveis, funções e classes devem ser nomeadas em português, de forma descritiva.
@@ -369,7 +383,7 @@ function exibirSlide() {
   - **Limpa** para limpeza de campos ou listas.
   - **Adiciona** para adicionar itens.
   - **Busca** para busca de elementos.
-  - **Define** para definição de propriedades.
+  - **Define** para definição de propriedades ou valores.
   - **Centraliza** para centralização de elementos ou textos.
   - **Remove** para remoção de estilos ou elementos.
 - Exemplo:
@@ -613,3 +627,264 @@ window.loadSpecificVerse = async function(livro, capitulo, versiculo) {
 ```
 
 Essas práticas devem ser mantidas em todos os scripts do projeto para garantir clareza, manutenção e padronização.
+
+---
+
+## Documentação de Arquivos CSS Específicos
+
+### versoes_base.css
+- **Propósito:** Reset, configurações globais e container principal para as versões bíblicas
+- **Localização:** `/css/versoes_base.css`
+- **Funcionalidades:**
+  - Reset CSS para garantir consistência entre navegadores
+  - Configurações básicas do corpo da página
+  - Layout principal com flexbox
+- **Estrutura:**
+  - **Seção 1:** Configuração inicial (reset) - `*`
+  - **Seção 2:** Layout principal do corpo da página - `body`
+- **Propriedades principais:**
+  - `box-sizing: border-box` - Modelo de caixa consistente
+  - `background-color: #181818` - Cor de fundo escura
+  - `font-family: sans-serif` - Tipo de fonte padrão
+  - `overflow-x: hidden` - Oculta barra horizontal
+- **Padrão de comentários:**
+  - Blocos de seção centralizados com `/*=====================================================*/`
+  - Comentários de linha alinhados à direita com verbos de ação
+- **Integração:** Base fundamental para todos os outros arquivos CSS de versões
+
+### versoes_cabecalho.css
+- **Propósito:** Estilos para cabeçalho, títulos principais e seletor de versão
+- **Localização:** `/css/versoes_cabecalho.css`
+- **Funcionalidades:**
+  - Configuração do cabeçalho principal
+  - Estilização de títulos e subtítulos das versões
+  - Interface do seletor de versão dropdown
+  - Layout dos cabeçalhos superior e inferior
+- **Estrutura:**
+  - **Seção 1:** Cabeçalho principal - `header`
+  - **Seção 2:** Título principal da versão - `#titulo-principal-versao`
+  - **Seção 3:** Subtítulo da versão - `#subtitulo-versao-extenso`
+  - **Seção 4:** Seletor de versão - `#seletor-versao-principal`
+  - **Seção 5:** Cabeçalhos superior e inferior - `.cabeçalho-superior`, `.cabeçalho-inferior`
+- **Propriedades principais:**
+  - `font-size: 2.5em` - Tamanho grande para títulos
+  - `color: #d4ac0d` - Cor dourada para textos importantes
+  - `background-color: #383838` - Cor de fundo escura para elementos
+  - `border-radius: 5px` - Cantos arredondados
+- **Integração:** Trabalha em conjunto com `versoes_navegacao.css` para layout completo
+
+### versoes_navegacao.css
+- **Propósito:** Estilos para a barra de navegação superior com menu de opções
+- **Localização:** `/css/versoes_navegacao.css`
+- **Funcionalidades:**
+  - Barra de navegação fixa com gradiente
+  - Menu de opções centralizado
+  - Título do menu
+  - Posicionamento fixo abaixo do cabeçalho
+- **Estrutura:**
+  - **Seção 1:** Barra de navegação principal - `nav`
+  - **Seção 2:** Lista de opções - `nav .menu-opcoes`
+  - **Seção 3:** Itens da lista - `nav .menu-opcoes li`
+  - **Seção 4:** Links de navegação - `nav .menu-opcoes li a`
+  - **Seção 5:** Efeitos hover - `nav .menu-opcoes li a:hover`
+  - **Seção 6:** Título do menu - `.titulo-menu`
+- **Propriedades principais:**
+  - `position: fixed` - Fixa na tela
+  - `background: linear-gradient(to right, #333, #555, #777)` - Gradiente horizontal
+  - `box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3)` - Sombra suave
+  - `z-index: 1` - Ordem de empilhamento
+- **Responsividade:** Tamanhos de fonte responsivos com `vw`
+
+### versoes_conteudo.css
+- **Propósito:** Estilos para a área principal onde o conteúdo da Bíblia é exibido
+- **Localização:** `/css/versoes_conteudo.css`
+- **Funcionalidades:**
+  - Área de conteúdo principal com rolagem
+  - Barra de rolagem customizada
+  - Títulos e subtítulos
+  - Marca d'água de fundo
+- **Estrutura:**
+  - **Seção 1:** Área de conteúdo principal - `.conteudo`
+  - **Seção 2:** Barra de rolagem - `.conteudo::-webkit-scrollbar`
+  - **Seção 3:** Títulos e subtítulos - `h2`, `h3`
+  - **Seção 4:** Marca d'água - `.marcadagua-image`
+- **Propriedades principais:**
+  - `height: calc(100vh - 160px)` - Altura dinâmica
+  - `overflow-y: auto` - Rolagem vertical
+  - `color: #d4ac0d` - Cor dourada para títulos
+  - `position: fixed` - Marca d'água fixa
+- **Integração:** Área central de exibição do conteúdo bíblico
+
+### versoes_interface.css
+- **Propósito:** Estilos para elementos de interface como dropdowns e janela sobre
+- **Localização:** `/css/versoes_interface.css`
+- **Funcionalidades:**
+  - Dropdowns de navegação
+  - Janela modal "Sobre"
+  - Efeitos hover e transições
+  - Posicionamento absoluto para overlays
+- **Estrutura:**
+  - **Seção 1:** Dropdown - `.dropdown`, `.conteudo-dropdown`
+  - **Seção 2:** Itens e links do dropdown - `.conteudo-dropdown li`, `nav .dropdown .conteudo-dropdown li a`
+  - **Seção 3:** Efeitos hover do dropdown - `.dropdown:hover .conteudo-dropdown`, `nav .dropdown .conteudo-dropdown li a:hover`
+  - **Seção 4:** Janela sobre - `.sobre-content`, `.sobre-content h2`, `.sobre-content p`, `.sobre`
+- **Propriedades principais:**
+  - `position: absolute` - Posicionamento para dropdowns
+  - `background-color: rgba(0, 0, 0, 0.9)` - Fundo semi-transparente
+  - `z-index: 1000` - Alta prioridade para overlays
+  - `transition: background-color 0.3s ease` - Transições suaves
+- **Interatividade:** Elementos responsivos com feedback visual
+
+### versoes_menulateral.css
+- **Propósito:** Estilos para o menu lateral com lista de livros da Bíblia
+- **Localização:** `/css/versoes_menulateral.css`
+- **Funcionalidades:**
+  - Menu lateral fixo com lista de livros
+  - Barra de rolagem customizada
+  - Links de navegação para livros
+  - Efeitos hover nos links
+- **Estrutura:**
+  - **Seção 1:** Menu lateral - `.menu-livros`
+  - **Seção 2:** Barra de rolagem - `.menu-livros::-webkit-scrollbar`
+  - **Seção 3:** Lista de livros - `.menu-livros ul`, `.menu-livros li`
+  - **Seção 4:** Links do menu - `.menu-livros a`, `.menu-livros a:hover`
+- **Propriedades principais:**
+  - `position: fixed` - Menu fixo na lateral
+  - `width: 225px` - Largura fixa do menu
+  - `height: calc(100vh - 180px)` - Altura dinâmica
+  - `background-color: #181818` - Cor de fundo escura
+- **Navegação:** Acesso rápido aos livros da Bíblia
+
+### versoes_busca.css
+- **Propósito:** Estilos para a barra de busca e seletor de versão
+- **Localização:** `/css/versoes_busca.css`
+- **Funcionalidades:**
+  - Container da barra de pesquisa
+  - Estilização de select, input e botão
+  - Efeitos hover no botão
+  - Layout flexbox para alinhamento
+- **Estrutura:**
+  - **Seção 1:** Container da barra de pesquisa - `.barraPesquisa`
+  - **Seção 2:** Select da barra de pesquisa - `.barraPesquisa select`
+  - **Seção 3:** Input de texto - `.barraPesquisa input[type="text"]`
+  - **Seção 4:** Botão da barra de pesquisa - `.barraPesquisa button`, `.barraPesquisa button:hover`
+- **Propriedades principais:**
+  - `display: flex` - Layout flexbox
+  - `background-color: #383838` - Cor de fundo escura
+  - `border: 1px solid #fff` - Bordas brancas
+  - `border-radius: 5px` - Cantos arredondados
+- **Funcionalidade:** Interface de busca e seleção de versões
+
+### versoes_rodape.css
+- **Propósito:** Estilos específicos para o rodapé das páginas de versões bíblicas
+- **Localização:** `/css/versoes_rodape.css`
+- **Funcionalidades:**
+  - Configuração do elemento `<footer>` com posicionamento fixo na parte inferior da tela
+  - Estilização do texto do rodapé com tipografia específica
+  - Cores e layout padronizados para consistência visual
+- **Estrutura:**
+  - **Seção 1:** Configuração do rodapé principal (`footer`)
+  - **Seção 2:** Configuração do texto do rodapé (`footer p`)
+- **Propriedades principais:**
+  - `position: fixed` - Fixa o rodapé na tela
+  - `background-color: #383838` - Cor de fundo escura
+  - `color: #d4ac0d` - Cor dourada para o texto
+  - `height: 30px` - Altura fixa do rodapé
+  - `z-index: 1` - Ordem de empilhamento
+- **Padrão de comentários:**
+  - Blocos de seção centralizados com `/*=====================================================*/`
+  - Comentários de linha alinhados à direita com verbos de ação (Define, Centraliza, etc.)
+- **Integração:** Utilizado em páginas que necessitam de rodapé fixo, especialmente nas páginas de versões bíblicas
+- **Responsividade:** Mantém posicionamento fixo independente do tamanho da tela
+- **Acessibilidade:** Texto com contraste adequado e tamanho legível
+
+### modo_leitura.css
+- **Propósito:** Estilos específicos para o modo de leitura das versões bíblicas
+- **Localização:** `/css/modo_leitura.css`
+- **Funcionalidades:**
+  - Layout otimizado para leitura contínua
+  - Botões de navegação entre capítulos
+  - Estilização de versículos e títulos
+  - Responsividade para diferentes tamanhos de tela
+- **Estrutura:**
+  - **Seção 1:** Container principal - `.modo-leitura-conteudo`
+  - **Seção 2:** Cabeçalho do modo leitura - `.reading-mode-header`
+  - **Seção 3:** Navegação e botões - `.reading-mode-navigation`, `#modoLeitura-capitulo-anterior`, `#modoLeitura-capitulo-proximo`
+  - **Seção 4:** Versículos e containers - `.chapter-verses`, `.verse-container`, `.verse-number`, `.verse-text`
+  - **Seção 5:** Títulos - `.verse-section-title`, `.chapter-title`
+  - **Seção 6:** Botão modo leitura nav - `#modo-leitura`
+  - **Seção 7:** Texto do versículo - `.texto-versiculo`, `.texto-versiculo h3`
+  - **Seção 8:** Responsividade - `@media (max-width: 768px)`
+- **Propriedades principais:**
+  - `max-width: 80%` - Largura máxima do conteúdo
+  - `background-color: rgba(30, 30, 30, 0.7)` - Fundo semi-transparente
+  - `color: #4CAF50` - Cor verde para elementos ativos
+  - `font-size: 2.2vw` - Tamanho responsivo
+- **Estados dos botões:** Habilitado, desabilitado e hover com cores específicas
+- **Responsividade:** Ajustes específicos para telas menores
+
+### capitulos.css
+- **Propósito:** Estilos para a exibição e navegação de capítulos bíblicos
+- **Localização:** `/css/capitulos.css`
+- **Funcionalidades:** Layout e estilização da interface de capítulos
+
+### concordancia.css
+- **Propósito:** Estilos para o sistema de concordância bíblica
+- **Localização:** `/css/concordancia.css`
+- **Funcionalidades:** Interface de busca e exibição de resultados de concordância
+
+### cursos.css
+- **Propósito:** Estilos para a seção de cursos bíblicos
+- **Localização:** `/css/cursos.css`
+- **Funcionalidades:** Layout e apresentação dos cursos disponíveis
+
+### dicionario.css
+- **Propósito:** Estilos para o dicionário bíblico
+- **Localização:** `/css/dicionario.css`
+- **Funcionalidades:** Interface de consulta e exibição de definições
+
+### dicionario_concordancia.css
+- **Propósito:** Estilos para a integração entre dicionário e concordância
+- **Localização:** `/css/dicionario_concordancia.css`
+- **Funcionalidades:** Interface combinada de dicionário e concordância
+
+### slide_biblia.css
+- **Propósito:** Estilos para o sistema de slides bíblicos
+- **Localização:** `/css/slide_biblia.css`
+- **Funcionalidades:** Apresentação em slides de versículos e passagens
+
+---
+
+## Padrão de Organização CSS Aplicado
+
+Todos os arquivos CSS da pasta `/css/` foram reorganizados seguindo o padrão estabelecido no `organizacao.md`:
+
+### Ordem das Propriedades CSS:
+1. **Posicionamento e Layout** (display, position, top, left, z-index, etc.)
+2. **Box Model** (width, height, margin, padding, flex, etc.)
+3. **Visual** (background, border, box-shadow, etc.)
+4. **Tipografia** (font, text, color, etc.)
+
+### Padrão de Comentários:
+- **Blocos de seção:** `/*=====================================================*/`
+- **Comentários de linha:** Alinhados à direita com verbos de ação
+- **Estrutura hierárquica:** Do mais geral para o mais específico
+
+### Arquivos Organizados:
+- ✅ `versoes_base.css` - Reset e configurações globais
+- ✅ `versoes_cabecalho.css` - Cabeçalho e títulos
+- ✅ `versoes_navegacao.css` - Barra de navegação
+- ✅ `versoes_conteudo.css` - Área de conteúdo principal
+- ✅ `versoes_interface.css` - Elementos de interface
+- ✅ `versoes_menulateral.css` - Menu lateral
+- ✅ `versoes_busca.css` - Barra de busca
+- ✅ `versoes_rodape.css` - Rodapé
+- ✅ `modo_leitura.css` - Modo de leitura
+- ⏳ `capitulos.css` - Capítulos (pendente)
+- ⏳ `concordancia.css` - Concordância (pendente)
+- ⏳ `cursos.css` - Cursos (pendente)
+- ⏳ `dicionario.css` - Dicionário (pendente)
+- ⏳ `dicionario_concordancia.css` - Dicionário + Concordância (pendente)
+- ⏳ `slide_biblia.css` - Slides bíblicos (pendente)
+
+---

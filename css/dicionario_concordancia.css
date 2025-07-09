@@ -1,57 +1,28 @@
 /* css/dicionario_concordancia.css */
 
-/*=====================================================*/
-/*         ESTILOS DE CONCORDÂNCIA E DICIONÁRIO        */
-/*   Layout, navegação, barra lateral, responsividade  */
-/*=====================================================*/
-
-/*=====================================================*/
-/*           RESET BÁSICO E BOX-SIZING GLOBAL           */
-/*=====================================================*/
+/* Reset básico e box-sizing global */
 *, *::before, *::after {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
-/*=====================================================*/
-/*           CORPO DA PÁGINA                            */
-/*=====================================================*/
+/* Estilos gerais do corpo da página */
 body {
     background-color: #121212;
     color: #b0b0b0;
-    font-family: sans-serif;
-    font-weight: bold;
-    font-style: italic;
     width: 100%;
-    /* MODIFICADO: Previne a barra de rolagem principal do navegador */
-    overflow: hidden; 
-    min-height: 100vh;
+    overflow: auto; /* Alterado para auto para permitir rolagem */
+    /*min-height: 100vh;*/
+    
     display: flex;
     flex-direction: column;
+    font-family: sans-serif;                               /* Define tipo de fonte                              */
+    font-style: italic;                                    /* Aplica estilo itálico                             */
+    font-weight: bold; 
 }
 
-/*=====================================================*/
-/*           MARCA D'ÁGUA DE FUNDO                      */
-/*=====================================================*/
-.imagem-marcadagua {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 120%;
-    opacity: 0.3;
-    z-index: 10;
-    pointer-events: none;
-    overflow: hidden;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-
-/*=====================================================*/
-/*           CABEÇALHO FIXO                             */
-/*=====================================================*/
+/* Cabeçalho Fixo */
 header {
     background-color: rgba(30, 30, 30, 0.3);
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
@@ -63,7 +34,7 @@ header {
     height: 155px;
 }
 
-.header-top {
+.cabeçalho-superior {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -75,29 +46,25 @@ header {
 .titulo-container h1 {
     font-size: 2.4em;
     color: #d4ac0d;
-    font-weight: 600;
+    /*font-weight: 600;*/
     margin-top: 15px;
 }
 
-.nome-extenso-versao {
+.nome-extenso {
     font-size: 1.3em;
     margin-top: 3px;
     color: white;
-    font-style: italic;
-    font-weight: 300;
+    /*font-style: italic;*/
+    /*font-weight: 300;*/
     margin-left: 60px;
 }
 
-/*=====================================================*/
-/*           BARRA DE NAVEGAÇÃO                         */
-/*=====================================================*/
+/* Barra de Navegação */
 nav {
     width: 100%;
-    /*padding: 0 5px;*/
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    /*justify-content: center;*/
     height: 44px;
     background-color: transparent;
     margin-left: 13px;
@@ -106,13 +73,9 @@ nav {
 .titulo-menu {
     color: #d4ac0d;
     font-size: 1.2em;
-    /*margin-right: 20px; /* Aumenta a distancia entre o texto NAVEGAÇÃO e MENU PRINCIPAL  */
-    font-weight: 500;
+    /*font-weight: 500;*/
     white-space: nowrap;
     text-transform: uppercase;
-    /*letter-spacing: 0.5px;*/
-    top: 0;
-    /*margin-right: 498px;*/
     text-align: center; 
 }
 
@@ -121,7 +84,6 @@ nav .menu-opcoes {
     list-style: none;
     align-items: center;
     height: 100%;
-
     flex-grow: 1;
     justify-content: center;
 }
@@ -137,12 +99,11 @@ nav .menu-opcoes li a {
     padding: 0 18px;
     transition: background-color 0.2s ease, color 0.2s ease, border-bottom-color 0.2s ease;
     font-size: 1.2em;
-    font-weight: 500;
+    /*font-weight: 500;*/
     display: flex;
     align-items: center;
     height: 100%;
     border-bottom: 3px solid transparent;
-   /* margin-bottom: 1px;*/
 }
 
 nav .menu-opcoes li a:hover {
@@ -154,14 +115,12 @@ nav .menu-opcoes li a:hover {
 nav .menu-opcoes li a.active {
     background-color: transparent;
     color: #d4ac0d;
-    font-weight: 600;
+    /*font-weight: 600;*/
     border-bottom-color: #d4ac0d;
 }
 
-/*=====================================================*/
-/*           WRAPPER E CONTEÚDO PRINCIPAL               */
-/*=====================================================*/
-.site-content-wrapper {
+/* Wrapper e Conteúdo Principal */
+.container {
     display: flex;
     padding-top: 155px;
     padding-bottom: 25px;
@@ -170,10 +129,10 @@ nav .menu-opcoes li a.active {
     background-color: transparent;
 }
 
-/*=====================================================*/
-/*           BARRA LATERAL ALFABÉTICA                   */
-/*=====================================================*/
-.alfabeto-sidebar {
+
+
+/* Barra Lateral Alfabética */
+.menu-alfabetico {
     width: 150px;
     background-color: rgba(34, 34, 34, 0.3);
     padding: 15px;
@@ -187,15 +146,15 @@ nav .menu-opcoes li a.active {
     border-right: 1px solid #3a3a3a;
 }
 
-.alfabeto-sidebar::-webkit-scrollbar {
+.menu-alfabetico::-webkit-scrollbar {
     width: 12px;
 }
 
-.alfabeto-sidebar::-webkit-scrollbar-track {
+.menu-alfabetico::-webkit-scrollbar-track {
     background: rgba(56, 56, 56, 0.5);
 }
 
-.alfabeto-sidebar::-webkit-scrollbar-thumb {
+.menu-alfabetico::-webkit-scrollbar-thumb {
     background: rgba(167, 162, 162, 0.7);
     border-radius: 10px;
 }
@@ -226,9 +185,7 @@ nav .menu-opcoes li a.active {
     transform: scale(1.05);
 }
 
-/*=====================================================*/
-/*           MENSAGEM INICIAL                           */
-/*=====================================================*/
+/* Mensagem Inicial */
 #mensagem-inicial {
     padding: 50px 20px;
     text-align: center;
@@ -253,65 +210,54 @@ nav .menu-opcoes li a.active {
     color: white;
 }
 
-/*=====================================================*/
-/*           ÁREA DE CONTEÚDO PRINCIPAL                 */
-/*=====================================================*/
-main#mainContent {
+/* Área de Conteúdo Principal */
+main#conteudoPrincipal {
     margin-left: 0;
     padding: 0 25px 20px 25px;
     flex-grow: 1;
     overflow-y: auto;
     background-color: transparent;
     position: relative;
-    /* MODIFICADO: Remove a altura fixa, permitindo que o flexbox controle o tamanho */
-    /* height: calc(100vh - 180px); */
-
-    /* Para esconder a scrollbar no Firefox */
-    scrollbar-width: none;
+    height: auto; /* Alterado para altura dinâmica */
+    min-height: 200px; /* Adicionado para garantir espaço mínimo */
 }
 
-main#mainContent::-webkit-scrollbar {
-    /* Esconde a barra de rolagem em navegadores WebKit (Chrome, Safari, etc.) */
-    display: none;
-}
+main#conteudoPrincipal::-webkit-scrollbar { width: 8px; }
+main#conteudoPrincipal::-webkit-scrollbar-track { background: #222; }
+main#conteudoPrincipal::-webkit-scrollbar-thumb { background: #555; border-radius: 4px; }
 
-main#mainContent::-webkit-scrollbar-track {
-    background: #222;
-}
-
-main#mainContent::-webkit-scrollbar-thumb {
-    background: #555;
-    border-radius: 4px;
-}
-
-/*=====================================================*/
-/*           RODAPÉ                                    */
-/*=====================================================*/
+/* O bloco abaixo configura o rodapé */
 footer {
-    background-color: #383838; /* Define cor de fundo */
-    text-align: center; /* Centraliza texto */
-    padding: fixed; /* Define preenchimento fixo */
-    width: 100%; /* Define largura total */
-    position: fixed; /* Fixa na tela */
-    bottom: 0; /* Alinha ao fundo */
-    left: 0px; /* Alinha à esquerda */
-    z-index: 1; /* Define ordem de empilhamento */
-    height: 30px; /* Define altura */
+    background-color: #383838;
+    text-align: center;
+    padding: fixed;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0px;
+    z-index: 1;
+    height: 30px;
 }
 
 /* O bloco abaixo configura o texto do rodapé */
 footer p {
-    font-size: 1.3em; /* Define tamanho da fonte */
-    line-height: 1.8; /* Define altura da linha */
+    font-size: 1.3em;
+    line-height: 1.8;
     color: #d4ac0d;
 }
 
-/*================== BOTÕES DE LETRA ==================*/
-
-/*================== MENSAGEM INICIAL =================*/
-
-/*================== ÁREA PRINCIPAL (MAIN) ============*/
-
-/*================== SCROLLBARS PERSONALIZADOS ========*/
-
-/*================== FOOTER E INFORMAÇÕES FINAIS ======*/
+/* O bloco abaixo configura a imagem de fundo em marca d'água */
+.marcadagua-image {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 120%;
+    z-index: 10;
+    opacity: 0.3;
+    overflow: hidden;
+    pointer-events: none;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}

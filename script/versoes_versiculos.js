@@ -6,7 +6,7 @@
 /*                       - Criar botões de navegação entre versículos            */
 /*                       - Gerenciar o destaque do versículo ativo               */
 /*===============================================================================*/
-export class VersiculosManager {                                                               // Exporta a classe para ser usada em outros arquivos do projeto.
+class VersiculosManager {                                                               // Exporta a classe para ser usada em outros arquivos do projeto.
     constructor() {                                                                            // Define o método construtor, executado ao criar um novo objeto da classe.
         this.versiculoAtivo = null;                                                            // Inicia a variável que guardará o número do versículo ativo como nula.
     }
@@ -165,5 +165,4 @@ export class VersiculosManager {                                                
         return nomes[livro] || livro;                                                          // Retorna o nome completo correspondente; se não encontrar, retorna a própria abreviação.
     }
 }
-
-export const versiculosManager = new VersiculosManager();                                      // Cria e exporta uma única instância do gerenciador de versículos.
+const versiculosManager = new VersiculosManager();                                      // Cria e exporta uma única instância do gerenciador de versículos.

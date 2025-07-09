@@ -3,23 +3,28 @@
 <!--      PÁGINA DO DICIONÁRIO BÍBLICO      -->
 <!-------------------------------------------->
 
-<!--   Bloco abaixo e a barra de pesquisa   -->
+<!-- O contêiner principal que agora usa Flexbox para alinhar seus filhos -->
 <div class="dictionary-view-content">
+
+    <!-- Bloco que mostra a letra selecionada (Item da Esquerda) -->
+    <div class="letter-highlight-bar">
+        <span id="highlightedLetterLarge" class="highlighted-letter"></span>
+        <span id="highlightedLetterSmall" class="highlighted-letter-small"></span>
+    </div>
+
+    <!-- Bloco da barra de pesquisa (Item da Direita) -->
     <div class="dictionary-search-bar-top">
         <input type="text" id="dicionarioSearchInput" class="search-input-dict" placeholder="Buscar termo no dicionário...">
         <button id="dicionarioSearchBtn" class="search-btn-dict">Buscar</button>
     </div>
 
-    <!-- Bloco a abaixo e a barra que mostra a letra selecionada -->
-    <div class="letter-highlight-bar">
-        <span id="highlightedLetterLarge" class="highlighted-letter">A</span>
-        <span id="highlightedLetterSmall" class="highlighted-letter-small">a</span>
-    </div>
+</div> <!-- Fim do contêiner de alinhamento -->
 
-    <!-- O bloco abaixo e área onde vão aparecer os resultados da busca -->
-    <section id="dictionary-results-container">
-        <p class="initial-message-dict" style="color: #fff; text-align: center; font-size: 1.2em; padding:20px;">
-            Selecione uma letra na barra lateral para listar os termos.
-        </p>
-    </section>
-</div>
+
+<!-- O bloco abaixo é a área onde vão aparecer os resultados da busca -->
+<!-- Foi movido para fora para não ser afetado pelo alinhamento Flexbox -->
+<section id="dictionary-results-container">
+    <p class="initial-message-dict" style="color: #fff; text-align: center; font-size: 1.2em; padding:20px;">
+        Selecione uma letra na barra lateral para listar os termos.
+    </p>
+</section>

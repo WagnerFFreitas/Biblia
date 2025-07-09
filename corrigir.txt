@@ -1,5 +1,4 @@
-o botões e a seta no modo leitura esta pulando para
- o próximo livro e não para o próximo capitulo
-
- o texto de Sobre esta ultrapassando o seu conteúdo acima
- e preciso a are do conteúdo principal
+dividir os arquivos:
+comcordancia.js
+biblia-navegacao.js
+dropdown_concordancia

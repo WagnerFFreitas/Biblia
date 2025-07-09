@@ -252,7 +252,7 @@ function criarSecaoLivro(section, livro, ocorrencias, palavra) {
         div.className = 'ocorrencia';
 
         const ref = document.createElement('div');
-        ref.className = 'referencia';
+        ref.className = 'referenciaConcordancia';
         ref.textContent = formatarReferencia(oc.referencia); // Usa a nova função de formatação
         
         const texto = document.createElement('div');
