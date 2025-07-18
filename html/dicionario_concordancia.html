@@ -90,10 +90,14 @@
     <p>© Bíblia Sagrada 2025</p>
 </footer>
 
-<!-- A linha abaixo carrega o Script externo -->
+<!-- A linha abaixo carrega os scripts em ordem correta -->
 <script src="../script/marcadagua.js"></script>
+
+<!-- Módulos ES6 primeiro -->
+<script src="../script/concordancia.js" type="module"></script>
 <script src="../script/dicionario_concordancia.js" type="module"></script>
-<script src="../script/concordancia.js"></script>
+
+<!-- Scripts normais depois -->
 <script src="../script/dicionario.js"></script>
 </body>
 </html>

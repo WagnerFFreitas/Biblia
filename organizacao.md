@@ -9,12 +9,10 @@ biblia/
 │   ├── A_Biblia_Viva.pdf
 │   └── ...
 ├── concordancia/            # Dados de concordância bíblica
-│   ├── a.json, b.json, ...  # Concordância por letra
-│   ├── a/ b/ ...            # Subpastas por letra com temas
-│   ├── indexes/             # Indexadores de concordância
-│   ├── rascunho/            # Arquivos de rascunho/teste
-│   ├── themes/              # Temas bíblicos
-│   └── words/               # Palavras-chave
+│   ├── /a/a1.json, ...  # Concordância por letra
+│   ├── /b/b1.json, ...
+│   ├── /c/c1.json, ...           # Subpastas por letra com temas
+│   
 ├── css/                     # Arquivos de estilo
 │   ├── capitulos.css
 │   ├── concordancia.css
@@ -29,7 +27,6 @@ biblia/
 │   └── ...
 ├── dicionario/              # Dados do dicionário bíblico
 │   ├── a.json, b.json, ...
-│   ├── rascunho/            # Rascunhos e testes
 │   └── ...
 ├── html/                    # Páginas HTML
 │   ├── concordancia.html
@@ -42,9 +39,13 @@ biblia/
 │   ├── biblia.png
 │   ├── marcadagua.png
 │   └── ...
-├── json/                    # Dados auxiliares em JSON
-│   ├── dicionario.json
-│   ├── harpa_crista.json
+├── harpacrista/                    # Dados auxiliares em JSON
+│   ├── 1.json
+│   ├── 2.json
+│   └── ...
+├── cantorcristao/                    # Dados auxiliares em JSON
+│   ├── 1.json
+│   ├── 2.json
 │   └── ...
 ├── script/                  # Scripts JavaScript
 │   ├── acf.js, ara.js, ...  # Scripts de versões

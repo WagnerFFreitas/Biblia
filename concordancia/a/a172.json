@@ -1,0 +1,380 @@
+{
+  "a": [
+    {
+      "palavra": "avareza",
+      "veja tambem": ["avarento", "cobiça", "ganância"],
+      "ocorrencias": 22,
+      "fonte": "Strong's G4124 (πλεονεξία/pleonexia)",
+      "concordancias": [
+        {
+          "referencia": "Êxodo 18.21",
+          "texto": "de verdade, que aborreçam a Á.; e põe-nos"
+        },
+        {
+          "referencia": "1 Samuel 8.3",
+          "texto": "dele; antes, se inclinaram à Á., e tomaram"
+        },
+        {
+          "referencia": "Provérbios 28.16",
+          "texto": "mas o que aborrece a À, prolongará os"
+        },
+        {
+          "referencia": "Isaías 57.17",
+          "texto": "Pela iniquidade da sua A., me indignei e os"
+        },
+        {
+          "referencia": "Jeremias 6.13",
+          "texto": "ao maior, cada um se dá à À.; e, desde o"
+        },
+        {
+          "referencia": "Jeremias 8.10",
+          "texto": "ao maior, cada um deles se dá à A.; desde o"
+        },
+        {
+          "referencia": "Jeremias 22.17",
+          "texto": "atentam senão para a tua Á., e para o sangue"
+        },
+        {
+          "referencia": "Jeremias 51.13",
+          "texto": "de tesouros! Chegou o teu fim, a medida da tua Á.."
+        },
+        {
+          "referencia": "Ezequiel 22.12",
+          "texto": "lucros tomaste e usaste de Á. com o teu"
+        },
+        {
+          "referencia": "Ezequiel 22.13",
+          "texto": "bati as mãos contra a tua Á. de que usaste e"
+        },
+        {
+          "referencia": "Ezequiel 22.27",
+          "texto": "para destruírem as almas, para seguirem a A.."
+        },
+        {
+          "referencia": "Ezequiel 33.31",
+          "texto": "com a sua boca, mas o seu coração segue a sua Å.."
+        },
+        {
+          "referencia": "Marcos 7.22",
+          "texto": "os furtos, a Á., as maldades, o engano, a"
+        },
+        {
+          "referencia": "Lucas 12.15",
+          "texto": "e guardai-vos da Á., porque a vida de"
+        },
+        {
+          "referencia": "Romanos 1.29",
+          "texto": "prostituição, malícia, Á., maldade;"
+        },
+        {
+          "referencia": "2 Coríntios 9.5",
+          "texto": "para que esteja pronta como bênção e não como A.."
+        },
+        {
+          "referencia": "Efésios 5.3",
+          "texto": "e toda impureza ou À. nem ainda se"
+        },
+        {
+          "referencia": "C13.5",
+          "texto": "a vil concupiscência ea A., que é idolatria;"
+        },
+        {
+          "referencia": "1 Tessalonicenses 2.5",
+          "texto": "nem houve um pretexto de A.; Deus é testemunha."
+        },
+        {
+          "referencia": "Hebreus 13.5",
+          "texto": "Sejam vossos costumes sem Á., contentando-vos"
+        },
+        {
+          "referencia": "2 Pedro 2.3",
+          "texto": "e, por Á., farão de vós negócio com palavras"
+        },
+        {
+          "referencia": "2 Pedro 2.14",
+          "texto": "o coração exercitado na A., filhos de maldição;"
+        }
+      ]
+    },
+    {
+      "palavra": "avaro",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Jó 27.8",
+          "texto": "do hipócrita, havendo sido Á., quando Deus lhe"
+        }
+      ]
+    },
+    {
+      "palavra": "ave",
+      "veja tambem": [],
+      "ocorrencias": 36,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Gênesis 1.21",
+          "texto": "as suas espécies, e toda A. de asas conforme a"
+        },
+        {
+          "referencia": "Gênesis 1.30",
+          "texto": "animal da terra, e a toda A. dos céus, e a todo"
+        },
+        {
+          "referencia": "Gênesis 2.19",
+          "texto": "todo animal do campo e toda A. dos céus, os trouxe"
+        },
+        {
+          "referencia": "Gênesis 6.7",
+          "texto": "animal, até ao réptil e até à Á. dos céus; porque"
+        },
+        {
+          "referencia": "Gênesis 7.14",
+          "texto": "conforme a sua espécie, e toda À, conforme a sua"
+        },
+        {
+          "referencia": "Gênesis 7.21",
+          "texto": "sobre a terra, tanto de À. como de gado, e de"
+        },
+        {
+          "referencia": "Gênesis 7.23",
+          "texto": "animal, até ao réptil e até à A. dos céus; e foram"
+        },
+        {
+          "referencia": "Gênesis 8.17",
+          "texto": "contigo, de toda carne, de Á., ede gado, e de"
+        },
+        {
+          "referencia": "Gênesis 8.19",
+          "texto": "animal, todo réptil, toda Á., tudo o que se move"
+        },
+        {
+          "referencia": "Gênesis 8.20",
+          "texto": "todo animal limpo e de toda A. limpa e ofereceu"
+        },
+        {
+          "referencia": "Gênesis 9.2",
+          "texto": "da terra e sobre toda À. dos céus; tudo o que"
+        },
+        {
+          "referencia": "Levítico 14.5",
+          "texto": "que se degole uma Á. num vaso de barro"
+        },
+        {
+          "referencia": "Levítico 14.6",
+          "texto": "E tomará a A. viva, e o pau de cedro, e o carmesim,"
+        },
+        {
+          "referencia": "Levítico 14.6",
+          "texto": "coma À. viva no sangue da À. que foi degolada"
+        },
+        {
+          "referencia": "Levítico 14.7",
+          "texto": "declarará limpo e soltará a À. viva sobre a face do cam-"
+        },
+        {
+          "referencia": "E 14.50",
+          "texto": "e degolará uma Á, num vaso de barro sobre águas vi-"
+        },
+        {
+          "referencia": "Levítico 14.51",
+          "texto": "eo hissopo, e o carmesim, e a À. viva, e os molhará"
+        },
+        {
+          "referencia": "Levítico 14.51",
+          "texto": "ea 4. viva, e os molhará na A. degolada e nas"
+        },
+        {
+          "referencia": "Levítico 14.53",
+          "texto": "Então, soltará a Á. viva para fora da cidade, sobre"
+        },
+        {
+          "referencia": "Levítico 17.13",
+          "texto": "caçar caça de animal ou de 4. que se come derramará"
+        },
+        {
+          "referencia": "Deuteronômio 4.17",
+          "texto": "na terra, figura de alguma Á. alígera que voa pelos céus;"
+        },
+        {
+          "referencia": "Deuteronômio 14.11",
+          "texto": "Toda Á, limpa comereis."
+        },
+        {
+          "referencia": "Deuteronômio 14.20",
+          "texto": "Toda Á. limpa comereis."
+        },
+        {
+          "referencia": "Deuteronômio 22.6",
+          "texto": "encontrares algum ninho de A. no caminho, em'al-"
+        },
+        {
+          "referencia": "B 28.7",
+          "texto": "Essa vereda, a ignora a Á. de rapina, e não a viram"
+        },
+        {
+          "referencia": "Provérbios 1.17",
+          "texto": "se estenderia a rede perante os olhos de qualquer A.."
+        },
+        {
+          "referencia": "Provérbios 6.5",
+          "texto": "da mão do caçador e, como a Á., da mão do passari-"
+        },
+        {
+          "referencia": "Provérbios 7.23",
+          "texto": "atravesse o fígado, como a À. que se apressa para o"
+        },
+        {
+          "referencia": "Provérbios 27.8",
+          "texto": "Qual À. que vagueia longe do seu ninho, tal é o"
+        },
+        {
+          "referencia": "Isaías 46.11",
+          "texto": "que chamo a À. de rapina desde o Oriente e o homem"
+        },
+        {
+          "referencia": "Jeremias 12.9",
+          "texto": "A minha herança é para mim A. de várias cores; andam"
+        },
+        {
+          "referencia": "Lamentações 3.52",
+          "texto": "Como Á., me caçaram os que são meus inimigos sem"
+        },
+        {
+          "referencia": "Daniel 7.6",
+          "texto": "e tinha quatro asas de À. nas suas costas;"
+        },
+        {
+          "referencia": "Oséias 9.11",
+          "texto": "a Efraim, a sua glória, como Á., voará; não haverá"
+        },
+        {
+          "referencia": "Amós 3.5",
+          "texto": "Cairá a À. no laço em terra, se não houver laço para"
+        },
+        {
+          "referencia": "Apocalipse 18.2",
+          "texto": "imundo, e refúgio de toda Á. imunda e aborrecível!"
+        }
+      ]
+    },
+    {
+      "palavra": "aveia",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Ezequiel 49",
+          "texto": "e lentilhas, e trigo miúdo, e Á., e coloca-os"
+        }
+      ]
+    },
+    {
+      "palavra": "aveleira",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Gênesis 30.37",
+          "texto": "varas verdes de álamo, e de Á., e de"
+        }
+      ]
+    },
+    {
+      "palavra": "áven",
+      "veja tambem": [],
+      "ocorrencias": 2,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Ezequiel 30.17",
+          "texto": "Os jovens de Å, e Pi-Besete cairão à espada, e"
+        },
+        {
+          "referencia": "Oséias 10.8",
+          "texto": "E os altos de Á., pecado de Israel, serão"
+        }
+      ]
+    },
+    {
+      "palavra": "aventais",
+      "veja tambem": [],
+      "ocorrencias": 2,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Gênesis 3.7",
+          "texto": "coseram folhas de figueira, e fizeram para si A.."
+        },
+        {
+          "referencia": "Atos 19.12",
+          "texto": "sorte que até os lenços e À. se levavam do seu"
+        }
+      ]
+    },
+    {
+      "palavra": "aventura",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Eclesiastes 5.14",
+          "texto": "se perdem por qualquer má A.; e, havendo algum"
+        }
+      ]
+    },
+    {
+      "palavra": "averiguando",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "1 Reis 7.47",
+          "texto": "seu excessivo número, não se Á., pois, o"
+        }
+      ]
+    },
+    {
+      "palavra": "averiguar-se-á",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Atos 19.39",
+          "texto": "outra coisa demandais, A. em"
+        }
+      ]
+    },
+    {
+      "palavra": "averiguares",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Jó 10.6",
+          "texto": "da minha iniquidade e A. o meu pecado?"
+        }
+      ]
+    },
+    {
+      "palavra": "avermelhada",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Iv 13.42",
+          "texto": "houver praga branca Á., lepra é,"
+        }
+      ]
+    }
+  ]
+}

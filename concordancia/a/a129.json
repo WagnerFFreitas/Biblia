@@ -1,0 +1,430 @@
+{
+  "a": [
+    {
+      "palavra": "arcanjo",
+      "veja tambem": ["anjo", "miguel", "gabriel", "mensageiro"],
+      "ocorrencias": 2,
+      "fonte": "Strongs G743",
+      "concordancias": [
+        {
+          "referencia": "1 Tessalonicenses 4.16",
+          "texto": "com alarido, e com voz de A., e com a trombeta"
+        },
+        {
+          "referencia": "Judas 1.9",
+          "texto": "Mas o À. Miguel, quando contendia com o diabo e"
+        }
+      ]
+    },
+    {
+      "palavra": "archotes",
+      "veja tambem": ["tocha", "lanterna", "fogo", "luz"],
+      "ocorrencias": 1,
+      "fonte": "Strongs H3940",
+      "concordancias": [
+        {
+          "referencia": "Jó 18.3",
+          "texto": "veio para ali com lanternas, e Á., e armas."
+        }
+      ]
+    },
+    {
+      "palavra": "arco",
+      "veja tambem": ["arco-íris", "flecha", "aljava", "guerra"],
+      "ocorrencias": 58,
+      "fonte": "Strongs H7198",
+      "concordancias": [
+        {
+          "referencia": "Gênesis 9.130",
+          "texto": "meu Á. tenho posto na nuvem; este será por sinal"
+        },
+        {
+          "referencia": "Gênesis 9.14",
+          "texto": "nuvens sobre a terra, aparecerá o A. nas nuvens."
+        },
+        {
+          "referencia": "Gênesis 9.16",
+          "texto": "E estará o À, nas nuvens, e eu o verei, para me"
+        },
+        {
+          "referencia": "Gênesis 21.16",
+          "texto": "a distância de um tiro de Á.; porque dizia: Que"
+        },
+        {
+          "referencia": "Gênesis 27.3",
+          "texto": "armas, a tua aljava co teu A., esai ao campo, e"
+        },
+        {
+          "referencia": "Gênesis 48.22",
+          "texto": "a minha espada e com o meu À. da mão dos amor-"
+        },
+        {
+          "referencia": "Gênesis 49.24",
+          "texto": "O seu Á., porém, susteve-se no forte, e os braços"
+        },
+        {
+          "referencia": "Josué 24.12",
+          "texto": "e isso não com a tua espada, nem com o teu A.."
+        },
+        {
+          "referencia": "1 Samuel 240",
+          "texto": "A. dos fortes foi quebrado, e os que tropeçavam"
+        },
+        {
+          "referencia": "1 Samuel 18.4",
+          "texto": "vestes, até a sua espada, e o seu do eo seu cinto."
+        },
+        {
+          "referencia": "2 Samuel 1.18",
+          "texto": "filhos de Judá o uso do A.. Eis que está escrito"
+        },
+        {
+          "referencia": "2 Samuel 1.22",
+          "texto": "nunca se retirou para trás o A. de Jônatas, nem"
+        },
+        {
+          "referencia": "2 Samuel 22.35",
+          "texto": "a peleja, de maneira que um 4. de cobre se quebra"
+        },
+        {
+          "referencia": "T 22.34",
+          "texto": "Então, um homem entesou o Á., na sua simplici-"
+        },
+        {
+          "referencia": "2 Reis 6.22",
+          "texto": "com a tua espada e com o teu Á.? Põe-lhes diante"
+        },
+        {
+          "referencia": "2 Reis 9.24",
+          "texto": "Mas Jeú entesou o seu Á. com toda a força e feriu a"
+        },
+        {
+          "referencia": "2 Reis 13.15",
+          "texto": "E Eliseu lhe disse: Toma um A. e flechas. E tomou"
+        },
+        {
+          "referencia": "2 Reis 13.15",
+          "texto": "Toma um À. e flechas. E tomou um À, e flechas."
+        },
+        {
+          "referencia": "2 Reis 13.16",
+          "texto": "Põe a tua mão sobre o A.. E pôs sobre ele a"
+        },
+        {
+          "referencia": "1 Crônicas 5.18",
+          "texto": "escudo e espada, e entesavam o A., e eram destros"
+        },
+        {
+          "referencia": "1 Crônicas 12.2",
+          "texto": "Armados de A., usavam da mão direita e esquerda"
+        },
+        {
+          "referencia": "1 Crônicas 12.2",
+          "texto": "e em despedir flechas com o À,; eram estes dos"
+        },
+        {
+          "referencia": "2 Crônicas 14.8",
+          "texto": "traziam escudo e atiravam de À.; todos estes"
+        },
+        {
+          "referencia": "2 Crônicas 17.17",
+          "texto": "e, com ele, duzentos mil, armados de A. e de escudo;"
+        },
+        {
+          "referencia": "2 Crônicas 18.33",
+          "texto": "na sua simplicidade, armou o A., e feriu o rei de"
+        },
+        {
+          "referencia": "Jó 20.24",
+          "texto": "fuja das armas de ferro, o À. de aço o atravessará."
+        },
+        {
+          "referencia": "Jó 29.20",
+          "texto": "se renovava em mim, e o meu Á, se reforçava na"
+        },
+        {
+          "referencia": "S17.12",
+          "texto": "sua espada; já tem armado o seu À. e está aparelhado;"
+        },
+        {
+          "referencia": "Salmos 11.2",
+          "texto": "eis que os ímpios armam o Á., põem as flechas na"
+        },
+        {
+          "referencia": "a 18.34",
+          "texto": "de sorte que os meus braços quebraram um Á. de co-"
+        },
+        {
+          "referencia": "S137.14",
+          "texto": "da espada e entesaram o Á., para derribarem o"
+        },
+        {
+          "referencia": "S144.6",
+          "texto": "eu não confiarei no meu Á., nem a minha espada"
+        },
+        {
+          "referencia": "Isaías 7.24",
+          "texto": "Com Á. e flechas se entrará nele, porque as sarças"
+        },
+        {
+          "referencia": "Isaías 21.15",
+          "texto": "da espada nua, e diante do A. armado, e diante do"
+        },
+        {
+          "referencia": "Isaías 41.2",
+          "texto": "o pó e como pragana arrebatada do vento, ao seu Á.."
+        },
+        {
+          "referencia": "Jeremias 6.23",
+          "texto": "Á. e lança trarão; eles são cruéis e não usarão de"
+        },
+        {
+          "referencia": "Jeremias 9.3",
+          "texto": "língua, como se fosse o seu A. para a mentira;"
+        },
+        {
+          "referencia": "Jeremias 46.9",
+          "texto": "o escudo, e os lídios, que tomam e entesam o Å.."
+        },
+        {
+          "referencia": "Jeremias 49.35",
+          "texto": "Eis que eu quebrarei o À. de Elão, o principal"
+        },
+        {
+          "referencia": "Jeremias 50.42",
+          "texto": "À. e lança tomarão; eles são cruéis e não conhecem"
+        },
+        {
+          "referencia": "Jeremias 51.3",
+          "texto": "O flecheiro arme o seu À, contra aquele que arma o"
+        },
+        {
+          "referencia": "Jeremias 51.3",
+          "texto": "aquele que arma o seu À, e contra o que"
+        },
+        {
+          "referencia": "Lamentações 2.4",
+          "texto": "Armou o seu À. como inimigo, firmou a sua destra"
+        },
+        {
+          "referencia": "Lamentações 3.12",
+          "texto": "Armou o seu Á., eme pôs como alvo à flecha."
+        },
+        {
+          "referencia": "Ezequiel 1.28",
+          "texto": "Como o aspecto do A. que aparece na nuvem no dia da"
+        },
+        {
+          "referencia": "Ezequiel 39.3",
+          "texto": "E tirarei o teu À. da tua mão esquerda e farei cair"
+        },
+        {
+          "referencia": "Oséias 1.5",
+          "texto": "naquele dia, que quebrarei o À. de Israel no vale"
+        },
+        {
+          "referencia": "Oséias 1.7",
+          "texto": "pois não os salvarei pelo Á., nem pela espada,"
+        },
+        {
+          "referencia": "Oséias 2.18",
+          "texto": "da terra; e da terra tirareio A., ea espada, e a"
+        },
+        {
+          "referencia": "Oséias 7.16",
+          "texto": "Fizeram-se como um A. enganador; caem à"
+        },
+        {
+          "referencia": "Amós 2.15",
+          "texto": "ficará em pé o que leva o A nem o ligeiro de pés"
+        },
+        {
+          "referencia": "Habacuque 3.9",
+          "texto": "Descoberto se fez o teu A.; os juramentos feitos às"
+        },
+        {
+          "referencia": "Zacarias 9.10",
+          "texto": "cavalos de Jerusalém, e o A. de guerra será"
+        },
+        {
+          "referencia": "Zacarias 9.13",
+          "texto": "mim, enchi com Efraim o A.; suscitarei a teus"
+        },
+        {
+          "referencia": "Zacarias 104",
+          "texto": "dele a estaca, dele o À. de guerra, dele"
+        },
+        {
+          "referencia": "Apocalipse 43",
+          "texto": "de jaspe e de sardônica; e o À. celeste estava ao"
+        },
+        {
+          "referencia": "Apocalipse 6.2",
+          "texto": "assentado sobre ele tinha um A.; e foi-lhe dada uma"
+        },
+        {
+          "referencia": "Apocalipse 10.1",
+          "texto": "cima da sua cabeça estava o Á. celeste, e o rosto"
+        }
+      ]
+    },
+    {
+      "palavra": "arcos",
+      "veja tambem": [
+        "arco"
+      ],
+      "ocorrencias": 9,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "2 Crônicas 26.14",
+          "texto": "e capacetes, e couraças, e Á., e até fundas"
+        },
+        {
+          "referencia": "Neemias 4.13",
+          "texto": "suas espadas, com as suas lanças e com os seus A.."
+        },
+        {
+          "referencia": "Neemias 4.16",
+          "texto": "tinha as lanças, os escudos, os A. e as couraças;"
+        },
+        {
+          "referencia": "Isaías 5.28",
+          "texto": "agudas, e todos os seus Á., retesados; as"
+        },
+        {
+          "referencia": "Isaías 13.18",
+          "texto": "E os seus 4. despedaçarão os jovens, e não se"
+        },
+        {
+          "referencia": "Jeremias 50.14",
+          "texto": "todos os que armais A.; atirai-lhe, não"
+        },
+        {
+          "referencia": "Jeremias 50.29",
+          "texto": "todos os que armam A.; acampai-vos contra"
+        },
+        {
+          "referencia": "Jeremias 51.56",
+          "texto": "já estão quebrados os seus Á., porque o Senhor,"
+        },
+        {
+          "referencia": "Ezequiel 39.9",
+          "texto": "escudos, e as rodelas, com os Á., e com as"
+        }
+      ]
+    },
+    {
+      "palavra": "arda",
+      "veja tambem": [
+        "arder"
+      ],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Jeremias 4.4",
+          "texto": "não venha a sair como fogo e A. de modo que não"
+        }
+      ]
+    },
+    {
+      "palavra": "ardam",
+      "veja tambem": [
+        "arder"
+      ],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Ezequiel 24.10",
+          "texto": "a carne e tempera-a com especiarias, e À. os ossos."
+        }
+      ]
+    },
+    {
+      "palavra": "arde",
+      "veja tambem": [
+        "arder"
+      ],
+      "ocorrencias": 6,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "q 46.21",
+          "texto": "e Gera, e Naamã, e Eí, e Rôs, e Mupim, e Hupim, e"
+        },
+        {
+          "referencia": "Números 26.40",
+          "texto": "E os filhos de Belá foram A. e Naamã: de A., a"
+        },
+        {
+          "referencia": "Números 26.40",
+          "texto": "Belá foram À. e Naamã: de A., a família dos"
+        },
+        {
+          "referencia": "Isaías 65.5",
+          "texto": "uma fumaça no meu nariz, um fogo que A. todo o dia."
+        },
+        {
+          "referencia": "Oséias 7.6",
+          "texto": "dorme o seu padeiro, pela manhã, A. como fogo de"
+        },
+        {
+          "referencia": "Apocalipse 21.8",
+          "texto": "a sua parte será no lago que À, com fogo e"
+        }
+      ]
+    },
+    {
+      "palavra": "ardem",
+      "veja tambem": [],
+      "ocorrencias": 2,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "SI 102.3",
+          "texto": "consomem como fumaça, e os meus ossos À. como"
+        },
+        {
+          "referencia": "Jó 15.6",
+          "texto": "vara, e secará; e os colhem e lançam no fogo, e A.."
+        }
+      ]
+    },
+    {
+      "palavra": "ardendo",
+      "veja tambem": [
+        "arder"
+      ],
+      "ocorrencias": 6,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Isaías 30.27",
+          "texto": "do Senhor vem de longe A. na sua ira e"
+        },
+        {
+          "referencia": "MI 4.1",
+          "texto": "eis que aquele dia vem À, como forno; todos"
+        },
+        {
+          "referencia": "2 Pedro 3.10",
+          "texto": "estrondo, e os elementos, Á., se desfarão, e"
+        },
+        {
+          "referencia": "2 Pedro 3.12",
+          "texto": "se desfarão, e os elementos, Á., se fundirão?"
+        },
+        {
+          "referencia": "Apocalipse 8.8",
+          "texto": "coisa como um grande monte À. em fogo, e"
+        },
+        {
+          "referencia": "Apocalipse 8.10",
+          "texto": "do céu uma grande estrela, A. como uma tocha,"
+        }
+      ]
+    }
+  ]
+}

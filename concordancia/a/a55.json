@@ -1,0 +1,491 @@
+{
+  "a": [
+    {
+      "palavra": "altura",
+      "veja tambem": [
+        "alto",
+        "elevação",
+        "estatura",
+        "grandeza"
+      ],
+      "ocorrencias": 68,
+      "fonte": "Strong's H7311 (רוּם/rum)",
+      "concordancias": [
+        {
+          "referencia": "Gênesis 6.15",
+          "texto": "a sua largura, e de trinta côvados a sua A."
+        },
+        {
+          "referencia": "Êxodo 25.10",
+          "texto": "um côvado e meio, e de um côvado e meio, a sua Å.."
+        },
+        {
+          "referencia": "Êxodo 25.23",
+          "texto": "largura, de um côvado, e a sua A., de um cóvado e"
+        },
+        {
+          "referencia": "Êxodo 27.1",
+          "texto": "(será quadrado o altar), e três côvados, a sua Á.."
+        },
+        {
+          "referencia": "Êxodo 27.18",
+          "texto": "cada banda, de cinquenta, ea A., de cinco"
+        },
+        {
+          "referencia": "Êxodo 30.2",
+          "texto": "e de dois côvados, a sua À,; e as suas"
+        },
+        {
+          "referencia": "Êxodo 37.1",
+          "texto": "de um côvado e meio; e a sua Á., de um côvado e"
+        },
+        {
+          "referencia": "Êxodo 37.10",
+          "texto": "largura, de um cóvado, ea sua 4., de um côvado e"
+        },
+        {
+          "referencia": "Êxodo 37.25",
+          "texto": "e de dois côvados, a sua A.; dele mesmo"
+        },
+        {
+          "referencia": "Êxodo 38.1",
+          "texto": "sua largura, quadrado; e de três côvados, a sua A.."
+        },
+        {
+          "referencia": "Êxodo 38.18",
+          "texto": "era de vinte côvados, ea A., na largura,"
+        },
+        {
+          "referencia": "Josué 15.9",
+          "texto": "este termo irá desde a Å. do monte até à"
+        },
+        {
+          "referencia": "1 Samuel 16.7",
+          "texto": "a sua aparência, nem para a À. da sua estatura,"
+        },
+        {
+          "referencia": "1 Samuel 17.4",
+          "texto": "Golias, de Gate, que tinha de À. seis côvados e"
+        },
+        {
+          "referencia": "2 Samuel 23.1",
+          "texto": "o homem que foi levantado em A., o ungido do"
+        },
+        {
+          "referencia": "1 Reis 6.2",
+          "texto": "côvados de largura, e de trinta côvados de A.."
+        },
+        {
+          "referencia": "1 Reis 6.10",
+          "texto": "a casa, de cinco côvados de A., e as travou com a"
+        },
+        {
+          "referencia": "1 Reis 6.20",
+          "texto": "e de vinte côvados de A.; eo cobriu de"
+        },
+        {
+          "referencia": "1 Reis 6.23",
+          "texto": "madeira de oliveira, cada um da A. de dez côvados."
+        },
+        {
+          "referencia": "1 Reis 6.26",
+          "texto": "A Á, de um querubim, de dez cóvados, e, assim, a"
+        },
+        {
+          "referencia": "1 Reis 7.2",
+          "texto": "e de trinta côvados de A., sobre quatro"
+        },
+        {
+          "referencia": "1 Reis 7.15",
+          "texto": "duas colunas de cobre; a À, de cada coluna era"
+        },
+        {
+          "referencia": "1 Reis 7.16",
+          "texto": "de cinco côvados era a A. de um capitel, e"
+        },
+        {
+          "referencia": "1 Reis 7.16",
+          "texto": "capitel, e de cinco côvados, a A. do outro capitel."
+        },
+        {
+          "referencia": "1 Reis 7.27",
+          "texto": "a sua largura, e, de três côvados, a sua A.."
+        },
+        {
+          "referencia": "1 Reis 7.32",
+          "texto": "das rodas, na base; e era a À. de cada roda de"
+        },
+        {
+          "referencia": "1 Reis 7.35",
+          "texto": "alto de cada base, havia uma A. redonda de meio"
+        },
+        {
+          "referencia": "2 Reis 5.24",
+          "texto": "E, chegando ele à A., tomou-os das suas mãos e os"
+        },
+        {
+          "referencia": "2 Reis 25.17",
+          "texto": "A À. de uma coluna era de dezoito côvados, e"
+        },
+        {
+          "referencia": "2 Reis 25.17",
+          "texto": "um capitel de cobre, e de A. tinha o capitel"
+        },
+        {
+          "referencia": "1 Crônicas 11.23",
+          "texto": "egípcio, homem de grande A., de cinco côvados;"
+        },
+        {
+          "referencia": "2 Crônicas 34",
+          "texto": "era de vinte côvados, ea A., de cento e"
+        },
+        {
+          "referencia": "2 Crônicas 3.15",
+          "texto": "trinta e cinco côvados de À.; eo capitel, que"
+        },
+        {
+          "referencia": "2 Crônicas 4.1",
+          "texto": "e de vinte côvados de largura, e dez côvados de A.."
+        },
+        {
+          "referencia": "2 Crônicas 6.13",
+          "texto": "largura, e de três côvados de Á., ea tinha posto"
+        },
+        {
+          "referencia": "Esdras 6.3",
+          "texto": "fundamentos serão firmes; a sua Á., de sessenta"
+        },
+        {
+          "referencia": "Ester 5.14",
+          "texto": "forca de cinquenta côvados de A., e amanhã dize"
+        },
+        {
+          "referencia": "Ester 7.9",
+          "texto": "forca de cinquenta côvados de 4. que Hamã fizera"
+        },
+        {
+          "referencia": "Jó 20.6",
+          "texto": "Ainda que a sua À. suba até ao céu, e a sua"
+        },
+        {
+          "referencia": "Jó 22.12",
+          "texto": "Deus não está na À. dos céus? Olha"
+        },
+        {
+          "referencia": "Jó 22.12",
+          "texto": "A. dos céus? Olha para a Á. das estrelas;"
+        },
+        {
+          "referencia": "Salmos 10.5",
+          "texto": "estão longe dele, em grande A.; trata com"
+        },
+        {
+          "referencia": "S165.10",
+          "texto": "sulcos, regulando a sua Á.; tu a amoleces com"
+        },
+        {
+          "referencia": "Provérbios 25.3",
+          "texto": "Para a À, dos céus, e para a profundeza da terra,"
+        },
+        {
+          "referencia": "Isaías 24.21",
+          "texto": "os exércitos do alto na Á. e os reis da"
+        },
+        {
+          "referencia": "Je 31.12",
+          "texto": "Hão de vir, e exultarão na 4, de Sião, e correrão"
+        },
+        {
+          "referencia": "Jeremias 48.29",
+          "texto": "orgulho, e da sua altivez, e da A. do seu coração."
+        },
+        {
+          "referencia": "Jeremias 51.53",
+          "texto": "e ainda que fortificasse a A. da sua fortaleza,"
+        },
+        {
+          "referencia": "Jeremias 52.21",
+          "texto": "Quanto às colunas, a 4. de uma coluna era de"
+        },
+        {
+          "referencia": "Ezequiel 17.6",
+          "texto": "videira mui larga, de pouca A., virando-se para"
+        },
+        {
+          "referencia": "Ezequiel 19.11",
+          "texto": "ramos, e foi vista na sua Á. com a multidão dos"
+        },
+        {
+          "referencia": "Ezequiel 31.10",
+          "texto": "ramos, e o seu coração se exalçou na sua Á.,"
+        },
+        {
+          "referencia": "Ezequiel 31.14",
+          "texto": "em si, por causa da sua 4.; porque todos"
+        },
+        {
+          "referencia": "Ezequiel 32.5",
+          "texto": "sobre os montes e encherei os vales da tua A.."
+        },
+        {
+          "referencia": "Ezequiel 40.5",
+          "texto": "a largura do edifício: uma cana, ea Á., uma cana."
+        },
+        {
+          "referencia": "Ezequiel 40.42",
+          "texto": "de um côvado e meio, ea Á., de um côvado;"
+        },
+        {
+          "referencia": "Ezequiel 41.8",
+          "texto": "E olhei para a A. do templo em redor; e eram os"
+        },
+        {
+          "referencia": "Ezequiel 41.22",
+          "texto": "era de três côvados de A., e o seu"
+        },
+        {
+          "referencia": "Ezequiel 43.13",
+          "texto": "inferior será de um côvado de À, e um côvado de"
+        },
+        {
+          "referencia": "Daniel 3.1",
+          "texto": "uma estátua de ouro, cuja À. era de sessenta"
+        },
+        {
+          "referencia": "Daniel 4.10",
+          "texto": "vi uma árvore no meio da terra, cuja Á., era grande;"
+        },
+        {
+          "referencia": "Daniel 4.11",
+          "texto": "forte, de maneira que a sua À, chegava até ao"
+        },
+        {
+          "referencia": "Daniel 4.20",
+          "texto": "cresceu e se fez forte, cuja A. chegava até ao"
+        },
+        {
+          "referencia": "Amós 2.9",
+          "texto": "o amorreu diante deles, a A. do qual era como a"
+        },
+        {
+          "referencia": "Amós 2.9",
+          "texto": "a À. do qual era como a 4. dos cedros, e cuja"
+        },
+        {
+          "referencia": "Romanos 8.39",
+          "texto": "nem a A., nem a profundidade, nem alguma outra"
+        },
+        {
+          "referencia": "Efésios 3.18",
+          "texto": "largura, e o comprimento, ea A., ea profundidade"
+        },
+        {
+          "referencia": "Apocalipse 21.16",
+          "texto": "eo seu comprimento, largura e Á, eram iguais."
+        }
+      ]
+    },
+    {
+      "palavra": "alugada",
+      "veja tambem": [
+        "alu-"
+      ],
+      "ocorrencias": 2,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Êxodo 22.15",
+          "texto": "não a restituirá; se foi A., será pelo seu aluguel."
+        },
+        {
+          "referencia": "Isaías 7.20",
+          "texto": "o Senhor com uma navalha Á., que está além do"
+        }
+      ]
+    },
+    {
+      "palavra": "alugara",
+      "veja tambem": [
+        "alugar"
+      ],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Atos 28.30",
+          "texto": "sua própria habitação que A, e recebia todos"
+        }
+      ]
+    },
+    {
+      "palavra": "alugaram",
+      "veja tambem": [
+        "alugar"
+      ],
+      "ocorrencias": 6,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Deuteronômio 234",
+          "texto": "saíeis do Egito; e porquanto A. contra ti a"
+        },
+        {
+          "referencia": "1 Samuel 2.5",
+          "texto": "que antes eram fartos se À. por pão, mas"
+        },
+        {
+          "referencia": "2 Samuel 10.6",
+          "texto": "enviaram os filhos de Amom e 4. dos siros de"
+        },
+        {
+          "referencia": "1 Crônicas 19.7",
+          "texto": "E À, para si trinta e dois mil carros, e o rei"
+        },
+        {
+          "referencia": "2 Crônicas 24.12",
+          "texto": "da Casa do Senhor e A. pedreiros e"
+        },
+        {
+          "referencia": "Esdras 4.5",
+          "texto": "E À. contra eles conselheiros para frustrarem o"
+        }
+      ]
+    },
+    {
+      "palavra": "alugarem",
+      "veja tambem": [
+        "alu-"
+      ],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "1 Crônicas 19.6",
+          "texto": "mil talentos de prata, para À. para si"
+        }
+      ]
+    },
+    {
+      "palavra": "alugou",
+      "veja tambem": [
+        "alu-"
+      ],
+      "ocorrencias": 2,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Juízes 9.4",
+          "texto": "de Baal-Berite; e com elas A. Abimeleque uns"
+        },
+        {
+          "referencia": "2 Reis 7.6",
+          "texto": "Eis que o rei de Israel Á. contra nós os"
+        }
+      ]
+    },
+    {
+      "palavra": "aluguei",
+      "veja tambem": [
+        "alugar"
+      ],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Gênesis 30.16",
+          "texto": "entrarás, porque certamente te Á. com as"
+        }
+      ]
+    },
+    {
+      "palavra": "aluguel",
+      "veja tambem": [],
+      "ocorrencias": 3,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Êxodo 22.15",
+          "texto": "a restituirá; se foi alugada, será pelo seu Á.."
+        },
+        {
+          "referencia": "Zacarias 810",
+          "texto": "destes dias não houve A, de homens, nem"
+        },
+        {
+          "referencia": "Zacarias 810",
+          "texto": "A, de homens, nem À. de animais; nem"
+        }
+      ]
+    },
+    {
+      "palavra": "alumia",
+      "veja tambem": [
+        "alu-"
+      ],
+      "ocorrencias": 8,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Jó 41.32",
+          "texto": "Após ele À. o caminho; parece o abismo tornado em"
+        },
+        {
+          "referencia": "S113.3",
+          "texto": "ouve-me, ó Senhor, meu Deus; Á. os meus olhos"
+        },
+        {
+          "referencia": "Provérbios 29.13",
+          "texto": "se encontram, e o Senhor À. os olhos de ambos."
+        },
+        {
+          "referencia": "Lucas 11.36",
+          "texto": "como quando a candeia te Á. com o seu resplendor."
+        },
+        {
+          "referencia": "Jó 1.9",
+          "texto": "a luz verdadeira, que À, a todo homem que"
+        },
+        {
+          "referencia": "2 Pedro 1.19",
+          "texto": "atentos, como a uma luz que Á. em lugar"
+        },
+        {
+          "referencia": "1 João 2.8",
+          "texto": "vão passando as trevas, e já a verdadeira luz A.."
+        },
+        {
+          "referencia": "Apocalipse 22.5",
+          "texto": "sol, porque o Senhor Deus os Á., e reinarão para"
+        }
+      ]
+    },
+    {
+      "palavra": "alumiado",
+      "veja tambem": [
+        "alumiar"
+      ],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Apocalipse 21.23",
+          "texto": "a glória de Deus a tem A., e o Cordeiro é"
+        }
+      ]
+    },
+    {
+      "palavra": "alumiam",
+      "veja tambem": [
+        "alumiar"
+      ],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Salmos 97.4",
+          "texto": "Os seus relâmpagos Á. o mundo; a terra viu e tremeu."
+        }
+      ]
+    }
+  ]
+}

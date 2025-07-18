@@ -1,0 +1,404 @@
+{
+  "a": [
+    {
+      "palavra": "abundancia",
+      "veja tambem": ["abundante", "abundância", "muito"],
+      "ocorrencias": 98,
+      "fonte": "Strong's H7230 (רֹב/rob)",
+      "concordancias": [
+        {
+          "referencia": "Gênesis 27.28",
+          "texto": "e das gorduras da terra, e A. de trigo e"
+        },
+        {
+          "referencia": "Gênesis 41.31",
+          "texto": "e não será conhecida a A. na terra, por causa"
+        },
+        {
+          "referencia": "Êxodo 2.19",
+          "texto": "e também nos tirou água em A. e abeberou o rebanho."
+        },
+        {
+          "referencia": "Deuteronômio 28.11",
+          "texto": "E o Senhor te dará Á. de bens no fruto do teu"
+        },
+        {
+          "referencia": "Deuteronômio 28.47",
+          "texto": "alegria e bondade de coração, pela A. de tudo,"
+        },
+        {
+          "referencia": "Deuteronômio 30.9",
+          "texto": "o Senhor, teu Deus, te dará Á. em toda obra"
+        },
+        {
+          "referencia": "Deuteronômio 33.19",
+          "texto": "de justiça, porque chuparão a Á. dos mares e"
+        },
+        {
+          "referencia": "1 Reis 1.19",
+          "texto": "bestas cevadas, e ovelhas em Á. e convidou"
+        },
+        {
+          "referencia": "IRs 1.25",
+          "texto": "bestas cevadas, e ovelhas em Á. e convidou"
+        },
+        {
+          "referencia": "1 Reis 10.10",
+          "texto": "veio especiaria em tanta Á. como a que a"
+        },
+        {
+          "referencia": "IRs 10.27",
+          "texto": "como pedras e cedros em A., como figueiras"
+        },
+        {
+          "referencia": "1 Crônicas 12.40",
+          "texto": "vinho, e azeite, e bois, e gado miúdo em Á.;"
+        },
+        {
+          "referencia": "1 Crônicas 22.3",
+          "texto": "E aparelhou Davi ferro em A., para os pregos"
+        },
+        {
+          "referencia": "1 Crônicas 22.3",
+          "texto": "como também cobre em Á., que nem foi pesado;"
+        },
+        {
+          "referencia": "1 Crônicas 22.4",
+          "texto": "etírios traziam a Davi madeira de cedro em Á.."
+        },
+        {
+          "referencia": "1 Crônicas 22.5",
+          "texto": "Assim, preparou Davi materiais em Å.,"
+        },
+        {
+          "referencia": "1 Crônicas 22.8",
+          "texto": "Tu derramaste sangue em Å. e fizeste"
+        },
+        {
+          "referencia": "1 Crônicas 22.14",
+          "texto": "que nem foi pesado, porque em A. é também"
+        },
+        {
+          "referencia": "1 Crônicas 29.2",
+          "texto": "de pedras preciosas, e pedras marmóreas em A.."
+        },
+        {
+          "referencia": "1 Crônicas 29.16",
+          "texto": "Deus nosso, toda esta A. que"
+        },
+        {
+          "referencia": "1 Crônicas 29.21",
+          "texto": "suas libações, e sacrifícios em A. por todo"
+        },
+        {
+          "referencia": "2 Crônicas 1.15",
+          "texto": "pedras, e cedros em tanta À. como figueiras"
+        },
+        {
+          "referencia": "2 Crônicas 4.18",
+          "texto": "esses objetos em grande Á., porque o peso"
+        },
+        {
+          "referencia": "2 Crônicas 9.1",
+          "texto": "de especiarias, e ouro em Á., e pedras"
+        },
+        {
+          "referencia": "2 Crônicas 9.9",
+          "texto": "e especiarias em grande Á., e pedras"
+        },
+        {
+          "referencia": "2 Crônicas 9.27",
+          "texto": "pedras e cedros em tanta Á. como as"
+        },
+        {
+          "referencia": "2 Crônicas 11.23",
+          "texto": "fortes; e deu-lhes víveres em A. e lhes"
+        },
+        {
+          "referencia": "2 Crônicas 14.15",
+          "texto": "gado, e levaram ovelhas em À. e camelos, e"
+        },
+        {
+          "referencia": "2 Crônicas 17.5",
+          "texto": "a Josafá; e teve riquezas e glória em Á.."
+        },
+        {
+          "referencia": "2 Crônicas 18.1",
+          "texto": "Josafá riquezas e glória emÃ.e"
+        },
+        {
+          "referencia": "2 Crônicas 18.2",
+          "texto": "Acabe matou ovelhas e bois em A., para ele e"
+        },
+        {
+          "referencia": "2 Crônicas 20.25",
+          "texto": "fazenda e cadáveres em Á., como também"
+        },
+        {
+          "referencia": "2 Crônicas 24.11",
+          "texto": "faziam dia após dia e ajuntaram dinheiro em A.,"
+        },
+        {
+          "referencia": "2 Crônicas 29.35",
+          "texto": "também holocaustos em Á., com a gordura"
+        },
+        {
+          "referencia": "2 Crônicas 31.5",
+          "texto": "também os dízimos de tudo trouxeram em AÁ.."
+        },
+        {
+          "referencia": "2 Crônicas 31.10",
+          "texto": "que se fartar e ainda sobejo em A., porque o"
+        },
+        {
+          "referencia": "2 Crônicas 32.5",
+          "texto": "na Cidade de Davi, e fez armas e escudos em Á.."
+        },
+        {
+          "referencia": "2 Crônicas 32.27",
+          "texto": "e glória em grande A,; e fizeram-se"
+        },
+        {
+          "referencia": "2 Crônicas 32.29",
+          "texto": "possuiu ovelhas e vacas em A., porque Deus"
+        },
+        {
+          "referencia": "Neemias 9.25",
+          "texto": "e árvores de mantimento, em À.; e"
+        },
+        {
+          "referencia": "Neemias 9.35",
+          "texto": "no seu reino, nem na muita À. de bens que"
+        },
+        {
+          "referencia": "Jó 12.12",
+          "texto": "está a sabedoria, e na À. de dias, o entendimento."
+        },
+        {
+          "referencia": "Jó 22.11",
+          "texto": "trevas, em que nada vês; e a À. de águas te cobre."
+        },
+        {
+          "referencia": "Jó 36.31",
+          "texto": "julga os povos e lhes dá mantimento em A.."
+        },
+        {
+          "referencia": "Jó 38.34",
+          "texto": "até às nuvens, para que a A. das águas te cubra?"
+        },
+        {
+          "referencia": "S116.11",
+          "texto": "da vida; na tua presença há Á. de alegrias; à"
+        },
+        {
+          "referencia": "St31.23",
+          "texto": "guarda os fiéis e retribui com 4. aos soberbos."
+        },
+        {
+          "referencia": "S137.11",
+          "texto": "Perdarso a terra e se deleitarão na 4. de paz."
+        },
+        {
+          "referencia": "S166.12",
+          "texto": "pela água; mas trouxeste-nos a um lugar de A.."
+        },
+        {
+          "referencia": "S168.9",
+          "texto": "ó Deus, mandaste a chuva em A. e confortaste"
+        },
+        {
+          "referencia": "S172.7",
+          "texto": "dias florescerá o justo, e A. de paz haverá"
+        },
+        {
+          "referencia": "S178.20",
+          "texto": "dela; rebentaram ribeiros em A.; poderá"
+        },
+        {
+          "referencia": "S178.25",
+          "texto": "dos poderosos; ele lhes mandou comida com A.."
+        },
+        {
+          "referencia": "S180.5",
+          "texto": "de lágrimas e lhes dás a beber lágrimas em A.."
+        },
+        {
+          "referencia": "Provérbios 10.31",
+          "texto": "justo produz sabedoria em Á., mas a língua"
+        },
+        {
+          "referencia": "Provérbios 13.23",
+          "texto": "A. de mantimento há na lavoura do pobre, mas"
+        },
+        {
+          "referencia": "Provérbios 14.4",
+          "texto": "mas, pela força do boi, há 4. de colheitas."
+        },
+        {
+          "referencia": "Provérbios 15.28",
+          "texto": "mas a boca dos ímpios derrama em Á. coisas más."
+        },
+        {
+          "referencia": "Provérbios 16.8",
+          "texto": "pouco com justiça do que a A. de colheita com injus-"
+        },
+        {
+          "referencia": "Provérbios 20.15",
+          "texto": "Há ouro e A. de rubins, mas os lábios do"
+        },
+        {
+          "referencia": "Provérbios 21.5",
+          "texto": "do diligente tendem à A., mas os de todo"
+        },
+        {
+          "referencia": "Eclesiastes 5.10",
+          "texto": "de dinheiro; e quem amar a A. nunca se"
+        },
+        {
+          "referencia": "Isaías 7.22",
+          "texto": "que, por causa da A. do leite que"
+        },
+        {
+          "referencia": "Isaías 15.7",
+          "texto": "Pelo que a À. que ajuntaram e o que"
+        },
+        {
+          "referencia": "Isaías 33.6",
+          "texto": "nos teus tnipos Á; de salvação,"
+        },
+        {
+          "referencia": "Isaías 47.9",
+          "texto": "tuas feitiçarias, por causa da A. dos teus"
+        },
+        {
+          "referencia": "Isaías 60.5",
+          "texto": "e se alargará; porque a Á. do mar se"
+        },
+        {
+          "referencia": "Tr 8.16",
+          "texto": "e devoram a terra, ea sua Á., ea cidade,"
+        },
+        {
+          "referencia": "Jeremias 33.6",
+          "texto": "sararei, e lhes manifestarei A. de paz e de verdade."
+        },
+        {
+          "referencia": "Jeremias 40.12",
+          "texto": "vinho e frutas do verão com muita A.."
+        },
+        {
+          "referencia": "Jeremias 48.36",
+          "texto": "de Quir-Heres; porquanto a À. que ajuntou"
+        },
+        {
+          "referencia": "Ezequiel 12.19",
+          "texto": "terra será despojada de sua Á., por causa"
+        },
+        {
+          "referencia": "Ezequiel 16.49",
+          "texto": "soberba, fartura de pão e À. de"
+        },
+        {
+          "referencia": "Ezequiel 27.12",
+          "texto": "contigo, por causa da À. de toda casta"
+        },
+        {
+          "referencia": "Ezequiel 47.7",
+          "texto": "do ribeiro havia uma grande A. de árvores,"
+        },
+        {
+          "referencia": "Oséias 9.7",
+          "texto": "é um louco; por causa da Á, da tua"
+        },
+        {
+          "referencia": "Oséias 10.1",
+          "texto": "para si mesmo; conforme a À. do seu fruto,"
+        },
+        {
+          "referencia": "Naum 3.3",
+          "texto": "uma multidão de mortos e À. de cadáveres,"
+        },
+        {
+          "referencia": "Zacarias 14.14",
+          "texto": "nações, ouro, e prata, e vestes em rande Á.."
+        },
+        {
+          "referencia": "Mateus 12.34",
+          "texto": "sendo maus? Pois do que há em À. no coração,"
+        },
+        {
+          "referencia": "Mateus 13.12",
+          "texto": "que tem se dará, e terá em A.; mas aquele"
+        },
+        {
+          "referencia": "Mateus 25.29",
+          "texto": "tiver será dado, e terá em A.; mas ao que"
+        },
+        {
+          "referencia": "Lucas 6.45",
+          "texto": "coração, tira o mal, porque da 4. do seu"
+        },
+        {
+          "referencia": "Lucas 12.15",
+          "texto": "de qualquer não consiste na A. do que possui."
+        },
+        {
+          "referencia": "Lucas 12.16",
+          "texto": "de um homem rico tinha produzido com A.."
+        },
+        {
+          "referencia": "Lucas 15.17",
+          "texto": "trabalhadores de meu pai têm A. de pão, e eu"
+        },
+        {
+          "referencia": "Jó 10.10",
+          "texto": "eu vim para que tenham vida e a tenham com A.."
+        },
+        {
+          "referencia": "Romanos 5.17",
+          "texto": "muito mais os que recebem a À. da graça e"
+        },
+        {
+          "referencia": "2 Coríntios 8.2",
+          "texto": "prova de tribulação, houve A. do seu gozo,"
+        },
+        {
+          "referencia": "2 Coríntios 8.14",
+          "texto": "tempo presente, a vossa À. supra a falta"
+        },
+        {
+          "referencia": "2 Coríntios 8.14",
+          "texto": "outros, para que também a sua Å. supra a"
+        },
+        {
+          "referencia": "2 Coríntios 8.20",
+          "texto": "nos vitupere por essa Á., que por nós é ministrada;"
+        },
+        {
+          "referencia": "2 Coríntios 9.6",
+          "texto": "ceifará; e o que semeia em A. em A."
+        },
+        {
+          "referencia": "2 Coríntios 9.6",
+          "texto": "que semeia em A. em Å. também ceifará."
+        },
+        {
+          "referencia": "Filipenses 4.12",
+          "texto": "abatido e sei também ter 4.; em toda a"
+        },
+        {
+          "referencia": "Filipenses 4.12",
+          "texto": "como a ter fome, tanto a ter A. como a"
+        },
+        {
+          "referencia": "Filipenses 4.18",
+          "texto": "tenho recebido e tenho 4.; cheio estou,"
+        },
+        {
+          "referencia": "Apocalipse 18.3",
+          "texto": "terra se enriqueceram com a À. de suas delícias."
+        }
+      ]
+    }
+  ]
+}

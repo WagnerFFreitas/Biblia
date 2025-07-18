@@ -1,0 +1,106 @@
+{
+  "a": [
+    {
+      "palavra": "anteontem",
+      "veja tambem": [
+        "ontem",
+        "passado"
+      ],
+      "ocorrencias": 4,
+      "fonte": "Strong's H8543 (תְּמוֹל/temol)",
+      "concordancias": [
+        {
+          "referencia": "Êxodo 4.10",
+          "texto": "eloquente, nem de ontem, nem de A., nem ainda"
+        },
+        {
+          "referencia": "Êxodo 5.7",
+          "texto": "como fizestes ontem e À.; vão eles"
+        },
+        {
+          "referencia": "Êxodo 5.8",
+          "texto": "que fizeram ontem e A.; nada"
+        },
+        {
+          "referencia": "ISm 21.5",
+          "texto": "se nos vedaram desde ontem; e, A., quando eu"
+        }
+      ]
+    },
+    {
+      "palavra": "antepassados",
+      "veja tambem": [
+        "pais",
+        "ancestrais"
+      ],
+      "ocorrencias": 2,
+      "fonte": "Strong's H1 (אָב/ab)",
+      "concordancias": [
+        {
+          "referencia": "Levítico 26.45",
+          "texto": "do concerto com os seus A., que tirei"
+        },
+        {
+          "referencia": "2 Timóteo 1.3",
+          "texto": "Deus, a quem, desde os meus A., sirvo com"
+        }
+      ]
+    },
+    {
+      "palavra": "anteriores",
+      "veja tambem": [
+        "anterior"
+      ],
+      "ocorrencias": 1,
+      "fonte": "Strong's H6440 (פָּנִים/paniym)",
+      "concordancias": [
+        {
+          "referencia": "Mateus 24.38",
+          "texto": "assim como, nos dias Á. ao dilúvio,"
+        }
+      ]
+    },
+    {
+      "palavra": "anteriormente",
+      "veja tambem": [
+        "antes"
+      ],
+      "ocorrencias": 8,
+      "fonte": "Strong's H6440 (פָּנִים/paniym)",
+      "concordancias": [
+        {
+          "referencia": "Gênesis 31.5",
+          "texto": "pai para comigo não é como À.; porém o"
+        },
+        {
+          "referencia": "Jó 19.39",
+          "texto": "Nicodemos (aquele que, A., se"
+        },
+        {
+          "referencia": "Atos 4.28",
+          "texto": "eo teu conselho tinham À, determinado"
+        },
+        {
+          "referencia": "Atos 7.52",
+          "texto": "pais? Até mataram os que À. anunciaram"
+        },
+        {
+          "referencia": "Atos 8.9",
+          "texto": "homem chamado Simão, que A. exercera"
+        },
+        {
+          "referencia": "2 Coríntios 13.2",
+          "texto": "Já A. o disse e segunda vez o digo, como"
+        },
+        {
+          "referencia": "G13.17",
+          "texto": "que tendo sido o testamento Á, confirmado"
+        },
+        {
+          "referencia": "1 Pedro 1.11",
+          "texto": "que estava neles, indicava, A."
+        }
+      ]
+    }
+  ]
+}

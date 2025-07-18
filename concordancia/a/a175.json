@@ -1,0 +1,312 @@
+{
+  "a": [
+    {
+      "palavra": "azarias",
+      "veja tambem": ["sacerdote", "rei", "profeta"],
+      "ocorrencias": 46,
+      "fonte": "Strong's H5838 (עֲזַרְיָה/azaryah)",
+      "concordancias": [
+        {
+          "referencia": "1 Reis 4.2",
+          "texto": "os príncipes que tinha: A., filho de"
+        },
+        {
+          "referencia": "IRs 45",
+          "texto": "E À, filho de Natã, estava sobre os provedores;"
+        },
+        {
+          "referencia": "2 Reis 14.21",
+          "texto": "o povo de Judá tomou a Á., que já era de"
+        },
+        {
+          "referencia": "2 Reis 14.22",
+          "texto": "À, edificou a Elate e a restituiu a Judá, depois"
+        },
+        {
+          "referencia": "2 Reis 15.1",
+          "texto": "de Israel, começou a reinar A., filho de"
+        },
+        {
+          "referencia": "2 Reis 15.6",
+          "texto": "Ora, o mais dos atos de Á, e tudo o que fez,"
+        },
+        {
+          "referencia": "2 Reis 15.7",
+          "texto": "E À, dormiu com seus pais, e o sepultaram junto"
+        },
+        {
+          "referencia": "2 Reis 15.8",
+          "texto": "No ano trinta e oito de A., rei de Judá, reinou"
+        },
+        {
+          "referencia": "2 Reis 15.17",
+          "texto": "o ano trinta e nove de A., rei de Judá,"
+        },
+        {
+          "referencia": "2 Reis 15.23",
+          "texto": "No ano cinquenta de A., rei de Judá, começou a"
+        },
+        {
+          "referencia": "2 Reis 15.27",
+          "texto": "No ano cinquenta e dois de Å., rei de Judá,"
+        },
+        {
+          "referencia": "1 Crônicas 2.8",
+          "texto": "E o filho de Ftå foi A.."
+        },
+        {
+          "referencia": "1 Crônicas 2.38",
+          "texto": "E Obede gerou a Jeú, e Jeú gerou a Á.."
+        },
+        {
+          "referencia": "1 Crônicas 6.9",
+          "texto": "e Aimaás gerou a Á., e À, gerou a Joanã;"
+        },
+        {
+          "referencia": "1 Crônicas 6.10",
+          "texto": "e Joanã gerou a A.; esteéo que administrou o"
+        },
+        {
+          "referencia": "1 Crônicas 6.11",
+          "texto": "E À. gerou a Amarias, e Amarias gerou a Aitube;"
+        },
+        {
+          "referencia": "1 Crônicas 6.13",
+          "texto": "e Salum gerou a Hilquias, e Hilquias gerou a À.;"
+        },
+        {
+          "referencia": "1 Crônicas 6.36",
+          "texto": "filho de Joel, filho de A., filho de Sofonias,"
+        },
+        {
+          "referencia": "1 Crônicas 9.11",
+          "texto": "e A., filho de Hilquias, filho de Mesulão, filho"
+        },
+        {
+          "referencia": "2 Crônicas 15.1",
+          "texto": "veio o Espírito de Deus sobre A., filho de Obede."
+        },
+        {
+          "referencia": "2 Crônicas 21.2",
+          "texto": "irmãos, flhos de Josafá: Á., eJeiel, e"
+        },
+        {
+          "referencia": "2 Crônicas 22.6",
+          "texto": "Hazael, rei da Síria; e A., filho de"
+        },
+        {
+          "referencia": "2 Crônicas 23.1",
+          "texto": "os chefes das centenas: A., filho de"
+        },
+        {
+          "referencia": "2 Crônicas 23.1",
+          "texto": "e Ismael, filho de Joanã, e A., filho de"
+        },
+        {
+          "referencia": "2 Crônicas 26.17",
+          "texto": "Porém o sacerdote A. entrou após ele, e, com"
+        },
+        {
+          "referencia": "2 Crônicas 26.20",
+          "texto": "Então, o sumo sacerdote Á. olhou para ele, como"
+        },
+        {
+          "referencia": "2 Crônicas 28.12",
+          "texto": "chefes dos filhos de Efraim, A., filho de Joanã,"
+        },
+        {
+          "referencia": "2 Crônicas 29.12",
+          "texto": "de Amasai, e Joel, filho de A., dos filhos"
+        },
+        {
+          "referencia": "2 Crônicas 29.12",
+          "texto": "de Merari, Quis, filho de Abdi, e A., filho"
+        },
+        {
+          "referencia": "2 Crônicas 31.10",
+          "texto": "E A., o sumo sacerdote da casa de Zadoque, lhe"
+        },
+        {
+          "referencia": "2 Crônicas 31.13",
+          "texto": "Jeiel, e A., e Naate, e Asael, e Jerimote, e"
+        },
+        {
+          "referencia": "2 Crônicas 31.13",
+          "texto": "por mandado do rei Ezequias e de A.,"
+        },
+        {
+          "referencia": "Esdras 7.1",
+          "texto": "filho de Seraías, filho de A., filho de Hilquias,"
+        },
+        {
+          "referencia": "Esdras 7.3",
+          "texto": "filho de Amarias, filho de A., filho de Meraiote,"
+        },
+        {
+          "referencia": "Neemias 3.23",
+          "texto": "casa; depois deles, reparou A., filho de"
+        },
+        {
+          "referencia": "Neemias 3.24",
+          "texto": "outra porção, desde a casa de À, até à esquina"
+        },
+        {
+          "referencia": "Neemias 7.7",
+          "texto": "Zorobabel, Jesua, Neemias, A., Raamias,"
+        },
+        {
+          "referencia": "Neemias 8.7",
+          "texto": "e Hodias, e Maaseias, e Quelita, e A., e"
+        },
+        {
+          "referencia": "Neemias 10.2",
+          "texto": "Seraías, Á., Jeremias,"
+        },
+        {
+          "referencia": "Neemias 12.33",
+          "texto": "e Á., Esdras, Mesulão,"
+        },
+        {
+          "referencia": "Jeremias 43.2",
+          "texto": "então, falou A., filho de Hosaías, e Joanã,"
+        },
+        {
+          "referencia": "Daniel 1.6",
+          "texto": "dos filhos de Judá, Daniel, Hananias, Misael e A.."
+        },
+        {
+          "referencia": "Daniel 1.7",
+          "texto": "ea Misael, o de Mesaque, ea A., o de Abede-Nego."
+        },
+        {
+          "referencia": "Daniel 1.11",
+          "texto": "constituído sobre Daniel, Hananias, Misael e A.:"
+        },
+        {
+          "referencia": "Daniel 1.19",
+          "texto": "Daniel, Hananias, Misaele A.; por isso,"
+        },
+        {
+          "referencia": "Daniel 2.17",
+          "texto": "o caso a Hananias, Misaele A., seus companheiros,"
+        }
+      ]
+    },
+    {
+      "palavra": "azariau",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "2 Crônicas 21.2",
+          "texto": "Azarias, e Jeiel, e Zacarias, e Á., e Micael, e"
+        }
+      ]
+    },
+    {
+      "palavra": "azaz",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "1 Crônicas 5.8",
+          "texto": "e Belá, filho de A., filho de Sema, filho de Joel,"
+        }
+      ]
+    },
+    {
+      "palavra": "azazias",
+      "veja tambem": [],
+      "ocorrencias": 2,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "1 Crônicas 15.21",
+          "texto": "e Obede-Edom, e Jeiel, e A., com harpas,"
+        },
+        {
+          "referencia": "1 Crônicas 27.20",
+          "texto": "de Efraim, Oseias, filho de A.; sobre a meia"
+        }
+      ]
+    },
+    {
+      "palavra": "azbuque",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Neemias 3.16",
+          "texto": "edificou Neemias, filho de A., maioral da"
+        }
+      ]
+    },
+    {
+      "palavra": "azeca",
+      "veja tambem": [],
+      "ocorrencias": 7,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Josué 10.10",
+          "texto": "que sobe a Bete-Horom, e os feriu até A, e Maquedá."
+        },
+        {
+          "referencia": "Josué 10.11",
+          "texto": "do céu, grandes pedras até A., e morreram; e"
+        },
+        {
+          "referencia": "Josué 15.35",
+          "texto": "e Jarmute, e Adulão, e Socó, e A.,"
+        },
+        {
+          "referencia": "iSm 17.1",
+          "texto": "e acamparam-se entre Socó e A., no termo de Da-"
+        },
+        {
+          "referencia": "2 Crônicas 11.9",
+          "texto": "e a Adoraim, e a Laquis, ea A.,"
+        },
+        {
+          "referencia": "Neemias 11.30",
+          "texto": "Laquis e nas suas terras; em Á, e nos lugares da"
+        },
+        {
+          "referencia": "Jeremias 34.7",
+          "texto": "contra Laquis e contra A.; porque estas"
+        }
+      ]
+    },
+    {
+      "palavra": "azedou",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "S173.21",
+          "texto": "Assim, o meu coração se Á., e sinto picadas nos"
+        }
+      ]
+    },
+    {
+      "palavra": "azeitado",
+      "veja tambem": [],
+      "ocorrencias": 2,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Êxodo 29.23",
+          "texto": "de pão, e um bolo de pão A., e um coscorão"
+        },
+        {
+          "referencia": "Levítico 8.26",
+          "texto": "bolo asmo, e um bolo de pão A., e um coscorão"
+        }
+      ]
+    }
+  ]
+}

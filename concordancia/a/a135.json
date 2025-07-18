@@ -1,0 +1,124 @@
+{
+  "a": [
+    {
+      "palavra": "arqueu",
+      "veja tambem": ["povo", "descendente", "tribo"],
+      "ocorrencias": 1,
+      "fonte": "Strong's H6184 (עַרְקִי/Arki)",
+      "concordancias": [
+        {
+          "referencia": "Gênesis 10.17",
+          "texto": "e ao heveu, e ao A., e ao sineu,"
+        }
+      ]
+    },
+    {
+      "palavra": "arqueus",
+      "veja tambem": ["arqueu", "povo", "descendente"],
+      "ocorrencias": 1,
+      "fonte": "Strong's H6184 (עַרְקִי/Arki)",
+      "concordancias": [
+        {
+          "referencia": "1 Crônicas 1.15",
+          "texto": "e osheveus, e os Á., eossineus,"
+        }
+      ]
+    },
+    {
+      "palavra": "arquevitas",
+      "veja tambem": ["arqueu", "povo", "descendente"],
+      "ocorrencias": 1,
+      "fonte": "Strong's H6205 (עַרְוָי/Arvay)",
+      "concordancias": [
+        {
+          "referencia": "Esdras 49",
+          "texto": "tarpelitas, afarsitas, Á.,"
+        }
+      ]
+    },
+    {
+      "palavra": "arquipo",
+      "veja tambem": ["companheiro", "igreja primitiva"],
+      "ocorrencias": 2,
+      "fonte": "Strong's G751 (Ἀρχῖππος/Archippos)",
+      "concordancias": [
+        {
+          "referencia": "Colossenses 4.17",
+          "texto": "E dizeia Á.: Atenta para o ministério que"
+        },
+        {
+          "referencia": "Em 1.2",
+          "texto": "e à nossa irmã Áfia, ea Á., nosso companheiro,"
+        }
+      ]
+    },
+    {
+      "palavra": "arquita",
+      "veja tambem": ["povo", "gentílico"],
+      "ocorrencias": 5,
+      "fonte": "Strong's H6187 (עַרְכִּי/Arki)",
+      "concordancias": [
+        {
+          "referencia": "2 Samuel 15.32",
+          "texto": "ali a Deus, eis que Husai, o A., veio"
+        },
+        {
+          "referencia": "2 Samuel 16.16",
+          "texto": "que, chegando Husai, o A., amigo de Davi,"
+        },
+        {
+          "referencia": "2 Samuel 17.5",
+          "texto": "Chamai agora também a Husai, o A., e ouçamos"
+        },
+        {
+          "referencia": "2 Samuel 17.14",
+          "texto": "é o conselho de Husai, o A., do que o"
+        },
+        {
+          "referencia": "1 Crônicas 27.33",
+          "texto": "do conselho do rei; e Husai, o A., amigo do rei;"
+        }
+      ]
+    },
+    {
+      "palavra": "arquitas",
+      "veja tambem": ["arquita", "povo", "gentílico"],
+      "ocorrencias": 1,
+      "fonte": "Strong's H6187 (עַרְכִּי/Arki)",
+      "concordancias": [
+        {
+          "referencia": "Josué 16.2",
+          "texto": "sai a Luz, e passa ao termo dos À. até Atarote;"
+        }
+      ]
+    },
+    {
+      "palavra": "arquiteto",
+      "veja tambem": ["construtor", "edificador"],
+      "ocorrencias": 1,
+      "fonte": "Strong's G753 (ἀρχιτέκτων/architekton)",
+      "concordancias": [
+        {
+          "referencia": "1 Coríntios 3.10",
+          "texto": "foi dada, pus eu, como sábio A., o fundamento,"
+        }
+      ]
+    },
+    {
+      "palavra": "arrabalde",
+      "veja tambem": ["subúrbio", "vila"],
+      "ocorrencias": 2,
+      "fonte": "Strong's H4054 (מִגְרָשׁ/migrash)",
+      "concordancias": [
+        {
+          "referencia": "Levítico 25.34",
+          "texto": "Mas o campo do Á. das suas cidades não se"
+        },
+        {
+          "referencia": "Ezequiel 45.2",
+          "texto": "quadrado, e terá em redor um Á. de cinquenta cóva-"
+        }
+      ]
+    }
+  ]
+}

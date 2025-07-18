@@ -1,0 +1,600 @@
+{
+  "a": [
+    {
+      "palavra": "avezinha",
+      "veja tambem": ["ave", "pássaro", "pássaros"],
+      "ocorrencias": 2,
+      "fonte": "Dicionário Bíblico Strong, variantes contextuais.",
+      "concordancias": [
+        {
+          "referencia": "Levítico 14.52",
+          "texto": "aquela casa com o sangue da A., e com as águas"
+        },
+        {
+          "referencia": "Levítico 14.52",
+          "texto": "e com as águas vivas, e com a À. viva, e com o"
+        }
+      ]
+    },
+    {
+      "palavra": "avia-te",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "1 Samuel 20.38",
+          "texto": "atrás do moço: Apressa-te, Á., não te demores."
+        }
+      ]
+    },
+    {
+      "palavra": "aviamentos",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "2 Reis 7.15",
+          "texto": "estava cheio de vestes e de A., que os siros,"
+        }
+      ]
+    },
+    {
+      "palavra": "aviassem",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Esdras 3.8",
+          "texto": "vinte anos e daí para cima, para que Å. a obra"
+        }
+      ]
+    },
+    {
+      "palavra": "avidamente",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Provérbios 21.26",
+          "texto": "Todo o dia A. cobiça, mas o justo dá e nada retém."
+        }
+      ]
+    },
+    {
+      "palavra": "avidez",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Efésios 4.19",
+          "texto": "à dissolução, para, com Á,, cometerem toda impureza."
+        }
+      ]
+    },
+    {
+      "palavra": "aviltado",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Marcos 9.12",
+          "texto": "do Homem, que ele deva padecer muito e ser A.."
+        }
+      ]
+    },
+    {
+      "palavra": "avim",
+      "veja tambem": [],
+      "ocorrencias": 0,
+      "fonte": "",
+      "concordancias": []
+    },
+    {
+      "palavra": "avisada",
+      "veja tambem": [
+        "avisar"
+      ],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Daniel 2.14",
+          "texto": "Então, Daniel falou A, e prudentemente a"
+        }
+      ]
+    },
+    {
+      "palavra": "avisadamente",
+      "veja tambem": [
+        "avisado"
+      ],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Gênesis 48.14",
+          "texto": "dirigindo as suas mãos Á., ainda que"
+        }
+      ]
+    },
+    {
+      "palavra": "avisado",
+      "veja tambem": [],
+      "ocorrencias": 17,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "1 Samuel 19.21",
+          "texto": "E, Á. disso Saul, enviou outros mensageiros, e"
+        },
+        {
+          "referencia": "1 Samuel 27.4",
+          "texto": "E, sendo Saul A. de que Davi tinha fugido para"
+        },
+        {
+          "referencia": "2 Reis 6.10",
+          "texto": "lhe falara e de que o tinha A., ese guardou"
+        },
+        {
+          "referencia": "1 Crônicas 19.17",
+          "texto": "Do que A. Davi, ajuntou a todo o Israel, e"
+        },
+        {
+          "referencia": "Provérbios 12.16",
+          "texto": "conhece no mesmo dia, mas o 4. encobre a afronta."
+        },
+        {
+          "referencia": "Provérbios 12.23",
+          "texto": "O homem Á. encobre o conhecimento, mas o coração"
+        },
+        {
+          "referencia": "Provérbios 22.30",
+          "texto": "A. vê o mal e esconde-se; mas os simples"
+        },
+        {
+          "referencia": "Provérbios 27.12",
+          "texto": "O À. vê o mal e esconde-se; mas os simples"
+        },
+        {
+          "referencia": "Ezequiel 3.21",
+          "texto": "certamente viverá, porque foi Á.; etu"
+        },
+        {
+          "referencia": "Ezequiel 33.4",
+          "texto": "da trombeta não se der por A., e vier a espada e"
+        },
+        {
+          "referencia": "Ezequiel 33.5",
+          "texto": "trombeta e não se deu por A.; o seu sangue será"
+        },
+        {
+          "referencia": "Ezequiel 33.5",
+          "texto": "ele; mas o que se dá por À. salvará a sua vida."
+        },
+        {
+          "referencia": "Ezequiel 33.6",
+          "texto": "tocar a trombeta, e não for Á. o povo; se a"
+        },
+        {
+          "referencia": "Mateus 2.22",
+          "texto": "pai, receou ir para lá; mas, A, em sonhos por"
+        },
+        {
+          "referencia": "Atos 10.22",
+          "texto": "toda a nação dos judeus, foi A. por um santo"
+        },
+        {
+          "referencia": "Hebreus 8.5",
+          "texto": "como Moisés divinamente foi A., estando já para"
+        },
+        {
+          "referencia": "Hebreus 11.7",
+          "texto": "Pela fé, Noé, divinamente À. das coisas que"
+        }
+      ]
+    },
+    {
+      "palavra": "avisados",
+      "veja tambem": [
+        "avisar"
+      ],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Mateus 2.12",
+          "texto": "sendo por divina revelação A. em sonhos para"
+        }
+      ]
+    },
+    {
+      "palavra": "avisai",
+      "veja tambem": [
+        "avisar"
+      ],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "2 Samuel 17.16",
+          "texto": "enviai apressadamente, e Á. a Davi, dizendo:"
+        }
+      ]
+    },
+    {
+      "palavra": "avisando",
+      "veja tambem": [
+        "avisar"
+      ],
+      "ocorrencias": 3,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Ezequiel 3.18",
+          "texto": "Certamente morrerás; não o À. tu, não falando"
+        },
+        {
+          "referencia": "Ezequiel 3.20",
+          "texto": "ele morrerá; porque, não o Á. tu, no seu"
+        },
+        {
+          "referencia": "Ezequiel 3.21",
+          "texto": "Mas, À. tu o justo, para que o justo não peque,"
+        }
+      ]
+    },
+    {
+      "palavra": "avisar",
+      "veja tambem": [],
+      "ocorrencias": 2,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Ezequiel 3.18",
+          "texto": "avisando tu, não falando para À. o ímpio acerca"
+        },
+        {
+          "referencia": "Ezequiel 33.3",
+          "texto": "vem sobre a terra, tocar a trombeta e Á. o povo;"
+        }
+      ]
+    },
+    {
+      "palavra": "avisar-te-ei",
+      "veja tambem": [
+        "avisar"
+      ],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Números 24.14",
+          "texto": "que me vou ao meu povo; vem, À. do que"
+        }
+      ]
+    },
+    {
+      "palavra": "avisaram",
+      "veja tambem": [],
+      "ocorrencias": 2,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "2 Samuel 6.12",
+          "texto": "Então, A. a Davi, dizendo: Abençoou o Senhor a"
+        },
+        {
+          "referencia": "1 Crônicas 19.5",
+          "texto": "E foram-se e 4. a Davi acerca destes homens; e"
+        }
+      ]
+    },
+    {
+      "palavra": "avisarás",
+      "veja tambem": [
+        "avisar"
+      ],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Ezequiel 3.17",
+          "texto": "boca ouvirás a palavra e os A. da minha parte."
+        }
+      ]
+    },
+    {
+      "palavra": "avisares",
+      "veja tambem": [
+        "avisar"
+      ],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Ezequiel 3.19",
+          "texto": "Mas, se À. o ímpio, e ele não se converter da"
+        }
+      ]
+    },
+    {
+      "palavra": "aviso",
+      "veja tambem": [],
+      "ocorrencias": 12,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Gênesis 38.13",
+          "texto": "E deram À. a Tamar, dizendo: Eis que teu sogro"
+        },
+        {
+          "referencia": "Gênesis 38.24",
+          "texto": "três meses depois, deram A. a Judá, dizendo:"
+        },
+        {
+          "referencia": "1 Samuel 22.8",
+          "texto": "mim? E ninguém há que me dê A. de que meu filho"
+        },
+        {
+          "referencia": "2 Samuel 3.23",
+          "texto": "que vinha com ele, deram A. a Joabe, dizendo:"
+        },
+        {
+          "referencia": "2 Samuel 15.36",
+          "texto": "de Abiatar; pela mão deles 4, me mandareis de"
+        },
+        {
+          "referencia": "2 Reis 4.31",
+          "texto": "com ele e lhe trouxe A., dizendo: Não"
+        },
+        {
+          "referencia": "2 Crônicas 20.2",
+          "texto": "vieram alguns que deram Á. a Josafá, dizendo:"
+        },
+        {
+          "referencia": "Esdras 4.14",
+          "texto": "a desonra do rei, por isso mandamos dar 4. ao rei,"
+        },
+        {
+          "referencia": "Py 19.25",
+          "texto": "e o simples tomará A.; repreende ao"
+        },
+        {
+          "referencia": "Isaías 7.2",
+          "texto": "E deram A. à casa de Davi, dizendo: A Síria fez"
+        },
+        {
+          "referencia": "Atos 21.31",
+          "texto": "ao tribuno da coorte o À, de que Jerusalém"
+        },
+        {
+          "referencia": "1 Coríntios 10.11",
+          "texto": "e estão escritas para A. nosso, para quem"
+        }
+      ]
+    },
+    {
+      "palavra": "avisos",
+      "veja tambem": [],
+      "ocorrencias": 3,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "2 Samuel 2.4",
+          "texto": "a casa de Judá. E deram Á, a Davi, dizendo:"
+        },
+        {
+          "referencia": "1 Reis 20.17",
+          "texto": "a alguns, que lhe deram A., dizendo: Saíram"
+        },
+        {
+          "referencia": "Provérbios 5.2",
+          "texto": "para que conserves os meus Á., e os teus lábios"
+        }
+      ]
+    },
+    {
+      "palavra": "avisou",
+      "veja tambem": [],
+      "ocorrencias": 2,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "1 Samuel 19.11",
+          "texto": "do que Mical, sua mulher, A, a Davi,"
+        },
+        {
+          "referencia": "2 Samuel 17.18",
+          "texto": "viu-os, todavia, um moço, e À. a Absalão; porém"
+        }
+      ]
+    },
+    {
+      "palavra": "avistam",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Jó 39.29",
+          "texto": "descobre a presa; seus olhos a Á. desde longe."
+        }
+      ]
+    },
+    {
+      "palavra": "avistando",
+      "veja tambem": [
+        "avistam"
+      ],
+      "ocorrencias": 0,
+      "fonte": "",
+      "concordancias": []
+    },
+    {
+      "palavra": "avite",
+      "veja tambem": [],
+      "ocorrencias": 2,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Gênesis 36.35",
+          "texto": "no campo de Moabe; e o nome da sua cidade foi A.."
+        },
+        {
+          "referencia": "1 Crônicas 1.46",
+          "texto": "no campo de Moabe; e era o nome da sua cidade A.."
+        }
+      ]
+    },
+    {
+      "palavra": "aviva",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Habacuque 3.2",
+          "texto": "Senhor, a tua palavra e temi; A., ó Senhor, a tua"
+        }
+      ]
+    },
+    {
+      "palavra": "avizinhará",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Amós 9.10",
+          "texto": "os quais dizem: Não se Á. nem nos"
+        }
+      ]
+    },
+    {
+      "palavra": "avó",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "2 Timóteo 1.5",
+          "texto": "habitou primeiro em tua A. Loide e em tua mãe"
+        }
+      ]
+    },
+    {
+      "palavra": "avultado",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Hebreus 10.35",
+          "texto": "a vossa confiança, que tem grande e À. galardão."
+        }
+      ]
+    },
+    {
+      "palavra": "avultará",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Oséias 9.7",
+          "texto": "abundância da tua iniquidade, também A. o ódio."
+        }
+      ]
+    },
+    {
+      "palavra": "avultaram",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Ezequiel 16.7",
+          "texto": "e alcançaste grande formosura; Á. os seios, e"
+        }
+      ]
+    },
+    {
+      "palavra": "azai",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Neemias 11.13",
+          "texto": "filho de Azarel, filho de A., filho de"
+        }
+      ]
+    },
+    {
+      "palavra": "azalias",
+      "veja tambem": [],
+      "ocorrencias": 2,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "2 Reis 22.3",
+          "texto": "o escrivão Safã, filho de A., filho de"
+        },
+        {
+          "referencia": "2 Crônicas 34.8",
+          "texto": "casa, enviou a Safã, filho de A., e a Maaseias,"
+        }
+      ]
+    },
+    {
+      "palavra": "azanias",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Neemias 10.9",
+          "texto": "os levitas: Jesua, filho de A., Binui, dos"
+        }
+      ]
+    },
+    {
+      "palavra": "azarel",
+      "veja tambem": [],
+      "ocorrencias": 6,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "1 Crônicas 12.6",
+          "texto": "Elcana, e Issias, e Á., e Joezer, e Jasobeão, os coraítas;"
+        },
+        {
+          "referencia": "1 Crônicas 25.18",
+          "texto": "a undécima, a Á., e seus filhos, e seus irmãos, doze;"
+        },
+        {
+          "referencia": "1 Crônicas 27.22",
+          "texto": "sobre Då, Å., filho de Jeroão; estes eram os"
+        },
+        {
+          "referencia": "Esdras 1041",
+          "texto": "A., Selemias, Semarias,"
+        },
+        {
+          "referencia": "Neemias 11.13",
+          "texto": "e dois; e Amasai, filho de A., filho de Azai,"
+        },
+        {
+          "referencia": "Neemias 12.36",
+          "texto": "e seus irmãos, Semaías, A., Milalai, Gilalai,"
+        }
+      ]
+    }
+  ]
+}
