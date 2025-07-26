@@ -60,6 +60,8 @@ document.addEventListener('DOMContentLoaded', () => {
             });
             botoesFaixaContainer.appendChild(btnFaixa);
         }
+        // Adiciona a classe 'active' ao container após criar os botões
+        botoesFaixaContainer.classList.add('active');
     }
     
     async function exibirGradeDeHinos(inicio, fim) {
