@@ -209,12 +209,14 @@ main {
     left: 0;
     width: 100%;
     text-align: center;
-    font-size: 1em;
+    font-size: 1.3em;
     background: rgba(0,0,0,0.8);
-    padding: 8px 0;
+    height: 50px;/* Define altura*/
     z-index: 10;
     letter-spacing: 0.5px;
     border-top: 1px solid rgba(255, 255, 255, 0.1);
+    color: #d4ac0d;/* Define cor do texto*/
+    line-height: 0.5;/* Define altura da linha*/
 }
 
 .erro-carregamento {
