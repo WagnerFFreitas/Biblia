@@ -614,7 +614,7 @@ class ConcordanciaOptimized {
                 
                 for (const fileName of letterFiles) {
                     try {
-                        const response = await fetch(`/concordancia/${letter}/${fileName}.json`);
+                        const response = await fetch(`../concordancia/${letter}/${fileName}.json`);
                         if (!response.ok) continue;
                         
                         const jsonData = await response.json();

@@ -10,7 +10,7 @@
 import { getTestamentoDoLivroConfig, getOrdemDosLivrosConfig, findLivroByIdConfig } from './dropdown_concordancia.js';
 
 // Este bloco define o caminho base para os arquivos de dados da concordância.
-const CONCORDANCIA_DATA_BASE_PATH_LOCAL = '/concordancia/';                        // Variáveis de estado para armazenar dados e filtros atuais.
+const CONCORDANCIA_DATA_BASE_PATH_LOCAL = '../concordancia/';                        // Variáveis de estado para armazenar dados e filtros atuais.
 let dadosCarregadosPorLetraOuBusca = [];                                           // Armazena os dados brutos carregados (por letra ou busca global).
 let filtroTestamentoAtual = 'todos';                                               // Estado do filtro de testamento ('todos', 'Antigo Testamento', 'Novo Testamento').
 let filtroLivroAtual = 'todos';                                                    // Estado do filtro de livro (ex: 'gn' para Gênesis).

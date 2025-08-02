@@ -25,7 +25,7 @@ class DataManager {
         if (this.listaLetras) return this.listaLetras;                             // Retorna do cache se já estiver carregado.
 
         try {
-            const response = await fetch('/concordancia/lista_letras.json');
+            const response = await fetch('../concordancia/lista_letras.json');
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
@@ -130,7 +130,7 @@ class DataManager {
     // Este bloco carrega um único arquivo JSON de concordância.
     async _loadSingleFile(letter, fileName) {
         try {
-            const response = await fetch(`/concordancia/${letter}/${fileName}.json`);
+            const response = await fetch(`../concordancia/${letter}/${fileName}.json`);
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
