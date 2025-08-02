@@ -1,486 +1,689 @@
-/*
- * ARQUIVO DE ESTILO: concordancia.css
- * DESCRIÇÃO: Contém os estilos específicos para a visualização da Concordância,
- *            como a formatação das ocorrências, filtros e o popup de versículos.
- *            Modificado para manter a funcionalidade de rolagem sem mostrar a barra.
-*/
+/* CSS PARA GARANTIR QUE FONTE E VEJA TAMBÉM SEJAM VISÍVEIS */
 
-/* Container para os filtros da Concordância */
+/* Container de filtros - barra de filtro */
+/* Container de filtros - barra de filtro */
 .filtros-container {
-    display: flex;
-    gap: 10px;
-    margin-bottom: 20px;
-    padding: 12px;
-    background-color: rgba(40, 40, 40, 0.85);
-    border-radius: 6px;
-    align-items: center;
-    width: 100%;
-    flex-wrap: nowrap;
-    justify-content: flex-end;
-    border: 1px solid rgba(58, 58, 58, 0.7);
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
-    position: sticky;
-    top: 0;
-    z-index: 20;
-}
-
-/* Grupo de filtro individual (label + input/select) */
-.filtro-grupo {
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    flex-shrink: 0;
-}
-
-/* Rótulos (labels) dos filtros */
-.filtro-grupo label {
-    color: #b0b0b0;
-    font-size: 0.85em;
-    white-space: nowrap;
-}
-
-/* Campos de input de texto nos filtros */
-#filtro-palavra-input, .filtros-container .search-group .search-input {
-    width: 130px;
-    min-width: 100px;
-    padding: 0 10px;
-    font-size: 0.9em;
-    height: 32px;
-    line-height: 32px;
-    border: 1px solid #555;
-    background-color: #333;
-    color: #fff;
-    border-radius: 4px;
-    transition: border-color 0.2s, box-shadow 0.2s;
-}
-
-/* Efeito de foco para os campos de input */
-#filtro-palavra-input:focus {
-    border-color: #d4ac0d;
-    box-shadow: 0 0 0 2px rgba(212, 172, 13, 0.3);
-}
-
-/* Seção que agrupa todas as ocorrências de uma palavra */
-.palavra-section {
-    background: #2a2a2a;
-    border: 1px solid #444;
-    border-radius: 8px;
-    margin-bottom: 20px;
-    padding: 15px;
-}
-
-/* Cabeçalho para cada palavra, mostrando o termo e a contagem */
-.palavra-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background: #220bf0;
-    border-bottom: 2px solid #d4ac0d;
-    padding-bottom: 10px;
-    margin-bottom: 15px;
-    padding: 3px 8px;
-    border-left: 4px solid #d4ac0d;
-    color: white;
+    /*background: linear-gradient(135deg, #2a2a2a 0%, #1a1a1a 100%);*/
+    background: linear-gradient(135deg, rgba(26, 26, 26, 0.2) 0%, rgba(51, 51, 51, 0.2) 100%);
+    border: 2px solid #d4af37;
     border-radius: 12px;
-}
-
-/* Estilo para o destaque da palavra na concordância: contorno amarelo */
-mark {
-    background-color: transparent;
-    padding: 2px 4px;
-    border-radius: 3px;
-    background-color: white;
-}
-
-/* Título da palavra dentro do cabeçalho */
-.palavra-header h2 {
-    font-size: 2.4em;
-    font-weight: bold;
-    margin: 0;
-    text-transform: uppercase;
-}
-
-/* Contador de ocorrências no cabeçalho da palavra */
-.contador {    
-    color: white;
-    margin: 0;
-    border-radius: 4px;
-    font-weight: bold;
-    font-size: 1.9em;
-}
-
-/* Bloco de informações adicionais sobre a palavra */
-.palavra-info-adicional {
-    padding: 10px 15px;
-    background-color: #1c1c1c;
-    margin-bottom: 10px;
-    font-size: 0.9em;
-    color: #b0b0b0;
-}
-
-/* Estilo para o texto da Fonte e Veja também */
-.palavra-fonte-info strong {
-    color:#FFD700;
-    font-weight: bold;
-}
-
-.palavra-veja-tambem-info strong {
-    color:#FFD700;
-    font-weight: bold;
-}
-
-.livro-header {
-    background-color: #220bf0;
-    padding: 8px 15px;
-    border-left: 3px solid #d4ac0d;
-    font-size: 1.6em;
-    color: white;
-}
-
-.palavra-fonte-info {
-    color: white;
-    font-style: italic;
-    margin-bottom: 10px;
-    padding: 8px;
-    background: #333;
-    border-radius: 4px;
-    font-size: 2em;
-}
-
-.palavra-veja-tambem-info {
-    color: #ccc;
+    padding: 15px;
     margin-bottom: 15px;
-    padding: 8px;
-    background: #333;
-    border-radius: 4px;
-    font-size: 2em;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
+    padding-top: 6px;
+    padding-bottom: 6px;
+    position: fixed; /* Fixa a barra de filtros */
+    top: 175px;
+    height: 80px; /* Altura fixa para cálculo preciso */
+    
+    /* ===== LINHA CORRIGIDA ABAIXO ===== */
+    z-index: 901; /* Alterado de 900 para 901 para ficar acima do contador */
+    
+    /* ===== LARGURA REDUZIDA COM MARGENS DE 20PX ===== */
+    left: 163px;  /* 140px do menu + 20px de margem */
+    right: 23px;  /* 20px de margem à direita */
 }
 
-/* Agrupamento de ocorrências por livro bíblico */
-.livro-grupo {
-    margin-bottom: 20px;
-    border: 1px solid #555;
-    border-radius: 6px;
-    overflow: hidden;
-}
-
-/* Container para cada ocorrência individual (referência + texto) */
-.ocorrencia {
-    padding: 10px 20px;
-    border-bottom: 1px solid #2a2a2a;
-    background: #252525;
+/* Layout em linha para os filtros principais */
+.filtros-linha {
     display: flex;
-    flex-direction: column;
-    gap: 5px;
+    gap: 8px;
+    align-items: center;
+    margin-bottom: 8px;
 }
 
-/* Estilo para a referência bíblica (ex: Gênesis 1:1) */
-.ocorrencia .referenciaConcordancia {
-    color: white;
-    font-weight: bold;
-    margin-bottom: 5px;
-    font-size: 1.8em;
-    opacity: 1;
+.filtro-grupo {
+    margin-bottom: 6px;
 }
 
-/* Estilo para o texto do versículo onde a palavra ocorre */
-.ocorrencia .texto {
-    color: #d4ac0d;
-    line-height: 1.6;
-    font-size: 1.8em;
-    text-align: justify;
+.filtro-grupo:nth-child(1) {
+    flex: 1.2;
+}
+.filtro-grupo:nth-child(2) {
+    flex: 0.8;
+}
+.filtro-grupo:nth-child(3) {
+    flex: 1;
+}
+.filtro-grupo:nth-child(4) {
+    flex: 1.5;
+}
+.filtro-grupo:nth-child(5) {
+    flex: 0.6;
+}
+.filtro-grupo:last-child {
+    margin-bottom: 0;
 }
 
-/* Janela popup para exibir o versículo completo */
-.popup-window {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background-color: #2a2a2a;
-    padding: 20px;
-    border-radius: 8px;
-    border: 2px solid #d4ac0d;
-    z-index: 1000;
-    max-width: 80%;
-    max-height: 80vh;
-    overflow-y: auto;
+.filtro-grupo label {
+    display: block;
+    color: #d4af37;
+    font-weight: 600;
+    margin-bottom: 2px;
+    font-size: 0.95em;
 }
 
-/* -------- ESTILOS GLOBAIS DE CONTEÚDO DINÂMICO -------- */
-.content-dynamic {
+.filtro-grupo input,
+.filtro-grupo select {
     width: 100%;
-    min-height: 100%;
-    display: flex;
-    flex-direction: column;
-    padding-top: 20px;
+    height: 28px;
+    padding: 4px 8px;
+    background: #333333;
+    border: 2px solid #555555;
+    border-radius: 6px;
+    color: #ffffff;
+    font-size: 0.95em;
+    transition: all 0.3s ease;
+    box-sizing: border-box;
 }
 
-/* Filtros da Concordância */
-#filtro-palavra-input, .filtros-container .search-group .search-input {
-    width: 130px;
-    min-width: 100px;
-    padding: 0 10px;
-    font-size: 0.9em;
-    height: 32px;
-    line-height: 32px;
-    border: 1px solid #555;
-    background-color: #333;
-    color: #fff;
-    border-radius: 4px;
-    transition: border-color 0.2s, box-shadow 0.2s;
+.filtro-grupo input:focus,
+.filtro-grupo select:focus {
+    outline: none;
+    border-color: #d4af37;
+    box-shadow: 0 0 10px rgba(212, 175, 55, 0.3);
+    background: #3a3a3a;
 }
 
-#filtro-palavra-input:focus, .filtros-container .search-group .search-input:focus {
-    border-color: #d4ac0d;
-    box-shadow: 0 0 0 2px rgba(212, 172, 13, 0.3);
+.filtro-grupo input::placeholder {
+    color: #999999;
+    font-size: 0.85rem;
 }
 
+/* Dropdowns customizados */
 .custom-select {
     position: relative;
-    width: 130px;
-    min-width: 100px;
+    width: 100%;
 }
 
 .select-selected {
-    background-color: #333;
-    color: #fff;
-    padding: 0 10px;
-    border: 1px solid #555;
-    border-radius: 4px;
+    background: #333333;
+    border: 2px solid #555555;
+    border-radius: 6px;
+    color: #ffffff;
+    height: 28px;
+    padding: 4px 8px;
     cursor: pointer;
-    user-select: none;
+    transition: all 0.3s ease;
+    position: relative;
+    font-size: 0.95em;
+    box-sizing: border-box;
     display: flex;
-    justify-content: space-between;
     align-items: center;
-    height: 32px;
-    font-size: 0.9em;
-}
-
-.select-selected:hover {
-    border-color: #777;
-}
-
-.select-selected.select-arrow-active {
-    border-color: #d4ac0d;
 }
 
 .select-selected:after {
-    content: "";
-    display: inline-block;
-    width: 0;
-    height: 0;
-    border: 5px solid transparent;
-    border-top-color: #888;
-    margin-left: 8px;
+    content: "▼";
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    color: #d4af37;
+    transition: transform 0.3s ease;
+    font-size: 0.8rem;
 }
 
 .select-selected.select-arrow-active:after {
-    border-top-color: transparent;
-    border-bottom-color: #d4ac0d;
+    transform: translateY(-50%) rotate(180deg);
+}
+
+.select-selected:hover {
+    border-color: #d4af37;
+    box-shadow: 0 0 10px rgba(212, 175, 55, 0.3);
+    background: #3a3a3a;
 }
 
 .select-items {
     position: absolute;
-    background-color: #282828;
-    top: calc(100% + 2px);
+    background: #333333;
+    border: 2px solid #d4af37;
+    border-top: none;
+    border-radius: 0 0 6px 6px;
+    top: 100%;
     left: 0;
     right: 0;
-    z-index: 1100;
-    border: 1px solid #555;
-    max-height: 200px;
+    z-index: 99;
+    max-height: 180px;
     overflow-y: auto;
-    border-radius: 0 0 4px 4px;
-    box-shadow: 0 3px 5px rgba(0,0,0,0.3);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    display: block;
 }
 
 .select-items div {
-    color: #ccc;
+    color: #ffffff;
     padding: 8px 12px;
     cursor: pointer;
-    border-bottom: 1px solid #383838;
-    font-size: 0.9em;
+    transition: all 0.3s ease;
+    border-bottom: 1px solid #555555;
+    font-size: 0.9rem;
+}
+
+.select-items div:hover {
+    background: #d4af37;
+    color: #1a1a1a;
 }
 
 .select-items div:last-child {
     border-bottom: none;
 }
 
-.select-items div:hover, .select-items .same-as-selected {
-    background-color: #444;
-    color: #fff;
-}
-
 .select-hide {
     display: none;
 }
 
-.filtros-container .search-group {
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    margin-left: auto;
+.same-as-selected {
+    background: rgba(212, 175, 55, 0.2);
+    color: #d4af37;
 }
 
-.filtros-container .search-group .search-input {
-    width: 180px;
-}
-
-.filtros-container .search-group .search-btn {
-    padding: 0 15px;
-    background-color: #d4ac0d;
-    color: #1c1c1c;
+/* Botão de consulta */
+.search-btn {
+    background: linear-gradient(135deg, #d4af37 0%, #b8941f 100%);
+    color: #1a1a1a;
     border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    white-space: nowrap;
-    font-size: 0.9em;
-    height: 32px;
-    display: flex;
-    align-items: center;
-    font-weight: 500;
-    transition: background-color 0.2s;
-}
-
-.filtros-container .search-group .search-btn:hover {
-    background-color: #b8950b;
-}
-
-/* Container principal do conteúdo do dicionário */
-main#conteudoPrincipal {
-    background: transparent;
-    border-radius: 8px;
-    padding: 0 25px 20px 25px;
-    margin-left: 160px;
-    min-height: 60vh;
-    overflow-y: auto;
-    position: relative;
-    height: calc(100vh - 180px);
-}
-
-/* Barra de busca do dicionário */
-.dicionario-search-bar {
-    position: sticky;
-    top: 0;
-    z-index: 10;
-    background-color: rgba(40, 40, 40, 0.95);
-    display: flex;
-    gap: 10px;
-    margin-bottom: 20px;
-    padding: 12px;
+    padding: 4px 12px;
     border-radius: 6px;
-    align-items: center;
-    border: 1px solid rgba(58, 58, 58, 0.7);
-    box-shadow: 0 2px 8px rgba(0,0,0,0.12);
-}
-
-.dicionario-search-bar input[type="text"] {
-    width: 180px;
-    padding: 0 10px;
-    font-size: 0.9em;
-    height: 32px;
-    border: 1px solid #555;
-    background-color: #333;
-    color: #fff;
-    border-radius: 4px;
-    transition: border-color 0.2s, box-shadow 0.2s;
-}
-
-.dicionario-search-bar input[type="text"]:focus {
-    border-color: #d4ac0d;
-    box-shadow: 0 0 0 2px rgba(212, 172, 13, 0.3);
-}
-
-.dicionario-search-bar button {
-    padding: 0 15px;
-    background-color: #d4ac0d;
-    color: #1c1c1c;
-    border: none;
-    border-radius: 4px;
     cursor: pointer;
-    font-size: 0.9em;
-    height: 32px;
-    font-weight: 500;
-    transition: background-color 0.2s;
-}
-.dicionario-search-bar button:hover {
-    background-color: #b8950b;
-}
-
-/* Bloco de resultado do dicionário */
-.verbete {
-    background: #2a2a2a;
-    border: 1px solid #444;
-    border-radius: 8px;
-    margin-bottom: 20px;
-    padding: 15px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-}
-
-.verbete h3 {
-    color: #d4ac0d;
-    font-size: 2em;
-    margin-top: 0;
-    margin-bottom: 10px;
-    border-bottom: 1px solid #383838;
-    padding-bottom: 8px;
-    text-transform: uppercase;
-    font-weight: bold;
-}
-
-.verbete p {
-    color: #e0e0e0;
-    line-height: 1.6;
-    margin-bottom: 10px;
-}
-
-.verbete em {
-    color: #b0b0b0;
-    font-style: italic;
-}
-
-.verbete .referencias {
-    margin-top: 15px;
-    padding-top: 10px;
-    border-top: 1px dashed #383838;
-    color: #b0b0b0;
+    font-weight: 600;
     font-size: 0.95em;
+    letter-spacing: 0.5px;
+    transition: all 0.3s ease;
+    white-space: nowrap;
+    text-transform: uppercase;
+    height: 28px;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 6px;
+    margin-top: 0;
 }
 
-.highlighted-letter-small {
-    font-size: 2.2em;
-    color: #fff;
-    font-style: italic;
-    opacity: 0.8;
-    margin-left: 4px;
-    margin-bottom: 8px;
-    line-height: 1;
-    background: none;
-    border: none;
+.search-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(212, 175, 55, 0.4);
 }
 
-.dictionary-search-bar-top {
-    position: sticky;
-    top: 0;
-    z-index: 10;
-    background-color: rgba(40, 40, 40, 0.95);
-    display: flex;
-    justify-content: flex-end;
-    padding: 12px;
-    margin-bottom: 15px;
-    border-radius: 6px;
-    border: 1px solid #3a3a3a;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.12);
-}
-
-/* Container de resultados com rolagem funcional mas sem barra visível */
+/* Container de resultados */
 #resultados-container {
-    height: calc(100vh - 70px);
-    overflow-y: auto;
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 12px;
+    padding: 12px;
+    min-height: 400px;
+    overflow-y: auto; /* Rolagem apenas no conteúdo */
+    height: calc(100vh - 310px); 
+    margin-top: 160px;
     scrollbar-width: none; /* Firefox */
     -ms-overflow-style: none; /* IE e Edge */
+    
+    /* ===== LINHA ADICIONADA PARA CORREÇÃO ===== */
+    padding-bottom: 140px; /* Garante espaço no final da rolagem */
 }
 
 #resultados-container::-webkit-scrollbar {
     display: none; /* Chrome, Safari e Opera */
+}
+
+/* CARD DE PALAVRA */
+.palavra-section,
+.palavra-item {
+    background: linear-gradient(135deg, #2a2a2a 0%, #1a1a1a 100%);
+    border: 2px solid #444444;
+    border-radius: 12px;
+    margin-bottom: 5px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    position: relative;
+    min-height: auto;
+}
+
+.palavra-section:hover,
+.palavra-item:hover {
+    border-color: #d4af37;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(212, 175, 55, 0.2);
+}
+
+/* BARRA AZUL - APENAS PALAVRA, TRIÂNGULO E BOTÃO */
+.palavra-header {
+    background: linear-gradient(135deg, #4a5bff 0%, #3a4bef 100%);
+    color: #ffffff;
+    padding: 12px 20px;
+    border-radius: 8px 8px 8px 8px;
+    margin: 0;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 60px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    z-index: 1;
+}
+
+.palavra-header:hover {
+    background: linear-gradient(135deg, #5a6bff 0%, #4a5bff 100%);
+}
+
+/* PALAVRA CENTRALIZADA NA BARRA AZUL */
+.palavra-titulo {
+    color: #ffffff;
+    font-size: 1.4rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin: 0;
+    text-align: center;
+    flex: 1;
+    background: none;
+    padding: 0;
+    border-radius: 0;
+    box-shadow: none;
+}
+
+/* TRIÂNGULO AMARELO NA BARRA AZUL */
+.expand-indicator {
+    position: absolute;
+    left: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #d4af37;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    z-index: 10;
+}
+
+.expand-indicator.expanded {
+    transform: translateY(-50%) rotate(180deg);
+}
+
+/* BOTÃO DE OCORRÊNCIAS NA BARRA AZUL */
+.contador,
+.ocorrencias-count {
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: linear-gradient(135deg, #d4af37 0%, #b8941f 100%);
+    color: #1a1a1a;
+    padding: 8px 22px;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 0.9rem;
+    text-align: center;
+    white-space: nowrap;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin: 0;
+    z-index: 10;
+    width: 140px;
+    min-width: 140px;
+    box-sizing: border-box;
+}
+
+.contador:hover,
+.ocorrencias-count:hover {
+    transform: translateY(-50%) translateY(-2px);
+    box-shadow: 0 4px 12px rgba(212, 175, 55, 0.4);
+}
+
+/* FORÇAR EXIBIÇÃO DAS INFORMAÇÕES - FORA DA BARRA AZUL */
+.palavra-fonte-info,
+.fonte-info {
+    display: block;
+    position: absolute;
+    top: 60px;
+    left: 0;
+    width: 50%;
+    z-index: 5;
+    background: linear-gradient(135deg, #0c0909 0%, #0a0a0a 100%);
+    border: 1px solid #333333;
+    border-right: none;
+    padding: 6px 20px;
+    margin: 0;
+    color: #d4af37;
+    font-size: 1.2rem;
+    line-height: 1.4;
+    border-radius: 0;
+    box-sizing: border-box;
+}
+
+.palavra-veja-tambem-info,
+.veja-tambem {
+    display: block;
+    position: absolute;
+    top: 60px;
+    right: 0;
+    width: 50%;
+    z-index: 5;
+    background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%);
+    border: 1px solid #333333;
+    border-left: none;
+    padding: 6px 20px;
+    margin: 0;
+    color: #d4af37;
+    font-size: 1.2rem;
+    line-height: 1.4;
+    border-radius: 0;
+    box-sizing: border-box;
+}
+
+/* GARANTIR QUE AS INFORMAÇÕES SEJAM VISÍVEIS */
+.palavra-header + .palavra-fonte-info,
+.palavra-header + .fonte-info {
+    display: block;
+    visibility: visible;
+    opacity: 1;
+}
+
+.palavra-fonte-info + .palavra-veja-tambem-info,
+.fonte-info + .veja-tambem {
+    display: block;
+    visibility: visible;
+    opacity: 1;
+}
+
+.palavra-fonte-info strong,
+.palavra-veja-tambem-info strong,
+.fonte-info strong,
+.veja-tambem strong {
+    color: #d4af37;
+    font-weight: 600;
+}
+
+/* CONTEÚDO DAS CONCORDÂNCIAS */
+.concordancias-content {
+    padding: 20px;
+    display: none;
+    background: linear-gradient(135deg, #2a2a2a 0%, #1a1a1a 100%);
+    border-top: 1px solid #444444;
+    margin-top: 40px;
+    position: relative;
+    top: 0;
+}
+
+.concordancias-content.expanded {
+    display: block;
+    animation: slideDown 0.3s ease-out;
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* GRUPOS DE LIVROS */
+.livro-grupo {
+    margin-bottom: 15px;
+    background: linear-gradient(135deg, #2a2a2a 0%, #1a1a1a 100%);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.livro-header {
+    background: linear-gradient(135deg, #3a3a3a 0%, #2a2a2a 100%);
+    color: #d4af37;
+    padding: 10px 15px;
+    font-weight: 600;
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+/* OCORRÊNCIAS */
+.ocorrencia,
+.concordancia-item {
+    background: linear-gradient(135deg, #3a3a3a 0%, #2a2a2a 100%);
+    border: 1px solid #555555;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 12px;
+    transition: all 0.3s ease;
+}
+
+.ocorrencia:hover,
+.concordancia-item:hover {
+    border-color: #d4af37;
+    background: linear-gradient(135deg, #4a4a4a 0%, #3a3a3a 100%);
+}
+
+.ocorrencia:last-child,
+.concordancia-item:last-child {
+    margin-bottom: 0;
+}
+
+.referenciaConcordancia,
+.referencia {
+    color: #d4af37;
+    font-weight: 600;
+    font-size: 1.4rem;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.texto,
+.texto-versiculo {
+    color: #cccccc;
+    line-height: 1.6;
+    text-align: justify;
+    font-size: 1.2rem;
+}
+
+.texto mark,
+.palavra-destacada {
+    background: linear-gradient(135deg, #d4af37 0%, #b8941f 100%);
+    color: #1a1a1a;
+    padding: 2px 4px;
+    border-radius: 3px;
+    font-weight: 600;
+}
+
+/* 
+  ==============================================================
+  == BARRA DE PAGINAÇÃO E CONTADOR DE RESULTADOS ==
+  ==============================================================
+  Este bloco controla a barra que contém os botões "ANTERIOR", "PRÓXIMO" e o contador.
+  É a única regra que deve definir o .contador-container para garantir que funcione corretamente.
+*/
+.contador-container {
+    /*background-color: #34312a; /* Cor de fundo da barra */
+    background: linear-gradient(135deg, rgba(26, 26, 26, 0.2) 0%, rgba(51, 51, 51, 0.2) 100%);
+    border: 1px solid #d4af37; /* Borda dourada */
+    border-radius: 8px; /* Cantos arredondados */
+    height: 54px; /* Altura fixa da barra */
+    padding: 0 16px; /* Espaçamento interno horizontal */
+    
+    /* Posição: Fixa na tela para que não role com o conteúdo */
+    position: fixed; 
+
+    /* 
+      Posicionamento Vertical:
+      Calculado para ficar abaixo da barra de filtros, com um pequeno espaço.
+      Filtro está em `top: 175px` e tem `height: 80px`.
+      Cálculo: 175px (topo do filtro) + 80px (altura do filtro) + 10px (espaçamento) = 265px
+    */
+    top: 265px; 
+
+    /* Posição Horizontal: Alinhado com a área de conteúdo principal */
+    left: 163px;
+    right: 23px;
+    
+    /* Camada de empilhamento, para ficar acima de outros elementos */
+    z-index: 900; 
+    
+    /* Layout Flexbox para alinhar os botões e o texto internamente */
+    display: flex; /* Ativa o modo flexbox */
+    align-items: center; /* Alinha os itens verticalmente ao centro */
+    justify-content: flex-start; /* Alinha os itens horizontalmente à esquerda */
+}
+
+
+.btn-paginacao {
+    min-width: 100px;
+}
+
+.btn-carregar-mais {
+    color: #d4af37;
+    font-size: 1.0em;
+    font-weight: 500;
+    text-transform: uppercase;
+    white-space: nowrap;
+    background: none;
+    border: none;
+    padding: 0;
+    text-align: left;
+    flex: 0 auto;
+    display: inline-block;
+    transform: translateY(3px);
+    margin: 0 20px;
+}
+
+.btn-paginacao {
+    background: linear-gradient(135deg, #d4af37 0%, #b8941f 100%);
+    color: #1a1a1a;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 0.95em;
+    letter-spacing: 0.5px;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+    min-width: 120px;
+    flex-shrink: 0;
+   
+}
+
+#btn-proximo {
+   /* margin-right: 100px; */
+}
+
+/* Estiliza o texto do contador "Mostrando X de Y resultados" */
+.contador-container p {
+    color: #d4af37; /* Cor do texto dourada */
+    font-size: 1.0em; /* Tamanho da fonte */
+    font-weight: 500; /* Peso da fonte */
+    white-space: nowrap; /* Impede que o texto quebre em duas linhas */
+    margin: 0; /* Remove margens padrão */
+    padding: 0; /* Remove preenchimentos padrão */
+    margin-left: auto; /* Esta é a linha mágica que empurra o texto para a direita do container */
+}
+
+/* MENSAGENS DE FEEDBACK (Sem resultados, erro, etc.) */
+.sem-resultados {
+    text-align: center;
+    padding: 40px 20px;
+    color: #cccccc;
+}
+
+.sem-resultados h3 {
+    color: #d4af37;
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+}
+
+.loader,
+.loader-global-busca {
+    text-align: center;
+    padding: 40px 20px;
+    color: #d4af37;
+    font-size: 1.2rem;
+}
+
+/* AJUSTES PARA TELAS MENORES (Responsividade) */
+@media (max-width: 768px) {
+    .filtros-container {
+        position: static;
+        top: 0;
+        left: 0;
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .filtros-linha {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .filtro-grupo {
+        margin-bottom: 15px;
+        flex: none;
+    }
+
+    .search-btn {
+        margin-top: 8px;
+    }
+
+    .palavra-fonte-info,
+    .palavra-veja-tambem-info,
+    .fonte-info,
+    .veja-tambem {
+        position: static;
+        width: 100%;
+        border: 1px solid #333333;
+    }
+
+    /* Em telas pequenas, a barra de paginação deixa de ser fixa */
+    .contador-container {
+        position: static; 
+        top: auto;
+        left: 0;
+        width: 100%;
+        height: auto;
+        padding: 12px 16px;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        margin-bottom: 15px;
+    }
+
+    .btn-carregar-mais,
+    .contador-container p {
+        position: static;
+        transform: none;
+        text-align: center;
+    }
+
+    #resultados-container {
+        margin-left: 0;
+        height: auto;
+        overflow-y: auto;
+        margin-top: 0;
+    }
+}
+.btn-paginacao {
+    background: #d4af37;
+    color: #1a1a1a;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 0.95em;
+    letter-spacing: 0.5px;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+}
+
+/* Estilo para botões de paginação desativados */
+.btn-paginacao:disabled {
+    background: #666; /* Cor mais escura */
+    cursor: not-allowed; /* Ícone de cursor indicando que não é clicável */
+    opacity: 0.5; /* Reduz a opacidade */
+}
+
+/* Efeito de "hover" (passar o mouse por cima) para botões ativos */
+.btn-paginacao:not(:disabled):hover {
+    transform: translateY(-2px); /* Move o botão ligeiramente para cima */
+    box-shadow: 0 6px 20px rgba(212, 175, 55, 0.4); /* Adiciona uma sombra */
 }

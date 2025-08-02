@@ -1,0 +1,466 @@
+{
+  "a": [
+    {
+      "palavra": "acamparam-se",
+      "veja tambem": [
+        "acampar"
+      ],
+      "ocorrencias": 52,
+      "fonte": "Dicionário Bíblico; Strong",
+      "concordancias": [
+        {
+          "referencia": "Êxodo 19.2",
+          "texto": "ao deserto do Sinai e À. no deserto;"
+        },
+        {
+          "referencia": "m 22.1",
+          "texto": "os filhos de Israel e À. nas campinas"
+        },
+        {
+          "referencia": "m 33.5",
+          "texto": "filhos de Israel de Ramessés, A. em Sucote."
+        },
+        {
+          "referencia": "m 33.6",
+          "texto": "E partiram de Sucote e A. em Etá, que está"
+        },
+        {
+          "referencia": "m 33.7",
+          "texto": "defronte de Baal-Zefom, e A. diante de Migdol."
+        },
+        {
+          "referencia": "m 33.8",
+          "texto": "de três dias no deserto de Etã, e A. em Mara."
+        },
+        {
+          "referencia": "m 33.9",
+          "texto": "de águas e setenta palmeiras, e 4. alí."
+        },
+        {
+          "referencia": "m 33.10",
+          "texto": "E partiram de Elim e 4. junto ao mar Vermelho."
+        },
+        {
+          "referencia": "m 33.11",
+          "texto": "partiram do mar Vermelho e 4. no deserto de Sim"
+        },
+        {
+          "referencia": "m 33.12",
+          "texto": "É partiram do deserto de Sim e A. em Dofca."
+        },
+        {
+          "referencia": "m 33.13",
+          "texto": "E partiram de Dofca e A. em Alus."
+        },
+        {
+          "referencia": "m 33.14",
+          "texto": "E partiram de Alus e 4. em Refidim; porém"
+        },
+        {
+          "referencia": "m 33.15",
+          "texto": "Partiram, pois, de Refidim e 4. no deserto"
+        },
+        {
+          "referencia": "m 33.16",
+          "texto": "do deserto do Sinai e Á. em Quibrote-Hataavá."
+        },
+        {
+          "referencia": "m 33.17",
+          "texto": "de Quibrote-Hataavá e 4. em Hazerote."
+        },
+        {
+          "referencia": "m 33.18",
+          "texto": "E partiram de Hazerote e À. em Ritma."
+        },
+        {
+          "referencia": "Números 33.19",
+          "texto": "E partiram de Ritma e A. em Rimom-Perez."
+        },
+        {
+          "referencia": "Números 33.20",
+          "texto": "E partiram de Rimom-Perez e A, em Libna."
+        },
+        {
+          "referencia": "Números 33.21",
+          "texto": "E partiram de Libna e À. em Rissa."
+        },
+        {
+          "referencia": "m 33.22",
+          "texto": "E partiram de Rissa e A. em Queelata."
+        },
+        {
+          "referencia": "m 33.23",
+          "texto": "E partiram de Queelata e A. no monte Sefer."
+        },
+        {
+          "referencia": "m 33.24",
+          "texto": "E partiram do monte Sefer e A. em Harada."
+        },
+        {
+          "referencia": "m 33.25",
+          "texto": "E partiram de Harada e A. em Maquelote."
+        },
+        {
+          "referencia": "m 33.26",
+          "texto": "E partiram de Maquelote e Å. em Taate."
+        },
+        {
+          "referencia": "m 33.27",
+          "texto": "E partiram de Taate e A. em Tera."
+        },
+        {
+          "referencia": "m 33.28",
+          "texto": "E partiram de Tera e A. em Mitca."
+        },
+        {
+          "referencia": "m 33.29",
+          "texto": "E partiram de Mitca e A. em Hasmona."
+        },
+        {
+          "referencia": "m 33.30",
+          "texto": "E partiram de Hasmona e 4. em Moserote,"
+        },
+        {
+          "referencia": "m 33.31",
+          "texto": "E partiram de Moserote e A. em Benê-Jaacã."
+        },
+        {
+          "referencia": "m 33.32",
+          "texto": "E partiram de Benê-Jaacã e À, em Hor-Hagidgade."
+        },
+        {
+          "referencia": "m 33.33",
+          "texto": "E partiram de Hor-Hagidgade e A. em Jotbatá."
+        },
+        {
+          "referencia": "m 33.34",
+          "texto": "E partiram de Jotbatá e Á. em Abrona."
+        },
+        {
+          "referencia": "m 33.35",
+          "texto": "E partiram de Abrona e À. em Eziom-Geber."
+        },
+        {
+          "referencia": "m 33.36",
+          "texto": "partiram de Eziom-Geber e A. no deserto de"
+        },
+        {
+          "referencia": "Números 33.37",
+          "texto": "É partiram de Cades e À. no monte Hor, no"
+        },
+        {
+          "referencia": "Números 33.41",
+          "texto": "E partiram de Hor e À. em Zalmona."
+        },
+        {
+          "referencia": "Números 33.42",
+          "texto": "E partiram de Zalmona e Á. em Punom."
+        },
+        {
+          "referencia": "Números 33.43",
+          "texto": "E partiram de Punom e À. em Obote."
+        },
+        {
+          "referencia": "Números 33.44",
+          "texto": "E partiram de Obote e A. nos outeirinhos de"
+        },
+        {
+          "referencia": "Números 33.45",
+          "texto": "dos outeirinhos de Abarim e A. em Dibom-Gade."
+        },
+        {
+          "referencia": "Números 33.46",
+          "texto": "E partiram de Dibom-Gade e A. em Almom-Dibla-"
+        },
+        {
+          "referencia": "Números 33.47",
+          "texto": "de Almom-Diblataim e Á, nos montes de"
+        },
+        {
+          "referencia": "Números 33.48",
+          "texto": "dos montes de Abarim e À, nas campinas"
+        },
+        {
+          "referencia": "Números 33.49",
+          "texto": "E À. junto ao Jordão, desde Bete-Jesimote"
+        },
+        {
+          "referencia": "Juízes 15.9",
+          "texto": "os filisteus subiram, e A. contra"
+        },
+        {
+          "referencia": "Juízes 18.12",
+          "texto": "E subiram e A. em Quiriate-Jearim, em Judá;"
+        },
+        {
+          "referencia": "Juízes 20.19",
+          "texto": "de Israel pela manhã e A. contra Gibeá."
+        },
+        {
+          "referencia": "1 Samuel 17.1",
+          "texto": "em Socó, que está em Judá, e Á. entre Socó"
+        },
+        {
+          "referencia": "1 Samuel 28.4",
+          "texto": "os filisteus, e vieram, e Á. em Suném; e"
+        },
+        {
+          "referencia": "ISm 29.1",
+          "texto": "seus exércitos em Afeca, e Á. os"
+        },
+        {
+          "referencia": "1 Reis 20.27",
+          "texto": "eles; e os filhos de Israel. A. defronte"
+        },
+        {
+          "referencia": "Neemias 11.30",
+          "texto": "lugares da sua jurisdição. E A. desde"
+        }
+      ]
+    },
+    {
+      "palavra": "acamparei",
+      "veja tambem": [
+        "acampar"
+      ],
+      "ocorrencias": 1,
+      "fonte": "Dicionário Bíblico; Strong",
+      "concordancias": [
+        {
+          "referencia": "Zacarias 9.8",
+          "texto": "E me À. ao redor da minha casa, contra o"
+        }
+      ]
+    },
+    {
+      "palavra": "acampem",
+      "veja tambem": [
+        "acampar"
+      ],
+      "ocorrencias": 1,
+      "fonte": "Dicionário Bíblico; Strong",
+      "concordancias": [
+        {
+          "referencia": "Êxodo 14.2",
+          "texto": "de Israel que voltem e que A. diante de"
+        }
+      ]
+    },
+    {
+      "palavra": "acampou",
+      "veja tambem": [],
+      "ocorrencias": 2,
+      "fonte": "Dicionário Bíblico; Strong",
+      "concordancias": [
+        {
+          "referencia": "Juízes 11.20",
+          "texto": "ajuntou todo o seu povo, e se À. em Jaza, é"
+        },
+        {
+          "referencia": "1 Samuel 4.1",
+          "texto": "à peleja, aos filisteus e se Å. junto a"
+        }
+      ]
+    },
+    {
+      "palavra": "acampou-se",
+      "veja tambem": [],
+      "ocorrencias": 2,
+      "fonte": "Dicionário Bíblico; Strong",
+      "concordancias": [
+        {
+          "referencia": "Êxodo 19.2",
+          "texto": "no deserto; Israel, pois, ali 4, defronte do monte."
+        },
+        {
+          "referencia": "2 Crônicas 32.1",
+          "texto": "Assíria, e entrou em Judá, e À. contra as"
+        }
+      ]
+    },
+    {
+      "palavra": "acar",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "Dicionário Bíblico; Strong",
+      "concordancias": [
+        {
+          "referencia": "1 Crônicas 2.7",
+          "texto": "E os filhos de Carmi foram A., o perturbador de"
+        }
+      ]
+    },
+    {
+      "palavra": "acarretadores",
+      "veja tambem": [
+        "acarretar"
+      ],
+      "ocorrencias": 1,
+      "fonte": "Dicionário Bíblico; Strong",
+      "concordancias": [
+        {
+          "referencia": "Neemias 4.10",
+          "texto": "desfaleceram as forças dos Á., eo pó é"
+        }
+      ]
+    },
+    {
+      "palavra": "acarretar",
+      "veja tambem": [],
+      "ocorrencias": 2,
+      "fonte": "Dicionário Bíblico; Strong",
+      "concordancias": [
+        {
+          "referencia": "Gênesis 49.15",
+          "texto": "e abaixou o seu ombro para A., e serviu"
+        },
+        {
+          "referencia": "Eclesiastes 10.9",
+          "texto": "Quem Á. pedras será maltratado por elas, e o"
+        }
+      ]
+    },
+    {
+      "palavra": "acaso",
+      "veja tambem": [],
+      "ocorrencias": 21,
+      "fonte": "Dicionário Bíblico; Strong",
+      "concordancias": [
+        {
+          "referencia": "Êxodo 33.16",
+          "texto": "teus olhos, eu e o teu povo? A., não é por"
+        },
+        {
+          "referencia": "Números 6.9",
+          "texto": "a morrer junto a ele por A., subitamente, e"
+        },
+        {
+          "referencia": "1 Samuel 6.9",
+          "texto": "nos tocou a sua mão, e que isso nos sucedeu por A.."
+        },
+        {
+          "referencia": "1 Samuel 20.10",
+          "texto": "tal me fará saber, se, por Á., teu pai te"
+        },
+        {
+          "referencia": "2 Samuel 1.6",
+          "texto": "dava a notícia: Cheguei por À. à montanha de"
+        },
+        {
+          "referencia": "2 Samuel 20.1",
+          "texto": "Então, se achou ali, por A., um homem de Belial,"
+        },
+        {
+          "referencia": "S153.4",
+          "texto": "A, não têm conhecimento estes obreiros da"
+        },
+        {
+          "referencia": "S158.1",
+          "texto": "4, falais vós deveras, ó congregação, a justiça?"
+        },
+        {
+          "referencia": "Salmos 94.20",
+          "texto": "Podia, A., associar-se contigo o trono de"
+        },
+        {
+          "referencia": "Jeremias 2.14",
+          "texto": "A. é Israel um servo? Ou um escravo nascido em"
+        },
+        {
+          "referencia": "Jeremias 7.19",
+          "texto": "A. é a mim que eles provocam à ira, diz o Senhor,"
+        },
+        {
+          "referencia": "Jeremias 22.15",
+          "texto": "porque te encerras em cedro? A., teu pai não comeu"
+        },
+        {
+          "referencia": "Jeremias 32.27",
+          "texto": "o Deus de toda a carne. A., seria qualquer"
+        },
+        {
+          "referencia": "Jeremias 49.1",
+          "texto": "de Amom. Assim diz o Senhor: A., não tem filhos"
+        },
+        {
+          "referencia": "Jeremias 49.7",
+          "texto": "diz o Senhor dos Exércitos: A., não há mais"
+        },
+        {
+          "referencia": "Ezequiel 16.20",
+          "texto": "a elas, para serem consumidos; Á., é pequena a"
+        },
+        {
+          "referencia": "Ezequiel 3418",
+          "texto": "A, não vos basta pastar o bom pasto, senão que"
+        },
+        {
+          "referencia": "Jonas 4.9",
+          "texto": "Então, disse Deus a Jonas: É 4. razoável que assim"
+        },
+        {
+          "referencia": "Habacuque 3.8",
+          "texto": "A. é contra os rios, Senhor, que estás irado?"
+        },
+        {
+          "referencia": "2 Coríntios 9.4",
+          "texto": "a fim de, se A. os macedônios vierem comigo e vos"
+        },
+        {
+          "referencia": "Gálatas 4.16",
+          "texto": "Fiz-me, A., vosso inimigo, dizendo a verdade?"
+        }
+      ]
+    },
+    {
+      "palavra": "acautela-te",
+      "veja tambem": [
+        "acautelai-vos"
+      ],
+      "ocorrencias": 1,
+      "fonte": "Dicionário Bíblico; Strong",
+      "concordancias": [
+        {
+          "referencia": "Isaías 7.4",
+          "texto": "E dize-lhe: Á. e aquieta-te; não temas, nem"
+        }
+      ]
+    },
+    {
+      "palavra": "acautelai-vos",
+      "veja tambem": [],
+      "ocorrencias": 7,
+      "fonte": "Dicionário Bíblico; Strong",
+      "concordancias": [
+        {
+          "referencia": "Mateus 7.15",
+          "texto": "Á., porém, dos falsos profetas, que vêm"
+        },
+        {
+          "referencia": "Mateus 10.17",
+          "texto": "A., porém, dos homens, rque eles vos"
+        },
+        {
+          "referencia": "Mateus 16.6",
+          "texto": "Jesus disse-lhes: Adverti EA do fermento"
+        },
+        {
+          "referencia": "Mateus 24.4",
+          "texto": "respondendo, disse-lhes: A., que"
+        },
+        {
+          "referencia": "Lucas 12.1",
+          "texto": "a dizer aos seus discípulos: A.,"
+        },
+        {
+          "referencia": "Lucas 12.15",
+          "texto": "E disse-lhes: 4, e guardai-vos da avareza,"
+        },
+        {
+          "referencia": "Atos 5.35",
+          "texto": "Varões israelitas, A, a respeito"
+        }
+      ]
+    }
+  ]
+}

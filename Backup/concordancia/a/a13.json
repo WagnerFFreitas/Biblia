@@ -1,0 +1,568 @@
+{
+  "a": [
+    {
+      "palavra": "águas-eurtadas",
+      "veja tambem": [],
+      "ocorrencias": 2,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Provérbios 21.9",
+          "texto": "é morar num canto de umas Á, do que com"
+        },
+        {
+          "referencia": "Provérbios 25.24",
+          "texto": "é morar num canto de umas Á. do que com"
+        }
+      ]
+    },
+    {
+      "palavra": "aguça",
+      "veja tambem": [],
+      "ocorrencias": 2,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Jó 16.9",
+          "texto": "rangeu os dentes contra mim; Á. o meu adversário"
+        },
+        {
+          "referencia": "Provérbios 27.17",
+          "texto": "o ferro com o ferro se Á., assim o homem afia"
+        }
+      ]
+    },
+    {
+      "palavra": "aguçaram",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "S1140.3",
+          "texto": "A. a língua como a serpente; o veneno das"
+        }
+      ]
+    },
+    {
+      "palavra": "aguda",
+      "veja tambem": [
+        "agudo"
+      ],
+      "ocorrencias": 12,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Êxodo 425",
+          "texto": "Zípora tomou uma pedra A., e circuncidou o"
+        },
+        {
+          "referencia": "1 Samuel 14.4",
+          "texto": "desta banda havia uma penha A., e da outra banda,"
+        },
+        {
+          "referencia": "1 Samuel 14.4",
+          "texto": "e da outra banda, uma penha A.; e era o nome de"
+        },
+        {
+          "referencia": "Provérbios 25.18",
+          "texto": "Martelo, e espada, e flecha A. é o homem que"
+        },
+        {
+          "referencia": "Isaías 49.2",
+          "texto": "minha boca como uma espada A., e, com a sombra da"
+        },
+        {
+          "referencia": "Apocalipse 1.16",
+          "texto": "e da sua boca saía uma A. espada de dois"
+        },
+        {
+          "referencia": "Apocalipse 2.12",
+          "texto": "Isto diz aquele que tem a espada A. de dois fios:"
+        },
+        {
+          "referencia": "Apocalipse 14.14",
+          "texto": "a cabeça uma coroa de ouro e, na mão, uma foice A.."
+        },
+        {
+          "referencia": "Apocalipse 14.17",
+          "texto": "céu, outro anjo, o qual também tinha uma foice A.."
+        },
+        {
+          "referencia": "Apocalipse 14.18",
+          "texto": "voz ao que tinha a foice A., dizendo: Lança a"
+        },
+        {
+          "referencia": "Apocalipse 14.18",
+          "texto": "dizendo: Lança a tua foice A, e vindima os"
+        },
+        {
+          "referencia": "Apocalipse 19.15",
+          "texto": "E da sua boca saía uma A. espada, para ferir com"
+        }
+      ]
+    },
+    {
+      "palavra": "agudas",
+      "veja tambem": [
+        "agudo"
+      ],
+      "ocorrencias": 2,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Salmos 45.5",
+          "texto": "As tuas flechas são A. no coração dos inimigos do"
+        },
+        {
+          "referencia": "Isaías 5.28",
+          "texto": "As suas flechas serão A., e todos os seus arcos,"
+        }
+      ]
+    },
+    {
+      "palavra": "agudo",
+      "veja tambem": [],
+      "ocorrencias": 2,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Provérbios 5.4",
+          "texto": "é amargoso como o absinto, A. como a espada de"
+        },
+        {
+          "referencia": "Habacuque 2.6",
+          "texto": "ele uma parábola e um dito A. contra ele,"
+        }
+      ]
+    },
+    {
+      "palavra": "agudos",
+      "veja tambem": [
+        "agudo"
+      ],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Isaías 41.15",
+          "texto": "trilho novo, que tem dentes A.; os montes"
+        }
+      ]
+    },
+    {
+      "palavra": "águia",
+      "veja tambem": [],
+      "ocorrencias": 23,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Levítico 11.13",
+          "texto": "se comerão, serão abominação: a Á. eo"
+        },
+        {
+          "referencia": "Deuteronômio 2849",
+          "texto": "da terra, que voa como a A., nação cuja língua"
+        },
+        {
+          "referencia": "Deuteronômio 32.11",
+          "texto": "Como a Å. desperta o seu ninho, se move sobre os"
+        },
+        {
+          "referencia": "Jó 9.26",
+          "texto": "como navios veleiros, como À. que se lança à comida."
+        },
+        {
+          "referencia": "Jó 39.27",
+          "texto": "Ou se remonta a À. ao teu mandado e põe no alto o"
+        },
+        {
+          "referencia": "S1103.5",
+          "texto": "de sorte que a tua mocidade se renova como a A.."
+        },
+        {
+          "referencia": "Provérbios 23.5",
+          "texto": "isso se fará asas e voará ao céu como a A.."
+        },
+        {
+          "referencia": "Provérbios 30.17",
+          "texto": "os arrancarão, e os pintãos da À, os comerão."
+        },
+        {
+          "referencia": "Provérbios 30.19",
+          "texto": "o caminho da À. no céu, o caminho da cobra na"
+        },
+        {
+          "referencia": "Jeremias 48.40",
+          "texto": "Eis que voará como a À. e estenderá as asas"
+        },
+        {
+          "referencia": "Jeremias 49.16",
+          "texto": "que eleves o teuninho como a A., de lá te"
+        },
+        {
+          "referencia": "Jeremias 49.22",
+          "texto": "Eis que, como Á., subirá, e voará,e estenderá as"
+        },
+        {
+          "referencia": "Ezequiel 1.10",
+          "texto": "rosto de boi, e também rosto de A., todos os quatro."
+        },
+        {
+          "referencia": "Ezequiel 10.14",
+          "texto": "era rosto de leão, e do quarto, rosto de Á.."
+        },
+        {
+          "referencia": "Ezequiel 17.3",
+          "texto": "o Senhor Jeová: Uma grande A., de grandes asas,"
+        },
+        {
+          "referencia": "Ezequiel 17.7",
+          "texto": "Houve mais uma grande A., de grandes asas, e cheia"
+        },
+        {
+          "referencia": "Daniel 4.33",
+          "texto": "cresceu pelo, como as penas da AÁ., eas suas"
+        },
+        {
+          "referencia": "Daniel 7.4",
+          "texto": "como leão e tinha asas de À.; eu olhei até que"
+        },
+        {
+          "referencia": "Oséias 8.1",
+          "texto": "à tua boca. Ele vem como À. contra a casa do"
+        },
+        {
+          "referencia": "Obadias 1.4",
+          "texto": "Se te elevares como À. e puseres o teu ninho entre"
+        },
+        {
+          "referencia": "Miquéias 1.16",
+          "texto": "alarga a tua calva como a Á., porque dẹ ti"
+        },
+        {
+          "referencia": "Apocalipse 4.7",
+          "texto": "eo quarto animal era semelhante a uma À. voando."
+        },
+        {
+          "referencia": "Apocalipse 12.14",
+          "texto": "mulher duas asas de grande A., para que voasse"
+        }
+      ]
+    },
+    {
+      "palavra": "abertura",
+      "veja tambem": [],
+      "ocorrencias": 2,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Juízes 21.15",
+          "texto": "o Senhor tinha feito A. nas tribos de Israel."
+        },
+        {
+          "referencia": "Isaías 61.1",
+          "texto": "liberdade aos cativos e a Á, de prisão aos presos;"
+        }
+      ]
+    },
+    {
+      "palavra": "aberturas",
+      "veja tambem": [
+        "abertura"
+      ],
+      "ocorrencias": 3,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "1 Reis 11.27",
+          "texto": "a Milo e cerrou as Á. da Cidade de"
+        },
+        {
+          "referencia": "Isaías 57.5",
+          "texto": "os filhos nos ribeiros, nas Á. dos penhascos?"
+        },
+        {
+          "referencia": "Amós 9.11",
+          "texto": "que caiu, e taparei as suas Á., e tornarei a"
+        }
+      ]
+    },
+    {
+      "palavra": "abi",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "2 Reis 18.2",
+          "texto": "e era o nome de sua mãe Á., filha de Zacarias."
+        }
+      ]
+    },
+    {
+      "palavra": "abi-albom",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "2 Samuel 23.31",
+          "texto": "Á., arbatita; Azmavete, barumita:"
+        }
+      ]
+    },
+    {
+      "palavra": "abia",
+      "veja tambem": [],
+      "ocorrencias": 2,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "1 Crônicas 2.24",
+          "texto": "Hezrom, em Calebe de Efrata, A.. mulher de He-"
+        },
+        {
+          "referencia": "2 Crônicas 29.1",
+          "texto": "eera o nome de sua mãe A., filha de Zacarias."
+        }
+      ]
+    },
+    {
+      "palavra": "abiail",
+      "veja tambem": [],
+      "ocorrencias": 6,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Números 3.35",
+          "texto": "será Zuriel, filho de A.; assentarão as"
+        },
+        {
+          "referencia": "1 Crônicas 2.29",
+          "texto": "o nome da mulher de Abisur A., que lhe deu a Abã"
+        },
+        {
+          "referencia": "1 Crônicas 5.14",
+          "texto": "estes foram os filhos de A., filho de Huri, filho"
+        },
+        {
+          "referencia": "2 Crônicas 11.18",
+          "texto": "Jerimote, filho de Davi, e de A., filha de"
+        },
+        {
+          "referencia": "Ester 2.15",
+          "texto": "a vez de Ester, filha de A., tio de"
+        },
+        {
+          "referencia": "Ester 9.29",
+          "texto": "a rainha Ester, filha de A., e Mardoqueu, o"
+        }
+      ]
+    },
+    {
+      "palavra": "abias",
+      "veja tambem": [],
+      "ocorrencias": 29,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "1 Samuel 8.2",
+          "texto": "e o nome do seu segundo, A.:"
+        },
+        {
+          "referencia": "1 Reis 14.1",
+          "texto": "Naquele tempo, adoeceu A., filho de Jeroboão."
+        },
+        {
+          "referencia": "1 Reis 14.31",
+          "texto": "de sua mãe Naamá, amonita; e Á., seu filho,"
+        },
+        {
+          "referencia": "1 Reis 15.1",
+          "texto": "Jeroboão, filho de Nebate, A. começou a reinar"
+        },
+        {
+          "referencia": "1 Reis 15.7",
+          "texto": "Quanto ao mais dos atos de Á., e a tudo quanto"
+        },
+        {
+          "referencia": "1 Reis 15.7",
+          "texto": "de Judá? Também houve guerra entre 4. e Jeroboão."
+        },
+        {
+          "referencia": "IRs 15.8",
+          "texto": "E Á. dormiu com seus pais, e o sepultaram na"
+        },
+        {
+          "referencia": "1 Crônicas 3.10",
+          "texto": "foi Roboão; e seu filho A.; e seu filho Asa; e"
+        },
+        {
+          "referencia": "1 Crônicas 6.28",
+          "texto": "de Samuel: Vasni, seu primogênito, e o segundo A.."
+        },
+        {
+          "referencia": "1 Crônicas 7.8",
+          "texto": "e Elioenai, e Onri, e Jerimote, e Á., e Anatote, e"
+        },
+        {
+          "referencia": "1 Crônicas 24.10",
+          "texto": "a sétima, a Hacoz; a oitava, a À.;"
+        },
+        {
+          "referencia": "2 Crônicas 11.20",
+          "texto": "esta lhe deu os filhos: Á., e Atai, e"
+        },
+        {
+          "referencia": "2 Crônicas 11.22",
+          "texto": "E Roboão pôs por cabeça a Á., filho de Maaca, para"
+        },
+        {
+          "referencia": "2 Crônicas 12.16",
+          "texto": "na Cidade de Davi; e A., seu filho, reinou"
+        },
+        {
+          "referencia": "2 Crônicas 13.1",
+          "texto": "oitavo do rei Jeroboão, reinou Á. sobre Israel."
+        },
+        {
+          "referencia": "2 Crônicas 13.2",
+          "texto": "cidade de Gibeá; e houve guerra entre 4. e Jeroboão."
+        },
+        {
+          "referencia": "2 Crônicas 13.3",
+          "texto": "E A. ordenou a peleja, com um exército de varões"
+        },
+        {
+          "referencia": "2 Crônicas 13.4",
+          "texto": "E pôs-se A. em pé em cima do monte Zemaraim, que"
+        },
+        {
+          "referencia": "2 Crônicas 13.15",
+          "texto": "a Jeroboão e a todo o Israel diante de À. e de da"
+        },
+        {
+          "referencia": "2 Crônicas 13.17",
+          "texto": "De maneira que À. e o seu povo fizeram grande"
+        },
+        {
+          "referencia": "2 Crônicas 13.19",
+          "texto": "E A. seguiu após Jeroboão e tomou a Betel com os"
+        },
+        {
+          "referencia": "2 Crônicas 13.20",
+          "texto": "nenhuma força nos dias de A.; porém o Senhor o"
+        },
+        {
+          "referencia": "2 Crônicas 13.21",
+          "texto": "Á., pois, se fortificou, e tomou para si catorze"
+        },
+        {
+          "referencia": "2 Crônicas 14.1",
+          "texto": "E 4, dormiu com seus pais, e o sepultaram na"
+        },
+        {
+          "referencia": "Neemias 10.7",
+          "texto": "Mesulão, A., Miamim,"
+        },
+        {
+          "referencia": "Neemias 12.4",
+          "texto": "Ido, Ginetoi, A.,"
+        },
+        {
+          "referencia": "Neemias 12.17",
+          "texto": "de Å., Zicri; de Miniamim e de Moadias, Piltai;"
+        },
+        {
+          "referencia": "Mateus 1.7",
+          "texto": "a Roboão, e Roboão gerou a Á., e À. gerou a Asa,"
+        },
+        {
+          "referencia": "Lucas 1.5",
+          "texto": "chamado Zacarias, da ordem de A., e cuja mulher"
+        }
+      ]
+    },
+    {
+      "palavra": "abiasafe",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Êxodo 6.24",
+          "texto": "de Corá: Assir, e Elcana, e 4.; estas são as"
+        }
+      ]
+    },
+    {
+      "palavra": "águias",
+      "veja tambem": [
+        "águia"
+      ],
+      "ocorrencias": 8,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Top 400",
+          "texto": "posição;"
+        },
+        {
+          "referencia": "Êxodo 194",
+          "texto": "vos levei sobre asas de Á., e vos trouxe a mim;"
+        },
+        {
+          "referencia": "2 Samuel 1.23",
+          "texto": "Eram mais ligeiros do queas Á., mais fortes do"
+        },
+        {
+          "referencia": "Isaías 40.31",
+          "texto": "e subirão com asas como Á.; correrão e não se"
+        },
+        {
+          "referencia": "Jeremias 4.13",
+          "texto": "serão mais ligeiros do que as À.. Ai de nós, que"
+        },
+        {
+          "referencia": "Habacuque 1.8",
+          "texto": "virão de longe, voarão como Á. que se apressam ."
+        },
+        {
+          "referencia": "Mateus 24.28",
+          "texto": "Pois onde estiver o cadáver, aí se ajuntarão as A.."
+        },
+        {
+          "referencia": "Lucas 17.37",
+          "texto": "disse: Onde estiver o corpo, aí se ajuntarão as Á.."
+        }
+      ]
+    },
+    {
+      "palavra": "aguilhada",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Juízes 3:31",
+          "texto": "homens dos filisteus com uma 4. de bois; e"
+        }
+      ]
+    },
+    {
+      "palavra": "aguilhadas",
+      "veja tambem": [
+        "agui-"
+      ],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "1 Samuel 13.21",
+          "texto": "e para os machados, e para consertar as Á.."
+        }
+      ]
+    }
+  ]
+}

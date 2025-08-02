@@ -1,5 +1,12 @@
-// script/dropdown_concordancia.js
+/*================================================================================*/
+/*               MÓDULO DE DROPDOWNS CUSTOMIZADOS (CONCORDÂNCIA)                  */
+/*================================================================================*/
+/* - Contém a configuração dos livros da Bíblia (ID, nome, testamento).           */
+/* - Gerencia a criação e interatividade dos dropdowns de testamento e livro.     */
+/* - Popula dinamicamente o dropdown de livros com base no testamento selecionado */
+/*================================================================================*/
 
+// Este bloco define a configuração estática de todos os livros da Bíblia.
 const bibliaConfig = {
     livros: [
         // Antigo Testamento
@@ -42,7 +49,6 @@ const bibliaConfig = {
         { id: 'ag', nome: 'Ageu', testamento: 'Antigo Testamento' },
         { id: 'zc', nome: 'Zacarias', testamento: 'Antigo Testamento' },
         { id: 'ml', nome: 'Malaquias', testamento: 'Antigo Testamento' },
-
         // Novo Testamento
         { id: 'mt', nome: 'Mateus', testamento: 'Novo Testamento' },
         { id: 'mc', nome: 'Marcos', testamento: 'Novo Testamento' },
@@ -75,14 +81,7 @@ const bibliaConfig = {
     getTestamentoDoLivro(nomeLivroOuId) {
         if (!nomeLivroOuId) return null;
         const nomeLower = String(nomeLivroOuId).trim().toLowerCase();
-        const partes = nomeLower.split(' ');
-        const nomeBase = partes[0];
-
-        const livroEncontrado = this.livros.find(livro =>
-            livro.nome.toLowerCase() === nomeBase ||
-            livro.id.toLowerCase() === nomeBase
-        );
-
+        const livroEncontrado = this.livros.find(livro => livro.nome.toLowerCase() === nomeLower || livro.id.toLowerCase() === nomeLower);
         return livroEncontrado ? livroEncontrado.testamento : null;
     },
     getLivrosPorTestamento(testamento = 'todos') {
@@ -97,18 +96,18 @@ const bibliaConfig = {
     }
 };
 
-// *** INÍCIO DA CORREÇÃO ***
-// Cria um mapa para consulta rápida do testamento a partir do nome normalizado do livro.
+// Este bloco cria um mapa otimizado para consulta rápida do testamento a partir de um nome de livro normalizado.
+// A normalização remove acentos e converte para minúsculas, garantindo correspondências consistentes.
 const mapaLivros = bibliaConfig.livros.reduce((acc, livro) => {
     const nomeNormalizado = livro.nome.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
     acc[nomeNormalizado] = livro.testamento;
     return acc;
 }, {});
-// *** FIM DA CORREÇÃO ***
 
+// Este bloco exporta funções para serem usadas por outros módulos.
 export function getTestamentoDoLivroConfig(nomeLivro) {
     if (!nomeLivro) return null;
-    // A chamada em concordancia.js já normaliza o nome do livro, então aqui só precisamos consultar.
+    // A consulta usa o nome normalizado para encontrar o testamento de forma eficiente no mapa pré-calculado.
     const normalizado = nomeLivro.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
     return mapaLivros[normalizado] || null;
 }
@@ -121,9 +120,11 @@ export function findLivroByIdConfig(livroId) {
     return bibliaConfig.findLivroById(livroId);
 }
 
+// Este bloco cria as variáveis globais para armazenar as funções de callback.
 let onTestamentoChangeGlobalCallback = null;
 let onLivroChangeGlobalCallback = null;
 
+// Este bloco inicializa os dropdowns customizados de testamento e livro.
 export function initConcordanciaDropdowns(cbTestamento, cbLivro) {
     onTestamentoChangeGlobalCallback = cbTestamento;
     onLivroChangeGlobalCallback = cbLivro;
@@ -131,92 +132,81 @@ export function initConcordanciaDropdowns(cbTestamento, cbLivro) {
     const testamentoSelectElement = document.getElementById('custom-testamento-select');
     const livroSelectElement = document.getElementById('custom-livro-select');
 
-    if (testamentoSelectElement) {
+    if (testamentoSelectElement) {                                                                 // Transforma o elemento de testamento em um dropdown customizado.
         _makeCustomSelect(testamentoSelectElement, (detail) => {
             if (onTestamentoChangeGlobalCallback) {
                 onTestamentoChangeGlobalCallback(detail.value);
             }
             if (livroSelectElement) {
-                _populateLivrosDropdown(livroSelectElement, detail.value);
+                _populateLivrosDropdown(livroSelectElement, detail.value);                         // Popula o dropdown de livros com base no testamento.
             }
         });
     }
 
-    if (livroSelectElement) {
+    if (livroSelectElement) {                                                                      // Transforma o elemento de livro em um dropdown customizado.
         _makeCustomSelect(livroSelectElement, (detail) => {
             if (onLivroChangeGlobalCallback) {
                 onLivroChangeGlobalCallback(detail.value);
             }
         });
 
-        let initialTestamentoValue = 'todos';
-        if (testamentoSelectElement) {
-            const display = testamentoSelectElement.querySelector('.select-selected');
-            if (display && display.dataset.value) {
-                initialTestamentoValue = display.dataset.value;
-            }
-        }
-
+        // Popula o dropdown de livros com o valor inicial do testamento.
+        let initialTestamentoValue = testamentoSelectElement?.querySelector('.select-selected')?.dataset.value || 'todos';
         _populateLivrosDropdown(livroSelectElement, initialTestamentoValue);
     }
 
-    document.addEventListener("click", function (e) {
+    document.addEventListener("click", (e) => {                                                    // Adiciona um listener global para fechar os dropdowns quando se clica fora deles.
         if (!e.target.closest('.custom-select')) {
             _closeAllSelects(null);
         }
     });
 }
 
+// Este bloco constrói a lógica para um dropdown customizado a partir de um elemento HTML.
 function _makeCustomSelect(customSelectElement, onChangeCallback) {
     const selectSelectedDisplay = customSelectElement.querySelector(".select-selected");
     const itemsContainer = customSelectElement.querySelector(".select-items");
 
     if (!selectSelectedDisplay || !itemsContainer) return;
 
-    selectSelectedDisplay.addEventListener("click", function (e) {
+     selectSelectedDisplay.addEventListener("click", function (e) {                                // Adiciona evento de clique para abrir/fechar o dropdown.
         e.stopPropagation();
-        _closeAllSelects(this);
+        _closeAllSelects(this); // Fecha outros dropdowns abertos.
         itemsContainer.classList.toggle("select-hide");
         this.classList.toggle("select-arrow-active");
     });
 
+    // Este bloco adiciona evento de clique para cada opção do dropdown.
     Array.from(itemsContainer.children).forEach(optionItem => {
         optionItem.addEventListener("click", function () {
-            const valorAntigo = selectSelectedDisplay.dataset.value;
-            const textoAntigo = selectSelectedDisplay.innerHTML;
-
             selectSelectedDisplay.innerHTML = this.innerHTML;
             selectSelectedDisplay.dataset.value = this.dataset.value || this.textContent;
 
             Array.from(itemsContainer.children).forEach(child => child.classList.remove("same-as-selected"));
             this.classList.add("same-as-selected");
-
             _closeAllSelects(null);
 
             if (onChangeCallback) {
-                onChangeCallback({
-                    value: this.dataset.value,
-                    text: this.textContent
-                });
+                onChangeCallback({ value: this.dataset.value, text: this.textContent });
             }
         });
     });
 }
 
+// Este bloco popula dinamicamente as opções do dropdown de livros.
 function _populateLivrosDropdown(customLivroSelectElement, testamentoFiltrado) {
     const itemsContainer = customLivroSelectElement.querySelector(".select-items");
     const selectedDisplay = customLivroSelectElement.querySelector(".select-selected");
 
     if (!itemsContainer || !selectedDisplay) return;
+    itemsContainer.innerHTML = '';                                                                 // Limpa as opções existentes.
 
-    itemsContainer.innerHTML = '';
-
-    const TodosOption = document.createElement("div");
+    const TodosOption = document.createElement("div");                                             // Adiciona a opção "Todos os livros".
     TodosOption.textContent = "Todos os livros";
     TodosOption.dataset.value = "todos";
     itemsContainer.appendChild(TodosOption);
 
-    const livrosParaExibir = bibliaConfig.getLivrosPorTestamento(testamentoFiltrado);
+    const livrosParaExibir = bibliaConfig.getLivrosPorTestamento(testamentoFiltrado);              // Adiciona os livros correspondentes ao testamento filtrado.
     livrosParaExibir.forEach(livro => {
         const opt = document.createElement("div");
         opt.textContent = livro.nome;
@@ -224,142 +214,34 @@ function _populateLivrosDropdown(customLivroSelectElement, testamentoFiltrado) {
         itemsContainer.appendChild(opt);
     });
 
+    // Reseta a seleção para "Todos os livros" se o livro anteriormente selecionado não pertencer ao novo testamento.
     const valorSelecionado = selectedDisplay.dataset.value;
     const livroExistente = livrosParaExibir.find(l => l.id === valorSelecionado);
-
     if (livroExistente) {
         selectedDisplay.innerHTML = livroExistente.nome;
-        selectedDisplay.dataset.value = livroExistente.id;
     } else {
         selectedDisplay.innerHTML = "Todos os livros";
         selectedDisplay.dataset.value = "todos";
     }
 
-    Array.from(itemsContainer.children).forEach(optionItem => {
+    Array.from(itemsContainer.children).forEach(optionItem => {                                    // Adiciona os listeners de clique para as novas opções.
         optionItem.addEventListener("click", function () {
-            const valorAntigo = selectedDisplay.dataset.value;
-            const textoAntigo = selectedDisplay.innerHTML;
-
             selectedDisplay.innerHTML = this.innerHTML;
-            selectedDisplay.dataset.value = this.dataset.value || this.textContent;
-
-            Array.from(itemsContainer.children).forEach(child => child.classList.remove("same-as-selected"));
-            this.classList.add("same-as-selected");
-
+            selectedDisplay.dataset.value = this.dataset.value;
             _closeAllSelects(null);
-
-            if (valorAntigo !== this.dataset.value || textoAntigo !== this.textContent) {
-                if (onLivroChangeGlobalCallback) {
-                    onLivroChangeGlobalCallback(this.dataset.value);
-                }
+            if (onLivroChangeGlobalCallback) {
+                onLivroChangeGlobalCallback(this.dataset.value);
             }
         });
     });
 }
 
+// Este bloco fecha todos os dropdowns customizados abertos na página.
 function _closeAllSelects(exceptThisSelectedDisplay) {
     document.querySelectorAll(".custom-select .select-items").forEach(container => {
         container.classList.add("select-hide");
     });
-
     document.querySelectorAll(".custom-select .select-selected").forEach(display => {
         display.classList.remove("select-arrow-active");
     });
-}
-
-// Certifique-se de que estas funções estão sendo chamadas quando os dropdowns mudam
-
-// Função para configurar os eventos dos dropdowns customizados
-function configurarEventosDropdowns() {
-    // Dropdown de Testamento
-    const testamentoSelect = document.getElementById('custom-testamento-select');
-    if (testamentoSelect) {
-        const testamentoItems = testamentoSelect.querySelectorAll('.select-items div');
-        testamentoItems.forEach(item => {
-            item.addEventListener('click', function() {
-                const valor = this.getAttribute('data-value');
-                const selected = testamentoSelect.querySelector('.select-selected');
-                
-                // Atualizar o texto e valor selecionado
-                selected.textContent = this.textContent;
-                selected.setAttribute('data-value', valor);
-                
-                // Chamar a função de filtro da concordância
-                if (typeof atualizarFiltroTestamento === 'function') {
-                    atualizarFiltroTestamento(valor);
-                }
-                
-                console.log(`[DROPDOWN] Testamento selecionado: ${valor}`);
-            });
-        });
-    }
-
-    // Dropdown de Livro
-    const livroSelect = document.getElementById('custom-livro-select');
-    if (livroSelect) {
-        const livroItems = livroSelect.querySelectorAll('.select-items div');
-        livroItems.forEach(item => {
-            item.addEventListener('click', function() {
-                const valor = this.getAttribute('data-value');
-                const selected = livroSelect.querySelector('.select-selected');
-                
-                // Atualizar o texto e valor selecionado
-                selected.textContent = this.textContent;
-                selected.setAttribute('data-value', valor);
-                
-                // Chamar a função de filtro da concordância
-                if (typeof atualizarFiltroLivro === 'function') {
-                    atualizarFiltroLivro(valor);
-                }
-                
-                console.log(`[DROPDOWN] Livro selecionado: ${valor}`);
-            });
-        });
-    }
-}
-
-// Função para configurar o botão de busca
-function configurarBuscaGlobal() {
-    const searchBtn = document.querySelector('.search-btn');
-    const searchInput = document.querySelector('.search-input');
-    
-    if (searchBtn && searchInput) {
-        // Evento do botão
-        searchBtn.addEventListener('click', function() {
-            const termo = searchInput.value.trim();
-            if (termo && typeof executarBuscaGlobalConcordancia === 'function') {
-                executarBuscaGlobalConcordancia(termo);
-            }
-        });
-        
-        // Evento do Enter no input
-        searchInput.addEventListener('keypress', function(e) {
-            if (e.key === 'Enter') {
-                const termo = this.value.trim();
-                if (termo && typeof executarBuscaGlobalConcordancia === 'function') {
-                    executarBuscaGlobalConcordancia(termo);
-                }
-            }
-        });
-    }
-}
-
-// Chame estas funções quando a página carregar
-document.addEventListener('DOMContentLoaded', function() {
-    configurarEventosDropdowns();
-    configurarBuscaGlobal();
-});
-
-// Também chame quando trocar para a aba de concordância
-function onConcordanciaTabActive() {
-    // Aguardar um pouco para garantir que o HTML foi carregado
-    setTimeout(() => {
-        configurarEventosDropdowns();
-        configurarBuscaGlobal();
-        
-        // Chamar a função de inicialização da concordância
-        if (typeof onConcordanciaViewReady === 'function') {
-            onConcordanciaViewReady();
-        }
-    }, 100);
 }

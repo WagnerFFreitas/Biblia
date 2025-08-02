@@ -1,0 +1,561 @@
+{
+  "a": [
+    {
+      "palavra": "animo",
+      "veja tambem": [
+        "coragem",
+        "ânimo",
+        "espírito"
+      ],
+      "ocorrencias": 49,
+      "fonte": "Strong's H3820 (לֵב/leb)",
+      "concordancias": [
+        {
+          "referencia": "Josué 1.6",
+          "texto": "Esforça-te e tem bom Á., porque tu farás a este"
+        },
+        {
+          "referencia": "Josué 1.7",
+          "texto": "esforça-te e tem mui bom À. para teres o cuidado"
+        },
+        {
+          "referencia": "Josué 1.9",
+          "texto": "eu? Esforça-te e tem bom Á.; não pasmes, nem te"
+        },
+        {
+          "referencia": "Josué 1.18",
+          "texto": "morrerá; tão somente esforça-te e tem bom Á.."
+        },
+        {
+          "referencia": "Josué 2.11",
+          "texto": "e em ninguém mais há Á. algum, por causa"
+        },
+        {
+          "referencia": "Josué 5.1",
+          "texto": "o coração, e não houve mais À. neles, por"
+        },
+        {
+          "referencia": "Juízes 18.25",
+          "texto": "que, porventura, homens de À. amargoso não se"
+        },
+        {
+          "referencia": "1 Samuel 21.12",
+          "texto": "essas palavras no seu Á. e temeu muito diante"
+        },
+        {
+          "referencia": "1 Samuel 30.6",
+          "texto": "de apedrejá-lo, porque o Á. de todo o povo"
+        },
+        {
+          "referencia": "1 Reis 19.4",
+          "texto": "de um zimbro; e pediu em seu À. a morte e disse:"
+        },
+        {
+          "referencia": "1 Crônicas 22.13",
+          "texto": "Israel; esforça-te, e tem bom Á., e não temas,"
+        },
+        {
+          "referencia": "1 Crônicas 28.12",
+          "texto": "tudo quanto tinha no seu Á., a saber: dos átrios"
+        },
+        {
+          "referencia": "1 Crônicas 28.20",
+          "texto": "filho: Esforça-te, e tem bom Á., e faze a obra;"
+        },
+        {
+          "referencia": "2 Crônicas 7.10",
+          "texto": "suas tendas, alegres e de bom A., pelo bem que o"
+        },
+        {
+          "referencia": "2 Crônicas 32.7",
+          "texto": "Esforçai-vos e tende bom À.; não temais, nem vos"
+        },
+        {
+          "referencia": "Ester 4.13",
+          "texto": "a Ester: Não imagines, em teu Á., que escaparás na"
+        },
+        {
+          "referencia": "Ester 5.9",
+          "texto": "naquele dia, alegre e de bom À.; porém, vendo ."
+        },
+        {
+          "referencia": "Jó 3.20",
+          "texto": "dá luz ao miserável, e vida aos amargurados de Á.,"
+        },
+        {
+          "referencia": "Provérbios 14.29",
+          "texto": "em entendimento, mas o de À. precipitado exalta"
+        },
+        {
+          "referencia": "Provérbios 28.25",
+          "texto": "O altivo de À. levanta confendas, mas o que confia"
+        },
+        {
+          "referencia": "Isaías 46.8",
+          "texto": "Lembrai-vos disso e tende Á.; reconduzi-o ao"
+        },
+        {
+          "referencia": "Isaías 65.14",
+          "texto": "gritareis com tristeza de À. e uivareis pelo"
+        },
+        {
+          "referencia": "Miquéias 3.8",
+          "texto": "Senhor e cheio de juízo e de Á., para anunciar a"
+        },
+        {
+          "referencia": "Mateus 9.2",
+          "texto": "ao paralítico: Filho, tem bom 4.; perdoados te"
+        },
+        {
+          "referencia": "Mateus 9.22",
+          "texto": "e vendo-a, disse: Tem Á., filha, a tua fé"
+        },
+        {
+          "referencia": "Mateus 14.27",
+          "texto": "falou logo, dizendo: Tende bom AÁ., sou eu; não te-"
+        },
+        {
+          "referencia": "Marcos 6.50",
+          "texto": "eles e disse-lhes: Tende bom Á., sou eu; não temais."
+        },
+        {
+          "referencia": "Marcos 10.49",
+          "texto": "o cego, dizendo-lhe: Tem bom À.; levanta-te,"
+        },
+        {
+          "referencia": "Lucas 848",
+          "texto": "E ele Ihe disse: Tem bom A., filha, a tua fé te"
+        },
+        {
+          "referencia": "Jó 16.33",
+          "texto": "tereis aflições, mas tende bom Á.; eu venci o mundo."
+        },
+        {
+          "referencia": "Atos 14.22",
+          "texto": "confirmando o À. dos discípulos, exortando-os a"
+        },
+        {
+          "referencia": "Atos 23.11",
+          "texto": "o Senhor, disse: Paulo, tem A.! Porque, como"
+        },
+        {
+          "referencia": "Atos 24.10",
+          "texto": "nação és juiz, com tanto melhor À, respondo por"
+        },
+        {
+          "referencia": "Atos 27.25",
+          "texto": "ó varões, tende bom Á,! Porque creio em"
+        },
+        {
+          "referencia": "Atos 27.36",
+          "texto": "E, tendo já todos bom Á., puseram-se também a co-"
+        },
+        {
+          "referencia": "Atos 28.15",
+          "texto": "e Paulo, vendo-os, deu graças a Deus e tomou A.."
+        },
+        {
+          "referencia": "Romanos 14.5",
+          "texto": "um esteja inteiramente seguro em seu próprio Á.."
+        },
+        {
+          "referencia": "2 Coríntios 5.6",
+          "texto": "que estamos sempre de bom A., sabendo que,"
+        },
+        {
+          "referencia": "2 Coríntios 8.19",
+          "texto": "para glória do mesmo Senhor e prontidão do vosso"
+        },
+        {
+          "referencia": "2 Coríntios 9.2",
+          "texto": "sei a prontidão do vosso A., da qual me glorio"
+        },
+        {
+          "referencia": "Filipenses 1.14",
+          "texto": "irmãos no Senhor, tomando À. com as minhas"
+        },
+        {
+          "referencia": "Filipenses 1.27",
+          "texto": "juntamente com o mesmo À. pela fé do evangelho."
+        },
+        {
+          "referencia": "Filipenses 2.2",
+          "texto": "tendo o mesmo amor, o mesmo Á., sentindo uma"
+        },
+        {
+          "referencia": "Filipenses 2.19",
+          "texto": "que também eu esteja de bom Å., sabendo dos"
+        },
+        {
+          "referencia": "à 3.21",
+          "texto": "irriteis a vossos filhos, para que não percam o A.."
+        },
+        {
+          "referencia": "1 Tessalonicenses 5.14",
+          "texto": "consoleis os de pouco AÁ., sustenteis os"
+        },
+        {
+          "referencia": "Tiago 4.8",
+          "texto": "pecadores; e, vós de duplo Á., purificai o coração."
+        },
+        {
+          "referencia": "1 Pedro 5.2",
+          "texto": "nem por torpe ganância, mas JÀ. pronto;"
+        },
+        {
+          "referencia": "2 Pedro 3.1",
+          "texto": "as quais desperto com exortação o vosso À. sincero,"
+        }
+      ]
+    },
+    {
+      "palavra": "animosamente",
+      "veja tambem": [
+        "animoso"
+      ],
+      "ocorrencias": 2,
+      "fonte": "Strong's H3820 (לֵב/leb)",
+      "concordancias": [
+        {
+          "referencia": "Números 13.30",
+          "texto": "Moisés e disse: Subamos 4. e"
+        },
+        {
+          "referencia": "1 Samuel 15.32",
+          "texto": "E Agague veio a ele A,; e disse"
+        }
+      ]
+    },
+    {
+      "palavra": "animoso",
+      "veja tambem": [
+        "valente",
+        "corajoso"
+      ],
+      "ocorrencias": 2,
+      "fonte": "Strong's H3820 (לֵב/leb)",
+      "concordancias": [
+        {
+          "referencia": "1 Samuel 16.18",
+          "texto": "que sabe tocar e é valente, e Á., e homem de"
+        },
+        {
+          "referencia": "Amós 2.16",
+          "texto": "E o mais À. entre os valentes fugirá nu naquele"
+        }
+      ]
+    },
+    {
+      "palavra": "animou",
+      "veja tambem": [
+        "animar"
+      ],
+      "ocorrencias": 3,
+      "fonte": "Strong's H3820 (לֵב/leb)",
+      "concordancias": [
+        {
+          "referencia": "IRs 12.18",
+          "texto": "e morreu; mas o rei Roboão se A. a subir ao seu"
+        },
+        {
+          "referencia": "2 Crônicas 35.2",
+          "texto": "nos seus cargos e os Á. ao ministério da"
+        },
+        {
+          "referencia": "Isaías 41.7",
+          "texto": "E o artífice Á. o ourives, e o que alisa com o"
+        }
+      ]
+    },
+    {
+      "palavra": "aninha",
+      "veja tambem": [
+        "aninhar"
+      ],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Jeremias 48.28",
+          "texto": "e sede como a pomba que se À. nas extremidades"
+        }
+      ]
+    },
+    {
+      "palavra": "aninham",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Mateus 13.32",
+          "texto": "que vêm as aves do céu e se À. nos seus ramos."
+        }
+      ]
+    },
+    {
+      "palavra": "aninhar-se",
+      "veja tambem": [
+        "ani-"
+      ],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Marcos 4.32",
+          "texto": "que as aves do céu podem 4. debaixo da"
+        }
+      ]
+    },
+    {
+      "palavra": "aninhará",
+      "veja tambem": [
+        "aninhar"
+      ],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Isaías 34.15",
+          "texto": "Ali se A. a mélroa, e porá os seus ovos, e"
+        }
+      ]
+    },
+    {
+      "palavra": "aninharam",
+      "veja tambem": [
+        "aninhar"
+      ],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Lucas 13.19",
+          "texto": "árvore, e em seus ramos se À. as aves do céu."
+        }
+      ]
+    },
+    {
+      "palavra": "aninhavam",
+      "veja tambem": [
+        "ani-"
+      ],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Ezequiel 31.6",
+          "texto": "Todas as aves do céu se Å. nos seus ramos, e"
+        }
+      ]
+    },
+    {
+      "palavra": "aniquila",
+      "veja tambem": [
+        "aniquilar"
+      ],
+      "ocorrencias": 2,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "2 Crônicas 16.3",
+          "texto": "prata e ouro; vai, pois, e 4. a tua"
+        },
+        {
+          "referencia": "Jó 5.12",
+          "texto": "Ele À, as imaginações dos astutos, para que as"
+        }
+      ]
+    },
+    {
+      "palavra": "aniquiladas",
+      "veja tambem": [
+        "aniquilar"
+      ],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "1 Coríntios 13.8",
+          "texto": "mas, havendo profecias, serão A.; havendo"
+        }
+      ]
+    },
+    {
+      "palavra": "aniquilado",
+      "veja tambem": [
+        "aniquilar"
+      ],
+      "ocorrencias": 5,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "1 Coríntios 13.10",
+          "texto": "é perfeito, então, o que o é em parte será Á.."
+        },
+        {
+          "referencia": "1 Coríntios 15.24",
+          "texto": "Deus, ao Pai, e quando houver À. todo"
+        },
+        {
+          "referencia": "1 Coríntios 15.26",
+          "texto": "o último inimigo que há de ser A. é a morte."
+        },
+        {
+          "referencia": "Gálatas 5.11",
+          "texto": "perseguido? Logo, o escândalo da cruz está A.."
+        },
+        {
+          "referencia": "1 Timóteo 5.12",
+          "texto": "a sua condenação por haverem Á. a primeira fé."
+        }
+      ]
+    },
+    {
+      "palavra": "aniquilam",
+      "veja tambem": [
+        "aniquilar"
+      ],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "1 Coríntios 2.6",
+          "texto": "mundo, nem dos príncipes deste mundo, que se A,;"
+        }
+      ]
+    },
+    {
+      "palavra": "aniquilar",
+      "veja tambem": [],
+      "ocorrencias": 3,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "2 Samuel 17.14",
+          "texto": "assim o Senhor o ordenara, para A. o bom"
+        },
+        {
+          "referencia": "1 Coríntios 1.28",
+          "texto": "e as que não são para Á. as que são;"
+        },
+        {
+          "referencia": "Hebreus 9.26",
+          "texto": "uma vez se manifestou, para 4. o pecado"
+        }
+      ]
+    },
+    {
+      "palavra": "aniquilará",
+      "veja tambem": [
+        "aniquilar"
+      ],
+      "ocorrencias": 5,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Isaías 25.8",
+          "texto": "A. a morte para sempre, e assim enxugará o"
+        },
+        {
+          "referencia": "Sofonias 2.11",
+          "texto": "terrível para eles, porque À. todos os"
+        },
+        {
+          "referencia": "Romanos 3.3",
+          "texto": "a sua incredulidade À. a fidelidade"
+        },
+        {
+          "referencia": "1 Coríntios 6.13",
+          "texto": "para os manjares; Deus, porém, À. tanto um"
+        },
+        {
+          "referencia": "2 Tessalonicenses 2.8",
+          "texto": "pelo assopro da sua boca e A. pelo"
+        }
+      ]
+    },
+    {
+      "palavra": "aniquilarei",
+      "veja tambem": [
+        "aniqui-"
+      ],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "1 Coríntios 1.19",
+          "texto": "a sabedoria dos sábios e 4, a"
+        }
+      ]
+    },
+    {
+      "palavra": "aniquilasse",
+      "veja tambem": [
+        "aniquilar"
+      ],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Hebreus 2.14",
+          "texto": "coisas, para que, pela morte, À. o que"
+        }
+      ]
+    },
+    {
+      "palavra": "aníiquiles",
+      "veja tambem": [
+        "aniquilar"
+      ],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "1 Samuel 15.18",
+          "texto": "e peleja contra eles, até que os A.."
+        }
+      ]
+    },
+    {
+      "palavra": "aniquilo",
+      "veja tambem": [
+        "aniquilar"
+      ],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "G12.21",
+          "texto": "Não À. a graça de Deus; porque, se a justiça"
+        }
+      ]
+    },
+    {
+      "palavra": "aniquilou-se",
+      "veja tambem": [
+        "aniquilar"
+      ],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Filipenses 2.7",
+          "texto": "Mas À. a si mesmo, tomando a forma de"
+        }
+      ]
+    },
+    {
+      "palavra": "aniversário",
+      "veja tambem": [],
+      "ocorrencias": 1,
+      "fonte": "",
+      "concordancias": [
+        {
+          "referencia": "Marcos 6.21",
+          "texto": "que Herodes, no dia do seu A., dava uma"
+        }
+      ]
+    }
+  ]
+}

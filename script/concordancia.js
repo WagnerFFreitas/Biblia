@@ -1,86 +1,104 @@
-// script/concordancia.js
+/*===============================================================================*/
+/*                    SCRIPT DE CONCORDÂNCIA BÍBLICA (MÓDULO)                    */
+/*===============================================================================*/
+/*    - Funções para carregar, filtrar e exibir resultados da concordância.      */
+/*    - Implementa busca por letra, filtro por palavra, testamento e livro.      */
+/*    - Contém a lógica para a busca global em todos os arquivos da Bíblia.      */
+/*===============================================================================*/
+
+// Este bloco importa funções auxiliares para manipulação de livros e testamentos.
 import { getTestamentoDoLivroConfig, getOrdemDosLivrosConfig, findLivroByIdConfig } from './dropdown_concordancia.js';
 
-const CONCORDANCIA_DATA_BASE_PATH_LOCAL = '../concordancia/';
-let dadosCarregadosPorLetraOuBusca = [];
-let filtroTestamentoAtual = 'todos';
-let filtroLivroAtual = 'todos';
-let filtroPalavraAtual = '';
-let termoBuscaGlobalAtual = '';
+// Este bloco define o caminho base para os arquivos de dados da concordância.
+const CONCORDANCIA_DATA_BASE_PATH_LOCAL = '/concordancia/';                        // Variáveis de estado para armazenar dados e filtros atuais.
+let dadosCarregadosPorLetraOuBusca = [];                                           // Armazena os dados brutos carregados (por letra ou busca global).
+let filtroTestamentoAtual = 'todos';                                               // Estado do filtro de testamento ('todos', 'Antigo Testamento', 'Novo Testamento').
+let filtroLivroAtual = 'todos';                                                    // Estado do filtro de livro (ex: 'gn' para Gênesis).
+let filtroPalavraAtual = '';                                                       // Estado do filtro de palavra dentro dos resultados.
+let termoBuscaGlobalAtual = '';                                                    // Armazena o termo da última busca global.
 
+// O bloco carrega e exibe os dados da concordância para uma letra específica.
 export async function carregarEDisplayConcordanciaPorLetra(letra) {
-    const resultadosContainer = document.getElementById('resultados-container');
-    if (!resultadosContainer) return;
-    resultadosContainer.innerHTML = '<div class="loader">Carregando...</div>';
+    const resultadosContainer = document.getElementById('resultados-container');   
+    if (!resultadosContainer) return;                                              // Aborta se o container de resultados não existir.
+    resultadosContainer.innerHTML = '<div class="loader">Carregando...</div>';     // Exibe um indicador de carregamento.
 
     try {
-        const response = await fetch(`${CONCORDANCIA_DATA_BASE_PATH_LOCAL}${letra.toLowerCase()}.json`);
-        if (!response.ok) throw new Error(`Arquivo '${letra.toLowerCase()}.json' não encontrado.`);
+        const response = await fetch(`${CONCORDANCIA_DATA_BASE_PATH_LOCAL}${letra.toLowerCase()}.json`);     // Faz a requisição para o arquivo JSON da letra.
+        if (!response.ok) throw new Error(`Arquivo '${letra.toLowerCase()}.json' não encontrado.`);          // Lança um erro se o arquivo não for encontrado.
         const jsonData = await response.json();
-        const wordEntries = jsonData[letra.toLowerCase()] || [];
+        const wordEntries = jsonData[letra.toLowerCase()] || [];                                             // Extrai as entradas de palavras do JSON.
 
-        dadosCarregadosPorLetraOuBusca = wordEntries;
-        termoBuscaGlobalAtual = '';
-        _aplicarFiltrosERenderizar();
+        dadosCarregadosPorLetraOuBusca = wordEntries;                                                        // Armazena os dados carregados.
+        termoBuscaGlobalAtual = '';                                                                          // Limpa o termo de busca global.
+        _aplicarFiltrosERenderizar();                                                                        // Aplica filtros e renderiza os resultados.
     } catch (error) {
         console.error(error);
-        resultadosContainer.innerHTML = `<p class="erro-mensagem">${error.message}</p>`;
-        dadosCarregadosPorLetraOuBusca = [];
+        resultadosContainer.innerHTML = `<p class="erro-mensagem">${error.message}</p>`;                     // Exibe uma mensagem de erro na interface.
+        dadosCarregadosPorLetraOuBusca = [];                                                                 // Limpa os dados em caso de erro.
     }
 }
 
+// Este blococria a função chamada quando a view da concordância está pronta.
 export function onConcordanciaViewReady() {
+    // Busca os elementos dos filtros na interface.
     const testamentoSelect = document.getElementById('custom-testamento-select')?.querySelector('.select-selected');
     const livroSelect = document.getElementById('custom-livro-select')?.querySelector('.select-selected');
     const palavraInput = document.getElementById('filtro-palavra-input');
 
+    // Atualiza as variáveis de estado com os valores dos filtros.
     filtroTestamentoAtual = testamentoSelect?.dataset.value || 'todos';
     filtroLivroAtual = livroSelect?.dataset.value || 'todos';
     filtroPalavraAtual = palavraInput?.value.toLowerCase().trim() || '';
 
-    _aplicarFiltrosERenderizar();
+    _aplicarFiltrosERenderizar();                                                  // Renderiza os resultados com os filtros atuais.
 }
 
+// Este bloco carrega um conjunto de dados base na concordância (usado pela busca global).
 export function carregarDadosBaseConcordancia(dados) {
-    dadosCarregadosPorLetraOuBusca = dados || [];
+    dadosCarregadosPorLetraOuBusca = dados || [];                                  // Atualiza os dados base.
+    _aplicarFiltrosERenderizar();                                                  // Aplica filtros e renderiza.
+}
+
+// Atualiza o filtro de testamento e re-renderiza os resultados.
+export function atualizarFiltroTestamento(novoTestamento) { 
+    if (filtroTestamentoAtual === novoTestamento) return;                          // Evita re-renderização desnecessária.
+    filtroTestamentoAtual = novoTestamento;                                        // Atualiza o estado do filtro.
     _aplicarFiltrosERenderizar();
 }
 
-export function atualizarFiltroTestamento(novoTestamento) {
-    if (filtroTestamentoAtual === novoTestamento) return;
-    filtroTestamentoAtual = novoTestamento;
-    _aplicarFiltrosERenderizar();
-}
-
+// Este bloco atualiza o filtro de livro e re-renderiza os resultados.
 export function atualizarFiltroLivro(novoLivro) {
-    if (filtroLivroAtual === novoLivro) return;
-    filtroLivroAtual = novoLivro;
+    if (filtroLivroAtual === novoLivro) return;                                    // Evita re-renderização desnecessária.
+    filtroLivroAtual = novoLivro;                                                  // Atualiza o estado do filtro.
     _aplicarFiltrosERenderizar();
 }
 
+// Este bloco atualiza o filtro de palavra e re-renderiza os resultados.
 export function atualizarFiltroPalavra(novaPalavra) {
-    const palavraFiltrada = novaPalavra.toLowerCase().trim();
-    if (filtroPalavraAtual === palavraFiltrada) return;
-    filtroPalavraAtual = palavraFiltrada;
+    const palavraFiltrada = novaPalavra.toLowerCase().trim();                      // Normaliza a palavra do filtro.
+    if (filtroPalavraAtual === palavraFiltrada) return;                            // Evita re-renderização desnecessária.
+    filtroPalavraAtual = palavraFiltrada;                                          // Atualiza o estado do filtro.
     _aplicarFiltrosERenderizar();
 }
 
+// Este bloco contém funções utilitárias internas para formatação e extração de dados.
 function extrairNomeLivroDaReferencia(referencia) {
     if (!referencia) return '';
-    const match = referencia.match(/^([A-Za-zÀ-ÿ\s0-9]+)(?=\s*\d)/);
-    return match ? match[1].trim() : referencia.split(' ')[0].trim();
+    const match = referencia.match(/^([A-Za-zÀ-ÿ\s0-9]+)(?=\s*\d)/);               // Regex para extrair o nome do livro (ex: "1 Crônicas" de "1 Crônicas 10:1").
+    return match ? match[1].trim() : referencia.split(' ')[0].trim();              // Retorna o nome do livro encontrado ou a primeira palavra como fallback.
 }
 
 function destacarPalavra(texto, termo) {
     if (!termo || !texto) return texto;
-    const regex = new RegExp(`\\b(${termo.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})\\b`, 'gi');
-    return texto.replace(regex, '<mark>$1</mark>');
+    const regex = new RegExp(`\\b(${termo.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})\\b`, 'gi');               // Cria uma regex para destacar o termo exato no texto.
+    return texto.replace(regex, '<mark>$1</mark>');                                                          // Envolve o termo com a tag <mark> para estilização.
 }
 
 function formatarNomeLivro(nomeLivro) {
     const partes = nomeLivro.split(' ');
     if (partes.length > 1 && ['1', '2', '3'].includes(partes[0])) {
-        return `${partes[0]}º ${partes.slice(1).join(' ')}`;
+        return `${partes[0]}º ${partes.slice(1).join(' ')}`;                       // Formata "1 Samuel" para "1º Samuel".
     }
     return nomeLivro;
 }
@@ -91,22 +109,23 @@ function formatarReferencia(referencia) {
         const nomeLivroOriginal = match[1].trim();
         const restoDaReferencia = match[2] || '';
         const nomeLivroFormatado = formatarNomeLivro(nomeLivroOriginal);
-        return `${nomeLivroFormatado}${restoDaReferencia}`;
+        return `${nomeLivroFormatado}${restoDaReferencia}`;                        // Reconstitui a referência com o nome do livro formatado.
     }
     return referencia;
 }
 
+// Este bloco cria a função central que aplica todos os filtros ativos aos dados e chama a renderização.
 function _aplicarFiltrosERenderizar() {
-    let resultados = [...dadosCarregadosPorLetraOuBusca];
+    let resultados = [...dadosCarregadosPorLetraOuBusca];                          // Cria uma cópia dos dados para não modificar o original.
 
-    // Filtro por Palavra
+    // Este bloco aplica o filtro de palavra (dentro dos resultados já carregados).
     if (filtroPalavraAtual) {
         resultados = resultados.filter(item =>
             item.palavra?.toLowerCase().includes(filtroPalavraAtual)
         );
     }
 
-    // Filtro por Testamento
+    // Este bloco aplica o filtro de testamento.
     if (filtroTestamentoAtual !== 'todos') {
         resultados = resultados.reduce((acc, palavraItem) => {
             const filtradas = (palavraItem.concordancias || []).filter(con => {
@@ -121,7 +140,7 @@ function _aplicarFiltrosERenderizar() {
         }, []);
     }
 
-    // Filtro por Livro
+    // Este bloco aplica o filtro de livro.
     if (filtroLivroAtual !== 'todos') {
         resultados = resultados.reduce((acc, palavraItem) => {
             const filtradas = (palavraItem.concordancias || []).filter(con => {
@@ -136,55 +155,43 @@ function _aplicarFiltrosERenderizar() {
         }, []);
     }
 
-    _renderizarResultados(resultados);
+    _renderizarResultados(resultados);                                             // Chama a função para renderizar os resultados finais.
 }
 
+// Este bloco renderiza a lista de resultados no DOM.
 function _renderizarResultados(lista) {
     const container = document.getElementById('resultados-container');
     if (!container) return;
-    container.innerHTML = '';
+    container.innerHTML = '';                                                                                // Limpa o container antes de renderizar.
     if (!lista || lista.length === 0) {
+        let mensagem = "Nenhum resultado encontrado para os filtros aplicados.";
         if (termoBuscaGlobalAtual) {
-            container.innerHTML = `<p class="sem-resultados">Nenhum resultado encontrado para "${termoBuscaGlobalAtual}" com os filtros aplicados.</p>`;
+            mensagem = `Nenhum resultado encontrado para "${termoBuscaGlobalAtual}".`;
         } else if (filtroPalavraAtual) {
-            container.innerHTML = `<p class="sem-resultados">Nenhum resultado encontrado para "${filtroPalavraAtual}" com os filtros aplicados.</p>`;
-        } else {
-            container.innerHTML = `<p class="sem-resultados">Nenhum resultado encontrado para os filtros aplicados.</p>`;
+            mensagem = `Nenhum resultado encontrado para "${filtroPalavraAtual}".`;
         }
+        container.innerHTML = `<div class="sem-resultados"><h3>Sem resultados</h3><p>${mensagem}</p></div>`;
         return;
     }
 
+    // Este bloco itera sobre cada item da lista para criar seu elemento HTML.
     lista.forEach(item => {
         const section = document.createElement('div');
         section.className = 'palavra-section';
 
         const header = document.createElement('div');
         header.className = 'palavra-header';
-
-        const titulo = document.createElement('h2');
-        titulo.className = 'palavra-titulo';
-        titulo.textContent = item.palavra;
-
-        const contador = document.createElement('span');
-        contador.className = 'contador';
-        contador.textContent = `${item.ocorrencias || 0} ocorrências`;
-
-        header.appendChild(titulo);
-        header.appendChild(contador);
+        header.innerHTML = `
+            <h2 class="palavra-titulo">${item.palavra}</h2>
+            <span class="contador">${item.ocorrencias || 0} ocorrências</span>
+        `;
         section.appendChild(header);
 
         if (item.fonte) {
-            const fonte = document.createElement('div');
-            fonte.className = 'palavra-fonte-info';
-            fonte.innerHTML = `<strong>Fonte:</strong> ${item.fonte}`;
-            section.appendChild(fonte);
+            section.innerHTML += `<div class="palavra-fonte-info"><strong>Fonte:</strong> ${item.fonte}</div>`;
         }
-
         if (item['veja tambem']?.length) {
-            const veja = document.createElement('div');
-            veja.className = 'palavra-veja-tambem-info';
-            veja.innerHTML = `<strong>Veja também:</strong> ${item['veja tambem'].join(', ')}`;
-            section.appendChild(veja);
+            section.innerHTML += `<div class="palavra-veja-tambem-info"><strong>Veja também:</strong> ${item['veja tambem'].join(', ')}</div>`;
         }
 
         const agrupado = {};
@@ -216,93 +223,77 @@ function _renderizarResultados(lista) {
     if (inicial) inicial.style.display = 'none';
 }
 
+// Este bloco cria a seção HTML para um livro específico dentro de uma palavra.
 function criarSecaoLivro(section, livro, ocorrencias, palavra) {
     const grupo = document.createElement('div');
     grupo.className = 'livro-grupo';
-
-    const cabecalho = document.createElement('div');
-    cabecalho.className = 'livro-header';
-    cabecalho.textContent = `${formatarNomeLivro(livro)} (${ocorrencias.length} ocorrência${ocorrencias.length > 1 ? 's' : ''})`;
-    grupo.appendChild(cabecalho);
+    grupo.innerHTML = `<div class="livro-header">${formatarNomeLivro(livro)} (${ocorrencias.length} ocorrência${ocorrencias.length > 1 ? 's' : ''})</div>`;
 
     ocorrencias.forEach(oc => {
         const div = document.createElement('div');
         div.className = 'ocorrencia';
-
-        const ref = document.createElement('div');
-        ref.className = 'referenciaConcordancia';
-        ref.textContent = formatarReferencia(oc.referencia);
-
-        const texto = document.createElement('div');
-        texto.className = 'texto';
-        texto.innerHTML = destacarPalavra(oc.texto, termoBuscaGlobalAtual || palavra);
-
-        div.appendChild(ref);
-        div.appendChild(texto);
+        div.innerHTML = `
+            <div class="referenciaConcordancia">${formatarReferencia(oc.referencia)}</div>
+            <div class="texto">${destacarPalavra(oc.texto, termoBuscaGlobalAtual || palavra)}</div>
+        `;
         grupo.appendChild(div);
     });
 
     section.appendChild(grupo);
 }
 
+// Este bloocoo executa uma busca global por um termo em todos os arquivos da concordância.
 export async function executarBuscaGlobalConcordancia(termo) {
-    termoBuscaGlobalAtual = termo.trim().toLowerCase();
+    termoBuscaGlobalAtual = termo.trim().toLowerCase();                                                      // Normaliza e armazena o termo de busca.
     const resultadosContainer = document.getElementById('resultados-container');
-    filtroPalavraAtual = '';
+    filtroPalavraAtual = '';                                                                                 // Limpa o filtro de palavra.
+
     if (!termoBuscaGlobalAtual) {
         if (resultadosContainer) resultadosContainer.innerHTML = '<p class="sem-resultados">Digite um termo para a busca global.</p>';
         dadosCarregadosPorLetraOuBusca = [];
         return;
     }
+
     if (resultadosContainer) {
         resultadosContainer.innerHTML = '<div class="loader-global-busca">🔍 Buscando em toda a Bíblia...</div>';
     }
 
-    let todosOsResultadosGlobais = [];
-
+    const todosOsResultadosGlobais = new Map();                                                                    // Usa um Map para evitar resultados duplicados.
     const todasAsLetras = 'abcdefghijklmnopqrstuvwxyz'.split('');
+    const regexBusca = new RegExp(`\\b(${termoBuscaGlobalAtual.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})\\b`, 'gi');
+
+    // Este bloco itera sobre todas as letras do alfabeto para carregar e processar cada arquivo.
     for (const letra of todasAsLetras) {
         try {
             const response = await fetch(`${CONCORDANCIA_DATA_BASE_PATH_LOCAL}${letra}.json`);
             if (!response.ok) continue;
+
             const jsonData = await response.json();
             const wordEntries = jsonData[letra.toLowerCase()] || [];
 
-            wordEntries.forEach(item => {
-                let encontrou = false;
-                let ocorrencias = [];
-
-                if (item.palavra?.toLowerCase() === termoBuscaGlobalAtual ||
-                    item.palavra?.toLowerCase().includes(termoBuscaGlobalAtual)) {
-                    encontrou = true;
-                    ocorrencias = item.concordancias || [];
+            for (const item of wordEntries) {                                                                      // Busca pela palavra-chave principal ou no texto dos versículos.
+                if (item.palavra.toLowerCase().includes(termoBuscaGlobalAtual)) {
+                    if (!todosOsResultadosGlobais.has(item.palavra)) {
+                        todosOsResultadosGlobais.set(item.palavra, { ...item });
+                    }
+                } else {
+                    const concordanciasCorrespondentes = (item.concordancias || []).filter(oc => regexBusca.test(oc.texto));
+                    if (concordanciasCorrespondentes.length > 0) {
+                        if (!todosOsResultadosGlobais.has(item.palavra)) {
+                            todosOsResultadosGlobais.set(item.palavra, {
+                                ...item,
+                                concordancias: concordanciasCorrespondentes,
+                                ocorrencias: concordanciasCorrespondentes.length
+                            });
+                        }
+                    }
                 }
-
-                if (!encontrou) {
-                    const regex = new RegExp(`\\b${termoBuscaGlobalAtual.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'gi');
-                    ocorrencias = item.concordancias?.filter(oc => regex.test(oc.texto)) || [];
-                    if (ocorrencias.length > 0) encontrou = true;
-                }
-
-                if (!encontrou && item.fonte?.toLowerCase().includes(termoBuscaGlobalAtual)) {
-                    encontrou = true;
-                    ocorrencias = item.concordancias || [];
-                }
-
-                if (!encontrou && item["veja tambem"]?.some(vt => vt.toLowerCase().includes(termoBuscaGlobalAtual))) {
-                    encontrou = true;
-                    ocorrencias = item.concordancias || [];
-                }
-
-                if (encontrou) {
-                    todosOsResultadosGlobais.push({ ...item, concordancias: ocorrencias, ocorrencias: ocorrencias.length });
-                }
-            });
+            }
         } catch (e) {
-            console.warn(`Erro ao carregar ${letra}.json:`, e);
+            console.warn(`Erro ao carregar ou processar ${letra}.json:`, e);
         }
     }
 
-    dadosCarregadosPorLetraOuBusca = todosOsResultadosGlobais;
-    _aplicarFiltrosERenderizar();
+    dadosCarregadosPorLetraOuBusca = Array.from(todosOsResultadosGlobais.values());// Converte o Map para um array.
+    _aplicarFiltrosERenderizar();                                                  // Aplica filtros e renderiza os resultados da busca global.
 }

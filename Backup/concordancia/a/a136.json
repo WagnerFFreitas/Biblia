@@ -1,0 +1,432 @@
+{
+  "a": [
+    {
+      "palavra": "arrabaldes",
+      "veja tambem": ["arrabalde", "subúrbio", "vila"],
+      "ocorrencias": 105,
+      "fonte": "Strong's H4054 (מִגְרָשׁ/migrash)",
+      "concordancias": [
+        {
+          "referencia": "Números 35.2",
+          "texto": "e também aos levitas dareis 4, ao redor delas."
+        },
+        {
+          "referencia": "Números 35.3",
+          "texto": "habitá-las; porém os seus Á. serão para os"
+        },
+        {
+          "referencia": "Números 35.4",
+          "texto": "E os À. das cidades que dareis aos levitas,"
+        },
+        {
+          "referencia": "Números 35.5",
+          "texto": "e a cidade no meio; isto terão por A. das cidades."
+        },
+        {
+          "referencia": "Números 35.7",
+          "texto": "e oito cidades, juntamente com os seus A.."
+        },
+        {
+          "referencia": "Josué 14.4",
+          "texto": "em que habitassem e os seus À. para seu"
+        },
+        {
+          "referencia": "Josué 21.2",
+          "texto": "cidades para habitar e os seus À. para os"
+        },
+        {
+          "referencia": "Josué 21.3",
+          "texto": "o dito do Senhor, estas cidades e os seus Á.."
+        },
+        {
+          "referencia": "Josué 21.8",
+          "texto": "estas cidades e os seus 4. por sorte, como"
+        },
+        {
+          "referencia": "Josué 21.11",
+          "texto": "no monte de Judá, e os seus Á. em redor dela."
+        },
+        {
+          "referencia": "Josué 21.13",
+          "texto": "do homicida, Hebrom, e os seus Á., e Libna e"
+        },
+        {
+          "referencia": "Josué 21.13",
+          "texto": "eosseus Å., e Libna e os seus A.;"
+        },
+        {
+          "referencia": "Josué 21.14",
+          "texto": "e os seus Á., e Estemoa e os seus A.;"
+        },
+        {
+          "referencia": "Josué 21.15",
+          "texto": "e Holom e os seus Á., e Debir e os seus 4.;"
+        },
+        {
+          "referencia": "Josué 21.15",
+          "texto": "eos seus Á., e Debir e os seus À.;"
+        },
+        {
+          "referencia": "Josué 21.16",
+          "texto": "e Aim e os seus Å., e Jutá e os seus"
+        },
+        {
+          "referencia": "Josué 21.16",
+          "texto": "e Bete-Semes e os seus Á.: nove cidades"
+        },
+        {
+          "referencia": "Josué 21.17",
+          "texto": "Benjamim, Gibeão e os seus Á., Geba e os"
+        },
+        {
+          "referencia": "Josué 21.17",
+          "texto": "Gibeão e os seus Á., Geba e os seus A.;"
+        },
+        {
+          "referencia": "Josué 21.18",
+          "texto": "e Anatote e os seus Á., e Almom e os seus"
+        },
+        {
+          "referencia": "Josué 21.18",
+          "texto": "e Almom e os seus Á.: quatro cidades."
+        },
+        {
+          "referencia": "Josué 21.19",
+          "texto": "de Arão, foram treze cidades e os seus Å.."
+        },
+        {
+          "referencia": "Josué 21.21",
+          "texto": "do homicida, e os seus Á., no monte de"
+        },
+        {
+          "referencia": "Josué 21.21",
+          "texto": "no monte de Efraim, e Gezer e os seus À.;"
+        },
+        {
+          "referencia": "Josué 21.22",
+          "texto": "e Quibzaim e os seus A., e Bete-Horom e os"
+        },
+        {
+          "referencia": "Josué 21.22",
+          "texto": "e Bete-Horom e os seus A.: quatro cidades."
+        },
+        {
+          "referencia": "Josué 21.23",
+          "texto": "eos seus Á., Gibetom e os seus À.;"
+        },
+        {
+          "referencia": "Josué 21.24",
+          "texto": "e Aijalom e os seus Á., Gate-Rimom e os seus"
+        },
+        {
+          "referencia": "Josué 21.24",
+          "texto": "Gate-Rimom e os seus A.: quatro cidades."
+        },
+        {
+          "referencia": "Josué 21.25",
+          "texto": "Taanaque e os seus Å., e Gate-Rimom"
+        },
+        {
+          "referencia": "Josué 21.25",
+          "texto": "e Gate-Rimom e os seus Á.: duas cidades."
+        },
+        {
+          "referencia": "Josué 21.26",
+          "texto": "demais filhos de Coate foram dez e os seus AÅ.."
+        },
+        {
+          "referencia": "Josué 21.27",
+          "texto": "do homicida, em Basã, e os seus Á., e"
+        },
+        {
+          "referencia": "Josué 21.27",
+          "texto": "Á., e Beesterá e os seus Á.: duas cidades."
+        },
+        {
+          "referencia": "Josué 21.28",
+          "texto": "Issacar, Quisião e os seus Á., Daberate e os"
+        },
+        {
+          "referencia": "Josué 21.28",
+          "texto": "e os seus A., Daberate e os seus A.;"
+        },
+        {
+          "referencia": "Josué 21.29",
+          "texto": "e Jarmute e os seus Á., En-Ganim e os seus"
+        },
+        {
+          "referencia": "Josué 21.29",
+          "texto": "En-Ganim e os seus Á.: quatro cidades."
+        },
+        {
+          "referencia": "Josué 21.30",
+          "texto": "de Aser, Misal e os seus A., Abdom e os"
+        },
+        {
+          "referencia": "Josué 21.30",
+          "texto": "Misal e os seus A., Abdom e os seus Á.;"
+        },
+        {
+          "referencia": "Josué 21.31",
+          "texto": "e Helcate e os seus A., Reobe e os seus"
+        },
+        {
+          "referencia": "Josué 21.31",
+          "texto": "A., Reobe e os seus A.: quatro cidades."
+        },
+        {
+          "referencia": "Josué 21.32",
+          "texto": "na Galileia, e os seus A., e"
+        },
+        {
+          "referencia": "Josué 21.32",
+          "texto": "A.; e Cartã e os seus A.: três cidades."
+        },
+        {
+          "referencia": "Josué 21.33",
+          "texto": "famílias, foram treze cidades e os seus Á.."
+        },
+        {
+          "referencia": "Josué 21.34",
+          "texto": "de Zebulom, Jocneão e os seus Á., Cartá e os"
+        },
+        {
+          "referencia": "Josué 21.34",
+          "texto": "eosseus Á., Cartá e os seus À.;"
+        },
+        {
+          "referencia": "Josué 21.35",
+          "texto": "e Dimna e os seus Á., Naalal e os seus"
+        },
+        {
+          "referencia": "Josué 21.35",
+          "texto": "Naalal e os seus Á.: quatro cidades."
+        },
+        {
+          "referencia": "Josué 21.36",
+          "texto": "de Rúben, Bezer e os seus Á., ẹ Jaza e os"
+        },
+        {
+          "referencia": "Josué 21.36",
+          "texto": "e os seus Á., e Jaza e os seus Á.;"
+        },
+        {
+          "referencia": "Josué 21.37",
+          "texto": "e Quedemote e os seus Á., e Mefaate e os seus"
+        },
+        {
+          "referencia": "Josué 21.37",
+          "texto": "e Mefaate e os seus A.: quatro cidades."
+        },
+        {
+          "referencia": "Josué 21.38",
+          "texto": "em Gileade, e os seus Á., e Maanaim"
+        },
+        {
+          "referencia": "Josué 21.38",
+          "texto": "e os seus Á., e Maanaim e os seus À.;"
+        },
+        {
+          "referencia": "Josué 21.39",
+          "texto": "e Hesbom e os seus A., Jazer e os seus"
+        },
+        {
+          "referencia": "Josué 21.39",
+          "texto": "A., Jazer e os seus Á.: quatro cidades."
+        },
+        {
+          "referencia": "Josué 21.41",
+          "texto": "foram quarenta e oito cidades e os seus Á.."
+        },
+        {
+          "referencia": "1 Crônicas 5.16",
+          "texto": "como também em todos os A. de Sarom, até"
+        },
+        {
+          "referencia": "1 Crônicas 6.55",
+          "texto": "na terra de Judá e os seus Á. que a rodeiam."
+        },
+        {
+          "referencia": "1 Crônicas 6.57",
+          "texto": "Hebrom, e Libna, e os seus A., eJatir e"
+        },
+        {
+          "referencia": "1 Crônicas 6.57",
+          "texto": "A., eTatir e Estemoa, e os seus Á.,"
+        },
+        {
+          "referencia": "1 Crônicas 6.58",
+          "texto": "e Hilém, e os seus Á., e Debir, e os seus Á.,"
+        },
+        {
+          "referencia": "1 Crônicas 6.58",
+          "texto": "eosseus Á., e Debir, e os seus Á.,"
+        },
+        {
+          "referencia": "1 Crônicas 6.59",
+          "texto": "e Asã, e os seus A., e Bete-Semes, e os seus À.;"
+        },
+        {
+          "referencia": "1 Crônicas 6.59",
+          "texto": "os seus Á., e Bete-Semes, e os seus Á.;"
+        },
+        {
+          "referencia": "1 Crônicas 6.60",
+          "texto": "de Benjamim, Geba, e os seus Á., e Alemete, e"
+        },
+        {
+          "referencia": "1 Crônicas 6.60",
+          "texto": "Á., e Anatote, e os seus A.; todas as"
+        },
+        {
+          "referencia": "1 Crônicas 6.64",
+          "texto": "Israel aos levitas estas cidades e os seus Á.."
+        },
+        {
+          "referencia": "1 Crônicas 6.67",
+          "texto": "refúgio, Siquém, e os seus Á., nas"
+        },
+        {
+          "referencia": "1 Crônicas 6.67",
+          "texto": "de Efraim, como também Gezer e os seus Á.,"
+        },
+        {
+          "referencia": "1 Crônicas 6.68",
+          "texto": "e Jocmeão, e os seus Á., e Bete-Horom, e seus Å.,"
+        },
+        {
+          "referencia": "1 Crônicas 6.68",
+          "texto": "eosseus Á., e Bete-Horom, e seus A.,"
+        },
+        {
+          "referencia": "1 Crônicas 6.69",
+          "texto": "e Aijalom, e os seus Á., e Gate-Rimom, e os"
+        },
+        {
+          "referencia": "1 Crônicas 6.69",
+          "texto": "os seus Á., e Gate-Rimom, e os seus À.;"
+        },
+        {
+          "referencia": "1 Crônicas 6.70",
+          "texto": "de Manassés, Aner e os seus Á., e Bileão, e"
+        },
+        {
+          "referencia": "1 Crônicas 6.70",
+          "texto": "e Bileão, cos seus A.; estas"
+        },
+        {
+          "referencia": "1 Crônicas 6.71",
+          "texto": "a Golã, em Basã, e os seus Á., e"
+        },
+        {
+          "referencia": "1 Crônicas 6.71",
+          "texto": "eosseus Á., e Astarote, e os seus A.;"
+        },
+        {
+          "referencia": "1 Crônicas 6.72",
+          "texto": "Issacar, Quedes, e os seus Á., e Daberate,"
+        },
+        {
+          "referencia": "1 Crônicas 6.72",
+          "texto": "eosseus Á., e Daberate, e os seus Á.,"
+        },
+        {
+          "referencia": "1 Crônicas 6.73",
+          "texto": "e Ramote, e os seus Á., e Aném, e os seus A.;"
+        },
+        {
+          "referencia": "1 Crônicas 6.73",
+          "texto": "e os seus A., e Aném, e os seus À,;"
+        },
+        {
+          "referencia": "1 Crônicas 6.74",
+          "texto": "de Aser, Masal, e os seus Á., e Abdom, e"
+        },
+        {
+          "referencia": "1 Crônicas 6.74",
+          "texto": "e os seus A., e Abdom, e os seus Å.,"
+        },
+        {
+          "referencia": "1 Crônicas 6.75",
+          "texto": "e Hucoque, e os seus A., e Reobe, e os seus A.;"
+        },
+        {
+          "referencia": "1 Crônicas 6.75",
+          "texto": "eos seus Á., e Reobe, e os seus A.;"
+        },
+        {
+          "referencia": "1 Crônicas 6.76",
+          "texto": "em Galileia, e os seus Á., e Hamom, e"
+        },
+        {
+          "referencia": "1 Crônicas 6.76",
+          "texto": "os seus Á., e Quiriataim, e os seus A.."
+        },
+        {
+          "referencia": "1 Crônicas 6.77",
+          "texto": "tiveram a Rimono, e os seus A., a Tabor, e"
+        },
+        {
+          "referencia": "1 Crônicas 6.77",
+          "texto": "eos seus Á., a Tabor, e os seus Á.;"
+        },
+        {
+          "referencia": "1 Crônicas 6.78",
+          "texto": "a Bezer, no deserto, e os seus Á., ea"
+        },
+        {
+          "referencia": "1 Crônicas 6.78",
+          "texto": "eos seus Á., ea Jaza, e os seus Å.,"
+        },
+        {
+          "referencia": "1 Crônicas 6.79",
+          "texto": "e Quedemote, e os seus A., e a Mefaate, e os"
+        },
+        {
+          "referencia": "1 Crônicas 6.79",
+          "texto": "osseus Á., ea Mefaate, e os seus Á.:"
+        },
+        {
+          "referencia": "1 Crônicas 6.80",
+          "texto": "Ramote, em Gileade, e os seus Á., e Maanaim,"
+        },
+        {
+          "referencia": "1 Crônicas 6.80",
+          "texto": "eos seus Á., e Maanaim, e os seus Á.,"
+        },
+        {
+          "referencia": "1 Crônicas 6.81",
+          "texto": "e Hesbom, e os seus A., e Jazer, e os seus Å.,"
+        },
+        {
+          "referencia": "1 Crônicas 6.81",
+          "texto": "eos seus A., e Jazer, e os seus A.."
+        },
+        {
+          "referencia": "1 Crônicas 13.2",
+          "texto": "com eles nas cidades e nos seus Á., para que"
+        },
+        {
+          "referencia": "2 Crônicas 11.14",
+          "texto": "levitas deixaram os seus Á. e a sua"
+        },
+        {
+          "referencia": "2 Crônicas 31.19",
+          "texto": "sacerdotes nos campos dos A. das suas"
+        },
+        {
+          "referencia": "Ezequiel 27.28",
+          "texto": "da gritaria dos teus pilotos tremerão os Á.."
+        },
+        {
+          "referencia": "Ezequiel 48.15",
+          "texto": "cidade, para habitação e para À.; e a cidade"
+        },
+        {
+          "referencia": "Ezequiel 48.17",
+          "texto": "E os À. da cidade serão, para o norte, de"
+        }
+      ]
+    }
+  ]
+}

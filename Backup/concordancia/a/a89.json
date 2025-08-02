@@ -1,0 +1,796 @@
+{
+  "a": [
+    {
+      "palavra": "animais",
+      "veja tambem": [
+        "besta",
+        "criatura",
+        "gado"
+      ],
+      "ocorrencias": 195,
+      "fonte": "Strong's H929 (בְּהֵמָה/behemah)",
+      "concordancias": [
+        {
+          "referencia": "Gênesis 3.14",
+          "texto": "besta e mais que todos os A. do campo; sobre"
+        },
+        {
+          "referencia": "Gênesis 6.20",
+          "texto": "conforme a sua espécie, dos A. conforme a sua"
+        },
+        {
+          "referencia": "Gênesis 7.2",
+          "texto": "o macho e sua fêmea; mas dos A. que não são"
+        },
+        {
+          "referencia": "Gênesis 7.8",
+          "texto": "Dos À. limpos, e dos Å, que não são limpos,"
+        },
+        {
+          "referencia": "Gênesis 34.23",
+          "texto": "possessões, e todos os seus Á. não serão"
+        },
+        {
+          "referencia": "Gênesis 36.6",
+          "texto": "e seu gado, e todos os seus Á., e toda a sua"
+        },
+        {
+          "referencia": "Gênesis 45.17",
+          "texto": "isto: carregai os vossos Á., e parti, e"
+        },
+        {
+          "referencia": "Gênesis 47.18",
+          "texto": "e meu senhor possui os A.; nenhuma outra"
+        },
+        {
+          "referencia": "Êxodo 9.25",
+          "texto": "desde os homens até aos A.; também a"
+        },
+        {
+          "referencia": "Êxodo 11.5",
+          "texto": "que está detrás da mó, e todo primogênito dos A.."
+        },
+        {
+          "referencia": "Êxodo 11.7",
+          "texto": "desde os homens até aos Á., para que saibais"
+        },
+        {
+          "referencia": "Êxodo 12.12",
+          "texto": "desde os homens até aos A.; e sobre todos os"
+        },
+        {
+          "referencia": "Êxodo 12.29",
+          "texto": "estava no cárcere, e todos os primogênitos dos A.."
+        },
+        {
+          "referencia": "Êxodo 13.2",
+          "texto": "filhos de Israel, de homens e de A.; porque meu é."
+        },
+        {
+          "referencia": "Êxodo 13.12",
+          "texto": "abrir a madre do fruto dos A. que tiveres; os"
+        },
+        {
+          "referencia": "Êxodo 13.15",
+          "texto": "homem até ao primogênito dos A.; por isso, eu"
+        },
+        {
+          "referencia": "Êxodo 23.11",
+          "texto": "teu povo, e do sobejo comam os Á. do campo."
+        },
+        {
+          "referencia": "Levítico 11.2",
+          "texto": "dizendo: Estes são os Á. que comereis de"
+        },
+        {
+          "referencia": "Levítico 11.2",
+          "texto": "que comereis de todos os À. que há sobre a terra:"
+        },
+        {
+          "referencia": "Levítico 11.3",
+          "texto": "em duas, e remói entre os Á., aquilo comereis."
+        },
+        {
+          "referencia": "Levítico 11.39",
+          "texto": "E, se morrer algum dos Á., que vos servem de"
+        },
+        {
+          "referencia": "Levítico 11.46",
+          "texto": "Esta é a lei dos A., e das aves, e de toda alma"
+        },
+        {
+          "referencia": "Levítico 11.47",
+          "texto": "eo limpo, e entre os A. que se podem"
+        },
+        {
+          "referencia": "Levítico 11.47",
+          "texto": "que se podem comer e os À. que não se podem comer."
+        },
+        {
+          "referencia": "Levítico 19.19",
+          "texto": "misturadamente os teus Å, de diferentes"
+        },
+        {
+          "referencia": "Levítico 20.25",
+          "texto": "pois, diferença entre os A. limpos e imundos"
+        },
+        {
+          "referencia": "Levítico 20.25",
+          "texto": "abominável por causa dos Á., ou das aves,"
+        },
+        {
+          "referencia": "Levítico 25.7",
+          "texto": "e ao teu gado, e aos teus À. que estão na tua"
+        },
+        {
+          "referencia": "Levítico 266",
+          "texto": "espante; e farei cessar os À. nocivos da"
+        },
+        {
+          "referencia": "m 3.41",
+          "texto": "dos filhos de Israel e os A. dos levitas em"
+        },
+        {
+          "referencia": "m 3.41",
+          "texto": "de todo primogênito entre os À, dos filhos de Israel."
+        },
+        {
+          "referencia": "m 3.45",
+          "texto": "os filhos de Israel e os Á. dos levitas em"
+        },
+        {
+          "referencia": "m 3.45",
+          "texto": "levitas em lugar dos seus A.; porquanto os"
+        },
+        {
+          "referencia": "m 8.17",
+          "texto": "entre os homens e entre os À.; no dia em que,"
+        },
+        {
+          "referencia": "m 18.15",
+          "texto": "tanto de homens como de A., será teu; porém"
+        },
+        {
+          "referencia": "m 18.15",
+          "texto": "também os primogênitos dos 4. a resgata-"
+        },
+        {
+          "referencia": "Números 204",
+          "texto": "para que morramos ali, nós e os nossos A.?"
+        },
+        {
+          "referencia": "Números 20.8",
+          "texto": "rocha e darás a beber à congregação e aos seus A.."
+        },
+        {
+          "referencia": "Números 20.11",
+          "texto": "muitas águas; e bebeu a congregação e os seus Å.."
+        },
+        {
+          "referencia": "Números 31.9",
+          "texto": "levaram todos os seus A., e todo o seu"
+        },
+        {
+          "referencia": "Números 31.11",
+          "texto": "todo o despojo e toda presa de homens e de A.."
+        },
+        {
+          "referencia": "Números 31.26",
+          "texto": "de homens e de A., tu e Eleazar, o"
+        },
+        {
+          "referencia": "Números 31.30",
+          "texto": "e das ovelhas, de todos os 4.; e os darás"
+        },
+        {
+          "referencia": "Números 31.47",
+          "texto": "tanto de homens como de A., e os deu aos"
+        },
+        {
+          "referencia": "Números 32.26",
+          "texto": "fazenda e todos os nossos À. estarão aí nas"
+        },
+        {
+          "referencia": "Números 35.3",
+          "texto": "e para a sua fazenda, e para todos os seus Á.."
+        },
+        {
+          "referencia": "Deuteronômio 7.14",
+          "texto": "entre ti haverá estéril, nem entre os teus Á.."
+        },
+        {
+          "referencia": "Deuteronômio 13.15",
+          "texto": "a ela e a tudo o que nela houver, até os Á.."
+        },
+        {
+          "referencia": "Deuteronômio 144",
+          "texto": "Estes são os Á, que comereis: o boi, o gado"
+        },
+        {
+          "referencia": "Deuteronômio 14.6",
+          "texto": "em duas, que remói, entre os Á., isso comereis."
+        },
+        {
+          "referencia": "Deuteronômio 20.14",
+          "texto": "e as crianças, eos A.; e tudo o que"
+        },
+        {
+          "referencia": "Deuteronômio 28.4",
+          "texto": "terra, e o fruto dos teus Á., ea criação das"
+        },
+        {
+          "referencia": "Deuteronômio 28.11",
+          "texto": "ventre, e no fruto dos teus Å., e no fruto da"
+        },
+        {
+          "referencia": "Deuteronômio 28.26",
+          "texto": "as aves dos céus e aos À. da terra; e"
+        },
+        {
+          "referencia": "Deuteronômio 28.51",
+          "texto": "E comerá o fruto dos teus A. e o fruto da tua"
+        },
+        {
+          "referencia": "Deuteronômio 30.9",
+          "texto": "ventre, e no fruto dos teus Á., e no fruto da"
+        },
+        {
+          "referencia": "Josué 21.2",
+          "texto": "habitar e os seus arrabaldes para os nossos A.."
+        },
+        {
+          "referencia": "Juízes 20.48",
+          "texto": "os homens da cidade até aos A., tudo quanto ali"
+        },
+        {
+          "referencia": "2 Samuel 21.10",
+          "texto": "aproximassem deles de dia, nem os À. do campo"
+        },
+        {
+          "referencia": "1 Reis 4.33",
+          "texto": "na parede; também falou dos A., e das aves, e"
+        },
+        {
+          "referencia": "1 Reis 18.5",
+          "texto": "cavalos e mulas e não estejamos privados dos A.."
+        },
+        {
+          "referencia": "2 Reis 3.17",
+          "texto": "que bebereis vós e o vosso gado e os vossos Á.."
+        },
+        {
+          "referencia": "2 Reis 14.9",
+          "texto": "por mulher a meu filho; mas os Á. do campo,"
+        },
+        {
+          "referencia": "2 Crônicas 25.18",
+          "texto": "a meu filho por mulher; porém os A. do campo que"
+        },
+        {
+          "referencia": "2 Crônicas 32.28",
+          "texto": "para toda casta de Á., e currais para"
+        },
+        {
+          "referencia": "Jó 5.22",
+          "texto": "e da fome te rirás; e os À. da terra não temerás."
+        },
+        {
+          "referencia": "Jó 5.23",
+          "texto": "terás a tua aliança; e os Á. do campo estarão contigo."
+        },
+        {
+          "referencia": "Jó 18.3",
+          "texto": "que somos tratados como Á., e como imundos"
+        },
+        {
+          "referencia": "Jó 28.8",
+          "texto": "Nunca a pisaram filhos de A. altivos, nem o"
+        },
+        {
+          "referencia": "Jó 35.11",
+          "texto": "faz mais doutos do que os Á. da terra e nos faz"
+        },
+        {
+          "referencia": "Jó 39.15",
+          "texto": "pisar, ou de que podem calcá-los os À, do campo."
+        },
+        {
+          "referencia": "Jó 40.20",
+          "texto": "produzem pasto, onde todos os Á. do campo folgam."
+        },
+        {
+          "referencia": "Jó 41.34",
+          "texto": "vê; é rei sobre todos os filhos de A. altivos."
+        },
+        {
+          "referencia": "S18.7",
+          "texto": "as ovelhas e bois, assim como os À, do campo;"
+        },
+        {
+          "referencia": "S149.12",
+          "texto": "não permanece; antes, é como os Á., que perecem."
+        },
+        {
+          "referencia": "SI 49.20",
+          "texto": "entendimento, é semelhante aos A., que perecem,"
+        },
+        {
+          "referencia": "S166.15",
+          "texto": "holocaustos de A. nédios, com"
+        },
+        {
+          "referencia": "Salmos 104.20",
+          "texto": "e faz-se noite, na qual saem todos os A. da selva."
+        },
+        {
+          "referencia": "Salmos 135.8",
+          "texto": "primogênitos do Egito, desde os homens até aos A.;"
+        },
+        {
+          "referencia": "Provérbios 12.10",
+          "texto": "olha pela vida dos seus AÁ., mas as"
+        },
+        {
+          "referencia": "Provérbios 30.30",
+          "texto": "leão, o mais forte entre os Á., que por ninguém"
+        },
+        {
+          "referencia": "Eclesiastes 3.18",
+          "texto": "e eles possam ver que são em si mesmos como os A.."
+        },
+        {
+          "referencia": "Eclesiastes 3.19",
+          "texto": "mesmo também sucede aos A.; a mesma coisa"
+        },
+        {
+          "referencia": "Eclesiastes 3.19",
+          "texto": "e a vantagem dos homens sobre os À. não é"
+        },
+        {
+          "referencia": "Eclesiastes 3.21",
+          "texto": "cima e que o fôlego dos A. desce para baixo"
+        },
+        {
+          "referencia": "Isaías 1.11",
+          "texto": "de carneiros e da gordura de A. nédios; e não"
+        },
+        {
+          "referencia": "Isaías 13.21",
+          "texto": "se encherá de horríveis A.; e ali habitarão"
+        },
+        {
+          "referencia": "Isaías 18.6",
+          "texto": "às aves dos montes e aos Á. da terra; e sobre"
+        },
+        {
+          "referencia": "Isaías 18.6",
+          "texto": "aves de rapina, e todos os 4. da terra"
+        },
+        {
+          "referencia": "Isaías 25.6",
+          "texto": "todos os povos uma festa com À. gordos, uma"
+        },
+        {
+          "referencia": "Isaías 30.6",
+          "texto": "Peso dos 4. do Sul. Para a terra de aflição e de"
+        },
+        {
+          "referencia": "Isaías 34.14",
+          "texto": "ao seu companheiro; e os À. noturnos ali"
+        },
+        {
+          "referencia": "Isaías 40.16",
+          "texto": "para o fogo, nem os seus À. bastam para holocaustos."
+        },
+        {
+          "referencia": "Isaías 43.20",
+          "texto": "Os A. do campo me servirão, os dragões e os"
+        },
+        {
+          "referencia": "Isaías 46.1",
+          "texto": "ídolos são postos sobre os A., sobre as"
+        },
+        {
+          "referencia": "Isaías 56.9",
+          "texto": "Vós todos os Á. do campo todas as feras dos"
+        },
+        {
+          "referencia": "Jeremias 7.20",
+          "texto": "e sobre os homens, e sobre os A., e sobre as"
+        },
+        {
+          "referencia": "Jeremias 7.33",
+          "texto": "às aves dos céus e aos À. da terra; e"
+        },
+        {
+          "referencia": "Jeremias 9.10",
+          "texto": "desde as aves dos céus até aos Á., andaram"
+        },
+        {
+          "referencia": "Jeremias 124",
+          "texto": "que habitam nela, perecem os À. e as aves;"
+        },
+        {
+          "referencia": "Jeremias 12.9",
+          "texto": "pois, ajuntai-vos, todos os À. do campo,"
+        },
+        {
+          "referencia": "Jeremias 15.3",
+          "texto": "e com as aves dos céus e os Á. da terra,"
+        },
+        {
+          "referencia": "Jeremias 16.4",
+          "texto": "de mantimento às aves do céu e aos À. da terra."
+        },
+        {
+          "referencia": "Jeremias 19.7",
+          "texto": "por pasto às aves dos céus e aos A. da terra."
+        },
+        {
+          "referencia": "Jeremias 21.6",
+          "texto": "assim os homens como os A.; de grande"
+        },
+        {
+          "referencia": "Jeremias 27.5",
+          "texto": "fiz a terra, o homem e os À. que estão sobre a"
+        },
+        {
+          "referencia": "Jeremias 27.6",
+          "texto": "Babilônia, meu servo, e até os Á. do campo lhe"
+        },
+        {
+          "referencia": "Jeremias 28.14",
+          "texto": "e servi-lo-ão, e até os À. do campo lhe dei."
+        },
+        {
+          "referencia": "Jeremias 31.27",
+          "texto": "com a semente de homens e com a semente de Å.."
+        },
+        {
+          "referencia": "Jeremias 32.43",
+          "texto": "Está deserta, sem homens nem A.; está dada nas"
+        },
+        {
+          "referencia": "Jeremias 33.10",
+          "texto": "está deserto, sem homens nem A.), nas cidades"
+        },
+        {
+          "referencia": "Jeremias 33.10",
+          "texto": "sem homens, sem moradores e sem Á., ainda se ou-"
+        },
+        {
+          "referencia": "Jeremias 33.12",
+          "texto": "deserto, sem homens e sem Á. e em todas as"
+        },
+        {
+          "referencia": "Jeremias 34.20",
+          "texto": "de mantimento às aves dos céus e aos À. da terra."
+        },
+        {
+          "referencia": "Jeremias 36.29",
+          "texto": "esta terra, e fará cessar nela homens e A.?"
+        },
+        {
+          "referencia": "Jeremias 50.3",
+          "texto": "nela; desde os homens até os A. fugiram e se foram."
+        },
+        {
+          "referencia": "Jeremias 50.39",
+          "texto": "as feras do deserto, com os À. bravos das"
+        },
+        {
+          "referencia": "Ezequiel 1.5",
+          "texto": "saía a semelhança de quatro À.; e esta era a"
+        },
+        {
+          "referencia": "Ezequiel 1.13",
+          "texto": "E, quanto à semelhança dos A., o seu parecer era"
+        },
+        {
+          "referencia": "Ezequiel 1.13",
+          "texto": "0 ieo corria por entre os Á., eo fogo"
+        },
+        {
+          "referencia": "Ezequiel 1.14",
+          "texto": "E os À. corriam e tornavam, à semelhança dos relâm-"
+        },
+        {
+          "referencia": "Ezequiel 1.15",
+          "texto": "uma roda na terra junto aos Á., para cada um dos"
+        },
+        {
+          "referencia": "Ezequiel 1.19",
+          "texto": "E, andando os A., andavam as rodas ao pé deles;"
+        },
+        {
+          "referencia": "Ezequiel 1.19",
+          "texto": "ao pé deles; e, elevando-se os À. da terra,"
+        },
+        {
+          "referencia": "Ezequiel 1.21",
+          "texto": "deles, porque o Espírito dos Á. estava nas rodas."
+        },
+        {
+          "referencia": "Ezequiel 1.22",
+          "texto": "E, sobre a cabeça dos A., havia uma semelhança"
+        },
+        {
+          "referencia": "Ezequiel 3.13",
+          "texto": "o barulho das asas dos A., que tocavam umas"
+        },
+        {
+          "referencia": "Ezequiel 10.15",
+          "texto": "alto; estes são os mesmos Á. que vi junto ao"
+        },
+        {
+          "referencia": "Ezequiel 10.20",
+          "texto": "Estes são os À. que vi debaixo do Deus de"
+        },
+        {
+          "referencia": "Ezequiel 14.13",
+          "texto": "contra ela fome, e arrancarei dela homens e À.;"
+        },
+        {
+          "referencia": "Ezequiel 14.17",
+          "texto": "passa pela terra: e eu arrancar dela homens e A.;"
+        },
+        {
+          "referencia": "Ezequiel 14.19",
+          "texto": "ela com sangue, para arrancar dela homens e À.;"
+        },
+        {
+          "referencia": "Ezequiel 14.21",
+          "texto": "contra Jerusalém para arrancar dela homens e A.?"
+        },
+        {
+          "referencia": "Ezequiel 25.13",
+          "texto": "e arrancarei dele homens e Á.; e o tornarei"
+        },
+        {
+          "referencia": "Ezequiel 29.5",
+          "texto": "recolhido nem ajuntado; aos Á, da terra e às"
+        },
+        {
+          "referencia": "Ezequiel 31.6",
+          "texto": "nos seus ramos, e todos os Á. do campo geravam"
+        },
+        {
+          "referencia": "Ezequiel 31.13",
+          "texto": "a sua ruína, e todos os Á. do campo se"
+        },
+        {
+          "referencia": "Ezequiel 32.4",
+          "texto": "do céu; e se fartarão de ti os À. de toda a terra."
+        },
+        {
+          "referencia": "Ezequiel 32.13",
+          "texto": "exterminarei todos os seus 4. sobre as muitas"
+        },
+        {
+          "referencia": "Ezequiel 32.13",
+          "texto": "mais pé de homem, nem as turbarão unhas de A.."
+        },
+        {
+          "referencia": "Ezequiel 36.11",
+          "texto": "E multiplicarei homens e À. sobre vós; e eles se"
+        },
+        {
+          "referencia": "Ezequiel 38.20",
+          "texto": "mar, e as aves do céu, e os À, do campo, e"
+        },
+        {
+          "referencia": "Ezequiel 39.4",
+          "texto": "e às aves de toda a asa, e aos À. do campo,"
+        },
+        {
+          "referencia": "Ezequiel 39.17",
+          "texto": "de toda espécie e a todos os Á, do campo:"
+        },
+        {
+          "referencia": "Ezequiel 44.31",
+          "texto": "arrebatada de aves e de A. comerão os sacerdotes."
+        },
+        {
+          "referencia": "Daniel 2.38",
+          "texto": "habitem filhos de homens, A. do campo e aves"
+        },
+        {
+          "referencia": "Daniel 4.12",
+          "texto": "para todos; debaixo dela, os A. do campo"
+        },
+        {
+          "referencia": "Daniel 4.14",
+          "texto": "o seu fruto; afugentem-se os À. de debaixo"
+        },
+        {
+          "referencia": "Daniel 4.15",
+          "texto": "céu, e a sua porção seja com os À. na grama da terra."
+        },
+        {
+          "referencia": "Daniel 4.21",
+          "texto": "debaixo da qual moravam os Á. do campo, e em"
+        },
+        {
+          "referencia": "Daniel 4.23",
+          "texto": "do céu, e a sua porção seja com os A. do"
+        },
+        {
+          "referencia": "Daniel 4.25",
+          "texto": "e a tua morada será com os A. do campo, ete"
+        },
+        {
+          "referencia": "Daniel 4.32",
+          "texto": "e a tua morada será com os Á. do campo;"
+        },
+        {
+          "referencia": "Daniel 5.21",
+          "texto": "foi feito semelhante ao dos A., e a sua morada"
+        },
+        {
+          "referencia": "Daniel 7.3",
+          "texto": "E quatro A. grandes, diferentes uns dos outros,"
+        },
+        {
+          "referencia": "Daniel 7.7",
+          "texto": "era diferente de todos os 4. que"
+        },
+        {
+          "referencia": "Daniel 7.12",
+          "texto": "E, quanto aos outros A., foi-lhes tirado o"
+        },
+        {
+          "referencia": "Daniel 7.17",
+          "texto": "Estes grandes A., que são quatro, são quatro"
+        },
+        {
+          "referencia": "Daniel 8.4",
+          "texto": "e para o meio-dia; e nenhuns A. podiam estar"
+        },
+        {
+          "referencia": "Oséias 4.3",
+          "texto": "neo desfalecerá com os À. do campo e com"
+        },
+        {
+          "referencia": "Ji 1.20",
+          "texto": "Também todos os À, do campo bramam a ti; porque"
+        },
+        {
+          "referencia": "Joel 2.22",
+          "texto": "Não temais, A. do campo, porque os pastos do"
+        },
+        {
+          "referencia": "Amós 5.22",
+          "texto": "para as ofertas pacíficas de vossos A. gordos."
+        },
+        {
+          "referencia": "Jonas 3.7",
+          "texto": "dizendo: Nem homens, nem A., nem bois,"
+        },
+        {
+          "referencia": "Jonas 3.8",
+          "texto": "Mas os homens e os À. estarão cobertos de panos"
+        },
+        {
+          "referencia": "Jonas 4.11",
+          "texto": "direita e a sua mão esquerda, e também muitos A.?"
+        },
+        {
+          "referencia": "Miquéias 1.13",
+          "texto": "Ata os À. ligeiros ao carro, ó moradora de"
+        },
+        {
+          "referencia": "Mg 5.8",
+          "texto": "povos, como um leão entre os À. do bosque, como"
+        },
+        {
+          "referencia": "Habacuque 2.17",
+          "texto": "cobrirá, e a destruição dos Á. ferozes os"
+        },
+        {
+          "referencia": "Sofonias 1.3",
+          "texto": "Arrebatarei os homens e os Á., consumirei as"
+        },
+        {
+          "referencia": "Sofonias 2.14",
+          "texto": "os rebanhos, todos os À. dos povos; e"
+        },
+        {
+          "referencia": "Sofonias 2.15",
+          "texto": "em assolação, em pousada de A.! Qualquer que"
+        },
+        {
+          "referencia": "Ageu 1.11",
+          "texto": "sobre os homens, e sobre os A., e sobre"
+        },
+        {
+          "referencia": "Zacarias 24",
+          "texto": "por causa da multidão, nela, dos homens e dos A.."
+        },
+        {
+          "referencia": "Zacarias 8.10",
+          "texto": "de homens, nem aluguel de A.; nem havia paz"
+        },
+        {
+          "referencia": "Zacarias 14.15",
+          "texto": "e dos jumentos e de todos os À, que estiverem"
+        },
+        {
+          "referencia": "Atos 10.12",
+          "texto": "no qual havia de todos os À. quadrúpedes,"
+        },
+        {
+          "referencia": "1 Coríntios 15.39",
+          "texto": "homens, e outra, a carne dos Á., e outra, a dos"
+        },
+        {
+          "referencia": "Hebreus 13.11",
+          "texto": "rordue os corpos dos A. cujo sangue é, pelo"
+        },
+        {
+          "referencia": "Tiago 3.7",
+          "texto": "tanto de répteis como de 4, do mar, se"
+        },
+        {
+          "referencia": "2 Pedro 2.12",
+          "texto": "Mas estes, como A. irracionais, que seguem a"
+        },
+        {
+          "referencia": "Judas 1.10",
+          "texto": "que naturalmente conhecem, como A. irracionais,"
+        },
+        {
+          "referencia": "Apocalipse 46",
+          "texto": "e ao redor do trono, quatro A. cheios de"
+        },
+        {
+          "referencia": "Apocalipse 4.8",
+          "texto": "E os quatro À. tinham, cada um, respectivamente,"
+        },
+        {
+          "referencia": "Apocalipse 4.9",
+          "texto": "E, quando os À. davam glória, e honra, e ações"
+        },
+        {
+          "referencia": "Apocalipse 5.6",
+          "texto": "meio do trono e dos quatro À. viventes e entre"
+        },
+        {
+          "referencia": "Apocalipse 5.8",
+          "texto": "tomado o livro, os quatro A. e os vinte e"
+        },
+        {
+          "referencia": "Apocalipse 5.11",
+          "texto": "ao redor do trono, e dos A., e dos anciãos; e"
+        },
+        {
+          "referencia": "Apocalipse 5.14",
+          "texto": "E os quatro Á. diziam: Amém! E os vinte e quatro"
+        },
+        {
+          "referencia": "Apocalipse 6.1",
+          "texto": "olhei e ouvi um dos quatro A., que dizia, como"
+        },
+        {
+          "referencia": "Apocalipse 6.6",
+          "texto": "uma voz no meio dos quatro Á., que dizia: Uma"
+        },
+        {
+          "referencia": "Apocalipse 7.11",
+          "texto": "e dos anciãos, e dos quatro Á.; e prostraram-se"
+        },
+        {
+          "referencia": "Apocalipse 14.3",
+          "texto": "trono e diante dos quatro À, e dos anciãos; e"
+        },
+        {
+          "referencia": "Apocalipse 15.7",
+          "texto": "E um dos quatro À. deu aos sete anjos sete"
+        },
+        {
+          "referencia": "Apocalipse 19.4",
+          "texto": "quatro anciãos e os quatro À. prostraram-se e"
+        }
+      ]
+    }
+  ]
+}

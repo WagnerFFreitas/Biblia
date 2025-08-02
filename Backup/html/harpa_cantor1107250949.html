@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harpa Cristã e Cantor Cristão</title>
+    <link rel="stylesheet" href="../css/harpa_cantor.css">
+    <link id="theme-style" rel="stylesheet" href="">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+</head>
+<body>
+    <video class="video-bg" autoplay loop muted>
+        <source src="../img/harpacantor.gif" type="video/mp4">
+        Seu navegador não suporta vídeo de fundo.
+    </video>
+    <div class="overlay"></div>
+
+    <header>
+        <div class="titulo-container">
+            <h1 class="titulo-principal">Harpa Cristã e Cantor Cristão</h1>
+            <p class="subtitulo">Localize todos os hinos da Harpa Cristã e do Cantor Cristão</p>
+        </div>
+    </header>
+
+    <nav class="menu-harpa-cantor">
+        <a href="../index.html" class="menu-link">Menu Principal</a>
+        <button id="btnHarpa" class="menu-button">Harpa Cristã</button>
+        <button id="btnCantor" class="menu-button">Cantor Cristão</button>
+        <button id="btnSlide" class="menu-button">Slide</button>
+    </nav>
+
+    <main>
+        <div id="tela-inicial">
+            <h2 class="bem-vindo">Seja bem-vindo!</h2>
+            <p class="instrucao">Escolha Harpa Cristã ou Cantor Cristão no menu superior.</p>
+        </div>
+        <div id="botoes-hinos" style="display:none;"></div>
+        <div id="hino-exibido"></div>
+    </main>
+
+    <footer class="rodape">
+        <p>© Harpa Cristã e Cantor Cristão 2025</p>
+    </footer>
+
+    <script src="../script/slide_harpacantor.js"></script>
+    <script src="../script/harpa_cantor.js"></script>
+</body>
+</html>

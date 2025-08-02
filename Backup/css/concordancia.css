@@ -1,0 +1,486 @@
+/*
+ * ARQUIVO DE ESTILO: concordancia.css
+ * DESCRIÇÃO: Contém os estilos específicos para a visualização da Concordância,
+ *            como a formatação das ocorrências, filtros e o popup de versículos.
+ *            Modificado para manter a funcionalidade de rolagem sem mostrar a barra.
+*/
+
+/* Container para os filtros da Concordância */
+.filtros-container {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    padding: 12px;
+    background-color: rgba(40, 40, 40, 0.85);
+    border-radius: 6px;
+    align-items: center;
+    width: 100%;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+    border: 1px solid rgba(58, 58, 58, 0.7);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+    position: sticky;
+    top: 0;
+    z-index: 20;
+}
+
+/* Grupo de filtro individual (label + input/select) */
+.filtro-grupo {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    flex-shrink: 0;
+}
+
+/* Rótulos (labels) dos filtros */
+.filtro-grupo label {
+    color: #b0b0b0;
+    font-size: 0.85em;
+    white-space: nowrap;
+}
+
+/* Campos de input de texto nos filtros */
+#filtro-palavra-input, .filtros-container .search-group .search-input {
+    width: 130px;
+    min-width: 100px;
+    padding: 0 10px;
+    font-size: 0.9em;
+    height: 32px;
+    line-height: 32px;
+    border: 1px solid #555;
+    background-color: #333;
+    color: #fff;
+    border-radius: 4px;
+    transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+/* Efeito de foco para os campos de input */
+#filtro-palavra-input:focus {
+    border-color: #d4ac0d;
+    box-shadow: 0 0 0 2px rgba(212, 172, 13, 0.3);
+}
+
+/* Seção que agrupa todas as ocorrências de uma palavra */
+.palavra-section {
+    background: #2a2a2a;
+    border: 1px solid #444;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    padding: 15px;
+}
+
+/* Cabeçalho para cada palavra, mostrando o termo e a contagem */
+.palavra-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #220bf0;
+    border-bottom: 2px solid #d4ac0d;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+    padding: 3px 8px;
+    border-left: 4px solid #d4ac0d;
+    color: white;
+    border-radius: 12px;
+}
+
+/* Estilo para o destaque da palavra na concordância: contorno amarelo */
+mark {
+    background-color: transparent;
+    padding: 2px 4px;
+    border-radius: 3px;
+    background-color: white;
+}
+
+/* Título da palavra dentro do cabeçalho */
+.palavra-header h2 {
+    font-size: 2.4em;
+    font-weight: bold;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+/* Contador de ocorrências no cabeçalho da palavra */
+.contador {    
+    color: white;
+    margin: 0;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 1.9em;
+}
+
+/* Bloco de informações adicionais sobre a palavra */
+.palavra-info-adicional {
+    padding: 10px 15px;
+    background-color: #1c1c1c;
+    margin-bottom: 10px;
+    font-size: 0.9em;
+    color: #b0b0b0;
+}
+
+/* Estilo para o texto da Fonte e Veja também */
+.palavra-fonte-info strong {
+    color:#FFD700;
+    font-weight: bold;
+}
+
+.palavra-veja-tambem-info strong {
+    color:#FFD700;
+    font-weight: bold;
+}
+
+.livro-header {
+    background-color: #220bf0;
+    padding: 8px 15px;
+    border-left: 3px solid #d4ac0d;
+    font-size: 1.6em;
+    color: white;
+}
+
+.palavra-fonte-info {
+    color: white;
+    font-style: italic;
+    margin-bottom: 10px;
+    padding: 8px;
+    background: #333;
+    border-radius: 4px;
+    font-size: 2em;
+}
+
+.palavra-veja-tambem-info {
+    color: #ccc;
+    margin-bottom: 15px;
+    padding: 8px;
+    background: #333;
+    border-radius: 4px;
+    font-size: 2em;
+}
+
+/* Agrupamento de ocorrências por livro bíblico */
+.livro-grupo {
+    margin-bottom: 20px;
+    border: 1px solid #555;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+/* Container para cada ocorrência individual (referência + texto) */
+.ocorrencia {
+    padding: 10px 20px;
+    border-bottom: 1px solid #2a2a2a;
+    background: #252525;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+/* Estilo para a referência bíblica (ex: Gênesis 1:1) */
+.ocorrencia .referenciaConcordancia {
+    color: white;
+    font-weight: bold;
+    margin-bottom: 5px;
+    font-size: 1.8em;
+    opacity: 1;
+}
+
+/* Estilo para o texto do versículo onde a palavra ocorre */
+.ocorrencia .texto {
+    color: #d4ac0d;
+    line-height: 1.6;
+    font-size: 1.8em;
+    text-align: justify;
+}
+
+/* Janela popup para exibir o versículo completo */
+.popup-window {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #2a2a2a;
+    padding: 20px;
+    border-radius: 8px;
+    border: 2px solid #d4ac0d;
+    z-index: 1000;
+    max-width: 80%;
+    max-height: 80vh;
+    overflow-y: auto;
+}
+
+/* -------- ESTILOS GLOBAIS DE CONTEÚDO DINÂMICO -------- */
+.content-dynamic {
+    width: 100%;
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+}
+
+/* Filtros da Concordância */
+#filtro-palavra-input, .filtros-container .search-group .search-input {
+    width: 130px;
+    min-width: 100px;
+    padding: 0 10px;
+    font-size: 0.9em;
+    height: 32px;
+    line-height: 32px;
+    border: 1px solid #555;
+    background-color: #333;
+    color: #fff;
+    border-radius: 4px;
+    transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+#filtro-palavra-input:focus, .filtros-container .search-group .search-input:focus {
+    border-color: #d4ac0d;
+    box-shadow: 0 0 0 2px rgba(212, 172, 13, 0.3);
+}
+
+.custom-select {
+    position: relative;
+    width: 130px;
+    min-width: 100px;
+}
+
+.select-selected {
+    background-color: #333;
+    color: #fff;
+    padding: 0 10px;
+    border: 1px solid #555;
+    border-radius: 4px;
+    cursor: pointer;
+    user-select: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 32px;
+    font-size: 0.9em;
+}
+
+.select-selected:hover {
+    border-color: #777;
+}
+
+.select-selected.select-arrow-active {
+    border-color: #d4ac0d;
+}
+
+.select-selected:after {
+    content: "";
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border: 5px solid transparent;
+    border-top-color: #888;
+    margin-left: 8px;
+}
+
+.select-selected.select-arrow-active:after {
+    border-top-color: transparent;
+    border-bottom-color: #d4ac0d;
+}
+
+.select-items {
+    position: absolute;
+    background-color: #282828;
+    top: calc(100% + 2px);
+    left: 0;
+    right: 0;
+    z-index: 1100;
+    border: 1px solid #555;
+    max-height: 200px;
+    overflow-y: auto;
+    border-radius: 0 0 4px 4px;
+    box-shadow: 0 3px 5px rgba(0,0,0,0.3);
+}
+
+.select-items div {
+    color: #ccc;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-bottom: 1px solid #383838;
+    font-size: 0.9em;
+}
+
+.select-items div:last-child {
+    border-bottom: none;
+}
+
+.select-items div:hover, .select-items .same-as-selected {
+    background-color: #444;
+    color: #fff;
+}
+
+.select-hide {
+    display: none;
+}
+
+.filtros-container .search-group {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin-left: auto;
+}
+
+.filtros-container .search-group .search-input {
+    width: 180px;
+}
+
+.filtros-container .search-group .search-btn {
+    padding: 0 15px;
+    background-color: #d4ac0d;
+    color: #1c1c1c;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    white-space: nowrap;
+    font-size: 0.9em;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    transition: background-color 0.2s;
+}
+
+.filtros-container .search-group .search-btn:hover {
+    background-color: #b8950b;
+}
+
+/* Container principal do conteúdo do dicionário */
+main#conteudoPrincipal {
+    background: transparent;
+    border-radius: 8px;
+    padding: 0 25px 20px 25px;
+    margin-left: 160px;
+    min-height: 60vh;
+    overflow-y: auto;
+    position: relative;
+    height: calc(100vh - 180px);
+}
+
+/* Barra de busca do dicionário */
+.dicionario-search-bar {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background-color: rgba(40, 40, 40, 0.95);
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    padding: 12px;
+    border-radius: 6px;
+    align-items: center;
+    border: 1px solid rgba(58, 58, 58, 0.7);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+}
+
+.dicionario-search-bar input[type="text"] {
+    width: 180px;
+    padding: 0 10px;
+    font-size: 0.9em;
+    height: 32px;
+    border: 1px solid #555;
+    background-color: #333;
+    color: #fff;
+    border-radius: 4px;
+    transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.dicionario-search-bar input[type="text"]:focus {
+    border-color: #d4ac0d;
+    box-shadow: 0 0 0 2px rgba(212, 172, 13, 0.3);
+}
+
+.dicionario-search-bar button {
+    padding: 0 15px;
+    background-color: #d4ac0d;
+    color: #1c1c1c;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.9em;
+    height: 32px;
+    font-weight: 500;
+    transition: background-color 0.2s;
+}
+.dicionario-search-bar button:hover {
+    background-color: #b8950b;
+}
+
+/* Bloco de resultado do dicionário */
+.verbete {
+    background: #2a2a2a;
+    border: 1px solid #444;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    padding: 15px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.verbete h3 {
+    color: #d4ac0d;
+    font-size: 2em;
+    margin-top: 0;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #383838;
+    padding-bottom: 8px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.verbete p {
+    color: #e0e0e0;
+    line-height: 1.6;
+    margin-bottom: 10px;
+}
+
+.verbete em {
+    color: #b0b0b0;
+    font-style: italic;
+}
+
+.verbete .referencias {
+    margin-top: 15px;
+    padding-top: 10px;
+    border-top: 1px dashed #383838;
+    color: #b0b0b0;
+    font-size: 0.95em;
+}
+
+.highlighted-letter-small {
+    font-size: 2.2em;
+    color: #fff;
+    font-style: italic;
+    opacity: 0.8;
+    margin-left: 4px;
+    margin-bottom: 8px;
+    line-height: 1;
+    background: none;
+    border: none;
+}
+
+.dictionary-search-bar-top {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background-color: rgba(40, 40, 40, 0.95);
+    display: flex;
+    justify-content: flex-end;
+    padding: 12px;
+    margin-bottom: 15px;
+    border-radius: 6px;
+    border: 1px solid #3a3a3a;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+}
+
+/* Container de resultados com rolagem funcional mas sem barra visível */
+#resultados-container {
+    height: calc(100vh - 70px);
+    overflow-y: auto;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* IE e Edge */
+}
+
+#resultados-container::-webkit-scrollbar {
+    display: none; /* Chrome, Safari e Opera */
+}
