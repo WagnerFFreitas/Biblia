@@ -13,6 +13,7 @@ class Dicionario {
         this.currentPage = 0;                                                      // Controla a página atual para a paginação.
         this.itemsPerPage = 50;                                                    // Define a quantidade de itens a serem mostrados por página.
         this.allTermos = [];                                                       // Mantém um array com todos os termos da letra carregada.
+        this.allGlobalTermos = null;                                               // Novo: Armazena todos os termos de todas as letras para busca global.
         this.listaLetras = null;                                                   // Armazena em cache o arquivo de mapeamento de letras (lista_letras.json).
         this.initializeElements();                                                 // Mapeia os elementos do DOM.
         this.bindEvents();                                                         // Vincula os eventos de interatividade.
@@ -248,8 +249,39 @@ class Dicionario {
         return this.allTermos.slice(start, end);                                                             // Retorna a fatia do array.
     }
 
+    // Novo método para carregar todos os termos de todas as letras
+    async loadAllTerms() {
+        if (!this.listaLetras) {
+            try {
+                const response = await fetch('../dicionario/lista_letras.json');
+                if (!response.ok) throw new Error('Falha ao carregar o índice de arquivos (lista_letras.json).');
+                this.listaLetras = await response.json();
+            } catch (error) {
+                console.error(error);
+                return [];
+            }
+        }
+
+        this.allGlobalTermos = [];
+        this.elements.dicionarioResultados.innerHTML = '<div class="loading-container"><div class="loading-spinner"></div><p>Carregando todos os termos para busca...</p></div>';
+
+        for (const letra in this.listaLetras) {
+            const arquivos = this.listaLetras[letra];
+            await Promise.all(arquivos.map(async (nomeArquivo) => {
+                const response = await fetch(`../dicionario/${letra}/${nomeArquivo}.json`);
+                if (response.ok) {
+                    const jsonData = await response.json();
+                    const termos = jsonData[letra.toUpperCase()] || [];
+                    this.allGlobalTermos.push(...termos);
+                }
+            }));
+        }
+
+        return this.allGlobalTermos;
+    }
+
     // Este bloco filtra os resultados com base no termo de busca digitado pelo usuário.
-    handleSearch(searchTerm) {
+    async handleSearch(searchTerm) {
         const term = searchTerm.trim().toLowerCase();                                                        // Normaliza o termo de busca.
 
         // Este bloco verifica se a busca é limpa, e se for, volta a exibir os resultados paginados da letra selecionada.
@@ -263,8 +295,13 @@ class Dicionario {
             return;
         }
 
-        // Este bloco filtra os resultados de `allTermos` com base no termo de busca.
-        const filteredResults = this.allTermos.filter(item =>
+        // Carrega todos os termos se ainda não foram carregados
+        if (!this.allGlobalTermos) {
+            await this.loadAllTerms();
+        }
+
+        // Este bloco filtra os resultados de `allGlobalTermos` com base no termo de busca.
+        const filteredResults = this.allGlobalTermos.filter(item =>
             item.termo.toLowerCase().includes(term)                                                          // Compara o termo de forma insensível a maiúsculas/minúsculas.
         );
         

@@ -1,0 +1,89 @@
+/* css/biblia_realizabusca.css */
+
+/* Estilo para a marca d'água, agora como o fundo principal */
+#marcadagua {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('../img/biblia.png'); /* Caminho para sua imagem */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.15; /* Opacidade sutil para não atrapalhar a leitura */
+    z-index: -1;   /* Garante que fique atrás do conteúdo */
+    pointer-events: none; /* Não interfere com cliques */
+}
+
+/* Contêiner principal do conteúdo da busca */
+#search-content {
+    max-width: 800px;
+    margin: 40px auto;
+    text-align: left;
+}
+
+#search-content h2 {
+    color: yellow;
+    text-align: center;
+    font-size: 2.5em;
+    margin-bottom: 30px;
+    text-shadow: 2px 2px 4px #000; /* Sombra para melhorar a legibilidade sobre a imagem */
+}
+
+/* Estilo para cada item de resultado */
+.resultado-item {
+    padding: 15px 10px;
+    border-bottom: 1px solid #444;
+    line-height: 1.6;
+}
+
+.resultado-item strong {
+    color: #FFD700; /* Dourado */
+    font-size: 1.1em;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.resultado-item span {
+    color: #eee;
+}
+
+/* Estilo para a mensagem de "Buscando..." ou "Nenhum resultado" */
+#resultados-busca-container p {
+    text-align: center;
+    font-size: 1.2em;
+    padding: 40px 0;
+    background-color: rgba(0,0,0,0.3); /* Fundo leve para destacar a mensagem */
+    border-radius: 5px;
+}
+
+/* ... (todo o seu CSS existente) ... */
+
+/* ESTILOS PARA A BARRA DE PROGRESSO */
+#progress-container {
+    padding: 20px;
+    text-align: center;
+}
+
+#progress-bar-outer {
+    background-color: #555;
+    border-radius: 13px;
+    padding: 3px;
+    margin: 15px auto;
+    width: 80%;
+}
+
+#progress-bar-inner {
+    background-color: #FFD700;
+    width: 0%; /* Inicia em 0% */
+    height: 20px;
+    border-radius: 10px;
+    transition: width 0.4s ease-in-out; /* Animação suave */
+}
+
+#progress-text {
+    margin-top: 10px;
+    font-style: italic;
+    color: #ccc;
+}

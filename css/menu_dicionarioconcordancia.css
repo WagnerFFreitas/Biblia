@@ -74,6 +74,7 @@ nav {
     display: flex;
     align-items: center;
     border-bottom: 3px solid #d4af37;
+    justify-content: center;  /* Adicionado para centralizar inicialmente */
 }
 
 .titulo-menu {
@@ -82,6 +83,7 @@ nav {
     font-size: 0.9rem;
     letter-spacing: 1px;
     margin-right: 340px;
+    display: none;  /* Adicionado para ocultar inicialmente */
 }
 
 .menu-opcoes {
@@ -191,17 +193,31 @@ nav {
 /* Conteúdo principal */
 #conteudo-principal {
     flex: 1;
-    padding: 8px 20px;
+    padding: 8px 0;  /* Alterado para remover padding lateral e expandir a largura*/
     margin-left: 140px;
     height: calc(100vh - 205px);
-    scrollbar-width: none;
-    -ms-overflow-style: none;
-    overflow: hidden;
+    /* scrollbar-width: none; // Comentado para permitir rolagem*/
+    /* -ms-overflow-style: none; // Comentado para permitir rolagem*/
+    overflow-y: auto; /*/ Alterado para auto para ativar rolagem vertical*/
     margin-top: 2px;
 }
 
 #conteudo-principal::-webkit-scrollbar {
-    display: none;
+    display: none;  /*/ Adicionado para esconder a barra de rolagem no Chrome/Safari*/
+}
+
+/* Adicionado para esconder scrollbar no Firefox */
+#conteudo-principal {
+    scrollbar-width: none;
+}
+
+/* Adicionado para esconder scrollbar no IE/Edge */
+#conteudo-principal {
+    -ms-overflow-style: none;
+}
+
+#conteudo-principal::-webkit-scrollbar {
+    /* display: none; // Comentado para mostrar a barra de rolagem*/
 }
 
 /* Seções */
@@ -283,11 +299,13 @@ footer p {
     display: flex;
     align-items: center;
     gap: 10px;
-    flex: 1;
+    flex: 0 1 auto;  /* Alterado para não expandir automaticamente */
+    max-width: 50%;  /* Define largura máxima de 50% do container pai, ajuste conforme necessário */
 }
 
 .dicionario-busca input {
-    flex: 1;
+    flex: 0 1 auto;
+    width: 300px;  /* Define uma largura fixa para o input, ajuste o valor */
     padding: 8px 12px;
     border-radius: 5px;
     border: 1px solid #333;
@@ -396,7 +414,6 @@ footer p {
         flex-wrap: wrap;
         gap: 15px;
         margin-left: 0;
-        margin-top: 10px;
     }
     
     #conteudo-principal {
@@ -421,4 +438,32 @@ footer p {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+}
+
+.menu-opcoes {
+    margin-left: 0;
+}
+
+/* Estilos para seção de referências */
+.referencias-section {
+    margin-top: 10px;
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+
+.referencias-titulo {
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #d4af37;
+}
+
+.referencia-item {
+    display: inline-block;
+    margin-right: 10px;
+    color: #cccccc;
+}
+
+.referencia-item:not(:last-child)::after {
+    content: ", ";
 }

@@ -1,0 +1,11 @@
+1. Identificar nomes de elementos que podem ser traduzidos, como:
+   - IDs (`id="valor"`), classes (`class="valor"`)
+   - Nomes de variáveis, funções e objetos em JavaScript
+   - Textos descritivos e strings visíveis
+2. Para cada item, sugerir uma tradução para o português **sem acentos** e listá-los para minha aprovação.
+3. Após a minha confirmação, substituir os nomes em todo o código (HTML, CSS e JS) de forma consistente.
+4. Verificar se os elementos referenciados por `querySelector`, `getElementById`, `addEventListener`, etc., continuam funcionando.
+5. Relatar quaisquer erros de referência que ocorrerem após as mudanças (ex: elementos que não são mais encontrados).
+6. Gerar uma versão final do código com a padronização em português aplicada e funcionando.
+
+Aguarde minha aprovação ou ajuste em cada item antes de alterar o código.

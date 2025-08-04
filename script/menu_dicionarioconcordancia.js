@@ -30,7 +30,10 @@ class MainApp {
             secaoConcordancia: document.getElementById('secao-concordancia'),      // Elemento da seção de Concordância.
             secaoDicionario: document.getElementById('secao-dicionario'),          // Elemento da seção de Dicionário.
             secaoSobre: document.getElementById('secao-sobre'),                    // Elemento da seção Sobre.
-            menuAlfabetico: document.querySelector('.menu-alfabetico')             // Menu lateral com as letras do alfabeto.
+            menuAlfabetico: document.querySelector('.menu-alfabetico'),            // Menu lateral com as letras do alfabeto.
+            tituloMenu: document.querySelector('.titulo-menu'),
+            menuOpcoes: document.querySelector('.menu-opcoes'),
+            nav: document.querySelector('nav')
         };
     }
 
@@ -76,7 +79,12 @@ class MainApp {
 
     // Este bloco inicializa o estado da aplicação.
     initializeApp() {
-        this.showSection('concordancia');                                                          // Inicia a aplicação na seção de concordância.
+        // this.showSection('concordancia'); // Removido para manter a mensagem inicial visível
+        this.elements.menuAlfabetico.style.display = 'none'; // Oculta o menu alfabético inicialmente
+        this.elements.tituloMenu.style.display = 'none';
+        // this.elements.nav.style.justifyContent = 'center';  // Comentado, pois agora no CSS
+        // this.elements.menuOpcoes.style.marginLeft = '0';    // Comentado, pois agora no CSS
+        document.querySelector('#conteudo-principal').style.marginLeft = '0px';
         
         console.log('📖 Concordância e Dicionário Bíblico inicializado');                           // Log de sucesso.
         console.log('⌨️  Atalhos: Ctrl+1 (Concordância), Ctrl+2 (Dicionário), Ctrl+3 (Sobre)');    // Informa sobre os atalhos.
@@ -89,7 +97,7 @@ class MainApp {
         document.querySelectorAll('.menu-opcoes a').forEach(btn => {
             btn.classList.remove('active');
         });
-
+    
         // Este bloco oculta todas as seções para garantir um estado limpo.
         this.elements.mensagemInicial.style.display = 'none';
         this.elements.secaoConcordancia.classList.remove('secao-ativa');
@@ -98,7 +106,7 @@ class MainApp {
         this.elements.secaoDicionario.classList.add('secao-inativa');
         this.elements.secaoSobre.classList.remove('secao-ativa');
         this.elements.secaoSobre.classList.add('secao-inativa');
-
+    
         // Este bloco exibe a seção correta com base no nome fornecido.
         switch (sectionName) {
             case 'concordancia':
@@ -108,7 +116,7 @@ class MainApp {
                 this.elements.menuAlfabetico.style.display = 'block';              // Exibe o menu alfabético.
                 this.currentSection = 'concordancia';
                 break;
-
+    
             case 'dicionario':
                 this.elements.secaoDicionario.classList.remove('secao-inativa');
                 this.elements.secaoDicionario.classList.add('secao-ativa');
@@ -120,7 +128,7 @@ class MainApp {
                     window.dicionario.init();
                 }
                 break;
-
+    
             case 'sobre':
                 this.elements.secaoSobre.classList.remove('secao-inativa');
                 this.elements.secaoSobre.classList.add('secao-ativa');
@@ -129,6 +137,18 @@ class MainApp {
                 this.currentSection = 'sobre';
                 break;
         }
+    
+        // Adicione após o switch:
+        this.elements.tituloMenu.style.display = 'block';
+        this.elements.nav.style.justifyContent = 'flex-start';
+        this.elements.menuOpcoes.style.marginLeft = '20px';
+        const conteudoPrincipal = document.querySelector('#conteudo-principal');
+        if (sectionName === 'sobre') {
+            conteudoPrincipal.style.marginLeft = '40px';  // Alterado para 40px para ajustar o texto para a direita
+        } else {
+            conteudoPrincipal.style.marginLeft = '140px';
+        }
+    
         this.updatePageTitle(sectionName);                                         // Atualiza o título da página.
     }
 

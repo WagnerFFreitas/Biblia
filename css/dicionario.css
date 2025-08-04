@@ -399,7 +399,7 @@
 /* Seção Sobre */
 .sobre-container {
     background: linear-gradient(135deg, #2a2a2a 0%, #1a1a1a 100%);
-    border: 2px solid #d4af37;
+    /* border: 2px solid #d4af37; // Removido para eliminar a borda amarela*/
     border-radius: 12px;
     padding: 30px;
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
