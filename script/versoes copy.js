@@ -3,7 +3,9 @@
 /*===============================================================================*/
 /*  Este script controla:                                                        */
 /*                       - Carregamento das versões da Bíblia                    */
-/*                       - Busca otimizada e NAVEGÁVEL (Versão Final com CSS)    */
+/*                       - Navegação entre capítulos                             */
+/*                       - Interação do usuário com a Bíblia                     */
+/*                       - Busca otimizada e NAVEGÁVEL sem travar o navegador    */
 /*===============================================================================*/
 
 (function () {
@@ -191,143 +193,29 @@
                     <div id="progress-container">
                         <p>Preparando a busca rápida (só na primeira vez)...</p>
                         <div id="progress-bar-outer">
-                            <div id="progress-bar-inner"></div>
+                            <div id="progress-bar-inner" style="width: 0%;"></div>
                         </div>
                         <p id="progress-text">Iniciando...</p>
                     </div>`;
             }
 
-shadow.innerHTML = `<style>
-    :host {
-        position: fixed; top: 0; left: 0; width: 100%; height: 100%;
-        z-index: 10000;
-        overflow: hidden;
-        background-color: #181818;
-        background-image: url('../img/biblia.png');
-        background-size: cover;
-        background-position: center center;
-        background-repeat: no-repeat;
-        padding: 40px 2.5%;
-        box-sizing: border-box;
-        display: flex;
-        flex-direction: column;
-    }
-    :host::-webkit-scrollbar { display: none; }
-    
-    #search-content {
-        font-family: sans-serif; font-style: normal; font-weight: normal; color: #f0f0f0;
-        width: 100%;
-        margin: 0;
-        text-align: left;
-        opacity: 0; transition: opacity 0.2s ease-in-out;
-        background-color: rgba(0, 0, 0, 0.7);
-        padding: 20px;
-        border-radius: 8px;
-        box-sizing: border-box;
-        display: flex;
-        flex-direction: column;
-        flex-grow: 1; 
-        min-height: 0;
-    }
-
-    #resultados-busca-container {
-        flex-grow: 1;
-        overflow-y: auto;
-        scrollbar-width: none;
-        padding-left: 60px; 
-    }
-
-    #resultados-busca-container::-webkit-scrollbar {
-        display: none;
-    }
-
-    #search-content.loaded { opacity: 1; }
-
-    #search-content h2 {
-        color: yellow; 
-        text-align: center; 
-        font-size: 3em; 
-        font-weight: bold;
-        margin-bottom: 30px; 
-        text-shadow: 2px 2px 2px #000;
-        flex-shrink: 0;
-    }
-
-    .botao-fechar-busca {
-        position: fixed; top: 20px; right: 30px;
-        background-color: #f44336; color: white; padding: 10px 15px;
-        border: none; border-radius: 4px; cursor: pointer; z-index: 10;
-    }
-
-    .resultado-item {
-        padding: 15px 10px; 
-        border-bottom: 1px solid #444; 
-        line-height: 1.6;
-    }
-
-    .resultado-item strong a {
-        color: #FFD700; 
-        font-size: 1.8em; 
-        font-weight: bold;
-        display: block; 
-        margin-bottom: 5px; 
-        text-decoration: underline; 
-        cursor: pointer;
-    }
-
-    .resultado-item strong a:hover { 
-        text-decoration: none; 
-        opacity: 0.8; 
-    }
-    
-    /* ✅ CORRIGIDO: texto alinhado à esquerda, sem recuo */
-    .resultado-item span { 
-        color: #eee; 
-        font-size: 1.5em;
-        display: block;
-        margin: 0;
-        padding: 0;
-        text-align: left;
-    }
-
-    #resultados-busca-container p { 
-        text-align: center; 
-        font-size: 1.5em; 
-        padding: 40px 0; 
-        color: #ccc;
-    }
-
-    #progress-container { 
-        padding: 20px; 
-        text-align: center; 
-    }
-
-    #progress-bar-outer { 
-        background-color: #555; 
-        border-radius: 13px; 
-        padding: 3px; 
-        margin: 15px auto; 
-        width: 80%; 
-    }
-
-    #progress-bar-inner { 
-        background-color: #FFD700; 
-        width: 0%; 
-        height: 20px; 
-        border-radius: 10px; 
-        transition: width 0.4s ease-in-out; 
-    }
-
-    #progress-text { 
-        margin-top: 10px; 
-        font-style: italic; 
-        color: #ccc; 
-    }
-</style>
-<div id="search-content">
-    <h2>Resultados da Busca</h2>
-    <div id="resultados-busca-container">${mensagemInicial}</div>
-</div>`;            
+            shadow.innerHTML = `<style>
+                :host {
+                    position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+                    background-color: #1c1c1c; 
+                    z-index: 10000; color: #fff;
+                    overflow-y: auto; padding: 20px;
+                    box-sizing: border-box;
+                }
+            </style>
+            <link rel="stylesheet" href="../css/biblia_realizabusca.css">
+            <div id="marcadagua"></div>
+            <script src="../script/marcadagua.js"><\/script>
+            <div id="search-content">
+                <h2 style="color: yellow; text-align: center;">Resultados da Busca</h2>
+                <div id="resultados-busca-container">${mensagemInicial}</div>
+            </div>`;
+            
             document.body.appendChild(overlay);
             document.body.style.overflow = 'hidden';
 
@@ -344,14 +232,16 @@ shadow.innerHTML = `<style>
             const shadow = overlay.shadowRoot;
             const container = shadow.querySelector('#resultados-busca-container');
             container.innerHTML = '';
-            
+        
             const botaoFechar = document.createElement('button');
-            botaoFechar.className = 'botao-fechar-busca';
             botaoFechar.textContent = 'Fechar Busca';
+            botaoFechar.style.cssText = 'position: fixed; top: 20px; right: 30px; background-color: #f44336; color: white; padding: 10px 15px; border: none; border-radius: 4px; cursor: pointer; z-index: 10;';
+            
             botaoFechar.onclick = () => {
                 document.body.style.overflow = '';
                 overlay.remove();
             };
+            
             shadow.appendChild(botaoFechar);
 
             if (resultados.length === 0) {
@@ -361,6 +251,7 @@ shadow.innerHTML = `<style>
                     const div = document.createElement('div');
                     div.className = 'resultado-item'; 
                     div.innerHTML = `<strong><a href="#">${getLivroDisplayNameFunc(r.livro)} ${r.cap}:${r.vers}</a></strong><span>${r.texto}</span>`;
+                    
                     const link = div.querySelector('a');
                     link.addEventListener('click', (e) => {
                         e.preventDefault();
@@ -369,12 +260,10 @@ shadow.innerHTML = `<style>
                         }
                         botaoFechar.click();
                     });
+
                     container.appendChild(div);
                 });
             }
-            setTimeout(() => {
-                shadow.querySelector('#search-content').classList.add('loaded');
-            }, 10);
         }
 
         const botaoBuscar = document.querySelector('.barraPesquisa button');
@@ -384,6 +273,7 @@ shadow.innerHTML = `<style>
                 const termo = inputBusca.value.trim();
                 realizarBusca(termo);
             });
+
             inputBusca.addEventListener('keypress', (e) => {
                 if (e.key === 'Enter') {
                     const termo = inputBusca.value.trim();

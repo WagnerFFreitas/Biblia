@@ -9,3 +9,5 @@
 6. Gerar uma versão final do código com a padronização em português aplicada e funcionando.
 
 Aguarde minha aprovação ou ajuste em cada item antes de alterar o código.
+
+

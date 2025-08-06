@@ -1,72 +1,106 @@
 /* css/biblia_realizabusca.css */
 
-/* Estilo para a marca d'água, agora como o fundo principal */
-#marcadagua {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-image: url('../img/biblia.png'); /* Caminho para sua imagem */
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    opacity: 0.15; /* Opacidade sutil para não atrapalhar a leitura */
-    z-index: -1;   /* Garante que fique atrás do conteúdo */
-    pointer-events: none; /* Não interfere com cliques */
-}
+/* ================================================================== */
+/*          BLOCO DE RESET E ISOLAMENTO DE ESTILO (A CORREÇÃO)        */
+/* ================================================================== */
+/* css/biblia_realizabusca.css - Versão com Blindagem Forte */
 
-/* Contêiner principal do conteúdo da busca */
-#search-content {
+#search-overlay-content {
+    /* Força a anulação dos estilos herdados */
+    font-family: sans-serif !important;
+    font-style: normal !important;
+    font-weight: normal !important;
+    color: #f0f0f0 !important;
+
     max-width: 800px;
     margin: 40px auto;
     text-align: left;
+    opacity: 0;
+    transition: opacity 0.2s ease-in-out;
 }
 
-#search-content h2 {
+#search-overlay-content.loaded {
+    opacity: 1;
+}
+
+#marcadagua {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: -1;
+    opacity: 0.08;
+    width: 80%;
+    height: 80%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    pointer-events: none;
+}
+
+#search-overlay-content h2 {
     color: yellow;
     text-align: center;
     font-size: 2.5em;
+    font-weight: bold !important; /* Garante o negrito apenas aqui */
     margin-bottom: 30px;
-    text-shadow: 2px 2px 4px #000; /* Sombra para melhorar a legibilidade sobre a imagem */
+    text-shadow: 2px 2px 2px #000;
 }
 
-/* Estilo para cada item de resultado */
-.resultado-item {
+.search-overlay-botao-fechar {
+    position: fixed;
+    top: 20px;
+    right: 30px;
+    background-color: #f44336;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.search-overlay-resultado-item {
     padding: 15px 10px;
     border-bottom: 1px solid #444;
     line-height: 1.6;
 }
 
-.resultado-item strong {
-    color: #FFD700; /* Dourado */
+.search-overlay-resultado-item strong a {
+    color: #FFD700;
     font-size: 1.1em;
+    font-weight: bold !important; /* Garante o negrito apenas aqui */
     display: block;
     margin-bottom: 5px;
+    text-decoration: underline;
+    cursor: pointer;
 }
 
-.resultado-item span {
+.search-overlay-resultado-item strong a:hover {
+    text-decoration: none;
+    opacity: 0.8;
+}
+
+.search-overlay-resultado-item span {
     color: #eee;
+    font-weight: normal !important; /* Garante que o texto do versículo não fique em negrito */
+    font-style: normal !important; /* Garante que o texto do versículo não fique em itálico */
 }
 
-/* Estilo para a mensagem de "Buscando..." ou "Nenhum resultado" */
-#resultados-busca-container p {
+/* ... (O restante do CSS para a barra de progresso permanece o mesmo) ... */
+
+#search-overlay-resultados-container p {
     text-align: center;
     font-size: 1.2em;
     padding: 40px 0;
-    background-color: rgba(0,0,0,0.3); /* Fundo leve para destacar a mensagem */
-    border-radius: 5px;
 }
 
-/* ... (todo o seu CSS existente) ... */
-
-/* ESTILOS PARA A BARRA DE PROGRESSO */
-#progress-container {
+#search-overlay-progress-container {
     padding: 20px;
     text-align: center;
 }
 
-#progress-bar-outer {
+#search-overlay-progress-bar-outer {
     background-color: #555;
     border-radius: 13px;
     padding: 3px;
@@ -74,16 +108,16 @@
     width: 80%;
 }
 
-#progress-bar-inner {
+#search-overlay-progress-bar-inner {
     background-color: #FFD700;
-    width: 0%; /* Inicia em 0% */
+    width: 0%;
     height: 20px;
     border-radius: 10px;
-    transition: width 0.4s ease-in-out; /* Animação suave */
+    transition: width 0.4s ease-in-out;
 }
 
-#progress-text {
+#search-overlay-progress-text {
     margin-top: 10px;
-    font-style: italic;
+    font-style: italic; /* Aplica itálico APENAS neste texto de progresso */
     color: #ccc;
 }

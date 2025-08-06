@@ -1,13 +1,13 @@
 /*===============================================================================*/
 /*                    FUNÇÃO DE BUSCA ULTRA-RÁPIDA EM MEMÓRIA                    */
 /*===============================================================================*/
-/*     Versão Otimizada: Carrega capítulos em paralelo para máxima velocidade    */
+/*  Este script agora reporta o progresso da indexação para a interface.         */
 /*===============================================================================*/
 
 (function() {
     'use strict';
     
-    const CACHE_VERSION = 'v9'; // Versão incrementada para forçar a reconstrução
+    const CACHE_VERSION = 'v7'; // Incrementado para garantir que o novo índice seja construído
     const MAX_RESULTS = 500;
     
     window.searchEngine = {
@@ -17,17 +17,7 @@
         isReady: false
     };
     
-    const livrosBiblicos = {
-        genesis: 50, exodo: 40, levitico: 27, numeros: 36, deuteronomio: 34, josue: 24, juizes: 21, rute: 4, 
-        '1samuel': 31, '2samuel': 24, '1reis': 22, '2reis': 25, '1cronicas': 29, '2cronicas': 36, esdras: 10, 
-        neemias: 13, ester: 10, jo: 42, salmos: 150, proverbios: 31, eclesiastes: 12, cantares: 8, isaias: 66, 
-        jeremias: 52, lamentacoes: 5, ezequiel: 48, daniel: 12, oseias: 14, joel: 3, amos: 9, obadias: 1, 
-        jonas: 4, miqueias: 7, naum: 3, habacuque: 3, sofonias: 3, ageu: 2, zacarias: 14, malaquias: 4, 
-        mateus: 28, marcos: 16, lucas: 24, joao: 21, atos: 28, romanos: 16, '1corintios': 16, '2corintios': 13, 
-        galatas: 6, efesios: 6, filipenses: 4, colossenses: 4, '1tessalonicenses': 5, '2tessalonicenses': 3, 
-        '1timoteo': 6, '2timoteo': 4, tito: 3, filemom: 1, hebreus: 13, tiago: 5, '1pedro': 5, '2pedro': 3, 
-        '1joao': 5, '2joao': 1, '3joao': 1, judas: 1, apocalipse: 22
-    };
+    const livrosBiblicos = ['genesis', 'exodo', 'levitico', 'numeros', 'deuteronomio', 'josue', 'juizes', 'rute', '1samuel', '2samuel', '1reis', '2reis', '1cronicas', '2cronicas', 'esdras', 'neemias', 'ester', 'jo', 'salmos', 'proverbios', 'eclesiastes', 'cantares', 'isaias', 'jeremias', 'lamentacoes', 'ezequiel', 'daniel', 'oseias', 'joel', 'amos', 'obadias', 'jonas', 'miqueias', 'naum', 'habacuque', 'sofonias', 'ageu', 'zacarias', 'malaquias', 'mateus', 'marcos', 'lucas', 'joao', 'atos', 'romanos', '1corintios', '2corintios', 'galatas', 'efesios', 'filipenses', 'colossenses', '1tessalonicenses', '2tessalonicenses', '1timoteo', '2timoteo', 'tito', 'filemom', 'hebreus', 'tiago', '1pedro', '2pedro', '1joao', '2joao', '3joao', 'judas', 'apocalipse'];
 
     function normalizarTexto(texto) { return texto.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^\w\s]/g, ''); }
     
@@ -54,87 +44,68 @@
     }
     
     async function carregarEConstruirIndice() {
-        const versao = localStorage.getItem('versaoBiblicaSelecionada') || 'acf';
-        if (window.searchEngine.isReady && window.searchEngine.versaoAtual === versao) { return; }
-        
+        if (window.searchEngine.isReady && window.searchEngine.versaoAtual === (localStorage.getItem('versaoBiblicaSelecionada') || 'acf')) { return; }
         window.searchEngine.isReady = false;
-        console.log("[Busca] Iniciando construção do índice...");
+        console.log("[Busca] Iniciando construção/carregamento do índice...");
+        const versao = localStorage.getItem('versaoBiblicaSelecionada') || 'acf';
         const cacheKey = `searchIndex_${versao}_${CACHE_VERSION}`;
-        
         if (await carregarDeIndexedDB(cacheKey)) {
             console.log(`[Busca] Índice carregado do IndexedDB para ${versao}.`);
             window.searchEngine.isReady = true;
+            if (typeof window.updateSearchIndexProgress === 'function') window.updateSearchIndexProgress(100, "Pronto!");
             return;
         }
         
-        console.log(`[Busca] Construindo índice para ${versao} a partir dos arquivos de capítulo em paralelo...`);
-        
+        console.log(`[Busca] Construindo índice para ${versao}...`);
         const newInvertedIndex = {}, newVersiculos = [];
-        let versiculoId = 0;
+        let versiculoId = 0, livrosProcessados = 0;
+        const totalLivros = livrosBiblicos.length;
         const isHtmlVersion = versao.toLowerCase() === 'arc';
         const fileExtension = isHtmlVersion ? 'html' : 'json';
-        
-        // **AQUI ESTÁ A MÁGICA DA VELOCIDADE**
-        // 1. Cria uma lista de todas as "promessas" de download de capítulos.
-        const todasAsPromessas = [];
-        for (const livro in livrosBiblicos) {
-            const totalCapitulos = livrosBiblicos[livro];
-            for (let cap = 1; cap <= totalCapitulos; cap++) {
-                const caminho = `../versao/${versao}/${livro}/${cap}.${fileExtension}`;
-                // Adiciona a promessa de download à lista
-                todasAsPromessas.push(fetch(caminho).then(res => {
-                    if (!res.ok) return null;
-                    return isHtmlVersion ? res.text().then(html => ({ tipo: 'html', data: html, livro, cap }))
-                                         : res.json().then(json => ({ tipo: 'json', data: json, livro, cap }));
-                }));
+
+        for (const livro of livrosBiblicos) {
+            for (let cap = 1; cap <= 150; cap++) {
+                try {
+                    const res = await fetch(`../versao/${versao}/${livro}/${cap}.${fileExtension}`);
+                    if (!res.ok) break;
+                    let versiculosCapitulo = [];
+                    if (isHtmlVersion) {
+                        const htmlString = await res.text();
+                        versiculosCapitulo = extrairVersiculosDoHTML(htmlString, livro, cap);
+                    } else {
+                        const data = await res.json();
+                        for (const [vers, texto] of Object.entries(data.versiculos || {})) {
+                            versiculosCapitulo.push({ livro: livro, cap: parseInt(cap), vers: parseInt(vers), texto: texto });
+                        }
+                    }
+                    
+                    versiculosCapitulo.forEach(versiculoObj => {
+                        versiculoObj.id = versiculoId++;
+                        newVersiculos.push(versiculoObj);
+                        const palavras = normalizarTexto(versiculoObj.texto).split(/\s+/).filter(p => p.length > 1);
+                        palavras.forEach(palavra => {
+                            if (!newInvertedIndex[palavra]) newInvertedIndex[palavra] = [];
+                            newInvertedIndex[palavra].push(versiculoObj);
+                        });
+                    });
+                } catch (erro) { break; }
+            }
+            livrosProcessados++;
+            const progresso = Math.round((livrosProcessados / totalLivros) * 100);
+            if (typeof window.updateSearchIndexProgress === 'function') {
+                const nomeLivroDisplay = livro.charAt(0).toUpperCase() + livro.slice(1);
+                window.updateSearchIndexProgress(progresso, nomeLivroDisplay);
             }
         }
-
-        // 2. Executa todas as promessas em paralelo
-        const todosOsCapitulos = await Promise.all(todasAsPromessas);
-
-        // 3. Processa os resultados, que agora estão todos na memória
-        for (const resultado of todosOsCapitulos) {
-            if (!resultado) continue; // Pula capítulos que falharam ao carregar
-
-            const { tipo, data, livro, cap } = resultado;
-            let versiculosCapitulo = [];
-
-            if (tipo === 'html') {
-                versiculosCapitulo = extrairVersiculosDoHTML(data, livro, cap);
-            } else { // json
-                for (const [vers, texto] of Object.entries(data.versiculos || {})) {
-                    versiculosCapitulo.push({ livro: livro, cap: parseInt(cap), vers: parseInt(vers), texto: texto });
-                }
-            }
-            
-            versiculosCapitulo.forEach(versiculoObj => {
-                versiculoObj.id = versiculoId++;
-                newVersiculos.push(versiculoObj);
-                const palavras = normalizarTexto(versiculoObj.texto).split(/\s+/).filter(p => p.length > 1);
-                palavras.forEach(palavra => {
-                    if (!newInvertedIndex[palavra]) newInvertedIndex[palavra] = [];
-                    newInvertedIndex[palavra].push(versiculoObj);
-                });
-            });
-        }
-
         window.searchEngine.invertedIndex = newInvertedIndex;
         window.searchEngine.versiculos = newVersiculos;
         window.searchEngine.versaoAtual = versao;
-        
         await salvarEmIndexedDB(cacheKey, window.searchEngine);
-        console.log(`[Busca] Índice construído e salvo. Total de versículos: ${newVersiculos.length}.`);
+        console.log(`[Busca] Índice construído e salvo.`);
         window.searchEngine.isReady = true;
+        if (typeof window.updateSearchIndexProgress === 'function') window.updateSearchIndexProgress(100, "Pronto!");
     }
     
-    // ... (As funções de IndexedDB, realizarBuscaAvancada e combinarEstrategiasBusca permanecem as mesmas)
-    
-    document.addEventListener('DOMContentLoaded', () => {
-        setTimeout(() => { carregarEConstruirIndice(); }, 1000); // Inicia a indexação em segundo plano
-    });
-
-    // Colando as funções que faltavam aqui para garantir que o arquivo esteja completo
     async function carregarDeIndexedDB(chave) {
         return new Promise((resolve) => {
             const request = indexedDB.open('BibleSearchDB', 1);
@@ -178,11 +149,9 @@
     window.realizarBuscaAvancada = async function(termo) {
         if (!termo) return [];
         const versaoSelecionada = localStorage.getItem('versaoBiblicaSelecionada') || 'acf';
-        
         if (!window.searchEngine.isReady || window.searchEngine.versaoAtual !== versaoSelecionada) {
             await carregarEConstruirIndice();
         }
-        
         const termoNorm = normalizarTexto(termo);
         const palavrasBusca = termoNorm.split(/\s+/).filter(p => p.length > 1);
         const resultados = combinarEstrategiasBusca(palavrasBusca, termoNorm);
@@ -225,5 +194,8 @@
             );
         }
     }
-
+    
+    document.addEventListener('DOMContentLoaded', () => {
+        setTimeout(() => { carregarEConstruirIndice(); }, 1000); // Inicia a indexação 1s depois da página carregar
+    });
 })();
